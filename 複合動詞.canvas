@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a1a45367324d0a4f","type":"text","text":"出す","x":-155,"y":-27,"width":95,"height":60},
+		{"id":"0b005c4a1e55c3e0","type":"text","text":"吐き出す\nはきだす\nTuôn ra, nói ra (tức giận, bất mãn...)","x":-260,"y":-240,"width":330,"height":125},
+		{"id":"958cf6de7ca3ef0e","x":-680,"y":-115,"width":295,"height":125,"type":"text","text":"投げ出す\nなげだす\nVứt bỏ, bỏ dở giữa chừng"},
+		{"id":"d1a079fa029a8e36","x":-680,"y":117,"width":298,"height":93,"type":"text","text":"生み出す\nうみだす\nTạo ra, mang lại"},
+		{"id":"3436f4d2ec72a9e7","x":-55,"y":117,"width":255,"height":93,"type":"text","text":"探し出す\nさがしだす\nTìm ra"},
+		{"id":"74cb332116ce3b67","x":160,"y":-97,"width":222,"height":130,"type":"text","text":"踏み出す\nふみだす\nTiến tới, bắt đầu (một cái mới)"}
+	],
+	"edges":[
+		{"id":"c34be5e253f2c152","fromNode":"a1a45367324d0a4f","fromSide":"top","toNode":"0b005c4a1e55c3e0","toSide":"bottom"},
+		{"id":"15e0823fd5bd5887","fromNode":"a1a45367324d0a4f","fromSide":"left","toNode":"958cf6de7ca3ef0e","toSide":"right"},
+		{"id":"99a69e481a8b225f","fromNode":"a1a45367324d0a4f","fromSide":"bottom","toNode":"d1a079fa029a8e36","toSide":"top"},
+		{"id":"6688e906ad5fce49","fromNode":"a1a45367324d0a4f","fromSide":"bottom","toNode":"3436f4d2ec72a9e7","toSide":"top"},
+		{"id":"cef1d94f9db52b9f","fromNode":"a1a45367324d0a4f","fromSide":"right","toNode":"74cb332116ce3b67","toSide":"left"}
+	]
+}
