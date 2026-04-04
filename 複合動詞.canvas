@@ -5,13 +5,20 @@
 		{"id":"958cf6de7ca3ef0e","x":-680,"y":-115,"width":295,"height":125,"type":"text","text":"投げ出す\nなげだす\nVứt bỏ, bỏ dở giữa chừng"},
 		{"id":"d1a079fa029a8e36","x":-680,"y":117,"width":298,"height":93,"type":"text","text":"生み出す\nうみだす\nTạo ra, mang lại"},
 		{"id":"3436f4d2ec72a9e7","x":-55,"y":117,"width":255,"height":93,"type":"text","text":"探し出す\nさがしだす\nTìm ra"},
-		{"id":"74cb332116ce3b67","x":160,"y":-97,"width":222,"height":130,"type":"text","text":"踏み出す\nふみだす\nTiến tới, bắt đầu (một cái mới)"}
+		{"id":"74cb332116ce3b67","x":160,"y":-97,"width":222,"height":130,"type":"text","text":"踏み出す\nふみだす\nTiến tới, bắt đầu (một cái mới)"},
+		{"id":"eb25894ef19d7a4f","x":920,"y":360,"width":92,"height":50,"type":"text","text":"込む"},
+		{"id":"c2f387f5aa1d8377","x":880,"y":180,"width":173,"height":108,"type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào"},
+		{"id":"72333a0878285365","x":441,"y":355,"width":299,"height":165,"type":"text","text":"放り込む\nほうりこむ\nNém / quăng / nhét vào (một cách mạnh tay, không để ý nhiều)"},
+		{"id":"96fd152bf9f31bad","x":1137,"y":347,"width":250,"height":91,"type":"text","text":"持ち込む\nもちこむ\nMang vào"}
 	],
 	"edges":[
 		{"id":"c34be5e253f2c152","fromNode":"a1a45367324d0a4f","fromSide":"top","toNode":"0b005c4a1e55c3e0","toSide":"bottom"},
 		{"id":"15e0823fd5bd5887","fromNode":"a1a45367324d0a4f","fromSide":"left","toNode":"958cf6de7ca3ef0e","toSide":"right"},
 		{"id":"99a69e481a8b225f","fromNode":"a1a45367324d0a4f","fromSide":"bottom","toNode":"d1a079fa029a8e36","toSide":"top"},
 		{"id":"6688e906ad5fce49","fromNode":"a1a45367324d0a4f","fromSide":"bottom","toNode":"3436f4d2ec72a9e7","toSide":"top"},
-		{"id":"cef1d94f9db52b9f","fromNode":"a1a45367324d0a4f","fromSide":"right","toNode":"74cb332116ce3b67","toSide":"left"}
+		{"id":"cef1d94f9db52b9f","fromNode":"a1a45367324d0a4f","fromSide":"right","toNode":"74cb332116ce3b67","toSide":"left"},
+		{"id":"3b424f65d836e0bb","fromNode":"eb25894ef19d7a4f","fromSide":"top","toNode":"c2f387f5aa1d8377","toSide":"bottom"},
+		{"id":"98594c21c0ad1967","fromNode":"eb25894ef19d7a4f","fromSide":"left","toNode":"72333a0878285365","toSide":"right"},
+		{"id":"d5a50d52f5f44b86","fromNode":"eb25894ef19d7a4f","fromSide":"right","toNode":"96fd152bf9f31bad","toSide":"left"}
 	]
 }
