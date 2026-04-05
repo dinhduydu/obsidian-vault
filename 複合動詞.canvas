@@ -2,14 +2,15 @@
 	"nodes":[
 		{"id":"a1a45367324d0a4f","type":"text","text":"出す","x":-155,"y":-27,"width":95,"height":60},
 		{"id":"0b005c4a1e55c3e0","type":"text","text":"吐き出す\nはきだす\nTuôn ra, nói ra (tức giận, bất mãn...)","x":-260,"y":-240,"width":330,"height":125},
-		{"id":"958cf6de7ca3ef0e","x":-680,"y":-115,"width":295,"height":125,"type":"text","text":"投げ出す\nなげだす\nVứt bỏ, bỏ dở giữa chừng"},
-		{"id":"d1a079fa029a8e36","x":-680,"y":117,"width":298,"height":93,"type":"text","text":"生み出す\nうみだす\nTạo ra, mang lại"},
-		{"id":"3436f4d2ec72a9e7","x":-55,"y":117,"width":255,"height":93,"type":"text","text":"探し出す\nさがしだす\nTìm ra"},
-		{"id":"74cb332116ce3b67","x":160,"y":-97,"width":222,"height":130,"type":"text","text":"踏み出す\nふみだす\nTiến tới, bắt đầu (một cái mới)"},
-		{"id":"eb25894ef19d7a4f","x":920,"y":360,"width":92,"height":50,"type":"text","text":"込む"},
-		{"id":"c2f387f5aa1d8377","x":880,"y":180,"width":173,"height":108,"type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào"},
-		{"id":"72333a0878285365","x":441,"y":355,"width":299,"height":165,"type":"text","text":"放り込む\nほうりこむ\nNém / quăng / nhét vào (một cách mạnh tay, không để ý nhiều)"},
-		{"id":"96fd152bf9f31bad","x":1137,"y":347,"width":250,"height":91,"type":"text","text":"持ち込む\nもちこむ\nMang vào"}
+		{"id":"958cf6de7ca3ef0e","type":"text","text":"投げ出す\nなげだす\nVứt bỏ, bỏ dở giữa chừng","x":-680,"y":-115,"width":295,"height":125},
+		{"id":"d1a079fa029a8e36","type":"text","text":"生み出す\nうみだす\nTạo ra, mang lại","x":-680,"y":117,"width":298,"height":93},
+		{"id":"3436f4d2ec72a9e7","type":"text","text":"探し出す\nさがしだす\nTìm ra","x":-55,"y":117,"width":255,"height":93},
+		{"id":"74cb332116ce3b67","type":"text","text":"踏み出す\nふみだす\nTiến tới, bắt đầu (một cái mới)","x":160,"y":-97,"width":222,"height":130},
+		{"id":"eb25894ef19d7a4f","type":"text","text":"込む","x":920,"y":360,"width":92,"height":50},
+		{"id":"c2f387f5aa1d8377","type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào","x":880,"y":180,"width":173,"height":108},
+		{"id":"72333a0878285365","type":"text","text":"放り込む\nほうりこむ\nNém / quăng / nhét vào (một cách mạnh tay, không để ý nhiều)","x":441,"y":355,"width":299,"height":165},
+		{"id":"96fd152bf9f31bad","type":"text","text":"持ち込む\nもちこむ\nMang vào","x":1137,"y":347,"width":250,"height":91},
+		{"id":"cf3ebd008787a8e3","x":840,"y":562,"width":260,"height":118,"type":"text","text":"折り込み\nおりこみ\nLồng vào, thêm vào, chèn vào"}
 	],
 	"edges":[
 		{"id":"c34be5e253f2c152","fromNode":"a1a45367324d0a4f","fromSide":"top","toNode":"0b005c4a1e55c3e0","toSide":"bottom"},
@@ -19,6 +20,7 @@
 		{"id":"cef1d94f9db52b9f","fromNode":"a1a45367324d0a4f","fromSide":"right","toNode":"74cb332116ce3b67","toSide":"left"},
 		{"id":"3b424f65d836e0bb","fromNode":"eb25894ef19d7a4f","fromSide":"top","toNode":"c2f387f5aa1d8377","toSide":"bottom"},
 		{"id":"98594c21c0ad1967","fromNode":"eb25894ef19d7a4f","fromSide":"left","toNode":"72333a0878285365","toSide":"right"},
-		{"id":"d5a50d52f5f44b86","fromNode":"eb25894ef19d7a4f","fromSide":"right","toNode":"96fd152bf9f31bad","toSide":"left"}
+		{"id":"d5a50d52f5f44b86","fromNode":"eb25894ef19d7a4f","fromSide":"right","toNode":"96fd152bf9f31bad","toSide":"left"},
+		{"id":"ce8b5e1db6282c40","fromNode":"eb25894ef19d7a4f","fromSide":"bottom","toNode":"cf3ebd008787a8e3","toSide":"top"}
 	]
 }
