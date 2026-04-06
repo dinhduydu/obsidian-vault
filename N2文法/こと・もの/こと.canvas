@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3113605081a3a040","type":"text","text":"こと","x":-166,"y":-72,"width":246,"height":60},
+		{"id":"8ea8f70cc8da946a","x":323,"y":-82,"width":250,"height":60,"type":"text","text":"ことはない"}
+	],
+	"edges":[
+		{"id":"5e7944314a3f27ab","fromNode":"3113605081a3a040","fromSide":"right","toNode":"8ea8f70cc8da946a","toSide":"left"}
+	]
+}

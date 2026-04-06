@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"05a71ee5e27f6973","type":"file","file":"N2文法/こと・もの/もの.canvas","x":537,"y":-324,"width":400,"height":400},
+		{"id":"53afe6c090728073","type":"text","text":"わけ","x":-640,"y":-100,"width":250,"height":60},
+		{"id":"22e7b56e00f03d0d","type":"text","text":"わけがない","x":-237,"y":-81,"width":250,"height":60},
+		{"id":"8975d8cbe90382d1","x":-200,"y":-600,"width":250,"height":60,"type":"text","text":"わけだ"},
+		{"id":"ea4dbb9846b39329","x":-177,"y":-479,"width":250,"height":60,"type":"text","text":"わけではない"},
+		{"id":"3ba43745be21dfed","x":-160,"y":-356,"width":250,"height":60,"type":"text","text":"わけでもない"},
+		{"id":"7189fbc5e15d9884","x":-140,"y":-265,"width":250,"height":60,"type":"text","text":"わけにはいかない"}
+	],
+	"edges":[
+		{"id":"6e015eaa0965fe09","fromNode":"53afe6c090728073","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"left"},
+		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},
+		{"id":"00885ada71f48b36","fromNode":"53afe6c090728073","fromSide":"right","toNode":"8975d8cbe90382d1","toSide":"left"},
+		{"id":"a24a8937256d0146","fromNode":"53afe6c090728073","fromSide":"right","toNode":"ea4dbb9846b39329","toSide":"left"},
+		{"id":"5a453068d651100d","fromNode":"53afe6c090728073","fromSide":"right","toNode":"3ba43745be21dfed","toSide":"left"},
+		{"id":"3fb8a8b7a95f6ce5","fromNode":"53afe6c090728073","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"left"}
+	]
+}

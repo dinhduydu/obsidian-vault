@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"151785fb68cb03a9","type":"text","text":"あげく(-)","x":-119,"y":7,"width":250,"height":60},
+		{"id":"7bd5f2b90b26bea0","type":"text","text":"あげくに","x":235,"y":7,"width":250,"height":55},
+		{"id":"ecb2c98fbe92cb8f","type":"file","file":"N2文法/末.canvas","x":630,"y":-166,"width":400,"height":400},
+		{"id":"24786494f0966fe6","type":"text","text":"結果(+/-)","x":295,"y":311,"width":250,"height":60},
+		{"id":"0907ebd8549a9b95","x":299,"y":-390,"width":250,"height":60,"type":"text","text":"ばかりに"}
+	],
+	"edges":[
+		{"id":"689145bb523d1ce9","fromNode":"151785fb68cb03a9","fromSide":"right","toNode":"7bd5f2b90b26bea0","toSide":"left"},
+		{"id":"97b8f0828f9a9f29","fromNode":"7bd5f2b90b26bea0","fromSide":"right","toNode":"ecb2c98fbe92cb8f","toSide":"left","label":"(+)"},
+		{"id":"c67abfbfe4f1370b","fromNode":"7bd5f2b90b26bea0","fromSide":"bottom","toNode":"24786494f0966fe6","toSide":"top"},
+		{"id":"b084452361dd17e6","fromNode":"7bd5f2b90b26bea0","fromSide":"top","toNode":"0907ebd8549a9b95","toSide":"bottom"}
+	]
+}

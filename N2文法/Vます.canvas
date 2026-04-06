@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0e3202967cc0c886","x":-320,"y":-180,"width":250,"height":60,"type":"text","text":"かね"},
+		{"id":"fe33c57c48b0046f","x":100,"y":-308,"width":250,"height":60,"type":"text","text":"Vます　かねる"},
+		{"id":"179df47ece104dd6","x":100,"y":-60,"width":250,"height":60,"type":"text","text":"Vます　かねない"},
+		{"id":"b1a1192ddf2c5327","x":-327,"y":-448,"width":250,"height":60,"type":"text","text":"がたい"},
+		{"id":"9f4a4f87f711ce01","x":-780,"y":-338,"width":250,"height":60,"type":"text","text":"Vます"},
+		{"id":"a3ee7d3ce848382e","x":-340,"y":-920,"width":380,"height":400,"type":"file","file":"N2文法/そう・よう/よう.canvas"},
+		{"id":"1be10d9840c413c6","x":194,"y":-773,"width":250,"height":60,"type":"text","text":"Vますようがない"},
+		{"id":"2fb92f7af8a0c014","x":203,"y":-685,"width":250,"height":60,"type":"text","text":"Vますようもない"}
+	],
+	"edges":[
+		{"id":"cc3253ba0c86c40f","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"0e3202967cc0c886","toSide":"left"},
+		{"id":"61889472b5b4eae1","fromNode":"0e3202967cc0c886","fromSide":"right","toNode":"fe33c57c48b0046f","toSide":"left"},
+		{"id":"39884163ca91aae6","fromNode":"0e3202967cc0c886","fromSide":"right","toNode":"179df47ece104dd6","toSide":"left"},
+		{"id":"6e8aece78b7bccaf","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"b1a1192ddf2c5327","toSide":"left"},
+		{"id":"54da9c5dbe05dd88","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"a3ee7d3ce848382e","toSide":"left"},
+		{"id":"3dc24d1922474fbd","fromNode":"a3ee7d3ce848382e","fromSide":"right","toNode":"1be10d9840c413c6","toSide":"left"},
+		{"id":"c5d650839deacfc3","fromNode":"a3ee7d3ce848382e","fromSide":"right","toNode":"2fb92f7af8a0c014","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"db8eafb3417c022c","type":"text","text":"くらい","x":-192,"y":-33,"width":250,"height":60},
+		{"id":"2dc6401af7daacb0","type":"text","text":"くらいなら","x":-181,"y":178,"width":250,"height":60},
+		{"id":"4282395278593ed1","x":328,"y":-12,"width":250,"height":60,"type":"text","text":"くらいだ"},
+		{"id":"153906f03a3bad7f","x":746,"y":-78,"width":250,"height":60,"type":"text","text":"欠かさない"},
+		{"id":"7287344f981f2433","x":770,"y":52,"width":250,"height":60,"type":"text","text":"欠かせない"},
+		{"id":"c66f2edba655442f","x":701,"y":190,"width":250,"height":60,"type":"text","text":"欠かさず"}
+	],
+	"edges":[
+		{"id":"51300f7ba55e5f0e","fromNode":"db8eafb3417c022c","fromSide":"bottom","toNode":"2dc6401af7daacb0","toSide":"top"},
+		{"id":"0e8deaa837da6af2","fromNode":"db8eafb3417c022c","fromSide":"right","toNode":"4282395278593ed1","toSide":"left"},
+		{"id":"49441f4e23f7d04d","fromNode":"4282395278593ed1","fromSide":"right","toNode":"153906f03a3bad7f","toSide":"left"},
+		{"id":"7ac3062727b2bcbe","fromNode":"4282395278593ed1","fromSide":"right","toNode":"7287344f981f2433","toSide":"left"},
+		{"id":"e6d716fed285e165","fromNode":"4282395278593ed1","fromSide":"right","toNode":"c66f2edba655442f","toSide":"left"}
+	]
+}

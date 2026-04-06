@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"55b175afad532f38","x":-162,"y":-31,"width":250,"height":60,"type":"text","text":"いう"},
+		{"id":"8cd8428551753e59","x":-500,"y":-31,"width":250,"height":60,"type":"text","text":"から"},
+		{"id":"d2209c220e41fa0f","x":220,"y":-31,"width":250,"height":60,"type":"text","text":"と"}
+	],
+	"edges":[
+		{"id":"0022ac8432fdc320","fromNode":"8cd8428551753e59","fromSide":"right","toNode":"55b175afad532f38","toSide":"left"},
+		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"}
+	]
+}

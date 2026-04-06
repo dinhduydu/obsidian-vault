@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f28d6b0d4260a1d5","type":"text","text":"上","x":-132,"y":-31,"width":250,"height":60},
+		{"id":"c11674a87fd42688","type":"text","text":"上に\nKhông chỉ A mà còn B","x":-132,"y":-300,"width":250,"height":60},
+		{"id":"39affd4fb8bb3d39","type":"text","text":"Vた・Nの上で\nSau khi xong A(QK) mới tới B","x":-720,"y":-31,"width":250,"height":111},
+		{"id":"2c96bdaeebf2e888","type":"text","text":"上で・上では・上は\nXét trên phương diện, quá trình\n","x":-136,"y":146,"width":254,"height":150},
+		{"id":"9232b76f90279a4e","type":"text","text":"","x":304,"y":-28,"width":250,"height":60},
+		{"id":"f659c3177ce4d51e","type":"text","text":"Vる上で\nTrong quá trình","x":-732,"y":236,"width":250,"height":60},
+		{"id":"c724c97f27408243","type":"text","text":"Nの上では\nKhung tham chiếu -> xét trên phương diện","x":-131,"y":364,"width":250,"height":96},
+		{"id":"03ccb8480513fea5","type":"text","text":"Vる・Vた上は\n1 khi đã A thì đương nhiên B","x":260,"y":174,"width":250,"height":60},
+		{"id":"960d43c7435649cf","x":873,"y":-6,"width":400,"height":400,"type":"file","file":"N2文法/助詞/から.canvas"}
+	],
+	"edges":[
+		{"id":"0af5f9a5ec491335","fromNode":"f28d6b0d4260a1d5","fromSide":"top","toNode":"c11674a87fd42688","toSide":"bottom"},
+		{"id":"2fe6e77d9fb5e879","fromNode":"f28d6b0d4260a1d5","fromSide":"left","toNode":"39affd4fb8bb3d39","toSide":"right"},
+		{"id":"e9b0e800bf0b8064","fromNode":"f28d6b0d4260a1d5","fromSide":"bottom","toNode":"2c96bdaeebf2e888","toSide":"top"},
+		{"id":"c1222dce387b1b0f","fromNode":"f28d6b0d4260a1d5","fromSide":"right","toNode":"9232b76f90279a4e","toSide":"left"},
+		{"id":"69283b86131f2439","fromNode":"2c96bdaeebf2e888","fromSide":"left","toNode":"f659c3177ce4d51e","toSide":"right"},
+		{"id":"34cbf617f365fb73","fromNode":"2c96bdaeebf2e888","fromSide":"bottom","toNode":"c724c97f27408243","toSide":"top"},
+		{"id":"53a4fba609b626ab","fromNode":"2c96bdaeebf2e888","fromSide":"right","toNode":"03ccb8480513fea5","toSide":"left"},
+		{"id":"da115815543c3b48","fromNode":"03ccb8480513fea5","fromSide":"right","toNode":"960d43c7435649cf","toSide":"left","label":"＝からには"}
+	]
+}

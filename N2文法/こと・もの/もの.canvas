@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"66d8a10608fd7213","x":294,"y":-47,"width":250,"height":60,"type":"text","text":"ものか"},
+		{"id":"4da85d2c8bf26ecb","type":"text","text":"もの","x":-120,"y":-47,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"74b087c5cd13ac75","fromNode":"4da85d2c8bf26ecb","fromSide":"right","toNode":"66d8a10608fd7213","toSide":"left"}
+	]
+}

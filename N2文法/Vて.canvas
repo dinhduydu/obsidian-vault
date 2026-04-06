@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"38c69e481a171760","type":"text","text":"Vて","x":-200,"y":-200,"width":84,"height":63},
+		{"id":"82cc5e29324775bb","type":"text","text":"もらう","x":98,"y":-160,"width":250,"height":60},
+		{"id":"891595f92098c66d","type":"text","text":"ほしい","x":-116,"y":280,"width":250,"height":60},
+		{"id":"57f9e9a27ae902ae","type":"text","text":"くれる","x":100,"y":-280,"width":250,"height":60},
+		{"id":"6d92b1cacd1dc0ce","type":"text","text":"上げる","x":100,"y":-52,"width":250,"height":60},
+		{"id":"1b0ca21a38e029ec","type":"text","text":"いく","x":38,"y":-762,"width":250,"height":60},
+		{"id":"0dc790429b83a5de","type":"text","text":"くる","x":96,"y":-631,"width":250,"height":60},
+		{"id":"5c3c066f966655ef","type":"text","text":"以来\nKể từ khi A thì (trạng thái kéo dài liên tục đến hiện tại)","x":29,"y":-1420,"width":250,"height":171},
+		{"id":"e152b0db0402c3dc","type":"text","text":"Vてはじめて\nChỉ sau khi A thì mới nhận/ có được điều gì ","x":49,"y":-1220,"width":297,"height":100},
+		{"id":"64f828da0e85b06f","type":"text","text":"Vないで\nVずに","x":-572,"y":280,"width":250,"height":50},
+		{"id":"3bc2fd0607231724","type":"text","text":"しまう　（Vてちゃお）","x":-544,"y":-591,"width":250,"height":60},
+		{"id":"27de3fc0f2743173","type":"text","text":"しまいました　（Vてしまいました）","x":-740,"y":-460,"width":288,"height":52},
+		{"id":"47e6e553916c7162","type":"file","file":"N2文法/助詞/から.canvas","x":-1040,"y":-175,"width":400,"height":400},
+		{"id":"9e25a15a3199e586","type":"text","text":"Vてこそ\nChỉ khi A thì mới B, làm xong V1 mới V2\n","x":49,"y":-1020,"width":305,"height":80},
+		{"id":"6bb21809e0de2d9f","x":1120,"y":-1170,"width":250,"height":60,"type":"text","text":"Chỉ khi A thì mới B, làm xong V1 mới V2"}
+	],
+	"edges":[
+		{"id":"6b3fefeab375a8b6","fromNode":"38c69e481a171760","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left"},
+		{"id":"2acbb9456377292b","fromNode":"38c69e481a171760","fromSide":"right","toNode":"82cc5e29324775bb","toSide":"left"},
+		{"id":"750564fd967b3e8d","fromNode":"38c69e481a171760","fromSide":"right","toNode":"6d92b1cacd1dc0ce","toSide":"left"},
+		{"id":"6e4d1e8b1e270cff","fromNode":"38c69e481a171760","fromSide":"bottom","toNode":"891595f92098c66d","toSide":"top"},
+		{"id":"9cd89bcfe9e65a88","fromNode":"38c69e481a171760","fromSide":"right","toNode":"1b0ca21a38e029ec","toSide":"left"},
+		{"id":"ded783f531925230","fromNode":"38c69e481a171760","fromSide":"right","toNode":"0dc790429b83a5de","toSide":"left"},
+		{"id":"a1a8ae53bb231dcb","fromNode":"38c69e481a171760","fromSide":"right","toNode":"5c3c066f966655ef","toSide":"left"},
+		{"id":"9dd7d687f6f84e15","fromNode":"38c69e481a171760","fromSide":"right","toNode":"e152b0db0402c3dc","toSide":"left"},
+		{"id":"1e43b9d5651c94a9","fromNode":"64f828da0e85b06f","fromSide":"right","toNode":"891595f92098c66d","toSide":"left"},
+		{"id":"519587cf028e11c6","fromNode":"38c69e481a171760","fromSide":"top","toNode":"3bc2fd0607231724","toSide":"bottom"},
+		{"id":"db1ac06fc5625959","fromNode":"38c69e481a171760","fromSide":"top","toNode":"27de3fc0f2743173","toSide":"bottom"},
+		{"id":"f296bf009c0793b2","fromNode":"38c69e481a171760","fromSide":"left","toNode":"47e6e553916c7162","toSide":"right"},
+		{"id":"aba1e1b43132d3b7","fromNode":"38c69e481a171760","fromSide":"right","toNode":"9e25a15a3199e586","toSide":"left"},
+		{"id":"c93feb61cc091f1f","fromNode":"6bb21809e0de2d9f","fromSide":"left","toNode":"e152b0db0402c3dc","toSide":"right","label":"Nhận ra việc trước kia chưa từng hoặc hình thành nên"},
+		{"id":"6ec01fddca984f0b","fromNode":"6bb21809e0de2d9f","fromSide":"bottom","toNode":"9e25a15a3199e586","toSide":"right","label":"Chỉ khi làm điều này mới thấy giá trị thực sự"}
+	]
+}

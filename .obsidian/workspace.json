@@ -11,31 +11,76 @@
             "id": "dca417d0165a233c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/複合動詞/複合動詞.canvas",
+                "viewState": {
+                  "x": 948.5,
+                  "y": 990,
+                  "zoom": -2.029191712714783
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "複合動詞"
+            }
+          },
+          {
+            "id": "078aaabc18f374a6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "N2文法/複合動詞/image/Pasted image 20260406000607.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260406000607"
+            }
+          },
+          {
+            "id": "c28b5b60b4132b11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "N2文法/複合動詞/image/Pasted image 20260406000616.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260406000616"
+            }
+          },
+          {
+            "id": "366009a0e208a85d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/助詞/に.canvas",
+                "viewState": {
+                  "x": -887.8849138574939,
+                  "y": 321.27577408183856,
+                  "zoom": -0.977750327364914
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "に"
             }
           },
           {
             "id": "3d6e51e9e9ea284e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "複合動詞.canvas",
-                "viewState": {
-                  "x": -249.61880036192304,
-                  "y": -437.21341623515013,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "N2文法/しまう.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "複合動詞"
+              "icon": "lucide-file",
+              "title": "しまう"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,25 +228,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d6e51e9e9ea284e",
+  "active": "366009a0e208a85d",
   "lastOpenFiles": [
-    "Pasted image 20260406000748.png",
-    "Pasted image 20260406000742.png",
-    "Pasted image 20260406000735.png",
-    "Pasted image 20260406000724.png",
-    "Pasted image 20260406000714.png",
-    "Pasted image 20260406000707.png",
-    "Pasted image 20260406000658.png",
-    "Pasted image 20260406000650.png",
-    "Pasted image 20260406000638.png",
-    "Pasted image 20260406000627.png",
-    "Pasted image 20260406000616.png",
-    "fastkey.md",
-    "Untitled.md",
-    "Untitled.base",
-    "複合動詞.canvas",
-    "複合動詞.md",
+    "N2文法/限り.canvas",
+    "N2文法/Vます.canvas",
+    "N2文法/挙句.canvas",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "N2文法/助詞/に.canvas",
+    "N2文法/次第・つつ/つつ.canvas",
+    "N2文法/助詞/か.canvas",
+    "N2文法/わけ.canvas",
+    "N2文法/助詞/と.canvas",
+    "N2文法/助詞/から.canvas",
+    "N2文法/つもり.canvas",
+    "N2文法/そう・よう",
     "N2文法/第1課.md",
-    "N2文法"
+    "N2文法/複合動詞/image",
+    "N2文法/複合動詞/image/Pasted image 20260406000748.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000616.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000607.png",
+    "N2文法/複合動詞",
+    "N2文法/自動詞ー他動詞",
+    "N2文法/尊敬語",
+    "N2文法/助詞",
+    "N2文法/ぐらい・ほど",
+    "N2文法/あまり・だけ",
+    "N2文法/次第・つつ",
+    "N2文法/ところ・どころ",
+    "からには.md",
+    "N2文法/しまう.md",
+    "N2文法/Vて.md",
+    "Untitled.md",
+    "N2文法/自動詞ー他動詞/自動詞.md",
+    "N2文法/複合動詞/image/Pasted image 20260406000638.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000658.png",
+    "fastkey.md",
+    "N2文法/自動詞ー他動詞/他動詞.md",
+    "N2文法/尊敬語/尊敬語.md",
+    "N2文法/複合動詞/image/Pasted image 20260406000742.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000735.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000724.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000714.png",
+    "N2文法/複合動詞/image/Pasted image 20260406000707.png",
+    "複合動詞.md"
   ]
 }

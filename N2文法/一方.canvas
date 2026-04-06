@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e1d71833392ff425","type":"text","text":"一方","x":-175,"y":-48,"width":250,"height":60},
+		{"id":"8cbd5ae3886efb70","type":"text","text":"で\n反面・半面","x":269,"y":-48,"width":250,"height":60},
+		{"id":"cdde950426fb8e42","type":"text","text":"Vる一方だ\nばかりだ","x":74,"y":126,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f2c21296bbb17add","fromNode":"e1d71833392ff425","fromSide":"right","toNode":"8cbd5ae3886efb70","toSide":"left"},
+		{"id":"deeea19b29f1f31a","fromNode":"e1d71833392ff425","fromSide":"bottom","toNode":"cdde950426fb8e42","toSide":"top"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり.canvas","x":353,"y":-238,"width":400,"height":400},
+		{"id":"bfa998af4a61f906","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":-360,"y":-100,"width":270,"height":92},
+		{"id":"8bc3fa4ca0a50bde","type":"text","text":"＝のみだ","x":-129,"y":293,"width":250,"height":60},
+		{"id":"5c650e6d795aa008","type":"text","text":"だけ","x":-694,"y":-282,"width":250,"height":60},
+		{"id":"0fa92f817465bdbf","type":"text","text":"だけに・だけで","x":-855,"y":-14,"width":250,"height":60},
+		{"id":"f60d6a7a8cea8e43","type":"file","file":"N2文法/あまり・だけ/だけ.canvas","x":-1720,"y":-184,"width":400,"height":400},
+		{"id":"ba041c493a549f59","x":-539,"y":-573,"width":250,"height":60,"type":"text","text":"～だけ～"}
+	],
+	"edges":[
+		{"id":"688a3b36dcb8c614","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"900a8fb50fe48888","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
+		{"id":"eaa29f8faf2613c6","fromNode":"bfa998af4a61f906","fromSide":"bottom","toNode":"8bc3fa4ca0a50bde","toSide":"top","label":"trang trọng, văn viết"},
+		{"id":"d13236dea9a1a847","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"top"},
+		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"0fa92f817465bdbf","toSide":"top"},
+		{"id":"78b7626bf45e2bf2","fromNode":"0fa92f817465bdbf","fromSide":"left","toNode":"f60d6a7a8cea8e43","toSide":"right","label":"\n"},
+		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"}
+	]
+}

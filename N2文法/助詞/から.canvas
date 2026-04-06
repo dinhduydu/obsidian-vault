@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"2f9398903b5bb697","type":"text","text":"でないと　（Vてからでないと）\nNếu chưa A thì chưa B (thứ tự bắt buộc)","x":-605,"y":-320,"width":326,"height":90},
+		{"id":"90c11a80c740e895","type":"file","file":"N2文法/Vて.canvas","x":30,"y":-600,"width":400,"height":180},
+		{"id":"d41ba4219b949f81","type":"text","text":"Vてから","x":160,"y":-340,"width":250,"height":60},
+		{"id":"ac96ed8ef97ba0b4","type":"text","text":"から","x":105,"y":400,"width":250,"height":60},
+		{"id":"f3ce2baf586f348e","type":"text","text":"からして\nNgay từ 1 chi tiết nhỏ đã thấy","x":-1040,"y":605,"width":250,"height":110},
+		{"id":"ea19dbf5ea656019","type":"text","text":"こそ・からこそ","x":620,"y":685,"width":250,"height":60},
+		{"id":"1eef36559691e57f","type":"text","text":"から見ると","x":-880,"y":60,"width":250,"height":60},
+		{"id":"f8187b3561e1dcce","type":"text","text":"から言うと","x":-960,"y":220,"width":250,"height":60},
+		{"id":"6877444dcad9f1a7","type":"text","text":"からすると","x":-915,"y":340,"width":250,"height":60},
+		{"id":"8f794378a25f245c","type":"text","text":"-Lấy căn cứ, cơ sở từ tổng thể để đưa ra phán đoán.\n-Ko đưa ra ý chí cá nhân","x":-480,"y":200,"width":250,"height":80},
+		{"id":"fec10e320338c6f0","type":"text","text":"からといって (-)\nChỉ vì A thì cũng ko hẳn","x":-540,"y":740,"width":250,"height":60},
+		{"id":"0596cf29c9e3b2c0","type":"text","text":"からには\nMột khi đã","x":-100,"y":770,"width":250,"height":60},
+		{"id":"a4e3603402e7ca00","x":800,"y":317,"width":250,"height":60,"type":"text","text":"からある"},
+		{"id":"bb292bca04075492","x":800,"y":434,"width":250,"height":60,"type":"text","text":"からの"},
+		{"id":"f8aa93e6cacebba4","x":800,"y":184,"width":250,"height":60,"type":"text","text":"からする"},
+		{"id":"e53fc7bb55326f26","x":480,"y":317,"width":250,"height":60,"type":"text","text":"Định lượng"}
+	],
+	"edges":[
+		{"id":"4f9f0e89ab4eca1c","fromNode":"ac96ed8ef97ba0b4","fromSide":"bottom","toNode":"f3ce2baf586f348e","toSide":"top","label":"từ 1 chi tiết nhỏ"},
+		{"id":"6503daefbc0c3038","fromNode":"90c11a80c740e895","fromSide":"bottom","toNode":"d41ba4219b949f81","toSide":"top"},
+		{"id":"6cc2bfc117dc2243","fromNode":"d41ba4219b949f81","fromSide":"bottom","toNode":"ac96ed8ef97ba0b4","toSide":"top"},
+		{"id":"3001c064c5182fb7","fromNode":"d41ba4219b949f81","fromSide":"left","toNode":"2f9398903b5bb697","toSide":"right"},
+		{"id":"b5de8bb9cb8ec965","fromNode":"ac96ed8ef97ba0b4","fromSide":"bottom","toNode":"0596cf29c9e3b2c0","toSide":"top"},
+		{"id":"1356c4dc177a27c1","fromNode":"ac96ed8ef97ba0b4","fromSide":"bottom","toNode":"fec10e320338c6f0","toSide":"top"},
+		{"id":"81623447ed22415a","fromNode":"ac96ed8ef97ba0b4","fromSide":"bottom","toNode":"ea19dbf5ea656019","toSide":"top"},
+		{"id":"42340c3928ee3ac2","fromNode":"ac96ed8ef97ba0b4","fromSide":"left","toNode":"8f794378a25f245c","toSide":"right","label":"Xét từ góc độ tổng thể"},
+		{"id":"d3996f105e217423","fromNode":"8f794378a25f245c","fromSide":"left","toNode":"1eef36559691e57f","toSide":"right"},
+		{"id":"76c4ab238fcba45a","fromNode":"8f794378a25f245c","fromSide":"left","toNode":"f8187b3561e1dcce","toSide":"right"},
+		{"id":"1e27f18d4397954c","fromNode":"8f794378a25f245c","fromSide":"left","toNode":"6877444dcad9f1a7","toSide":"right"},
+		{"id":"7e6942da24d21833","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"a4e3603402e7ca00","toSide":"left"},
+		{"id":"a436cedef72ebd6c","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"bb292bca04075492","toSide":"left"},
+		{"id":"94a5daefe717c461","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"f8aa93e6cacebba4","toSide":"left"},
+		{"id":"7a67e3b4ccc406d9","fromNode":"ac96ed8ef97ba0b4","fromSide":"right","toNode":"e53fc7bb55326f26","toSide":"left"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"908075991677c442","type":"text","text":"よう","x":-117,"y":1,"width":250,"height":60},
+		{"id":"59f9ade2986cf3a7","type":"text","text":"なN","x":84,"y":270,"width":250,"height":60},
+		{"id":"ed5ee051029d32c4","x":297,"y":-380,"width":250,"height":60,"type":"text","text":"Vるようとする"},
+		{"id":"751a3c5c892cf370","type":"text","text":"だ","x":360,"y":-80,"width":250,"height":60},
+		{"id":"b632698ca1446264","type":"text","text":"に","x":360,"y":100,"width":250,"height":60},
+		{"id":"fce91b3d7c2198fa","x":731,"y":-230,"width":250,"height":60,"type":"text","text":"Vますようだ"},
+		{"id":"0f467db9483dab51","x":751,"y":-1,"width":250,"height":60,"type":"text","text":"Vるようだ"}
+	],
+	"edges":[
+		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left"},
+		{"id":"7437e27dd6351515","fromNode":"908075991677c442","fromSide":"right","toNode":"b632698ca1446264","toSide":"left"},
+		{"id":"b851ea4063bbc003","fromNode":"908075991677c442","fromSide":"bottom","toNode":"59f9ade2986cf3a7","toSide":"top"},
+		{"id":"60919b503f9756cd","fromNode":"908075991677c442","fromSide":"top","toNode":"ed5ee051029d32c4","toSide":"bottom"},
+		{"id":"82c0d1d192d7d0c4","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"fce91b3d7c2198fa","toSide":"left"},
+		{"id":"2f2413417e6286d3","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"0f467db9483dab51","toSide":"left"}
+	]
+}

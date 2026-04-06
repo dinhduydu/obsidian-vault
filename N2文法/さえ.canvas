@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"101f6d284a5f87a2","type":"text","text":"さえ","x":-120,"y":-8,"width":250,"height":60},
+		{"id":"b69613e0c2a9eeb7","type":"text","text":"さえば","x":-113,"y":170,"width":250,"height":60},
+		{"id":"0e9c7d9b21e1dcd6","type":"text","text":"ただでさえ","x":-120,"y":-280,"width":250,"height":60},
+		{"id":"55c36f436f5d3b98","type":"text","text":"～たら～で","x":-617,"y":-302,"width":250,"height":60},
+		{"id":"e19bc64456191739","x":-659,"y":-9,"width":250,"height":60,"type":"text","text":"すら"}
+	],
+	"edges":[
+		{"id":"ef4532dfd6badd10","fromNode":"101f6d284a5f87a2","fromSide":"bottom","toNode":"b69613e0c2a9eeb7","toSide":"top"},
+		{"id":"760ff424a95afc99","fromNode":"0e9c7d9b21e1dcd6","fromSide":"bottom","toNode":"101f6d284a5f87a2","toSide":"top"},
+		{"id":"c4309fb16fe4e982","fromNode":"0e9c7d9b21e1dcd6","fromSide":"left","toNode":"55c36f436f5d3b98","toSide":"right"},
+		{"id":"960fc0ac8976033e","fromNode":"101f6d284a5f87a2","fromSide":"left","toNode":"e19bc64456191739","toSide":"right"}
+	]
+}

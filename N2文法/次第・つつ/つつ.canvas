@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bf02877925e214f5","x":-206,"y":-30,"width":250,"height":60,"type":"text","text":"つつある"},
+		{"id":"01750b5b5a0f2dc2","x":313,"y":-37,"width":250,"height":60,"type":"text","text":"末に"}
+	],
+	"edges":[
+		{"id":"f4bf34142d01a7d0","fromNode":"bf02877925e214f5","fromSide":"right","toNode":"01750b5b5a0f2dc2","toSide":"left"}
+	]
+}
