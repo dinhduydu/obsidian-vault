@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fbc4e1dde5ba82db","x":-700,"y":-280,"width":250,"height":60,"type":"text","text":"- これ → cái này"},
+		{"id":"3468ed36fbb2741f","type":"text","text":"- それ → cái đó (gần người nghe)","x":-340,"y":-280,"width":250,"height":80},
+		{"id":"38d613daebf61e90","type":"text","text":"- あれ → cái kia (xa cả hai)","x":20,"y":-280,"width":250,"height":80},
+		{"id":"17ccbff426b01d0f","type":"text","text":"- どれ → cái nào","x":380,"y":-280,"width":250,"height":80}
+	],
+	"edges":[]
+}

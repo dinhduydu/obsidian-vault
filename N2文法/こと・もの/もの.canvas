@@ -1,9 +1,19 @@
 {
 	"nodes":[
-		{"id":"66d8a10608fd7213","x":294,"y":-47,"width":250,"height":60,"type":"text","text":"ものか"},
-		{"id":"4da85d2c8bf26ecb","type":"text","text":"もの","x":-120,"y":-47,"width":250,"height":60}
+		{"id":"66d8a10608fd7213","type":"text","text":"ものか","x":294,"y":-47,"width":250,"height":60},
+		{"id":"4da85d2c8bf26ecb","type":"text","text":"もの","x":-120,"y":-47,"width":250,"height":60},
+		{"id":"83ef7c6acfd37d06","type":"file","file":"Pasted image 20260407221909.png","x":-195,"y":-640,"width":400,"height":400},
+		{"id":"e9695e67d5d24f2f","type":"file","file":"Pasted image 20260407221938.png","x":-880,"y":-217,"width":400,"height":400},
+		{"id":"e3fa1f4c3c96e9ff","type":"file","file":"Pasted image 20260407221927.png","x":-520,"y":300,"width":400,"height":400},
+		{"id":"e88949813a0d1f92","type":"file","file":"Pasted image 20260407221951.png","x":94,"y":300,"width":400,"height":400},
+		{"id":"8dde0907907b5999","x":1080,"y":123,"width":250,"height":60,"type":"text","text":"ものではないのか"}
 	],
 	"edges":[
-		{"id":"74b087c5cd13ac75","fromNode":"4da85d2c8bf26ecb","fromSide":"right","toNode":"66d8a10608fd7213","toSide":"left"}
+		{"id":"74b087c5cd13ac75","fromNode":"4da85d2c8bf26ecb","fromSide":"right","toNode":"66d8a10608fd7213","toSide":"left"},
+		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"83ef7c6acfd37d06","toSide":"bottom"},
+		{"id":"da7f00fbe9768b1a","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"e3fa1f4c3c96e9ff","toSide":"top"},
+		{"id":"a37a61778e59f43a","fromNode":"4da85d2c8bf26ecb","fromSide":"left","toNode":"e9695e67d5d24f2f","toSide":"right"},
+		{"id":"2000dfaa30fd75c0","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"e88949813a0d1f92","toSide":"top"},
+		{"id":"76f05b54421546f0","fromNode":"66d8a10608fd7213","fromSide":"right","toNode":"8dde0907907b5999","toSide":"top"}
 	]
 }

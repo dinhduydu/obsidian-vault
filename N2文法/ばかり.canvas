@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"7353ee59fe83602b","x":-153,"y":-22,"width":250,"height":60,"type":"text","text":""}
+		{"id":"7353ee59fe83602b","type":"text","text":"ばかり","x":-153,"y":-22,"width":133,"height":60},
+		{"id":"fcdd33025150b7a1","x":-660,"y":-89,"width":400,"height":195,"type":"file","file":"Pasted image 20260409002756.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"fcdd33025150b7a1","toSide":"right"}
+	]
 }
