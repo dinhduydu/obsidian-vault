@@ -20,7 +20,8 @@
 		{"id":"03add3d32a6e628b","type":"text","text":"を通して・を通じて","x":-356,"y":808,"width":250,"height":60},
 		{"id":"9d11c1f07f9a22c0","type":"text","text":"にかけては","x":407,"y":432,"width":250,"height":60},
 		{"id":"b455a0fa71686051","type":"text","text":"でしかない","x":-851,"y":912,"width":250,"height":60},
-		{"id":"2917f2d351629dbb","x":-2397,"y":174,"width":400,"height":400,"type":"file","file":"N2文法/限り.canvas"}
+		{"id":"2917f2d351629dbb","type":"file","file":"N2文法/限り.canvas","x":-2397,"y":174,"width":400,"height":400},
+		{"id":"9d12365a61c85ca2","type":"file","file":"Pasted image 20260409005552.png","x":-1340,"y":-724,"width":400,"height":206}
 	],
 	"edges":[
 		{"id":"eaf0285fe5f1131b","fromNode":"888232e05f82701a","fromSide":"right","toNode":"50aefbbff4dcc8fa","toSide":"left"},
@@ -42,6 +43,7 @@
 		{"id":"133c84383232c335","fromNode":"54fabb2ee97ff69b","fromSide":"bottom","toNode":"03add3d32a6e628b","toSide":"top"},
 		{"id":"e453dd2591c49606","fromNode":"888232e05f82701a","fromSide":"bottom","toNode":"9d11c1f07f9a22c0","toSide":"top"},
 		{"id":"ecbe1fc55658cef2","fromNode":"a30734407682945b","fromSide":"bottom","toNode":"b455a0fa71686051","toSide":"top"},
-		{"id":"776b3db6f7de5664","fromNode":"888232e05f82701a","fromSide":"bottom","toNode":"2917f2d351629dbb","toSide":"top","label":"に限る・に限り"}
+		{"id":"776b3db6f7de5664","fromNode":"888232e05f82701a","fromSide":"bottom","toNode":"2917f2d351629dbb","toSide":"top","label":"に限る・に限り"},
+		{"id":"cd8b6199ed51f4b5","fromNode":"888232e05f82701a","fromSide":"top","toNode":"9d12365a61c85ca2","toSide":"bottom"}
 	]
 }

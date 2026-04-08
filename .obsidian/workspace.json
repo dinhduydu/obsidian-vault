@@ -30,19 +30,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/上.canvas",
+                "file": "N2文法/助詞/に.canvas",
                 "viewState": {
-                  "x": -1238.1636632820737,
-                  "y": 602.7317680041135,
-                  "zoom": -0.3333333333333332
+                  "x": -902.1418341767846,
+                  "y": 334.86211032334484,
+                  "zoom": -0.7586027177570769
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "上"
+              "title": "に"
+            }
+          },
+          {
+            "id": "afb381355e90614b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/はず.canvas",
+                "viewState": {
+                  "x": 193.5,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "はず"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,32 +207,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d6e51e9e9ea284e",
+  "active": "afb381355e90614b",
   "lastOpenFiles": [
-    "Pasted image 20260409003551.png",
-    "Pasted image 20260409003319.png",
-    "Pasted image 20260409003220.png",
-    "N2文法/そう・よう/よう.canvas",
-    "Pasted image 20260409003135.png",
-    "N2文法/ぐらい・ほど/くらい.canvas",
-    "Pasted image 20260409003105.png",
-    "Pasted image 20260409002931.png",
-    "N2文法/あまり・だけ/だけ.canvas",
-    "Pasted image 20260409002811.png",
-    "N2文法/ばかり.canvas",
-    "Pasted image 20260409002756.png",
-    "N2文法/一方.canvas",
-    "N2文法/上.canvas",
-    "Pasted image 20260409002551.png",
-    "Pasted image 20260409002511.png",
-    "Pasted image 20260409002441.png",
-    "N2文法/しまう.md",
+    "N2文法/複合動詞/Untitled.md",
+    "N2文法/はず.canvas",
     "N2文法/Vて.canvas",
-    "N2文法/気.canvas",
-    "N2文法/限り.canvas",
-    "N2文法/こと・もの/もの.canvas",
-    "N2文法/そう・よう",
     "N2文法/第1課.md",
+    "N2文法/助詞/に.canvas",
+    "N2文法/複合動詞/複合動詞.canvas",
+    "N2文法/助詞/と.canvas",
+    "Pasted image 20260409005641.png",
+    "Pasted image 20260409005552.png",
+    "Pasted image 20260409005322.png",
+    "N2文法/そう・よう/そう.canvas",
+    "Pasted image 20260409005137.png",
+    "Pasted image 20260409005115.png",
+    "Pasted image 20260409005041.png",
+    "Pasted image 20260409005009.png",
+    "Pasted image 20260409004930.png",
+    "Pasted image 20260409004900.png",
+    "Pasted image 20260409004805.png",
+    "N2文法/上.canvas",
+    "N2文法/そう・よう/よう.canvas",
+    "N2文法/ぐらい・ほど/くらい.canvas",
+    "N2文法/あまり・だけ/だけ.canvas",
+    "N2文法/しまう.md",
+    "N2文法/そう・よう",
     "N2文法/複合動詞/image",
     "N2文法/複合動詞",
     "N2文法/自動詞ー他動詞",
