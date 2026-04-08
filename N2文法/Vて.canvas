@@ -33,7 +33,11 @@
 		{"id":"79c3e687d4e2c10e","type":"text","text":"","x":2560,"y":293,"width":250,"height":60},
 		{"id":"a55308cde11bc4d4","type":"file","file":"Pasted image 20260409005322.png","x":3000,"y":92,"width":480,"height":261},
 		{"id":"65233607381d3ea3","type":"file","file":"Pasted image 20260409005552.png","x":3000,"y":420,"width":400,"height":206},
-		{"id":"437b4611302ade7c","type":"file","file":"Pasted image 20260409005641.png","x":2740,"y":934,"width":1008,"height":462}
+		{"id":"437b4611302ade7c","type":"file","file":"Pasted image 20260409005641.png","x":3080,"y":844,"width":1008,"height":462},
+		{"id":"dceb2cf1e931f30e","type":"text","text":"Vている","x":3560,"y":493,"width":250,"height":60},
+		{"id":"949a49d26c1e0085","type":"text","text":"","x":3912,"y":336,"width":250,"height":60},
+		{"id":"86b9b75cf8a00564","type":"text","text":"","x":3912,"y":493,"width":250,"height":60},
+		{"id":"e90536f194fa25f8","type":"text","text":"","x":3932,"y":630,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"38c69e481a171760","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left"},
@@ -68,6 +72,10 @@
 		{"id":"6d4eab73f1405d53","fromNode":"87d8fb4c4d96517e","fromSide":"right","toNode":"c7f077081d631b3d","toSide":"left"},
 		{"id":"cc2116db5054f253","fromNode":"e517beaa10604cbc","fromSide":"right","toNode":"79c3e687d4e2c10e","toSide":"left"},
 		{"id":"687e727774a85da7","fromNode":"79c3e687d4e2c10e","fromSide":"right","toNode":"a55308cde11bc4d4","toSide":"left"},
-		{"id":"86c12de321fd321a","fromNode":"79c3e687d4e2c10e","fromSide":"right","toNode":"65233607381d3ea3","toSide":"left"}
+		{"id":"86c12de321fd321a","fromNode":"79c3e687d4e2c10e","fromSide":"right","toNode":"65233607381d3ea3","toSide":"left"},
+		{"id":"382b2dcb4f5ec621","fromNode":"65233607381d3ea3","fromSide":"right","toNode":"dceb2cf1e931f30e","toSide":"left"},
+		{"id":"d7cf483002d4d8cf","fromNode":"dceb2cf1e931f30e","fromSide":"right","toNode":"949a49d26c1e0085","toSide":"left"},
+		{"id":"e7f14fd9509f55fc","fromNode":"dceb2cf1e931f30e","fromSide":"right","toNode":"86b9b75cf8a00564","toSide":"left"},
+		{"id":"23833d4262bd62c4","fromNode":"dceb2cf1e931f30e","fromSide":"right","toNode":"e90536f194fa25f8","toSide":"left"}
 	]
 }

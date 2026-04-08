@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/はず.canvas",
+                "file": "N2文法/助詞/から.canvas",
                 "viewState": {
-                  "x": 193.5,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 437.0910218986862,
+                  "y": 115,
+                  "zoom": -0.7214574994101753
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "はず"
+              "title": "から"
             }
           }
         ],
@@ -209,17 +209,18 @@
   },
   "active": "afb381355e90614b",
   "lastOpenFiles": [
-    "N2文法/複合動詞/Untitled.md",
-    "N2文法/はず.canvas",
     "N2文法/Vて.canvas",
+    "N2文法/助詞/と.canvas",
+    "N2文法/そう・よう/そう.canvas",
+    "N2文法/わけ.canvas",
+    "N2文法/はず.canvas",
+    "N2文法/複合動詞/Untitled.md",
     "N2文法/第1課.md",
     "N2文法/助詞/に.canvas",
     "N2文法/複合動詞/複合動詞.canvas",
-    "N2文法/助詞/と.canvas",
     "Pasted image 20260409005641.png",
     "Pasted image 20260409005552.png",
     "Pasted image 20260409005322.png",
-    "N2文法/そう・よう/そう.canvas",
     "Pasted image 20260409005137.png",
     "Pasted image 20260409005115.png",
     "Pasted image 20260409005041.png",

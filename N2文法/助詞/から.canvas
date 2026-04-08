@@ -12,10 +12,11 @@
 		{"id":"8f794378a25f245c","type":"text","text":"-Lấy căn cứ, cơ sở từ tổng thể để đưa ra phán đoán.\n-Ko đưa ra ý chí cá nhân","x":-480,"y":200,"width":250,"height":80},
 		{"id":"fec10e320338c6f0","type":"text","text":"からといって (-)\nChỉ vì A thì cũng ko hẳn","x":-540,"y":740,"width":250,"height":60},
 		{"id":"0596cf29c9e3b2c0","type":"text","text":"からには\nMột khi đã","x":-100,"y":770,"width":250,"height":60},
-		{"id":"a4e3603402e7ca00","x":800,"y":317,"width":250,"height":60,"type":"text","text":"からある"},
-		{"id":"bb292bca04075492","x":800,"y":434,"width":250,"height":60,"type":"text","text":"からの"},
-		{"id":"f8aa93e6cacebba4","x":800,"y":184,"width":250,"height":60,"type":"text","text":"からする"},
-		{"id":"e53fc7bb55326f26","x":480,"y":317,"width":250,"height":60,"type":"text","text":"Định lượng"}
+		{"id":"a4e3603402e7ca00","type":"text","text":"からある","x":800,"y":317,"width":250,"height":60},
+		{"id":"bb292bca04075492","type":"text","text":"からの","x":800,"y":434,"width":250,"height":60},
+		{"id":"f8aa93e6cacebba4","type":"text","text":"からする","x":800,"y":184,"width":250,"height":60},
+		{"id":"e53fc7bb55326f26","type":"text","text":"Định lượng","x":480,"y":317,"width":250,"height":60},
+		{"id":"151de52aa74b8374","type":"file","file":"Pasted image 20260409005009.png","x":620,"y":-436,"width":716,"height":412}
 	],
 	"edges":[
 		{"id":"4f9f0e89ab4eca1c","fromNode":"ac96ed8ef97ba0b4","fromSide":"bottom","toNode":"f3ce2baf586f348e","toSide":"top","label":"từ 1 chi tiết nhỏ"},
@@ -32,6 +33,7 @@
 		{"id":"7e6942da24d21833","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"a4e3603402e7ca00","toSide":"left"},
 		{"id":"a436cedef72ebd6c","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"bb292bca04075492","toSide":"left"},
 		{"id":"94a5daefe717c461","fromNode":"e53fc7bb55326f26","fromSide":"right","toNode":"f8aa93e6cacebba4","toSide":"left"},
-		{"id":"7a67e3b4ccc406d9","fromNode":"ac96ed8ef97ba0b4","fromSide":"right","toNode":"e53fc7bb55326f26","toSide":"left"}
+		{"id":"7a67e3b4ccc406d9","fromNode":"ac96ed8ef97ba0b4","fromSide":"right","toNode":"e53fc7bb55326f26","toSide":"left"},
+		{"id":"e84cf4a985fdc568","fromNode":"ac96ed8ef97ba0b4","fromSide":"top","toNode":"151de52aa74b8374","toSide":"left"}
 	]
 }
