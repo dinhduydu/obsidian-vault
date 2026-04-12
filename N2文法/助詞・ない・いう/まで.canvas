@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"eb4c8f49bd3c1f4f","x":-167,"y":-2,"width":250,"height":60,"type":"text","text":"まで"},
+		{"id":"c2f04b9863d475e4","x":-740,"y":-82,"width":400,"height":220,"type":"file","file":"Pasted image 20260412211727.png"}
+	],
+	"edges":[
+		{"id":"b0a555717e1720fd","fromNode":"eb4c8f49bd3c1f4f","fromSide":"left","toNode":"c2f04b9863d475e4","toSide":"right"}
+	]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/わけ.canvas",
+                "file": "N2文法/ばかり・はず・わけ/わけ.canvas",
                 "viewState": {
                   "x": 222.93251294971455,
                   "y": -1046.9157734120129,
@@ -30,7 +30,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない.canvas",
+                "file": "N2文法/ない・いう・しまう/ない.canvas",
                 "viewState": {
                   "x": -1278.909907464841,
                   "y": -861.800585678076,
@@ -47,7 +47,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/に.canvas",
+                "file": "N2文法/助詞・ない・いう/に.canvas",
                 "viewState": {
                   "x": -1079.3711833033237,
                   "y": -584.3509035688056,
@@ -64,15 +64,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/わけ.canvas",
+                "file": "N2文法/こと・もの/こと.canvas",
                 "viewState": {
-                  "x": -197.43977913281236,
-                  "y": -553.1942245948583,
-                  "zoom": -1.3470252976359134
+                  "x": 968.8159319588495,
+                  "y": -358.9918739678147,
+                  "zoom": -1.0753067458071839
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "わけ"
+              "title": "こと"
             }
           },
           {
@@ -81,11 +81,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/復習.canvas",
+                "file": "N2文法/復習/復習.canvas",
                 "viewState": {
-                  "x": -1741.3429922581781,
-                  "y": 2423.623128728179,
-                  "zoom": -1.6921858401706908
+                  "x": 453.51888336505573,
+                  "y": 456.12204948843885,
+                  "zoom": -1.282001447538115
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,42 +275,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3eefdcbe58303b",
+  "active": "3cfc4d3a92d8e47c",
   "lastOpenFiles": [
-    "Pasted image 20260412135525.png",
-    "N2文法/助詞/と.canvas",
-    "N2文法/助詞/か.canvas",
-    "N2文法/助詞/で.canvas",
-    "Pasted image 20260412134940.png",
-    "N2文法/そう・よう/よう.canvas",
-    "Pasted image 20260412134838.png",
-    "N2文法/そう・よう/そう.canvas",
-    "N2文法/Vて.canvas",
+    "Pasted image 20260412213648.png",
+    "Pasted image 20260412213639.png",
+    "Pasted image 20260412213618.png",
+    "N2文法/助詞・ない・いう/と.canvas",
+    "Pasted image 20260412213545.png",
     "N2文法/ところ・どころ/ところ.canvas",
-    "N2文法/ない.canvas",
-    "N2文法/わけ.canvas",
-    "N2文法/複合動詞/複合動詞.canvas",
-    "Pasted image 20260412133007.png",
-    "Pasted image 20260412132935.png",
-    "Pasted image 20260412132813.png",
-    "Pasted image 20260412132751.png",
-    "Pasted image 20260412132404.png",
-    "Pasted image 20260412132349.png",
-    "Pasted image 20260412132335.png",
-    "Pasted image 20260412132323.png",
-    "N2文法/第２課.md",
+    "Pasted image 20260412213512.png",
+    "N2文法/ところ・どころ/どころ.canvas",
+    "Pasted image 20260412213437.png",
+    "Pasted image 20260412213401.png",
+    "Pasted image 20260412213330.png",
+    "Pasted image 20260412213254.png",
+    "Pasted image 20260412213207.png",
+    "Pasted image 20260412213204.png",
+    "N2文法/助詞・ない・いう/か.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
+    "N2文法/ない・いう・しまう/ない.canvas",
+    "N2文法/復習/復習.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
+    "N2文法/ない・いう・しまう/いう.canvas",
+    "N2文法/復習/指示代名詞.canvas",
+    "N2文法/ない・いう・しまう",
+    "N2文法/復習",
+    "N2文法/復習/第２課.md",
+    "N2文法/ない・いう・しまう/しまう.md",
+    "N2文法/さえ・ほど・より",
+    "N2文法/挙句・すえ",
+    "N2文法/ばかり・はず・わけ",
+    "N2文法/一方・上・限る・つもり・他",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう",
     "N2文法/複合動詞/Untitled.md",
-    "N2文法/しまう.md",
     "N2文法/そう・よう",
     "N2文法/複合動詞/image",
     "N2文法/複合動詞",
-    "N2文法/自動詞ー他動詞",
-    "N2文法/尊敬語",
-    "N2文法/助詞",
-    "N2文法/ぐらい・ほど",
-    "N2文法/あまり・だけ",
-    "N2文法/次第・つつ",
-    "N2文法/ところ・どころ",
     "からには.md",
     "N2文法/Vて.md",
     "Untitled.md",

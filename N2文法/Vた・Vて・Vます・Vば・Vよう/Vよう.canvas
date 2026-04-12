@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e3f4b3b6ec5ab3b4","x":-83,"y":17,"width":250,"height":60,"type":"text","text":"Vよう"},
+		{"id":"b9c11045cb50e9ec","x":-620,"y":-63,"width":400,"height":221,"type":"file","file":"Pasted image 20260412212433.png"}
+	],
+	"edges":[
+		{"id":"2e239b8c4682802a","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"left","toNode":"b9c11045cb50e9ec","toSide":"right"}
+	]
+}

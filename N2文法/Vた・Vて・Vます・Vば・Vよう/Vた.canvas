@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"670cadcc24748ef9","type":"text","text":"Vた","x":37,"y":-73,"width":250,"height":60},
+		{"id":"04eddd31fc605a28","type":"file","file":"Pasted image 20260410085015.png","x":-560,"y":-157,"width":399,"height":228},
+		{"id":"29109bc0cdccc5ec","type":"file","file":"Pasted image 20260410085131.png","x":-38,"y":-400,"width":400,"height":223},
+		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限る・つもり・他/上.canvas","x":600,"y":-243,"width":400,"height":400},
+		{"id":"b729eb198be3742b","x":-573,"y":-504,"width":250,"height":60,"type":"text","text":"あげく"}
+	],
+	"edges":[
+		{"id":"4cc897dda400354e","fromNode":"670cadcc24748ef9","fromSide":"left","toNode":"04eddd31fc605a28","toSide":"right"},
+		{"id":"4f78881dd7714f75","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"29109bc0cdccc5ec","toSide":"bottom"},
+		{"id":"17ce5db02d8144e0","fromNode":"670cadcc24748ef9","fromSide":"right","toNode":"4ffc64a44c09ef6e","toSide":"left","label":"Vた上で"},
+		{"id":"1cc87408efdbe146","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"b729eb198be3742b","toSide":"bottom"}
+	]
+}

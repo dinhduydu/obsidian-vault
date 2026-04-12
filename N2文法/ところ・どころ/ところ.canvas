@@ -1,20 +1,43 @@
 {
 	"nodes":[
-		{"id":"6e5a6e8ade15f2ca","type":"text","text":"ところへ","x":17,"y":-763,"width":250,"height":60},
-		{"id":"bf4ae3e1ac96e46d","type":"text","text":"ところ","x":-805,"y":-380,"width":250,"height":60},
 		{"id":"22eef828175a996a","type":"file","file":"Pasted image 20260410075032.png","x":-300,"y":-380,"width":400,"height":219},
 		{"id":"19b8a68fb814b11e","type":"file","file":"Pasted image 20260410083936.png","x":-348,"y":-86,"width":496,"height":272},
 		{"id":"2d6aa1a52d8d20a7","type":"text","text":"Vたところ**で**\nDẫu cho có làm A thì cũng vô dụng","x":847,"y":4,"width":273,"height":92},
 		{"id":"8bcd27fac9419228","type":"text","text":"Vたところ**が**\nLàm A nhưng bất ngờ nhận được kết quả B ngược lại","x":847,"y":166,"width":302,"height":95},
-		{"id":"388bf00239a8f2c6","type":"text","text":"Vたところ\nSau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":420,"y":-154,"width":268,"height":98}
+		{"id":"388bf00239a8f2c6","type":"text","text":"Vたところ\nSau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":420,"y":-154,"width":268,"height":98},
+		{"id":"fec32141cf12e62b","type":"file","file":"Pasted image 20260412212644.png","x":-1020,"y":-316,"width":400,"height":92},
+		{"id":"49ca8cc8c147eb2a","type":"file","file":"Pasted image 20260412213052.png","x":-300,"y":-760,"width":400,"height":215},
+		{"id":"89925b8bd8a74247","type":"text","text":"Vたところ","x":347,"y":-541,"width":250,"height":60},
+		{"id":"51e1651679c1247c","type":"file","file":"Pasted image 20260412213141.png","x":-1500,"y":144,"width":400,"height":216},
+		{"id":"8b0b8650af3244af","type":"file","file":"Pasted image 20260412213207.png","x":-507,"y":520,"width":814,"height":440},
+		{"id":"6e5a6e8ade15f2ca","type":"text","text":"ところへ","x":554,"y":560,"width":250,"height":60},
+		{"id":"d9bd80275797bd9f","type":"text","text":"ところに","x":570,"y":875,"width":250,"height":60},
+		{"id":"1999aa035f54d5d5","type":"file","file":"Pasted image 20260412213254.png","x":-300,"y":-1160,"width":399,"height":219},
+		{"id":"b5ead40b4c0c8bb4","type":"text","text":"ところで","x":347,"y":-941,"width":250,"height":60},
+		{"id":"b33320578949c07c","type":"file","file":"Pasted image 20260412213330.png","x":-1700,"y":-768,"width":400,"height":223},
+		{"id":"c08e7453bf4f5a06","type":"file","file":"Pasted image 20260412213401.png","x":-2440,"y":186,"width":399,"height":209},
+		{"id":"5ec6a69bb95a47f1","x":-2180,"y":-202,"width":400,"height":233,"type":"file","file":"Pasted image 20260412213512.png"}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"388bf00239a8f2c6","fromSide":"bottom","toNode":"8bcd27fac9419228","toSide":"left"},
 		{"id":"6e4143bc2403f508","fromNode":"388bf00239a8f2c6","fromSide":"right","toNode":"2d6aa1a52d8d20a7","toSide":"left"},
-		{"id":"f43c1c6d2d3966a8","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"6e5a6e8ade15f2ca","toSide":"left"},
-		{"id":"3276badb03f313ba","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"22eef828175a996a","toSide":"left"},
+		{"id":"f43c1c6d2d3966a8","fromNode":"fec32141cf12e62b","fromSide":"right","toNode":"8b0b8650af3244af","toSide":"left"},
+		{"id":"3276badb03f313ba","fromNode":"fec32141cf12e62b","fromSide":"right","toNode":"22eef828175a996a","toSide":"left"},
 		{"id":"b9697b7e3eb9693c","fromNode":"22eef828175a996a","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"},
 		{"id":"0e6c17fdb67982b6","fromNode":"22eef828175a996a","fromSide":"bottom","toNode":"19b8a68fb814b11e","toSide":"top"},
-		{"id":"d06c2a12f54f3717","fromNode":"19b8a68fb814b11e","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"}
+		{"id":"d06c2a12f54f3717","fromNode":"19b8a68fb814b11e","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"},
+		{"id":"027d698aa1e6e3d2","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"49ca8cc8c147eb2a","toSide":"left"},
+		{"id":"249d71c1c1e14fc3","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"89925b8bd8a74247","toSide":"left"},
+		{"id":"268ef88ab8d794db","fromNode":"22eef828175a996a","fromSide":"right","toNode":"89925b8bd8a74247","toSide":"left"},
+		{"id":"8b6fbf34d451906f","fromNode":"fec32141cf12e62b","fromSide":"bottom","toNode":"51e1651679c1247c","toSide":"top","label":"ところを"},
+		{"id":"02cd19e952440a54","fromNode":"8b0b8650af3244af","fromSide":"right","toNode":"6e5a6e8ade15f2ca","toSide":"left"},
+		{"id":"9b4670af257a9f4a","fromNode":"8b0b8650af3244af","fromSide":"right","toNode":"d9bd80275797bd9f","toSide":"left"},
+		{"id":"4db0ada5954bbc0b","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"1999aa035f54d5d5","toSide":"left","label":"ところで・ところみりと"},
+		{"id":"3dc997f44e648472","fromNode":"1999aa035f54d5d5","fromSide":"right","toNode":"b5ead40b4c0c8bb4","toSide":"left"},
+		{"id":"5803d41a71851737","fromNode":"22eef828175a996a","fromSide":"right","toNode":"b5ead40b4c0c8bb4","toSide":"left"},
+		{"id":"94c0ce669c14b3b4","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"b33320578949c07c","toSide":"right","label":"ところだった"},
+		{"id":"3e861b7ef340262e","fromNode":"51e1651679c1247c","fromSide":"left","toNode":"c08e7453bf4f5a06","toSide":"right"},
+		{"id":"1fb2468d676c9437","fromNode":"8b0b8650af3244af","fromSide":"left","toNode":"c08e7453bf4f5a06","toSide":"bottom"},
+		{"id":"ab6783cfd5b0f606","fromNode":"51e1651679c1247c","fromSide":"left","toNode":"5ec6a69bb95a47f1","toSide":"right","label":"ところを"}
 	]
 }

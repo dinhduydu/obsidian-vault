@@ -1,15 +1,19 @@
 {
 	"nodes":[
-		{"id":"3b54c8aa92d20996","x":-30,"y":-10,"width":250,"height":60,"type":"text","text":"気"},
-		{"id":"1e7bd4944dcb9329","x":-600,"y":-180,"width":400,"height":400,"type":"file","file":"Pasted image 20260407220846.png"},
-		{"id":"9991adc66e5e5a79","x":-105,"y":-480,"width":400,"height":400,"type":"file","file":"Pasted image 20260407220906.png"},
-		{"id":"3b0a11ec497b3a6f","x":-105,"y":220,"width":400,"height":400,"type":"file","file":"Pasted image 20260407220917.png"},
-		{"id":"49ce746910cf94b1","x":420,"y":-180,"width":400,"height":400,"type":"file","file":"Pasted image 20260407220936.png"}
+		{"id":"3b54c8aa92d20996","type":"text","text":"気","x":-30,"y":-10,"width":250,"height":60},
+		{"id":"1e7bd4944dcb9329","type":"file","file":"Pasted image 20260407220846.png","x":-600,"y":-180,"width":400,"height":400},
+		{"id":"9991adc66e5e5a79","type":"file","file":"Pasted image 20260407220906.png","x":-105,"y":-480,"width":400,"height":400},
+		{"id":"3b0a11ec497b3a6f","type":"file","file":"Pasted image 20260407220917.png","x":-105,"y":220,"width":400,"height":400},
+		{"id":"49ce746910cf94b1","type":"file","file":"Pasted image 20260407220936.png","x":420,"y":-180,"width":400,"height":400},
+		{"id":"e32879c0b0d37173","x":-1000,"y":360,"width":400,"height":178,"type":"file","file":"Pasted image 20260412211220.png"},
+		{"id":"a51e0edeaa18da46","x":-1600,"y":341,"width":400,"height":216,"type":"file","file":"Pasted image 20260412211243.png"}
 	],
 	"edges":[
 		{"id":"18a3791f12259a01","fromNode":"3b54c8aa92d20996","fromSide":"left","toNode":"1e7bd4944dcb9329","toSide":"right"},
 		{"id":"c7071f9c9a4c3874","fromNode":"3b54c8aa92d20996","fromSide":"top","toNode":"9991adc66e5e5a79","toSide":"bottom"},
 		{"id":"e5defd2aee62ac09","fromNode":"3b54c8aa92d20996","fromSide":"bottom","toNode":"3b0a11ec497b3a6f","toSide":"top"},
-		{"id":"d8d1fdc4ca83649d","fromNode":"3b54c8aa92d20996","fromSide":"right","toNode":"49ce746910cf94b1","toSide":"left"}
+		{"id":"d8d1fdc4ca83649d","fromNode":"3b54c8aa92d20996","fromSide":"right","toNode":"49ce746910cf94b1","toSide":"left"},
+		{"id":"5a61486e48c3b6d1","fromNode":"3b54c8aa92d20996","fromSide":"bottom","toNode":"e32879c0b0d37173","toSide":"right","label":"気味"},
+		{"id":"cbe4c32e1ebc45ed","fromNode":"e32879c0b0d37173","fromSide":"left","toNode":"a51e0edeaa18da46","toSide":"right"}
 	]
 }

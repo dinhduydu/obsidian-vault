@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2e3afbc9945a355c","type":"file","file":"Pasted image 20260409080315.png","x":-60,"y":-80,"width":400,"height":219},
+		{"id":"80d7f405fb1fb1ed","type":"text","text":"末に","x":-320,"y":0,"width":94,"height":60},
+		{"id":"9c4777856ae644ae","type":"file","file":"Pasted image 20260409080224.png","x":-60,"y":-380,"width":400,"height":206},
+		{"id":"50099d370549fa6a","x":-510,"y":139,"width":380,"height":160,"type":"text","text":"\n- **Cách dùng:** Diễn tả kết quả sau một quá trình dài hoặc sau khi đã rất nỗ lực/trăn trở.\n- **Ý nghĩa:** \"**Sau một hồi... cuối cùng kết quả là...**\"."}
+	],
+	"edges":[
+		{"id":"9d78c753e4439179","fromNode":"80d7f405fb1fb1ed","fromSide":"right","toNode":"2e3afbc9945a355c","toSide":"left"},
+		{"id":"cc94ae77f440c1e7","fromNode":"9c4777856ae644ae","fromSide":"bottom","toNode":"2e3afbc9945a355c","toSide":"top"},
+		{"id":"15e1b7af28fa4590","fromNode":"80d7f405fb1fb1ed","fromSide":"bottom","toNode":"50099d370549fa6a","toSide":"top"}
+	]
+}

@@ -5,16 +5,20 @@
 		{"id":"975e9c8d0017a190","type":"file","file":"Pasted image 20260412125732.png","x":-1360,"y":-600,"width":400,"height":381},
 		{"id":"c553f93ba487dfcf","type":"file","file":"Pasted image 20260412125744.png","x":-1360,"y":-49,"width":400,"height":382},
 		{"id":"3ffc17b7468fdce4","type":"file","file":"Pasted image 20260412130450.png","x":-647,"y":-133,"width":399,"height":218},
-		{"id":"ad0efa12997e0cdc","type":"file","file":"Pasted image 20260412130521.png","x":-1940,"y":80,"width":399,"height":87},
 		{"id":"7132aab3b953c744","type":"file","file":"Pasted image 20260412131020.png","x":-1360,"y":-1200,"width":400,"height":397},
-		{"id":"4307829874b6e8e6","x":-2040,"y":-560,"width":400,"height":213,"type":"file","file":"Pasted image 20260412131925.png"}
+		{"id":"4307829874b6e8e6","type":"file","file":"Pasted image 20260412131925.png","x":-2040,"y":-560,"width":400,"height":213},
+		{"id":"ad0efa12997e0cdc","type":"file","file":"Pasted image 20260412130521.png","x":-2920,"y":109,"width":399,"height":87},
+		{"id":"e9849b0a09e9bf15","type":"file","file":"Pasted image 20260412212705.png","x":-2040,"y":109,"width":400,"height":97},
+		{"id":"27e60c2b4f04ca36","x":-3001,"y":320,"width":480,"height":262,"type":"file","file":"Pasted image 20260412213437.png"}
 	],
 	"edges":[
 		{"id":"c6f3a645747f9605","fromNode":"b142788961a6e960","fromSide":"left","toNode":"66d38e78cf9af374","toSide":"right"},
 		{"id":"cd1ab2713cf008a5","fromNode":"66d38e78cf9af374","fromSide":"left","toNode":"975e9c8d0017a190","toSide":"right"},
 		{"id":"c547cd8c7be90401","fromNode":"66d38e78cf9af374","fromSide":"left","toNode":"c553f93ba487dfcf","toSide":"right"},
-		{"id":"35c492e588ebf99a","fromNode":"c553f93ba487dfcf","fromSide":"left","toNode":"ad0efa12997e0cdc","toSide":"right"},
+		{"id":"35c492e588ebf99a","fromNode":"e9849b0a09e9bf15","fromSide":"left","toNode":"ad0efa12997e0cdc","toSide":"right","label":"どころではない"},
 		{"id":"8e48618a47768367","fromNode":"7132aab3b953c744","fromSide":"bottom","toNode":"975e9c8d0017a190","toSide":"top"},
-		{"id":"fe49d7fac8014c6b","fromNode":"975e9c8d0017a190","fromSide":"left","toNode":"4307829874b6e8e6","toSide":"right"}
+		{"id":"fe49d7fac8014c6b","fromNode":"975e9c8d0017a190","fromSide":"left","toNode":"4307829874b6e8e6","toSide":"right"},
+		{"id":"444d101e307eb2c5","fromNode":"c553f93ba487dfcf","fromSide":"left","toNode":"e9849b0a09e9bf15","toSide":"right"},
+		{"id":"43e17be27415d245","fromNode":"e9849b0a09e9bf15","fromSide":"left","toNode":"27e60c2b4f04ca36","toSide":"right","label":"どころではない"}
 	]
 }

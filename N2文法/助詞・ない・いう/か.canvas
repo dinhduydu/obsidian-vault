@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"1889f1eee2f61630","type":"text","text":"か","x":-155,"y":-62,"width":250,"height":60},
+		{"id":"027d1094a420e132","type":"text","text":"ものか　（もんか）","x":-155,"y":-300,"width":250,"height":60},
+		{"id":"ef5e19fac202ce57","type":"text","text":"どころか","x":-673,"y":-88,"width":250,"height":60},
+		{"id":"31a466ac4fa8bdb7","type":"text","text":"じゃないか","x":-646,"y":-495,"width":250,"height":60},
+		{"id":"720c2b024a4f1715","type":"text","text":"ではないか","x":-646,"y":-270,"width":250,"height":60},
+		{"id":"7b2c6898370e3f09","type":"text","text":"なんか・なて","x":200,"y":-234,"width":250,"height":60},
+		{"id":"e71302f04e4d7902","type":"file","file":"Pasted image 20260412212617.png","x":280,"y":-80,"width":400,"height":97},
+		{"id":"91e2c39325ede92d","x":920,"y":-132,"width":400,"height":202,"type":"file","file":"Pasted image 20260412212824.png"}
+	],
+	"edges":[
+		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top"},
+		{"id":"178822e0efaae955","fromNode":"ef5e19fac202ce57","fromSide":"right","toNode":"1889f1eee2f61630","toSide":"left"},
+		{"id":"af579e2acd991c8b","fromNode":"720c2b024a4f1715","fromSide":"right","toNode":"1889f1eee2f61630","toSide":"left"},
+		{"id":"9a27b60a10e0a53a","fromNode":"31a466ac4fa8bdb7","fromSide":"right","toNode":"1889f1eee2f61630","toSide":"left"},
+		{"id":"69925fbca965d47c","fromNode":"7b2c6898370e3f09","fromSide":"left","toNode":"1889f1eee2f61630","toSide":"top"},
+		{"id":"8d1aa546f10a867e","fromNode":"1889f1eee2f61630","fromSide":"right","toNode":"e71302f04e4d7902","toSide":"left"},
+		{"id":"6c4b20bb45b32ca0","fromNode":"e71302f04e4d7902","fromSide":"right","toNode":"91e2c39325ede92d","toSide":"left"}
+	]
+}

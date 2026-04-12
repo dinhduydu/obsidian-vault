@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b6911b4630d01961","type":"file","file":"Pasted image 20260412210458.png","x":-620,"y":-82,"width":399,"height":213},
+		{"id":"08fff89a8d501f12","type":"text","text":"なら","x":120,"y":-5,"width":250,"height":60},
+		{"id":"effaf93436de7f4d","x":-1260,"y":-76,"width":400,"height":207,"type":"file","file":"Pasted image 20260412210925.png"}
+	],
+	"edges":[
+		{"id":"bd534816bf10ceea","fromNode":"08fff89a8d501f12","fromSide":"left","toNode":"b6911b4630d01961","toSide":"right","label":"ならともかく"},
+		{"id":"579a483457b32397","fromNode":"b6911b4630d01961","fromSide":"left","toNode":"effaf93436de7f4d","toSide":"right"}
+	]
+}

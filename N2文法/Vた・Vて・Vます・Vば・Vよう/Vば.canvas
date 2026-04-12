@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb89ed896538639d","type":"file","file":"Pasted image 20260412211708.png","x":-740,"y":-122,"width":400,"height":220},
+		{"id":"6da6e2e21ee8c3ed","x":-740,"y":-480,"width":400,"height":216,"type":"file","file":"Pasted image 20260412211927.png"},
+		{"id":"65ac7a25c9caadc9","type":"text","text":"Vば","x":60,"y":-41,"width":250,"height":58}
+	],
+	"edges":[
+		{"id":"4d10b4a29240c25e","fromNode":"65ac7a25c9caadc9","fromSide":"left","toNode":"fb89ed896538639d","toSide":"right","label":"Vばそれまでだ"},
+		{"id":"8290e091ecd14d3c","fromNode":"65ac7a25c9caadc9","fromSide":"top","toNode":"6da6e2e21ee8c3ed","toSide":"right","label":"Vばこそ"}
+	]
+}

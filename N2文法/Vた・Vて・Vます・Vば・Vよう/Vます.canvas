@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"9f4a4f87f711ce01","type":"text","text":"Vます","x":-780,"y":-338,"width":250,"height":60},
+		{"id":"ded1f25379408bd8","type":"file","file":"Pasted image 20260410084023.png","x":-327,"y":-278,"width":406,"height":225},
+		{"id":"fe33c57c48b0046f","type":"text","text":"Vます　かねる","x":643,"y":-283,"width":250,"height":60},
+		{"id":"179df47ece104dd6","type":"text","text":"Vます　かねない","x":643,"y":-35,"width":250,"height":60},
+		{"id":"0e3202967cc0c886","type":"text","text":"かね","x":203,"y":-195,"width":250,"height":60},
+		{"id":"b1a1192ddf2c5327","type":"text","text":"がたい","x":293,"y":-448,"width":250,"height":60},
+		{"id":"a3ee7d3ce848382e","type":"file","file":"N2文法/そう・よう/よう.canvas","x":280,"y":-920,"width":380,"height":400},
+		{"id":"1be10d9840c413c6","type":"text","text":"Vますようがない","x":814,"y":-773,"width":250,"height":60},
+		{"id":"2fb92f7af8a0c014","type":"text","text":"Vますようもない","x":823,"y":-685,"width":250,"height":60},
+		{"id":"f2e4ad179d5c6558","type":"file","file":"Pasted image 20260410084100.png","x":-327,"y":-845,"width":399,"height":204},
+		{"id":"a6d9c52fbf266e75","type":"file","file":"Pasted image 20260412204956.png","x":-855,"y":-80,"width":400,"height":216},
+		{"id":"a6eaba45fdfe05f3","type":"file","file":"Pasted image 20260412211320.png","x":-1640,"y":-416,"width":400,"height":216},
+		{"id":"cd0658519ce72687","type":"file","file":"Pasted image 20260412211459.png","x":-1400,"y":-901,"width":400,"height":216},
+		{"id":"724b890b214a75d8","type":"file","file":"Pasted image 20260412211522.png","x":-2580,"y":-685,"width":553,"height":305},
+		{"id":"18de845c2ee666c9","type":"file","file":"Pasted image 20260412211540.png","x":-1240,"y":-1300,"width":400,"height":214},
+		{"id":"e4f9b29c481b1fb9","type":"file","file":"Pasted image 20260412211607.png","x":-360,"y":-1193,"width":400,"height":214},
+		{"id":"83cda2f50e1158f9","x":-2427,"y":-1060,"width":400,"height":187,"type":"file","file":"Pasted image 20260412212530.png"}
+	],
+	"edges":[
+		{"id":"cc3253ba0c86c40f","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"ded1f25379408bd8","toSide":"left","label":"かね"},
+		{"id":"61889472b5b4eae1","fromNode":"0e3202967cc0c886","fromSide":"right","toNode":"fe33c57c48b0046f","toSide":"left"},
+		{"id":"39884163ca91aae6","fromNode":"0e3202967cc0c886","fromSide":"right","toNode":"179df47ece104dd6","toSide":"left"},
+		{"id":"54da9c5dbe05dd88","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"f2e4ad179d5c6558","toSide":"left","label":"がたい・よう"},
+		{"id":"3dc24d1922474fbd","fromNode":"a3ee7d3ce848382e","fromSide":"right","toNode":"1be10d9840c413c6","toSide":"left"},
+		{"id":"c5d650839deacfc3","fromNode":"a3ee7d3ce848382e","fromSide":"right","toNode":"2fb92f7af8a0c014","toSide":"left"},
+		{"id":"38e2776dbf73d652","fromNode":"ded1f25379408bd8","fromSide":"right","toNode":"0e3202967cc0c886","toSide":"left"},
+		{"id":"eb7e821c014bf650","fromNode":"f2e4ad179d5c6558","fromSide":"right","toNode":"a3ee7d3ce848382e","toSide":"left"},
+		{"id":"e670c2088e625d9f","fromNode":"f2e4ad179d5c6558","fromSide":"right","toNode":"b1a1192ddf2c5327","toSide":"left"},
+		{"id":"e091bd5a053e36dd","fromNode":"9f4a4f87f711ce01","fromSide":"bottom","toNode":"a6d9c52fbf266e75","toSide":"top","label":"ぬく"},
+		{"id":"35009cf051e83705","fromNode":"9f4a4f87f711ce01","fromSide":"left","toNode":"a6eaba45fdfe05f3","toSide":"right","label":"気味"},
+		{"id":"883ccb6f44ade57b","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"cd0658519ce72687","toSide":"right","label":"がち"},
+		{"id":"5df3daa3bafb4289","fromNode":"a6eaba45fdfe05f3","fromSide":"left","toNode":"724b890b214a75d8","toSide":"right"},
+		{"id":"a917e511bcacfc73","fromNode":"cd0658519ce72687","fromSide":"left","toNode":"724b890b214a75d8","toSide":"right"},
+		{"id":"1b97c908083cc9af","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"18de845c2ee666c9","toSide":"right","label":"ぶり・ふり"},
+		{"id":"02c91fa553c2ea9a","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"e4f9b29c481b1fb9","toSide":"left","label":"得る・得ない"},
+		{"id":"1a151f3dcb436ce4","fromNode":"cd0658519ce72687","fromSide":"left","toNode":"83cda2f50e1158f9","toSide":"right"},
+		{"id":"e824425697582d46","fromNode":"a6eaba45fdfe05f3","fromSide":"left","toNode":"83cda2f50e1158f9","toSide":"right"}
+	]
+}
