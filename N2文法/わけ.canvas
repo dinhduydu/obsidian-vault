@@ -1,21 +1,33 @@
 {
 	"nodes":[
-		{"id":"05a71ee5e27f6973","type":"file","file":"N2文法/こと・もの/もの.canvas","x":537,"y":-324,"width":400,"height":400},
 		{"id":"53afe6c090728073","type":"text","text":"わけ","x":-640,"y":-100,"width":250,"height":60},
-		{"id":"22e7b56e00f03d0d","type":"text","text":"わけがない","x":-237,"y":-81,"width":250,"height":60},
-		{"id":"8975d8cbe90382d1","type":"text","text":"わけだ","x":-200,"y":-600,"width":250,"height":60},
-		{"id":"ea4dbb9846b39329","type":"text","text":"わけではない","x":-177,"y":-479,"width":250,"height":60},
-		{"id":"3ba43745be21dfed","type":"text","text":"わけでもない","x":-160,"y":-356,"width":250,"height":60},
-		{"id":"7189fbc5e15d9884","type":"text","text":"わけにはいかない","x":-140,"y":-265,"width":250,"height":60},
-		{"id":"2e5e4e69aa546f40","type":"file","file":"Pasted image 20260409005115.png","x":260,"y":-900,"width":715,"height":391}
+		{"id":"cdd89594633c1129","type":"file","file":"Pasted image 20260410080116.png","x":-235,"y":76,"width":400,"height":200},
+		{"id":"05a71ee5e27f6973","type":"file","file":"N2文法/こと・もの/もの.canvas","x":975,"y":-24,"width":400,"height":400},
+		{"id":"3e7252fbcc72d3f7","type":"file","file":"Pasted image 20260410081220.png","x":-235,"y":-320,"width":598,"height":331},
+		{"id":"23801a156da1dd81","type":"file","file":"Pasted image 20260410081043.png","x":-1560,"y":-759,"width":562,"height":310},
+		{"id":"8975d8cbe90382d1","type":"text","text":"わけだ","x":-515,"y":-789,"width":250,"height":60},
+		{"id":"ea4dbb9846b39329","type":"text","text":"わけではない・わけでもない","x":-515,"y":-634,"width":295,"height":60},
+		{"id":"22e7b56e00f03d0d","type":"text","text":"わけがない","x":410,"y":146,"width":250,"height":60},
+		{"id":"7189fbc5e15d9884","type":"text","text":"わけにはいかない","x":925,"y":-184,"width":250,"height":64},
+		{"id":"25828d0eb515e131","x":-534,"y":-1360,"width":288,"height":400,"type":"file","file":"Pasted image 20260412135525.png"},
+		{"id":"2e5e4e69aa546f40","type":"file","file":"Pasted image 20260409005115.png","x":460,"y":-1320,"width":715,"height":391},
+		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":135,"y":-656,"width":400,"height":105}
 	],
 	"edges":[
-		{"id":"6e015eaa0965fe09","fromNode":"53afe6c090728073","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"left"},
 		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},
-		{"id":"00885ada71f48b36","fromNode":"53afe6c090728073","fromSide":"right","toNode":"8975d8cbe90382d1","toSide":"left"},
-		{"id":"a24a8937256d0146","fromNode":"53afe6c090728073","fromSide":"right","toNode":"ea4dbb9846b39329","toSide":"left"},
-		{"id":"5a453068d651100d","fromNode":"53afe6c090728073","fromSide":"right","toNode":"3ba43745be21dfed","toSide":"left"},
-		{"id":"3fb8a8b7a95f6ce5","fromNode":"53afe6c090728073","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"left"},
-		{"id":"5ba38a1387081f77","fromNode":"8975d8cbe90382d1","fromSide":"right","toNode":"2e5e4e69aa546f40","toSide":"left"}
+		{"id":"5ba38a1387081f77","fromNode":"8975d8cbe90382d1","fromSide":"right","toNode":"2e5e4e69aa546f40","toSide":"left","label":"わけだ"},
+		{"id":"94cd349fb0aa88b1","fromNode":"ea4dbb9846b39329","fromSide":"right","toNode":"20296cc5a38e1df8","toSide":"left","label":"わけではない"},
+		{"id":"5ccc9e12f869f13d","fromNode":"53afe6c090728073","fromSide":"right","toNode":"cdd89594633c1129","toSide":"left"},
+		{"id":"71a70ad7b608c951","fromNode":"cdd89594633c1129","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"left"},
+		{"id":"6958f54fcc8bb06d","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"8975d8cbe90382d1","toSide":"left"},
+		{"id":"a9ae0d8ab60c5a6c","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"ea4dbb9846b39329","toSide":"left"},
+		{"id":"1c96962f91bc32e7","fromNode":"53afe6c090728073","fromSide":"top","toNode":"23801a156da1dd81","toSide":"bottom"},
+		{"id":"34d48984a1a52277","fromNode":"3e7252fbcc72d3f7","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"left"},
+		{"id":"c6f10546049954c1","fromNode":"53afe6c090728073","fromSide":"right","toNode":"3e7252fbcc72d3f7","toSide":"left"},
+		{"id":"2d3ceffc8145c6b7","fromNode":"3e7252fbcc72d3f7","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"top"},
+		{"id":"9079b8e74ba9ff45","fromNode":"25828d0eb515e131","fromSide":"left","toNode":"ea4dbb9846b39329","toSide":"left","label":"わけではない"},
+		{"id":"a761c2d81e1d160e","fromNode":"25828d0eb515e131","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"top"},
+		{"id":"60695c92c905aca5","fromNode":"25828d0eb515e131","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"top","label":"わけにはいかない"},
+		{"id":"5f74f3a67aba3534","fromNode":"25828d0eb515e131","fromSide":"bottom","toNode":"8975d8cbe90382d1","toSide":"top","label":"わけだ"}
 	]
 }

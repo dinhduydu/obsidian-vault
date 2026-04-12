@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"2e077217c00393bb","type":"file","file":"Pasted image 20260412125011.png","x":-400,"y":-220,"width":400,"height":256},
+		{"id":"2899c22d54e7b7d6","type":"text","text":"ない","x":300,"y":-122,"width":250,"height":60},
+		{"id":"b848121aa389cec9","type":"file","file":"Pasted image 20260412125337.png","x":-1060,"y":20,"width":399,"height":213},
+		{"id":"b393ef6811102d8f","type":"file","file":"Pasted image 20260412125432.png","x":-1060,"y":420,"width":400,"height":214},
+		{"id":"35abcf67ff896f36","type":"file","file":"Pasted image 20260412130745.png","x":880,"y":-648,"width":265,"height":400},
+		{"id":"094cab77f116e8d6","type":"file","file":"Pasted image 20260412131458.png","x":-1800,"y":260,"width":400,"height":217},
+		{"id":"97602be346709a88","type":"file","file":"Pasted image 20260412131700.png","x":980,"y":60,"width":399,"height":232},
+		{"id":"3626f0bd08859c22","type":"file","file":"Pasted image 20260412131041.png","x":-400,"y":1095,"width":400,"height":397},
+		{"id":"83c51f16bee77245","type":"file","file":"Pasted image 20260412132404.png","x":-1800,"y":600,"width":399,"height":215},
+		{"id":"ccdf01afd8fdac42","type":"file","file":"Pasted image 20260412132751.png","x":-1800,"y":880,"width":400,"height":221},
+		{"id":"ffef00becbb25fa6","type":"file","file":"Pasted image 20260412125114.png","x":-500,"y":-1480,"width":399,"height":271},
+		{"id":"9d70c912dae9a84b","type":"file","file":"Pasted image 20260412125452.png","x":-1160,"y":-1450,"width":399,"height":212},
+		{"id":"9e72cf5a80a0754a","type":"file","file":"Pasted image 20260412130541.png","x":-1680,"y":-1395,"width":399,"height":102},
+		{"id":"1a13f57fba15a25d","type":"file","file":"Pasted image 20260412125204.png","x":-1061,"y":-520,"width":400,"height":223},
+		{"id":"f79726e091073674","type":"file","file":"Pasted image 20260412125415.png","x":-1681,"y":-355,"width":399,"height":215},
+		{"id":"16cab65679da0a10","type":"file","file":"Pasted image 20260412132004.png","x":-1401,"y":1121,"width":660,"height":346},
+		{"id":"989d723dda9efae3","type":"file","file":"Pasted image 20260409005009.png","x":-1219,"y":-1160,"width":716,"height":412}
+	],
+	"edges":[
+		{"id":"470e923f9a22780c","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"2e077217c00393bb","toSide":"right"},
+		{"id":"cabca0ebc5e2d9a8","fromNode":"2899c22d54e7b7d6","fromSide":"top","toNode":"ffef00becbb25fa6","toSide":"right","label":"っこない"},
+		{"id":"93a980e2b9aab98f","fromNode":"2e077217c00393bb","fromSide":"left","toNode":"1a13f57fba15a25d","toSide":"right","label":"ざるを得ない"},
+		{"id":"eeaeb7417efbd393","fromNode":"2e077217c00393bb","fromSide":"left","toNode":"b848121aa389cec9","toSide":"right","label":"ほかはない"},
+		{"id":"ed671236c1b0d250","fromNode":"1a13f57fba15a25d","fromSide":"left","toNode":"f79726e091073674","toSide":"right"},
+		{"id":"d621cd1c6651c860","fromNode":"b848121aa389cec9","fromSide":"left","toNode":"f79726e091073674","toSide":"right"},
+		{"id":"f35e9a3b263792a5","fromNode":"2e077217c00393bb","fromSide":"left","toNode":"b393ef6811102d8f","toSide":"right","label":"ずにいられない"},
+		{"id":"f6a5b5efa918d458","fromNode":"ffef00becbb25fa6","fromSide":"left","toNode":"9d70c912dae9a84b","toSide":"right"},
+		{"id":"8533a8ec97e99ac5","fromNode":"9d70c912dae9a84b","fromSide":"left","toNode":"9e72cf5a80a0754a","toSide":"right"},
+		{"id":"3e3db74088834d72","fromNode":"2899c22d54e7b7d6","fromSide":"top","toNode":"35abcf67ff896f36","toSide":"left"},
+		{"id":"ec2cf93a2f36dda7","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"3626f0bd08859c22","toSide":"right","label":"ないではない"},
+		{"id":"f214a3f0caa5a679","fromNode":"b393ef6811102d8f","fromSide":"left","toNode":"094cab77f116e8d6","toSide":"right"},
+		{"id":"5bee7cf6a418ab2a","fromNode":"2899c22d54e7b7d6","fromSide":"right","toNode":"97602be346709a88","toSide":"left","label":"ないこと"},
+		{"id":"318b716f2881cdc8","fromNode":"3626f0bd08859c22","fromSide":"left","toNode":"16cab65679da0a10","toSide":"right"},
+		{"id":"6728e6e81cd5ab92","fromNode":"b393ef6811102d8f","fromSide":"left","toNode":"83c51f16bee77245","toSide":"right"},
+		{"id":"c0cca71c2f5dccc7","fromNode":"b393ef6811102d8f","fromSide":"left","toNode":"ccdf01afd8fdac42","toSide":"right"},
+		{"id":"109a78d12c62010a","fromNode":"2899c22d54e7b7d6","fromSide":"top","toNode":"989d723dda9efae3","toSide":"right","label":"にほかならない"}
+	]
+}

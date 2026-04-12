@@ -1,22 +1,32 @@
 {
 	"nodes":[
-		{"id":"bfa998af4a61f906","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":-360,"y":-100,"width":270,"height":92},
-		{"id":"8bc3fa4ca0a50bde","type":"text","text":"＝のみだ","x":-129,"y":293,"width":250,"height":60},
 		{"id":"5c650e6d795aa008","type":"text","text":"だけ","x":-694,"y":-282,"width":250,"height":60},
 		{"id":"0fa92f817465bdbf","type":"text","text":"だけに・だけで","x":-855,"y":-14,"width":250,"height":60},
 		{"id":"f60d6a7a8cea8e43","type":"file","file":"N2文法/あまり・だけ/だけ.canvas","x":-1720,"y":-184,"width":400,"height":400},
-		{"id":"ba041c493a549f59","type":"text","text":"～だけ～","x":-539,"y":-573,"width":250,"height":60},
-		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり.canvas","x":353,"y":-482,"width":400,"height":400},
-		{"id":"d7319e0c92f4c045","type":"file","file":"Pasted image 20260409002811.png","x":353,"y":-8,"width":507,"height":247}
+		{"id":"ba041c493a549f59","type":"text","text":"～だけ～","x":-539,"y":-563,"width":250,"height":50},
+		{"id":"a2d268a4195a944a","type":"file","file":"Pasted image 20260409080213.png","x":-160,"y":-800,"width":399,"height":214},
+		{"id":"1f49bbba2bdbd3ab","type":"file","file":"Pasted image 20260409011030.png","x":-1400,"y":-803,"width":399,"height":217},
+		{"id":"ecd43a6dae4f96f0","type":"file","file":"Pasted image 20260409080224.png","x":-769,"y":-1360,"width":400,"height":206},
+		{"id":"0731b7d1630778dd","type":"file","file":"Pasted image 20260409080605.png","x":-1720,"y":-513,"width":400,"height":208},
+		{"id":"bfa998af4a61f906","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":440,"y":-252,"width":270,"height":92},
+		{"id":"8bc3fa4ca0a50bde","type":"text","text":"＝のみだ","x":671,"y":141,"width":250,"height":60},
+		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり.canvas","x":1153,"y":-634,"width":400,"height":400},
+		{"id":"d7319e0c92f4c045","type":"file","file":"Pasted image 20260409002811.png","x":1153,"y":-160,"width":507,"height":247},
+		{"id":"29176a39c245b34b","type":"text","text":"だけあって","x":-189,"y":154,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"688a3b36dcb8c614","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"900a8fb50fe48888","toSide":"left","label":"\n"},
 		{"id":"eaa29f8faf2613c6","fromNode":"bfa998af4a61f906","fromSide":"bottom","toNode":"8bc3fa4ca0a50bde","toSide":"top","label":"trang trọng, văn viết"},
-		{"id":"d13236dea9a1a847","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"top"},
 		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"0fa92f817465bdbf","toSide":"top"},
 		{"id":"78b7626bf45e2bf2","fromNode":"0fa92f817465bdbf","fromSide":"left","toNode":"f60d6a7a8cea8e43","toSide":"right","label":"\n"},
-		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"},
 		{"id":"d8ff1a3445250c41","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"d7319e0c92f4c045","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
-		{"id":"b647a2223fc1100c","fromNode":"d7319e0c92f4c045","fromSide":"top","toNode":"900a8fb50fe48888","toSide":"bottom"}
+		{"id":"b647a2223fc1100c","fromNode":"d7319e0c92f4c045","fromSide":"top","toNode":"900a8fb50fe48888","toSide":"bottom"},
+		{"id":"86a98dc132120f64","fromNode":"5c650e6d795aa008","fromSide":"left","toNode":"1f49bbba2bdbd3ab","toSide":"right"},
+		{"id":"2b77bc31a84f3440","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"a2d268a4195a944a","toSide":"bottom"},
+		{"id":"5955b7585f833c6b","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"a2d268a4195a944a","toSide":"top"},
+		{"id":"8b9490a9aa0fd0a8","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"1f49bbba2bdbd3ab","toSide":"top"},
+		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"},
+		{"id":"468fc0a3c311aa11","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"left"},
+		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top"}
 	]
 }

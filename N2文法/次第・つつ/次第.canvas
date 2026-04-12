@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"7772a5c888f411aa","x":-20,"y":-140,"width":400,"height":233,"type":"file","file":"Pasted image 20260409080020.png"},
+		{"id":"b15d1be6a8f5d24a","x":-440,"y":-53,"width":250,"height":60,"type":"text","text":"次第"},
+		{"id":"36a135f9d0106166","x":-20,"y":-500,"width":400,"height":158,"type":"file","file":"Pasted image 20260409080102.png"}
+	],
+	"edges":[
+		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},
+		{"id":"1fa46ef792b6e24e","fromNode":"36a135f9d0106166","fromSide":"bottom","toNode":"7772a5c888f411aa","toSide":"top"}
+	]
+}

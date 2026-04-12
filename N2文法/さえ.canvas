@@ -4,12 +4,22 @@
 		{"id":"b69613e0c2a9eeb7","type":"text","text":"さえば","x":-113,"y":170,"width":250,"height":60},
 		{"id":"0e9c7d9b21e1dcd6","type":"text","text":"ただでさえ","x":-120,"y":-280,"width":250,"height":60},
 		{"id":"55c36f436f5d3b98","type":"text","text":"～たら～で","x":-617,"y":-302,"width":250,"height":60},
-		{"id":"e19bc64456191739","x":-659,"y":-9,"width":250,"height":60,"type":"text","text":"すら"}
+		{"id":"e19bc64456191739","type":"text","text":"すら","x":-659,"y":-9,"width":250,"height":60},
+		{"id":"07c78ab1213f7d60","type":"file","file":"Pasted image 20260409075912.png","x":-188,"y":320,"width":400,"height":214},
+		{"id":"13cf84ccc9ff8e65","type":"text","text":"でさえ","x":628,"y":-229,"width":250,"height":60},
+		{"id":"59c163b75a4bb9e3","type":"file","file":"Pasted image 20260409080415.png","x":553,"y":-520,"width":400,"height":211},
+		{"id":"e6a561c92581430c","type":"file","file":"Pasted image 20260409080224.png","x":553,"y":-820,"width":400,"height":206},
+		{"id":"3bbf41592dcc87ef","type":"file","file":"Pasted image 20260409080659.png","x":1060,"y":-303,"width":400,"height":208}
 	],
 	"edges":[
 		{"id":"ef4532dfd6badd10","fromNode":"101f6d284a5f87a2","fromSide":"bottom","toNode":"b69613e0c2a9eeb7","toSide":"top"},
 		{"id":"760ff424a95afc99","fromNode":"0e9c7d9b21e1dcd6","fromSide":"bottom","toNode":"101f6d284a5f87a2","toSide":"top"},
 		{"id":"c4309fb16fe4e982","fromNode":"0e9c7d9b21e1dcd6","fromSide":"left","toNode":"55c36f436f5d3b98","toSide":"right"},
-		{"id":"960fc0ac8976033e","fromNode":"101f6d284a5f87a2","fromSide":"left","toNode":"e19bc64456191739","toSide":"right"}
+		{"id":"960fc0ac8976033e","fromNode":"101f6d284a5f87a2","fromSide":"left","toNode":"e19bc64456191739","toSide":"right"},
+		{"id":"43f355291599568a","fromNode":"b69613e0c2a9eeb7","fromSide":"bottom","toNode":"07c78ab1213f7d60","toSide":"top"},
+		{"id":"84fbf9ffe90cf0d3","fromNode":"13cf84ccc9ff8e65","fromSide":"left","toNode":"101f6d284a5f87a2","toSide":"right"},
+		{"id":"0b23f0a2c30a4962","fromNode":"59c163b75a4bb9e3","fromSide":"bottom","toNode":"13cf84ccc9ff8e65","toSide":"top"},
+		{"id":"4899d5dcc52f7422","fromNode":"e6a561c92581430c","fromSide":"bottom","toNode":"59c163b75a4bb9e3","toSide":"top"},
+		{"id":"d65dd52dd47e859e","fromNode":"13cf84ccc9ff8e65","fromSide":"right","toNode":"3bbf41592dcc87ef","toSide":"left"}
 	]
 }

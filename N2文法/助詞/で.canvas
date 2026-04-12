@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"dd369843eef60e68","x":549,"y":-76,"width":250,"height":60,"type":"text","text":"でございます"},
-		{"id":"80580c87611e8383","x":36,"y":-76,"width":250,"height":60,"type":"text","text":"です"},
-		{"id":"c1e44fd41806a944","x":-380,"y":-76,"width":250,"height":60,"type":"text","text":"で"}
+		{"id":"dd369843eef60e68","type":"text","text":"でございます","x":549,"y":-76,"width":250,"height":60},
+		{"id":"80580c87611e8383","type":"text","text":"です","x":36,"y":-76,"width":250,"height":60},
+		{"id":"c1e44fd41806a944","type":"text","text":"で","x":-380,"y":-76,"width":250,"height":60},
+		{"id":"a9946dea8a64c04d","type":"file","file":"Pasted image 20260410080250.png","x":-39,"y":120,"width":400,"height":111}
 	],
 	"edges":[
 		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left"},
-		{"id":"4b0860e594f0ea2f","fromNode":"80580c87611e8383","fromSide":"right","toNode":"dd369843eef60e68","toSide":"left"}
+		{"id":"4b0860e594f0ea2f","fromNode":"80580c87611e8383","fromSide":"right","toNode":"dd369843eef60e68","toSide":"left"},
+		{"id":"72ab35c897eeaeb6","fromNode":"80580c87611e8383","fromSide":"bottom","toNode":"a9946dea8a64c04d","toSide":"top"}
 	]
 }

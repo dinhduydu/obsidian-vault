@@ -1,15 +1,20 @@
 {
 	"nodes":[
-		{"id":"2d6aa1a52d8d20a7","type":"text","text":"Vたところ**で**\nDẫu cho có làm A thì cũng vô dụng","x":367,"y":-132,"width":273,"height":92},
-		{"id":"8bcd27fac9419228","type":"text","text":"Vたところ**が**\nLàm A nhưng bất ngờ nhận được kết quả B ngược lại","x":367,"y":30,"width":302,"height":95},
-		{"id":"388bf00239a8f2c6","type":"text","text":"Vたところ\nSau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":-60,"y":-290,"width":268,"height":98},
-		{"id":"bf4ae3e1ac96e46d","type":"text","text":"ところ","x":-480,"y":-440,"width":250,"height":60},
-		{"id":"6e5a6e8ade15f2ca","x":17,"y":-763,"width":250,"height":60,"type":"text","text":"ところへ"}
+		{"id":"6e5a6e8ade15f2ca","type":"text","text":"ところへ","x":17,"y":-763,"width":250,"height":60},
+		{"id":"bf4ae3e1ac96e46d","type":"text","text":"ところ","x":-805,"y":-380,"width":250,"height":60},
+		{"id":"22eef828175a996a","type":"file","file":"Pasted image 20260410075032.png","x":-300,"y":-380,"width":400,"height":219},
+		{"id":"19b8a68fb814b11e","type":"file","file":"Pasted image 20260410083936.png","x":-348,"y":-86,"width":496,"height":272},
+		{"id":"2d6aa1a52d8d20a7","type":"text","text":"Vたところ**で**\nDẫu cho có làm A thì cũng vô dụng","x":847,"y":4,"width":273,"height":92},
+		{"id":"8bcd27fac9419228","type":"text","text":"Vたところ**が**\nLàm A nhưng bất ngờ nhận được kết quả B ngược lại","x":847,"y":166,"width":302,"height":95},
+		{"id":"388bf00239a8f2c6","type":"text","text":"Vたところ\nSau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":420,"y":-154,"width":268,"height":98}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"388bf00239a8f2c6","fromSide":"bottom","toNode":"8bcd27fac9419228","toSide":"left"},
-		{"id":"cba9786719602141","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"},
 		{"id":"6e4143bc2403f508","fromNode":"388bf00239a8f2c6","fromSide":"right","toNode":"2d6aa1a52d8d20a7","toSide":"left"},
-		{"id":"f43c1c6d2d3966a8","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"6e5a6e8ade15f2ca","toSide":"left"}
+		{"id":"f43c1c6d2d3966a8","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"6e5a6e8ade15f2ca","toSide":"left"},
+		{"id":"3276badb03f313ba","fromNode":"bf4ae3e1ac96e46d","fromSide":"right","toNode":"22eef828175a996a","toSide":"left"},
+		{"id":"b9697b7e3eb9693c","fromNode":"22eef828175a996a","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"},
+		{"id":"0e6c17fdb67982b6","fromNode":"22eef828175a996a","fromSide":"bottom","toNode":"19b8a68fb814b11e","toSide":"top"},
+		{"id":"d06c2a12f54f3717","fromNode":"19b8a68fb814b11e","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"}
 	]
 }

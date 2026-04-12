@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"7a279c96ae1bd0b1","x":-95,"y":-31,"width":250,"height":60,"type":"text","text":"つもりだ"}
+		{"id":"0d9e5d84a2c3dec3","type":"file","file":"Pasted image 20260410075138.png","x":-680,"y":-140,"width":511,"height":278},
+		{"id":"3b5842f77c6f41f3","type":"text","text":"つもり","x":109,"y":-355,"width":250,"height":60},
+		{"id":"7a279c96ae1bd0b1","type":"text","text":"つもりだ","x":109,"y":-51,"width":250,"height":50},
+		{"id":"ffb1c76105fc2089","type":"text","text":"つもりで","x":-1120,"y":-31,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d67796f94dc16286","fromNode":"3b5842f77c6f41f3","fromSide":"left","toNode":"0d9e5d84a2c3dec3","toSide":"right"},
+		{"id":"f558301eb735c2a0","fromNode":"3b5842f77c6f41f3","fromSide":"bottom","toNode":"7a279c96ae1bd0b1","toSide":"top"},
+		{"id":"55183303dd82d8f0","fromNode":"0d9e5d84a2c3dec3","fromSide":"left","toNode":"ffb1c76105fc2089","toSide":"right"}
+	]
 }

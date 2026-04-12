@@ -1,11 +1,25 @@
 {
 	"nodes":[
-		{"id":"55b175afad532f38","x":-162,"y":-31,"width":250,"height":60,"type":"text","text":"いう"},
-		{"id":"8cd8428551753e59","x":-500,"y":-31,"width":250,"height":60,"type":"text","text":"から"},
-		{"id":"d2209c220e41fa0f","x":220,"y":-31,"width":250,"height":60,"type":"text","text":"と"}
+		{"id":"ef315a213c6a4f4d","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-237,"y":-1100,"width":400,"height":400},
+		{"id":"49793be7f833ee81","type":"file","file":"Pasted image 20260410083325.png","x":-237,"y":-540,"width":400,"height":221},
+		{"id":"edacdc86c1803b74","type":"file","file":"Pasted image 20260410083552.png","x":-775,"y":-539,"width":400,"height":220},
+		{"id":"55b175afad532f38","type":"text","text":"いう","x":-162,"y":29,"width":250,"height":60},
+		{"id":"d2209c220e41fa0f","type":"text","text":"と","x":240,"y":29,"width":250,"height":60},
+		{"id":"56a821c3715444bd","type":"text","text":"という","x":-162,"y":-158,"width":250,"height":60},
+		{"id":"7965ea4a9af48b7e","type":"file","file":"Pasted image 20260410083626.png","x":365,"y":-536,"width":400,"height":217},
+		{"id":"e336e484ff937bbb","type":"file","file":"Pasted image 20260410084620.png","x":-840,"y":-37,"width":400,"height":193},
+		{"id":"1dac4fc2bcc7976c","type":"file","file":"Pasted image 20260412125807.png","x":-1380,"y":-517,"width":400,"height":198},
+		{"id":"dd62ef111c276240","x":900,"y":-529,"width":400,"height":210,"type":"file","file":"Pasted image 20260412130333.png"}
 	],
 	"edges":[
-		{"id":"0022ac8432fdc320","fromNode":"8cd8428551753e59","fromSide":"right","toNode":"55b175afad532f38","toSide":"left"},
-		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"}
+		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
+		{"id":"a255bba656af696c","fromNode":"56a821c3715444bd","fromSide":"top","toNode":"49793be7f833ee81","toSide":"bottom","label":"というものの"},
+		{"id":"539da42f4b331007","fromNode":"49793be7f833ee81","fromSide":"top","toNode":"ef315a213c6a4f4d","toSide":"bottom","label":"\n"},
+		{"id":"c66a1ccfbf0b82c4","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"edacdc86c1803b74","toSide":"bottom","label":"というもの"},
+		{"id":"9681c5afa1eda6d6","fromNode":"56a821c3715444bd","fromSide":"right","toNode":"7965ea4a9af48b7e","toSide":"bottom","label":"というのは"},
+		{"id":"55033ea6c4a41f61","fromNode":"55b175afad532f38","fromSide":"top","toNode":"56a821c3715444bd","toSide":"bottom"},
+		{"id":"b686696ed44af780","fromNode":"55b175afad532f38","fromSide":"left","toNode":"e336e484ff937bbb","toSide":"right","label":"からいう"},
+		{"id":"24d0b306d9c41cad","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"1dac4fc2bcc7976c","toSide":"bottom","label":"というより"},
+		{"id":"e0a9323c36e57784","fromNode":"56a821c3715444bd","fromSide":"right","toNode":"dd62ef111c276240","toSide":"bottom","label":"というと"}
 	]
 }

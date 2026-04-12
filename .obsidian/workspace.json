@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/複合動詞/複合動詞.canvas",
+                "file": "N2文法/わけ.canvas",
                 "viewState": {
-                  "x": 948.5,
-                  "y": 990,
-                  "zoom": -2.029191712714783
+                  "x": 222.93251294971455,
+                  "y": -1046.9157734120129,
+                  "zoom": -0.34702529763591355
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "複合動詞"
+              "title": "わけ"
             }
           },
           {
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/に.canvas",
+                "file": "N2文法/ない.canvas",
                 "viewState": {
-                  "x": -902.1418341767846,
-                  "y": 334.86211032334484,
-                  "zoom": -0.7586027177570769
+                  "x": -1278.909907464841,
+                  "y": -861.800585678076,
+                  "zoom": -0.7768764682830198
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "に"
+              "title": "ない"
             }
           },
           {
@@ -47,19 +47,87 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/から.canvas",
+                "file": "N2文法/助詞/に.canvas",
                 "viewState": {
-                  "x": 437.0910218986862,
-                  "y": 115,
-                  "zoom": -0.7214574994101753
+                  "x": -1079.3711833033237,
+                  "y": -584.3509035688056,
+                  "zoom": -0.45125193945746317
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "から"
+              "title": "に"
+            }
+          },
+          {
+            "id": "8d3eefdcbe58303b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/わけ.canvas",
+                "viewState": {
+                  "x": -197.43977913281236,
+                  "y": -553.1942245948583,
+                  "zoom": -1.3470252976359134
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "わけ"
+            }
+          },
+          {
+            "id": "3cfc4d3a92d8e47c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/復習.canvas",
+                "viewState": {
+                  "x": -1741.3429922581781,
+                  "y": 2423.623128728179,
+                  "zoom": -1.6921858401706908
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "復習"
+            }
+          },
+          {
+            "id": "3d62f1048ba4dc61",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/ところ・どころ/どころ.canvas",
+                "viewState": {
+                  "x": -1285.42089447876,
+                  "y": -402.2836752994397,
+                  "zoom": 0.17819995059679877
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "どころ"
+            }
+          },
+          {
+            "id": "18557a88699e10a4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/こと・もの/こと.canvas",
+                "viewState": {
+                  "x": 1315.8266792660152,
+                  "y": -246.92251885172527,
+                  "zoom": -0.18194038793750872
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "こと"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,31 +275,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb381355e90614b",
+  "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/Vて.canvas",
+    "Pasted image 20260412135525.png",
     "N2文法/助詞/と.canvas",
-    "N2文法/そう・よう/そう.canvas",
-    "N2文法/わけ.canvas",
-    "N2文法/はず.canvas",
-    "N2文法/複合動詞/Untitled.md",
-    "N2文法/第1課.md",
-    "N2文法/助詞/に.canvas",
-    "N2文法/複合動詞/複合動詞.canvas",
-    "Pasted image 20260409005641.png",
-    "Pasted image 20260409005552.png",
-    "Pasted image 20260409005322.png",
-    "Pasted image 20260409005137.png",
-    "Pasted image 20260409005115.png",
-    "Pasted image 20260409005041.png",
-    "Pasted image 20260409005009.png",
-    "Pasted image 20260409004930.png",
-    "Pasted image 20260409004900.png",
-    "Pasted image 20260409004805.png",
-    "N2文法/上.canvas",
+    "N2文法/助詞/か.canvas",
+    "N2文法/助詞/で.canvas",
+    "Pasted image 20260412134940.png",
     "N2文法/そう・よう/よう.canvas",
-    "N2文法/ぐらい・ほど/くらい.canvas",
-    "N2文法/あまり・だけ/だけ.canvas",
+    "Pasted image 20260412134838.png",
+    "N2文法/そう・よう/そう.canvas",
+    "N2文法/Vて.canvas",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "N2文法/ない.canvas",
+    "N2文法/わけ.canvas",
+    "N2文法/複合動詞/複合動詞.canvas",
+    "Pasted image 20260412133007.png",
+    "Pasted image 20260412132935.png",
+    "Pasted image 20260412132813.png",
+    "Pasted image 20260412132751.png",
+    "Pasted image 20260412132404.png",
+    "Pasted image 20260412132349.png",
+    "Pasted image 20260412132335.png",
+    "Pasted image 20260412132323.png",
+    "N2文法/第２課.md",
+    "N2文法/複合動詞/Untitled.md",
     "N2文法/しまう.md",
     "N2文法/そう・よう",
     "N2文法/複合動詞/image",

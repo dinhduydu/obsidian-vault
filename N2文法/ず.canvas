@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2948e2dd281229c1","x":-169,"y":-22,"width":250,"height":60,"type":"text","text":"ず"},
+		{"id":"c03c2fc73da5db93","x":-154,"y":183,"width":250,"height":60,"type":"text","text":"ずじまい"}
+	],
+	"edges":[
+		{"id":"c12e6c1990e8e995","fromNode":"2948e2dd281229c1","fromSide":"bottom","toNode":"c03c2fc73da5db93","toSide":"top"}
+	]
+}

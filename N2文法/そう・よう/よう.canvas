@@ -7,7 +7,12 @@
 		{"id":"b632698ca1446264","type":"text","text":"に","x":360,"y":100,"width":250,"height":60},
 		{"id":"fce91b3d7c2198fa","type":"text","text":"Vますようだ","x":731,"y":-230,"width":250,"height":60},
 		{"id":"0f467db9483dab51","type":"text","text":"Vるようだ","x":751,"y":-1,"width":250,"height":60},
-		{"id":"cf662ddaeb4497ff","x":656,"y":-580,"width":400,"height":200,"type":"file","file":"Pasted image 20260409003135.png"}
+		{"id":"cf662ddaeb4497ff","type":"file","file":"Pasted image 20260409003135.png","x":656,"y":-580,"width":400,"height":200},
+		{"id":"722cfd86a195695f","type":"file","file":"Pasted image 20260410083506.png","x":-580,"y":-300,"width":400,"height":220},
+		{"id":"68bc561df4446afd","type":"file","file":"Pasted image 20260410084431.png","x":-841,"y":41,"width":461,"height":229},
+		{"id":"4f4b90243e28cd72","x":-842,"y":-822,"width":250,"height":60,"type":"text","text":"Vる・Vない"},
+		{"id":"de17b94f00d6486d","type":"text","text":"Vます","x":-841,"y":-1000,"width":250,"height":60},
+		{"id":"2a244f69235c45c2","x":-454,"y":-913,"width":250,"height":60,"type":"text","text":"ようだ。"}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left"},
@@ -16,6 +21,11 @@
 		{"id":"60919b503f9756cd","fromNode":"908075991677c442","fromSide":"top","toNode":"ed5ee051029d32c4","toSide":"bottom"},
 		{"id":"82c0d1d192d7d0c4","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"fce91b3d7c2198fa","toSide":"left"},
 		{"id":"2f2413417e6286d3","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"0f467db9483dab51","toSide":"left"},
-		{"id":"56db91fd50219bae","fromNode":"ed5ee051029d32c4","fromSide":"right","toNode":"cf662ddaeb4497ff","toSide":"left"}
+		{"id":"56db91fd50219bae","fromNode":"ed5ee051029d32c4","fromSide":"right","toNode":"cf662ddaeb4497ff","toSide":"left"},
+		{"id":"c2ef05142c8b74e0","fromNode":"908075991677c442","fromSide":"top","toNode":"722cfd86a195695f","toSide":"right"},
+		{"id":"21960748f543d5dd","fromNode":"908075991677c442","fromSide":"left","toNode":"68bc561df4446afd","toSide":"right","label":"ようがない"},
+		{"id":"cd8ed15d16503dfe","fromNode":"2a244f69235c45c2","fromSide":"right","toNode":"908075991677c442","toSide":"top"},
+		{"id":"63860f33510123e3","fromNode":"de17b94f00d6486d","fromSide":"right","toNode":"2a244f69235c45c2","toSide":"left"},
+		{"id":"ce8fd3c43f737529","fromNode":"4f4b90243e28cd72","fromSide":"right","toNode":"2a244f69235c45c2","toSide":"left"}
 	]
 }
