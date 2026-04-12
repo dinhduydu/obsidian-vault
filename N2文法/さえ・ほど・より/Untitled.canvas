@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2c092303cc5ae0be","x":-178,"y":-51,"width":250,"height":60,"type":"text","text":"より"},
+		{"id":"a6a918e33bd425ec","x":-671,"y":-49,"width":250,"height":60,"type":"text","text":"というより"}
+	],
+	"edges":[
+		{"id":"b98485374c41ed69","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"a6a918e33bd425ec","toSide":"right"}
+	]
+}

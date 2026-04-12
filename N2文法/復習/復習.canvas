@@ -3,7 +3,7 @@
 		{"id":"a6f582169a03ab1d","type":"file","file":"N2文法/そう・よう/よう.canvas","x":-2119,"y":258,"width":400,"height":400},
 		{"id":"34e633b6a138525f","type":"file","file":"N2文法/ところ・どころ/ところ.canvas","x":388,"y":-191,"width":400,"height":400},
 		{"id":"86172589f06322b3","type":"file","file":"Pasted image 20260410080331.png","x":-340,"y":-120,"width":513,"height":271},
-		{"id":"44ecd3e4a910c404","type":"file","file":"N2文法/助詞・ない・いう/から.canvas","x":-833,"y":-245,"width":400,"height":400},
+		{"id":"44ecd3e4a910c404","type":"file","file":"N2文法/助詞/から.canvas","x":-833,"y":-245,"width":400,"height":400},
 		{"id":"399484b9015669ab","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-319,"y":-756,"width":400,"height":400},
 		{"id":"5df6630038c74259","type":"file","file":"N2文法/ばかり・はず・わけ/わけ.canvas","x":-254,"y":297,"width":400,"height":400},
 		{"id":"66f2f51cb0180d06","type":"file","file":"N2文法/一方・上・限る・つもり・他/限り.canvas","x":-819,"y":356,"width":400,"height":400},
@@ -31,9 +31,9 @@
 		{"id":"575d316bddc8658c","type":"file","file":"Pasted image 20260412211148.png","x":-1240,"y":2373,"width":595,"height":327},
 		{"id":"b2e6744fb19be9ca","type":"file","file":"Pasted image 20260412211216.png","x":-1580,"y":2800,"width":400,"height":178},
 		{"id":"a18a49ed24e4f1a0","type":"file","file":"Pasted image 20260412212449.png","x":-4080,"y":1789,"width":399,"height":191},
-		{"id":"0e3d314166f6da08","x":-4081,"y":1300,"width":400,"height":215,"type":"file","file":"Pasted image 20260412213618.png"},
-		{"id":"bf0b2ed94565a4ea","x":142,"y":1430,"width":400,"height":222,"type":"file","file":"Pasted image 20260412213639.png"},
-		{"id":"affeb3711f4104ab","x":1360,"y":-139,"width":614,"height":297,"type":"file","file":"Pasted image 20260412213648.png"}
+		{"id":"0e3d314166f6da08","type":"file","file":"Pasted image 20260412213618.png","x":-4081,"y":1300,"width":400,"height":215},
+		{"id":"bf0b2ed94565a4ea","type":"file","file":"Pasted image 20260412213639.png","x":142,"y":1430,"width":400,"height":222},
+		{"id":"affeb3711f4104ab","type":"file","file":"Pasted image 20260412213648.png","x":1360,"y":-139,"width":614,"height":297}
 	],
 	"edges":[
 		{"id":"cfb85c7eb2f5dd81","fromNode":"86172589f06322b3","fromSide":"left","toNode":"44ecd3e4a910c404","toSide":"right"},

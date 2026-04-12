@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ee40a40a804ae7a1","x":-2382,"y":-737,"width":400,"height":400,"type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas"},
-		{"id":"1d0d22eb0aa316f8","type":"file","file":"N2文法/助詞・ない・いう/から.canvas","x":-737,"y":-692,"width":400,"height":400},
+		{"id":"1d0d22eb0aa316f8","type":"file","file":"N2文法/助詞/から.canvas","x":-737,"y":-692,"width":400,"height":400},
 		{"id":"ff05df410ed7fc81","type":"text","text":"こそ","x":-214,"y":-26,"width":250,"height":60},
 		{"id":"013dc0586f950851","type":"file","file":"Pasted image 20260412212045.png","x":-820,"y":-104,"width":400,"height":216},
 		{"id":"dc2b31031d7ce7f2","type":"file","file":"Pasted image 20260409075755.png","x":-1500,"y":-631,"width":540,"height":279}
