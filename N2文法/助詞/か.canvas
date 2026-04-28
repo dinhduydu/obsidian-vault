@@ -7,7 +7,12 @@
 		{"id":"720c2b024a4f1715","type":"text","text":"ではないか","x":-646,"y":-270,"width":250,"height":60},
 		{"id":"7b2c6898370e3f09","type":"text","text":"なんか・なて","x":200,"y":-234,"width":250,"height":60},
 		{"id":"e71302f04e4d7902","type":"file","file":"Pasted image 20260412212617.png","x":280,"y":-80,"width":400,"height":97},
-		{"id":"91e2c39325ede92d","x":920,"y":-132,"width":400,"height":202,"type":"file","file":"Pasted image 20260412212824.png"}
+		{"id":"91e2c39325ede92d","type":"file","file":"Pasted image 20260412212824.png","x":920,"y":-132,"width":399,"height":202},
+		{"id":"3f0dd434c5d0e3f5","type":"text","text":"AかBかで","x":-1000,"y":320,"width":250,"height":60},
+		{"id":"dee08b3fef6d5ebf","type":"text","text":"- Mỗi vế đều có 「か」\n- Để thể hiện rõ: **2 cách nhìn / 2 lựa chọn**","x":-1348,"y":503,"width":250,"height":60},
+		{"id":"bbbef9df4cbf138d","type":"text","text":"～かどうか","x":-468,"y":417,"width":250,"height":86},
+		{"id":"d9e13a7429d84a08","type":"text","text":"行くかどうか分からない\n→ Không biết có đi hay không","x":-816,"y":686,"width":250,"height":74},
+		{"id":"33f3d97ee357dfab","type":"text","text":"cái này chỉ là _“có hay không”_, không phải so sánh 2 góc nhìn","x":-1216,"y":789,"width":276,"height":111}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top"},
@@ -16,6 +21,12 @@
 		{"id":"9a27b60a10e0a53a","fromNode":"31a466ac4fa8bdb7","fromSide":"right","toNode":"1889f1eee2f61630","toSide":"left"},
 		{"id":"69925fbca965d47c","fromNode":"7b2c6898370e3f09","fromSide":"left","toNode":"1889f1eee2f61630","toSide":"top"},
 		{"id":"8d1aa546f10a867e","fromNode":"1889f1eee2f61630","fromSide":"right","toNode":"e71302f04e4d7902","toSide":"left"},
-		{"id":"6c4b20bb45b32ca0","fromNode":"e71302f04e4d7902","fromSide":"right","toNode":"91e2c39325ede92d","toSide":"left"}
+		{"id":"6c4b20bb45b32ca0","fromNode":"e71302f04e4d7902","fromSide":"right","toNode":"91e2c39325ede92d","toSide":"left"},
+		{"id":"7446c7bae4fc41c1","fromNode":"1889f1eee2f61630","fromSide":"bottom","toNode":"3f0dd434c5d0e3f5","toSide":"top","label":"Aか、Bかで～"},
+		{"id":"28c3ad53c200ced0","fromNode":"3f0dd434c5d0e3f5","fromSide":"bottom","toNode":"dee08b3fef6d5ebf","toSide":"top"},
+		{"id":"5565e485891aeca4","fromNode":"1889f1eee2f61630","fromSide":"bottom","toNode":"bbbef9df4cbf138d","toSide":"top","label":"～かどうか"},
+		{"id":"ae282576881d235f","fromNode":"bbbef9df4cbf138d","fromSide":"bottom","toNode":"d9e13a7429d84a08","toSide":"top"},
+		{"id":"96404899c7dbf5a5","fromNode":"d9e13a7429d84a08","fromSide":"left","toNode":"33f3d97ee357dfab","toSide":"right"},
+		{"id":"d8039dda30e2f4cc","fromNode":"dee08b3fef6d5ebf","fromSide":"bottom","toNode":"33f3d97ee357dfab","toSide":"top","label":"👉 「Aか、Bかで」 =\n\n“tùy cách bạn nhìn A hay B mà…”\n\n\n"}
 	]
 }

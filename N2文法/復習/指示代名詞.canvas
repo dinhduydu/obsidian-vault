@@ -4,13 +4,22 @@
 		{"id":"3468ed36fbb2741f","type":"text","text":"- それ → cái đó (gần người nghe)","x":-340,"y":-280,"width":250,"height":80},
 		{"id":"38d613daebf61e90","type":"text","text":"- あれ → cái kia (xa cả hai)","x":20,"y":-280,"width":250,"height":80},
 		{"id":"17ccbff426b01d0f","type":"text","text":"- どれ → cái nào","x":380,"y":-280,"width":250,"height":80},
-		{"id":"ae4e83eb067e2283","x":-339,"y":-73,"width":249,"height":113,"type":"text","text":"それに = hơn nữa / thêm vào đó (dùng để bổ sung ý cùng chiều)"},
-		{"id":"2c5cdf00d23b7d87","x":-608,"y":192,"width":328,"height":168,"type":"text","text":"- この店は安い。それに、美味しい  \n    → Quán này rẻ. **Hơn nữa**, còn ngon\n- 彼は頭がいい。それに、優しい  \n    → Anh ấy thông minh. **Với lại**, còn tốt bụng"},
-		{"id":"6b4ea5bfc5cf5feb","x":-103,"y":171,"width":463,"height":209,"type":"text","text":"## Sắc thái:\n\n👉 Dùng khi:\n\n- ý sau **cùng chiều, bổ sung** cho ý trước\n- thường dùng trong hội thoại + văn viết đều OK"}
+		{"id":"ae4e83eb067e2283","type":"text","text":"それに = hơn nữa / thêm vào đó (dùng để bổ sung ý cùng chiều)","x":-339,"y":-73,"width":249,"height":113},
+		{"id":"2c5cdf00d23b7d87","type":"text","text":"- この店は安い。それに、美味しい  \n    → Quán này rẻ. **Hơn nữa**, còn ngon\n- 彼は頭がいい。それに、優しい  \n    → Anh ấy thông minh. **Với lại**, còn tốt bụng","x":-608,"y":192,"width":328,"height":168},
+		{"id":"6b4ea5bfc5cf5feb","type":"text","text":"## Sắc thái:\n\n👉 Dùng khi:\n\n- ý sau **cùng chiều, bổ sung** cho ý trước\n- thường dùng trong hội thoại + văn viết đều OK","x":-103,"y":171,"width":463,"height":209},
+		{"id":"0bce3a4d8edc3af6","type":"text","text":"そ","x":-383,"y":-632,"width":250,"height":60},
+		{"id":"b2226c33a4e80d38","type":"text","text":"そこ","x":-506,"y":-1033,"width":250,"height":60},
+		{"id":"fb64668bb1feb468","type":"text","text":"そこで","x":-725,"y":-1340,"width":250,"height":59},
+		{"id":"a3ef716af9fd45ce","type":"text","text":"そこで = vì vậy / do đó","x":-971,"y":-1486,"width":250,"height":60},
+		{"id":"c5e797ac95710643","x":-1561,"y":-466,"width":250,"height":60,"type":"text","text":"あれだけ\nこれだけ\nそれだけ"}
 	],
 	"edges":[
 		{"id":"d9718a0ef555b3b8","fromNode":"3468ed36fbb2741f","fromSide":"bottom","toNode":"ae4e83eb067e2283","toSide":"top","label":"それに"},
 		{"id":"2303e956f55c9087","fromNode":"ae4e83eb067e2283","fromSide":"bottom","toNode":"2c5cdf00d23b7d87","toSide":"top"},
-		{"id":"72d3644dd3f7cb8b","fromNode":"ae4e83eb067e2283","fromSide":"bottom","toNode":"6b4ea5bfc5cf5feb","toSide":"top"}
+		{"id":"72d3644dd3f7cb8b","fromNode":"ae4e83eb067e2283","fromSide":"bottom","toNode":"6b4ea5bfc5cf5feb","toSide":"top"},
+		{"id":"23e90a4ac1e565a1","fromNode":"0bce3a4d8edc3af6","fromSide":"bottom","toNode":"3468ed36fbb2741f","toSide":"top"},
+		{"id":"b9a12f942cf3c337","fromNode":"0bce3a4d8edc3af6","fromSide":"top","toNode":"b2226c33a4e80d38","toSide":"bottom"},
+		{"id":"5b0b91360614afec","fromNode":"b2226c33a4e80d38","fromSide":"top","toNode":"fb64668bb1feb468","toSide":"bottom"},
+		{"id":"a890eefb01ec575d","fromNode":"fb64668bb1feb468","fromSide":"top","toNode":"a3ef716af9fd45ce","toSide":"bottom"}
 	]
 }

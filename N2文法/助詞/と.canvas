@@ -25,8 +25,9 @@
 		{"id":"7a9fc0921f08479b","type":"file","file":"Pasted image 20260412134940.png","x":-1410,"y":-448,"width":400,"height":212},
 		{"id":"2da0a2c9be4e1c11","type":"file","file":"Pasted image 20260412210322.png","x":120,"y":-1320,"width":399,"height":223},
 		{"id":"24ea613bb92c75ea","type":"file","file":"Pasted image 20260412212801.png","x":-820,"y":953,"width":452,"height":229},
-		{"id":"b2e282a1533298df","x":-80,"y":1400,"width":400,"height":215,"type":"file","file":"Pasted image 20260412213545.png"},
-		{"id":"74722f7648a3e6fe","type":"file","file":"Pasted image 20260412213024.png","x":-1120,"y":1480,"width":400,"height":212}
+		{"id":"b2e282a1533298df","type":"file","file":"Pasted image 20260412213545.png","x":-80,"y":1400,"width":400,"height":215},
+		{"id":"74722f7648a3e6fe","type":"file","file":"Pasted image 20260412213024.png","x":-1120,"y":1480,"width":400,"height":212},
+		{"id":"36d46d6275177df5","type":"text","text":"と\n(Glue Pariticle)","x":-3022,"y":-1649,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"0604f3329c8b1c01","fromSide":"right","toNode":"7726e468be76af48","toSide":"left"},

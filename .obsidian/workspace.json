@@ -64,15 +64,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/こと・もの/こと.canvas",
+                "file": "N2文法/ない・いう・しまう/いう.canvas",
                 "viewState": {
-                  "x": 968.8159319588495,
-                  "y": -358.9918739678147,
-                  "zoom": -1.0753067458071839
+                  "x": 470,
+                  "y": 160,
+                  "zoom": -1.8283727033266874
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "こと"
+              "title": "いう"
             }
           },
           {
@@ -81,15 +81,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/こと・もの/もの.canvas",
                 "viewState": {
-                  "x": -147.19594091674037,
-                  "y": -674.7687831135701,
-                  "zoom": -0.6908691795767528
+                  "x": 99.9054776131446,
+                  "y": -800.582845324142,
+                  "zoom": -0.5720894194067596
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "いう"
+              "title": "もの"
             }
           },
           {
@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,32 +275,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cfc4d3a92d8e47c",
+  "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/さえ・ほど・より/Untitled.canvas",
-    "N2文法/さえ・ほど・より/さえ.canvas",
-    "N2文法/復習/指示代名詞.canvas",
-    "N2文法/複合動詞/複合動詞.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
-    "N2文法/復習/復習.canvas",
-    "Pasted image 20260412213648.png",
-    "Pasted image 20260412213639.png",
-    "Pasted image 20260412213618.png",
+    "N2文法/助詞/が.canvas",
+    "N2文法/助詞/から.canvas",
+    "N2文法/助詞/こそ.canvas",
+    "N2文法/助詞/まで.canvas",
+    "N2文法/助詞/むしろ.canvas",
+    "N2文法/助詞/を.canvas",
     "N2文法/助詞/と.canvas",
-    "Pasted image 20260412213545.png",
-    "N2文法/ところ・どころ/ところ.canvas",
-    "Pasted image 20260412213512.png",
-    "N2文法/ところ・どころ/どころ.canvas",
-    "Pasted image 20260412213437.png",
-    "Pasted image 20260412213401.png",
-    "Pasted image 20260412213330.png",
-    "Pasted image 20260412213254.png",
-    "Pasted image 20260412213207.png",
-    "N2文法/助詞/か.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
+    "N2文法/助詞/に.canvas",
+    "N2文法/助詞/なら.canvas",
+    "N2文法/助詞/は.canvas",
+    "N2文法/しか.canvas",
+    "N2文法/復習/第２課.md",
+    "Pasted image 20260427211642.png",
+    "Pasted image 20260427211619.png",
+    "Pasted image 20260427211601.png",
+    "Pasted image 20260427211550.png",
+    "Pasted image 20260427211540.png",
+    "Pasted image 20260427211523.png",
+    "Pasted image 20260427211512.png",
+    "Pasted image 20260427211504.png",
+    "Pasted image 20260427211439.png",
+    "Pasted image 20260427211424.png",
+    "Untitled.base",
+    "Untitled 1.base",
     "N2文法/ない・いう・しまう",
     "N2文法/復習",
-    "N2文法/復習/第２課.md",
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/さえ・ほど・より",
     "N2文法/挙句・すえ",
@@ -309,8 +311,6 @@
     "N2文法/Vた・Vて・Vます・Vば・Vよう",
     "N2文法/複合動詞/Untitled.md",
     "N2文法/そう・よう",
-    "N2文法/複合動詞/image",
-    "N2文法/複合動詞",
     "からには.md",
     "N2文法/Vて.md",
     "Untitled.md",

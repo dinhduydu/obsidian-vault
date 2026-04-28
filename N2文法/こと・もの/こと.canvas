@@ -14,7 +14,7 @@
 		{"id":"1db8d5985e5d4aaf","type":"file","file":"Pasted image 20260412131724.png","x":1460,"y":-660,"width":399,"height":232},
 		{"id":"c3ec64e676151f97","type":"file","file":"Pasted image 20260410085039.png","x":1460,"y":-152,"width":399,"height":217},
 		{"id":"09f58b007b8f260c","type":"file","file":"Pasted image 20260410084620.png","x":340,"y":-780,"width":400,"height":193},
-		{"id":"8e95a2289c00601c","x":1820,"y":233,"width":400,"height":219,"type":"file","file":"Pasted image 20260412211810.png"}
+		{"id":"8e95a2289c00601c","type":"file","file":"Pasted image 20260412211810.png","x":1820,"y":233,"width":399,"height":219}
 	],
 	"edges":[
 		{"id":"fd61aa1f80711936","fromNode":"3113605081a3a040","fromSide":"right","toNode":"4e9d62576081523c","toSide":"left","label":"ことはない"},

@@ -4,12 +4,15 @@
 		{"id":"e600f86b375a2e25","type":"text","text":"そうだ","x":118,"y":-71,"width":250,"height":60},
 		{"id":"3809d5d8a39e49ad","type":"text","text":"そうにない","x":119,"y":215,"width":250,"height":60},
 		{"id":"210c890d774af55e","type":"file","file":"Pasted image 20260409005137.png","x":580,"y":-150,"width":400,"height":219},
-		{"id":"030a70233bfed5e8","type":"text","text":"そうもない","x":118,"y":80,"width":250,"height":60}
+		{"id":"030a70233bfed5e8","type":"text","text":"そうもない","x":118,"y":80,"width":250,"height":60},
+		{"id":"b310399ba9f96c28","type":"text","text":"Vmasu\nđưa ra khả năng thấp","x":800,"y":215,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"61f5759fceaf4e30","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"e600f86b375a2e25","toSide":"left"},
 		{"id":"896923c828c4970a","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"030a70233bfed5e8","toSide":"left"},
 		{"id":"4a69449e662a77e3","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"3809d5d8a39e49ad","toSide":"left"},
-		{"id":"f05e9934c82da73e","fromNode":"e600f86b375a2e25","fromSide":"right","toNode":"210c890d774af55e","toSide":"left"}
+		{"id":"f05e9934c82da73e","fromNode":"e600f86b375a2e25","fromSide":"right","toNode":"210c890d774af55e","toSide":"left"},
+		{"id":"bf1ecb2eb596d1e7","fromNode":"030a70233bfed5e8","fromSide":"right","toNode":"b310399ba9f96c28","toSide":"left"},
+		{"id":"436e8cf532d1e01f","fromNode":"3809d5d8a39e49ad","fromSide":"right","toNode":"b310399ba9f96c28","toSide":"left"}
 	]
 }

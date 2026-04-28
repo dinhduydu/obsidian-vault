@@ -1,15 +1,19 @@
 {
 	"nodes":[
-		{"id":"ee40a40a804ae7a1","x":-2382,"y":-737,"width":400,"height":400,"type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas"},
+		{"id":"ee40a40a804ae7a1","type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas","x":-2382,"y":-737,"width":400,"height":400},
 		{"id":"1d0d22eb0aa316f8","type":"file","file":"N2文法/助詞/から.canvas","x":-737,"y":-692,"width":400,"height":400},
 		{"id":"ff05df410ed7fc81","type":"text","text":"こそ","x":-214,"y":-26,"width":250,"height":60},
 		{"id":"013dc0586f950851","type":"file","file":"Pasted image 20260412212045.png","x":-820,"y":-104,"width":400,"height":216},
-		{"id":"dc2b31031d7ce7f2","type":"file","file":"Pasted image 20260409075755.png","x":-1500,"y":-631,"width":540,"height":279}
+		{"id":"dc2b31031d7ce7f2","type":"file","file":"Pasted image 20260409075755.png","x":-1500,"y":-631,"width":540,"height":279},
+		{"id":"dbfeb81123c2685e","type":"text","text":"Sこそ","x":120,"y":-662,"width":250,"height":60},
+		{"id":"acf6191ceafd50eb","type":"text","text":"câu khẳng định","x":-325,"y":-840,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"01e0619f861ad37a","fromNode":"ff05df410ed7fc81","fromSide":"left","toNode":"013dc0586f950851","toSide":"right","label":"Vばこそ"},
 		{"id":"f165bb69fa513ced","fromNode":"ff05df410ed7fc81","fromSide":"top","toNode":"1d0d22eb0aa316f8","toSide":"bottom"},
 		{"id":"b04820bf30be4462","fromNode":"1d0d22eb0aa316f8","fromSide":"left","toNode":"dc2b31031d7ce7f2","toSide":"right"},
-		{"id":"bb77508bf78cb2fe","fromNode":"dc2b31031d7ce7f2","fromSide":"left","toNode":"ee40a40a804ae7a1","toSide":"right"}
+		{"id":"bb77508bf78cb2fe","fromNode":"dc2b31031d7ce7f2","fromSide":"left","toNode":"ee40a40a804ae7a1","toSide":"right"},
+		{"id":"1d67d232139e3f76","fromNode":"ff05df410ed7fc81","fromSide":"top","toNode":"dbfeb81123c2685e","toSide":"bottom","label":"xác định chủ ngữ"},
+		{"id":"f50b5bdd584bb1f2","fromNode":"dbfeb81123c2685e","fromSide":"top","toNode":"acf6191ceafd50eb","toSide":"bottom"}
 	]
 }

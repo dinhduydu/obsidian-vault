@@ -12,7 +12,9 @@
 		{"id":"8bc3fa4ca0a50bde","type":"text","text":"＝のみだ","x":671,"y":141,"width":250,"height":60},
 		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":1153,"y":-634,"width":400,"height":400},
 		{"id":"d7319e0c92f4c045","type":"file","file":"Pasted image 20260409002811.png","x":1153,"y":-160,"width":507,"height":247},
-		{"id":"29176a39c245b34b","type":"text","text":"だけあって","x":-189,"y":154,"width":250,"height":60}
+		{"id":"29176a39c245b34b","type":"text","text":"だけあって","x":-189,"y":154,"width":250,"height":60},
+		{"id":"ef22fa22f1a31c04","type":"text","text":"Hết mức có thể","x":-539,"y":-803,"width":250,"height":60},
+		{"id":"f4ee5e9ef43ef89f","type":"text","text":"だけしか\nGiới hạn số lượng","x":-634,"y":363,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"688a3b36dcb8c614","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"900a8fb50fe48888","toSide":"left","label":"\n"},
@@ -27,6 +29,8 @@
 		{"id":"8b9490a9aa0fd0a8","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"1f49bbba2bdbd3ab","toSide":"top"},
 		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"},
 		{"id":"468fc0a3c311aa11","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"left"},
-		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top"}
+		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top"},
+		{"id":"5a777f795eb45494","fromNode":"ba041c493a549f59","fromSide":"top","toNode":"ef22fa22f1a31c04","toSide":"bottom","label":"Vるだけ"},
+		{"id":"15f976a36b839f25","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"f4ee5e9ef43ef89f","toSide":"top"}
 	]
 }

@@ -16,12 +16,13 @@
 		{"id":"ee35629359cdc8cf","type":"text","text":"Vない","x":-1660,"y":-809,"width":250,"height":60},
 		{"id":"641c49fd28fcc4d5","type":"text","text":"Aい・Aな","x":-1660,"y":-609,"width":250,"height":60},
 		{"id":"3ad93de7afe93a89","type":"text","text":"N","x":-1660,"y":-718,"width":250,"height":60},
-		{"id":"9e23f5eb98cb9037","type":"file","file":"Pasted image 20260410084342.png","x":540,"y":40,"width":501,"height":263}
+		{"id":"9e23f5eb98cb9037","type":"file","file":"Pasted image 20260410084342.png","x":540,"y":40,"width":501,"height":263},
+		{"id":"8449df198fb53a32","x":-1373,"y":177,"width":250,"height":60,"type":"text","text":"ない限り\ncâu điều kiện"}
 	],
 	"edges":[
 		{"id":"ee7bacf0a344e1e3","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"5894401719a10961","toSide":"left"},
 		{"id":"78ec62d911f5094e","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"912f47ff43caae15","toSide":"top","label":"間違い"},
-		{"id":"228cd93543b05672","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"e7a318f3813670e5","toSide":"left"},
+		{"id":"228cd93543b05672","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"e7a318f3813670e5","toSide":"left","label":"とはかぎらない"},
 		{"id":"b9b881ab1c0105ad","fromNode":"e7a318f3813670e5","fromSide":"right","toNode":"248a86a10b48c2aa","toSide":"left"},
 		{"id":"f8f2571d19403c15","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"d00775cafeba40c8","toSide":"left"},
 		{"id":"73e9e3ff257a0190","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"4b3b632900e75d57","toSide":"left"},
@@ -34,6 +35,7 @@
 		{"id":"94a7948690b877de","fromNode":"ee35629359cdc8cf","fromSide":"right","toNode":"627bcb9c512d131d","toSide":"left"},
 		{"id":"dfbe43bbb7fb9910","fromNode":"3ad93de7afe93a89","fromSide":"right","toNode":"627bcb9c512d131d","toSide":"left"},
 		{"id":"5355a92fd59aaee7","fromNode":"641c49fd28fcc4d5","fromSide":"right","toNode":"627bcb9c512d131d","toSide":"left"},
-		{"id":"85851e682086383e","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"9e23f5eb98cb9037","toSide":"left","label":"限らない"}
+		{"id":"85851e682086383e","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"9e23f5eb98cb9037","toSide":"left","label":"限らない"},
+		{"id":"ca3bdc8ac759ea7f","fromNode":"909d7624f6d27cd2","fromSide":"left","toNode":"8449df198fb53a32","toSide":"right"}
 	]
 }

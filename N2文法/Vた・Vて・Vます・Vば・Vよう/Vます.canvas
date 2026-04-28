@@ -16,7 +16,10 @@
 		{"id":"724b890b214a75d8","type":"file","file":"Pasted image 20260412211522.png","x":-2580,"y":-685,"width":553,"height":305},
 		{"id":"18de845c2ee666c9","type":"file","file":"Pasted image 20260412211540.png","x":-1240,"y":-1300,"width":400,"height":214},
 		{"id":"e4f9b29c481b1fb9","type":"file","file":"Pasted image 20260412211607.png","x":-360,"y":-1193,"width":400,"height":214},
-		{"id":"83cda2f50e1158f9","x":-2427,"y":-1060,"width":400,"height":187,"type":"file","file":"Pasted image 20260412212530.png"}
+		{"id":"83cda2f50e1158f9","type":"file","file":"Pasted image 20260412212530.png","x":-2427,"y":-1060,"width":400,"height":187},
+		{"id":"6fe0680dafd2f219","type":"file","file":"N2文法/ない・いう・しまう/しまう.md","x":-2146,"y":117,"width":400,"height":400},
+		{"id":"c4897f3accebc682","type":"text","text":"làm xong hoàn toàn","x":-2353,"y":699,"width":250,"height":60},
+		{"id":"69729405d9d9c55d","type":"text","text":"lỡ làm, hối tiếc","x":-1718,"y":676,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cc3253ba0c86c40f","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"ded1f25379408bd8","toSide":"left","label":"かね"},
@@ -36,6 +39,9 @@
 		{"id":"1b97c908083cc9af","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"18de845c2ee666c9","toSide":"right","label":"ぶり・ふり"},
 		{"id":"02c91fa553c2ea9a","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"e4f9b29c481b1fb9","toSide":"left","label":"得る・得ない"},
 		{"id":"1a151f3dcb436ce4","fromNode":"cd0658519ce72687","fromSide":"left","toNode":"83cda2f50e1158f9","toSide":"right"},
-		{"id":"e824425697582d46","fromNode":"a6eaba45fdfe05f3","fromSide":"left","toNode":"83cda2f50e1158f9","toSide":"right"}
+		{"id":"e824425697582d46","fromNode":"a6eaba45fdfe05f3","fromSide":"left","toNode":"83cda2f50e1158f9","toSide":"right"},
+		{"id":"dca873086bd1604b","fromNode":"9f4a4f87f711ce01","fromSide":"left","toNode":"6fe0680dafd2f219","toSide":"right","label":"Vますしまう"},
+		{"id":"c259adf87f5bca05","fromNode":"6fe0680dafd2f219","fromSide":"bottom","toNode":"c4897f3accebc682","toSide":"top"},
+		{"id":"8e2cb4fe6e9d7342","fromNode":"6fe0680dafd2f219","fromSide":"bottom","toNode":"69729405d9d9c55d","toSide":"top"}
 	]
 }

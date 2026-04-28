@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d644954ec95b2dd5","type":"text","text":"が\n(Subject Marker)","x":-200,"y":-40,"width":200,"height":106},
+		{"id":"da3a229a4185428f","type":"text","text":"Marks the object of a verb","x":280,"y":-440,"width":250,"height":60},
+		{"id":"a64cbe8b7bc96c8e","type":"text","text":"Distinguishes one option or thing from others (A vs ?)","x":314,"y":-251,"width":250,"height":60},
+		{"id":"b0874b922a330748","type":"text","text":"Used when adding new things/information to a conversation","x":348,"y":80,"width":250,"height":92},
+		{"id":"37b9b24cf0c44508","type":"text","text":"Used when describing specific things with adjectives","x":314,"y":303,"width":250,"height":89},
+		{"id":"6a216233b90afff5","x":314,"y":540,"width":250,"height":60,"type":"text","text":"Marks objects of potential-form verbs (can/able to)"},
+		{"id":"7295be533cca3cf2","x":-164,"y":677,"width":250,"height":60,"type":"text","text":"Used as an conjunction (between phrases): but or even through"}
+	],
+	"edges":[
+		{"id":"d250cfb6fa1ba711","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"da3a229a4185428f","toSide":"left"},
+		{"id":"b31fedd5698ddc9d","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"a64cbe8b7bc96c8e","toSide":"left"},
+		{"id":"56819430f7880c74","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"b0874b922a330748","toSide":"left"},
+		{"id":"5c905c1e1efc5ebb","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"37b9b24cf0c44508","toSide":"left"},
+		{"id":"8a8c25c1a85affc7","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"6a216233b90afff5","toSide":"left"},
+		{"id":"799d0a62dcd49ee7","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"7295be533cca3cf2","toSide":"left"}
+	]
+}

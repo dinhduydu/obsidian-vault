@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"71ac4b24484461c5","type":"text","text":"でしかない。","x":-132,"y":-67,"width":250,"height":50},
+		{"id":"3263d83785bcaed9","type":"text","text":"Chỉ\n","x":-177,"y":69,"width":250,"height":60},
+		{"id":"0a5dbf110a90925d","type":"text","text":"しかない","x":-70,"y":-316,"width":250,"height":60},
+		{"id":"82f94190a8a58b97","type":"text","text":"しか","x":-54,"y":-553,"width":250,"height":60},
+		{"id":"10f7b6a501240e83","x":-600,"y":-1040,"width":400,"height":400,"type":"file","file":"N2文法/あまり・だけ/だけ.canvas"},
+		{"id":"388ed412568c2baf","x":-718,"y":-437,"width":250,"height":60,"type":"text","text":"しかある"},
+		{"id":"96711b9e0fc7fd0d","x":-1122,"y":-332,"width":250,"height":60,"type":"text","text":"しかあるまい"}
+	],
+	"edges":[
+		{"id":"73bef10124ad7e82","fromNode":"71ac4b24484461c5","fromSide":"bottom","toNode":"3263d83785bcaed9","toSide":"top"},
+		{"id":"f045095f6d771fcf","fromNode":"0a5dbf110a90925d","fromSide":"bottom","toNode":"71ac4b24484461c5","toSide":"top"},
+		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"0a5dbf110a90925d","toSide":"top"},
+		{"id":"c230e158188420b2","fromNode":"10f7b6a501240e83","fromSide":"right","toNode":"82f94190a8a58b97","toSide":"top","label":"だけしか"},
+		{"id":"6290c2c28640a7b9","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"388ed412568c2baf","toSide":"right"},
+		{"id":"9333ef1bed47ece0","fromNode":"388ed412568c2baf","fromSide":"left","toNode":"96711b9e0fc7fd0d","toSide":"right"}
+	]
+}

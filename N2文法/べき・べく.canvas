@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"a7c96970fc99f235","type":"text","text":"べき","x":-181,"y":-21,"width":250,"height":60},
+		{"id":"b772bca5111e00b4","type":"text","text":"**V辞書形 + べき**\n\n→ diễn tả:\n\n- điều **nên làm**\n- điều **đáng ra phải làm**","x":-780,"y":-72,"width":250,"height":162},
+		{"id":"b1614be2a24f06bf","type":"text","text":"べく","x":-1458,"y":356,"width":250,"height":60},
+		{"id":"b81c32e4e1e40356","type":"file","file":"Pasted image 20260416120746.png","x":-1468,"y":-191,"width":271,"height":400},
+		{"id":"e8f64f1440f60da2","type":"text","text":"べきか","x":-556,"y":-314,"width":250,"height":60},
+		{"id":"24b6c92883e98d9c","type":"text","text":"- Vる + べきか  \n    → có nên làm V không?","x":-700,"y":-520,"width":270,"height":82},
+		{"id":"dd7e98c3db295ffe","type":"text","text":"> 何をするべきか\n\n👉 Nghĩa là:  \n**“nên làm gì”**\n\n- 何をする = làm gì\n- べきか = có nên làm không → ở đây thành **“nên làm gì”**","x":-1020,"y":-860,"width":480,"height":199}
+	],
+	"edges":[
+		{"id":"37ced6bc26d90677","fromNode":"a7c96970fc99f235","fromSide":"left","toNode":"b772bca5111e00b4","toSide":"right"},
+		{"id":"0ac06f3d51acaf19","fromNode":"b1614be2a24f06bf","fromSide":"top","toNode":"b81c32e4e1e40356","toSide":"bottom"},
+		{"id":"d574d09249580b1d","fromNode":"a7c96970fc99f235","fromSide":"top","toNode":"e8f64f1440f60da2","toSide":"bottom"},
+		{"id":"e9acca51d62e88a7","fromNode":"e8f64f1440f60da2","fromSide":"top","toNode":"24b6c92883e98d9c","toSide":"bottom"},
+		{"id":"e192466355339292","fromNode":"24b6c92883e98d9c","fromSide":"top","toNode":"dd7e98c3db295ffe","toSide":"bottom"}
+	]
+}

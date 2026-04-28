@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a7de986e356de212","x":-120,"y":-26,"width":60,"height":60,"type":"text","text":"を"},
+		{"id":"6e956ea87c8edee4","x":159,"y":-189,"width":250,"height":60,"type":"text","text":"Marks the object of verb"},
+		{"id":"446eafb8755b5cb0","x":157,"y":44,"width":250,"height":60,"type":"text","text":"With verbs of motion, shows where the motion occurs"}
+	],
+	"edges":[
+		{"id":"6ea83776af42dc19","fromNode":"a7de986e356de212","fromSide":"right","toNode":"6e956ea87c8edee4","toSide":"left"},
+		{"id":"e5b21a95fc4ea5c4","fromNode":"a7de986e356de212","fromSide":"right","toNode":"446eafb8755b5cb0","toSide":"left"}
+	]
+}

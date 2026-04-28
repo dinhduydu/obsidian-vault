@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2da8e41873c63c35","x":-210,"y":14,"width":250,"height":60,"type":"text","text":"うちに"},
+		{"id":"34968906856b09b0","x":-835,"y":-6,"width":250,"height":60,"type":"text","text":"かのうちに"}
+	],
+	"edges":[
+		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right"}
+	]
+}

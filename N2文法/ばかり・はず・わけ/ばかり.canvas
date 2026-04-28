@@ -1,16 +1,16 @@
 {
 	"nodes":[
 		{"id":"7353ee59fe83602b","type":"text","text":"ばかり","x":-153,"y":-22,"width":133,"height":60},
-		{"id":"fcdd33025150b7a1","type":"file","file":"Pasted image 20260409002756.png","x":-660,"y":-89,"width":400,"height":195},
-		{"id":"ddfebbf68ef3d729","type":"file","file":"Pasted image 20260410083916.png","x":-286,"y":-340,"width":400,"height":176},
-		{"id":"17823209400f2baa","type":"file","file":"Pasted image 20260412204712.png","x":220,"y":-100,"width":400,"height":217},
-		{"id":"4653a5674ca1a1c9","type":"text","text":"ばかりに","x":340,"y":-480,"width":250,"height":60}
+		{"id":"17823209400f2baa","type":"file","file":"Pasted image 20260412204712.png","x":400,"y":-100,"width":400,"height":217},
+		{"id":"ddfebbf68ef3d729","type":"file","file":"Pasted image 20260410083916.png","x":-286,"y":-420,"width":400,"height":176},
+		{"id":"fcdd33025150b7a1","type":"file","file":"Pasted image 20260409002756.png","x":-920,"y":-89,"width":400,"height":195},
+		{"id":"4653a5674ca1a1c9","type":"text","text":"ばかりに","x":475,"y":-640,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"fcdd33025150b7a1","toSide":"right"},
-		{"id":"68d43a984f5d1651","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"ddfebbf68ef3d729","toSide":"bottom"},
-		{"id":"a0536b83d6ac6156","fromNode":"7353ee59fe83602b","fromSide":"right","toNode":"17823209400f2baa","toSide":"left"},
+		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"fcdd33025150b7a1","toSide":"right","label":"ばかりだ"},
+		{"id":"68d43a984f5d1651","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"ddfebbf68ef3d729","toSide":"bottom","label":"ばかりに・あげく"},
+		{"id":"a0536b83d6ac6156","fromNode":"7353ee59fe83602b","fromSide":"right","toNode":"17823209400f2baa","toSide":"left","label":"ばかりか・ばかりに"},
 		{"id":"22a4621596e1d8c8","fromNode":"ddfebbf68ef3d729","fromSide":"top","toNode":"4653a5674ca1a1c9","toSide":"bottom"},
-		{"id":"ef0cae32374408dc","fromNode":"17823209400f2baa","fromSide":"top","toNode":"4653a5674ca1a1c9","toSide":"bottom"}
+		{"id":"ef0cae32374408dc","fromNode":"17823209400f2baa","fromSide":"top","toNode":"4653a5674ca1a1c9","toSide":"bottom","label":"ばかりに\nnguyên nhân kết quả"}
 	]
 }
