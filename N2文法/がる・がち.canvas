@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"30160a236b4807fe","x":-258,"y":-36,"width":250,"height":60,"type":"text","text":"がる"},
+		{"id":"cc5ff95e7f32516f","x":-800,"y":-200,"width":250,"height":60,"type":"text","text":"Vたい：いー＞がる"},
+		{"id":"fb11c025a9b3d080","x":-800,"y":60,"width":250,"height":60,"type":"text","text":"Aい：いー＞がる"},
+		{"id":"be9e338d4b29e676","x":-805,"y":233,"width":250,"height":60,"type":"text","text":"Aな：なー＞がる"}
+	],
+	"edges":[
+		{"id":"ccb86c89a68e8b39","fromNode":"30160a236b4807fe","fromSide":"left","toNode":"cc5ff95e7f32516f","toSide":"right","label":"Vたがる"},
+		{"id":"40a10512a23b66ad","fromNode":"30160a236b4807fe","fromSide":"left","toNode":"fb11c025a9b3d080","toSide":"right","label":"Aがる"},
+		{"id":"d1adc59d5ec715ed","fromNode":"30160a236b4807fe","fromSide":"left","toNode":"be9e338d4b29e676","toSide":"right","label":"Aがる"}
+	]
+}

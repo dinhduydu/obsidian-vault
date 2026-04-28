@@ -30,32 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない・いう・しまう/ない.canvas",
+                "file": "N2文法/助詞/と.canvas",
                 "viewState": {
-                  "x": -1278.909907464841,
-                  "y": -861.800585678076,
-                  "zoom": -0.7768764682830198
+                  "x": -1918.3745427692227,
+                  "y": -1604.2832519455535,
+                  "zoom": -0.6123890017460607
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ない"
-            }
-          },
-          {
-            "id": "afb381355e90614b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2文法/助詞・ない・いう/に.canvas",
-                "viewState": {
-                  "x": -1079.3711833033237,
-                  "y": -584.3509035688056,
-                  "zoom": -0.45125193945746317
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "に"
+              "title": "と"
             }
           },
           {
@@ -64,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
                 "viewState": {
-                  "x": 470,
-                  "y": 160,
-                  "zoom": -1.8283727033266874
+                  "x": 2806.900172831063,
+                  "y": -732.5600930599084,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "いう"
+              "title": "Vて"
             }
           },
           {
@@ -127,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,20 +258,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3eefdcbe58303b",
+  "active": "3d6e51e9e9ea284e",
   "lastOpenFiles": [
+    "N2文法/助詞/で.canvas",
+    "N2文法/復習/復習.canvas",
+    "N2文法/復習/指示代名詞.canvas",
+    "N2文法/複合動詞/複合動詞.canvas",
+    "N2文法/可能.canvas",
     "N2文法/助詞/が.canvas",
-    "N2文法/助詞/から.canvas",
-    "N2文法/助詞/こそ.canvas",
-    "N2文法/助詞/まで.canvas",
-    "N2文法/助詞/むしろ.canvas",
-    "N2文法/助詞/を.canvas",
-    "N2文法/助詞/と.canvas",
-    "N2文法/助詞/に.canvas",
-    "N2文法/助詞/なら.canvas",
-    "N2文法/助詞/は.canvas",
-    "N2文法/しか.canvas",
+    "N2文法/ない・いう・しまう/ない.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "N2文法/がる・がち.canvas",
+    "N2文法/助詞/も.canvas",
+    "N2文法/です・だ・である.canvas",
+    "N2文法/なる・する",
     "N2文法/復習/第２課.md",
+    "N2文法/尊敬語/尊敬語.md",
     "Pasted image 20260427211642.png",
     "Pasted image 20260427211619.png",
     "Pasted image 20260427211601.png",
@@ -310,14 +295,12 @@
     "N2文法/一方・上・限る・つもり・他",
     "N2文法/Vた・Vて・Vます・Vば・Vよう",
     "N2文法/複合動詞/Untitled.md",
-    "N2文法/そう・よう",
     "からには.md",
     "N2文法/Vて.md",
     "Untitled.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "fastkey.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
-    "N2文法/尊敬語/尊敬語.md",
     "複合動詞.md"
   ]
 }

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e2e1b0de41753ee9","x":-60,"y":-33,"width":166,"height":60,"type":"text","text":"だ"},
+		{"id":"0f86348febeab45f","x":478,"y":-36,"width":250,"height":60,"type":"text","text":"です"},
+		{"id":"9c14a04d4b7989f8","x":-653,"y":-7,"width":250,"height":60,"type":"text","text":"のだ・んだ"}
+	],
+	"edges":[
+		{"id":"95b787f655c67282","fromNode":"e2e1b0de41753ee9","fromSide":"left","toNode":"9c14a04d4b7989f8","toSide":"right"}
+	]
+}

@@ -14,7 +14,12 @@
 		{"id":"1db8d5985e5d4aaf","type":"file","file":"Pasted image 20260412131724.png","x":1460,"y":-660,"width":399,"height":232},
 		{"id":"c3ec64e676151f97","type":"file","file":"Pasted image 20260410085039.png","x":1460,"y":-152,"width":399,"height":217},
 		{"id":"09f58b007b8f260c","type":"file","file":"Pasted image 20260410084620.png","x":340,"y":-780,"width":400,"height":193},
-		{"id":"8e95a2289c00601c","type":"file","file":"Pasted image 20260412211810.png","x":1820,"y":233,"width":399,"height":219}
+		{"id":"8e95a2289c00601c","type":"file","file":"Pasted image 20260412211810.png","x":1820,"y":233,"width":399,"height":219},
+		{"id":"c6c97dd7029ff92c","x":-900,"y":-1065,"width":250,"height":60,"type":"text","text":"ことが"},
+		{"id":"054439aabd7fdf48","x":-1617,"y":-1094,"width":250,"height":114,"type":"text","text":"ことができる\nDiễn tả khả năng\nCó năng lực hoặc trạng thái sẵn sàng để làm"},
+		{"id":"751d237b4f2a9f3e","x":-1328,"y":-1380,"width":250,"height":101,"type":"text","text":"ことがある\nThỉnh thoảng mới xảy ra\nThỉnh thoảng mới làm"},
+		{"id":"1950d8c96128df89","x":-2290,"y":-1600,"width":250,"height":60,"type":"text","text":"Vたことがある\nCó kinh nghiệm làm"},
+		{"id":"2437a278a1ce5f3a","x":-2565,"y":-2120,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas"}
 	],
 	"edges":[
 		{"id":"fd61aa1f80711936","fromNode":"3113605081a3a040","fromSide":"right","toNode":"4e9d62576081523c","toSide":"left","label":"ことはない"},
@@ -29,6 +34,11 @@
 		{"id":"0eea4d0edb862309","fromNode":"8ea8f70cc8da946a","fromSide":"right","toNode":"c3ec64e676151f97","toSide":"left"},
 		{"id":"3af6e8ac87b3e3fe","fromNode":"8ea8f70cc8da946a","fromSide":"right","toNode":"1db8d5985e5d4aaf","toSide":"left"},
 		{"id":"6c186747621e64fe","fromNode":"09f58b007b8f260c","fromSide":"bottom","toNode":"1c7d953f6b70438d","toSide":"top"},
-		{"id":"9d606fc2bfa6bf19","fromNode":"4e9d62576081523c","fromSide":"right","toNode":"8e95a2289c00601c","toSide":"left","label":"ことはない"}
+		{"id":"9d606fc2bfa6bf19","fromNode":"4e9d62576081523c","fromSide":"right","toNode":"8e95a2289c00601c","toSide":"left","label":"ことはない"},
+		{"id":"f7651ee0e7048b95","fromNode":"3113605081a3a040","fromSide":"top","toNode":"c6c97dd7029ff92c","toSide":"bottom","label":"ことが"},
+		{"id":"381f4811e9680a83","fromNode":"c6c97dd7029ff92c","fromSide":"left","toNode":"054439aabd7fdf48","toSide":"right","label":"ことができる"},
+		{"id":"18ace87985f147b8","fromNode":"c6c97dd7029ff92c","fromSide":"top","toNode":"751d237b4f2a9f3e","toSide":"bottom","label":"ことがある"},
+		{"id":"9ee46c626feafb80","fromNode":"751d237b4f2a9f3e","fromSide":"top","toNode":"1950d8c96128df89","toSide":"bottom","label":"Vたことがある"},
+		{"id":"b99b4c1fcdbb313b","fromNode":"1950d8c96128df89","fromSide":"top","toNode":"2437a278a1ce5f3a","toSide":"bottom"}
 	]
 }

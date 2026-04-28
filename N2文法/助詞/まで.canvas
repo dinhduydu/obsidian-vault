@@ -5,13 +5,23 @@
 		{"id":"6df31496b21a33f2","type":"text","text":"Nだ","x":280,"y":-2,"width":250,"height":60},
 		{"id":"a4cc370dac724bae","type":"text","text":"Vるまでになった","x":473,"y":-303,"width":250,"height":60},
 		{"id":"c2f04b9863d475e4","type":"file","file":"Pasted image 20260412211727.png","x":1040,"y":-440,"width":400,"height":220},
-		{"id":"89e2b38c8ef5ce5d","type":"text","text":"までに","x":14,"y":340,"width":250,"height":60}
+		{"id":"89e2b38c8ef5ce5d","type":"text","text":"～まで・～までに","x":14,"y":340,"width":250,"height":60},
+		{"id":"4ea072878a37ecca","x":-375,"y":544,"width":250,"height":60,"type":"text","text":"～まで"},
+		{"id":"82504d3c67920f65","x":322,"y":581,"width":250,"height":60,"type":"text","text":"～までに"},
+		{"id":"38d88fa563f66e59","x":-466,"y":698,"width":250,"height":60,"type":"text","text":"Tiếp tục làm gì cho đến thời gian nào đó"},
+		{"id":"828d6dd8d0d2019d","x":236,"y":740,"width":250,"height":60,"type":"text","text":"Làm việc gì trước 1 thời điểm đặt ra"},
+		{"id":"c036c50aa959eedb","x":677,"y":764,"width":250,"height":60,"type":"text","text":"V辞書形＋までに\nN＋までに"}
 	],
 	"edges":[
 		{"id":"1fa3e24e5c6ca32a","fromNode":"6df31496b21a33f2","fromSide":"right","toNode":"8affc30cf60881e5","toSide":"left","label":"までだ"},
 		{"id":"72b820c7d1ac0d44","fromNode":"eb4c8f49bd3c1f4f","fromSide":"right","toNode":"6df31496b21a33f2","toSide":"left"},
 		{"id":"bb2fe182d88116aa","fromNode":"6df31496b21a33f2","fromSide":"top","toNode":"a4cc370dac724bae","toSide":"bottom"},
 		{"id":"df7a415f113c853a","fromNode":"8affc30cf60881e5","fromSide":"right","toNode":"c2f04b9863d475e4","toSide":"bottom"},
-		{"id":"f05c01fb1a900674","fromNode":"eb4c8f49bd3c1f4f","fromSide":"bottom","toNode":"89e2b38c8ef5ce5d","toSide":"top"}
+		{"id":"f05c01fb1a900674","fromNode":"eb4c8f49bd3c1f4f","fromSide":"bottom","toNode":"89e2b38c8ef5ce5d","toSide":"top","label":"～まで・～までに"},
+		{"id":"766a72585a5ddd94","fromNode":"89e2b38c8ef5ce5d","fromSide":"bottom","toNode":"4ea072878a37ecca","toSide":"top"},
+		{"id":"3565981e1a03f25f","fromNode":"89e2b38c8ef5ce5d","fromSide":"bottom","toNode":"82504d3c67920f65","toSide":"top"},
+		{"id":"0882180ba91f8e85","fromNode":"4ea072878a37ecca","fromSide":"bottom","toNode":"38d88fa563f66e59","toSide":"top"},
+		{"id":"02237e67a75fcd97","fromNode":"82504d3c67920f65","fromSide":"bottom","toNode":"828d6dd8d0d2019d","toSide":"top"},
+		{"id":"466788cb07adf633","fromNode":"82504d3c67920f65","fromSide":"bottom","toNode":"c036c50aa959eedb","toSide":"top"}
 	]
 }

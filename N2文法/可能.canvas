@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8cfefb7eb6ad4a2e","x":-200,"y":-80,"width":250,"height":60,"type":"text","text":"可能"},
+		{"id":"0c8f4d66755eea4a","x":240,"y":-169,"width":250,"height":60,"type":"text","text":"～（ら）れる"},
+		{"id":"3d1836e8ad3e89fa","x":258,"y":104,"width":250,"height":60,"type":"text","text":"Diễn tả tính khả năng"},
+		{"id":"b82c79d3c9503285","x":218,"y":325,"width":290,"height":50,"type":"text","text":"Trợ từ を gắn với từ chỉ mục đích thường chuyển thành が"},
+		{"id":"d793f902b08eb298","x":674,"y":258,"width":250,"height":60,"type":"text","text":"図書館で、本が１０冊かりられます。"},
+		{"id":"bf5a3d968c273fbb","x":102,"y":501,"width":250,"height":60,"type":"text","text":"週末はいそがしくてあまりやすめませんでした。"},
+		{"id":"7d00ae7cf9108417","x":732,"y":-345,"width":348,"height":105,"type":"text","text":"（I）グループ：うー＞える\n（II）グループ：られる\n（III）グループ：できる・こられる"}
+	],
+	"edges":[
+		{"id":"90ee03711d3ea447","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"0c8f4d66755eea4a","toSide":"left"},
+		{"id":"9b05d1c1591b48ef","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"3d1836e8ad3e89fa","toSide":"left"},
+		{"id":"459aada7fc5b5923","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"b82c79d3c9503285","toSide":"left"},
+		{"id":"bea03638f8ca3f32","fromNode":"b82c79d3c9503285","fromSide":"right","toNode":"d793f902b08eb298","toSide":"left"},
+		{"id":"7744f2cb6174d70e","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"bf5a3d968c273fbb","toSide":"left"},
+		{"id":"fb021b50524b3df6","fromNode":"0c8f4d66755eea4a","fromSide":"right","toNode":"7d00ae7cf9108417","toSide":"left"}
+	]
+}

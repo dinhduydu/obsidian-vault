@@ -5,8 +5,11 @@
 		{"id":"a64cbe8b7bc96c8e","type":"text","text":"Distinguishes one option or thing from others (A vs ?)","x":314,"y":-251,"width":250,"height":60},
 		{"id":"b0874b922a330748","type":"text","text":"Used when adding new things/information to a conversation","x":348,"y":80,"width":250,"height":92},
 		{"id":"37b9b24cf0c44508","type":"text","text":"Used when describing specific things with adjectives","x":314,"y":303,"width":250,"height":89},
-		{"id":"6a216233b90afff5","x":314,"y":540,"width":250,"height":60,"type":"text","text":"Marks objects of potential-form verbs (can/able to)"},
-		{"id":"7295be533cca3cf2","x":-164,"y":677,"width":250,"height":60,"type":"text","text":"Used as an conjunction (between phrases): but or even through"}
+		{"id":"6a216233b90afff5","type":"text","text":"Marks objects of potential-form verbs (can/able to)","x":314,"y":540,"width":250,"height":60},
+		{"id":"7295be533cca3cf2","type":"text","text":"Used as an conjunction (between phrases): but or even through","x":-164,"y":677,"width":250,"height":60},
+		{"id":"6ba6c202eda87934","x":-1631,"y":-670,"width":250,"height":60,"type":"text","text":"が"},
+		{"id":"48892c9979d9acf7","x":-2484,"y":-610,"width":250,"height":60,"type":"text","text":"が"},
+		{"id":"4fc216d2e8e08879","x":-2520,"y":-192,"width":250,"height":60,"type":"text","text":"ほうがいい"}
 	],
 	"edges":[
 		{"id":"d250cfb6fa1ba711","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"da3a229a4185428f","toSide":"left"},
@@ -14,6 +17,9 @@
 		{"id":"56819430f7880c74","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"b0874b922a330748","toSide":"left"},
 		{"id":"5c905c1e1efc5ebb","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"37b9b24cf0c44508","toSide":"left"},
 		{"id":"8a8c25c1a85affc7","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"6a216233b90afff5","toSide":"left"},
-		{"id":"799d0a62dcd49ee7","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"7295be533cca3cf2","toSide":"left"}
+		{"id":"799d0a62dcd49ee7","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"7295be533cca3cf2","toSide":"left"},
+		{"id":"3a0ac6ad912d7e88","fromNode":"6ba6c202eda87934","fromSide":"right","toNode":"d644954ec95b2dd5","toSide":"left"},
+		{"id":"8f69e48698bf604a","fromNode":"6ba6c202eda87934","fromSide":"left","toNode":"48892c9979d9acf7","toSide":"right"},
+		{"id":"b14ad8205cdf279f","fromNode":"48892c9979d9acf7","fromSide":"bottom","toNode":"4fc216d2e8e08879","toSide":"top"}
 	]
 }
