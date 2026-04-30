@@ -7,7 +7,6 @@
 		{"id":"388bf00239a8f2c6","type":"text","text":"Vたところ\nSau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":420,"y":-154,"width":268,"height":98},
 		{"id":"fec32141cf12e62b","type":"file","file":"Pasted image 20260412212644.png","x":-1020,"y":-316,"width":400,"height":92},
 		{"id":"49ca8cc8c147eb2a","type":"file","file":"Pasted image 20260412213052.png","x":-300,"y":-760,"width":400,"height":215},
-		{"id":"89925b8bd8a74247","type":"text","text":"Vたところ","x":347,"y":-541,"width":250,"height":60},
 		{"id":"51e1651679c1247c","type":"file","file":"Pasted image 20260412213141.png","x":-1500,"y":144,"width":400,"height":216},
 		{"id":"8b0b8650af3244af","type":"file","file":"Pasted image 20260412213207.png","x":-507,"y":520,"width":814,"height":440},
 		{"id":"6e5a6e8ade15f2ca","type":"text","text":"ところへ","x":554,"y":560,"width":250,"height":60},
@@ -16,7 +15,13 @@
 		{"id":"b5ead40b4c0c8bb4","type":"text","text":"ところで","x":347,"y":-941,"width":250,"height":60},
 		{"id":"b33320578949c07c","type":"file","file":"Pasted image 20260412213330.png","x":-1700,"y":-768,"width":400,"height":223},
 		{"id":"c08e7453bf4f5a06","type":"file","file":"Pasted image 20260412213401.png","x":-2440,"y":186,"width":399,"height":209},
-		{"id":"5ec6a69bb95a47f1","type":"file","file":"Pasted image 20260412213512.png","x":-2180,"y":-202,"width":399,"height":233}
+		{"id":"5ec6a69bb95a47f1","type":"file","file":"Pasted image 20260412213512.png","x":-2180,"y":-202,"width":399,"height":233},
+		{"id":"44dd5fa55b8dbc6d","x":748,"y":-784,"width":250,"height":60,"type":"text","text":"Vているところ"},
+		{"id":"94e3c4392213f828","type":"text","text":"A+Vているところだ","x":1318,"y":-790,"width":250,"height":60},
+		{"id":"04d076eb9d311cc2","type":"text","text":"Bây giờ đang làm ","x":1663,"y":-844,"width":250,"height":60},
+		{"id":"89925b8bd8a74247","type":"text","text":"Vたところ","x":748,"y":-500,"width":250,"height":60},
+		{"id":"3638a29ce3c080f1","type":"text","text":"A+Vたところだ","x":1341,"y":-500,"width":250,"height":61},
+		{"id":"45a0067e6057d64e","type":"text","text":"Từ bây giờ sẽ làm A","x":1686,"y":-440,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"388bf00239a8f2c6","fromSide":"bottom","toNode":"8bcd27fac9419228","toSide":"left"},
@@ -27,8 +32,7 @@
 		{"id":"0e6c17fdb67982b6","fromNode":"22eef828175a996a","fromSide":"bottom","toNode":"19b8a68fb814b11e","toSide":"top"},
 		{"id":"d06c2a12f54f3717","fromNode":"19b8a68fb814b11e","fromSide":"right","toNode":"388bf00239a8f2c6","toSide":"left"},
 		{"id":"027d698aa1e6e3d2","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"49ca8cc8c147eb2a","toSide":"left"},
-		{"id":"249d71c1c1e14fc3","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"89925b8bd8a74247","toSide":"left"},
-		{"id":"268ef88ab8d794db","fromNode":"22eef828175a996a","fromSide":"right","toNode":"89925b8bd8a74247","toSide":"left"},
+		{"id":"249d71c1c1e14fc3","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"89925b8bd8a74247","toSide":"left","label":"Vたところ"},
 		{"id":"8b6fbf34d451906f","fromNode":"fec32141cf12e62b","fromSide":"bottom","toNode":"51e1651679c1247c","toSide":"top","label":"ところを"},
 		{"id":"02cd19e952440a54","fromNode":"8b0b8650af3244af","fromSide":"right","toNode":"6e5a6e8ade15f2ca","toSide":"left"},
 		{"id":"9b4670af257a9f4a","fromNode":"8b0b8650af3244af","fromSide":"right","toNode":"d9bd80275797bd9f","toSide":"left"},
@@ -38,6 +42,12 @@
 		{"id":"94c0ce669c14b3b4","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"b33320578949c07c","toSide":"right","label":"ところだった"},
 		{"id":"3e861b7ef340262e","fromNode":"51e1651679c1247c","fromSide":"left","toNode":"c08e7453bf4f5a06","toSide":"right"},
 		{"id":"1fb2468d676c9437","fromNode":"8b0b8650af3244af","fromSide":"left","toNode":"c08e7453bf4f5a06","toSide":"bottom"},
-		{"id":"ab6783cfd5b0f606","fromNode":"51e1651679c1247c","fromSide":"left","toNode":"5ec6a69bb95a47f1","toSide":"right","label":"ところを"}
+		{"id":"ab6783cfd5b0f606","fromNode":"51e1651679c1247c","fromSide":"left","toNode":"5ec6a69bb95a47f1","toSide":"right","label":"ところを"},
+		{"id":"7b20c6321f29b142","fromNode":"89925b8bd8a74247","fromSide":"right","toNode":"3638a29ce3c080f1","toSide":"left","label":"A+Vたところだ"},
+		{"id":"0e771d1990f273fe","fromNode":"3638a29ce3c080f1","fromSide":"right","toNode":"45a0067e6057d64e","toSide":"left"},
+		{"id":"2760b2364c782cb2","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"44dd5fa55b8dbc6d","toSide":"left","label":"Vているところ"},
+		{"id":"f6af50ee7756ca17","fromNode":"94e3c4392213f828","fromSide":"right","toNode":"04d076eb9d311cc2","toSide":"left"},
+		{"id":"ebce11b95057e51d","fromNode":"44dd5fa55b8dbc6d","fromSide":"right","toNode":"94e3c4392213f828","toSide":"left","label":"A+Vているところだ"},
+		{"id":"87715c207515525e","fromNode":"89925b8bd8a74247","fromSide":"left","toNode":"22eef828175a996a","toSide":"right","label":"Vたところが"}
 	]
 }

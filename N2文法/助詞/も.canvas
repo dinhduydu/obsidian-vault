@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"cb3d9789500d779c","x":-274,"y":-67,"width":250,"height":60,"type":"text","text":"も"}
+		{"id":"cb3d9789500d779c","type":"text","text":"も","x":-280,"y":-80,"width":256,"height":73},
+		{"id":"51518ce35362499b","x":-736,"y":-332,"width":250,"height":60,"type":"text","text":"～（数）も"},
+		{"id":"2b010b8d8d811d0a","x":-1190,"y":-456,"width":250,"height":60,"type":"text","text":"数＋助数詞＋も"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"126603456588487d","fromNode":"51518ce35362499b","fromSide":"right","toNode":"cb3d9789500d779c","toSide":"top"},
+		{"id":"250923fb92c28ced","fromNode":"51518ce35362499b","fromSide":"left","toNode":"2b010b8d8d811d0a","toSide":"right"}
+	]
 }

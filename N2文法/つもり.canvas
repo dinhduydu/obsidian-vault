@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"758b9fac36f2697d","type":"text","text":"つもり","x":-62,"y":4,"width":250,"height":60},
+		{"id":"7b1c6aac753c9c37","type":"text","text":"つもりだった","x":-519,"y":198,"width":250,"height":60},
+		{"id":"b07046f9d9dee701","type":"text","text":"Vたつもり～","x":-900,"y":198,"width":250,"height":60},
+		{"id":"fcb6a8d33a351232","x":-931,"y":380,"width":250,"height":98,"type":"text","text":"Aい＋つもりだった\nAな＋つもりだった\nNの＋つもりだった"}
+	],
+	"edges":[
+		{"id":"b8c0e359528a6b3f","fromNode":"758b9fac36f2697d","fromSide":"left","toNode":"7b1c6aac753c9c37","toSide":"right"},
+		{"id":"e3cb519ddc1fa077","fromNode":"7b1c6aac753c9c37","fromSide":"left","toNode":"b07046f9d9dee701","toSide":"right"},
+		{"id":"a7321a871dc487c7","fromNode":"7b1c6aac753c9c37","fromSide":"left","toNode":"fcb6a8d33a351232","toSide":"right"}
+	]
+}

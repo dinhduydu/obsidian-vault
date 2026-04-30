@@ -11,7 +11,16 @@
 		{"id":"7189fbc5e15d9884","type":"text","text":"わけにはいかない","x":925,"y":-184,"width":250,"height":64},
 		{"id":"25828d0eb515e131","type":"file","file":"Pasted image 20260412135525.png","x":-534,"y":-1360,"width":288,"height":399},
 		{"id":"2e5e4e69aa546f40","type":"file","file":"Pasted image 20260409005115.png","x":460,"y":-1320,"width":715,"height":391},
-		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":135,"y":-656,"width":400,"height":105}
+		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":135,"y":-656,"width":400,"height":105},
+		{"id":"32b80a7342d01e3d","type":"text","text":"V辞書形＋わけにはいかない","x":1250,"y":-305,"width":250,"height":50},
+		{"id":"28d6cd5b502d57dc","type":"text","text":"Dùng khi muốn nói do thường thức, quy tắc xã hội, sự tình nào đó nên không thể làm V","x":1660,"y":-380,"width":250,"height":105},
+		{"id":"0d61031fd9599429","type":"text","text":"Vない＋わけにはいかない","x":1285,"y":-128,"width":250,"height":60},
+		{"id":"d97740cbe45dc3f6","type":"text","text":"Phải làm V","x":1701,"y":-141,"width":250,"height":60},
+		{"id":"a9299ff2bbd7e88b","type":"file","file":"N2文法/ばかり・はず・わけ/はず.canvas","x":618,"y":-2040,"width":400,"height":400},
+		{"id":"e535bcf71c96fa2a","x":1356,"y":-790,"width":250,"height":60,"type":"text","text":"「N3]　Aわけだ"},
+		{"id":"21e92d9e38fbacbd","x":1785,"y":-900,"width":250,"height":90,"type":"text","text":"Dùng khi muốn nói đã hiểu nguyên nhân, lý do của A sau khi biết thông tin"},
+		{"id":"d1c5bd6fddf92db4","x":2145,"y":-962,"width":250,"height":60,"type":"text","text":"普通形＋わけだ"},
+		{"id":"f34a648e562f6d61","x":2144,"y":-843,"width":250,"height":60,"type":"text","text":"Aなだ：だー＞な＋わけだ\nNだ：だー＞な＋わけだ"}
 	],
 	"edges":[
 		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},
@@ -28,6 +37,15 @@
 		{"id":"9079b8e74ba9ff45","fromNode":"25828d0eb515e131","fromSide":"left","toNode":"ea4dbb9846b39329","toSide":"left","label":"わけではない"},
 		{"id":"a761c2d81e1d160e","fromNode":"25828d0eb515e131","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"top"},
 		{"id":"60695c92c905aca5","fromNode":"25828d0eb515e131","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"top","label":"わけにはいかない"},
-		{"id":"5f74f3a67aba3534","fromNode":"25828d0eb515e131","fromSide":"bottom","toNode":"8975d8cbe90382d1","toSide":"top","label":"わけだ"}
+		{"id":"5f74f3a67aba3534","fromNode":"25828d0eb515e131","fromSide":"bottom","toNode":"8975d8cbe90382d1","toSide":"top","label":"わけだ"},
+		{"id":"08c14c20257b224f","fromNode":"32b80a7342d01e3d","fromSide":"right","toNode":"28d6cd5b502d57dc","toSide":"left"},
+		{"id":"e531c14aa752926b","fromNode":"7189fbc5e15d9884","fromSide":"right","toNode":"32b80a7342d01e3d","toSide":"left"},
+		{"id":"2f32da7453b69eea","fromNode":"7189fbc5e15d9884","fromSide":"right","toNode":"0d61031fd9599429","toSide":"left"},
+		{"id":"b2e9831aee1f2fdc","fromNode":"0d61031fd9599429","fromSide":"right","toNode":"d97740cbe45dc3f6","toSide":"left"},
+		{"id":"2a425081103a8b0b","fromNode":"a9299ff2bbd7e88b","fromSide":"bottom","toNode":"2e5e4e69aa546f40","toSide":"top","label":"はずだ"},
+		{"id":"6a7eab84abdb8a9d","fromNode":"2e5e4e69aa546f40","fromSide":"bottom","toNode":"e535bcf71c96fa2a","toSide":"top","label":"わけだ"},
+		{"id":"b9a618045ca1415b","fromNode":"e535bcf71c96fa2a","fromSide":"right","toNode":"21e92d9e38fbacbd","toSide":"left"},
+		{"id":"63bdc4bef779549c","fromNode":"21e92d9e38fbacbd","fromSide":"right","toNode":"d1c5bd6fddf92db4","toSide":"left"},
+		{"id":"1b3f8f3ad4ef6b22","fromNode":"21e92d9e38fbacbd","fromSide":"right","toNode":"f34a648e562f6d61","toSide":"left"}
 	]
 }

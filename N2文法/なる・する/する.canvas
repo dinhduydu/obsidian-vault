@@ -2,12 +2,14 @@
 	"nodes":[
 		{"id":"6214e1bb01a34521","type":"text","text":"する","x":-110,"y":-52,"width":250,"height":60},
 		{"id":"283b815582d913ef","type":"text","text":"～たり～たりする","x":-800,"y":-180,"width":250,"height":60},
-		{"id":"e41e18d2fac755bb","x":-1039,"y":55,"width":250,"height":85,"type":"text","text":"Diễn tả bằng cách đưa ra 1 số ví dụ về làm nhiều việc hoặc nhiều việc xảy ra"},
-		{"id":"c667e04e97de76b3","x":-606,"y":70,"width":250,"height":110,"type":"text","text":"Diễn tả bằng cách sắp xếp các động từ có ý nghĩa đối lập để mô tả tình trạng hành động lặp đi lặp lại"}
+		{"id":"e41e18d2fac755bb","type":"text","text":"Diễn tả bằng cách đưa ra 1 số ví dụ về làm nhiều việc hoặc nhiều việc xảy ra","x":-1039,"y":55,"width":250,"height":85},
+		{"id":"c667e04e97de76b3","type":"text","text":"Diễn tả bằng cách sắp xếp các động từ có ý nghĩa đối lập để mô tả tình trạng hành động lặp đi lặp lại","x":-606,"y":70,"width":250,"height":110},
+		{"id":"b27fd487af410ff0","x":-185,"y":-620,"width":400,"height":400,"type":"file","file":"N2文法/こと・もの/こと.canvas"}
 	],
 	"edges":[
 		{"id":"8fc800563078b529","fromNode":"6214e1bb01a34521","fromSide":"left","toNode":"283b815582d913ef","toSide":"right","label":"～たり～たりする"},
 		{"id":"5fd3b85d1b415478","fromNode":"283b815582d913ef","fromSide":"bottom","toNode":"e41e18d2fac755bb","toSide":"top"},
-		{"id":"ca3b6652120b4772","fromNode":"283b815582d913ef","fromSide":"bottom","toNode":"c667e04e97de76b3","toSide":"top"}
+		{"id":"ca3b6652120b4772","fromNode":"283b815582d913ef","fromSide":"bottom","toNode":"c667e04e97de76b3","toSide":"top"},
+		{"id":"975c7e0125100faf","fromNode":"6214e1bb01a34521","fromSide":"top","toNode":"b27fd487af410ff0","toSide":"bottom","label":"ことにする"}
 	]
 }

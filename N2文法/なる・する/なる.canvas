@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"039a518e993d8493","type":"text","text":"なる","x":-212,"y":-4,"width":250,"height":60},
 		{"id":"762fe1d0d3725eb4","type":"text","text":"く・になる","x":-727,"y":-281,"width":250,"height":60},
-		{"id":"e1ce18a47550d094","x":-1165,"y":-361,"width":250,"height":60,"type":"text","text":"Aいー＞くなる"},
-		{"id":"51992d8c1f9cc82b","x":-853,"y":-795,"width":250,"height":60,"type":"text","text":"Aなー＞になる"},
-		{"id":"d71cb03deb493555","x":-430,"y":-632,"width":250,"height":60,"type":"text","text":"Nになる"}
+		{"id":"e1ce18a47550d094","type":"text","text":"Aいー＞くなる","x":-1165,"y":-361,"width":250,"height":60},
+		{"id":"51992d8c1f9cc82b","type":"text","text":"Aなー＞になる","x":-853,"y":-795,"width":250,"height":60},
+		{"id":"d71cb03deb493555","type":"text","text":"Nになる","x":-430,"y":-632,"width":250,"height":60},
+		{"id":"fd74dd982d3b23c3","x":7,"y":-734,"width":400,"height":400,"type":"file","file":"N2文法/こと・もの/こと.canvas"}
 	],
 	"edges":[
 		{"id":"55f965175e2eea3a","fromNode":"039a518e993d8493","fromSide":"top","toNode":"762fe1d0d3725eb4","toSide":"bottom"},
 		{"id":"53f1605fd2264bad","fromNode":"762fe1d0d3725eb4","fromSide":"left","toNode":"e1ce18a47550d094","toSide":"right"},
 		{"id":"ddd12cee551a5697","fromNode":"762fe1d0d3725eb4","fromSide":"top","toNode":"51992d8c1f9cc82b","toSide":"bottom"},
-		{"id":"08500f95bf3aa2c5","fromNode":"762fe1d0d3725eb4","fromSide":"top","toNode":"d71cb03deb493555","toSide":"bottom"}
+		{"id":"08500f95bf3aa2c5","fromNode":"762fe1d0d3725eb4","fromSide":"top","toNode":"d71cb03deb493555","toSide":"bottom"},
+		{"id":"c8f821d1359fa704","fromNode":"039a518e993d8493","fromSide":"top","toNode":"fd74dd982d3b23c3","toSide":"bottom","label":"ことになる"}
 	]
 }

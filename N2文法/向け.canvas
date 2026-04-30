@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d41bd1dbf7ee22f8","x":-68,"y":-44,"width":250,"height":60,"type":"text","text":"むけ"},
+		{"id":"8bf9edc6010aacca","x":-641,"y":-48,"width":250,"height":60,"type":"text","text":"~向け"},
+		{"id":"5b30a71cdc76712e","x":-1012,"y":-244,"width":250,"height":60,"type":"text","text":"N+向け"},
+		{"id":"0b714903d9684c77","x":-1022,"y":17,"width":250,"height":60,"type":"text","text":"~向けのN"},
+		{"id":"cc728ec7fd688c9f","x":-1042,"y":184,"width":250,"height":60,"type":"text","text":"~向けだ"}
+	],
+	"edges":[
+		{"id":"76a91a0e6c0bd063","fromNode":"d41bd1dbf7ee22f8","fromSide":"left","toNode":"8bf9edc6010aacca","toSide":"right"},
+		{"id":"8c606035305e2de9","fromNode":"8bf9edc6010aacca","fromSide":"left","toNode":"5b30a71cdc76712e","toSide":"right"},
+		{"id":"58b6b64b25235deb","fromNode":"8bf9edc6010aacca","fromSide":"left","toNode":"0b714903d9684c77","toSide":"right"},
+		{"id":"78373bb30bf330a2","fromNode":"8bf9edc6010aacca","fromSide":"left","toNode":"cc728ec7fd688c9f","toSide":"right"}
+	]
+}

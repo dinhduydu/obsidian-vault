@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"45100b0b8e91ff0c","type":"text","text":"を始める","x":-650,"y":-95,"width":250,"height":60},
+		{"id":"0fb2976b51e6106d","x":-725,"y":100,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas"},
+		{"id":"bf7e1f8c9a74cba0","type":"text","text":"始める","x":140,"y":40,"width":170,"height":60}
+	],
+	"edges":[
+		{"id":"866a8fe95e750884","fromNode":"bf7e1f8c9a74cba0","fromSide":"left","toNode":"45100b0b8e91ff0c","toSide":"right"},
+		{"id":"e93829fa9ff35422","fromNode":"bf7e1f8c9a74cba0","fromSide":"left","toNode":"0fb2976b51e6106d","toSide":"right"}
+	]
+}

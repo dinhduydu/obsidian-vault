@@ -1,15 +1,31 @@
 {
 	"nodes":[
+		{"id":"e842d12a9fdf1adc","type":"file","file":"N2文法/挙句・すえ/挙句.canvas","x":-868,"y":-1183,"width":400,"height":400},
 		{"id":"670cadcc24748ef9","type":"text","text":"Vた","x":37,"y":-73,"width":250,"height":60},
-		{"id":"04eddd31fc605a28","type":"file","file":"Pasted image 20260410085015.png","x":-560,"y":-157,"width":399,"height":228},
-		{"id":"29109bc0cdccc5ec","type":"file","file":"Pasted image 20260410085131.png","x":-38,"y":-400,"width":400,"height":223},
 		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限る・つもり・他/上.canvas","x":600,"y":-243,"width":400,"height":400},
-		{"id":"b729eb198be3742b","x":-573,"y":-504,"width":250,"height":60,"type":"text","text":"あげく"}
+		{"id":"b729eb198be3742b","type":"text","text":"あげく","x":-573,"y":-504,"width":250,"height":60},
+		{"id":"fa0c1048f2ca70d9","type":"text","text":"Vたら","x":-266,"y":245,"width":250,"height":60},
+		{"id":"04eddd31fc605a28","type":"file","file":"Pasted image 20260410085015.png","x":-620,"y":-157,"width":399,"height":228},
+		{"id":"4a86d3ab278ed99e","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":500,"y":500,"width":400,"height":400},
+		{"id":"fa24fbbcfeff5458","type":"file","file":"N2文法/ところ・どころ/ところ.canvas","x":-1219,"y":383,"width":400,"height":400},
+		{"id":"288e9825c7199a33","type":"text","text":"Vたまま　","x":565,"y":-570,"width":250,"height":60},
+		{"id":"4c6cf34d958a89c8","type":"text","text":"まま","x":852,"y":-850,"width":250,"height":60},
+		{"id":"d583a38b0260404b","type":"text","text":"Việc (nên thay đổi) không thay đổi mà vẫn tiếp tục","x":550,"y":-1043,"width":250,"height":60},
+		{"id":"0574f9942e5fed26","type":"text","text":"Vたとたん（に）","x":-231,"y":-1232,"width":250,"height":72},
+		{"id":"29109bc0cdccc5ec","type":"file","file":"Pasted image 20260410085131.png","x":-468,"y":-1740,"width":400,"height":223}
 	],
 	"edges":[
-		{"id":"4cc897dda400354e","fromNode":"670cadcc24748ef9","fromSide":"left","toNode":"04eddd31fc605a28","toSide":"right"},
-		{"id":"4f78881dd7714f75","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"29109bc0cdccc5ec","toSide":"bottom"},
+		{"id":"4cc897dda400354e","fromNode":"670cadcc24748ef9","fromSide":"left","toNode":"04eddd31fc605a28","toSide":"right","label":"Vたきり"},
 		{"id":"17ce5db02d8144e0","fromNode":"670cadcc24748ef9","fromSide":"right","toNode":"4ffc64a44c09ef6e","toSide":"left","label":"Vた上で"},
-		{"id":"1cc87408efdbe146","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"b729eb198be3742b","toSide":"bottom"}
+		{"id":"1cc87408efdbe146","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"b729eb198be3742b","toSide":"bottom","label":"Vたあげく"},
+		{"id":"6010562d4d70392e","fromNode":"670cadcc24748ef9","fromSide":"bottom","toNode":"fa0c1048f2ca70d9","toSide":"top","label":"Vたら"},
+		{"id":"4105931f10107648","fromNode":"b729eb198be3742b","fromSide":"top","toNode":"e842d12a9fdf1adc","toSide":"bottom"},
+		{"id":"4b6a47dfddccb66c","fromNode":"670cadcc24748ef9","fromSide":"bottom","toNode":"4a86d3ab278ed99e","toSide":"top","label":"Vたばかり"},
+		{"id":"2673180288481784","fromNode":"670cadcc24748ef9","fromSide":"bottom","toNode":"fa24fbbcfeff5458","toSide":"top","label":"Vたところだ"},
+		{"id":"c9c58fa26b242143","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"288e9825c7199a33","toSide":"bottom","label":"Vたまま　"},
+		{"id":"c1083be086039a34","fromNode":"4c6cf34d958a89c8","fromSide":"top","toNode":"d583a38b0260404b","toSide":"bottom"},
+		{"id":"214eea4c7e2e42dd","fromNode":"4c6cf34d958a89c8","fromSide":"bottom","toNode":"288e9825c7199a33","toSide":"top"},
+		{"id":"4f78881dd7714f75","fromNode":"670cadcc24748ef9","fromSide":"top","toNode":"0574f9942e5fed26","toSide":"bottom","label":"Vたとたん"},
+		{"id":"8c5e03d0eb5f9ece","fromNode":"0574f9942e5fed26","fromSide":"top","toNode":"29109bc0cdccc5ec","toSide":"bottom","label":"Vたとたん（に）"}
 	]
 }

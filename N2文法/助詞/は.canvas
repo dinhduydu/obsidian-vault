@@ -3,11 +3,17 @@
 		{"id":"f39b7c3d1307dcf6","type":"text","text":"は\n(Topic Marker)","x":-260,"y":-12,"width":180,"height":112},
 		{"id":"a2825e8c0449f958","type":"text","text":"Marks the topic of a sentence","x":60,"y":-140,"width":253,"height":60},
 		{"id":"6216724c48983091","type":"text","text":"Contrasts one options or thing against other (A vs B, C, D)","x":81,"y":-12,"width":250,"height":90},
-		{"id":"65519663e9456459","type":"text","text":"Used when elaborating on things already known to the listener","x":85,"y":186,"width":250,"height":94}
+		{"id":"65519663e9456459","type":"text","text":"Used when elaborating on things already known to the listener","x":85,"y":186,"width":250,"height":94},
+		{"id":"9c00fc0da9f7b6c2","type":"text","text":"は","x":-761,"y":-295,"width":250,"height":60},
+		{"id":"f59105ac46fe9e1c","type":"text","text":"～のは～だ","x":-900,"y":-640,"width":250,"height":60},
+		{"id":"b440637b9337d8fe","x":-1549,"y":-266,"width":250,"height":60,"type":"text","text":"～もちろん"}
 	],
 	"edges":[
 		{"id":"c3cea95d1e7b3c04","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"a2825e8c0449f958","toSide":"left"},
 		{"id":"49c164cba6cda6ea","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"6216724c48983091","toSide":"left"},
-		{"id":"4e34a62bd438268c","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"65519663e9456459","toSide":"left"}
+		{"id":"4e34a62bd438268c","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"65519663e9456459","toSide":"left"},
+		{"id":"9e3334f041dc4a6d","fromNode":"9c00fc0da9f7b6c2","fromSide":"right","toNode":"f39b7c3d1307dcf6","toSide":"top"},
+		{"id":"ec6542e01663836c","fromNode":"f59105ac46fe9e1c","fromSide":"bottom","toNode":"9c00fc0da9f7b6c2","toSide":"top"},
+		{"id":"b6a00262ef5c6b44","fromNode":"9c00fc0da9f7b6c2","fromSide":"left","toNode":"b440637b9337d8fe","toSide":"right"}
 	]
 }

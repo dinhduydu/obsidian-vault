@@ -1,9 +1,21 @@
 {
 	"nodes":[
-		{"id":"2da8e41873c63c35","x":-210,"y":14,"width":250,"height":60,"type":"text","text":"うちに"},
-		{"id":"34968906856b09b0","x":-835,"y":-6,"width":250,"height":60,"type":"text","text":"かのうちに"}
+		{"id":"2da8e41873c63c35","type":"text","text":"うちに","x":-210,"y":14,"width":250,"height":60},
+		{"id":"34968906856b09b0","type":"text","text":"かのうちに","x":-835,"y":-6,"width":250,"height":60},
+		{"id":"7f0407e8cf086c15","type":"text","text":"「N3」うちに","x":-785,"y":217,"width":250,"height":60},
+		{"id":"20656e2873acc945","type":"text","text":"V辞書形＋うちに","x":-1200,"y":180,"width":250,"height":60},
+		{"id":"0a0a355f8430cbf3","type":"text","text":"Vない＋うちに","x":-1200,"y":300,"width":250,"height":60},
+		{"id":"64e42dc5afdb78ea","type":"text","text":"Vている","x":-1200,"y":460,"width":250,"height":60},
+		{"id":"5abeb978e98cbaa3","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1760,"y":435,"width":200,"height":110},
+		{"id":"f86b9adae6a08102","x":-1182,"y":686,"width":250,"height":60,"type":"text","text":"Aい・Aな・Nのうちに"}
 	],
 	"edges":[
-		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right"}
+		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right"},
+		{"id":"782cf9df782976c0","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"7f0407e8cf086c15","toSide":"right"},
+		{"id":"df6ca2e3db6602d9","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"20656e2873acc945","toSide":"right"},
+		{"id":"da8dce7be9b553d5","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"0a0a355f8430cbf3","toSide":"right"},
+		{"id":"6c20dbcc2afdd66b","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"64e42dc5afdb78ea","toSide":"right"},
+		{"id":"d8fc5186879cda1e","fromNode":"5abeb978e98cbaa3","fromSide":"right","toNode":"64e42dc5afdb78ea","toSide":"left"},
+		{"id":"5bcac4a6f91ab38d","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"f86b9adae6a08102","toSide":"right"}
 	]
 }

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"3d06cf1d111b1ad8","type":"text","text":"受身","x":-174,"y":-54,"width":250,"height":78},
+		{"id":"404517fece555b1b","type":"text","text":"～（ら）れる","x":236,"y":-136,"width":250,"height":60},
+		{"id":"fecc406ab8589504","type":"text","text":"S là người","x":261,"y":104,"width":250,"height":60},
+		{"id":"63739663c7517dd1","type":"text","text":"Diễn đạt từ phía nhận hành động","x":652,"y":14,"width":250,"height":60},
+		{"id":"0a274a12f5c4347e","type":"text","text":"S bị ai đó tác động","x":649,"y":198,"width":250,"height":60},
+		{"id":"417cc059917b551a","type":"text","text":"S bị ai đó làm gì với tài sản sở hữu hoặc 1 phần cơ thể","x":644,"y":351,"width":250,"height":60},
+		{"id":"bd7fc399fe0d2296","type":"text","text":"Sắc thái không thích hoặc bị làm phiền","x":261,"y":351,"width":250,"height":60},
+		{"id":"73038ab918263eec","type":"text","text":"S ko phải là vật sống","x":262,"y":542,"width":250,"height":60},
+		{"id":"742f7690aa544d89","type":"text","text":"Sự vật, sự việc bị ai đó tác động điều gì","x":649,"y":542,"width":250,"height":60},
+		{"id":"5dd0ec09db168ed9","type":"text","text":"Cách chia","x":1221,"y":-137,"width":250,"height":60},
+		{"id":"a955fff15962d40d","type":"text","text":"（I）グループ：うー＞あれる\n（II）グループ：るー＞られる\n（III）グループ：するー＞される；くるー＞こられる","x":1560,"y":-159,"width":480,"height":105},
+		{"id":"04e86b6cbc894d12","type":"text","text":"（I）グループ：うー＞える\n（II）グループ：られる\n（III）グループ：できる・こられる","x":2260,"y":-159,"width":348,"height":105},
+		{"id":"fccdaf252e339158","x":2234,"y":-700,"width":400,"height":400,"type":"file","file":"N2文法/可能.canvas"}
+	],
+	"edges":[
+		{"id":"3e2666efba57a5a9","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"404517fece555b1b","toSide":"left"},
+		{"id":"d79f0533468b227c","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"fecc406ab8589504","toSide":"left"},
+		{"id":"d5107344d5abc8b7","fromNode":"fecc406ab8589504","fromSide":"right","toNode":"63739663c7517dd1","toSide":"left"},
+		{"id":"33dde6d8bda89e27","fromNode":"fecc406ab8589504","fromSide":"right","toNode":"0a274a12f5c4347e","toSide":"left"},
+		{"id":"f9d7386abe993fdb","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"bd7fc399fe0d2296","toSide":"left"},
+		{"id":"7d3f22328afb150f","fromNode":"fecc406ab8589504","fromSide":"right","toNode":"417cc059917b551a","toSide":"left"},
+		{"id":"ebe54e00a29fae71","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"73038ab918263eec","toSide":"left"},
+		{"id":"04b6d56e1e1eae2c","fromNode":"73038ab918263eec","fromSide":"right","toNode":"742f7690aa544d89","toSide":"left"},
+		{"id":"5be4da68d7c20c2f","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"5dd0ec09db168ed9","toSide":"left"},
+		{"id":"4cb5ecea6c529ef7","fromNode":"5dd0ec09db168ed9","fromSide":"right","toNode":"a955fff15962d40d","toSide":"left"},
+		{"id":"e36420f255b6bfcc","fromNode":"3d06cf1d111b1ad8","fromSide":"top","toNode":"a955fff15962d40d","toSide":"top"},
+		{"id":"17f4ef3427fe2956","fromNode":"fccdaf252e339158","fromSide":"bottom","toNode":"04e86b6cbc894d12","toSide":"top"}
+	]
+}

@@ -5,13 +5,13 @@
 		{"id":"c1e44fd41806a944","type":"text","text":"で","x":-380,"y":-76,"width":250,"height":60},
 		{"id":"a9946dea8a64c04d","type":"file","file":"Pasted image 20260410080250.png","x":-39,"y":120,"width":400,"height":111},
 		{"id":"44964ce97e893067","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-1140,"y":-560,"width":400,"height":400},
-		{"id":"c8c08fd2388f24b9","x":-1140,"y":80,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas"},
-		{"id":"8f0bf61017b908d0","x":-1227,"y":723,"width":250,"height":117,"type":"text","text":"Vて\nAいー＞くて\nAなー＞で\nNで"},
-		{"id":"56b4eb445ff4a096","x":-1477,"y":1040,"width":250,"height":60,"type":"text","text":"Diễn tả nguyên nhân, lý do"},
-		{"id":"bddd8bbde5545e4d","x":-1670,"y":1259,"width":250,"height":60,"type":"text","text":"Cảm tạ, xin lỗi"},
-		{"id":"92daa4b568f0fff0","x":-1209,"y":1275,"width":250,"height":60,"type":"text","text":"Thể hiện cảm xúc"},
-		{"id":"0384ab3c0d3ed34b","x":-1301,"y":1550,"width":435,"height":60,"type":"text","text":"かぞくに会えなくて、寂しい（さびしい）です。"},
-		{"id":"f0baa8f026d4a3f8","x":-1670,"y":1550,"width":250,"height":60,"type":"text","text":"おくれてすみません。"}
+		{"id":"c8c08fd2388f24b9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1140,"y":80,"width":400,"height":400},
+		{"id":"8f0bf61017b908d0","type":"text","text":"Vて\nAいー＞くて\nAなー＞で\nNで","x":-1227,"y":723,"width":250,"height":117},
+		{"id":"56b4eb445ff4a096","type":"text","text":"Diễn tả nguyên nhân, lý do","x":-1477,"y":1040,"width":250,"height":60},
+		{"id":"bddd8bbde5545e4d","type":"text","text":"Cảm tạ, xin lỗi","x":-1670,"y":1259,"width":250,"height":60},
+		{"id":"92daa4b568f0fff0","type":"text","text":"Thể hiện cảm xúc","x":-1209,"y":1275,"width":250,"height":60},
+		{"id":"0384ab3c0d3ed34b","type":"text","text":"かぞくに会えなくて、寂しい（さびしい）です。","x":-1301,"y":1550,"width":435,"height":60},
+		{"id":"f0baa8f026d4a3f8","type":"text","text":"おくれてすみません。","x":-1670,"y":1550,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left"},

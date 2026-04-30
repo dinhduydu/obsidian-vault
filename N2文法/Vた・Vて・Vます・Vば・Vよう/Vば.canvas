@@ -1,11 +1,25 @@
 {
 	"nodes":[
 		{"id":"fb89ed896538639d","type":"file","file":"Pasted image 20260412211708.png","x":-740,"y":-122,"width":400,"height":220},
-		{"id":"6da6e2e21ee8c3ed","x":-740,"y":-480,"width":400,"height":216,"type":"file","file":"Pasted image 20260412211927.png"},
-		{"id":"65ac7a25c9caadc9","type":"text","text":"Vば","x":60,"y":-41,"width":250,"height":58}
+		{"id":"6da6e2e21ee8c3ed","type":"file","file":"Pasted image 20260412211927.png","x":-740,"y":-480,"width":400,"height":216},
+		{"id":"65ac7a25c9caadc9","type":"text","text":"Vば","x":60,"y":-41,"width":250,"height":58},
+		{"id":"23931fc67c959d20","type":"text","text":"～ば～・～なら～","x":507,"y":-476,"width":250,"height":60},
+		{"id":"4e65db56d0813fe5","type":"text","text":"たら","x":980,"y":-980,"width":250,"height":60},
+		{"id":"3ee772ca48488990","type":"text","text":"なら","x":1028,"y":-576,"width":250,"height":60},
+		{"id":"9469a5db30901a3a","type":"text","text":"と","x":970,"y":-1331,"width":250,"height":60},
+		{"id":"0ccd68f73c419e2c","type":"text","text":"Diễn tả việc sẽ trở nên~; việc làm ~ nếu khi đó","x":1496,"y":-1050,"width":250,"height":60},
+		{"id":"c49f2c24ab750105","type":"text","text":"~ mang ý nghĩa giả định là không biết có xảy ra hay không","x":1916,"y":-1031,"width":250,"height":60},
+		{"id":"726624ecbe382428","type":"text","text":"Diễn tả ý chí phán đoán, nguyện vọng của người nói, sau khi tiếp nhận lời mà đối phương nói","x":1538,"y":-718,"width":250,"height":118},
+		{"id":"1b7cf58fb3c47dee","x":-800,"y":440,"width":400,"height":400,"type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas"}
 	],
 	"edges":[
 		{"id":"4d10b4a29240c25e","fromNode":"65ac7a25c9caadc9","fromSide":"left","toNode":"fb89ed896538639d","toSide":"right","label":"Vばそれまでだ"},
-		{"id":"8290e091ecd14d3c","fromNode":"65ac7a25c9caadc9","fromSide":"top","toNode":"6da6e2e21ee8c3ed","toSide":"right","label":"Vばこそ"}
+		{"id":"8290e091ecd14d3c","fromNode":"65ac7a25c9caadc9","fromSide":"top","toNode":"6da6e2e21ee8c3ed","toSide":"right","label":"Vばこそ"},
+		{"id":"7ee887cedf951f2c","fromNode":"65ac7a25c9caadc9","fromSide":"top","toNode":"23931fc67c959d20","toSide":"bottom"},
+		{"id":"224b91c830b5f9e8","fromNode":"23931fc67c959d20","fromSide":"right","toNode":"3ee772ca48488990","toSide":"left"},
+		{"id":"9bc0afcb7bacf683","fromNode":"4e65db56d0813fe5","fromSide":"right","toNode":"0ccd68f73c419e2c","toSide":"left"},
+		{"id":"c86176a69f898e55","fromNode":"0ccd68f73c419e2c","fromSide":"right","toNode":"c49f2c24ab750105","toSide":"left"},
+		{"id":"c4e75633856cc7e1","fromNode":"3ee772ca48488990","fromSide":"right","toNode":"726624ecbe382428","toSide":"left"},
+		{"id":"48bc480bcc758670","fromNode":"1b7cf58fb3c47dee","fromSide":"right","toNode":"65ac7a25c9caadc9","toSide":"bottom","label":"さえ～ば"}
 	]
 }
