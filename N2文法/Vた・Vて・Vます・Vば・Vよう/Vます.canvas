@@ -32,14 +32,20 @@
 		{"id":"9f3e36076c02fa81","type":"text","text":"Vますがち","x":-2659,"y":-1540,"width":250,"height":60},
 		{"id":"b673394ab98df159","type":"text","text":"Dùng cho những chuyện không tốt","x":-2230,"y":-1749,"width":250,"height":60},
 		{"id":"39c439a4aa3f80b3","type":"text","text":"Vますがち\nNがち","x":-2960,"y":-1355,"width":180,"height":75},
-		{"id":"ef07fe1626b3e459","x":-3176,"y":-1631,"width":250,"height":60,"type":"text","text":"～がちのN\n～がちだ。"},
+		{"id":"ef07fe1626b3e459","type":"text","text":"～がちのN\n～がちだ。","x":-3176,"y":-1631,"width":250,"height":60},
 		{"id":"83cda2f50e1158f9","type":"file","file":"Pasted image 20260412212530.png","x":-2580,"y":-1040,"width":400,"height":187},
 		{"id":"724b890b214a75d8","type":"file","file":"Pasted image 20260412211522.png","x":-2856,"y":-680,"width":553,"height":305},
-		{"id":"70f050e46f715874","x":-354,"y":2023,"width":250,"height":60,"type":"text","text":"Vますかけだ"},
+		{"id":"70f050e46f715874","type":"text","text":"Vますかけだ","x":-354,"y":2023,"width":250,"height":60},
 		{"id":"a3ee7d3ce848382e","type":"file","file":"N2文法/そう・よう/よう.canvas","x":543,"y":-992,"width":380,"height":400},
 		{"id":"1be10d9840c413c6","type":"text","text":"Vますようがない","x":1077,"y":-845,"width":250,"height":60},
 		{"id":"2fb92f7af8a0c014","type":"text","text":"Vますようもない","x":1086,"y":-757,"width":250,"height":60},
-		{"id":"e5cdc3953834a6c7","x":23,"y":1926,"width":250,"height":60,"type":"text","text":"Vẫn đang A\nA chưa xong"}
+		{"id":"e5cdc3953834a6c7","type":"text","text":"Vẫn đang A\nA chưa xong","x":23,"y":1926,"width":250,"height":60},
+		{"id":"da7517a1bf136381","type":"text","text":"Vますっぱなし","x":-520,"y":2340,"width":250,"height":60},
+		{"id":"89d0c26d6395483f","type":"text","text":"Vẫn là trạng thái A mà mãi ko thay đổi","x":-127,"y":2299,"width":250,"height":60},
+		{"id":"ea168423fddafdf4","type":"text","text":"Thể hiện đánh giá mang tính tiêu cực","x":221,"y":2239,"width":250,"height":60},
+		{"id":"963f481f7073b654","x":-2240,"y":-230,"width":250,"height":60,"type":"text","text":"Cảm thấy A một chút"},
+		{"id":"da88c3bb11165fb3","x":-2704,"y":-140,"width":250,"height":60,"type":"text","text":"Thường là chuyện tiêu cực"},
+		{"id":"07402941ed0beef8","x":-3260,"y":-171,"width":361,"height":50,"type":"text","text":"最近、仕事がいそがしくて、疲れ気味だ。"}
 	],
 	"edges":[
 		{"id":"cc3253ba0c86c40f","fromNode":"9f4a4f87f711ce01","fromSide":"right","toNode":"ded1f25379408bd8","toSide":"left","label":"かね"},
@@ -83,6 +89,13 @@
 		{"id":"412163e4d2a3f113","fromNode":"a6d9c52fbf266e75","fromSide":"bottom","toNode":"db8bec1bd9a65c9c","toSide":"right","label":"Vますぬく"},
 		{"id":"d6dd1939f287f851","fromNode":"9f3e36076c02fa81","fromSide":"left","toNode":"ef07fe1626b3e459","toSide":"right"},
 		{"id":"7b348e12918a805b","fromNode":"ef6f456f5fedce35","fromSide":"bottom","toNode":"70f050e46f715874","toSide":"top","label":"Vますかけ"},
-		{"id":"127a2fab356469a4","fromNode":"70f050e46f715874","fromSide":"right","toNode":"e5cdc3953834a6c7","toSide":"left"}
+		{"id":"127a2fab356469a4","fromNode":"70f050e46f715874","fromSide":"right","toNode":"e5cdc3953834a6c7","toSide":"left"},
+		{"id":"faf4b5286947c5b4","fromNode":"ef6f456f5fedce35","fromSide":"bottom","toNode":"da7517a1bf136381","toSide":"top","label":"Vますっぱなし"},
+		{"id":"33b4d0fcd757b75b","fromNode":"da7517a1bf136381","fromSide":"right","toNode":"89d0c26d6395483f","toSide":"left"},
+		{"id":"7dfed4e684656c24","fromNode":"89d0c26d6395483f","fromSide":"right","toNode":"ea168423fddafdf4","toSide":"left"},
+		{"id":"2b590e62e676855e","fromNode":"a6eaba45fdfe05f3","fromSide":"left","toNode":"963f481f7073b654","toSide":"right","label":"Vます気味"},
+		{"id":"bb512005f6705a11","fromNode":"963f481f7073b654","fromSide":"left","toNode":"da88c3bb11165fb3","toSide":"right","label":"Vます気味"},
+		{"id":"97b23211c20e86e4","fromNode":"724b890b214a75d8","fromSide":"bottom","toNode":"da88c3bb11165fb3","toSide":"top","label":"Vます気味"},
+		{"id":"32cacf7dbc629d3e","fromNode":"da88c3bb11165fb3","fromSide":"left","toNode":"07402941ed0beef8","toSide":"right"}
 	]
 }

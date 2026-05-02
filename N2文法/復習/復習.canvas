@@ -9,7 +9,7 @@
 		{"id":"66f2f51cb0180d06","type":"file","file":"N2文法/一方・上・限る・つもり・他/限り.canvas","x":-819,"y":356,"width":400,"height":400},
 		{"id":"ab38ff3471167dd9","type":"file","file":"N2文法/こと・もの/もの.canvas","x":398,"y":375,"width":400,"height":400},
 		{"id":"df28f2c18378a061","type":"file","file":"Pasted image 20260410080659.png","x":-1700,"y":-640,"width":400,"height":225},
-		{"id":"630e01102981ef66","type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas","x":-1700,"y":-360,"width":400,"height":400},
+		{"id":"630e01102981ef66","type":"file","file":"N2文法/さえ・より/さえ.canvas","x":-1700,"y":-360,"width":400,"height":400},
 		{"id":"6ea1df5221514b0f","type":"file","file":"N2文法/挙句・すえ/末.canvas","x":-1700,"y":-1240,"width":400,"height":400},
 		{"id":"51b13ff075135cd3","type":"file","file":"N2文法/次第・つつ/次第.canvas","x":-1140,"y":-1080,"width":400,"height":400},
 		{"id":"28bae250ddcb226b","type":"file","file":"Pasted image 20260410080853.png","x":-2720,"y":-180,"width":399,"height":220},
@@ -34,7 +34,9 @@
 		{"id":"bf0b2ed94565a4ea","type":"file","file":"Pasted image 20260412213639.png","x":142,"y":1430,"width":400,"height":222},
 		{"id":"affeb3711f4104ab","type":"file","file":"Pasted image 20260412213648.png","x":1360,"y":-139,"width":614,"height":297},
 		{"id":"4b3ce8aa716c75fc","type":"file","file":"N2文法/助詞/に.canvas","x":696,"y":3190,"width":400,"height":400},
-		{"id":"bda34d1765fbdb17","type":"file","file":"Pasted image 20260412205643.png","x":1720,"y":3205,"width":761,"height":371}
+		{"id":"bda34d1765fbdb17","type":"file","file":"Pasted image 20260412205643.png","x":1720,"y":3205,"width":761,"height":371},
+		{"id":"7da3cfc19d55fca2","type":"text","text":"すっくり","x":-6560,"y":351,"width":250,"height":60},
+		{"id":"a1f52d94e6b67506","type":"text","text":"さ","x":-6560,"y":580,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cfb85c7eb2f5dd81","fromNode":"86172589f06322b3","fromSide":"left","toNode":"44ecd3e4a910c404","toSide":"right"},

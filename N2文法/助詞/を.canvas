@@ -3,7 +3,7 @@
 		{"id":"a7de986e356de212","type":"text","text":"を","x":-120,"y":-26,"width":60,"height":60},
 		{"id":"6e956ea87c8edee4","type":"text","text":"Marks the object of verb","x":159,"y":-189,"width":250,"height":60},
 		{"id":"446eafb8755b5cb0","type":"text","text":"With verbs of motion, shows where the motion occurs","x":157,"y":44,"width":250,"height":60},
-		{"id":"4877fae6b807474a","type":"text","text":"を","x":-1700,"y":-1541,"width":250,"height":60},
+		{"id":"4877fae6b807474a","type":"text","text":"を","x":-1700,"y":-1541,"width":250,"height":50},
 		{"id":"c466cc8010fef179","type":"text","text":"を込めて","x":-1173,"y":-2080,"width":250,"height":60},
 		{"id":"3bdcc2d535d262f1","type":"text","text":"を始める","x":-1025,"y":-1714,"width":250,"height":60},
 		{"id":"67a3dfe03fb8928c","type":"text","text":"Nを込めて","x":-731,"y":-2165,"width":250,"height":60},
@@ -13,7 +13,9 @@
 		{"id":"6554ef561888f9dd","type":"text","text":"思い","x":400,"y":-2225,"width":250,"height":60},
 		{"id":"9fb2f31016120f8e","type":"text","text":"を通して","x":-1536,"y":-1231,"width":250,"height":60},
 		{"id":"0b7c203334515a5e","type":"text","text":"をもとに（して）","x":-1462,"y":-914,"width":250,"height":60},
-		{"id":"9266d5336ebbb5d1","x":-1266,"y":-670,"width":400,"height":400,"type":"file","file":"N2文法/助詞/に.canvas"}
+		{"id":"9266d5336ebbb5d1","type":"file","file":"N2文法/助詞/に.canvas","x":-1266,"y":-670,"width":400,"height":400},
+		{"id":"c3c14d6abad94487","type":"text","text":"をきっかけに（して）","x":-2083,"y":-1305,"width":250,"height":60},
+		{"id":"384b1c2db5c77d52","type":"file","file":"Pasted image 20260412211037.png","x":-260,"y":-1245,"width":400,"height":221}
 	],
 	"edges":[
 		{"id":"6ea83776af42dc19","fromNode":"a7de986e356de212","fromSide":"right","toNode":"6e956ea87c8edee4","toSide":"left"},
@@ -28,6 +30,8 @@
 		{"id":"c3c3920aee80893d","fromNode":"5f7f89b9d5c8df11","fromSide":"right","toNode":"6554ef561888f9dd","toSide":"left"},
 		{"id":"7ae58d451a631a62","fromNode":"4877fae6b807474a","fromSide":"bottom","toNode":"9fb2f31016120f8e","toSide":"top"},
 		{"id":"6fbc599763360009","fromNode":"9fb2f31016120f8e","fromSide":"bottom","toNode":"0b7c203334515a5e","toSide":"top"},
-		{"id":"3d42af9b6877f9b8","fromNode":"0b7c203334515a5e","fromSide":"bottom","toNode":"9266d5336ebbb5d1","toSide":"top","label":"をもとに（して）"}
+		{"id":"3d42af9b6877f9b8","fromNode":"0b7c203334515a5e","fromSide":"bottom","toNode":"9266d5336ebbb5d1","toSide":"top","label":"をもとに（して）"},
+		{"id":"317a380020cf1056","fromNode":"4877fae6b807474a","fromSide":"bottom","toNode":"c3c14d6abad94487","toSide":"top"},
+		{"id":"5f008bba998cb3ac","fromNode":"4877fae6b807474a","fromSide":"right","toNode":"384b1c2db5c77d52","toSide":"left","label":"をかかわらず"}
 	]
 }

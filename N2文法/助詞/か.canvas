@@ -13,15 +13,19 @@
 		{"id":"027d1094a420e132","type":"text","text":"ものか　（もんか）","x":-155,"y":-660,"width":250,"height":60},
 		{"id":"720c2b024a4f1715","type":"text","text":"ではないか","x":-750,"y":-270,"width":250,"height":60},
 		{"id":"ef5e19fac202ce57","type":"text","text":"どころか","x":-771,"y":-62,"width":250,"height":60},
-		{"id":"17d353c2b894a82e","x":-86,"y":352,"width":250,"height":60,"type":"text","text":"Diễn đạt ý nghĩa: Có phải A hay không"},
-		{"id":"eb81bae3f47d83cc","x":-68,"y":511,"width":250,"height":60,"type":"text","text":"Kết hợp với các V"},
-		{"id":"1907b82999f0e0a9","x":360,"y":423,"width":250,"height":60,"type":"text","text":"わかる"},
-		{"id":"3b24da4f543fb05d","x":370,"y":581,"width":250,"height":60,"type":"text","text":"知る"},
-		{"id":"3bafcc41e0f1e594","x":353,"y":723,"width":250,"height":60,"type":"text","text":"見る"},
-		{"id":"ec4bd99651c56c3e","x":299,"y":876,"width":250,"height":60,"type":"text","text":"聞く"},
-		{"id":"4c961e68b8873b2f","x":375,"y":231,"width":250,"height":60,"type":"text","text":"調べる"},
-		{"id":"aaebab5f46bccd4a","x":354,"y":132,"width":250,"height":60,"type":"text","text":"相談する"},
-		{"id":"78e3890a45fea12c","x":383,"y":331,"width":250,"height":60,"type":"text","text":"心配する"}
+		{"id":"17d353c2b894a82e","type":"text","text":"Diễn đạt ý nghĩa: Có phải A hay không","x":-86,"y":352,"width":250,"height":60},
+		{"id":"eb81bae3f47d83cc","type":"text","text":"Kết hợp với các V","x":-68,"y":511,"width":250,"height":60},
+		{"id":"1907b82999f0e0a9","type":"text","text":"わかる","x":360,"y":423,"width":250,"height":60},
+		{"id":"3b24da4f543fb05d","type":"text","text":"知る","x":370,"y":581,"width":250,"height":60},
+		{"id":"3bafcc41e0f1e594","type":"text","text":"見る","x":353,"y":723,"width":250,"height":60},
+		{"id":"ec4bd99651c56c3e","type":"text","text":"聞く","x":299,"y":876,"width":250,"height":60},
+		{"id":"4c961e68b8873b2f","type":"text","text":"調べる","x":375,"y":231,"width":250,"height":60},
+		{"id":"aaebab5f46bccd4a","type":"text","text":"相談する","x":354,"y":132,"width":250,"height":60},
+		{"id":"78e3890a45fea12c","type":"text","text":"心配する","x":383,"y":331,"width":250,"height":60},
+		{"id":"c69f031221ef686a","type":"text","text":"～のでしょうか","x":1036,"y":238,"width":250,"height":60},
+		{"id":"205b28fdf6326c2d","x":685,"y":-614,"width":250,"height":60,"type":"text","text":"～なんか"},
+		{"id":"7c1e695830a518a1","x":369,"y":-823,"width":250,"height":60,"type":"text","text":"Thể hiện sự coi nhẹ, hạ thấp"},
+		{"id":"b80e23b8bfeff698","x":967,"y":-816,"width":250,"height":60,"type":"text","text":"Thể hiện sự bất ngờ, kinh ngạc"}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top","label":"ものか　（もんか）"},
@@ -45,6 +49,10 @@
 		{"id":"2b0df60d942a5b5e","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"ec4bd99651c56c3e","toSide":"left"},
 		{"id":"eedffd67e6158bfc","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"4c961e68b8873b2f","toSide":"left"},
 		{"id":"34704eb8ded2399c","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"aaebab5f46bccd4a","toSide":"left"},
-		{"id":"187fec6da9631a29","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"78e3890a45fea12c","toSide":"left"}
+		{"id":"187fec6da9631a29","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"78e3890a45fea12c","toSide":"left"},
+		{"id":"5a954bd0ad12806e","fromNode":"1889f1eee2f61630","fromSide":"bottom","toNode":"c69f031221ef686a","toSide":"top"},
+		{"id":"8bacd87889842068","fromNode":"7b2c6898370e3f09","fromSide":"top","toNode":"205b28fdf6326c2d","toSide":"bottom"},
+		{"id":"cea61067b3e40222","fromNode":"205b28fdf6326c2d","fromSide":"top","toNode":"7c1e695830a518a1","toSide":"bottom"},
+		{"id":"b712b8da40482020","fromNode":"205b28fdf6326c2d","fromSide":"top","toNode":"b80e23b8bfeff698","toSide":"bottom"}
 	]
 }

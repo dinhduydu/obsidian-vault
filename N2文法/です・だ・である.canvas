@@ -1,29 +1,35 @@
 {
 	"nodes":[
 		{"id":"e2e1b0de41753ee9","type":"text","text":"だ","x":-60,"y":-33,"width":166,"height":60},
-		{"id":"0f86348febeab45f","type":"text","text":"です","x":478,"y":-36,"width":250,"height":60},
 		{"id":"9c14a04d4b7989f8","type":"text","text":"のだ・んだ","x":-653,"y":-7,"width":250,"height":60},
-		{"id":"bc3f393e1566202f","type":"text","text":"だろう","x":120,"y":-344,"width":250,"height":60},
-		{"id":"52027757ca2a9563","type":"file","file":"N2文法/そう・よう/そう.canvas","x":-653,"y":-494,"width":400,"height":180},
 		{"id":"0c59f98061326081","type":"text","text":"～のは～だ","x":-450,"y":166,"width":250,"height":60},
 		{"id":"07c2f8ba9120cbe4","type":"text","text":"はずだ","x":294,"y":245,"width":250,"height":60},
 		{"id":"f485e99271613dcc","type":"text","text":"みたいだ","x":31,"y":305,"width":250,"height":60},
 		{"id":"128a2abcdb025fbe","type":"text","text":"ようだ","x":-442,"y":384,"width":250,"height":60},
 		{"id":"8d088e1e23a068c3","type":"file","file":"Pasted image 20260409005041.png","x":520,"y":444,"width":716,"height":391},
-		{"id":"eeb27aa03ab0fa44","x":1520,"y":444,"width":400,"height":400,"type":"file","file":"N2文法/ばかり・はず・わけ/はず.canvas"},
-		{"id":"dcd6c73c9756ffdc","x":278,"y":-1120,"width":400,"height":400,"type":"file","file":"N2文法/ばかり・はず・わけ/わけ.canvas"}
+		{"id":"eeb27aa03ab0fa44","type":"file","file":"N2文法/ばかり・はず・わけ/はず.canvas","x":1520,"y":444,"width":400,"height":400},
+		{"id":"dcd6c73c9756ffdc","type":"file","file":"N2文法/ばかり・はず・わけ/わけ.canvas","x":278,"y":-1120,"width":400,"height":400},
+		{"id":"bc3f393e1566202f","type":"text","text":"だろう","x":800,"y":-344,"width":250,"height":60},
+		{"id":"5ea9f69c39e68d9c","type":"text","text":"おそらく～だろう","x":1540,"y":-465,"width":250,"height":60},
+		{"id":"afbcddab83fc324c","type":"text","text":"きっと～だろう","x":1594,"y":-227,"width":250,"height":60},
+		{"id":"0f86348febeab45f","type":"text","text":"です","x":2640,"y":-40,"width":250,"height":60},
+		{"id":"52027757ca2a9563","type":"file","file":"N2文法/そう・よう/そう.canvas","x":-517,"y":-900,"width":400,"height":180},
+		{"id":"45af010eb4982465","type":"text","text":"だらけ","x":-1199,"y":-440,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"95b787f655c67282","fromNode":"e2e1b0de41753ee9","fromSide":"left","toNode":"9c14a04d4b7989f8","toSide":"right","label":"のだ・んだ"},
-		{"id":"275b400581c505c8","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"bc3f393e1566202f","toSide":"bottom","label":"だろう"},
+		{"id":"275b400581c505c8","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"bc3f393e1566202f","toSide":"left","label":"だろう"},
 		{"id":"7de9ea389f4aa474","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"52027757ca2a9563","toSide":"bottom","label":"そうだ"},
 		{"id":"9618db96224bf459","fromNode":"e2e1b0de41753ee9","fromSide":"bottom","toNode":"0c59f98061326081","toSide":"right"},
-		{"id":"7300330351a04554","fromNode":"e2e1b0de41753ee9","fromSide":"right","toNode":"0f86348febeab45f","toSide":"left"},
+		{"id":"7300330351a04554","fromNode":"e2e1b0de41753ee9","fromSide":"right","toNode":"0f86348febeab45f","toSide":"left","label":"です"},
 		{"id":"380f2e39536c2be3","fromNode":"e2e1b0de41753ee9","fromSide":"bottom","toNode":"07c2f8ba9120cbe4","toSide":"top"},
 		{"id":"c142bc0b5f4edbd2","fromNode":"e2e1b0de41753ee9","fromSide":"bottom","toNode":"f485e99271613dcc","toSide":"top"},
 		{"id":"a4aa99049b614add","fromNode":"e2e1b0de41753ee9","fromSide":"bottom","toNode":"128a2abcdb025fbe","toSide":"top"},
 		{"id":"4519618ec5d2b47b","fromNode":"07c2f8ba9120cbe4","fromSide":"bottom","toNode":"8d088e1e23a068c3","toSide":"top"},
 		{"id":"a4c8fe7612db2c29","fromNode":"eeb27aa03ab0fa44","fromSide":"left","toNode":"8d088e1e23a068c3","toSide":"right","label":"はずだ"},
-		{"id":"66a48c2a89bc002b","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"dcd6c73c9756ffdc","toSide":"left","label":"わけだ"}
+		{"id":"66a48c2a89bc002b","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"dcd6c73c9756ffdc","toSide":"left","label":"わけだ"},
+		{"id":"2dac7c81ffa1b99d","fromNode":"bc3f393e1566202f","fromSide":"right","toNode":"5ea9f69c39e68d9c","toSide":"left"},
+		{"id":"0d97d6e1b030f780","fromNode":"bc3f393e1566202f","fromSide":"right","toNode":"afbcddab83fc324c","toSide":"left"},
+		{"id":"07bc41b659a7f7a6","fromNode":"e2e1b0de41753ee9","fromSide":"top","toNode":"45af010eb4982465","toSide":"right"}
 	]
 }

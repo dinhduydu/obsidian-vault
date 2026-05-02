@@ -21,7 +21,13 @@
 		{"id":"d1c5bd6fddf92db4","type":"text","text":"普通形＋わけだ","x":2145,"y":-962,"width":250,"height":60},
 		{"id":"f34a648e562f6d61","type":"text","text":"Aなだ：だー＞な＋わけだ\nNだ：だー＞な＋わけだ","x":2144,"y":-843,"width":250,"height":60},
 		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":260,"y":-656,"width":400,"height":105},
-		{"id":"c862ba48b004a4b2","x":925,"y":-633,"width":250,"height":60,"type":"text","text":"わけではない"}
+		{"id":"c862ba48b004a4b2","type":"text","text":"わけではない","x":925,"y":-633,"width":250,"height":60},
+		{"id":"02d0567c128a8654","x":-1557,"y":23,"width":250,"height":60,"type":"text","text":"～わけがない"},
+		{"id":"757119c7e41a8eb5","x":-1949,"y":-112,"width":250,"height":60,"type":"text","text":"Phủ định mạnh mẽ"},
+		{"id":"d16a5b67ab11d5a6","x":-2349,"y":-181,"width":250,"height":60,"type":"text","text":"Vì tin chắc tuyệt đối không A"},
+		{"id":"c09291255c861796","x":-2333,"y":-4,"width":250,"height":60,"type":"text","text":"Diễn đạt mang tính chủ quan"},
+		{"id":"007327540e7073d1","x":-2013,"y":287,"width":250,"height":60,"type":"text","text":"～ないわけがない"},
+		{"id":"6199719baedc5a72","x":-2460,"y":176,"width":250,"height":60,"type":"text","text":"Nhất định là A"}
 	],
 	"edges":[
 		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},
@@ -29,9 +35,9 @@
 		{"id":"94cd349fb0aa88b1","fromNode":"ea4dbb9846b39329","fromSide":"right","toNode":"20296cc5a38e1df8","toSide":"left","label":"わけではない"},
 		{"id":"5ccc9e12f869f13d","fromNode":"53afe6c090728073","fromSide":"right","toNode":"cdd89594633c1129","toSide":"left"},
 		{"id":"71a70ad7b608c951","fromNode":"cdd89594633c1129","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"left"},
-		{"id":"6958f54fcc8bb06d","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"8975d8cbe90382d1","toSide":"left"},
-		{"id":"a9ae0d8ab60c5a6c","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"ea4dbb9846b39329","toSide":"left"},
-		{"id":"1c96962f91bc32e7","fromNode":"53afe6c090728073","fromSide":"top","toNode":"23801a156da1dd81","toSide":"bottom"},
+		{"id":"6958f54fcc8bb06d","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"8975d8cbe90382d1","toSide":"left","label":"わけだ"},
+		{"id":"a9ae0d8ab60c5a6c","fromNode":"23801a156da1dd81","fromSide":"right","toNode":"ea4dbb9846b39329","toSide":"left","label":"わけではない・わけでもない"},
+		{"id":"1c96962f91bc32e7","fromNode":"53afe6c090728073","fromSide":"top","toNode":"23801a156da1dd81","toSide":"bottom","label":"わけではない・わけでもない"},
 		{"id":"34d48984a1a52277","fromNode":"3e7252fbcc72d3f7","fromSide":"right","toNode":"7189fbc5e15d9884","toSide":"left"},
 		{"id":"c6f10546049954c1","fromNode":"53afe6c090728073","fromSide":"right","toNode":"3e7252fbcc72d3f7","toSide":"left"},
 		{"id":"2d3ceffc8145c6b7","fromNode":"3e7252fbcc72d3f7","fromSide":"right","toNode":"22e7b56e00f03d0d","toSide":"top"},
@@ -48,6 +54,12 @@
 		{"id":"b9a618045ca1415b","fromNode":"e535bcf71c96fa2a","fromSide":"right","toNode":"21e92d9e38fbacbd","toSide":"left"},
 		{"id":"63bdc4bef779549c","fromNode":"21e92d9e38fbacbd","fromSide":"right","toNode":"d1c5bd6fddf92db4","toSide":"left"},
 		{"id":"1b3f8f3ad4ef6b22","fromNode":"21e92d9e38fbacbd","fromSide":"right","toNode":"f34a648e562f6d61","toSide":"left"},
-		{"id":"5e2cea3db4a4aef7","fromNode":"20296cc5a38e1df8","fromSide":"right","toNode":"c862ba48b004a4b2","toSide":"left"}
+		{"id":"5e2cea3db4a4aef7","fromNode":"20296cc5a38e1df8","fromSide":"right","toNode":"c862ba48b004a4b2","toSide":"left"},
+		{"id":"13e47e5cf67e4bf5","fromNode":"53afe6c090728073","fromSide":"left","toNode":"02d0567c128a8654","toSide":"right"},
+		{"id":"903c9d06af199b7c","fromNode":"02d0567c128a8654","fromSide":"left","toNode":"757119c7e41a8eb5","toSide":"right"},
+		{"id":"832d59d28cf0eddf","fromNode":"757119c7e41a8eb5","fromSide":"left","toNode":"d16a5b67ab11d5a6","toSide":"right"},
+		{"id":"492f6fc043d12b89","fromNode":"757119c7e41a8eb5","fromSide":"left","toNode":"c09291255c861796","toSide":"right"},
+		{"id":"d6bdef7f780bf23f","fromNode":"02d0567c128a8654","fromSide":"left","toNode":"007327540e7073d1","toSide":"right"},
+		{"id":"7c7a069bba6f8115","fromNode":"007327540e7073d1","fromSide":"left","toNode":"6199719baedc5a72","toSide":"right"}
 	]
 }

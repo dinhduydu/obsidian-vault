@@ -16,9 +16,6 @@
 		{"id":"b3c504dc7dbeea21","type":"text","text":"Vてからというもの","x":700,"y":-2420,"width":250,"height":60},
 		{"id":"b148fc083b426125","type":"text","text":"Vてこのかた","x":700,"y":-2800,"width":250,"height":60},
 		{"id":"4479f633a3a55cc4","type":"file","file":"Pasted image 20260410075138.png","x":-711,"y":122,"width":511,"height":278},
-		{"id":"891595f92098c66d","type":"text","text":"ほしい","x":-1060,"y":231,"width":250,"height":60},
-		{"id":"64f828da0e85b06f","type":"text","text":"Vないでほし","x":-1480,"y":231,"width":250,"height":50},
-		{"id":"81ce10ca797fc088","type":"text","text":"Vてほしくない","x":-1480,"y":500,"width":250,"height":60},
 		{"id":"a9627352a295d4fa","type":"file","file":"Pasted image 20260412125040.png","x":1060,"y":-1877,"width":400,"height":263},
 		{"id":"8b5a3f1e5216466f","type":"file","file":"Pasted image 20260409080122.png","x":1459,"y":-1590,"width":400,"height":225},
 		{"id":"e7d4482c08724dd2","type":"file","file":"Pasted image 20260412131827.png","x":1659,"y":-2176,"width":399,"height":232},
@@ -114,9 +111,14 @@
 		{"id":"fbb253b03e3996c9","type":"text","text":"～（さ）せてもらえませんか","x":6760,"y":-3900,"width":293,"height":51},
 		{"id":"7e7a8c70ad4b6a6b","type":"text","text":"Dùng khi xin phép 1 cách lịch sự đối với hành vi của bản thân","x":7200,"y":-4061,"width":329,"height":81},
 		{"id":"325dd3e87cb25b37","type":"text","text":"làm A được không ạ","x":7708,"y":-4135,"width":250,"height":60},
-		{"id":"e42fb22aa5524a77","x":-1530,"y":-1245,"width":250,"height":60,"type":"text","text":"Vてみたら"},
-		{"id":"2a84f2b2ddee734b","x":-2142,"y":-1415,"width":250,"height":60,"type":"text","text":"Vてみたらどう"},
-		{"id":"9bd170a854d88362","x":-2571,"y":-1500,"width":250,"height":60,"type":"text","text":"Vてみたらいかがでうすか"}
+		{"id":"e42fb22aa5524a77","type":"text","text":"Vてみたら","x":-1530,"y":-1245,"width":250,"height":60},
+		{"id":"2a84f2b2ddee734b","type":"text","text":"Vてみたらどう","x":-2142,"y":-1415,"width":250,"height":60},
+		{"id":"9bd170a854d88362","type":"text","text":"Vてみたらいかがでうすか","x":-3000,"y":-1560,"width":250,"height":60},
+		{"id":"05e4b0057925c1d4","x":5068,"y":1602,"width":400,"height":400,"type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas"},
+		{"id":"891595f92098c66d","type":"text","text":"ほしい","x":-1251,"y":261,"width":250,"height":60},
+		{"id":"64f828da0e85b06f","type":"text","text":"Vないでほし","x":-1870,"y":236,"width":250,"height":50},
+		{"id":"81ce10ca797fc088","type":"text","text":"Vてほしくない","x":-1870,"y":580,"width":250,"height":60},
+		{"id":"25f5ecc74238baa7","x":-1629,"y":-2200,"width":250,"height":60,"type":"text","text":"Vてはじめて"}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"835add4850e7963d","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left","label":"Vてくれる"},
@@ -153,9 +155,9 @@
 		{"id":"42ad1abb38645fe4","fromNode":"47e6e553916c7162","fromSide":"left","toNode":"b3c504dc7dbeea21","toSide":"right"},
 		{"id":"334ed7148730f07d","fromNode":"68643211f098537f","fromSide":"right","toNode":"5c3c066f966655ef","toSide":"left"},
 		{"id":"e8edab7f2be231ae","fromNode":"38c69e481a171760","fromSide":"bottom","toNode":"4479f633a3a55cc4","toSide":"top","label":"Vてほしい"},
-		{"id":"7f36b2d6f51810e1","fromNode":"4479f633a3a55cc4","fromSide":"left","toNode":"891595f92098c66d","toSide":"right"},
-		{"id":"c9d00da1f8ceb2d9","fromNode":"891595f92098c66d","fromSide":"left","toNode":"64f828da0e85b06f","toSide":"right"},
-		{"id":"605ab65497da6f47","fromNode":"891595f92098c66d","fromSide":"left","toNode":"81ce10ca797fc088","toSide":"right"},
+		{"id":"7f36b2d6f51810e1","fromNode":"4479f633a3a55cc4","fromSide":"left","toNode":"891595f92098c66d","toSide":"right","label":"Vてほしい"},
+		{"id":"c9d00da1f8ceb2d9","fromNode":"891595f92098c66d","fromSide":"left","toNode":"64f828da0e85b06f","toSide":"right","label":"Vないでほし"},
+		{"id":"605ab65497da6f47","fromNode":"891595f92098c66d","fromSide":"left","toNode":"81ce10ca797fc088","toSide":"right","label":"Vてほしくない"},
 		{"id":"1c35d50e5b5c8210","fromNode":"5c3c066f966655ef","fromSide":"right","toNode":"a9627352a295d4fa","toSide":"left"},
 		{"id":"6729325d977adc08","fromNode":"a9627352a295d4fa","fromSide":"right","toNode":"f669badba9fe2cd4","toSide":"left","label":"以来"},
 		{"id":"01d7f09b26176dd0","fromNode":"f31e73ff2b9a2786","fromSide":"bottom","toNode":"e7d4482c08724dd2","toSide":"left","label":"Vてからでないと"},
@@ -238,8 +240,10 @@
 		{"id":"3897f06496499ab4","fromNode":"2b8c385e41c1898a","fromSide":"right","toNode":"fbb253b03e3996c9","toSide":"left","label":"～（さ）せてもらえませんか"},
 		{"id":"cf36417afa477e65","fromNode":"fbb253b03e3996c9","fromSide":"right","toNode":"7e7a8c70ad4b6a6b","toSide":"left"},
 		{"id":"6d772b690436c117","fromNode":"7e7a8c70ad4b6a6b","fromSide":"right","toNode":"325dd3e87cb25b37","toSide":"left"},
-		{"id":"c5e168886436d832","fromNode":"38c69e481a171760","fromSide":"top","toNode":"e42fb22aa5524a77","toSide":"bottom"},
-		{"id":"ff4c7f68cb33dd6a","fromNode":"e42fb22aa5524a77","fromSide":"left","toNode":"2a84f2b2ddee734b","toSide":"right"},
-		{"id":"c4abd28d2716179b","fromNode":"2a84f2b2ddee734b","fromSide":"left","toNode":"9bd170a854d88362","toSide":"right"}
+		{"id":"c5e168886436d832","fromNode":"38c69e481a171760","fromSide":"top","toNode":"e42fb22aa5524a77","toSide":"right","label":"Vてみたら"},
+		{"id":"ff4c7f68cb33dd6a","fromNode":"e42fb22aa5524a77","fromSide":"left","toNode":"2a84f2b2ddee734b","toSide":"right","label":"Vてみたらどう"},
+		{"id":"c4abd28d2716179b","fromNode":"2a84f2b2ddee734b","fromSide":"left","toNode":"9bd170a854d88362","toSide":"right","label":"Vてみたらいかがでうすか"},
+		{"id":"4f06ecdc44291428","fromNode":"dceb2cf1e931f30e","fromSide":"bottom","toNode":"05e4b0057925c1d4","toSide":"top","label":"Vてばかりいる"},
+		{"id":"480550dacba369f6","fromNode":"38c69e481a171760","fromSide":"top","toNode":"25f5ecc74238baa7","toSide":"bottom"}
 	]
 }

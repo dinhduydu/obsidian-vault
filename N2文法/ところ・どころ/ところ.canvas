@@ -13,15 +13,21 @@
 		{"id":"d9bd80275797bd9f","type":"text","text":"ところに","x":570,"y":875,"width":250,"height":60},
 		{"id":"1999aa035f54d5d5","type":"file","file":"Pasted image 20260412213254.png","x":-300,"y":-1160,"width":399,"height":219},
 		{"id":"b5ead40b4c0c8bb4","type":"text","text":"ところで","x":347,"y":-941,"width":250,"height":60},
-		{"id":"b33320578949c07c","type":"file","file":"Pasted image 20260412213330.png","x":-1700,"y":-768,"width":400,"height":223},
 		{"id":"c08e7453bf4f5a06","type":"file","file":"Pasted image 20260412213401.png","x":-2440,"y":186,"width":399,"height":209},
 		{"id":"5ec6a69bb95a47f1","type":"file","file":"Pasted image 20260412213512.png","x":-2180,"y":-202,"width":399,"height":233},
-		{"id":"44dd5fa55b8dbc6d","x":748,"y":-784,"width":250,"height":60,"type":"text","text":"Vているところ"},
+		{"id":"44dd5fa55b8dbc6d","type":"text","text":"Vているところ","x":748,"y":-784,"width":250,"height":60},
 		{"id":"94e3c4392213f828","type":"text","text":"A+Vているところだ","x":1318,"y":-790,"width":250,"height":60},
 		{"id":"04d076eb9d311cc2","type":"text","text":"Bây giờ đang làm ","x":1663,"y":-844,"width":250,"height":60},
 		{"id":"89925b8bd8a74247","type":"text","text":"Vたところ","x":748,"y":-500,"width":250,"height":60},
 		{"id":"3638a29ce3c080f1","type":"text","text":"A+Vたところだ","x":1341,"y":-500,"width":250,"height":61},
-		{"id":"45a0067e6057d64e","type":"text","text":"Từ bây giờ sẽ làm A","x":1686,"y":-440,"width":250,"height":60}
+		{"id":"45a0067e6057d64e","type":"text","text":"Từ bây giờ sẽ làm A","x":1686,"y":-440,"width":250,"height":60},
+		{"id":"c2eb902eaeb99e94","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":1460,"y":340,"width":400,"height":400},
+		{"id":"173dbece201d0345","type":"text","text":"Vている＋ところに","x":1020,"y":875,"width":250,"height":60},
+		{"id":"5ee8fcb048ba8183","type":"text","text":"Vた＋ところに","x":906,"y":1086,"width":250,"height":60},
+		{"id":"b33320578949c07c","type":"file","file":"Pasted image 20260412213330.png","x":-1580,"y":-1273,"width":400,"height":223},
+		{"id":"eaab3a9f1969f454","x":-2044,"y":-791,"width":250,"height":60,"type":"text","text":"Vたところ"},
+		{"id":"8d5df5dc96156272","x":-2369,"y":-959,"width":250,"height":60,"type":"text","text":"Nhân dịp làm A thì đã thay đổi/phát hiện ra"},
+		{"id":"b78848e11a2f180b","x":-2633,"y":-1091,"width":250,"height":60,"type":"text","text":"枕をかえたところ、よく眠れるようになった。"}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"388bf00239a8f2c6","fromSide":"bottom","toNode":"8bcd27fac9419228","toSide":"left"},
@@ -48,6 +54,12 @@
 		{"id":"2760b2364c782cb2","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"44dd5fa55b8dbc6d","toSide":"left","label":"Vているところ"},
 		{"id":"f6af50ee7756ca17","fromNode":"94e3c4392213f828","fromSide":"right","toNode":"04d076eb9d311cc2","toSide":"left"},
 		{"id":"ebce11b95057e51d","fromNode":"44dd5fa55b8dbc6d","fromSide":"right","toNode":"94e3c4392213f828","toSide":"left","label":"A+Vているところだ"},
-		{"id":"87715c207515525e","fromNode":"89925b8bd8a74247","fromSide":"left","toNode":"22eef828175a996a","toSide":"right","label":"Vたところが"}
+		{"id":"87715c207515525e","fromNode":"89925b8bd8a74247","fromSide":"left","toNode":"22eef828175a996a","toSide":"right","label":"Vたところが"},
+		{"id":"fd42b825dd323ffc","fromNode":"d9bd80275797bd9f","fromSide":"right","toNode":"173dbece201d0345","toSide":"left"},
+		{"id":"4202790994bc19f3","fromNode":"c2eb902eaeb99e94","fromSide":"bottom","toNode":"173dbece201d0345","toSide":"top","label":"Vている＋ところに"},
+		{"id":"1e7160b5bce657a9","fromNode":"d9bd80275797bd9f","fromSide":"bottom","toNode":"5ee8fcb048ba8183","toSide":"top","label":"Vた＋ところに"},
+		{"id":"419da61bd8e3b1b7","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"eaab3a9f1969f454","toSide":"bottom"},
+		{"id":"2508a608bf4329f3","fromNode":"eaab3a9f1969f454","fromSide":"top","toNode":"8d5df5dc96156272","toSide":"bottom"},
+		{"id":"6c4870e62e34fcfe","fromNode":"8d5df5dc96156272","fromSide":"top","toNode":"b78848e11a2f180b","toSide":"bottom"}
 	]
 }

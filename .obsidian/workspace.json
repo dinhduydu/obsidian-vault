@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/あまり・だけ/だけ.canvas",
+                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
                 "viewState": {
-                  "x": -755,
-                  "y": -50,
-                  "zoom": -1.7532591780166942
+                  "x": -1504,
+                  "y": -2170,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "だけ"
+              "title": "Vて"
             }
           },
           {
@@ -47,49 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/まで.canvas",
+                "file": "N2文法/助詞/から.canvas",
                 "viewState": {
-                  "x": 341.11684632061855,
-                  "y": 525.7664165958258,
-                  "zoom": -0.21010548258819312
+                  "x": 1773.2127454673273,
+                  "y": 669.0152251397919,
+                  "zoom": -0.40667214973249893
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "まで"
-            }
-          },
-          {
-            "id": "3cfc4d3a92d8e47c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2文法/こと・もの/もの.canvas",
-                "viewState": {
-                  "x": 99.9054776131446,
-                  "y": -800.582845324142,
-                  "zoom": -0.5720894194067596
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "もの"
-            }
-          },
-          {
-            "id": "3d62f1048ba4dc61",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2文法/ところ・どころ/どころ.canvas",
-                "viewState": {
-                  "x": -1285.42089447876,
-                  "y": -402.2836752994397,
-                  "zoom": 0.17819995059679877
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "どころ"
+              "title": "から"
             }
           },
           {
@@ -260,20 +226,20 @@
   },
   "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/助詞/と.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
-    "N2文法/ない・いう・しまう/ない.canvas",
-    "N2文法/あまり・だけ/あまり.canvas",
-    "N2文法/そう・よう/よう.canvas",
-    "N2文法/助詞/ほど.canvas",
     "N2文法/助詞/に.canvas",
+    "N2文法/助詞/こそ.canvas",
+    "N2文法/です・だ・である.canvas",
+    "N2文法/こと・もの/こと.canvas",
     "N2文法/助詞/から.canvas",
+    "N2文法/助詞/を.canvas",
+    "N2文法/そう・よう/よう.canvas",
+    "N2文法/助詞/で.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
+    "N2文法/ばかり・はず・わけ/わけ.canvas",
     "N2文法/あまり・だけ/だけ.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas",
-    "N2文法/こと・もの/もの.canvas",
+    "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
-    "N2文法/復習/第２課.md",
     "Pasted image 20260427211642.png",
     "Pasted image 20260427211619.png",
     "Pasted image 20260427211601.png",
@@ -289,7 +255,7 @@
     "N2文法/ない・いう・しまう",
     "N2文法/復習",
     "N2文法/ない・いう・しまう/しまう.md",
-    "N2文法/さえ・ほど・より",
+    "N2文法/さえ・より",
     "N2文法/挙句・すえ",
     "N2文法/ばかり・はず・わけ",
     "N2文法/一方・上・限る・つもり・他",

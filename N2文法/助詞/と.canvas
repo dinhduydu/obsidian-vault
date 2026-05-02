@@ -49,9 +49,14 @@
 		{"id":"a3d64b7b90175880","type":"text","text":"とは限らない","x":-1267,"y":1833,"width":250,"height":60},
 		{"id":"d16d813719a394ac","type":"text","text":"とする","x":2551,"y":435,"width":250,"height":60},
 		{"id":"5b66d7413766a38d","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":3340,"y":380,"width":400,"height":400},
-		{"id":"0603110d427e5259","x":2674,"y":804,"width":250,"height":60,"type":"text","text":"として"},
-		{"id":"ed52a1b8527697dd","x":3040,"y":960,"width":250,"height":60,"type":"text","text":"Dùng khi chỉ rõ lập trường\ntrạng thái, tư cách"},
-		{"id":"8c258b6c3f19577d","x":3435,"y":917,"width":250,"height":60,"type":"text","text":"N＋として\n「～としてのN」"}
+		{"id":"0603110d427e5259","type":"text","text":"として","x":2674,"y":804,"width":250,"height":60},
+		{"id":"ed52a1b8527697dd","type":"text","text":"Dùng khi chỉ rõ lập trường\ntrạng thái, tư cách","x":3040,"y":960,"width":250,"height":60},
+		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":3435,"y":917,"width":250,"height":60},
+		{"id":"e79f5d00d994f7e4","type":"text","text":"Dùng khi muốn nói về điều được mong đợi từ sự việc đã được đề cập ở A là thực tế nhưng ko đến mức đó","x":852,"y":-1112,"width":250,"height":122},
+		{"id":"8ed613771b38beee","type":"file","file":"N2文法/こと・もの/こと.canvas","x":-2580,"y":980,"width":400,"height":400},
+		{"id":"fa2e9191683e38bb","x":2902,"y":1200,"width":250,"height":60,"type":"text","text":"～としても"},
+		{"id":"160ff7a3b3bfd7e0","x":3310,"y":1142,"width":250,"height":60,"type":"text","text":"Giả sử có vào tình trạng A đi nữa"},
+		{"id":"6bffc0aef71ea9c2","x":3668,"y":1100,"width":250,"height":60,"type":"text","text":"たとえ試験に落ちたとしてもあきらめません。"}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"72ee2296dd869e15","fromSide":"left","toNode":"7726e468be76af48","toSide":"right","label":"といったN"},
@@ -105,6 +110,11 @@
 		{"id":"c1c9f2381d84a156","fromNode":"d16d813719a394ac","fromSide":"right","toNode":"5b66d7413766a38d","toSide":"left","label":"Vようとする"},
 		{"id":"9b79bc550838a5c3","fromNode":"d16d813719a394ac","fromSide":"bottom","toNode":"0603110d427e5259","toSide":"top","label":"として"},
 		{"id":"e7ab446a5cf93278","fromNode":"0603110d427e5259","fromSide":"right","toNode":"ed52a1b8527697dd","toSide":"left"},
-		{"id":"defedf1237ee05e1","fromNode":"ed52a1b8527697dd","fromSide":"right","toNode":"8c258b6c3f19577d","toSide":"left"}
+		{"id":"defedf1237ee05e1","fromNode":"ed52a1b8527697dd","fromSide":"right","toNode":"8c258b6c3f19577d","toSide":"left"},
+		{"id":"3ec04ca2def31a49","fromNode":"4200162a76c7e58d","fromSide":"top","toNode":"e79f5d00d994f7e4","toSide":"bottom"},
+		{"id":"8bbea59229a92177","fromNode":"315c6fabdc953470","fromSide":"bottom","toNode":"8ed613771b38beee","toSide":"top","label":"ということだ"},
+		{"id":"f62bd15855a0bca1","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"fa2e9191683e38bb","toSide":"top"},
+		{"id":"47424cdd58bf9aa6","fromNode":"fa2e9191683e38bb","fromSide":"right","toNode":"160ff7a3b3bfd7e0","toSide":"left"},
+		{"id":"4b38d7ace2d7a13e","fromNode":"160ff7a3b3bfd7e0","fromSide":"right","toNode":"6bffc0aef71ea9c2","toSide":"left"}
 	]
 }

@@ -1,24 +1,27 @@
 {
 	"nodes":[
 		{"id":"e1d71833392ff425","type":"text","text":"一方","x":-175,"y":-48,"width":250,"height":60},
-		{"id":"8cbd5ae3886efb70","type":"text","text":"で\n反面・半面","x":269,"y":-48,"width":250,"height":60},
+		{"id":"8cbd5ae3886efb70","type":"text","text":"一方で\n反面・半面","x":269,"y":-48,"width":250,"height":60},
 		{"id":"28dd090b066bf869","type":"file","file":"Pasted image 20260409001448.png","x":319,"y":100,"width":400,"height":239},
 		{"id":"21f4b0c15096da26","type":"file","file":"Pasted image 20260409001744.png","x":760,"y":100,"width":400,"height":224},
 		{"id":"a211b66fffe32afd","type":"text","text":"「N3」～反面","x":1300,"y":-380,"width":250,"height":60},
 		{"id":"142c50197005fc5d","type":"text","text":"Biểu ý có 2 mặt mang tính chất khác nhau rằng có mặt A, nhưng cũng có cả mặt B","x":1798,"y":-507,"width":250,"height":107},
 		{"id":"630e8e2f54e69aec","type":"text","text":"普通形＋反面","x":2172,"y":-556,"width":250,"height":60},
 		{"id":"8fdcd59248f2eee8","type":"text","text":"Aなだ：だー＞な・である\nNだ：だー＞である","x":2174,"y":-446,"width":250,"height":60},
-		{"id":"54a6b106db4e66bd","x":-580,"y":-240,"width":250,"height":60,"type":"text","text":"一方だ"},
+		{"id":"54a6b106db4e66bd","type":"text","text":"一方だ","x":-580,"y":-240,"width":250,"height":60},
 		{"id":"460c28d6bb58a4f7","type":"file","file":"Pasted image 20260409001613.png","x":-1464,"y":320,"width":839,"height":432},
-		{"id":"1556b911a8020c9d","x":-1159,"y":-428,"width":250,"height":60,"type":"text","text":"ばかりだ"},
+		{"id":"1556b911a8020c9d","type":"text","text":"ばかりだ","x":-1159,"y":-428,"width":250,"height":60},
 		{"id":"796e510b51a94846","type":"file","file":"Pasted image 20260409001710.png","x":-1760,"y":-537,"width":400,"height":219},
 		{"id":"cdde950426fb8e42","type":"text","text":"Vる一方だ","x":-1100,"y":-180,"width":250,"height":60},
-		{"id":"4b87fe444608c671","x":-441,"y":409,"width":250,"height":60,"type":"text","text":"Biểu thị rằng hoàn cảnh chỉ diễn tiến theo 1 chiều hướng"},
-		{"id":"d0a8e02ba92848a1","x":-419,"y":584,"width":250,"height":60,"type":"text","text":"Không thường dùng ccho những chuyện tốt"}
+		{"id":"4b87fe444608c671","type":"text","text":"Biểu thị rằng hoàn cảnh chỉ diễn tiến theo 1 chiều hướng","x":-294,"y":-427,"width":334,"height":78},
+		{"id":"d0a8e02ba92848a1","type":"text","text":"Không thường dùng ccho những chuyện tốt","x":-210,"y":-660,"width":250,"height":60},
+		{"id":"2c453f89861ba637","x":347,"y":-282,"width":250,"height":60,"type":"text","text":"一方で"},
+		{"id":"bb6358fafdf0f030","x":288,"y":-480,"width":272,"height":89,"type":"text","text":"Thể hiện rằng 2 việc nào đó được tiến hành song song nhau"},
+		{"id":"be95c46940cd31b9","x":662,"y":-500,"width":250,"height":88,"type":"text","text":"Dùng trong trường hợp so sánh 2 việc nào đó có liên quan đến nhau"}
 	],
 	"edges":[
-		{"id":"f2c21296bbb17add","fromNode":"e1d71833392ff425","fromSide":"right","toNode":"8cbd5ae3886efb70","toSide":"left"},
-		{"id":"a5a7a98fd6a61ea9","fromNode":"e1d71833392ff425","fromSide":"left","toNode":"54a6b106db4e66bd","toSide":"right"},
+		{"id":"f2c21296bbb17add","fromNode":"e1d71833392ff425","fromSide":"right","toNode":"8cbd5ae3886efb70","toSide":"left","label":"一方で"},
+		{"id":"a5a7a98fd6a61ea9","fromNode":"e1d71833392ff425","fromSide":"left","toNode":"54a6b106db4e66bd","toSide":"right","label":"一方だ"},
 		{"id":"ee0c28bb7f5e5796","fromNode":"cdde950426fb8e42","fromSide":"bottom","toNode":"460c28d6bb58a4f7","toSide":"top"},
 		{"id":"03f537478793bd8e","fromNode":"8cbd5ae3886efb70","fromSide":"bottom","toNode":"28dd090b066bf869","toSide":"top"},
 		{"id":"23f017f965944ccd","fromNode":"1556b911a8020c9d","fromSide":"left","toNode":"796e510b51a94846","toSide":"right"},
@@ -26,9 +29,12 @@
 		{"id":"20ceb4bbef6e85fb","fromNode":"a211b66fffe32afd","fromSide":"right","toNode":"142c50197005fc5d","toSide":"left"},
 		{"id":"971da58b1115aad8","fromNode":"142c50197005fc5d","fromSide":"right","toNode":"630e8e2f54e69aec","toSide":"left"},
 		{"id":"7eb7a5276d544878","fromNode":"142c50197005fc5d","fromSide":"right","toNode":"8fdcd59248f2eee8","toSide":"left"},
-		{"id":"679754c197b1e9ca","fromNode":"54a6b106db4e66bd","fromSide":"left","toNode":"1556b911a8020c9d","toSide":"right"},
+		{"id":"679754c197b1e9ca","fromNode":"54a6b106db4e66bd","fromSide":"left","toNode":"1556b911a8020c9d","toSide":"right","label":"ばかりだ"},
 		{"id":"cab2e55b08475923","fromNode":"54a6b106db4e66bd","fromSide":"left","toNode":"cdde950426fb8e42","toSide":"right"},
-		{"id":"0cb6a3811f7dbccb","fromNode":"460c28d6bb58a4f7","fromSide":"right","toNode":"4b87fe444608c671","toSide":"left"},
-		{"id":"8a08d8979b840f47","fromNode":"460c28d6bb58a4f7","fromSide":"right","toNode":"d0a8e02ba92848a1","toSide":"left"}
+		{"id":"8a08d8979b840f47","fromNode":"54a6b106db4e66bd","fromSide":"top","toNode":"d0a8e02ba92848a1","toSide":"left"},
+		{"id":"b69af0f96cd0c5d9","fromNode":"54a6b106db4e66bd","fromSide":"top","toNode":"4b87fe444608c671","toSide":"left"},
+		{"id":"899159a2d726e953","fromNode":"8cbd5ae3886efb70","fromSide":"top","toNode":"2c453f89861ba637","toSide":"bottom"},
+		{"id":"152731d4a469f454","fromNode":"2c453f89861ba637","fromSide":"top","toNode":"bb6358fafdf0f030","toSide":"bottom"},
+		{"id":"7cafd19534edc6bf","fromNode":"2c453f89861ba637","fromSide":"top","toNode":"be95c46940cd31b9","toSide":"bottom"}
 	]
 }

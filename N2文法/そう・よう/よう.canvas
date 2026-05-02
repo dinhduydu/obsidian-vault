@@ -52,7 +52,12 @@
 		{"id":"c629c56c17da6a4d","type":"text","text":"～ような＋N","x":3254,"y":-743,"width":250,"height":60},
 		{"id":"eeef52fc02b037e1","type":"text","text":"私も先生のようにテニスが上手になりたい。","x":2684,"y":-1407,"width":250,"height":60},
 		{"id":"0c22f72b33a18ac7","type":"text","text":"ようがない","x":620,"y":740,"width":140,"height":60},
-		{"id":"c8695cb08c5cfbd9","x":1040,"y":1340,"width":250,"height":60,"type":"text","text":"dù muốn làm A nhưng không được, ko có cách làm"}
+		{"id":"c8695cb08c5cfbd9","type":"text","text":"dù muốn làm A nhưng không được, ko có cách làm","x":1040,"y":1340,"width":250,"height":60},
+		{"id":"768ae758176d97e5","type":"text","text":"ようにしている","x":4632,"y":-683,"width":250,"height":60},
+		{"id":"8214c0789db8758b","type":"text","text":"Dùng khi truyền đạt việc luôn cố gắng làm vì lý do hay mục tiêu nào đó, hoặc để nói về thói quen của mình","x":5002,"y":-748,"width":318,"height":95},
+		{"id":"f41d8bb597b5bcb8","type":"text","text":"体のために、野菜をたくさんたべるようにしている。","x":5629,"y":-786,"width":250,"height":60},
+		{"id":"37cd25f94fbd73c1","x":5629,"y":-1080,"width":245,"height":85,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas"},
+		{"id":"f3e909fdb7f6b441","x":5400,"y":-960,"width":71,"height":50,"type":"file","file":"N2文法/助詞/に.canvas"}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
@@ -88,17 +93,17 @@
 		{"id":"9677d481195f1173","fromNode":"9e4af3b723188a61","fromSide":"right","toNode":"66312697659c8bf8","toSide":"left"},
 		{"id":"07b3805d6f64184f","fromNode":"b632698ca1446264","fromSide":"right","toNode":"a3d472c6af04b0dd","toSide":"left","label":"ようにいう・いわれる"},
 		{"id":"4553b757de48af82","fromNode":"a3d472c6af04b0dd","fromSide":"right","toNode":"f55df7fa8dca6b67","toSide":"left"},
-		{"id":"1e9e198886b90223","fromNode":"b632698ca1446264","fromSide":"top","toNode":"1435680a8be1b247","toSide":"bottom"},
-		{"id":"b3b06cd391ed55e3","fromNode":"1435680a8be1b247","fromSide":"top","toNode":"1d456446ae6bef83","toSide":"bottom"},
-		{"id":"50d45becec0439ae","fromNode":"1435680a8be1b247","fromSide":"top","toNode":"a1d8762ca9b4d542","toSide":"bottom"},
+		{"id":"1e9e198886b90223","fromNode":"b632698ca1446264","fromSide":"top","toNode":"1435680a8be1b247","toSide":"bottom","label":"ように"},
+		{"id":"b3b06cd391ed55e3","fromNode":"1435680a8be1b247","fromSide":"top","toNode":"1d456446ae6bef83","toSide":"bottom","label":"ように"},
+		{"id":"50d45becec0439ae","fromNode":"1435680a8be1b247","fromSide":"top","toNode":"a1d8762ca9b4d542","toSide":"bottom","label":"ように"},
 		{"id":"022f56735d983be1","fromNode":"b632698ca1446264","fromSide":"bottom","toNode":"972feec2480c4b3e","toSide":"top"},
 		{"id":"e0ebe4429683dd03","fromNode":"972feec2480c4b3e","fromSide":"right","toNode":"ad53a9dc9fc319ab","toSide":"left"},
 		{"id":"c21a8463c5b93fcc","fromNode":"908075991677c442","fromSide":"bottom","toNode":"5c61dad770188e99","toSide":"top","label":"ようなら"},
 		{"id":"faf8a91a95fae434","fromNode":"5c61dad770188e99","fromSide":"bottom","toNode":"7e8b935b37423a62","toSide":"top"},
 		{"id":"474f14578a75c5e9","fromNode":"7e8b935b37423a62","fromSide":"right","toNode":"7d5856d17a065df0","toSide":"left"},
 		{"id":"cf99dc96d7f269fd","fromNode":"7d5856d17a065df0","fromSide":"right","toNode":"9deae43d3733bfb5","toSide":"left"},
-		{"id":"089d61ce1cefb444","fromNode":"b632698ca1446264","fromSide":"top","toNode":"a255f3928882da9d","toSide":"bottom"},
-		{"id":"d630c5e8caaa5a36","fromNode":"a255f3928882da9d","fromSide":"top","toNode":"288fbf618b1e5257","toSide":"bottom"},
+		{"id":"089d61ce1cefb444","fromNode":"b632698ca1446264","fromSide":"top","toNode":"a255f3928882da9d","toSide":"bottom","label":"ように"},
+		{"id":"d630c5e8caaa5a36","fromNode":"a255f3928882da9d","fromSide":"top","toNode":"288fbf618b1e5257","toSide":"bottom","label":"ように"},
 		{"id":"7b8fb23ccbe8322c","fromNode":"288fbf618b1e5257","fromSide":"top","toNode":"ced6915846a0a913","toSide":"bottom"},
 		{"id":"46fb8d4af2e9e786","fromNode":"288fbf618b1e5257","fromSide":"top","toNode":"c97e86637b36b116","toSide":"bottom"},
 		{"id":"607114d2130f0bab","fromNode":"288fbf618b1e5257","fromSide":"top","toNode":"b4de4078e86d59d4","toSide":"bottom"},
@@ -109,6 +114,11 @@
 		{"id":"82585ff259c5352a","fromNode":"b4de4078e86d59d4","fromSide":"top","toNode":"2646a5544e283079","toSide":"bottom"},
 		{"id":"4ef488162c4c8a37","fromNode":"288fbf618b1e5257","fromSide":"top","toNode":"c629c56c17da6a4d","toSide":"bottom"},
 		{"id":"77e1b93facbc9072","fromNode":"2646a5544e283079","fromSide":"top","toNode":"eeef52fc02b037e1","toSide":"bottom"},
-		{"id":"61dbfa1ef5e26bf0","fromNode":"0c22f72b33a18ac7","fromSide":"right","toNode":"c8695cb08c5cfbd9","toSide":"left","label":"Dùng khi nhấn mạnh điều bất khả thi"}
+		{"id":"61dbfa1ef5e26bf0","fromNode":"0c22f72b33a18ac7","fromSide":"right","toNode":"c8695cb08c5cfbd9","toSide":"left","label":"Dùng khi nhấn mạnh điều bất khả thi"},
+		{"id":"2fa2ff3f0bb43803","fromNode":"b632698ca1446264","fromSide":"top","toNode":"768ae758176d97e5","toSide":"left","label":"ようにしている"},
+		{"id":"2f5b5905effe7c69","fromNode":"768ae758176d97e5","fromSide":"right","toNode":"8214c0789db8758b","toSide":"left"},
+		{"id":"e0dc7f8a9009046a","fromNode":"8214c0789db8758b","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left"},
+		{"id":"4580945c42362dc5","fromNode":"37cd25f94fbd73c1","fromSide":"bottom","toNode":"f41d8bb597b5bcb8","toSide":"top","label":"Vている"},
+		{"id":"88747f72bec3fa19","fromNode":"f3e909fdb7f6b441","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left","label":"にする"}
 	]
 }

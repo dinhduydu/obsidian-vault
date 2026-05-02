@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e5324d3cde6c73e7","x":-151,"y":-45,"width":250,"height":60,"type":"text","text":"たとえ"},
+		{"id":"2104fa3568a82356","x":-773,"y":-157,"width":250,"height":60,"type":"text","text":"たとえば"},
+		{"id":"a5a4a8245f86ce44","x":360,"y":-180,"width":250,"height":71,"type":"text","text":"たとえ"},
+		{"id":"1f915e8d556d85b6","x":1000,"y":-331,"width":250,"height":60,"type":"text","text":"たとえ～ても"},
+		{"id":"03511ffa786af3f3","x":1504,"y":-620,"width":250,"height":60,"type":"text","text":"ても"},
+		{"id":"e2c7aba13c62eff9","x":1942,"y":-376,"width":250,"height":60,"type":"text","text":"どんなに～ても"}
+	],
+	"edges":[
+		{"id":"fc14c2db3c1392d0","fromNode":"e5324d3cde6c73e7","fromSide":"left","toNode":"2104fa3568a82356","toSide":"right"},
+		{"id":"b4e6ad4889fc727c","fromNode":"e5324d3cde6c73e7","fromSide":"right","toNode":"a5a4a8245f86ce44","toSide":"left","label":"たとえ"},
+		{"id":"f4eec94c52a70e26","fromNode":"a5a4a8245f86ce44","fromSide":"right","toNode":"1f915e8d556d85b6","toSide":"left","label":"たとえ～ても"},
+		{"id":"14ef6bf5355022ef","fromNode":"03511ffa786af3f3","fromSide":"left","toNode":"1f915e8d556d85b6","toSide":"top","label":"たとえ～ても"},
+		{"id":"1874b5c3c32190e6","fromNode":"03511ffa786af3f3","fromSide":"right","toNode":"e2c7aba13c62eff9","toSide":"top"}
+	]
+}

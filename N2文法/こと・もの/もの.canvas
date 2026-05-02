@@ -24,7 +24,8 @@
 		{"id":"56796a7ee5060df5","type":"text","text":"Dùng khi muốn giải thích nuyên nhân, lý do 1 cách khách quan","x":-1845,"y":-1537,"width":250,"height":107},
 		{"id":"3a815e73eb1994f5","type":"text","text":"Thường dùng để biện minh","x":-1845,"y":-1331,"width":250,"height":60},
 		{"id":"73287bab313af723","type":"text","text":"懈怠電話が壊れたものですから、れんらくできませんでした。","x":-2498,"y":-1560,"width":506,"height":50},
-		{"id":"e3fa1f4c3c96e9ff","type":"file","file":"Pasted image 20260407221927.png","x":-920,"y":-1240,"width":400,"height":400}
+		{"id":"e3fa1f4c3c96e9ff","type":"file","file":"Pasted image 20260407221927.png","x":-920,"y":-1240,"width":400,"height":400},
+		{"id":"8d5d469b6ea39b0a","x":-2026,"y":202,"width":250,"height":98,"type":"text","text":"Dùng khi thể hiện sự cảm thán hàm chứa cảm xúc mạnh về sự việc"}
 	],
 	"edges":[
 		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"83ef7c6acfd37d06","toSide":"bottom","label":"もん"},
@@ -51,6 +52,7 @@
 		{"id":"46226bdcf071c6a3","fromNode":"34bcb8fe2f00b9cc","fromSide":"left","toNode":"56796a7ee5060df5","toSide":"right"},
 		{"id":"688e8e93b8453155","fromNode":"34bcb8fe2f00b9cc","fromSide":"left","toNode":"3a815e73eb1994f5","toSide":"right"},
 		{"id":"97c8f6d34512d15a","fromNode":"56796a7ee5060df5","fromSide":"left","toNode":"73287bab313af723","toSide":"right"},
-		{"id":"28d6067b6103ce45","fromNode":"e3fa1f4c3c96e9ff","fromSide":"top","toNode":"3aade5db6f044e5f","toSide":"left","label":"ものだから"}
+		{"id":"28d6067b6103ce45","fromNode":"e3fa1f4c3c96e9ff","fromSide":"top","toNode":"3aade5db6f044e5f","toSide":"left","label":"ものだから"},
+		{"id":"f7a92ed52e192c26","fromNode":"e9695e67d5d24f2f","fromSide":"bottom","toNode":"8d5d469b6ea39b0a","toSide":"top","label":"ものだ"}
 	]
 }

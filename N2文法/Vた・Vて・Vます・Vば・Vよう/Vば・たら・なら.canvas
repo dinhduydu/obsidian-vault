@@ -10,10 +10,11 @@
 		{"id":"0ccd68f73c419e2c","type":"text","text":"Diễn tả việc sẽ trở nên~; việc làm ~ nếu khi đó","x":1496,"y":-1050,"width":250,"height":60},
 		{"id":"c49f2c24ab750105","type":"text","text":"~ mang ý nghĩa giả định là không biết có xảy ra hay không","x":1916,"y":-1031,"width":250,"height":60},
 		{"id":"726624ecbe382428","type":"text","text":"Diễn tả ý chí phán đoán, nguyện vọng của người nói, sau khi tiếp nhận lời mà đối phương nói","x":1538,"y":-718,"width":250,"height":118},
-		{"id":"1b7cf58fb3c47dee","type":"file","file":"N2文法/さえ・ほど・より/さえ.canvas","x":-800,"y":440,"width":400,"height":400},
+		{"id":"1b7cf58fb3c47dee","type":"file","file":"N2文法/さえ・より/さえ.canvas","x":-800,"y":440,"width":400,"height":400},
 		{"id":"36af0a404c9dc63f","type":"text","text":"Vばよかった","x":1047,"y":69,"width":250,"height":60},
 		{"id":"a2c2962e5f772c57","type":"text","text":"Vば～ほど～","x":500,"y":260,"width":250,"height":60},
-		{"id":"715a46f3a0436872","type":"text","text":"～Vば～のに","x":1006,"y":-259,"width":250,"height":60}
+		{"id":"715a46f3a0436872","type":"text","text":"～Vば～のに","x":1006,"y":-259,"width":250,"height":60},
+		{"id":"2052c18b787ed256","x":1510,"y":-886,"width":270,"height":60,"type":"text","text":"もしかしたら～かもしれない"}
 	],
 	"edges":[
 		{"id":"4d10b4a29240c25e","fromNode":"65ac7a25c9caadc9","fromSide":"left","toNode":"fb89ed896538639d","toSide":"right","label":"Vばそれまでだ"},
@@ -26,6 +27,7 @@
 		{"id":"48bc480bcc758670","fromNode":"1b7cf58fb3c47dee","fromSide":"right","toNode":"65ac7a25c9caadc9","toSide":"bottom","label":"さえ～ば"},
 		{"id":"d64d6e2091a2c785","fromNode":"65ac7a25c9caadc9","fromSide":"bottom","toNode":"a2c2962e5f772c57","toSide":"top"},
 		{"id":"6062c9ac62664e00","fromNode":"65ac7a25c9caadc9","fromSide":"right","toNode":"36af0a404c9dc63f","toSide":"left"},
-		{"id":"78a75e16be86dabb","fromNode":"65ac7a25c9caadc9","fromSide":"right","toNode":"715a46f3a0436872","toSide":"left"}
+		{"id":"78a75e16be86dabb","fromNode":"65ac7a25c9caadc9","fromSide":"right","toNode":"715a46f3a0436872","toSide":"left"},
+		{"id":"1698300e732561e3","fromNode":"4e65db56d0813fe5","fromSide":"right","toNode":"2052c18b787ed256","toSide":"left"}
 	]
 }
