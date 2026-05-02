@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"b6911b4630d01961","type":"file","file":"Pasted image 20260412210458.png","x":-620,"y":-82,"width":399,"height":213},
 		{"id":"08fff89a8d501f12","type":"text","text":"なら","x":120,"y":-5,"width":250,"height":60},
-		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1260,"y":-76,"width":400,"height":207}
+		{"id":"9f12974f4a0e3854","x":-420,"y":-360,"width":350,"height":140,"type":"text","text":"Diễn tả ý chí phán đoán, nguyện vọng của người nói, sau khi tiếp nhận lời mà đối phương nói"},
+		{"id":"917b0372f2948012","x":-513,"y":-680,"width":186,"height":138,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas"},
+		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1260,"y":-82,"width":400,"height":207}
 	],
 	"edges":[
 		{"id":"bd534816bf10ceea","fromNode":"08fff89a8d501f12","fromSide":"left","toNode":"b6911b4630d01961","toSide":"right","label":"ならともかく"},
-		{"id":"579a483457b32397","fromNode":"b6911b4630d01961","fromSide":"left","toNode":"effaf93436de7f4d","toSide":"right"}
+		{"id":"579a483457b32397","fromNode":"b6911b4630d01961","fromSide":"left","toNode":"effaf93436de7f4d","toSide":"right","label":"ならともかく"},
+		{"id":"dc12bf892ea9aeb4","fromNode":"08fff89a8d501f12","fromSide":"top","toNode":"9f12974f4a0e3854","toSide":"right","label":"なら"},
+		{"id":"e88ffb973aced693","fromNode":"917b0372f2948012","fromSide":"bottom","toNode":"9f12974f4a0e3854","toSide":"top","label":"なら"}
 	]
 }

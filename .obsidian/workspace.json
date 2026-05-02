@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/から.canvas",
+                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas",
                 "viewState": {
-                  "x": 1773.2127454673273,
-                  "y": 669.0152251397919,
-                  "zoom": -0.40667214973249893
+                  "x": 66.13212102786287,
+                  "y": 360.026251787121,
+                  "zoom": -0.32380207835956804
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "から"
+              "title": "Vば・たら・なら"
             }
           },
           {
@@ -226,17 +226,17 @@
   },
   "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
+    "N2文法/助詞/まで.canvas",
+    "N2文法/助詞/なら.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas",
+    "N2文法/助詞/から.canvas",
     "N2文法/助詞/に.canvas",
     "N2文法/助詞/こそ.canvas",
     "N2文法/です・だ・である.canvas",
     "N2文法/こと・もの/こと.canvas",
-    "N2文法/助詞/から.canvas",
     "N2文法/助詞/を.canvas",
     "N2文法/そう・よう/よう.canvas",
     "N2文法/助詞/で.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
-    "N2文法/ばかり・はず・わけ/わけ.canvas",
-    "N2文法/あまり・だけ/だけ.canvas",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",

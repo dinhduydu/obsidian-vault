@@ -14,7 +14,9 @@
 		{"id":"36af0a404c9dc63f","type":"text","text":"Vばよかった","x":1047,"y":69,"width":250,"height":60},
 		{"id":"a2c2962e5f772c57","type":"text","text":"Vば～ほど～","x":500,"y":260,"width":250,"height":60},
 		{"id":"715a46f3a0436872","type":"text","text":"～Vば～のに","x":1006,"y":-259,"width":250,"height":60},
-		{"id":"2052c18b787ed256","x":1510,"y":-886,"width":270,"height":60,"type":"text","text":"もしかしたら～かもしれない"}
+		{"id":"2052c18b787ed256","type":"text","text":"もしかしたら～かもしれない","x":1510,"y":-886,"width":270,"height":60},
+		{"id":"30e415271ed7973c","x":204,"y":617,"width":250,"height":60,"type":"text","text":"Vばそれまでだ"},
+		{"id":"706f5c03ff9aab2a","x":240,"y":900,"width":318,"height":147,"type":"file","file":"N2文法/助詞/まで.canvas"}
 	],
 	"edges":[
 		{"id":"4d10b4a29240c25e","fromNode":"65ac7a25c9caadc9","fromSide":"left","toNode":"fb89ed896538639d","toSide":"right","label":"Vばそれまでだ"},
@@ -28,6 +30,8 @@
 		{"id":"d64d6e2091a2c785","fromNode":"65ac7a25c9caadc9","fromSide":"bottom","toNode":"a2c2962e5f772c57","toSide":"top"},
 		{"id":"6062c9ac62664e00","fromNode":"65ac7a25c9caadc9","fromSide":"right","toNode":"36af0a404c9dc63f","toSide":"left"},
 		{"id":"78a75e16be86dabb","fromNode":"65ac7a25c9caadc9","fromSide":"right","toNode":"715a46f3a0436872","toSide":"left"},
-		{"id":"1698300e732561e3","fromNode":"4e65db56d0813fe5","fromSide":"right","toNode":"2052c18b787ed256","toSide":"left"}
+		{"id":"1698300e732561e3","fromNode":"4e65db56d0813fe5","fromSide":"right","toNode":"2052c18b787ed256","toSide":"left"},
+		{"id":"5198f373e945dd3a","fromNode":"65ac7a25c9caadc9","fromSide":"bottom","toNode":"30e415271ed7973c","toSide":"top","label":"Vばそれまでだ"},
+		{"id":"431ceb8f9485f792","fromNode":"30e415271ed7973c","fromSide":"bottom","toNode":"706f5c03ff9aab2a","toSide":"top","label":"Vばそれまでだ"}
 	]
 }
