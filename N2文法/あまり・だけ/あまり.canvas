@@ -1,13 +1,17 @@
 {
 	"nodes":[
+		{"id":"e77e3addaf05a2e7","x":-1847,"y":-234,"width":400,"height":400,"type":"file","file":"N2文法/ない・いう・しまう/ない.canvas"},
 		{"id":"2275d0fba1da1df6","type":"file","file":"Pasted image 20260409080154.png","x":-220,"y":-120,"width":399,"height":214},
 		{"id":"362573027c76924a","type":"file","file":"Pasted image 20260409080229.png","x":-221,"y":-480,"width":400,"height":206},
 		{"id":"515200bec93ca71d","type":"file","file":"Pasted image 20260410080219.png","x":-744,"y":-274,"width":394,"height":113},
-		{"id":"01f70a628a80b00c","type":"text","text":"あまり","x":-672,"y":-43,"width":250,"height":60}
+		{"id":"01f70a628a80b00c","type":"text","text":"あまり","x":-672,"y":-43,"width":250,"height":60},
+		{"id":"088165d708a53d39","x":-1207,"y":-28,"width":250,"height":60,"type":"text","text":"あまり～ない"}
 	],
 	"edges":[
 		{"id":"ea2841528ecf73ce","fromNode":"362573027c76924a","fromSide":"bottom","toNode":"2275d0fba1da1df6","toSide":"top"},
 		{"id":"333250b6eab0de2c","fromNode":"01f70a628a80b00c","fromSide":"right","toNode":"2275d0fba1da1df6","toSide":"left"},
-		{"id":"5c5d8669d1f6bf12","fromNode":"01f70a628a80b00c","fromSide":"top","toNode":"515200bec93ca71d","toSide":"bottom"}
+		{"id":"5c5d8669d1f6bf12","fromNode":"01f70a628a80b00c","fromSide":"top","toNode":"515200bec93ca71d","toSide":"bottom"},
+		{"id":"dd514921cc396065","fromNode":"01f70a628a80b00c","fromSide":"left","toNode":"088165d708a53d39","toSide":"right"},
+		{"id":"cbbf0a85713204ac","fromNode":"088165d708a53d39","fromSide":"left","toNode":"e77e3addaf05a2e7","toSide":"right"}
 	]
 }

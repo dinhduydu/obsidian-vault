@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3ec193e77192d649","type":"text","text":"尊敬語","x":-354,"y":3,"width":250,"height":60},
+		{"id":"033e982b96110f3d","type":"text","text":"れる・られる","x":37,"y":-63,"width":250,"height":60},
+		{"id":"621b6433f839ba43","type":"text","text":"お客様、どちらまで行かれますか。","x":900,"y":-140,"width":250,"height":60},
+		{"id":"b58b8bd1c56b672c","type":"text","text":"動詞の受け身と同じ形","x":446,"y":-222,"width":250,"height":60},
+		{"id":"ff7673727b97a875","x":371,"y":-880,"width":400,"height":400,"type":"file","file":"N2文法/受身み.canvas"},
+		{"id":"102d6714602ea79f","x":-674,"y":-519,"width":250,"height":60,"type":"text","text":"お/ご～になるます"},
+		{"id":"07bf33e52d9debdf","x":-637,"y":-321,"width":250,"height":60,"type":"text","text":"お/ご～します"}
+	],
+	"edges":[
+		{"id":"bf78c9b8ba1b5a8f","fromNode":"3ec193e77192d649","fromSide":"right","toNode":"033e982b96110f3d","toSide":"left"},
+		{"id":"e766da48e548a2c2","fromNode":"033e982b96110f3d","fromSide":"right","toNode":"621b6433f839ba43","toSide":"left"},
+		{"id":"e509faa1268096f7","fromNode":"033e982b96110f3d","fromSide":"right","toNode":"b58b8bd1c56b672c","toSide":"left"},
+		{"id":"996421881a3d7c41","fromNode":"ff7673727b97a875","fromSide":"bottom","toNode":"b58b8bd1c56b672c","toSide":"top"}
+	]
+}

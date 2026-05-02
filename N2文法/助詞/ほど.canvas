@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d5091413e4d9b20f","x":-440,"y":200,"width":400,"height":400,"type":"file","file":"N2文法/ない・いう・しまう/ない.canvas"},
+		{"id":"259225d5706e21b0","x":-820,"y":370,"width":250,"height":60,"type":"text","text":"ほど～はない"},
+		{"id":"0620a1ae98c36ea0","type":"text","text":"～ほど","x":280,"y":240,"width":250,"height":60},
+		{"id":"83d39849359740a6","type":"text","text":"ほど","x":30,"y":-60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e219827ba5ba1888","fromNode":"83d39849359740a6","fromSide":"bottom","toNode":"0620a1ae98c36ea0","toSide":"top"},
+		{"id":"0a2f2d53f616b058","fromNode":"d5091413e4d9b20f","fromSide":"left","toNode":"259225d5706e21b0","toSide":"right"},
+		{"id":"693c42ab78107b62","fromNode":"0620a1ae98c36ea0","fromSide":"left","toNode":"d5091413e4d9b20f","toSide":"right","label":"ほど～はない"}
+	]
+}

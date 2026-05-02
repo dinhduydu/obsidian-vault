@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c9d8e5ae8f589ecb","type":"text","text":"のみ","x":-164,"y":6,"width":250,"height":60},
+		{"id":"5b551e1f2d9d1570","type":"text","text":"のみ","x":-659,"y":44,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e38a48b1b6f320ae","fromNode":"c9d8e5ae8f589ecb","fromSide":"left","toNode":"5b551e1f2d9d1570","toSide":"right"}
+	]
+}

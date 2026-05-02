@@ -1,9 +1,8 @@
 {
 	"nodes":[
+		{"id":"2be5965975589691","type":"file","file":"N2文法/助詞/から.canvas","x":-3170,"y":202,"width":400,"height":400},
 		{"id":"5c650e6d795aa008","type":"text","text":"だけ","x":-694,"y":-282,"width":250,"height":60},
-		{"id":"0fa92f817465bdbf","type":"text","text":"だけに・だけで","x":-855,"y":-14,"width":250,"height":60},
-		{"id":"f60d6a7a8cea8e43","type":"file","file":"N2文法/あまり・だけ/だけ.canvas","x":-1720,"y":-184,"width":400,"height":400},
-		{"id":"ba041c493a549f59","type":"text","text":"～だけ～","x":-539,"y":-563,"width":250,"height":50},
+		{"id":"0fa92f817465bdbf","type":"text","text":"だけで","x":-855,"y":-14,"width":250,"height":60},
 		{"id":"a2d268a4195a944a","type":"file","file":"Pasted image 20260409080213.png","x":-160,"y":-800,"width":399,"height":214},
 		{"id":"1f49bbba2bdbd3ab","type":"file","file":"Pasted image 20260409011030.png","x":-1400,"y":-803,"width":399,"height":217},
 		{"id":"ecd43a6dae4f96f0","type":"file","file":"Pasted image 20260409080224.png","x":-769,"y":-1360,"width":400,"height":206},
@@ -13,24 +12,39 @@
 		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":1153,"y":-634,"width":400,"height":400},
 		{"id":"d7319e0c92f4c045","type":"file","file":"Pasted image 20260409002811.png","x":1153,"y":-160,"width":507,"height":247},
 		{"id":"29176a39c245b34b","type":"text","text":"だけあって","x":-189,"y":154,"width":250,"height":60},
-		{"id":"ef22fa22f1a31c04","type":"text","text":"Hết mức có thể","x":-539,"y":-803,"width":250,"height":60},
-		{"id":"f4ee5e9ef43ef89f","type":"text","text":"だけしか\nGiới hạn số lượng","x":-634,"y":363,"width":250,"height":60}
+		{"id":"f4ee5e9ef43ef89f","type":"text","text":"だけしか","x":-634,"y":363,"width":250,"height":60},
+		{"id":"b55045cbaefd60cf","type":"text","text":"だけでなく","x":-1141,"y":204,"width":250,"height":60},
+		{"id":"4b110586266032f6","type":"text","text":"Giới hạn số lượng","x":-626,"y":548,"width":250,"height":60},
+		{"id":"e5d3644a9cb31a71","type":"file","file":"N2文法/助詞/に.canvas","x":596,"y":-1257,"width":400,"height":400},
+		{"id":"c6fb61b80d424834","type":"text","text":"だけに","x":-85,"y":-434,"width":250,"height":60},
+		{"id":"ef22fa22f1a31c04","type":"text","text":"Hết mức có thể","x":-605,"y":-876,"width":250,"height":60},
+		{"id":"ba041c493a549f59","type":"text","text":"～だけ～","x":-605,"y":-636,"width":250,"height":50},
+		{"id":"103014482df36759","type":"file","file":"Pasted image 20260412205430.png","x":-2136,"y":141,"width":736,"height":393},
+		{"id":"32142af0cb9fbee9","type":"file","file":"N2文法/のみ.canvas","x":-2280,"y":860,"width":400,"height":400},
+		{"id":"4be4db5dc2f1ef28","type":"file","file":"N2文法/助詞/に.canvas","x":-2851,"y":-644,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"688a3b36dcb8c614","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"900a8fb50fe48888","toSide":"left","label":"\n"},
 		{"id":"eaa29f8faf2613c6","fromNode":"bfa998af4a61f906","fromSide":"bottom","toNode":"8bc3fa4ca0a50bde","toSide":"top","label":"trang trọng, văn viết"},
-		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"0fa92f817465bdbf","toSide":"top"},
-		{"id":"78b7626bf45e2bf2","fromNode":"0fa92f817465bdbf","fromSide":"left","toNode":"f60d6a7a8cea8e43","toSide":"right","label":"\n"},
+		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"0fa92f817465bdbf","toSide":"top","label":"だけで"},
 		{"id":"d8ff1a3445250c41","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"d7319e0c92f4c045","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
 		{"id":"b647a2223fc1100c","fromNode":"d7319e0c92f4c045","fromSide":"top","toNode":"900a8fb50fe48888","toSide":"bottom"},
 		{"id":"86a98dc132120f64","fromNode":"5c650e6d795aa008","fromSide":"left","toNode":"1f49bbba2bdbd3ab","toSide":"right"},
-		{"id":"2b77bc31a84f3440","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"a2d268a4195a944a","toSide":"bottom"},
+		{"id":"2b77bc31a84f3440","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"c6fb61b80d424834","toSide":"left","label":"だけに"},
 		{"id":"5955b7585f833c6b","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"a2d268a4195a944a","toSide":"top"},
 		{"id":"8b9490a9aa0fd0a8","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"1f49bbba2bdbd3ab","toSide":"top"},
 		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"},
 		{"id":"468fc0a3c311aa11","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"left"},
 		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top"},
 		{"id":"5a777f795eb45494","fromNode":"ba041c493a549f59","fromSide":"top","toNode":"ef22fa22f1a31c04","toSide":"bottom","label":"Vるだけ"},
-		{"id":"15f976a36b839f25","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"f4ee5e9ef43ef89f","toSide":"top"}
+		{"id":"15f976a36b839f25","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"f4ee5e9ef43ef89f","toSide":"top","label":"だけしか"},
+		{"id":"497fcea53b9710c1","fromNode":"a2d268a4195a944a","fromSide":"bottom","toNode":"c6fb61b80d424834","toSide":"top","label":"だけに"},
+		{"id":"8a9190808b7c6019","fromNode":"0fa92f817465bdbf","fromSide":"bottom","toNode":"b55045cbaefd60cf","toSide":"top","label":"だけでなく"},
+		{"id":"9a2f5d8cd08193c3","fromNode":"c6fb61b80d424834","fromSide":"right","toNode":"e5d3644a9cb31a71","toSide":"top"},
+		{"id":"4b1a41770a89e46c","fromNode":"f4ee5e9ef43ef89f","fromSide":"bottom","toNode":"4b110586266032f6","toSide":"top"},
+		{"id":"fb5b28eff5dc320f","fromNode":"b55045cbaefd60cf","fromSide":"bottom","toNode":"103014482df36759","toSide":"right","label":"だけでなく"},
+		{"id":"a9d832a0f6edc294","fromNode":"103014482df36759","fromSide":"bottom","toNode":"32142af0cb9fbee9","toSide":"top","label":"のみならず"},
+		{"id":"a8700500af0149c1","fromNode":"103014482df36759","fromSide":"top","toNode":"4be4db5dc2f1ef28","toSide":"bottom","label":"のに\nに決まってる"},
+		{"id":"2652f80674d87d89","fromNode":"103014482df36759","fromSide":"left","toNode":"2be5965975589691","toSide":"right","label":"からみりと"}
 	]
 }

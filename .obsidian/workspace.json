@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+                "file": "N2文法/あまり・だけ/だけ.canvas",
                 "viewState": {
-                  "x": 2889.450960579719,
-                  "y": 1698.1110956361413,
-                  "zoom": -0.30170799170134804
+                  "x": -755,
+                  "y": -50,
+                  "zoom": -1.7532591780166942
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vて"
+              "title": "だけ"
             }
           },
           {
@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+                "file": "N2文法/助詞/まで.canvas",
                 "viewState": {
-                  "x": 2806.900172831063,
-                  "y": -732.5600930599084,
-                  "zoom": -0.3333333333333334
+                  "x": 341.11684632061855,
+                  "y": 525.7664165958258,
+                  "zoom": -0.21010548258819312
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vて"
+              "title": "まで"
             }
           },
           {
@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,19 +258,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d6e51e9e9ea284e",
+  "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/助詞/に.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
-    "N2文法/そう・よう/よう.canvas",
-    "N2文法/助詞/を.canvas",
-    "N2文法/助詞/から.canvas",
-    "N2文法/助詞/なら.canvas",
-    "N2文法/一方・上・限る・つもり・他/一方.canvas",
-    "N2文法/ところ・どころ/どころ.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
     "N2文法/助詞/と.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "N2文法/ない・いう・しまう/ない.canvas",
+    "N2文法/あまり・だけ/あまり.canvas",
+    "N2文法/そう・よう/よう.canvas",
+    "N2文法/助詞/ほど.canvas",
+    "N2文法/助詞/に.canvas",
+    "N2文法/助詞/から.canvas",
+    "N2文法/あまり・だけ/だけ.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas",
+    "N2文法/こと・もの/もの.canvas",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
     "N2文法/復習/第２課.md",

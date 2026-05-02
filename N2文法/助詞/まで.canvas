@@ -6,11 +6,11 @@
 		{"id":"a4cc370dac724bae","type":"text","text":"Vるまでになった","x":473,"y":-303,"width":250,"height":60},
 		{"id":"c2f04b9863d475e4","type":"file","file":"Pasted image 20260412211727.png","x":1040,"y":-440,"width":400,"height":220},
 		{"id":"89e2b38c8ef5ce5d","type":"text","text":"～まで・～までに","x":14,"y":340,"width":250,"height":60},
-		{"id":"4ea072878a37ecca","x":-375,"y":544,"width":250,"height":60,"type":"text","text":"～まで"},
-		{"id":"82504d3c67920f65","x":322,"y":581,"width":250,"height":60,"type":"text","text":"～までに"},
-		{"id":"38d88fa563f66e59","x":-466,"y":698,"width":250,"height":60,"type":"text","text":"Tiếp tục làm gì cho đến thời gian nào đó"},
-		{"id":"828d6dd8d0d2019d","x":236,"y":740,"width":250,"height":60,"type":"text","text":"Làm việc gì trước 1 thời điểm đặt ra"},
-		{"id":"c036c50aa959eedb","x":677,"y":764,"width":250,"height":60,"type":"text","text":"V辞書形＋までに\nN＋までに"}
+		{"id":"4ea072878a37ecca","type":"text","text":"～まで","x":-375,"y":544,"width":250,"height":60},
+		{"id":"82504d3c67920f65","type":"text","text":"～までに","x":322,"y":581,"width":250,"height":60},
+		{"id":"38d88fa563f66e59","type":"text","text":"Tiếp tục làm gì cho đến thời gian nào đó","x":-466,"y":698,"width":250,"height":60},
+		{"id":"828d6dd8d0d2019d","type":"text","text":"Làm việc gì trước 1 thời điểm đặt ra","x":236,"y":740,"width":250,"height":60},
+		{"id":"c036c50aa959eedb","type":"text","text":"V辞書形＋までに\nN＋までに","x":677,"y":764,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1fa3e24e5c6ca32a","fromNode":"6df31496b21a33f2","fromSide":"right","toNode":"8affc30cf60881e5","toSide":"left","label":"までだ"},

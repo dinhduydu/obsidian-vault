@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a4c4198297f54d9d","type":"file","file":"N2文法/こと・もの/こと.canvas","x":3549,"y":-893,"width":400,"height":400},
 		{"id":"2e077217c00393bb","type":"file","file":"Pasted image 20260412125011.png","x":-400,"y":-220,"width":400,"height":256},
 		{"id":"2899c22d54e7b7d6","type":"text","text":"ない","x":300,"y":-122,"width":250,"height":60},
 		{"id":"b848121aa389cec9","type":"file","file":"Pasted image 20260412125337.png","x":-1060,"y":20,"width":399,"height":213},
@@ -40,15 +41,17 @@
 		{"id":"bc08ceb2bb61e28e","type":"text","text":"「N4]　ない","x":-380,"y":1963,"width":250,"height":60},
 		{"id":"b9497f6a00cf70e4","type":"text","text":"～ほど～ない","x":160,"y":2140,"width":250,"height":60},
 		{"id":"7db2a803ecd1aaca","type":"text","text":"なかなか～ない","x":160,"y":1820,"width":250,"height":60},
-		{"id":"97602be346709a88","type":"file","file":"Pasted image 20260412131700.png","x":1511,"y":-480,"width":399,"height":232},
-		{"id":"e977bcc2afee91ed","x":1946,"y":1706,"width":250,"height":60,"type":"text","text":"「N3]　ない"},
-		{"id":"4b1e0408a3d45dba","x":2445,"y":1500,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas"},
-		{"id":"b16d4d2fc217df07","x":3245,"y":1520,"width":250,"height":60,"type":"text","text":"Vてしょうがない\n"},
-		{"id":"81f5a3312f52fe2d","x":3245,"y":1820,"width":250,"height":60,"type":"text","text":"Vてたまらない"},
-		{"id":"1682335b7c584937","x":3774,"y":1618,"width":250,"height":60,"type":"text","text":"Dùng khi nói rất A và ko thể kiềm chế cảm xúc được"},
-		{"id":"9f6b8a452ac9dc28","x":3782,"y":1315,"width":250,"height":60,"type":"text","text":"Vてしょうがない"},
-		{"id":"42062e6c00d74391","x":3804,"y":1422,"width":250,"height":60,"type":"text","text":"Aいくてしょうがない"},
-		{"id":"eed5751d39d43253","x":3835,"y":1502,"width":250,"height":60,"type":"text","text":"Aなでしょうがない"}
+		{"id":"e977bcc2afee91ed","type":"text","text":"「N3]　ない","x":1946,"y":1678,"width":250,"height":88},
+		{"id":"4b1e0408a3d45dba","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":2445,"y":1500,"width":400,"height":400},
+		{"id":"b16d4d2fc217df07","type":"text","text":"Vてしょうがない\n","x":3245,"y":1520,"width":250,"height":60},
+		{"id":"81f5a3312f52fe2d","type":"text","text":"Vてたまらない","x":3245,"y":1820,"width":250,"height":60},
+		{"id":"1682335b7c584937","type":"text","text":"Dùng khi nói rất A và ko thể kiềm chế cảm xúc được","x":3774,"y":1618,"width":250,"height":60},
+		{"id":"9f6b8a452ac9dc28","type":"text","text":"Vてしょうがない","x":3782,"y":1315,"width":250,"height":60},
+		{"id":"42062e6c00d74391","type":"text","text":"Aいくてしょうがない","x":3804,"y":1422,"width":250,"height":60},
+		{"id":"eed5751d39d43253","type":"text","text":"Aなでしょうがない","x":3835,"y":1502,"width":250,"height":60},
+		{"id":"97602be346709a88","type":"file","file":"Pasted image 20260412131700.png","x":2870,"y":-736,"width":399,"height":232},
+		{"id":"86a39c0179bdfbef","type":"file","file":"N2文法/あまり・だけ/あまり.canvas","x":2173,"y":2098,"width":400,"height":400},
+		{"id":"0c4ce9bf36c753ce","x":2480,"y":825,"width":400,"height":400,"type":"file","file":"N2文法/助詞/ほど.canvas"}
 	],
 	"edges":[
 		{"id":"470e923f9a22780c","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"2e077217c00393bb","toSide":"right"},
@@ -99,6 +102,9 @@
 		{"id":"61871a09b5fb530d","fromNode":"81f5a3312f52fe2d","fromSide":"right","toNode":"1682335b7c584937","toSide":"left"},
 		{"id":"91de73c450f7dea9","fromNode":"b16d4d2fc217df07","fromSide":"right","toNode":"9f6b8a452ac9dc28","toSide":"left"},
 		{"id":"6dcefa1f7536a471","fromNode":"b16d4d2fc217df07","fromSide":"right","toNode":"42062e6c00d74391","toSide":"left"},
-		{"id":"9fb163233eb24e5d","fromNode":"b16d4d2fc217df07","fromSide":"right","toNode":"eed5751d39d43253","toSide":"left"}
+		{"id":"9fb163233eb24e5d","fromNode":"b16d4d2fc217df07","fromSide":"right","toNode":"eed5751d39d43253","toSide":"left"},
+		{"id":"d967a6c3a890d418","fromNode":"97602be346709a88","fromSide":"right","toNode":"a4c4198297f54d9d","toSide":"left"},
+		{"id":"0dc6a54327b9c2ba","fromNode":"e977bcc2afee91ed","fromSide":"bottom","toNode":"86a39c0179bdfbef","toSide":"top","label":"あまり～ない"},
+		{"id":"d3e9608d796b06af","fromNode":"e977bcc2afee91ed","fromSide":"top","toNode":"0c4ce9bf36c753ce","toSide":"bottom","label":"～ほど～はない"}
 	]
 }
