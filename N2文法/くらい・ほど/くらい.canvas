@@ -8,12 +8,12 @@
 		{"id":"c66f2edba655442f","type":"text","text":"欠かさず","x":885,"y":120,"width":250,"height":60},
 		{"id":"7287344f981f2433","type":"text","text":"欠かせない","x":885,"y":-18,"width":250,"height":60},
 		{"id":"3a0bf54382855436","type":"file","file":"Pasted image 20260409003105.png","x":-475,"y":380,"width":399,"height":222},
-		{"id":"f6677e1ebaab85a9","x":217,"y":335,"width":250,"height":60,"type":"text","text":"「N3」くらい"},
-		{"id":"284913710084962c","x":691,"y":328,"width":250,"height":60,"type":"text","text":"Dùng khi muốn nói:"},
-		{"id":"717d67a2b53608a6","x":1053,"y":262,"width":250,"height":60,"type":"text","text":"không phải việc to tát"},
-		{"id":"7e4149261410ad43","x":1061,"y":388,"width":250,"height":60,"type":"text","text":"ko quan trọng"},
-		{"id":"d3dd3af8353ebf3c","x":1059,"y":534,"width":250,"height":60,"type":"text","text":"là việc đơn giản"},
-		{"id":"b60547ee0bf22245","x":976,"y":623,"width":250,"height":60,"type":"text","text":"tối thiểu A thì"}
+		{"id":"f6677e1ebaab85a9","type":"text","text":"「N3」くらい","x":217,"y":335,"width":250,"height":60},
+		{"id":"284913710084962c","type":"text","text":"Dùng khi muốn nói:","x":691,"y":328,"width":250,"height":60},
+		{"id":"717d67a2b53608a6","type":"text","text":"không phải việc to tát","x":1053,"y":262,"width":250,"height":60},
+		{"id":"7e4149261410ad43","type":"text","text":"ko quan trọng","x":1061,"y":388,"width":250,"height":60},
+		{"id":"d3dd3af8353ebf3c","type":"text","text":"là việc đơn giản","x":1059,"y":534,"width":250,"height":60},
+		{"id":"b60547ee0bf22245","type":"text","text":"tối thiểu A thì","x":976,"y":623,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"51300f7ba55e5f0e","fromNode":"db8eafb3417c022c","fromSide":"bottom","toNode":"2dc6401af7daacb0","toSide":"top"},

@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a40a93a22bc7bf4b","type":"file","file":"N2文法/助詞/を.canvas","x":1128,"y":738,"width":400,"height":400},
 		{"id":"0604f3329c8b1c01","type":"text","text":"と","x":-300,"y":-20,"width":98,"height":60},
 		{"id":"50782f33880b0d21","type":"text","text":"とはいえ","x":-215,"y":246,"width":235,"height":60},
 		{"id":"ff2b16897c62e1fc","type":"text","text":"とは","x":-493,"y":173,"width":250,"height":60},
@@ -59,7 +60,8 @@
 		{"id":"33d5701137542a58","type":"file","file":"Pasted image 20260409005322.png","x":3235,"y":-1664,"width":480,"height":261},
 		{"id":"b7baf91131a06c3f","type":"text","text":"といって","x":1906,"y":-1380,"width":250,"height":60},
 		{"id":"6100d77135a1d672","type":"text","text":"「N2」と","x":1145,"y":-1097,"width":250,"height":60},
-		{"id":"6a53423c6b0feeb6","x":1918,"y":-823,"width":250,"height":60,"type":"text","text":"といった"}
+		{"id":"6a53423c6b0feeb6","type":"text","text":"といった","x":1918,"y":-823,"width":250,"height":60},
+		{"id":"90addef7be3d89f1","type":"text","text":"をはじめとして","x":1630,"y":970,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"72ee2296dd869e15","fromSide":"left","toNode":"7726e468be76af48","toSide":"right","label":"といったN"},
@@ -121,6 +123,8 @@
 		{"id":"28e2501a069ff028","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"21ee465c1d91054a","toSide":"top"},
 		{"id":"fc479b346cc93b3a","fromNode":"7a9fc0921f08479b","fromSide":"left","toNode":"adb65e79a4b6814e","toSide":"right","label":"とか"},
 		{"id":"14fb74239537bede","fromNode":"0604f3329c8b1c01","fromSide":"top","toNode":"6100d77135a1d672","toSide":"left"},
-		{"id":"efcd99c3f37b316e","fromNode":"6100d77135a1d672","fromSide":"right","toNode":"6a53423c6b0feeb6","toSide":"left"}
+		{"id":"efcd99c3f37b316e","fromNode":"6100d77135a1d672","fromSide":"right","toNode":"6a53423c6b0feeb6","toSide":"left"},
+		{"id":"cef0c429a2efa948","fromNode":"0603110d427e5259","fromSide":"left","toNode":"90addef7be3d89f1","toSide":"right"},
+		{"id":"e12d6d5606001e23","fromNode":"90addef7be3d89f1","fromSide":"left","toNode":"a40a93a22bc7bf4b","toSide":"right"}
 	]
 }

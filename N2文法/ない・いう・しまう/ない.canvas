@@ -43,7 +43,7 @@
 		{"id":"42062e6c00d74391","type":"text","text":"Aいくてしょうがない","x":3804,"y":1422,"width":250,"height":60},
 		{"id":"eed5751d39d43253","type":"text","text":"Aなでしょうがない","x":3835,"y":1502,"width":250,"height":60},
 		{"id":"86a39c0179bdfbef","type":"file","file":"N2文法/あまり・だけ/あまり.canvas","x":2173,"y":2098,"width":400,"height":400},
-		{"id":"0c4ce9bf36c753ce","type":"file","file":"N2文法/ぐらい・ほど/ほど.canvas","x":2480,"y":825,"width":400,"height":400},
+		{"id":"0c4ce9bf36c753ce","type":"file","file":"N2文法/くらい・ほど/ほど.canvas","x":2480,"y":825,"width":400,"height":400},
 		{"id":"b66352eea96b9c6c","type":"text","text":"「N3」ない","x":-1173,"y":2197,"width":250,"height":60},
 		{"id":"672df939e559bfab","type":"text","text":"決して～ない","x":-1206,"y":2733,"width":250,"height":60},
 		{"id":"ef6bff7da3f22cc8","type":"text","text":"全く～ない","x":-808,"y":2833,"width":250,"height":60},
@@ -69,7 +69,9 @@
 		{"id":"6da4d30e712bf464","type":"text","text":"～ほど～はない","x":-620,"y":2080,"width":250,"height":60},
 		{"id":"a04be1c2578bcb5d","type":"text","text":"～なきゃ","x":-2870,"y":2100,"width":250,"height":60},
 		{"id":"24f5c819698ff145","type":"file","file":"Pasted image 20260412205605.png","x":-3640,"y":-3256,"width":570,"height":312},
-		{"id":"09e8582847c7a25f","x":3676,"y":72,"width":250,"height":60,"type":"text","text":"ないものか"}
+		{"id":"09e8582847c7a25f","type":"text","text":"ないものか","x":3676,"y":72,"width":250,"height":60},
+		{"id":"0050c2255511ce73","x":-3457,"y":-2432,"width":250,"height":60,"type":"text","text":"ずに"},
+		{"id":"cbf1c27c288a2c19","x":-4254,"y":-2634,"width":250,"height":60,"type":"text","text":"～もかまわず"}
 	],
 	"edges":[
 		{"id":"470e923f9a22780c","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"2e077217c00393bb","toSide":"right"},
@@ -147,6 +149,8 @@
 		{"id":"25918b1670687391","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"d739cbd332fbd8a4","toSide":"right"},
 		{"id":"f30ba110e1cdaf91","fromNode":"d739cbd332fbd8a4","fromSide":"left","toNode":"24f5c819698ff145","toSide":"right","label":"ずにおく"},
 		{"id":"a7ed286655fa2680","fromNode":"d739cbd332fbd8a4","fromSide":"top","toNode":"24f5c819698ff145","toSide":"top","label":"ずにいる"},
-		{"id":"c0b80c9a29c4179e","fromNode":"be259ae07e85db7c","fromSide":"bottom","toNode":"09e8582847c7a25f","toSide":"top"}
+		{"id":"c0b80c9a29c4179e","fromNode":"be259ae07e85db7c","fromSide":"bottom","toNode":"09e8582847c7a25f","toSide":"top"},
+		{"id":"01e58c4749216b32","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"0050c2255511ce73","toSide":"right"},
+		{"id":"367affb861b276fd","fromNode":"0050c2255511ce73","fromSide":"left","toNode":"cbf1c27c288a2c19","toSide":"right"}
 	]
 }

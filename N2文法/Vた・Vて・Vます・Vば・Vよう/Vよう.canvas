@@ -5,13 +5,19 @@
 		{"id":"6731ace6408553d5","type":"text","text":"Vようとしない","x":-452,"y":383,"width":250,"height":60},
 		{"id":"f09628b2c996ddd0","type":"text","text":"Biểu thị rằng chủ thể không có ý chí thực hiện động tác hay hành vi được nhắc đến","x":42,"y":443,"width":250,"height":85},
 		{"id":"6c962404617a6df0","type":"text","text":"V移行系＋としない","x":433,"y":380,"width":250,"height":60},
-		{"id":"05d5e84d3ea57ca3","x":456,"y":-38,"width":250,"height":60,"type":"text","text":"Vようとする"}
+		{"id":"05d5e84d3ea57ca3","type":"text","text":"Vようとする","x":456,"y":-38,"width":250,"height":60},
+		{"id":"b5e1bcdbdc992566","x":199,"y":-449,"width":250,"height":60,"type":"text","text":"「N2」Vよう"},
+		{"id":"903bb778fead9390","x":758,"y":-626,"width":250,"height":60,"type":"text","text":"Vようではないか"},
+		{"id":"a70d8278bf805b35","x":772,"y":-368,"width":250,"height":60,"type":"text","text":"Vようものなら"}
 	],
 	"edges":[
 		{"id":"2e239b8c4682802a","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"left","toNode":"b9c11045cb50e9ec","toSide":"right"},
 		{"id":"985ca2882a4972d4","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"bottom","toNode":"6731ace6408553d5","toSide":"top"},
 		{"id":"e22ca5c8281150a6","fromNode":"6731ace6408553d5","fromSide":"right","toNode":"f09628b2c996ddd0","toSide":"left"},
 		{"id":"70d07012157de231","fromNode":"f09628b2c996ddd0","fromSide":"right","toNode":"6c962404617a6df0","toSide":"left"},
-		{"id":"12be8aab237cdb2e","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"right","toNode":"05d5e84d3ea57ca3","toSide":"left"}
+		{"id":"12be8aab237cdb2e","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"right","toNode":"05d5e84d3ea57ca3","toSide":"left"},
+		{"id":"2ecab71266767834","fromNode":"e3f4b3b6ec5ab3b4","fromSide":"top","toNode":"b5e1bcdbdc992566","toSide":"bottom"},
+		{"id":"e972969fbb54308a","fromNode":"b5e1bcdbdc992566","fromSide":"right","toNode":"903bb778fead9390","toSide":"left"},
+		{"id":"fc635ac79820709e","fromNode":"b5e1bcdbdc992566","fromSide":"right","toNode":"a70d8278bf805b35","toSide":"left"}
 	]
 }

@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"3113605081a3a040","type":"text","text":"こと","x":-166,"y":-72,"width":246,"height":60},
 		{"id":"4e9d62576081523c","type":"file","file":"Pasted image 20260409075941.png","x":340,"y":-149,"width":400,"height":214},
-		{"id":"1c7d953f6b70438d","type":"file","file":"Pasted image 20260410084805.png","x":340,"y":-460,"width":400,"height":207},
 		{"id":"d326065db2d133dc","type":"file","file":"Pasted image 20260410084839.png","x":340,"y":160,"width":400,"height":217},
 		{"id":"169dcd7a43b2bd0e","type":"file","file":"Pasted image 20260410084928.png","x":-1080,"y":300,"width":400,"height":228},
 		{"id":"f127bb47d9b6604c","type":"text","text":"ことから・ことだから","x":104,"y":91,"width":250,"height":60},
@@ -46,8 +45,6 @@
 		{"id":"e9e6dd64f956a8e6","type":"text","text":"Dùng khi nói rằng vẫn duy trì thói quen hay quy tắc cũ mà mình đã đặt ra","x":-3580,"y":-360,"width":250,"height":85},
 		{"id":"bc1e12e0d66c9275","type":"file","file":"Pasted image 20260410084910.png","x":2040,"y":-2480,"width":400,"height":227},
 		{"id":"eb92ff862c300552","type":"text","text":"ことだ","x":615,"y":-1206,"width":250,"height":60},
-		{"id":"114a72a3a3497e98","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":1265,"y":-1360,"width":400,"height":400},
-		{"id":"df0501785792d288","type":"text","text":"ということだ","x":1896,"y":-1201,"width":250,"height":83},
 		{"id":"e2b140ba4f00d3f3","type":"text","text":"ことだし","x":615,"y":-1720,"width":250,"height":60},
 		{"id":"e91a81b66188b961","type":"text","text":"ことだ","x":1180,"y":-1600,"width":250,"height":60},
 		{"id":"10133990321f5dab","type":"text","text":"Truyền đạt quan niệm, nhận xét hay lời khuyên của người nói","x":1624,"y":-1661,"width":250,"height":91},
@@ -59,13 +56,21 @@
 		{"id":"1d1e29892004dbd7","type":"text","text":"こととなると","x":615,"y":804,"width":250,"height":60},
 		{"id":"d3fa50678e17558c","type":"text","text":"だけのことはある","x":287,"y":1015,"width":250,"height":60},
 		{"id":"fed5cd727e26c3ca","type":"text","text":"まだ時間があるから、諦めることはない。","x":2322,"y":-1020,"width":389,"height":60},
-		{"id":"18d7126fbbe8b2a1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":2392,"y":-1320,"width":250,"height":83},
 		{"id":"f4233779ac250e83","type":"file","file":"N2文法/あまり・だけ/だけ.canvas","x":800,"y":1045,"width":165,"height":155},
 		{"id":"8e95a2289c00601c","type":"file","file":"Pasted image 20260412211810.png","x":2396,"y":4,"width":399,"height":219},
 		{"id":"0e24b3b0a993a90b","type":"text","text":"ないこともない","x":1285,"y":31,"width":250,"height":60},
 		{"id":"3a2363e588752d11","type":"text","text":"ことなく","x":-124,"y":1393,"width":250,"height":60},
 		{"id":"53ba9f58708fc940","type":"text","text":"～のこと","x":80,"y":-1460,"width":250,"height":60},
-		{"id":"eecd559c639cccad","x":246,"y":-1787,"width":250,"height":60,"type":"text","text":"のことだから"}
+		{"id":"eecd559c639cccad","type":"text","text":"のことだから","x":246,"y":-1787,"width":250,"height":60},
+		{"id":"1c7d953f6b70438d","type":"file","file":"Pasted image 20260410084805.png","x":340,"y":-500,"width":400,"height":207},
+		{"id":"114a72a3a3497e98","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":1408,"y":-1279,"width":255,"height":216},
+		{"id":"df0501785792d288","type":"text","text":"ということだ","x":2049,"y":-1364,"width":250,"height":83},
+		{"id":"18d7126fbbe8b2a1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":2545,"y":-1483,"width":250,"height":83},
+		{"id":"3f1c4e5ba7e1395a","type":"text","text":"ということ","x":740,"y":-968,"width":250,"height":60},
+		{"id":"cf028366803bdcdd","type":"text","text":"ということは","x":940,"y":-750,"width":250,"height":60},
+		{"id":"2c830fddbd802435","type":"text","text":"ないことには","x":-1817,"y":465,"width":250,"height":60},
+		{"id":"f5b3c95abf06d9af","x":3021,"y":246,"width":250,"height":60,"type":"text","text":"にこしたことはない"},
+		{"id":"1b5efecfd0ad0dd5","x":3417,"y":85,"width":227,"height":191,"type":"file","file":"N2文法/助詞/に.canvas"}
 	],
 	"edges":[
 		{"id":"fd61aa1f80711936","fromNode":"3113605081a3a040","fromSide":"right","toNode":"4e9d62576081523c","toSide":"left","label":"ことはない"},
@@ -133,6 +138,13 @@
 		{"id":"d6e79ee6929180a3","fromNode":"d3fa50678e17558c","fromSide":"right","toNode":"f4233779ac250e83","toSide":"left"},
 		{"id":"ee3fe84d96778f8b","fromNode":"0e24b3b0a993a90b","fromSide":"left","toNode":"ba6a9807dc0b1b56","toSide":"bottom","label":"ないこともない"},
 		{"id":"2779ff7a34a271b4","fromNode":"29b8657ea1ac8a7d","fromSide":"bottom","toNode":"3a2363e588752d11","toSide":"top"},
-		{"id":"0f805118e17632dd","fromNode":"eb92ff862c300552","fromSide":"top","toNode":"eecd559c639cccad","toSide":"bottom","label":"のことだから"}
+		{"id":"0f805118e17632dd","fromNode":"eb92ff862c300552","fromSide":"top","toNode":"eecd559c639cccad","toSide":"bottom","label":"のことだから"},
+		{"id":"8def00dd44a35ee3","fromNode":"1c7d953f6b70438d","fromSide":"right","toNode":"ba6a9807dc0b1b56","toSide":"top","label":"ことはない"},
+		{"id":"45b36c053c2c4162","fromNode":"eb92ff862c300552","fromSide":"bottom","toNode":"3f1c4e5ba7e1395a","toSide":"top","label":"ということ"},
+		{"id":"8a31230ba6612d6a","fromNode":"1c7d953f6b70438d","fromSide":"right","toNode":"cf028366803bdcdd","toSide":"bottom","label":"ということは"},
+		{"id":"ace7a5bd2f208ccd","fromNode":"3f1c4e5ba7e1395a","fromSide":"bottom","toNode":"cf028366803bdcdd","toSide":"top","label":"ということは"},
+		{"id":"2b492188218cba56","fromNode":"ff98fa1a2b61ab86","fromSide":"bottom","toNode":"2c830fddbd802435","toSide":"top","label":"ないことには"},
+		{"id":"32f7bb7443567008","fromNode":"8e95a2289c00601c","fromSide":"right","toNode":"f5b3c95abf06d9af","toSide":"left"},
+		{"id":"2922a85a6e8cabdf","fromNode":"f5b3c95abf06d9af","fromSide":"right","toNode":"1b5efecfd0ad0dd5","toSide":"left"}
 	]
 }

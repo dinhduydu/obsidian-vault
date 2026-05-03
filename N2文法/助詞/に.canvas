@@ -98,7 +98,6 @@
 		{"id":"4baafea772a6e735","type":"text","text":"～くせに","x":-1547,"y":3245,"width":250,"height":60},
 		{"id":"cc259fbf280bd597","type":"text","text":"～最中に","x":-2852,"y":3671,"width":250,"height":60},
 		{"id":"f1497391efab80c6","type":"text","text":"～について","x":-3049,"y":3340,"width":250,"height":60},
-		{"id":"d7c410f62678f910","type":"text","text":"に際して","x":-2165,"y":1869,"width":265,"height":71},
 		{"id":"1ff283711b005928","type":"text","text":"際に","x":-844,"y":3399,"width":250,"height":60},
 		{"id":"a8407d3328b250b8","type":"text","text":"～わりに","x":-2511,"y":3154,"width":250,"height":60},
 		{"id":"4d205536b6078ca4","type":"text","text":"Dùng để chỉ 1 phạm vi đại khái của nơi chốn hay thời gian","x":-3329,"y":3805,"width":250,"height":115},
@@ -216,7 +215,12 @@
 		{"id":"fe567f28a4b9ef44","type":"text","text":"につき","x":-8203,"y":-441,"width":250,"height":60},
 		{"id":"3684e4b30a15994e","type":"text","text":"には及（およ）ばない","x":-8540,"y":140,"width":250,"height":60},
 		{"id":"14e5c8d5f4c3dfdb","type":"text","text":"「N2」に","x":2380,"y":-728,"width":250,"height":60},
-		{"id":"063a6d9803143319","type":"file","file":"N2文法/助詞/を.canvas","x":3840,"y":-4215,"width":241,"height":155}
+		{"id":"063a6d9803143319","type":"file","file":"N2文法/助詞/を.canvas","x":3840,"y":-4215,"width":241,"height":155},
+		{"id":"2e7a26df4e8254ee","type":"text","text":"にこしたことはない","x":2526,"y":-1213,"width":250,"height":60},
+		{"id":"ee099ba8f7ce93fc","type":"file","file":"N2文法/こと・もの/こと.canvas","x":3068,"y":-1288,"width":108,"height":150},
+		{"id":"95b08166575114a1","type":"text","text":"に相違（そうい）ない","x":2943,"y":-480,"width":250,"height":60},
+		{"id":"a9be74e81cb8075f","type":"text","text":"に応じて","x":1645,"y":-1198,"width":250,"height":60},
+		{"id":"d7c410f62678f910","type":"text","text":"に際して","x":-2155,"y":1858,"width":265,"height":71}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},
@@ -441,6 +445,11 @@
 		{"id":"824165d86496e4be","fromNode":"eefd6af49e66ee77","fromSide":"top","toNode":"fe567f28a4b9ef44","toSide":"bottom","label":"につき"},
 		{"id":"18f670bf8958301b","fromNode":"eefd6af49e66ee77","fromSide":"bottom","toNode":"3684e4b30a15994e","toSide":"top","label":"には及（およ）ばない"},
 		{"id":"aa1fe3abd4218312","fromNode":"888232e05f82701a","fromSide":"top","toNode":"14e5c8d5f4c3dfdb","toSide":"left","label":"「N2」に"},
-		{"id":"311646fe725772d9","fromNode":"b2effe4a779ab57c","fromSide":"left","toNode":"063a6d9803143319","toSide":"right"}
+		{"id":"311646fe725772d9","fromNode":"b2effe4a779ab57c","fromSide":"left","toNode":"063a6d9803143319","toSide":"right"},
+		{"id":"48ad7331073f2536","fromNode":"14e5c8d5f4c3dfdb","fromSide":"top","toNode":"2e7a26df4e8254ee","toSide":"bottom","label":"にこしたことはない"},
+		{"id":"95532d0b59f8991b","fromNode":"2e7a26df4e8254ee","fromSide":"right","toNode":"ee099ba8f7ce93fc","toSide":"left","label":"にこしたことはない"},
+		{"id":"47fb902f34901a83","fromNode":"14e5c8d5f4c3dfdb","fromSide":"bottom","toNode":"95b08166575114a1","toSide":"top","label":"に相違（そうい）ない"},
+		{"id":"c4f8062967e3249d","fromNode":"14e5c8d5f4c3dfdb","fromSide":"top","toNode":"a9be74e81cb8075f","toSide":"right","label":"に応じて"},
+		{"id":"2c9d4b8a2b7a32e8","fromNode":"b4561acb9ba83a27","fromSide":"bottom","toNode":"d7c410f62678f910","toSide":"left","label":"に際して"}
 	]
 }

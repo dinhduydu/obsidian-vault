@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/のみ.canvas",
+                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
                 "viewState": {
-                  "x": -286.5,
-                  "y": 55,
-                  "zoom": 0
+                  "x": 386.5872601986607,
+                  "y": -538.0503242212699,
+                  "zoom": -1.1286656331775073
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "のみ"
+              "title": "Vて"
             }
           },
           {
@@ -226,17 +226,17 @@
   },
   "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/こと・もの/こと.canvas",
-    "N2文法/助詞/と.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
     "N2文法/助詞/に.canvas",
-    "N2文法/助詞/か.canvas",
-    "N2文法/あまり・だけ/あまり.canvas",
-    "N2文法/復習/復習.canvas",
     "N2文法/助詞/を.canvas",
-    "N2文法/一方・上・限り・つもり・他/限り.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
-    "N2文法/こと・もの/もの.canvas",
-    "N2文法/挙句・すえ/挙句.canvas",
+    "N2文法/助詞/と.canvas",
+    "N2文法/助詞/で.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "N2文法/次第・つつ/次第.canvas",
+    "N2文法/くらい・ほど/くらい.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",

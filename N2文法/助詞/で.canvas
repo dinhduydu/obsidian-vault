@@ -1,23 +1,24 @@
 {
 	"nodes":[
 		{"id":"c1e44fd41806a944","type":"text","text":"で","x":-380,"y":-76,"width":250,"height":60},
-		{"id":"44964ce97e893067","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-1140,"y":-560,"width":400,"height":400},
-		{"id":"c8c08fd2388f24b9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1140,"y":80,"width":400,"height":400},
+		{"id":"c8c08fd2388f24b9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-900,"y":360,"width":160,"height":120},
 		{"id":"8f0bf61017b908d0","type":"text","text":"Vて\nAいー＞くて\nAなー＞で\nNで","x":-1227,"y":723,"width":250,"height":117},
 		{"id":"56b4eb445ff4a096","type":"text","text":"Diễn tả nguyên nhân, lý do","x":-1477,"y":1040,"width":250,"height":60},
 		{"id":"bddd8bbde5545e4d","type":"text","text":"Cảm tạ, xin lỗi","x":-1670,"y":1259,"width":250,"height":60},
 		{"id":"92daa4b568f0fff0","type":"text","text":"Thể hiện cảm xúc","x":-1209,"y":1275,"width":250,"height":60},
 		{"id":"0384ab3c0d3ed34b","type":"text","text":"かぞくに会えなくて、寂しい（さびしい）です。","x":-1301,"y":1550,"width":435,"height":60},
 		{"id":"f0baa8f026d4a3f8","type":"text","text":"おくれてすみません。","x":-1670,"y":1550,"width":250,"height":60},
-		{"id":"f0fd73cc670356ad","x":-173,"y":652,"width":250,"height":60,"type":"text","text":"～せいで"},
+		{"id":"f0fd73cc670356ad","type":"text","text":"～せいで","x":-173,"y":652,"width":250,"height":60},
 		{"id":"80580c87611e8383","type":"text","text":"です","x":1235,"y":-76,"width":250,"height":60},
 		{"id":"dd369843eef60e68","type":"text","text":"でございます","x":1748,"y":-76,"width":250,"height":60},
 		{"id":"a9946dea8a64c04d","type":"file","file":"Pasted image 20260410080250.png","x":1160,"y":120,"width":400,"height":111},
-		{"id":"64c4c02e088975c7","x":456,"y":-925,"width":250,"height":60,"type":"text","text":"で"},
-		{"id":"22e158ac9f48eca1","x":211,"y":575,"width":250,"height":60,"type":"text","text":"Vì lý do A nên kết quả xấu B"},
-		{"id":"dd73d2b901a3c848","x":629,"y":528,"width":250,"height":60,"type":"text","text":"Dùng để biện minh"},
-		{"id":"1b1301967b852ce7","x":234,"y":743,"width":250,"height":60,"type":"text","text":"～せいでにする"},
-		{"id":"4b6e116d4b40a2d7","x":610,"y":705,"width":250,"height":60,"type":"text","text":"Thể hiện trạng thái đang biện minh"}
+		{"id":"64c4c02e088975c7","type":"text","text":"で","x":456,"y":-925,"width":250,"height":60},
+		{"id":"22e158ac9f48eca1","type":"text","text":"Vì lý do A nên kết quả xấu B","x":211,"y":575,"width":250,"height":60},
+		{"id":"dd73d2b901a3c848","type":"text","text":"Dùng để biện minh","x":629,"y":528,"width":250,"height":60},
+		{"id":"1b1301967b852ce7","type":"text","text":"～せいでにする","x":234,"y":743,"width":250,"height":60},
+		{"id":"4b6e116d4b40a2d7","type":"text","text":"Thể hiện trạng thái đang biện minh","x":610,"y":705,"width":250,"height":60},
+		{"id":"44964ce97e893067","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-840,"y":-360,"width":100,"height":80},
+		{"id":"030b97b7058ca503","x":356,"y":-322,"width":250,"height":60,"type":"text","text":"のもとで"}
 	],
 	"edges":[
 		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left"},
@@ -36,6 +37,7 @@
 		{"id":"9cf811022866ad42","fromNode":"f0fd73cc670356ad","fromSide":"right","toNode":"22e158ac9f48eca1","toSide":"left"},
 		{"id":"e45f2398e44ec719","fromNode":"22e158ac9f48eca1","fromSide":"right","toNode":"dd73d2b901a3c848","toSide":"left"},
 		{"id":"5f126cc4ea6a3246","fromNode":"f0fd73cc670356ad","fromSide":"right","toNode":"1b1301967b852ce7","toSide":"left"},
-		{"id":"c6978d788cec2386","fromNode":"1b1301967b852ce7","fromSide":"right","toNode":"4b6e116d4b40a2d7","toSide":"left"}
+		{"id":"c6978d788cec2386","fromNode":"1b1301967b852ce7","fromSide":"right","toNode":"4b6e116d4b40a2d7","toSide":"left"},
+		{"id":"d8a8dd834f88cfac","fromNode":"c1e44fd41806a944","fromSide":"top","toNode":"030b97b7058ca503","toSide":"bottom"}
 	]
 }
