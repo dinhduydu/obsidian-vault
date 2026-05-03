@@ -12,7 +12,7 @@
 		{"id":"5dd0ec09db168ed9","type":"text","text":"Cách chia","x":1221,"y":-137,"width":250,"height":60},
 		{"id":"a955fff15962d40d","type":"text","text":"（I）グループ：うー＞あれる\n（II）グループ：るー＞られる\n（III）グループ：するー＞される；くるー＞こられる","x":1560,"y":-159,"width":480,"height":105},
 		{"id":"04e86b6cbc894d12","type":"text","text":"（I）グループ：うー＞える\n（II）グループ：られる\n（III）グループ：できる・こられる","x":2260,"y":-159,"width":348,"height":105},
-		{"id":"fccdaf252e339158","x":2234,"y":-700,"width":400,"height":400,"type":"file","file":"N2文法/可能.canvas"}
+		{"id":"fccdaf252e339158","x":2234,"y":-700,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas"}
 	],
 	"edges":[
 		{"id":"3e2666efba57a5a9","fromNode":"3d06cf1d111b1ad8","fromSide":"right","toNode":"404517fece555b1b","toSide":"left"},

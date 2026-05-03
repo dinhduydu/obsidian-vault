@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"c9d8e5ae8f589ecb","type":"text","text":"のみ","x":-164,"y":6,"width":250,"height":60},
-		{"id":"a9133354286cc501","x":-659,"y":280,"width":250,"height":60,"type":"text","text":"のみながら"},
-		{"id":"5b551e1f2d9d1570","type":"text","text":"のみ","x":-740,"y":-54,"width":250,"height":60}
+		{"id":"a9133354286cc501","type":"text","text":"のみながら","x":-659,"y":280,"width":250,"height":60},
+		{"id":"5b551e1f2d9d1570","type":"text","text":"のみ","x":-659,"y":-100,"width":250,"height":60},
+		{"id":"b0182184c29989b8","x":-175,"y":247,"width":250,"height":60,"type":"text","text":"のみならず"}
 	],
 	"edges":[
 		{"id":"e38a48b1b6f320ae","fromNode":"c9d8e5ae8f589ecb","fromSide":"left","toNode":"5b551e1f2d9d1570","toSide":"right","label":"のみ"},
-		{"id":"8a69cff5b0d7b4d4","fromNode":"c9d8e5ae8f589ecb","fromSide":"left","toNode":"a9133354286cc501","toSide":"right","label":"のみながら"}
+		{"id":"8a69cff5b0d7b4d4","fromNode":"c9d8e5ae8f589ecb","fromSide":"left","toNode":"a9133354286cc501","toSide":"right","label":"のみながら"},
+		{"id":"b6c974d0a3baa0b2","fromNode":"c9d8e5ae8f589ecb","fromSide":"bottom","toNode":"b0182184c29989b8","toSide":"top"}
 	]
 }

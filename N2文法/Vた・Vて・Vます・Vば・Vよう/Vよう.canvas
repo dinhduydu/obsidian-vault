@@ -5,12 +5,13 @@
 		{"id":"903bb778fead9390","type":"text","text":"Vようではないか","x":758,"y":-626,"width":250,"height":60},
 		{"id":"a70d8278bf805b35","type":"text","text":"Vようものなら","x":772,"y":-368,"width":250,"height":60},
 		{"id":"f8b96a3dbc5d2838","type":"text","text":"Vようか～まいか","x":551,"y":-1002,"width":389,"height":60},
-		{"id":"0fe0db08dfadfcee","x":1200,"y":-1046,"width":245,"height":149,"type":"file","file":"N2文法/まい.canvas"},
+		{"id":"0fe0db08dfadfcee","type":"file","file":"N2文法/まい.canvas","x":1200,"y":-1046,"width":245,"height":149},
 		{"id":"05d5e84d3ea57ca3","type":"text","text":"Vようとする","x":500,"y":17,"width":250,"height":60},
 		{"id":"6731ace6408553d5","type":"text","text":"Vようとしない","x":500,"y":320,"width":250,"height":60},
 		{"id":"6c962404617a6df0","type":"text","text":"V移行系＋としない","x":1578,"y":320,"width":250,"height":60},
 		{"id":"f09628b2c996ddd0","type":"text","text":"Biểu thị rằng chủ thể không có ý chí thực hiện động tác hay hành vi được nhắc đến","x":940,"y":307,"width":250,"height":85},
-		{"id":"b9c11045cb50e9ec","type":"file","file":"Pasted image 20260412212433.png","x":1440,"y":-706,"width":400,"height":221}
+		{"id":"b9c11045cb50e9ec","type":"file","file":"Pasted image 20260412212433.png","x":1440,"y":-706,"width":400,"height":221},
+		{"id":"f81acd2fc3fb606a","x":1460,"y":-308,"width":200,"height":172,"type":"file","file":"N2文法/こと・もの/もの.canvas"}
 	],
 	"edges":[
 		{"id":"2e239b8c4682802a","fromNode":"903bb778fead9390","fromSide":"right","toNode":"b9c11045cb50e9ec","toSide":"left","label":"Vようではないか"},
@@ -22,6 +23,7 @@
 		{"id":"e972969fbb54308a","fromNode":"b5e1bcdbdc992566","fromSide":"right","toNode":"903bb778fead9390","toSide":"left","label":"Vようではないか"},
 		{"id":"fc635ac79820709e","fromNode":"b5e1bcdbdc992566","fromSide":"right","toNode":"a70d8278bf805b35","toSide":"left","label":"Vようものなら"},
 		{"id":"d0b22b1f86abe2af","fromNode":"b5e1bcdbdc992566","fromSide":"top","toNode":"f8b96a3dbc5d2838","toSide":"left","label":"Vようか～まいか"},
-		{"id":"b59ebef0e1293ee1","fromNode":"f8b96a3dbc5d2838","fromSide":"right","toNode":"0fe0db08dfadfcee","toSide":"left"}
+		{"id":"b59ebef0e1293ee1","fromNode":"f8b96a3dbc5d2838","fromSide":"right","toNode":"0fe0db08dfadfcee","toSide":"left"},
+		{"id":"b1fa4c395b60dfc0","fromNode":"a70d8278bf805b35","fromSide":"right","toNode":"f81acd2fc3fb606a","toSide":"left","label":"Vようものなら"}
 	]
 }

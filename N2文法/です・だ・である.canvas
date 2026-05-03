@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e2e1b0de41753ee9","type":"text","text":"だ","x":-60,"y":-33,"width":166,"height":60},
-		{"id":"9c14a04d4b7989f8","type":"text","text":"のだ・んだ","x":-653,"y":-7,"width":250,"height":60},
 		{"id":"0c59f98061326081","type":"text","text":"～のは～だ","x":-450,"y":166,"width":250,"height":60},
 		{"id":"07c2f8ba9120cbe4","type":"text","text":"はずだ","x":294,"y":245,"width":250,"height":60},
 		{"id":"f485e99271613dcc","type":"text","text":"みたいだ","x":31,"y":305,"width":250,"height":60},
@@ -17,7 +16,8 @@
 		{"id":"128a2abcdb025fbe","type":"text","text":"ようだ","x":-480,"y":444,"width":250,"height":60},
 		{"id":"91f05568c585adba","type":"file","file":"N2文法/そう・よう/よう.canvas","x":-793,"y":680,"width":265,"height":101},
 		{"id":"36e741979246ff20","type":"text","text":"でございます","x":3300,"y":-40,"width":250,"height":60},
-		{"id":"09920292bcde2e23","type":"text","text":"んだった","x":-1160,"y":-227,"width":250,"height":60}
+		{"id":"09920292bcde2e23","type":"text","text":"んだった","x":-1160,"y":-227,"width":250,"height":60},
+		{"id":"9c14a04d4b7989f8","type":"text","text":"のだ・んだ","x":-1160,"y":-3,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"95b787f655c67282","fromNode":"e2e1b0de41753ee9","fromSide":"left","toNode":"9c14a04d4b7989f8","toSide":"right","label":"のだ・んだ"},

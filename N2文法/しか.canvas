@@ -6,20 +6,22 @@
 		{"id":"82f94190a8a58b97","type":"text","text":"しか","x":-54,"y":-553,"width":250,"height":60},
 		{"id":"10f7b6a501240e83","type":"file","file":"N2文法/あまり・だけ/だけ.canvas","x":-600,"y":-1040,"width":400,"height":400},
 		{"id":"388ed412568c2baf","type":"text","text":"しかある","x":-718,"y":-437,"width":250,"height":60},
-		{"id":"96711b9e0fc7fd0d","type":"text","text":"しかあるまい","x":-1122,"y":-332,"width":250,"height":60},
-		{"id":"7f823cf039b73857","x":334,"y":-437,"width":286,"height":56,"type":"text","text":"Dùng khi muốn nói không có cách nào khác nên chọn A\n"},
-		{"id":"0a98e05f20791cc1","x":720,"y":-522,"width":250,"height":60,"type":"text","text":"V辞書形＋しかない"},
-		{"id":"2bc7b7a2e2c41dc8","x":735,"y":-407,"width":250,"height":60,"type":"text","text":"Nしかない"}
+		{"id":"7f823cf039b73857","type":"text","text":"Dùng khi muốn nói không có cách nào khác nên chọn A\n","x":334,"y":-437,"width":286,"height":56},
+		{"id":"0a98e05f20791cc1","type":"text","text":"V辞書形＋しかない","x":720,"y":-522,"width":250,"height":60},
+		{"id":"2bc7b7a2e2c41dc8","type":"text","text":"Nしかない","x":735,"y":-407,"width":250,"height":60},
+		{"id":"96711b9e0fc7fd0d","type":"text","text":"しかあるまい","x":-1260,"y":-437,"width":250,"height":60},
+		{"id":"ccdcae9e2d1324fc","x":-1780,"y":-454,"width":328,"height":94,"type":"file","file":"N2文法/まい.canvas"}
 	],
 	"edges":[
 		{"id":"73bef10124ad7e82","fromNode":"71ac4b24484461c5","fromSide":"bottom","toNode":"3263d83785bcaed9","toSide":"top"},
 		{"id":"f045095f6d771fcf","fromNode":"0a5dbf110a90925d","fromSide":"bottom","toNode":"71ac4b24484461c5","toSide":"top"},
-		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"0a5dbf110a90925d","toSide":"top"},
+		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"0a5dbf110a90925d","toSide":"top","label":"しかない"},
 		{"id":"c230e158188420b2","fromNode":"10f7b6a501240e83","fromSide":"right","toNode":"82f94190a8a58b97","toSide":"top","label":"だけしか"},
-		{"id":"6290c2c28640a7b9","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"388ed412568c2baf","toSide":"right"},
-		{"id":"9333ef1bed47ece0","fromNode":"388ed412568c2baf","fromSide":"left","toNode":"96711b9e0fc7fd0d","toSide":"right"},
+		{"id":"6290c2c28640a7b9","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"388ed412568c2baf","toSide":"right","label":"しかある"},
+		{"id":"9333ef1bed47ece0","fromNode":"388ed412568c2baf","fromSide":"left","toNode":"96711b9e0fc7fd0d","toSide":"right","label":"しかある"},
 		{"id":"36f3f10a08e534cd","fromNode":"0a5dbf110a90925d","fromSide":"right","toNode":"7f823cf039b73857","toSide":"left"},
 		{"id":"1fbf8c0f6c479396","fromNode":"7f823cf039b73857","fromSide":"right","toNode":"0a98e05f20791cc1","toSide":"left"},
-		{"id":"e655d94b91bbc1c1","fromNode":"7f823cf039b73857","fromSide":"right","toNode":"2bc7b7a2e2c41dc8","toSide":"left"}
+		{"id":"e655d94b91bbc1c1","fromNode":"7f823cf039b73857","fromSide":"right","toNode":"2bc7b7a2e2c41dc8","toSide":"left"},
+		{"id":"fcfe44237e8b7bcc","fromNode":"96711b9e0fc7fd0d","fromSide":"left","toNode":"ccdcae9e2d1324fc","toSide":"right"}
 	]
 }

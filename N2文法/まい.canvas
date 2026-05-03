@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"9ce084ebdc0f29c9","x":-69,"y":-8,"width":250,"height":60,"type":"text","text":"まい"}
+		{"id":"41b685cdc525e60c","x":572,"y":-167,"width":400,"height":400,"type":"file","file":"N2文法/しか.canvas"},
+		{"id":"9ce084ebdc0f29c9","type":"text","text":"まい","x":-80,"y":3,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5219d48cbbebe48b","fromNode":"9ce084ebdc0f29c9","fromSide":"right","toNode":"41b685cdc525e60c","toSide":"left","label":"しかあるまい"}
+	]
 }

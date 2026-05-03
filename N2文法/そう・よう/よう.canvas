@@ -24,7 +24,7 @@
 		{"id":"fe2d27b7984d9996","type":"text","text":"見える","x":4632,"y":-483,"width":250,"height":60},
 		{"id":"3cdd86af9dfba009","type":"text","text":"わかる","x":4649,"y":-320,"width":250,"height":60},
 		{"id":"372c61e5686d057b","type":"text","text":"なおる","x":4675,"y":-167,"width":250,"height":60},
-		{"id":"d02eac8411c612f3","type":"file","file":"N2文法/可能.canvas","x":4675,"y":-11,"width":255,"height":140},
+		{"id":"d02eac8411c612f3","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":4675,"y":-11,"width":255,"height":140},
 		{"id":"9e4af3b723188a61","type":"text","text":"Diễn tả sự thay đổi","x":5283,"y":228,"width":250,"height":60},
 		{"id":"ba9fbcbf712540cd","type":"text","text":"変わる","x":5655,"y":138,"width":250,"height":60},
 		{"id":"9fa18697c3f17b89","type":"text","text":"増える","x":5645,"y":339,"width":250,"height":60},

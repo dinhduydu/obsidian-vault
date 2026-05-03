@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/です・だ・である.canvas",
+                "file": "N2文法/まい.canvas",
                 "viewState": {
-                  "x": 259.86621538167833,
-                  "y": -151.8916138435349,
-                  "zoom": -1.1509565908447648
+                  "x": 276,
+                  "y": 22,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "です・だ・である"
+              "title": "まい"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/です・だ・である.canvas",
+                "file": "N2文法/まい.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for です・だ・である"
+              "title": "Backlinks for まい"
             }
           },
           {
@@ -225,17 +225,17 @@
   },
   "active": "3d6e51e9e9ea284e",
   "lastOpenFiles": [
-    "N2文法/こと・もの/もの.canvas",
-    "N2文法/助詞/に.canvas",
-    "N2文法/ところ・どころ/ところ.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
-    "N2文法/助詞/まで.canvas",
-    "N2文法/助詞/は.canvas",
-    "N2文法/ばかり・はず・わけ/ばかり.canvas",
-    "N2文法/一方・上・限り・つもり・他/上.canvas",
-    "N2文法/助詞/で.canvas",
+    "N2文法/しか.canvas",
+    "N2文法/たとえ.canvas",
+    "N2文法/のみ.canvas",
+    "N2文法/なお.canvas",
+    "N2文法/気.canvas",
+    "N2文法/始める.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/命令.canvas",
+    "N2文法/です・だ・である.canvas",
+    "N2文法/その他の縮約形.canvas",
+    "N2文法/ず.canvas",
+    "N2文法/がる・がち.canvas",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
