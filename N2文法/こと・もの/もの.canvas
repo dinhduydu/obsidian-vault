@@ -38,7 +38,9 @@
 		{"id":"e88949813a0d1f92","type":"file","file":"Pasted image 20260407221951.png","x":-1300,"y":920,"width":400,"height":400},
 		{"id":"029b56db1033a91c","type":"file","file":"Pasted image 20260410083432.png","x":-960,"y":407,"width":560,"height":306},
 		{"id":"720657618e1b7edd","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":-520,"y":1060,"width":400,"height":400},
-		{"id":"678a0bfa7481010f","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":320,"y":1160,"width":400,"height":400}
+		{"id":"678a0bfa7481010f","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":320,"y":1160,"width":400,"height":400},
+		{"id":"eeb11fc9c9dd9ad7","type":"text","text":"うちの犬は、外です小士でも音がしようものなら、すごい勢いで吠える。","x":177,"y":1784,"width":343,"height":73},
+		{"id":"578fba75f3ea7e61","type":"text","text":"Use to express: st  that should not be happened and the unfavorable situation when it happens","x":-423,"y":1763,"width":250,"height":115}
 	],
 	"edges":[
 		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"83ef7c6acfd37d06","toSide":"bottom","label":"もん"},
@@ -80,6 +82,8 @@
 		{"id":"7b8b3782bc510dc4","fromNode":"504b1efc9d0fd61d","fromSide":"right","toNode":"74c54eb6a82452c6","toSide":"bottom","label":"とはいうものの"},
 		{"id":"c01897cab408c025","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"baa2a371ea72d6e3","toSide":"top","label":"ものがある"},
 		{"id":"07db27d7307166ff","fromNode":"029b56db1033a91c","fromSide":"bottom","toNode":"720657618e1b7edd","toSide":"top","label":"Vようものなら"},
-		{"id":"770fbad49cb13b06","fromNode":"029b56db1033a91c","fromSide":"right","toNode":"678a0bfa7481010f","toSide":"left","label":"V可能ものなら"}
+		{"id":"770fbad49cb13b06","fromNode":"029b56db1033a91c","fromSide":"right","toNode":"678a0bfa7481010f","toSide":"left","label":"V可能ものなら"},
+		{"id":"f7e39c466b2269e2","fromNode":"578fba75f3ea7e61","fromSide":"right","toNode":"eeb11fc9c9dd9ad7","toSide":"left","label":"Vようものなら"},
+		{"id":"77aaade67f62102f","fromNode":"720657618e1b7edd","fromSide":"bottom","toNode":"578fba75f3ea7e61","toSide":"top","label":"Vようものなら"}
 	]
 }
