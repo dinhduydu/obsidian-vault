@@ -40,7 +40,10 @@
 		{"id":"720657618e1b7edd","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":-520,"y":1060,"width":400,"height":400},
 		{"id":"678a0bfa7481010f","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":320,"y":1160,"width":400,"height":400},
 		{"id":"eeb11fc9c9dd9ad7","type":"text","text":"うちの犬は、外です小士でも音がしようものなら、すごい勢いで吠える。","x":177,"y":1784,"width":343,"height":73},
-		{"id":"578fba75f3ea7e61","type":"text","text":"Use to express: st  that should not be happened and the unfavorable situation when it happens","x":-423,"y":1763,"width":250,"height":115}
+		{"id":"578fba75f3ea7e61","type":"text","text":"Use to express: st  that should not be happened and the unfavorable situation when it happens","x":-423,"y":1763,"width":250,"height":115},
+		{"id":"c5e1c5c77dee797a","x":917,"y":1320,"width":250,"height":60,"type":"text","text":"「N２」もの"},
+		{"id":"0bd90a037125babd","x":1520,"y":1320,"width":250,"height":60,"type":"text","text":"Vるものと決めつけている"},
+		{"id":"6f5b891b199341a6","x":2170,"y":1204,"width":400,"height":292,"type":"file","file":"Pasted image 20260504020809.png"}
 	],
 	"edges":[
 		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"83ef7c6acfd37d06","toSide":"bottom","label":"もん"},
@@ -84,6 +87,9 @@
 		{"id":"07db27d7307166ff","fromNode":"029b56db1033a91c","fromSide":"bottom","toNode":"720657618e1b7edd","toSide":"top","label":"Vようものなら"},
 		{"id":"770fbad49cb13b06","fromNode":"029b56db1033a91c","fromSide":"right","toNode":"678a0bfa7481010f","toSide":"left","label":"V可能ものなら"},
 		{"id":"f7e39c466b2269e2","fromNode":"578fba75f3ea7e61","fromSide":"right","toNode":"eeb11fc9c9dd9ad7","toSide":"left","label":"Vようものなら"},
-		{"id":"77aaade67f62102f","fromNode":"720657618e1b7edd","fromSide":"bottom","toNode":"578fba75f3ea7e61","toSide":"top","label":"Vようものなら"}
+		{"id":"77aaade67f62102f","fromNode":"720657618e1b7edd","fromSide":"bottom","toNode":"578fba75f3ea7e61","toSide":"top","label":"Vようものなら"},
+		{"id":"e653679c340e47c6","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"c5e1c5c77dee797a","toSide":"top","label":"「N２」もの"},
+		{"id":"cd48b1c8d62f113c","fromNode":"c5e1c5c77dee797a","fromSide":"right","toNode":"0bd90a037125babd","toSide":"left","label":"Vるものと決めつけている"},
+		{"id":"2d04e7644c2e96ec","fromNode":"0bd90a037125babd","fromSide":"right","toNode":"6f5b891b199341a6","toSide":"left","label":"Vるものと決めつけている"}
 	]
 }

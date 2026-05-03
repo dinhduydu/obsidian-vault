@@ -6,7 +6,9 @@
 		{"id":"fcdd33025150b7a1","type":"file","file":"Pasted image 20260409002756.png","x":-920,"y":-89,"width":400,"height":195},
 		{"id":"4653a5674ca1a1c9","type":"text","text":"ばかりに","x":475,"y":-640,"width":250,"height":60},
 		{"id":"6029218151d7cd50","type":"text","text":"Vてばかりいる","x":-684,"y":258,"width":250,"height":60},
-		{"id":"51f444f1426796df","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1048,"y":525,"width":400,"height":400}
+		{"id":"51f444f1426796df","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1048,"y":525,"width":400,"height":400},
+		{"id":"ece88324418048dc","x":540,"y":288,"width":400,"height":299,"type":"file","file":"Pasted image 20260504021113.png"},
+		{"id":"83ca6930409b9b9a","type":"text","text":"Vてばかりいると","x":-86,"y":408,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"fcdd33025150b7a1","toSide":"right","label":"ばかりだ"},
@@ -15,6 +17,8 @@
 		{"id":"22a4621596e1d8c8","fromNode":"ddfebbf68ef3d729","fromSide":"top","toNode":"4653a5674ca1a1c9","toSide":"bottom","label":"ばかりに"},
 		{"id":"ef0cae32374408dc","fromNode":"17823209400f2baa","fromSide":"top","toNode":"4653a5674ca1a1c9","toSide":"bottom","label":"ばかりに\nnguyên nhân kết quả"},
 		{"id":"f51b407fc75145b7","fromNode":"7353ee59fe83602b","fromSide":"bottom","toNode":"6029218151d7cd50","toSide":"top","label":"Vてばかりいる"},
-		{"id":"a14b315147a27365","fromNode":"6029218151d7cd50","fromSide":"bottom","toNode":"51f444f1426796df","toSide":"top","label":"Vてばかりいる"}
+		{"id":"a14b315147a27365","fromNode":"6029218151d7cd50","fromSide":"bottom","toNode":"51f444f1426796df","toSide":"top","label":"Vてばかりいる"},
+		{"id":"1c7131adcbbafbe4","fromNode":"6029218151d7cd50","fromSide":"right","toNode":"83ca6930409b9b9a","toSide":"left","label":"Vてばかりいると"},
+		{"id":"85b0a751e8f2a451","fromNode":"83ca6930409b9b9a","fromSide":"right","toNode":"ece88324418048dc","toSide":"left","label":"Vてばかりいると"}
 	]
 }

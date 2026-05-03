@@ -25,10 +25,6 @@
 		{"id":"3cdd86af9dfba009","type":"text","text":"わかる","x":4649,"y":-320,"width":250,"height":60},
 		{"id":"372c61e5686d057b","type":"text","text":"なおる","x":4675,"y":-167,"width":250,"height":60},
 		{"id":"d02eac8411c612f3","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":4675,"y":-11,"width":255,"height":140},
-		{"id":"9e4af3b723188a61","type":"text","text":"Diễn tả sự thay đổi","x":5283,"y":228,"width":250,"height":60},
-		{"id":"ba9fbcbf712540cd","type":"text","text":"変わる","x":5655,"y":138,"width":250,"height":60},
-		{"id":"9fa18697c3f17b89","type":"text","text":"増える","x":5645,"y":339,"width":250,"height":60},
-		{"id":"66312697659c8bf8","type":"text","text":"減る","x":5700,"y":240,"width":250,"height":60},
 		{"id":"43e10101260e3e3d","type":"text","text":"không sử dụng với","x":4860,"y":300,"width":250,"height":60},
 		{"id":"a1d8762ca9b4d542","type":"text","text":"V辞書形＋ように","x":3261,"y":-540,"width":250,"height":60},
 		{"id":"1435680a8be1b247","type":"text","text":"Cách chia","x":3338,"y":-314,"width":250,"height":60},
@@ -58,11 +54,16 @@
 		{"id":"f41d8bb597b5bcb8","type":"text","text":"体のために、野菜をたくさんたべるようにしている。","x":5629,"y":-786,"width":250,"height":60},
 		{"id":"37cd25f94fbd73c1","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":5629,"y":-1080,"width":245,"height":85},
 		{"id":"f3e909fdb7f6b441","type":"file","file":"N2文法/助詞/に.canvas","x":5400,"y":-960,"width":71,"height":50},
-		{"id":"a28bf6c4d03b19a0","x":4969,"y":510,"width":314,"height":58,"type":"text","text":"時間をかけさえすればきっと信用するようになるわよ。"},
-		{"id":"cd366b3b28b7efbe","x":5376,"y":493,"width":250,"height":60,"type":"text","text":"If you give it some time, you will be able to trust me."},
-		{"id":"1442c757512f9f91","x":4900,"y":738,"width":250,"height":82,"type":"text","text":"すぐに死んなないように食べ物やりにいってた。"},
+		{"id":"a28bf6c4d03b19a0","type":"text","text":"時間をかけさえすればきっと信用するようになるわよ。","x":4969,"y":510,"width":314,"height":58},
+		{"id":"cd366b3b28b7efbe","type":"text","text":"If you give it some time, you will be able to trust me.","x":5376,"y":493,"width":250,"height":60},
+		{"id":"1442c757512f9f91","type":"text","text":"すぐに死んなないように食べ物やりにいってた。","x":4900,"y":738,"width":250,"height":82},
 		{"id":"caea20a4312e465d","type":"text","text":"すぐに死んなないように食べ物やりにいってた。","x":3940,"y":-860,"width":425,"height":80},
-		{"id":"01bac5808bb1d6af","x":4529,"y":-861,"width":292,"height":81,"type":"text","text":"I went to get him some food so he would not die right away."}
+		{"id":"01bac5808bb1d6af","type":"text","text":"I went to get him some food so he would not die right away.","x":4529,"y":-861,"width":292,"height":81},
+		{"id":"9e4af3b723188a61","type":"text","text":"Diễn tả sự thay đổi","x":5460,"y":288,"width":250,"height":60},
+		{"id":"9fa18697c3f17b89","type":"text","text":"増える","x":5822,"y":399,"width":250,"height":60},
+		{"id":"ba9fbcbf712540cd","type":"text","text":"変わる","x":5832,"y":198,"width":250,"height":60},
+		{"id":"66312697659c8bf8","type":"text","text":"減る","x":5877,"y":300,"width":250,"height":60},
+		{"id":"46870810768e103b","x":5460,"y":-177,"width":400,"height":306,"type":"file","file":"Pasted image 20260504021327.png"}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
@@ -92,7 +93,7 @@
 		{"id":"43590cf7ee73ec0f","fromNode":"87d75b0f8da520ea","fromSide":"right","toNode":"0a8407db8d25f53d","toSide":"left"},
 		{"id":"5b2d3e639d9552a2","fromNode":"1ffb1ed6bb2b4e49","fromSide":"right","toNode":"389bcf42ca19c101","toSide":"left"},
 		{"id":"cecbca6db9fc8f6b","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"43e10101260e3e3d","toSide":"left"},
-		{"id":"1a416d4724861be2","fromNode":"43e10101260e3e3d","fromSide":"right","toNode":"9e4af3b723188a61","toSide":"left"},
+		{"id":"1a416d4724861be2","fromNode":"43e10101260e3e3d","fromSide":"right","toNode":"9e4af3b723188a61","toSide":"left","label":"ようになる"},
 		{"id":"c6b7c3ae0e74987e","fromNode":"9e4af3b723188a61","fromSide":"right","toNode":"ba9fbcbf712540cd","toSide":"left"},
 		{"id":"be4ba2eb1d55e34b","fromNode":"9e4af3b723188a61","fromSide":"right","toNode":"9fa18697c3f17b89","toSide":"left"},
 		{"id":"9677d481195f1173","fromNode":"9e4af3b723188a61","fromSide":"right","toNode":"66312697659c8bf8","toSide":"left"},
@@ -125,9 +126,10 @@
 		{"id":"e0dc7f8a9009046a","fromNode":"8214c0789db8758b","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left"},
 		{"id":"4580945c42362dc5","fromNode":"37cd25f94fbd73c1","fromSide":"bottom","toNode":"f41d8bb597b5bcb8","toSide":"top","label":"Vている"},
 		{"id":"88747f72bec3fa19","fromNode":"f3e909fdb7f6b441","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left","label":"にする"},
-		{"id":"39be6f03264c7e3f","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"a28bf6c4d03b19a0","toSide":"left"},
+		{"id":"39be6f03264c7e3f","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"a28bf6c4d03b19a0","toSide":"left","label":"ようになる"},
 		{"id":"1b06d370b6add2c8","fromNode":"a28bf6c4d03b19a0","fromSide":"right","toNode":"cd366b3b28b7efbe","toSide":"left"},
 		{"id":"64294a2289543620","fromNode":"1d456446ae6bef83","fromSide":"top","toNode":"caea20a4312e465d","toSide":"left"},
-		{"id":"51f1caca5ca50b85","fromNode":"caea20a4312e465d","fromSide":"right","toNode":"01bac5808bb1d6af","toSide":"left"}
+		{"id":"51f1caca5ca50b85","fromNode":"caea20a4312e465d","fromSide":"right","toNode":"01bac5808bb1d6af","toSide":"left"},
+		{"id":"3d96efbcfafdcc81","fromNode":"43e10101260e3e3d","fromSide":"right","toNode":"46870810768e103b","toSide":"left","label":"ようになる"}
 	]
 }

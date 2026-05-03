@@ -40,7 +40,16 @@
 		{"id":"d9d08579b3591daa","type":"text","text":"げ","x":-6524,"y":756,"width":250,"height":60},
 		{"id":"239136257675b27d","type":"text","text":"やら～やら","x":-6004,"y":762,"width":250,"height":60},
 		{"id":"84306e793f45ef53","type":"text","text":"っぽい","x":-5958,"y":503,"width":250,"height":60},
-		{"id":"913dd3b8709d44de","type":"text","text":"きれる","x":-5553,"y":164,"width":250,"height":60}
+		{"id":"913dd3b8709d44de","type":"text","text":"きれる","x":-5553,"y":164,"width":250,"height":60},
+		{"id":"2f56919c96600c8f","type":"file","file":"Pasted image 20260503230154.png","x":-5200,"y":5320,"width":267,"height":400},
+		{"id":"e64181e0bc4f79a0","type":"file","file":"Pasted image 20260503230201.png","x":-4800,"y":5320,"width":267,"height":400},
+		{"id":"2648762b7d1ce853","type":"file","file":"Pasted image 20260503230211.png","x":-4440,"y":5320,"width":267,"height":400},
+		{"id":"c3b801a149f93a57","type":"file","file":"Pasted image 20260503230219.png","x":-4100,"y":5320,"width":267,"height":400},
+		{"id":"f5b6ba6fa503b1ad","type":"file","file":"Pasted image 20260503230226.png","x":-3760,"y":5320,"width":267,"height":400},
+		{"id":"c0c7a4c0cf248f48","type":"file","file":"Pasted image 20260503230236.png","x":-3400,"y":5320,"width":267,"height":400},
+		{"id":"49452cc6af546fdd","type":"file","file":"Pasted image 20260503230242.png","x":-3020,"y":5320,"width":267,"height":400},
+		{"id":"867a25cdd22e8eda","type":"file","file":"Pasted image 20260503230250.png","x":-5200,"y":5920,"width":267,"height":400},
+		{"id":"9f370ecdf6527663","type":"file","file":"Pasted image 20260503230256.png","x":-4800,"y":5920,"width":267,"height":400}
 	],
 	"edges":[
 		{"id":"cfb85c7eb2f5dd81","fromNode":"86172589f06322b3","fromSide":"left","toNode":"44ecd3e4a910c404","toSide":"right"},
