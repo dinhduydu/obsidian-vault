@@ -5,9 +5,11 @@
 		{"id":"515200bec93ca71d","type":"file","file":"Pasted image 20260410080219.png","x":-744,"y":-274,"width":394,"height":113},
 		{"id":"01f70a628a80b00c","type":"text","text":"あまり","x":-672,"y":-43,"width":250,"height":60},
 		{"id":"088165d708a53d39","type":"text","text":"あまり～ない","x":-1207,"y":-48,"width":250,"height":60},
-		{"id":"10ffe4cd576be111","x":-1238,"y":451,"width":250,"height":60,"type":"text","text":"あまりの～に"},
+		{"id":"10ffe4cd576be111","type":"text","text":"あまりの～に","x":-1238,"y":451,"width":250,"height":60},
 		{"id":"198820d5fb2844e8","type":"text","text":"～あまり","x":-1363,"y":180,"width":250,"height":50},
-		{"id":"e77e3addaf05a2e7","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-1880,"y":-161,"width":253,"height":194}
+		{"id":"e77e3addaf05a2e7","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-1880,"y":-161,"width":253,"height":194},
+		{"id":"b9295729da3b64d2","x":-988,"y":-578,"width":250,"height":60,"type":"text","text":"あまりに"},
+		{"id":"ffde083a376e2ff4","x":-1460,"y":-740,"width":250,"height":60,"type":"text","text":"あまりにも"}
 	],
 	"edges":[
 		{"id":"ea2841528ecf73ce","fromNode":"362573027c76924a","fromSide":"bottom","toNode":"2275d0fba1da1df6","toSide":"top"},
@@ -16,6 +18,8 @@
 		{"id":"dd514921cc396065","fromNode":"01f70a628a80b00c","fromSide":"left","toNode":"088165d708a53d39","toSide":"right","label":"あまり～ない"},
 		{"id":"cbbf0a85713204ac","fromNode":"088165d708a53d39","fromSide":"left","toNode":"e77e3addaf05a2e7","toSide":"right","label":"あまり～ない"},
 		{"id":"00a4bccd634b8bf9","fromNode":"01f70a628a80b00c","fromSide":"left","toNode":"198820d5fb2844e8","toSide":"right","label":"～あまり"},
-		{"id":"790c5cca935553ab","fromNode":"01f70a628a80b00c","fromSide":"left","toNode":"10ffe4cd576be111","toSide":"right","label":"あまりの～に"}
+		{"id":"790c5cca935553ab","fromNode":"01f70a628a80b00c","fromSide":"left","toNode":"10ffe4cd576be111","toSide":"right","label":"あまりの～に"},
+		{"id":"55d70208defdcbab","fromNode":"515200bec93ca71d","fromSide":"top","toNode":"b9295729da3b64d2","toSide":"bottom","label":"あまりに"},
+		{"id":"b87a458bdfc44a38","fromNode":"b9295729da3b64d2","fromSide":"left","toNode":"ffde083a376e2ff4","toSide":"right","label":"あまりにも"}
 	]
 }

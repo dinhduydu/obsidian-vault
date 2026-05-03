@@ -220,7 +220,8 @@
 		{"id":"ee099ba8f7ce93fc","type":"file","file":"N2文法/こと・もの/こと.canvas","x":3068,"y":-1288,"width":108,"height":150},
 		{"id":"95b08166575114a1","type":"text","text":"に相違（そうい）ない","x":2943,"y":-480,"width":250,"height":60},
 		{"id":"a9be74e81cb8075f","type":"text","text":"に応じて","x":1645,"y":-1198,"width":250,"height":60},
-		{"id":"d7c410f62678f910","type":"text","text":"に際して","x":-2155,"y":1858,"width":265,"height":71}
+		{"id":"d7c410f62678f910","type":"text","text":"に際して","x":-2155,"y":1858,"width":265,"height":71},
+		{"id":"0432f13b72d28d36","type":"text","text":"にほからならい","x":-5980,"y":-880,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},
@@ -450,6 +451,7 @@
 		{"id":"95532d0b59f8991b","fromNode":"2e7a26df4e8254ee","fromSide":"right","toNode":"ee099ba8f7ce93fc","toSide":"left","label":"にこしたことはない"},
 		{"id":"47fb902f34901a83","fromNode":"14e5c8d5f4c3dfdb","fromSide":"bottom","toNode":"95b08166575114a1","toSide":"top","label":"に相違（そうい）ない"},
 		{"id":"c4f8062967e3249d","fromNode":"14e5c8d5f4c3dfdb","fromSide":"top","toNode":"a9be74e81cb8075f","toSide":"right","label":"に応じて"},
-		{"id":"2c9d4b8a2b7a32e8","fromNode":"b4561acb9ba83a27","fromSide":"bottom","toNode":"d7c410f62678f910","toSide":"left","label":"に際して"}
+		{"id":"2c9d4b8a2b7a32e8","fromNode":"b4561acb9ba83a27","fromSide":"bottom","toNode":"d7c410f62678f910","toSide":"left","label":"に際して"},
+		{"id":"42a5224aca865115","fromNode":"6b7583c13e59afc8","fromSide":"top","toNode":"0432f13b72d28d36","toSide":"bottom"}
 	]
 }

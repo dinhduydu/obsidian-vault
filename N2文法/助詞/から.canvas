@@ -57,7 +57,7 @@
 		{"id":"b07160434c6a8eef","type":"text","text":"からすると","x":-3340,"y":300,"width":250,"height":60},
 		{"id":"71a29b008af2a31e","type":"text","text":"ものだから","x":-780,"y":1200,"width":250,"height":60},
 		{"id":"b88d105e43a41870","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-1180,"y":1482,"width":227,"height":119},
-		{"id":"d117c8ff44d1c14a","x":-3326,"y":528,"width":250,"height":60,"type":"text","text":"からして"}
+		{"id":"d117c8ff44d1c14a","type":"text","text":"からして","x":-3326,"y":528,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4f9f0e89ab4eca1c","fromNode":"0bb198986fbdb20f","fromSide":"bottom","toNode":"f3ce2baf586f348e","toSide":"top","label":"からして"},

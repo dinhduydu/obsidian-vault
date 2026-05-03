@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"0a654bff1d0c6558","type":"file","file":"N2文法/さえ・より/より.canvas","x":-2468,"y":-1331,"width":400,"height":400},
 		{"id":"7965ea4a9af48b7e","type":"file","file":"Pasted image 20260410083626.png","x":365,"y":-536,"width":400,"height":217},
-		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":900,"y":-529,"width":400,"height":210},
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-162,"y":466,"width":250,"height":60},
 		{"id":"d2209c220e41fa0f","type":"text","text":"と","x":240,"y":466,"width":250,"height":60},
 		{"id":"e336e484ff937bbb","type":"file","file":"Pasted image 20260410084620.png","x":-840,"y":400,"width":400,"height":193},
@@ -30,9 +29,11 @@
 		{"id":"88811392c2a9db5a","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":-1717,"y":-915,"width":480,"height":100},
 		{"id":"12fdac0d037ebae1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":1614,"y":-1882,"width":250,"height":60},
 		{"id":"698b475b19787db1","type":"text","text":"ということだ","x":1392,"y":-1669,"width":250,"height":60},
-		{"id":"bb3bfe420b470a17","x":1027,"y":-1320,"width":250,"height":60,"type":"text","text":"ということ"},
-		{"id":"0f2f5aa6cbbc57a8","x":977,"y":-1746,"width":250,"height":60,"type":"text","text":"ということは"},
-		{"id":"3eefacd638d9cdf7","x":1756,"y":-1396,"width":217,"height":213,"type":"file","file":"N2文法/こと・もの/こと.canvas"}
+		{"id":"bb3bfe420b470a17","type":"text","text":"ということ","x":1027,"y":-1320,"width":250,"height":60},
+		{"id":"0f2f5aa6cbbc57a8","type":"text","text":"ということは","x":977,"y":-1746,"width":250,"height":60},
+		{"id":"3eefacd638d9cdf7","type":"file","file":"N2文法/こと・もの/こと.canvas","x":1756,"y":-1396,"width":217,"height":213},
+		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":2266,"y":-626,"width":346,"height":181},
+		{"id":"84e44de5361c4641","x":3020,"y":-626,"width":250,"height":60,"type":"text","text":"はというと"}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -41,7 +42,7 @@
 		{"id":"9681c5afa1eda6d6","fromNode":"56a821c3715444bd","fromSide":"right","toNode":"7965ea4a9af48b7e","toSide":"bottom","label":"というのは"},
 		{"id":"b686696ed44af780","fromNode":"55b175afad532f38","fromSide":"left","toNode":"e336e484ff937bbb","toSide":"right","label":"からいう"},
 		{"id":"24d0b306d9c41cad","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"1dac4fc2bcc7976c","toSide":"bottom","label":"というより"},
-		{"id":"e0a9323c36e57784","fromNode":"56a821c3715444bd","fromSide":"right","toNode":"dd62ef111c276240","toSide":"bottom","label":"というと"},
+		{"id":"e0a9323c36e57784","fromNode":"56a821c3715444bd","fromSide":"right","toNode":"dd62ef111c276240","toSide":"left","label":"というと"},
 		{"id":"55033ea6c4a41f61","fromNode":"55b175afad532f38","fromSide":"top","toNode":"3fc3bc5f5604cf5d","toSide":"bottom","label":"という"},
 		{"id":"fa3555ae4357ad7a","fromNode":"3fc3bc5f5604cf5d","fromSide":"top","toNode":"56a821c3715444bd","toSide":"bottom"},
 		{"id":"68bc9c7670c62137","fromNode":"3fc3bc5f5604cf5d","fromSide":"right","toNode":"d59f1b2dad2d565e","toSide":"left","label":"chức năng"},
@@ -66,6 +67,7 @@
 		{"id":"de83c548cd74b521","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom"},
 		{"id":"27ab6ee97d4e04cb","fromNode":"56a821c3715444bd","fromSide":"top","toNode":"bb3bfe420b470a17","toSide":"left","label":"ということ"},
 		{"id":"448c4edc469a47e2","fromNode":"bb3bfe420b470a17","fromSide":"top","toNode":"0f2f5aa6cbbc57a8","toSide":"bottom"},
-		{"id":"27181155e228ff4b","fromNode":"bb3bfe420b470a17","fromSide":"right","toNode":"3eefacd638d9cdf7","toSide":"left"}
+		{"id":"27181155e228ff4b","fromNode":"bb3bfe420b470a17","fromSide":"right","toNode":"3eefacd638d9cdf7","toSide":"left"},
+		{"id":"5dbdceb8c162b90b","fromNode":"dd62ef111c276240","fromSide":"right","toNode":"84e44de5361c4641","toSide":"left","label":"はというと"}
 	]
 }

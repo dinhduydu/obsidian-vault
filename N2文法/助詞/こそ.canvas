@@ -11,7 +11,7 @@
 		{"id":"de1f88a37ff735a8","type":"text","text":"からこそ","x":-1111,"y":-1084,"width":250,"height":60},
 		{"id":"0484d46f9ac207c7","type":"text","text":"Nhấn mạnh lý do","x":-1555,"y":-1124,"width":250,"height":60},
 		{"id":"cfdf6d22f228bf90","type":"text","text":"かれは努力したからこそ、プロ野球選手になれたのだ。","x":-1920,"y":-1155,"width":255,"height":50},
-		{"id":"4ef408c590d3664b","x":-2020,"y":-1340,"width":139,"height":78,"type":"file","file":"N2文法/です・だ・である.canvas"}
+		{"id":"4ef408c590d3664b","type":"file","file":"N2文法/です・だ・である.canvas","x":-2020,"y":-1340,"width":139,"height":78}
 	],
 	"edges":[
 		{"id":"01e0619f861ad37a","fromNode":"ff05df410ed7fc81","fromSide":"left","toNode":"013dc0586f950851","toSide":"right","label":"Vばこそ"},

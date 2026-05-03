@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+                "file": "N2文法/ない・いう・しまう/いう.canvas",
                 "viewState": {
-                  "x": 386.5872601986607,
-                  "y": -538.0503242212699,
-                  "zoom": -1.1286656331775073
+                  "x": 2732.314073729375,
+                  "y": -533.9277684521965,
+                  "zoom": 0.05064798199436227
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vて"
+              "title": "いう"
             }
           },
           {
@@ -149,17 +149,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/第1課.md",
+                "file": "N2文法/ない・いう・しまう/いう.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "以来",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 第1課"
+              "title": "Backlinks for いう"
             }
           },
           {
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,18 +225,18 @@
   },
   "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
-    "N2文法/助詞/に.canvas",
-    "N2文法/助詞/を.canvas",
-    "N2文法/助詞/と.canvas",
-    "N2文法/助詞/で.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas",
-    "N2文法/ところ・どころ/ところ.canvas",
     "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
-    "N2文法/次第・つつ/次第.canvas",
-    "N2文法/くらい・ほど/くらい.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
+    "N2文法/あまり・だけ/だけ.canvas",
+    "N2文法/挙句・すえ/末.canvas",
+    "N2文法/あまり・だけ/あまり.canvas",
+    "N2文法/助詞/か.canvas",
+    "N2文法/ず.canvas",
+    "N2文法/助詞/と.canvas",
+    "N2文法/助詞/に.canvas",
     "N2文法/復習/第２課.md",
+    "N2文法/復習/指示代名詞.canvas",
+    "N2文法/助詞/こそ.canvas",
+    "N2文法/助詞/から.canvas",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
     "Pasted image 20260427211642.png",
