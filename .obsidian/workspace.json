@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/一方・上・限り・つもり・他/上.canvas",
+                "file": "N2文法/そう・よう/よう.canvas",
                 "viewState": {
-                  "x": -3788.594850564955,
-                  "y": 725.0194144303564,
-                  "zoom": -1.1224442364162683
+                  "x": 3939.793976453446,
+                  "y": -741.1821256012275,
+                  "zoom": -0.7653518373242676
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "上"
+              "title": "よう"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/一方・上・限り・つもり・他/上.canvas",
+                "file": "N2文法/そう・よう/よう.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 上"
+              "title": "Backlinks for よう"
             }
           },
           {
@@ -225,6 +225,7 @@
   },
   "active": "3d6e51e9e9ea284e",
   "lastOpenFiles": [
+    "N2文法/一方・上・限り・つもり・他/上.canvas",
     "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
     "N2文法/こと・もの/もの.canvas",
     "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
@@ -235,7 +236,6 @@
     "N2文法/なお.canvas",
     "N2文法/気.canvas",
     "N2文法/始める.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/命令.canvas",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",

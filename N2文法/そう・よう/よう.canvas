@@ -56,8 +56,13 @@
 		{"id":"768ae758176d97e5","type":"text","text":"ようにしている","x":4632,"y":-683,"width":250,"height":60},
 		{"id":"8214c0789db8758b","type":"text","text":"Dùng khi truyền đạt việc luôn cố gắng làm vì lý do hay mục tiêu nào đó, hoặc để nói về thói quen của mình","x":5002,"y":-748,"width":318,"height":95},
 		{"id":"f41d8bb597b5bcb8","type":"text","text":"体のために、野菜をたくさんたべるようにしている。","x":5629,"y":-786,"width":250,"height":60},
-		{"id":"37cd25f94fbd73c1","x":5629,"y":-1080,"width":245,"height":85,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas"},
-		{"id":"f3e909fdb7f6b441","x":5400,"y":-960,"width":71,"height":50,"type":"file","file":"N2文法/助詞/に.canvas"}
+		{"id":"37cd25f94fbd73c1","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":5629,"y":-1080,"width":245,"height":85},
+		{"id":"f3e909fdb7f6b441","type":"file","file":"N2文法/助詞/に.canvas","x":5400,"y":-960,"width":71,"height":50},
+		{"id":"a28bf6c4d03b19a0","x":4969,"y":510,"width":314,"height":58,"type":"text","text":"時間をかけさえすればきっと信用するようになるわよ。"},
+		{"id":"cd366b3b28b7efbe","x":5376,"y":493,"width":250,"height":60,"type":"text","text":"If you give it some time, you will be able to trust me."},
+		{"id":"1442c757512f9f91","x":4900,"y":738,"width":250,"height":82,"type":"text","text":"すぐに死んなないように食べ物やりにいってた。"},
+		{"id":"caea20a4312e465d","type":"text","text":"すぐに死んなないように食べ物やりにいってた。","x":3940,"y":-860,"width":425,"height":80},
+		{"id":"01bac5808bb1d6af","x":4529,"y":-861,"width":292,"height":81,"type":"text","text":"I went to get him some food so he would not die right away."}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
@@ -119,6 +124,10 @@
 		{"id":"2f5b5905effe7c69","fromNode":"768ae758176d97e5","fromSide":"right","toNode":"8214c0789db8758b","toSide":"left"},
 		{"id":"e0dc7f8a9009046a","fromNode":"8214c0789db8758b","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left"},
 		{"id":"4580945c42362dc5","fromNode":"37cd25f94fbd73c1","fromSide":"bottom","toNode":"f41d8bb597b5bcb8","toSide":"top","label":"Vている"},
-		{"id":"88747f72bec3fa19","fromNode":"f3e909fdb7f6b441","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left","label":"にする"}
+		{"id":"88747f72bec3fa19","fromNode":"f3e909fdb7f6b441","fromSide":"right","toNode":"f41d8bb597b5bcb8","toSide":"left","label":"にする"},
+		{"id":"39be6f03264c7e3f","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"a28bf6c4d03b19a0","toSide":"left"},
+		{"id":"1b06d370b6add2c8","fromNode":"a28bf6c4d03b19a0","fromSide":"right","toNode":"cd366b3b28b7efbe","toSide":"left"},
+		{"id":"64294a2289543620","fromNode":"1d456446ae6bef83","fromSide":"top","toNode":"caea20a4312e465d","toSide":"left"},
+		{"id":"51f1caca5ca50b85","fromNode":"caea20a4312e465d","fromSide":"right","toNode":"01bac5808bb1d6af","toSide":"left"}
 	]
 }
