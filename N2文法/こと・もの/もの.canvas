@@ -35,7 +35,8 @@
 		{"id":"e2707a016c876c85","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1840,"y":1420,"width":400,"height":400},
 		{"id":"2b8b8ba39095a91d","type":"file","file":"Pasted image 20260410082658.png","x":-1500,"y":-825,"width":399,"height":185},
 		{"id":"a2f06c7d5464fb59","type":"text","text":"ものの","x":1662,"y":60,"width":250,"height":60},
-		{"id":"74c54eb6a82452c6","x":2555,"y":56,"width":250,"height":60,"type":"text","text":"とはいうものの"}
+		{"id":"74c54eb6a82452c6","type":"text","text":"とはいうものの","x":2555,"y":56,"width":250,"height":60},
+		{"id":"baa2a371ea72d6e3","x":5,"y":830,"width":250,"height":60,"type":"text","text":"ものがある"}
 	],
 	"edges":[
 		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"83ef7c6acfd37d06","toSide":"bottom","label":"もん"},
@@ -43,7 +44,6 @@
 		{"id":"4c066358e81afd64","fromNode":"f4687cbf95bf587e","fromSide":"left","toNode":"e9695e67d5d24f2f","toSide":"right","label":"ものだ"},
 		{"id":"f90af92a1c4baa75","fromNode":"f4687cbf95bf587e","fromSide":"top","toNode":"2b8b8ba39095a91d","toSide":"bottom","label":"ものだ"},
 		{"id":"9b8cc335a2009f0d","fromNode":"e9695e67d5d24f2f","fromSide":"left","toNode":"f78ce934df0e4f79","toSide":"right","label":"ものだ"},
-		{"id":"5d131b155ab7e0c6","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"e3fa1f4c3c96e9ff","toSide":"bottom","label":"ものだから"},
 		{"id":"457f06a847275bc3","fromNode":"f4687cbf95bf587e","fromSide":"top","toNode":"e3fa1f4c3c96e9ff","toSide":"bottom","label":"ものだから"},
 		{"id":"87ecfe515b97e487","fromNode":"c3dcef0ac44421c4","fromSide":"left","toNode":"e3fa1f4c3c96e9ff","toSide":"right","label":"ものだから"},
 		{"id":"94263f8addf2856e","fromNode":"c3dcef0ac44421c4","fromSide":"bottom","toNode":"83ef7c6acfd37d06","toSide":"top","label":"もん"},
@@ -75,6 +75,7 @@
 		{"id":"2fd720d1f1dc964f","fromNode":"3d448cf4598a61ea","fromSide":"bottom","toNode":"fc6b9c771fc14774","toSide":"top","label":"というものだ"},
 		{"id":"a5133974bf804585","fromNode":"f4687cbf95bf587e","fromSide":"bottom","toNode":"e2707a016c876c85","toSide":"top","label":"Vてほしいものだ"},
 		{"id":"1d455ffd82b00199","fromNode":"a2f06c7d5464fb59","fromSide":"right","toNode":"74c54eb6a82452c6","toSide":"left","label":"とはいうものの"},
-		{"id":"7b8b3782bc510dc4","fromNode":"504b1efc9d0fd61d","fromSide":"right","toNode":"74c54eb6a82452c6","toSide":"bottom","label":"とはいうものの"}
+		{"id":"7b8b3782bc510dc4","fromNode":"504b1efc9d0fd61d","fromSide":"right","toNode":"74c54eb6a82452c6","toSide":"bottom","label":"とはいうものの"},
+		{"id":"c01897cab408c025","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"baa2a371ea72d6e3","toSide":"top","label":"ものがある"}
 	]
 }

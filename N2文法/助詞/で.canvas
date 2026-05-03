@@ -11,19 +11,20 @@
 		{"id":"f0fd73cc670356ad","type":"text","text":"～せいで","x":-173,"y":652,"width":250,"height":60},
 		{"id":"80580c87611e8383","type":"text","text":"です","x":1235,"y":-76,"width":250,"height":60},
 		{"id":"dd369843eef60e68","type":"text","text":"でございます","x":1748,"y":-76,"width":250,"height":60},
-		{"id":"a9946dea8a64c04d","type":"file","file":"Pasted image 20260410080250.png","x":1160,"y":120,"width":400,"height":111},
 		{"id":"64c4c02e088975c7","type":"text","text":"で","x":456,"y":-925,"width":250,"height":60},
 		{"id":"22e158ac9f48eca1","type":"text","text":"Vì lý do A nên kết quả xấu B","x":211,"y":575,"width":250,"height":60},
 		{"id":"dd73d2b901a3c848","type":"text","text":"Dùng để biện minh","x":629,"y":528,"width":250,"height":60},
 		{"id":"1b1301967b852ce7","type":"text","text":"～せいでにする","x":234,"y":743,"width":250,"height":60},
 		{"id":"4b6e116d4b40a2d7","type":"text","text":"Thể hiện trạng thái đang biện minh","x":610,"y":705,"width":250,"height":60},
 		{"id":"44964ce97e893067","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-840,"y":-360,"width":100,"height":80},
-		{"id":"030b97b7058ca503","x":356,"y":-322,"width":250,"height":60,"type":"text","text":"のもとで"}
+		{"id":"030b97b7058ca503","type":"text","text":"のもとで","x":356,"y":-322,"width":250,"height":60},
+		{"id":"39cf4bac94a4022f","x":1320,"y":512,"width":250,"height":60,"type":"text","text":"　～抜きで"},
+		{"id":"a9946dea8a64c04d","type":"file","file":"Pasted image 20260410080250.png","x":1673,"y":160,"width":400,"height":111}
 	],
 	"edges":[
-		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left"},
-		{"id":"4b0860e594f0ea2f","fromNode":"80580c87611e8383","fromSide":"right","toNode":"dd369843eef60e68","toSide":"left"},
-		{"id":"72ab35c897eeaeb6","fromNode":"80580c87611e8383","fromSide":"bottom","toNode":"a9946dea8a64c04d","toSide":"top"},
+		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left","label":"です"},
+		{"id":"4b0860e594f0ea2f","fromNode":"80580c87611e8383","fromSide":"right","toNode":"dd369843eef60e68","toSide":"left","label":"でございます"},
+		{"id":"72ab35c897eeaeb6","fromNode":"80580c87611e8383","fromSide":"bottom","toNode":"a9946dea8a64c04d","toSide":"left","label":"ではないか"},
 		{"id":"79b48186d7607637","fromNode":"44964ce97e893067","fromSide":"right","toNode":"c1e44fd41806a944","toSide":"top","label":"ないで"},
 		{"id":"858e4497e9ee4b9a","fromNode":"c8c08fd2388f24b9","fromSide":"right","toNode":"c1e44fd41806a944","toSide":"bottom","label":"～て・～て"},
 		{"id":"f814f74a65830175","fromNode":"c8c08fd2388f24b9","fromSide":"bottom","toNode":"8f0bf61017b908d0","toSide":"top"},
@@ -38,6 +39,7 @@
 		{"id":"e45f2398e44ec719","fromNode":"22e158ac9f48eca1","fromSide":"right","toNode":"dd73d2b901a3c848","toSide":"left"},
 		{"id":"5f126cc4ea6a3246","fromNode":"f0fd73cc670356ad","fromSide":"right","toNode":"1b1301967b852ce7","toSide":"left"},
 		{"id":"c6978d788cec2386","fromNode":"1b1301967b852ce7","fromSide":"right","toNode":"4b6e116d4b40a2d7","toSide":"left"},
-		{"id":"d8a8dd834f88cfac","fromNode":"c1e44fd41806a944","fromSide":"top","toNode":"030b97b7058ca503","toSide":"bottom"}
+		{"id":"d8a8dd834f88cfac","fromNode":"c1e44fd41806a944","fromSide":"top","toNode":"030b97b7058ca503","toSide":"bottom","label":"のもとで"},
+		{"id":"0f72e87aaff49b12","fromNode":"c1e44fd41806a944","fromSide":"bottom","toNode":"39cf4bac94a4022f","toSide":"top","label":"　～抜きで"}
 	]
 }

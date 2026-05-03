@@ -11,7 +11,8 @@
 		{"id":"c036c50aa959eedb","type":"text","text":"V辞書形＋までに\nN＋までに","x":677,"y":764,"width":250,"height":60},
 		{"id":"4ea072878a37ecca","type":"text","text":"～まで","x":-466,"y":551,"width":250,"height":60},
 		{"id":"c2f04b9863d475e4","type":"file","file":"Pasted image 20260412211727.png","x":1040,"y":-413,"width":400,"height":220},
-		{"id":"2817d5de1e2ddbe9","x":1240,"y":-800,"width":257,"height":119,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas"}
+		{"id":"2817d5de1e2ddbe9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas","x":1240,"y":-800,"width":257,"height":119},
+		{"id":"8a0fbd718745fa1c","x":23,"y":-427,"width":250,"height":60,"type":"text","text":"までして"}
 	],
 	"edges":[
 		{"id":"1fa3e24e5c6ca32a","fromNode":"6df31496b21a33f2","fromSide":"right","toNode":"8affc30cf60881e5","toSide":"left","label":"までだ"},
@@ -24,6 +25,7 @@
 		{"id":"0882180ba91f8e85","fromNode":"4ea072878a37ecca","fromSide":"bottom","toNode":"38d88fa563f66e59","toSide":"top"},
 		{"id":"02237e67a75fcd97","fromNode":"82504d3c67920f65","fromSide":"bottom","toNode":"828d6dd8d0d2019d","toSide":"top"},
 		{"id":"466788cb07adf633","fromNode":"82504d3c67920f65","fromSide":"bottom","toNode":"c036c50aa959eedb","toSide":"top"},
-		{"id":"48583a5eb6a3b38c","fromNode":"2817d5de1e2ddbe9","fromSide":"bottom","toNode":"c2f04b9863d475e4","toSide":"top","label":"Vばそれまでだ"}
+		{"id":"48583a5eb6a3b38c","fromNode":"2817d5de1e2ddbe9","fromSide":"bottom","toNode":"c2f04b9863d475e4","toSide":"top","label":"Vばそれまでだ"},
+		{"id":"8a878740baf163a5","fromNode":"eb4c8f49bd3c1f4f","fromSide":"top","toNode":"8a0fbd718745fa1c","toSide":"bottom","label":"までして"}
 	]
 }

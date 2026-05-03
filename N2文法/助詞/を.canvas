@@ -25,7 +25,8 @@
 		{"id":"84fecbb1c0b8a6b5","type":"text","text":"をはじめ","x":-975,"y":-1200,"width":250,"height":60},
 		{"id":"364cf841a94fc513","type":"text","text":"をはじめとして","x":-725,"y":-1466,"width":250,"height":60},
 		{"id":"368e17850bd8e645","type":"file","file":"N2文法/助詞/と.canvas","x":-40,"y":-1511,"width":209,"height":151},
-		{"id":"3bdcc2d535d262f1","type":"text","text":"を始める","x":-725,"y":-1800,"width":250,"height":60}
+		{"id":"3bdcc2d535d262f1","type":"text","text":"を始める","x":-725,"y":-1800,"width":250,"height":60},
+		{"id":"44f7df2535343e0a","x":-987,"y":-610,"width":250,"height":60,"type":"text","text":"を問（と）わず"}
 	],
 	"edges":[
 		{"id":"6ea83776af42dc19","fromNode":"a7de986e356de212","fromSide":"right","toNode":"6e956ea87c8edee4","toSide":"left"},
@@ -54,6 +55,7 @@
 		{"id":"c6d74dc9bb73d47e","fromNode":"84fecbb1c0b8a6b5","fromSide":"top","toNode":"364cf841a94fc513","toSide":"left","label":"をはじめとして"},
 		{"id":"d626d21f571c551d","fromNode":"3bdcc2d535d262f1","fromSide":"bottom","toNode":"364cf841a94fc513","toSide":"top","label":"をはじめとして"},
 		{"id":"d8905f3b964b3c2f","fromNode":"364cf841a94fc513","fromSide":"right","toNode":"368e17850bd8e645","toSide":"left","label":"をはじめとして"},
-		{"id":"e6c6e8e83f02c6a0","fromNode":"996a589cc04e69ee","fromSide":"top","toNode":"84fecbb1c0b8a6b5","toSide":"left","label":"をはじめ"}
+		{"id":"e6c6e8e83f02c6a0","fromNode":"996a589cc04e69ee","fromSide":"top","toNode":"84fecbb1c0b8a6b5","toSide":"left","label":"をはじめ"},
+		{"id":"5457d14a348997ca","fromNode":"996a589cc04e69ee","fromSide":"bottom","toNode":"44f7df2535343e0a","toSide":"top"}
 	]
 }

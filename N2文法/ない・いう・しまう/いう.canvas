@@ -19,12 +19,10 @@
 		{"id":"e7a00472a92ec4e7","type":"text","text":"夢を諦めるのは、残念というより悔しい。","x":-2996,"y":-841,"width":250,"height":60},
 		{"id":"fa9b8fa59b2720a0","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-1477,"y":0,"width":400,"height":400},
 		{"id":"49793be7f833ee81","type":"file","file":"Pasted image 20260410083325.png","x":243,"y":-1780,"width":400,"height":221},
-		{"id":"9fc7a360c94c1305","type":"file","file":"Pasted image 20260410082658.png","x":-774,"y":-1780,"width":399,"height":185},
 		{"id":"ef315a213c6a4f4d","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-234,"y":-980,"width":400,"height":400},
 		{"id":"f3b9ebeecc314360","type":"text","text":"**「強い絆」**の関係というのは、家族や恋人や親友、それに職場の仲間など、ほとんど毎日顔を合わせる人たちだ。","x":912,"y":-995,"width":480,"height":160},
 		{"id":"ca7c046779b7b687","type":"text","text":"Trình bày ý nghĩa, hay định nghĩa của A là B","x":1573,"y":-835,"width":250,"height":60},
 		{"id":"46d15da2831b4968","type":"text","text":"というものは","x":-1999,"y":-2441,"width":250,"height":60},
-		{"id":"b79ffad7af65227b","type":"text","text":"というものだ","x":-1527,"y":-2520,"width":250,"height":60},
 		{"id":"edacdc86c1803b74","type":"file","file":"Pasted image 20260410083552.png","x":-1450,"y":-2205,"width":512,"height":281},
 		{"id":"88811392c2a9db5a","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":-1717,"y":-915,"width":480,"height":100},
 		{"id":"12fdac0d037ebae1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":1614,"y":-1882,"width":250,"height":60},
@@ -32,8 +30,12 @@
 		{"id":"bb3bfe420b470a17","type":"text","text":"ということ","x":1027,"y":-1320,"width":250,"height":60},
 		{"id":"0f2f5aa6cbbc57a8","type":"text","text":"ということは","x":977,"y":-1746,"width":250,"height":60},
 		{"id":"3eefacd638d9cdf7","type":"file","file":"N2文法/こと・もの/こと.canvas","x":1756,"y":-1396,"width":217,"height":213},
-		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":2266,"y":-626,"width":346,"height":181},
-		{"id":"84e44de5361c4641","x":3020,"y":-626,"width":250,"height":60,"type":"text","text":"はというと"}
+		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":2266,"y":-626,"width":345,"height":181},
+		{"id":"84e44de5361c4641","type":"text","text":"はというと","x":3020,"y":-626,"width":250,"height":60},
+		{"id":"a85a14c8e540125d","type":"text","text":"～というか～というか","x":-1602,"y":-1303,"width":250,"height":60},
+		{"id":"e5718cf7437dfd87","x":-155,"y":-1998,"width":250,"height":60,"type":"text","text":"というものではない"},
+		{"id":"b79ffad7af65227b","type":"text","text":"というものだ","x":-740,"y":-2124,"width":250,"height":60},
+		{"id":"9fc7a360c94c1305","type":"file","file":"Pasted image 20260410082658.png","x":-740,"y":-1800,"width":399,"height":185}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -64,10 +66,13 @@
 		{"id":"e55742533b75a264","fromNode":"bb3bfe420b470a17","fromSide":"top","toNode":"698b475b19787db1","toSide":"bottom","label":"ということだ"},
 		{"id":"4ff94f63e854b3d7","fromNode":"698b475b19787db1","fromSide":"top","toNode":"12fdac0d037ebae1","toSide":"bottom"},
 		{"id":"0b0ff5e0eb4109c6","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"46d15da2831b4968","toSide":"bottom"},
-		{"id":"de83c548cd74b521","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom"},
+		{"id":"de83c548cd74b521","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"top"},
 		{"id":"27ab6ee97d4e04cb","fromNode":"56a821c3715444bd","fromSide":"top","toNode":"bb3bfe420b470a17","toSide":"left","label":"ということ"},
 		{"id":"448c4edc469a47e2","fromNode":"bb3bfe420b470a17","fromSide":"top","toNode":"0f2f5aa6cbbc57a8","toSide":"bottom"},
 		{"id":"27181155e228ff4b","fromNode":"bb3bfe420b470a17","fromSide":"right","toNode":"3eefacd638d9cdf7","toSide":"left"},
-		{"id":"5dbdceb8c162b90b","fromNode":"dd62ef111c276240","fromSide":"right","toNode":"84e44de5361c4641","toSide":"left","label":"はというと"}
+		{"id":"5dbdceb8c162b90b","fromNode":"dd62ef111c276240","fromSide":"right","toNode":"84e44de5361c4641","toSide":"left","label":"はというと"},
+		{"id":"8c5c9c90263fe87c","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"a85a14c8e540125d","toSide":"right","label":"～というか～というか"},
+		{"id":"d303b2e09a57b1dc","fromNode":"ef315a213c6a4f4d","fromSide":"top","toNode":"e5718cf7437dfd87","toSide":"bottom","label":"というものではない"},
+		{"id":"ae5af19c7ed5e10e","fromNode":"9fc7a360c94c1305","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom","label":"というものだ"}
 	]
 }

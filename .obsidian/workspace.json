@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+                "file": "N2文法/です・だ・である.canvas",
                 "viewState": {
-                  "x": -1504,
-                  "y": -2170,
-                  "zoom": 0
+                  "x": 259.86621538167833,
+                  "y": -151.8916138435349,
+                  "zoom": -1.1509565908447648
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vて"
+              "title": "です・だ・である"
             }
           },
           {
@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/復習/復習.canvas",
                 "viewState": {
-                  "x": 2732.314073729375,
-                  "y": -533.9277684521965,
-                  "zoom": 0.05064798199436227
+                  "x": -2039.5,
+                  "y": 1175,
+                  "zoom": -2.962357548620768
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "いう"
+              "title": "復習"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,17 +149,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/です・だ・である.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "以来",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for いう"
+              "title": "Backlinks for です・だ・である"
             }
           },
           {
@@ -223,20 +223,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3eefdcbe58303b",
+  "active": "3d6e51e9e9ea284e",
   "lastOpenFiles": [
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
-    "N2文法/あまり・だけ/だけ.canvas",
-    "N2文法/挙句・すえ/末.canvas",
-    "N2文法/あまり・だけ/あまり.canvas",
-    "N2文法/助詞/か.canvas",
-    "N2文法/ず.canvas",
-    "N2文法/助詞/と.canvas",
+    "N2文法/こと・もの/もの.canvas",
     "N2文法/助詞/に.canvas",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "N2文法/ない・いう・しまう/いう.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
+    "N2文法/助詞/まで.canvas",
+    "N2文法/助詞/は.canvas",
+    "N2文法/ばかり・はず・わけ/ばかり.canvas",
+    "N2文法/一方・上・限り・つもり・他/上.canvas",
+    "N2文法/助詞/で.canvas",
     "N2文法/復習/第２課.md",
-    "N2文法/復習/指示代名詞.canvas",
-    "N2文法/助詞/こそ.canvas",
-    "N2文法/助詞/から.canvas",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
     "Pasted image 20260427211642.png",

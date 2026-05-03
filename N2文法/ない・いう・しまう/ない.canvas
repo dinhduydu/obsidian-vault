@@ -63,15 +63,17 @@
 		{"id":"97602be346709a88","type":"file","file":"Pasted image 20260412131700.png","x":6162,"y":-643,"width":399,"height":232},
 		{"id":"f70c38322951428b","type":"file","file":"N2文法/助詞/も.canvas","x":4000,"y":-860,"width":400,"height":400},
 		{"id":"1af4ddff49455300","type":"text","text":"もしない","x":4991,"y":-866,"width":250,"height":60},
-		{"id":"d739cbd332fbd8a4","type":"text","text":"ずに（は）いられない","x":-2752,"y":-3311,"width":250,"height":60},
 		{"id":"8fa9e9a1630b039f","type":"text","text":"必ずしも～ない","x":-585,"y":2530,"width":250,"height":60},
 		{"id":"a045a308be99cce2","type":"text","text":"あまり～ない","x":-558,"y":2359,"width":250,"height":60},
 		{"id":"6da4d30e712bf464","type":"text","text":"～ほど～はない","x":-620,"y":2080,"width":250,"height":60},
 		{"id":"a04be1c2578bcb5d","type":"text","text":"～なきゃ","x":-2870,"y":2100,"width":250,"height":60},
-		{"id":"24f5c819698ff145","type":"file","file":"Pasted image 20260412205605.png","x":-3640,"y":-3256,"width":570,"height":312},
 		{"id":"09e8582847c7a25f","type":"text","text":"ないものか","x":3676,"y":72,"width":250,"height":60},
-		{"id":"0050c2255511ce73","x":-3457,"y":-2432,"width":250,"height":60,"type":"text","text":"ずに"},
-		{"id":"cbf1c27c288a2c19","x":-4254,"y":-2634,"width":250,"height":60,"type":"text","text":"～もかまわず"}
+		{"id":"4d2fbd6db0da6a50","type":"text","text":"ないで","x":-3063,"y":-2525,"width":250,"height":60},
+		{"id":"87d6ae6f363423a4","type":"text","text":"ないではいられない","x":-3793,"y":-2525,"width":340,"height":60},
+		{"id":"d739cbd332fbd8a4","type":"text","text":"ずに（は）いられない","x":-2928,"y":-2969,"width":250,"height":60},
+		{"id":"24f5c819698ff145","type":"file","file":"Pasted image 20260412205605.png","x":-3856,"y":-3100,"width":570,"height":312},
+		{"id":"0050c2255511ce73","type":"text","text":"ずに","x":-2565,"y":-3382,"width":250,"height":60},
+		{"id":"cbf1c27c288a2c19","type":"text","text":"～もかまわず","x":-3108,"y":-3510,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"470e923f9a22780c","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"2e077217c00393bb","toSide":"right"},
@@ -92,7 +94,7 @@
 		{"id":"c0cca71c2f5dccc7","fromNode":"b393ef6811102d8f","fromSide":"left","toNode":"ccdf01afd8fdac42","toSide":"right"},
 		{"id":"109a78d12c62010a","fromNode":"544bfc57eec04aad","fromSide":"left","toNode":"989d723dda9efae3","toSide":"right","label":"にほかならない"},
 		{"id":"3151e15fd7ed2035","fromNode":"2899c22d54e7b7d6","fromSide":"bottom","toNode":"691725352da1ec3c","toSide":"top","label":"ではない"},
-		{"id":"56a6ecef084294fd","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"24f5c819698ff145","toSide":"right","label":"ないでいる"},
+		{"id":"56a6ecef084294fd","fromNode":"4d2fbd6db0da6a50","fromSide":"top","toNode":"24f5c819698ff145","toSide":"right","label":"ないでいる"},
 		{"id":"fdbd2cd2b138f288","fromNode":"989d723dda9efae3","fromSide":"left","toNode":"f16cd34a64733af4","toSide":"right"},
 		{"id":"9469434256c88369","fromNode":"61b5fcb6bd59dfa3","fromSide":"right","toNode":"f16cd34a64733af4","toSide":"left"},
 		{"id":"652b20818db00fad","fromNode":"2899c22d54e7b7d6","fromSide":"bottom","toNode":"e2faf178c3030f22","toSide":"left","label":"まい"},
@@ -101,7 +103,7 @@
 		{"id":"d5c10837cd1b8c9c","fromNode":"818841e24749f733","fromSide":"bottom","toNode":"0b49f3de6c5207d6","toSide":"left","label":"ことはない"},
 		{"id":"c48e6dba9b5d0404","fromNode":"0b49f3de6c5207d6","fromSide":"right","toNode":"25e9d7f4a3916feb","toSide":"left"},
 		{"id":"8d509bafce4ff4f7","fromNode":"2899c22d54e7b7d6","fromSide":"top","toNode":"54ae252ea5df8b0a","toSide":"bottom"},
-		{"id":"9b34a1bdac394e61","fromNode":"54ae252ea5df8b0a","fromSide":"left","toNode":"21e998dc5f249ce9","toSide":"right"},
+		{"id":"9b34a1bdac394e61","fromNode":"54ae252ea5df8b0a","fromSide":"left","toNode":"21e998dc5f249ce9","toSide":"right","label":"ずに・ないで"},
 		{"id":"90585f51bf11a00a","fromNode":"54ae252ea5df8b0a","fromSide":"top","toNode":"06332b9c298b3328","toSide":"bottom","label":"をかかわらず"},
 		{"id":"df580c8595f73a0e","fromNode":"2899c22d54e7b7d6","fromSide":"top","toNode":"544bfc57eec04aad","toSide":"right","label":"ならない"},
 		{"id":"95d9cf946c48aeea","fromNode":"544bfc57eec04aad","fromSide":"left","toNode":"0c870ab114b2bbef","toSide":"right","label":"なければならない"},
@@ -146,11 +148,13 @@
 		{"id":"6248e3fd63eec826","fromNode":"d1dc9f8c3b8ab17c","fromSide":"top","toNode":"6fa6233c64c71627","toSide":"right","label":"にかかわらず"},
 		{"id":"7e866d4fe2f8af63","fromNode":"be259ae07e85db7c","fromSide":"top","toNode":"f70c38322951428b","toSide":"left","label":"もしない"},
 		{"id":"3aaf272fefe43054","fromNode":"f70c38322951428b","fromSide":"right","toNode":"1af4ddff49455300","toSide":"left","label":"もしない"},
-		{"id":"25918b1670687391","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"d739cbd332fbd8a4","toSide":"right"},
-		{"id":"f30ba110e1cdaf91","fromNode":"d739cbd332fbd8a4","fromSide":"left","toNode":"24f5c819698ff145","toSide":"right","label":"ずにおく"},
+		{"id":"f30ba110e1cdaf91","fromNode":"d739cbd332fbd8a4","fromSide":"left","toNode":"24f5c819698ff145","toSide":"right","label":"ずにおく・\n\nずに（は）いられない"},
 		{"id":"a7ed286655fa2680","fromNode":"d739cbd332fbd8a4","fromSide":"top","toNode":"24f5c819698ff145","toSide":"top","label":"ずにいる"},
 		{"id":"c0b80c9a29c4179e","fromNode":"be259ae07e85db7c","fromSide":"bottom","toNode":"09e8582847c7a25f","toSide":"top"},
-		{"id":"01e58c4749216b32","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"0050c2255511ce73","toSide":"right"},
-		{"id":"367affb861b276fd","fromNode":"0050c2255511ce73","fromSide":"left","toNode":"cbf1c27c288a2c19","toSide":"right"}
+		{"id":"01e58c4749216b32","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"0050c2255511ce73","toSide":"right","label":"ずに"},
+		{"id":"367affb861b276fd","fromNode":"0050c2255511ce73","fromSide":"left","toNode":"cbf1c27c288a2c19","toSide":"right","label":"もかまわず"},
+		{"id":"ae1d40df1df1b66c","fromNode":"21e998dc5f249ce9","fromSide":"left","toNode":"4d2fbd6db0da6a50","toSide":"right","label":"ないで"},
+		{"id":"01e265a82e14b8d9","fromNode":"4d2fbd6db0da6a50","fromSide":"left","toNode":"87d6ae6f363423a4","toSide":"right","label":"ないではいられない"},
+		{"id":"91a783a22e086cd4","fromNode":"0050c2255511ce73","fromSide":"bottom","toNode":"d739cbd332fbd8a4","toSide":"right"}
 	]
 }

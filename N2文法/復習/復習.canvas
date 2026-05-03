@@ -40,7 +40,7 @@
 		{"id":"d9d08579b3591daa","type":"text","text":"げ","x":-6524,"y":756,"width":250,"height":60},
 		{"id":"239136257675b27d","type":"text","text":"やら～やら","x":-6004,"y":762,"width":250,"height":60},
 		{"id":"84306e793f45ef53","type":"text","text":"っぽい","x":-5958,"y":503,"width":250,"height":60},
-		{"id":"913dd3b8709d44de","x":-5553,"y":164,"width":250,"height":60,"type":"text","text":"きれる"}
+		{"id":"913dd3b8709d44de","type":"text","text":"きれる","x":-5553,"y":164,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cfb85c7eb2f5dd81","fromNode":"86172589f06322b3","fromSide":"left","toNode":"44ecd3e4a910c404","toSide":"right"},

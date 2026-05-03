@@ -22,12 +22,12 @@
 		{"id":"f34a648e562f6d61","type":"text","text":"Aなだ：だー＞な＋わけだ\nNだ：だー＞な＋わけだ","x":2144,"y":-843,"width":250,"height":60},
 		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":260,"y":-656,"width":400,"height":105},
 		{"id":"c862ba48b004a4b2","type":"text","text":"わけではない","x":925,"y":-633,"width":250,"height":60},
-		{"id":"02d0567c128a8654","x":-1557,"y":23,"width":250,"height":60,"type":"text","text":"～わけがない"},
-		{"id":"757119c7e41a8eb5","x":-1949,"y":-112,"width":250,"height":60,"type":"text","text":"Phủ định mạnh mẽ"},
-		{"id":"d16a5b67ab11d5a6","x":-2349,"y":-181,"width":250,"height":60,"type":"text","text":"Vì tin chắc tuyệt đối không A"},
-		{"id":"c09291255c861796","x":-2333,"y":-4,"width":250,"height":60,"type":"text","text":"Diễn đạt mang tính chủ quan"},
-		{"id":"007327540e7073d1","x":-2013,"y":287,"width":250,"height":60,"type":"text","text":"～ないわけがない"},
-		{"id":"6199719baedc5a72","x":-2460,"y":176,"width":250,"height":60,"type":"text","text":"Nhất định là A"}
+		{"id":"02d0567c128a8654","type":"text","text":"～わけがない","x":-1557,"y":23,"width":250,"height":60},
+		{"id":"757119c7e41a8eb5","type":"text","text":"Phủ định mạnh mẽ","x":-1949,"y":-112,"width":250,"height":60},
+		{"id":"d16a5b67ab11d5a6","type":"text","text":"Vì tin chắc tuyệt đối không A","x":-2349,"y":-181,"width":250,"height":60},
+		{"id":"c09291255c861796","type":"text","text":"Diễn đạt mang tính chủ quan","x":-2333,"y":-4,"width":250,"height":60},
+		{"id":"007327540e7073d1","type":"text","text":"～ないわけがない","x":-2013,"y":287,"width":250,"height":60},
+		{"id":"6199719baedc5a72","type":"text","text":"Nhất định là A","x":-2460,"y":176,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},

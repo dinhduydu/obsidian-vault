@@ -1,11 +1,7 @@
 {
 	"nodes":[
 		{"id":"909d7624f6d27cd2","type":"text","text":"　N限り","x":-222,"y":-31,"width":250,"height":60},
-		{"id":"912f47ff43caae15","type":"text","text":"と・は・たら","x":-348,"y":241,"width":250,"height":60},
-		{"id":"e7a318f3813670e5","type":"file","file":"Pasted image 20260410075823.png","x":240,"y":-576,"width":400,"height":105},
-		{"id":"248a86a10b48c2aa","type":"text","text":"とはかぎらない","x":740,"y":-553,"width":250,"height":60},
 		{"id":"ec08b15b6d7a7c64","type":"file","file":"Pasted image 20260410084134.png","x":540,"y":-259,"width":400,"height":221},
-		{"id":"23f8acadf3c87359","type":"text","text":"に限る","x":-812,"y":-417,"width":250,"height":60},
 		{"id":"a6d1e078d94158b5","type":"file","file":"Pasted image 20260410084235.png","x":-748,"y":-295,"width":400,"height":216},
 		{"id":"627bcb9c512d131d","type":"file","file":"Pasted image 20260410084301.png","x":-1212,"y":-840,"width":400,"height":234},
 		{"id":"71ca91179a7b8d1a","type":"text","text":"Vる","x":-1660,"y":-900,"width":250,"height":60},
@@ -13,18 +9,23 @@
 		{"id":"641c49fd28fcc4d5","type":"text","text":"Aい・Aな","x":-1660,"y":-609,"width":250,"height":60},
 		{"id":"3ad93de7afe93a89","type":"text","text":"N","x":-1660,"y":-718,"width":250,"height":60},
 		{"id":"9e23f5eb98cb9037","type":"file","file":"Pasted image 20260410084342.png","x":540,"y":40,"width":501,"height":263},
-		{"id":"19d4f250d9ab6f19","type":"text","text":"N限りで","x":240,"y":420,"width":250,"height":60},
-		{"id":"5894401719a10961","type":"text","text":"N限りでは","x":28,"y":700,"width":250,"height":60},
-		{"id":"81d815fbba0382e1","x":-1117,"y":122,"width":250,"height":60,"type":"text","text":"ない限り"},
+		{"id":"81d815fbba0382e1","type":"text","text":"ない限り","x":-1117,"y":122,"width":250,"height":60},
 		{"id":"8449df198fb53a32","type":"text","text":"câu điều kiện","x":-1640,"y":211,"width":250,"height":60},
 		{"id":"4b3b632900e75d57","type":"text","text":"Nに限って","x":1200,"y":10,"width":250,"height":60},
 		{"id":"d00775cafeba40c8","type":"text","text":"Nに限らず","x":1200,"y":-319,"width":250,"height":60},
-		{"id":"86d4fa5b3fcfe7d6","x":1780,"y":-28,"width":232,"height":136,"type":"file","file":"N2文法/助詞/に.canvas"}
+		{"id":"86d4fa5b3fcfe7d6","type":"file","file":"N2文法/助詞/に.canvas","x":1780,"y":-28,"width":232,"height":136},
+		{"id":"912f47ff43caae15","type":"text","text":"と・は・たら","x":-798,"y":360,"width":250,"height":60},
+		{"id":"4c315e770b4c142f","type":"text","text":"限りは","x":-603,"y":706,"width":250,"height":60},
+		{"id":"5894401719a10961","type":"text","text":"N限りでは","x":690,"y":676,"width":250,"height":60},
+		{"id":"19d4f250d9ab6f19","type":"text","text":"N限りで","x":140,"y":676,"width":250,"height":60},
+		{"id":"e7a318f3813670e5","type":"file","file":"Pasted image 20260410075823.png","x":1380,"y":360,"width":400,"height":105},
+		{"id":"248a86a10b48c2aa","type":"text","text":"とはかぎらない","x":1880,"y":383,"width":250,"height":60},
+		{"id":"23f8acadf3c87359","type":"text","text":"に限る","x":-873,"y":-460,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"ee7bacf0a344e1e3","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"5894401719a10961","toSide":"left","label":"N限りでは"},
+		{"id":"ee7bacf0a344e1e3","fromNode":"19d4f250d9ab6f19","fromSide":"right","toNode":"5894401719a10961","toSide":"left","label":"N限りでは"},
 		{"id":"78ec62d911f5094e","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"912f47ff43caae15","toSide":"top","label":"間違い"},
-		{"id":"228cd93543b05672","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"e7a318f3813670e5","toSide":"left","label":"とはかぎらない"},
+		{"id":"228cd93543b05672","fromNode":"9e23f5eb98cb9037","fromSide":"right","toNode":"e7a318f3813670e5","toSide":"left","label":"とはかぎらない"},
 		{"id":"b9b881ab1c0105ad","fromNode":"e7a318f3813670e5","fromSide":"right","toNode":"248a86a10b48c2aa","toSide":"left"},
 		{"id":"f8f2571d19403c15","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"d00775cafeba40c8","toSide":"left"},
 		{"id":"73e9e3ff257a0190","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"4b3b632900e75d57","toSide":"left"},
@@ -40,6 +41,7 @@
 		{"id":"85851e682086383e","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"9e23f5eb98cb9037","toSide":"left","label":"限らない"},
 		{"id":"ca3bdc8ac759ea7f","fromNode":"909d7624f6d27cd2","fromSide":"left","toNode":"81d815fbba0382e1","toSide":"right","label":"ない限り"},
 		{"id":"9eb6bdccb71a3919","fromNode":"81d815fbba0382e1","fromSide":"left","toNode":"8449df198fb53a32","toSide":"right","label":"ない限り"},
-		{"id":"30e07401b4e499b5","fromNode":"4b3b632900e75d57","fromSide":"right","toNode":"86d4fa5b3fcfe7d6","toSide":"left"}
+		{"id":"30e07401b4e499b5","fromNode":"4b3b632900e75d57","fromSide":"right","toNode":"86d4fa5b3fcfe7d6","toSide":"left"},
+		{"id":"695fe9db32406861","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"4c315e770b4c142f","toSide":"top","label":"限りは"}
 	]
 }

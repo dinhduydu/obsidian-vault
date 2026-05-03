@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0d1fde4bbb8cbaac","type":"text","text":"ほか","x":-114,"y":-7,"width":250,"height":60},
-		{"id":"79be9e9ebf8ec736","x":-740,"y":-86,"width":400,"height":219,"type":"file","file":"Pasted image 20260412210605.png"}
+		{"id":"79be9e9ebf8ec736","type":"file","file":"Pasted image 20260412210605.png","x":-740,"y":-86,"width":400,"height":219}
 	],
 	"edges":[
 		{"id":"c1f45aa075618a28","fromNode":"0d1fde4bbb8cbaac","fromSide":"left","toNode":"79be9e9ebf8ec736","toSide":"right"}
