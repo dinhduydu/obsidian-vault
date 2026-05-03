@@ -15,8 +15,8 @@
 		{"id":"a2c2962e5f772c57","type":"text","text":"Vば～ほど～","x":500,"y":260,"width":250,"height":60},
 		{"id":"715a46f3a0436872","type":"text","text":"～Vば～のに","x":1006,"y":-259,"width":250,"height":60},
 		{"id":"2052c18b787ed256","type":"text","text":"もしかしたら～かもしれない","x":1510,"y":-886,"width":270,"height":60},
-		{"id":"30e415271ed7973c","x":204,"y":617,"width":250,"height":60,"type":"text","text":"Vばそれまでだ"},
-		{"id":"706f5c03ff9aab2a","x":240,"y":900,"width":318,"height":147,"type":"file","file":"N2文法/助詞/まで.canvas"}
+		{"id":"30e415271ed7973c","type":"text","text":"Vばそれまでだ","x":204,"y":617,"width":250,"height":60},
+		{"id":"706f5c03ff9aab2a","type":"file","file":"N2文法/助詞/まで.canvas","x":240,"y":900,"width":318,"height":147}
 	],
 	"edges":[
 		{"id":"4d10b4a29240c25e","fromNode":"65ac7a25c9caadc9","fromSide":"left","toNode":"fb89ed896538639d","toSide":"right","label":"Vばそれまでだ"},

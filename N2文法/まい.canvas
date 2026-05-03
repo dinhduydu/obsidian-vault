@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"9ce084ebdc0f29c9","x":-69,"y":-8,"width":250,"height":60,"type":"text","text":"まい"}
+	],
+	"edges":[]
+}

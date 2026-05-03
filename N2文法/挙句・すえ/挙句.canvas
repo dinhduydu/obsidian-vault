@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ae6af94dcefcc7ed","x":-83,"y":-1126,"width":400,"height":400,"type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas"},
+		{"id":"ae6af94dcefcc7ed","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":-83,"y":-1126,"width":400,"height":400},
 		{"id":"151785fb68cb03a9","type":"text","text":"あげく(-)","x":-119,"y":7,"width":250,"height":60},
 		{"id":"7bd5f2b90b26bea0","type":"text","text":"あげくに","x":235,"y":7,"width":250,"height":55},
 		{"id":"ecb2c98fbe92cb8f","type":"file","file":"N2文法/挙句・すえ/末.canvas","x":630,"y":-166,"width":400,"height":400},

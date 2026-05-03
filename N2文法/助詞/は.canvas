@@ -6,10 +6,14 @@
 		{"id":"65519663e9456459","type":"text","text":"Used when elaborating on things already known to the listener","x":85,"y":186,"width":250,"height":94},
 		{"id":"9c00fc0da9f7b6c2","type":"text","text":"は","x":-761,"y":-295,"width":250,"height":60},
 		{"id":"f59105ac46fe9e1c","type":"text","text":"～のは～だ","x":-900,"y":-640,"width":250,"height":60},
-		{"id":"b440637b9337d8fe","type":"text","text":"～もちろん","x":-1549,"y":-266,"width":250,"height":60},
-		{"id":"040691f79c04276f","x":-472,"y":-723,"width":250,"height":60,"type":"text","text":"Dùng khi nêu việc muốn lấy làm chủ đề ở A"},
-		{"id":"24b2a552349a3fb8","x":-124,"y":-758,"width":250,"height":60,"type":"text","text":"Và nói điều muốn nhấn mạnh trong chủ đề đó ở B"},
-		{"id":"820fb194c8b84354","x":340,"y":-818,"width":250,"height":60,"type":"text","text":"旅行に行くのは来週だ。"}
+		{"id":"040691f79c04276f","type":"text","text":"Dùng khi nêu việc muốn lấy làm chủ đề ở A","x":-472,"y":-723,"width":250,"height":60},
+		{"id":"24b2a552349a3fb8","type":"text","text":"Và nói điều muốn nhấn mạnh trong chủ đề đó ở B","x":-124,"y":-758,"width":250,"height":60},
+		{"id":"820fb194c8b84354","type":"text","text":"旅行に行くのは来週だ。","x":340,"y":-818,"width":250,"height":60},
+		{"id":"659d76c6e8e8d5b7","type":"text","text":"「N2」は","x":-1530,"y":71,"width":250,"height":60},
+		{"id":"3a70ede285ec1f3d","type":"text","text":"はさておき","x":-1886,"y":408,"width":250,"height":60},
+		{"id":"4a9f64b90e1ed0d2","x":-1406,"y":413,"width":250,"height":60,"type":"text","text":"はともかく"},
+		{"id":"c13e7550aa748072","x":-1442,"y":-468,"width":250,"height":60,"type":"text","text":"「N3」は"},
+		{"id":"b440637b9337d8fe","type":"text","text":"～もちろん","x":-2000,"y":-468,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c3cea95d1e7b3c04","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"a2825e8c0449f958","toSide":"left"},
@@ -17,9 +21,13 @@
 		{"id":"4e34a62bd438268c","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"65519663e9456459","toSide":"left"},
 		{"id":"9e3334f041dc4a6d","fromNode":"9c00fc0da9f7b6c2","fromSide":"right","toNode":"f39b7c3d1307dcf6","toSide":"top"},
 		{"id":"ec6542e01663836c","fromNode":"f59105ac46fe9e1c","fromSide":"bottom","toNode":"9c00fc0da9f7b6c2","toSide":"top"},
-		{"id":"b6a00262ef5c6b44","fromNode":"9c00fc0da9f7b6c2","fromSide":"left","toNode":"b440637b9337d8fe","toSide":"right"},
+		{"id":"b6a00262ef5c6b44","fromNode":"c13e7550aa748072","fromSide":"left","toNode":"b440637b9337d8fe","toSide":"right","label":"～もちろん"},
 		{"id":"8e2d1affac030958","fromNode":"f59105ac46fe9e1c","fromSide":"right","toNode":"040691f79c04276f","toSide":"left"},
 		{"id":"255ef8db63a6bca5","fromNode":"040691f79c04276f","fromSide":"right","toNode":"24b2a552349a3fb8","toSide":"left"},
-		{"id":"56f78b3b5e24ecff","fromNode":"24b2a552349a3fb8","fromSide":"right","toNode":"820fb194c8b84354","toSide":"left"}
+		{"id":"56f78b3b5e24ecff","fromNode":"24b2a552349a3fb8","fromSide":"right","toNode":"820fb194c8b84354","toSide":"left"},
+		{"id":"eb50ea1fe80ae4e7","fromNode":"9c00fc0da9f7b6c2","fromSide":"bottom","toNode":"659d76c6e8e8d5b7","toSide":"top","label":"「N2」は"},
+		{"id":"c86905b299a119cd","fromNode":"659d76c6e8e8d5b7","fromSide":"bottom","toNode":"3a70ede285ec1f3d","toSide":"top","label":"はさておき"},
+		{"id":"8e93f3605be835b9","fromNode":"659d76c6e8e8d5b7","fromSide":"bottom","toNode":"4a9f64b90e1ed0d2","toSide":"top","label":"はともかく"},
+		{"id":"13d2062ef0424728","fromNode":"9c00fc0da9f7b6c2","fromSide":"left","toNode":"c13e7550aa748072","toSide":"right"}
 	]
 }

@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"1889f1eee2f61630","type":"text","text":"か","x":-155,"y":-62,"width":250,"height":60},
-		{"id":"31a466ac4fa8bdb7","type":"text","text":"じゃないか","x":-646,"y":-495,"width":250,"height":60},
 		{"id":"e71302f04e4d7902","type":"file","file":"Pasted image 20260412212617.png","x":280,"y":-80,"width":400,"height":97},
 		{"id":"91e2c39325ede92d","type":"file","file":"Pasted image 20260412212824.png","x":920,"y":-132,"width":399,"height":202},
 		{"id":"3f0dd434c5d0e3f5","type":"text","text":"AかBかで","x":-1000,"y":320,"width":250,"height":60},
@@ -9,10 +8,7 @@
 		{"id":"bbbef9df4cbf138d","type":"text","text":"～かどうか","x":-468,"y":417,"width":250,"height":86},
 		{"id":"d9e13a7429d84a08","type":"text","text":"行くかどうか分からない\n→ Không biết có đi hay không","x":-816,"y":686,"width":250,"height":74},
 		{"id":"33f3d97ee357dfab","type":"text","text":"cái này chỉ là _“có hay không”_, không phải so sánh 2 góc nhìn","x":-1216,"y":789,"width":276,"height":111},
-		{"id":"7b2c6898370e3f09","type":"text","text":"なんか・なて","x":380,"y":-240,"width":250,"height":60},
 		{"id":"027d1094a420e132","type":"text","text":"ものか　（もんか）","x":-155,"y":-660,"width":250,"height":60},
-		{"id":"720c2b024a4f1715","type":"text","text":"ではないか","x":-750,"y":-270,"width":250,"height":60},
-		{"id":"ef5e19fac202ce57","type":"text","text":"どころか","x":-771,"y":-62,"width":250,"height":60},
 		{"id":"17d353c2b894a82e","type":"text","text":"Diễn đạt ý nghĩa: Có phải A hay không","x":-86,"y":352,"width":250,"height":60},
 		{"id":"eb81bae3f47d83cc","type":"text","text":"Kết hợp với các V","x":-68,"y":511,"width":250,"height":60},
 		{"id":"1907b82999f0e0a9","type":"text","text":"わかる","x":360,"y":423,"width":250,"height":60},
@@ -23,9 +19,22 @@
 		{"id":"aaebab5f46bccd4a","type":"text","text":"相談する","x":354,"y":132,"width":250,"height":60},
 		{"id":"78e3890a45fea12c","type":"text","text":"心配する","x":383,"y":331,"width":250,"height":60},
 		{"id":"c69f031221ef686a","type":"text","text":"～のでしょうか","x":1036,"y":238,"width":250,"height":60},
-		{"id":"205b28fdf6326c2d","x":685,"y":-614,"width":250,"height":60,"type":"text","text":"～なんか"},
-		{"id":"7c1e695830a518a1","x":369,"y":-823,"width":250,"height":60,"type":"text","text":"Thể hiện sự coi nhẹ, hạ thấp"},
-		{"id":"b80e23b8bfeff698","x":967,"y":-816,"width":250,"height":60,"type":"text","text":"Thể hiện sự bất ngờ, kinh ngạc"}
+		{"id":"377411b2ffabb1dd","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-153,"y":-959,"width":248,"height":166},
+		{"id":"c5ee0d69bf748eb2","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":-487,"y":-756,"width":91,"height":50},
+		{"id":"f47d101a8f5eecb8","type":"text","text":"ばかりか","x":-940,"y":-1020,"width":250,"height":60},
+		{"id":"c6eeeedb760288b0","type":"text","text":"ないものか","x":289,"y":-1132,"width":250,"height":60},
+		{"id":"6ae008f9c56dc12e","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":300,"y":-1420,"width":227,"height":167},
+		{"id":"31a466ac4fa8bdb7","type":"text","text":"じゃないか","x":-1795,"y":-513,"width":250,"height":60},
+		{"id":"720c2b024a4f1715","type":"text","text":"ではないか","x":-1899,"y":-288,"width":250,"height":60},
+		{"id":"ef5e19fac202ce57","type":"text","text":"どころか","x":-1920,"y":-80,"width":250,"height":60},
+		{"id":"205b28fdf6326c2d","type":"text","text":"～なんか","x":719,"y":-756,"width":250,"height":60},
+		{"id":"7c1e695830a518a1","type":"text","text":"Thể hiện sự coi nhẹ, hạ thấp","x":403,"y":-965,"width":250,"height":60},
+		{"id":"7b2c6898370e3f09","type":"text","text":"なんか・なて","x":414,"y":-382,"width":250,"height":60},
+		{"id":"b80e23b8bfeff698","type":"text","text":"Thể hiện sự bất ngờ, kinh ngạc","x":1036,"y":-965,"width":250,"height":60},
+		{"id":"40b418e338d373b6","type":"text","text":"「N2」か","x":1420,"y":-382,"width":250,"height":60},
+		{"id":"61fde44d15b67c1f","type":"text","text":"かとおもうと","x":1940,"y":-540,"width":250,"height":60},
+		{"id":"97281c2cfb2ecc3e","type":"text","text":"かのように","x":1960,"y":-279,"width":250,"height":60},
+		{"id":"d6901a3a284f9c54","x":2580,"y":-322,"width":167,"height":147,"type":"file","file":"N2文法/そう・よう/よう.canvas"}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top","label":"ものか　（もんか）"},
@@ -50,9 +59,18 @@
 		{"id":"eedffd67e6158bfc","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"4c961e68b8873b2f","toSide":"left"},
 		{"id":"34704eb8ded2399c","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"aaebab5f46bccd4a","toSide":"left"},
 		{"id":"187fec6da9631a29","fromNode":"eb81bae3f47d83cc","fromSide":"right","toNode":"78e3890a45fea12c","toSide":"left"},
-		{"id":"5a954bd0ad12806e","fromNode":"1889f1eee2f61630","fromSide":"bottom","toNode":"c69f031221ef686a","toSide":"top"},
+		{"id":"5a954bd0ad12806e","fromNode":"1889f1eee2f61630","fromSide":"bottom","toNode":"c69f031221ef686a","toSide":"top","label":"～のでしょうか"},
 		{"id":"8bacd87889842068","fromNode":"7b2c6898370e3f09","fromSide":"top","toNode":"205b28fdf6326c2d","toSide":"bottom"},
 		{"id":"cea61067b3e40222","fromNode":"205b28fdf6326c2d","fromSide":"top","toNode":"7c1e695830a518a1","toSide":"bottom"},
-		{"id":"b712b8da40482020","fromNode":"205b28fdf6326c2d","fromSide":"top","toNode":"b80e23b8bfeff698","toSide":"bottom"}
+		{"id":"b712b8da40482020","fromNode":"205b28fdf6326c2d","fromSide":"top","toNode":"b80e23b8bfeff698","toSide":"bottom"},
+		{"id":"48ca8fca88f843bf","fromNode":"027d1094a420e132","fromSide":"top","toNode":"377411b2ffabb1dd","toSide":"bottom"},
+		{"id":"05bdf91ab547d58d","fromNode":"1889f1eee2f61630","fromSide":"top","toNode":"c5ee0d69bf748eb2","toSide":"bottom","label":"ばかりか"},
+		{"id":"64f8671570e58929","fromNode":"c5ee0d69bf748eb2","fromSide":"top","toNode":"f47d101a8f5eecb8","toSide":"bottom"},
+		{"id":"dc224e851c79f67d","fromNode":"027d1094a420e132","fromSide":"right","toNode":"c6eeeedb760288b0","toSide":"left","label":"ないものか"},
+		{"id":"4626b80d72575e51","fromNode":"c6eeeedb760288b0","fromSide":"top","toNode":"6ae008f9c56dc12e","toSide":"bottom"},
+		{"id":"ae4f44e2cd75767c","fromNode":"1889f1eee2f61630","fromSide":"top","toNode":"40b418e338d373b6","toSide":"left","label":"「N2」か"},
+		{"id":"c6f174c3d8d38b20","fromNode":"40b418e338d373b6","fromSide":"right","toNode":"61fde44d15b67c1f","toSide":"left","label":"かとおもうと"},
+		{"id":"e61ae5e823ea64fe","fromNode":"40b418e338d373b6","fromSide":"right","toNode":"97281c2cfb2ecc3e","toSide":"left","label":"かのように"},
+		{"id":"4c51fbb41ed60c23","fromNode":"97281c2cfb2ecc3e","fromSide":"right","toNode":"d6901a3a284f9c54","toSide":"left","label":"かのように"}
 	]
 }

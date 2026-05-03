@@ -15,7 +15,9 @@
 		{"id":"0d47fa872039dd79","type":"text","text":"Dùng khi muốn nói có khả năng xảy ra chuyện không hay","x":-3451,"y":-57,"width":250,"height":77},
 		{"id":"1ca2b65a13b51cdb","type":"text","text":"Có nguy cơ, mối lo","x":-3485,"y":85,"width":250,"height":60},
 		{"id":"0f91b2ea2941c637","type":"text","text":"V辞書形＋おそれがある\nVない＋おそれがある","x":-3108,"y":-100,"width":250,"height":93},
-		{"id":"f541101003d2bb06","x":-3077,"y":32,"width":250,"height":60,"type":"text","text":"Nのおそれがある"}
+		{"id":"f541101003d2bb06","type":"text","text":"Nのおそれがある","x":-3077,"y":32,"width":250,"height":60},
+		{"id":"ead5bb2d377da342","x":-1903,"y":-178,"width":250,"height":60,"type":"text","text":"「N2」が"},
+		{"id":"19f52313b63e6c6e","x":-1885,"y":63,"width":250,"height":60,"type":"text","text":"～かい（が）あって"}
 	],
 	"edges":[
 		{"id":"d250cfb6fa1ba711","fromNode":"d644954ec95b2dd5","fromSide":"right","toNode":"da3a229a4185428f","toSide":"left"},
@@ -32,6 +34,8 @@
 		{"id":"c9de0528cbdb83d7","fromNode":"de7dbca26ee04239","fromSide":"bottom","toNode":"0d47fa872039dd79","toSide":"top"},
 		{"id":"c4125f870812f270","fromNode":"0d47fa872039dd79","fromSide":"bottom","toNode":"1ca2b65a13b51cdb","toSide":"top"},
 		{"id":"a01f3337786cb15f","fromNode":"0d47fa872039dd79","fromSide":"right","toNode":"0f91b2ea2941c637","toSide":"left"},
-		{"id":"814fa28ad39d6e2c","fromNode":"0d47fa872039dd79","fromSide":"right","toNode":"f541101003d2bb06","toSide":"left"}
+		{"id":"814fa28ad39d6e2c","fromNode":"0d47fa872039dd79","fromSide":"right","toNode":"f541101003d2bb06","toSide":"left"},
+		{"id":"57f4072872a882b8","fromNode":"48892c9979d9acf7","fromSide":"bottom","toNode":"ead5bb2d377da342","toSide":"top"},
+		{"id":"02b6d4051eeb4791","fromNode":"ead5bb2d377da342","fromSide":"bottom","toNode":"19f52313b63e6c6e","toSide":"top"}
 	]
 }

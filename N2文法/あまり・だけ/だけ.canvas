@@ -6,7 +6,6 @@
 		{"id":"a2d268a4195a944a","type":"file","file":"Pasted image 20260409080213.png","x":-160,"y":-800,"width":399,"height":214},
 		{"id":"1f49bbba2bdbd3ab","type":"file","file":"Pasted image 20260409011030.png","x":-1400,"y":-803,"width":399,"height":217},
 		{"id":"ecd43a6dae4f96f0","type":"file","file":"Pasted image 20260409080224.png","x":-769,"y":-1360,"width":400,"height":206},
-		{"id":"0731b7d1630778dd","type":"file","file":"Pasted image 20260409080605.png","x":-1720,"y":-513,"width":400,"height":208},
 		{"id":"bfa998af4a61f906","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":440,"y":-252,"width":270,"height":92},
 		{"id":"8bc3fa4ca0a50bde","type":"text","text":"＝のみだ","x":671,"y":141,"width":250,"height":60},
 		{"id":"900a8fb50fe48888","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":1153,"y":-634,"width":400,"height":400},
@@ -21,7 +20,11 @@
 		{"id":"ba041c493a549f59","type":"text","text":"～だけ～","x":-605,"y":-636,"width":250,"height":50},
 		{"id":"103014482df36759","type":"file","file":"Pasted image 20260412205430.png","x":-2136,"y":141,"width":736,"height":393},
 		{"id":"32142af0cb9fbee9","type":"file","file":"N2文法/のみ.canvas","x":-2280,"y":860,"width":400,"height":400},
-		{"id":"4be4db5dc2f1ef28","type":"file","file":"N2文法/助詞/に.canvas","x":-2851,"y":-644,"width":400,"height":400}
+		{"id":"4be4db5dc2f1ef28","type":"file","file":"N2文法/助詞/に.canvas","x":-2851,"y":-644,"width":400,"height":400},
+		{"id":"4cb03d3cb9f85bc7","type":"text","text":"だけまし","x":111,"y":85,"width":250,"height":60},
+		{"id":"861e86b121dfdd78","type":"file","file":"N2文法/のみ.canvas","x":671,"y":280,"width":252,"height":54},
+		{"id":"b92eef60b1a3ed70","x":-1720,"y":-423,"width":249,"height":171,"type":"file","file":"N2文法/こと・もの/こと.canvas"},
+		{"id":"2c747cf29b926b42","x":-168,"y":358,"width":279,"height":130,"type":"file","file":"N2文法/しか.canvas"}
 	],
 	"edges":[
 		{"id":"688a3b36dcb8c614","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"900a8fb50fe48888","toSide":"left","label":"\n"},
@@ -29,13 +32,13 @@
 		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"0fa92f817465bdbf","toSide":"top","label":"だけで"},
 		{"id":"d8ff1a3445250c41","fromNode":"bfa998af4a61f906","fromSide":"right","toNode":"d7319e0c92f4c045","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
 		{"id":"b647a2223fc1100c","fromNode":"d7319e0c92f4c045","fromSide":"top","toNode":"900a8fb50fe48888","toSide":"bottom"},
-		{"id":"86a98dc132120f64","fromNode":"5c650e6d795aa008","fromSide":"left","toNode":"1f49bbba2bdbd3ab","toSide":"right"},
+		{"id":"86a98dc132120f64","fromNode":"ba041c493a549f59","fromSide":"left","toNode":"1f49bbba2bdbd3ab","toSide":"right"},
 		{"id":"2b77bc31a84f3440","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"c6fb61b80d424834","toSide":"left","label":"だけに"},
 		{"id":"5955b7585f833c6b","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"a2d268a4195a944a","toSide":"top"},
 		{"id":"8b9490a9aa0fd0a8","fromNode":"ecd43a6dae4f96f0","fromSide":"bottom","toNode":"1f49bbba2bdbd3ab","toSide":"top"},
-		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom"},
-		{"id":"468fc0a3c311aa11","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"left"},
-		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top"},
+		{"id":"3a9f18c7e8c282cb","fromNode":"5c650e6d795aa008","fromSide":"top","toNode":"ba041c493a549f59","toSide":"bottom","label":"Vるだけ"},
+		{"id":"468fc0a3c311aa11","fromNode":"5c650e6d795aa008","fromSide":"right","toNode":"bfa998af4a61f906","toSide":"left","label":"だけだ"},
+		{"id":"0f7b3feedad32aec","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"29176a39c245b34b","toSide":"top","label":"だけあって"},
 		{"id":"5a777f795eb45494","fromNode":"ba041c493a549f59","fromSide":"top","toNode":"ef22fa22f1a31c04","toSide":"bottom","label":"Vるだけ"},
 		{"id":"15f976a36b839f25","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"f4ee5e9ef43ef89f","toSide":"top","label":"だけしか"},
 		{"id":"497fcea53b9710c1","fromNode":"a2d268a4195a944a","fromSide":"bottom","toNode":"c6fb61b80d424834","toSide":"top","label":"だけに"},
@@ -45,6 +48,10 @@
 		{"id":"fb5b28eff5dc320f","fromNode":"b55045cbaefd60cf","fromSide":"bottom","toNode":"103014482df36759","toSide":"right","label":"だけでなく"},
 		{"id":"a9d832a0f6edc294","fromNode":"103014482df36759","fromSide":"bottom","toNode":"32142af0cb9fbee9","toSide":"top","label":"のみならず"},
 		{"id":"a8700500af0149c1","fromNode":"103014482df36759","fromSide":"top","toNode":"4be4db5dc2f1ef28","toSide":"bottom","label":"のに\nに決まってる"},
-		{"id":"2652f80674d87d89","fromNode":"103014482df36759","fromSide":"left","toNode":"2be5965975589691","toSide":"right","label":"からみりと"}
+		{"id":"2652f80674d87d89","fromNode":"103014482df36759","fromSide":"left","toNode":"2be5965975589691","toSide":"right","label":"からみりと"},
+		{"id":"be043df84fcc08bc","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"4cb03d3cb9f85bc7","toSide":"top","label":"だけまし"},
+		{"id":"dadf5cfd13aa2365","fromNode":"8bc3fa4ca0a50bde","fromSide":"bottom","toNode":"861e86b121dfdd78","toSide":"top"},
+		{"id":"4cd0c37ab4a6c51c","fromNode":"5c650e6d795aa008","fromSide":"left","toNode":"b92eef60b1a3ed70","toSide":"right","label":"だけのことはある"},
+		{"id":"543856d459b37e79","fromNode":"2c747cf29b926b42","fromSide":"left","toNode":"f4ee5e9ef43ef89f","toSide":"right"}
 	]
 }

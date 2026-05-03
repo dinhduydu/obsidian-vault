@@ -7,7 +7,11 @@
 		{"id":"0a0a355f8430cbf3","type":"text","text":"Vない＋うちに","x":-1200,"y":300,"width":250,"height":60},
 		{"id":"64e42dc5afdb78ea","type":"text","text":"Vている","x":-1200,"y":460,"width":250,"height":60},
 		{"id":"5abeb978e98cbaa3","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-1760,"y":435,"width":200,"height":110},
-		{"id":"f86b9adae6a08102","x":-1182,"y":686,"width":250,"height":60,"type":"text","text":"Aい・Aな・Nのうちに"}
+		{"id":"f86b9adae6a08102","type":"text","text":"Aい・Aな・Nのうちに","x":-1182,"y":686,"width":250,"height":60},
+		{"id":"429029cf3356e5b6","type":"text","text":"「N2」うちに","x":623,"y":232,"width":250,"height":60},
+		{"id":"8699586206321d25","type":"text","text":"か～ないかうちに","x":1300,"y":232,"width":250,"height":60},
+		{"id":"de17c158cdf56106","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":1960,"y":120,"width":79,"height":50},
+		{"id":"d00507d4ad573c96","type":"file","file":"N2文法/助詞/か.canvas","x":1960,"y":400,"width":108,"height":50}
 	],
 	"edges":[
 		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right"},
@@ -16,6 +20,10 @@
 		{"id":"da8dce7be9b553d5","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"0a0a355f8430cbf3","toSide":"right"},
 		{"id":"6c20dbcc2afdd66b","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"64e42dc5afdb78ea","toSide":"right"},
 		{"id":"d8fc5186879cda1e","fromNode":"5abeb978e98cbaa3","fromSide":"right","toNode":"64e42dc5afdb78ea","toSide":"left"},
-		{"id":"5bcac4a6f91ab38d","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"f86b9adae6a08102","toSide":"right"}
+		{"id":"5bcac4a6f91ab38d","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"f86b9adae6a08102","toSide":"right"},
+		{"id":"ea55b8a99e718714","fromNode":"2da8e41873c63c35","fromSide":"right","toNode":"429029cf3356e5b6","toSide":"left"},
+		{"id":"b324ea3a2272494a","fromNode":"429029cf3356e5b6","fromSide":"right","toNode":"8699586206321d25","toSide":"left","label":"か～ないかうちに"},
+		{"id":"161687609f0c115e","fromNode":"8699586206321d25","fromSide":"right","toNode":"de17c158cdf56106","toSide":"left","label":"か～ないかうちに"},
+		{"id":"55f5d4afe9a762f8","fromNode":"8699586206321d25","fromSide":"right","toNode":"d00507d4ad573c96","toSide":"left","label":"か～ないかうちに"}
 	]
 }

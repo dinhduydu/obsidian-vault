@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"0a654bff1d0c6558","type":"file","file":"N2文法/さえ・より/より.canvas","x":-2468,"y":-1331,"width":400,"height":400},
-		{"id":"edacdc86c1803b74","type":"file","file":"Pasted image 20260410083552.png","x":-775,"y":-539,"width":400,"height":220},
 		{"id":"7965ea4a9af48b7e","type":"file","file":"Pasted image 20260410083626.png","x":365,"y":-536,"width":400,"height":217},
 		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":900,"y":-529,"width":400,"height":210},
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-162,"y":466,"width":250,"height":60},
@@ -24,10 +23,13 @@
 		{"id":"49793be7f833ee81","type":"file","file":"Pasted image 20260410083325.png","x":243,"y":-1780,"width":400,"height":221},
 		{"id":"9fc7a360c94c1305","type":"file","file":"Pasted image 20260410082658.png","x":-774,"y":-1780,"width":399,"height":185},
 		{"id":"ef315a213c6a4f4d","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-234,"y":-980,"width":400,"height":400},
-		{"id":"698b475b19787db1","x":918,"y":-1567,"width":250,"height":60,"type":"text","text":"ということだ"},
+		{"id":"698b475b19787db1","type":"text","text":"ということだ","x":918,"y":-1567,"width":250,"height":60},
 		{"id":"12fdac0d037ebae1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":1140,"y":-1780,"width":250,"height":60},
 		{"id":"f3b9ebeecc314360","type":"text","text":"**「強い絆」**の関係というのは、家族や恋人や親友、それに職場の仲間など、ほとんど毎日顔を合わせる人たちだ。","x":912,"y":-995,"width":480,"height":160},
-		{"id":"ca7c046779b7b687","type":"text","text":"Trình bày ý nghĩa, hay định nghĩa của A là B","x":1573,"y":-835,"width":250,"height":60}
+		{"id":"ca7c046779b7b687","type":"text","text":"Trình bày ý nghĩa, hay định nghĩa của A là B","x":1573,"y":-835,"width":250,"height":60},
+		{"id":"edacdc86c1803b74","type":"file","file":"Pasted image 20260410083552.png","x":-1160,"y":-780,"width":512,"height":281},
+		{"id":"46d15da2831b4968","type":"text","text":"というものは","x":-1709,"y":-1016,"width":250,"height":60},
+		{"id":"b79ffad7af65227b","type":"text","text":"というものだ","x":-1237,"y":-1095,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -56,6 +58,8 @@
 		{"id":"9a1f45d4c941595d","fromNode":"ef315a213c6a4f4d","fromSide":"top","toNode":"49793be7f833ee81","toSide":"bottom","label":"というものの"},
 		{"id":"caa6be0d06ddf75d","fromNode":"7965ea4a9af48b7e","fromSide":"top","toNode":"ca7c046779b7b687","toSide":"bottom"},
 		{"id":"e55742533b75a264","fromNode":"56a821c3715444bd","fromSide":"top","toNode":"698b475b19787db1","toSide":"bottom","label":"ということだ"},
-		{"id":"4ff94f63e854b3d7","fromNode":"698b475b19787db1","fromSide":"top","toNode":"12fdac0d037ebae1","toSide":"bottom"}
+		{"id":"4ff94f63e854b3d7","fromNode":"698b475b19787db1","fromSide":"top","toNode":"12fdac0d037ebae1","toSide":"bottom"},
+		{"id":"0b0ff5e0eb4109c6","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"46d15da2831b4968","toSide":"bottom"},
+		{"id":"de83c548cd74b521","fromNode":"edacdc86c1803b74","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom"}
 	]
 }

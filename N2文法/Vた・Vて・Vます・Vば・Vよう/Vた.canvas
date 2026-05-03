@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e842d12a9fdf1adc","type":"file","file":"N2文法/挙句・すえ/挙句.canvas","x":-868,"y":-1183,"width":400,"height":400},
 		{"id":"670cadcc24748ef9","type":"text","text":"Vた","x":37,"y":-73,"width":250,"height":60},
-		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限る・つもり・他/上.canvas","x":600,"y":-243,"width":400,"height":400},
+		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限り・つもり・他/上.canvas","x":600,"y":-243,"width":400,"height":400},
 		{"id":"b729eb198be3742b","type":"text","text":"あげく","x":-573,"y":-504,"width":250,"height":60},
 		{"id":"fa0c1048f2ca70d9","type":"text","text":"Vたら","x":-266,"y":245,"width":250,"height":60},
 		{"id":"04eddd31fc605a28","type":"file","file":"Pasted image 20260410085015.png","x":-620,"y":-157,"width":399,"height":228},

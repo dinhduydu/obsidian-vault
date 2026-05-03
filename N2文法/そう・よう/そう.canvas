@@ -6,11 +6,11 @@
 		{"id":"210c890d774af55e","type":"file","file":"Pasted image 20260409005137.png","x":580,"y":-150,"width":400,"height":219},
 		{"id":"030a70233bfed5e8","type":"text","text":"そうもない","x":118,"y":80,"width":250,"height":60},
 		{"id":"b310399ba9f96c28","type":"text","text":"Vmasu\nđưa ra khả năng thấp","x":800,"y":215,"width":250,"height":60},
-		{"id":"61bbf08ddb030e99","x":1166,"y":-313,"width":250,"height":60,"type":"text","text":"らしい"},
-		{"id":"0f618e5a9e13ea6c","x":1552,"y":-500,"width":250,"height":100,"type":"text","text":"Diễn tả việc đã suy đoán từ thông tin mà nhận được thông qua việc đọc một cái gì đó, nghe chuyện gì đó"},
-		{"id":"90944997bbc94e61","x":1566,"y":-227,"width":250,"height":60,"type":"text","text":"Diễn tả nét đặc trưng điển hình của ~"},
-		{"id":"95cc599aaf763bbe","x":1934,"y":-534,"width":250,"height":60,"type":"text","text":"普通形＋らしい"},
-		{"id":"2901f8bce79c7602","x":1979,"y":-250,"width":250,"height":60,"type":"text","text":"N＋らしい"}
+		{"id":"61bbf08ddb030e99","type":"text","text":"らしい","x":1166,"y":-313,"width":250,"height":60},
+		{"id":"0f618e5a9e13ea6c","type":"text","text":"Diễn tả việc đã suy đoán từ thông tin mà nhận được thông qua việc đọc một cái gì đó, nghe chuyện gì đó","x":1552,"y":-500,"width":250,"height":100},
+		{"id":"90944997bbc94e61","type":"text","text":"Diễn tả nét đặc trưng điển hình của ~","x":1566,"y":-227,"width":250,"height":60},
+		{"id":"95cc599aaf763bbe","type":"text","text":"普通形＋らしい","x":1934,"y":-534,"width":250,"height":60},
+		{"id":"2901f8bce79c7602","type":"text","text":"N＋らしい","x":1979,"y":-250,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"61f5759fceaf4e30","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"e600f86b375a2e25","toSide":"left"},
