@@ -35,7 +35,9 @@
 		{"id":"61fde44d15b67c1f","type":"text","text":"かとおもうと","x":1940,"y":-540,"width":250,"height":60},
 		{"id":"97281c2cfb2ecc3e","type":"text","text":"かのように","x":1960,"y":-279,"width":250,"height":60},
 		{"id":"d6901a3a284f9c54","type":"file","file":"N2文法/そう・よう/よう.canvas","x":2580,"y":-322,"width":167,"height":147},
-		{"id":"ae8e460bcf660152","x":1760,"y":-13,"width":250,"height":60,"type":"text","text":"ではないか"}
+		{"id":"ae8e460bcf660152","type":"text","text":"ではないか","x":1760,"y":-13,"width":250,"height":60},
+		{"id":"945fdc4f7eae820a","x":1990,"y":-1610,"width":250,"height":60,"type":"text","text":"何もかも"},
+		{"id":"69016960ece94f63","x":2800,"y":-1730,"width":400,"height":301,"type":"file","file":"Pasted image 20260505210354.png"}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top","label":"ものか　（もんか）"},
@@ -73,6 +75,8 @@
 		{"id":"c6f174c3d8d38b20","fromNode":"40b418e338d373b6","fromSide":"right","toNode":"61fde44d15b67c1f","toSide":"left","label":"かとおもうと"},
 		{"id":"e61ae5e823ea64fe","fromNode":"40b418e338d373b6","fromSide":"right","toNode":"97281c2cfb2ecc3e","toSide":"left","label":"かのように"},
 		{"id":"4c51fbb41ed60c23","fromNode":"97281c2cfb2ecc3e","fromSide":"right","toNode":"d6901a3a284f9c54","toSide":"left","label":"かのように"},
-		{"id":"2053c9798e06dcbd","fromNode":"40b418e338d373b6","fromSide":"bottom","toNode":"ae8e460bcf660152","toSide":"top","label":"ではないか"}
+		{"id":"2053c9798e06dcbd","fromNode":"40b418e338d373b6","fromSide":"bottom","toNode":"ae8e460bcf660152","toSide":"top","label":"ではないか"},
+		{"id":"7a75b6d0a181827d","fromNode":"40b418e338d373b6","fromSide":"top","toNode":"945fdc4f7eae820a","toSide":"left","label":"何もかも"},
+		{"id":"ca02a7ea9a2b1492","fromNode":"945fdc4f7eae820a","fromSide":"right","toNode":"69016960ece94f63","toSide":"left","label":"何もかも"}
 	]
 }

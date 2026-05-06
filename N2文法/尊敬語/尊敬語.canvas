@@ -4,14 +4,22 @@
 		{"id":"033e982b96110f3d","type":"text","text":"れる・られる","x":37,"y":-63,"width":250,"height":60},
 		{"id":"621b6433f839ba43","type":"text","text":"お客様、どちらまで行かれますか。","x":900,"y":-140,"width":250,"height":60},
 		{"id":"b58b8bd1c56b672c","type":"text","text":"動詞の受け身と同じ形","x":446,"y":-222,"width":250,"height":60},
-		{"id":"ff7673727b97a875","x":371,"y":-880,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/受身み.canvas"},
-		{"id":"102d6714602ea79f","x":-674,"y":-519,"width":250,"height":60,"type":"text","text":"お/ご～になるます"},
-		{"id":"07bf33e52d9debdf","x":-637,"y":-321,"width":250,"height":60,"type":"text","text":"お/ご～します"}
+		{"id":"ff7673727b97a875","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/受身み.canvas","x":371,"y":-880,"width":400,"height":400},
+		{"id":"102d6714602ea79f","type":"text","text":"お/ご～になるます","x":-674,"y":-519,"width":250,"height":60},
+		{"id":"07bf33e52d9debdf","type":"text","text":"お/ご～します","x":-637,"y":-321,"width":250,"height":60},
+		{"id":"3dcde94960bb949c","x":-325,"y":437,"width":250,"height":60,"type":"text","text":"お持ちしましょうか"},
+		{"id":"bcf3eb10b011d65f","x":-325,"y":260,"width":250,"height":60,"type":"text","text":"お持ちしますか"},
+		{"id":"3747b62be50e5741","x":-399,"y":605,"width":250,"height":60,"type":"text","text":"知る"},
+		{"id":"2d3c1e6729ed9350","x":34,"y":594,"width":250,"height":60,"type":"text","text":"ご存知です"},
+		{"id":"599b2eac3db3e704","x":58,"y":760,"width":250,"height":60,"type":"text","text":"存じます"},
+		{"id":"c1f71b0c0e59ea42","x":-38,"y":963,"width":250,"height":60,"type":"text","text":"６．４７－０４０５２６１"}
 	],
 	"edges":[
 		{"id":"bf78c9b8ba1b5a8f","fromNode":"3ec193e77192d649","fromSide":"right","toNode":"033e982b96110f3d","toSide":"left"},
 		{"id":"e766da48e548a2c2","fromNode":"033e982b96110f3d","fromSide":"right","toNode":"621b6433f839ba43","toSide":"left"},
 		{"id":"e509faa1268096f7","fromNode":"033e982b96110f3d","fromSide":"right","toNode":"b58b8bd1c56b672c","toSide":"left"},
-		{"id":"996421881a3d7c41","fromNode":"ff7673727b97a875","fromSide":"bottom","toNode":"b58b8bd1c56b672c","toSide":"top"}
+		{"id":"996421881a3d7c41","fromNode":"ff7673727b97a875","fromSide":"bottom","toNode":"b58b8bd1c56b672c","toSide":"top"},
+		{"id":"6892bc9c75ffa553","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"2d3c1e6729ed9350","toSide":"left","label":"TK"},
+		{"id":"4acbe4d14a0d987a","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"599b2eac3db3e704","toSide":"left","label":"KN"}
 	]
 }

@@ -134,8 +134,9 @@
 		{"id":"f669badba9fe2cd4","type":"file","file":"Pasted image 20260412125516.png","x":-2760,"y":-1937,"width":400,"height":219},
 		{"id":"68643211f098537f","type":"file","file":"Pasted image 20260410074908.png","x":-869,"y":-2520,"width":519,"height":276},
 		{"id":"25f5ecc74238baa7","type":"text","text":"Vてはじめて","x":-1240,"y":-1120,"width":250,"height":60},
-		{"id":"515c3c6ef99f2583","x":1380,"y":-233,"width":253,"height":189,"type":"file","file":"N2文法/助詞/まで.canvas"},
-		{"id":"7d298a65ccd47159","x":-320,"y":401,"width":250,"height":60,"type":"text","text":"Vてでも"}
+		{"id":"515c3c6ef99f2583","type":"file","file":"N2文法/助詞/まで.canvas","x":1380,"y":-233,"width":253,"height":189},
+		{"id":"7d298a65ccd47159","type":"text","text":"Vてでも","x":-320,"y":401,"width":250,"height":60},
+		{"id":"9ea317bd7858ec52","x":5731,"y":-2075,"width":244,"height":184,"type":"file","file":"Pasted image 20260505210130.png"}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"835add4850e7963d","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left","label":"Vてくれる"},
@@ -280,6 +281,7 @@
 		{"id":"d84a69565c57ae1e","fromNode":"5af78ef0b5353bed","fromSide":"bottom","toNode":"5c3c066f966655ef","toSide":"top"},
 		{"id":"8bbf61750c8ff97a","fromNode":"909e5ab3e18a113b","fromSide":"top","toNode":"68643211f098537f","toSide":"right","label":"Vて以来"},
 		{"id":"0481107a93ee5e66","fromNode":"5ddbcaa57f6f444a","fromSide":"right","toNode":"515c3c6ef99f2583","toSide":"left"},
-		{"id":"88e1927da70f9ac3","fromNode":"a7d972c957f04391","fromSide":"bottom","toNode":"7d298a65ccd47159","toSide":"top"}
+		{"id":"88e1927da70f9ac3","fromNode":"a7d972c957f04391","fromSide":"bottom","toNode":"7d298a65ccd47159","toSide":"top"},
+		{"id":"43c5365faf4e7bf9","fromNode":"57f9e9a27ae902ae","fromSide":"bottom","toNode":"9ea317bd7858ec52","toSide":"top","label":"Vてくれた"}
 	]
 }

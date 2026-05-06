@@ -13,7 +13,8 @@
 		{"id":"717d67a2b53608a6","type":"text","text":"không phải việc to tát","x":1053,"y":262,"width":250,"height":60},
 		{"id":"7e4149261410ad43","type":"text","text":"ko quan trọng","x":1061,"y":388,"width":250,"height":60},
 		{"id":"d3dd3af8353ebf3c","type":"text","text":"là việc đơn giản","x":1059,"y":534,"width":250,"height":60},
-		{"id":"b60547ee0bf22245","type":"text","text":"tối thiểu A thì","x":976,"y":623,"width":250,"height":60}
+		{"id":"b60547ee0bf22245","type":"text","text":"tối thiểu A thì","x":976,"y":623,"width":250,"height":60},
+		{"id":"b923b6965ce5417a","x":-155,"y":-600,"width":400,"height":299,"type":"file","file":"Pasted image 20260505210058.png"}
 	],
 	"edges":[
 		{"id":"51300f7ba55e5f0e","fromNode":"db8eafb3417c022c","fromSide":"bottom","toNode":"2dc6401af7daacb0","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"97fef695f5edd543","fromNode":"284913710084962c","fromSide":"right","toNode":"717d67a2b53608a6","toSide":"left"},
 		{"id":"5f635594fd76b762","fromNode":"284913710084962c","fromSide":"right","toNode":"7e4149261410ad43","toSide":"left"},
 		{"id":"fc3a2291744acda5","fromNode":"284913710084962c","fromSide":"right","toNode":"d3dd3af8353ebf3c","toSide":"left"},
-		{"id":"06344dd3dd8ac57e","fromNode":"284913710084962c","fromSide":"right","toNode":"b60547ee0bf22245","toSide":"left"}
+		{"id":"06344dd3dd8ac57e","fromNode":"284913710084962c","fromSide":"right","toNode":"b60547ee0bf22245","toSide":"left"},
+		{"id":"dc2f1b2af6687fe0","fromNode":"4282395278593ed1","fromSide":"top","toNode":"b923b6965ce5417a","toSide":"bottom"}
 	]
 }

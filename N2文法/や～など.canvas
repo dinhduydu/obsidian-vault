@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24c46fd90289a6fc","x":-109,"y":-33,"width":250,"height":60,"type":"text","text":"など"},
+		{"id":"b992d20695cfb533","x":380,"y":-149,"width":400,"height":293,"type":"file","file":"Pasted image 20260505210442.png"},
+		{"id":"649cdc69a4965d10","x":-940,"y":-33,"width":250,"height":60,"type":"text","text":"や"}
+	],
+	"edges":[
+		{"id":"1d2e39263d3f7cf1","fromNode":"24c46fd90289a6fc","fromSide":"right","toNode":"b992d20695cfb533","toSide":"left","label":"など"},
+		{"id":"ef6182bb445546d9","fromNode":"649cdc69a4965d10","fromSide":"right","toNode":"24c46fd90289a6fc","toSide":"left","label":"や～など"}
+	]
+}

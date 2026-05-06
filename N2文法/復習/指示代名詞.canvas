@@ -39,7 +39,9 @@
 		{"id":"ed4e8e22717403f7","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-204,"y":-2208,"width":400,"height":400},
 		{"id":"03f9302ef15b4b57","type":"text","text":"どうか","x":2140,"y":-1460,"width":250,"height":60},
 		{"id":"c5e797ac95710643","type":"text","text":"あれだけ\nこれだけ\nそれだけ","x":-800,"y":-778,"width":250,"height":146},
-		{"id":"08518f261c8a1b4f","x":-2088,"y":-904,"width":400,"height":400,"type":"file","file":"N2文法/助詞/こそ.canvas"}
+		{"id":"08518f261c8a1b4f","type":"file","file":"N2文法/助詞/こそ.canvas","x":-2088,"y":-904,"width":400,"height":400},
+		{"id":"f3a4869a3434744d","x":1955,"y":-1036,"width":250,"height":60,"type":"text","text":"どうVても"},
+		{"id":"9d2f2ee91c79d579","x":1889,"y":-860,"width":382,"height":50,"type":"text","text":"（Nが）どう考えてもおかしくはないか。"}
 	],
 	"edges":[
 		{"id":"d9718a0ef555b3b8","fromNode":"3468ed36fbb2741f","fromSide":"bottom","toNode":"ae4e83eb067e2283","toSide":"top","label":"それに"},
@@ -84,6 +86,8 @@
 		{"id":"fd2cfd213602637f","fromNode":"f64219fe3dcd4920","fromSide":"right","toNode":"c5e797ac95710643","toSide":"left"},
 		{"id":"65c5369f62f12796","fromNode":"0bce3a4d8edc3af6","fromSide":"left","toNode":"c5e797ac95710643","toSide":"right"},
 		{"id":"f342c29fb00622ee","fromNode":"47873c9402253f28","fromSide":"left","toNode":"c5e797ac95710643","toSide":"right"},
-		{"id":"372da1f1b8e0e229","fromNode":"f64219fe3dcd4920","fromSide":"left","toNode":"08518f261c8a1b4f","toSide":"right","label":"こそ"}
+		{"id":"372da1f1b8e0e229","fromNode":"f64219fe3dcd4920","fromSide":"left","toNode":"08518f261c8a1b4f","toSide":"right","label":"こそ"},
+		{"id":"c483fc176b14656a","fromNode":"092d4f30f326c979","fromSide":"bottom","toNode":"f3a4869a3434744d","toSide":"top"},
+		{"id":"7caab886b3a06cff","fromNode":"f3a4869a3434744d","fromSide":"bottom","toNode":"9d2f2ee91c79d579","toSide":"top"}
 	]
 }

@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/そう・よう/よう.canvas",
+                "file": "N2語彙/N2語彙.canvas",
                 "viewState": {
-                  "x": 4560.421536705038,
-                  "y": 355.026504632374,
-                  "zoom": -0.7653518373242676
+                  "x": 1117.9900371367767,
+                  "y": 544.5937491011201,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "よう"
+              "title": "N2語彙"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/そう・よう/よう.canvas",
+                "file": "N2語彙/N2語彙.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for よう"
+              "title": "Backlinks for N2語彙"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2文法/第1課.md",
+                "file": "N2語彙/N2語彙.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 第1課"
+              "title": "Outgoing links from N2語彙"
             }
           },
           {
@@ -197,20 +197,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/第1課.md",
+                "file": "N2語彙/N2語彙.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第1課"
+              "title": "Outline of N2語彙"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,27 +226,30 @@
   },
   "active": "3d6e51e9e9ea284e",
   "lastOpenFiles": [
-    "Pasted image 20260504021327.png",
-    "N2文法/なる・する/なる.canvas",
-    "Pasted image 20260504021222.png",
-    "N2文法/なる・する/する.canvas",
-    "N2文法/ばかり・はず・わけ/ばかり.canvas",
-    "Pasted image 20260504021113.png",
-    "N2文法/こと・もの/もの.canvas",
-    "Pasted image 20260504020809.png",
-    "N2文法/そう・よう/そう.canvas",
-    "Pasted image 20260504020551.png",
-    "N2文法/復習/復習.canvas",
-    "Pasted image 20260503230256.png",
-    "Pasted image 20260503230250.png",
-    "Pasted image 20260503230242.png",
-    "Pasted image 20260503230236.png",
-    "Pasted image 20260503230234.png",
-    "Pasted image 20260503230226.png",
-    "N2文法/そう・よう/よう.canvas",
+    "N2漢字/Untitled.canvas",
+    "N2漢字/N2漢字.canvas",
+    "N2漢字/Untitled.base",
+    "N2語彙/N2語彙.canvas",
+    "N2漢字",
+    "N2文法/ばかり・はず・わけ/わけ.canvas",
     "N2文法/一方・上・限り・つもり・他/上.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
+    "N2語彙",
+    "N2文法/一方・上・限り・つもり・他/一方.canvas",
+    "N2文法/助詞/と.canvas",
     "N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas",
+    "Pasted image 20260507002346.png",
+    "Pasted image 20260507002344.png",
+    "N2文法/助詞/で・でも・ても.canvas",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "N2文法/そう・よう/よう.canvas",
+    "Pasted image 20260505213225.png",
+    "Pasted image 20260505213049.png",
+    "Pasted image 20260505213048.png",
+    "Pasted image 20260505212721.png",
+    "Pasted image 20260505210539.png",
+    "Pasted image 20260505210442.png",
+    "Pasted image 20260505210354.png",
+    "Pasted image 20260505210255.png",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/なる・する",
@@ -256,9 +260,6 @@
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/さえ・より",
     "N2文法/挙句・すえ",
-    "N2文法/ばかり・はず・わけ",
-    "N2文法/一方・上・限り・つもり・他",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう",
     "N2文法/複合動詞/Untitled.md",
     "からには.md",
     "N2文法/Vて.md",

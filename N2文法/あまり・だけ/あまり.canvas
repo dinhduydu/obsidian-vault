@@ -8,8 +8,8 @@
 		{"id":"10ffe4cd576be111","type":"text","text":"あまりの～に","x":-1238,"y":451,"width":250,"height":60},
 		{"id":"198820d5fb2844e8","type":"text","text":"～あまり","x":-1363,"y":180,"width":250,"height":50},
 		{"id":"e77e3addaf05a2e7","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-1880,"y":-161,"width":253,"height":194},
-		{"id":"b9295729da3b64d2","x":-988,"y":-578,"width":250,"height":60,"type":"text","text":"あまりに"},
-		{"id":"ffde083a376e2ff4","x":-1460,"y":-740,"width":250,"height":60,"type":"text","text":"あまりにも"}
+		{"id":"b9295729da3b64d2","type":"text","text":"あまりに","x":-988,"y":-578,"width":250,"height":60},
+		{"id":"ffde083a376e2ff4","type":"text","text":"あまりにも","x":-1460,"y":-740,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ea2841528ecf73ce","fromNode":"362573027c76924a","fromSide":"bottom","toNode":"2275d0fba1da1df6","toSide":"top"},

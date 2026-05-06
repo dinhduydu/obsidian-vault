@@ -41,11 +41,7 @@
 		{"id":"a3d64b7b90175880","type":"text","text":"とは限らない","x":-1267,"y":1833,"width":250,"height":60},
 		{"id":"d16d813719a394ac","type":"text","text":"とする","x":2551,"y":435,"width":250,"height":60},
 		{"id":"ed52a1b8527697dd","type":"text","text":"Dùng khi chỉ rõ lập trường\ntrạng thái, tư cách","x":3040,"y":960,"width":250,"height":60},
-		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":3435,"y":917,"width":250,"height":60},
 		{"id":"8ed613771b38beee","type":"file","file":"N2文法/こと・もの/こと.canvas","x":-2580,"y":980,"width":400,"height":400},
-		{"id":"fa2e9191683e38bb","type":"text","text":"～としても","x":2902,"y":1200,"width":250,"height":60},
-		{"id":"160ff7a3b3bfd7e0","type":"text","text":"Giả sử có vào tình trạng A đi nữa","x":3310,"y":1142,"width":250,"height":60},
-		{"id":"6bffc0aef71ea9c2","type":"text","text":"たとえ試験に落ちたとしてもあきらめません。","x":3668,"y":1100,"width":250,"height":60},
 		{"id":"21ee465c1d91054a","type":"text","text":"として～ない","x":2228,"y":1233,"width":250,"height":60},
 		{"id":"7a9fc0921f08479b","type":"file","file":"Pasted image 20260412134940.png","x":-1266,"y":-838,"width":400,"height":212},
 		{"id":"adb65e79a4b6814e","type":"text","text":"とか","x":-1845,"y":-990,"width":250,"height":60},
@@ -64,7 +60,13 @@
 		{"id":"e30e1ef38ceed8ab","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り.canvas","x":-693,"y":1865,"width":400,"height":400},
 		{"id":"0603110d427e5259","type":"text","text":"として","x":2551,"y":780,"width":250,"height":60},
 		{"id":"5b66d7413766a38d","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":3360,"y":188,"width":400,"height":400},
-		{"id":"2da0a2c9be4e1c11","type":"file","file":"Pasted image 20260412210322.png","x":3036,"y":588,"width":399,"height":223}
+		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":3435,"y":960,"width":250,"height":60},
+		{"id":"321932de2f192f21","x":3290,"y":669,"width":250,"height":60,"type":"text","text":"はともかくとして"},
+		{"id":"2da0a2c9be4e1c11","type":"file","file":"Pasted image 20260412210322.png","x":3885,"y":669,"width":399,"height":223},
+		{"id":"d5775c4854d2e08e","x":3287,"y":803,"width":250,"height":60,"type":"text","text":"は別として"},
+		{"id":"160ff7a3b3bfd7e0","type":"text","text":"Giả sử có vào tình trạng A đi nữa","x":3465,"y":1203,"width":250,"height":60},
+		{"id":"6bffc0aef71ea9c2","type":"text","text":"たとえ試験に落ちたとしてもあきらめません。","x":3898,"y":1206,"width":250,"height":60},
+		{"id":"fa2e9191683e38bb","type":"text","text":"～としても","x":3040,"y":1203,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"72ee2296dd869e15","fromSide":"left","toNode":"7726e468be76af48","toSide":"right","label":"といったN"},
@@ -119,7 +121,7 @@
 		{"id":"defedf1237ee05e1","fromNode":"ed52a1b8527697dd","fromSide":"right","toNode":"8c258b6c3f19577d","toSide":"left"},
 		{"id":"3ec04ca2def31a49","fromNode":"4200162a76c7e58d","fromSide":"top","toNode":"e79f5d00d994f7e4","toSide":"bottom"},
 		{"id":"8bbea59229a92177","fromNode":"315c6fabdc953470","fromSide":"bottom","toNode":"8ed613771b38beee","toSide":"top","label":"ということだ"},
-		{"id":"f62bd15855a0bca1","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"fa2e9191683e38bb","toSide":"top","label":"～としても"},
+		{"id":"f62bd15855a0bca1","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"fa2e9191683e38bb","toSide":"left","label":"～としても"},
 		{"id":"47424cdd58bf9aa6","fromNode":"fa2e9191683e38bb","fromSide":"right","toNode":"160ff7a3b3bfd7e0","toSide":"left"},
 		{"id":"4b38d7ace2d7a13e","fromNode":"160ff7a3b3bfd7e0","fromSide":"right","toNode":"6bffc0aef71ea9c2","toSide":"left"},
 		{"id":"28e2501a069ff028","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"21ee465c1d91054a","toSide":"top","label":"として～ない"},
@@ -131,6 +133,9 @@
 		{"id":"2dc0d937963c9793","fromNode":"6100d77135a1d672","fromSide":"bottom","toNode":"126df66ed667d1ef","toSide":"top","label":"となる"},
 		{"id":"ca06ab2e1a3b8a0b","fromNode":"126df66ed667d1ef","fromSide":"right","toNode":"c11e54289b0c1476","toSide":"left","label":"となると"},
 		{"id":"298b1dd9064c523a","fromNode":"a3d64b7b90175880","fromSide":"right","toNode":"e30e1ef38ceed8ab","toSide":"left"},
-		{"id":"fa1d4c69bc7d648e","fromNode":"0603110d427e5259","fromSide":"right","toNode":"2da0a2c9be4e1c11","toSide":"left","label":"として"}
+		{"id":"d1b7b3018aff5e98","fromNode":"0603110d427e5259","fromSide":"right","toNode":"321932de2f192f21","toSide":"left","label":"はともかくとして"},
+		{"id":"a5f79c2583e5ab46","fromNode":"321932de2f192f21","fromSide":"right","toNode":"2da0a2c9be4e1c11","toSide":"left","label":"はともかくとして"},
+		{"id":"f74a9852f68c667e","fromNode":"0603110d427e5259","fromSide":"right","toNode":"d5775c4854d2e08e","toSide":"left","label":"は別として"},
+		{"id":"ddbac51bd247acc5","fromNode":"d5775c4854d2e08e","fromSide":"right","toNode":"2da0a2c9be4e1c11","toSide":"left","label":"は別として"}
 	]
 }

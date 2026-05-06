@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"6a502c06bfbd83d9","x":-153,"y":17,"width":250,"height":60,"type":"text","text":"使役受身"}
+		{"id":"6a502c06bfbd83d9","type":"text","text":"使役受身","x":-153,"y":17,"width":250,"height":60},
+		{"id":"38e4826536656782","x":291,"y":-22,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"836da930da9fc3f7","fromNode":"6a502c06bfbd83d9","fromSide":"right","toNode":"38e4826536656782","toSide":"left"}
+	]
 }

@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"2da8e41873c63c35","type":"text","text":"うちに","x":-210,"y":14,"width":250,"height":60},
-		{"id":"34968906856b09b0","type":"text","text":"かのうちに","x":-835,"y":-6,"width":250,"height":60},
 		{"id":"7f0407e8cf086c15","type":"text","text":"「N3」うちに","x":-785,"y":217,"width":250,"height":60},
 		{"id":"20656e2873acc945","type":"text","text":"V辞書形＋うちに","x":-1200,"y":180,"width":250,"height":60},
 		{"id":"0a0a355f8430cbf3","type":"text","text":"Vない＋うちに","x":-1200,"y":300,"width":250,"height":60},
@@ -11,11 +10,13 @@
 		{"id":"429029cf3356e5b6","type":"text","text":"「N2」うちに","x":623,"y":232,"width":250,"height":60},
 		{"id":"8699586206321d25","type":"text","text":"か～ないかうちに","x":1300,"y":232,"width":250,"height":60},
 		{"id":"de17c158cdf56106","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":1960,"y":120,"width":79,"height":50},
-		{"id":"d00507d4ad573c96","type":"file","file":"N2文法/助詞/か.canvas","x":1960,"y":400,"width":108,"height":50}
+		{"id":"d00507d4ad573c96","type":"file","file":"N2文法/助詞/か.canvas","x":1960,"y":400,"width":108,"height":50},
+		{"id":"34968906856b09b0","type":"text","text":"かのうちに","x":-840,"y":-160,"width":250,"height":60},
+		{"id":"6c0b04e1a9ba8563","x":-1360,"y":-660,"width":400,"height":262,"type":"file","file":"Pasted image 20260505213049.png"}
 	],
 	"edges":[
-		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right"},
-		{"id":"782cf9df782976c0","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"7f0407e8cf086c15","toSide":"right"},
+		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right","label":"かのうちに"},
+		{"id":"782cf9df782976c0","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"7f0407e8cf086c15","toSide":"right","label":"「N3」うちに"},
 		{"id":"df6ca2e3db6602d9","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"20656e2873acc945","toSide":"right"},
 		{"id":"da8dce7be9b553d5","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"0a0a355f8430cbf3","toSide":"right"},
 		{"id":"6c20dbcc2afdd66b","fromNode":"7f0407e8cf086c15","fromSide":"left","toNode":"64e42dc5afdb78ea","toSide":"right"},
@@ -24,6 +25,7 @@
 		{"id":"ea55b8a99e718714","fromNode":"2da8e41873c63c35","fromSide":"right","toNode":"429029cf3356e5b6","toSide":"left"},
 		{"id":"b324ea3a2272494a","fromNode":"429029cf3356e5b6","fromSide":"right","toNode":"8699586206321d25","toSide":"left","label":"か～ないかうちに"},
 		{"id":"161687609f0c115e","fromNode":"8699586206321d25","fromSide":"right","toNode":"de17c158cdf56106","toSide":"left","label":"か～ないかうちに"},
-		{"id":"55f5d4afe9a762f8","fromNode":"8699586206321d25","fromSide":"right","toNode":"d00507d4ad573c96","toSide":"left","label":"か～ないかうちに"}
+		{"id":"55f5d4afe9a762f8","fromNode":"8699586206321d25","fromSide":"right","toNode":"d00507d4ad573c96","toSide":"left","label":"か～ないかうちに"},
+		{"id":"3a24f2a8122c2e1a","fromNode":"34968906856b09b0","fromSide":"top","toNode":"6c0b04e1a9ba8563","toSide":"right","label":"かのうちに"}
 	]
 }

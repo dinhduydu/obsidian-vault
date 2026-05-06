@@ -225,10 +225,11 @@
 		{"id":"417fd18988526f59","type":"text","text":"にする","x":2447,"y":-186,"width":250,"height":60},
 		{"id":"2efaeea61b5644ee","type":"file","file":"Pasted image 20260412204611.png","x":3300,"y":-254,"width":392,"height":195},
 		{"id":"327d276ab91f2899","type":"text","text":"にすれば","x":3920,"y":-186,"width":250,"height":60},
-		{"id":"eb6a7845f45fa395","x":3263,"y":316,"width":250,"height":60,"type":"text","text":"にしても"},
+		{"id":"eb6a7845f45fa395","type":"text","text":"にしても","x":3263,"y":316,"width":250,"height":60},
 		{"id":"c7546cf3137c2f20","type":"file","file":"Pasted image 20260412132404.png","x":2625,"y":376,"width":399,"height":215},
 		{"id":"ccd12625a4b4a53d","type":"text","text":"Dùng khi muốn truyền đạt sự đánh giá hay nhận xét rằng: ","x":1770,"y":559,"width":286,"height":66},
-		{"id":"b680214032d3ae20","x":2375,"y":640,"width":250,"height":60,"type":"text","text":"khác với điều được dự đoán từ A"}
+		{"id":"b680214032d3ae20","type":"text","text":"khác với điều được dự đoán từ A","x":2375,"y":640,"width":250,"height":60},
+		{"id":"92d7a64fa97bd634","x":1751,"y":-1007,"width":250,"height":60,"type":"text","text":"Nに駆（か）られる"}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},
@@ -468,6 +469,7 @@
 		{"id":"b78fc8f754a893b2","fromNode":"c8809246e0911890","fromSide":"top","toNode":"417fd18988526f59","toSide":"bottom","label":"にする"},
 		{"id":"86edeea97305aec4","fromNode":"417fd18988526f59","fromSide":"top","toNode":"926eeb129b7abe76","toSide":"right","label":"にしたところで"},
 		{"id":"24f7a23667df7155","fromNode":"c8809246e0911890","fromSide":"bottom","toNode":"eb6a7845f45fa395","toSide":"top","label":"にしても"},
-		{"id":"eced40fb213bc168","fromNode":"ccd12625a4b4a53d","fromSide":"right","toNode":"b680214032d3ae20","toSide":"left","label":"にしては"}
+		{"id":"eced40fb213bc168","fromNode":"ccd12625a4b4a53d","fromSide":"right","toNode":"b680214032d3ae20","toSide":"left","label":"にしては"},
+		{"id":"36f1d8c77dd3a94e","fromNode":"14e5c8d5f4c3dfdb","fromSide":"top","toNode":"92d7a64fa97bd634","toSide":"bottom"}
 	]
 }

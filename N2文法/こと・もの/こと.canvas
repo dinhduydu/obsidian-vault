@@ -69,8 +69,10 @@
 		{"id":"3f1c4e5ba7e1395a","type":"text","text":"ということ","x":740,"y":-968,"width":250,"height":60},
 		{"id":"cf028366803bdcdd","type":"text","text":"ということは","x":940,"y":-750,"width":250,"height":60},
 		{"id":"2c830fddbd802435","type":"text","text":"ないことには","x":-1817,"y":465,"width":250,"height":60},
-		{"id":"f5b3c95abf06d9af","x":3021,"y":246,"width":250,"height":60,"type":"text","text":"にこしたことはない"},
-		{"id":"1b5efecfd0ad0dd5","x":3417,"y":85,"width":227,"height":191,"type":"file","file":"N2文法/助詞/に.canvas"}
+		{"id":"f5b3c95abf06d9af","type":"text","text":"にこしたことはない","x":3021,"y":246,"width":250,"height":60},
+		{"id":"1b5efecfd0ad0dd5","type":"file","file":"N2文法/助詞/に.canvas","x":3417,"y":85,"width":227,"height":191},
+		{"id":"6d2c4491bb158887","x":-405,"y":-1461,"width":250,"height":60,"type":"text","text":"Vること"},
+		{"id":"d9a77c57816758db","x":-655,"y":-1727,"width":250,"height":60,"type":"text","text":"Nên làm V"}
 	],
 	"edges":[
 		{"id":"fd61aa1f80711936","fromNode":"3113605081a3a040","fromSide":"right","toNode":"4e9d62576081523c","toSide":"left","label":"ことはない"},
@@ -145,6 +147,8 @@
 		{"id":"ace7a5bd2f208ccd","fromNode":"3f1c4e5ba7e1395a","fromSide":"bottom","toNode":"cf028366803bdcdd","toSide":"top","label":"ということは"},
 		{"id":"2b492188218cba56","fromNode":"ff98fa1a2b61ab86","fromSide":"bottom","toNode":"2c830fddbd802435","toSide":"top","label":"ないことには"},
 		{"id":"32f7bb7443567008","fromNode":"8e95a2289c00601c","fromSide":"right","toNode":"f5b3c95abf06d9af","toSide":"left"},
-		{"id":"2922a85a6e8cabdf","fromNode":"f5b3c95abf06d9af","fromSide":"right","toNode":"1b5efecfd0ad0dd5","toSide":"left"}
+		{"id":"2922a85a6e8cabdf","fromNode":"f5b3c95abf06d9af","fromSide":"right","toNode":"1b5efecfd0ad0dd5","toSide":"left"},
+		{"id":"8245f5efc7347e2b","fromNode":"e9e373b8058241dc","fromSide":"top","toNode":"6d2c4491bb158887","toSide":"bottom","label":"Vること"},
+		{"id":"53136518dd63afe7","fromNode":"6d2c4491bb158887","fromSide":"top","toNode":"d9a77c57816758db","toSide":"bottom","label":"Vること"}
 	]
 }
