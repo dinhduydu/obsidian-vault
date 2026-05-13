@@ -23,7 +23,10 @@
 		{"id":"cd5fbef749c0a27e","type":"text","text":"Dùng khi muốn nói: nỗ lực/ thử làm A","x":1723,"y":715,"width":250,"height":60},
 		{"id":"fe014a6f807d6b02","type":"text","text":"V移行系＋としする","x":2365,"y":560,"width":250,"height":60},
 		{"id":"7ec46a413a1a006f","type":"text","text":"溺れている子供を助けようとして、彼は海に飛びこんだ。","x":2370,"y":725,"width":523,"height":50},
-		{"id":"c52edf9482cfbb3e","type":"file","file":"N2文法/助詞/と.canvas","x":3360,"y":598,"width":309,"height":305}
+		{"id":"fc4622f275a8549b","x":2126,"y":831,"width":250,"height":60,"type":"text","text":"Cố gắng làm gì đó"},
+		{"id":"c52edf9482cfbb3e","type":"file","file":"N2文法/助詞/と.canvas","x":3171,"y":686,"width":218,"height":128},
+		{"id":"a190865885328aae","x":3740,"y":720,"width":250,"height":60,"type":"text","text":"Vよう＋としても"},
+		{"id":"e59dc6c0a742f7de","x":4380,"y":720,"width":250,"height":60,"type":"text","text":"Dù cho cố làm gì thì ko suôn sẻ được"}
 	],
 	"edges":[
 		{"id":"2e239b8c4682802a","fromNode":"903bb778fead9390","fromSide":"right","toNode":"b9c11045cb50e9ec","toSide":"left","label":"Vようではないか"},
@@ -50,6 +53,9 @@
 		{"id":"228e30a052390c22","fromNode":"f39c0ed9d5cf5b4f","fromSide":"right","toNode":"fe014a6f807d6b02","toSide":"left","label":"V移行系＋としする"},
 		{"id":"e43b83e61535b431","fromNode":"cd5fbef749c0a27e","fromSide":"right","toNode":"fe014a6f807d6b02","toSide":"left","label":"V移行系＋としする"},
 		{"id":"3ba2ac3022d7c7cb","fromNode":"cd5fbef749c0a27e","fromSide":"right","toNode":"7ec46a413a1a006f","toSide":"left","label":"Vよう＋として"},
-		{"id":"c42f06508d88a989","fromNode":"7ec46a413a1a006f","fromSide":"right","toNode":"c52edf9482cfbb3e","toSide":"left","label":"として"}
+		{"id":"c42f06508d88a989","fromNode":"7ec46a413a1a006f","fromSide":"right","toNode":"c52edf9482cfbb3e","toSide":"left","label":"として"},
+		{"id":"449c20b9e62cb7f8","fromNode":"cd5fbef749c0a27e","fromSide":"right","toNode":"fc4622f275a8549b","toSide":"left"},
+		{"id":"40c23cf685f58ed8","fromNode":"c52edf9482cfbb3e","fromSide":"right","toNode":"a190865885328aae","toSide":"left","label":"Vよう＋としても"},
+		{"id":"76a73db8f13f3eb0","fromNode":"a190865885328aae","fromSide":"right","toNode":"e59dc6c0a742f7de","toSide":"left","label":"Vよう＋としても"}
 	]
 }

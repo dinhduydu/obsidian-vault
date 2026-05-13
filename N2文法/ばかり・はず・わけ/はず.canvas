@@ -1,15 +1,19 @@
 {
 	"nodes":[
-		{"id":"5a303f49497ea2fb","type":"file","file":"Pasted image 20260409005041.png","x":340,"y":-177,"width":716,"height":391},
-		{"id":"afaba88770c55f18","type":"text","text":"はず","x":-60,"y":-11,"width":250,"height":60},
-		{"id":"9a61091c05334643","type":"file","file":"Pasted image 20260409005115.png","x":-460,"y":280,"width":715,"height":391},
-		{"id":"011086080cb15edc","x":-642,"y":-173,"width":250,"height":60,"type":"text","text":"はずがない"},
-		{"id":"14e1436c9b958b3e","x":-1136,"y":-312,"width":250,"height":60,"type":"text","text":"Chắc chắn ko có khả năng đó"}
+		{"id":"011086080cb15edc","type":"text","text":"はずがない","x":-642,"y":-173,"width":250,"height":60},
+		{"id":"14e1436c9b958b3e","type":"text","text":"Chắc chắn ko có khả năng đó","x":-1136,"y":-312,"width":250,"height":60},
+		{"id":"9a61091c05334643","type":"file","file":"Pasted image 20260409005115.png","x":-340,"y":686,"width":715,"height":391},
+		{"id":"d54db750aebe9dc4","x":-108,"y":500,"width":250,"height":60,"type":"text","text":"はずだ"},
+		{"id":"5a303f49497ea2fb","type":"file","file":"Pasted image 20260409005041.png","x":560,"y":560,"width":716,"height":391},
+		{"id":"afaba88770c55f18","type":"text","text":"はず","x":-108,"y":-173,"width":250,"height":60},
+		{"id":"0debfdf02376b935","x":578,"y":237,"width":250,"height":60,"type":"text","text":"Nのはずだ"}
 	],
 	"edges":[
-		{"id":"eb8ac403781a6741","fromNode":"afaba88770c55f18","fromSide":"right","toNode":"5a303f49497ea2fb","toSide":"left"},
-		{"id":"a79ae3e1ee2fae92","fromNode":"afaba88770c55f18","fromSide":"bottom","toNode":"9a61091c05334643","toSide":"top"},
-		{"id":"222a57e54e8228b1","fromNode":"afaba88770c55f18","fromSide":"left","toNode":"011086080cb15edc","toSide":"right"},
-		{"id":"a3ce4b050bd01173","fromNode":"011086080cb15edc","fromSide":"left","toNode":"14e1436c9b958b3e","toSide":"right"}
+		{"id":"eb8ac403781a6741","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"5a303f49497ea2fb","toSide":"left"},
+		{"id":"a79ae3e1ee2fae92","fromNode":"d54db750aebe9dc4","fromSide":"bottom","toNode":"9a61091c05334643","toSide":"top"},
+		{"id":"222a57e54e8228b1","fromNode":"afaba88770c55f18","fromSide":"left","toNode":"011086080cb15edc","toSide":"right","label":"はずがない"},
+		{"id":"a3ce4b050bd01173","fromNode":"011086080cb15edc","fromSide":"left","toNode":"14e1436c9b958b3e","toSide":"right","label":"はずがない"},
+		{"id":"fe92f2eedf0920ce","fromNode":"afaba88770c55f18","fromSide":"bottom","toNode":"d54db750aebe9dc4","toSide":"top","label":"はず"},
+		{"id":"87b566ec81e5932f","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"0debfdf02376b935","toSide":"left"}
 	]
 }

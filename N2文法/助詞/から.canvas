@@ -49,15 +49,16 @@
 		{"id":"2f9398903b5bb697","type":"text","text":"Vてからでないと","x":849,"y":-740,"width":326,"height":90},
 		{"id":"b8ca30f5d007198c","type":"text","text":"からだ","x":-1274,"y":-768,"width":250,"height":60},
 		{"id":"530ab5bd4c8428bc","type":"text","text":"～のは～からだ","x":-1801,"y":-905,"width":250,"height":60},
-		{"id":"abb832bf85e3cf3e","type":"text","text":"Nhấn mạnh lý do","x":-2237,"y":-1016,"width":250,"height":60},
-		{"id":"43db6968a61d1a7d","type":"text","text":"Trình bày chủ đề A, lý do N","x":-2195,"y":-826,"width":250,"height":60},
 		{"id":"889df0687544a680","type":"file","file":"N2文法/さえ・より/さえ.canvas","x":1340,"y":1240,"width":185,"height":139},
 		{"id":"ab82b6311291051f","type":"file","file":"Pasted image 20260409080130.png","x":1200,"y":633,"width":400,"height":225},
 		{"id":"7a53a6d34e4c1194","type":"file","file":"N2文法/助詞/こそ.canvas","x":1898,"y":552,"width":167,"height":81},
 		{"id":"b07160434c6a8eef","type":"text","text":"からすると","x":-3340,"y":300,"width":250,"height":60},
 		{"id":"71a29b008af2a31e","type":"text","text":"ものだから","x":-780,"y":1200,"width":250,"height":60},
 		{"id":"b88d105e43a41870","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-1180,"y":1482,"width":227,"height":119},
-		{"id":"d117c8ff44d1c14a","type":"text","text":"からして","x":-3326,"y":528,"width":250,"height":60}
+		{"id":"d117c8ff44d1c14a","type":"text","text":"からして","x":-3326,"y":528,"width":250,"height":60},
+		{"id":"abb832bf85e3cf3e","type":"text","text":"Nhấn mạnh lý do","x":-2400,"y":-1260,"width":250,"height":60},
+		{"id":"43db6968a61d1a7d","type":"text","text":"Trình bày chủ đề A, lý do N","x":-2400,"y":-798,"width":250,"height":60},
+		{"id":"61487653bd48cb94","x":-1760,"y":-620,"width":250,"height":60,"type":"text","text":"～のは、～からこそだ"}
 	],
 	"edges":[
 		{"id":"4f9f0e89ab4eca1c","fromNode":"0bb198986fbdb20f","fromSide":"bottom","toNode":"f3ce2baf586f348e","toSide":"top","label":"からして"},
@@ -113,10 +114,11 @@
 		{"id":"5d9cba06969d4f1c","fromNode":"c744ab00eb7f6237","fromSide":"right","toNode":"13976dfe55311872","toSide":"left"},
 		{"id":"34cb6ccc9d680f20","fromNode":"2f9398903b5bb697","fromSide":"right","toNode":"b6f48c4f68004063","toSide":"left"},
 		{"id":"bdf849d9e4c31bc3","fromNode":"b66dccb90f64550e","fromSide":"left","toNode":"b8ca30f5d007198c","toSide":"right","label":"からだ"},
-		{"id":"37114af289eb7c76","fromNode":"b8ca30f5d007198c","fromSide":"left","toNode":"530ab5bd4c8428bc","toSide":"right"},
-		{"id":"2c29f3b11a8c35b4","fromNode":"530ab5bd4c8428bc","fromSide":"left","toNode":"abb832bf85e3cf3e","toSide":"right"},
-		{"id":"6f87fc73437a62fb","fromNode":"530ab5bd4c8428bc","fromSide":"left","toNode":"43db6968a61d1a7d","toSide":"right"},
+		{"id":"37114af289eb7c76","fromNode":"b8ca30f5d007198c","fromSide":"left","toNode":"530ab5bd4c8428bc","toSide":"right","label":"～のは～からだ"},
+		{"id":"2c29f3b11a8c35b4","fromNode":"530ab5bd4c8428bc","fromSide":"left","toNode":"abb832bf85e3cf3e","toSide":"right","label":"～のは～からだ"},
+		{"id":"6f87fc73437a62fb","fromNode":"530ab5bd4c8428bc","fromSide":"left","toNode":"43db6968a61d1a7d","toSide":"right","label":"～のは～からだ"},
 		{"id":"d451067267e9eabb","fromNode":"7a53a6d34e4c1194","fromSide":"left","toNode":"ab82b6311291051f","toSide":"right","label":"からこそ"},
-		{"id":"284e872f3071dd60","fromNode":"f8aa93e6cacebba4","fromSide":"left","toNode":"d117c8ff44d1c14a","toSide":"right","label":"からして"}
+		{"id":"284e872f3071dd60","fromNode":"f8aa93e6cacebba4","fromSide":"left","toNode":"d117c8ff44d1c14a","toSide":"right","label":"からして"},
+		{"id":"790502e8ea11d590","fromNode":"530ab5bd4c8428bc","fromSide":"bottom","toNode":"61487653bd48cb94","toSide":"top","label":"～のは、～からこぞ"}
 	]
 }

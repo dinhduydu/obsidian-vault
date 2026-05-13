@@ -12,7 +12,10 @@
 		{"id":"de17c158cdf56106","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":1960,"y":120,"width":79,"height":50},
 		{"id":"d00507d4ad573c96","type":"file","file":"N2文法/助詞/か.canvas","x":1960,"y":400,"width":108,"height":50},
 		{"id":"34968906856b09b0","type":"text","text":"かのうちに","x":-840,"y":-160,"width":250,"height":60},
-		{"id":"6c0b04e1a9ba8563","x":-1360,"y":-660,"width":400,"height":262,"type":"file","file":"Pasted image 20260505213049.png"}
+		{"id":"6c0b04e1a9ba8563","type":"file","file":"Pasted image 20260505213049.png","x":-1360,"y":-660,"width":400,"height":262},
+		{"id":"03fe02a1092c019b","type":"text","text":"Số lượng thời gian+うちに+もしない","x":981,"y":-259,"width":250,"height":60},
+		{"id":"b45da17f922fefa4","type":"text","text":"thời gian ngắn, chưa đến bao lâu thì đã có sự thay đổi B","x":1540,"y":-333,"width":250,"height":60},
+		{"id":"7769030b62805b4c","x":1545,"y":-191,"width":250,"height":60,"type":"text","text":"何か月もしないうちに"}
 	],
 	"edges":[
 		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right","label":"かのうちに"},
@@ -26,6 +29,9 @@
 		{"id":"b324ea3a2272494a","fromNode":"429029cf3356e5b6","fromSide":"right","toNode":"8699586206321d25","toSide":"left","label":"か～ないかうちに"},
 		{"id":"161687609f0c115e","fromNode":"8699586206321d25","fromSide":"right","toNode":"de17c158cdf56106","toSide":"left","label":"か～ないかうちに"},
 		{"id":"55f5d4afe9a762f8","fromNode":"8699586206321d25","fromSide":"right","toNode":"d00507d4ad573c96","toSide":"left","label":"か～ないかうちに"},
-		{"id":"3a24f2a8122c2e1a","fromNode":"34968906856b09b0","fromSide":"top","toNode":"6c0b04e1a9ba8563","toSide":"right","label":"かのうちに"}
+		{"id":"3a24f2a8122c2e1a","fromNode":"34968906856b09b0","fromSide":"top","toNode":"6c0b04e1a9ba8563","toSide":"right","label":"かのうちに"},
+		{"id":"bfdcabad85ff8260","fromNode":"429029cf3356e5b6","fromSide":"top","toNode":"03fe02a1092c019b","toSide":"left","label":"Số lượng thời gian+うちに\n+もしない"},
+		{"id":"887212de0a2626d3","fromNode":"03fe02a1092c019b","fromSide":"right","toNode":"b45da17f922fefa4","toSide":"left"},
+		{"id":"80fa890e7881110b","fromNode":"03fe02a1092c019b","fromSide":"right","toNode":"7769030b62805b4c","toSide":"left"}
 	]
 }

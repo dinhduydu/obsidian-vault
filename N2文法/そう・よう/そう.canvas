@@ -16,7 +16,7 @@
 		{"id":"2d883bddbf5abd23","type":"text","text":"đưa ra khả năng thấp","x":1179,"y":185,"width":250,"height":60},
 		{"id":"517832ec27eebfb4","type":"file","file":"N2文法/助詞/と.canvas","x":720,"y":1070,"width":248,"height":146},
 		{"id":"aa6a3c9a8f97e4cf","type":"text","text":"Vますそうとしても","x":1740,"y":793,"width":250,"height":60},
-		{"id":"afa8a6d7fe57a633","x":2640,"y":678,"width":400,"height":291,"type":"file","file":"Pasted image 20260504020551.png"}
+		{"id":"afa8a6d7fe57a633","type":"file","file":"Pasted image 20260504020551.png","x":2640,"y":678,"width":400,"height":291}
 	],
 	"edges":[
 		{"id":"61f5759fceaf4e30","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"e600f86b375a2e25","toSide":"left","label":"そうだ"},

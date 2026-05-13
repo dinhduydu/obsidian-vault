@@ -78,16 +78,17 @@
 		{"id":"939bce6f5b0517d9","type":"text","text":"","x":5284,"y":509,"width":250,"height":60},
 		{"id":"3c0df12752c401f4","type":"text","text":"","x":5337,"y":769,"width":250,"height":60},
 		{"id":"70ac58d2754e048c","type":"text","text":"","x":5371,"y":966,"width":250,"height":60},
-		{"id":"697dba321eff597c","x":4879,"y":1440,"width":250,"height":60,"type":"text","text":"Khẳng định"},
-		{"id":"4a6c21a59fbe91f2","x":4860,"y":1767,"width":250,"height":60,"type":"text","text":"じゃないかと思います"},
-		{"id":"ffb2ab29dfbbc027","x":4400,"y":2020,"width":250,"height":60,"type":"text","text":"じゃなかったかと思います"},
-		{"id":"74b531c72c2a78bc","x":5371,"y":1440,"width":250,"height":60,"type":"text","text":"ない～と思います"},
-		{"id":"6e850307d6d0ba21","x":5337,"y":1260,"width":250,"height":60,"type":"text","text":"Phủ định"},
-		{"id":"3afe074b66fc3941","x":5679,"y":2109,"width":250,"height":60,"type":"text","text":"Đuôi câu"},
-		{"id":"3d79cf9f1cfb7d13","x":6400,"y":2370,"width":250,"height":50,"type":"text","text":"KĐ/PĐ+じゃない！"},
-		{"id":"9684232583f0944d","x":5440,"y":2480,"width":250,"height":60,"type":"text","text":"KĐ/PĐ+じゃないでしょうか"},
-		{"id":"ef96e3e4ac8ebef4","x":5929,"y":2510,"width":290,"height":60,"type":"text","text":"KĐ/PĐ+じゃないの/んじゃない"},
-		{"id":"5842df387f85bc65","x":5949,"y":2860,"width":250,"height":60,"type":"text","text":"Khẳng định"}
+		{"id":"697dba321eff597c","type":"text","text":"Khẳng định","x":4879,"y":1440,"width":250,"height":60},
+		{"id":"4a6c21a59fbe91f2","type":"text","text":"じゃないかと思います","x":4860,"y":1767,"width":250,"height":60},
+		{"id":"ffb2ab29dfbbc027","type":"text","text":"じゃなかったかと思います","x":4400,"y":2020,"width":250,"height":60},
+		{"id":"74b531c72c2a78bc","type":"text","text":"ない～と思います","x":5371,"y":1440,"width":250,"height":60},
+		{"id":"6e850307d6d0ba21","type":"text","text":"Phủ định","x":5337,"y":1260,"width":250,"height":60},
+		{"id":"3afe074b66fc3941","type":"text","text":"Đuôi câu","x":5679,"y":2109,"width":250,"height":60},
+		{"id":"3d79cf9f1cfb7d13","type":"text","text":"KĐ/PĐ+じゃない！","x":6400,"y":2370,"width":250,"height":50},
+		{"id":"9684232583f0944d","type":"text","text":"KĐ/PĐ+じゃないでしょうか","x":5440,"y":2480,"width":250,"height":60},
+		{"id":"ef96e3e4ac8ebef4","type":"text","text":"KĐ/PĐ+じゃないの/んじゃない","x":5929,"y":2510,"width":290,"height":60},
+		{"id":"5842df387f85bc65","type":"text","text":"Khẳng định","x":5949,"y":2860,"width":250,"height":60},
+		{"id":"55d834ed763a79d4","x":2780,"y":-480,"width":400,"height":114,"type":"file","file":"Pasted image 20260508223132.png"}
 	],
 	"edges":[
 		{"id":"470e923f9a22780c","fromNode":"2899c22d54e7b7d6","fromSide":"left","toNode":"2e077217c00393bb","toSide":"right"},
@@ -185,6 +186,7 @@
 		{"id":"f75c3cd904727445","fromNode":"697dba321eff597c","fromSide":"bottom","toNode":"3afe074b66fc3941","toSide":"top","label":"Khẳng định"},
 		{"id":"9b6f357dcc385a0f","fromNode":"3d79cf9f1cfb7d13","fromSide":"bottom","toNode":"5842df387f85bc65","toSide":"top","label":"Khẳng định"},
 		{"id":"e0f4a582740fef36","fromNode":"ef96e3e4ac8ebef4","fromSide":"bottom","toNode":"5842df387f85bc65","toSide":"top","label":"Khẳng định"},
-		{"id":"ec856f093161b0c1","fromNode":"9684232583f0944d","fromSide":"bottom","toNode":"5842df387f85bc65","toSide":"top","label":"Khẳng định"}
+		{"id":"ec856f093161b0c1","fromNode":"9684232583f0944d","fromSide":"bottom","toNode":"5842df387f85bc65","toSide":"top","label":"Khẳng định"},
+		{"id":"9fc98011f5230577","fromNode":"be259ae07e85db7c","fromSide":"top","toNode":"55d834ed763a79d4","toSide":"right","label":"ないですむ"}
 	]
 }

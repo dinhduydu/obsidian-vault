@@ -14,8 +14,8 @@
 		{"id":"29109bc0cdccc5ec","type":"file","file":"Pasted image 20260410085131.png","x":-468,"y":-1740,"width":400,"height":223},
 		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限り・つもり・他/上.canvas","x":722,"y":-159,"width":260,"height":230},
 		{"id":"f71336f3484ee34d","type":"text","text":"do A then do B","x":1140,"y":-74,"width":250,"height":60},
-		{"id":"678edde220289337","x":1361,"y":565,"width":250,"height":60,"type":"text","text":"「N４」Vた"},
-		{"id":"10de499c3edb6476","x":1880,"y":565,"width":250,"height":60,"type":"text","text":"VたN"}
+		{"id":"678edde220289337","type":"text","text":"「N４」Vた","x":1361,"y":565,"width":250,"height":60},
+		{"id":"10de499c3edb6476","type":"text","text":"VたN","x":1880,"y":565,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4cc897dda400354e","fromNode":"670cadcc24748ef9","fromSide":"left","toNode":"04eddd31fc605a28","toSide":"right","label":"Vたきり"},

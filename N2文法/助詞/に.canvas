@@ -229,7 +229,7 @@
 		{"id":"c7546cf3137c2f20","type":"file","file":"Pasted image 20260412132404.png","x":2625,"y":376,"width":399,"height":215},
 		{"id":"ccd12625a4b4a53d","type":"text","text":"Dùng khi muốn truyền đạt sự đánh giá hay nhận xét rằng: ","x":1770,"y":559,"width":286,"height":66},
 		{"id":"b680214032d3ae20","type":"text","text":"khác với điều được dự đoán từ A","x":2375,"y":640,"width":250,"height":60},
-		{"id":"92d7a64fa97bd634","x":1751,"y":-1007,"width":250,"height":60,"type":"text","text":"Nに駆（か）られる"}
+		{"id":"92d7a64fa97bd634","type":"text","text":"Nに駆（か）られる","x":1751,"y":-1007,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},

@@ -7,12 +7,13 @@
 		{"id":"ff7673727b97a875","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/受身み.canvas","x":371,"y":-880,"width":400,"height":400},
 		{"id":"102d6714602ea79f","type":"text","text":"お/ご～になるます","x":-674,"y":-519,"width":250,"height":60},
 		{"id":"07bf33e52d9debdf","type":"text","text":"お/ご～します","x":-637,"y":-321,"width":250,"height":60},
-		{"id":"3dcde94960bb949c","x":-325,"y":437,"width":250,"height":60,"type":"text","text":"お持ちしましょうか"},
-		{"id":"bcf3eb10b011d65f","x":-325,"y":260,"width":250,"height":60,"type":"text","text":"お持ちしますか"},
-		{"id":"3747b62be50e5741","x":-399,"y":605,"width":250,"height":60,"type":"text","text":"知る"},
-		{"id":"2d3c1e6729ed9350","x":34,"y":594,"width":250,"height":60,"type":"text","text":"ご存知です"},
-		{"id":"599b2eac3db3e704","x":58,"y":760,"width":250,"height":60,"type":"text","text":"存じます"},
-		{"id":"c1f71b0c0e59ea42","x":-38,"y":963,"width":250,"height":60,"type":"text","text":"６．４７－０４０５２６１"}
+		{"id":"3dcde94960bb949c","type":"text","text":"お持ちしましょうか","x":-325,"y":437,"width":250,"height":60},
+		{"id":"bcf3eb10b011d65f","type":"text","text":"お持ちしますか","x":-325,"y":260,"width":250,"height":60},
+		{"id":"3747b62be50e5741","type":"text","text":"知っている","x":-399,"y":605,"width":250,"height":60},
+		{"id":"2d3c1e6729ed9350","type":"text","text":"ご存知です","x":34,"y":594,"width":250,"height":60},
+		{"id":"599b2eac3db3e704","type":"text","text":"存じます","x":58,"y":760,"width":250,"height":60},
+		{"id":"c1f71b0c0e59ea42","type":"text","text":"６．４７－０４０５２６１","x":-38,"y":963,"width":250,"height":60},
+		{"id":"b0a2d5aa8d2d32d8","x":780,"y":594,"width":250,"height":60,"type":"text","text":"ご存知（N)のはずだ"}
 	],
 	"edges":[
 		{"id":"bf78c9b8ba1b5a8f","fromNode":"3ec193e77192d649","fromSide":"right","toNode":"033e982b96110f3d","toSide":"left"},
@@ -20,6 +21,7 @@
 		{"id":"e509faa1268096f7","fromNode":"033e982b96110f3d","fromSide":"right","toNode":"b58b8bd1c56b672c","toSide":"left"},
 		{"id":"996421881a3d7c41","fromNode":"ff7673727b97a875","fromSide":"bottom","toNode":"b58b8bd1c56b672c","toSide":"top"},
 		{"id":"6892bc9c75ffa553","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"2d3c1e6729ed9350","toSide":"left","label":"TK"},
-		{"id":"4acbe4d14a0d987a","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"599b2eac3db3e704","toSide":"left","label":"KN"}
+		{"id":"4acbe4d14a0d987a","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"599b2eac3db3e704","toSide":"left","label":"KN"},
+		{"id":"4424c40072e25011","fromNode":"2d3c1e6729ed9350","fromSide":"right","toNode":"b0a2d5aa8d2d32d8","toSide":"left","label":"ご存知ご存知（N)のはずだ"}
 	]
 }
