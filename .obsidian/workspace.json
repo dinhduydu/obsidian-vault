@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+                "file": "N2文法/ない・いう・しまう/いう.canvas",
                 "viewState": {
-                  "x": 93.08312490532467,
-                  "y": 145.50718721597394,
-                  "zoom": -0.3333333333333332
+                  "x": -1559.6634141208106,
+                  "y": 1115.709174372257,
+                  "zoom": -1.1489821759773025
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thuỷ「氵」"
+              "title": "いう"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+                "file": "N2文法/ない・いう・しまう/いう.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thuỷ「氵」"
+              "title": "Outline of いう"
             }
           }
         ],
@@ -226,18 +226,20 @@
   },
   "active": "33e3a2c4a2471607",
   "lastOpenFiles": [
+    "N2文法/助詞/と.canvas",
+    "N2文法/助詞/は.canvas",
+    "N2文法/助詞/に.canvas",
+    "N2文法/ない・いう・しまう/いう.canvas",
+    "N2文法/くらい・ほど/ほど.canvas",
+    "N2文法/あまり・だけ/だけ.canvas",
+    "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
+    "N2doc/Bị động sai khiến AI.pdf",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Chuỷ　「匕」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp/Can　「干 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Biên「釆 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Bạch　「白 」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Bốc　「卜」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Bát　「癶 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Bì「皮」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Bôi　「貝」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Dự　「予」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Untitled",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Âm　「音」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp",
     "N2漢字/Bộ chỉ ý/Hay gặp",
     "Pasted image 20260517131237.png",
@@ -253,10 +255,8 @@
     "N2漢字/Bộ chỉ ý/氵(Thuỷ)",
     "N2漢字/Bộ chỉ ý",
     "N2漢字/Bộ chỉ âm",
-    "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
     "N2doc/Tailieuhoctiengnhat.com_sach-20-ngay-luyen-thi-tu-vung-ngu-phap-jlpt-n2.pdf",
     "N2doc/Thaolejp_Tong hop ngu phap N3.pdf",
-    "N2doc/Bị động sai khiến AI.pdf",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",

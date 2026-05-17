@@ -23,7 +23,7 @@
 		{"id":"b92eef60b1a3ed70","type":"file","file":"N2文法/こと・もの/こと.canvas","x":-1720,"y":-423,"width":249,"height":171},
 		{"id":"2c747cf29b926b42","type":"file","file":"N2文法/しか.canvas","x":-168,"y":358,"width":279,"height":130},
 		{"id":"1f49bbba2bdbd3ab","type":"file","file":"Pasted image 20260409011030.png","x":-1215,"y":-984,"width":399,"height":217},
-		{"id":"399e89aa522a367d","x":302,"y":422,"width":250,"height":60,"type":"text","text":"「N2」だけ"},
+		{"id":"399e89aa522a367d","type":"text","text":"「N2」だけ","x":302,"y":422,"width":250,"height":60},
 		{"id":"29176a39c245b34b","type":"text","text":"だけあって","x":980,"y":700,"width":250,"height":50},
 		{"id":"4cb03d3cb9f85bc7","type":"text","text":"だけまし","x":780,"y":920,"width":250,"height":60},
 		{"id":"2eaa74da7f504ec4","type":"text","text":"～が~だけだ","x":-85,"y":890,"width":250,"height":60}

@@ -38,7 +38,11 @@
 		{"id":"67636eae1fa86fa6","type":"file","file":"Pasted image 20260517111943.png","x":-3720,"y":-560,"width":400,"height":155},
 		{"id":"88811392c2a9db5a","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":-2197,"y":-899,"width":480,"height":100},
 		{"id":"1dac4fc2bcc7976c","type":"file","file":"Pasted image 20260412125807.png","x":-1957,"y":-517,"width":400,"height":198},
-		{"id":"8f7686485a9087a1","x":-2743,"y":-160,"width":250,"height":60,"type":"text","text":"というくらいのN"}
+		{"id":"8f7686485a9087a1","type":"text","text":"というくらいのN","x":-2743,"y":-160,"width":250,"height":60},
+		{"id":"b1447c2a13fe5f9b","type":"text","text":"にいうと","x":-1747,"y":1277,"width":250,"height":60},
+		{"id":"6641ef24bfd30c98","type":"file","file":"Pasted image 20260409075001.png","x":-2693,"y":680,"width":400,"height":400},
+		{"id":"4beb1baf02dfd748","type":"file","file":"Pasted image 20260409075011.png","x":-2693,"y":1220,"width":400,"height":400},
+		{"id":"a658191ab0016d30","type":"file","file":"Pasted image 20260409075023.png","x":-2693,"y":1680,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -80,6 +84,10 @@
 		{"id":"57ef97d6cdcfdf9a","fromNode":"45b97c54b24b5ba5","fromSide":"left","toNode":"aec75592e2c03e93","toSide":"right"},
 		{"id":"7b9835a505608a72","fromNode":"aec75592e2c03e93","fromSide":"left","toNode":"67636eae1fa86fa6","toSide":"right"},
 		{"id":"b06509907b38c4ff","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"8f7686485a9087a1","toSide":"right"},
-		{"id":"586f4bd246a3b5ba","fromNode":"8f7686485a9087a1","fromSide":"left","toNode":"67636eae1fa86fa6","toSide":"right","label":"というくらいのN"}
+		{"id":"586f4bd246a3b5ba","fromNode":"8f7686485a9087a1","fromSide":"left","toNode":"67636eae1fa86fa6","toSide":"right","label":"というくらいのN"},
+		{"id":"cdf4d0fc871149c7","fromNode":"55b175afad532f38","fromSide":"bottom","toNode":"b1447c2a13fe5f9b","toSide":"right"},
+		{"id":"fb541e6c990f0569","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"6641ef24bfd30c98","toSide":"right"},
+		{"id":"3696971c19f268df","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"4beb1baf02dfd748","toSide":"right"},
+		{"id":"e59e02140a37ecdc","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"a658191ab0016d30","toSide":"right"}
 	]
 }
