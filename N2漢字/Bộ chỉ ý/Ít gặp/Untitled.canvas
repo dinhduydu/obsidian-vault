@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f5d852c45bebaf8b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Nhục　「肉 (⺼) 」"},
+		{"id":"97bf7825cc4e0897","x":298,"y":-123,"width":250,"height":60,"type":"text","text":"胸"}
+	],
+	"edges":[
+		{"id":"f9daa3bb09c31dba","fromNode":"f5d852c45bebaf8b","fromSide":"right","toNode":"97bf7825cc4e0897","toSide":"left"}
+	]
+}

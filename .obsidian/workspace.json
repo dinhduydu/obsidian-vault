@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
                 "viewState": {
-                  "x": -40,
-                  "y": 85.5,
-                  "zoom": -0.3333333333333333
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thuỷ「氵」"
+              "title": "Nhập　「入」"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thuỷ「氵」"
+              "title": "Outline of Nhập　「入」"
             }
           }
         ],
@@ -224,26 +224,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e3a2c4a2471607",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ chỉ ý/Hay gặp/Đại (lớn)　「大」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Cổ　「鼓」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Cao　「高」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Cốt　「骨」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Cách　「革」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Cữu　「臼」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Chuỳ　「隹 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Chu　「舟」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Chí　「至」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Cân　「巾」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T",
+    "N2漢字/Bộ chỉ ý/Hay gặp/S",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M",
+    "N2漢字/Bộ chỉ ý/Hay gặp/D",
+    "N2漢字/Bộ chỉ ý/Hay gặp/C",
+    "N2漢字/Bộ chỉ ý/Hay gặp/B",
+    "N2漢字/Bộ chỉ ý/Hay gặp/A",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhất　「一」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Ngôn　「言 (訁)」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Untitled.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Mục　「目」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Miên　「宀」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Thiên （天）.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Môn　「門」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Mã　「馬」.canvas",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
     "N2doc/Bị động sai khiến AI.pdf",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Untitled",
     "N2漢字/Bộ chỉ ý/Ít gặp",
-    "N2漢字/Bộ chỉ ý/Hay gặp",
     "Pasted image 20260517131237.png",
     "Pasted image 20260517125314.png",
     "Pasted image 20260517112332.png",
@@ -252,11 +257,6 @@
     "Pasted image 20260517111957.png",
     "Pasted image 20260517111943.png",
     "Pasted image 20260517111722.png",
-    "N2漢字/Bộ chỉ ý/氵(Thuỷ)",
-    "N2漢字/Bộ chỉ ý",
-    "N2漢字/Bộ chỉ âm",
-    "N2doc/Tailieuhoctiengnhat.com_sach-20-ngay-luyen-thi-tu-vung-ngu-phap-jlpt-n2.pdf",
-    "N2doc/Thaolejp_Tong hop ngu phap N3.pdf",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d1a0c5384f1e3f4b","x":-149,"y":-33,"width":250,"height":60,"type":"text","text":"Đậu　「豆」"},
+		{"id":"53e3290e28f1c6d7","x":231,"y":-70,"width":250,"height":60,"type":"text","text":"頭 - Thủ"}
+	],
+	"edges":[
+		{"id":"f1f3d82218796ee8","fromNode":"d1a0c5384f1e3f4b","fromSide":"right","toNode":"53e3290e28f1c6d7","toSide":"left"}
+	]
+}

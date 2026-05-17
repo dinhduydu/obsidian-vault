@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"03f329fa1c3153cc","x":147,"y":-191,"width":250,"height":60,"type":"text","text":"開 - Khai"},
+		{"id":"4de25bb770723252","x":147,"y":-35,"width":250,"height":60,"type":"text","text":"閉 - Bế"},
+		{"id":"5f90dabd0545e4b8","x":-330,"y":-95,"width":250,"height":60,"type":"text","text":"Môn　「門」"},
+		{"id":"04d64416e589b718","x":147,"y":100,"width":250,"height":60,"type":"text","text":"間 - Môn"},
+		{"id":"ae5c856251f1dfcd","x":147,"y":220,"width":250,"height":60,"type":"text","text":"関 - Quan"}
+	],
+	"edges":[
+		{"id":"942684f94178ea85","fromNode":"5f90dabd0545e4b8","fromSide":"right","toNode":"03f329fa1c3153cc","toSide":"left"},
+		{"id":"5172fe3d0a6df74d","fromNode":"5f90dabd0545e4b8","fromSide":"right","toNode":"4de25bb770723252","toSide":"left"},
+		{"id":"e8d60fcc9ac63f8c","fromNode":"5f90dabd0545e4b8","fromSide":"right","toNode":"04d64416e589b718","toSide":"left"},
+		{"id":"58aa82c2c6f1fd48","fromNode":"5f90dabd0545e4b8","fromSide":"right","toNode":"ae5c856251f1dfcd","toSide":"left"}
+	]
+}
