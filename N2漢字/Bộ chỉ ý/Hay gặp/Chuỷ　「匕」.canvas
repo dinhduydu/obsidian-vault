@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ad859ffbe111232a","x":-182,"y":0,"width":182,"height":60,"type":"text","text":"Chuỷ　「匕」"},
+		{"id":"6aa1fbb1f672b40d","x":141,"y":-163,"width":250,"height":60,"type":"text","text":"能 - Năng"},
+		{"id":"4d3ec31635353aee","x":540,"y":-560,"width":1380,"height":540,"type":"link","url":"https://www.notion.so/1b9ae4aff2f2806eb446e1806cb7dd5f?v=1b9ae4aff2f281858abf000c70af089b&source=copy_link"}
+	],
+	"edges":[
+		{"id":"129aec2fe5d14d95","fromNode":"ad859ffbe111232a","fromSide":"right","toNode":"6aa1fbb1f672b40d","toSide":"left"},
+		{"id":"eee03e5ab15b4426","fromNode":"6aa1fbb1f672b40d","fromSide":"right","toNode":"4d3ec31635353aee","toSide":"left"}
+	]
+}

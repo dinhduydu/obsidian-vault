@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"024c31952327c820","type":"text","text":"Dự　「予」","x":-620,"y":-24,"width":250,"height":60},
+		{"id":"2cc71d2521e3227b","x":-120,"y":-334,"width":250,"height":60,"type":"text","text":"予 - Dự"},
+		{"id":"1d2be49c93341299","x":307,"y":-456,"width":250,"height":60,"type":"text","text":"予習"},
+		{"id":"97b05e48a7d6c220","x":324,"y":-271,"width":250,"height":60,"type":"text","text":"予定"},
+		{"id":"a07775f1caccf802","x":298,"y":-138,"width":250,"height":60,"type":"text","text":"予算"},
+		{"id":"012fc23d050af5a5","x":298,"y":6,"width":250,"height":60,"type":"text","text":"予報"},
+		{"id":"23ce67148f2956c0","x":777,"y":-24,"width":250,"height":60,"type":"text","text":"天気予報"},
+		{"id":"91fadd38aa29c062","x":-140,"y":242,"width":250,"height":60,"type":"text","text":"野 - Dạ/Dã"},
+		{"id":"83c244bf11dbfbb4","x":267,"y":219,"width":250,"height":60,"type":"text","text":"野原"},
+		{"id":"42fda62fb7bf53ba","x":264,"y":342,"width":250,"height":60,"type":"text","text":"野鳥"},
+		{"id":"6888a2b28cfc3e2b","x":652,"y":342,"width":250,"height":60,"type":"text","text":"やちょう"},
+		{"id":"15cbc691433020d1","x":1000,"y":342,"width":250,"height":60,"type":"text","text":"chim hoang dã"},
+		{"id":"530fc7d4284105a6","x":652,"y":219,"width":250,"height":60,"type":"text","text":"のはら"},
+		{"id":"4c0121922c925f91","x":1000,"y":219,"width":250,"height":60,"type":"text","text":"cánh đồng"},
+		{"id":"09f3d3cf45454c61","x":290,"y":500,"width":250,"height":60,"type":"text","text":"分野"},
+		{"id":"9dbc839368364368","x":678,"y":498,"width":250,"height":60,"type":"text","text":"ぶんや"},
+		{"id":"80a3ce34e129add5","x":1048,"y":505,"width":250,"height":60,"type":"text","text":"khu vực"}
+	],
+	"edges":[
+		{"id":"e7e601674024ce0b","fromNode":"024c31952327c820","fromSide":"right","toNode":"2cc71d2521e3227b","toSide":"left"},
+		{"id":"94359c34c1ca972d","fromNode":"2cc71d2521e3227b","fromSide":"right","toNode":"1d2be49c93341299","toSide":"left"},
+		{"id":"8cc7de84447ad2c5","fromNode":"2cc71d2521e3227b","fromSide":"right","toNode":"97b05e48a7d6c220","toSide":"left"},
+		{"id":"55c335890eae64da","fromNode":"2cc71d2521e3227b","fromSide":"right","toNode":"a07775f1caccf802","toSide":"left"},
+		{"id":"ab78040462f58b7b","fromNode":"2cc71d2521e3227b","fromSide":"right","toNode":"012fc23d050af5a5","toSide":"left"},
+		{"id":"8c23a85bd56d80bc","fromNode":"012fc23d050af5a5","fromSide":"right","toNode":"23ce67148f2956c0","toSide":"left"},
+		{"id":"60456807875ffb8a","fromNode":"024c31952327c820","fromSide":"right","toNode":"91fadd38aa29c062","toSide":"left"},
+		{"id":"25aace0622278c77","fromNode":"91fadd38aa29c062","fromSide":"right","toNode":"83c244bf11dbfbb4","toSide":"left"},
+		{"id":"9c546be2d1998eae","fromNode":"83c244bf11dbfbb4","fromSide":"right","toNode":"530fc7d4284105a6","toSide":"left"},
+		{"id":"bcbe10f169775883","fromNode":"91fadd38aa29c062","fromSide":"right","toNode":"42fda62fb7bf53ba","toSide":"left"},
+		{"id":"dbf34af03fe9bb82","fromNode":"530fc7d4284105a6","fromSide":"right","toNode":"4c0121922c925f91","toSide":"left"},
+		{"id":"5806ca722f51e105","fromNode":"42fda62fb7bf53ba","fromSide":"right","toNode":"6888a2b28cfc3e2b","toSide":"left"},
+		{"id":"2c2675409f24c0ad","fromNode":"6888a2b28cfc3e2b","fromSide":"right","toNode":"15cbc691433020d1","toSide":"left"},
+		{"id":"5a7c836b8aa8a028","fromNode":"91fadd38aa29c062","fromSide":"right","toNode":"09f3d3cf45454c61","toSide":"left"},
+		{"id":"fb93462ee002cb63","fromNode":"09f3d3cf45454c61","fromSide":"right","toNode":"9dbc839368364368","toSide":"left"},
+		{"id":"49ec0ece425da25a","fromNode":"9dbc839368364368","fromSide":"right","toNode":"80a3ce34e129add5","toSide":"left"}
+	]
+}

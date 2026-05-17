@@ -82,7 +82,6 @@
 		{"id":"351d445f028d9d48","type":"text","text":"N＋からN＋にかけて","x":-3848,"y":3777,"width":250,"height":60},
 		{"id":"dd04e42302e0835f","type":"text","text":"せっかく～のに","x":1732,"y":-7755,"width":250,"height":60},
 		{"id":"a36ce4fedf6084c5","type":"text","text":"せっかく","x":1140,"y":-7859,"width":250,"height":60},
-		{"id":"6ebf3e256f8bb95f","type":"text","text":"～にともなって","x":-973,"y":4184,"width":250,"height":60},
 		{"id":"65019f0e72c20acd","type":"text","text":"から～にかけて","x":-2924,"y":3837,"width":250,"height":60},
 		{"id":"a22402f7ab247dec","type":"text","text":"代わりに","x":-2727,"y":4107,"width":250,"height":60},
 		{"id":"c4848a3b7047c69c","type":"text","text":"～につき～","x":-2454,"y":4389,"width":250,"height":60},
@@ -243,8 +242,15 @@
 		{"id":"f1497391efab80c6","type":"text","text":"～について","x":-3010,"y":3360,"width":250,"height":60},
 		{"id":"a8407d3328b250b8","type":"text","text":"～わりに","x":-2799,"y":3165,"width":250,"height":60},
 		{"id":"6b598c86fa48a9aa","type":"text","text":"とともに","x":-1653,"y":3080,"width":250,"height":60},
-		{"id":"6fc9ce1f32a37f87","x":-2729,"y":5476,"width":250,"height":60,"type":"text","text":"に向かって"},
-		{"id":"b0b49ff708f55a33","x":-3360,"y":5464,"width":400,"height":85,"type":"file","file":"Pasted image 20260517131237.png"}
+		{"id":"6fc9ce1f32a37f87","type":"text","text":"に向かって","x":-2729,"y":5476,"width":250,"height":60},
+		{"id":"b0b49ff708f55a33","type":"file","file":"Pasted image 20260517131237.png","x":-3360,"y":5464,"width":398,"height":85},
+		{"id":"4a10cf367a2ea827","type":"text","text":"| に限って       |     |\n| ---------- | --- |\n| につき        |     |\n| には及（およ）ばない |     |\n| ～おりに       |     |\n| にしろ        |     |\n| に先立って      |     |\n| に沿って       |     |\n","x":-10120,"y":-2040,"width":730,"height":400},
+		{"id":"98a65bac3da4dd88","x":-8663,"y":-457,"width":250,"height":60,"type":"text","text":"Dọc theo"},
+		{"id":"427214e28df7f45e","type":"text","text":"| にほからならい |     |\n| ------- | --- |\n| にわったて   |     |\n| のみならず   |     |\n\n","x":-6440,"y":-2000,"width":730,"height":400},
+		{"id":"0410f88a77af5c3f","type":"text","text":"| に違いない |     |\n| ----- | --- |\n| に向かって |     |\n| ～に関して |     |\n| ～に反して |     |\n\n","x":-2101,"y":5490,"width":730,"height":400},
+		{"id":"194040d653ba77db","type":"text","text":"| 際に       |     |\n| -------- | --- |\n| ～にともなって  |     |\n| ～に関して    |     |\n| ～に反して    |     |\n| めったいに～ない |     |\n| ～くせに     |     |\n| とともに     |     |\n\n","x":-280,"y":3404,"width":730,"height":400},
+		{"id":"6ebf3e256f8bb95f","type":"text","text":"～にともなって","x":-969,"y":4028,"width":250,"height":60},
+		{"id":"bc3acda966feb7eb","type":"text","text":"| ～につき～   |     |\n| ------- | --- |\n| から～にかけて |     |\n| 代わりに    |     |\n| ～最中に    |     |\n| ～について   |     |\n| ～わりに    |     |\n\n\n","x":-4181,"y":3280,"width":730,"height":400}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},
@@ -405,7 +411,7 @@
 		{"id":"2ab0bf149a5a4547","fromNode":"e02d14d7d4022296","fromSide":"left","toNode":"dd04e42302e0835f","toSide":"right","label":"せっかく～のに"},
 		{"id":"79e7f70d01c3f6bd","fromNode":"dd04e42302e0835f","fromSide":"left","toNode":"a36ce4fedf6084c5","toSide":"right"},
 		{"id":"59b9d493a34f6777","fromNode":"26c41b7fa7f11dee","fromSide":"right","toNode":"293d5be22713533e","toSide":"left","label":"とおりに"},
-		{"id":"c791df093bcd496c","fromNode":"ff79c950912d9270","fromSide":"bottom","toNode":"6ebf3e256f8bb95f","toSide":"top","label":"～にともなって"},
+		{"id":"c791df093bcd496c","fromNode":"ff79c950912d9270","fromSide":"bottom","toNode":"6ebf3e256f8bb95f","toSide":"left","label":"～にともなって"},
 		{"id":"d9c5646c791a7f32","fromNode":"6ebf3e256f8bb95f","fromSide":"right","toNode":"a0af994daf969eaa","toSide":"left","label":"～にともなって"},
 		{"id":"57decef0e1216b9b","fromNode":"a0af994daf969eaa","fromSide":"right","toNode":"e7be195d57de0c3b","toSide":"left","label":"～にともなって"},
 		{"id":"1bbf89bd0e819e91","fromNode":"a0af994daf969eaa","fromSide":"right","toNode":"7334a3e6db8423e4","toSide":"left","label":"～にともなって"},
@@ -499,6 +505,7 @@
 		{"id":"3b77007a68159408","fromNode":"1370775a443fef0d","fromSide":"top","toNode":"41ce158ea731f1f6","toSide":"left","label":"たびに"},
 		{"id":"35ac5f56686fc2a7","fromNode":"ff79c950912d9270","fromSide":"left","toNode":"cc259fbf280bd597","toSide":"right","label":"～最中に"},
 		{"id":"9940d201831b6c9d","fromNode":"04437131b1c86ff1","fromSide":"left","toNode":"6fc9ce1f32a37f87","toSide":"right","label":"に向かって"},
-		{"id":"0e52deacd26fd1ae","fromNode":"6fc9ce1f32a37f87","fromSide":"left","toNode":"b0b49ff708f55a33","toSide":"right","label":"に向かって"}
+		{"id":"0e52deacd26fd1ae","fromNode":"6fc9ce1f32a37f87","fromSide":"left","toNode":"b0b49ff708f55a33","toSide":"right","label":"に向かって"},
+		{"id":"74856f35fbe083c7","fromNode":"1f2232250a1862f2","fromSide":"left","toNode":"98a65bac3da4dd88","toSide":"right"}
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3ad34c80a5a78bae","type":"text","text":"Chước　「勺」","x":-180,"y":-36,"width":250,"height":60},
+		{"id":"1ba910e58cefe017","type":"text","text":"- **「勺」** ban đầu là hình ảnh **cái muôi múc nước** (một vật dụng thời cổ).\n- Gắn liền với hành động: **múc, rót, lấy một phần nhỏ**.\n- Từ đó mở rộng thành các nghĩa như:\n    - **đo lường một lượng nhỏ**\n    - **tính toán kỹ lưỡng**\n    - **trích, chọn**","x":340,"y":-400,"width":485,"height":230},
+		{"id":"8536f690ce4a4d37","type":"text","text":"的 - Đích","x":342,"y":-21,"width":250,"height":60},
+		{"id":"0e48dca360766e59","type":"link","url":"https://www.notion.so/1b8ae4aff2f281b2ad90c456ce93b9da?v=1b8ae4aff2f281f898de000ccbc93a61&source=copy_link","x":1080,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2dbf2f1ba980efca","fromNode":"3ad34c80a5a78bae","fromSide":"right","toNode":"1ba910e58cefe017","toSide":"left"},
+		{"id":"3d70cfc74bfd6594","fromNode":"3ad34c80a5a78bae","fromSide":"right","toNode":"8536f690ce4a4d37","toSide":"left"},
+		{"id":"625497281ab8f790","fromNode":"8536f690ce4a4d37","fromSide":"right","toNode":"0e48dca360766e59","toSide":"left"}
+	]
+}

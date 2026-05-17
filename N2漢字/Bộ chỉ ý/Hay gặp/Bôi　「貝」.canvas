@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0d94e6913c928905","type":"text","text":"Bôi　「貝」","x":-59,"y":-23,"width":250,"height":60},
+		{"id":"0a0fb06d3a1aefa9","x":340,"y":-144,"width":250,"height":60,"type":"text","text":"vật quý"}
+	],
+	"edges":[
+		{"id":"34ef434a2ca87314","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"0a0fb06d3a1aefa9","toSide":"left"}
+	]
+}

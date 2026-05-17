@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"912a6c9f81516c90","x":180,"y":-240,"width":425,"height":110,"type":"text","text":"| vị trí thứ 2 | Hình móc, thường để chỉ cái nhỏ, yếu. |\n| --- | --- |"},
+		{"id":"4d6e75d48dd66aec","x":-300,"y":-60,"width":250,"height":60,"type":"text","text":"Ất 「乙」"}
+	],
+	"edges":[
+		{"id":"1405c3ff02f2656a","fromNode":"4d6e75d48dd66aec","fromSide":"right","toNode":"912a6c9f81516c90","toSide":"left"}
+	]
+}

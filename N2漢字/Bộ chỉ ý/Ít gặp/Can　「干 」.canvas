@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"82d8ed6073017bac","x":-84,"y":-13,"width":250,"height":60,"type":"text","text":"Can　「干 」"},
+		{"id":"a3b9004524c1a164","x":285,"y":-113,"width":250,"height":60,"type":"text","text":"khô, cạn, can dự"}
+	],
+	"edges":[
+		{"id":"92eaa0476e2825b3","fromNode":"82d8ed6073017bac","fromSide":"right","toNode":"a3b9004524c1a164","toSide":"left"}
+	]
+}

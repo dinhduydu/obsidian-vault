@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0fccd4033ae823e2","x":-147,"y":-14,"width":250,"height":60,"type":"text","text":"Bì「皮」"},
+		{"id":"3ccf27e449c6cfac","x":224,"y":-68,"width":250,"height":60,"type":"text","text":"皮 – (bì): da"}
+	],
+	"edges":[
+		{"id":"0a416a6919d184be","fromNode":"0fccd4033ae823e2","fromSide":"right","toNode":"3ccf27e449c6cfac","toSide":"left"}
+	]
+}

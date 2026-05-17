@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"085249d0af51994a","x":-400,"y":-20,"width":250,"height":60,"type":"text","text":"Á　「襾 (西)」"},
+		{"id":"530169976ee03ae3","x":14,"y":-160,"width":250,"height":60,"type":"text","text":"che đậy"}
+	],
+	"edges":[
+		{"id":"b9cee785031e5325","fromNode":"085249d0af51994a","fromSide":"right","toNode":"530169976ee03ae3","toSide":"left"}
+	]
+}

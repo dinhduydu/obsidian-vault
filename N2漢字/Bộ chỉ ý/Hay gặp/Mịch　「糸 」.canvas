@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bd7846c7848a4560","type":"text","text":"Mịch　「糸 」","x":-520,"y":80,"width":250,"height":60},
+		{"id":"d9daaa660411cbd6","type":"text","text":"関係","x":500,"y":80,"width":250,"height":60},
+		{"id":"db16d4ac5be9c729","type":"text","text":"系　(Hệ)","x":-28,"y":80,"width":250,"height":60},
+		{"id":"2b4eb117a1027516","type":"text","text":"神経","x":-28,"y":-160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9b9f078448643fc5","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"2b4eb117a1027516","toSide":"left"},
+		{"id":"5a363dceadec1246","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"db16d4ac5be9c729","toSide":"left"},
+		{"id":"9640c65cd9c859e8","fromNode":"db16d4ac5be9c729","fromSide":"right","toNode":"d9daaa660411cbd6","toSide":"left"}
+	]
+}

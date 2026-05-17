@@ -30,15 +30,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/氵(Thuỷ).canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/Ấp (Phụ)　「邑 (⻏)」.canvas",
                 "viewState": {
-                  "x": 359.61659006932314,
-                  "y": 170.29636753559325,
-                  "zoom": 0.3333333333333334
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "氵(Thuỷ)"
+              "title": "Ấp (Phụ)　「邑 (⻏)」"
+            }
+          },
+          {
+            "id": "33e3a2c4a2471607",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+                "viewState": {
+                  "x": 93.08312490532467,
+                  "y": 145.50718721597394,
+                  "zoom": -0.3333333333333332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thuỷ「氵」"
             }
           },
           {
@@ -59,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/氵(Thuỷ).canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of 氵(Thuỷ)"
+              "title": "Outline of Thuỷ「氵」"
             }
           }
         ],
@@ -207,23 +224,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3eefdcbe58303b",
+  "active": "33e3a2c4a2471607",
   "lastOpenFiles": [
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
-    "N2文法/助詞/に.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Chuỷ　「匕」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Can　「干 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Biên「釆 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Bạch　「白 」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Bốc　「卜」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Bát　「癶 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Bì「皮」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Bôi　「貝」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Dự　「予」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Untitled",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Âm　「音」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp",
+    "N2漢字/Bộ chỉ ý/Hay gặp",
     "Pasted image 20260517131237.png",
-    "N2文法/助詞/から.canvas",
     "Pasted image 20260517125314.png",
-    "N2文法/助詞/こそ.canvas",
-    "N2文法/助詞/なら.canvas",
-    "N2文法/そう・よう/よう.canvas",
-    "N2漢字/Bộ chỉ ý/糸 (Mịch).canvas",
-    "N2漢字/N2漢字.canvas",
     "Pasted image 20260517112332.png",
     "Pasted image 20260517112330.png",
-    "N2文法/助詞/は.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
     "Pasted image 20260517112146.png",
     "Pasted image 20260517111957.png",
     "Pasted image 20260517111943.png",
@@ -237,9 +257,6 @@
     "N2doc/Tailieuhoctiengnhat.com_sach-20-ngay-luyen-thi-tu-vung-ngu-phap-jlpt-n2.pdf",
     "N2doc/Thaolejp_Tong hop ngu phap N3.pdf",
     "N2doc/Bị động sai khiến AI.pdf",
-    "N2doc",
-    "AUTOSAR",
-    "N2漢字/Untitled.base",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",
