@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"af7d612970d61c32","type":"text","text":"Cốt　「骨」","x":-234,"y":-26,"width":250,"height":60},
+		{"id":"9bde495e523ad39d","type":"text","text":"滑る「すべる」（Trượt)","x":200,"y":-180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cebe79937ee1d2ad","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"9bde495e523ad39d","toSide":"left"}
+	]
+}

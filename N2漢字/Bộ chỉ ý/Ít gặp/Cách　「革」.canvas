@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"23cbaa0a085abe50","x":-132,"y":-40,"width":250,"height":60,"type":"text","text":"Cách　「革」"},
+		{"id":"04808e8a87b3a90d","x":203,"y":-99,"width":250,"height":60,"type":"text","text":"da thuộc"}
+	],
+	"edges":[
+		{"id":"914d18425bb93457","fromNode":"23cbaa0a085abe50","fromSide":"right","toNode":"04808e8a87b3a90d","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5ac0f7e2e9f132a4","x":-145,"y":-37,"width":250,"height":60,"type":"text","text":"Chí　「至」"},
+		{"id":"09d9150d320a0e6c","x":217,"y":-94,"width":250,"height":60,"type":"text","text":"đến"}
+	],
+	"edges":[
+		{"id":"435b5ca1c061ec0b","fromNode":"5ac0f7e2e9f132a4","fromSide":"right","toNode":"09d9150d320a0e6c","toSide":"left"}
+	]
+}

@@ -2,12 +2,14 @@
 	"nodes":[
 		{"id":"365a8be1053fad2c","type":"text","text":"Thuỷ「氵」","x":-400,"y":85,"width":130,"height":55},
 		{"id":"d1aa6dccdbcde7d6","type":"text","text":"滑る「すべる」（Trượt)","x":18,"y":-149,"width":250,"height":60},
-		{"id":"8ae4b6ba2bfbf412","type":"text","text":"涙  「なみだ」(nước mắt)","x":18,"y":85,"width":250,"height":60},
-		{"id":"577ad57af32914a5","x":18,"y":260,"width":302,"height":60,"type":"text","text":"浸透　「しんとう」 Thẩm thấu"}
+		{"id":"577ad57af32914a5","type":"text","text":"浸透　「しんとう」 Thẩm thấu","x":18,"y":260,"width":302,"height":60},
+		{"id":"8ae4b6ba2bfbf412","type":"text","text":"涙  「なみだ」(nước mắt)","x":400,"y":30,"width":250,"height":60},
+		{"id":"bbd2e91d32cce472","x":0,"y":30,"width":250,"height":60,"type":"text","text":"涙 - Lệ"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"d1aa6dccdbcde7d6","toSide":"left"},
-		{"id":"dbad53190276c87a","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8ae4b6ba2bfbf412","toSide":"left"},
-		{"id":"4a94c5c71aee4dae","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"577ad57af32914a5","toSide":"left"}
+		{"id":"dbad53190276c87a","fromNode":"bbd2e91d32cce472","fromSide":"right","toNode":"8ae4b6ba2bfbf412","toSide":"left"},
+		{"id":"4a94c5c71aee4dae","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"577ad57af32914a5","toSide":"left"},
+		{"id":"be1ba79ba7ef84fc","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"bbd2e91d32cce472","toSide":"left"}
 	]
 }

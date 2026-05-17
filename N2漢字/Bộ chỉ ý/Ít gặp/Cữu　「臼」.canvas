@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5022cf9e5a5e450f","x":-191,"y":-76,"width":250,"height":60,"type":"text","text":"Cữu　「臼」"},
+		{"id":"327fafcc5d25b95f","x":214,"y":-129,"width":250,"height":60,"type":"text","text":"cái cối giã"}
+	],
+	"edges":[
+		{"id":"8b647766e4661f7c","fromNode":"5022cf9e5a5e450f","fromSide":"right","toNode":"327fafcc5d25b95f","toSide":"left"}
+	]
+}

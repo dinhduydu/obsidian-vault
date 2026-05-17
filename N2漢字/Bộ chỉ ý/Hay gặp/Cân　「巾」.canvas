@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a8a8377ae13afc8f","x":-113,"y":-41,"width":250,"height":60,"type":"text","text":"Cân　「巾」"},
+		{"id":"4f3a9f19dac248d9","x":248,"y":-163,"width":352,"height":83,"type":"text","text":"|   |   |\n|---|---|\n|khăn|Dùng để lau hoặc đeo.|"},
+		{"id":"d641f9ab083ec1ac","x":248,"y":35,"width":250,"height":60,"type":"text","text":"希 - Hy"},
+		{"id":"296af41e8ca8936c","x":860,"y":-211,"width":400,"height":400,"type":"link","url":"https://www.notion.so/1b8ae4aff2f28130a317d729b7155242?v=1b8ae4aff2f281838c5c000c18334bca&source=copy_link"}
+	],
+	"edges":[
+		{"id":"32c7e49bc0c3ae4f","fromNode":"a8a8377ae13afc8f","fromSide":"right","toNode":"4f3a9f19dac248d9","toSide":"left"},
+		{"id":"5976bdc5e6721bcd","fromNode":"a8a8377ae13afc8f","fromSide":"right","toNode":"d641f9ab083ec1ac","toSide":"left"},
+		{"id":"e12760e71c529e58","fromNode":"d641f9ab083ec1ac","fromSide":"right","toNode":"296af41e8ca8936c","toSide":"left"}
+	]
+}

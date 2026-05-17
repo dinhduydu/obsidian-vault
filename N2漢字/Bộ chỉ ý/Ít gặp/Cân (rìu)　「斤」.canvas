@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"74e7034a94ce5911","x":-138,"y":-21,"width":250,"height":60,"type":"text","text":"Cân (rìu)　「斤」"},
+		{"id":"235ce0aaba46ae7c","x":239,"y":-97,"width":250,"height":60,"type":"text","text":"rìu, đo khối lượng"}
+	],
+	"edges":[
+		{"id":"d6d565bd2dc84c94","fromNode":"74e7034a94ce5911","fromSide":"right","toNode":"235ce0aaba46ae7c","toSide":"left"}
+	]
+}

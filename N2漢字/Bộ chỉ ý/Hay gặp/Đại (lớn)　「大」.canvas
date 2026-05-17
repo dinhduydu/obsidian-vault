@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cc62b56140fb469c","x":-153,"y":-15,"width":250,"height":60,"type":"text","text":"Đại (lớn)　「大」"},
+		{"id":"e8a2fb851c394dc2","x":297,"y":-160,"width":250,"height":60,"type":"text","text":"涙 - Lệ"}
+	],
+	"edges":[
+		{"id":"808c5b7b6fb326e3","fromNode":"cc62b56140fb469c","fromSide":"right","toNode":"e8a2fb851c394dc2","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0689cb8ee792b674","x":-113,"y":-45,"width":250,"height":60,"type":"text","text":"Chu　「舟」"},
+		{"id":"f8f42e5b9ff8811d","x":254,"y":-115,"width":250,"height":60,"type":"text","text":"thuyền"}
+	],
+	"edges":[
+		{"id":"6debec7c81dface1","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"f8f42e5b9ff8811d","toSide":"left"}
+	]
+}

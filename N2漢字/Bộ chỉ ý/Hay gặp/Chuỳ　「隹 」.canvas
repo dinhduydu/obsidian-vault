@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"585bbf413fa054ad","x":-152,"y":-29,"width":250,"height":60,"type":"text","text":"Chuỳ　「隹 」"},
+		{"id":"a4268206fdd6ab55","x":257,"y":-192,"width":250,"height":60,"type":"text","text":"chim ngắn đuôi"}
+	],
+	"edges":[
+		{"id":"c623540a98dd7756","fromNode":"585bbf413fa054ad","fromSide":"right","toNode":"a4268206fdd6ab55","toSide":"left"}
+	]
+}

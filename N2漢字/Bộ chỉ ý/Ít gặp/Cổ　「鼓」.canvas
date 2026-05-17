@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"22b567743b909598","x":-165,"y":-18,"width":250,"height":60,"type":"text","text":"Cổ　「鼓」"},
+		{"id":"6a6686be688f6b21","x":212,"y":-99,"width":250,"height":60,"type":"text","text":"cái trống"}
+	],
+	"edges":[
+		{"id":"8c1a2fdcc8c5ee71","fromNode":"22b567743b909598","fromSide":"right","toNode":"6a6686be688f6b21","toSide":"left"}
+	]
+}
