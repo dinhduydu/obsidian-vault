@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
+                "file": "N2漢字/Bộ chỉ ý/氵(Thuỷ).canvas",
                 "viewState": {
-                  "x": 455.5,
-                  "y": -420,
-                  "zoom": -1.6059802819902393
+                  "x": 359.61659006932314,
+                  "y": 170.29636753559325,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vた"
+              "title": "氵(Thuỷ)"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
+                "file": "N2漢字/Bộ chỉ ý/氵(Thuỷ).canvas",
                 "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vた"
+              "title": "Outline of 氵(Thuỷ)"
             }
           }
         ],
@@ -207,41 +207,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "8d3eefdcbe58303b",
   "lastOpenFiles": [
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "N2文法/助詞/に.canvas",
+    "Pasted image 20260517131237.png",
+    "N2文法/助詞/から.canvas",
+    "Pasted image 20260517125314.png",
+    "N2文法/助詞/こそ.canvas",
+    "N2文法/助詞/なら.canvas",
+    "N2文法/そう・よう/よう.canvas",
+    "N2漢字/Bộ chỉ ý/糸 (Mịch).canvas",
+    "N2漢字/N2漢字.canvas",
+    "Pasted image 20260517112332.png",
+    "Pasted image 20260517112330.png",
+    "N2文法/助詞/は.canvas",
+    "N2文法/ない・いう・しまう/いう.canvas",
+    "Pasted image 20260517112146.png",
+    "Pasted image 20260517111957.png",
+    "Pasted image 20260517111943.png",
+    "Pasted image 20260517111722.png",
+    "Pasted image 20260517111515.png",
+    "Pasted image 20260517111207.png",
+    "N2漢字/Bộ chỉ ý/氵(Thuỷ)",
+    "N2漢字/Bộ chỉ ý",
+    "N2漢字/Bộ chỉ âm",
     "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
     "N2doc/Tailieuhoctiengnhat.com_sach-20-ngay-luyen-thi-tu-vung-ngu-phap-jlpt-n2.pdf",
     "N2doc/Thaolejp_Tong hop ngu phap N3.pdf",
     "N2doc/Bị động sai khiến AI.pdf",
     "N2doc",
-    "AUTOSAR/EBtresos.canvas",
     "AUTOSAR",
-    "AUTOSAR/Untitled.canvas",
-    "N2文法/さえ・より/さえ.canvas",
-    "N2文法/助詞/から.canvas",
-    "N2文法/尊敬語/尊敬語.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/使役受身.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/受身み.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas",
-    "N2文法/ばかり・はず・わけ/はず.canvas",
-    "N2文法/こと・もの/もの.canvas",
-    "Pasted image 20260508223132.png",
-    "Pasted image 20260508223050.png",
     "N2漢字/Untitled.base",
-    "N2漢字",
-    "N2語彙",
-    "Pasted image 20260507002346.png",
-    "Pasted image 20260507002344.png",
-    "Pasted image 20260505213225.png",
-    "Pasted image 20260505213049.png",
-    "Pasted image 20260505213048.png",
-    "Pasted image 20260505212721.png",
-    "Pasted image 20260505210539.png",
-    "Pasted image 20260505210442.png",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
-    "N2文法/なる・する",
-    "Untitled.base",
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/複合動詞/Untitled.md",
     "からには.md",

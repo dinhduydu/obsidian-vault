@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"d5091413e4d9b20f","x":-440,"y":200,"width":400,"height":400,"type":"file","file":"N2文法/ない・いう・しまう/ない.canvas"},
-		{"id":"259225d5706e21b0","x":-820,"y":370,"width":250,"height":60,"type":"text","text":"ほど～はない"},
+		{"id":"d5091413e4d9b20f","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":-440,"y":200,"width":400,"height":400},
+		{"id":"259225d5706e21b0","type":"text","text":"ほど～はない","x":-820,"y":370,"width":250,"height":60},
 		{"id":"0620a1ae98c36ea0","type":"text","text":"～ほど","x":280,"y":240,"width":250,"height":60},
-		{"id":"83d39849359740a6","type":"text","text":"ほど","x":30,"y":-60,"width":250,"height":60}
+		{"id":"83d39849359740a6","type":"text","text":"ほど","x":30,"y":-60,"width":250,"height":60},
+		{"id":"797184928dc0ba08","type":"text","text":"Vるほど","x":760,"y":241,"width":250,"height":60},
+		{"id":"f1dae7e3c48647a4","type":"file","file":"Pasted image 20260517111722.png","x":1260,"y":226,"width":399,"height":89}
 	],
 	"edges":[
 		{"id":"e219827ba5ba1888","fromNode":"83d39849359740a6","fromSide":"bottom","toNode":"0620a1ae98c36ea0","toSide":"top"},
 		{"id":"0a2f2d53f616b058","fromNode":"d5091413e4d9b20f","fromSide":"left","toNode":"259225d5706e21b0","toSide":"right"},
-		{"id":"693c42ab78107b62","fromNode":"0620a1ae98c36ea0","fromSide":"left","toNode":"d5091413e4d9b20f","toSide":"right","label":"ほど～はない"}
+		{"id":"693c42ab78107b62","fromNode":"0620a1ae98c36ea0","fromSide":"left","toNode":"d5091413e4d9b20f","toSide":"right","label":"ほど～はない"},
+		{"id":"3170219d119d13f9","fromNode":"0620a1ae98c36ea0","fromSide":"right","toNode":"797184928dc0ba08","toSide":"left","label":"Vるほど"},
+		{"id":"0845a90225921b2c","fromNode":"797184928dc0ba08","fromSide":"right","toNode":"f1dae7e3c48647a4","toSide":"left","label":"Vるほど"}
 	]
 }

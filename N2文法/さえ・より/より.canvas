@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"2c092303cc5ae0be","x":-178,"y":-51,"width":250,"height":60,"type":"text","text":"より"},
-		{"id":"a6a918e33bd425ec","x":-671,"y":-49,"width":250,"height":60,"type":"text","text":"というより"}
+		{"id":"2c092303cc5ae0be","type":"text","text":"より","x":-178,"y":-51,"width":250,"height":60},
+		{"id":"a6a918e33bd425ec","type":"text","text":"というより","x":-671,"y":-49,"width":250,"height":60},
+		{"id":"558f0c574ef79114","x":-1100,"y":-300,"width":243,"height":200,"type":"file","file":"N2文法/ない・いう・しまう/いう.canvas"}
 	],
 	"edges":[
-		{"id":"b98485374c41ed69","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"a6a918e33bd425ec","toSide":"right"}
+		{"id":"b98485374c41ed69","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"a6a918e33bd425ec","toSide":"right"},
+		{"id":"f4ff920998413e50","fromNode":"a6a918e33bd425ec","fromSide":"left","toNode":"558f0c574ef79114","toSide":"right","label":"というより"}
 	]
 }

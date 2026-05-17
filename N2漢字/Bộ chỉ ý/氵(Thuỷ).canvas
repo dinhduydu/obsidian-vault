@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"365a8be1053fad2c","type":"text","text":"氵","x":-380,"y":90,"width":110,"height":50},
+		{"id":"d1aa6dccdbcde7d6","type":"text","text":"滑る「すべる」（Trượt)","x":18,"y":-149,"width":250,"height":60},
+		{"id":"8ae4b6ba2bfbf412","x":18,"y":85,"width":250,"height":60,"type":"text","text":"涙  「なみだ」(nước mắt)"}
+	],
+	"edges":[
+		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"d1aa6dccdbcde7d6","toSide":"left"},
+		{"id":"dbad53190276c87a","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8ae4b6ba2bfbf412","toSide":"left"}
+	]
+}

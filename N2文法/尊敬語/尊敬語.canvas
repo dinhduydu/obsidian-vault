@@ -12,8 +12,11 @@
 		{"id":"3747b62be50e5741","type":"text","text":"知っている","x":-399,"y":605,"width":250,"height":60},
 		{"id":"2d3c1e6729ed9350","type":"text","text":"ご存知です","x":34,"y":594,"width":250,"height":60},
 		{"id":"599b2eac3db3e704","type":"text","text":"存じます","x":58,"y":760,"width":250,"height":60},
-		{"id":"c1f71b0c0e59ea42","type":"text","text":"６．４７－０４０５２６１","x":-38,"y":963,"width":250,"height":60},
-		{"id":"b0a2d5aa8d2d32d8","x":780,"y":594,"width":250,"height":60,"type":"text","text":"ご存知（N)のはずだ"}
+		{"id":"b0a2d5aa8d2d32d8","type":"text","text":"ご存知（N)のはずだ","x":780,"y":594,"width":250,"height":60},
+		{"id":"c1f71b0c0e59ea42","type":"text","text":"６．４７－０４０５２６１","x":-960,"y":730,"width":250,"height":60},
+		{"id":"9fc13fd53a617c3f","type":"file","file":"Pasted image 20260517105957.png","x":34,"y":980,"width":400,"height":89},
+		{"id":"2d99bce538ebb2fe","type":"text","text":"聞いていらっしゃる","x":-200,"y":1140,"width":250,"height":60},
+		{"id":"d829bb99bb32337a","type":"text","text":"聞いている","x":-649,"y":1140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"bf78c9b8ba1b5a8f","fromNode":"3ec193e77192d649","fromSide":"right","toNode":"033e982b96110f3d","toSide":"left"},
@@ -22,6 +25,7 @@
 		{"id":"996421881a3d7c41","fromNode":"ff7673727b97a875","fromSide":"bottom","toNode":"b58b8bd1c56b672c","toSide":"top"},
 		{"id":"6892bc9c75ffa553","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"2d3c1e6729ed9350","toSide":"left","label":"TK"},
 		{"id":"4acbe4d14a0d987a","fromNode":"3747b62be50e5741","fromSide":"right","toNode":"599b2eac3db3e704","toSide":"left","label":"KN"},
-		{"id":"4424c40072e25011","fromNode":"2d3c1e6729ed9350","fromSide":"right","toNode":"b0a2d5aa8d2d32d8","toSide":"left","label":"ご存知ご存知（N)のはずだ"}
+		{"id":"4424c40072e25011","fromNode":"2d3c1e6729ed9350","fromSide":"right","toNode":"b0a2d5aa8d2d32d8","toSide":"left","label":"ご存知ご存知（N)のはずだ"},
+		{"id":"f8870fec5cec7bd4","fromNode":"d829bb99bb32337a","fromSide":"right","toNode":"2d99bce538ebb2fe","toSide":"left","label":"TK"}
 	]
 }

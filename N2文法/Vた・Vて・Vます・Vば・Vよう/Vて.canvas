@@ -81,7 +81,7 @@
 		{"id":"8423ec98cad51b7c","type":"text","text":"「N4」Vて","x":1335,"y":-756,"width":250,"height":60},
 		{"id":"a7d972c957f04391","type":"text","text":"「N２」Vて","x":49,"y":0,"width":250,"height":60},
 		{"id":"5ddbcaa57f6f444a","type":"text","text":"Vてまで","x":878,"y":-169,"width":250,"height":60},
-		{"id":"891595f92098c66d","type":"text","text":"ほしい","x":-2245,"y":501,"width":250,"height":60},
+		{"id":"891595f92098c66d","type":"text","text":"Vてほしい","x":-2245,"y":501,"width":250,"height":60},
 		{"id":"4479f633a3a55cc4","type":"file","file":"Pasted image 20260410075138.png","x":-1595,"y":362,"width":511,"height":278},
 		{"id":"d2a8b42a6e999c6a","type":"text","text":"「N4」Vて","x":-860,"y":122,"width":250,"height":60},
 		{"id":"543fc61deffc6641","type":"text","text":"Vてもいい","x":-920,"y":675,"width":250,"height":50},
@@ -136,7 +136,8 @@
 		{"id":"25f5ecc74238baa7","type":"text","text":"Vてはじめて","x":-1240,"y":-1120,"width":250,"height":60},
 		{"id":"515c3c6ef99f2583","type":"file","file":"N2文法/助詞/まで.canvas","x":1380,"y":-233,"width":253,"height":189},
 		{"id":"7d298a65ccd47159","type":"text","text":"Vてでも","x":-320,"y":401,"width":250,"height":60},
-		{"id":"9ea317bd7858ec52","x":5731,"y":-2075,"width":244,"height":184,"type":"file","file":"Pasted image 20260505210130.png"}
+		{"id":"9ea317bd7858ec52","type":"file","file":"Pasted image 20260505210130.png","x":5731,"y":-2075,"width":244,"height":184},
+		{"id":"798583bfa0babf8d","type":"file","file":"Pasted image 20260517131237.png","x":-3300,"y":416,"width":398,"height":85}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"835add4850e7963d","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left","label":"Vてくれる"},
@@ -282,6 +283,7 @@
 		{"id":"8bbf61750c8ff97a","fromNode":"909e5ab3e18a113b","fromSide":"top","toNode":"68643211f098537f","toSide":"right","label":"Vて以来"},
 		{"id":"0481107a93ee5e66","fromNode":"5ddbcaa57f6f444a","fromSide":"right","toNode":"515c3c6ef99f2583","toSide":"left"},
 		{"id":"88e1927da70f9ac3","fromNode":"a7d972c957f04391","fromSide":"bottom","toNode":"7d298a65ccd47159","toSide":"top"},
-		{"id":"43c5365faf4e7bf9","fromNode":"57f9e9a27ae902ae","fromSide":"bottom","toNode":"9ea317bd7858ec52","toSide":"top","label":"Vてくれた"}
+		{"id":"43c5365faf4e7bf9","fromNode":"57f9e9a27ae902ae","fromSide":"bottom","toNode":"9ea317bd7858ec52","toSide":"top","label":"Vてくれた"},
+		{"id":"c3d216bd100509fc","fromNode":"891595f92098c66d","fromSide":"left","toNode":"798583bfa0babf8d","toSide":"right","label":"Vてほしい"}
 	]
 }

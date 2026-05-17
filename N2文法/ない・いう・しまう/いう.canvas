@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"0a654bff1d0c6558","type":"file","file":"N2文法/さえ・より/より.canvas","x":-2468,"y":-1331,"width":400,"height":400},
 		{"id":"7965ea4a9af48b7e","type":"file","file":"Pasted image 20260410083626.png","x":365,"y":-536,"width":400,"height":217},
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-162,"y":466,"width":250,"height":60},
 		{"id":"d2209c220e41fa0f","type":"text","text":"と","x":240,"y":466,"width":250,"height":60},
@@ -13,10 +12,6 @@
 		{"id":"7e90f3117635df2d","type":"text","text":"## 3. Nhấn mạnh / liệt kê (＝ “cái gọi là…”, “toàn là…”)\n\nDùng để nhấn mạnh nội dung phía trước\n\n**Ví dụ:**\n\n- 家にはテレビというテレビがない  \n    → Trong nhà không có **bất cứ cái gọi là TV nào**\n\n👉 Nhấn mạnh kiểu: “thứ gọi là …”","x":1390,"y":862,"width":930,"height":298},
 		{"id":"5e2fc9b43019260f","type":"text","text":"## 4. Diễn đạt nội dung (＝ “việc là…”)\n\nDùng để biến câu thành danh từ (giống “việc…”)\n\n**Ví dụ:**\n\n- 日本へ行くという夢  \n    → Ước mơ **đi Nhật**\n- 彼が来ないということは問題だ  \n    → **Việc anh ấy không đến** là vấn đề","x":1382,"y":1421,"width":938,"height":279},
 		{"id":"7451bbfa74c98ef4","type":"text","text":"## 5. Dùng trong hội thoại (＝ “mà nói là…”)\n\nThường dùng trong nói chuyện để **nhắc lại / xác nhận**\n\n**Ví dụ:**\n\n- え？田中さんが来る**という**？  \n    → Hả? Bạn nói là Tanaka sẽ đến à?","x":596,"y":1218,"width":644,"height":242},
-		{"id":"1dac4fc2bcc7976c","type":"file","file":"Pasted image 20260412125807.png","x":-1660,"y":-500,"width":400,"height":198},
-		{"id":"45b97c54b24b5ba5","type":"text","text":"というより","x":-2263,"y":-686,"width":250,"height":60},
-		{"id":"a2110bcbdf287b8f","type":"text","text":"Dùng khi muốn nói cách nói A cũng đúng nhưng B thì thích hợp hơn","x":-2659,"y":-782,"width":250,"height":82},
-		{"id":"e7a00472a92ec4e7","type":"text","text":"夢を諦めるのは、残念というより悔しい。","x":-2996,"y":-841,"width":250,"height":60},
 		{"id":"fa9b8fa59b2720a0","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-1477,"y":0,"width":400,"height":400},
 		{"id":"49793be7f833ee81","type":"file","file":"Pasted image 20260410083325.png","x":243,"y":-1780,"width":400,"height":221},
 		{"id":"ef315a213c6a4f4d","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-234,"y":-980,"width":400,"height":400},
@@ -24,7 +19,6 @@
 		{"id":"ca7c046779b7b687","type":"text","text":"Trình bày ý nghĩa, hay định nghĩa của A là B","x":1573,"y":-835,"width":250,"height":60},
 		{"id":"46d15da2831b4968","type":"text","text":"というものは","x":-1999,"y":-2441,"width":250,"height":60},
 		{"id":"edacdc86c1803b74","type":"file","file":"Pasted image 20260410083552.png","x":-1450,"y":-2205,"width":512,"height":281},
-		{"id":"88811392c2a9db5a","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":-1717,"y":-915,"width":480,"height":100},
 		{"id":"12fdac0d037ebae1","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":1614,"y":-1882,"width":250,"height":60},
 		{"id":"698b475b19787db1","type":"text","text":"ということだ","x":1392,"y":-1669,"width":250,"height":60},
 		{"id":"bb3bfe420b470a17","type":"text","text":"ということ","x":1027,"y":-1320,"width":250,"height":60},
@@ -33,9 +27,18 @@
 		{"id":"dd62ef111c276240","type":"file","file":"Pasted image 20260412130333.png","x":2266,"y":-626,"width":345,"height":181},
 		{"id":"84e44de5361c4641","type":"text","text":"はというと","x":3020,"y":-626,"width":250,"height":60},
 		{"id":"a85a14c8e540125d","type":"text","text":"～というか～というか","x":-1602,"y":-1303,"width":250,"height":60},
-		{"id":"e5718cf7437dfd87","x":-155,"y":-1998,"width":250,"height":60,"type":"text","text":"というものではない"},
+		{"id":"e5718cf7437dfd87","type":"text","text":"というものではない","x":-155,"y":-1998,"width":250,"height":60},
 		{"id":"b79ffad7af65227b","type":"text","text":"というものだ","x":-740,"y":-2124,"width":250,"height":60},
-		{"id":"9fc7a360c94c1305","type":"file","file":"Pasted image 20260410082658.png","x":-740,"y":-1800,"width":399,"height":185}
+		{"id":"9fc7a360c94c1305","type":"file","file":"Pasted image 20260410082658.png","x":-740,"y":-1800,"width":399,"height":185},
+		{"id":"e7a00472a92ec4e7","type":"text","text":"夢を諦めるのは、残念というより悔しい。","x":-3476,"y":-825,"width":250,"height":60},
+		{"id":"a2110bcbdf287b8f","type":"text","text":"Dùng khi muốn nói cách nói A cũng đúng nhưng B thì thích hợp hơn","x":-3139,"y":-766,"width":250,"height":82},
+		{"id":"0a654bff1d0c6558","type":"file","file":"N2文法/さえ・より/より.canvas","x":-2948,"y":-1315,"width":400,"height":400},
+		{"id":"45b97c54b24b5ba5","type":"text","text":"というより","x":-2743,"y":-670,"width":250,"height":60},
+		{"id":"aec75592e2c03e93","type":"text","text":"Ko phải A mà đúng hơn là B","x":-3127,"y":-513,"width":250,"height":60},
+		{"id":"67636eae1fa86fa6","type":"file","file":"Pasted image 20260517111943.png","x":-3720,"y":-560,"width":400,"height":155},
+		{"id":"88811392c2a9db5a","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":-2197,"y":-899,"width":480,"height":100},
+		{"id":"1dac4fc2bcc7976c","type":"file","file":"Pasted image 20260412125807.png","x":-1957,"y":-517,"width":400,"height":198},
+		{"id":"8f7686485a9087a1","x":-2743,"y":-160,"width":250,"height":60,"type":"text","text":"というくらいのN"}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -73,6 +76,10 @@
 		{"id":"5dbdceb8c162b90b","fromNode":"dd62ef111c276240","fromSide":"right","toNode":"84e44de5361c4641","toSide":"left","label":"はというと"},
 		{"id":"8c5c9c90263fe87c","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"a85a14c8e540125d","toSide":"right","label":"～というか～というか"},
 		{"id":"d303b2e09a57b1dc","fromNode":"ef315a213c6a4f4d","fromSide":"top","toNode":"e5718cf7437dfd87","toSide":"bottom","label":"というものではない"},
-		{"id":"ae5af19c7ed5e10e","fromNode":"9fc7a360c94c1305","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom","label":"というものだ"}
+		{"id":"ae5af19c7ed5e10e","fromNode":"9fc7a360c94c1305","fromSide":"top","toNode":"b79ffad7af65227b","toSide":"bottom","label":"というものだ"},
+		{"id":"57ef97d6cdcfdf9a","fromNode":"45b97c54b24b5ba5","fromSide":"left","toNode":"aec75592e2c03e93","toSide":"right"},
+		{"id":"7b9835a505608a72","fromNode":"aec75592e2c03e93","fromSide":"left","toNode":"67636eae1fa86fa6","toSide":"right"},
+		{"id":"b06509907b38c4ff","fromNode":"56a821c3715444bd","fromSide":"left","toNode":"8f7686485a9087a1","toSide":"right"},
+		{"id":"586f4bd246a3b5ba","fromNode":"8f7686485a9087a1","fromSide":"left","toNode":"67636eae1fa86fa6","toSide":"right","label":"というくらいのN"}
 	]
 }

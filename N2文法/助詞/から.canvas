@@ -8,7 +8,6 @@
 		{"id":"0bb198986fbdb20f","type":"file","file":"Pasted image 20260410075451.png","x":-679,"y":-46,"width":400,"height":213},
 		{"id":"b66dccb90f64550e","type":"file","file":"Pasted image 20260410082808.png","x":-679,"y":-860,"width":400,"height":226},
 		{"id":"f8187b3561e1dcce","type":"text","text":"から言うと","x":-2080,"y":54,"width":250,"height":60},
-		{"id":"8f794378a25f245c","type":"text","text":"-Lấy căn cứ, cơ sở từ tổng thể để đưa ra phán đoán.\n-Ko đưa ra ý chí cá nhân","x":-1540,"y":21,"width":250,"height":80},
 		{"id":"2276c51113c8d956","type":"file","file":"Pasted image 20260410084657.png","x":-1180,"y":-58,"width":400,"height":238},
 		{"id":"c43fabaa0784bf2a","type":"text","text":"何かあってからでは\nNếu có chuyện gì xảy ra","x":105,"y":-1080,"width":250,"height":60},
 		{"id":"d96e9d128e56aaf9","type":"text","text":"ために","x":-2160,"y":1109,"width":250,"height":171},
@@ -58,7 +57,9 @@
 		{"id":"d117c8ff44d1c14a","type":"text","text":"からして","x":-3326,"y":528,"width":250,"height":60},
 		{"id":"abb832bf85e3cf3e","type":"text","text":"Nhấn mạnh lý do","x":-2400,"y":-1260,"width":250,"height":60},
 		{"id":"43db6968a61d1a7d","type":"text","text":"Trình bày chủ đề A, lý do N","x":-2400,"y":-798,"width":250,"height":60},
-		{"id":"61487653bd48cb94","x":-1760,"y":-620,"width":250,"height":60,"type":"text","text":"～のは、～からこそだ"}
+		{"id":"61487653bd48cb94","type":"text","text":"～のは、～からこそだ","x":-1760,"y":-620,"width":250,"height":60},
+		{"id":"e59b606dadcc3178","x":-4140,"y":-499,"width":400,"height":53,"type":"file","file":"Pasted image 20260517125314.png"},
+		{"id":"8f794378a25f245c","type":"text","text":"-Lấy căn cứ, cơ sở từ tổng thể để đưa ra phán đoán.\n-Ko đưa ra ý chí cá nhân","x":-1551,"y":-8,"width":250,"height":139}
 	],
 	"edges":[
 		{"id":"4f9f0e89ab4eca1c","fromNode":"0bb198986fbdb20f","fromSide":"bottom","toNode":"f3ce2baf586f348e","toSide":"top","label":"からして"},
@@ -119,6 +120,7 @@
 		{"id":"6f87fc73437a62fb","fromNode":"530ab5bd4c8428bc","fromSide":"left","toNode":"43db6968a61d1a7d","toSide":"right","label":"～のは～からだ"},
 		{"id":"d451067267e9eabb","fromNode":"7a53a6d34e4c1194","fromSide":"left","toNode":"ab82b6311291051f","toSide":"right","label":"からこそ"},
 		{"id":"284e872f3071dd60","fromNode":"f8aa93e6cacebba4","fromSide":"left","toNode":"d117c8ff44d1c14a","toSide":"right","label":"からして"},
-		{"id":"790502e8ea11d590","fromNode":"530ab5bd4c8428bc","fromSide":"bottom","toNode":"61487653bd48cb94","toSide":"top","label":"～のは、～からこぞ"}
+		{"id":"790502e8ea11d590","fromNode":"530ab5bd4c8428bc","fromSide":"bottom","toNode":"61487653bd48cb94","toSide":"top","label":"～のは、～からこぞ"},
+		{"id":"48126a39f0736134","fromNode":"7b1339f29d94f7d2","fromSide":"left","toNode":"e59b606dadcc3178","toSide":"right","label":"から見ると"}
 	]
 }

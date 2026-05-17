@@ -66,7 +66,9 @@
 		{"id":"59f9ade2986cf3a7","type":"text","text":"なN","x":297,"y":-1520,"width":250,"height":60},
 		{"id":"3d23c128d1419422","type":"text","text":"VるようなN","x":940,"y":-1520,"width":250,"height":60},
 		{"id":"ab746972190c74ad","type":"text","text":"Chỉ sự thay đổi","x":4779,"y":212,"width":250,"height":60},
-		{"id":"efb8c063e4e89654","x":790,"y":-1960,"width":400,"height":261,"type":"file","file":"Pasted image 20260505213225.png"}
+		{"id":"efb8c063e4e89654","type":"file","file":"Pasted image 20260505213225.png","x":790,"y":-1960,"width":400,"height":261},
+		{"id":"9e2263e4999de3a1","x":2664,"y":364,"width":250,"height":56,"type":"text","text":"ように思える"},
+		{"id":"e37d5a6ebfb29bc4","x":2560,"y":580,"width":250,"height":60,"type":"text","text":"Cảm thấy, dường như là"}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
@@ -136,6 +138,8 @@
 		{"id":"3d96efbcfafdcc81","fromNode":"43e10101260e3e3d","fromSide":"right","toNode":"46870810768e103b","toSide":"left","label":"ようになる"},
 		{"id":"019871b4f105f87d","fromNode":"59f9ade2986cf3a7","fromSide":"right","toNode":"3d23c128d1419422","toSide":"left","label":"VるようなN"},
 		{"id":"a53eaaab1f165c29","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"ab746972190c74ad","toSide":"left"},
-		{"id":"c9cadbe9efe9efa6","fromNode":"59f9ade2986cf3a7","fromSide":"top","toNode":"efb8c063e4e89654","toSide":"left","label":"VるようなN"}
+		{"id":"c9cadbe9efe9efa6","fromNode":"59f9ade2986cf3a7","fromSide":"top","toNode":"efb8c063e4e89654","toSide":"left","label":"VるようなN"},
+		{"id":"cbde7bf464f9f57c","fromNode":"b632698ca1446264","fromSide":"bottom","toNode":"9e2263e4999de3a1","toSide":"top","label":"ように思える"},
+		{"id":"bfed80fd84d12cc5","fromNode":"9e2263e4999de3a1","fromSide":"bottom","toNode":"e37d5a6ebfb29bc4","toSide":"top","label":"ように思える"}
 	]
 }

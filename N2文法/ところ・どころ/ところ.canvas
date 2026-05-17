@@ -5,7 +5,6 @@
 		{"id":"9f89fb96333c7a70","type":"text","text":"「N2」ところ","x":-1132,"y":-10,"width":225,"height":60},
 		{"id":"54b58a45854f5151","type":"text","text":"「N2」ところ","x":-1600,"y":-1480,"width":250,"height":60},
 		{"id":"ebc47927dd35dc78","type":"text","text":"ところから","x":-2232,"y":-1587,"width":250,"height":60},
-		{"id":"6fb5f175927fa473","type":"file","file":"Pasted image 20260505212721.png","x":-2860,"y":-1678,"width":400,"height":243},
 		{"id":"51e1651679c1247c","type":"file","file":"Pasted image 20260412213141.png","x":-3380,"y":-86,"width":400,"height":216},
 		{"id":"c08e7453bf4f5a06","type":"file","file":"Pasted image 20260412213401.png","x":-4320,"y":-86,"width":399,"height":209},
 		{"id":"5ec6a69bb95a47f1","type":"file","file":"Pasted image 20260412213512.png","x":-4320,"y":-560,"width":399,"height":233},
@@ -42,7 +41,9 @@
 		{"id":"eadfb1e6455036e8","type":"text","text":"にしたところで","x":-1195,"y":-2620,"width":250,"height":60},
 		{"id":"7ed7c7f9e2fce813","type":"file","file":"N2文法/助詞/に.canvas","x":-1675,"y":-3180,"width":300,"height":176},
 		{"id":"303f586d6abc235c","type":"text","text":"ところで","x":-500,"y":-2610,"width":250,"height":50},
-		{"id":"1999aa035f54d5d5","type":"file","file":"Pasted image 20260412213254.png","x":51,"y":-3000,"width":399,"height":219}
+		{"id":"1999aa035f54d5d5","type":"file","file":"Pasted image 20260412213254.png","x":51,"y":-3000,"width":399,"height":219},
+		{"id":"6fb5f175927fa473","type":"file","file":"Pasted image 20260505212721.png","x":-2880,"y":-1800,"width":400,"height":243},
+		{"id":"7e77c6ae7ffc084f","type":"file","file":"Pasted image 20260517110358.png","x":-5160,"y":-29,"width":400,"height":96}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"89925b8bd8a74247","fromSide":"right","toNode":"8bcd27fac9419228","toSide":"left","label":"Vたところが"},
@@ -96,6 +97,7 @@
 		{"id":"2760b2364c782cb2","fromNode":"44dd5fa55b8dbc6d","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"left","label":"Vているところ"},
 		{"id":"f546ae39b22ec6d1","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"d5b109c16c67d2bb","toSide":"left","label":"Vている＋ところ"},
 		{"id":"46141afdec428c0d","fromNode":"58d3b3f97cef4eb9","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"right"},
-		{"id":"195ef021c702f2ef","fromNode":"49ca8cc8c147eb2a","fromSide":"top","toNode":"3638a29ce3c080f1","toSide":"bottom","label":"Vたところ"}
+		{"id":"195ef021c702f2ef","fromNode":"49ca8cc8c147eb2a","fromSide":"top","toNode":"3638a29ce3c080f1","toSide":"bottom","label":"Vたところ"},
+		{"id":"a1c2a934fb825a7d","fromNode":"c08e7453bf4f5a06","fromSide":"left","toNode":"7e77c6ae7ffc084f","toSide":"right","label":"Vたところを捕まえる"}
 	]
 }

@@ -3,10 +3,13 @@
 		{"id":"011086080cb15edc","type":"text","text":"はずがない","x":-642,"y":-173,"width":250,"height":60},
 		{"id":"14e1436c9b958b3e","type":"text","text":"Chắc chắn ko có khả năng đó","x":-1136,"y":-312,"width":250,"height":60},
 		{"id":"9a61091c05334643","type":"file","file":"Pasted image 20260409005115.png","x":-340,"y":686,"width":715,"height":391},
-		{"id":"d54db750aebe9dc4","x":-108,"y":500,"width":250,"height":60,"type":"text","text":"はずだ"},
+		{"id":"d54db750aebe9dc4","type":"text","text":"はずだ","x":-108,"y":500,"width":250,"height":60},
 		{"id":"5a303f49497ea2fb","type":"file","file":"Pasted image 20260409005041.png","x":560,"y":560,"width":716,"height":391},
 		{"id":"afaba88770c55f18","type":"text","text":"はず","x":-108,"y":-173,"width":250,"height":60},
-		{"id":"0debfdf02376b935","x":578,"y":237,"width":250,"height":60,"type":"text","text":"Nのはずだ"}
+		{"id":"0debfdf02376b935","type":"text","text":"Nのはずだ","x":578,"y":237,"width":250,"height":60},
+		{"id":"f464a55e13adc26a","x":-1091,"y":348,"width":250,"height":60,"type":"text","text":"はずだった"},
+		{"id":"2a2335984ba26136","x":-1556,"y":258,"width":250,"height":60,"type":"text","text":"Lẽ ra là như thế nào đó"},
+		{"id":"cac2c589d87b0f90","x":-2200,"y":177,"width":400,"height":81,"type":"file","file":"Pasted image 20260517111515.png"}
 	],
 	"edges":[
 		{"id":"eb8ac403781a6741","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"5a303f49497ea2fb","toSide":"left"},
@@ -14,6 +17,9 @@
 		{"id":"222a57e54e8228b1","fromNode":"afaba88770c55f18","fromSide":"left","toNode":"011086080cb15edc","toSide":"right","label":"はずがない"},
 		{"id":"a3ce4b050bd01173","fromNode":"011086080cb15edc","fromSide":"left","toNode":"14e1436c9b958b3e","toSide":"right","label":"はずがない"},
 		{"id":"fe92f2eedf0920ce","fromNode":"afaba88770c55f18","fromSide":"bottom","toNode":"d54db750aebe9dc4","toSide":"top","label":"はず"},
-		{"id":"87b566ec81e5932f","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"0debfdf02376b935","toSide":"left"}
+		{"id":"87b566ec81e5932f","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"0debfdf02376b935","toSide":"left"},
+		{"id":"76e22beeb2c7b0e2","fromNode":"d54db750aebe9dc4","fromSide":"left","toNode":"f464a55e13adc26a","toSide":"right"},
+		{"id":"8adbc3243b0092fe","fromNode":"f464a55e13adc26a","fromSide":"left","toNode":"2a2335984ba26136","toSide":"right","label":"はずだった"},
+		{"id":"ab6e10ade374fb14","fromNode":"2a2335984ba26136","fromSide":"left","toNode":"cac2c589d87b0f90","toSide":"right","label":"はずだった"}
 	]
 }
