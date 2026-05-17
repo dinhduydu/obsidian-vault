@@ -7,7 +7,7 @@
 		{"id":"a2c7b61b4f87afb1","type":"file","file":"Pasted image 20260409004805.png","x":530,"y":1285,"width":587,"height":310},
 		{"id":"c40a9b1506f9cb16","type":"file","file":"Pasted image 20260409004644.png","x":-119,"y":1295,"width":532,"height":280},
 		{"id":"aecc8df5ef815980","type":"text","text":"","x":210,"y":754,"width":250,"height":60},
-		{"id":"e152b0db0402c3dc","type":"text","text":"Vてはじめて\nChỉ sau khi A thì mới nhận/ có được điều gì ","x":700,"y":-1528,"width":297,"height":100},
+		{"id":"e152b0db0402c3dc","type":"text","text":"Vてはじめて\nChỉ sau khi A thì mới nhận/ có được điều gì B","x":700,"y":-1528,"width":297,"height":100},
 		{"id":"909e5ab3e18a113b","type":"file","file":"Pasted image 20260410074716.png","x":-200,"y":-1741,"width":519,"height":263},
 		{"id":"47e6e553916c7162","type":"file","file":"N2文法/助詞/から.canvas","x":1100,"y":-2520,"width":400,"height":400},
 		{"id":"b3c504dc7dbeea21","type":"text","text":"Vてからというもの","x":700,"y":-2420,"width":250,"height":60},
@@ -137,7 +137,8 @@
 		{"id":"515c3c6ef99f2583","type":"file","file":"N2文法/助詞/まで.canvas","x":1380,"y":-233,"width":253,"height":189},
 		{"id":"7d298a65ccd47159","type":"text","text":"Vてでも","x":-320,"y":401,"width":250,"height":60},
 		{"id":"9ea317bd7858ec52","type":"file","file":"Pasted image 20260505210130.png","x":5731,"y":-2075,"width":244,"height":184},
-		{"id":"798583bfa0babf8d","type":"file","file":"Pasted image 20260517131237.png","x":-3300,"y":416,"width":398,"height":85}
+		{"id":"798583bfa0babf8d","type":"file","file":"Pasted image 20260517131237.png","x":-3300,"y":416,"width":398,"height":85},
+		{"id":"ac1e792f7688268c","x":1045,"y":-1803,"width":400,"height":62,"type":"file","file":"Pasted image 20260517143753.png"}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"835add4850e7963d","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left","label":"Vてくれる"},
@@ -284,6 +285,7 @@
 		{"id":"0481107a93ee5e66","fromNode":"5ddbcaa57f6f444a","fromSide":"right","toNode":"515c3c6ef99f2583","toSide":"left"},
 		{"id":"88e1927da70f9ac3","fromNode":"a7d972c957f04391","fromSide":"bottom","toNode":"7d298a65ccd47159","toSide":"top"},
 		{"id":"43c5365faf4e7bf9","fromNode":"57f9e9a27ae902ae","fromSide":"bottom","toNode":"9ea317bd7858ec52","toSide":"top","label":"Vてくれた"},
-		{"id":"c3d216bd100509fc","fromNode":"891595f92098c66d","fromSide":"left","toNode":"798583bfa0babf8d","toSide":"right","label":"Vてほしい"}
+		{"id":"c3d216bd100509fc","fromNode":"891595f92098c66d","fromSide":"left","toNode":"798583bfa0babf8d","toSide":"right","label":"Vてほしい"},
+		{"id":"6042f327a75b3840","fromNode":"e152b0db0402c3dc","fromSide":"top","toNode":"ac1e792f7688268c","toSide":"left","label":"Vてはじめて"}
 	]
 }

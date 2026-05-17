@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/ばかり・はず・わけ/わけ.canvas",
                 "viewState": {
-                  "x": -1559.6634141208106,
-                  "y": 1115.709174372257,
-                  "zoom": -1.1489821759773025
+                  "x": -1689.9871937053767,
+                  "y": -1377.2452897340665,
+                  "zoom": -0.9564943493543916
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "いう"
+              "title": "わけ"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/ない・いう・しまう/いう.canvas",
+                "file": "N2文法/ばかり・はず・わけ/わけ.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of いう"
+              "title": "Outline of わけ"
             }
           }
         ],
@@ -226,10 +226,13 @@
   },
   "active": "33e3a2c4a2471607",
   "lastOpenFiles": [
+    "Pasted image 20260517144103.png",
+    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
+    "Pasted image 20260517143753.png",
+    "N2文法/ない・いう・しまう/いう.canvas",
     "N2文法/助詞/と.canvas",
     "N2文法/助詞/は.canvas",
     "N2文法/助詞/に.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
     "N2文法/くらい・ほど/ほど.canvas",
     "N2文法/あまり・だけ/だけ.canvas",
     "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
@@ -237,8 +240,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/Thuỷ「氵」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Chuỷ　「匕」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp/Can　「干 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Biên「釆 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Bạch　「白 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/Untitled",
     "N2漢字/Bộ chỉ ý/Ít gặp",
     "N2漢字/Bộ chỉ ý/Hay gặp",
@@ -251,7 +252,6 @@
     "Pasted image 20260517111943.png",
     "Pasted image 20260517111722.png",
     "Pasted image 20260517111515.png",
-    "Pasted image 20260517111207.png",
     "N2漢字/Bộ chỉ ý/氵(Thuỷ)",
     "N2漢字/Bộ chỉ ý",
     "N2漢字/Bộ chỉ âm",
