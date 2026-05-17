@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"eebaf84188ac105b","x":-220,"y":-60,"width":250,"height":60,"type":"text","text":"Vô　「毋」"},
+		{"id":"063f0ef192fb6714","x":154,"y":-123,"width":250,"height":60,"type":"text","text":"đừng, cấm"}
+	],
+	"edges":[
+		{"id":"123e6240871e33e5","fromNode":"eebaf84188ac105b","fromSide":"right","toNode":"063f0ef192fb6714","toSide":"left"}
+	]
+}

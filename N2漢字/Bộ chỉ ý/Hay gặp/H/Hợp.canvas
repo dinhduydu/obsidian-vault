@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0dc8ba2940332c7f","x":-171,"y":-11,"width":250,"height":60,"type":"text","text":"Hợp"},
+		{"id":"5217e6ee23d03d0d","x":245,"y":-129,"width":250,"height":60,"type":"text","text":"答 - Đáp"},
+		{"id":"e9c8acfceaf114f0","x":275,"y":16,"width":250,"height":60,"type":"text","text":"合 - Hợp"}
+	],
+	"edges":[
+		{"id":"2e4e820992898951","fromNode":"0dc8ba2940332c7f","fromSide":"right","toNode":"5217e6ee23d03d0d","toSide":"left"},
+		{"id":"528657e67514a7a9","fromNode":"0dc8ba2940332c7f","fromSide":"right","toNode":"e9c8acfceaf114f0","toSide":"left"}
+	]
+}

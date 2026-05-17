@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70e593ed05f730ca","x":-112,"y":-32,"width":250,"height":60,"type":"text","text":"Kệ"},
+		{"id":"7c3fce1bfa13dd06","x":280,"y":-175,"width":250,"height":60,"type":"text","text":"寝 - Tẩm"},
+		{"id":"64a32a373e28ce55","x":270,"y":19,"width":250,"height":60,"type":"text","text":"事 - Hoạn / Sự"}
+	],
+	"edges":[
+		{"id":"86da7bc0a37329f6","fromNode":"70e593ed05f730ca","fromSide":"right","toNode":"7c3fce1bfa13dd06","toSide":"left"},
+		{"id":"cdb1bd048d636a92","fromNode":"70e593ed05f730ca","fromSide":"right","toNode":"64a32a373e28ce55","toSide":"left"}
+	]
+}

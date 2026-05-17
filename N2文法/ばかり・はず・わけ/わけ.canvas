@@ -28,7 +28,7 @@
 		{"id":"ea4dbb9846b39329","type":"text","text":"わけではない・わけでもない","x":-960,"y":-995,"width":295,"height":60},
 		{"id":"20296cc5a38e1df8","type":"file","file":"Pasted image 20260410075807.png","x":-1957,"y":-1360,"width":400,"height":105},
 		{"id":"c862ba48b004a4b2","type":"text","text":"わけではない","x":-2400,"y":-1680,"width":250,"height":60},
-		{"id":"3c03fa4b03cd3103","x":-3000,"y":-1880,"width":400,"height":115,"type":"file","file":"Pasted image 20260517144103.png"}
+		{"id":"3c03fa4b03cd3103","type":"file","file":"Pasted image 20260517144103.png","x":-3000,"y":-1880,"width":400,"height":115}
 	],
 	"edges":[
 		{"id":"42d183307e68f79d","fromNode":"22e7b56e00f03d0d","fromSide":"right","toNode":"05a71ee5e27f6973","toSide":"left","label":"ものか"},

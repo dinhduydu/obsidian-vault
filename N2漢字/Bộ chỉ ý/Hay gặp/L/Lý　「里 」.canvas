@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a47b86fd5d569fb4","x":-116,"y":-17,"width":250,"height":60,"type":"text","text":"Lý　「里 」"},
+		{"id":"40fa0fdb30a88668","x":238,"y":-84,"width":250,"height":60,"type":"text","text":"làng"}
+	],
+	"edges":[
+		{"id":"b1e406ba03e5d173","fromNode":"a47b86fd5d569fb4","fromSide":"right","toNode":"40fa0fdb30a88668","toSide":"left"}
+	]
+}

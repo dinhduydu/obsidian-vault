@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fa9eccd04571dcf3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Hô　「虍」"},
+		{"id":"2ff527034578f6cb","x":216,"y":-58,"width":250,"height":60,"type":"text","text":"vằn hổ"}
+	],
+	"edges":[
+		{"id":"15bd00f8bb7cf862","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"2ff527034578f6cb","toSide":"left"}
+	]
+}

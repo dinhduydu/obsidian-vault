@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"187e6f51d03c5acf","x":-121,"y":-10,"width":250,"height":60,"type":"text","text":"Nam"},
+		{"id":"c06ffecc913a71ae","x":290,"y":-74,"width":250,"height":60,"type":"text","text":"野 - Dạ/Dã"}
+	],
+	"edges":[
+		{"id":"6b186c2743290738","fromNode":"187e6f51d03c5acf","fromSide":"right","toNode":"c06ffecc913a71ae","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b1b5bf77c24e28b0","x":-117,"y":-1,"width":250,"height":60,"type":"text","text":"Lập　「立」"},
+		{"id":"73810d431c6e7c62","x":303,"y":-59,"width":250,"height":60,"type":"text","text":"並 - Tịnh"},
+		{"id":"cd36f3556a91b66e","x":291,"y":92,"width":250,"height":60,"type":"text","text":"普 - Phổ"}
+	],
+	"edges":[
+		{"id":"ba115b4227328d79","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"73810d431c6e7c62","toSide":"left"},
+		{"id":"deb79bd8c4058918","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"cd36f3556a91b66e","toSide":"left"}
+	]
+}

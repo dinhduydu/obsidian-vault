@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"901fefa205888317","x":-149,"y":-38,"width":250,"height":60,"type":"text","text":"Lỗi　「耒」"},
+		{"id":"d6171ca7666faba3","x":225,"y":-83,"width":250,"height":60,"type":"text","text":"cày ruộng"}
+	],
+	"edges":[
+		{"id":"1b662ff3a655a1fb","fromNode":"901fefa205888317","fromSide":"right","toNode":"d6171ca7666faba3","toSide":"left"}
+	]
+}

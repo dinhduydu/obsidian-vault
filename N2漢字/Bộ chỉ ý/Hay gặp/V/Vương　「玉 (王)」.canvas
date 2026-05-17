@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"38720a429833e17c","x":-154,"y":18,"width":194,"height":60,"type":"text","text":"Vương　「玉 (王)」"},
+		{"id":"aef52eb193921280","x":234,"y":-43,"width":250,"height":60,"type":"text","text":"王 - Vương"},
+		{"id":"16e6a73606738772","x":230,"y":86,"width":250,"height":60,"type":"text","text":"理 - Lý"}
+	],
+	"edges":[
+		{"id":"d6fa3f8b185351be","fromNode":"38720a429833e17c","fromSide":"right","toNode":"aef52eb193921280","toSide":"left"},
+		{"id":"b12eb38a06e8b68d","fromNode":"38720a429833e17c","fromSide":"right","toNode":"16e6a73606738772","toSide":"left"}
+	]
+}

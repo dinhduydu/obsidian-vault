@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1540634b8b476e96","x":-82,"y":-40,"width":250,"height":60,"type":"text","text":"Thất　「疋 (⺪) 」"},
+		{"id":"c279d7649d9c6c46","x":300,"y":-180,"width":250,"height":60,"type":"text","text":"đơn vị vải"}
+	],
+	"edges":[
+		{"id":"428c04e41c29c3ce","fromNode":"1540634b8b476e96","fromSide":"right","toNode":"c279d7649d9c6c46","toSide":"left"}
+	]
+}

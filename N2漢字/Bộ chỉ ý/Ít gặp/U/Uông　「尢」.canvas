@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a7da4b82de6f881e","x":-115,"y":-29,"width":250,"height":60,"type":"text","text":"Uông　「尢」"},
+		{"id":"415ecf67a59a0687","x":258,"y":-115,"width":250,"height":60,"type":"text","text":"|què|Người khập khiễng, yếu ớt.|\n|---|---|"}
+	],
+	"edges":[
+		{"id":"7b038de7716f809c","fromNode":"a7da4b82de6f881e","fromSide":"right","toNode":"415ecf67a59a0687","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b4eeb20ac346ce79","x":-32,"y":-54,"width":250,"height":60,"type":"text","text":"Tiết　「卩」"},
+		{"id":"e4258e093229bc97","x":320,"y":-121,"width":340,"height":81,"type":"text","text":"|khớp, quỳ gối|Thường chỉ nghi lễ, tôn trọng.|\n|---|---|"}
+	],
+	"edges":[
+		{"id":"54812b0dbf9d287c","fromNode":"b4eeb20ac346ce79","fromSide":"right","toNode":"e4258e093229bc97","toSide":"left"}
+	]
+}

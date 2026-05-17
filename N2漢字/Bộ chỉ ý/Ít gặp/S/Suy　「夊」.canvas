@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"919aa4349f76e77b","type":"text","text":"Suy　「夊」","x":-237,"y":-49,"width":250,"height":60},
+		{"id":"59caa5558e5dd4a8","type":"text","text":"|bước chậm|Đi từ từ, thong thả.|\n|---|---|","x":206,"y":-121,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a639a0a7b2f91b4c","fromNode":"919aa4349f76e77b","fromSide":"right","toNode":"59caa5558e5dd4a8","toSide":"left"}
+	]
+}

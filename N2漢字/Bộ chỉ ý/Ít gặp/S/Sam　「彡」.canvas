@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e7f1bd7132486f4f","type":"text","text":"lông dài, trang trí","x":120,"y":-40,"width":250,"height":60},
+		{"id":"bc2f17d7427b017b","x":-220,"y":-40,"width":250,"height":60,"type":"text","text":"Sam　「彡」"}
+	],
+	"edges":[
+		{"id":"585e97da9b1ccd1a","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"e7f1bd7132486f4f","toSide":"left"}
+	]
+}

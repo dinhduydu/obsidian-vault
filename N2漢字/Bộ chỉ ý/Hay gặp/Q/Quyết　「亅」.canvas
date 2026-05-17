@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d1244521f3ad83a7","x":-208,"y":-29,"width":250,"height":60,"type":"text","text":"Quyết　「亅」"},
+		{"id":"52a4e53ebe211692","x":254,"y":-110,"width":326,"height":81,"type":"text","text":"|móc|Nét móc dùng trong cấu trúc chữ.|\n|---|---|"}
+	],
+	"edges":[
+		{"id":"4e97b7fcdae289ea","fromNode":"d1244521f3ad83a7","fromSide":"right","toNode":"52a4e53ebe211692","toSide":"left"}
+	]
+}

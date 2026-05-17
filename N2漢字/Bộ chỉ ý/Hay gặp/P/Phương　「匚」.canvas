@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a1b487291b3ddb75","x":-106,"y":1,"width":250,"height":60,"type":"text","text":"Phương　「匚」"},
+		{"id":"3b74e5cb331405e8","x":249,"y":-50,"width":250,"height":60,"type":"text","text":"|cái hộp|Gợi vật chứa kín.|\n|---|---|"}
+	],
+	"edges":[
+		{"id":"0b74d011c9b362a3","fromNode":"a1b487291b3ddb75","fromSide":"right","toNode":"3b74e5cb331405e8","toSide":"left"}
+	]
+}

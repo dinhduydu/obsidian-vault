@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cf778834b7f7bab8","x":-101,"y":-26,"width":250,"height":60,"type":"text","text":"Kê　「彐」"},
+		{"id":"c252bdc68034f08e","x":339,"y":-56,"width":250,"height":60,"type":"text","text":"đầu con nhím"}
+	],
+	"edges":[
+		{"id":"2aeea836deade0a0","fromNode":"cf778834b7f7bab8","fromSide":"right","toNode":"c252bdc68034f08e","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"346c1ed930868651","x":-169,"y":-14,"width":250,"height":60,"type":"text","text":"Tẩu　「走」"},
+		{"id":"17130aa929e285ff","x":213,"y":-114,"width":250,"height":60,"type":"text","text":"走 - Tẩu"},
+		{"id":"2c4e90eee060492b","x":230,"y":31,"width":250,"height":60,"type":"text","text":"起 - Khởi"},
+		{"id":"ff3aa8fee3204c46","x":231,"y":181,"width":250,"height":60,"type":"text","text":"徒 - Đồ"}
+	],
+	"edges":[
+		{"id":"b18cdf6f0fafcb5c","fromNode":"346c1ed930868651","fromSide":"right","toNode":"17130aa929e285ff","toSide":"left"},
+		{"id":"2de3d6179dd0e85b","fromNode":"346c1ed930868651","fromSide":"right","toNode":"2c4e90eee060492b","toSide":"left"},
+		{"id":"571174b41ee69dae","fromNode":"346c1ed930868651","fromSide":"right","toNode":"ff3aa8fee3204c46","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"aaef6f8a5dbfccbd","type":"text","text":"計 - Kế","x":179,"y":-120,"width":250,"height":60},
+		{"id":"2cb0bb0d2564e168","type":"text","text":"試 - Thí","x":181,"y":11,"width":250,"height":60},
+		{"id":"6fc002eecd74ae14","type":"text","text":"調 - Điều ","x":181,"y":160,"width":250,"height":60},
+		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-240,"y":11,"width":250,"height":60},
+		{"id":"7d310de5d110c01f","type":"text","text":"説 - Thuyết","x":179,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4816444c8bcab903","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"aaef6f8a5dbfccbd","toSide":"left"},
+		{"id":"5e25a62afaedebb0","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"2cb0bb0d2564e168","toSide":"left"},
+		{"id":"fb6edb23970a0e20","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"6fc002eecd74ae14","toSide":"left"},
+		{"id":"ba9be4a01f337e0b","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"7d310de5d110c01f","toSide":"left"}
+	]
+}

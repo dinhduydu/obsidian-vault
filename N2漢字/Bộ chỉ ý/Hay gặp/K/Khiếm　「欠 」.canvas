@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fb377bf21125ec78","x":-81,"y":-42,"width":250,"height":60,"type":"text","text":"Khiếm　「欠 」"},
+		{"id":"45e097f2c06f84bd","x":341,"y":-134,"width":250,"height":60,"type":"text","text":"次 - Thứ"}
+	],
+	"edges":[
+		{"id":"6bd6aaa3f435bb49","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"45e097f2c06f84bd","toSide":"left"}
+	]
+}

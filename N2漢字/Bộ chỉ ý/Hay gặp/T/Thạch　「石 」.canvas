@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"268df70406d78732","type":"text","text":"Thạch　「石 」","x":-166,"y":-17,"width":250,"height":60},
+		{"id":"44db4df9b59b26b0","x":264,"y":-103,"width":250,"height":60,"type":"text","text":"研 - Nghiêng"}
+	],
+	"edges":[
+		{"id":"c09cad12b95dda18","fromNode":"268df70406d78732","fromSide":"right","toNode":"44db4df9b59b26b0","toSide":"left"}
+	]
+}

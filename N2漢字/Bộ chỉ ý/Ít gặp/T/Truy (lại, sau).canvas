@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"845a5bbb45884820","x":-168,"y":-18,"width":250,"height":60,"type":"text","text":"Truy (lại, sau)"},
+		{"id":"2acc22aefec95d80","x":258,"y":-79,"width":250,"height":60,"type":"text","text":"教 - Giáo"}
+	],
+	"edges":[
+		{"id":"e9ce06e7b2a8468b","fromNode":"845a5bbb45884820","fromSide":"right","toNode":"2acc22aefec95d80","toSide":"left"}
+	]
+}

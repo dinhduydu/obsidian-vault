@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cfab21f388ec3326","x":-204,"y":-46,"width":250,"height":60,"type":"text","text":"Văn　「文」"},
+		{"id":"27645beeb6529263","x":195,"y":-116,"width":250,"height":60,"type":"text","text":"văn hóa, họa tiết"}
+	],
+	"edges":[
+		{"id":"03cf05faf420f597","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"27645beeb6529263","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ef849261f0343f78","x":-197,"y":-9,"width":250,"height":60,"type":"text","text":"Phục (hồi phục)"},
+		{"id":"b534522fe288f86a","x":376,"y":-113,"width":250,"height":60,"type":"text","text":"複 - Phức"}
+	],
+	"edges":[
+		{"id":"eb44c690a0ffbf89","fromNode":"ef849261f0343f78","fromSide":"right","toNode":"b534522fe288f86a","toSide":"left"}
+	]
+}

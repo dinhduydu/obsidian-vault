@@ -25,12 +25,29 @@
             }
           },
           {
-            "id": "8d3eefdcbe58303b",
+            "id": "bd7794c814d12258",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Ít gặp/Ấp (Phụ)　「邑 (⻏)」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/T/Tân　「辛」.canvas",
+                "viewState": {
+                  "x": -84,
+                  "y": 1,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tân　「辛」"
+            }
+          },
+          {
+            "id": "5fc10ecf9b92f08e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/L/Long　「龍」.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -38,16 +55,16 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Ấp (Phụ)　「邑 (⻏)」"
+              "title": "Long　「龍」"
             }
           },
           {
-            "id": "33e3a2c4a2471607",
+            "id": "402934e8a7de47e4",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/S/Sách.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -55,28 +72,181 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Nhập　「入」"
+              "title": "Sách"
             }
           },
           {
-            "id": "18557a88699e10a4",
+            "id": "08d55c8326182d7e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/こと・もの/こと.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/S/Suy　「夊」.canvas",
                 "viewState": {
-                  "x": 1315.8266792660152,
-                  "y": -246.92251885172527,
-                  "zoom": -0.18194038793750872
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "こと"
+              "title": "Suy　「夊」"
+            }
+          },
+          {
+            "id": "c3afce47695be8f0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/P/Phương　「方」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Phương　「方」"
+            }
+          },
+          {
+            "id": "a37b0a1a3f6a0bc4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/P/Phộc　「攴 (攵)」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Phộc　「攴 (攵)」"
+            }
+          },
+          {
+            "id": "aa4901ed7ad8d5d7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/P/Phong　「風」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Phong　「風」"
+            }
+          },
+          {
+            "id": "f4a51c2d61ab3412",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Q/Quynh　「冂」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Quynh　「冂」"
+            }
+          },
+          {
+            "id": "1f95b61d8a03c676",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/Y/Yêu　「幺」.canvas",
+                "viewState": {
+                  "x": 312.79998779296875,
+                  "y": -43.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Yêu　「幺」"
+            }
+          },
+          {
+            "id": "0870ae171329953d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/V/Vương　「玉 (王)」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Vương　「玉 (王)」"
+            }
+          },
+          {
+            "id": "af75e024b2d99653",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/V/Vô　「无」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Vô　「无」"
+            }
+          },
+          {
+            "id": "c539d9f24ff4665e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Võng　「网 (罒)」"
+            }
+          },
+          {
+            "id": "63fb50e89f4e3870",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 295.2565956660851,
+                  "zoom": -0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Uông　「尢」"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -197,13 +367,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nhập　「入」"
+              "title": "Outline of Uông　「尢」"
             }
           }
         ],
@@ -224,31 +394,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
-    "N2漢字/Bộ chỉ ý/Hay gặp/T",
-    "N2漢字/Bộ chỉ ý/Hay gặp/S",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M",
-    "N2漢字/Bộ chỉ ý/Hay gặp/D",
-    "N2漢字/Bộ chỉ ý/Hay gặp/C",
-    "N2漢字/Bộ chỉ ý/Hay gặp/B",
-    "N2漢字/Bộ chỉ ý/Hay gặp/A",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhất　「一」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhập　「入」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Ngôn　「言 (訁)」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Untitled.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Mục　「目」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Miên　「宀」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Thiên （天）.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Môn　「門」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Mã　「馬」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/G/Giác　「角」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
+    "N2漢字/Bộ chỉ ý/Ít gặp/U",
+    "N2漢字/Bộ chỉ ý/Ít gặp/G/Giáp.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/G/Giao.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/G",
+    "N2漢字/Bộ chỉ ý/Hay gặp/G",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Vi　「韋 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Vũ　「雨 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Văn　「文」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Vô　「毋」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/V/Vô　「无」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Vi　「囗」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/V",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Y",
+    "N2漢字/Bộ chỉ ý/Ít gặp/Q",
+    "N2漢字/Bộ chỉ ý/Hay gặp/Q",
+    "N2漢字/Bộ chỉ ý/Hay gặp/P",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
-    "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
-    "N2doc/Bị động sai khiến AI.pdf",
-    "N2漢字/Bộ chỉ ý/Ít gặp",
     "Pasted image 20260517131237.png",
     "Pasted image 20260517125314.png",
     "Pasted image 20260517112332.png",

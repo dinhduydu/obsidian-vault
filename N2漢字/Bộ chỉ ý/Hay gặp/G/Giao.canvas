@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"be576c077b13174d","x":-136,"y":-15,"width":250,"height":60,"type":"text","text":"Giao"},
+		{"id":"62c72ae60a88ed6b","x":234,"y":-64,"width":250,"height":60,"type":"text","text":"効 - Hiệu"}
+	],
+	"edges":[
+		{"id":"d6ebb7e59fc433dd","fromNode":"be576c077b13174d","fromSide":"right","toNode":"62c72ae60a88ed6b","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"362c4e399d73ff2c","x":-65,"y":23,"width":250,"height":60,"type":"text","text":"Giáp"},
+		{"id":"80f410bb668a8b2a","x":316,"y":-25,"width":250,"height":60,"type":"text","text":"単 - Đơn"}
+	],
+	"edges":[
+		{"id":"bbc4236659ce1ccf","fromNode":"362c4e399d73ff2c","fromSide":"right","toNode":"80f410bb668a8b2a","toSide":"left"}
+	]
+}

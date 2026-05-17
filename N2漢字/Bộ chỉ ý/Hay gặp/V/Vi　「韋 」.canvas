@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"86e54aab7026954a","x":-146,"y":-38,"width":250,"height":60,"type":"text","text":"Vi　「韋 」"},
+		{"id":"5cd9188b1da7d893","x":207,"y":-75,"width":250,"height":60,"type":"text","text":"da mềm"}
+	],
+	"edges":[
+		{"id":"e061830edd3ded75","fromNode":"86e54aab7026954a","fromSide":"right","toNode":"5cd9188b1da7d893","toSide":"left"}
+	]
+}

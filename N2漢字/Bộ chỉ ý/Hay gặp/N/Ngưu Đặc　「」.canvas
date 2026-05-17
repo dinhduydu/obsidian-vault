@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a5af430e8744fe19","x":-187,"y":-29,"width":250,"height":60,"type":"text","text":"Ngưu / Đặc　「」"},
+		{"id":"ec04b2a01ebf0be0","x":220,"y":-180,"width":250,"height":60,"type":"text","text":"特 - Đặc"},
+		{"id":"a663632cd0d12588","x":220,"y":-29,"width":250,"height":60,"type":"text","text":"物 - Vật"},
+		{"id":"5dcec9f783bdb313","x":220,"y":100,"width":250,"height":60,"type":"text","text":"許 - Hứa"},
+		{"id":"5a2798380e335e74","x":220,"y":240,"width":250,"height":60,"type":"text","text":"件 - Kiện"}
+	],
+	"edges":[
+		{"id":"63ce4aa01a217e67","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"ec04b2a01ebf0be0","toSide":"left"},
+		{"id":"6b20875b7de0ba7c","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"a663632cd0d12588","toSide":"left"},
+		{"id":"180c19957261d9fa","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"5dcec9f783bdb313","toSide":"left"},
+		{"id":"ffc1a6097f5ec947","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"5a2798380e335e74","toSide":"left"}
+	]
+}

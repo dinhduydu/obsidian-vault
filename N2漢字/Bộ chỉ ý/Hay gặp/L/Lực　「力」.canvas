@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f1614e553a4985cf","x":-233,"y":-43,"width":250,"height":60,"type":"text","text":"Lực　「力」"},
+		{"id":"4191613de0eff494","x":194,"y":-123,"width":250,"height":60,"type":"text","text":"幼 - Ấu"},
+		{"id":"26171c020faa6434","x":181,"y":31,"width":250,"height":60,"type":"text","text":"効 - Hiệu"}
+	],
+	"edges":[
+		{"id":"82cb26843812cc35","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"4191613de0eff494","toSide":"left"},
+		{"id":"8d0eb2bcb318e997","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"26171c020faa6434","toSide":"left"}
+	]
+}

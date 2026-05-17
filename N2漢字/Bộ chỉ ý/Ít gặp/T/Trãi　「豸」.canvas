@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cb9917c2be224942","x":-108,"y":-3,"width":250,"height":60,"type":"text","text":"Trãi　「豸」"},
+		{"id":"90eeeafa47e8eb25","x":271,"y":-99,"width":250,"height":60,"type":"text","text":"loài sâu"}
+	],
+	"edges":[
+		{"id":"e3b194ea483ead8c","fromNode":"cb9917c2be224942","fromSide":"right","toNode":"90eeeafa47e8eb25","toSide":"left"}
+	]
+}

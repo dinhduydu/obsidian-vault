@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c91e1fa4330897da","x":-129,"y":-32,"width":250,"height":60,"type":"text","text":"Tên"},
+		{"id":"5221282fbc5c52e4","x":226,"y":-106,"width":250,"height":60,"type":"text","text":"知 - Tri"}
+	],
+	"edges":[
+		{"id":"2681810def47a768","fromNode":"c91e1fa4330897da","fromSide":"right","toNode":"5221282fbc5c52e4","toSide":"left"}
+	]
+}

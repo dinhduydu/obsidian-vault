@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b363cdf76a4c397d","x":-116,"y":-24,"width":250,"height":60,"type":"text","text":"Hoà　「禾」"},
+		{"id":"e603542cb333ba08","x":291,"y":-116,"width":250,"height":60,"type":"text","text":"料 - Liệu"},
+		{"id":"9f2c8ef127203706","x":291,"y":36,"width":250,"height":60,"type":"text","text":"粉 - Phấn"}
+	],
+	"edges":[
+		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
+		{"id":"3a0b187f2e780e9d","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"9f2c8ef127203706","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4066efe1903fabe3","x":-119,"y":-71,"width":250,"height":60,"type":"text","text":"Hựu (lại)　「又」"},
+		{"id":"f66c4a1f494a2fc9","x":320,"y":-206,"width":250,"height":60,"type":"text","text":"|lại nữa / tay phải|Gợi hành động lặp lại.|\n|---|---|"}
+	],
+	"edges":[
+		{"id":"f8a594ed75e71035","fromNode":"4066efe1903fabe3","fromSide":"right","toNode":"f66c4a1f494a2fc9","toSide":"left"}
+	]
+}

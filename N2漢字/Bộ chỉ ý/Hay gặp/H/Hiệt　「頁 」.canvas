@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2d84f042c1472ae2","x":-153,"y":-67,"width":250,"height":60,"type":"text","text":"Hiệt　「頁 」"},
+		{"id":"2ac833da2ef0d77c","x":280,"y":-220,"width":250,"height":60,"type":"text","text":"頭 - Thủ"},
+		{"id":"b7c9ff3789d07ce9","x":291,"y":100,"width":250,"height":60,"type":"text","text":"題 - Đề"},
+		{"id":"04146bfc347ac442","x":291,"y":-67,"width":250,"height":60,"type":"text","text":"顔 - Nhan"}
+	],
+	"edges":[
+		{"id":"63fddbaae78990ae","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"2ac833da2ef0d77c","toSide":"left"},
+		{"id":"1b973f0395bf4144","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"04146bfc347ac442","toSide":"left"},
+		{"id":"3882a83db99973ff","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"b7c9ff3789d07ce9","toSide":"left"}
+	]
+}

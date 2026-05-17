@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"a55d38a6eef4f248","type":"text","text":"遠 - Viễn","x":31,"y":-199,"width":250,"height":60},
+		{"id":"8441463ed7c29c82","type":"text","text":"近 - Cận","x":44,"y":-40,"width":250,"height":60},
+		{"id":"ed697e996021c14f","type":"text","text":"進 - Tiến","x":31,"y":120,"width":250,"height":60},
+		{"id":"fba9c3c99eb1f8ef","type":"text","text":"送 - Tống","x":-62,"y":255,"width":250,"height":60},
+		{"id":"0da8e2e6928c6e4a","type":"text","text":"返 - Phản","x":-62,"y":420,"width":250,"height":60},
+		{"id":"848beb52b42d95c4","type":"text","text":"通 - Thông","x":-62,"y":560,"width":250,"height":60},
+		{"id":"3dad924ef56cf399","type":"text","text":"Sước Dẫn　「廴」「辵 (⻌⻍) 」","x":-960,"y":70,"width":250,"height":80},
+		{"id":"d9ed1de9e836d186","type":"text","text":"運 - Vận","x":-62,"y":720,"width":250,"height":60},
+		{"id":"2970dc1d438d8c63","type":"text","text":"選 - Tuyển","x":-62,"y":860,"width":250,"height":60},
+		{"id":"52bb8c0d6fe71757","type":"text","text":"đi, tiến","x":-1340,"y":-20,"width":250,"height":60},
+		{"id":"a8d689d7c4e0b672","x":-668,"y":457,"width":250,"height":60,"type":"text","text":"造 - Tạo"}
+	],
+	"edges":[
+		{"id":"8bd72771567ff646","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a55d38a6eef4f248","toSide":"left"},
+		{"id":"1628f19db7ad5a4a","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"8441463ed7c29c82","toSide":"left"},
+		{"id":"18a2bc08969679cf","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"ed697e996021c14f","toSide":"left"},
+		{"id":"892bf056d61887fa","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"fba9c3c99eb1f8ef","toSide":"left"},
+		{"id":"e811d8b5558ee5d5","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"0da8e2e6928c6e4a","toSide":"left"},
+		{"id":"e68fe21a05f1ce06","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"848beb52b42d95c4","toSide":"left"},
+		{"id":"d81fbf75900e3431","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"d9ed1de9e836d186","toSide":"left"},
+		{"id":"adee5d613fb92493","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"2970dc1d438d8c63","toSide":"left"},
+		{"id":"8a6c0eb9e6fb983b","fromNode":"3dad924ef56cf399","fromSide":"left","toNode":"52bb8c0d6fe71757","toSide":"right"},
+		{"id":"5503140c2492324e","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a8d689d7c4e0b672","toSide":"left"}
+	]
+}

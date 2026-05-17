@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8ab6a17090429402","type":"text","text":"Yêu　「幺」","x":-169,"y":-50,"width":250,"height":60},
+		{"id":"a741fc36c9ee985f","type":"text","text":"nhỏ bé, yếu ớt","x":167,"y":-97,"width":250,"height":60},
+		{"id":"df1d5c2fd15ab1cf","type":"text","text":"幼 - Ấu","x":167,"y":40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f9ca46936fa55bfa","fromNode":"8ab6a17090429402","fromSide":"right","toNode":"a741fc36c9ee985f","toSide":"left"},
+		{"id":"5c3dc181fc08ea27","fromNode":"8ab6a17090429402","fromSide":"right","toNode":"df1d5c2fd15ab1cf","toSide":"left"}
+	]
+}

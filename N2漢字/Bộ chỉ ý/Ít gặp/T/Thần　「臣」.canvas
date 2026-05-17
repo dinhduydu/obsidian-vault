@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ed6f7c0a5d50e067","x":-148,"y":-46,"width":250,"height":60,"type":"text","text":"Thần　「臣」"},
+		{"id":"92b1b686658c708b","x":235,"y":-106,"width":250,"height":60,"type":"text","text":"bề tôi"}
+	],
+	"edges":[
+		{"id":"0def273772a459f3","fromNode":"ed6f7c0a5d50e067","fromSide":"right","toNode":"92b1b686658c708b","toSide":"left"}
+	]
+}

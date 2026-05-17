@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4487a7eb2f613560","x":-87,"y":-44,"width":250,"height":60,"type":"text","text":"Tịch　「夕」"},
+		{"id":"b0e633fc9f9c461f","x":318,"y":-86,"width":250,"height":60,"type":"text","text":"夢 - Mộng"},
+		{"id":"5ac595cfe7038c06","x":677,"y":-179,"width":250,"height":60,"type":"text","text":"夢見る"},
+		{"id":"67b037423d45a725","x":1048,"y":-222,"width":250,"height":60,"type":"text","text":"ゆめみる"},
+		{"id":"120a25ae64f16838","x":1421,"y":-268,"width":250,"height":60,"type":"text","text":"mơ mộng việc gì đó"}
+	],
+	"edges":[
+		{"id":"b87a6df6c478358b","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"b0e633fc9f9c461f","toSide":"left"},
+		{"id":"e2a13a43de118715","fromNode":"b0e633fc9f9c461f","fromSide":"right","toNode":"5ac595cfe7038c06","toSide":"left"},
+		{"id":"9c87f4daf8c03640","fromNode":"5ac595cfe7038c06","fromSide":"right","toNode":"67b037423d45a725","toSide":"left"},
+		{"id":"035213a665f9eb27","fromNode":"67b037423d45a725","fromSide":"right","toNode":"120a25ae64f16838","toSide":"left"}
+	]
+}

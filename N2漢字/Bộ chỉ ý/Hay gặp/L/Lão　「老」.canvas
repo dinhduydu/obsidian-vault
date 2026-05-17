@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d4b7ee7f8c05a741","x":-197,"y":1,"width":250,"height":60,"type":"text","text":"Lão　「老」"},
+		{"id":"495572e9ca1b6860","x":163,"y":-35,"width":250,"height":60,"type":"text","text":"考 - Khảo"}
+	],
+	"edges":[
+		{"id":"1bf2b3cc7a228654","fromNode":"d4b7ee7f8c05a741","fromSide":"right","toNode":"495572e9ca1b6860","toSide":"left"}
+	]
+}

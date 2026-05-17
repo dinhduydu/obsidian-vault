@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"094782390623b241","x":-171,"y":-60,"width":211,"height":60,"type":"text","text":"Ngạt　「歹」"},
+		{"id":"492d0a28465e937d","x":162,"y":-107,"width":250,"height":60,"type":"text","text":"xương tàn"}
+	],
+	"edges":[
+		{"id":"4272cb8ea38230c4","fromNode":"094782390623b241","fromSide":"right","toNode":"492d0a28465e937d","toSide":"left"}
+	]
+}

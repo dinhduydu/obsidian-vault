@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5be8386c53ca4080","x":-159,"y":-15,"width":250,"height":60,"type":"text","text":"Nguyên"},
+		{"id":"6a613b869b5c0f48","x":207,"y":-77,"width":250,"height":60,"type":"text","text":"売 - Mại"}
+	],
+	"edges":[
+		{"id":"fcc6ffa0cd4ca6c6","fromNode":"5be8386c53ca4080","fromSide":"right","toNode":"6a613b869b5c0f48","toSide":"left"}
+	]
+}

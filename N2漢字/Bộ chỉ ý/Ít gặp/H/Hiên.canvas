@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f388f02d75e370d6","x":-100,"y":-2,"width":160,"height":60,"type":"text","text":"Hiên"},
+		{"id":"1ee0da87480f3924","x":165,"y":-66,"width":250,"height":60,"type":"text","text":"堂 - Đường"}
+	],
+	"edges":[
+		{"id":"3b82b4ad90266171","fromNode":"f388f02d75e370d6","fromSide":"right","toNode":"1ee0da87480f3924","toSide":"left"}
+	]
+}

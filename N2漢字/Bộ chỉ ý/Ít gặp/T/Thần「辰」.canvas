@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"07ec007190d29f46","x":-82,"y":-27,"width":250,"height":60,"type":"text","text":"Thần「辰」"},
+		{"id":"1f597eba4f2e57d9","x":299,"y":-79,"width":250,"height":60,"type":"text","text":"Thìn"}
+	],
+	"edges":[
+		{"id":"c63911d043619d5b","fromNode":"07ec007190d29f46","fromSide":"right","toNode":"1f597eba4f2e57d9","toSide":"left"}
+	]
+}
