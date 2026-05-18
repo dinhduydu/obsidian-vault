@@ -1,17 +1,26 @@
 {
 	"nodes":[
 		{"id":"6d00caf2bef75978","type":"text","text":"Cung　「弓」","x":-300,"y":0,"width":250,"height":60},
-		{"id":"9a9bbdd147bde583","type":"text","text":"強 - Cương","x":160,"y":-180,"width":250,"height":60},
 		{"id":"a14660958001e16d","type":"text","text":"引 - Dẫn","x":154,"y":6,"width":250,"height":60},
-		{"id":"20321b614261353b","type":"text","text":"引き出し","x":517,"y":-41,"width":250,"height":60},
-		{"id":"0d3cd4abafed4747","type":"text","text":"ひきだし","x":867,"y":-80,"width":250,"height":60},
-		{"id":"8fb0e27f0b01909d","type":"text","text":"ngăn kéo","x":1268,"y":-121,"width":250,"height":60},
-		{"id":"50b9300a616aa4bf","x":517,"y":340,"width":250,"height":60,"type":"text","text":"引きつる"},
-		{"id":"d539762857cd3c3c","x":560,"y":145,"width":250,"height":60,"type":"text","text":"引き寄せる"},
-		{"id":"993201c305cd33b4","x":900,"y":145,"width":250,"height":60,"type":"text","text":"ひきよせる"},
-		{"id":"a10d552b4391861e","x":900,"y":540,"width":250,"height":60,"type":"text","text":"引きつり"},
-		{"id":"ef143d0201544475","x":900,"y":341,"width":250,"height":60,"type":"text","text":"ひきつる"},
-		{"id":"59101c0d2cd2cbe3","x":1320,"y":341,"width":250,"height":60,"type":"text","text":"Nhăn; nhăn nhó"}
+		{"id":"d26da278af35c836","x":1420,"y":-288,"width":250,"height":60,"type":"text","text":"giải nghệ"},
+		{"id":"fa18d2a8ef500f01","x":1018,"y":-288,"width":250,"height":60,"type":"text","text":"いんたい"},
+		{"id":"26c141c834e8746c","x":1018,"y":-463,"width":250,"height":60,"type":"text","text":"いんりょく"},
+		{"id":"d81be00bbb218fc7","x":1393,"y":-463,"width":250,"height":60,"type":"text","text":"lực hấp dẫn"},
+		{"id":"d0e9ea697934afe0","x":560,"y":-463,"width":250,"height":60,"type":"text","text":"引力"},
+		{"id":"adc26425bff83e57","x":560,"y":-288,"width":250,"height":60,"type":"text","text":"引退"},
+		{"id":"20321b614261353b","type":"text","text":"引き出し","x":560,"y":-80,"width":250,"height":60},
+		{"id":"0d3cd4abafed4747","type":"text","text":"ひきだし","x":1018,"y":-80,"width":250,"height":60},
+		{"id":"d539762857cd3c3c","type":"text","text":"引き寄せる","x":560,"y":116,"width":250,"height":60},
+		{"id":"993201c305cd33b4","type":"text","text":"ひきよせる","x":1018,"y":116,"width":250,"height":60},
+		{"id":"8fb0e27f0b01909d","type":"text","text":"ngăn kéo","x":1420,"y":-80,"width":250,"height":60},
+		{"id":"3b9ed071f517392a","x":1420,"y":116,"width":250,"height":60,"type":"text","text":"dành, giật, kéo lại, lôi cuốn; thu hút"},
+		{"id":"50b9300a616aa4bf","type":"text","text":"引きつる","x":560,"y":341,"width":250,"height":60},
+		{"id":"ef143d0201544475","type":"text","text":"ひきつる","x":1018,"y":341,"width":250,"height":60},
+		{"id":"59101c0d2cd2cbe3","type":"text","text":"Nhăn; nhăn nhó","x":1420,"y":341,"width":250,"height":60},
+		{"id":"a10d552b4391861e","type":"text","text":"引きつり","x":1018,"y":540,"width":250,"height":60},
+		{"id":"9a9bbdd147bde583","type":"text","text":"強 - Cương","x":160,"y":-1100,"width":250,"height":60},
+		{"id":"1742dd6bc0e0a335","x":645,"y":-1241,"width":250,"height":60,"type":"text","text":"強さ"},
+		{"id":"ef0bfd5c5279c0dd","x":645,"y":-1070,"width":250,"height":60,"type":"text","text":"強み"}
 	],
 	"edges":[
 		{"id":"7b4c2337363032c0","fromNode":"6d00caf2bef75978","fromSide":"right","toNode":"9a9bbdd147bde583","toSide":"left"},
@@ -25,6 +34,15 @@
 		{"id":"016808dd3693b170","fromNode":"50b9300a616aa4bf","fromSide":"right","toNode":"ef143d0201544475","toSide":"left"},
 		{"id":"582f45827281dadd","fromNode":"ef143d0201544475","fromSide":"right","toNode":"59101c0d2cd2cbe3","toSide":"left"},
 		{"id":"5fb58db283d62313","fromNode":"50b9300a616aa4bf","fromSide":"right","toNode":"a10d552b4391861e","toSide":"left"},
-		{"id":"bbaf5d5e9f5f171b","fromNode":"a10d552b4391861e","fromSide":"right","toNode":"59101c0d2cd2cbe3","toSide":"left"}
+		{"id":"bbaf5d5e9f5f171b","fromNode":"a10d552b4391861e","fromSide":"right","toNode":"59101c0d2cd2cbe3","toSide":"left"},
+		{"id":"82b80f68c2402554","fromNode":"a14660958001e16d","fromSide":"right","toNode":"d0e9ea697934afe0","toSide":"left"},
+		{"id":"a5ab811e87f252c2","fromNode":"d0e9ea697934afe0","fromSide":"right","toNode":"26c141c834e8746c","toSide":"left"},
+		{"id":"07b382884305c553","fromNode":"a14660958001e16d","fromSide":"right","toNode":"adc26425bff83e57","toSide":"left"},
+		{"id":"fdcad3f4fa77919b","fromNode":"adc26425bff83e57","fromSide":"right","toNode":"fa18d2a8ef500f01","toSide":"left"},
+		{"id":"acf4bd56fa69539a","fromNode":"993201c305cd33b4","fromSide":"right","toNode":"3b9ed071f517392a","toSide":"left"},
+		{"id":"fa34f551baea1198","fromNode":"fa18d2a8ef500f01","fromSide":"right","toNode":"d26da278af35c836","toSide":"left"},
+		{"id":"574ce90658d21c94","fromNode":"26c141c834e8746c","fromSide":"right","toNode":"d81be00bbb218fc7","toSide":"left"},
+		{"id":"6e7f2181d2a979ff","fromNode":"9a9bbdd147bde583","fromSide":"right","toNode":"1742dd6bc0e0a335","toSide":"left"},
+		{"id":"fb90f66ef3a685af","fromNode":"9a9bbdd147bde583","fromSide":"right","toNode":"ef0bfd5c5279c0dd","toSide":"left"}
 	]
 }

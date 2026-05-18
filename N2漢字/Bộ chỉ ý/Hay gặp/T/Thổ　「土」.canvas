@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"9d612bff3dbfbb2c","x":-89,"y":-12,"width":250,"height":60,"type":"text","text":"Thổ　「土」"}
+		{"id":"9d612bff3dbfbb2c","type":"text","text":"Thổ　「土」","x":-89,"y":-12,"width":250,"height":60},
+		{"id":"c90a3567bafe6c89","x":409,"y":-165,"width":250,"height":60,"type":"text","text":"周"},
+		{"id":"b9010149cc8f7d56","x":860,"y":-174,"width":322,"height":79,"type":"text","text":"円周「えんしゅう」：chu vi hình tròn / đường tròn bao quanh hình tròn."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"aa72622cbff4d332","fromNode":"9d612bff3dbfbb2c","fromSide":"right","toNode":"c90a3567bafe6c89","toSide":"left"},
+		{"id":"6452bf10d10e3d0b","fromNode":"c90a3567bafe6c89","fromSide":"right","toNode":"b9010149cc8f7d56","toSide":"left"}
+	]
 }

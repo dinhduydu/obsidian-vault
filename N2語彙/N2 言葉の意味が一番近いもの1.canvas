@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":0,"y":0,"width":420,"height":120,"text":"# N2 言葉の意味が一番近いもの\n\nTừ đồng nghĩa - phần 1"},
+		{"id":"n1","type":"text","x":-900,"y":-500,"width":300,"height":140,"text":"## 1. 恐らく（おそらく）\n= 多分（たぶん）\n→ Có lẽ"},
+		{"id":"n2","type":"text","x":-500,"y":-500,"width":320,"height":150,"text":"## 2. 止むを得ない\n= 仕方がない\n→ Không còn cách nào khác"},
+		{"id":"n3","type":"text","x":-100,"y":-500,"width":300,"height":140,"text":"## 3. ばったり\n= 偶然（ぐうぜん）\n→ Tình cờ, bất ngờ"},
+		{"id":"n4","type":"text","x":300,"y":-500,"width":300,"height":140,"text":"## 4. 忽ち（たちまち）\n= すぐに\n→ Ngay lập tức"},
+		{"id":"n5","type":"text","x":700,"y":-500,"width":320,"height":150,"text":"## 5. せっせと\n= 熱心に（ねっしんに）\n→ Siêng năng, cần cù"},
+		{"id":"n6","type":"text","x":-900,"y":-150,"width":300,"height":140,"text":"## 6. ミーティング\n= 会議（かいぎ）\n→ Cuộc họp"}
+	]
+}

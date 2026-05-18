@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"f1614e553a4985cf","x":-233,"y":-43,"width":250,"height":60,"type":"text","text":"Lực　「力」"},
-		{"id":"4191613de0eff494","x":194,"y":-123,"width":250,"height":60,"type":"text","text":"幼 - Ấu"},
-		{"id":"26171c020faa6434","x":181,"y":31,"width":250,"height":60,"type":"text","text":"効 - Hiệu"}
+		{"id":"4191613de0eff494","type":"text","text":"幼 - Ấu","x":194,"y":-123,"width":250,"height":60},
+		{"id":"26171c020faa6434","type":"text","text":"効 - Hiệu","x":181,"y":31,"width":250,"height":60},
+		{"id":"f1614e553a4985cf","type":"text","text":"Lực　「力」","x":-380,"y":-40,"width":250,"height":60},
+		{"id":"9f02b98f3afc1c2f","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/C/Cung　「弓」.canvas","x":181,"y":-440,"width":234,"height":140},
+		{"id":"f9d9b913662adf4f","type":"text","text":"いんりょく","x":998,"y":-430,"width":250,"height":60},
+		{"id":"0471801c1d1180c2","type":"text","text":"lực hấp dẫn","x":1373,"y":-430,"width":250,"height":60},
+		{"id":"ec5c07236ff0dd46","type":"text","text":"引力","x":540,"y":-430,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"82cb26843812cc35","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"4191613de0eff494","toSide":"left"},
-		{"id":"8d0eb2bcb318e997","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"26171c020faa6434","toSide":"left"}
+		{"id":"8d0eb2bcb318e997","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"26171c020faa6434","toSide":"left"},
+		{"id":"4458bd26e01f6fbe","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"9f02b98f3afc1c2f","toSide":"left"},
+		{"id":"81d757d791d0303a","fromNode":"f9d9b913662adf4f","fromSide":"right","toNode":"0471801c1d1180c2","toSide":"left"},
+		{"id":"a797d5f1715dee69","fromNode":"ec5c07236ff0dd46","fromSide":"right","toNode":"f9d9b913662adf4f","toSide":"left"},
+		{"id":"8425c938db862268","fromNode":"9f02b98f3afc1c2f","fromSide":"right","toNode":"ec5c07236ff0dd46","toSide":"left"}
 	]
 }
