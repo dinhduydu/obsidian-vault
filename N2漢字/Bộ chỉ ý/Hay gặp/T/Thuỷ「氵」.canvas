@@ -1,14 +1,17 @@
 {
 	"nodes":[
-		{"id":"365a8be1053fad2c","type":"text","text":"Thuỷ「氵」","x":-400,"y":85,"width":130,"height":55},
 		{"id":"8ae4b6ba2bfbf412","type":"text","text":"涙  「なみだ」(nước mắt)","x":400,"y":30,"width":250,"height":60},
 		{"id":"bbd2e91d32cce472","type":"text","text":"涙 - Lệ","x":0,"y":30,"width":250,"height":60},
-		{"id":"c9cb37c33b36c93f","x":0,"y":-540,"width":240,"height":60,"type":"text","text":"滑　（Hoạt)"},
+		{"id":"c9cb37c33b36c93f","type":"text","text":"滑　（Hoạt)","x":0,"y":-540,"width":240,"height":60},
 		{"id":"d1aa6dccdbcde7d6","type":"text","text":"滑る「すべる」（Trượt)","x":440,"y":-540,"width":250,"height":60},
-		{"id":"5d05d4678cdf176f","x":440,"y":-680,"width":250,"height":60,"type":"text","text":"円滑"},
-		{"id":"fde9d97ad446417c","x":860,"y":-680,"width":250,"height":60,"type":"text","text":"えんかつ"},
-		{"id":"7004b2a1c81e2816","x":1260,"y":-680,"width":250,"height":60,"type":"text","text":"Thuận lợi, suôn sẻ"},
-		{"id":"577ad57af32914a5","type":"text","text":"浸透　「しんとう」 Thẩm thấu","x":0,"y":260,"width":302,"height":60}
+		{"id":"5d05d4678cdf176f","type":"text","text":"円滑","x":440,"y":-680,"width":250,"height":60},
+		{"id":"fde9d97ad446417c","type":"text","text":"えんかつ","x":860,"y":-680,"width":250,"height":60},
+		{"id":"7004b2a1c81e2816","type":"text","text":"Thuận lợi, suôn sẻ","x":1260,"y":-680,"width":250,"height":60},
+		{"id":"577ad57af32914a5","type":"text","text":"浸透　「しんとう」 Thẩm thấu","x":0,"y":260,"width":302,"height":60},
+		{"id":"2f42700a7ceaa892","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas","x":440,"y":-980,"width":299,"height":141},
+		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇","x":-2,"y":536,"width":250,"height":60},
+		{"id":"365a8be1053fad2c","type":"text","text":"Thuỷ「氵」","x":-800,"y":90,"width":130,"height":55},
+		{"id":"8184de91d0cc8d29","x":-126,"y":826,"width":250,"height":60,"type":"text","text":"浮"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left"},
@@ -18,6 +21,9 @@
 		{"id":"d6d26d5b7a2367bf","fromNode":"c9cb37c33b36c93f","fromSide":"right","toNode":"d1aa6dccdbcde7d6","toSide":"left"},
 		{"id":"2241bb4323e366ad","fromNode":"c9cb37c33b36c93f","fromSide":"right","toNode":"5d05d4678cdf176f","toSide":"left"},
 		{"id":"27b4e70b5d4e0319","fromNode":"5d05d4678cdf176f","fromSide":"right","toNode":"fde9d97ad446417c","toSide":"left"},
-		{"id":"ac9c1f7e30727b1a","fromNode":"fde9d97ad446417c","fromSide":"right","toNode":"7004b2a1c81e2816","toSide":"left"}
+		{"id":"ac9c1f7e30727b1a","fromNode":"fde9d97ad446417c","fromSide":"right","toNode":"7004b2a1c81e2816","toSide":"left"},
+		{"id":"5cc85964ac14d726","fromNode":"c9cb37c33b36c93f","fromSide":"right","toNode":"2f42700a7ceaa892","toSide":"left"},
+		{"id":"96dba0537e2c035c","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"62bb9c6ec27b3be9","toSide":"left"},
+		{"id":"02ae042d89367981","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8184de91d0cc8d29","toSide":"left"}
 	]
 }

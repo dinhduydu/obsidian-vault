@@ -234,15 +234,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas",
                 "viewState": {
-                  "x": 476.5,
-                  "y": -261.7265625,
-                  "zoom": 0
+                  "x": 377.36913029587913,
+                  "y": -40.896918000610896,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Lực　「力」"
+              "title": "Cốt　「骨」"
             }
           }
         ],
@@ -367,13 +367,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lực　「力」"
+              "title": "Outline of Cốt　「骨」"
             }
           }
         ],
@@ -396,17 +396,17 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
-    "N2漢字/Bộ chỉ ý/Hay gặp/C/Cung　「弓」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lý　「里 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lập　「立」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lão　「老」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tiết　「卩」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tiểu　「小」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tịch　「夕」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tử (con)　「子」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Trảo　「爪」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Trường　「長 (镸) 」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/N/Noãn　「卵」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Kệ.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tên.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhĩ　「耳」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Truy　「夂」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch　「糸 」.canvas",
     "N2語彙/N2 言葉の意味が一番近いもの",
     "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
     "N2漢字/Bộ chỉ ý/Ít gặp/U",

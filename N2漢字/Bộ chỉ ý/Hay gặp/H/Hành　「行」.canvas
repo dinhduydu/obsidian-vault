@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"3b471df96980326e","x":-134,"y":-39,"width":250,"height":60,"type":"text","text":"Hành　「行」"}
+		{"id":"3b471df96980326e","type":"text","text":"Hành　「行」","x":-134,"y":-39,"width":250,"height":60},
+		{"id":"e838d229165064a9","x":252,"y":-130,"width":250,"height":60,"type":"text","text":"彼"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0de4b11583b87189","fromNode":"3b471df96980326e","fromSide":"right","toNode":"e838d229165064a9","toSide":"left"}
+	]
 }

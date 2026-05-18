@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"82f001c403133215","x":-81,"y":-42,"width":250,"height":60,"type":"text","text":"Trảo　「爪」"}
+		{"id":"82f001c403133215","type":"text","text":"Trảo　「爪」","x":-81,"y":-42,"width":250,"height":60},
+		{"id":"6d1c6136d2b0b652","x":309,"y":-82,"width":250,"height":60,"type":"text","text":"浮"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"48de546e8ac4aa23","fromNode":"82f001c403133215","fromSide":"right","toNode":"6d1c6136d2b0b652","toSide":"left"}
+	]
 }

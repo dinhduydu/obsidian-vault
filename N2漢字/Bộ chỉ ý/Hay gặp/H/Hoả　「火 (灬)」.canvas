@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"53665bd7ccb69299","x":-198,"y":-26,"width":250,"height":60,"type":"text","text":"Hoả　「火 (灬)」"}
+		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火 (灬)」","x":-198,"y":-26,"width":250,"height":60},
+		{"id":"53532e7dedb3fb31","x":221,"y":-123,"width":250,"height":60,"type":"text","text":"淡い"},
+		{"id":"2632dd9d77318c1f","x":640,"y":-123,"width":222,"height":65,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5ddc7b2bc725bd10","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"53532e7dedb3fb31","toSide":"left"},
+		{"id":"60b130909a2b4903","fromNode":"53532e7dedb3fb31","fromSide":"right","toNode":"2632dd9d77318c1f","toSide":"left"}
+	]
 }

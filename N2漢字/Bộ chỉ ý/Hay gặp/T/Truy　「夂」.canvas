@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"297d2ba2ef978681","x":-115,"y":-44,"width":250,"height":60,"type":"text","text":"Truy　「夂」"}
+		{"id":"297d2ba2ef978681","type":"text","text":"Truy　「夂」","x":-115,"y":-44,"width":235,"height":60},
+		{"id":"93f791d79aa9f256","x":261,"y":-153,"width":250,"height":60,"type":"text","text":"厳重"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f00d53223804c570","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"93f791d79aa9f256","toSide":"left"}
+	]
 }

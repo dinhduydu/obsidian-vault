@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"22c7ec65d03a1de8","x":-120,"y":-18,"width":250,"height":60,"type":"text","text":"Nhĩ　「耳」"}
+		{"id":"22c7ec65d03a1de8","type":"text","text":"Nhĩ　「耳」","x":-120,"y":-18,"width":250,"height":60},
+		{"id":"bff4b834b6526a19","x":297,"y":-155,"width":250,"height":60,"type":"text","text":"厳重"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1910c8641d64bb1f","fromNode":"22c7ec65d03a1de8","fromSide":"right","toNode":"bff4b834b6526a19","toSide":"left"}
+	]
 }

@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"5c7078c152910506","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Tử (con)　「子」"}
+		{"id":"5c7078c152910506","type":"text","text":"Tử (con)　「子」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e636fe577ee85846","x":246,"y":-78,"width":250,"height":60,"type":"text","text":"浮"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"e636fe577ee85846","toSide":"left"}
+	]
 }

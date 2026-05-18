@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"af7d612970d61c32","type":"text","text":"Cốt　「骨」","x":-234,"y":-26,"width":250,"height":60},
-		{"id":"9bde495e523ad39d","type":"text","text":"滑る「すべる」（Trượt)","x":200,"y":-180,"width":250,"height":60}
+		{"id":"9bde495e523ad39d","type":"text","text":"滑る「すべる」（Trượt)","x":200,"y":-180,"width":250,"height":60},
+		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas","x":600,"y":-360,"width":250,"height":147},
+		{"id":"7e91574029614852","x":220,"y":40,"width":250,"height":60,"type":"text","text":"過"}
 	],
 	"edges":[
-		{"id":"cebe79937ee1d2ad","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"9bde495e523ad39d","toSide":"left"}
+		{"id":"cebe79937ee1d2ad","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"9bde495e523ad39d","toSide":"left"},
+		{"id":"128e5e41c124d370","fromNode":"9bde495e523ad39d","fromSide":"right","toNode":"751bec73c5f1b57f","toSide":"left"},
+		{"id":"030b873c4f02694d","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"7e91574029614852","toSide":"left"}
 	]
 }

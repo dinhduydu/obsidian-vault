@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"68a738dca89dd93d","x":-198,"y":-6,"width":250,"height":60,"type":"text","text":"Khẩu　「口」"}
+		{"id":"68a738dca89dd93d","type":"text","text":"Khẩu　「口」","x":-198,"y":-6,"width":250,"height":60},
+		{"id":"dbc4f13297f9d651","type":"text","text":"合","x":247,"y":-162,"width":250,"height":60},
+		{"id":"e362ce429b62dc63","type":"text","text":"合図「あいず」：Hiệu lệnh","x":703,"y":-251,"width":250,"height":60},
+		{"id":"101cf89f23e21a19","x":255,"y":51,"width":250,"height":60,"type":"text","text":"喉"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"dbc4f13297f9d651","toSide":"left"},
+		{"id":"408a162f3cdf477a","fromNode":"dbc4f13297f9d651","fromSide":"right","toNode":"e362ce429b62dc63","toSide":"left"},
+		{"id":"dba9f27a1ad3c1f7","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"101cf89f23e21a19","toSide":"left"}
+	]
 }
