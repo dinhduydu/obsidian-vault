@@ -198,17 +198,12 @@
             "id": "63fb50e89f4e3870",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "N2漢字/Day13_用法/Day13_Batch02.canvas",
-                "viewState": {
-                  "x": 479.4259760547461,
-                  "y": 378.0624887458507,
-                  "zoom": -0.3888680102969874
-                }
+                "file": "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day13_Batch02"
+              "icon": "lucide-file-text",
+              "title": "N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ"
             }
           }
         ],
@@ -333,13 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Day13_用法/Day13_Batch02.canvas",
+                "file": "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Day13_Batch02"
+              "title": "Outline of N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ"
             }
           }
         ],
@@ -363,9 +358,9 @@
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
     "N2漢字/Day13_用法/Day13_Batch04.canvas",
+    "N2漢字/Day13_用法/Day13_Batch02.canvas",
     "N2漢字/Day13_用法/Day13_Batch03.canvas",
     "N2漢字/Day13_用法/Day13_Batch01.canvas",
-    "N2漢字/Day13_用法/Day13_Batch02.canvas",
     "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
     "AI_Context/N2漢字_Context.canvas",
     "N2漢字/Day13_用法",
