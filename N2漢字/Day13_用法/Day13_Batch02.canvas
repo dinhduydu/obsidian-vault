@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# Day 13 — 用法復習 Batch 02\n\nNGÀY 13 · Sai ở quiz · 10 từ · Tự link → Bộ chỉ ý","x":-200,"y":-560,"width":520,"height":100},
+		{"id":"w1","type":"text","text":"## 11. 安易（あんい）\n\n**VI:** coi nhẹ, xem thường; dễ dãi, hời hợt\n**EN:** take lightly; overly easy / careless\n\n**Cách dùng:** 安易に考える = coi thường, không nghiêm túc\n\n✅ 2級能力試験を**安易**に考えて臨んだら、落第する恐れがあるよ。\n→ Coi thường kỳ thi N2 thì dễ trượt.\n\n❌ N2はN1より**安易** → **易しい** / **簡単**\n❌ 問題を**安易**して出す → **易しく** / **簡単に**\n❌ 同じ**安易**ではない → **難易度** / **レベル**","x":-1520,"y":-360,"width":400,"height":400},
+		{"id":"w2","type":"text","text":"## 12. のんき\n\n**VI:** thong thả, vô tư (thường trạng thái / hành động)\n**EN:** carefree, easygoing (often careless)\n\n**Cách dùng:** のんきに + động từ = làm một cách thờ ơ\n\n✅ 試験の日はもう目の前なのに、**のんき**に遊んでいる学生がいる。\n\n❌ **のんき**な顔で考え込む → mâu thuẫn; **深刻**な顔で\n❌ **のんき**にボランティア → **積極的に** / **熱心に**\n❌ **のんき**とした暮らしをして羨ましい → **のんびり**した暮らし（khen）","x":-1080,"y":-360,"width":400,"height":400},
+		{"id":"w3","type":"text","text":"## 14. 厳重（げんじゅう）\n\n**VI:** nghiêm ngặt, chặt chẽ (bảo vệ, kiểm tra…)\n**EN:** strict, rigorous (security / screening)\n\n**Cách dùng:** 厳重に + động từ trừu tượng\n\n✅ 入学願書を**厳重**に審査し直すよう指示した。\n→ Chỉ thị rà soát lại hồ sơ nhập học thật chặt.\n\n❌ 体が**厳重**に弱く → **ますます** / **どんどん**\n❌ 治安を**厳重**させ → **厳しく**管理する / **強化**する\n❌ **厳重**のミス → **重大**なミス / **深刻**な","x":-640,"y":-360,"width":400,"height":400},
+		{"id":"w4","type":"text","text":"## 18. ふさわしい\n\n**VI:** xứng đáng, phù hợp (với địa vị, hoàn cảnh)\n**EN:** appropriate, suitable, befitting\n\n**Cách dùng:** ～にふさわしい / ふさわしくない\n\n✅ あの役人は自分の収入に**ふさわしくない**生活をしているらしい。\n→ Sống xa hoa không xứng thu nhập.\n\n❌ 蓋は瓶に**ふさわしくない** → đúng ngữ pháp nhưng quiz chọn ngữ cảnh “địa vị”; ở đây hay dùng **合わない**\n❌ お口に**ふさわしい** → **口に合う** / **ご馳走**\n❌ 病気に**ふさわしい** → **病気に合う**薬 / **効く**薬","x":-200,"y":-360,"width":400,"height":400},
+		{"id":"w5","type":"text","text":"## 19. すばやい\n\n**VI:** nhanh nhẹn (chuyển động, phản xạ)\n**EN:** quick, swift (physical movement)\n\n**Cách dùng:** すばやい + danh từ (動き, 反応…)\n\n✅ あの小柄な卓球選手は**すばやい**動きで試合に勝ちました。\n\n❌ **すばやい**時間 → **短い**時間 / **わずかな**時間\n❌ **すばやく**帰ってきた → **すぐに** / **急いで**（速度≠時間）\n❌ 流れが**すばやく** → **速く** / **急に速く**","x":240,"y":-360,"width":400,"height":400},
+		{"id":"w6","type":"text","text":"## 20. やむをえない\n\n**VI:** không còn cách nào khác, bất đắc dĩ\n**EN:** unavoidable, have no choice\n\n**Cách dùng:** やむをえず + V / やむをえない + danh từ\n\n✅ 気分が悪かったが、用事があるので、**やむをえず**出かけて行った。\n\n❌ 私が引き受ける**やむをえなかった** → **仕方なく**引き受けた\n❌ 喉が渇いて**やむをえない** → **たまらない** / **仕方ない**\n❌ 会いたくて**やむをえなくなった** → **たまらなくなった**","x":680,"y":-360,"width":400,"height":400},
+		{"id":"w7","type":"text","text":"## 21. 味わう（あじわう）\n\n**VI:** nếm trải, cảm nhận (trải nghiệm, cảm xúc)\n**EN:** savor, experience (abstract)\n\n**Cách dùng:** おもしろみ・苦しみ・雰囲気を味わう\n\n✅ 日本にいる間にあちこちを歩き回って旅のおもしろみを**味わう**。\n\n❌ 匂いを**味わう** → **においをかぐ** / **嗅ぐ**\n❌ 古道を**味わって**行く → **歩いて**行く / **たどる**\n❌ タバコを**味わう** → **吸う** / **嗜む（しむ）**","x":-1520,"y":80,"width":400,"height":400},
+		{"id":"w8","type":"text","text":"## 22. 補う（おぎなう）\n\n**VI:** bù đắp, bổ sung (thiếu sót, số tiền…)\n**EN:** make up for, compensate, supplement\n\n**Cách dùng:** thiếu hụt trừu tượng / số lượng — không phải “vá quần”\n\n✅ 足りない資金は銀行から借りて**補おう**とする。\n→ Vay ngân hàng để bù phần thiếu.\n\n❌ ズボンを**補う** → **直す** / **繕う（つくろう）**\n❌ 窪んだ所に土を**補う** → **埋める** / **充填する**\n❌ 心は**補えない** → câu đúng nghĩa nhưng quiz: **癒えない** / **回復しない**","x":-1080,"y":80,"width":400,"height":400},
+		{"id":"w9","type":"text","text":"## 23. 浮く（うく）\n\n**VI:** nổi (trên mặt nước / không trung)\n**EN:** float (physically in air or on liquid)\n\n**Cách dùng:** quiz này chọn nghĩa vật lý; 心に浮く = khác đề\n\n✅ 青い空に**浮いている**雲を眺めている。\n\n❌ 書きたいことが心に**浮いて**くる → đúng tiếng Nhật nhưng **思い浮かぶ**\n❌ 微笑が口元に**浮いた** → **浮かべた** / **現れた**\n❌ 涙が目に**浮いて**きた → **あふれて** / **こぼれた**","x":-640,"y":80,"width":400,"height":400},
+		{"id":"w10","type":"text","text":"## 24. 思いつく（おもいつく）\n\n**VI:** nảy ra (ý tưởng), nghĩ ra\n**EN:** come up with (an idea), hit upon\n\n**Cách dùng:** 考え・案・アイデアを思いつく\n\n✅ 新製品の開発について新しい考えを**思いついた**。\n\n❌ 昔のことを**思いつく**たびに → **思い出す**たびに\n❌ 恋人のことを**思いついている** → **思っている** / **恋している**\n❌ 住まいは自分で**思いつく** → **建てる** / **設計する**","x":-200,"y":80,"width":400,"height":400},
+		{"id":"hint","type":"text","text":"### Gợi ý link (tự nối)\n\n| Từ     | Có thể link     |\n| ------ | --------------- |\n| 安易     | Miên「宀」         |\n| のんき    | Khẩu「口」· 呑      |\n| 厳重     | —               |\n| ふさわしい  | Y「衣」/ thích hợp |\n| すばやい   | Thủ「手」· 速       |\n| やむをえない | Ngôn「言」         |\n| 味わう    | Khẩu「口」         |\n| 補う     | Y「衣」· 糸         |\n| 浮く     | Thủy「氵」         |\n| 思いつく   | Tâm「心」          |\n\n**Batch 03:** 長引く, あいかわらず, あくまで, テンポ, ダイヤグラム, 案外, 当たり前, いずれ, 意義, うろうろ","x":280,"y":80,"width":520,"height":520}
+	],
+	"edges":[
+		{"id":"e0","fromNode":"center","fromSide":"bottom","toNode":"w1","toSide":"top"},
+		{"id":"e1","fromNode":"center","fromSide":"bottom","toNode":"w2","toSide":"top"},
+		{"id":"e2","fromNode":"center","fromSide":"bottom","toNode":"w3","toSide":"top"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"w4","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"w5","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"w6","toSide":"top"},
+		{"id":"e6","fromNode":"w1","fromSide":"bottom","toNode":"w7","toSide":"top"},
+		{"id":"e7","fromNode":"w2","fromSide":"bottom","toNode":"w8","toSide":"top"},
+		{"id":"e8","fromNode":"w3","fromSide":"bottom","toNode":"w9","toSide":"top"},
+		{"id":"e9","fromNode":"w4","fromSide":"bottom","toNode":"w10","toSide":"top"},
+		{"id":"e10","fromNode":"w5","fromSide":"bottom","toNode":"hint","toSide":"right"},
+		{"id":"e11","fromNode":"w6","fromSide":"bottom","toNode":"hint","toSide":"top"},
+		{"id":"e12","fromNode":"w10","fromSide":"right","toNode":"hint","toSide":"left"}
+	]
+}

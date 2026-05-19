@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Day13_用法/Day13_Batch01.canvas",
+                "file": "N2漢字/Day13_用法/Day13_Batch02.canvas",
                 "viewState": {
-                  "x": 195.98109669815645,
-                  "y": 23.742736386316267,
-                  "zoom": -0.5701982501852707
+                  "x": 479.4259760547461,
+                  "y": 378.0624887458507,
+                  "zoom": -0.3888680102969874
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Day13_Batch01"
+              "title": "Day13_Batch02"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Day13_用法/Day13_Batch01.canvas",
+                "file": "N2漢字/Day13_用法/Day13_Batch02.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Day13_Batch01"
+              "title": "Outline of Day13_Batch02"
             }
           }
         ],
@@ -362,9 +362,10 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2漢字/Day13_用法/Day13_Batch01.canvas",
+    "N2漢字/Day13_用法/Day13_Batch02.canvas",
     "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
     "AI_Context/N2漢字_Context.canvas",
-    "N2漢字/Day13_用法/Day13_Batch01.canvas",
     "N2漢字/Day13_用法",
     "N2漢字/N2漢字.canvas",
     "Pasted image 20260519221509.png",
@@ -384,7 +385,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/G",
     "N2漢字/Bộ chỉ ý/Ít gặp/V",
     "N2漢字/Bộ chỉ ý/Hay gặp/V",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Y",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
