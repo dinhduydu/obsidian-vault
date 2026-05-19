@@ -59,40 +59,6 @@
             }
           },
           {
-            "id": "402934e8a7de47e4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ chỉ ý/Ít gặp/S/Sách.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sách"
-            }
-          },
-          {
-            "id": "08d55c8326182d7e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ chỉ ý/Ít gặp/S/Suy　「夊」.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Suy　「夊」"
-            }
-          },
-          {
             "id": "c3afce47695be8f0",
             "type": "leaf",
             "state": {
@@ -234,19 +200,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân.canvas",
                 "viewState": {
-                  "x": 377.36913029587913,
-                  "y": -40.896918000610896,
+                  "x": 573.2500660645617,
+                  "y": -393.9182954194108,
                   "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Cốt　「骨」"
+              "title": "Nhân"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -367,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cốt　「骨」"
+              "title": "Outline of Nhân"
             }
           }
         ],
@@ -396,17 +362,18 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch　「糸 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/C/Cung　「弓」.canvas",
+    "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
+    "N2語彙/N2語彙.canvas",
+    "N2語彙/N2 言葉の意味が一番近いもの.canvas",
+    "fastkey.md",
+    "N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Tử (con)　「子」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Trảo　「爪」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp/N/Noãn　「卵」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/Kệ.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tên.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhĩ　「耳」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Truy　「夂」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch　「糸 」.canvas",
     "N2語彙/N2 言葉の意味が一番近いもの",
     "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
     "N2漢字/Bộ chỉ ý/Ít gặp/U",
@@ -435,7 +402,6 @@
     "N2文法/Vて.md",
     "Untitled.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
-    "fastkey.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
     "複合動詞.md"
   ]

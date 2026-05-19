@@ -10,7 +10,8 @@
 		{"id":"d9ed1de9e836d186","type":"text","text":"運 - Vận","x":-62,"y":720,"width":250,"height":60},
 		{"id":"2970dc1d438d8c63","type":"text","text":"選 - Tuyển","x":-62,"y":860,"width":250,"height":60},
 		{"id":"52bb8c0d6fe71757","type":"text","text":"đi, tiến","x":-1340,"y":-20,"width":250,"height":60},
-		{"id":"a8d689d7c4e0b672","x":-668,"y":457,"width":250,"height":60,"type":"text","text":"造 - Tạo"}
+		{"id":"a8d689d7c4e0b672","type":"text","text":"造 - Tạo","x":-668,"y":457,"width":250,"height":60},
+		{"id":"95ed3f95687e8a24","x":-513,"y":-227,"width":250,"height":60,"type":"text","text":"遊 - Du"}
 	],
 	"edges":[
 		{"id":"8bd72771567ff646","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a55d38a6eef4f248","toSide":"left"},
@@ -22,6 +23,7 @@
 		{"id":"d81fbf75900e3431","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"d9ed1de9e836d186","toSide":"left"},
 		{"id":"adee5d613fb92493","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"2970dc1d438d8c63","toSide":"left"},
 		{"id":"8a6c0eb9e6fb983b","fromNode":"3dad924ef56cf399","fromSide":"left","toNode":"52bb8c0d6fe71757","toSide":"right"},
-		{"id":"5503140c2492324e","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a8d689d7c4e0b672","toSide":"left"}
+		{"id":"5503140c2492324e","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a8d689d7c4e0b672","toSide":"left"},
+		{"id":"4d71b69839500ca6","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"95ed3f95687e8a24","toSide":"left"}
 	]
 }
