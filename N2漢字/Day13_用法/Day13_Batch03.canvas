@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":-200,"y":-560,"width":520,"height":100,"text":"# Day 13 — 用法復習 Batch 03\n\nNGÀY 13 · Sai ở quiz · 10 từ · Tự link → Bộ chỉ ý"},
+		{"id":"w1","type":"text","x":-1520,"y":-360,"width":400,"height":400,"text":"## 25. 長引く（ながびく）\n\n**VI:** kéo dài (sự việc, họp, bệnh…)\n**EN:** drag on, be prolonged (events, meetings)\n\n**Cách dùng:** 会議・戦争・冬が長引く — không dùng cho vật dài / thời hạn\n\n✅ 発言者が多くて、会議がずいぶん**長引いて**しまった。\n→ Nhiều người phát biểu nên họp kéo dài.\n\n❌ 車で行くと時間が**長引く** → **かかる** / **時間がかかる**\n❌ うどんが**長引いて** → **のびて** / **伸びて**\n❌ 締め切りが**長引いた** → **延びた** / **先延ばしに**なった"},
+		{"id":"w2","type":"text","x":-1080,"y":-360,"width":400,"height":400,"text":"## 26. あいかわらず\n\n**VI:** vẫn như trước, không đổi (trạng thái quen thuộc)\n**EN:** as ever, as usual, unchanged\n\n**Cách dùng:** mô tả tình trạng vẫn giữ nguyên (元気, 忙しい…)\n\n✅ おかげさまで、わたくしども、**あいかわらず**元気です。\n→ Nhờ ơn, chúng tôi vẫn khỏe như trước.\n\n❌ **あいかわらず**君を愛している → **今も** / **相変わらず**（tình cảm）\n❌ **あいかわらず**に遊んでないで → **相変わらず** / **いつも通り**\n❌ **あいかわらず**のワイン → **いつもの** / **変わらぬ**"},
+		{"id":"w3","type":"text","x":-640,"y":-360,"width":400,"height":400,"text":"## 27. あくまで\n\n**VI:** kiên quyết, nhất quyết, đến cùng\n**EN:** to the end, firmly, insistently\n\n**Cách dùng:** nhấn mạnh lập trường / giới hạn — あくまで反対・個人の意見\n\n✅ 私はこの計画には**あくまで**反対するつもりです。\n→ Tôi nhất quyết phản đối kế hoạch này.\n\n❌ **あくまで**頼んでみよう → **とにかく** / **ひとまず**\n❌ **あくまで**車に乗って → **まず** / **とりあえず**\n❌ 32歳で**あくまで**の人生 → **ついに**終えた / **果て**"},
+		{"id":"w4","type":"text","x":-200,"y":-360,"width":400,"height":400,"text":"## 33. テンポ\n\n**VI:** nhịp độ, tốc độ (cuộc sống, kinh tế, công việc)\n**EN:** pace, tempo (of life, era, work)\n\n**Cách dùng:** テンポが速い・遅い・狂う — loanword, không phải “nhịp nhạc” mọi chỗ\n\n✅ この国の経済は**テンポ**の速い時代を迎えました。\n→ Kinh tế bước vào thời kỳ nhịp sống nhanh.\n\n❌ 高速道路で速い**テンポ**を出す → **スピード** / **速度**\n❌ 台風が20キロの**テンポ** → **速さ** / **進む速さ**\n❌ （文4は文法可）quiz chọn **時代のテンポ**型"},
+		{"id":"w5","type":"text","x":240,"y":-360,"width":400,"height":400,"text":"## 35. ダイヤグラム\n\n**VI:** lịch trình (tàu); diagram (tiếng Anh gốc)\n**EN:** (train) timetable; schedule chart\n\n**Cách dùng:** 汽車のダイヤグラム = thời khóa biểu / lịch tàu\n\n✅ 汽車の**ダイヤグラム**が来月から改正されるそうだ。\n→ Lịch tàu sửa từ tháng sau.\n\n❌ 起床**ダイヤグラム** → **時間** / **習慣**\n❌ 授業の**ダイヤグラム** → **時間割（じかんわり）**\n❌ バスは…通過する**ダイヤグラム** → **ルート** / **道順**"},
+		{"id":"w6","type":"text","x":680,"y":-360,"width":400,"height":400,"text":"## 36. 案外（あんがい）\n\n**VI:** ngoài dự đoán, không tưởng (thường + tính từ)\n**EN:** unexpectedly, surprisingly\n\n**Cách dùng:** 案外 + 簡単・早い・少ない / 案外だった（surprise）\n\n✅ 今日の日本語の試験は、**案外**かんたんだった。\n→ Thi Nhật hôm nay dễ hơn tưởng.\n\n❌ 君に会うとは**案外**だった → **意外（いがい）**だった\n❌ **案外**ひどい成績 → **思ったより**ひどい / **意外に**\n❌ 結婚するなんて**案外** → **意外** / **思いがけない**"},
+		{"id":"w7","type":"text","x":-1520,"y":80,"width":400,"height":400,"text":"## 37. 当たり前（あたりまえ）\n\n**VI:** đương nhiên, hiển nhiên (đạo đức / lẽ thường)\n**EN:** natural, a matter of course, obvious\n\n**Cách dùng:** ～のが当たり前だ = đương nhiên phải…\n\n✅ 困っている人を見たら助けるのが**当たり前**だ。\n→ Giúp người khó khăn là điều hiển nhiên.\n\n❌ 6万円だと**当たり前**はいくら → **一人当たり（ひとりあたり）**は\n❌ 交差点で**当たり前**に事故 → **よく** / **しばしば**\n❌ この**当たり前**に花屋 → **あたり** / **辺り（あたり）**"},
+		{"id":"w8","type":"text","x":-1080,"y":80,"width":400,"height":400,"text":"## 39. いずれ\n\n**VI:** sớm muộn, lúc nào đó; (sau này) gặp lại\n**EN:** eventually, sometime (in the future)\n\n**Cách dùng:** いずれまた… = hẹn gặp / sẽ… trong tương lai\n\n✅ **いずれ**またお会いしてお話ししましょう。\n→ Hẹn gặp lại và trò chuyện.\n\n❌ リーさんは**いずれ**の方 → **どちら**の方\n❌ 会議は**いずれ**でしょうか → **いつ** / **何時**\n❌ 午後には**いずれ**席に → **きっと** / **必ず**戻ります"},
+		{"id":"w9","type":"text","x":-640,"y":80,"width":400,"height":400,"text":"## 41. 意義（いぎ）\n\n**VI:** ý nghĩa, giá trị (cuộc sống, công việc)\n**EN:** significance, meaning (worth / purpose)\n\n**Cách dùng:** 仕事に意義がある — không phải “nghĩa từ” trong từ điển\n\n✅ 自分の仕事に**意義**があるか、ときどき考えます。\n→ Thỉnh thoảng nghĩ công việc có ý nghĩa không.\n\n❌ おっしゃっている**意義** → **意味（いみ）**\n❌ 言葉の**意義**を辞書で → **意味** / **定義**\n❌ 悪い**意義**はない → **悪い意味**はない / **つもり**はない"},
+		{"id":"w10","type":"text","x":-200,"y":80,"width":400,"height":400,"text":"## 42. うろうろ\n\n**VI:** đi lang thang, lảng vảng (không mục đích rõ)\n**EN:** wander around, loiter\n\n**Cách dùng:** どこをうろうろしていた — người đi đây đó\n\n✅ こんな遅くまでどこを**うろうろ**していたの。\n→ Muộn thế này mà đi đâu vậy?\n\n❌ ばい菌が**うろうろ** → **うようよ** / **漂っている**\n❌ 母を心配して**うろうろ** → **そわそわ** / **行き来**する\n❌ 記憶が**うろうろ** → **あいまい** / **定まらない**"},
+		{"id":"hint","type":"text","x":280,"y":80,"width":520,"height":240,"text":"### Gợi ý link (tự nối)\n\n| Từ | Có thể link |\n|----|-------------|\n| 長引く | Trường「長」· Ngôn |\n| あいかわらず | — |\n| あくまで | — |\n| テンポ | Katakana / 語彙 |\n| ダイヤグラム | Katakana |\n| 案外 | Tâm「心」· 案 |\n| 当たり前 | Thủ「手」· 当 |\n| いずれ | — |\n| 意義 | Tâm「心」· 義 |\n| うろうろ | Sước Dẫn「辵」 |\n\n**Batch 04:** 思いっきり, 拡充, 過剰, 苦心, くやむ, 契機, いちがいに（nếu sai）— còn ~6 từ sai"}
+	],
+	"edges":[
+		{"id":"e0","fromNode":"center","toNode":"w1","fromSide":"bottom","toSide":"top"},
+		{"id":"e1","fromNode":"center","toNode":"w2","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"center","toNode":"w3","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"center","toNode":"w4","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"center","toNode":"w5","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"w6","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"w1","fromSide":"bottom","toSide":"top","toNode":"w7"},
+		{"id":"e7","fromNode":"w2","fromSide":"bottom","toSide":"top","toNode":"w8"},
+		{"id":"e8","fromNode":"w3","fromSide":"bottom","toSide":"top","toNode":"w9"},
+		{"id":"e9","fromNode":"w4","fromSide":"bottom","toSide":"top","toNode":"w10"},
+		{"id":"e10","fromNode":"w5","fromSide":"bottom","toSide":"right","toNode":"hint"},
+		{"id":"e11","fromNode":"w6","fromSide":"bottom","toSide":"top","toNode":"hint"},
+		{"id":"e12","fromNode":"w10","fromSide":"right","toSide":"left","toNode":"hint"}
+	]
+}
