@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"40e64b63f2087a79","type":"text","text":"N2漢字","x":-380,"y":-180,"width":250,"height":50},
+		{"id":"3f79fefe0ee72494","type":"text","text":"Bộ chỉ ý","x":9,"y":-243,"width":250,"height":60},
+		{"id":"2ccfb59c1dfc348f","x":477,"y":-336,"width":250,"height":60,"type":"text","text":"Hay gặp"},
+		{"id":"ae25b0e9e9213088","x":882,"y":-397,"width":250,"height":60,"type":"text","text":"A"},
+		{"id":"0f54de7cd1f7b984","x":884,"y":-276,"width":250,"height":60,"type":"text","text":"B"},
+		{"id":"b607d05cf9a569b2","x":893,"y":-170,"width":250,"height":60,"type":"text","text":"Y"},
+		{"id":"64779a71638f2854","type":"text","text":"A","x":871,"y":0,"width":250,"height":60},
+		{"id":"0d5e955211f16402","type":"text","text":"B","x":873,"y":121,"width":250,"height":60},
+		{"id":"0830a90c204bf1d2","type":"text","text":"Y","x":882,"y":227,"width":250,"height":60},
+		{"id":"66b315eefd3148cd","x":477,"y":30,"width":250,"height":60,"type":"text","text":"Ít gặp"}
+	],
+	"edges":[
+		{"id":"caa6ac4e60b81be0","fromNode":"40e64b63f2087a79","fromSide":"right","toNode":"3f79fefe0ee72494","toSide":"left"},
+		{"id":"978393cf9eb767da","fromNode":"3f79fefe0ee72494","fromSide":"right","toNode":"2ccfb59c1dfc348f","toSide":"left"},
+		{"id":"5b1bc580583c055f","fromNode":"3f79fefe0ee72494","fromSide":"right","toNode":"66b315eefd3148cd","toSide":"left"},
+		{"id":"8fe4f63aed449edb","fromNode":"2ccfb59c1dfc348f","fromSide":"right","toNode":"ae25b0e9e9213088","toSide":"left"},
+		{"id":"db213dde419c8119","fromNode":"2ccfb59c1dfc348f","fromSide":"right","toNode":"0f54de7cd1f7b984","toSide":"left"},
+		{"id":"f213ff386a0150c0","fromNode":"2ccfb59c1dfc348f","fromSide":"right","toNode":"b607d05cf9a569b2","toSide":"left"},
+		{"id":"65af0bd945b5e031","fromNode":"66b315eefd3148cd","fromSide":"right","toNode":"64779a71638f2854","toSide":"left"},
+		{"id":"55f4739f6a9513b3","fromNode":"66b315eefd3148cd","fromSide":"right","toNode":"0d5e955211f16402","toSide":"left"},
+		{"id":"d113c2a561a0c68f","fromNode":"66b315eefd3148cd","fromSide":"right","toNode":"0830a90c204bf1d2","toSide":"left"}
+	]
+}

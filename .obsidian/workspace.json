@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
+                "file": "AI_Context/N2漢字_Context.canvas",
                 "viewState": {
-                  "x": 1596.3359786259923,
-                  "y": 448.2012107759493,
-                  "zoom": -0.16417506336296972
+                  "x": 294.7547342111355,
+                  "y": -145.01628310264766,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Khẩu　「口」"
+              "title": "N2漢字_Context"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
+                "file": "AI_Context/N2漢字_Context.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Khẩu　「口」"
+              "title": "Outline of N2漢字_Context"
             }
           }
         ],
@@ -362,6 +362,11 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2漢字/N2漢字.canvas",
+    "AI_Context/N2漢字_Context.canvas",
+    "Pasted image 20260519221509.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
+    "AI_Context",
     "N2漢字/Bộ chỉ ý/Hay gặp/M/Mộc　「木」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/M/Miên　「宀」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
@@ -370,9 +375,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/P/Phụ　「阜 (⻖)」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoà　「禾」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/X/Xa　「車」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch　「糸 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
     "fastkey.md",
     "N2語彙/N2 言葉の意味が一番近いもの",
     "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
@@ -383,7 +385,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/V",
     "N2漢字/Bộ chỉ ý/Hay gặp/Y",
     "N2漢字/Bộ chỉ ý/Ít gặp/Q",
-    "N2漢字/Bộ chỉ ý/Hay gặp/Q",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
@@ -393,7 +394,6 @@
     "Pasted image 20260517112146.png",
     "Pasted image 20260517111957.png",
     "Pasted image 20260517111943.png",
-    "Pasted image 20260517111722.png",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",
