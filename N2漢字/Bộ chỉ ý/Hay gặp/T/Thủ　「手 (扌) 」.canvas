@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"0e313ac988b2a926","x":-166,"y":2,"width":250,"height":60,"type":"text","text":"Thủ　「手 (扌) 」"}
+		{"id":"0e313ac988b2a926","type":"text","text":"Thủ　「手 (扌) 」","x":-166,"y":2,"width":250,"height":60},
+		{"id":"3fe72ef12d33ff6f","type":"text","text":"持","x":359,"y":-134,"width":250,"height":60},
+		{"id":"dc9e4746316fa120","x":-620,"y":-164,"width":250,"height":90,"type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"39b176beb30eb398","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"3fe72ef12d33ff6f","toSide":"left"},
+		{"id":"3f3af7eaa076ef6d","fromNode":"0e313ac988b2a926","fromSide":"left","toNode":"dc9e4746316fa120","toSide":"right"}
+	]
 }

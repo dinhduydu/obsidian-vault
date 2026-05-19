@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"e49a2179021967a8","x":-171,"y":-26,"width":250,"height":60,"type":"text","text":"Mộc　「木」"}
+		{"id":"e49a2179021967a8","type":"text","text":"Mộc　「木」","x":-171,"y":-26,"width":250,"height":60},
+		{"id":"c98dad198456b80a","x":-580,"y":-212,"width":250,"height":186,"type":"text","text":"### 村（そん／むら）\n\n- Bộ thủ: **木（き）** — bộ Mộc\n- Nghĩa: làng"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"}
+	]
 }

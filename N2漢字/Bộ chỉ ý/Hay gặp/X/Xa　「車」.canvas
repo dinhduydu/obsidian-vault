@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"ab7020e0cd187125","x":-146,"y":-16,"width":250,"height":60,"type":"text","text":"Xa　「車」"}
+		{"id":"ab7020e0cd187125","type":"text","text":"Xa　「車」","x":-160,"y":-20,"width":250,"height":60},
+		{"id":"23b7e68de13bd509","x":-600,"y":-140,"width":250,"height":107,"type":"text","text":"- Bộ thủ: **車（くるま）** — bộ Xa\n- Nghĩa: xoay, chuyển đổi"},
+		{"id":"917b745752a235aa","x":240,"y":-93,"width":250,"height":60,"type":"text","text":"転（てん）"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a1b13fed69757004","fromNode":"ab7020e0cd187125","fromSide":"left","toNode":"23b7e68de13bd509","toSide":"right"},
+		{"id":"62e23a2196a9d67f","fromNode":"ab7020e0cd187125","fromSide":"right","toNode":"917b745752a235aa","toSide":"left"}
+	]
 }

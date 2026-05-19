@@ -3,13 +3,19 @@
 		{"id":"aaef6f8a5dbfccbd","type":"text","text":"計 - Kế","x":179,"y":-120,"width":250,"height":60},
 		{"id":"2cb0bb0d2564e168","type":"text","text":"試 - Thí","x":181,"y":11,"width":250,"height":60},
 		{"id":"6fc002eecd74ae14","type":"text","text":"調 - Điều ","x":181,"y":160,"width":250,"height":60},
-		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-240,"y":11,"width":250,"height":60},
-		{"id":"7d310de5d110c01f","type":"text","text":"説 - Thuyết","x":179,"y":-260,"width":250,"height":60}
+		{"id":"7d310de5d110c01f","type":"text","text":"説 - Thuyết","x":179,"y":-260,"width":250,"height":60},
+		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
+		{"id":"8de53d58e35e7061","type":"text","text":"誤　「Ngộ」","x":181,"y":348,"width":250,"height":60},
+		{"id":"2a96d03ae4a78f69","type":"text","text":"誤り　「あやまり」：","x":540,"y":348,"width":250,"height":60},
+		{"id":"a14a6baa77067fef","type":"text","text":"学生たちと一緒に本の**あやまり**を探し出す。","x":1000,"y":348,"width":400,"height":60}
 	],
 	"edges":[
 		{"id":"4816444c8bcab903","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"aaef6f8a5dbfccbd","toSide":"left"},
 		{"id":"5e25a62afaedebb0","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"2cb0bb0d2564e168","toSide":"left"},
 		{"id":"fb6edb23970a0e20","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"6fc002eecd74ae14","toSide":"left"},
-		{"id":"ba9be4a01f337e0b","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"7d310de5d110c01f","toSide":"left"}
+		{"id":"ba9be4a01f337e0b","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"7d310de5d110c01f","toSide":"left"},
+		{"id":"b1efa2ac12a328c9","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"8de53d58e35e7061","toSide":"left"},
+		{"id":"b60b46e1fc402ab8","fromNode":"8de53d58e35e7061","fromSide":"right","toNode":"2a96d03ae4a78f69","toSide":"left"},
+		{"id":"555e59303fa29de9","fromNode":"2a96d03ae4a78f69","fromSide":"right","toNode":"a14a6baa77067fef","toSide":"left"}
 	]
 }

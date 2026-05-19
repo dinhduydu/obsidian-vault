@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"b363cdf76a4c397d","x":-116,"y":-24,"width":250,"height":60,"type":"text","text":"Hoà　「禾」"},
-		{"id":"e603542cb333ba08","x":291,"y":-116,"width":250,"height":60,"type":"text","text":"料 - Liệu"},
-		{"id":"9f2c8ef127203706","x":291,"y":36,"width":250,"height":60,"type":"text","text":"粉 - Phấn"}
+		{"id":"e603542cb333ba08","type":"text","text":"料 - Liệu","x":291,"y":-116,"width":250,"height":60},
+		{"id":"9f2c8ef127203706","type":"text","text":"粉 - Phấn","x":291,"y":36,"width":250,"height":60},
+		{"id":"b363cdf76a4c397d","type":"text","text":"Hoà　「禾」","x":-340,"y":36,"width":250,"height":60},
+		{"id":"bb9025f2f97a342c","type":"text","text":"移転　「いてん」：chuyển địa điểm / dời sang chỗ mới.","x":303,"y":243,"width":250,"height":60},
+		{"id":"e572b5127e2e1f80","type":"text","text":"Bộ thủ: 禾（のぎへん） — bộ Hòa\nNghĩa: di chuyển","x":-860,"y":-100,"width":321,"height":74},
+		{"id":"3691312acd631ed5","x":660,"y":235,"width":434,"height":76,"type":"text","text":"ダム建設で、その村は隣村へ**移転**することになった。"}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
-		{"id":"3a0b187f2e780e9d","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"9f2c8ef127203706","toSide":"left"}
+		{"id":"3a0b187f2e780e9d","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"9f2c8ef127203706","toSide":"left"},
+		{"id":"5d07fc3297a00796","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"bb9025f2f97a342c","toSide":"left"},
+		{"id":"14e767c6e15e8386","fromNode":"b363cdf76a4c397d","fromSide":"left","toNode":"e572b5127e2e1f80","toSide":"right"},
+		{"id":"50c20d71010e1b4c","fromNode":"bb9025f2f97a342c","fromSide":"right","toNode":"3691312acd631ed5","toSide":"left"}
 	]
 }

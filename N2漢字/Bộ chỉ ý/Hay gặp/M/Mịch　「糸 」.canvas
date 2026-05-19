@@ -1,27 +1,37 @@
 {
 	"nodes":[
 		{"id":"bd7846c7848a4560","type":"text","text":"Mịch　「糸 」","x":-520,"y":80,"width":250,"height":60},
-		{"id":"d9daaa660411cbd6","type":"text","text":"関係","x":500,"y":80,"width":250,"height":60},
-		{"id":"db16d4ac5be9c729","type":"text","text":"系　(Hệ)","x":-28,"y":80,"width":250,"height":60},
 		{"id":"c25078adeb008f88","type":"text","text":"緒","x":-26,"y":285,"width":250,"height":60},
 		{"id":"08cda558c0b65793","type":"text","text":"維","x":-25,"y":521,"width":250,"height":60},
-		{"id":"edc5a7f54700356e","type":"text","text":"維持","x":422,"y":511,"width":250,"height":60},
+		{"id":"edc5a7f54700356e","type":"text","text":"維持　「**いじ**.」：","x":422,"y":511,"width":250,"height":60},
 		{"id":"1edc15e14d7d88dc","type":"text","text":"績","x":-28,"y":-40,"width":250,"height":60},
 		{"id":"f8f915c014b36d0f","type":"text","text":"成績","x":429,"y":-63,"width":250,"height":60},
-		{"id":"5f93f76e66af54c9","x":-10,"y":181,"width":250,"height":60,"type":"text","text":"締"},
-		{"id":"0409f92a102955bc","x":-60,"y":-500,"width":250,"height":60,"type":"text","text":"経"},
-		{"id":"2b4eb117a1027516","type":"text","text":"神経","x":260,"y":-500,"width":250,"height":60}
+		{"id":"5f93f76e66af54c9","type":"text","text":"締","x":-10,"y":181,"width":250,"height":60},
+		{"id":"0409f92a102955bc","type":"text","text":"経","x":-60,"y":-500,"width":250,"height":60},
+		{"id":"2b4eb117a1027516","type":"text","text":"神経","x":260,"y":-500,"width":250,"height":60},
+		{"id":"3b16a607b2cf4102","type":"text","text":"- duy trì\n- giữ gìn\n- maintain","x":792,"y":485,"width":288,"height":96},
+		{"id":"b9390b42cff94ca9","type":"text","text":"現状を維持する。\n（げんじょう を いじ する。）\nDuy trì hiện trạng.","x":1260,"y":434,"width":284,"height":123},
+		{"id":"651f1406c15a6bd1","type":"text","text":"健康を維持する。\n（けんこう を いじ する。）\nDuy trì sức khỏe.\n","x":1260,"y":640,"width":244,"height":123},
+		{"id":"bd0238be7da0d587","x":-980,"y":-60,"width":329,"height":82,"type":"text","text":"Bộ thủ: 糸（いと） — bộ Mịch (sợi tơ)\nNghĩa gốc: nối, giữ liên kết, duy trì"},
+		{"id":"db16d4ac5be9c729","type":"text","text":"系　(Hệ)","x":-1360,"y":-60,"width":250,"height":60},
+		{"id":"d9daaa660411cbd6","type":"text","text":"関係","x":-1740,"y":-260,"width":250,"height":60},
+		{"id":"c3e7d894d0b48d4f","x":792,"y":820,"width":466,"height":60,"type":"text","text":" 夫一人の収入で、この五人家族の生計を**維持**している。"}
 	],
 	"edges":[
 		{"id":"9b9f078448643fc5","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"0409f92a102955bc","toSide":"left"},
-		{"id":"5a363dceadec1246","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"db16d4ac5be9c729","toSide":"left"},
-		{"id":"9640c65cd9c859e8","fromNode":"db16d4ac5be9c729","fromSide":"right","toNode":"d9daaa660411cbd6","toSide":"left"},
+		{"id":"9640c65cd9c859e8","fromNode":"db16d4ac5be9c729","fromSide":"left","toNode":"d9daaa660411cbd6","toSide":"right"},
 		{"id":"1c8b43c1b7bdcce1","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"c25078adeb008f88","toSide":"left"},
 		{"id":"3ef5c62db3ab22dc","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"08cda558c0b65793","toSide":"left"},
 		{"id":"8a524ad615a1f9c2","fromNode":"08cda558c0b65793","fromSide":"right","toNode":"edc5a7f54700356e","toSide":"left"},
 		{"id":"3ebbc47ffeb721df","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"1edc15e14d7d88dc","toSide":"left"},
 		{"id":"bf34cdd52861f1c7","fromNode":"1edc15e14d7d88dc","fromSide":"right","toNode":"f8f915c014b36d0f","toSide":"left"},
 		{"id":"83457fa56650b60a","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"5f93f76e66af54c9","toSide":"left"},
-		{"id":"708434f2f9ef80fb","fromNode":"0409f92a102955bc","fromSide":"right","toNode":"2b4eb117a1027516","toSide":"left"}
+		{"id":"708434f2f9ef80fb","fromNode":"0409f92a102955bc","fromSide":"right","toNode":"2b4eb117a1027516","toSide":"left"},
+		{"id":"91310cc4354feb3b","fromNode":"edc5a7f54700356e","fromSide":"right","toNode":"3b16a607b2cf4102","toSide":"left"},
+		{"id":"2cfb9fa7194c6d71","fromNode":"3b16a607b2cf4102","fromSide":"right","toNode":"b9390b42cff94ca9","toSide":"left"},
+		{"id":"06d062da1f43793e","fromNode":"3b16a607b2cf4102","fromSide":"right","toNode":"651f1406c15a6bd1","toSide":"left"},
+		{"id":"7a208a92063ae00b","fromNode":"bd7846c7848a4560","fromSide":"left","toNode":"bd0238be7da0d587","toSide":"right"},
+		{"id":"040fd90a357d607a","fromNode":"bd0238be7da0d587","fromSide":"left","toNode":"db16d4ac5be9c729","toSide":"right"},
+		{"id":"61dece47991a854d","fromNode":"edc5a7f54700356e","fromSide":"right","toNode":"c3e7d894d0b48d4f","toSide":"left"}
 	]
 }

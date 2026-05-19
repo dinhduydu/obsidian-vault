@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"a615a7615e75eb08","x":-174,"y":-31,"width":250,"height":60,"type":"text","text":"Miên　「宀」"}
+		{"id":"694b955b96233c47","type":"text","text":"穴　「Huyệt]","x":-174,"y":-31,"width":250,"height":50},
+		{"id":"624c17ad7508912b","type":"text","text":"空き","x":260,"y":-180,"width":250,"height":60},
+		{"id":"a615a7615e75eb08","type":"text","text":"Miên　「宀」","x":-580,"y":40,"width":250,"height":60},
+		{"id":"15bdb8108eb4fab0","type":"text","text":"終点まで**空き**ができなかったので、そのまま立ちっぱなしだった。","x":660,"y":-240,"width":540,"height":60},
+		{"id":"5599a5ee7bcdc06e","x":-174,"y":180,"width":250,"height":103,"type":"text","text":"安（あん）\nBộ thủ: 宀（うかんむり）\nNghĩa: yên ổn, dễ chịu"},
+		{"id":"f1bf52c79c6b66da","x":220,"y":200,"width":250,"height":60,"type":"text","text":"安易"},
+		{"id":"aaba2122d0940825","x":750,"y":200,"width":309,"height":65,"type":"text","text":"“quá dễ và quá thoải mái”\n→ làm mà không suy nghĩ sâu."},
+		{"id":"49b5e4211c06fbd8","x":750,"y":325,"width":360,"height":100,"type":"text","text":"**安易**に信じてはいけない。\n（あんい に しんじて は いけない。）\nKhông nên dễ dàng tin như vậy."},
+		{"id":"1dadf681c54567c6","x":750,"y":465,"width":302,"height":94,"type":"text","text":"**安易**な考え\n（あんい な かんがえ）\nSuy nghĩ quá đơn giản / hời hợt."},
+		{"id":"cc8850c11f9646f2","x":752,"y":679,"width":528,"height":50,"type":"text","text":"2級能力試験を**安易**に考えて臨んだら、落第する恐れがあるよ。"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c3a0a647f422fd28","fromNode":"694b955b96233c47","fromSide":"right","toNode":"624c17ad7508912b","toSide":"left"},
+		{"id":"32200f5c60bb1021","fromNode":"a615a7615e75eb08","fromSide":"right","toNode":"694b955b96233c47","toSide":"left"},
+		{"id":"c5ec82689f63c114","fromNode":"624c17ad7508912b","fromSide":"right","toNode":"15bdb8108eb4fab0","toSide":"left"},
+		{"id":"667fe906a258f083","fromNode":"a615a7615e75eb08","fromSide":"right","toNode":"5599a5ee7bcdc06e","toSide":"left"},
+		{"id":"fb2ec415de95f820","fromNode":"5599a5ee7bcdc06e","fromSide":"right","toNode":"f1bf52c79c6b66da","toSide":"left"},
+		{"id":"37a6090ac4d77dac","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"aaba2122d0940825","toSide":"left"},
+		{"id":"de5c623f3fcb4f1f","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"49b5e4211c06fbd8","toSide":"left"},
+		{"id":"76b1985f07241ad8","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"1dadf681c54567c6","toSide":"left"},
+		{"id":"4552a813d7e4adfc","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"cc8850c11f9646f2","toSide":"left"}
+	]
 }

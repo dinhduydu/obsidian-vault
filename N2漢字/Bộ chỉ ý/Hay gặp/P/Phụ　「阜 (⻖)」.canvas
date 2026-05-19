@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"467b8d858bc66f5a","x":-138,"y":-47,"width":250,"height":60,"type":"text","text":"Phụ　「阜 (⻖)」"}
+		{"id":"467b8d858bc66f5a","type":"text","text":"Phụ　「阜 (⻖)」","x":-500,"y":-20,"width":250,"height":60},
+		{"id":"759b7e9f3f1eaebb","type":"text","text":"隣村　「りんそん」：","x":-120,"y":-120,"width":250,"height":60},
+		{"id":"3a62deb8d09e6ddb","type":"text","text":"- Bộ thủ: **阝（こざとへん）** — bộ Phụ\n- Nghĩa: bên cạnh, lân cận","x":-980,"y":-20,"width":354,"height":60},
+		{"id":"9ede8c75380ed4be","x":349,"y":-420,"width":441,"height":156,"type":"text","text":"Trong đời sống hiện đại, người Nhật thường dùng:\n\n- 隣町（となりまち） = thị trấn bên cạnh\n- 近隣（きんりん） = khu vực lân cận hơn là 隣村."},
+		{"id":"a5f7049d0f35cb1c","type":"text","text":"- làng kế bên\n- thôn bên cạnh\n- neighboring village","x":349,"y":-213,"width":250,"height":93},
+		{"id":"6360a0554d69b4cd","x":349,"y":-60,"width":291,"height":130,"type":"text","text":"- 隣村との交流  \n    （りんそん との こうりゅう）  \n    Giao lưu với làng bên cạnh.\n\n\n"},
+		{"id":"75d4251600827975","x":349,"y":140,"width":250,"height":91,"type":"text","text":"- 隣の村  \n    （となり の むら）  \n    Ngôi làng kế bên."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"505c7d8ffff11107","fromNode":"467b8d858bc66f5a","fromSide":"right","toNode":"759b7e9f3f1eaebb","toSide":"left"},
+		{"id":"ad7e9612baf07b19","fromNode":"759b7e9f3f1eaebb","fromSide":"right","toNode":"a5f7049d0f35cb1c","toSide":"left"},
+		{"id":"13dc14e17aa52368","fromNode":"467b8d858bc66f5a","fromSide":"left","toNode":"3a62deb8d09e6ddb","toSide":"right"},
+		{"id":"7e0210d7dfea2ba4","fromNode":"759b7e9f3f1eaebb","fromSide":"right","toNode":"6360a0554d69b4cd","toSide":"left"},
+		{"id":"b58ba776a1a12b2c","fromNode":"759b7e9f3f1eaebb","fromSide":"right","toNode":"9ede8c75380ed4be","toSide":"left"},
+		{"id":"133bed91e94ac118","fromNode":"759b7e9f3f1eaebb","fromSide":"right","toNode":"75d4251600827975","toSide":"left"}
+	]
 }
