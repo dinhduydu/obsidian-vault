@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AI_Context/N2漢字_Context.canvas",
+                "file": "N2漢字/Day13_用法/Day13_Batch01.canvas",
                 "viewState": {
-                  "x": 294.7547342111355,
-                  "y": -145.01628310264766,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 195.98109669815645,
+                  "y": 23.742736386316267,
+                  "zoom": -0.5701982501852707
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "N2漢字_Context"
+              "title": "Day13_Batch01"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_Context/N2漢字_Context.canvas",
+                "file": "N2漢字/Day13_用法/Day13_Batch01.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of N2漢字_Context"
+              "title": "Outline of Day13_Batch01"
             }
           }
         ],
@@ -362,8 +362,11 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
-    "N2漢字/N2漢字.canvas",
+    "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
     "AI_Context/N2漢字_Context.canvas",
+    "N2漢字/Day13_用法/Day13_Batch01.canvas",
+    "N2漢字/Day13_用法",
+    "N2漢字/N2漢字.canvas",
     "Pasted image 20260519221509.png",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
     "AI_Context",
@@ -373,8 +376,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/Q/Quynh　「冂」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/C/Cung　「弓」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/P/Phụ　「阜 (⻖)」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoà　「禾」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/X/Xa　「車」.canvas",
     "fastkey.md",
     "N2語彙/N2 言葉の意味が一番近いもの",
     "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
@@ -384,7 +385,6 @@
     "N2漢字/Bộ chỉ ý/Ít gặp/V",
     "N2漢字/Bộ chỉ ý/Hay gặp/V",
     "N2漢字/Bộ chỉ ý/Hay gặp/Y",
-    "N2漢字/Bộ chỉ ý/Ít gặp/Q",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
