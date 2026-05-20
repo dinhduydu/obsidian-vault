@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/さえ・より/より.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
                 "viewState": {
-                  "x": 640.8126230577453,
-                  "y": -187.1703154531166,
-                  "zoom": -0.6666666666666667
+                  "x": 730.8079396973127,
+                  "y": 205.9169660999534,
+                  "zoom": -0.7240522018866167
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "より"
+              "title": "Sước Dẫn　「廴」「辵 (⻌⻍) 」"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/さえ・より/より.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of より"
+              "title": "Outline of Sước Dẫn　「廴」「辵 (⻌⻍) 」"
             }
           }
         ],
@@ -362,6 +362,7 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2文法/さえ・より/より.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
     "N2文法/そう・よう/よう.canvas",
     "N2文法/一方・上・限り・つもり・他/一方.canvas",
@@ -373,7 +374,6 @@
     "N2漢字/Day13_用法/Day13_Batch03.canvas",
     "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
     "N2漢字/Day13_用法/Day13_Batch04.canvas",
-    "N2漢字/N2漢字.canvas",
     "N2漢字/Day13_用法",
     "Pasted image 20260519221509.png",
     "AI_Context",
