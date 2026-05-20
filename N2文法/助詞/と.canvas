@@ -51,7 +51,6 @@
 		{"id":"e30e1ef38ceed8ab","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り.canvas","x":-693,"y":1865,"width":400,"height":400},
 		{"id":"0603110d427e5259","type":"text","text":"として","x":2551,"y":780,"width":250,"height":60},
 		{"id":"5b66d7413766a38d","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":3360,"y":188,"width":400,"height":400},
-		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":3435,"y":960,"width":250,"height":60},
 		{"id":"321932de2f192f21","type":"text","text":"はともかくとして","x":3290,"y":669,"width":250,"height":60},
 		{"id":"2da0a2c9be4e1c11","type":"file","file":"Pasted image 20260412210322.png","x":3885,"y":669,"width":399,"height":223},
 		{"id":"d5775c4854d2e08e","type":"text","text":"は別として","x":3287,"y":803,"width":250,"height":60},
@@ -70,7 +69,10 @@
 		{"id":"5aa2c34d7c0eca82","type":"text","text":"Marks onomatopoeic words","x":2201,"y":-4307,"width":250,"height":60},
 		{"id":"942e7431e352d3bd","type":"text","text":"Vた＋かと思うと","x":1480,"y":-2260,"width":250,"height":60},
 		{"id":"0f072d5d650586d2","type":"text","text":"Vừa mới A thì ngay lập tức B","x":1989,"y":-2406,"width":250,"height":60},
-		{"id":"ee608f77ab0eab58","type":"text","text":" 出かけた かと思うとすぐ忘れ物を取りに帰ってくる。","x":2353,"y":-2447,"width":250,"height":60}
+		{"id":"ee608f77ab0eab58","type":"text","text":" 出かけた かと思うとすぐ忘れ物を取りに帰ってくる。","x":2353,"y":-2447,"width":250,"height":60},
+		{"id":"150dc68ed737229c","x":4284,"y":972,"width":424,"height":244,"type":"text","text":"Ví dụ:\n\n学生として勉強する\n→ học với tư cách học sinh\n親として心配する\n→ lo lắng với tư cách cha mẹ\n日本人として誇りを持つ\n→ có niềm tự hào với tư cách người Nhật"},
+		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":4284,"y":892,"width":250,"height":60},
+		{"id":"4cd684accd8fbeb7","x":3773,"y":1020,"width":250,"height":144,"type":"text","text":"Ở đây として mang nghĩa:\n\nđứng trên lập trường/con mắt “con người”"}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"72ee2296dd869e15","fromSide":"left","toNode":"7726e468be76af48","toSide":"right","label":"といったN"},
@@ -119,7 +121,6 @@
 		{"id":"c1c9f2381d84a156","fromNode":"d16d813719a394ac","fromSide":"right","toNode":"5b66d7413766a38d","toSide":"left","label":"Vようとする"},
 		{"id":"9b79bc550838a5c3","fromNode":"d16d813719a394ac","fromSide":"bottom","toNode":"0603110d427e5259","toSide":"top","label":"として"},
 		{"id":"e7ab446a5cf93278","fromNode":"0603110d427e5259","fromSide":"right","toNode":"ed52a1b8527697dd","toSide":"left","label":"として"},
-		{"id":"defedf1237ee05e1","fromNode":"ed52a1b8527697dd","fromSide":"right","toNode":"8c258b6c3f19577d","toSide":"left"},
 		{"id":"3ec04ca2def31a49","fromNode":"4200162a76c7e58d","fromSide":"top","toNode":"e79f5d00d994f7e4","toSide":"bottom"},
 		{"id":"8bbea59229a92177","fromNode":"315c6fabdc953470","fromSide":"bottom","toNode":"8ed613771b38beee","toSide":"top","label":"ということだ"},
 		{"id":"f62bd15855a0bca1","fromNode":"0603110d427e5259","fromSide":"bottom","toNode":"fa2e9191683e38bb","toSide":"left","label":"～としても"},
@@ -144,6 +145,9 @@
 		{"id":"e8e32a46900e6290","fromNode":"8e73d0be817cc1f4","fromSide":"right","toNode":"40846f7fa271df29","toSide":"left"},
 		{"id":"f6dd578873a6c3f9","fromNode":"6100d77135a1d672","fromSide":"top","toNode":"942e7431e352d3bd","toSide":"left","label":"Vた＋かと思うと"},
 		{"id":"b0b5a923b7aa3a17","fromNode":"942e7431e352d3bd","fromSide":"right","toNode":"0f072d5d650586d2","toSide":"left","label":"Vた＋かと思うと"},
-		{"id":"d434eaf75f4124b1","fromNode":"0f072d5d650586d2","fromSide":"right","toNode":"ee608f77ab0eab58","toSide":"left"}
+		{"id":"d434eaf75f4124b1","fromNode":"0f072d5d650586d2","fromSide":"right","toNode":"ee608f77ab0eab58","toSide":"left"},
+		{"id":"28f0e960d813b259","fromNode":"ed52a1b8527697dd","fromSide":"right","toNode":"4cd684accd8fbeb7","toSide":"left"},
+		{"id":"211624f84928efbf","fromNode":"4cd684accd8fbeb7","fromSide":"right","toNode":"150dc68ed737229c","toSide":"left"},
+		{"id":"0d4d375f30a9c874","fromNode":"4cd684accd8fbeb7","fromSide":"right","toNode":"8c258b6c3f19577d","toSide":"left"}
 	]
 }

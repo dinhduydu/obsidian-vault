@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"0e313ac988b2a926","type":"text","text":"Thủ　「手 (扌) 」","x":-166,"y":2,"width":250,"height":60},
 		{"id":"3fe72ef12d33ff6f","type":"text","text":"持","x":359,"y":-134,"width":250,"height":60},
-		{"id":"dc9e4746316fa120","x":-620,"y":-164,"width":250,"height":90,"type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ"}
+		{"id":"dc9e4746316fa120","type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ","x":-620,"y":-164,"width":250,"height":90},
+		{"id":"585f62ebcba7d310","x":771,"y":-206,"width":250,"height":60,"type":"text","text":"mang trong mình một tính chất/trạng thái"},
+		{"id":"d16be3f4984b1638","x":1260,"y":-344,"width":354,"height":337,"type":"text","text":"Ví dụ:\n\n影響力を持つ\n→ có sức ảnh hưởng\n意味を持つ\n→ có ý nghĩa\n特徴を持つ\n→ mang đặc điểm\n\nNên:\n\n生活を持つ\n= có/duy trì một kiểu sống nào đó."}
 	],
 	"edges":[
 		{"id":"39b176beb30eb398","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"3fe72ef12d33ff6f","toSide":"left"},
-		{"id":"3f3af7eaa076ef6d","fromNode":"0e313ac988b2a926","fromSide":"left","toNode":"dc9e4746316fa120","toSide":"right"}
+		{"id":"3f3af7eaa076ef6d","fromNode":"0e313ac988b2a926","fromSide":"left","toNode":"dc9e4746316fa120","toSide":"right"},
+		{"id":"1cbfd0d3be238e9c","fromNode":"3fe72ef12d33ff6f","fromSide":"right","toNode":"585f62ebcba7d310","toSide":"left"},
+		{"id":"f32adedd5243ba65","fromNode":"585f62ebcba7d310","fromSide":"right","toNode":"d16be3f4984b1638","toSide":"left"}
 	]
 }

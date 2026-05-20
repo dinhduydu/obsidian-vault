@@ -67,13 +67,16 @@
 		{"id":"3d23c128d1419422","type":"text","text":"VるようなN","x":940,"y":-1520,"width":250,"height":60},
 		{"id":"ab746972190c74ad","type":"text","text":"Chỉ sự thay đổi","x":4779,"y":212,"width":250,"height":60},
 		{"id":"efb8c063e4e89654","type":"file","file":"Pasted image 20260505213225.png","x":790,"y":-1960,"width":400,"height":261},
-		{"id":"9e2263e4999de3a1","x":2664,"y":364,"width":250,"height":56,"type":"text","text":"ように思える"},
-		{"id":"e37d5a6ebfb29bc4","x":2560,"y":580,"width":250,"height":60,"type":"text","text":"Cảm thấy, dường như là"}
+		{"id":"9e2263e4999de3a1","type":"text","text":"ように思える","x":2664,"y":364,"width":250,"height":56},
+		{"id":"e37d5a6ebfb29bc4","type":"text","text":"Cảm thấy, dường như là","x":2560,"y":580,"width":250,"height":60},
+		{"id":"a570433fecfb20b1","x":80,"y":-1200,"width":250,"height":60,"type":"text","text":"　ような"},
+		{"id":"d974a921d5815dd0","x":1420,"y":-1520,"width":400,"height":60,"type":"text","text":"正しいことのほうが多くなるような生活"},
+		{"id":"dfedb78b005cc764","x":1980,"y":-1880,"width":351,"height":331,"type":"text","text":"Không phải:\n\n“cuộc sống giống như…”\n\nMà là:\n\n“cuộc sống sao cho điều đúng nhiều hơn”\n\nỞ đây:\n\nような mang sắc thái:\n“theo kiểu”, “hướng tới trạng thái”"}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
 		{"id":"7437e27dd6351515","fromNode":"908075991677c442","fromSide":"right","toNode":"b632698ca1446264","toSide":"left","label":"ように"},
-		{"id":"b851ea4063bbc003","fromNode":"908075991677c442","fromSide":"top","toNode":"59f9ade2986cf3a7","toSide":"left","label":"ような"},
+		{"id":"b851ea4063bbc003","fromNode":"908075991677c442","fromSide":"top","toNode":"a570433fecfb20b1","toSide":"left","label":"ような"},
 		{"id":"60919b503f9756cd","fromNode":"908075991677c442","fromSide":"top","toNode":"ed5ee051029d32c4","toSide":"bottom","label":"Vるようとする"},
 		{"id":"82c0d1d192d7d0c4","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"fce91b3d7c2198fa","toSide":"left","label":"Vますようだ"},
 		{"id":"2f2413417e6286d3","fromNode":"751a3c5c892cf370","fromSide":"right","toNode":"0f467db9483dab51","toSide":"left","label":"Vるようだ"},
@@ -140,6 +143,9 @@
 		{"id":"a53eaaab1f165c29","fromNode":"0a8407db8d25f53d","fromSide":"right","toNode":"ab746972190c74ad","toSide":"left"},
 		{"id":"c9cadbe9efe9efa6","fromNode":"59f9ade2986cf3a7","fromSide":"top","toNode":"efb8c063e4e89654","toSide":"left","label":"VるようなN"},
 		{"id":"cbde7bf464f9f57c","fromNode":"b632698ca1446264","fromSide":"bottom","toNode":"9e2263e4999de3a1","toSide":"top","label":"ように思える"},
-		{"id":"bfed80fd84d12cc5","fromNode":"9e2263e4999de3a1","fromSide":"bottom","toNode":"e37d5a6ebfb29bc4","toSide":"top","label":"ように思える"}
+		{"id":"bfed80fd84d12cc5","fromNode":"9e2263e4999de3a1","fromSide":"bottom","toNode":"e37d5a6ebfb29bc4","toSide":"top","label":"ように思える"},
+		{"id":"5ad91b53385d5ab0","fromNode":"a570433fecfb20b1","fromSide":"top","toNode":"59f9ade2986cf3a7","toSide":"left","label":"　ような"},
+		{"id":"17069902444e79b7","fromNode":"3d23c128d1419422","fromSide":"right","toNode":"d974a921d5815dd0","toSide":"left","label":"VるようなN"},
+		{"id":"5c2dcabc35d9251e","fromNode":"d974a921d5815dd0","fromSide":"right","toNode":"dfedb78b005cc764","toSide":"left","label":"VるようなN"}
 	]
 }

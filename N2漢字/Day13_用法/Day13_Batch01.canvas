@@ -1,27 +1,27 @@
 {
 	"nodes":[
-		{"id":"center","type":"text","x":200,"y":-520,"width":480,"height":100,"text":"# Day 13 — 用法復習 Batch 01\n\nNGÀY 13 · Sai ở quiz · 7 từ · Tự link → Bộ chỉ ý"},
-		{"id":"w1","type":"text","x":-1100,"y":-320,"width":420,"height":380,"text":"## 2. 空き（あき）\n\n**VI:** khoảng trống, chỗ trống (khe hở vật lý)\n**EN:** gap / free space (not “vacant room”)\n\n**Cách dùng:** danh từ — chỗ còn trống trên tàu, ghế, hàng…\n\n✅ 終点まで**空き**ができなかったので、そのまま立ちっぱなしだった。\n→ Không có chỗ trống đến ga cuối, phải đứng suốt.\n\n❌ 部屋は**空き**な状態 → sai cấu trúc; nói **空いている** / **空室（くうしつ）**\n❌ 心は**空き** → nhầm **空虚（くうきょ）**\n❌ 行の間を**空き**した → **空ける（あける）** / **空けた**"},
-		{"id":"w2","type":"text","x":-620,"y":-320,"width":420,"height":380,"text":"## 3. あやまり\n\n**VI:** lỗi sai, sai sót (trong sách, bài…)\n**EN:** error, mistake (written work)\n\n**Cách dùng:** danh từ — không phải “đứa trẻ có lỗi” hay động từ “mắc lỗi”\n\n✅ 学生たちと一緒に本の**あやまり**を探し出す。\n→ Cùng HS tìm lỗi trong sách.\n\n❌ **あやまり**のある子供 → nghĩa không tự nhiên; **障害** / **欠点**\n❌ 部下を**あやまり**させない → **ミス**をさせない / **間違えさせない**\n❌ 車に**あやまり**が多い → **欠陥** / **不具合**"},
-		{"id":"w3","type":"text","x":-140,"y":-320,"width":420,"height":380,"text":"## 4. 勢い（いきおい）\n\n**VI:** sức mạnh, đà, nhịp độ (chuyển động / lực)\n**EN:** force, momentum, vigor\n\n**Cách dùng:** danh từ + で = với sức mạnh…\n\n✅ ロケットはすごい**勢い**で大気層のほうへ飛んでいきました。\n\n❌ 世界**勢い** → **世界情勢（せいせい）** / **国際情勢**\n❌ 勉強の**勢い** → **勢い** = đà vật lý; học tập: **意欲** / **気力**\n❌ **勢い**的に弱く → **だんだん** / **次第に**"},
-		{"id":"w4","type":"text","x":340,"y":-320,"width":420,"height":380,"text":"## 5. 維持（いじ）\n\n**VI:** duy trì, giữ vững (trạng thái, sinh kế, quan hệ…)\n**EN:** maintain, keep up (condition / livelihood)\n\n**Cách dùng:** ～を維持する — không dùng như “giữ vật bằng tay”\n\n✅ 夫一人の収入で、この五人家族の生計を**維持**している。\n→ Một mình chồng nuôi sống cả nhà 5 người.\n\n❌ 小屋を棒で**維持** → **支える** / **支えて**おく\n❌ 進学を**維持** → **進学できる** / **進学の見込みを保つ**\n❌ 帽子を手で**維持** → **押さえる** / **押さえている**"},
-		{"id":"w5","type":"text","x":820,"y":-320,"width":420,"height":380,"text":"## 6. 移転（いてん）\n\n**VI:** di dời, chuyển chỗ (làng, công ty, nhà…)\n**EN:** relocation, transfer (of residence / office)\n\n**Cách dùng:** tổ chức / cộng đồng chuyển địa điểm\n\n✅ ダム建設で、その村は隣村へ**移転**することになった。\n→ Làng chuyển sang làng bên cạnh vì đập.\n\n❌ ウイルスがパソコンに**移転** → **感染** / **広がる**\n❌ いすを壁へ**移転** → **移動** / **移す**\n❌ 知恵が子に**移転** → **受け継がれる** / **伝わる**"},
-		{"id":"w6","type":"text","x":-860,"y":120,"width":420,"height":380,"text":"## 9. 円周（えんしゅう）\n\n**VI:** chu vi hình tròn; **円周率** = số π\n**EN:** circumference (math term)\n\n**Cách dùng:** toán học — không phải “tròn trịa / suôn sẻ”\n\n✅ あの人は**円周**率の小数点以後の数字を1000位以上も暗誦できたそうだ。\n\n❌ 仕事は**円周**に進む → **円滑（えんかつ）**に\n❌ **円周**のテーブル → **丸（まる）い**テーブル / **円形（えんけい）**の\n❌ コンパスで**円周**を書く → **円（えん）**を書く"},
-		{"id":"w7","type":"text","x":-300,"y":120,"width":420,"height":380,"text":"## 10. 遠足（えんそく）\n\n**VI:** dã ngoại, picnic trường / công ty\n**EN:** school or group outing, excursion\n\n**Cách dùng:** 遠足に出かける — chuyến đi tập thể ngắn ngày\n\n✅ 妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。\n\n❌ アメリカへ**遠足** → **旅行** / **留学**\n❌ 家を**遠足**に行く → **出歩く** / **散歩** / **家を出る**\n❌ 船が太平洋へ**遠足** → **航海** / **向かう**"},
-		{"id":"hint","type":"text","x":200,"y":120,"width":520,"height":200,"text":"### Gợi ý link (tự nối)\n\n| Từ | Có thể link |\n|----|-------------|\n| 空き · 安易 | Miên「宀」 |\n| あやまり | Ngôn「言」 |\n| 勢い | Lực「力」 |\n| 維持 | Từ canvas 維持・糸… |\n| 移転 | Sước Dẫn / 辵 |\n| 円周 | Vi「囗」/ toán |\n| 遠足 | Sước Dẫn「辵」 |\n\n**Batch tiếp:** 安易, のんき, 厳重, ふさわしい, すばやい, やむをえない, 味わう"}
+		{"id":"center","type":"text","text":"# Day 13 — 用法復習 Batch 01\n\nNGÀY 13 · Sai ở quiz · 7 từ · Tự link → Bộ chỉ ý","x":200,"y":-520,"width":480,"height":100},
+		{"id":"w1","type":"text","text":"## 2. 空き（あき）\n\n**VI:** khoảng trống, chỗ trống (khe hở vật lý)\n**EN:** gap / free space (not “vacant room”)\n\n**Cách dùng:** danh từ — chỗ còn trống trên tàu, ghế, hàng…\n\n✅ 終点まで**空き**ができなかったので、そのまま立ちっぱなしだった。\n→ Không có chỗ trống đến ga cuối, phải đứng suốt.\n\n❌ 部屋は**空き**な状態 → sai cấu trúc; nói **空いている** / **空室（くうしつ）**\n❌ 心は**空き** → nhầm **空虚（くうきょ）**\n❌ 行の間を**空き**した → **空ける（あける）** / **空けた**","x":-1100,"y":-320,"width":420,"height":380},
+		{"id":"w2","type":"text","text":"## 3. あやまり\n\n**VI:** lỗi sai, sai sót (trong sách, bài…)\n**EN:** error, mistake (written work)\n\n**Cách dùng:** danh từ — không phải “đứa trẻ có lỗi” hay động từ “mắc lỗi”\n\n✅ 学生たちと一緒に本の**あやまり**を探し出す。\n→ Cùng HS tìm lỗi trong sách.\n\n❌ **あやまり**のある子供 → nghĩa không tự nhiên; **障害** / **欠点**\n❌ 部下を**あやまり**させない → **ミス**をさせない / **間違えさせない**\n❌ 車に**あやまり**が多い → **欠陥** / **不具合**","x":-620,"y":-320,"width":420,"height":380},
+		{"id":"w3","type":"text","text":"## 4. 勢い（いきおい）\n\n**VI:** sức mạnh, đà, nhịp độ (chuyển động / lực)\n**EN:** force, momentum, vigor\n\n**Cách dùng:** danh từ + で = với sức mạnh…\n\n✅ ロケットはすごい**勢い**で大気層のほうへ飛んでいきました。\n\n❌ 世界**勢い** → **世界情勢（せいせい）** / **国際情勢**\n❌ 勉強の**勢い** → **勢い** = đà vật lý; học tập: **意欲** / **気力**\n❌ **勢い**的に弱く → **だんだん** / **次第に**","x":-140,"y":-320,"width":420,"height":380},
+		{"id":"w4","type":"text","text":"## 5. 維持（いじ）\n\n**VI:** duy trì, giữ vững (trạng thái, sinh kế, quan hệ…)\n**EN:** maintain, keep up (condition / livelihood)\n\n**Cách dùng:** ～を維持する — không dùng như “giữ vật bằng tay”\n\n✅ 夫一人の収入で、この五人家族の生計を**維持**している。\n→ Một mình chồng nuôi sống cả nhà 5 người.\n\n❌ 小屋を棒で**維持** → **支える** / **支えて**おく\n❌ 進学を**維持** → **進学できる** / **進学の見込みを保つ**\n❌ 帽子を手で**維持** → **押さえる** / **押さえている**","x":340,"y":-320,"width":420,"height":380},
+		{"id":"w5","type":"text","text":"## 6. 移転（いてん）\n\n**VI:** di dời, chuyển chỗ (làng, công ty, nhà…)\n**EN:** relocation, transfer (of residence / office)\n\n**Cách dùng:** tổ chức / cộng đồng chuyển địa điểm\n\n✅ ダム建設で、その村は隣村へ**移転**することになった。\n→ Làng chuyển sang làng bên cạnh vì đập.\n\n❌ ウイルスがパソコンに**移転** → **感染** / **広がる**\n❌ いすを壁へ**移転** → **移動** / **移す**\n❌ 知恵が子に**移転** → **受け継がれる** / **伝わる**","x":820,"y":-320,"width":420,"height":380},
+		{"id":"w6","type":"text","text":"## 9. 円周（えんしゅう）\n\n**VI:** chu vi hình tròn; **円周率** = số π\n**EN:** circumference (math term)\n\n**Cách dùng:** toán học — không phải “tròn trịa / suôn sẻ”\n\n✅ あの人は**円周**率の小数点以後の数字を1000位以上も暗誦できたそうだ。\n\n❌ 仕事は**円周**に進む → **円滑（えんかつ）**に\n❌ **円周**のテーブル → **丸（まる）い**テーブル / **円形（えんけい）**の\n❌ コンパスで**円周**を書く → **円（えん）**を書く","x":-860,"y":120,"width":420,"height":380},
+		{"id":"w7","type":"text","text":"## 10. 遠足（えんそく）\n\n**VI:** dã ngoại, picnic trường / công ty\n**EN:** school or group outing, excursion\n\n**Cách dùng:** 遠足に出かける — chuyến đi tập thể ngắn ngày\n\n✅ 妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。\n\n❌ アメリカへ**遠足** → **旅行** / **留学**\n❌ 家を**遠足**に行く → **出歩く** / **散歩** / **家を出る**\n❌ 船が太平洋へ**遠足** → **航海** / **向かう**","x":-300,"y":120,"width":420,"height":380},
+		{"id":"hint","type":"text","text":"### Gợi ý link (tự nối)\n\n| Từ | Có thể link |\n|----|-------------|\n| 空き · 安易 | Miên「宀」 |\n| あやまり | Ngôn「言」 |\n| 勢い | Lực「力」 |\n| 維持 | Từ canvas 維持・糸… |\n| 移転 | Sước Dẫn / 辵 |\n| 円周 | Vi「囗」/ toán |\n| 遠足 | Sước Dẫn「辵」 |\n\n**Batch tiếp:** 安易, のんき, 厳重, ふさわしい, すばやい, やむをえない, 味わう","x":200,"y":120,"width":520,"height":420}
 	],
 	"edges":[
-		{"id":"e0","fromNode":"center","toNode":"w1","fromSide":"bottom","toSide":"top"},
-		{"id":"e1","fromNode":"center","toNode":"w2","fromSide":"bottom","toSide":"top"},
-		{"id":"e2","fromNode":"center","toNode":"w3","fromSide":"bottom","toSide":"top"},
-		{"id":"e3","fromNode":"center","toNode":"w4","fromSide":"bottom","toSide":"top"},
-		{"id":"e4","fromNode":"center","toNode":"w5","fromSide":"bottom","toSide":"top"},
-		{"id":"e5","fromNode":"w1","fromSide":"bottom","toSide":"top","toNode":"w6"},
-		{"id":"e6","fromNode":"w2","fromSide":"bottom","toSide":"top","toNode":"w6"},
-		{"id":"e7","fromNode":"w3","fromSide":"bottom","toSide":"top","toNode":"w7"},
-		{"id":"e8","fromNode":"w4","fromSide":"bottom","toSide":"top","toNode":"w7"},
-		{"id":"e9","fromNode":"w5","fromSide":"bottom","toSide":"top","toNode":"hint"},
-		{"id":"e10","fromNode":"w6","fromSide":"right","toSide":"left","toNode":"hint"},
-		{"id":"e11","fromNode":"w7","fromSide":"right","toSide":"left","toNode":"hint"}
+		{"id":"e0","fromNode":"center","fromSide":"bottom","toNode":"w1","toSide":"top"},
+		{"id":"e1","fromNode":"center","fromSide":"bottom","toNode":"w2","toSide":"top"},
+		{"id":"e2","fromNode":"center","fromSide":"bottom","toNode":"w3","toSide":"top"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"w4","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"w5","toSide":"top"},
+		{"id":"e5","fromNode":"w1","fromSide":"bottom","toNode":"w6","toSide":"top"},
+		{"id":"e6","fromNode":"w2","fromSide":"bottom","toNode":"w6","toSide":"top"},
+		{"id":"e7","fromNode":"w3","fromSide":"bottom","toNode":"w7","toSide":"top"},
+		{"id":"e8","fromNode":"w4","fromSide":"bottom","toNode":"w7","toSide":"top"},
+		{"id":"e9","fromNode":"w5","fromSide":"bottom","toNode":"hint","toSide":"top"},
+		{"id":"e10","fromNode":"w6","fromSide":"right","toNode":"hint","toSide":"left"},
+		{"id":"e11","fromNode":"w7","fromSide":"right","toNode":"hint","toSide":"left"}
 	]
 }

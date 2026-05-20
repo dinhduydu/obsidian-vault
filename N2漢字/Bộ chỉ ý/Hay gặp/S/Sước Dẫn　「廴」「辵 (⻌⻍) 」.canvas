@@ -12,13 +12,17 @@
 		{"id":"52bb8c0d6fe71757","type":"text","text":"đi, tiến","x":-1340,"y":-20,"width":250,"height":60},
 		{"id":"a8d689d7c4e0b672","type":"text","text":"造 - Tạo","x":-668,"y":457,"width":250,"height":60},
 		{"id":"95ed3f95687e8a24","type":"text","text":"遊 - Du","x":-513,"y":-227,"width":250,"height":60},
-		{"id":"9c57d55dca52ab91","x":420,"y":-320,"width":250,"height":60,"type":"text","text":"遠足　「**えんそく**.」："},
-		{"id":"414cb428af23fc6b","x":785,"y":-314,"width":575,"height":50,"type":"text","text":"妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。"},
-		{"id":"74671be3cf9e49d1","x":801,"y":-531,"width":250,"height":60,"type":"text","text":"- chuyến đi dã ngoại\n- picnic / school excursion"},
-		{"id":"b15c9f25cce374e5","x":1180,"y":-604,"width":250,"height":206,"type":"text","text":"Thường dùng cho hoạt động trường học:\n\nhọc sinh đi công viên\nsở thú\nbảo tàng\nleo núi nhẹ"},
-		{"id":"6eb8d90237e3c7a4","x":1051,"y":-760,"width":250,"height":60,"type":"text","text":"→ 遠足 = đi xa bằng chân → chuyến dã ngoại."},
-		{"id":"21f1f474a74740fa","x":1660,"y":-760,"width":280,"height":127,"type":"text","text":"明日は遠足です。\n（あした は えんそく です。）\nNgày mai là buổi dã ngoại."},
-		{"id":"a779becea17a9f06","x":1660,"y":-501,"width":250,"height":108,"type":"text","text":"遠足のおやつ\n（えんそく の おやつ）\nĐồ ăn vặt mang theo khi đi dã ngoại."}
+		{"id":"9c57d55dca52ab91","type":"text","text":"遠足　「**えんそく**.」：","x":420,"y":-320,"width":250,"height":60},
+		{"id":"414cb428af23fc6b","type":"text","text":"妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。","x":785,"y":-314,"width":575,"height":50},
+		{"id":"74671be3cf9e49d1","type":"text","text":"- chuyến đi dã ngoại\n- picnic / school excursion","x":801,"y":-531,"width":250,"height":60},
+		{"id":"b15c9f25cce374e5","type":"text","text":"Thường dùng cho hoạt động trường học:\n\nhọc sinh đi công viên\nsở thú\nbảo tàng\nleo núi nhẹ","x":1180,"y":-604,"width":250,"height":206},
+		{"id":"6eb8d90237e3c7a4","type":"text","text":"→ 遠足 = đi xa bằng chân → chuyến dã ngoại.","x":1051,"y":-760,"width":250,"height":60},
+		{"id":"21f1f474a74740fa","type":"text","text":"明日は遠足です。\n（あした は えんそく です。）\nNgày mai là buổi dã ngoại.","x":1660,"y":-760,"width":280,"height":127},
+		{"id":"a779becea17a9f06","type":"text","text":"遠足のおやつ\n（えんそく の おやつ）\nĐồ ăn vặt mang theo khi đi dã ngoại.","x":1660,"y":-501,"width":250,"height":108},
+		{"id":"236747d70483f3df","type":"text","text":"過　「Quá」","x":-567,"y":-591,"width":250,"height":60},
+		{"id":"4f30db9fe0b4f5a2","type":"text","text":"過ち　「あやまち」：sai lầm","x":-187,"y":-591,"width":250,"height":60},
+		{"id":"653aa3dbf139319d","x":420,"y":541,"width":135,"height":99,"type":"file","file":"N2文法/助詞/を.canvas"},
+		{"id":"82322b4eb500cc63","x":420,"y":395,"width":183,"height":110,"type":"file","file":"N2文法/助詞/に.canvas"}
 	],
 	"edges":[
 		{"id":"8bd72771567ff646","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a55d38a6eef4f248","toSide":"left"},
@@ -38,6 +42,10 @@
 		{"id":"bfb786269237b7aa","fromNode":"74671be3cf9e49d1","fromSide":"right","toNode":"b15c9f25cce374e5","toSide":"left"},
 		{"id":"f2c9266b5728789b","fromNode":"74671be3cf9e49d1","fromSide":"top","toNode":"6eb8d90237e3c7a4","toSide":"left"},
 		{"id":"f7219d6eaa8c2247","fromNode":"b15c9f25cce374e5","fromSide":"right","toNode":"21f1f474a74740fa","toSide":"left"},
-		{"id":"172b5934c08f0ae6","fromNode":"b15c9f25cce374e5","fromSide":"right","toNode":"a779becea17a9f06","toSide":"left"}
+		{"id":"172b5934c08f0ae6","fromNode":"b15c9f25cce374e5","fromSide":"right","toNode":"a779becea17a9f06","toSide":"left"},
+		{"id":"cc82e5dfb5f1f946","fromNode":"236747d70483f3df","fromSide":"right","toNode":"4f30db9fe0b4f5a2","toSide":"left"},
+		{"id":"87a995035449f141","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"236747d70483f3df","toSide":"left"},
+		{"id":"f6c289ec15b661a7","fromNode":"0da8e2e6928c6e4a","fromSide":"right","toNode":"82322b4eb500cc63","toSide":"left"},
+		{"id":"06fd0ad06f212b3c","fromNode":"848beb52b42d95c4","fromSide":"right","toNode":"653aa3dbf139319d","toSide":"left"}
 	]
 }
