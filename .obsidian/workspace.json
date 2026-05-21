@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
+                "file": "N2文法/助詞/に.canvas",
                 "viewState": {
-                  "x": 236.23799249632754,
-                  "y": 615.9579119274495,
-                  "zoom": -1.3333333333333333
+                  "x": -1505.4063954311448,
+                  "y": 1608.8068567573582,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "TIPS ĐỌC DỊCH TIẾNG NHẬT"
+              "title": "に"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
+                "file": "N2文法/助詞/に.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of TIPS ĐỌC DỊCH TIẾNG NHẬT"
+              "title": "Outline of に"
             }
           }
         ],
@@ -362,18 +362,22 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2文法/助詞/LAYOUT_README.md",
+    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lý　「里 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
-    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
+    "N2文法/助詞/_layout_ni.ps1",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
+    "N2文法/助詞/Apply-NiCanvasLayout.ps1",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thổ　「土」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thiệt　「舌」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thỉ　「矢」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thân　「身」.canvas",
+    "N2文法/助詞/から.canvas",
+    "N2文法/助詞/layout-ni.mjs",
+    "N2文法/助詞/_layout_ni.py",
     "N2読解",
-    "N2文法/複合動詞/複合動詞.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khí　「气」.canvas",
-    "N2文法/気.canvas",
-    "N2文法/始める.canvas",
-    "N2文法/向け.canvas",
-    "N2文法/や～など.canvas",
-    "N2文法/まい.canvas",
-    "N2文法/のみ.canvas",
-    "N2文法/なお.canvas",
     "N2文法/復習/第２課.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
@@ -386,10 +390,6 @@
     "fastkey.md",
     "N2語彙/N2 言葉の意味が一番近いもの",
     "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
-    "N2漢字/Bộ chỉ ý/Ít gặp/U",
-    "N2漢字/Bộ chỉ ý/Ít gặp/G",
-    "N2漢字/Bộ chỉ ý/Hay gặp/G",
-    "N2漢字/Bộ chỉ ý/Ít gặp/V",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
