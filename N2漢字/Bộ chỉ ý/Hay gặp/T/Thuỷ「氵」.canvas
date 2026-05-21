@@ -9,9 +9,14 @@
 		{"id":"7004b2a1c81e2816","type":"text","text":"Thuận lợi, suôn sẻ","x":1260,"y":-680,"width":250,"height":60},
 		{"id":"577ad57af32914a5","type":"text","text":"浸透　「しんとう」 Thẩm thấu","x":0,"y":260,"width":302,"height":60},
 		{"id":"2f42700a7ceaa892","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas","x":440,"y":-980,"width":299,"height":141},
-		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇","x":-2,"y":536,"width":250,"height":60},
 		{"id":"365a8be1053fad2c","type":"text","text":"Thuỷ「氵」","x":-800,"y":90,"width":130,"height":55},
-		{"id":"8184de91d0cc8d29","x":-126,"y":826,"width":250,"height":60,"type":"text","text":"浮"}
+		{"id":"4a36a81b66052feb","x":-182,"y":980,"width":250,"height":60,"type":"text","text":"消　「Tiêu」："},
+		{"id":"c3403f863a9b3a1f","x":-182,"y":1100,"width":250,"height":60,"type":"text","text":"沈　「Trầm」："},
+		{"id":"a59dd782e66dd0eb","x":260,"y":1040,"width":250,"height":60,"type":"text","text":"消沈"},
+		{"id":"1283f928ea0e9af9","x":-162,"y":819,"width":250,"height":60,"type":"text","text":"漠　「Mạc」："},
+		{"id":"c512bda2f94bc409","x":700,"y":822,"width":591,"height":57,"type":"text","text":"気分が消沈しているときは、「漠然とした」不安に苛まれやすい。"},
+		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇","x":-37,"y":420,"width":250,"height":60},
+		{"id":"8184de91d0cc8d29","type":"text","text":"浮","x":-162,"y":564,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left"},
@@ -24,6 +29,13 @@
 		{"id":"ac9c1f7e30727b1a","fromNode":"fde9d97ad446417c","fromSide":"right","toNode":"7004b2a1c81e2816","toSide":"left"},
 		{"id":"5cc85964ac14d726","fromNode":"c9cb37c33b36c93f","fromSide":"right","toNode":"2f42700a7ceaa892","toSide":"left"},
 		{"id":"96dba0537e2c035c","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"62bb9c6ec27b3be9","toSide":"left"},
-		{"id":"02ae042d89367981","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8184de91d0cc8d29","toSide":"left"}
+		{"id":"02ae042d89367981","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8184de91d0cc8d29","toSide":"left"},
+		{"id":"8cf618ae75aee287","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"4a36a81b66052feb","toSide":"left"},
+		{"id":"65d89ae42de18b5e","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c3403f863a9b3a1f","toSide":"left"},
+		{"id":"7a3c79272ca3602e","fromNode":"4a36a81b66052feb","fromSide":"right","toNode":"a59dd782e66dd0eb","toSide":"left"},
+		{"id":"e294621f1caa465e","fromNode":"c3403f863a9b3a1f","fromSide":"right","toNode":"a59dd782e66dd0eb","toSide":"left"},
+		{"id":"9ab010eed2340987","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"1283f928ea0e9af9","toSide":"left"},
+		{"id":"cca9c62f41ef15a9","fromNode":"1283f928ea0e9af9","fromSide":"right","toNode":"c512bda2f94bc409","toSide":"left"},
+		{"id":"2fed9f7037309195","fromNode":"a59dd782e66dd0eb","fromSide":"right","toNode":"c512bda2f94bc409","toSide":"left"}
 	]
 }

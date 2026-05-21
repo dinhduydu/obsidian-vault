@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"ed4d1b85255fd6df","x":-211,"y":-34,"width":250,"height":60,"type":"text","text":"Mễ　「米」"}
+		{"id":"ed4d1b85255fd6df","type":"text","text":"Mễ　「米」","x":-211,"y":-34,"width":250,"height":60},
+		{"id":"444c05a5ae85352d","type":"text","text":"継　「Kế」：","x":331,"y":-183,"width":250,"height":60},
+		{"id":"ad9b47a48e94fb86","x":811,"y":-303,"width":250,"height":143,"type":"text","text":"**Nghĩa:**\n\n- kế thừa\n- tiếp nối\n- tiếp tục"},
+		{"id":"6ef8679af449faeb","x":1196,"y":-400,"width":484,"height":100,"type":"text","text":"- 継続（けいぞく）: tiếp tục\n- 事業を継ぐ（じぎょう を つぐ）: kế thừa sự nghiệp\n- 王位継承（おうい けいしょう）: kế vị ngai vàng"},
+		{"id":"3ad42a42a7273186","x":766,"y":-760,"width":295,"height":163,"type":"text","text":"Cấu tạo:\n\n- Bên trái: 糸 (sợi chỉ → nối)\n- Bên phải: 米 + phần biến thể khác tạo âm"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"40b32d92b852173c","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"444c05a5ae85352d","toSide":"left"},
+		{"id":"776a7b9799dd4dd6","fromNode":"444c05a5ae85352d","fromSide":"right","toNode":"ad9b47a48e94fb86","toSide":"left"},
+		{"id":"ca0914758513b353","fromNode":"ad9b47a48e94fb86","fromSide":"right","toNode":"6ef8679af449faeb","toSide":"left"},
+		{"id":"c5e64b03aec81b69","fromNode":"444c05a5ae85352d","fromSide":"right","toNode":"3ad42a42a7273186","toSide":"left"}
+	]
 }
