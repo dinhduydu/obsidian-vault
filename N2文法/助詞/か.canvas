@@ -36,8 +36,8 @@
 		{"id":"97281c2cfb2ecc3e","type":"text","text":"かのように","x":1960,"y":-279,"width":250,"height":60},
 		{"id":"d6901a3a284f9c54","type":"file","file":"N2文法/そう・よう/よう.canvas","x":2580,"y":-322,"width":167,"height":147},
 		{"id":"ae8e460bcf660152","type":"text","text":"ではないか","x":1760,"y":-13,"width":250,"height":60},
-		{"id":"945fdc4f7eae820a","x":1990,"y":-1610,"width":250,"height":60,"type":"text","text":"何もかも"},
-		{"id":"69016960ece94f63","x":2800,"y":-1730,"width":400,"height":301,"type":"file","file":"Pasted image 20260505210354.png"}
+		{"id":"945fdc4f7eae820a","type":"text","text":"何もかも","x":1990,"y":-1610,"width":250,"height":60},
+		{"id":"69016960ece94f63","type":"file","file":"Pasted image 20260505210354.png","x":2800,"y":-1730,"width":399,"height":301}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top","label":"ものか　（もんか）"},

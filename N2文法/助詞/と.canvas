@@ -70,9 +70,9 @@
 		{"id":"942e7431e352d3bd","type":"text","text":"Vた＋かと思うと","x":1480,"y":-2260,"width":250,"height":60},
 		{"id":"0f072d5d650586d2","type":"text","text":"Vừa mới A thì ngay lập tức B","x":1989,"y":-2406,"width":250,"height":60},
 		{"id":"ee608f77ab0eab58","type":"text","text":" 出かけた かと思うとすぐ忘れ物を取りに帰ってくる。","x":2353,"y":-2447,"width":250,"height":60},
-		{"id":"150dc68ed737229c","x":4284,"y":972,"width":424,"height":244,"type":"text","text":"Ví dụ:\n\n学生として勉強する\n→ học với tư cách học sinh\n親として心配する\n→ lo lắng với tư cách cha mẹ\n日本人として誇りを持つ\n→ có niềm tự hào với tư cách người Nhật"},
+		{"id":"150dc68ed737229c","type":"text","text":"Ví dụ:\n\n学生として勉強する\n→ học với tư cách học sinh\n親として心配する\n→ lo lắng với tư cách cha mẹ\n日本人として誇りを持つ\n→ có niềm tự hào với tư cách người Nhật","x":4284,"y":972,"width":424,"height":244},
 		{"id":"8c258b6c3f19577d","type":"text","text":"N＋として\n「～としてのN」","x":4284,"y":892,"width":250,"height":60},
-		{"id":"4cd684accd8fbeb7","x":3773,"y":1020,"width":250,"height":144,"type":"text","text":"Ở đây として mang nghĩa:\n\nđứng trên lập trường/con mắt “con người”"}
+		{"id":"4cd684accd8fbeb7","type":"text","text":"Ở đây として mang nghĩa:\n\nđứng trên lập trường/con mắt “con người”","x":3773,"y":1020,"width":250,"height":144}
 	],
 	"edges":[
 		{"id":"9972e6dba05e4322","fromNode":"72ee2296dd869e15","fromSide":"left","toNode":"7726e468be76af48","toSide":"right","label":"といったN"},

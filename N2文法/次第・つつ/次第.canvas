@@ -4,7 +4,7 @@
 		{"id":"b15d1be6a8f5d24a","type":"text","text":"次第","x":-440,"y":-53,"width":250,"height":60},
 		{"id":"36a135f9d0106166","type":"file","file":"Pasted image 20260409080102.png","x":-20,"y":-500,"width":399,"height":158},
 		{"id":"4b32ef7dad44ed08","type":"text","text":"次第","x":-982,"y":-124,"width":250,"height":60},
-		{"id":"c58aa8f05505f38f","x":-870,"y":210,"width":250,"height":60,"type":"text","text":"次第で"}
+		{"id":"c58aa8f05505f38f","type":"text","text":"次第で","x":-870,"y":210,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},

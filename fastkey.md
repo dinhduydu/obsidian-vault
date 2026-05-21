@@ -9,3 +9,4 @@ reload
 [N2] Update vocab
 [N2][AI] Update AI context
 [N2][AI] Using AI to correct exercises
+[N2] Update vocab and paragraph

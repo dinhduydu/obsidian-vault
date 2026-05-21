@@ -58,7 +58,7 @@
 		{"id":"abb832bf85e3cf3e","type":"text","text":"Nhấn mạnh lý do","x":-2400,"y":-1260,"width":250,"height":60},
 		{"id":"43db6968a61d1a7d","type":"text","text":"Trình bày chủ đề A, lý do N","x":-2400,"y":-798,"width":250,"height":60},
 		{"id":"61487653bd48cb94","type":"text","text":"～のは、～からこそだ","x":-1760,"y":-620,"width":250,"height":60},
-		{"id":"e59b606dadcc3178","x":-4140,"y":-499,"width":400,"height":53,"type":"file","file":"Pasted image 20260517125314.png"},
+		{"id":"e59b606dadcc3178","type":"file","file":"Pasted image 20260517125314.png","x":-4140,"y":-499,"width":400,"height":53},
 		{"id":"8f794378a25f245c","type":"text","text":"-Lấy căn cứ, cơ sở từ tổng thể để đưa ra phán đoán.\n-Ko đưa ra ý chí cá nhân","x":-1551,"y":-8,"width":250,"height":139}
 	],
 	"edges":[

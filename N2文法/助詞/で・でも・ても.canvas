@@ -24,7 +24,7 @@
 		{"id":"d02ddd68a203cdd3","type":"text","text":"でも","x":2840,"y":-1840,"width":250,"height":60},
 		{"id":"db440b4bb3bd6644","type":"file","file":"Pasted image 20260505210255.png","x":3400,"y":-1983,"width":400,"height":346},
 		{"id":"bb996fc22ea8dde3","type":"text","text":"ても","x":3400,"y":-2760,"width":250,"height":60},
-		{"id":"498e6de704b8d6c1","x":3903,"y":-2852,"width":250,"height":60,"type":"text","text":"いくら～ても"}
+		{"id":"498e6de704b8d6c1","type":"text","text":"いくら～ても","x":3903,"y":-2852,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fe06aae4c349fa25","fromNode":"c1e44fd41806a944","fromSide":"right","toNode":"80580c87611e8383","toSide":"left","label":"です"},

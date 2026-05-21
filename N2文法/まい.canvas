@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"41b685cdc525e60c","type":"file","file":"N2文法/しか.canvas","x":572,"y":-167,"width":400,"height":400},
 		{"id":"9ce084ebdc0f29c9","type":"text","text":"まい","x":-80,"y":3,"width":250,"height":60},
-		{"id":"6376f4a76a197bb6","x":280,"y":420,"width":400,"height":249,"type":"file","file":"Pasted image 20260505210539.png"}
+		{"id":"6376f4a76a197bb6","type":"file","file":"Pasted image 20260505210539.png","x":280,"y":420,"width":400,"height":249}
 	],
 	"edges":[
 		{"id":"5219d48cbbebe48b","fromNode":"9ce084ebdc0f29c9","fromSide":"right","toNode":"41b685cdc525e60c","toSide":"left","label":"しかあるまい"},
