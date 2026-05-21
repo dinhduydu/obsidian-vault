@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"3b471df96980326e","type":"text","text":"Hành　「行」","x":-134,"y":-39,"width":250,"height":60},
-		{"id":"e838d229165064a9","x":252,"y":-130,"width":250,"height":60,"type":"text","text":"彼"}
+		{"id":"e838d229165064a9","type":"text","text":"彼","x":252,"y":-130,"width":250,"height":60},
+		{"id":"66cd4344d9d72a75","x":298,"y":37,"width":250,"height":60,"type":"text","text":"後回し　「あとまわし」"},
+		{"id":"798b498a2af53407","x":649,"y":10,"width":250,"height":60,"type":"text","text":"Hoãn lại, lùi lại"}
 	],
 	"edges":[
-		{"id":"0de4b11583b87189","fromNode":"3b471df96980326e","fromSide":"right","toNode":"e838d229165064a9","toSide":"left"}
+		{"id":"0de4b11583b87189","fromNode":"3b471df96980326e","fromSide":"right","toNode":"e838d229165064a9","toSide":"left"},
+		{"id":"288493da32ffcc50","fromNode":"3b471df96980326e","fromSide":"right","toNode":"66cd4344d9d72a75","toSide":"left"},
+		{"id":"59aee32c4ab3e2bc","fromNode":"66cd4344d9d72a75","fromSide":"right","toNode":"798b498a2af53407","toSide":"left"}
 	]
 }
