@@ -200,15 +200,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Khí　「气」.canvas",
                 "viewState": {
-                  "x": 552.2214515772804,
-                  "y": 1028.8440390326261,
-                  "zoom": -0.3333333333333332
+                  "x": -219.1124208626561,
+                  "y": -874.1547701867833,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thuỷ「氵」"
+              "title": "Khí　「气」"
             }
           }
         ],
@@ -333,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Khí　「气」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thuỷ「氵」"
+              "title": "Outline of Khí　「气」"
             }
           }
         ],
@@ -362,17 +362,18 @@
   },
   "active": "63fb50e89f4e3870",
   "lastOpenFiles": [
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khẩu　「口」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Khí　「气」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/Kỷ　「己」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
+    "Pasted image 20260522005509.png",
     "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch　「糸 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/M/Mễ　「米」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Thi　「尸」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
-    "N2文法/さえ・より/より.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
-    "N2文法/そう・よう/よう.canvas",
-    "N2文法/一方・上・限り・つもり・他/一方.canvas",
-    "N2文法/ない・いう・しまう/いう.canvas",
-    "N2文法/助詞/と.canvas",
     "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
     "N2漢字/Day13_用法",
     "Pasted image 20260519221509.png",
@@ -393,7 +394,6 @@
     "Pasted image 20260517112330.png",
     "Pasted image 20260517112146.png",
     "Pasted image 20260517111957.png",
-    "Pasted image 20260517111943.png",
     "N2文法/復習/第２課.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",

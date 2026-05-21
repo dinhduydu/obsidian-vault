@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"4578bd41b1db6c41","x":-141,"y":-23,"width":250,"height":60,"type":"text","text":"Khí　「气」"}
+		{"id":"d3934e238649f7bb","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md","x":328,"y":-372,"width":400,"height":400},
+		{"id":"0886ce2baae23a55","type":"text","text":"I. Nghĩa gốc & ý niệm cơ bản  \n👉 「気 = thứ không nhìn thấy nhưng cảm nhận được」  \n(tâm trạng, ý chí, bầu không khí, cảm giác…)  \n  \n• 気（き）: khí, tinh thần, tâm trạng  \n• 元気（げんき）: khỏe mạnh, năng động  \n• 気分（きぶん）: tâm trạng  \n• 気持ち（きもち）: cảm giác, cảm xúc  \n• 空気（くうき）: không khí  \n• 天気（てんき）: thời tiết  ","x":1075,"y":-791,"width":505,"height":271},
+		{"id":"eff097f667573095","type":"text","text":"II. Nhóm “cảm xúc – tâm trạng” (rất quan trọng)  \n  \n• 気分がいい: tâm trạng tốt  \n• 気分が悪い: khó chịu, buồn nôn  \n• 気持ちいい: dễ chịu  \n• 気持ち悪い（きもちわるい）: ghê, khó chịu  \n• 気が楽（きがらく）: thoải mái  \n• 気楽（きらく）: vô tư, thoải mái  \n• 気まずい: ngượng ngùng, khó xử  \n• 気の毒（きのどく）: đáng thương  \n• 気になる: để tâm, tò mò  \n• 気にする: bận tâm  \n• 気に入る: thích  ","x":1075,"y":-280,"width":626,"height":356},
+		{"id":"cea0a6ecb20976f1","type":"text","text":"III. Nhóm “ý chí – tính cách – tinh thần”  \n  \n• 勇気（ゆうき）: dũng khí  \n• 本気（ほんき）: nghiêm túc  \n• 弱気（よわき）: thiếu tự tin  \n• 強気（つよき）: cứng rắn, mạnh dạn  \n• 気が強い: mạnh mẽ  \n• 気が弱い: yếu đuối  \n• 気が短い: nóng tính  \n• 気が長い: kiên nhẫn  \n• 気合（きあい）: khí thế, quyết tâm  \n• やる気: động lực làm việc  \n• 気迫（きはく）: khí phách  \n• 気概（きがい）: ý chí mạnh mẽ  \n• 色気（いろけ）: sự quyến rũ  ","x":1050,"y":379,"width":550,"height":381},
+		{"id":"5e28332171aff6fd","type":"text","text":"IV. Nhóm “nhận thức – chú ý – quan tâm” (rất hay gặp JLPT)  \n  \n• 気づく: nhận ra  \n• 気をつける: chú ý, cẩn thận  \n• 気を配る（きをくばる）: để ý chu đáo  \n• 気を遣う（きをつかう）: quan tâm, giữ ý  \n• 気が散る（きがちる）: mất tập trung  \n• 気に留める（きにとめる）: ghi nhớ trong lòng  \n• 気を取られる（きをとられる）: bị thu hút sự chú ý  \n• 気を引く（きをひく）: gây chú ý  ","x":283,"y":486,"width":557,"height":274},
+		{"id":"4578bd41b1db6c41","type":"text","text":"Khí　「气」","x":-880,"y":-202,"width":250,"height":60},
+		{"id":"cf1b146f71e3780b","type":"text","text":"V. Nhóm “trạng thái – trực giác – cảm giác”  \n  \n• 気がする: có cảm giác  \n• 気配（けはい）: dấu hiệu, cảm giác hiện diện  \n• 気味（ぎみ）: hơi có xu hướng  \n• 寒気（さむけ）: cảm giác ớn lạnh  \n• 眠気（ねむけ）: cơn buồn ngủ  \n• 吐き気（はきけ）: buồn nôn  \n• 気圧（きあつ）: áp suất không khí  \n• 気候（きこう）: khí hậu  \n• 気温（きおん）: nhiệt độ không khí  ","x":-323,"y":345,"width":343,"height":335},
+		{"id":"5c4acdf226aad87a","type":"text","text":" VI. Nhóm “không khí – quan hệ”  \n  \n• 雰囲気（ふんいき）: bầu không khí  \n• 空気を読む（くうきをよむ）: biết ý người khác  \n• 人気（にんき）: nổi tiếng  \n• 陽気（ようき）: vui vẻ  \n• 呑気（のんき）: vô tư  \n• 平気（へいき）: bình thản, không sao  ","x":836,"y":-1194,"width":492,"height":274},
+		{"id":"c3c1875096eade90","type":"text","text":"VII. Thành ngữ – cách nói siêu hay (lấy điểm N1)  \n  \n• 気が合う: hợp tính  \n• 気が変わる: đổi ý  \n• 気が済む: thỏa mãn  \n• 気が遠くなる: choáng váng  \n• 気が狂う: phát điên  \n• 気に食わない: không ưa  \n• 気を失う: ngất xỉu  \n• 気を落とす: chán nản  \n• 気を晴らす: giải khuây  \n• 気を抜く: lơ là  \n• 気を取り直す: lấy lại tinh thần  \n• 気が気でない: lo sốt vó  \n• 気をもむ: sốt ruột  \n• 気を許す: mất cảnh giác / mở lòng  \n• 気を紛らわす: khuây khỏa  \n• 気が滅入る: chán nản, suy sụp  ","x":220,"y":-1920,"width":501,"height":442},
+		{"id":"fc8c12f6b9e216ce","x":-440,"y":-1000,"width":348,"height":219,"type":"text","text":"  \nVIII. Nhóm “bệnh tật – hiện tượng”  \n  \n• 病気（びょうき）: bệnh  \n• 電気（でんき）: điện  \n• 景気（けいき）: tình hình kinh tế  \n• 気象（きしょう）: hiện tượng khí tượng  \n• 気絶（きぜつ）: ngất xỉu  \n• 気絶する: ngất  \n  "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"07d6c0e78cedd77a","fromNode":"4578bd41b1db6c41","fromSide":"right","toNode":"d3934e238649f7bb","toSide":"left"},
+		{"id":"f1fd602832e28618","fromNode":"d3934e238649f7bb","fromSide":"right","toNode":"0886ce2baae23a55","toSide":"left"},
+		{"id":"d83e6ee1a7e2bf5a","fromNode":"d3934e238649f7bb","fromSide":"right","toNode":"eff097f667573095","toSide":"left"},
+		{"id":"aff08f3f3a288fb3","fromNode":"d3934e238649f7bb","fromSide":"bottom","toNode":"cea0a6ecb20976f1","toSide":"top"},
+		{"id":"e36e6efeb08a87e8","fromNode":"d3934e238649f7bb","fromSide":"bottom","toNode":"5e28332171aff6fd","toSide":"top"},
+		{"id":"bd89c5ecab6538ca","fromNode":"d3934e238649f7bb","fromSide":"bottom","toNode":"cf1b146f71e3780b","toSide":"top"},
+		{"id":"d5aec6d3917f537e","fromNode":"d3934e238649f7bb","fromSide":"top","toNode":"5c4acdf226aad87a","toSide":"left"},
+		{"id":"80d167282ea1d398","fromNode":"d3934e238649f7bb","fromSide":"top","toNode":"c3c1875096eade90","toSide":"bottom"},
+		{"id":"fef4816b44062dd5","fromNode":"d3934e238649f7bb","fromSide":"top","toNode":"fc8c12f6b9e216ce","toSide":"right"}
+	]
 }
