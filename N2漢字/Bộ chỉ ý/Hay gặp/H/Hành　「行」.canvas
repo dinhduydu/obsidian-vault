@@ -1,13 +1,17 @@
 {
 	"nodes":[
+		{"id":"cf809e9e94db73f1","x":1988,"y":-63,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas"},
 		{"id":"3b471df96980326e","type":"text","text":"Hành　「行」","x":-134,"y":-39,"width":250,"height":60},
 		{"id":"e838d229165064a9","type":"text","text":"彼","x":252,"y":-130,"width":250,"height":60},
-		{"id":"66cd4344d9d72a75","x":298,"y":37,"width":250,"height":60,"type":"text","text":"後回し　「あとまわし」"},
-		{"id":"798b498a2af53407","x":649,"y":10,"width":250,"height":60,"type":"text","text":"Hoãn lại, lùi lại"}
+		{"id":"66cd4344d9d72a75","type":"text","text":"後回し　「あとまわし」","x":298,"y":37,"width":250,"height":60},
+		{"id":"798b498a2af53407","type":"text","text":"Hoãn lại, lùi lại","x":649,"y":10,"width":250,"height":60},
+		{"id":"0d441d06c95d94e3","x":1200,"y":20,"width":520,"height":840,"type":"text","text":"先延（さきのばし） là:\n\ntrì hoãn\nkéo dài ra sau\nprocrastination\n\nThường dùng khi:\n\nbiết nên làm nhưng cứ dời lại\npostpone intentionally/passively\n\nVí dụ:\n\n仕事を先延ばしにする\n→ trì hoãn công việc\n決断を先延ばしにしている。\n→ đang kéo dài việc đưa ra quyết định\n先延ばし癖\n→ thói quen procrastinate\n\nPhân tích:\n\n先（さき） = phía trước\n延ばす（のばす） = kéo dài\n\n→ “đẩy cái gì đó ra phía trước”\n= dời sang sau.\n\nLiên quan:\n\n延期（えんき） = hoãn chính thức\n後回し（あとまわし） = để sau\n保留（ほりゅう） = hold/tạm để đó\n\nKanji:\n\n延 = kéo dài, gia hạn\n(延長・延期・先延ばし)"}
 	],
 	"edges":[
 		{"id":"0de4b11583b87189","fromNode":"3b471df96980326e","fromSide":"right","toNode":"e838d229165064a9","toSide":"left"},
 		{"id":"288493da32ffcc50","fromNode":"3b471df96980326e","fromSide":"right","toNode":"66cd4344d9d72a75","toSide":"left"},
-		{"id":"59aee32c4ab3e2bc","fromNode":"66cd4344d9d72a75","fromSide":"right","toNode":"798b498a2af53407","toSide":"left"}
+		{"id":"59aee32c4ab3e2bc","fromNode":"66cd4344d9d72a75","fromSide":"right","toNode":"798b498a2af53407","toSide":"left"},
+		{"id":"df27c937b488eff2","fromNode":"0d441d06c95d94e3","fromSide":"left","toNode":"798b498a2af53407","toSide":"right"},
+		{"id":"0aa87fb4653e415c","fromNode":"0d441d06c95d94e3","fromSide":"right","toNode":"cf809e9e94db73f1","toSide":"left"}
 	]
 }

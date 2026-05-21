@@ -183,36 +183,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 534.7287556554033,
+                  "y": 1780.416756939077,
+                  "zoom": -0.8495806501065486
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Võng　「网 (罒)」"
-            }
-          },
-          {
-            "id": "63fb50e89f4e3870",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2文法/助詞/に.canvas",
-                "viewState": {
-                  "x": -1505.4063954311448,
-                  "y": 1608.8068567573582,
-                  "zoom": -0.6666666666666663
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "に"
+              "title": "Sước Dẫn　「廴」「辵 (⻌⻍) 」"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -333,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/助詞/に.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of に"
+              "title": "Outline of Sước Dẫn　「廴」「辵 (⻌⻍) 」"
             }
           }
         ],
@@ -360,21 +343,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63fb50e89f4e3870",
+  "active": "c539d9f24ff4665e",
   "lastOpenFiles": [
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hành　「行」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hình.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
+    "N2文法/助詞/に/01_core_ni.canvas",
+    "N2文法/助詞/に/05_verb_patterns.canvas",
+    "N2文法/助詞/に/03_jlpt_map.canvas",
+    "N2文法/助詞/に/02_semantic_groups.canvas",
+    "N2文法/助詞/に/04_similar_grammar.canvas",
+    "N2文法/助詞/に",
+    "N2文法/助詞/に.canvas",
     "N2文法/助詞/LAYOUT_README.md",
     "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lý　「里 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
     "N2文法/助詞/_layout_ni.ps1",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
     "N2文法/助詞/Apply-NiCanvasLayout.ps1",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thổ　「土」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thiệt　「舌」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thỉ　「矢」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thân　「身」.canvas",
-    "N2文法/助詞/から.canvas",
     "N2文法/助詞/layout-ni.mjs",
     "N2文法/助詞/_layout_ni.py",
     "N2読解",
@@ -389,7 +374,6 @@
     "AI_Context",
     "fastkey.md",
     "N2語彙/N2 言葉の意味が一番近いもの",
-    "N2漢字/Bộ chỉ ý/Ít gặp/U/Uông　「尢」Untitled",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
