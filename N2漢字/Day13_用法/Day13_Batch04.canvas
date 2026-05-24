@@ -1,24 +1,24 @@
 {
 	"nodes":[
-		{"id":"center","type":"text","x":-120,"y":-480,"width":520,"height":120,"text":"# Day 13 — 用法復習 Batch 04 (cuối)\n\nNGÀY 13 · 6 từ còn lại · Đủ 33 câu sai · Tự link → Bộ chỉ ý"},
-		{"id":"w1","type":"text","x":-1100,"y":-280,"width":420,"height":400,"text":"## 43. 思いっきり（おもいっきり）\n\n**VI:** hết sức, thoải mái (làm hết mình một việc)\n**EN:** with all one's might; to one's heart's content\n\n**Cách dùng:** 思いっきり + động từ (泣く, 遊ぶ, 食べる…)\n\n✅ 悲しいことは**思いっきり**泣いて忘れなさい。\n→ Buồn thì khóc hết mình rồi quên đi.\n\n❌ **思いっきり**覚えています → **しっかり** / **ばっちり**\n❌ 大変な**思いっきり** → **思い** / **苦労** / **経験**\n❌ **思いっきり**のいいところ → **ちょうど**いいところ / **絶好**の"},
-		{"id":"w2","type":"text","x":-620,"y":-280,"width":420,"height":400,"text":"## 45. 拡充（かくじゅう）\n\n**VI:** mở rộng, bổ sung (cơ sở, quy mô, nội dung)\n**EN:** expand, augment (facilities, services, scale)\n\n**Cách dùng:** 設備・制度・陣容を拡充する — tổ chức / hạ tầng\n\n✅ 私の大学は最近、図書館の設備を**拡充**した。\n→ Trường mở rộng trang thiết bị thư viện.\n\n❌ 道路を**拡充** → **拡幅（かくはば）** / **広げる**\n❌ **拡充**機能 → **拡張（かくちょう）**機能\n❌ 人生を**拡充** → **充実（じゅうじつ）**させる / **豊かに**"},
-		{"id":"w3","type":"text","x":-140,"y":-280,"width":420,"height":400,"text":"## 46. 過剰（かじょう）\n\n**VI:** quá mức, thừa (lượng)\n**EN:** excess, excessive (amount)\n\n**Cách dùng:** 過剰に + V / 過剰な + N — lượng vượt mức cần\n\n✅ 塩分を**過剰**に取ると心臓の病気を引き起こすことがある。\n→ Ăn muối quá dễ gây bệnh tim.\n\n❌ 予算が**過剰**して → **超過（ちょうか）**する / **オーバー**する\n❌ **過剰**に勉強した → **勉強しすぎた** / **やりすぎた**\n❌ **過剰**なものは捨てる → **余分（よぶん）**な / **いらない**"},
-		{"id":"w4","type":"text","x":340,"y":-280,"width":420,"height":400,"text":"## 48. 苦心（くしん）\n\n**VI:** vất vả, tâm huyết (cố gắng khó khăn)\n**EN:** painstaking effort, struggle (to do something hard)\n\n**Cách dùng:** 苦心して + V = làm cật lực, vất vả\n\n✅ 慣れないので、**苦心**してパソコンで書類を作成した。\n→ Chưa quen nên vất vả soạn tài liệu trên PC.\n\n❌ 本当に**苦心**です → **恐縮（きょうしゅく）**です / **ありがたい**\n❌ 親の**苦心**がわかる → đúng nghĩa khác (công ơn cha mẹ); quiz chọn **苦心して**\n❌ あの人が**苦心**だ → **苦手（にがて）** / **嫌い** / **気に入らない**"},
-		{"id":"w5","type":"text","x":-860,"y":160,"width":420,"height":400,"text":"## 49. くやむ\n\n**VI:** hối hận, tiếc nuối (việc đã / chưa làm)\n**EN:** regret (one's inaction or past choice)\n\n**Cách dùng:** あとでくやむ / くやんだ — tiếc vì không hành động\n\n✅ 何もしないであとで**くやむ**くらいなら今すぐ行動すべきだ。\n→ Thà hành động ngay còn hơn để sau hối hận.\n\n❌ 出世を**くやむ** → **妬む（ねたむ）** / **羨む（うらやむ）**\n❌ 心から**くやんだ** → **安堵（あんど）**した / **ほっと**した\n❌ 能力を**くやむ** → **恨む** / **責める**（自分を）"},
-		{"id":"w6","type":"text","x":-300,"y":160,"width":420,"height":400,"text":"## 50. 契機（けいき）\n\n**VI:** dịp, cơ hội (trở thành bước ngoặt)\n**EN:** opportunity, chance (turning point)\n\n**Cách dùng:** ～を契機に（して） / ～の契機になった\n\n✅ 就職できなかったことが自分で事業を始める**契機**になった。\n→ Không xin được việc trở thành dịp tự mở kinh doanh.\n\n❌ アルバイトはできない**契機** → **規則** / **決まり** / **禁止**\n❌ 着陸した**契機**に荷物が → **瞬間（しゅんかん）** / **とき**に\n❌ 外出した**契機**はマスク → **とき**は / **際（さい）**は"},
-		{"id":"hint","type":"text","x":200,"y":160,"width":560,"height":220,"text":"### Gợi ý link (tự nối)\n\n| Từ | Có thể link |\n|----|-------------|\n| 思いっきり | Tâm「心」 |\n| 拡充 | Thủ「手」· 広 |\n| 過剰 | — |\n| 苦心 | Tâm「心」 |\n| くやむ | Tâm「心」 |\n| 契機 | Đao「刀」· 契 |\n\n---\n**Hoàn tất Day 13 sai:** Batch01–04 = 33 từ\n\nCó thể nối `Day13_用法` → `N2漢字.canvas` · `AI_Context/N2漢字_Context.canvas`"}
+		{"id":"center","type":"text","text":"# Day 13 — 用法復習 Batch 04 (cuối)\n\nNGÀY 13 · 6 từ còn lại · Đủ 33 câu sai · Tự link → Bộ chỉ ý","x":-120,"y":-480,"width":520,"height":120},
+		{"id":"w1","type":"text","text":"## 43. 思いっきり（おもいっきり）\n\n**VI:** hết sức, thoải mái (làm hết mình một việc)\n**EN:** with all one's might; to one's heart's content\n\n**Cách dùng:** 思いっきり + động từ (泣く, 遊ぶ, 食べる…)\n\n✅ 悲しいことは**思いっきり**泣いて忘れなさい。\n→ Buồn thì khóc hết mình rồi quên đi.\n\n❌ **思いっきり**覚えています → **しっかり** / **ばっちり**\n❌ 大変な**思いっきり** → **思い** / **苦労** / **経験**\n❌ **思いっきり**のいいところ → **ちょうど**いいところ / **絶好**の","x":-1100,"y":-280,"width":420,"height":400},
+		{"id":"w2","type":"text","text":"## 45. 拡充（かくじゅう）\n\n**VI:** mở rộng, bổ sung (cơ sở, quy mô, nội dung)\n**EN:** expand, augment (facilities, services, scale)\n\n**Cách dùng:** 設備・制度・陣容を拡充する — tổ chức / hạ tầng\n\n✅ 私の大学は最近、図書館の設備を**拡充**した。\n→ Trường mở rộng trang thiết bị thư viện.\n\n❌ 道路を**拡充** → **拡幅（かくはば）** / **広げる**\n❌ **拡充**機能 → **拡張（かくちょう）**機能\n❌ 人生を**拡充** → **充実（じゅうじつ）**させる / **豊かに**","x":-620,"y":-280,"width":420,"height":400},
+		{"id":"w3","type":"text","text":"## 46. 過剰（かじょう）\n\n**VI:** quá mức, thừa (lượng)\n**EN:** excess, excessive (amount)\n\n**Cách dùng:** 過剰に + V / 過剰な + N — lượng vượt mức cần\n\n✅ 塩分を**過剰**に取ると心臓の病気を引き起こすことがある。\n→ Ăn muối quá dễ gây bệnh tim.\n\n❌ 予算が**過剰**して → **超過（ちょうか）**する / **オーバー**する\n❌ **過剰**に勉強した → **勉強しすぎた** / **やりすぎた**\n❌ **過剰**なものは捨てる → **余分（よぶん）**な / **いらない**","x":-140,"y":-280,"width":420,"height":400},
+		{"id":"w4","type":"text","text":"## 48. 苦心（くしん）\n\n**VI:** vất vả, tâm huyết (cố gắng khó khăn)\n**EN:** painstaking effort, struggle (to do something hard)\n\n**Cách dùng:** 苦心して + V = làm cật lực, vất vả\n\n✅ 慣れないので、**苦心**してパソコンで書類を作成した。\n→ Chưa quen nên vất vả soạn tài liệu trên PC.\n\n❌ 本当に**苦心**です → **恐縮（きょうしゅく）**です / **ありがたい**\n❌ 親の**苦心**がわかる → đúng nghĩa khác (công ơn cha mẹ); quiz chọn **苦心して**\n❌ あの人が**苦心**だ → **苦手（にがて）** / **嫌い** / **気に入らない**","x":340,"y":-280,"width":420,"height":400},
+		{"id":"w5","type":"text","text":"## 49. くやむ\n\n**VI:** hối hận, tiếc nuối (việc đã / chưa làm)\n**EN:** regret (one's inaction or past choice)\n\n**Cách dùng:** あとでくやむ / くやんだ — tiếc vì không hành động\n\n✅ 何もしないであとで**くやむ**くらいなら今すぐ行動すべきだ。\n→ Thà hành động ngay còn hơn để sau hối hận.\n\n❌ 出世を**くやむ** → **妬む（ねたむ）** / **羨む（うらやむ）**\n❌ 心から**くやんだ** → **安堵（あんど）**した / **ほっと**した\n❌ 能力を**くやむ** → **恨む** / **責める**（自分を）","x":-860,"y":160,"width":420,"height":440},
+		{"id":"w6","type":"text","text":"## 50. 契機（けいき）\n\n**VI:** dịp, cơ hội (trở thành bước ngoặt)\n**EN:** opportunity, chance (turning point)\n\n**Cách dùng:** ～を契機に（して） / ～の契機になった\n\n✅ 就職できなかったことが自分で事業を始める**契機**になった。\n→ Không xin được việc trở thành dịp tự mở kinh doanh.\n\n❌ アルバイトはできない**契機** → **規則** / **決まり** / **禁止**\n❌ 着陸した**契機**に荷物が → **瞬間（しゅんかん）** / **とき**に\n❌ 外出した**契機**はマスク → **とき**は / **際（さい）**は","x":-300,"y":160,"width":420,"height":400},
+		{"id":"hint","type":"text","text":"### Gợi ý link (tự nối)\n\n| Từ | Có thể link |\n|----|-------------|\n| 思いっきり | Tâm「心」 |\n| 拡充 | Thủ「手」· 広 |\n| 過剰 | — |\n| 苦心 | Tâm「心」 |\n| くやむ | Tâm「心」 |\n| 契機 | Đao「刀」· 契 |\n\n---\n**Hoàn tất Day 13 sai:** Batch01–04 = 33 từ\n\nCó thể nối `Day13_用法` → `N2漢字.canvas` · `AI_Context/N2漢字_Context.canvas`","x":200,"y":160,"width":560,"height":300}
 	],
 	"edges":[
-		{"id":"e0","fromNode":"center","toNode":"w1","fromSide":"bottom","toSide":"top"},
-		{"id":"e1","fromNode":"center","toNode":"w2","fromSide":"bottom","toSide":"top"},
-		{"id":"e2","fromNode":"center","toNode":"w3","fromSide":"bottom","toSide":"top"},
-		{"id":"e3","fromNode":"center","toNode":"w4","fromSide":"bottom","toSide":"top"},
-		{"id":"e4","fromNode":"w1","fromSide":"bottom","toSide":"top","toNode":"w5"},
-		{"id":"e5","fromNode":"w2","fromSide":"bottom","toSide":"top","toNode":"w5"},
-		{"id":"e6","fromNode":"w3","fromSide":"bottom","toSide":"top","toNode":"w6"},
-		{"id":"e7","fromNode":"w4","fromSide":"bottom","toSide":"top","toNode":"w6"},
-		{"id":"e8","fromNode":"w5","fromSide":"right","toSide":"left","toNode":"hint"},
-		{"id":"e9","fromNode":"w6","fromSide":"right","toSide":"left","toNode":"hint"}
+		{"id":"e0","fromNode":"center","fromSide":"bottom","toNode":"w1","toSide":"top"},
+		{"id":"e1","fromNode":"center","fromSide":"bottom","toNode":"w2","toSide":"top"},
+		{"id":"e2","fromNode":"center","fromSide":"bottom","toNode":"w3","toSide":"top"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"w4","toSide":"top"},
+		{"id":"e4","fromNode":"w1","fromSide":"bottom","toNode":"w5","toSide":"top"},
+		{"id":"e5","fromNode":"w2","fromSide":"bottom","toNode":"w5","toSide":"top"},
+		{"id":"e6","fromNode":"w3","fromSide":"bottom","toNode":"w6","toSide":"top"},
+		{"id":"e7","fromNode":"w4","fromSide":"bottom","toNode":"w6","toSide":"top"},
+		{"id":"e8","fromNode":"w5","fromSide":"right","toNode":"hint","toSide":"left"},
+		{"id":"e9","fromNode":"w6","fromSide":"right","toNode":"hint","toSide":"left"}
 	]
 }
