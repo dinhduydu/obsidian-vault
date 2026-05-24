@@ -9,7 +9,8 @@
 		{"id":"q20","type":"text","text":"20．練習の成果が（発揮）できれば、きっと優勝できるだろう。\n\n正解：1 発揮\n\n発揮（はっき）\n= phát huy\n\n発揮する\n= phát huy khả năng","x":500,"y":520,"width":500,"height":260},
 		{"id":"q21","type":"text","text":"21．この表現は（あいまい）でわかりにくい。\n\n正解：3 あいまい\n\nあいまい\n= mơ hồ\n\nあいまいな表現\n= cách diễn đạt mơ hồ","x":0,"y":860,"width":420,"height":240},
 		{"id":"q22","type":"text","text":"22．この切符は、明日まで（有効）です。\n\n正解：4 有効\n\n有効（ゆうこう）\n= có hiệu lực\n\n有効期限\n= hạn hiệu lực","x":500,"y":860,"width":420,"height":240},
-		{"id":"q18-eval","type":"text","text":"評価（ひょうか）\n漢越:\n評 = bình\n価 = giá\n\n= đánh giá, evaluation\n→ thường là đánh giá chính thức\n\nVí dụ:\n能力を評価する\n= đánh giá năng lực\n\n先生の評価\n= đánh giá của giáo viên\n\nMẹo nhớ:\n◉ 評判 = lời người ta nói\n◉ 評価 = chấm điểm / đánh giá","x":1110,"y":860,"width":500,"height":460}
+		{"id":"q18-eval","type":"text","text":"評価（ひょうか）\n漢越:\n評 = bình\n価 = giá\n\n= đánh giá, evaluation\n→ thường là đánh giá chính thức\n\nVí dụ:\n能力を評価する\n= đánh giá năng lực\n\n先生の評価\n= đánh giá của giáo viên\n\nMẹo nhớ:\n◉ 評判 = lời người ta nói\n◉ 評価 = chấm điểm / đánh giá","x":1110,"y":860,"width":500,"height":460},
+		{"id":"dc8c1fe06f89d022","x":-560,"y":120,"width":400,"height":295,"type":"file","file":"Pasted image 20260525001635.png"}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q18-main","fromSide":"bottom","toNode":"q18-compare","toSide":"top"},

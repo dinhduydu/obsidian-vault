@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 問題5 類義語・思考整理","x":0,"y":0,"width":420,"height":80},
+		{"id":"q23","type":"text","text":"23．とりあえず社長に電話で話しておいた。\n\n正解：3 一応\n\nとりあえず\n= trước mắt / tạm thời / đại khái trước đã\n\n一応（いちおう）\n= đại khái, trước mắt\n\nVí dụ:\n一応確認した。\n= tôi xác nhận trước đã","x":0,"y":120,"width":460,"height":320},
+		{"id":"q24-compare","type":"text","text":"So sánh:\n\n譲る（ゆずる）\n= nhường / sang lại\n\nVí dụ:\n車を安く譲る\n= bán lại xe giá rẻ\n\n貸す（かす）\n= cho mượn\n\nVí dụ:\n本を貸す\n= cho mượn sách\n\nMẹo:\n◉ có 安く\n→ thường liên quan mua bán","x":520,"y":360,"width":520,"height":460},
+		{"id":"q25-main","type":"text","text":"25．雑談をしているときにいいアイディアが浮かんだ。\n\nĐã chọn sai：4 報告\n正解：2 おしゃべり","x":0,"y":640,"width":460,"height":120},
+		{"id":"q25-thinking","type":"text","text":"Vì sao dễ chọn nhầm 報告？\n\n報告（ほうこく）\n= báo cáo\n→ cũng là nói chuyện\n\nNhưng:\n雑談（ざつだん）\n= nói chuyện phiếm, tán gẫu\n\nÝ câu:\n'đang tán dóc thì nghĩ ra ý tưởng'\n\n=> phải là hội thoại casual","x":520,"y":900,"width":520,"height":340},
+		{"id":"q25-compare","type":"text","text":"So sánh:\n\n雑談（ざつだん）\n漢越:\n雑 = tạp\n談 = đàm\n\n= tán gẫu, nói linh tinh\n\nおしゃべり\n= chat chit\n\n報告（ほうこく）\n= báo cáo\n\n説明（せつめい）\n= giải thích\n\nアイディア\n( idea )\n= ý tưởng","x":0,"y":820,"width":460,"height":500},
+		{"id":"q24-thinking","type":"text","text":"Vì sao dễ chọn nhầm 貸す？\n\n貸す（かす）\n= cho mượn tạm thời\n\nNgười học thường thấy:\n『友人がくれた』\n→ nghĩ là được bạn cho dùng\n→ liên tưởng tới cho mượn\n\nNhưng:\n『安く』\n= rẻ\n→ có yếu tố tiền bạc mua bán\n\n=> không phải cho mượn\n=> là chuyển nhượng / bán lại","x":1260,"y":40,"width":560,"height":400},
+		{"id":"q24-main","type":"text","text":"24．友人がバイクを安くゆずってくれた。\n\nĐã chọn sai：2 貸して\n正解：1 売って\n\nゆずる（譲る）\n= nhường / chuyển lại cho người khác","x":520,"y":120,"width":480,"height":200},
+		{"id":"q26","type":"text","text":"26．うちの犬はとてもかしこい。\n\n正解：1 頭がいい\n\nかしこい\n= thông minh\n\n頭がいい\n= đầu óc tốt","x":1100,"y":900,"width":420,"height":260},
+		{"id":"q27","type":"text","text":"27．彼の話はいつも大げさだ。\n\n正解：4 オーバーだ\n\n大げさ\n= phóng đại\n\nオーバー\n( over )\n= làm quá\n\nユーモア\n( humor )\n= hài hước\n\nオープン\n( open )\n= cởi mở\n\nエネルギー\n( energy )\n= năng lượng","x":1570,"y":900,"width":500,"height":520},
+		{"id":"58dbb2de7831d4b7","type":"file","file":"Pasted image 20260525001707.png","x":-500,"y":120,"width":400,"height":263}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"q24-main","fromSide":"right","toNode":"q24-thinking","toSide":"left"},
+		{"id":"e2","fromNode":"q24-thinking","fromSide":"left","toNode":"q24-compare","toSide":"right"},
+		{"id":"e3","fromNode":"q25-main","fromSide":"bottom","toNode":"q25-compare","toSide":"top"},
+		{"id":"e4","fromNode":"q25-compare","fromSide":"right","toNode":"q25-thinking","toSide":"left"}
+	]
+}

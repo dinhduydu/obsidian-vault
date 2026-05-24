@@ -183,15 +183,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/24052026/問題４.canvas",
+                "file": "N2漢字/24052026/問題５.canvas",
                 "viewState": {
-                  "x": 865.1106305546722,
-                  "y": 565.3479156108967,
-                  "zoom": -0.6666666666666667
+                  "x": 785,
+                  "y": 710,
+                  "zoom": -1.0387914131290776
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "問題４"
+              "title": "問題５"
             }
           }
         ],
@@ -316,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/24052026/問題４.canvas",
+                "file": "N2漢字/24052026/問題５.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of 問題４"
+              "title": "Outline of 問題５"
             }
           }
         ],
@@ -345,20 +345,21 @@
   },
   "active": "c539d9f24ff4665e",
   "lastOpenFiles": [
+    "N2漢字/24052026/問題３.canvas",
+    "N2漢字/24052026/問題５.canvas",
+    "Pasted image 20260525001707.png",
+    "N2漢字/24052026/問題４.canvas",
+    "Pasted image 20260525001635.png",
+    "N2漢字/24052026/問題４ copy.canvas",
     "N2漢字/24052026/問題 1.canvas",
     "N2漢字/24052026/問題２.canvas",
-    "N2漢字/24052026/問題３.canvas",
-    "N2漢字/24052026/問題４.canvas",
     "N2漢字/24052026/問題３ copy.canvas",
     "Pasted image 20260525000348.png",
     "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「𠆢」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas",
-    "N2漢字/24052026/問題２ copy.canvas",
     "Pasted image 20260524234629.png",
     "Pasted image 20260524234050.png",
-    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
     "N2漢字/24052026",
     "N2文法/助詞/に",
     "N2文法/助詞/LAYOUT_README.md",
@@ -380,8 +381,6 @@
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
-    "Pasted image 20260517125314.png",
-    "Pasted image 20260517112332.png",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/複合動詞/Untitled.md",
