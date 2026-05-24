@@ -43,7 +43,9 @@
 		{"id":"303f586d6abc235c","type":"text","text":"ところで","x":-500,"y":-2610,"width":250,"height":50},
 		{"id":"1999aa035f54d5d5","type":"file","file":"Pasted image 20260412213254.png","x":51,"y":-3000,"width":399,"height":219},
 		{"id":"6fb5f175927fa473","type":"file","file":"Pasted image 20260505212721.png","x":-2880,"y":-1800,"width":400,"height":243},
-		{"id":"7e77c6ae7ffc084f","type":"file","file":"Pasted image 20260517110358.png","x":-5160,"y":-29,"width":400,"height":96}
+		{"id":"7e77c6ae7ffc084f","type":"file","file":"Pasted image 20260517110358.png","x":-5160,"y":-29,"width":400,"height":96},
+		{"id":"b0053a832697f85a","type":"text","text":"ところまでで","x":-64,"y":-11,"width":250,"height":60},
+		{"id":"9980d254b110d1c5","type":"text","text":"3 課の文法の練習問題を 2 解いた　3 ところ　4 まで　1 で 終わったよ。\n\n→ Câu hoàn chỉnh:\n\n3課の文法の練習問題を解いたところまでで終わったよ。\n\nGiải thích\n\nMẫu:\n\n〜ところまでで終わる\n= kết thúc ở chỗ / dừng lại ở đoạn ~\n\nỞ đây:\n\n解いたところ = chỗ đã giải\nまでで = đến đó thì dừng\n\n=>\n“Đã dừng ở phần giải bài tập ngữ pháp của bài 3.”\n\nDịch\n\nA: Buổi học tuần trước học tới đâu rồi?\nB: Đã học tới phần giải bài tập ngữ pháp của bài 3 thì kết thúc.","x":360,"y":-281,"width":520,"height":600}
 	],
 	"edges":[
 		{"id":"307419fc20cfb839","fromNode":"89925b8bd8a74247","fromSide":"right","toNode":"8bcd27fac9419228","toSide":"left","label":"Vたところが"},
@@ -98,6 +100,8 @@
 		{"id":"f546ae39b22ec6d1","fromNode":"49ca8cc8c147eb2a","fromSide":"right","toNode":"d5b109c16c67d2bb","toSide":"left","label":"Vている＋ところ"},
 		{"id":"46141afdec428c0d","fromNode":"58d3b3f97cef4eb9","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"right"},
 		{"id":"195ef021c702f2ef","fromNode":"49ca8cc8c147eb2a","fromSide":"top","toNode":"3638a29ce3c080f1","toSide":"bottom","label":"Vたところ"},
-		{"id":"a1c2a934fb825a7d","fromNode":"c08e7453bf4f5a06","fromSide":"left","toNode":"7e77c6ae7ffc084f","toSide":"right","label":"Vたところを捕まえる"}
+		{"id":"a1c2a934fb825a7d","fromNode":"c08e7453bf4f5a06","fromSide":"left","toNode":"7e77c6ae7ffc084f","toSide":"right","label":"Vたところを捕まえる"},
+		{"id":"e6dd74498918c6b3","fromNode":"9f89fb96333c7a70","fromSide":"right","toNode":"b0053a832697f85a","toSide":"left"},
+		{"id":"b1ad3848d9bc9751","fromNode":"b0053a832697f85a","fromSide":"right","toNode":"9980d254b110d1c5","toSide":"left"}
 	]
 }
