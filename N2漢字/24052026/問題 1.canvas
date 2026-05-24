@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 問題1 読み方 + 漢越","x":0,"y":0,"width":340,"height":80},
+		{"id":"q1","type":"text","text":"1．これからも様々な国との相互理解を深めていこうと思う。\n\n相互理解（そうごりかい）\n→ 答え：3 そうご\n\n漢越:\n相 = tương\n互 = hỗ\n理解 = lý giải\n\n相互 = tương hỗ\n相互理解 = hiểu biết lẫn nhau","x":0,"y":120,"width":470,"height":280},
+		{"id":"q2","type":"text","text":"2．この料理は辛くて食べられない。\n\n辛くて（からくて）\n→ 答え：1 からくて\n\n漢越:\n辛 = tân\n\n辛い = cay","x":560,"y":120,"width":360,"height":220},
+		{"id":"q3","type":"text","text":"3．晴れている日は、この山頂からすばらしい景色が見える。\n\n景色（けしき）\n→ 答え：2 けしき\n\n漢越:\n景 = cảnh\n色 = sắc\n\n景色 = cảnh sắc / phong cảnh","x":980,"y":120,"width":420,"height":280},
+		{"id":"q4","type":"text","text":"4．このお金は、何かあったときに構えて残しておこう。\n\n※ 正しくは『備えて』が自然\n\n備えて（そなえて）\n→ 答え：4 そなえて\n\n漢越:\n備 = bị\n\n備える = chuẩn bị, phòng bị","x":0,"y":460,"width":500,"height":280},
+		{"id":"q5","type":"text","text":"5．今から、防災訓練を行います。\n\n防災（ぼうさい）\n→ 答え：2 ぼうさい\n\n漢越:\n防 = phòng\n災 = tai\n訓 = huấn\n練 = luyện\n\n防災 = phòng tai\n訓練 = huấn luyện","x":600,"y":460,"width":460,"height":320},
+		{"id":"cc66d69778e1fd71","x":1190,"y":514,"width":400,"height":212,"type":"file","file":"Pasted image 20260524234050.png"}
+	],
+	"edges":[]
+}

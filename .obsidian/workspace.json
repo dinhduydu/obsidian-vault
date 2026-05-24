@@ -183,15 +183,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
+                "file": "N2漢字/24052026/問題 1.canvas",
                 "viewState": {
-                  "x": 534.7287556554033,
-                  "y": 1780.416756939077,
-                  "zoom": -0.8495806501065486
+                  "x": 617.8084695885658,
+                  "y": 418.99096037107023,
+                  "zoom": -0.18291398343988158
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Sước Dẫn　「廴」「辵 (⻌⻍) 」"
+              "title": "問題 1"
             }
           }
         ],
@@ -316,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
+                "file": "N2漢字/24052026/問題 1.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sước Dẫn　「廴」「辵 (⻌⻍) 」"
+              "title": "Outline of 問題 1"
             }
           }
         ],
@@ -345,19 +345,20 @@
   },
   "active": "c539d9f24ff4665e",
   "lastOpenFiles": [
+    "Pasted image 20260524234050.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
+    "N2漢字/24052026/Untitled.canvas",
+    "N2漢字/24052026/問題 1.canvas",
+    "N2漢字/24052026",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hành　「行」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hình.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
     "N2文法/助詞/に/01_core_ni.canvas",
     "N2文法/助詞/に/05_verb_patterns.canvas",
     "N2文法/助詞/に/03_jlpt_map.canvas",
     "N2文法/助詞/に/02_semantic_groups.canvas",
-    "N2文法/助詞/に/04_similar_grammar.canvas",
     "N2文法/助詞/に",
-    "N2文法/助詞/に.canvas",
     "N2文法/助詞/LAYOUT_README.md",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lực　「力」.canvas",
     "N2文法/助詞/_layout_ni.ps1",
     "N2文法/助詞/Apply-NiCanvasLayout.ps1",
     "N2文法/助詞/layout-ni.mjs",
@@ -373,7 +374,6 @@
     "Pasted image 20260519221509.png",
     "AI_Context",
     "fastkey.md",
-    "N2語彙/N2 言葉の意味が一番近いもの",
     "Pasted image 20260517144103.png",
     "Pasted image 20260517143753.png",
     "Pasted image 20260517131237.png",
