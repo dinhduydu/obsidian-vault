@@ -1,20 +1,23 @@
 {
 	"nodes":[
+		{"id":"a64185956f243b4f","type":"group","x":-1320,"y":920,"width":1704,"height":1404,"label":"問題2 漢字比較"},
 		{"id":"title","type":"text","text":"# 問題2 漢字 + 漢越","x":0,"y":0,"width":340,"height":80},
 		{"id":"q6","type":"text","text":"6．彼はとてもれいぎ正しいです。\n\n礼儀（れいぎ）\n→ 答え：4 礼儀\n\n漢越:\n礼 = lễ\n儀 = nghi\n\n礼儀 = lễ nghi\n礼儀正しい = lễ phép, lịch sự","x":0,"y":120,"width":450,"height":260},
 		{"id":"q7","type":"text","text":"7．彼は苦労を重ねて、社長にまでしゅっせした。\n\n出世（しゅっせ）\n→ 答え：2 出世\n\n漢越:\n出 = xuất\n世 = thế\n\n出世 = thành công, thăng tiến","x":520,"y":120,"width":430,"height":250},
-		{"id":"q8","type":"text","text":"8．この店はでんとうの味を守り続けている。\n\n伝統（でんとう）\n→ 答え：3 伝統\n\n漢越:\n伝 = truyền\n統 = thống\n\n伝統 = truyền thống","x":1020,"y":120,"width":430,"height":240},
 		{"id":"q9","type":"text","text":"9．そんなにあせらなくても大丈夫ですよ。\n\n焦らなくても（あせらなくても）\n→ 答え：1 焦らなくても\n\n漢越:\n焦 = tiêu\n\n焦る = sốt ruột, nóng vội","x":-15,"y":457,"width":480,"height":260},
+		{"id":"99d5dc05a0b92b58","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas","x":-1934,"y":1398,"width":400,"height":400},
+		{"id":"3fd1a80194bdda24","type":"text","text":"9．そんなにあせらなくても大丈夫ですよ。\n\n正解：1 焦らなくても","x":-1216,"y":1640,"width":400,"height":140},
+		{"id":"e5c00cc58f101f60","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas","x":-1300,"y":1904,"width":400,"height":400},
+		{"id":"d97b6c462df89f8e","type":"text","text":"6．彼はとてもれいぎ正しいです。\n\n正解：4 礼儀（れいぎ）","x":-1176,"y":940,"width":360,"height":140},
+		{"id":"7b5ddf753d455a74","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas","x":-1661,"y":914,"width":295,"height":192},
+		{"id":"q8","type":"text","text":"8．この店はでんとうの味を守り続けている。\n\n伝統（でんとう）\n→ 答え：3 伝統\n\n漢越:\n伝 = truyền\n統 = thống\n\n伝統 = truyền thống","x":1020,"y":120,"width":430,"height":240},
 		{"id":"q10","type":"text","text":"10．大学に入学してから、一人でくらしています。\n\n暮らしています（くらしています）\n→ 答え：3 暮らして\n\n漢越:\n暮 = mộ\n\n暮らす = sinh sống","x":520,"y":467,"width":430,"height":250},
 		{"id":"bcaa10835eda6a45","type":"file","file":"Pasted image 20260524234629.png","x":-700,"y":464,"width":400,"height":246},
-		{"id":"a6f33419d8fe298f","type":"text","text":"# 問題2 漢字比較","x":-715,"y":820,"width":320,"height":80},
-		{"id":"d97b6c462df89f8e","type":"text","text":"6．彼はとてもれいぎ正しいです。\n\n正解：4 礼儀（れいぎ）","x":-715,"y":940,"width":360,"height":140},
-		{"id":"943c9a047aca6e87","type":"text","text":"比較：3 礼義 vs 4 礼儀\n\n礼（れい）\n漢越：lễ\n→ lễ phép, phép tắc\n\n義（ぎ）\n漢越：nghĩa\n→ chính nghĩa, đạo nghĩa\n\n儀（ぎ）\n漢越：nghi\n→ nghi thức, quy tắc, tác phong\n\n礼義 = lễ nghĩa\n→ thiên về đạo đức, nhân nghĩa\n\n礼儀 = lễ nghi\n→ cách cư xử, phép lịch sự\n→ đây mới là từ dùng thường xuyên trong tiếng Nhật","x":-295,"y":940,"width":560,"height":480},
-		{"id":"24d7f3139d04d9aa","type":"text","text":"Ví dụ:\n\n礼儀正しい人\n（れいぎただしいひと）\n= người lễ phép\n\n礼儀を守る\n= giữ phép lịch sự\n\n義理（ぎり）\n= nghĩa vụ, tình nghĩa\n\n正義（せいぎ）\n= chính nghĩa\n\nMẹo nhớ:\n儀 → nghi thức → cách cư xử\n=> 礼儀 = lễ nghi = lịch sự","x":325,"y":940,"width":500,"height":440},
-		{"id":"3fd1a80194bdda24","type":"text","text":"9．そんなにあせらなくても大丈夫ですよ。\n\n正解：1 焦らなくても","x":-755,"y":1640,"width":400,"height":140},
-		{"id":"621db2b00032e182","type":"text","text":"比較：1 焦る vs 4 暴る\n\n焦（しょう / あせる）\n漢越：tiêu\n→ cháy khét, sốt ruột\n\n焦る（あせる）\n= nóng vội, cuống lên\n\n暴（ぼう / あばれる）\n漢越：bạo\n→ hung bạo, dữ dội\n\n暴れる（あばれる）\n= quậy phá, hành động bạo lực","x":-295,"y":1640,"width":520,"height":360},
-		{"id":"0bd98b5adcd0de03","type":"text","text":"Ví dụ:\n\n焦らないでください。\n= Xin đừng nóng vội.\n\n試験で焦った。\n= Tôi cuống lên trong bài thi.\n\n子どもが暴れている。\n= Đứa trẻ đang quậy phá.\n\n酔っぱらって暴れる。\n= Say rượu rồi làm loạn.\n\nMẹo nhớ:\n焦 = lửa cháy bên trong → cuống, sốt ruột\n暴 = bạo lực → quậy phá","x":285,"y":1640,"width":520,"height":420},
-		{"id":"7b5ddf753d455a74","x":-1200,"y":914,"width":295,"height":192,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas"}
+		{"id":"621db2b00032e182","type":"text","text":"比較：1 焦る vs 4 暴る\n\n焦（しょう / あせる）\n漢越：tiêu\n→ cháy khét, sốt ruột\n\n焦る（あせる）\n= nóng vội, cuống lên\n\n暴（ぼう / あばれる）\n漢越：bạo\n→ hung bạo, dữ dội\n\n暴れる（あばれる）\n= quậy phá, hành động bạo lực","x":-756,"y":1640,"width":520,"height":360},
+		{"id":"0bd98b5adcd0de03","type":"text","text":"Ví dụ:\n\n焦らないでください。\n= Xin đừng nóng vội.\n\n試験で焦った。\n= Tôi cuống lên trong bài thi.\n\n子どもが暴れている。\n= Đứa trẻ đang quậy phá.\n\n酔っぱらって暴れる。\n= Say rượu rồi làm loạn.\n\nMẹo nhớ:\n焦 = lửa cháy bên trong → cuống, sốt ruột\n暴 = bạo lực → quậy phá","x":-176,"y":1640,"width":520,"height":420},
+		{"id":"24d7f3139d04d9aa","type":"text","text":"Ví dụ:\n\n礼儀正しい人\n（れいぎただしいひと）\n= người lễ phép\n\n礼儀を守る\n= giữ phép lịch sự\n\n義理（ぎり）\n= nghĩa vụ, tình nghĩa\n\n正義（せいぎ）\n= chính nghĩa\n\nMẹo nhớ:\n儀 → nghi thức → cách cư xử\n=> 礼儀 = lễ nghi = lịch sự","x":-136,"y":940,"width":500,"height":440},
+		{"id":"943c9a047aca6e87","type":"text","text":"比較：3 礼義 vs 4 礼儀\n\n礼（れい）\n漢越：lễ\n→ lễ phép, phép tắc\n\n義（ぎ）\n漢越：nghĩa\n→ chính nghĩa, đạo nghĩa\n\n儀（ぎ）\n漢越：nghi\n→ nghi thức, quy tắc, tác phong\n\n礼義 = lễ nghĩa\n→ thiên về đạo đức, nhân nghĩa\n\n礼儀 = lễ nghi\n→ cách cư xử, phép lịch sự\n→ đây mới là từ dùng thường xuyên trong tiếng Nhật","x":-756,"y":940,"width":560,"height":480},
+		{"id":"2349430e0fb2f568","type":"text","text":"Mẹo nhớ\n焦 → “lửa đốt” ⇒ nóng ruột, cuống\n暴 → “phơi bày dữ dội” ⇒ bạo, dữ, mất kiểm soát","x":-1240,"y":502,"width":293,"height":171}
 	],
 	"edges":[
 		{"id":"9e3f6a839d696eee","fromNode":"q6","fromSide":"left","toNode":"bcaa10835eda6a45","toSide":"top","label":"儀"},
@@ -23,6 +26,10 @@
 		{"id":"aef4713686c0c1fe","fromNode":"943c9a047aca6e87","fromSide":"right","toNode":"24d7f3139d04d9aa","toSide":"left"},
 		{"id":"d5a93baa09648fb3","fromNode":"3fd1a80194bdda24","fromSide":"right","toNode":"621db2b00032e182","toSide":"left"},
 		{"id":"ecc432c3166b8dd7","fromNode":"621db2b00032e182","fromSide":"right","toNode":"0bd98b5adcd0de03","toSide":"left"},
-		{"id":"dec9d166c9731526","fromNode":"d97b6c462df89f8e","fromSide":"left","toNode":"7b5ddf753d455a74","toSide":"right"}
+		{"id":"dec9d166c9731526","fromNode":"d97b6c462df89f8e","fromSide":"left","toNode":"7b5ddf753d455a74","toSide":"right"},
+		{"id":"051e7ad7cae4f88e","fromNode":"3fd1a80194bdda24","fromSide":"bottom","toNode":"e5c00cc58f101f60","toSide":"top"},
+		{"id":"8fb7ac69b8fc65fd","fromNode":"3fd1a80194bdda24","fromSide":"left","toNode":"99d5dc05a0b92b58","toSide":"right"},
+		{"id":"f5fff30b47aa307e","fromNode":"bcaa10835eda6a45","fromSide":"bottom","toNode":"943c9a047aca6e87","toSide":"top"},
+		{"id":"0f4190ef143602e0","fromNode":"bcaa10835eda6a45","fromSide":"left","toNode":"2349430e0fb2f568","toSide":"right"}
 	]
 }

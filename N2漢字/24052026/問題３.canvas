@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"9d0d4faf189902ca","type":"group","x":1410,"y":700,"width":1610,"height":1400,"label":"問題3 Prefix・Suffix chữa câu sai"},
+		{"id":"title","type":"text","text":"# 問題3 語彙 + 漢越","x":0,"y":0,"width":340,"height":80},
+		{"id":"q11","type":"text","text":"11．今日の講演のテーマは、教育の（諸）問題についてです。\n\n正解：1 諸\n\n諸問題（しょもんだい）\n= nhiều vấn đề khác nhau\n\n漢越:\n諸 = chư\n問 = vấn\n題 = đề\n\n諸問題 = chư vấn đề\n\nVí dụ:\n環境の諸問題\n= các vấn đề môi trường","x":0,"y":120,"width":500,"height":340},
+		{"id":"q12","type":"text","text":"12．駅前の商品（街）で、買い物して帰ろう。\n\n正解：3 街\n\n商店街（しょうてんがい）\n= phố mua sắm\n\n漢越:\n商 = thương\n店 = điếm\n街 = nhai\n\n商店街 = thương điếm nhai\n\nVí dụ:\n商店街を歩く\n= đi dạo phố mua sắm","x":560,"y":120,"width":500,"height":340},
+		{"id":"q13","type":"text","text":"13．夏休みに旅行に行きたいので、（高）収入のアルバイトを探している。\n\n正解：4 高\n\n高収入（こうしゅうにゅう）\n= thu nhập cao\n\n漢越:\n高 = cao\n収 = thu\n入 = nhập\n\n高収入 = cao thu nhập\n\nVí dụ:\n高収入の仕事\n= công việc lương cao","x":1120,"y":120,"width":520,"height":360},
+		{"id":"433c551abe88c48d","type":"file","file":"Pasted image 20260525000348.png","x":610,"y":560,"width":399,"height":244},
+		{"id":"q15","type":"text","text":"15．疲れると、集中（力）が落ちて仕事が進まなくなる。\n\n正解：4 力\n\n集中力（しゅうちゅうりょく）\n= khả năng tập trung\n\n漢越:\n集 = tập\n中 = trung\n力 = lực\n\n集中力 = tập trung lực\n\nVí dụ:\n集中力がない\n= không có khả năng tập trung","x":540,"y":910,"width":540,"height":340},
+		{"id":"q14","type":"text","text":"14．来週の会議には、社長と（副）社長も出席する予定だ。\n\n正解：2 副\n\n副社長（ふくしゃちょう）\n= phó giám đốc\n\n漢越:\n副 = phó\n社 = xã\n長 = trưởng\n\n副社長 = phó xã trưởng","x":-100,"y":920,"width":500,"height":320},
+		{"id":"8a4eb3d9edacf02b","type":"text","text":"# 問題3 Prefix・Suffix chữa câu sai","x":1430,"y":720,"width":420,"height":80},
+		{"id":"0348889bb165a5a8","type":"text","text":"11．教育の（諸）問題\n\nĐã chọn sai: 2 複\nĐáp án đúng: 1 諸\n\n諸問題（しょもんだい）\n= nhiều vấn đề khác nhau","x":1430,"y":840,"width":420,"height":220},
+		{"id":"b121e531250438e2","type":"text","text":"12．駅前の商品（街）\n\nĐã chọn sai: 4 町\nĐáp án đúng: 3 街\n\n商店街（しょうてんがい）\n= phố mua sắm","x":1430,"y":1240,"width":420,"height":220},
+		{"id":"1e40d45c8e6de2f5","type":"text","text":"So sánh:\n\n街（がい / まち）\n漢越: nhai\n→ phố xá, khu phố\n→ hay dùng trong từ ghép\n\nVí dụ:\n商店街 = phố mua sắm\n繁華街 = khu phố nhộn nhịp\n\n町（ちょう / まち）\n漢越: đinh\n→ thị trấn, khu vực hành chính\n\nVí dụ:\n町長 = thị trưởng\n下町 = khu phố cổ","x":1930,"y":1220,"width":560,"height":440},
+		{"id":"f39461f9e4b1d9c8","type":"text","text":"Mẹo nhớ:\n\n◉ ～街\n→ khu phố có chức năng gì đó\n\n商店街 = phố mua sắm\n飲み屋街 = phố nhậu\n\n◉ 町\n→ đơn vị khu vực / thị trấn","x":2550,"y":1240,"width":420,"height":280},
+		{"id":"d50e9cee3887e00f","type":"text","text":"15．集中（力）が落ちる\n\nĐã chọn sai: 3 気\nĐáp án đúng: 4 力\n\n集中力（しゅうちゅうりょく）\n= khả năng tập trung","x":1430,"y":1700,"width":430,"height":240},
+		{"id":"c575721746c1241b","type":"text","text":"So sánh:\n\n力（りょく）\n漢越: lực\n→ năng lực, sức mạnh\n→ hậu tố cực kỳ phổ biến\n\nVí dụ:\n集中力 = năng lực tập trung\n記憶力 = trí nhớ\n体力 = thể lực\n\n気（き）\n漢越: khí\n→ tinh thần, cảm xúc, khí\n\nVí dụ:\n元気 = khỏe mạnh\n気分 = tâm trạng\n気力 = ý chí","x":1950,"y":1700,"width":560,"height":500},
+		{"id":"d7c6791b07b294ac","type":"text","text":"Mẹo nhớ:\n\n◉ ～力\n→ chỉ năng lực\n\n会話力 = khả năng hội thoại\n理解力 = năng lực hiểu\n\n◉ 気\n→ cảm xúc / tinh thần / khí lực\n\n=> 集中気 ❌ không tồn tại","x":2570,"y":1700,"width":430,"height":320},
+		{"id":"def0ae0f8ea7d3e8","type":"text","text":"So sánh:\n\n諸（しょ）\n漢越: chư\n→ nhiều, các\n→ thường đứng trước danh từ\n\nVí dụ:\n諸外国 = các nước\n諸事情 = nhiều tình huống\n\n複（ふく）\n漢越: phức\n→ phức tạp / lặp nhiều\n\nVí dụ:\n複雑 = phức tạp\n複数 = số nhiều\n\n❌ 複問題 không tồn tại","x":1930,"y":700,"width":520,"height":480},
+		{"id":"3f06512e41385cbc","type":"text","text":"Mẹo nhớ:\n\n諸 + danh từ\n= nhiều cái thuộc cùng nhóm\n\n=> 諸問題\n=> 諸国\n=> 諸事情\n\n複 thường đi với nghĩa:\n- phức tạp\n- nhiều lớp\n- nhiều phần","x":2520,"y":740,"width":450,"height":340}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"q11","fromSide":"right","toNode":"q12","toSide":"left"},
+		{"id":"e2","fromNode":"q12","fromSide":"right","toNode":"q13","toSide":"left"},
+		{"id":"e3","fromNode":"q14","fromSide":"right","toNode":"q15","toSide":"left"},
+		{"id":"e614c3a4e16c784b","fromNode":"q11","fromSide":"bottom","toNode":"433c551abe88c48d","toSide":"left"},
+		{"id":"b83f62946980dd51","fromNode":"q12","fromSide":"bottom","toNode":"433c551abe88c48d","toSide":"top"},
+		{"id":"2e0dbbfd25155383","fromNode":"q15","fromSide":"top","toNode":"433c551abe88c48d","toSide":"bottom"},
+		{"id":"17d162bb54180f9e","fromNode":"0348889bb165a5a8","fromSide":"right","toNode":"def0ae0f8ea7d3e8","toSide":"left"},
+		{"id":"364ca1ed834de4fc","fromNode":"def0ae0f8ea7d3e8","fromSide":"right","toNode":"3f06512e41385cbc","toSide":"left"},
+		{"id":"12ef5c6f4f8aec8c","fromNode":"b121e531250438e2","fromSide":"right","toNode":"1e40d45c8e6de2f5","toSide":"left"},
+		{"id":"69030cccfccbb349","fromNode":"1e40d45c8e6de2f5","fromSide":"right","toNode":"f39461f9e4b1d9c8","toSide":"left"},
+		{"id":"cc17cd8a76573f94","fromNode":"d50e9cee3887e00f","fromSide":"right","toNode":"c575721746c1241b","toSide":"left"},
+		{"id":"6fe8c5994dca14bf","fromNode":"c575721746c1241b","fromSide":"right","toNode":"d7c6791b07b294ac","toSide":"left"},
+		{"id":"e23640b4040eca96","fromNode":"433c551abe88c48d","fromSide":"right","toNode":"9d0d4faf189902ca","toSide":"left"}
+	]
+}

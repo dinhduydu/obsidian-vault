@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 問題4 語彙・Katakana・Chữa câu sai","x":0,"y":0,"width":420,"height":80},
+		{"id":"q16","type":"text","text":"16．週末は家で（のんびり）テレビを見ていた。\n\n正解：2 のんびり\n\nのんびり\n= thư thả, thoải mái\n\nVí dụ:\nのんびり過ごす\n= sống thong thả","x":0,"y":120,"width":420,"height":260},
+		{"id":"q17","type":"text","text":"17．（マイペース）で走るといい。\n\n正解：4 マイペース\n\nマイペース\n( my pace )\n= theo nhịp độ của bản thân\n\nCác đáp án:\nテクニック ( technique )\n= kỹ thuật\n\nフレッシュ ( fresh )\n= tươi mới\n\nアプローチ ( approach )\n= phương pháp tiếp cận","x":500,"y":40,"width":560,"height":440},
+		{"id":"q18-main","type":"text","text":"18．あの店はサービスがいいと（評判）だ。\n\nĐã chọn sai: 2 評価\nĐáp án đúng: 1 評判","x":1120,"y":120,"width":420,"height":220},
+		{"id":"q18-compare","type":"text","text":"比較：評判 vs 評価\n\n評判（ひょうばん）\n漢越:\n評 = bình\n判 = phán\n\n= danh tiếng, lời đồn, reputation\n→ mọi người truyền tai nhau\n\nVí dụ:\n評判がいい\n= có tiếng tốt\n\nあのラーメン屋は評判だ。\n= quán ramen đó nổi tiếng","x":1120,"y":380,"width":480,"height":400},
+		{"id":"q19","type":"text","text":"19．何時間話しても話が（尽きない）。\n\n正解：3 尽きない\n\n尽きない（つきない）\n= không hết\n\n話が尽きない\n= nói mãi không hết chuyện","x":0,"y":500,"width":420,"height":260},
+		{"id":"q20","type":"text","text":"20．練習の成果が（発揮）できれば、きっと優勝できるだろう。\n\n正解：1 発揮\n\n発揮（はっき）\n= phát huy\n\n発揮する\n= phát huy khả năng","x":500,"y":520,"width":500,"height":260},
+		{"id":"q21","type":"text","text":"21．この表現は（あいまい）でわかりにくい。\n\n正解：3 あいまい\n\nあいまい\n= mơ hồ\n\nあいまいな表現\n= cách diễn đạt mơ hồ","x":0,"y":860,"width":420,"height":240},
+		{"id":"q22","type":"text","text":"22．この切符は、明日まで（有効）です。\n\n正解：4 有効\n\n有効（ゆうこう）\n= có hiệu lực\n\n有効期限\n= hạn hiệu lực","x":500,"y":860,"width":420,"height":240},
+		{"id":"q18-eval","type":"text","text":"評価（ひょうか）\n漢越:\n評 = bình\n価 = giá\n\n= đánh giá, evaluation\n→ thường là đánh giá chính thức\n\nVí dụ:\n能力を評価する\n= đánh giá năng lực\n\n先生の評価\n= đánh giá của giáo viên\n\nMẹo nhớ:\n◉ 評判 = lời người ta nói\n◉ 評価 = chấm điểm / đánh giá","x":1110,"y":860,"width":500,"height":460}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"q18-main","fromSide":"bottom","toNode":"q18-compare","toSide":"top"},
+		{"id":"e2","fromNode":"q18-compare","fromSide":"bottom","toNode":"q18-eval","toSide":"top"}
+	]
+}

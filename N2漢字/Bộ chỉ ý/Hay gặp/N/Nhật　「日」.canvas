@@ -1,18 +1,28 @@
 {
 	"nodes":[
-		{"id":"631257b411dd2604","x":-134,"y":-18,"width":250,"height":60,"type":"text","text":"Nhật　「日」"},
-		{"id":"018437dedf2ce2c3","x":280,"y":-220,"width":250,"height":60,"type":"text","text":"明 - Minh"},
-		{"id":"730299385ea2d2c2","x":303,"y":-127,"width":250,"height":60,"type":"text","text":"暗 - Ám"},
-		{"id":"e06a9c39295255f5","x":303,"y":-18,"width":250,"height":60,"type":"text","text":"映 - Ảnh"},
-		{"id":"9a38615f1a9e215e","x":303,"y":100,"width":250,"height":60,"type":"text","text":"晩 - Vãn"},
-		{"id":"9ad1e3202b4f7815","x":303,"y":200,"width":250,"height":60,"type":"text","text":"曜 - Diệu"},
-		{"id":"4a3e541f26348b3e","x":303,"y":340,"width":250,"height":60,"type":"text","text":"昨 - Tạc"}
+		{"id":"631257b411dd2604","type":"text","text":"Nhật　「日」","x":-134,"y":-18,"width":250,"height":60},
+		{"id":"018437dedf2ce2c3","type":"text","text":"明 - Minh","x":280,"y":-220,"width":250,"height":60},
+		{"id":"730299385ea2d2c2","type":"text","text":"暗 - Ám","x":303,"y":-127,"width":250,"height":60},
+		{"id":"e06a9c39295255f5","type":"text","text":"映 - Ảnh","x":303,"y":-18,"width":250,"height":60},
+		{"id":"9a38615f1a9e215e","type":"text","text":"晩 - Vãn","x":303,"y":100,"width":250,"height":60},
+		{"id":"9ad1e3202b4f7815","type":"text","text":"曜 - Diệu","x":303,"y":200,"width":250,"height":60},
+		{"id":"4a3e541f26348b3e","type":"text","text":"昨 - Tạc","x":303,"y":340,"width":250,"height":60},
+		{"id":"6e7555fc8c7e5ccc","type":"text","text":"Nhật　「日」","x":-118,"y":980,"width":250,"height":60},
+		{"id":"70e8ee794a47cc9b","type":"text","text":"暴 - Bạo, Bộc","x":323,"y":921,"width":250,"height":60},
+		{"id":"0d15bfa8c33d9a4c","type":"text","text":"### Bộ thủ\n\n- Bộ chính: 日（mặt trời）\n\nNhưng chữ này khá phức tạp, thường nhìn theo cấu trúc:\n\n- 日 : mặt trời\n- 共 dạng biến thể ở giữa\n- 氺 : nước","x":700,"y":786,"width":367,"height":271},
+		{"id":"9a1191b037ee1a8c","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas","x":1360,"y":671,"width":360,"height":231},
+		{"id":"f020143af0e43310","type":"text","text":"### Ý nghĩa gốc\n\nMang hình ảnh:\n\n> ánh nắng phơi bày mọi thứ ra ngoài\n\n→ nghĩa phát triển:\n\n- lộ ra\n- mạnh bạo\n- dữ dội\n- bộc phát không kiểm soát\n\nNên:\n\n- 暴力（ぼうりょく）: bạo lực\n- 暴風（ぼうふう）: bão lớn\n- 暴れる（あばれる）: quậy phá, vùng vẫy dữ dội","x":700,"y":1200,"width":432,"height":497}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"018437dedf2ce2c3","toSide":"left"},
 		{"id":"c51ca715676583e0","fromNode":"631257b411dd2604","fromSide":"right","toNode":"730299385ea2d2c2","toSide":"left"},
 		{"id":"fcc0ee550dd204aa","fromNode":"631257b411dd2604","fromSide":"right","toNode":"e06a9c39295255f5","toSide":"left"},
 		{"id":"8edd201aa1afbacf","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9a38615f1a9e215e","toSide":"left"},
-		{"id":"3a8f01448d007fe5","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9ad1e3202b4f7815","toSide":"left"}
+		{"id":"3a8f01448d007fe5","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9ad1e3202b4f7815","toSide":"left"},
+		{"id":"d1dad0a41bfa359d","fromNode":"631257b411dd2604","fromSide":"bottom","toNode":"6e7555fc8c7e5ccc","toSide":"top"},
+		{"id":"fa937e7f8a5e1fda","fromNode":"6e7555fc8c7e5ccc","fromSide":"right","toNode":"70e8ee794a47cc9b","toSide":"left"},
+		{"id":"d463fb0c0beddbda","fromNode":"70e8ee794a47cc9b","fromSide":"right","toNode":"0d15bfa8c33d9a4c","toSide":"left"},
+		{"id":"32a6edc5a32365c6","fromNode":"0d15bfa8c33d9a4c","fromSide":"right","toNode":"9a1191b037ee1a8c","toSide":"left"},
+		{"id":"c94025478b5e3767","fromNode":"70e8ee794a47cc9b","fromSide":"right","toNode":"f020143af0e43310","toSide":"left"}
 	]
 }
