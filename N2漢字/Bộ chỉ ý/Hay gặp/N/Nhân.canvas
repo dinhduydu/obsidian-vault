@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"24fa2cd41fb60c15","type":"text","text":"","x":-168,"y":-299,"width":250,"height":60},
-		{"id":"ac34ce7747fdb2a4","type":"link","url":"https://www.notion.so/Nh-n-1b7ae4aff2f2808dab45e6bc3653fdea?source=copy_link","x":-640,"y":-580,"width":1280,"height":440},
-		{"id":"90661fa9b866948b","x":1040,"y":-500,"width":250,"height":60,"type":"text","text":"優"}
-	],
-	"edges":[]
-}

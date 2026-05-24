@@ -183,15 +183,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/24052026/問題 1.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「𠆢」.canvas",
                 "viewState": {
-                  "x": 617.8084695885658,
-                  "y": 418.99096037107023,
-                  "zoom": -0.18291398343988158
+                  "x": -794.9361119677869,
+                  "y": 465.4799862860321,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "問題 1"
+              "title": "Nhân　「𠆢」"
             }
           }
         ],
@@ -316,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/24052026/問題 1.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「𠆢」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of 問題 1"
+              "title": "Outline of Nhân　「𠆢」"
             }
           }
         ],
@@ -345,18 +345,20 @@
   },
   "active": "c539d9f24ff4665e",
   "lastOpenFiles": [
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「𠆢」.canvas",
+    "N2漢字/24052026/問題２.canvas",
+    "N2漢字/24052026/問題２ copy.canvas",
+    "Pasted image 20260524234629.png",
+    "N2漢字/24052026/問題 1.canvas",
     "Pasted image 20260524234050.png",
     "N2漢字/Bộ chỉ ý/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
-    "N2漢字/24052026/Untitled.canvas",
-    "N2漢字/24052026/問題 1.canvas",
     "N2漢字/24052026",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hành　「行」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hình.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/V/Võng　「网 (罒)」.canvas",
     "N2文法/助詞/に/01_core_ni.canvas",
     "N2文法/助詞/に/05_verb_patterns.canvas",
-    "N2文法/助詞/に/03_jlpt_map.canvas",
-    "N2文法/助詞/に/02_semantic_groups.canvas",
     "N2文法/助詞/に",
     "N2文法/助詞/LAYOUT_README.md",
     "N2文法/助詞/_layout_ni.ps1",
@@ -380,8 +382,6 @@
     "Pasted image 20260517125314.png",
     "Pasted image 20260517112332.png",
     "Pasted image 20260517112330.png",
-    "Pasted image 20260517112146.png",
-    "Pasted image 20260517111957.png",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/複合動詞/Untitled.md",
