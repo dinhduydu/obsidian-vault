@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"title","type":"text","text":"# 問題7 文法・語彙・思考整理","x":0,"y":0,"width":420,"height":80},
 		{"id":"q33","type":"text","text":"33．客の予算（に応じて）\n\n正解：3\n選択ミス：2 に先立って\n\nに応じて\n= tùy theo\n\n予算に応じて\n= tùy theo ngân sách\n\n❌ に先立って\n= trước khi\n\nVí dụ:\n試験に先立って説明がある\n= có giải thích trước kỳ thi","x":0,"y":120,"width":520,"height":420},
-		{"id":"q45","type":"text","text":"45．\n3課の文法の練習問題を\n『解いたところまでで』\n終わったよ。\n\n正しい順番：2341\n正解：1\n\n解いたところ\n= phần đã giải\n\n～までで\n= đến mức/phạm vi đó thì","x":640,"y":1880,"width":520,"height":340},
 		{"id":"q38","type":"text","text":"38．理解（しがたい）\n\n正解：2\n選択ミス：3 しかねない\n\n～がたい\n= khó làm về mặt tâm lý\n\n理解しがたい\n= khó hiểu / khó chấp nhận\n\n❌ ～しかねない\n= có nguy cơ làm\n\nVí dụ:\n事故を起こしかねない\n= có thể gây tai nạn","x":640,"y":960,"width":520,"height":420},
 		{"id":"q39","type":"text","text":"39．ぜひわたしに（やらせていただけないでしょうか）\n\n正解：2\n選択ミス：4 やらせてもよろしいでしょうか\n\nやらせていただく\n= xin phép được làm\n(khiêm nhường lịch sự)\n\n❌ やらせてもよろしいでしょうか\n= tôi làm có được không?\n→ hơi xin phép trực tiếp, không tự nhiên trong mail business","x":1220,"y":960,"width":620,"height":420},
 		{"id":"q41","type":"text","text":"41．遠くを見るようにしたところ、目が疲れにくくなった。\n\n正解：2\n選択ミス：4\n\n～ようにする\n= cố gắng tạo thói quen\n\n～ところ\n= kết quả sau khi thử làm\n\n=> thử nhìn xa thường xuyên\n=> mắt đỡ mệt","x":620,"y":1420,"width":560,"height":360},
@@ -14,14 +13,7 @@
 		{"id":"q36","type":"text","text":"36．（なにも）そこまで悪く言わなくても\n\n正解：3\n選択ミス：2 なにが\n\nなにも～ない\n= đâu cần / không nhất thiết\n\nなにもそんなに急がなくてもいい\n= đâu cần vội vậy\n\n❌ なにが\n→ dùng kiểu phản bác:\nなにが問題なの？","x":1180,"y":150,"width":520,"height":360},
 		{"id":"q37","type":"text","text":"37．期待は高まる（一方だ）\n\n正解：4\n選択ミス：1 中心だ\n\n一方だ（いっぽうだ）\n= càng ngày càng...\n\n期待は高まる一方だ\n= kỳ vọng cứ tăng mãi\n\n❌ 中心だ\n= là trung tâm\n\nTư duy:\n高まる là biến đổi liên tục\n=> cần mẫu diễn tả xu hướng tăng","x":-20,"y":960,"width":580,"height":418},
 		{"id":"7a8b10db210dc1fa","type":"file","file":"Pasted image 20260525004447.png","x":1920,"y":1170,"width":399,"height":127},
-		{"id":"71b7dd1dc2135ad3","type":"file","file":"Pasted image 20260525004459.png","x":-480,"y":1650,"width":390,"height":400},
-		{"id":"q49","type":"text","text":"49．\n毎年、合格者の80％が\n実務経験者ということからすると、\n未経験者のわたしが...\n\n順番：1324\n正解：3\n\nことからすると\n= xét từ việc...\n\n実務経験者\n= người có kinh nghiệm thực tế\n\n未経験者\n= người chưa có kinh nghiệm","x":1220,"y":3080,"width":620,"height":380},
-		{"id":"q48","type":"text","text":"48．\n『わかる』という意味だったと思う。\n\n順番：2134\n正解：2\n\nという\n= gọi là / rằng\n\n～と思う\n= tôi nghĩ rằng\n\nだった\n= đã là","x":680,"y":3080,"width":480,"height":360},
-		{"id":"q47","type":"text","text":"47．\n田中さんはいつも\n人のやることに文句を言うばかりで\n自分では何もしない。\n\n順番：3412\n正解：2\n\n～ばかりで\n= chỉ toàn...\n\n文句を言う\n= than phiền, càm ràm","x":-20,"y":3080,"width":620,"height":360},
-		{"id":"09ac1da8944102cd","type":"file","file":"Pasted image 20260525004512.png","x":680,"y":2560,"width":400,"height":389},
-		{"id":"q46","type":"text","text":"46．\nひとくちにカレーライス\nといっても、店によって材料はさまざまだ。\n\n順番：4132\n正解：3\n\nといっても\n= dù nói là...\n\n店によって\n= tùy từng cửa hàng","x":1360,"y":2560,"width":560,"height":340},
-		{"id":"c66b179c565f205e","type":"text","text":"3 課の文法の練習問題を 2 解いた　3 ところ　4 まで　1 で 終わったよ。\n\n→ Câu hoàn chỉnh:\n\n3課の文法の練習問題を解いたところまでで終わったよ。\n\nGiải thích\n\nMẫu:\n\n〜ところまでで終わる\n= kết thúc ở chỗ / dừng lại ở đoạn ~\n\nỞ đây:\n\n解いたところ = chỗ đã giải\nまでで = đến đó thì dừng\n\n=>\n“Đã dừng ở phần giải bài tập ngữ pháp của bài 3.”\n\nDịch\n\nA: Buổi học tuần trước học tới đâu rồi?\nB: Đã học tới phần giải bài tập ngữ pháp của bài 3 thì kết thúc.","x":1280,"y":1880,"width":520,"height":600},
-		{"id":"a10e654864e74118","type":"file","file":"N2文法/ところ・どころ/ところ.canvas","x":2048,"y":1980,"width":400,"height":400}
+		{"id":"71b7dd1dc2135ad3","type":"file","file":"Pasted image 20260525004459.png","x":-480,"y":1650,"width":390,"height":400}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q33","fromSide":"right","toNode":"q35","toSide":"left"},
@@ -29,9 +21,6 @@
 		{"id":"e3","fromNode":"q37","fromSide":"right","toNode":"q38","toSide":"left"},
 		{"id":"e4","fromNode":"q38","fromSide":"right","toNode":"q39","toSide":"left"},
 		{"id":"e5","fromNode":"q40","fromSide":"right","toNode":"q41","toSide":"left"},
-		{"id":"e6","fromNode":"q43","fromSide":"left","toNode":"q44","toSide":"right"},
-		{"id":"e8","fromNode":"q47","fromSide":"right","toNode":"q48","toSide":"left"},
-		{"id":"137bd94cb1034ba2","fromNode":"q45","fromSide":"right","toNode":"c66b179c565f205e","toSide":"left"},
-		{"id":"b31c61a69a281cb0","fromNode":"c66b179c565f205e","fromSide":"right","toNode":"a10e654864e74118","toSide":"left"}
+		{"id":"e6","fromNode":"q43","fromSide":"left","toNode":"q44","toSide":"right"}
 	]
 }

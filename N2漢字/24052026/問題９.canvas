@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 血液型性格判断 - Từ vựng & Ngữ pháp","x":0,"y":0,"width":420,"height":80},
+		{"id":"v1","type":"text","text":"血液型性格判断\n（けつえきがた せいかく はんだん）\n\n= đoán tính cách theo nhóm máu\n\n漢越:\n血 = huyết\n液 = dịch\n型 = hình\n性格 = tính cách\n判断 = phán đoán","x":0,"y":120,"width":420,"height":300},
+		{"id":"v2","type":"text","text":"取り上げる\n（とりあげる）\n\n= đưa lên, đề cập\n\nVí dụ:\n話題として取り上げる\n= đem ra làm chủ đề","x":500,"y":120,"width":360,"height":240},
+		{"id":"v3","type":"text","text":"言い換えれば\n（いいかえれば）\n\n= nói cách khác\n\n換 = hoán\n\nVí dụ:\n言い換えれば、つまり〜","x":920,"y":120,"width":360,"height":240},
+		{"id":"v4","type":"text","text":"分類する\n（ぶんるいする）\n\n= phân loại\n\n漢越:\n分 = phân\n類 = loại\n\n4種類に分類する\n= phân loại thành 4 loại","x":1340,"y":120,"width":420,"height":280},
+		{"id":"v5","type":"text","text":"遺伝\n（いでん）\n\n= di truyền\n\n漢越:\n遺 = di\n伝 = truyền\n\n親から子への遺伝\n= di truyền từ cha mẹ sang con","x":0,"y":500,"width":420,"height":280},
+		{"id":"v6","type":"text","text":"我慢\n（がまん）\n\n= chịu đựng, nhẫn nhịn\n\n漢越:\n我 = ngã\n慢 = mạn\n\n我慢が苦手\n= kém chịu đựng","x":500,"y":500,"width":400,"height":280},
+		{"id":"v7","type":"text","text":"成長\n（せいちょう）\n\n= trưởng thành\n\n漢越:\n成 = thành\n長 = trưởng\n\n成長とともに\n= cùng với sự trưởng thành","x":960,"y":500,"width":400,"height":280},
+		{"id":"v8","type":"text","text":"調査\n（ちょうさ）\n\n= khảo sát, điều tra\n\n漢越:\n調 = điều\n査 = tra","x":1420,"y":500,"width":320,"height":220},
+		{"id":"v9","type":"text","text":"近づく\n（ちかづく）\n\n= tiến gần, trở nên giống hơn\n\n性格が近づく\n= tính cách trở nên giống hơn","x":0,"y":860,"width":420,"height":240},
+		{"id":"v10","type":"text","text":"思い込み\n（おもいこみ）\n\n= định kiến, tự tin chắc\n\n思い込む\n= tin chắc rằng","x":500,"y":860,"width":360,"height":220},
+		{"id":"v11","type":"text","text":"可能性\n（かのうせい）\n\n= khả năng\n\n漢越:\n可 = khả\n能 = năng\n性 = tính","x":920,"y":860,"width":340,"height":240},
+		{"id":"v12","type":"text","text":"否定\n（ひてい）\n\n= phủ định\n\n漢越:\n否 = phủ\n定 = định\n\n否定できない\n= không thể phủ nhận","x":1320,"y":860,"width":400,"height":260},
+		{"id":"g1","type":"text","text":"Ngữ pháp:\n\n〜わけです\n= nghĩa là..., thảo nào...\n\n人が多いわけです。\n= thảo nào nhiều người như vậy","x":0,"y":1240,"width":420,"height":260},
+		{"id":"g2","type":"text","text":"〜によって\n= tùy theo\n\n血液型によって\n= tùy theo nhóm máu","x":500,"y":1240,"width":340,"height":220},
+		{"id":"g3","type":"text","text":"〜とともに\n= cùng với\n\n成長とともに\n= cùng với trưởng thành","x":900,"y":1240,"width":340,"height":220},
+		{"id":"g4","type":"text","text":"〜とは限らない\n（とはかぎらない）\n\n= không hẳn là\n\n正しいとは限らない\n= không hẳn đúng","x":1300,"y":1240,"width":420,"height":260},
+		{"id":"g5","type":"text","text":"〜ないうちに\n= trước khi nhận ra\n\n知らないうちに\n= vô thức / lúc chưa nhận ra","x":0,"y":1580,"width":420,"height":220},
+		{"id":"g6","type":"text","text":"〜かもしれない\n= có thể\n\n関係があるかもしれない\n= có thể có liên quan","x":500,"y":1580,"width":420,"height":220}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"v1","fromSide":"right","toNode":"v4","toSide":"left"},
+		{"id":"e2","fromNode":"v5","fromSide":"right","toNode":"v7","toSide":"left"},
+		{"id":"e3","fromNode":"v9","fromSide":"right","toNode":"v10","toSide":"left"},
+		{"id":"e4","fromNode":"g1","fromSide":"right","toNode":"g4","toSide":"left"}
+	]
+}

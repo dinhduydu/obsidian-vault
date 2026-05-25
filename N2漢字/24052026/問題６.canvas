@@ -12,8 +12,8 @@
 		{"id":"q32-main","type":"text","text":"32．外見（がいけん）\n\n漢越:\n外 = ngoại\n見 = kiến\n\n外見 = ngoại hình / vẻ bề ngoài\n\nĐã chọn sai：4\n正解：1","x":0,"y":1760,"width":480,"height":320},
 		{"id":"q32-thinking","type":"text","text":"Vì sao dễ chọn 4?\n\n母は怒っている外見だった。\n\nNgười học thường hiểu:\n'có vẻ như đang giận'\n\n=> liên tưởng tới vẻ bề ngoài\n\nNhưng:\n外見 = ngoại hình vật lý\n(khuôn mặt, dáng vẻ, hình dạng)\n\nKhông dùng để đoán cảm xúc tạm thời.","x":560,"y":1760,"width":620,"height":360},
 		{"id":"q32-correct","type":"text","text":"1．人を外見で判断する\n= đánh giá người khác qua ngoại hình\n\nĐây là collocation cực phổ biến:\n\n外見で判断する\n= judging by appearance\n\nCác đáp án sai:\n\n2．窓の外見\n❌ cửa sổ không dùng 外見\n→ 外側 / 見た目\n\n3．月の外見\n❌ mặt trăng dùng 形・表面","x":1240,"y":1760,"width":580,"height":400},
-		{"id":"11c4423e218fc66d","x":-680,"y":420,"width":535,"height":520,"type":"file","file":"Pasted image 20260525002206.png"},
-		{"id":"11759142ce67b867","x":-680,"y":1614,"width":535,"height":466,"type":"file","file":"Pasted image 20260525002223.png"}
+		{"id":"11c4423e218fc66d","type":"file","file":"Pasted image 20260525002206.png","x":-680,"y":420,"width":535,"height":520},
+		{"id":"11759142ce67b867","type":"file","file":"Pasted image 20260525002223.png","x":-680,"y":1614,"width":535,"height":466}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q28","fromSide":"right","toNode":"q28-wrong","toSide":"left"},

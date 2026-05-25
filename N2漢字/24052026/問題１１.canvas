@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# N2 読解語彙 - 会話・新聞・転職","x":0,"y":0,"width":460,"height":80},
+		{"id":"v1","type":"text","text":"会話技術\n（かいわ ぎじゅつ）\n\n= kỹ năng hội thoại\n\n漢越:\n会話 = hội thoại\n技術 = kỹ thuật","x":0,"y":120,"width":360,"height":240},
+		{"id":"v2","type":"text","text":"盛り上がる\n（もりあがる）\n\n= sôi nổi, hào hứng\n\n会話が盛り上がる\n= cuộc trò chuyện trở nên sôi nổi","x":420,"y":120,"width":420,"height":240},
+		{"id":"v3","type":"text","text":"高速道路\n（こうそくどうろ）\n\n= đường cao tốc\n\n漢越:\n高速 = cao tốc\n道路 = đạo lộ","x":920,"y":120,"width":360,"height":240},
+		{"id":"v4","type":"text","text":"進入\n（しんにゅう）\n\n= tiến vào\n\n高速道路に進入する\n= nhập vào đường cao tốc","x":1360,"y":120,"width":360,"height":220},
+		{"id":"v5","type":"text","text":"途端\n（とたん）\n\n= ngay khi\n\n入った途端に\n= ngay khi vừa vào","x":0,"y":440,"width":320,"height":220},
+		{"id":"v6","type":"text","text":"うなずく\n\n= gật đầu\n\nうなずきながら聞く\n= vừa gật đầu vừa nghe","x":400,"y":440,"width":340,"height":220},
+		{"id":"v7","type":"text","text":"独占\n（どくせん）\n\n= độc chiếm\n\n漢越:\n独 = độc\n占 = chiếm\n\nボールを独占する","x":820,"y":440,"width":360,"height":260},
+		{"id":"v8","type":"text","text":"発言\n（はつげん）\n\n= phát ngôn\n\n漢越:\n発 = phát\n言 = ngôn\n\n発言する\n= phát biểu","x":1260,"y":440,"width":320,"height":260},
+		{"id":"v9","type":"text","text":"敬意\n（けいい）\n\n= sự kính trọng\n\n漢越:\n敬 = kính\n意 = ý\n\n敬意を払う\n= thể hiện sự tôn trọng","x":0,"y":760,"width":380,"height":240},
+		{"id":"v10","type":"text","text":"充実\n（じゅうじつ）\n\n= phong phú, trọn vẹn\n\n充実した会話\n= cuộc trò chuyện có giá trị","x":460,"y":760,"width":380,"height":240},
+		{"id":"v11","type":"text","text":"幸運\n（こううん）\n\n= may mắn\n\n漢越:\n幸 = hạnh\n運 = vận","x":920,"y":760,"width":320,"height":220},
+		{"id":"v12","type":"text","text":"潜む\n（ひそむ）\n\n= ẩn chứa\n\n幸運が潜んでいる\n= may mắn đang ẩn chứa","x":1320,"y":760,"width":360,"height":240},
+		{"id":"v13","type":"text","text":"全国紙\n（ぜんこくし）\n\n= báo phát hành toàn quốc\n\n全国 = toàn quốc\n紙 = báo giấy","x":0,"y":1100,"width":360,"height":240},
+		{"id":"v14","type":"text","text":"活字\n（かつじ）\n\n= chữ in\n\n活字を大きくする\n= phóng to chữ in","x":440,"y":1100,"width":340,"height":220},
+		{"id":"v15","type":"text","text":"高齢者\n（こうれいしゃ）\n\n= người cao tuổi\n\n漢越:\n高齢 = cao linh\n者 = giả","x":860,"y":1100,"width":360,"height":240},
+		{"id":"v16","type":"text","text":"割合\n（わりあい）\n\n= tỷ lệ\n\n割合が増える\n= tỷ lệ tăng","x":1300,"y":1100,"width":320,"height":220},
+		{"id":"v17","type":"text","text":"納得\n（なっとく）\n\n= chấp nhận, hiểu thấu\n\n納得できる\n= có thể hiểu và chấp nhận","x":0,"y":1420,"width":380,"height":240},
+		{"id":"v18","type":"text","text":"簡略化\n（かんりゃくか）\n\n= đơn giản hóa\n\n簡略化する\n= đơn giản hóa","x":460,"y":1420,"width":340,"height":220},
+		{"id":"v19","type":"text","text":"快適\n（かいてき）\n\n= thoải mái\n\n快適さ\n= sự thoải mái","x":880,"y":1420,"width":320,"height":220},
+		{"id":"v20","type":"text","text":"転職\n（てんしょく）\n\n= chuyển việc\n\n漢越:\n転 = chuyển\n職 = chức","x":1280,"y":1420,"width":320,"height":220},
+		{"id":"v21","type":"text","text":"格別\n（かくべつ）\n\n= đặc biệt\n\n格別面白いわけでもない\n= cũng không đặc biệt thú vị","x":0,"y":1740,"width":420,"height":240},
+		{"id":"v22","type":"text","text":"芝生\n（しばふ）\n\n= bãi cỏ\n\n隣の芝生は青い\n= cỏ nhà hàng xóm luôn xanh hơn","x":500,"y":1740,"width":420,"height":240},
+		{"id":"v23","type":"text","text":"試着\n（しちゃく）\n\n= mặc thử\n\n服を試着する\n= thử quần áo","x":1000,"y":1740,"width":320,"height":220},
+		{"id":"v24","type":"text","text":"本質\n（ほんしつ）\n\n= bản chất\n\n仕事の本質\n= bản chất công việc","x":1400,"y":1740,"width":340,"height":220},
+		{"id":"v25","type":"text","text":"職業選択\n（しょくぎょうせんたく）\n\n= lựa chọn nghề nghiệp\n\n職業 = nghề nghiệp\n選択 = lựa chọn","x":0,"y":2060,"width":420,"height":260},
+		{"id":"v26","type":"text","text":"幅\n（はば）\n\n= phạm vi, độ rộng\n\n選択の幅\n= phạm vi lựa chọn","x":500,"y":2060,"width":320,"height":220},
+		{"id":"v27","type":"text","text":"憧れる\n（あこがれる）\n\n= ngưỡng mộ\n\n野球選手に憧れる\n= ngưỡng mộ cầu thủ bóng chày","x":900,"y":2060,"width":420,"height":240},
+		{"id":"v28","type":"text","text":"監督\n（かんとく）\n\n= đạo diễn / huấn luyện viên\n\n映画監督\n= đạo diễn phim","x":1400,"y":2060,"width":320,"height":220},
+		{"id":"v29","type":"text","text":"平凡\n（へいぼん）\n\n= bình thường\n\n平凡な才能\n= tài năng bình thường","x":0,"y":2380,"width":360,"height":220},
+		{"id":"v30","type":"text","text":"必然\n（ひつぜん）\n\n= điều tất yếu\n\n漢越:\n必 = tất\n然 = nhiên","x":440,"y":2380,"width":320,"height":220}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"v1","fromSide":"bottom","toNode":"v10","toSide":"top"},
+		{"id":"e2","fromNode":"v13","fromSide":"right","toNode":"v19","toSide":"left"},
+		{"id":"e3","fromNode":"v20","fromSide":"left","toNode":"v25","toSide":"right"},
+		{"id":"e4","fromNode":"v25","fromSide":"bottom","toNode":"v30","toSide":"top"}
+	]
+}

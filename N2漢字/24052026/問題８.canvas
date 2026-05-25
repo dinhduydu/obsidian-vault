@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fbf12de8d07ce707","type":"text","text":"49．\n毎年、合格者の80％が\n実務経験者ということからすると、\n未経験者のわたしが...\n\n順番：1324\n正解：3\n\nことからすると\n= xét từ việc...\n\n実務経験者\n= người có kinh nghiệm thực tế\n\n未経験者\n= người chưa có kinh nghiệm","x":1341,"y":2146,"width":620,"height":380},
+		{"id":"0fb920710cb9608c","type":"text","text":"48．\n『わかる』という意味だったと思う。\n\n順番：2134\n正解：2\n\nという\n= gọi là / rằng\n\n～と思う\n= tôi nghĩ rằng\n\nだった\n= đã là","x":801,"y":2146,"width":480,"height":360},
+		{"id":"d3075eb77f7b5238","type":"text","text":"47．\n田中さんはいつも\n人のやることに文句を言うばかりで\n自分では何もしない。\n\n順番：3412\n正解：2\n\n～ばかりで\n= chỉ toàn...\n\n文句を言う\n= than phiền, càm ràm","x":101,"y":2146,"width":620,"height":360},
+		{"id":"7bbfff9d75dc6384","type":"text","text":"46．\nひとくちにカレーライス\nといっても、店によって材料はさまざまだ。\n\n順番：4132\n正解：3\n\nといっても\n= dù nói là...\n\n店によって\n= tùy từng cửa hàng","x":1481,"y":1626,"width":560,"height":340},
+		{"id":"615af8d43db23652","type":"text","text":"3 課の文法の練習問題を 2 解いた　3 ところ　4 まで　1 で 終わったよ。\n\n→ Câu hoàn chỉnh:\n\n3課の文法の練習問題を解いたところまでで終わったよ。\n\nGiải thích\n\nMẫu:\n\n〜ところまでで終わる\n= kết thúc ở chỗ / dừng lại ở đoạn ~\n\nỞ đây:\n\n解いたところ = chỗ đã giải\nまでで = đến đó thì dừng\n\n=>\n“Đã dừng ở phần giải bài tập ngữ pháp của bài 3.”\n\nDịch\n\nA: Buổi học tuần trước học tới đâu rồi?\nB: Đã học tới phần giải bài tập ngữ pháp của bài 3 thì kết thúc.","x":741,"y":880,"width":520,"height":600},
+		{"id":"2f4c2decc4a2f76b","type":"file","file":"N2文法/ところ・どころ/ところ.canvas","x":1509,"y":980,"width":400,"height":400},
+		{"id":"02bff9ca8b8c3e88","type":"text","text":"45．\n3課の文法の練習問題を\n『解いたところまでで』\n終わったよ。\n\n正しい順番：2341\n正解：1\n\n解いたところ\n= phần đã giải\n\n～までで\n= đến mức/phạm vi đó thì","x":161,"y":1140,"width":520,"height":340},
+		{"id":"433f6b80d16067a9","type":"file","file":"Pasted image 20260525004512.png","x":741,"y":1602,"width":400,"height":389}
+	],
+	"edges":[
+		{"id":"febf53fd810dce56","fromNode":"d3075eb77f7b5238","fromSide":"right","toNode":"0fb920710cb9608c","toSide":"left"},
+		{"id":"b10a150b49bb9d4f","fromNode":"615af8d43db23652","fromSide":"right","toNode":"2f4c2decc4a2f76b","toSide":"left"},
+		{"id":"4460c0de1f9db912","fromNode":"02bff9ca8b8c3e88","fromSide":"right","toNode":"615af8d43db23652","toSide":"left"}
+	]
+}

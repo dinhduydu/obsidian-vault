@@ -1,0 +1,341 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "# N2 読解語彙 - 努力・人生",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 80
+    },
+
+    {
+      "id": "v1",
+      "type": "text",
+      "text": "影響\n（えいきょう）\n\n= ảnh hưởng\n\n漢越:\n影 = ảnh\n響 = hưởng\n\n影響を与える\n= gây ảnh hưởng",
+      "x": 0,
+      "y": 120,
+      "width": 380,
+      "height": 260
+    },
+
+    {
+      "id": "v2",
+      "type": "text",
+      "text": "人生\n（じんせい）\n\n= cuộc đời\n\n人生に影響を与える\n= ảnh hưởng tới cuộc đời",
+      "x": 460,
+      "y": 120,
+      "width": 360,
+      "height": 220
+    },
+
+    {
+      "id": "v3",
+      "type": "text",
+      "text": "オリジナル\n( original )\n\n= nguyên gốc, do tự mình tạo ra",
+      "x": 900,
+      "y": 120,
+      "width": 320,
+      "height": 200
+    },
+
+    {
+      "id": "v4",
+      "type": "text",
+      "text": "たどり着く\n（たどりつく）\n\n= đi đến, đạt tới\n\n考え方にたどり着く\n= đi đến cách suy nghĩ đó",
+      "x": 1300,
+      "y": 120,
+      "width": 420,
+      "height": 240
+    },
+
+    {
+      "id": "v5",
+      "type": "text",
+      "text": "抵抗感\n（ていこうかん）\n\n= cảm giác phản kháng\n\n抵抗感がなくなる\n= không còn cảm giác chống đối",
+      "x": 0,
+      "y": 440,
+      "width": 420,
+      "height": 260
+    },
+
+    {
+      "id": "v6",
+      "type": "text",
+      "text": "ガリ勉\n（ガリべん）\n\n= học gạo, chỉ biết học\n\n勉 = miễn (勉強)",
+      "x": 500,
+      "y": 440,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v7",
+      "type": "text",
+      "text": "徒競走\n（ときょうそう）\n\n= chạy đua điền kinh\n\n徒 = đồ\n競 = cạnh\n走 = tẩu",
+      "x": 900,
+      "y": 440,
+      "width": 360,
+      "height": 240
+    },
+
+    {
+      "id": "v8",
+      "type": "text",
+      "text": "猛練習\n（もうれんしゅう）\n\n= luyện tập điên cuồng\n\n猛 = mãnh\n練習 = luyện tập",
+      "x": 1340,
+      "y": 440,
+      "width": 360,
+      "height": 240
+    },
+
+    {
+      "id": "v9",
+      "type": "text",
+      "text": "気恥ずかしい\n（きはずかしい）\n\n= ngượng ngùng\n\n努力が知られると気恥ずかしい",
+      "x": 0,
+      "y": 760,
+      "width": 420,
+      "height": 240
+    },
+
+    {
+      "id": "v10",
+      "type": "text",
+      "text": "心境\n（しんきょう）\n\n= tâm trạng\n\n複雑な心境\n= tâm trạng phức tạp",
+      "x": 500,
+      "y": 760,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v11",
+      "type": "text",
+      "text": "複雑\n（ふくざつ）\n\n= phức tạp\n\n漢越:\n複 = phục\n雑 = tạp",
+      "x": 920,
+      "y": 760,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v12",
+      "type": "text",
+      "text": "評価\n（ひょうか）\n\n= đánh giá\n\n評価が下がる\n= bị giảm đánh giá",
+      "x": 1320,
+      "y": 760,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v13",
+      "type": "text",
+      "text": "得意技\n（とくいわざ）\n\n= sở trường\n\n得意 = đắc ý\n技 = kỹ",
+      "x": 0,
+      "y": 1080,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v14",
+      "type": "text",
+      "text": "褒める\n（ほめる）\n\n= khen ngợi\n\n褒められる\n= được khen",
+      "x": 420,
+      "y": 1080,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v15",
+      "type": "text",
+      "text": "わざわざ\n\n= cố tình, cất công\n\nわざわざ否定する\n= cố tình phủ nhận",
+      "x": 820,
+      "y": 1080,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v16",
+      "type": "text",
+      "text": "否定\n（ひてい）\n\n= phủ định\n\n自分を否定する\n= phủ nhận bản thân",
+      "x": 1220,
+      "y": 1080,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v17",
+      "type": "text",
+      "text": "謙遜\n（けんそん）\n\n= khiêm tốn\n\n謙 = khiêm\n遜 = tốn",
+      "x": 0,
+      "y": 1400,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v18",
+      "type": "text",
+      "text": "無意識\n（むいしき）\n\n= vô thức\n\n無意識のバリア\n= rào cản vô thức",
+      "x": 400,
+      "y": 1400,
+      "width": 360,
+      "height": 240
+    },
+
+    {
+      "id": "v19",
+      "type": "text",
+      "text": "〜になりかねない\n\n= có nguy cơ trở thành\n\n危険になりかねない\n= có thể trở nên nguy hiểm",
+      "x": 840,
+      "y": 1400,
+      "width": 420,
+      "height": 240
+    },
+
+    {
+      "id": "v20",
+      "type": "text",
+      "text": "積極的\n（せっきょくてき）\n\n= tích cực\n\n積極的に取り入れる\n= chủ động áp dụng",
+      "x": 1340,
+      "y": 1400,
+      "width": 380,
+      "height": 240
+    },
+
+    {
+      "id": "v21",
+      "type": "text",
+      "text": "プロセス\n( process )\n\n= quá trình",
+      "x": 0,
+      "y": 1720,
+      "width": 280,
+      "height": 180
+    },
+
+    {
+      "id": "v22",
+      "type": "text",
+      "text": "客観視\n（きゃっかんし）\n\n= nhìn khách quan\n\n客観 = khách quan\n視 = thị",
+      "x": 360,
+      "y": 1720,
+      "width": 360,
+      "height": 240
+    },
+
+    {
+      "id": "v23",
+      "type": "text",
+      "text": "測定\n（そくてい）\n\n= đo lường\n\n努力を測定する\n= đo lường nỗ lực",
+      "x": 800,
+      "y": 1720,
+      "width": 360,
+      "height": 220
+    },
+
+    {
+      "id": "v24",
+      "type": "text",
+      "text": "主観\n（しゅかん）\n\n= chủ quan\n\n努力は主観である\n= nỗ lực mang tính chủ quan",
+      "x": 1240,
+      "y": 1720,
+      "width": 360,
+      "height": 240
+    },
+
+    {
+      "id": "v25",
+      "type": "text",
+      "text": "時間換算\n（じかんかんさん）\n\n= quy đổi theo thời gian\n\n換算 = hoán toán",
+      "x": 0,
+      "y": 2040,
+      "width": 360,
+      "height": 220
+    },
+
+    {
+      "id": "v26",
+      "type": "text",
+      "text": "堂々と\n（どうどうと）\n\n= đường đường chính chính\n\n堂々と言う\n= nói đầy tự tin",
+      "x": 440,
+      "y": 2040,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v27",
+      "type": "text",
+      "text": "顧客\n（こきゃく）\n\n= khách hàng\n\n顧 = cố\n客 = khách",
+      "x": 860,
+      "y": 2040,
+      "width": 320,
+      "height": 220
+    },
+
+    {
+      "id": "v28",
+      "type": "text",
+      "text": "リポート\n( report )\n\n= báo cáo",
+      "x": 1260,
+      "y": 2040,
+      "width": 260,
+      "height": 180
+    },
+
+    {
+      "id": "v29",
+      "type": "text",
+      "text": "有限\n（ゆうげん）\n\n= hữu hạn\n\n時間が有限\n= thời gian là hữu hạn",
+      "x": 0,
+      "y": 2340,
+      "width": 340,
+      "height": 220
+    },
+
+    {
+      "id": "v30",
+      "type": "text",
+      "text": "魔法\n（まほう）\n\n= ma pháp\n\n魔法の言葉\n= câu nói kỳ diệu",
+      "x": 420,
+      "y": 2340,
+      "width": 320,
+      "height": 220
+    }
+  ],
+
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "v1",
+      "toNode": "v2"
+    },
+    {
+      "id": "e2",
+      "fromNode": "v9",
+      "toNode": "v12"
+    },
+    {
+      "id": "e3",
+      "fromNode": "v17",
+      "toNode": "v19"
+    },
+    {
+      "id": "e4",
+      "fromNode": "v22",
+      "toNode": "v23"
+    },
+    {
+      "id": "e5",
+      "fromNode": "v24",
+      "toNode": "v25"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# N2 読解語彙 - メモ・ノート","x":0,"y":0,"width":420,"height":80},
+		{"id":"v1","type":"text","text":"社内\n（しゃない）\n\n= trong công ty\n\n社 = xã\n内 = nội","x":0,"y":120,"width":300,"height":220},
+		{"id":"v2","type":"text","text":"ビジネスマン\n( businessman )\n\n= doanh nhân / nhân viên kinh doanh","x":360,"y":120,"width":340,"height":200},
+		{"id":"v3","type":"text","text":"人脈\n（じんみゃく）\n\n= mối quan hệ xã hội\n\n漢越:\n人 = nhân\n脈 = mạch\n\n人脈が広がる\n= mở rộng quan hệ","x":760,"y":120,"width":420,"height":260},
+		{"id":"v4","type":"text","text":"講演会\n（こうえんかい）\n\n= buổi diễn thuyết\n\n講演 = giảng diễn\n会 = hội","x":1240,"y":120,"width":360,"height":240},
+		{"id":"v5","type":"text","text":"自己を磨く\n（じこ を みがく）\n\n= trau dồi bản thân\n\n磨く = mài giũa","x":0,"y":440,"width":360,"height":240},
+		{"id":"v6","type":"text","text":"意外と\n（いがいと）\n\n= ngoài dự đoán\n\n意外と多い\n= nhiều hơn tưởng tượng","x":420,"y":440,"width":320,"height":220},
+		{"id":"v7","type":"text","text":"聞きっぱなし\n（ききっぱなし）\n\n= nghe xong để đó\n\n〜っぱなし\n= để nguyên trạng thái","x":800,"y":440,"width":360,"height":240},
+		{"id":"v8","type":"text","text":"的確\n（てきかく）\n\n= chính xác\n\n漢越:\n的 = đích\n確 = xác\n\n的確にメモする","x":1220,"y":440,"width":360,"height":240},
+		{"id":"v9","type":"text","text":"漫然と\n（まんぜんと）\n\n= mơ hồ, không chú ý\n\n漫 = mạn\n然 = nhiên","x":0,"y":780,"width":320,"height":220},
+		{"id":"v10","type":"text","text":"核心\n（かくしん）\n\n= cốt lõi\n\n漢越:\n核 = hạch\n心 = tâm\n\n核心が見える\n= thấy được cốt lõi","x":380,"y":780,"width":360,"height":240},
+		{"id":"v11","type":"text","text":"ライフスタイル\n( lifestyle )\n\n= lối sống","x":800,"y":780,"width":300,"height":200},
+		{"id":"v12","type":"text","text":"同郷\n（どうきょう）\n\n= đồng hương\n\n同 = đồng\n郷 = hương","x":1160,"y":780,"width":320,"height":220},
+		{"id":"v13","type":"text","text":"一字一句\n（いちじいっく）\n\n= từng chữ từng câu\n\n一字一句ノートする\n= ghi từng chữ từng câu","x":0,"y":1100,"width":420,"height":240},
+		{"id":"v14","type":"text","text":"教授\n（きょうじゅ）\n\n= giáo sư\n\n教授のことば\n= lời của giáo sư","x":500,"y":1100,"width":320,"height":220},
+		{"id":"v15","type":"text","text":"愚\n（ぐ）\n\n= ngu ngốc\n\n愚だ\n= thật ngốc","x":900,"y":1100,"width":260,"height":200},
+		{"id":"v16","type":"text","text":"戦前\n（せんぜん）\n\n= trước chiến tranh\n\n戦 = chiến\n前 = tiền","x":1240,"y":1100,"width":300,"height":220},
+		{"id":"v17","type":"text","text":"常識\n（じょうしき）\n\n= lẽ thường\n\n常 = thường\n識 = thức\n\n常識である\n= là điều bình thường","x":0,"y":1420,"width":340,"height":220},
+		{"id":"v18","type":"text","text":"筆記\n（ひっき）\n\n= ghi chép\n\n筆 = bút\n記 = ký\n\n筆記に便利\n= tiện để ghi chép","x":420,"y":1420,"width":360,"height":240},
+		{"id":"v19","type":"text","text":"記入\n（きにゅう）\n\n= ghi vào\n\n記入する\n= điền / ghi vào","x":860,"y":1420,"width":320,"height":220},
+		{"id":"v20","type":"text","text":"印象\n（いんしょう）\n\n= ấn tượng\n\n印象に残る\n= để lại ấn tượng","x":1260,"y":1420,"width":340,"height":220},
+		{"id":"v21","type":"text","text":"気をとられる\n（きをとられる）\n\n= bị phân tâm\n\n字を書くことに気をとられる","x":0,"y":1740,"width":420,"height":240},
+		{"id":"v22","type":"text","text":"内容\n（ないよう）\n\n= nội dung\n\n内容に注意が向く\n= chú ý vào nội dung","x":500,"y":1740,"width":380,"height":240}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"v3","toNode":"v5","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"v8","toNode":"v10","fromSide":"left","toSide":"right"},
+		{"id":"e3","fromNode":"v13","toNode":"v19","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"v21","toNode":"v22","fromSide":"right","toSide":"left"}
+	]
+}
