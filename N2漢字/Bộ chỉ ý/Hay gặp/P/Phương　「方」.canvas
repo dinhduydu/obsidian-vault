@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"88a73c5215e6f84d","x":-95,"y":-23,"width":250,"height":60,"type":"text","text":"Phương　「方」"}
+		{"id":"88a73c5215e6f84d","type":"text","text":"Phương　「方」","x":-95,"y":-23,"width":250,"height":60},
+		{"id":"c413c8d7fdb4372e","x":296,"y":-138,"width":250,"height":60,"type":"text","text":"防ぐ　「ふせぐ」： Phòng bị"},
+		{"id":"ae681130c00f129a","x":640,"y":-360,"width":400,"height":240,"type":"file","file":"Pasted image 20260526002752.png"},
+		{"id":"5ab0edccefc710ce","x":1212,"y":-332,"width":250,"height":60,"type":"text","text":"gò đất, xây đê đập để nước ko chảy sang tứ phương"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"15150b2e78376289","fromNode":"88a73c5215e6f84d","fromSide":"right","toNode":"c413c8d7fdb4372e","toSide":"left"},
+		{"id":"c35df524d0eefa04","fromNode":"c413c8d7fdb4372e","fromSide":"right","toNode":"ae681130c00f129a","toSide":"left"},
+		{"id":"e98f4ed7870856c5","fromNode":"ae681130c00f129a","fromSide":"right","toNode":"5ab0edccefc710ce","toSide":"left"}
+	]
 }

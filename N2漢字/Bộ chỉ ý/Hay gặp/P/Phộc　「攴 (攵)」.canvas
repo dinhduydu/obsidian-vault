@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"afdf3fa7c2ecc46b","x":-93,"y":-13,"width":250,"height":60,"type":"text","text":"Phộc　「攴 (攵)」"}
+		{"id":"afdf3fa7c2ecc46b","type":"text","text":"Phộc　「攴 (攵)」","x":-93,"y":-13,"width":250,"height":60},
+		{"id":"f5755e74d943bd3c","x":297,"y":-97,"width":303,"height":60,"type":"text","text":"整　「ととの・える／せい」： Chỉnh"},
+		{"id":"64cb2e71b0669ce7","x":760,"y":-191,"width":546,"height":124,"type":"text","text":"có thể phân tích thành nhiều thành phần như sau:\n\n束（bó, gom lại）\n攵（ぼくづくり — bộ phộc, liên quan hành động/đánh/chỉnh sửa）\n正（đúng đắn, ngay ngắn）"},
+		{"id":"d67553a9b742a358","x":760,"y":89,"width":462,"height":243,"type":"text","text":"### Nhìn theo cấu trúc\n\n```\n整= 束 + 攵 + 正\n```\n\nTrong đó:\n\n- **攵** là bộ thủ chính khi tra từ điển  \n    → gọi là **ぼくづくり（攵）**"},
+		{"id":"900b816efca2866d","x":1522,"y":47,"width":250,"height":545,"type":"text","text":"### Ý nghĩa gợi nhớ\n\n- gom lại (**束**)\n- chỉnh sửa/tác động (**攵**)\n- để trở nên ngay ngắn, đúng đắn (**正**)\n\n⇒ nghĩa tổng thể:\n\n- sắp xếp\n- chỉnh đốn\n- làm cho ngăn nắp / chuẩn chỉnh\n\nVí dụ:\n\n- 整える（ととのえる）: sắp xếp, chỉnh đốn\n- 整理（せいり）: chỉnh lý, dọn dẹp\n- 整う（ととのう）: được sắp xếp ổn thỏa"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8d49fb146311cb8d","fromNode":"afdf3fa7c2ecc46b","fromSide":"right","toNode":"f5755e74d943bd3c","toSide":"left"},
+		{"id":"da2842447d42b64e","fromNode":"f5755e74d943bd3c","fromSide":"right","toNode":"64cb2e71b0669ce7","toSide":"left"},
+		{"id":"e857fe92e145df67","fromNode":"f5755e74d943bd3c","fromSide":"right","toNode":"d67553a9b742a358","toSide":"left"},
+		{"id":"aa0ce6bf2980904d","fromNode":"d67553a9b742a358","fromSide":"right","toNode":"900b816efca2866d","toSide":"left"}
+	]
 }

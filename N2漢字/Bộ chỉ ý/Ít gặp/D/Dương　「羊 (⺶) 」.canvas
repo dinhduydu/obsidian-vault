@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"0e6cbb83b2b5a0f6","x":-160,"y":-13,"width":250,"height":60,"type":"text","text":"Dương　「羊 (⺶) 」"}
+		{"id":"0e6cbb83b2b5a0f6","type":"text","text":"Dương　「羊 (⺶) 」","x":-160,"y":-13,"width":250,"height":60},
+		{"id":"77da2f3e2305e509","x":300,"y":-213,"width":372,"height":400,"type":"file","file":"Pasted image 20260526004014.png"},
+		{"id":"2fa9bf9b1352336a","x":-673,"y":-108,"width":250,"height":60,"type":"text","text":"Dương - Cừu, chỉ cái gì đó đẹp đẽ"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fd617b02b94bdd08","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"77da2f3e2305e509","toSide":"left"},
+		{"id":"8cba8349bc0feb3c","fromNode":"0e6cbb83b2b5a0f6","fromSide":"left","toNode":"2fa9bf9b1352336a","toSide":"right"}
+	]
 }

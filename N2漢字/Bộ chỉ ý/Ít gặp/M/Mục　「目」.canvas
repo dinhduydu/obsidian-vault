@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"dfaa480d9dab1e5f","x":-111,"y":-69,"width":250,"height":60,"type":"text","text":"Mục　「目」"}
+		{"id":"dfaa480d9dab1e5f","type":"text","text":"Mục　「目」","x":-111,"y":-69,"width":250,"height":60},
+		{"id":"508f5e829cf8fbf8","type":"text","text":"相 = tương","x":240,"y":-140,"width":250,"height":60},
+		{"id":"3e92805bbcf523a6","type":"text","text":"hướng đến đối tượng mà mắt mình nhìn đến","x":645,"y":-236,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"378d584e1b086af6","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"508f5e829cf8fbf8","toSide":"left"},
+		{"id":"5ca6fe2e242bc1eb","fromNode":"508f5e829cf8fbf8","fromSide":"right","toNode":"3e92805bbcf523a6","toSide":"left"}
+	]
 }

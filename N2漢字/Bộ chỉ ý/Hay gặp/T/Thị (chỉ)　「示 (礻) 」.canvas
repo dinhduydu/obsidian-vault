@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"7fb4176a9289dc09","x":-236,"y":-18,"width":250,"height":60,"type":"text","text":"Thị (chỉ)　「示 (礻) 」"}
+		{"id":"7fb4176a9289dc09","type":"text","text":"Thị (chỉ)　「示 (礻) 」","x":-236,"y":-18,"width":250,"height":60},
+		{"id":"2c236641a32a4006","x":220,"y":-354,"width":400,"height":396,"type":"file","file":"Pasted image 20260526003823.png"},
+		{"id":"cb69bbc52327f398","x":-859,"y":-177,"width":250,"height":60,"type":"text","text":"chỉ thần thánh"},
+		{"id":"9885345525516b37","x":833,"y":-285,"width":250,"height":60,"type":"text","text":"礼　「れい」： chỉ đồ cúng, dâng lễ cho thần thánh"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"2c236641a32a4006","toSide":"left"},
+		{"id":"8a2012731dfccdd3","fromNode":"7fb4176a9289dc09","fromSide":"left","toNode":"cb69bbc52327f398","toSide":"right"},
+		{"id":"48363219fa330c23","fromNode":"2c236641a32a4006","fromSide":"right","toNode":"9885345525516b37","toSide":"left"}
+	]
 }

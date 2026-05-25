@@ -1,17 +1,27 @@
 {
 	"nodes":[
+		{"id":"9e5de16ad3d1b286","x":1287,"y":-644,"width":400,"height":400,"type":"file","file":"N2漢字/24052026/問題 1.canvas"},
 		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火 (灬)」","x":-198,"y":-26,"width":250,"height":60},
 		{"id":"53532e7dedb3fb31","type":"text","text":"淡い","x":221,"y":-123,"width":250,"height":60},
 		{"id":"2632dd9d77318c1f","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas","x":640,"y":-123,"width":222,"height":65},
-		{"id":"707740992dec6508","type":"text","text":"焦","x":224,"y":94,"width":250,"height":60},
-		{"id":"9d61f1c94e309817","x":668,"y":44,"width":372,"height":236,"type":"text","text":"Chữ 焦 gồm:\n\n- 隹（chim đuôi ngắn）\n- 灬（lửa）\n\nHình ảnh gốc:\n\n> con chim bị lửa đốt cháy"},
-		{"id":"1db401bfb2204670","x":1263,"y":49,"width":477,"height":431,"type":"text","text":"→ nghĩa gốc:\n\n- cháy khét\n- bị nung nóng\n\nTừ đó phát triển thành:\n\n- nóng ruột\n- sốt ruột\n- cuống lên\n\nNên:\n\n- 焦る（あせる）= lo cuống, hấp tấp, sốt ruột\n\nLiên tưởng:\n\n> trong lòng như bị “thiêu đốt” nên mất bình tĩnh."}
+		{"id":"707740992dec6508","type":"text","text":"焦 - Tiêu","x":224,"y":94,"width":250,"height":60},
+		{"id":"9d61f1c94e309817","type":"text","text":"Chữ 焦 gồm:\n\n- 隹（chim đuôi ngắn）\n- 灬（lửa）\n\nHình ảnh gốc:\n\n> con chim bị lửa đốt cháy","x":668,"y":44,"width":372,"height":236},
+		{"id":"1db401bfb2204670","type":"text","text":"→ nghĩa gốc:\n\n- cháy khét\n- bị nung nóng\n\nTừ đó phát triển thành:\n\n- nóng ruột\n- sốt ruột\n- cuống lên\n\nNên:\n\n- 焦る（あせる）= lo cuống, hấp tấp, sốt ruột\n\nLiên tưởng:\n\n> trong lòng như bị “thiêu đốt” nên mất bình tĩnh.","x":1263,"y":49,"width":477,"height":431},
+		{"id":"68ff4cf40292804d","x":200,"y":-356,"width":250,"height":60,"type":"text","text":"災い　「わざわい」： Tai"},
+		{"id":"74dcfbedbfa8f811","x":595,"y":-524,"width":250,"height":168,"type":"text","text":"![[Pasted image 20260526002922.png]]"},
+		{"id":"8711facd68f77275","x":928,"y":-577,"width":250,"height":97,"type":"text","text":"災害　「さいがい」： chỉ rủi ro thiên tai, tai nạn, hoả hoạn"},
+		{"id":"533018ce4f851e85","x":935,"y":-418,"width":250,"height":60,"type":"text","text":"防災　「ぼうさい」："}
 	],
 	"edges":[
 		{"id":"5ddc7b2bc725bd10","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"53532e7dedb3fb31","toSide":"left"},
 		{"id":"60b130909a2b4903","fromNode":"53532e7dedb3fb31","fromSide":"right","toNode":"2632dd9d77318c1f","toSide":"left"},
 		{"id":"7fdef10512886e31","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"707740992dec6508","toSide":"left"},
 		{"id":"46cde4d4e67f4624","fromNode":"707740992dec6508","fromSide":"right","toNode":"9d61f1c94e309817","toSide":"left"},
-		{"id":"5f59d48b49ab607c","fromNode":"9d61f1c94e309817","fromSide":"right","toNode":"1db401bfb2204670","toSide":"left"}
+		{"id":"5f59d48b49ab607c","fromNode":"9d61f1c94e309817","fromSide":"right","toNode":"1db401bfb2204670","toSide":"left"},
+		{"id":"96f238456e0cc759","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"68ff4cf40292804d","toSide":"left"},
+		{"id":"cca5853ff439c1a2","fromNode":"68ff4cf40292804d","fromSide":"right","toNode":"74dcfbedbfa8f811","toSide":"left"},
+		{"id":"8accfef64960569f","fromNode":"74dcfbedbfa8f811","fromSide":"right","toNode":"8711facd68f77275","toSide":"left"},
+		{"id":"10c55176de2da51b","fromNode":"74dcfbedbfa8f811","fromSide":"right","toNode":"533018ce4f851e85","toSide":"left"},
+		{"id":"2059ae299ba6fb80","fromNode":"533018ce4f851e85","fromSide":"right","toNode":"9e5de16ad3d1b286","toSide":"left"}
 	]
 }

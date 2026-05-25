@@ -1,9 +1,27 @@
 {
 	"nodes":[
 		{"id":"e49a2179021967a8","type":"text","text":"Mộc　「木」","x":-171,"y":-26,"width":250,"height":60},
-		{"id":"c98dad198456b80a","x":-580,"y":-212,"width":250,"height":186,"type":"text","text":"### 村（そん／むら）\n\n- Bộ thủ: **木（き）** — bộ Mộc\n- Nghĩa: làng"}
+		{"id":"c98dad198456b80a","type":"text","text":"### 村（そん／むら）\n\n- Bộ thủ: **木（き）** — bộ Mộc\n- Nghĩa: làng","x":-580,"y":-212,"width":250,"height":186},
+		{"id":"1cd0a188e0efd806","type":"text","text":"相 = tương","x":180,"y":-200,"width":250,"height":60},
+		{"id":"96cdd6962a2ee9ac","type":"file","file":"N2漢字/Bộ chỉ ý/Ít gặp/M/Mục　「目」.canvas","x":30,"y":-800,"width":400,"height":400},
+		{"id":"c291e535d68c59ee","x":197,"y":-22,"width":250,"height":60,"type":"text","text":"札　「ふだ」： Trát"},
+		{"id":"9d39aba07e399b1c","x":560,"y":-148,"width":400,"height":313,"type":"file","file":"Pasted image 20260526003253.png"},
+		{"id":"737e196040119583","x":1085,"y":-51,"width":250,"height":60,"type":"text","text":"mô tả miếng gỗ để người ta khắc tên, đề tên"},
+		{"id":"aaea6dd0547739e5","x":1440,"y":-100,"width":250,"height":60,"type":"text","text":"表札　「ひょうさつ」： bảng tên ngoài công ty"},
+		{"id":"395c4efda6d5b61b","x":1100,"y":84,"width":250,"height":60,"type":"text","text":"tiền, vé, thẻ"},
+		{"id":"d27e09b9893e90d6","x":1427,"y":59,"width":250,"height":60,"type":"text","text":"偽札　「にせさつ」：tiền giả"},
+		{"id":"33a8e6b8e7188e2e","x":1436,"y":143,"width":250,"height":60,"type":"text","text":"改札　「かいさつ」： nơi soát vé ra vào ở tàu"}
 	],
 	"edges":[
-		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"}
+		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},
+		{"id":"cc995303cc726a52","fromNode":"96cdd6962a2ee9ac","fromSide":"bottom","toNode":"1cd0a188e0efd806","toSide":"top"},
+		{"id":"3d4cd74cd50ab871","fromNode":"e49a2179021967a8","fromSide":"right","toNode":"1cd0a188e0efd806","toSide":"left"},
+		{"id":"0e80230bc6234764","fromNode":"e49a2179021967a8","fromSide":"right","toNode":"c291e535d68c59ee","toSide":"left"},
+		{"id":"caffdd48b5853717","fromNode":"c291e535d68c59ee","fromSide":"right","toNode":"9d39aba07e399b1c","toSide":"left"},
+		{"id":"2ffb70b0b3eab536","fromNode":"9d39aba07e399b1c","fromSide":"right","toNode":"737e196040119583","toSide":"left"},
+		{"id":"e9b733db2f5c6e72","fromNode":"737e196040119583","fromSide":"right","toNode":"aaea6dd0547739e5","toSide":"left"},
+		{"id":"5f92e588b8705038","fromNode":"9d39aba07e399b1c","fromSide":"right","toNode":"395c4efda6d5b61b","toSide":"left"},
+		{"id":"78de06127e07f017","fromNode":"395c4efda6d5b61b","fromSide":"right","toNode":"d27e09b9893e90d6","toSide":"left"},
+		{"id":"212498b1ba3b6f66","fromNode":"395c4efda6d5b61b","fromSide":"right","toNode":"33a8e6b8e7188e2e","toSide":"left"}
 	]
 }

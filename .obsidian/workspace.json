@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/24052026/問題１２.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
                 "viewState": {
-                  "x": 800,
-                  "y": 990,
-                  "zoom": -1.1909427827113954
+                  "x": 292.20220990188386,
+                  "y": 2008.1749559001626,
+                  "zoom": -0.8791456051256148
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "問題１２"
+              "title": "Nhật　「日」"
             }
           }
         ]
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2漢字/N2漢字.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from N2漢字"
+              "title": "Outgoing links from Nhật　「日」"
             }
           },
           {
@@ -145,21 +145,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/24052026/問題１２.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": "ほし"
               },
               "icon": "lucide-list",
-              "title": "Outline of 問題１２"
+              "title": "Outline of Nhật　「日」"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,28 +175,28 @@
   },
   "active": "dca417d0165a233c",
   "lastOpenFiles": [
-    "N2漢字/24052026/問題１４.canvas",
-    "N2漢字/24052026/問題１３ copy.canvas",
-    "N2漢字/24052026/問題１３.canvas",
-    "N2漢字/24052026/問題１２ copy.canvas",
-    "N2漢字/24052026/問題６.canvas",
-    "N2漢字/24052026/問題８.canvas",
-    "N2漢字/24052026/問題１２.canvas",
-    "N2漢字/24052026/問題１１.canvas",
-    "N2漢字/24052026/問題１１ copy.canvas",
-    "N2漢字/24052026/問題10.canvas",
-    "N2漢字/24052026/問題10 copy.canvas",
+    "Pasted image 20260526004417.png",
+    "N2漢字/Bộ chỉ ý/Ít gặp/D/Dương　「羊 (⺶) 」.canvas",
+    "Pasted image 20260526004014.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+    "Pasted image 20260526003823.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mộc　「木」.canvas",
+    "Pasted image 20260526003253.png",
+    "N2漢字/24052026/問題２.canvas",
+    "N2漢字/24052026/問題 1.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoả　「火 (灬)」.canvas",
+    "Pasted image 20260526002922.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hoà　「禾」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/P/Phương　「方」.canvas",
+    "Pasted image 20260526002752.png",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/P/Phộc　「攴 (攵)」.canvas",
+    "Pasted image 20260526001933.png",
+    "Pasted image 20260526001423.png",
     "Pasted image 20260525004512.png",
     "Pasted image 20260525004459.png",
     "Pasted image 20260525004447.png",
-    "Pasted image 20260525004441.png",
-    "Pasted image 20260525004238.png",
-    "Pasted image 20260525002223.png",
-    "Pasted image 20260525002206.png",
     "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
-    "Pasted image 20260525001707.png",
-    "Pasted image 20260525001635.png",
-    "Pasted image 20260525000348.png",
     "N2漢字/24052026",
     "N2文法/助詞/に",
     "N2文法/助詞/LAYOUT_README.md",

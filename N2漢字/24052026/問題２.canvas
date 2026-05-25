@@ -17,7 +17,8 @@
 		{"id":"0bd98b5adcd0de03","type":"text","text":"Ví dụ:\n\n焦らないでください。\n= Xin đừng nóng vội.\n\n試験で焦った。\n= Tôi cuống lên trong bài thi.\n\n子どもが暴れている。\n= Đứa trẻ đang quậy phá.\n\n酔っぱらって暴れる。\n= Say rượu rồi làm loạn.\n\nMẹo nhớ:\n焦 = lửa cháy bên trong → cuống, sốt ruột\n暴 = bạo lực → quậy phá","x":-176,"y":1640,"width":520,"height":420},
 		{"id":"24d7f3139d04d9aa","type":"text","text":"Ví dụ:\n\n礼儀正しい人\n（れいぎただしいひと）\n= người lễ phép\n\n礼儀を守る\n= giữ phép lịch sự\n\n義理（ぎり）\n= nghĩa vụ, tình nghĩa\n\n正義（せいぎ）\n= chính nghĩa\n\nMẹo nhớ:\n儀 → nghi thức → cách cư xử\n=> 礼儀 = lễ nghi = lịch sự","x":-136,"y":940,"width":500,"height":440},
 		{"id":"943c9a047aca6e87","type":"text","text":"比較：3 礼義 vs 4 礼儀\n\n礼（れい）\n漢越：lễ\n→ lễ phép, phép tắc\n\n義（ぎ）\n漢越：nghĩa\n→ chính nghĩa, đạo nghĩa\n\n儀（ぎ）\n漢越：nghi\n→ nghi thức, quy tắc, tác phong\n\n礼義 = lễ nghĩa\n→ thiên về đạo đức, nhân nghĩa\n\n礼儀 = lễ nghi\n→ cách cư xử, phép lịch sự\n→ đây mới là từ dùng thường xuyên trong tiếng Nhật","x":-756,"y":940,"width":560,"height":480},
-		{"id":"2349430e0fb2f568","type":"text","text":"Mẹo nhớ\n焦 → “lửa đốt” ⇒ nóng ruột, cuống\n暴 → “phơi bày dữ dội” ⇒ bạo, dữ, mất kiểm soát","x":-1240,"y":502,"width":293,"height":171}
+		{"id":"2349430e0fb2f568","type":"text","text":"Mẹo nhớ\n焦 → “lửa đốt” ⇒ nóng ruột, cuống\n暴 → “phơi bày dữ dội” ⇒ bạo, dữ, mất kiểm soát","x":-1240,"y":502,"width":293,"height":171},
+		{"id":"bfb650d86b9c7da1","type":"text","text":"Chỉ người lịch sự, có cách ứng xử lịch sự","x":-1216,"y":1240,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9e3f6a839d696eee","fromNode":"q6","fromSide":"left","toNode":"bcaa10835eda6a45","toSide":"top","label":"儀"},
@@ -30,6 +31,7 @@
 		{"id":"051e7ad7cae4f88e","fromNode":"3fd1a80194bdda24","fromSide":"bottom","toNode":"e5c00cc58f101f60","toSide":"top"},
 		{"id":"8fb7ac69b8fc65fd","fromNode":"3fd1a80194bdda24","fromSide":"left","toNode":"99d5dc05a0b92b58","toSide":"right"},
 		{"id":"f5fff30b47aa307e","fromNode":"bcaa10835eda6a45","fromSide":"bottom","toNode":"943c9a047aca6e87","toSide":"top"},
-		{"id":"0f4190ef143602e0","fromNode":"bcaa10835eda6a45","fromSide":"left","toNode":"2349430e0fb2f568","toSide":"right"}
+		{"id":"0f4190ef143602e0","fromNode":"bcaa10835eda6a45","fromSide":"left","toNode":"2349430e0fb2f568","toSide":"right"},
+		{"id":"fd5bfdfaea00bb84","fromNode":"d97b6c462df89f8e","fromSide":"bottom","toNode":"bfb650d86b9c7da1","toSide":"top","label":"礼儀正しい"}
 	]
 }

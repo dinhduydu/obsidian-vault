@@ -17,7 +17,7 @@
 		{"id":"v14","type":"text","text":"教授\n（きょうじゅ）\n\n= giáo sư\n\n教授のことば\n= lời của giáo sư","x":500,"y":1100,"width":320,"height":220},
 		{"id":"v15","type":"text","text":"愚\n（ぐ）\n\n= ngu ngốc\n\n愚だ\n= thật ngốc","x":900,"y":1100,"width":260,"height":200},
 		{"id":"v16","type":"text","text":"戦前\n（せんぜん）\n\n= trước chiến tranh\n\n戦 = chiến\n前 = tiền","x":1240,"y":1100,"width":300,"height":220},
-		{"id":"v17","type":"text","text":"常識\n（じょうしき）\n\n= lẽ thường\n\n常 = thường\n識 = thức\n\n常識である\n= là điều bình thường","x":0,"y":1420,"width":340,"height":220},
+		{"id":"v17","type":"text","text":"常識\n（じょうしき）\n\n= lẽ thường\n\n常 = thường\n識 = thức\n\n常識である\n= là điều bình thường","x":0,"y":1420,"width":340,"height":240},
 		{"id":"v18","type":"text","text":"筆記\n（ひっき）\n\n= ghi chép\n\n筆 = bút\n記 = ký\n\n筆記に便利\n= tiện để ghi chép","x":420,"y":1420,"width":360,"height":240},
 		{"id":"v19","type":"text","text":"記入\n（きにゅう）\n\n= ghi vào\n\n記入する\n= điền / ghi vào","x":860,"y":1420,"width":320,"height":220},
 		{"id":"v20","type":"text","text":"印象\n（いんしょう）\n\n= ấn tượng\n\n印象に残る\n= để lại ấn tượng","x":1260,"y":1420,"width":340,"height":220},
@@ -25,9 +25,9 @@
 		{"id":"v22","type":"text","text":"内容\n（ないよう）\n\n= nội dung\n\n内容に注意が向く\n= chú ý vào nội dung","x":500,"y":1740,"width":380,"height":240}
 	],
 	"edges":[
-		{"id":"e1","fromNode":"v3","toNode":"v5","fromSide":"left","toSide":"right"},
-		{"id":"e2","fromNode":"v8","toNode":"v10","fromSide":"left","toSide":"right"},
-		{"id":"e3","fromNode":"v13","toNode":"v19","fromSide":"right","toSide":"left"},
-		{"id":"e4","fromNode":"v21","toNode":"v22","fromSide":"right","toSide":"left"}
+		{"id":"e1","fromNode":"v3","fromSide":"left","toNode":"v5","toSide":"right"},
+		{"id":"e2","fromNode":"v8","fromSide":"left","toNode":"v10","toSide":"right"},
+		{"id":"e3","fromNode":"v13","fromSide":"right","toNode":"v19","toSide":"left"},
+		{"id":"e4","fromNode":"v21","fromSide":"right","toNode":"v22","toSide":"left"}
 	]
 }
