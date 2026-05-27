@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"word1","type":"text","text":"# 薄汚い（うすぎたない）\n\n🧹 Có chút bẩn\n\n📚 Hán Việt:\n- 薄 = bạc / nhạt\n- 汚 = ô\n\n## Tách nghĩa\n- 薄 = hơi, có chút\n- 汚い = bẩn\n\n💡 Hình dung:\nKhông quá dơ nhưng nhìn hơi bẩn","x":-120,"y":130,"width":380,"height":420},
+		{"id":"center","type":"text","text":"# 薄～（うす～）\n\n📚 Hán Việt: BẠC（薄）\n\n🌫️ Ý nghĩa trung tâm:\nCó chút • Hơi • Nhạt • Mỏng\n\n📌 Mang sắc thái:\n- mức độ nhẹ\n- không mạnh hoàn toàn\n- hơi mang tính tiêu cực","x":400,"y":170,"width":460,"height":340},
+		{"id":"word2","type":"text","text":"# 薄暗い（うすぐらい）\n\n🌑 Hơi tối, âm u\n\n📚 Hán Việt:\n- 薄 = bạc / nhạt\n- 暗 = ám\n\n## Tách nghĩa\n- 薄 = hơi\n- 暗い = tối\n\n💡 Hình dung:\nCăn phòng thiếu ánh sáng nhẹ","x":960,"y":125,"width":380,"height":430},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 薄 + Tính từ\n→ Mang nghĩa:\n『hơi ~』 hoặc 『có chút ~』\n\nVí dụ:\n- 薄笑い = cười nhạt\n- 薄気味悪い = hơi rùng rợn\n- 薄黄色 = vàng nhạt\n\n📌 Thường tạo cảm giác mờ nhạt / nhẹ","x":350,"y":-340,"width":560,"height":340},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 薄 originally mang nghĩa:\n- mỏng\n- nhạt\n\n➡️ Từ đó mở rộng thành:\n『không hoàn toàn mạnh』\n\nVí dụ:\n- ánh sáng mỏng → hơi tối\n- độ sạch thấp → hơi bẩn","x":370,"y":580,"width":520,"height":360}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

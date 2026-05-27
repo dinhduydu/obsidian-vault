@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/M/Mạc　「莫」.canvas",
+                "file": "N2漢字/Tiền tố, hậu tố/接頭辞/大 - Đại.canvas",
                 "viewState": {
-                  "x": 907.5263582728498,
-                  "y": -148.0201845601681,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 710,
+                  "y": 285.43396226415086,
+                  "zoom": -0.8469883814940343
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mạc　「莫」"
+              "title": "大 - Đại"
             }
           }
         ]
@@ -175,22 +175,25 @@
   },
   "active": "dca417d0165a233c",
   "lastOpenFiles": [
-    "N2漢字/Bộ chỉ ý/Ít gặp/L/Long　「龍」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/M/Mạc　「莫」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/L/Lỗi　「耒」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/M/Mã　「馬」.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/薄 - Bạc.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/大 - Đại.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/絵 - Hội Hoạ.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Untitled.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/一 - Nhất.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/幾 - Kí.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/悪 - Ác.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/異 - Dị.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/空 - Không.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/ある.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/あくる.canvas",
+    "N2漢字/Tiền tố, hậu tố/接尾辞",
+    "N2漢字/Tiền tố, hậu tố/接頭辞",
+    "N2漢字/Tiền tố, hậu tố",
     "Pasted image 20260527193714.png",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhật　「日」.canvas",
     "Pasted image 20260527193624.png",
-    "N2漢字/Bộ chỉ ý/Hay gặp/L/Lập　「立」.canvas",
     "Pasted image 20260527193540.png",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas",
-    "N2漢字/Bộ chỉ ý/Ít gặp/T/Thập　「十」.canvas",
     "Pasted image 20260527192748.png",
-    "N2漢字/Bộ chỉ ý/Hay gặp/D/Dặc　「弋」.canvas",
     "Pasted image 20260527192703.png",
-    "N2漢字/Bộ chỉ ý/Ít gặp/D/Dương　「羊 (⺶) 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhị　「二」.canvas",
     "Pasted image 20260526004417.png",
     "Pasted image 20260526004014.png",
     "Pasted image 20260526003823.png",
@@ -204,13 +207,10 @@
     "N2文法/助詞/Apply-NiCanvasLayout.ps1",
     "N2文法/助詞/layout-ni.mjs",
     "N2文法/助詞/_layout_ni.py",
-    "N2読解",
     "N2文法/復習/第２課.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
-    "N2漢字/Day13_用法",
-    "AI_Context",
     "fastkey.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",

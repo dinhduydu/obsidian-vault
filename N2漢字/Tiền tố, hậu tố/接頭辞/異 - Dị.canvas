@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 420,
+      "y": 220,
+      "width": 400,
+      "height": 190,
+      "text": "# 異～（い～）\n\n🌍 Ý nghĩa trung tâm:\nKhác • Dị biệt • Không giống\n\n📌 Thường dùng để chỉ:\n- khác lĩnh vực\n- khác văn hóa\n- khác chủng tộc / dân tộc"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": -80,
+      "y": 60,
+      "width": 360,
+      "height": 250,
+      "text": "# 異業種（いぎょうしゅ）\n\n🏢 Ngành nghề khác\n\n## Tách nghĩa\n- 異 = khác\n- 業種 = ngành nghề\n\n💡 Hình dung:\nIT hợp tác với ngành y tế"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 960,
+      "y": 60,
+      "width": 360,
+      "height": 250,
+      "text": "# 異文化（いぶんか）\n\n🌐 Văn hóa khác\n\n## Tách nghĩa\n- 異 = khác biệt\n- 文化 = văn hóa\n\n💡 Hình dung:\nSốc văn hóa khi ra nước ngoài"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 360,
+      "y": 540,
+      "width": 460,
+      "height": 250,
+      "text": "# 異民族（いみんぞく）\n\n🧬 Dân tộc khác\n\n## Tách nghĩa\n- 異 = khác\n- 民族 = dân tộc\n\n💡 Hình dung:\nNhiều dân tộc cùng sinh sống"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 340,
+      "y": -130,
+      "width": 520,
+      "height": 240,
+      "text": "# Pattern N2\n\n🧩 異 + Danh từ\n→ Mang nghĩa khác biệt với tiêu chuẩn bình thường\n\nVí dụ:\n- 異性 = khác giới\n- 異常 = bất thường\n- 異国 = đất nước xa lạ\n\n📌 Sắc thái trang trọng / học thuật"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": -40,
+      "y": 420,
+      "width": 300,
+      "height": 200,
+      "text": "# Memory Hint\n\n🧠 異 mang cảm giác:\n『Không cùng loại』\n\nKhác nhưng thường nhấn mạnh:\n- sự khác biệt rõ rệt\n- sự không giống bình thường"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e4",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "memory",
+      "toNode": "center"
+    }
+  ]
+}

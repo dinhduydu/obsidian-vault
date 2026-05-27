@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 幾 mang cảm giác:\n『Không xác định con số cụ thể』\n\nCó thể dùng để:\n- hỏi “bao nhiêu”\n- hoặc nhấn mạnh “nhiều”","x":340,"y":560,"width":500,"height":260},
+		{"id":"center","type":"text","text":"# 幾～（いく～）\n\n🔢 Ý nghĩa trung tâm:\nBao nhiêu • Nhiều\n\n📌 Thường dùng để:\n- hỏi số lượng\n- hỏi thời gian\n- chỉ nhiều khả năng / nhiều cách","x":380,"y":170,"width":420,"height":300},
+		{"id":"word1","type":"text","text":"# 幾通り（いくどおり）\n\n🛤️ Nhiều cách\n\n## Tách nghĩa\n- 幾 = nhiều\n- 通り = cách / kiểu\n\n💡 Hình dung:\nMột vấn đề có nhiều hướng giải quyết","x":-160,"y":150,"width":360,"height":340},
+		{"id":"word2","type":"text","text":"# 幾日（いくにち）\n\n📅 Bao nhiêu ngày\n\n## Tách nghĩa\n- 幾 = bao nhiêu\n- 日 = ngày\n\n💡 Hình dung:\nHỏi khoảng thời gian kéo dài","x":980,"y":155,"width":360,"height":330},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 幾 + Đơn vị / Danh từ\n→ Mang nghĩa số lượng không xác định\n\nVí dụ:\n- 幾人 = bao nhiêu người\n- 幾歳 = bao nhiêu tuổi\n- 幾度 = nhiều lần\n\n📌 Hay gặp trong văn viết hoặc cách nói trang trọng","x":320,"y":-260,"width":540,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

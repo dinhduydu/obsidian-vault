@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"word1","type":"text","text":"# ある日（あるひ）\n\n🌇 Một ngày nọ\n\n## Tách nghĩa\n- ある = nào đó\n- 日 = ngày\n\n💡 Hình dung:\nMở đầu truyện kiểu:\n『Một ngày nọ...』","x":-200,"y":143,"width":360,"height":345},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 ある + Danh từ\n→ Một ~ nào đó không xác định\n\nVí dụ:\n- ある国 = một đất nước nào đó\n- ある会社 = một công ty nào đó\n- ある時 = vào một lúc nào đó\n\n📌 Hay gặp trong văn viết & kể chuyện","x":360,"y":-380,"width":520,"height":300},
+		{"id":"center","type":"text","text":"# ある～\n\n🎭 Ý nghĩa trung tâm:\nNào đó • Một ~ nào đó\n\n📌 Thường dùng để:\n- kể chuyện\n- giấu danh tính\n- nói mơ hồ không xác định","x":420,"y":181,"width":400,"height":268},
+		{"id":"word2","type":"text","text":"# ある人（あるひと）\n\n🧍 Người nào đó\n\n## Tách nghĩa\n- ある = nào đó\n- 人 = người\n\n💡 Hình dung:\nKhông muốn nói rõ là ai","x":1020,"y":153,"width":360,"height":325},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 ある không mang nghĩa 『có tồn tại』 ở đây.\n\nNó mang cảm giác:\n『Một thứ nào đó nhưng không nói rõ』\n\n🎬 Rất hay xuất hiện trong opening truyện/phim.","x":360,"y":540,"width":520,"height":220}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

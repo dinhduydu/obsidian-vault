@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 絵～（え～）\n\n🎨 Hán Việt: HỘI / HỌA（絵）\n\n🖌️ Ý nghĩa trung tâm:\nHình vẽ • Tranh vẽ • Minh họa\n\n📌 Thường dùng để chỉ:\n- tài liệu có minh họa\n- bản vẽ\n- thứ được thể hiện bằng hình ảnh","x":395,"y":165,"width":470,"height":310},
+		{"id":"word2","type":"text","text":"# 絵地図（えちず）\n\n🗺️ Bản đồ minh họa bằng hình vẽ\n\n📚 Hán Việt:\n- 絵 = họa\n- 地図 = địa đồ\n\n## Tách nghĩa\n- 絵 = hình minh họa\n- 地図 = bản đồ\n\n💡 Hình dung:\nBản đồ du lịch có icon và hình minh họa","x":980,"y":90,"width":420,"height":432},
+		{"id":"word3","type":"text","text":"# 絵日記（えにっき）\n\n📔 Nhật ký có hình minh họa\n\n📚 Hán Việt:\n- 絵 = họa\n- 日記 = nhật ký\n\n## Tách nghĩa\n- 絵 = tranh vẽ\n- 日記 = nhật ký\n\n💡 Hình dung:\nTrẻ em viết nhật ký kèm hình minh họa","x":660,"y":522,"width":500,"height":430},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 絵 mang nghĩa:\n『vẽ ra bằng hình ảnh』\n\n➡️ Khi đứng trước danh từ:\nNó biến sự vật thành dạng:\n- có tranh\n- có minh họa\n- trực quan hơn","x":340,"y":522,"width":320,"height":320},
+		{"id":"word1","type":"text","text":"# 絵図面（えずめん）\n\n📐 Bản vẽ minh họa\n\n📚 Hán Việt:\n- 絵 = họa\n- 図面 = đồ diện\n\n## Tách nghĩa\n- 絵 = hình vẽ\n- 図面 = bản thiết kế\n\n💡 Hình dung:\nSơ đồ nhà hoặc đất được vẽ minh họa","x":-60,"y":90,"width":400,"height":460},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 絵 + Danh từ\n→ Thứ gì đó có liên quan đến hình vẽ / minh họa\n\nVí dụ:\n- 絵本 = sách tranh\n- 絵文字 = emoji / ký tự hình ảnh\n- 絵画 = hội họa\n\n📌 Tạo cảm giác trực quan, có hình minh họa","x":340,"y":-230,"width":640,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e4","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"3d4ab29d1f0e4b17","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

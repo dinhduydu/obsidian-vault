@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":420,"y":220,"width":380,"height":180,"text":"# あくる～\n\n🌅 Ý nghĩa trung tâm:\nTiếp theo • Kế tiếp\n\n📌 Thường dùng để chỉ:\n- thời gian ngay sau đó\n- hôm sau\n- năm kế tiếp"},
+		{"id":"word1","type":"text","x":-40,"y":80,"width":340,"height":220,"text":"# あくる朝（あくるあさ）\n\n☀️ Sáng hôm sau\n\n## Tách nghĩa\n- あくる = tiếp theo\n- 朝 = buổi sáng\n\n💡 Hình dung:\nSau một đêm thức dậy vào sáng kế tiếp"},
+		{"id":"word2","type":"text","x":940,"y":80,"width":340,"height":220,"text":"# あくる年（あくるとし）\n\n🎍 Năm sau\n\n## Tách nghĩa\n- あくる = kế tiếp\n- 年 = năm\n\n💡 Hình dung:\nBước sang năm tiếp theo"},
+		{"id":"pattern","type":"text","x":360,"y":-100,"width":480,"height":220,"text":"# Pattern N2\n\n🧩 あくる + Thời gian\n→ Thời điểm tiếp theo ngay sau đó\n\nVí dụ:\n- あくる日 = ngày hôm sau\n- あくる月 = tháng sau\n\n📌 Văn viết / hơi trang trọng"},
+		{"id":"memory","type":"text","x":360,"y":520,"width":460,"height":220,"text":"# Memory Hint\n\n🧠 あくる thường xuất hiện trong:\n- truyện\n- báo chí\n- văn viết\n\nMang cảm giác:\n『Khoảng thời gian kế tiếp diễn ra ngay sau đó』"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"word1","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

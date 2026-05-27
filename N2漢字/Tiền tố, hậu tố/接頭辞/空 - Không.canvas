@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"usage","type":"text","text":"# Pattern N2\n\n🧩 空き + Danh từ\n→ Danh từ đang ở trạng thái trống / chưa dùng\n\nVí dụ khác:\n- 空き時間 = thời gian rảnh\n- 空き地 = đất trống\n- 空き席 = ghế trống","x":390,"y":520,"width":420,"height":260},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 空 = bầu trời trống rỗng\n↓\n空き mang cảm giác:\n\n『Có khoảng trống còn lại』","x":390,"y":-260,"width":420,"height":200},
+		{"id":"center","type":"text","text":"# 空き～（あき～）\n\n🌌 Ý nghĩa trung tâm:\nTrống • Rỗng • Không sử dụng\n\n📌 Thường dùng để chỉ:\n- vật chứa rỗng\n- phòng trống\n- chỗ trống","x":420,"y":130,"width":360,"height":250},
+		{"id":"example1","type":"text","text":"# 空き缶（あきかん）\n\n🥫 Lon rỗng\n\n## Tách nghĩa\n- 空き = rỗng\n- 缶 = lon\n\n💡 Hình dung:\nLon nước uống hết còn lại vỏ","x":-40,"y":95,"width":320,"height":320},
+		{"id":"example2","type":"text","text":"# 空き部屋（あきべや）\n\n🏠 Phòng trống\n\n## Tách nghĩa\n- 空き = còn trống\n- 部屋 = căn phòng\n\n💡 Hình dung:\nCăn phòng chưa có người ở","x":940,"y":95,"width":340,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"example1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"example2","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"usage","toSide":"top"},
+		{"id":"e4","fromNode":"memory","fromSide":"bottom","toNode":"center","toSide":"top"}
+	]
+}

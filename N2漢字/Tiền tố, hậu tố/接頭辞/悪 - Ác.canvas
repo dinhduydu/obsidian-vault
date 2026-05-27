@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"word2","type":"text","text":"# 悪循環（あくじゅんかん）\n\n🔄 Vòng luẩn quẩn\n\n## Tách nghĩa\n- 悪 = xấu\n- 循環 = tuần hoàn\n\n💡 Hình dung:\nCàng stress → ngủ kém → càng stress","x":960,"y":150,"width":360,"height":320},
+		{"id":"word3","type":"text","text":"# 悪条件（あくじょうけん）\n\n🌧️ Điều kiện bất lợi\n\n## Tách nghĩa\n- 悪 = xấu\n- 条件 = điều kiện\n\n💡 Ví dụ:\nLàm việc dưới thời tiết xấu","x":400,"y":540,"width":420,"height":320},
+		{"id":"word1","type":"text","text":"# 悪影響（あくえいきょう）\n\n⚠️ Ảnh hưởng xấu\n\n## Tách nghĩa\n- 悪 = xấu\n- 影響 = ảnh hưởng\n\n💡 Hình dung:\nThói quen xấu gây ảnh hưởng tiêu cực","x":-160,"y":150,"width":340,"height":320},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 悪 + Danh từ\n→ Mang nghĩa tiêu cực / bất lợi\n\nVí dụ khác:\n- 悪天候 = thời tiết xấu\n- 悪意 = ác ý\n- 悪習 = thói quen xấu","x":380,"y":-180,"width":460,"height":280},
+		{"id":"center","type":"text","text":"# 悪～（あく～）\n\n☠️ Ý nghĩa trung tâm:\nXấu • Tệ • Tiêu cực\n\n📌 Thường dùng để chỉ:\n- ảnh hưởng xấu\n- tình huống tiêu cực\n- điều kiện bất lợi","x":420,"y":170,"width":380,"height":280}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e4","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"}
+	]
+}

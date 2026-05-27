@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"9d0d4faf189902ca","type":"group","x":1410,"y":700,"width":1610,"height":1400,"label":"問題3 Prefix・Suffix chữa câu sai"},
 		{"id":"title","type":"text","text":"# 問題3 語彙 + 漢越","x":0,"y":0,"width":340,"height":80},
-		{"id":"q11","type":"text","text":"11．今日の講演のテーマは、教育の（諸）問題についてです。\n\n正解：1 諸\n\n諸問題（しょもんだい）\n= nhiều vấn đề khác nhau\n\n漢越:\n諸 = chư\n問 = vấn\n題 = đề\n\n諸問題 = chư vấn đề\n\nVí dụ:\n環境の諸問題\n= các vấn đề môi trường","x":0,"y":120,"width":500,"height":340},
+		{"id":"q11","type":"text","text":"11．今日の講演のテーマは、教育の（諸）問題についてです。\n\n正解：1 諸\n\n諸問題（しょもんだい）\n= nhiều vấn đề khác nhau\n\n漢越:\n諸 = chư\n問 = vấn\n題 = đề\n\n諸問題 = chư vấn đề\n\nVí dụ:\n環境の諸問題\n= các vấn đề môi trường","x":0,"y":120,"width":500,"height":400},
 		{"id":"q12","type":"text","text":"12．駅前の商品（街）で、買い物して帰ろう。\n\n正解：3 街\n\n商店街（しょうてんがい）\n= phố mua sắm\n\n漢越:\n商 = thương\n店 = điếm\n街 = nhai\n\n商店街 = thương điếm nhai\n\nVí dụ:\n商店街を歩く\n= đi dạo phố mua sắm","x":560,"y":120,"width":500,"height":340},
 		{"id":"q13","type":"text","text":"13．夏休みに旅行に行きたいので、（高）収入のアルバイトを探している。\n\n正解：4 高\n\n高収入（こうしゅうにゅう）\n= thu nhập cao\n\n漢越:\n高 = cao\n収 = thu\n入 = nhập\n\n高収入 = cao thu nhập\n\nVí dụ:\n高収入の仕事\n= công việc lương cao","x":1120,"y":120,"width":520,"height":360},
 		{"id":"433c551abe88c48d","type":"file","file":"Pasted image 20260525000348.png","x":610,"y":560,"width":399,"height":244},
@@ -17,13 +17,14 @@
 		{"id":"c575721746c1241b","type":"text","text":"So sánh:\n\n力（りょく）\n漢越: lực\n→ năng lực, sức mạnh\n→ hậu tố cực kỳ phổ biến\n\nVí dụ:\n集中力 = năng lực tập trung\n記憶力 = trí nhớ\n体力 = thể lực\n\n気（き）\n漢越: khí\n→ tinh thần, cảm xúc, khí\n\nVí dụ:\n元気 = khỏe mạnh\n気分 = tâm trạng\n気力 = ý chí","x":1950,"y":1700,"width":560,"height":500},
 		{"id":"d7c6791b07b294ac","type":"text","text":"Mẹo nhớ:\n\n◉ ～力\n→ chỉ năng lực\n\n会話力 = khả năng hội thoại\n理解力 = năng lực hiểu\n\n◉ 気\n→ cảm xúc / tinh thần / khí lực\n\n=> 集中気 ❌ không tồn tại","x":2570,"y":1700,"width":430,"height":320},
 		{"id":"def0ae0f8ea7d3e8","type":"text","text":"So sánh:\n\n諸（しょ）\n漢越: chư\n→ nhiều, các\n→ thường đứng trước danh từ\n\nVí dụ:\n諸外国 = các nước\n諸事情 = nhiều tình huống\n\n複（ふく）\n漢越: phức\n→ phức tạp / lặp nhiều\n\nVí dụ:\n複雑 = phức tạp\n複数 = số nhiều\n\n❌ 複問題 không tồn tại","x":1930,"y":700,"width":520,"height":480},
-		{"id":"3f06512e41385cbc","type":"text","text":"Mẹo nhớ:\n\n諸 + danh từ\n= nhiều cái thuộc cùng nhóm\n\n=> 諸問題\n=> 諸国\n=> 諸事情\n\n複 thường đi với nghĩa:\n- phức tạp\n- nhiều lớp\n- nhiều phần","x":2520,"y":740,"width":450,"height":340}
+		{"id":"3f06512e41385cbc","type":"text","text":"Mẹo nhớ:\n\n諸 + danh từ\n= nhiều cái thuộc cùng nhóm\n\n=> 諸問題\n=> 諸国\n=> 諸事情\n\n複 thường đi với nghĩa:\n- phức tạp\n- nhiều lớp\n- nhiều phần","x":2520,"y":740,"width":450,"height":340},
+		{"id":"489b3eaf0e05ed5b","x":-535,"y":405,"width":250,"height":60,"type":"text","text":"Tiền tố, hậu tố"}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q11","fromSide":"right","toNode":"q12","toSide":"left"},
 		{"id":"e2","fromNode":"q12","fromSide":"right","toNode":"q13","toSide":"left"},
 		{"id":"e3","fromNode":"q14","fromSide":"right","toNode":"q15","toSide":"left"},
-		{"id":"e614c3a4e16c784b","fromNode":"q11","fromSide":"bottom","toNode":"433c551abe88c48d","toSide":"left"},
+		{"id":"e614c3a4e16c784b","fromNode":"q11","fromSide":"bottom","toNode":"433c551abe88c48d","toSide":"left","label":"諸 = chư (các)"},
 		{"id":"b83f62946980dd51","fromNode":"q12","fromSide":"bottom","toNode":"433c551abe88c48d","toSide":"top"},
 		{"id":"2e0dbbfd25155383","fromNode":"q15","fromSide":"top","toNode":"433c551abe88c48d","toSide":"bottom"},
 		{"id":"17d162bb54180f9e","fromNode":"0348889bb165a5a8","fromSide":"right","toNode":"def0ae0f8ea7d3e8","toSide":"left"},

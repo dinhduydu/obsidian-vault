@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 大～（おお・だい～）\n\n📚 Hán Việt: ĐẠI（大）\n\n🔥 Ý nghĩa trung tâm:\nLớn • Rất • Quy mô lớn • Mức độ mạnh\n\n📌 Thường dùng để:\n- nhấn mạnh mức độ\n- chỉ quy mô lớn\n- diễn tả trạng thái cực mạnh","x":470,"y":260,"width":520,"height":320},
+		{"id":"word1","type":"text","text":"# 大急ぎ（おおいそぎ）\n\n🏃 Rất gấp gáp\n\n📚 Hán Việt:\n- 大 = đại\n- 急 = cấp\n\n## Tách nghĩa\n- 大 = rất\n- 急ぎ = vội vàng\n\n💡 Hình dung:\nChạy vội vì sắp trễ giờ","x":-120,"y":40,"width":380,"height":430},
+		{"id":"word5","type":"text","text":"# 大規模（だいきぼ）\n\n🏙️ Quy mô lớn\n\n📚 Hán Việt:\n- 大 = đại\n- 規模 = quy mô\n\n## Tách nghĩa\n- 大 = lớn\n- 規模 = scale / quy mô\n\n💡 Hình dung:\nDự án có phạm vi cực lớn","x":320,"y":780,"width":400,"height":420},
+		{"id":"word6","type":"text","text":"# 大勝利（だいしょうり）\n\n🏆 Chiến thắng lớn\n\n📚 Hán Việt:\n- 大 = đại\n- 勝利 = thắng lợi\n\n## Tách nghĩa\n- 大 = lớn\n- 勝利 = chiến thắng\n\n💡 Hình dung:\nThắng áp đảo trong cuộc thi hoặc trận đấu","x":800,"y":780,"width":420,"height":420},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 大 không chỉ nghĩa 『to lớn』.\n\n➡️ Khi làm prefix:\nNó thường mang cảm giác:\n- cực kỳ\n- quy mô lớn\n- rất nghiêm trọng\n- vô cùng mạnh\n\n⚡ Giống như thêm:\n『super / cực đại』 vào từ phía sau.","x":420,"y":1260,"width":620,"height":360},
+		{"id":"word4","type":"text","text":"# 大歓迎（だいかんげい）\n\n🎉 Nhiệt liệt chào mừng\n\n📚 Hán Việt:\n- 大 = đại\n- 歓迎 = hoan nghênh\n\n## Tách nghĩa\n- 大 = vô cùng\n- 歓迎 = chào đón\n\n💡 Hình dung:\nĐược tiếp đón cực kỳ nồng nhiệt","x":1220,"y":460,"width":420,"height":420},
+		{"id":"word2","type":"text","text":"# 大火事（おおかじ）\n\n🔥 Vụ cháy lớn\n\n📚 Hán Việt:\n- 大 = đại\n- 火事 = hỏa sự\n\n## Tách nghĩa\n- 大 = lớn\n- 火事 = hỏa hoạn\n\n💡 Hình dung:\nĐám cháy lan rộng toàn khu vực","x":1220,"y":40,"width":380,"height":430},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 大 + Danh từ / Động từ danh hóa\n\nCác sắc thái phổ biến:\n- quy mô lớn\n- cực kỳ mạnh\n- mức độ cao\n- rất nghiêm trọng\n\nVí dụ:\n- 大人気 = cực kỳ nổi tiếng\n- 大事故 = tai nạn lớn\n- 大問題 = vấn đề lớn\n\n📌 Prefix nhấn mạnh rất phổ biến","x":420,"y":-320,"width":620,"height":460},
+		{"id":"word3","type":"text","text":"# 大騒ぎ（おおさわぎ）\n\n📢 Vô cùng ầm ĩ / hỗn loạn\n\n📚 Hán Việt:\n- 大 = đại\n- 騒 = tao\n\n## Tách nghĩa\n- 大 = rất\n- 騒ぎ = náo động\n\n💡 Hình dung:\nCả nơi trở nên hỗn loạn vì một sự kiện","x":-120,"y":470,"width":420,"height":430}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"left","toNode":"word3","toSide":"right"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"word4","toSide":"left"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"word5","toSide":"top"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"word6","toSide":"top"},
+		{"id":"e7","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e8","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}
