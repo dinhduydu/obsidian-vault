@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"c2e8710b9cdb3c54","x":-126,"y":4,"width":250,"height":60,"type":"text","text":"Thiệt　「舌」"}
+		{"id":"c2e8710b9cdb3c54","type":"text","text":"Thiệt　「舌」","x":-126,"y":4,"width":250,"height":60},
+		{"id":"0e120f0eeb895ae8","x":340,"y":-160,"width":370,"height":139,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6fae0b0fc63c6643","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"0e120f0eeb895ae8","toSide":"left"}
+	]
 }

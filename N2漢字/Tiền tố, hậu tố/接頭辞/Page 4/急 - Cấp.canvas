@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 820,
+      "y": 320,
+      "width": 560,
+      "height": 280,
+      "text": "# 急～（きゅう～）\n\n📚 Hán Việt: CẤP（急）\n\n⚡ Ý nghĩa trung tâm:\nNhanh • Gấp • Đột ngột\n\n📌 Thường mang sắc thái:\n- tốc độ tăng mạnh\n- xảy ra bất ngờ\n- cần xử lý ngay"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 280,
+      "width": 440,
+      "height": 320,
+      "text": "# Ý nghĩa\n\n🧠 急 mang cảm giác:\n- tăng tốc nhanh\n- chuyển biến đột ngột\n- không có thời gian chuẩn bị\n\n➡️ Gần giống:\n- sudden\n- urgent\n- rapid"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1540,
+      "y": 40,
+      "width": 520,
+      "height": 360,
+      "text": "# 急上昇（きゅうじょうしょう）\n\n📈 Tăng vọt, tăng cao đột ngột\n\n📚 Hán Việt:\n- 急 = cấp\n- 上昇 = thượng thăng\n\n## Tách nghĩa\n- 急 = nhanh, đột ngột\n- 上昇 = đi lên\n\n💡 Hình dung:\nBiểu đồ tăng dựng đứng chỉ trong thời gian ngắn"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1540,
+      "y": 500,
+      "width": 520,
+      "height": 360,
+      "text": "# 急ピッチ（きゅうぴっち）\n\n🏃 Tiến triển nhanh chóng\n\n📚 Nuance:\nLàm việc với tốc độ rất nhanh\n\n## Hình dung\n- tăng tốc tiến độ\n- làm cực nhanh để kịp deadline\n\n📌 Hay dùng trong:\n- công trình\n- dự án\n- phát triển sản phẩm"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1540,
+      "y": 960,
+      "width": 520,
+      "height": 360,
+      "text": "# 急ブレーキ（きゅうぶれーき）\n\n🚗 Phanh gấp\n\n📚 Hán Việt:\n- 急 = cấp\n- ブレーキ = brake\n\n## Tách nghĩa\n- 急 = đột ngột\n- ブレーキ = phanh\n\n💡 Hình dung:\nXe thắng mạnh bất ngờ để tránh va chạm"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -180,
+      "width": 760,
+      "height": 340,
+      "text": "# Pattern N2\n\n🧩 急 + Danh từ\n→ Mang nghĩa:\n『gấp / đột ngột / tăng nhanh』\n\nVí dụ:\n- 急停止 = dừng khẩn cấp\n- 急展開 = diễn biến bất ngờ\n- 急成長 = phát triển thần tốc\n\n📌 Prefix này xuất hiện nhiều trong:\n- kinh tế\n- giao thông\n- tin tức\n- business Japanese"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 760,
+      "width": 500,
+      "height": 420,
+      "text": "# So sánh nuance\n\n⚡ 急\n→ nhanh một cách bất ngờ\n\n🏃 速\n→ nhanh về tốc độ thông thường\n\n📌 Ví dụ:\n- 急上昇 = tăng vọt bất ngờ\n- 速度が速い = tốc độ nhanh"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 700,
+      "y": 1500,
+      "width": 820,
+      "height": 340,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 急 bằng hình ảnh:\n\n🚨 điện thoại khẩn cấp\n🚗 xe phanh gấp\n📈 giá cổ phiếu tăng vọt\n\n➡️ Điểm chung:\n『mọi thứ xảy ra quá nhanh và đột ngột』\n\n📌 JLPT rất hay dùng:\n- 急上昇\n- 急増\n- 急変"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

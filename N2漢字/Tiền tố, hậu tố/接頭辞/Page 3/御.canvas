@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"word1","type":"text","text":"# 御身（おんみ）\n\n🧎 Thân thể của ngài\n\n📚 Hán Việt:\n- 御 = ngự\n- 身 = thân\n\n## Tách nghĩa\n- 御 = kính trọng\n- 身 = cơ thể / bản thân\n\n💡 Sắc thái:\nCách nói cực kỳ trang trọng,\nthường gặp trong văn cổ hoặc lịch sự cao","x":-200,"y":135,"width":420,"height":440},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 御 + Danh từ\n→ Biến từ thành dạng kính ngữ / lịch sự\n\nVí dụ:\n- 御茶（おちゃ）= trà\n- 御飯（ごはん）= cơm\n- 御存じ（ごぞんじ）= biết (kính ngữ)\n\n📌 Có nhiều cách đọc:\n- お\n- ご\n- おん\n\n⚡ Một trong các prefix kính ngữ quan trọng nhất.","x":370,"y":-320,"width":620,"height":440},
+		{"id":"center","type":"text","text":"# 御～（お・ご・おん～）\n\n📚 Hán Việt: NGỰ（御）\n\n🙏 Ý nghĩa trung tâm:\nKính ngữ • Tôn kính • Trang trọng\n\n📌 Thường dùng để:\n- thể hiện sự lịch sự\n- nâng người nghe/người được nhắc đến\n- tạo sắc thái kính trọng","x":430,"y":195,"width":500,"height":320},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 御 originally mang nghĩa:\n『thuộc về bề trên / cao quý』\n\n➡️ Sau này trở thành prefix kính ngữ.\n\n💡 Chỉ cần thêm 御 vào trước từ:\n→ cảm giác lịch sự tăng mạnh.\n\nVí dụ:\n飯 → 御飯\n茶 → 御茶","x":370,"y":575,"width":620,"height":325},
+		{"id":"word2","type":"text","text":"# 御礼（おれい）\n\n🎁 Lời cảm ơn / quà cảm tạ\n\n📚 Hán Việt:\n- 御 = ngự\n- 礼 = lễ\n\n## Tách nghĩa\n- 御 = lịch sự\n- 礼 = lễ nghĩa\n\n💡 Hình dung:\nLời cảm ơn trang trọng hoặc quà đáp lễ","x":1080,"y":143,"width":420,"height":425}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

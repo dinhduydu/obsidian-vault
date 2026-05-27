@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 780,
+      "y": 300,
+      "width": 540,
+      "height": 260,
+      "text": "# 逆～（ぎゃく～）\n\n📚 Hán Việt: NGHỊCH（逆）\n\n🔄 Ý nghĩa trung tâm:\nNgược • Phản • Trái chiều\n\n📌 Thường dùng để:\n- diễn tả hướng ngược lại\n- kết quả trái mong đợi\n- phản tác dụng"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 100,
+      "y": 280,
+      "width": 420,
+      "height": 300,
+      "text": "# Ý nghĩa\n\n🧠 逆 mang cảm giác:\n- đi ngược chiều\n- trái quy luật\n- phản lại điều bình thường\n\n➡️ Có thể hiểu như:\n- reverse\n- opposite\n- counter"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1480,
+      "y": 40,
+      "width": 460,
+      "height": 340,
+      "text": "# 逆回転（ぎゃくかいてん）\n\n🔄 Quay ngược chiều\n\n📚 Hán Việt:\n- 逆 = nghịch\n- 回転 = hồi chuyển\n\n## Tách nghĩa\n- 逆 = ngược\n- 回転 = xoay\n\n💡 Hình dung:\nQuạt hoặc motor quay ngược lại hướng bình thường"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1480,
+      "y": 460,
+      "width": 480,
+      "height": 360,
+      "text": "# 逆効果（ぎゃくこうか）\n\n⚠️ Tác dụng ngược\n\n📚 Hán Việt:\n- 逆 = nghịch\n- 効果 = hiệu quả\n\n## Tách nghĩa\n- 逆 = trái ngược\n- 効果 = hiệu quả\n\n💡 Hình dung:\nCàng cố giúp thì kết quả càng tệ"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1480,
+      "y": 900,
+      "width": 520,
+      "height": 420,
+      "text": "# 逆探知（ぎゃくたんち）\n\n📡 Theo dấu ngược để dò tìm nguồn gọi\n\n📚 Hán Việt:\n- 逆 = nghịch\n- 探知 = thám tri\n\n## Tách nghĩa\n- 逆 = ngược lại\n- 探知 = dò tìm\n\n💡 Hình dung:\nLần ngược tín hiệu điện thoại\nđể tìm ra người gọi đến"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 600,
+      "y": -120,
+      "width": 720,
+      "height": 320,
+      "text": "# Pattern N2\n\n🧩 逆 + Danh từ\n→ Mang nghĩa:\n『ngược / phản / trái chiều』\n\nVí dụ:\n- 逆走 = đi ngược chiều\n- 逆輸入 = nhập khẩu ngược\n- 逆転 = đảo ngược tình thế\n\n📌 Prefix này rất phổ biến trong:\n- kỹ thuật\n- tâm lý\n- khoa học\n- đời sống"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 660,
+      "y": 1380,
+      "width": 760,
+      "height": 320,
+      "text": "# Memory Hint\n\n🧠 逆 = đi ngược dòng.\n\n➡️ Hình dung:\n🏃 người chạy ngược chiều đám đông\n\n⚡ Ý niệm chung:\n- trái hướng\n- phản lại\n- không theo bình thường\n\n📌 逆効果 là từ cực kỳ hay gặp trong JLPT."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

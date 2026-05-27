@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 420,
+      "y": 240,
+      "width": 500,
+      "height": 240,
+      "text": "# 角～（かく～）\n\n📚 Hán Việt: GIÁC（角）\n\n📐 Ý nghĩa trung tâm:\nGóc • Vuông • Có cạnh góc\n\n📌 Thường dùng để:\n- chỉ hình dạng vuông góc\n- vật có cạnh / góc\n- dạng khối vuông"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 360,
+      "y": 560,
+      "width": 520,
+      "height": 340,
+      "text": "# 角砂糖（かくざとう）\n\n🍬 Đường cục\n\n📚 Hán Việt:\n- 角 = giác\n- 砂糖 = sa đường\n\n## Tách nghĩa\n- 角 = vuông\n- 砂糖 = đường\n\n💡 Hình dung:\nViên đường hình khối vuông nhỏ\n\n📌 Không phải đường bột,\nmà là sugar cube."
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 320,
+      "y": -150,
+      "width": 620,
+      "height": 320,
+      "text": "# Pattern N2\n\n🧩 角 + Danh từ\n→ Mang sắc thái:\n『vuông / có góc cạnh』\n\nVí dụ:\n- 角形 = hình đa giác\n- 角材 = gỗ vuông\n- 四角 = hình vuông\n\n📌 Liên quan mạnh đến:\n- hình học\n- hình dạng\n- cạnh góc"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": -40,
+      "y": 300,
+      "width": 320,
+      "height": 260,
+      "text": "# Memory Hint\n\n🧠 角 = góc.\n\n➡️ Khi làm prefix:\nNó tạo cảm giác:\n- vuông vức\n- có cạnh góc\n- dạng khối\n\n⚡ Nhìn 角砂糖\n→ tưởng tượng ngay viên đường cube."
+    },
+    {
+      "id": "visual",
+      "type": "text",
+      "x": 980,
+      "y": 300,
+      "width": 360,
+      "height": 260,
+      "text": "# Visual Image\n\n⬜⬜⬜\n⬜🍬⬜\n⬜⬜⬜\n\n💡 角砂糖:\nViên đường nhỏ hình vuông\nthường dùng với cà phê hoặc trà."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e3",
+      "fromNode": "memory",
+      "toNode": "center"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "visual"
+    }
+  ]
+}

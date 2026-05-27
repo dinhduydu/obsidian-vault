@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":820,"y":320,"width":560,"height":280,"text":"# 草～（くさ～）\n\n📚 Hán Việt: THẢO（草）\n\n🌱 Ý nghĩa trung tâm:\nKhông chính thức • Quy mô nhỏ • Nghiệp dư\n\n📌 Thường mang sắc thái:\n- dân dã\n- không chuyên\n- không thuộc hệ thống chính quy"},
+		{"id":"meaning","type":"text","x":100,"y":260,"width":460,"height":360,"text":"# Ý nghĩa\n\n🧠 草 vốn nghĩa là:\n- cỏ\n- hoang dã\n- ngoài đồng\n\n➡️ Khi dùng làm prefix:\n『không chuyên nghiệp』\n『mang tính địa phương / nghiệp dư』\n\n📌 Gợi cảm giác:\n- amateur\n- unofficial\n- local"},
+		{"id":"word1","type":"text","x":1540,"y":80,"width":560,"height":380,"text":"# 草競馬（くさけいば）\n\n🐎 Cuộc đua ngựa quy mô nhỏ\n\n📚 Hán Việt:\n- 草 = thảo\n- 競馬 = cạnh mã\n\n## Tách nghĩa\n- 草 = không chính thức\n- 競馬 = đua ngựa\n\n💡 Hình dung:\nGiải đua nhỏ ở địa phương,\nkhông phải giải chuyên nghiệp quốc gia"},
+		{"id":"word2","type":"text","x":1540,"y":560,"width":540,"height":360,"text":"# 草野球（くさやきゅう）\n\n⚾ Bóng chày nghiệp dư\n\n📚 Hán Việt:\n- 草 = thảo\n- 野球 = dã cầu\n\n## Tách nghĩa\n- 草 = nghiệp dư\n- 野球 = bóng chày\n\n💡 Hình dung:\nNhóm bạn tụ tập chơi bóng cuối tuần,\nkhông thuộc giải chuyên nghiệp"},
+		{"id":"pattern","type":"text","x":700,"y":-180,"width":760,"height":360,"text":"# Pattern N2\n\n🧩 草 + Danh từ\n→ Mang nghĩa:\n『nghiệp dư / quy mô nhỏ / không chính thức』\n\n📌 Thường dùng với:\n- thể thao\n- hoạt động địa phương\n- giải đấu nhỏ\n\n💡 Nuance:\nKhông hẳn tiêu cực.\nThường mang cảm giác:\n- gần gũi\n- bình dân\n- phong trào"},
+		{"id":"compare","type":"text","x":100,"y":760,"width":520,"height":420,"text":"# So sánh nuance\n\n🏆 プロ\n→ chuyên nghiệp\n\n🌱 草～\n→ nghiệp dư / phong trào\n\n📌 Ví dụ:\n- 草野球 = bóng chày phong trào\n- プロ野球 = bóng chày chuyên nghiệp"},
+		{"id":"memory","type":"text","x":700,"y":1460,"width":820,"height":360,"text":"# Memory Hint\n\n🧠 草 = cỏ mọc ngoài đồng.\n\n➡️ Hãy liên tưởng:\n『hoạt động ngoài sân cỏ địa phương』\n\n⚾ 草野球\n= bóng chày chơi ở bãi đất trống.\n\n🐎 草競馬\n= giải đua nhỏ kiểu “ao làng”.\n\n📌 Từ này thường mang cảm giác:\n- amateur\n- local\n- community"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"compare","toNode":"center","fromSide":"right","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

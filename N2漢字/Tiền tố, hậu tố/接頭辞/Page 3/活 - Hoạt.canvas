@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 430,
+      "y": 240,
+      "width": 520,
+      "height": 250,
+      "text": "# 活～（かつ～）\n\n📚 Hán Việt: HOẠT（活）\n\n🔥 Ý nghĩa trung tâm:\nĐang hoạt động • Sinh động • Thực tế\n\n📌 Thường dùng để:\n- chỉ trạng thái còn hoạt động\n- mang tính thực tiễn\n- có sức sống / đang vận hành"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": -80,
+      "y": 90,
+      "width": 420,
+      "height": 330,
+      "text": "# 活火山（かっかざん）\n\n🌋 Núi lửa đang hoạt động\n\n📚 Hán Việt:\n- 活 = hoạt\n- 火山 = hỏa sơn\n\n## Tách nghĩa\n- 活 = còn hoạt động\n- 火山 = núi lửa\n\n💡 Hình dung:\nNúi lửa vẫn có khả năng phun trào"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 980,
+      "y": 90,
+      "width": 460,
+      "height": 340,
+      "text": "# 活社会（かっしゃかい）\n\n🏙️ Xã hội thực tế / xã hội đang vận động\n\n📚 Hán Việt:\n- 活 = hoạt\n- 社会 = xã hội\n\n## Tách nghĩa\n- 活 = thực tiễn / vận động\n- 社会 = xã hội\n\n💡 Hình dung:\nThế giới ngoài đời thực đang vận hành mỗi ngày"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 340,
+      "y": -150,
+      "width": 640,
+      "height": 320,
+      "text": "# Pattern N2\n\n🧩 活 + Danh từ\n→ Mang nghĩa:\n『đang hoạt động / có sức sống / thực tiễn』\n\nVí dụ:\n- 活動 = hoạt động\n- 活字 = chữ in\n- 活用 = vận dụng\n- 活力 = sức sống\n\n📌 Mang cảm giác:\n『động và còn sống』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 360,
+      "y": 590,
+      "width": 620,
+      "height": 280,
+      "text": "# Memory Hint\n\n🧠 活 gồm:\n- 氵 = nước\n- 舌 = lưỡi\n\n➡️ Gợi cảm giác:\n『có sự sống, chuyển động』\n\n⚡ Khi làm prefix:\nNó nhấn mạnh:\n- còn hoạt động\n- còn hiệu lực\n- có tính thực tế."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

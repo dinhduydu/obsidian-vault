@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 管～（かん～）\n\n📚 Hán Việt: QUẢN（管）\n\n🎺 Ý nghĩa trung tâm:\nỐng • Nhạc cụ hơi • Dùng ống dẫn âm thanh\n\n📌 Thường liên quan đến:\n- nhạc cụ thổi\n- ống dẫn\n- âm thanh tạo từ luồng khí","x":800,"y":300,"width":520,"height":340},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 管 nguyên nghĩa là:\n- cái ống\n- ống tre\n- vật hình ống\n\n➡️ Trong âm nhạc:\nliên quan đến nhạc cụ dùng hơi để phát ra âm thanh.\n\n📌 Ví dụ:\n- sáo\n- tiêu\n- kèn","x":120,"y":280,"width":420,"height":460},
+		{"id":"word1","type":"text","text":"# 管楽器（かんがっき）\n\n🎷 Nhạc cụ hơi\n\n📚 Hán Việt:\n- 管 = quản\n- 楽器 = nhạc khí\n\n## Tách nghĩa\n- 管 = ống/thổi hơi\n- 楽器 = nhạc cụ\n\n💡 Hình dung:\nNhạc cụ phát âm bằng luồng hơi:\n- sáo\n- kèn\n- clarinet","x":1500,"y":80,"width":460,"height":360},
+		{"id":"word2","type":"text","text":"# 管弦楽（かんげんがく）\n\n🎼 Dàn nhạc giao hưởng\n\n📚 Hán Việt:\n- 管 = quản\n- 弦 = huyền\n- 楽 = nhạc\n\n## Tách nghĩa\n- 管 = nhạc cụ hơi\n- 弦 = nhạc cụ dây\n- 楽 = âm nhạc\n\n💡 Hình dung:\nSự kết hợp:\n🎺 nhạc cụ hơi\n＋\n🎻 nhạc cụ dây","x":1500,"y":520,"width":500,"height":380},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 管 + Danh từ\n→ Liên quan đến:\n『ống / hơi / nhạc cụ thổi』\n\nVí dụ:\n- 管制 = quản chế\n- 水道管 = ống nước\n- 気管 = khí quản\n\n📌 Trong âm nhạc:\n管 thường gợi đến wind instruments.","x":710,"y":-200,"width":700,"height":360},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 管 nhìn giống nhiều ống tre xếp lại.\n\n➡️ Hãy liên tưởng:\n『luồng hơi đi qua ống để tạo âm thanh』\n\n⚡ 管楽器\n= nhạc cụ dùng hơi.\n\n⚡ 管弦楽\n= orchestra gồm:\n- 管 = hơi\n- 弦 = dây","x":710,"y":900,"width":700,"height":300}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 旧～（きゅう～）\n\n📚 Hán Việt: CỰU（旧）\n\n🏛️ Ý nghĩa trung tâm:\nCũ • Trước đây • Thuộc thời kỳ trước\n\n📌 Thường dùng để:\n- hệ thống cũ\n- chế độ cũ\n- địa danh cũ\n- thứ từng tồn tại trước hiện tại","x":900,"y":360,"width":560,"height":280},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 旧 không chỉ là “cũ”.\n\n➡️ Nó mang sắc thái:\n- thuộc thời kỳ trước\n- đã bị thay thế\n- tồn tại trong quá khứ\n\n📌 Gần giống:\n- former\n- old\n- previous","x":120,"y":320,"width":440,"height":380},
+		{"id":"word1","type":"text","text":"# 旧街道（きゅうかいどう）\n\n🛣️ Con đường chính cũ trước kia\n\n📚 Hán Việt:\n- 旧 = cựu\n- 街道 = nhai đạo\n\n💡 Hình dung:\nCon đường từng là tuyến chính ngày xưa","x":1600,"y":-120,"width":440,"height":320},
+		{"id":"word2","type":"text","text":"# 旧軍人（きゅうぐんじん）\n\n🎖️ Cựu quân nhân\n\n📚 Hán Việt:\n- 旧 = cựu\n- 軍人 = quân nhân\n\n💡 Hình dung:\nNgười từng phục vụ trong quân đội","x":1600,"y":240,"width":440,"height":320},
+		{"id":"word3","type":"text","text":"# 旧憲法（きゅうけんぽう）\n\n📜 Hiến pháp cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 憲法 = hiến pháp\n\n💡 Hình dung:\nBản hiến pháp trước khi sửa đổi","x":1600,"y":600,"width":440,"height":320},
+		{"id":"word4","type":"text","text":"# 旧工場（きゅうこうじょう）\n\n🏭 Nhà máy cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 工場 = công trường\n\n💡 Hình dung:\nNhà máy đã ngừng hoạt động hoặc bị thay thế","x":1600,"y":960,"width":440,"height":320},
+		{"id":"word5","type":"text","text":"# 旧首都（きゅうしゅと）\n\n🏯 Cố đô\n\n📚 Hán Việt:\n- 旧 = cựu\n- 首都 = thủ đô\n\n💡 Hình dung:\nThủ đô trước kia của một quốc gia","x":1600,"y":1320,"width":460,"height":340},
+		{"id":"word6","type":"text","text":"# 旧正月（きゅうしょうがつ）\n\n🧧 Tết Âm lịch\n\n📚 Hán Việt:\n- 旧 = cựu\n- 正月 = chính nguyệt\n\n💡 Hình dung:\nNăm mới theo lịch cũ (âm lịch)","x":2160,"y":-120,"width":500,"height":360},
+		{"id":"word7","type":"text","text":"# 旧植民地（きゅうしょくみんち）\n\n🌍 Thuộc địa cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 植民地 = thực dân địa\n\n💡 Hình dung:\nLãnh thổ từng bị đô hộ trước đây","x":2160,"y":300,"width":520,"height":380},
+		{"id":"word8","type":"text","text":"# 旧制度（きゅうせいど）\n\n🏛️ Chế độ cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 制度 = chế độ\n\n💡 Hình dung:\nHệ thống luật lệ trước kia","x":2160,"y":760,"width":460,"height":340},
+		{"id":"word9","type":"text","text":"# 旧体制（きゅうたいせい）\n\n⚖️ Thể chế cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 体制 = thể chế\n\n💡 Hình dung:\nBộ máy chính trị thời trước","x":2160,"y":1160,"width":460,"height":340},
+		{"id":"word10","type":"text","text":"# 旧大陸（きゅうたいりく）\n\n🌍 Lục địa cũ\n\n📚 Hán Việt:\n- 旧 = cựu\n- 大陸 = đại lục\n\n💡 Hình dung:\nChâu Âu, Á, Phi — đối lập với Tân Thế Giới","x":2160,"y":1560,"width":460,"height":340},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 旧 mang cảm giác:\n『một thứ từng tồn tại trước hiện tại』\n\n➡️ Không đơn thuần là “đồ cũ”.\nNó thường mang sắc thái:\n- historical\n- former\n- previous era\n\n⚡ Ví dụ:\n- 旧首都 = cố đô\n- 旧制度 = chế độ cũ\n- 旧軍人 = cựu quân nhân","x":400,"y":800,"width":820,"height":440},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 旧 + Danh từ\n→ Mang nghĩa:\n『cũ / trước đây / thuộc thời kỳ cũ』\n\nVí dụ:\n- 旧校舎 = tòa nhà trường cũ\n- 旧姓 = họ cũ\n- 旧式 = kiểu cũ\n\n📌 Prefix này rất phổ biến trong:\n- lịch sử\n- chính trị\n- xã hội\n- văn bản trang trọng","x":460,"y":-240,"width":760,"height":440}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"top","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"word3","toSide":"left"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"word4","toSide":"top"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"word5","toSide":"top"},
+		{"id":"e7","fromNode":"center","fromSide":"right","toNode":"word6","toSide":"left"},
+		{"id":"e8","fromNode":"center","fromSide":"right","toNode":"word7","toSide":"left"},
+		{"id":"e9","fromNode":"center","fromSide":"right","toNode":"word8","toSide":"left"},
+		{"id":"e10","fromNode":"center","fromSide":"bottom","toNode":"word9","toSide":"left"},
+		{"id":"e11","fromNode":"center","fromSide":"bottom","toNode":"word10","toSide":"top"},
+		{"id":"e12","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e13","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

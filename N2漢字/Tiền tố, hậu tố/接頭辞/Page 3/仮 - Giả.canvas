@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","text":"# 仮～（かり～）\n\n📚 Hán Việt: GIẢ（仮）\n\n⏳ Ý nghĩa trung tâm:\nTạm thời • Chưa chính thức • Dùng trước\n\n📌 Thường dùng để:\n- trạng thái tạm thời\n- quyết định chưa hoàn tất\n- dùng trước khi xác nhận chính thức","x":700,"y":340,"width":560,"height":300},
+		{"id":"word4","type":"text","text":"# 仮処分（かりしょぶん）\n\n⚖️ Biện pháp tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 処分 = xử phân\n\n💡 Hình dung:\nQuyết định xử lý tạm trong pháp luật","x":1480,"y":40,"width":420,"height":340},
+		{"id":"word1","type":"text","text":"# 仮契約（かりけいやく）\n\n📝 Hợp đồng tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 契約 = khế ước\n\n💡 Hình dung:\nKý trước khi ký hợp đồng chính thức","x":-380,"y":-100,"width":420,"height":320},
+		{"id":"word2","type":"text","text":"# 仮採用（かりさいよう）\n\n👔 Tuyển dụng tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 採用 = thải dụng\n\n💡 Hình dung:\nNhận thử trước khi thành nhân viên chính thức","x":280,"y":-160,"width":420,"height":320},
+		{"id":"word3","type":"text","text":"# 仮釈放（かりしゃくほう）\n\n🚔 Tạm phóng thích\n\n📚 Hán Việt:\n- 仮 = giả\n- 釈放 = thích phóng\n\n## Tách nghĩa\n- 仮 = tạm thời\n- 釈放 = thả tự do\n\n💡 Hình dung:\nĐược tha tù trước thời hạn","x":990,"y":-220,"width":440,"height":430},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 仮 + Danh từ\n→ Mang nghĩa:\n『tạm thời / chưa chính thức』\n\nVí dụ:\n- 仮名 = tên giả\n- 仮説 = giả thuyết\n- 仮住まい = nơi ở tạm\n- 仮病 = giả bệnh\n\n📌 Hay gặp trong:\n- pháp luật\n- kinh doanh\n- hành chính","x":630,"y":-720,"width":700,"height":460},
+		{"id":"word6","type":"text","text":"# 仮登記（かりとうき）\n\n🏢 Đăng ký tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 登記 = đăng ký\n\n💡 Hình dung:\nĐăng ký trước khi hoàn thiện thủ tục","x":280,"y":700,"width":420,"height":320},
+		{"id":"word5","type":"text","text":"# 仮調印（かりちょういん）\n\n✍️ Ký tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 調印 = điều ấn\n\n💡 Hình dung:\nKý trước khi văn kiện chính thức có hiệu lực","x":40,"y":1060,"width":420,"height":320},
+		{"id":"word7","type":"text","text":"# 仮発注（かりはっちゅう）\n\n📦 Đặt hàng tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 発注 = phát chú\n\n💡 Hình dung:\nĐặt trước nhưng chưa chốt cuối cùng","x":1380,"y":620,"width":420,"height":320},
+		{"id":"word8","type":"text","text":"# 仮埋葬（かりまいそう）\n\n⚰️ Chôn cất tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 埋葬 = mai táng\n\n💡 Hình dung:\nMai táng trước khi cải táng hoặc xác nhận chính thức","x":1380,"y":1050,"width":420,"height":340},
+		{"id":"word9","type":"text","text":"# 仮免許（かりめんきょ）\n\n🚗 Giấy phép tạm thời\n\n📚 Hán Việt:\n- 仮 = giả\n- 免許 = miễn hứa\n\n💡 Hình dung:\nBằng lái tạm trong giai đoạn học lái","x":530,"y":1280,"width":460,"height":340},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 仮 mang cảm giác:\n『đặt trước để dùng tạm』\n\n➡️ Điểm chung của toàn bộ từ:\n- chưa hoàn tất\n- chưa cố định\n- chưa chính thức\n\n⚡ Liên tưởng:\n- draft\n- beta\n- temporary version\n\n📌 Prefix cực phổ biến trong văn bản pháp lý và business.","x":-270,"y":-710,"width":760,"height":440}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"word1","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"top","toNode":"word2","toSide":"bottom"},
+		{"id":"e3","fromNode":"center","fromSide":"top","toNode":"word3","toSide":"bottom"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"word4","toSide":"left"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"word5","toSide":"right"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"word6","toSide":"top"},
+		{"id":"e7","fromNode":"center","fromSide":"bottom","toNode":"word7","toSide":"top"},
+		{"id":"e8","fromNode":"center","fromSide":"bottom","toNode":"word8","toSide":"left"},
+		{"id":"e9","fromNode":"center","fromSide":"bottom","toNode":"word9","toSide":"top"},
+		{"id":"e10","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"9c9933d8aefd8b7f","fromNode":"pattern","fromSide":"left","toNode":"memory","toSide":"right"}
+	]
+}

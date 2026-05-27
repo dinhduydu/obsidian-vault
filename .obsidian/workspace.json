@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Tiền tố, hậu tố/接頭辞/大 - Đại.canvas",
+                "file": "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas",
                 "viewState": {
-                  "x": 710,
-                  "y": 285.43396226415086,
-                  "zoom": -0.8469883814940343
+                  "x": 1080.4966132940342,
+                  "y": 554.1179726384214,
+                  "zoom": -0.8365012677171206
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "大 - Đại"
+              "title": "草 - Thảo"
             }
           }
         ]
@@ -175,17 +175,22 @@
   },
   "active": "dca417d0165a233c",
   "lastOpenFiles": [
-    "N2漢字/Tiền tố, hậu tố/接頭辞/薄 - Bạc.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/大 - Đại.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/絵 - Hội Hoạ.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Untitled.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/一 - Nhất.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/幾 - Kí.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/悪 - Ác.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/異 - Dị.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/空 - Không.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/ある.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/あくる.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/Untitled.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/軍 - Quân.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/旧 - Cựu.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/急 - Cấp.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/仮 - Giả.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/逆 - Phản.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/逆 - Nghịch.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/管 - Quản.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/管.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 3",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 2",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 1",
+    "Chữa đề/24052026/問題 1.canvas",
+    "Chữa đề",
     "N2漢字/Tiền tố, hậu tố/接尾辞",
     "N2漢字/Tiền tố, hậu tố/接頭辞",
     "N2漢字/Tiền tố, hậu tố",
@@ -199,14 +204,9 @@
     "Pasted image 20260526003823.png",
     "Pasted image 20260526003253.png",
     "Pasted image 20260526002922.png",
-    "N2漢字/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
-    "N2漢字/24052026",
-    "N2文法/助詞/に",
+    "Chữa đề/Day13_用法/N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.pdf",
+    "Chữa đề/24052026",
     "N2文法/助詞/LAYOUT_README.md",
-    "N2文法/助詞/_layout_ni.ps1",
-    "N2文法/助詞/Apply-NiCanvasLayout.ps1",
-    "N2文法/助詞/layout-ni.mjs",
-    "N2文法/助詞/_layout_ni.py",
     "N2文法/復習/第２課.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "N2文法/自動詞ー他動詞/他動詞.md",

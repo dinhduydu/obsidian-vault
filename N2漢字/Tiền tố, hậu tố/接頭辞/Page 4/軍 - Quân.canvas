@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 820,
+      "y": 320,
+      "width": 560,
+      "height": 280,
+      "text": "# 軍～（ぐん～）\n\n📚 Hán Việt: QUÂN（軍）\n\n🪖 Ý nghĩa trung tâm:\nQuân đội • Quân sự • Liên quan đến lực lượng vũ trang\n\n📌 Thường dùng trong:\n- chính trị\n- quân sự\n- chiến tranh\n- tổ chức quốc phòng"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 460,
+      "height": 340,
+      "text": "# Ý nghĩa\n\n🧠 軍 mang nghĩa:\n- quân đội\n- lực lượng vũ trang\n- tổ chức quân sự\n\n➡️ Prefix 軍～ thường biến danh từ phía sau\nthành khái niệm liên quan quân đội.\n\n📌 Gần giống:\n- military\n- armed forces"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1540,
+      "y": 40,
+      "width": 540,
+      "height": 360,
+      "text": "# 軍高官（ぐんこうかん）\n\n🎖️ Quan chức quân đội cấp cao\n\n📚 Hán Việt:\n- 軍 = quân\n- 高官 = cao quan\n\n## Tách nghĩa\n- 軍 = quân đội\n- 高官 = quan chức cấp cao\n\n💡 Hình dung:\nTướng lĩnh hoặc lãnh đạo quân sự cấp cao"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1540,
+      "y": 500,
+      "width": 520,
+      "height": 360,
+      "text": "# 軍資金（ぐんしきん）\n\n💰 Nguồn tài chính cho quân đội\n\n📚 Hán Việt:\n- 軍 = quân\n- 資金 = tư kim\n\n## Tách nghĩa\n- 軍 = quân sự\n- 資金 = vốn/tài chính\n\n💡 Hình dung:\nNgân sách dùng để duy trì hoạt động quân đội"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1540,
+      "y": 960,
+      "width": 520,
+      "height": 360,
+      "text": "# 軍施設（ぐんしせつ）\n\n🏢 Cơ sở quân sự\n\n📚 Hán Việt:\n- 軍 = quân\n- 施設 = thi thiết\n\n## Tách nghĩa\n- 軍 = quân đội\n- 施設 = cơ sở vật chất\n\n💡 Hình dung:\n- căn cứ quân sự\n- doanh trại\n- khu huấn luyện"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -180,
+      "width": 760,
+      "height": 360,
+      "text": "# Pattern N2\n\n🧩 軍 + Danh từ\n→ Mang nghĩa:\n『thuộc quân đội / quân sự』\n\nVí dụ:\n- 軍事 = quân sự\n- 軍用機 = máy bay quân sự\n- 軍隊 = quân đội\n\n📌 Prefix này xuất hiện nhiều trong:\n- lịch sử\n- thời sự quốc tế\n- chính trị\n- chiến tranh"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 100,
+      "y": 760,
+      "width": 520,
+      "height": 420,
+      "text": "# So sánh nuance\n\n🪖 軍\n→ quân đội / tổ chức quân sự\n\n⚔️ 戦\n→ chiến tranh / chiến đấu\n\n📌 Ví dụ:\n- 軍施設 = cơ sở quân sự\n- 戦争 = chiến tranh"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 700,
+      "y": 1460,
+      "width": 820,
+      "height": 360,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 軍 bằng hình ảnh:\n\n🎖️ tướng lĩnh\n🏢 căn cứ quân sự\n💰 ngân sách quốc phòng\n\n➡️ Điểm chung:\n『mọi thứ thuộc về quân đội』\n\n📌 JLPT hay gặp:\n- 軍事\n- 軍隊\n- 軍施設"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

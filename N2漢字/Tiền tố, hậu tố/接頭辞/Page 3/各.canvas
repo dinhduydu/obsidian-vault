@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":520,"y":260,"width":520,"height":260,"text":"# 各～（かく～）\n\n📚 Hán Việt: CÁC（各）\n\n👥 Ý nghĩa trung tâm:\nMỗi • Từng • Các\n\n📌 Thường dùng để:\n- chỉ từng nhóm riêng biệt\n- nói về toàn bộ các thành phần\n- diễn đạt kiểu trang trọng / hành chính"},
+		{"id":"word1","type":"text","x":-120,"y":20,"width":380,"height":300,"text":"# 各学生（かくがくせい）\n\n🎓 Mỗi sinh viên / Các sinh viên\n\n📚 Hán Việt:\n- 各 = các\n- 学生 = học sinh\n\n## Tách nghĩa\n- 各 = mỗi\n- 学生 = sinh viên\n\n💡 Hình dung:\nTừng sinh viên riêng biệt"},
+		{"id":"word2","type":"text","x":1160,"y":20,"width":380,"height":300,"text":"# 各学校（かくがっこう）\n\n🏫 Mỗi trường học / Các trường\n\n📚 Hán Việt:\n- 各 = các\n- 学校 = học hiệu\n\n## Tách nghĩa\n- 各 = từng\n- 学校 = trường học\n\n💡 Hình dung:\nThông báo gửi đến tất cả trường"},
+		{"id":"word3","type":"text","x":-160,"y":420,"width":420,"height":320,"text":"# 各家庭（かくかてい）\n\n🏠 Mỗi gia đình / Các gia đình\n\n📚 Hán Việt:\n- 各 = các\n- 家庭 = gia đình\n\n## Tách nghĩa\n- 各 = mỗi\n- 家庭 = hộ gia đình\n\n💡 Hình dung:\nPhát tài liệu cho từng gia đình"},
+		{"id":"word4","type":"text","x":1180,"y":420,"width":420,"height":320,"text":"# 各クラス（かくクラス）\n\n🏫 Mỗi lớp học / Các lớp\n\n📚 Hán Việt:\n- 各 = các\n\n## Tách nghĩa\n- 各 = từng\n- クラス = lớp học\n\n💡 Hình dung:\nMỗi lớp đều có lịch riêng"},
+		{"id":"word5","type":"text","x":280,"y":760,"width":420,"height":320,"text":"# 各選手（かくせんしゅ）\n\n⚽ Mỗi tuyển thủ / Các cầu thủ\n\n📚 Hán Việt:\n- 各 = các\n- 選手 = tuyển thủ\n\n## Tách nghĩa\n- 各 = từng\n- 選手 = vận động viên\n\n💡 Hình dung:\nMỗi cầu thủ có vị trí riêng"},
+		{"id":"word6","type":"text","x":760,"y":760,"width":440,"height":320,"text":"# 各大臣（かくだいじん）\n\n🏛️ Mỗi bộ trưởng / Các bộ trưởng\n\n📚 Hán Việt:\n- 各 = các\n- 大臣 = đại thần\n\n## Tách nghĩa\n- 各 = từng\n- 大臣 = bộ trưởng\n\n💡 Hình dung:\nMỗi bộ trưởng phát biểu riêng"},
+		{"id":"word7","type":"text","x":520,"y":1120,"width":500,"height":340,"text":"# 各方面（かくほうめん）\n\n🌐 Mỗi phương diện / Các lĩnh vực\n\n📚 Hán Việt:\n- 各 = các\n- 方面 = phương diện\n\n## Tách nghĩa\n- 各 = từng\n- 方面 = mặt / lĩnh vực\n\n💡 Hình dung:\nẢnh hưởng đến nhiều lĩnh vực khác nhau"},
+		{"id":"pattern","type":"text","x":450,"y":-180,"width":660,"height":320,"text":"# Pattern N2\n\n🧩 各 + Danh từ\n→ Mang nghĩa:\n『mỗi ~』 hoặc 『các ~』\n\nVí dụ:\n- 各国 = các quốc gia\n- 各地域 = từng khu vực\n- 各社員 = mỗi nhân viên\n\n📌 Thường gặp trong:\n- tin tức\n- văn hành chính\n- thông báo chính thức"},
+		{"id":"memory","type":"text","x":420,"y":1520,"width":620,"height":260,"text":"# Memory Hint\n\n🧠 各 mang cảm giác:\n『chia thành từng phần riêng biệt』\n\n➡️ Không chỉ là “nhiều”.\nNó nhấn mạnh:\n- từng cá nhân\n- từng nhóm\n- từng đơn vị riêng.\n\n⚡ Gần giống:\n『each / every』 trong tiếng Anh."}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"word1","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word3","fromSide":"left","toSide":"right"},
+		{"id":"e4","fromNode":"center","toNode":"word4","fromSide":"right","toSide":"left"},
+		{"id":"e5","fromNode":"center","toNode":"word5","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"center","toNode":"word6","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"center","toNode":"word7","fromSide":"bottom","toSide":"top"},
+		{"id":"e8","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e9","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

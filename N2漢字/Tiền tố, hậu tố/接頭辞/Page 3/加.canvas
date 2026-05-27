@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 加 + Danh từ\n→ Mang nghĩa:\n『thêm vào / gia tăng / tăng cường』\n\nVí dụ:\n- 加熱 = gia nhiệt\n- 加工 = gia công\n- 加入 = gia nhập\n- 加算 = cộng thêm\n\n📌 Prefix rất phổ biến trong:\n- khoa học\n- kỹ thuật\n- kinh doanh","x":360,"y":-300,"width":640,"height":440},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 加 = thêm vào.\n\n➡️ Khi đứng trước từ:\nNó tạo cảm giác:\n- tăng thêm\n- cộng thêm\n- đẩy mạnh\n\n⚡ Có thể liên tưởng:\n『+』 trong toán học.","x":-80,"y":185,"width":320,"height":330},
+		{"id":"center","type":"text","text":"# 加～（か～）\n\n📚 Hán Việt: GIA（加）\n\n➕ Ý nghĩa trung tâm:\nThêm vào • Gia tăng • Tăng tốc\n\n📌 Thường dùng để:\n- chỉ sự tăng lên\n- thêm mức độ\n- gia tốc / gia nhiệt / tăng cường","x":430,"y":195,"width":500,"height":310},
+		{"id":"physics","type":"text","text":"# Physics Image\n\n🏎️ 加速度 = acceleration\n\nVí dụ:\nXe đang chạy nhanh hơn dần:\n20km/h → 40km/h → 60km/h\n\n➡️ Đó là gia tốc.","x":1080,"y":220,"width":360,"height":260},
+		{"id":"word1","type":"text","text":"# 加速度（かそくど）\n\n🚀 Gia tốc\n\n📚 Hán Việt:\n- 加 = gia\n- 速 = tốc\n- 度 = độ\n\n","x":420,"y":600,"width":520,"height":260},
+		{"id":"4cf1d6495f6fa935","x":430,"y":920,"width":500,"height":260,"type":"text","text":"## Tách nghĩa\n- 加 = tăng thêm\n- 速度 = tốc độ\n\n💡 Hình dung:\nTốc độ tăng dần theo thời gian\n\n📌 Thuật ngữ vật lý:\nMức thay đổi của vận tốc"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"bottom","toNode":"word1","toSide":"top"},
+		{"id":"e2","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e3","fromNode":"memory","fromSide":"right","toNode":"center","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"right","toNode":"physics","toSide":"left"},
+		{"id":"867a1bc4014a642e","fromNode":"word1","fromSide":"bottom","toNode":"4cf1d6495f6fa935","toSide":"top"}
+	]
+}
