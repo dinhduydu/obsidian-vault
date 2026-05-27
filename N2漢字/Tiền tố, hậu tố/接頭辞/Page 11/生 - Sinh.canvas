@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 生～（なま～）\n\n📚 Hán Việt: SINH（生）\n\n🌐 Ý nghĩa trung tâm:\n👉 trực tiếp • tươi sống • chưa qua xử lý\n\n📌 Sắc thái chính:\n- chưa chế biến / chưa qua lọc\n- diễn ra ngay lúc thật\n- trạng thái “tự nhiên”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 生（なま） mang 3 lớp nghĩa chính:\n\n1️⃣ Trực tiếp (live)\n- không ghi hình / không phát lại\n\n2️⃣ Tươi sống (fresh)\n- chưa nấu / chưa xử lý\n\n3️⃣ Thô / nguyên bản\n- chưa qua chỉnh sửa\n\n➡️ Gần nghĩa:\n- raw\n- live\n- fresh\n\n📌 Hay gặp trong đời sống & truyền thông"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 120,
+      "width": 920,
+      "height": 620,
+      "text": "# 生演奏（なまえんそう）\n\n🎻 Biểu diễn trực tiếp\n\n📚 Hán Việt:\n- 生 = trực tiếp\n- 演奏 = trình diễn âm nhạc\n\n💡 Nghĩa:\n- nhạc sống, không thu âm\n- biểu diễn ngay tại chỗ\n\n📌 Dùng trong:\n- concert\n- sự kiện âm nhạc"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 880,
+      "width": 920,
+      "height": 620,
+      "text": "# 生放送（なまほうそう）\n\n📺 Phát sóng trực tiếp\n\n📚 Hán Việt:\n- 生 = trực tiếp\n- 放送 = phát sóng\n\n💡 Nghĩa:\n- truyền hình / radio live\n- không ghi hình trước\n\n📌 Dùng trong:\n- TV\n- livestream\n- radio"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 620,
+      "text": "# 生ビール（なまびーる）\n\n🍺 Bia tươi\n\n📚 Hán Việt:\n- 生 = chưa xử lý nhiệt\n- ビール = bia\n\n💡 Nghĩa:\n- bia không tiệt trùng nhiệt hoàn toàn\n- vị tươi hơn, “fresh draft beer”\n\n📌 Dùng trong:\n- nhà hàng\n- quán nhậu\n\n⚠️ Không phải “bia sống”, mà là “bia tươi”"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 生 + danh từ\n→ nghĩa: “trực tiếp / tươi / chưa qua xử lý”\n\nVí dụ:\n- 生放送 = phát sóng live\n- 生中継 = truyền hình trực tiếp\n- 生卵 = trứng sống\n\n📌 Điểm chung:\n→ giữ trạng thái tự nhiên, chưa qua chế biến"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌐 生 = raw / live / fresh\n\n📌 Khác với:\n- 新 = mới (new)\n- 未 = chưa (not yet)\n\nVí dụ:\n- 生放送 = live broadcast\n- 新放送 ❌ (không tự nhiên)\n\n⚡ Cảm giác:\n『đang diễn ra thật / chưa qua xử lý』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 生～ bằng hình ảnh:\n📺 đang phát trực tiếp\n🍺 bia vừa rót\n🎻 biểu diễn ngay tại chỗ\n\n➡️ Điểm chung:\n『mọi thứ đang ở trạng thái thật, chưa xử lý』\n\n📌 Liên tưởng nhanh:\n生 = live / fresh / raw"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 920,
+      "y": 520,
+      "width": 780,
+      "height": 380,
+      "text": "# 準～（じゅん～）\n\n📚 Hán Việt: CHUẨN（準）\n\n🥈 Ý nghĩa trung tâm:\nGần đạt chuẩn • Thứ hai • Chưa chính thức\n\n📌 Thường dùng để:\n- chỉ trạng thái gần đạt\n- cấp bậc thấp hơn một chút\n- vai trò bán chính thức\n- vị trí á quân"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 420,
+      "width": 700,
+      "height": 700,
+      "text": "# Ý nghĩa\n\n🧠 準 mang sắc thái:\n- gần bằng\n- bán/chưa hoàn toàn chính thức\n- cấp dưới một bậc\n- đứng thứ hai\n\n➡️ Gần giống:\n- semi\n- quasi\n- sub\n- runner-up\n\n📌 Prefix này rất phổ biến trong:\n- thể thao\n- business\n- hợp đồng\n- tổ chức"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1860,
+      "y": 40,
+      "width": 860,
+      "height": 520,
+      "text": "# 準会員（じゅんかいいん）\n\n👤 Hội viên chưa chính thức\n\n📚 Hán Việt:\n- 準 = chuẩn/gần chính thức\n- 会員 = hội viên\n\n## Nuance\nNgười tham gia ở cấp tạm thời\nchưa có đầy đủ quyền hạn"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1860,
+      "y": 660,
+      "width": 860,
+      "height": 520,
+      "text": "# 準契約・準社員\n\n📄 Bán chính thức\n\n🧩 準契約\n→ hợp đồng tạm thời\n\n👔 準社員\n→ nhân viên chưa chính thức\n\n💡 Điểm chung:\nChưa đạt trạng thái full/chính thức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1860,
+      "y": 1280,
+      "width": 860,
+      "height": 560,
+      "text": "# 準決勝（じゅんけっしょう）\n\n🥈 Trận bán kết\n\n📚 Hán Việt:\n- 準 = gần\n- 決勝 = chung kết\n\n## Tách nghĩa\n- 準 = ngay trước\n- 決勝 = trận quyết định\n\n💡 Nuance:\nTrận ngay trước chung kết"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1860,
+      "y": 1960,
+      "width": 860,
+      "height": 620,
+      "text": "# 準宝石・準優勝\n\n💎 Đá bán quý / Á quân\n\n🧩 準宝石\n→ đá gần đạt cấp đá quý\n\n🏆 準優勝\n→ đứng thứ hai\n\n💡 Điểm chung:\nKhông phải cấp cao nhất\nnhưng rất gần"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 760,
+      "y": -260,
+      "width": 1100,
+      "height": 560,
+      "text": "# Pattern N2\n\n🧩 準 + Danh từ\n→ Mang nghĩa:\n『gần đạt / bán chính thức / đứng thứ hai』\n\nVí dụ:\n- 準急 = tàu bán tốc hành\n- 準教授 = phó giáo sư\n- 準備 = chuẩn bị\n\n📌 Prefix này thường mang cảm giác:\n- chưa hoàn toàn đạt cấp cao nhất\n- ở ngay dưới cấp chính thức"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1360,
+      "width": 800,
+      "height": 860,
+      "text": "# So sánh nuance\n\n🥇 正 / 本\n→ chính thức / chính quy\n\n🥈 準\n→ gần đạt / bán chính thức\n\n📌 Ví dụ:\n- 社員 = nhân viên chính thức\n- 準社員 = nhân viên dự bị\n\n🏆 優勝 = vô địch\n🥈 準優勝 = á quân\n\n⚡ 準 mang cảm giác:\n『còn thiếu một bước để đạt mức chính thức hoặc cao nhất』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 920,
+      "y": 2920,
+      "width": 1100,
+      "height": 640,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 準 bằng hình ảnh:\n\n🥈 người về nhì trong cuộc thi\n👔 nhân viên thử việc\n📄 hợp đồng tạm thời\n💎 đá gần giống đá quý thật\n\n➡️ Điểm chung:\n『rất gần với cấp chính thức hoặc cao nhất』\n\n📌 JLPT hay gặp:\n- 準決勝\n- 準優勝\n- 準社員\n- 準会員"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "word4"
+    },
+    {
+      "id": "e6",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e8",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

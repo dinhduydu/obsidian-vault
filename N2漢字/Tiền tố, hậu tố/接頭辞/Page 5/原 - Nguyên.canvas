@@ -1,0 +1,113 @@
+{}{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 820,
+      "y": 320,
+      "width": 580,
+      "height": 300,
+      "text": "# 原～（げん～）\n\n📚 Hán Việt: NGUYÊN（原）\n\n🌱 Ý nghĩa trung tâm:\nNguyên gốc • Nguồn • Căn bản ban đầu\n\n📌 Thường mang sắc thái:\n- thứ làm nền tảng\n- nguồn tạo ra điều khác\n- trạng thái nguyên bản"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 480,
+      "height": 380,
+      "text": "# Ý nghĩa\n\n🧠 原 mang cảm giác:\n- gốc rễ\n- nguyên bản\n- nguồn sinh ra thứ khác\n\n➡️ Gần giống:\n- origin\n- source\n- base\n- original\n\n📌 Đây là prefix cực phổ biến trong:\n- khoa học\n- kinh tế\n- xã hội\n- kỹ thuật"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1580,
+      "y": 20,
+      "width": 560,
+      "height": 380,
+      "text": "# 原材料（げんざいりょう）\n\n🏭 Nguyên vật liệu\n\n📚 Hán Việt:\n- 原 = nguyên\n- 材料 = tài liệu\n\n## Tách nghĩa\n- 原 = gốc\n- 材料 = vật liệu\n\n💡 Hình dung:\nNguyên liệu thô dùng để sản xuất sản phẩm"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1580,
+      "y": 500,
+      "width": 560,
+      "height": 400,
+      "text": "# 原住民（げんじゅうみん）\n\n🏕️ Dân bản địa\n\n📚 Hán Việt:\n- 原 = nguyên\n- 住民 = trú dân\n\n## Tách nghĩa\n- 原 = gốc ban đầu\n- 住民 = người cư trú\n\n💡 Hình dung:\nNhững người sinh sống tại vùng đó từ rất lâu trước khi có người ngoài đến"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1580,
+      "y": 1020,
+      "width": 560,
+      "height": 380,
+      "text": "# 原動力（げんどうりょく）\n\n⚙️ Nguồn lực thúc đẩy\n\n📚 Hán Việt:\n- 原 = nguyên\n- 動力 = động lực\n\n## Tách nghĩa\n- 原 = nguồn gốc\n- 動力 = sức mạnh vận hành\n\n💡 Hình dung:\nNguồn năng lượng hoặc lý do khiến mọi thứ chuyển động/phát triển"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -220,
+      "width": 800,
+      "height": 380,
+      "text": "# Pattern N2\n\n🧩 原 + Danh từ\n→ Mang nghĩa:\n『nguyên bản / nguồn gốc / nền tảng』\n\nVí dụ:\n- 原因 = nguyên nhân\n- 原子 = nguyên tử\n- 原点 = điểm gốc\n- 原作 = tác phẩm gốc\n\n📌 Prefix này cực kỳ phổ biến trong:\n- học thuật\n- business\n- khoa học\n- tin tức"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 780,
+      "width": 560,
+      "height": 460,
+      "text": "# So sánh nuance\n\n🌱 原\n→ nguồn gốc / nguyên bản\n\n🏠 元\n→ trước đây / cựu\n\n📌 Ví dụ:\n- 原住民 = dân bản địa gốc\n- 元社長 = cựu giám đốc\n\n⚡ 原 tập trung vào:\n『nguồn sinh ra thứ khác』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 700,
+      "y": 1540,
+      "width": 860,
+      "height": 400,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 原 bằng hình ảnh:\n\n🌱 gốc cây\n🏭 nguyên liệu thô\n⚙️ động cơ tạo năng lượng\n\n➡️ Điểm chung:\n『thứ nằm ở nền tảng hoặc nguồn gốc』\n\n📌 JLPT rất hay gặp:\n- 原因\n- 原作\n- 原材料\n- 原動力"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

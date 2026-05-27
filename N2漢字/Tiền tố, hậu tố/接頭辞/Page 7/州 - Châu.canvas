@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 900,
+      "y": 360,
+      "width": 700,
+      "height": 340,
+      "text": "# 州～（しゅう～）\n\n📚 Hán Việt: CHÂU（州）\n\n🏛️ Ý nghĩa trung tâm:\nBang • Châu • Đơn vị hành chính\n\n📌 Thường dùng để:\n- chỉ bang của quốc gia liên bang\n- khu vực hành chính lớn\n- đơn vị quản lý địa phương"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 620,
+      "height": 500,
+      "text": "# Ý nghĩa\n\n🧠 州 mang sắc thái:\n- bang\n- khu vực hành chính\n- đơn vị địa lý lớn\n\n➡️ Gần giống:\n- state\n- province\n- region\n\n📌 Prefix này thường gặp trong:\n- chính trị\n- địa lý\n- tin tức quốc tế"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1760,
+      "y": 300,
+      "width": 760,
+      "height": 560,
+      "text": "# 州政府（しゅうせいふ）\n\n🏛️ Chính quyền bang\n\n📚 Hán Việt:\n- 州 = châu/bang\n- 政府 = chính phủ\n\n## Tách nghĩa\n- 州 = bang\n- 政府 = chính quyền/chính phủ\n\n💡 Hình dung:\nCơ quan quản lý của một bang\n\n📌 Hay dùng khi nói về:\n- Mỹ\n- Úc\n- Đức\n- các quốc gia liên bang"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 980,
+      "height": 460,
+      "text": "# Pattern N2\n\n🧩 州 + Danh từ\n→ Mang nghĩa:\n『liên quan đến bang/châu』\n\nVí dụ:\n- 州議会 = nghị viện bang\n- 州知事 = thống đốc bang\n- 欧州 = châu Âu\n\n📌 Prefix này thường xuất hiện trong:\n- chính trị quốc tế\n- báo chí\n- tài liệu địa lý"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 920,
+      "width": 760,
+      "height": 660,
+      "text": "# So sánh nuance\n\n🏛️ 州\n→ bang / khu vực hành chính lớn\n\n🏙️ 市\n→ thành phố\n\n🏘️ 県\n→ tỉnh\n\n📌 Ví dụ:\n- 州政府 = chính quyền bang\n- 市政府 = chính quyền thành phố\n\n⚡ 州 thường dùng cho:\n『hệ thống liên bang hoặc khu vực lớn』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 860,
+      "y": 1780,
+      "width": 980,
+      "height": 520,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 州 bằng hình ảnh:\n\n🇺🇸 bản đồ nước Mỹ chia thành các bang\n🏛️ mỗi bang có chính quyền riêng\n🗳️ có thống đốc bang\n\n➡️ Điểm chung:\n『đơn vị hành chính lớn trong quốc gia』\n\n📌 JLPT hay gặp:\n- 州政府\n- 州知事\n- 欧州"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e4",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

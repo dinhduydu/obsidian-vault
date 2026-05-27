@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 直～（ちょく～）\n\n📚 Hán Việt: TRỰC（直）\n\n🌐 Ý nghĩa trung tâm:\nThẳng • trực tiếp • không qua trung gian\n\n📌 Thường dùng để:\n- đường đi thẳng\n- giao dịch trực tiếp\n- không vòng quanh / không trung gian"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 直 mang sắc thái:\n- đi thẳng, không rẽ\n- trực tiếp, không qua bước trung gian\n- ngay lập tức / trực diện\n\n➡️ Gần giống:\n- straight\n- direct\n- immediately\n\n📌 Hay gặp trong:\n- giao thông\n- thương mại\n- hành động"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 直走路（ちょくそうろ）\n\n🛣️ Đường chạy thẳng\n\n📚 Hán Việt:\n- 直 = thẳng\n- 走路 = đường chạy\n\n## Nuance\n- đường không rẽ nhánh\n- đi thẳng theo một hướng\n\n💡 Dùng trong:\n- giao thông\n- thể thao"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 直輸出（ちょくゆしゅつ）\n\n📦 Xuất khẩu trực tiếp\n\n📚 Hán Việt:\n- 直 = trực tiếp\n- 輸出 = xuất khẩu\n\n## Nuance\n- không qua trung gian\n- giao dịch thẳng giữa hai bên\n\n💡 Dùng trong:\n- kinh tế\n- thương mại quốc tế"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 760,
+      "text": "# 直輸入（ちょくゆにゅう）\n\n📦 Nhập khẩu trực tiếp\n\n📚 Hán Việt:\n- 直 = trực tiếp\n- 輸入 = nhập khẩu\n\n## Nuance\n- mua hàng từ nguồn gốc không qua trung gian\n- giảm chi phí trung gian\n\n💡 Dùng trong:\n- thương mại\n- logistics"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 直 + động từ / danh từ\n→ Mang nghĩa:\n『trực tiếp / thẳng / không trung gian』\n\nVí dụ:\n- 直通 = thông thẳng\n- 直結 = kết nối trực tiếp\n- 直接 = trực tiếp\n\n📌 Prefix này thường dùng trong:\n- giao thông\n- thương mại\n- hệ thống kết nối"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 直 = không qua trung gian, đi thẳng\n\n📌 Khác với:\n- 間接 = gián tiếp\n- 回り = vòng quanh\n\nVí dụ:\n- 直輸出 = xuất khẩu trực tiếp\n- 間接輸出 = xuất qua trung gian\n\n⚡ Cảm giác:\n『ngắn nhất, nhanh nhất, không vòng vo』\n\n📌 JLPT hay gặp:\n- 直接\n- 直通\n- 直行"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 直 bằng hình ảnh:\n\n➡️ một đường thẳng không rẽ\n📦 hàng hóa đi thẳng từ A → B\n🤝 giao tiếp không qua trung gian\n\n➡️ Điểm chung:\n『càng thẳng càng nhanh càng trực tiếp』\n\n📌 Liên tưởng nhanh:\n直 = straight / direct / immediate"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

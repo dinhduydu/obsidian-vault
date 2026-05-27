@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 同～（どう～）\n\n📚 Hán Việt: ĐỒNG（同）\n\n🌐 Ý nghĩa trung tâm:\n👉 cùng • giống nhau • chung một loại\n\n📌 Sắc thái:\n- cùng nhóm / cùng loại\n- cùng mức / cùng trạng thái\n- tính “đồng nhất”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 同 mang nghĩa:\n- giống nhau về bản chất\n- cùng nhóm / cùng hệ\n- không phân biệt khác nhau\n\n➡️ Gần nghĩa:\n- same\n- identical\n- shared\n\n📌 Hay dùng trong:\n- xã hội\n- phân loại\n- logic / hệ thống"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 120,
+      "width": 920,
+      "height": 620,
+      "text": "# 同形式（どうけいしき）\n\n📄 Cùng hình thức / định dạng\n\n📚 Hán Việt:\n- 同 = giống nhau\n- 形式 = hình thức\n\n💡 Nghĩa:\n- cùng format, cấu trúc giống nhau\n\n📌 Dùng trong:\n- kỹ thuật\n- văn bản\n- hệ thống"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 同世代（どうせだい）\n\n👥 Cùng thế hệ\n\n📚 Hán Việt:\n- 同 = cùng\n- 世代 = thế hệ\n\n💡 Nghĩa:\n- người sinh cùng thời\n- cùng độ tuổi xã hội\n\n📌 Dùng trong:\n- xã hội học\n- giao tiếp\n- so sánh thế hệ"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 620,
+      "text": "# 同問題（どうもんだい）\n\n❗ Cùng một vấn đề\n\n📚 Hán Việt:\n- 同 = cùng\n- 問題 = vấn đề\n\n💡 Nghĩa:\n- cùng một loại vấn đề\n- vấn đề giống nhau\n\n📌 Dùng trong:\n- học tập\n- thảo luận\n- báo cáo"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 同 + danh từ\n→ nghĩa: “cùng / giống nhau / chung”\n\nVí dụ:\n- 同時 = cùng lúc\n- 同一 = giống hệt\n- 同盟 = liên minh\n\n📌 Thường dùng để:\n- gom nhóm đối tượng\n- chỉ sự tương đồng\n- tạo hệ thống phân loại"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 同 = cùng loại / giống nhau\n\n📌 Khác với:\n- 等 = bằng nhau về mức độ\n- 共 = cùng nhau (hành động)\n\nVí dụ:\n- 同世代 = cùng thế hệ\n- 等距離 = khoảng cách bằng nhau\n\n⚡ Cảm giác:\n『giống nhau về bản chất hoặc loại』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Nhớ 同 bằng hình ảnh:\n👥 2 người giống nhau\n📦 cùng một nhóm\n\n➡️ Điểm chung:\n『cùng loại, cùng nhóm, không khác nhau』\n\n📌 Liên tưởng nhanh:\n同 = same / identical / shared"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

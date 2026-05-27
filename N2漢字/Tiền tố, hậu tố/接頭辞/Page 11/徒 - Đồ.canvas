@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":420,"text":"# 徒～（と～）\n\n📚 Hán Việt: ĐỒ（徒）\n\n🌐 Ý nghĩa trung tâm:\n- không chuyên / nghiệp dư\n- chỉ nhóm người tham gia (đội / bộ phận)\n- mang sắc thái “thuộc về nhóm” trong một hoạt động\n\n📌 Trong nhiều trường hợp:\n👉 徒 = người tham gia / nhóm / bộ phận\n👉 hoặc mang nghĩa “không chính thức, không chuyên”"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 徒 mang các sắc thái:\n- nhóm người tham gia một hoạt động\n- tính chất nghiệp dư / không chuyên\n- tập thể tham gia thi đấu / hành động\n\n➡️ Gần giống:\n- amateur\n- group / team (trong bối cảnh cổ)\n- participants\n\n📌 Hay gặp trong:\n- thể thao\n- tổ chức nhóm\n- từ Hán cổ / cố định"},
+		{"id":"word1","type":"text","x":1940,"y":200,"width":920,"height":620,"text":"# 徒競走（ときょうそう）\n\n🏃‍♂️ Cuộc chạy đua (100m, chạy ngắn)\n\n📚 Hán Việt:\n- 徒 = chạy bộ / người tham gia\n- 競走 = thi chạy\n\n## Nuance\n- chạy bộ thi đấu\n- thường dùng trong thể thao học đường\n\n💡 Dùng trong:\n- thể thao\n- trường học"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 徒 + danh từ thể thao / hành động\n→ mang nghĩa:\n『người tham gia / thi đấu / hoạt động bộ môn』\n\nVí dụ:\n- 徒競走 = chạy thi\n- 徒歩 = đi bộ\n- 徒労 = công sức uổng phí\n\n📌 Lưu ý:\n- 徒 không chỉ nghĩa “đồ”\n- nó mang sắc thái nhóm / hành động / trạng thái"},
+		{"id":"compare","type":"text","x":120,"y":1540,"width":860,"height":920,"text":"# So sánh nuance\n\n🌐 徒 ≠ chỉ “đồ vật”\n\n📌 Thực tế nghĩa gần hơn:\n- người tham gia (group)\n- hoạt động bằng sức người\n- không dùng máy móc\n\nVí dụ:\n- 徒競走 (chạy bộ)\n- 自動車競走 (xe đua)\n\n⚡ Cảm giác:\n『tự thân vận động / mang tính người tham gia trực tiếp』"},
+		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 徒 bằng hình ảnh:\n\n🏃‍♂️ người chạy bằng chân\n👥 nhóm người cùng thi đấu\n🚫 không dùng máy móc\n\n➡️ Điểm chung:\n『con người trực tiếp tham gia hành động』\n\n📌 Liên tưởng nhanh:\n徒 = human-powered / group activity"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e4","fromNode":"center","toNode":"compare","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":820,"height":400,"text":"# 助～（じょ～）\n\n📚 Hán Việt: TRỢ（助）\n\n🤝 Ý nghĩa trung tâm:\nHỗ trợ • Trợ lý • Phụ trợ\n\n📌 Thường dùng để:\n- chỉ vai trò hỗ trợ\n- chức vụ phụ tá\n- thành phần bổ trợ trong ngôn ngữ"},
+		{"id":"meaning","type":"text","x":120,"y":500,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 助 mang sắc thái:\n- trợ giúp\n- hỗ trợ\n- phụ tá\n- đóng vai trò bổ sung\n\n➡️ Gần giống:\n- assistant\n- support\n- auxiliary\n\n📌 Prefix này thường gặp trong:\n- giáo dục\n- công việc\n- ngữ pháp Nhật\n- tổ chức"},
+		{"id":"word1","type":"text","x":1940,"y":40,"width":920,"height":620,"text":"# 助監督（じょかんとく）\n\n🎬 Trợ lý đạo diễn\n\n📚 Hán Việt:\n- 助 = trợ\n- 監督 = giám đốc/đạo diễn\n\n## Tách nghĩa\n- 助 = hỗ trợ\n- 監督 = người chỉ đạo chính\n\n💡 Nuance:\nNgười hỗ trợ đạo diễn chính\ntrong quá trình sản xuất phim"},
+		{"id":"word2","type":"text","x":1940,"y":780,"width":920,"height":700,"text":"# 助教授・助教諭\n\n👨‍🏫 Trợ giảng / giảng viên hỗ trợ\n\n🧩 助教授\n→ phó giáo sư/trợ giảng\n\n🧩 助教諭\n→ giáo viên hỗ trợ\n\n💡 Điểm chung:\nVai trò hỗ trợ cho giáo sư\nhoặc giảng viên chính"},
+		{"id":"word3","type":"text","x":1940,"y":1620,"width":920,"height":620,"text":"# 助動詞（じょどうし）\n\n📝 Trợ động từ\n\n📚 Hán Việt:\n- 助 = trợ\n- 動詞 = động từ\n\n## Nuance\nTừ hỗ trợ cho động từ chính\nđể biểu thị:\n- thời\n- khả năng\n- ý chí\n- bị động...\n\n📌 Ví dụ:\n- ます\n- たい\n- られる"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 助 + Danh từ\n→ Mang nghĩa:\n『hỗ trợ / phụ tá / bổ trợ』\n\nVí dụ:\n- 助手 = trợ lý\n- 助演 = diễn viên phụ\n- 助産師 = hộ sinh\n\n📌 Prefix này thường biểu thị:\n- vai trò hỗ trợ\n- chức năng phụ trợ\n- người giúp việc cho vị trí chính"},
+		{"id":"compare","type":"text","x":120,"y":1480,"width":860,"height":900,"text":"# So sánh nuance\n\n👑 主\n→ chính / trung tâm\n\n🤝 助\n→ hỗ trợ / phụ tá\n\n📌 Ví dụ:\n- 主役 = vai chính\n- 助演 = vai phụ\n\n⚡ 助 tạo cảm giác:\n『không phải nhân vật trung tâm\nnhưng đóng vai trò hỗ trợ quan trọng』\n\n📌 JLPT hay gặp:\n- 助動詞\n- 助手\n- 助教授"},
+		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 助 bằng hình ảnh:\n\n🎬 trợ lý đứng cạnh đạo diễn\n👨‍🏫 giảng viên phụ hỗ trợ lớp học\n📝 trợ động từ giúp câu có ý nghĩa hoàn chỉnh\n\n➡️ Điểm chung:\n『đều hỗ trợ cho thành phần chính』\n\n📌 JLPT hay gặp:\n- 助動詞\n- 助監督\n- 助教授\n- 助手"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

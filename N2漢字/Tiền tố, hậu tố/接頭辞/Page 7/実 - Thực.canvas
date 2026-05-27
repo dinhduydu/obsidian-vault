@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":900,"y":420,"width":700,"height":340,"text":"# 実～（じつ～ / じっ～）\n\n📚 Hán Việt: THỰC（実）\n\n🌏 Ý nghĩa trung tâm:\nThực tế • Thực sự • Ngoài đời\n\n📌 Thường dùng để:\n- nhấn mạnh tính thực tế\n- phân biệt với lý thuyết\n- chỉ đời sống ngoài xã hội"},
+		{"id":"meaning","type":"text","x":120,"y":300,"width":620,"height":500,"text":"# Ý nghĩa\n\n🧠 実 mang sắc thái:\n- thực tế\n- thật sự\n- ngoài đời thật\n- không phải lý thuyết\n\n➡️ Gần giống:\n- real\n- actual\n- practical\n\n📌 Prefix này thường gặp trong:\n- giáo dục\n- xã hội\n- business\n- JLPT reading"},
+		{"id":"group1","type":"text","x":1760,"y":120,"width":760,"height":520,"text":"# 実社会（じっしゃかい）\n\n🏢 Xã hội thực tế\n\n📚 Hán Việt:\n- 実 = thực\n- 社会 = xã hội\n\n## Tách nghĩa\n- 実 = thực tế\n- 社会 = xã hội\n\n💡 Nuance:\nXã hội ngoài đời thật\nkhác với môi trường học tập"},
+		{"id":"group2","type":"text","x":1760,"y":760,"width":760,"height":520,"text":"# 実生活（じっせいかつ）\n\n🏠 Cuộc sống thực tế\n\n📚 Hán Việt:\n- 実 = thực\n- 生活 = sinh hoạt/cuộc sống\n\n## Tách nghĩa\n- 実 = thật sự\n- 生活 = đời sống\n\n💡 Nuance:\nCuộc sống ngoài đời\nkhông phải tưởng tượng hoặc lý thuyết"},
+		{"id":"group3","type":"text","x":1760,"y":1400,"width":760,"height":520,"text":"# 実世間（じつせけん）\n\n🌍 Xã hội thực tế\n\n📚 Hán Việt:\n- 実 = thực\n- 世間 = thế gian/xã hội\n\n## Tách nghĩa\n- 実 = thực tế\n- 世間 = xã hội bên ngoài\n\n💡 Nuance:\nMang sắc thái văn viết hơn\nso với 実社会"},
+		{"id":"pattern","type":"text","x":760,"y":-220,"width":980,"height":460,"text":"# Pattern N2\n\n🧩 実 + Danh từ\n→ Mang nghĩa:\n『thực tế / thật sự / ngoài đời』\n\nVí dụ:\n- 実用 = thực dụng\n- 実力 = thực lực\n- 実体験 = trải nghiệm thực tế\n\n📌 Prefix này thường nhấn mạnh:\n- tính ứng dụng\n- tính thực tế\n- khác với lý thuyết"},
+		{"id":"compare","type":"text","x":120,"y":980,"width":720,"height":660,"text":"# So sánh nuance\n\n🌏 実\n→ thực tế / thật sự\n\n📚 理論\n→ lý thuyết\n\n📌 Ví dụ:\n- 実社会 = xã hội thực tế\n- 理論社会 = xã hội trong lý thuyết\n\n⚡ 実 mang cảm giác:\n『thứ tồn tại và xảy ra ngoài đời thật』\n\n📌 JLPT rất thích dùng:\n- 実際\n- 実力\n- 実社会"},
+		{"id":"memory","type":"text","x":860,"y":2140,"width":980,"height":520,"text":"# Memory Hint\n\n🧠 Hãy nhớ 実 bằng hình ảnh:\n\n🎓 sinh viên bước ra đời\n🏢 đi làm ngoài xã hội\n🏠 va chạm cuộc sống thực tế\n\n➡️ Điểm chung:\n『không còn là lý thuyết nữa』\n\n📌 JLPT hay gặp:\n- 実社会\n- 実生活\n- 実際\n- 実力\n- 実体験"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"group1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"group2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"group3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

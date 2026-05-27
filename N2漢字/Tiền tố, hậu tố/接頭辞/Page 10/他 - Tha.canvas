@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 他～（た～）\n\n📚 Hán Việt: THA（他）\n\n🌐 Ý nghĩa trung tâm:\nKhác • bên ngoài • không thuộc nhóm chính\n\n📌 Thường dùng để:\n- chỉ “cái khác” ngoài phạm vi hiện tại\n- so sánh / phân biệt\n- mở rộng đối tượng"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 他 mang sắc thái:\n- khác với cái đang nói\n- thuộc nhóm “ngoài ra”\n- không phải cái chính\n\n➡️ Gần giống:\n- other\n- another\n- different\n\n📌 Hay gặp trong:\n- xã hội\n- địa lý\n- phân loại"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 他大学（ただいがく）\n\n🏫 Trường đại học khác\n\n📚 Hán Việt:\n- 他 = khác\n- 大学 = đại học\n\n## Nuance\n- trường đại học không phải trường đang nói đến\n- dùng để so sánh / phân biệt\n\n💡 Dùng trong:\n- giáo dục\n- mô tả hệ thống"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 他地域（たちいき）\n\n🌍 Khu vực khác\n\n📚 Hán Việt:\n- 他 = khác\n- 地域 = khu vực\n\n## Nuance\n- vùng ngoài khu vực hiện tại\n- dùng trong địa lý / hành chính\n\n💡 Dùng trong:\n- bản đồ\n- thống kê\n- xã hội"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 720,
+      "text": "# 他民族（たみんぞく）\n\n👥 Dân tộc khác\n\n📚 Hán Việt:\n- 他 = khác\n- 民族 = dân tộc\n\n## Nuance\n- nhóm dân tộc không phải dân tộc chính\n- dùng trong nghiên cứu xã hội\n\n💡 Dùng trong:\n- nhân học\n- lịch sử\n- xã hội học"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 他 + Danh từ\n→ Mang nghĩa:\n『khác / ngoài phạm vi chính』\n\nVí dụ:\n- 他人 = người khác\n- 他社 = công ty khác\n- 他国 = quốc gia khác\n\n📌 Prefix này thường dùng trong:\n- xã hội\n- hành chính\n- phân loại"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 他 = cái khác ngoài nhóm chính\n\n📌 Khác với:\n- 同 = cùng / giống\n- 自 = tự / bản thân\n\nVí dụ:\n- 他国 = nước khác\n- 同国 = cùng nước\n\n⚡ Cảm giác:\n『tách khỏi nhóm hiện tại để chỉ phần còn lại』\n\n📌 JLPT hay gặp:\n- 他人\n- 他社\n- 他国"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 他 bằng hình ảnh:\n\n🌍 một đất nước khác\n🏫 một trường khác\n👥 một nhóm khác\n\n➡️ Điểm chung:\n『không thuộc nhóm đang nói tới』\n\n📌 Liên tưởng nhanh:\n他 = other / different / outside group"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

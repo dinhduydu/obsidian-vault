@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 860,
+      "y": 340,
+      "width": 620,
+      "height": 300,
+      "text": "# 今～（こん～）\n\n📚 Hán Việt: KIM（今）\n\n🕒 Ý nghĩa trung tâm:\nLần này • Hiện tại • Kỳ này\n\n📌 Thường dùng để:\n- nói về mùa hiện tại\n- sự kiện hiện tại\n- đợt/kỳ đang diễn ra"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 540,
+      "height": 420,
+      "text": "# Ý nghĩa\n\n🧠 今 mang sắc thái:\n- hiện tại\n- lần này\n- kỳ đang diễn ra\n\n➡️ Gần giống:\n- this\n- current\n- this time\n\n📌 Prefix này thường gặp trong:\n- thể thao\n- tin tức\n- TV shows\n- business"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1640,
+      "y": 80,
+      "width": 620,
+      "height": 420,
+      "text": "# 今シーズン（こんシーズン）\n\n🏆 Mùa này\n\n📚 Hán Việt:\n- 今 = kim\n- シーズン = season\n\n## Tách nghĩa\n- 今 = hiện tại/lần này\n- シーズン = mùa giải\n\n💡 Hình dung:\nMùa giải đang diễn ra hiện nay\n\n📌 Rất hay gặp trong:\n- bóng đá\n- anime\n- drama\n- thời trang"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1640,
+      "y": 620,
+      "width": 620,
+      "height": 420,
+      "text": "# 今大会（こんたいかい）\n\n🏅 Đại hội lần này\n\n📚 Hán Việt:\n- 今 = kim\n- 大会 = đại hội\n\n## Tách nghĩa\n- 今 = lần này\n- 大会 = giải đấu/sự kiện lớn\n\n💡 Hình dung:\nGiải đấu hoặc sự kiện hiện đang diễn ra"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -220,
+      "width": 860,
+      "height": 420,
+      "text": "# Pattern N2\n\n🧩 今 + Danh từ\n→ Mang nghĩa:\n『lần này / hiện tại / kỳ này』\n\nVí dụ:\n- 今回 = lần này\n- 今世紀 = thế kỷ này\n- 今学期 = học kỳ này\n\n📌 Prefix này thường nhấn mạnh:\n- thời điểm hiện tại\n- sự kiện hiện đang diễn ra"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 820,
+      "width": 660,
+      "height": 520,
+      "text": "# So sánh nuance\n\n🕒 今\n→ lần này / hiện tại\n\n➡️ 来\n→ lần tới / tương lai\n\n📌 Ví dụ:\n- 今大会 = giải lần này\n- 来大会 = giải lần tới\n\n⚡ 今 tập trung vào:\n『thứ đang xảy ra ở hiện tại』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 760,
+      "y": 1480,
+      "width": 940,
+      "height": 420,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 今 bằng hình ảnh:\n\n🏆 mùa giải hiện tại\n📺 show đang phát sóng\n🎯 sự kiện đang diễn ra\n\n➡️ Điểm chung:\n『mọi thứ thuộc về lần này / hiện tại』\n\n📌 JLPT hay gặp:\n- 今回\n- 今大会\n- 今シーズン\n- 今世紀"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

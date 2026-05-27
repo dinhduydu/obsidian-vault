@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 860,
+      "y": 340,
+      "width": 620,
+      "height": 300,
+      "text": "# 高～（こう～）\n\n📚 Hán Việt: CAO（高）\n\n📈 Ý nghĩa trung tâm:\nCao • Mức độ cao • Chất lượng cao\n\n📌 Thường dùng để:\n- chỉ level cao\n- tiêu chuẩn cao\n- năng lực/địa vị cao\n- giá trị lớn"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 520,
+      "height": 420,
+      "text": "# Ý nghĩa\n\n🧠 高 mang sắc thái:\n- vượt mức trung bình\n- level cao\n- chất lượng tốt\n- giá trị lớn\n\n➡️ Gần giống:\n- high\n- advanced\n- premium\n\n📌 Prefix này cực phổ biến trong:\n- business\n- giáo dục\n- kinh tế\n- kỹ thuật"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1640,
+      "y": 20,
+      "width": 560,
+      "height": 360,
+      "text": "# 高学歴（こうがくれき）\n\n🎓 Học vấn cao\n\n📚 Hán Việt:\n- 高 = cao\n- 学歴 = học lịch\n\n## Tách nghĩa\n- 高 = cao\n- 学歴 = trình độ học vấn\n\n💡 Hình dung:\nNgười có bằng cấp cao\nhoặc học ở trường danh tiếng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1640,
+      "y": 500,
+      "width": 560,
+      "height": 360,
+      "text": "# 高収入（こうしゅうにゅう）\n\n💰 Thu nhập cao\n\n📚 Hán Việt:\n- 高 = cao\n- 収入 = thu nhập\n\n## Tách nghĩa\n- 高 = mức cao\n- 収入 = tiền kiếm được\n\n💡 Hình dung:\nCông việc lương tốt\nkiếm được nhiều tiền"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1640,
+      "y": 980,
+      "width": 560,
+      "height": 360,
+      "text": "# 高水準（こうすいじゅん）\n\n📊 Tiêu chuẩn cao\n\n📚 Hán Việt:\n- 高 = cao\n- 水準 = thủy chuẩn\n\n## Tách nghĩa\n- 高 = level cao\n- 水準 = tiêu chuẩn/mức độ\n\n💡 Nuance:\nĐạt chất lượng hoặc trình độ cao"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -220,
+      "width": 860,
+      "height": 420,
+      "text": "# Pattern N2\n\n🧩 高 + Danh từ\n→ Mang nghĩa:\n『cao / level cao / chất lượng cao』\n\nVí dụ:\n- 高性能 = hiệu năng cao\n- 高品質 = chất lượng cao\n- 高価格 = giá cao\n- 高速 = tốc độ cao\n\n📌 Prefix này thường nhấn mạnh:\n- mức độ vượt trội\n- chất lượng tốt\n- trình độ cao"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 820,
+      "width": 620,
+      "height": 520,
+      "text": "# So sánh nuance\n\n📈 高\n→ cao về level/chất lượng\n\n🏔️ 大\n→ lớn về quy mô\n\n📌 Ví dụ:\n- 高収入 = thu nhập cao\n- 大企業 = công ty lớn\n\n⚡ 高 tập trung vào:\n『mức độ / trình độ / chất lượng』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 760,
+      "y": 1580,
+      "width": 920,
+      "height": 440,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 高 bằng hình ảnh:\n\n🎓 bằng cấp cao\n💰 lương cao\n📊 tiêu chuẩn cao cấp\n\n➡️ Điểm chung:\n『mọi thứ ở level cao hơn bình thường』\n\n📌 JLPT hay gặp:\n- 高学歴\n- 高収入\n- 高水準\n- 高性能"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

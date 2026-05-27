@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 900,
+      "y": 380,
+      "width": 700,
+      "height": 340,
+      "text": "# 主～（しゅ～）\n\n📚 Hán Việt: CHỦ（主）\n\n🎯 Ý nghĩa trung tâm:\nChính • Chủ yếu • Quan trọng nhất\n\n📌 Thường dùng để:\n- chỉ thứ quan trọng nhất\n- mục tiêu chính\n- khu vực chính\n- vai trò trung tâm"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 620,
+      "height": 500,
+      "text": "# Ý nghĩa\n\n🧠 主 mang sắc thái:\n- chính\n- chủ yếu\n- trung tâm\n- quan trọng nhất\n\n➡️ Gần giống:\n- main\n- primary\n- principal\n\n📌 Prefix này cực phổ biến trong:\n- business\n- báo chí\n- học thuật\n- JLPT reading"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1760,
+      "y": 120,
+      "width": 760,
+      "height": 520,
+      "text": "# 主産地（しゅさんち）\n\n🌾 Nơi sản xuất chính\n\n📚 Hán Việt:\n- 主 = chủ\n- 産地 = sản địa\n\n## Tách nghĩa\n- 主 = chính/chủ yếu\n- 産地 = vùng sản xuất\n\n💡 Hình dung:\nKhu vực sản xuất nổi tiếng nhất\nhoặc sản xuất nhiều nhất"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1760,
+      "y": 820,
+      "width": 760,
+      "height": 520,
+      "text": "# 主目的（しゅもくてき）\n\n🎯 Mục đích chính\n\n📚 Hán Việt:\n- 主 = chủ\n- 目的 = mục đích\n\n## Tách nghĩa\n- 主 = chính\n- 目的 = mục tiêu\n\n💡 Nuance:\nMục tiêu quan trọng nhất\ntrong nhiều mục tiêu"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 980,
+      "height": 480,
+      "text": "# Pattern N2\n\n🧩 主 + Danh từ\n→ Mang nghĩa:\n『chính / chủ yếu / quan trọng nhất』\n\nVí dụ:\n- 主原因 = nguyên nhân chính\n- 主人公 = nhân vật chính\n- 主張 = chủ trương/chủ kiến\n\n📌 Prefix này thường dùng để:\n- nhấn mạnh trọng tâm\n- phân biệt với phần phụ"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 920,
+      "width": 760,
+      "height": 660,
+      "text": "# So sánh nuance\n\n🎯 主\n→ chính / chủ yếu\n\n➕ 副\n→ phụ / hỗ trợ\n\n📌 Ví dụ:\n- 主目的 = mục đích chính\n- 副作用 = tác dụng phụ\n\n⚡ 主 mang cảm giác:\n『thứ quan trọng và trung tâm nhất』\n\n📌 Gần giống:\n- main\n- primary"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 860,
+      "y": 1860,
+      "width": 980,
+      "height": 520,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 主 bằng hình ảnh:\n\n🎯 mục tiêu chính\n🌾 vùng sản xuất nổi tiếng nhất\n🎬 nhân vật chính trong phim\n\n➡️ Điểm chung:\n『đều là trung tâm hoặc quan trọng nhất』\n\n📌 JLPT hay gặp:\n- 主目的\n- 主人公\n- 主原因\n- 主産地"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

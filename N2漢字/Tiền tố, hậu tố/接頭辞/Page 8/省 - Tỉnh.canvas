@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":820,"height":400,"text":"# 省～（しょう～）\n\n📚 Hán Việt: TỈNH（省）\n\n🌱 Ý nghĩa trung tâm:\nTiết kiệm • Cắt giảm • Giảm thiểu\n\n📌 Thường dùng để:\n- giảm tiêu hao\n- tối ưu tài nguyên\n- tiết kiệm năng lượng"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 省 mang sắc thái:\n- tiết kiệm\n- giảm bớt\n- cắt giảm\n- hạn chế lãng phí\n\n➡️ Gần giống:\n- saving\n- reduction\n- eco-efficient\n\n📌 Prefix này thường gặp trong:\n- môi trường\n- công nghiệp\n- công nghệ\n- chính sách tiết kiệm"},
+		{"id":"word1","type":"text","x":1940,"y":80,"width":920,"height":620,"text":"# 省資源（しょうしげん）\n\n🌍 Tiết kiệm tài nguyên\n\n📚 Hán Việt:\n- 省 = tiết giảm\n- 資源 = tài nguyên\n\n## Nuance\nGiảm sử dụng:\n- nước\n- nhiên liệu\n- khoáng sản\n- nguyên liệu\n\n💡 Hay gặp trong:\n- môi trường\n- sản xuất\n- chính sách quốc gia"},
+		{"id":"word2","type":"text","x":1940,"y":860,"width":920,"height":700,"text":"# 省エネ（しょうえね）\n\n⚡ Tiết kiệm năng lượng\n\n🧩 Viết tắt của:\n省エネルギー\n\n📚 Hán Việt:\n- 省 = tiết kiệm\n- エネ = energy\n\n## Nuance\nGiảm tiêu thụ:\n- điện\n- gas\n- nhiên liệu\n\n📌 Rất phổ biến tại Nhật:\n- máy lạnh\n- tủ lạnh\n- thiết bị điện tử"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 省 + Danh từ\n→ Mang nghĩa:\n『giảm thiểu / tiết kiệm』\n\nVí dụ:\n- 省電力 = tiết kiệm điện\n- 省スペース = tiết kiệm không gian\n- 省時間 = tiết kiệm thời gian\n\n📌 Prefix này thường mang sắc thái:\n- tối ưu\n- hiệu quả\n- chống lãng phí"},
+		{"id":"compare","type":"text","x":120,"y":1500,"width":860,"height":920,"text":"# So sánh nuance\n\n🌱 省\n→ tiết kiệm / cắt giảm\n\n📈 増\n→ tăng thêm\n\n📌 Ví dụ:\n- 省エネ = tiết kiệm năng lượng\n- エネルギー増加 = tăng năng lượng tiêu thụ\n\n⚡ 省 tạo cảm giác:\n『dùng ít hơn để đạt hiệu quả tốt hơn』\n\n📌 JLPT hay gặp:\n- 省エネ\n- 省資源\n- 省略"},
+		{"id":"memory","type":"text","x":980,"y":2680,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 省 bằng hình ảnh:\n\n💡 tắt điện khi ra khỏi phòng\n🚿 dùng ít nước hơn\n🌍 bảo vệ môi trường bằng tiết kiệm tài nguyên\n\n➡️ Điểm chung:\n『giảm lãng phí để sử dụng hiệu quả hơn』\n\n📌 Từ cực phổ biến ở Nhật:\n- 省エネ家電\n- 省資源\n- 省スペース"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

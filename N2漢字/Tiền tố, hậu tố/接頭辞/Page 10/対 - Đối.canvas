@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 対～（たい～）\n\n📚 Hán Việt: ĐỐI（対）\n\n🌐 Ý nghĩa trung tâm:\nĐối với • hướng tới • liên quan đến bên kia\n\n📌 Thường dùng để:\n- chỉ đối tượng mục tiêu\n- quan hệ hai phía\n- hướng tác động"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 対 mang sắc thái:\n- hướng về phía đối tượng\n- quan hệ A ↔ B\n- tác động trực tiếp lên một bên\n\n➡️ Gần giống:\n- toward\n- against\n- in relation to\n\n📌 Hay gặp trong:\n- kinh tế\n- chính trị\n- giao tiếp quốc tế"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 620,
+      "width": 920,
+      "height": 640,
+      "text": "# 対米輸出（たいべいゆしゅつ）\n\n📦 Xuất khẩu sang Mỹ\n\n📚 Hán Việt:\n- 対 = đối / hướng tới\n- 米 = Mỹ\n- 輸出 = xuất khẩu\n\n## Nuance\n- hàng hóa xuất khẩu sang thị trường Mỹ\n- quan hệ thương mại song phương\n\n💡 Dùng trong:\n- kinh tế\n- thương mại quốc tế"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 対 + Danh từ\n→ Mang nghĩa:\n『đối với / hướng tới / quan hệ với』\n\nVí dụ:\n- 対人 = đối với người khác\n- 対策 = biện pháp đối phó\n- 対応 = ứng phó / đối ứng\n\n📌 Prefix này thường dùng trong:\n- kinh tế\n- chính trị\n- chiến lược"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 対 = có sự “đối diện / tương tác 2 chiều”\n\n📌 Khác với:\n- 向 = hướng về một phía\n- 関 = liên quan chung\n\nVí dụ:\n- 対米 = hướng tới Mỹ\n- 対策 = đối phó tình huống\n\n⚡ Cảm giác:\n『có một đối tượng cụ thể để tác động hoặc phản ứng』\n\n📌 JLPT hay gặp:\n- 対策\n- 対応\n- 対立"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 対 bằng hình ảnh:\n\n🤝 hai bên đối diện nhau\n📦 hàng hóa đi sang một nước khác\n⚔️ đối đầu / phản ứng\n\n➡️ Điểm chung:\n『luôn có 2 phía liên quan trực tiếp』\n\n📌 Liên tưởng nhanh:\n対 = toward / against / face-to-face"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

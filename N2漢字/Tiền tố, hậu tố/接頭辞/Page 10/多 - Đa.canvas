@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":420,"text":"# 多～（た～）\n\n📚 Hán Việt: ĐA（多）\n\n🌐 Ý nghĩa trung tâm:\nNhiều • đa • số lượng lớn / nhiều phương diện\n\n📌 Thường dùng để:\n- nhấn mạnh số lượng lớn\n- nhiều chức năng / mục đích\n- đa dạng khía cạnh"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 多 mang sắc thái:\n- nhiều\n- đa dạng\n- không chỉ một hướng\n\n➡️ Gần giống:\n- many\n- multi\n- diverse\n\n📌 Hay gặp trong:\n- công nghệ\n- kinh tế\n- đời sống hiện đại"},
+		{"id":"word1","type":"text","x":1940,"y":80,"width":920,"height":620,"text":"# 多機能（たきのう）\n\n⚙️ Nhiều chức năng / đa năng\n\n📚 Hán Việt:\n- 多 = nhiều\n- 機能 = chức năng\n\n## Nuance\n- một thiết bị có nhiều chức năng\n- tích hợp nhiều tính năng\n\n💡 Dùng trong:\n- đồ điện tử\n- công nghệ"},
+		{"id":"word2","type":"text","x":1940,"y":860,"width":920,"height":620,"text":"# 多方面（たほうめん）\n\n🌐 Nhiều khía cạnh\n\n📚 Hán Việt:\n- 多 = nhiều\n- 方面 = phương diện\n\n## Nuance\n- nhìn từ nhiều góc độ\n- không chỉ một phía\n\n💡 Dùng trong:\n- phân tích\n- báo cáo\n- đánh giá"},
+		{"id":"word3","type":"text","x":1940,"y":1640,"width":920,"height":720,"text":"# 多目的（たもくてき）\n\n🎯 Đa mục đích\n\n📚 Hán Việt:\n- 多 = nhiều\n- 目的 = mục đích\n\n## Nuance\n- dùng cho nhiều mục đích khác nhau\n- không chỉ một công dụng\n\n💡 Dùng trong:\n- thiết kế\n- sản phẩm\n- công trình"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 多 + Danh từ\n→ Mang nghĩa:\n『nhiều / đa / đa dạng chức năng』\n\nVí dụ:\n- 多人数 = nhiều người\n- 多国籍 = đa quốc tịch\n- 多言語 = đa ngôn ngữ\n\n📌 Prefix này thường dùng trong:\n- công nghệ\n- xã hội hiện đại\n- tổ chức"},
+		{"id":"compare","type":"text","x":120,"y":1540,"width":860,"height":920,"text":"# So sánh nuance\n\n🌐 多 = nhiều / đa dạng\n\n📌 Không phải chỉ “nhiều số lượng”\n→ mà còn là “đa hướng”\n\nVí dụ:\n- 多機能 = nhiều chức năng\n- 単一機能 = chỉ 1 chức năng\n\n⚡ Cảm giác:\n『linh hoạt, đa chiều, không giới hạn một hướng』\n\n📌 JLPT hay gặp:\n- 多機能\n- 多方面\n- 多目的"},
+		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 多 bằng hình ảnh:\n\n⚙️ một máy có nhiều chức năng\n🌐 nhiều góc nhìn khác nhau\n🎯 dùng cho nhiều mục đích\n\n➡️ Điểm chung:\n『không chỉ một, mà là nhiều hướng cùng lúc』\n\n📌 Liên tưởng nhanh:\n多 = many / multi / multiple"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

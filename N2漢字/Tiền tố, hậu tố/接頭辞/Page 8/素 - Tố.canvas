@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 820,
+      "height": 420,
+      "text": "# 素～（す～）\n\n📚 Hán Việt: TỐ（素）\n\n🌿 Ý nghĩa trung tâm:\nĐơn thuần • Tự nhiên • Không trang điểm / không thêm thắt\n\n📌 Thường dùng để:\n- trạng thái nguyên bản\n- không chỉnh sửa\n- mang tính tự nhiên"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 素 mang sắc thái:\n- nguyên bản\n- tự nhiên\n- không trang trí\n- thuần khiết / chưa can thiệp\n\n➡️ Gần giống:\n- plain\n- natural\n- raw\n\n📌 Prefix này thường gặp trong:\n- đời sống\n- hành vi\n- cách dùng dịch vụ\n- trạng thái tự nhiên"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 素顔（すがお）\n\n😊 Mặt mộc\n\n📚 Hán Việt:\n- 素 = tự nhiên\n- 顔 = khuôn mặt\n\n## Nuance\n- không trang điểm\n- khuôn mặt thật\n- tự nhiên, không che giấu\n\n💡 Hay dùng trong:\n- đời sống\n- beauty / idol / người nổi tiếng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 820,
+      "width": 920,
+      "height": 700,
+      "text": "# 素通り（すどおり）\n\n🚶‍♂️ Đi qua / bỏ qua\n\n📚 Hán Việt:\n- 素 = không thêm gì\n- 通り = đi qua\n\n## Nuance\n- đi thẳng mà không dừng\n- bỏ qua không chú ý\n- không nhận ra (nghĩa bóng)\n\n💡 Ví dụ nghĩa bóng:\n- cơ hội bị bỏ qua\n- thông tin không được chú ý"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1600,
+      "width": 920,
+      "height": 700,
+      "text": "# 素泊まり（すどまり）\n\n🏨 Chỉ thuê phòng (không ăn uống)\n\n📚 Hán Việt:\n- 素 = đơn giản\n- 泊まり = lưu trú\n\n## Nuance\n- chỉ ở lại khách sạn\n- không bao gồm ăn sáng / bữa ăn\n\n💡 Hay dùng trong:\n- đặt khách sạn\n- du lịch tiết kiệm"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 素 + Danh từ\n→ Mang nghĩa:\n『tự nhiên / đơn giản / nguyên bản』\n\nVí dụ:\n- 素材 = nguyên liệu\n- 素質 = tố chất\n- 素人 = người không chuyên\n\n📌 Prefix này thường mang cảm giác:\n- không chỉnh sửa\n- nguyên gốc\n- đơn giản"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌿 素\n→ tự nhiên / nguyên bản\n\n🎨 加工\n→ đã xử lý / chỉnh sửa\n\n📌 Ví dụ:\n- 素顔 = mặt mộc\n- 加工写真 = ảnh đã chỉnh sửa\n\n⚡ 素 tạo cảm giác:\n『không giả tạo, không thêm thắt』\n\n📌 JLPT hay gặp:\n- 素顔\n- 素質\n- 素人"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 素 bằng hình ảnh:\n\n🌿 khuôn mặt không trang điểm\n🏨 phòng chỉ để ngủ, không dịch vụ thêm\n🚶 đi ngang qua mà không dừng lại\n\n➡️ Điểm chung:\n『mọi thứ ở trạng thái đơn giản, nguyên bản』\n\n📌 Liên tưởng nhanh:\n素 = simple / natural / raw"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

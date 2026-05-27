@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 静～（せい～）\n\n📚 Hán Việt: TĨNH（静）\n\n🔌 Ý nghĩa trung tâm:\nTĩnh • yên lặng • không chuyển động / ổn định\n\n📌 Thường dùng để:\n- hiện tượng vật lý\n- trạng thái yên tĩnh\n- tính chất không động"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 静 mang sắc thái:\n- yên tĩnh\n- không ồn ào\n- không chuyển động rõ ràng\n\n➡️ Gần giống:\n- quiet\n- still\n- calm\n\n📌 Hay gặp trong:\n- vật lý (điện)\n- môi trường\n- trạng thái"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 820,
+      "width": 920,
+      "height": 700,
+      "text": "# 静電気（せいでんき）\n\n⚡ Điện tĩnh\n\n📚 Hán Việt:\n- 静 = tĩnh (không di chuyển)\n- 電気 = điện\n\n## Nuance\n- điện tích đứng yên trên bề mặt\n- thường gây “giật tê tay” khi chạm\n\n💡 Ví dụ thực tế:\n- chạm tay vào cửa kim loại bị giật nhẹ\n- mùa đông dễ bị hơn"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 静 + Danh từ\n→ Mang nghĩa:\n『tĩnh / không chuyển động / yên ổn』\n\nVí dụ:\n- 静止 = đứng yên\n- 静寂 = tĩnh lặng\n- 静脈 = tĩnh mạch\n\n📌 Prefix này thường dùng trong:\n- vật lý\n- y học\n- mô tả trạng thái"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🔌 静 = không chuyển động / yên\n\n📌 Đối lập:\n- 動 = động (chuyển động)\n\nVí dụ:\n- 静電気 = điện tĩnh\n- 動電気 = dòng điện (ý niệm đối lập)\n\n⚡ Cảm giác:\n『không di chuyển nhưng vẫn tồn tại năng lượng』\n\n📌 JLPT hay gặp:\n- 静電気\n- 静止\n- 静寂"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 静 bằng hình ảnh:\n\n🤫 phòng im lặng\n⚡ tia điện giật nhẹ khi chạm tay\n🌙 không khí đứng yên\n\n➡️ Điểm chung:\n『không chuyển động nhưng vẫn có trạng thái tồn tại』\n\n📌 Liên tưởng nhanh:\n静 = calm / still / static"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

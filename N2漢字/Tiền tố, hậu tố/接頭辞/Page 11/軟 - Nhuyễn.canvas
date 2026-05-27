@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 軟～（なん～）\n\n📚 Hán Việt: NHUYỄN（軟）\n\n🌐 Ý nghĩa trung tâm:\n👉 mềm • nhẹ • an toàn • êm\n\n📌 Sắc thái:\n- giảm lực tác động\n- tránh sốc / va chạm\n- chuyển trạng thái êm"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 軟 mang nghĩa:\n- mềm / không cứng\n- nhẹ nhàng / không mạnh\n- an toàn, tránh rủi ro lớn\n\n➡️ Gần nghĩa:\n- soft\n- gentle\n- smooth\n\n📌 Hay dùng trong:\n- kỹ thuật\n- kinh tế (chính sách)\n- hàng không"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 920,
+      "height": 700,
+      "text": "# 軟着陸（なんちゃくりく）\n\n✈️ Hạ cánh an toàn / nhẹ nhàng\n\n📚 Hán Việt:\n- 軟 = mềm, nhẹ\n- 着陸 = hạ cánh\n\n💡 Nghĩa gốc:\n- máy bay hạ cánh êm, không sốc\n\n💡 Nghĩa ẩn:\n- chuyển đổi kinh tế / chính trị không gây khủng hoảng\n\n📌 Dùng trong:\n- hàng không\n- kinh tế\n- chính sách"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 軟 + danh từ\n→ nghĩa: “êm / nhẹ / an toàn / giảm sốc”\n\nVí dụ:\n- 軟着陸 = hạ cánh mềm\n- 軟化 = làm mềm\n- 軟調 = xu hướng mềm\n\n📌 Thường dùng trong:\n- kỹ thuật\n- kinh tế\n- chính trị"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌐 軟 = mềm / giảm sốc / an toàn\n\n📌 Khác với:\n- 硬 = cứng, mạnh\n- 急 = đột ngột\n\nVí dụ:\n- 軟着陸 = hạ cánh êm\n- 硬着陸 ❌ = hạ cánh cứng (xấu)\n\n⚡ Cảm giác:\n『êm, không gây sốc, chuyển đổi nhẹ nhàng』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 軟 bằng hình ảnh:\n✈️ máy bay chạm đất rất êm\n🛋️ chạm xuống như đệm mềm\n\n➡️ Điểm chung:\n『giảm lực, tránh sốc, chuyển trạng thái nhẹ nhàng』\n\n📌 Liên tưởng nhanh:\n軟 = soft landing / gentle / safe"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

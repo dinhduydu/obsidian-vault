@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 難～（なん～）\n\n📚 Hán Việt: NAN（難）\n\n🌐 Ý nghĩa trung tâm:\n👉 khó • phức tạp • nan giải\n\n📌 Sắc thái:\n- mức độ khó cao\n- dễ gây trở ngại\n- cần nhiều công sức để giải quyết"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 難 mang nghĩa:\n- khó khăn\n- phức tạp\n- khó giải quyết\n\n➡️ Gần nghĩa:\n- difficult\n- hard\n- complicated\n\n📌 Hay dùng trong:\n- công việc\n- sự cố\n- vấn đề xã hội"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 920,
+      "height": 700,
+      "text": "# 難事業（なんじぎょう）\n\n🏗️ Dự án / công việc khó khăn\n\n📚 Hán Việt:\n- 難 = khó\n- 事業 = sự nghiệp / dự án\n\n💡 Nghĩa:\n- công việc lớn, nhiều trở ngại\n- cần nhiều nguồn lực để thực hiện\n\n📌 Dùng trong:\n- kinh doanh\n- dự án xã hội"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1000,
+      "width": 920,
+      "height": 700,
+      "text": "# 難事件（なんじけん）\n\n🕵️ Vụ việc nan giải\n\n📚 Hán Việt:\n- 難 = khó\n- 事件 = sự kiện / vụ việc\n\n💡 Nghĩa:\n- vụ việc phức tạp\n- khó điều tra / xử lý\n\n📌 Dùng trong:\n- pháp luật\n- tin tức\n- điều tra"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1800,
+      "width": 920,
+      "height": 700,
+      "text": "# 難問題（なんもんだい）\n\n❗ Vấn đề khó khăn, phức tạp\n\n📚 Hán Việt:\n- 難 = khó\n- 問題 = vấn đề\n\n💡 Nghĩa:\n- vấn đề khó giải quyết\n- cần nhiều thời gian / công sức\n\n📌 Dùng trong:\n- học tập\n- xã hội\n- thảo luận"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 難 + danh từ\n→ nghĩa: “khó khăn / phức tạp / nan giải”\n\nVí dụ:\n- 難解 = khó hiểu\n- 難問 = câu hỏi khó\n- 難航 = gặp khó khăn (tiến trình)\n\n📌 Thường dùng để:\n- nhấn mạnh mức độ khó\n- mô tả vấn đề nghiêm trọng"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌐 難 = difficult / complicated\n\n📌 Khác với:\n- 困難 = khó khăn chung (danh từ)\n- 易 = dễ\n\nVí dụ:\n- 難問題 = vấn đề khó\n- 困難な問題 = vấn đề khó (mô tả)\n\n⚡ Cảm giác:\n『phức tạp, không dễ giải quyết』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 難 bằng hình ảnh:\n🧩 bài toán rối\n🕵️ vụ án phức tạp\n🏗️ công trình nhiều trở ngại\n\n➡️ Điểm chung:\n『mọi thứ đều khó xử lý, cần nhiều công sức』\n\n📌 Liên tưởng nhanh:\n難 = hard / complex / tough"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

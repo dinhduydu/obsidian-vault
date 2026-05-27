@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 820,
+      "height": 400,
+      "text": "# 上～（じょう～）\n\n📚 Hán Việt: THƯỢNG（上）\n\n📈 Ý nghĩa trung tâm:\nTốt • Cao • Chất lượng cao\n\n📌 Thường dùng để:\n- biểu thị trạng thái tốt\n- mức độ cao hơn bình thường\n- chất lượng vượt trội"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 500,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 上 mang sắc thái:\n- tốt\n- cao\n- ưu tú\n- vượt mức trung bình\n\n➡️ Gần giống:\n- superior\n- high-grade\n- excellent\n\n📌 Prefix này thường gặp trong:\n- thành tích\n- tâm trạng\n- chất lượng\n- đánh giá"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 上きげん（じょうきげん）\n\n😊 Tâm trạng tốt\n\n📚 Hán Việt:\n- 上 = tốt/cao\n- 機嫌 = tâm trạng\n\n## Nuance\nMang nghĩa:\n- vui vẻ\n- hài lòng\n- mood tốt\n\n💡 Thường dùng:\n- 上機嫌だ\n- 今日は上機嫌"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 上成績（じょうせいせき）\n\n🏆 Thành tích tốt\n\n📚 Hán Việt:\n- 上 = cao/tốt\n- 成績 = thành tích\n\n## Nuance\nKết quả:\n- điểm cao\n- hiệu suất tốt\n- thành tích nổi bật\n\n📌 Hay gặp:\n- học tập\n- thi cử\n- đánh giá công việc"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 上 + Danh từ\n→ Mang nghĩa:\n『cao / tốt / chất lượng cao』\n\nVí dụ:\n- 上出来 = làm rất tốt\n- 上品質 = chất lượng cao\n- 上機嫌 = tâm trạng tốt\n\n📌 Prefix này thường tạo cảm giác:\n- tích cực\n- vượt chuẩn\n- đáng khen"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1480,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n📈 上\n→ tốt / cao / superior\n\n📉 低\n→ thấp\n\n📌 Ví dụ:\n- 上成績 = thành tích tốt\n- 低成績 = thành tích thấp\n\n⚡ 上 tạo cảm giác:\n『đạt mức cao hơn bình thường』\n\n📌 JLPT hay gặp:\n- 上機嫌\n- 上達\n- 上級"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2540,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 上 bằng hình ảnh:\n\n📈 biểu đồ tăng lên\n😊 tâm trạng vui vẻ\n🏆 điểm số cao\n\n➡️ Điểm chung:\n『mọi thứ đều ở mức cao và tích cực』\n\n📌 Liên tưởng nhanh:\n上 = đi lên = tốt hơn"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

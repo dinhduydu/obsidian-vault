@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 700,
+      "width": 820,
+      "height": 420,
+      "text": "# 初～（しょ～ / はつ～）\n\n📚 Hán Việt: SƠ（初）\n\n🌱 Ý nghĩa trung tâm:\nĐầu tiên • Lần đầu • Khởi đầu\n\n📌 Thường dùng để:\n- chỉ lần đầu xảy ra\n- đánh dấu bước khởi đầu\n- trải nghiệm đầu tiên"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 560,
+      "width": 760,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 初 mang sắc thái:\n- đầu tiên\n- lần đầu\n- mở đầu\n- mới bắt đầu\n\n➡️ Gần giống:\n- first\n- initial\n- debut\n\n📌 Có 2 cách đọc phổ biến:\n\n🧩 しょ～\n→ thiên về khái niệm/thời kỳ\nVD: 初年度\n\n🧩 はつ～\n→ nhấn mạnh “lần đầu tiên xảy ra”\nVD: 初公開"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 20,
+      "width": 900,
+      "height": 620,
+      "text": "# 初体験・初対面\n\n🌱 Trải nghiệm đầu tiên / gặp lần đầu\n\n🧩 初体験（しょたいけん）\n→ trải nghiệm lần đầu\n\n🧩 初対面（しょたいめん）\n→ gặp mặt lần đầu\n\n💡 Nuance:\nMang cảm giác mới mẻ\nấn tượng đầu tiên"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 760,
+      "width": 900,
+      "height": 640,
+      "text": "# 初年度・初会見\n\n📅 Năm đầu tiên / họp báo đầu tiên\n\n🧩 初年度（しょねんど）\n→ năm đầu tiên\n\n🧩 初会見（はつかいけん）\n→ buổi họp báo đầu tiên\n\n💡 Hay gặp trong:\n- business\n- chính trị\n- tin tức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1520,
+      "width": 900,
+      "height": 720,
+      "text": "# 初公開・初勝利・初登場\n\n🎉 Lần đầu xuất hiện/thành công\n\n🧩 初公開\n→ lần đầu công khai\n\n🧩 初勝利\n→ chiến thắng đầu tiên\n\n🧩 初登場\n→ lần đầu xuất hiện\n\n💡 Mang sắc thái:\n- milestone\n- sự kiện đáng chú ý\n- lần đầu đạt được"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2380,
+      "width": 900,
+      "height": 700,
+      "text": "# 初登庁・初舞台\n\n🏛️ Lần đầu đến công sở / debut\n\n🧩 初登庁\n→ lần đầu đến cơ quan làm việc\n\n🧩 初舞台\n→ debut trước công chúng\n\n💡 Nuance:\nĐánh dấu sự khởi đầu chính thức\ntrong sự nghiệp hoặc vai trò mới"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 初 + Danh từ\n→ Mang nghĩa:\n『đầu tiên / lần đầu tiên』\n\nVí dụ:\n- 初恋 = mối tình đầu\n- 初参加 = lần đầu tham gia\n- 初出勤 = ngày đầu đi làm\n\n📌 Prefix này thường gợi cảm giác:\n- mới mẻ\n- đáng nhớ\n- khởi đầu quan trọng"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1620,
+      "width": 860,
+      "height": 960,
+      "text": "# So sánh nuance\n\n🌱 初\n→ lần đầu / khởi đầu\n\n🔁 再\n→ làm lại / lần nữa\n\n📌 Ví dụ:\n- 初公開 = công khai lần đầu\n- 再公開 = công khai lại\n\n⚡ 初 tạo cảm giác:\n『mới mẻ và chưa từng xảy ra trước đó』\n\n📌 JLPT cực hay gặp:\n- 初対面\n- 初体験\n- 初登場\n- 初舞台"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 3440,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 初 bằng hình ảnh:\n\n🎤 ca sĩ debut lần đầu\n🏆 chiến thắng đầu tiên\n🤝 gặp mặt lần đầu\n🌸 trải nghiệm đầu tiên trong đời\n\n➡️ Điểm chung:\n『mọi thứ đều vừa mới bắt đầu』\n\n📌 JLPT hay gặp:\n- 初体験\n- 初対面\n- 初公開\n- 初登場\n- 初舞台"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "word4"
+    },
+    {
+      "id": "e6",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e8",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

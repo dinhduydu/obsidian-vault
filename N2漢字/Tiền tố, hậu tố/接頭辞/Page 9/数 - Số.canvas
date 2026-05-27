@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 820,
+      "height": 420,
+      "text": "# 数～（すう～）\n\n📚 Hán Việt: SỐ（数）\n\n🔢 Ý nghĩa trung tâm:\nMột vài • Một số • Ước lượng số lượng\n\n📌 Thường dùng để:\n- nói số lượng không chính xác\n- mang tính ước lượng\n- dùng trong thống kê / mô tả"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 数 mang sắc thái:\n- vài / một số\n- không cụ thể\n- mang tính ước lượng\n\n➡️ Gần giống:\n- several\n- some\n- a number of\n\n📌 Prefix này thường dùng trong:\n- thống kê\n- báo cáo\n- mô tả số lượng lớn"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 数時間（すうじかん）\n\n⏳ Vài giờ\n\n📚 Hán Việt:\n- 数 = vài\n- 時間 = thời gian / giờ\n\n## Nuance\n- khoảng vài giờ\n- không xác định chính xác\n\n💡 Ví dụ:\n- 数時間待つ = chờ vài giờ"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 数年間（すうねんかん）\n\n📅 Vài năm\n\n📚 Hán Việt:\n- 数 = vài\n- 年間 = số năm\n\n## Nuance\n- khoảng vài năm\n- không xác định cụ thể\n\n💡 Ví dụ:\n- 数年間住んでいた = đã sống vài năm"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 700,
+      "text": "# 数万人（すうまんにん）\n\n👥 Vài chục nghìn người\n\n📚 Hán Việt:\n- 数 = vài\n- 万人 = vạn người (10.000 người)\n\n## Nuance\n- số lượng lớn nhưng không chính xác\n- thường dùng trong tin tức / thống kê\n\n💡 Ví dụ:\n- 数万人が参加した = vài chục nghìn người tham gia"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 数 + Danh từ đếm được\n→ Mang nghĩa:\n『vài / một số / số lượng không xác định chính xác』\n\nVí dụ:\n- 数日 = vài ngày\n- 数十人 = vài chục người\n- 数百円 = vài trăm yên\n\n📌 Prefix này thường dùng trong:\n- báo chí\n- thống kê\n- mô tả chung"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🔢 数\n→ vài / không chính xác\n\n📌 具体的な数\n→ con số cụ thể\n\nVí dụ:\n- 数時間 = vài giờ\n- 3時間 = 3 giờ\n\n⚡ 数 tạo cảm giác:\n『ước lượng, không cần chính xác tuyệt đối』\n\n📌 JLPT hay gặp:\n- 数時間\n- 数年間\n- 数万人"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 数 bằng hình ảnh:\n\n⏳ vài giờ chờ đợi\n📅 vài năm trôi qua\n👥 vài chục nghìn người trong sự kiện\n\n➡️ Điểm chung:\n『không cần số chính xác, chỉ ước lượng』\n\n📌 Liên tưởng nhanh:\n数 = some / several / khoảng chừng"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

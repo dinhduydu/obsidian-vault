@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":820,"y":320,"width":560,"height":280,"text":"# 劇～（げき～）\n\n📚 Hán Việt: KỊCH（劇）\n\n🎭 Ý nghĩa trung tâm:\nKịch • Phim truyện • Nghệ thuật sân khấu\n\n📌 Thường liên quan đến:\n- cốt truyện\n- diễn xuất\n- sân khấu\n- phim mang tính drama"},
+		{"id":"meaning","type":"text","x":120,"y":260,"width":460,"height":360,"text":"# Ý nghĩa\n\n🧠 劇 mang nghĩa:\n- kịch\n- drama\n- sân khấu\n\n➡️ Prefix 劇～ thường dùng cho:\n- nghệ thuật biểu diễn\n- tác phẩm có cốt truyện\n- nội dung mang tính kịch tính"},
+		{"id":"word1","type":"text","x":1540,"y":40,"width":580,"height":420,"text":"# 劇映画（げきえいが）\n\n🎬 Phim truyện / phim kịch\n\n📚 Hán Việt:\n- 劇 = kịch\n- 映画 = ánh họa\n\n## Tách nghĩa\n- 劇 = drama/cốt truyện\n- 映画 = phim ảnh\n\n💡 Nuance:\nPhim tập trung vào:\n- diễn xuất\n- nội dung\n- phát triển cốt truyện\n\n📌 Khác với:\n- phim tài liệu\n- video ngắn"},
+		{"id":"word2","type":"text","x":1540,"y":560,"width":520,"height":360,"text":"# 劇作家（げきさっか）\n\n✍️ Nhà soạn kịch\n\n📚 Hán Việt:\n- 劇 = kịch\n- 作家 = tác gia\n\n## Tách nghĩa\n- 劇 = kịch\n- 作家 = nhà sáng tác\n\n💡 Hình dung:\nNgười viết:\n- kịch sân khấu\n- drama\n- screenplay"},
+		{"id":"word3","type":"text","x":1540,"y":1020,"width":520,"height":360,"text":"# 劇台本（げきだいほん）\n\n📖 Kịch bản\n\n📚 Hán Việt:\n- 劇 = kịch\n- 台本 = đài bản\n\n## Tách nghĩa\n- 劇 = drama\n- 台本 = script\n\n💡 Hình dung:\nCuốn script diễn viên dùng khi diễn xuất"},
+		{"id":"pattern","type":"text","x":700,"y":-180,"width":760,"height":360,"text":"# Pattern N2\n\n🧩 劇 + Danh từ\n→ Mang nghĩa:\n『liên quan đến kịch / drama / sân khấu』\n\nVí dụ:\n- 劇場 = nhà hát\n- 劇団 = đoàn kịch\n- 劇的 = mang tính kịch tính\n\n📌 Prefix này thường xuất hiện trong:\n- điện ảnh\n- sân khấu\n- văn học\n- nghệ thuật biểu diễn"},
+		{"id":"compare","type":"text","x":100,"y":760,"width":540,"height":440,"text":"# So sánh nuance\n\n🎭 劇\n→ drama / có cốt truyện\n\n📄 ドキュメンタリー\n→ phim tài liệu\n\n📌 Ví dụ:\n- 劇映画 = phim truyện\n- ドキュメンタリー映画 = phim tài liệu"},
+		{"id":"memory","type":"text","x":700,"y":1520,"width":840,"height":380,"text":"# Memory Hint\n\n🧠 Hãy nhớ 劇 bằng hình ảnh:\n\n🎭 sân khấu\n🎬 phim drama\n📖 kịch bản diễn xuất\n\n➡️ Điểm chung:\n『mọi thứ xoay quanh câu chuyện và diễn xuất』\n\n📌 JLPT hay gặp:\n- 劇場\n- 劇団\n- 劇的\n- 劇映画"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"compare","toNode":"center","fromSide":"right","toSide":"bottom"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

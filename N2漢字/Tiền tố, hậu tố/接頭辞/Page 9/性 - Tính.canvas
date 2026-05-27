@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 440,
+      "text": "# 性～（せい～）\n\n📚 Hán Việt: TÍNH（性）\n\n⚧ Ý nghĩa trung tâm:\nGiới tính • Tính chất liên quan đến con người / bản chất\n\n📌 Thường dùng để:\n- nói về giới tính (gender/sex)\n- vấn đề xã hội\n- đặc điểm con người"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 性 mang 2 lớp nghĩa chính:\n\n1️⃣ Giới tính (gender/sex)\n- nam / nữ\n- xã hội / giáo dục\n\n2️⃣ Tính chất (nature)\n- đặc tính\n- xu hướng\n- bản chất\n\n➡️ Gần giống:\n- sex / gender\n- nature / characteristic\n\n📌 Hay gặp trong:\n- xã hội học\n- y học\n- giáo dục"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 性観念（せいかんねん）\n\n🧠 Quan niệm về giới tính\n\n📚 Hán Việt:\n- 性 = giới tính\n- 観念 = quan niệm / ý thức\n\n## Nuance\n- cách nhìn về giới tính\n- quan điểm xã hội về nam/nữ\n\n💡 Dùng trong:\n- nghiên cứu xã hội\n- tâm lý học"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 性教育（せいきょういく）\n\n📖 Giáo dục giới tính\n\n📚 Hán Việt:\n- 性 = giới tính\n- 教育 = giáo dục\n\n## Nuance\n- dạy về cơ thể\n- kiến thức về quan hệ nam nữ\n- sức khỏe sinh sản\n\n💡 Dùng trong:\n- trường học\n- chương trình giáo dục"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 700,
+      "text": "# 性差別（せいさべつ）\n\n⚖️ Phân biệt giới tính\n\n📚 Hán Việt:\n- 性 = giới tính\n- 差別 = phân biệt / kỳ thị\n\n## Nuance\n- đối xử không công bằng dựa trên giới tính\n- thường nói về vấn đề xã hội\n\n💡 Ví dụ:\n- 男女の性差別 = phân biệt giới tính nam nữ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 性 + Danh từ\n→ Mang nghĩa:\n『liên quan đến giới tính / tính chất』\n\nVí dụ:\n- 性格 = tính cách\n- 性質 = tính chất\n- 性能 = hiệu năng / tính năng\n\n📌 Prefix này thường xuất hiện trong:\n- xã hội\n- khoa học\n- tâm lý"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n⚧ 性 = giới tính / bản chất\n\n📌 Không chỉ là “male/female”\n→ còn là đặc tính bên trong\n\nVí dụ:\n- 性差別 = phân biệt giới tính\n- 性格 = tính cách (bản chất con người)\n\n⚡ Cảm giác:\n『xã hội + con người + bản chất』\n\n📌 JLPT hay gặp:\n- 性格\n- 性質\n- 性差別"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 性 bằng hình ảnh:\n\n⚧ nam / nữ\n📖 lớp học giáo dục giới tính\n⚖️ vấn đề phân biệt đối xử\n\n➡️ Điểm chung:\n『mọi thứ liên quan đến con người và bản chất xã hội』\n\n📌 Liên tưởng nhanh:\n性 = gender + nature"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

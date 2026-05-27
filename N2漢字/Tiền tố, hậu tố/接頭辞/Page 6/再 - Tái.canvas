@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 920,
+      "y": 520,
+      "width": 700,
+      "height": 340,
+      "text": "# 再～（さい～）\n\n📚 Hán Việt: TÁI（再）\n\n🔁 Ý nghĩa trung tâm:\nLàm lại • Tái • Một lần nữa\n\n📌 Thường dùng để:\n- lặp lại hành động\n- khôi phục lại\n- thực hiện lần nữa\n- tái sử dụng/tái tổ chức"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 360,
+      "width": 620,
+      "height": 520,
+      "text": "# Ý nghĩa\n\n🧠 再 mang sắc thái:\n- làm lại\n- quay lại lần nữa\n- phục hồi\n- tái thực hiện\n\n➡️ Gần giống:\n- re-\n- again\n- retry\n- restart\n\n📌 Prefix cực phổ biến trong:\n- business\n- hành chính\n- y tế\n- giáo dục\n- truyền hình"
+    },
+    {
+      "id": "group1",
+      "type": "text",
+      "x": 1820,
+      "y": -40,
+      "width": 760,
+      "height": 720,
+      "text": "# 📂 Nhóm: Làm lại / kiểm tra lại\n\n## 再検討（さいけんとう）\n🔍 Xem xét lại\n\n## 再調査（さいちょうさ）\n🧪 Điều tra lại\n\n## 再提出（さいていしゅつ）\n📄 Nộp lại\n\n## 再申請（さいしんせい）\n📝 Đăng ký lại\n\n## 再認識（さいにんしき）\n🧠 Nhận thức lại\n\n💡 Điểm chung:\nLàm lại hành động đã từng làm"
+    },
+    {
+      "id": "group2",
+      "type": "text",
+      "x": 1820,
+      "y": 820,
+      "width": 760,
+      "height": 760,
+      "text": "# 📂 Nhóm: Quay lại / tái khởi động\n\n## 再入学（さいにゅうがく）\n🏫 Nhập học lại\n\n## 再入国（さいにゅうこく）\n✈️ Tái nhập cảnh\n\n## 再雇用（さいこよう）\n💼 Tái tuyển dụng\n\n## 再開発（さいかいはつ）\n🏙️ Tái phát triển\n\n## 再利用（さいりよう）\n♻️ Tái sử dụng\n\n💡 Điểm chung:\nQuay trở lại trạng thái hoặc hoạt động cũ"
+    },
+    {
+      "id": "group3",
+      "type": "text",
+      "x": 1820,
+      "y": 1740,
+      "width": 760,
+      "height": 760,
+      "text": "# 📂 Nhóm: Lặp lại sự kiện\n\n## 再試合（さいしあい）\n🏆 Thi đấu lại\n\n## 再試験（さいしけん）\n✍️ Thi lại\n\n## 再選挙（さいせんきょ）\n🗳️ Bầu cử lại\n\n## 再発行（さいはっこう）\n📜 Cấp lại\n\n## 再放送（さいほうそう）\n📺 Phát sóng lại\n\n## 再感染（さいかんせん）\n🦠 Tái lây nhiễm\n\n💡 Điểm chung:\nSự việc xảy ra thêm lần nữa"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 760,
+      "y": -220,
+      "width": 980,
+      "height": 480,
+      "text": "# Pattern N2\n\n🧩 再 + Danh từ/động tác\n→ Mang nghĩa:\n『làm lại / tái / thêm lần nữa』\n\nVí dụ:\n- 再確認 = xác nhận lại\n- 再出発 = khởi hành lại\n- 再建 = tái xây dựng\n\n📌 Đây là một trong những prefix N2 quan trọng nhất\nvì cực kỳ hay xuất hiện trong:\n- email công việc\n- báo chí\n- tài liệu công ty\n- thông báo hành chính"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1080,
+      "width": 700,
+      "height": 640,
+      "text": "# So sánh nuance\n\n🔁 再\n→ làm lại lần nữa\n\n🆕 新\n→ mới hoàn toàn\n\n📌 Ví dụ:\n- 再利用 = tái sử dụng\n- 新製品 = sản phẩm mới\n\n⚡ 再 có cảm giác:\n『đã từng tồn tại hoặc xảy ra trước đó』\n\n📌 Gần giống tiếng Anh:\n- re-use\n- re-check\n- re-start"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 860,
+      "y": 2660,
+      "width": 980,
+      "height": 520,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 再 bằng hình ảnh:\n\n♻️ dùng lại đồ cũ\n📺 chiếu lại phim\n✍️ thi lại\n🏫 quay lại trường học\n\n➡️ Điểm chung:\n『mọi thứ quay trở lại thêm lần nữa』\n\n📌 JLPT cực hay gặp:\n- 再利用\n- 再放送\n- 再確認\n- 再開発\n- 再検討"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "group1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "group2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "group3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

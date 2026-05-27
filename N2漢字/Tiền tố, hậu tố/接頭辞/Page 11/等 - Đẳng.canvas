@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 等～（とう～）\n\n📚 Hán Việt: ĐẲNG（等）\n\n🌐 Ý nghĩa trung tâm:\n👉 bằng nhau • ngang nhau • đồng mức\n\n📌 Sắc thái:\n- công bằng / đồng đều\n- khoảng cách hoặc mức độ không chênh lệch"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 等 mang nghĩa:\n- cùng mức\n- không chênh lệch\n- chia đều\n\n➡️ Gần nghĩa:\n- equal\n- same level\n- uniform\n\n📌 Hay dùng trong:\n- toán học\n- bố trí không gian\n- quy tắc / hệ thống"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 300,
+      "width": 920,
+      "height": 620,
+      "text": "# 等間隔（とうかんかく）\n\n📏 Khoảng cách bằng nhau\n\n📚 Hán Việt:\n- 等 = đều / bằng nhau\n- 間隔 = khoảng cách\n\n💡 Nghĩa:\n- các điểm cách nhau đều đặn\n\n📌 Dùng trong:\n- thiết kế\n- kỹ thuật\n- toán học"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 920,
+      "height": 620,
+      "text": "# 等距離（とうきょり）\n\n📐 Cự ly bằng nhau\n\n📚 Hán Việt:\n- 等 = đều\n- 距離 = khoảng cách\n\n💡 Nghĩa:\n- các điểm có khoảng cách bằng nhau tới một điểm gốc\n\n📌 Dùng trong:\n- hình học\n- bố trí vị trí\n- bản đồ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 等 + danh từ liên quan khoảng cách / mức độ\n→ nghĩa: “đồng đều / bằng nhau”\n\nVí dụ:\n- 等分 = chia đều\n- 等価 = giá trị tương đương\n- 等級 = cấp bậc\n\n📌 Thường dùng trong:\n- toán\n- kỹ thuật\n- hệ thống phân loại"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 等 = uniform / equal / same level\n\n📌 Khác với:\n- 同 = giống nhau (cùng loại)\n- 平均 = trung bình\n\nVí dụ:\n- 等距離 = khoảng cách bằng nhau\n- 同距離 ❌ (không tự nhiên)\n\n⚡ Cảm giác:\n『cân bằng, không lệch, chia đều hoàn toàn』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Nhớ 等 bằng hình ảnh:\n📏 các đoạn thẳng chia đều\n⚖️ cân bằng hai bên\n\n➡️ Điểm chung:\n『mọi thứ giống nhau về khoảng cách hoặc mức độ』\n\n📌 Liên tưởng nhanh:\n等 = equal spacing / uniform distribution"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

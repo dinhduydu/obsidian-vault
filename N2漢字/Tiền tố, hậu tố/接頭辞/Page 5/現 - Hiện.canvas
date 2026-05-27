@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 860,
+      "y": 340,
+      "width": 600,
+      "height": 300,
+      "text": "# 現～（げん～）\n\n📚 Hán Việt: HIỆN（現）\n\n🕒 Ý nghĩa trung tâm:\nHiện tại • Đương nhiệm • Hiện nay\n\n📌 Thường dùng để:\n- chỉ trạng thái hiện thời\n- phân biệt với quá khứ\n- nói về người/chức vụ đang giữ hiện tại"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 280,
+      "width": 500,
+      "height": 380,
+      "text": "# Ý nghĩa\n\n🧠 現 mang sắc thái:\n- đang tồn tại hiện tại\n- đang có hiệu lực bây giờ\n- đang giữ vị trí/chức vụ\n\n➡️ Gần giống:\n- current\n- present\n- existing\n\n📌 Prefix này rất phổ biến trong:\n- báo chí\n- chính trị\n- business\n- hành chính"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1640,
+      "y": -40,
+      "width": 540,
+      "height": 340,
+      "text": "# 現時点（げんじてん）\n\n🕒 Thời điểm hiện tại\n\n📚 Hán Việt:\n- 現 = hiện\n- 時点 = thời điểm\n\n💡 Nuance:\nTại thời điểm bây giờ,\nở hiện trạng hiện nay"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1640,
+      "y": 360,
+      "width": 520,
+      "height": 340,
+      "text": "# 現社長（げんしゃちょう）\n\n🏢 Giám đốc hiện tại\n\n📚 Hán Việt:\n- 現 = hiện\n- 社長 = xã trưởng\n\n💡 Hình dung:\nNgười hiện đang giữ chức giám đốc"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1640,
+      "y": 760,
+      "width": 520,
+      "height": 340,
+      "text": "# 現住所（げんじゅうしょ）\n\n🏠 Địa chỉ hiện tại\n\n📚 Hán Việt:\n- 現 = hiện\n- 住所 = trú sở\n\n💡 Hình dung:\nNơi đang sinh sống ở thời điểm hiện nay"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1640,
+      "y": 1160,
+      "width": 540,
+      "height": 340,
+      "text": "# 現首相（げんしゅしょう）\n\n🏛️ Thủ tướng hiện tại\n\n📚 Hán Việt:\n- 現 = hiện\n- 首相 = thủ tướng\n\n💡 Hình dung:\nNgười đang đương nhiệm chức thủ tướng"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 2260,
+      "y": 180,
+      "width": 540,
+      "height": 360,
+      "text": "# 現段階（げんだんかい）\n\n📈 Giai đoạn hiện nay\n\n📚 Hán Việt:\n- 現 = hiện\n- 段階 = đoạn giai\n\n💡 Nuance:\nTình hình hoặc bước tiến hiện tại của quá trình"
+    },
+    {
+      "id": "word6",
+      "type": "text",
+      "x": 2260,
+      "y": 700,
+      "width": 560,
+      "height": 360,
+      "text": "# 現内閣（げんないかく）\n\n🏛️ Nội các đương nhiệm\n\n📚 Hán Việt:\n- 現 = hiện\n- 内閣 = nội các\n\n💡 Hình dung:\nChính phủ hiện đang điều hành đất nước"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 720,
+      "y": -220,
+      "width": 820,
+      "height": 380,
+      "text": "# Pattern N2\n\n🧩 現 + Danh từ\n→ Mang nghĩa:\n『hiện tại / đương nhiệm / hiện nay』\n\nVí dụ:\n- 現政権 = chính quyền hiện tại\n- 現場 = hiện trường\n- 現実 = hiện thực\n\n📌 Prefix này xuất hiện nhiều trong:\n- tin tức\n- chính trị\n- business Japanese\n- tài liệu hành chính"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 820,
+      "width": 580,
+      "height": 460,
+      "text": "# So sánh nuance\n\n🕒 現\n→ hiện tại / đang tồn tại\n\n🏛️ 旧\n→ cũ / trước đây\n\n📌 Ví dụ:\n- 現社長 = giám đốc hiện tại\n- 旧社長 = cựu giám đốc\n\n⚡ 現 nhấn mạnh:\n『đang ở hiện tại』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 760,
+      "y": 1660,
+      "width": 880,
+      "height": 420,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 現 bằng hình ảnh:\n\n📰 tin tức hôm nay\n🏛️ chính phủ hiện tại\n🏠 nơi đang sống\n\n➡️ Điểm chung:\n『mọi thứ đang tồn tại ở thời điểm hiện nay』\n\n📌 JLPT rất hay gặp:\n- 現時点\n- 現住所\n- 現段階\n- 現実"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "word4"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "word5"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "word6"
+    },
+    {
+      "id": "e8",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e9",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e10",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

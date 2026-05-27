@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 前～（ぜん～）\n\n📚 Hán Việt: TIỀN（前）\n\n⏪ Ý nghĩa trung tâm:\nTrước • tiền nhiệm • trước đây\n\n📌 Thường dùng để:\n- người giữ chức vụ trước\n- thời điểm trước hiện tại\n- trạng thái cũ"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 前 mang sắc thái:\n- trước đó (time)\n- người tiền nhiệm (position)\n- cái cũ (prior state)\n\n➡️ Gần giống:\n- previous\n- former\n- before\n\n📌 Hay gặp trong:\n- chính trị\n- công ty\n- chức vụ\n- lịch sử"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 220,
+      "width": 920,
+      "height": 620,
+      "text": "# 前校長（ぜんこうちょう）\n\n🏫 Hiệu trưởng trước\n\n📚 Hán Việt:\n- 前 = trước / tiền nhiệm\n- 校長 = hiệu trưởng\n\n## Nuance\n- người từng giữ chức hiệu trưởng\n- không còn tại vị\n\n💡 Dùng trong:\n- trường học\n- hồ sơ nhân sự"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 920,
+      "height": 620,
+      "text": "# 前市長（ぜんしちょう）\n\n🏙️ Thị trưởng trước\n\n📚 Hán Việt:\n- 前 = tiền nhiệm\n- 市長 = thị trưởng\n\n## Nuance\n- người từng lãnh đạo thành phố\n- đã hết nhiệm kỳ\n\n💡 Dùng trong:\n- chính trị\n- tin tức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1740,
+      "width": 920,
+      "height": 720,
+      "text": "# 前社長（ぜんしゃちょう）\n\n🏢 Giám đốc trước\n\n📚 Hán Việt:\n- 前 = tiền nhiệm\n- 社長 = giám đốc / chủ tịch công ty\n\n## Nuance\n- người từng điều hành công ty\n- đã chuyển giao chức vụ\n\n💡 Dùng trong:\n- doanh nghiệp\n- báo cáo nội bộ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 前 + Danh từ chức vụ\n→ Mang nghĩa:\n『người tiền nhiệm / trước đây』\n\nVí dụ:\n- 前大統領 = cựu tổng thống\n- 前会長 = chủ tịch trước\n- 前担当者 = người phụ trách trước\n\n📌 Prefix này thường dùng trong:\n- công việc\n- chính trị\n- tổ chức"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n⏪ 前 = trước (time / position)\n\n📌 Không phải “trước mặt”\n→ mà là “thuộc quá khứ gần”\n\nVí dụ:\n- 前社長 = giám đốc cũ\n- 現社長 = giám đốc hiện tại\n\n⚡ Cảm giác:\n『người đã từng ở vị trí đó trước đây』\n\n📌 JLPT hay gặp:\n- 前社長\n- 前会長\n- 前年度"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 前 bằng hình ảnh:\n\n👤 người cũ trong công ty\n🏫 hiệu trưởng đã nghỉ\n🏙️ thị trưởng nhiệm kỳ trước\n\n➡️ Điểm chung:\n『đã từng là “hiện tại”, nhưng bây giờ là quá khứ gần』\n\n📌 Liên tưởng nhanh:\n前 = former / previous"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

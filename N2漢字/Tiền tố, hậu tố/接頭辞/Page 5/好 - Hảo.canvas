@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 860,
+      "y": 340,
+      "width": 620,
+      "height": 300,
+      "text": "# 好～（こう～）\n\n📚 Hán Việt: HẢO（好）\n\n✨ Ý nghĩa trung tâm:\nTốt • Thuận lợi • Đẹp • Tích cực\n\n📌 Thường mang sắc thái:\n- tình trạng tốt\n- điều kiện thuận lợi\n- cảm giác tích cực"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 520,
+      "height": 420,
+      "text": "# Ý nghĩa\n\n🧠 好 mang cảm giác:\n- tốt đẹp\n- thuận lợi\n- đáng mong muốn\n- tích cực\n\n➡️ Gần giống:\n- favorable\n- positive\n- good\n\n📌 Prefix này thường gặp trong:\n- kinh tế\n- xã hội\n- đánh giá xu hướng"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1640,
+      "y": 260,
+      "width": 620,
+      "height": 420,
+      "text": "# 好景気（こうけいき）\n\n📈 Tình hình kinh tế thuận lợi\n\n📚 Hán Việt:\n- 好 = hảo\n- 景気 = cảnh khí\n\n## Tách nghĩa\n- 好 = tốt\n- 景気 = tình hình kinh tế\n\n💡 Hình dung:\nKinh tế phát triển tốt:\n- công ty tăng trưởng\n- lương tăng\n- thị trường sôi động\n\n📌 Trái nghĩa:\n- 不景気 = suy thoái kinh tế"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -220,
+      "width": 860,
+      "height": 420,
+      "text": "# Pattern N2\n\n🧩 好 + Danh từ\n→ Mang nghĩa:\n『tốt / thuận lợi / tích cực』\n\nVí dụ:\n- 好条件 = điều kiện tốt\n- 好印象 = ấn tượng tốt\n- 好成績 = thành tích tốt\n\n📌 Prefix này thường xuất hiện trong:\n- business\n- báo chí\n- đánh giá kết quả"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 820,
+      "width": 620,
+      "height": 500,
+      "text": "# So sánh nuance\n\n✨ 好\n→ tốt / thuận lợi\n\n📈 高\n→ cao về level/chất lượng\n\n📌 Ví dụ:\n- 好景気 = kinh tế thuận lợi\n- 高成長 = tăng trưởng cao\n\n⚡ 好 nhấn mạnh:\n『trạng thái tích cực và dễ chịu』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 760,
+      "y": 1480,
+      "width": 920,
+      "height": 420,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 好 bằng hình ảnh:\n\n📈 kinh tế đi lên\n😊 mọi người vui vẻ\n💰 thị trường phát triển tốt\n\n➡️ Điểm chung:\n『mọi thứ đang ở trạng thái thuận lợi』\n\n📌 JLPT hay gặp:\n- 好景気\n- 好印象\n- 好条件\n- 好成績"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e4",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

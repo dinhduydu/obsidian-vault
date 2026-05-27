@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 860,
+      "y": 340,
+      "width": 620,
+      "height": 320,
+      "text": "# 小～（しょう～・こ～）\n\n📚 Hán Việt: TIỂU（小）\n\n🧩 Ý nghĩa trung tâm:\nNhỏ • Ít • Hơi • Quy mô nhỏ\n\n📌 Có 2 sắc thái lớn:\n1️⃣ しょう～ → quy mô nhỏ\n2️⃣ こ～ → hơi~, có chút~"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 260,
+      "width": 520,
+      "height": 500,
+      "text": "# Ý nghĩa\n\n🧠 小 có hai cách dùng rất quan trọng:\n\n## ① しょう～\n➡️ Tiểu / nhỏ về quy mô\nVí dụ:\n- 小都市\n- 小資金\n- 小論文\n\n## ② こ～\n➡️ hơi~, có chút~\nVí dụ:\n- 小汚い\n- 小ぎれい\n\n📌 JLPT rất thích hỏi nuance này"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1640,
+      "y": -80,
+      "width": 560,
+      "height": 360,
+      "text": "# 小汚い（こぎたない）\n\n🧹 Hơi bẩn\n\n📚 Hán Việt:\n- 小 = tiểu\n- 汚い = bẩn\n\n💡 Nuance:\nKhông quá bẩn,\nnhưng nhìn hơi dơ/dơ\n\n📌 Mang sắc thái hơi chê"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1640,
+      "y": 340,
+      "width": 560,
+      "height": 360,
+      "text": "# 小ぎれいだ（こぎれいだ）\n\n✨ Gọn gàng vừa phải\n\n📚 Hán Việt:\n- 小 = hơi\n- きれい = đẹp/gọn\n\n💡 Nuance:\nKhông sang trọng,\nnhưng sạch sẽ và gọn gàng dễ chịu"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1640,
+      "y": 760,
+      "width": 540,
+      "height": 340,
+      "text": "# 小資金（しょうしきん）\n\n💰 Số vốn nhỏ\n\n📚 Hán Việt:\n- 小 = tiểu\n- 資金 = tư kim\n\n💡 Hình dung:\nKhoản vốn quy mô nhỏ\nđể bắt đầu kinh doanh"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1640,
+      "y": 1160,
+      "width": 520,
+      "height": 340,
+      "text": "# 小都市（しょうとし）\n\n🏙️ Thành phố nhỏ\n\n📚 Hán Việt:\n- 小 = tiểu\n- 都市 = đô thị\n\n💡 Hình dung:\nĐô thị quy mô nhỏ\nít dân hơn thành phố lớn"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 2260,
+      "y": 420,
+      "width": 560,
+      "height": 360,
+      "text": "# 小論文（しょうろんぶん）\n\n📝 Tiểu luận\n\n📚 Hán Việt:\n- 小 = tiểu\n- 論文 = luận văn\n\n💡 Nuance:\nBài viết phân tích ngắn,\nquy mô nhỏ hơn luận văn học thuật"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 700,
+      "y": -240,
+      "width": 860,
+      "height": 420,
+      "text": "# Pattern N2\n\n🧩 小 + Danh từ\n→ nhỏ / quy mô nhỏ\n\n🧩 小 + Tính từ\n→ hơi~ / có chút~\n\n📌 Ví dụ:\n- 小問題 = vấn đề nhỏ\n- 小企業 = doanh nghiệp nhỏ\n- 小寒い = hơi lạnh\n\n⚠️ Quan trọng:\nこ～ thường mang nuance cảm giác nhẹ"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 920,
+      "width": 620,
+      "height": 500,
+      "text": "# So sánh nuance\n\n🧩 小さい\n→ nhỏ thật sự\n\n🧩 小～（prefix）\n→ thêm sắc thái:\n- hơi~\n- quy mô nhỏ\n- mức độ nhẹ\n\n📌 Ví dụ:\n- 小汚い = hơi bẩn\n❌ không phải rất bẩn\n\n- 小都市 = đô thị nhỏ\n❌ không phải làng quê"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 760,
+      "y": 1700,
+      "width": 900,
+      "height": 420,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 小 bằng 2 hình ảnh:\n\n🏙️ thành phố mini\n→ 小都市\n\n🧹 hơi dơ một chút\n→ 小汚い\n\n➡️ Điểm chung:\n『nhỏ về quy mô hoặc nhẹ về mức độ』\n\n📌 JLPT hay gặp:\n- 小論文\n- 小都市\n- 小汚い\n- 小ぎれい"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "word4"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "word5"
+    },
+    {
+      "id": "e7",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e8",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e9",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

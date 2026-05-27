@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":920,"y":520,"width":760,"height":360,"text":"# 純～（じゅん～）\n\n📚 Hán Việt: THUẦN（純）\n\n🧪 Ý nghĩa trung tâm:\nThuần • Nguyên chất • Không pha lẫn\n\n📌 Thường dùng để:\n- nhấn mạnh tính nguyên bản\n- không bị pha trộn\n- thuần túy về phong cách/tính chất"},
+		{"id":"meaning","type":"text","x":120,"y":420,"width":660,"height":620,"text":"# Ý nghĩa\n\n🧠 純 mang sắc thái:\n- thuần túy\n- nguyên chất\n- không pha lẫn\n- giữ nguyên bản chất gốc\n\n➡️ Gần giống:\n- pure\n- genuine\n- authentic\n\n📌 Prefix này thường gặp trong:\n- văn học\n- học thuật\n- văn hóa\n- kinh tế\n- sản phẩm nội địa"},
+		{"id":"word1","type":"text","x":1820,"y":40,"width":820,"height":520,"text":"# 純国産（じゅんこくさん）\n\n🇯🇵 Sản xuất thuần túy trong nước\n\n📚 Hán Việt:\n- 純 = thuần\n- 国産 = quốc sản\n\n## Tách nghĩa\n- 純 = hoàn toàn\n- 国産 = sản xuất trong nước\n\n💡 Nuance:\n100% made in Japan\nkhông nhập linh kiện bên ngoài"},
+		{"id":"word2","type":"text","x":1820,"y":660,"width":820,"height":500,"text":"# 純収入（じゅんしゅうにゅう）\n\n💰 Thu nhập thuần\n\n📚 Hán Việt:\n- 純 = thuần\n- 収入 = thu nhập\n\n## Tách nghĩa\n- 純 = sau khi loại bỏ phần phụ\n- 収入 = tiền thu vào\n\n💡 Nuance:\nKhoản thu thực nhận\nsau khi trừ các chi phí"},
+		{"id":"word3","type":"text","x":1820,"y":1260,"width":820,"height":620,"text":"# 純日本式・純日本風\n\n🎌 Thuần kiểu Nhật\n\n📚 Hán Việt:\n- 純 = thuần\n- 日本 = Nhật Bản\n- 式 = kiểu/phương thức\n- 風 = phong cách\n\n## Nuance\n🧩 純日本式\n→ phương thức hoàn toàn kiểu Nhật\n\n🎨 純日本風\n→ phong cách rất Nhật Bản\n\n💡 Mang sắc thái:\nkhông pha văn hóa nước ngoài"},
+		{"id":"word4","type":"text","x":1820,"y":2000,"width":820,"height":560,"text":"# 純理論・純文学\n\n📖 Thuần lý thuyết / Thuần văn học\n\n📚 Hán Việt:\n- 純 = thuần\n- 理論 = lý luận\n- 文学 = văn học\n\n## Nuance\n🧠 純理論\n→ lý thuyết thuần túy\n\n📚 純文学\n→ văn học nghệ thuật thuần túy\nkhông thiên về giải trí thương mại"},
+		{"id":"pattern","type":"text","x":760,"y":-220,"width":1080,"height":520,"text":"# Pattern N2\n\n🧩 純 + Danh từ\n→ Mang nghĩa:\n『thuần túy / nguyên chất / không pha lẫn』\n\nVí dụ:\n- 純利益 = lợi nhuận thuần\n- 純金 = vàng nguyên chất\n- 純愛 = tình yêu thuần khiết\n\n📌 Prefix này thường nhấn mạnh:\n- độ nguyên bản\n- sự tinh khiết\n- không bị pha trộn"},
+		{"id":"compare","type":"text","x":120,"y":1260,"width":760,"height":760,"text":"# So sánh nuance\n\n🧪 純\n→ thuần túy / nguyên chất\n\n🌀 混\n→ pha trộn / hỗn hợp\n\n📌 Ví dụ:\n- 純日本風 = phong cách Nhật thuần túy\n- 混血 = lai/hỗn huyết\n\n⚡ 純 tạo cảm giác:\n『giữ nguyên bản chất gốc』\n\n📌 JLPT rất thích:\n- 純文学\n- 純利益\n- 純日本風"},
+		{"id":"memory","type":"text","x":900,"y":2800,"width":1080,"height":620,"text":"# Memory Hint\n\n🧠 Hãy nhớ 純 bằng hình ảnh:\n\n🥇 vàng nguyên chất\n🎌 căn phòng đậm chất Nhật\n📚 văn học nghệ thuật thuần túy\n🧪 thứ chưa bị pha trộn\n\n➡️ Điểm chung:\n『giữ nguyên trạng thái gốc ban đầu』\n\n📌 JLPT hay gặp:\n- 純文学\n- 純利益\n- 純理論\n- 純日本風\n- 純国産"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"word4","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e8","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

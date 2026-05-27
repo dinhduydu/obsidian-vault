@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 超～（ちょう～）\n\n📚 Hán Việt: SIÊU（超）\n\n🌐 Ý nghĩa trung tâm:\nSiêu • vượt mức • cực kỳ • hơn tiêu chuẩn bình thường\n\n📌 Thường dùng để:\n- nhấn mạnh mức độ rất cao\n- vượt giới hạn thông thường\n- tăng cấp độ cảm xúc / quy mô"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 超 mang sắc thái:\n- vượt quá mức bình thường\n- “super / ultra”\n- tăng cường độ mạnh\n\n➡️ Gần giống:\n- super\n- ultra\n- extremely\n\n📌 Hay gặp trong:\n- đời sống\n- quảng cáo\n- khoa học / kỹ thuật"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 超高層（ちょうこうそう）\n\n🏢 Tòa nhà siêu cao tầng\n\n📚 Hán Việt:\n- 超 = siêu\n- 高層 = cao tầng\n\n## Nuance\n- tòa nhà rất cao vượt chuẩn thông thường\n- thường dùng cho skyscraper\n\n💡 Dùng trong:\n- kiến trúc\n- đô thị"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 超高速（ちょうこうそく）\n\n🚄 Siêu tốc độ\n\n📚 Hán Việt:\n- 超 = siêu\n- 高速 = tốc độ cao\n\n## Nuance\n- tốc độ vượt mức bình thường\n- rất nhanh\n\n💡 Dùng trong:\n- giao thông\n- công nghệ"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 760,
+      "text": "# 超能力（ちょうのうりょく）\n\n🧠 Siêu năng lực\n\n📚 Hán Việt:\n- 超 = siêu\n- 能力 = năng lực\n\n## Nuance\n- năng lực vượt giới hạn con người\n- thường dùng trong giả tưởng\n\n💡 Dùng trong:\n- phim ảnh\n- truyện tranh"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 超 + Danh từ / tính từ\n→ Mang nghĩa:\n『siêu / vượt mức / cực kỳ』\n\nVí dụ:\n- 超人気 = cực kỳ nổi tiếng\n- 超重要 = cực kỳ quan trọng\n- 超簡単 = siêu dễ\n\n📌 Prefix này thường dùng trong:\n- quảng cáo\n- đời sống\n- truyền thông"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 超 = vượt mức tiêu chuẩn bình thường\n\n📌 Khác với:\n- 大 = lớn (size / mức độ)\n- 最 = nhất (top level)\n\nVí dụ:\n- 超大 = rất lớn\n- 最高 = cao nhất\n\n⚡ Cảm giác:\n『mạnh hơn “lớn” và mang tính phóng đại cảm xúc』\n\n📌 JLPT hay gặp:\n- 超簡単\n- 超人気\n- 超便利"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 超 bằng hình ảnh:\n\n🚀 vượt tốc độ bình thường\n🏢 tòa nhà chọc trời\n🧠 năng lực siêu nhiên\n\n➡️ Điểm chung:\n『mọi thứ đều vượt giới hạn thông thường』\n\n📌 Liên tưởng nhanh:\n超 = super / ultra / beyond normal"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

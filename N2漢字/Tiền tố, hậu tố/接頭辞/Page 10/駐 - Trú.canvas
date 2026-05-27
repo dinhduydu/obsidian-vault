@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 駐～（ちゅう～）\n\n📚 Hán Việt: TRÚ（駐）\n\n🌐 Ý nghĩa trung tâm:\nĐóng tại • đặt tại • cư trú / cắm ở một quốc gia\n\n📌 Thường dùng để:\n- đại sứ quán\n- cơ quan ngoại giao\n- đóng quân / đặt văn phòng ở nước ngoài"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 駐 mang sắc thái:\n- đặt một tổ chức tại nước khác\n- “stationed in” / “based in”\n- mang tính chính thức, ngoại giao\n\n➡️ Gần giống:\n- stationed in\n- based in\n- resident in\n\n📌 Hay gặp trong:\n- ngoại giao\n- quân sự\n- tổ chức quốc tế"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 駐英（ちゅうえい）\n\n🇬🇧 Đóng tại Anh\n\n📚 Hán Việt:\n- 駐 = đóng tại\n- 英 = Anh (UK)\n\n## Nuance\n- hoạt động tại Anh\n- cơ quan/tổ chức đặt ở Anh\n\n💡 Dùng trong:\n- ngoại giao\n- tổ chức quốc tế"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 駐日（ちゅうにち）\n\n🇯🇵 Đóng tại Nhật\n\n📚 Hán Việt:\n- 駐 = đóng tại\n- 日 = Nhật Bản\n\n## Nuance\n- đại diện / tổ chức hoạt động ở Nhật\n\n💡 Dùng trong:\n- đại sứ quán\n- cơ quan nước ngoài tại Nhật"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 760,
+      "text": "# 駐日本国ベトナム大使館\n\n🏛️ Đại sứ quán Việt Nam tại Nhật\n\n📚 Cấu trúc:\n- 駐日本国 = đóng tại Nhật\n- ベトナム大使館 = đại sứ quán Việt Nam\n\n## Nuance\n- cơ quan ngoại giao chính thức\n- đại diện quốc gia tại nước ngoài\n\n💡 Dùng trong:\n- ngoại giao\n- chính trị quốc tế"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 駐 + Quốc gia\n→ Mang nghĩa:\n『đóng trụ sở / hoạt động tại quốc gia đó』\n\nVí dụ:\n- 駐米 = tại Mỹ\n- 駐中 = tại Trung Quốc\n- 駐仏 = tại Pháp\n\n📌 Prefix này thường dùng trong:\n- ngoại giao\n- tổ chức quốc tế\n- quân sự"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 駐 = “đóng trụ sở chính thức tại nước khác”\n\n📌 Khác với:\n- 在 = đang ở (trung tính)\n- 居 = cư trú\n\nVí dụ:\n- 駐日 = cơ quan đặt tại Nhật\n- 在日 = người đang sống ở Nhật\n\n⚡ Cảm giác:\n『mang tính tổ chức, ngoại giao, chính thức』\n\n📌 JLPT hay gặp:\n- 駐日\n- 駐在\n- 駐米"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 駐 bằng hình ảnh:\n\n🏛️ đại sứ quán cắm cờ tại nước ngoài\n🌍 văn phòng đặt ở quốc gia khác\n🚩 hiện diện chính thức\n\n➡️ Điểm chung:\n『đặt một tổ chức “đóng quân” ở nước khác』\n\n📌 Liên tưởng nhanh:\n駐 = stationed / based abroad"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

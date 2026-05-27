@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 当～（とう～）\n\n📚 Hán Việt: ĐƯƠNG（当）\n\n🌐 Ý nghĩa trung tâm:\n👉 “của chúng tôi / cơ quan chúng tôi”\n(dùng khi nói về tổ chức, công ty, cơ quan)\n\n📌 Sắc thái:\n- trang trọng\n- dùng trong văn viết, thông báo"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 当 trong ngữ cảnh này:\n- chỉ “bên chúng tôi”\n- dùng cho tổ chức / cơ quan / viện\n\n➡️ Gần nghĩa:\n- our (formal)\n- this institution’s\n\n📌 Không dùng cho cá nhân"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 120,
+      "width": 920,
+      "height": 620,
+      "text": "# 当研究所（とうけんきゅうじょ）\n\n🏢 Phòng nghiên cứu của chúng tôi\n\n📚 Hán Việt:\n- 当 = đương (của chúng tôi)\n- 研究所 = nghiên cứu sở\n\n💡 Nghĩa:\n- viện nghiên cứu thuộc cơ quan đang nói đến\n\n📌 Văn phong:\n- trang trọng / hành chính"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 当事務所（とうじむしょ）\n\n🏢 Văn phòng của chúng tôi\n\n📚 Hán Việt:\n- 当 = đương\n- 事務所 = sự vụ sở (văn phòng)\n\n💡 Nghĩa:\n- office thuộc tổ chức người nói\n\n📌 Dùng trong:\n- giấy tờ\n- thông báo chính thức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1600,
+      "width": 920,
+      "height": 620,
+      "text": "# 当博物館（とうはくぶつかん）\n\n🏛️ Viện bảo tàng của chúng tôi\n\n📚 Hán Việt:\n- 当 = đương\n- 博物館 = bác vật quán (bảo tàng)\n\n💡 Nghĩa:\n- bảo tàng thuộc cơ quan/tổ chức đang nói\n\n📌 Văn phong:\n- trang trọng\n- giới thiệu tổ chức"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 当 + danh từ cơ quan\n→ nghĩa: “thuộc về tổ chức chúng tôi”\n\nVí dụ:\n- 当会社 = công ty chúng tôi\n- 当銀行 = ngân hàng chúng tôi\n- 当病院 = bệnh viện chúng tôi\n\n📌 Dùng trong:\n- thông báo\n- văn bản hành chính"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Nhớ 当～ như:\n🏢 “của bên mình (official)”\n\n➡️ Dấu hiệu:\n- văn bản trang trọng\n- nói về tổ chức\n\n📌 Liên tưởng nhanh:\n当 = OUR (formal / institutional)"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

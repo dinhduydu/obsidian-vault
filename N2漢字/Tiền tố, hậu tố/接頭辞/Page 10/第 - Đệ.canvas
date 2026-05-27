@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 第～（だい～）\n\n📚 Hán Việt: ĐỆ（第）\n\n🌐 Ý nghĩa trung tâm:\nThứ tự • bậc • số thứ tự\n\n📌 Thường dùng để:\n- đánh số thứ tự (1st, 2nd, 3rd...)\n- phân hạng\n- cấp độ / vị trí"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 第 mang sắc thái:\n- sắp xếp theo thứ tự\n- phân cấp rõ ràng\n- đánh số thứ tự chính thức\n\n➡️ Gần giống:\n- order\n- number (ordinal)\n- rank\n\n📌 Hay gặp trong:\n- giáo dục\n- tin tức\n- tổ chức"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 620,
+      "text": "# 第一位（だいいちい）\n\n🥇 Vị trí số 1\n\n📚 Hán Việt:\n- 第 = thứ tự\n- 一 = một\n- 位 = vị trí\n\n## Nuance\n- đứng đầu bảng xếp hạng\n- vị trí cao nhất\n\n💡 Dùng trong:\n- thi đấu\n- xếp hạng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 860,
+      "width": 920,
+      "height": 620,
+      "text": "# 第一流（だいいちりゅう）\n\n⭐ Hạng nhất / cao cấp nhất\n\n📚 Hán Việt:\n- 第 = thứ tự\n- 一流 = hạng nhất\n\n## Nuance\n- chất lượng cao nhất\n- top tier\n\n💡 Dùng trong:\n- đánh giá chất lượng\n- nghề nghiệp"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 920,
+      "height": 760,
+      "text": "# 第一歩（だいいっぽ）\n\n👣 Bước đầu tiên\n\n📚 Hán Việt:\n- 第 = thứ tự\n- 一歩 = một bước\n\n## Nuance\n- bắt đầu một hành trình\n- bước khởi đầu quan trọng\n\n💡 Dùng trong:\n- học tập\n- sự nghiệp"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 第 + số + danh từ\n→ Mang nghĩa:\n『thứ tự / cấp bậc / số thứ tự』\n\nVí dụ:\n- 第2回 = lần thứ 2\n- 第3章 = chương 3\n- 第一人 = người số 1\n\n📌 Prefix này thường dùng trong:\n- học thuật\n- thi cử\n- tổ chức / sự kiện"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 第 = chỉ thứ tự chính thức\n\n📌 Khác với:\n- 一 = số 1 đơn thuần\n- 初 = lần đầu\n\nVí dụ:\n- 第一 = số 1 (ordinal)\n- 初回 = lần đầu tiên xảy ra\n\n⚡ Cảm giác:\n『hệ thống hóa thứ tự rõ ràng』\n\n📌 JLPT hay gặp:\n- 第一\n- 第二\n- 第三"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 第 bằng hình ảnh:\n\n🥇 bảng xếp hạng\n📊 danh sách có số thứ tự\n🏁 cuộc thi có ranking\n\n➡️ Điểm chung:\n『mọi thứ được sắp theo thứ tự rõ ràng』\n\n📌 Liên tưởng nhanh:\n第 = order / ranking / ordinal"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

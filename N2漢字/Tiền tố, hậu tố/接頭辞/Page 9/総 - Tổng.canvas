@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 420,
+      "text": "# 総～（そう～）\n\n📚 Hán Việt: TỔNG（総）\n\n🌐 Ý nghĩa trung tâm:\nTổng • toàn bộ • bao quát toàn thể\n\n📌 Thường dùng để:\n- tổng hợp nhiều phần\n- hệ thống / tổ chức lớn\n- thống kê toàn diện"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 760,
+      "text": "# Ý nghĩa\n\n🧠 総 mang sắc thái:\n- tổng hợp tất cả thành phần\n- nhìn toàn cảnh\n- quản lý cấp cao / toàn diện\n\n➡️ Gần giống:\n- total\n- overall\n- general\n\n📌 Hay gặp trong:\n- kinh tế\n- chính trị\n- tổ chức\n- thống kê"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 80,
+      "width": 920,
+      "height": 640,
+      "text": "# 総売上（そううりあげ）\n\n💰 Tổng doanh thu\n\n📚 Hán Việt:\n- 総 = tổng\n- 売上 = doanh thu\n\n## Nuance\n- toàn bộ doanh thu cộng lại\n- không trừ chi phí\n\n💡 Dùng trong:\n- kinh doanh\n- báo cáo tài chính"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 900,
+      "width": 920,
+      "height": 640,
+      "text": "# 総選挙（そうせんきょ）\n\n🗳️ Tổng bầu cử\n\n📚 Hán Việt:\n- 総 = toàn quốc / tổng\n- 選挙 = bầu cử\n\n## Nuance\n- bầu cử quy mô toàn quốc\n- chọn đại diện chính trị\n\n💡 Dùng trong:\n- chính trị\n- tin tức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1720,
+      "width": 920,
+      "height": 760,
+      "text": "# 総人口（そうじんこう）\n\n👥 Tổng dân số\n\n📚 Hán Việt:\n- 総 = tổng\n- 人口 = dân số\n\n## Nuance\n- toàn bộ dân số của quốc gia/khu vực\n- dùng trong thống kê\n\n💡 Dùng trong:\n- báo cáo\n- kinh tế - xã hội"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 総 + Danh từ\n→ Mang nghĩa:\n『toàn bộ / tổng hợp / toàn diện』\n\nVí dụ:\n- 総合 = tổng hợp\n- 総務 = hành chính tổng vụ\n- 総力 = toàn lực\n\n📌 Prefix này thường dùng trong:\n- chính trị\n- kinh tế\n- tổ chức lớn"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1540,
+      "width": 860,
+      "height": 920,
+      "text": "# So sánh nuance\n\n🌐 総 = tổng hợp tất cả phần nhỏ\n\n📌 Khác với:\n- 全 = tất cả (100%)\n- 総 = tổng hợp / hệ thống\n\nVí dụ:\n- 全人口 = toàn bộ từng người\n- 総人口 = tổng dân số (con số tổng)\n\n⚡ Cảm giác:\n『nhìn từ góc độ hệ thống, không phải từng cá thể』\n\n📌 JLPT hay gặp:\n- 総合\n- 総人口\n- 総選挙"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2620,
+      "width": 1180,
+      "height": 700,
+      "text": "# Memory Hint\n\n🧠 Hãy nhớ 総 bằng hình ảnh:\n\n🏢 tổng công ty\n🗳️ bầu cử toàn quốc\n👥 tổng dân số cả nước\n\n➡️ Điểm chung:\n『gom tất cả thành một hệ thống lớn』\n\n📌 Liên tưởng nhanh:\n総 = total system / overall"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "pattern",
+      "toNode": "center"
+    },
+    {
+      "id": "e6",
+      "fromNode": "compare",
+      "toNode": "center"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}
