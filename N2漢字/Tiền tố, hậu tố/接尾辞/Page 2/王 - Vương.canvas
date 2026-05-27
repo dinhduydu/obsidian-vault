@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～王（おう）\n\n📚 Hán Việt: VƯƠNG（王）\n\n👑 Ý nghĩa trung tâm:\n👉 vua • nhà vô địch • người đứng đầu\n\n📌 Sắc thái:\n- chỉ người đứng vị trí cao nhất\n- dùng trong thể thao, danh hiệu, xếp hạng\n- mang nghĩa “king / champion”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 王 = vua / nhà vô địch\n\n➡️ Dùng để chỉ:\n- người giỏi nhất trong lĩnh vực\n- danh hiệu vô địch\n- biểu tượng đứng đầu\n\n📌 Gần nghĩa:\n- king\n- champion\n- top player"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 三冠王（さんかんおう）\n\n🏆 Nhà vô địch 3 danh hiệu\n\n📚 Hán Việt:\n- 三冠 = ba danh hiệu\n- 王 = vua / vô địch\n\n💡 Nghĩa:\n- người giành 3 chức vô địch lớn\n- cực kỳ xuất sắc trong thể thao"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 打撃王（だげきおう）\n\n⚾ Vua đánh bóng\n\n📚 Hán Việt:\n- 打撃 = đánh bóng / tấn công\n- 王 = vua\n\n💡 Nghĩa:\n- người có thành tích đánh bóng tốt nhất\n- “king of batting”"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Lĩnh vực / kỹ năng] + 王\n→ nghĩa: người đứng số 1 trong lĩnh vực đó\n\nVí dụ:\n- 釣り王 = vua câu cá\n- ランキング王 = người đứng top\n- 歌王 = vua ca hát\n\n📌 Dùng trong:\n- thể thao\n- giải trí\n- xếp hạng thành tích"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 王 = “người đứng trên tất cả” 👑\n\n➡️ Hình ảnh:\n- vương miện\n- đứng top bảng xếp hạng\n- vô địch tuyệt đối\n\n📌 Keyword:\n王 = KING / CHAMPION / TOP ONE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e5", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"bbb2409ee92ff2b1","x":589,"y":1599,"width":400,"height":400,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 2/一 - Nhất.canvas"},
+		{"id":"center","type":"text","text":"# ～一（いち）\n\n📚 Hán Việt: NHẤT（一）\n\n🏆 Ý nghĩa trung tâm:\n👉 số 1 • nhất • đứng đầu\n\n📌 Sắc thái:\n- dùng để so sánh mức độ cao nhất\n- nhấn mạnh “top / best / number one”\n- thường đi với phạm vi (thế giới, quốc gia, Nhật Bản)","x":980,"y":620,"width":920,"height":560},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 一 = số 1 / nhất\n\n➡️ Dùng để chỉ:\n- vị trí cao nhất\n- đứng đầu trong một phạm vi\n- mức độ vượt trội\n\n📌 Gần nghĩa:\n- number one\n- best\n- top","x":120,"y":520,"width":780,"height":860},
+		{"id":"word1","type":"text","text":"# 世界一（せかいいち）\n\n🌍 Nhất thế giới\n\n📚 Hán Việt:\n- 世界 = thế giới\n- 一 = nhất\n\n💡 Nghĩa:\n- đứng số 1 toàn cầu","x":1940,"y":420,"width":980,"height":720},
+		{"id":"word2","type":"text","text":"# 全国一（ぜんこくいち）\n\n🇯🇵 Nhất toàn quốc\n\n📚 Hán Việt:\n- 全国 = toàn quốc\n- 一 = nhất\n\n💡 Nghĩa:\n- đứng số 1 trong cả nước","x":1940,"y":1200,"width":980,"height":720},
+		{"id":"word3","type":"text","text":"# 日本一（にほんいち）\n\n🏯 Số 1 Nhật Bản\n\n📚 Hán Việt:\n- 日本 = Nhật Bản\n- 一 = nhất\n\n💡 Nghĩa:\n- đứng đầu tại Nhật Bản\n- “best in Japan”","x":1940,"y":1980,"width":980,"height":720},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N1\n\n🧩 [Phạm vi] + 一\n→ nghĩa: đứng số 1 trong phạm vi đó\n\nVí dụ:\n- 学校一 = nhất trường\n- 地域一 = nhất khu vực\n- 業界一 = số 1 ngành\n\n📌 Dùng trong:\n- quảng cáo\n- xếp hạng\n- so sánh mức độ","x":820,"y":-300,"width":1200,"height":760},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 一 = “đứng trên tất cả” 🏆\n\n➡️ Hình ảnh:\n- podium số 1\n- cờ đứng cao nhất\n- top ranking\n\n📌 Keyword:\n一 = NUMBER 1 / TOP / BEST","x":980,"y":2700,"width":1200,"height":820}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"6c57185e9c248ecf","fromNode":"center","fromSide":"bottom","toNode":"bbb2409ee92ff2b1","toSide":"top"}
+	]
+}

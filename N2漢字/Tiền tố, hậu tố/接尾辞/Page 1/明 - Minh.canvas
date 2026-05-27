@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"643c3199a9bf9ec0","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 15/明 - Minh.canvas","x":346,"y":1352,"width":400,"height":400},
+		{"id":"word2","type":"text","text":"# 夏休み明け（なつやすみあけ）\n\n🏖️ Sau kỳ nghỉ hè\n\n📚 Hán Việt:\n- 夏休み = nghỉ hè\n- 明け = sau khi kết thúc\n\n💡 Nghĩa:\n- thời điểm quay lại học / làm sau nghỉ hè","x":1940,"y":1300,"width":980,"height":320},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N2\n\n🧩 [Danh từ thời gian] + 明け\n→ nghĩa: sau khi kết thúc\n\nVí dụ:\n- 正月明け = sau Tết\n- 年末明け = sau cuối năm\n- 雨明け = sau mưa\n\n📌 Dùng trong:\n- lịch làm việc\n- thời tiết\n- đời sống hàng ngày","x":820,"y":20,"width":1200,"height":420},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 ～明け = sau khi kết thúc\n\n➡️ Dùng để chỉ:\n- vừa kết thúc một giai đoạn\n- trạng thái ngay sau sự kiện\n- điểm chuyển sang giai đoạn mới\n\n📌 Gần nghĩa:\n- after\n- just ended\n- post- period","x":80,"y":710,"width":780,"height":380},
+		{"id":"center","type":"text","text":"# ～明け（あけ）\n\n📚 Hán Việt: MINH (明) + KHAI/KẾT THÚC (ngữ cảnh)\n\n🌅 Ý nghĩa trung tâm:\n👉 kết thúc một giai đoạn • vừa qua • ngay sau khi kết thúc\n\n📌 Sắc thái:\n- nhấn mạnh “vừa xong”\n- thường đi với thời gian / kỳ nghỉ / mùa\n- mang tính chuyển tiếp (before → after)","x":960,"y":730,"width":920,"height":340},
+		{"id":"word1","type":"text","text":"# 梅雨明け（つゆあけ）\n\n🌧️➡️🌤️ Kết thúc mùa mưa\n\n📚 Hán Việt:\n- 梅雨 = mưa mùa (tsuyu)\n- 明け = kết thúc\n\n💡 Nghĩa:\n- thời điểm mùa mưa chấm dứt","x":2080,"y":740,"width":980,"height":320},
+		{"id":"word3","type":"text","text":"# 連休明け（れんきゅうあけ）\n\n🎌 Sau kỳ nghỉ dài\n\n📚 Hán Việt:\n- 連休 = kỳ nghỉ liên tiếp\n- 明け = sau khi kết thúc\n\n💡 Nghĩa:\n- ngày làm việc đầu tiên sau nghỉ lễ","x":1780,"y":1752,"width":980,"height":308},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 明け = “ánh sáng quay lại sau giai đoạn tối” 🌅\n\n➡️ Hình ảnh:\n- trời vừa sáng sau mưa\n- kỳ nghỉ kết thúc\n- quay lại nhịp sống\n\n📌 Keyword:\n明け = AFTER / JUST FINISHED / TRANSITION","x":980,"y":1800,"width":580,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"f3e92c75d1b4b117","fromNode":"center","fromSide":"bottom","toNode":"643c3199a9bf9ec0","toSide":"top"}
+	]
+}

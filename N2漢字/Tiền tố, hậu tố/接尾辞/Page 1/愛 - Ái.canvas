@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"word2","type":"text","text":"# 同性愛（どうせいあい）\n\n🏳️‍🌈 Tình yêu đồng giới\n\n📚 Hán Việt:\n- 同 = đồng\n- 性 = giới tính\n- 愛 = tình yêu\n\n💡 Nghĩa:\n- tình cảm giữa người cùng giới","x":1940,"y":1300,"width":980,"height":380},
+		{"id":"word3","type":"text","text":"# 母性愛（ぼせいあい）\n\n👩‍👧 Tình mẫu tử\n\n📚 Hán Việt:\n- 母 = mẹ\n- 性 = tính chất\n- 愛 = tình yêu\n\n💡 Nghĩa:\n- tình yêu bản năng của người mẹ dành cho con","x":1940,"y":2080,"width":980,"height":400},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 愛 = tình yêu / yêu thương\n\n➡️ Dùng để chỉ:\n- tình yêu con người\n- tình cảm gia đình\n- tình yêu nhân loại\n\n📌 Gần nghĩa:\n- love\n- affection\n- care","x":-40,"y":695,"width":780,"height":410},
+		{"id":"center","type":"text","text":"# ～愛（あい）\n\n📚 Hán Việt: ÁI（愛）\n\n❤️ Ý nghĩa trung tâm:\n👉 tình yêu • sự yêu thương • tình cảm sâu sắc\n\n📌 Sắc thái:\n- mức độ tình cảm mạnh\n- có thể là cá nhân, xã hội hoặc bản năng\n- dùng trong nhiều tầng nghĩa (từ lãng mạn đến nhân đạo)","x":980,"y":730,"width":920,"height":340},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N1\n\n🧩 [X] + 愛\n→ nghĩa: tình yêu dành cho X\n\nVí dụ:\n- 友情愛 = tình bạn (ít dùng)\n- 国家愛 = tình yêu đất nước\n- 自然愛 = tình yêu thiên nhiên\n\n📌 Dùng trong:\n- triết học\n- xã hội\n- tâm lý học","x":840,"y":80,"width":1200,"height":420},
+		{"id":"word1","type":"text","text":"# 人類愛（じんるいあい）\n\n🌍 Tình yêu nhân loại\n\n📚 Hán Việt:\n- 人類 = nhân loại\n- 愛 = ái\n\n💡 Nghĩa:\n- tình yêu dành cho toàn bộ loài người\n- mang tính nhân văn cao","x":2120,"y":720,"width":980,"height":360},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 愛 = “tim + sự gắn bó” ❤️\n\n➡️ Hình ảnh:\n- trái tim\n- sự chăm sóc\n- tình cảm sâu sắc không điều kiện\n\n📌 Keyword:\n愛 = LOVE / AFFECTION / HUMANITY","x":240,"y":1320,"width":1200,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

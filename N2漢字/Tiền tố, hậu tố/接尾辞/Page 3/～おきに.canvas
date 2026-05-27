@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"word1","type":"text","text":"# 1時間おきに（いちじかんおきに）\n\n⏰ Cứ mỗi 1 giờ\n\n📚 Hán Việt:\n- 1時間 = 1 giờ\n- おきに = cách\n\n💡 Nghĩa:\n- lặp lại mỗi giờ một lần","x":1940,"y":520,"width":980,"height":780},
+		{"id":"word2","type":"text","text":"# 一日おきに（いちにちおきに）\n\n📅 Cứ cách 1 ngày\n\n📚 Hán Việt:\n- 一日 = một ngày\n- おきに = cách\n\n💡 Nghĩa:\n- hôm nay có, hôm sau nghỉ, rồi lại tiếp","x":1940,"y":1380,"width":980,"height":780},
+		{"id":"word3","type":"text","text":"# 4メートルおきに\n\n📏 Cứ mỗi 4 mét\n\n📚 Hán Việt:\n- 4メートル = 4 mét\n- おきに = cách\n\n💡 Nghĩa:\n- lặp lại theo khoảng cách vật lý đều nhau","x":1940,"y":2240,"width":980,"height":780},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ おきに = “đặt mốc rồi nhảy có khoảng cách đều” 📍📍📍\n\n➡️ Hình ảnh:\n- các điểm cách đều nhau\n- lịch uống thuốc\n- nhịp thời gian lặp lại\n\n📌 Keyword:\nおきに = EVERY INTERVAL / SPACED BY","x":980,"y":2700,"width":1200,"height":860},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 ～おきに = cứ mỗi khoảng ~\n\n➡️ Dùng để chỉ:\n- lặp lại theo chu kỳ cố định\n- khoảng cách đều nhau\n- tần suất định kỳ\n\n📌 Gần nghĩa:\n- every ~\n- at intervals of ~\n- spaced by ~","x":40,"y":705,"width":780,"height":390},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N2\n\n🧩 [Số lượng / thời gian / khoảng cách] + おきに\n→ nghĩa: cứ cách mỗi ~\n\nVí dụ:\n- 2時間おきに = mỗi 2 giờ\n- 3日おきに = mỗi 3 ngày\n- 10cmおきに = mỗi 10 cm\n\n📌 Dùng trong:\n- lịch trình\n- y tế\n- kỹ thuật\n- đời sống","x":1210,"y":60,"width":480,"height":460},
+		{"id":"center","type":"text","text":"# ～おきに\n\n📚 Hán Việt: CÁCH / GIÁN CÁCH\n\n📏 Ý nghĩa trung tâm:\n👉 cứ cách ~ • mỗi khoảng ~ • định kỳ theo khoảng\n\n📌 Sắc thái:\n- nhấn mạnh khoảng cách lặp lại đều đặn\n- dùng cho thời gian, không gian, tần suất\n- mang tính nhịp đều","x":1205,"y":740,"width":490,"height":320}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
+}

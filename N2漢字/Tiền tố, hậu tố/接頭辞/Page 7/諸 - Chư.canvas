@@ -1,127 +1,23 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 780,
-      "height": 380,
-      "text": "# 諸～（しょ～）\n\n📚 Hán Việt: CHƯ（諸）\n\n🌐 Ý nghĩa trung tâm:\nCác • Nhiều • Những\n\n📌 Thường dùng để:\n- chỉ nhiều đối tượng cùng nhóm\n- cách nói trang trọng\n- gom nhiều thứ liên quan lại"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 760,
-      "height": 760,
-      "text": "# Ý nghĩa\n\n🧠 諸 mang sắc thái:\n- các\n- nhiều\n- những\n- đủ loại\n\n➡️ Gần giống:\n- various\n- many\n- all kinds of\n\n📌 Prefix này rất hay gặp trong:\n- văn viết\n- thông báo\n- báo chí\n- business Japanese\n\n⚡ Có sắc thái trang trọng hơn:\n- いろいろな\n- たくさんの"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1900,
-      "y": 40,
-      "width": 860,
-      "height": 620,
-      "text": "# 諸外国（しょがいこく）\n\n🌍 Các nước khác\n\n📚 Hán Việt:\n- 諸 = chư/các\n- 外国 = ngoại quốc\n\n## Nuance\nMang sắc thái trang trọng\nthường dùng trong tin tức/chính trị\n\n📌 Ví dụ:\n- 諸外国との関係\n→ quan hệ với các nước khác"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1900,
-      "y": 760,
-      "width": 860,
-      "height": 680,
-      "text": "# 諸経費・諸事情\n\n💰 Các khoản phát sinh / nhiều lý do\n\n🧩 諸経費\n→ nhiều loại chi phí phát sinh\n\n🧩 諸事情\n→ nhiều hoàn cảnh/lý do khác nhau\n\n💡 Điểm chung:\nKhông phải chỉ một yếu tố\nmà gồm nhiều thứ liên quan"
-    },
-    {
-      "id": "word3",
-      "type": "text",
-      "x": 1900,
-      "y": 1560,
-      "width": 860,
-      "height": 700,
-      "text": "# 諸条件・諸問題・諸症状\n\n📋 Nhiều điều kiện / vấn đề / triệu chứng\n\n🧩 諸条件\n→ nhiều điều kiện khác nhau\n\n🧩 諸問題\n→ nhiều vấn đề khác nhau\n\n🧩 諸症状\n→ nhiều triệu chứng\n\n💡 Nuance:\nDùng khi có nhiều yếu tố\ncùng tồn tại hoặc liên quan"
-    },
-    {
-      "id": "word4",
-      "type": "text",
-      "x": 1900,
-      "y": 2400,
-      "width": 860,
-      "height": 620,
-      "text": "# 諸先生・諸地方\n\n👨‍🏫 Các giáo viên / các địa phương\n\n🧩 諸先生\n→ cách gọi lịch sự nhiều giáo viên\n\n🧩 諸地方\n→ nhiều địa phương khác nhau\n\n💡 Mang sắc thái:\n- trang trọng\n- lịch sự\n- thường thấy trong thông báo"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1160,
-      "height": 600,
-      "text": "# Pattern N2\n\n🧩 諸 + Danh từ\n→ Mang nghĩa:\n『nhiều / các / đủ loại』\n\nVí dụ:\n- 諸君 = các bạn\n- 諸手続き = các thủ tục\n- 諸事情 = nhiều hoàn cảnh\n\n📌 Prefix này thường dùng để:\n- gom nhiều đối tượng\n- tạo sắc thái formal/trang trọng\n- dùng trong văn bản hành chính"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 1500,
-      "width": 820,
-      "height": 900,
-      "text": "# So sánh nuance\n\n🌐 諸\n→ nhiều / các (formal)\n\n🗣️ いろいろな\n→ nhiều loại (thường ngày)\n\n📌 Ví dụ:\n- 諸問題 = các vấn đề khác nhau\n- いろいろな問題 = nhiều vấn đề\n\n⚡ 諸 tạo cảm giác:\n『trang trọng, văn viết, học thuật hơn』\n\n📌 Hay gặp trong:\n- thông báo công ty\n- báo chí\n- tài liệu hành chính"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 3360,
-      "width": 1160,
-      "height": 680,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 諸 bằng hình ảnh:\n\n🌍 nhiều quốc gia khác nhau\n📋 nhiều vấn đề cần xử lý\n💰 nhiều khoản phí phát sinh\n👨‍🏫 hội trường đầy giáo viên\n\n➡️ Điểm chung:\n『không phải một cái riêng lẻ mà là nhiều thứ cùng nhóm』\n\n📌 JLPT hay gặp:\n- 諸外国\n- 諸事情\n- 諸問題\n- 諸条件\n- 諸経費"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "center",
-      "toNode": "word2"
-    },
-    {
-      "id": "e4",
-      "fromNode": "center",
-      "toNode": "word3"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "word4"
-    },
-    {
-      "id": "e6",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e7",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e8",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":780,"height":380,"text":"# 諸～（しょ～）\n\n📚 Hán Việt: CHƯ（諸）\n\n🌐 Ý nghĩa trung tâm:\nCác • Nhiều • Những\n\n📌 Thường dùng để:\n- chỉ nhiều đối tượng cùng nhóm\n- cách nói trang trọng\n- gom nhiều thứ liên quan lại"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 諸 mang sắc thái:\n- các\n- nhiều\n- những\n- đủ loại\n\n➡️ Gần giống:\n- various\n- many\n- all kinds of\n\n📌 Prefix này rất hay gặp trong:\n- văn viết\n- thông báo\n- báo chí\n- business Japanese\n\n⚡ Có sắc thái trang trọng hơn:\n- いろいろな\n- たくさんの"},
+		{"id":"word1","type":"text","x":1900,"y":40,"width":860,"height":620,"text":"# 諸外国（しょがいこく）\n\n🌍 Các nước khác\n\n📚 Hán Việt:\n- 諸 = chư/các\n- 外国 = ngoại quốc\n\n## Nuance\nMang sắc thái trang trọng\nthường dùng trong tin tức/chính trị\n\n📌 Ví dụ:\n- 諸外国との関係\n→ quan hệ với các nước khác"},
+		{"id":"word2","type":"text","x":1900,"y":760,"width":860,"height":680,"text":"# 諸経費・諸事情\n\n💰 Các khoản phát sinh / nhiều lý do\n\n🧩 諸経費\n→ nhiều loại chi phí phát sinh\n\n🧩 諸事情\n→ nhiều hoàn cảnh/lý do khác nhau\n\n💡 Điểm chung:\nKhông phải chỉ một yếu tố\nmà gồm nhiều thứ liên quan"},
+		{"id":"word3","type":"text","x":1900,"y":1560,"width":860,"height":700,"text":"# 諸条件・諸問題・諸症状\n\n📋 Nhiều điều kiện / vấn đề / triệu chứng\n\n🧩 諸条件\n→ nhiều điều kiện khác nhau\n\n🧩 諸問題\n→ nhiều vấn đề khác nhau\n\n🧩 諸症状\n→ nhiều triệu chứng\n\n💡 Nuance:\nDùng khi có nhiều yếu tố\ncùng tồn tại hoặc liên quan"},
+		{"id":"word4","type":"text","x":1900,"y":2400,"width":860,"height":620,"text":"# 諸先生・諸地方\n\n👨‍🏫 Các giáo viên / các địa phương\n\n🧩 諸先生\n→ cách gọi lịch sự nhiều giáo viên\n\n🧩 諸地方\n→ nhiều địa phương khác nhau\n\n💡 Mang sắc thái:\n- trang trọng\n- lịch sự\n- thường thấy trong thông báo"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1160,"height":600,"text":"# Pattern N2\n\n🧩 諸 + Danh từ\n→ Mang nghĩa:\n『nhiều / các / đủ loại』\n\nVí dụ:\n- 諸君 = các bạn\n- 諸手続き = các thủ tục\n- 諸事情 = nhiều hoàn cảnh\n\n📌 Prefix này thường dùng để:\n- gom nhiều đối tượng\n- tạo sắc thái formal/trang trọng\n- dùng trong văn bản hành chính"},
+		{"id":"compare","type":"text","x":120,"y":1500,"width":820,"height":900,"text":"# So sánh nuance\n\n🌐 諸\n→ nhiều / các (formal)\n\n🗣️ いろいろな\n→ nhiều loại (thường ngày)\n\n📌 Ví dụ:\n- 諸問題 = các vấn đề khác nhau\n- いろいろな問題 = nhiều vấn đề\n\n⚡ 諸 tạo cảm giác:\n『trang trọng, văn viết, học thuật hơn』\n\n📌 Hay gặp trong:\n- thông báo công ty\n- báo chí\n- tài liệu hành chính"},
+		{"id":"memory","type":"text","x":980,"y":3360,"width":1160,"height":680,"text":"# Memory Hint\n\n🧠 Hãy nhớ 諸 bằng hình ảnh:\n\n🌍 nhiều quốc gia khác nhau\n📋 nhiều vấn đề cần xử lý\n💰 nhiều khoản phí phát sinh\n👨‍🏫 hội trường đầy giáo viên\n\n➡️ Điểm chung:\n『không phải một cái riêng lẻ mà là nhiều thứ cùng nhóm』\n\n📌 JLPT hay gặp:\n- 諸外国\n- 諸事情\n- 諸問題\n- 諸条件\n- 諸経費"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"word4","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e8","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

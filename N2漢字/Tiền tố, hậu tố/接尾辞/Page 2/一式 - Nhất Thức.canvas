@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～一式（いっしき）\n\n📚 Hán Việt: NHẤT THỨC（一式）\n\n🧰 Ý nghĩa trung tâm:\n👉 một bộ hoàn chỉnh • trọn bộ • full set\n\n📌 Sắc thái:\n- nhấn mạnh tính đầy đủ, không thiếu món nào\n- dùng trong đồ vật, dụng cụ, thiết bị\n- mang tính “set / package”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 一式 = một bộ hoàn chỉnh\n\n➡️ Dùng để chỉ:\n- toàn bộ đồ dùng thuộc cùng một nhóm\n- set đầy đủ để sử dụng\n- không thiếu thành phần\n\n📌 Gần nghĩa:\n- full set\n- complete set\n- entire kit"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 720,
+      "text": "# 家具一式（かぐいっしき）\n\n🛋️ Bộ nội thất\n\n📚 Hán Việt:\n- 家具 = gia cụ / nội thất\n- 一式 = một bộ\n\n💡 Nghĩa:\n- trọn bộ đồ nội thất (giường, bàn, tủ…)"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1300,
+      "width": 980,
+      "height": 720,
+      "text": "# 道具一式（どうぐいっしき）\n\n🔧 Bộ dụng cụ\n\n📚 Hán Việt:\n- 道具 = công cụ\n- 一式 = một bộ\n\n💡 Nghĩa:\n- toàn bộ dụng cụ cần thiết cho một công việc"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2080,
+      "width": 980,
+      "height": 720,
+      "text": "# 茶器一式（ちゃきいっしき）\n\n🍵 Bộ dụng cụ trà đạo\n\n📚 Hán Việt:\n- 茶器 = dụng cụ pha trà\n- 一式 = một bộ\n\n💡 Nghĩa:\n- toàn bộ dụng cụ dùng trong trà đạo Nhật"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -300,
+      "width": 1200,
+      "height": 760,
+      "text": "# Pattern N3–N2\n\n🧩 [Danh từ] + 一式\n→ nghĩa: trọn bộ / full set của X\n\nVí dụ:\n- 衣装一式 = bộ trang phục đầy đủ\n- 工具一式 = bộ công cụ\n- 設備一式 = bộ thiết bị\n\n📌 Dùng trong:\n- mua bán\n- kỹ thuật\n- đời sống hàng ngày"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 一式 = “đủ hết trong một bộ” 📦\n\n➡️ Hình ảnh:\n- hộp dụng cụ đầy đủ\n- set đồ không thiếu món nào\n- mở ra là dùng được ngay\n\n📌 Keyword:\n一式 = FULL SET / COMPLETE KIT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

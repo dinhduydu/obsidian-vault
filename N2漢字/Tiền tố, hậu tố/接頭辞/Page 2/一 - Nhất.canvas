@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"99db45360067bcf7","x":-559,"y":1227,"width":400,"height":400,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 1/一 - Nhất.canvas"},
 		{"id":"center","type":"text","text":"# 一～（いち・いっ・ひと～）\n\n☝️ Ý nghĩa trung tâm:\nMột • Một dạng • Một lần • Một chút\n\n📌 Prefix rất đa nghĩa:\n- chỉ số lượng\n- nhấn mạnh tư cách\n- nhấn mạnh mức độ\n- chỉ một cuộc / một lần","x":500,"y":170,"width":440,"height":310},
 		{"id":"word2","type":"text","text":"# 一社会人（いちしゃかいじん）\n\n💼 Một người trưởng thành đi làm\n\n## Tách nghĩa\n- 一 = một\n- 社会人 = người đi làm\n\n💡 Hình dung:\nMột thành viên trong xã hội lao động","x":1080,"y":40,"width":380,"height":360},
 		{"id":"word5","type":"text","text":"# 一種（いっしゅ）\n\n🧪 Một loại\n\n## Tách nghĩa\n- 一 = một\n- 種 = loại\n\n💡 Hình dung:\nMột category / một kiểu riêng","x":430,"y":760,"width":420,"height":320},
@@ -22,6 +23,7 @@
 		{"id":"e7","fromNode":"center","fromSide":"bottom","toNode":"word7","toSide":"top"},
 		{"id":"e8","fromNode":"center","fromSide":"bottom","toNode":"word8","toSide":"top"},
 		{"id":"e9","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
-		{"id":"e10","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+		{"id":"e10","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"dce0d72802f64f2c","fromNode":"center","fromSide":"bottom","toNode":"99db45360067bcf7","toSide":"top"}
 	]
 }

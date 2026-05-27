@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 560,
+      "text": "# ～圧（あつ）\n\n📚 Hán Việt: ÁP（圧）\n\n🌡️ Ý nghĩa trung tâm:\n👉 áp suất • áp lực • lực ép\n\n📌 Sắc thái:\n- lực tác động lên một bề mặt / môi trường\n- dùng nhiều trong vật lý, sinh học\n- mang tính kỹ thuật, khoa học"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 圧 = áp lực / áp suất\n\n➡️ Dùng để chỉ:\n- lực tác động lên diện tích\n- sự chênh lệch áp\n- cơ chế vật lý / sinh học\n\n📌 Gần nghĩa:\n- pressure\n- compression\n- force per area"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 720,
+      "width": 980,
+      "height": 720,
+      "text": "# 空気圧（くうきあつ）\n\n🌬️ Áp suất không khí\n\n📚 Hán Việt:\n- 空気 = không khí\n- 圧 = áp suất\n\n💡 Nghĩa:\n- lực của không khí tác động lên vật thể\n- dùng trong khí tượng, kỹ thuật"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1500,
+      "width": 980,
+      "height": 720,
+      "text": "# 浸透圧（しんとうあつ）\n\n🧬 Áp suất thẩm thấu\n\n📚 Hán Việt:\n- 浸透 = thẩm thấu\n- 圧 = áp suất\n\n💡 Nghĩa:\n- áp suất tạo ra do sự di chuyển của dung môi qua màng bán thấm\n- dùng trong sinh học / hóa học"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -300,
+      "width": 1200,
+      "height": 740,
+      "text": "# Pattern N2–N1\n\n🧩 [Danh từ] + 圧\n→ nghĩa: áp suất / áp lực của X\n\nVí dụ:\n- 水圧 = áp lực nước\n- 気圧 = áp suất khí quyển\n- 血圧 = huyết áp\n\n📌 Dùng trong:\n- vật lý\n- sinh học\n- y học\n- kỹ thuật"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 圧 = “đè ép lên một điểm” 🧱\n\n➡️ Hình ảnh:\n- vật bị ép lại\n- không khí đè lên bề mặt\n- nước thấm qua màng\n\n📌 Keyword:\n圧 = PRESSURE / FORCE / COMPRESSION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e5", "fromNode": "center", "toNode": "memory" }
+  ]
+}

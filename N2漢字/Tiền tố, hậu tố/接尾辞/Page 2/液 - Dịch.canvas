@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 580,
+      "text": "# ～液（えき）\n\n📚 Hán Việt: DỊCH（液）\n\n🧪 Ý nghĩa trung tâm:\n👉 chất lỏng • dung dịch • dịch thể\n\n📌 Sắc thái:\n- dùng trong hóa học / sinh học / kỹ thuật\n- chỉ chất ở trạng thái lỏng có chức năng cụ thể\n- thường là “liquid with purpose”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 液 = chất lỏng / dung dịch\n\n➡️ Dùng để chỉ:\n- dung dịch hóa học\n- dịch cơ thể\n- chất lỏng kỹ thuật\n\n📌 Gần nghĩa:\n- liquid\n- solution\n- fluid"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 120,
+      "width": 980,
+      "height": 720,
+      "text": "# 現像液（げんぞうえき）\n\n📸 Dung dịch rửa ảnh\n\n📚 Hán Việt:\n- 現像 = hiện ảnh\n- 液 = dung dịch\n\n💡 Nghĩa:\n- hóa chất dùng trong nhiếp ảnh để hiện hình ảnh"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 880,
+      "width": 980,
+      "height": 720,
+      "text": "# 消化液（しょうかえき）\n\n🍽️ Dịch tiêu hóa\n\n📚 Hán Việt:\n- 消化 = tiêu hóa\n- 液 = dịch\n\n💡 Nghĩa:\n- dịch trong cơ thể giúp tiêu hóa thức ăn"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1640,
+      "width": 980,
+      "height": 720,
+      "text": "# 水溶液（すいようえき）\n\n💧 Dung dịch nước\n\n📚 Hán Việt:\n- 水 = nước\n- 溶 = hòa tan\n- 液 = dung dịch\n\n💡 Nghĩa:\n- dung dịch chất tan trong nước"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2400,
+      "width": 980,
+      "height": 720,
+      "text": "# 電解液（でんかいえき）\n\n⚡ Dung dịch điện giải\n\n📚 Hán Việt:\n- 電解 = điện phân / điện giải\n- 液 = dung dịch\n\n💡 Nghĩa:\n- dung dịch dẫn điện trong pin, ắc quy"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3160,
+      "width": 980,
+      "height": 720,
+      "text": "# 不凍液（ふとうえき）\n\n❄️ Chất chống đông\n\n📚 Hán Việt:\n- 不凍 = không đóng băng\n- 液 = chất lỏng\n\n💡 Nghĩa:\n- dung dịch giúp chống đóng băng trong máy móc"
+    },
+    {
+      "id": "word6",
+      "type": "text",
+      "x": 1940,
+      "y": 3920,
+      "width": 980,
+      "height": 720,
+      "text": "# 分泌液（ぶんぴつえき）\n\n🧬 Dịch tiết\n\n📚 Hán Việt:\n- 分泌 = tiết ra\n- 液 = dịch\n\n💡 Nghĩa:\n- chất lỏng do cơ thể tiết ra (tuyến, mô)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 760,
+      "text": "# Pattern N2–N1\n\n🧩 [Danh từ chức năng] + 液\n→ nghĩa: dung dịch / dịch có chức năng cụ thể\n\nVí dụ:\n- 血液 = máu (dịch máu)\n- 胆汁液 = dịch mật\n- 潤滑液 = chất bôi trơn\n\n📌 Dùng trong:\n- sinh học\n- hóa học\n- kỹ thuật\n- y học"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 液 = “nước nhưng có chức năng đặc biệt” 🧪\n\n➡️ Hình ảnh:\n- chất lỏng trong cơ thể\n- hóa chất trong phòng thí nghiệm\n- dung dịch kỹ thuật\n\n📌 Keyword:\n液 = LIQUID / SOLUTION / FLUID"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "word6" },
+    { "id": "e8", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e9", "fromNode": "center", "toNode": "memory" }
+  ]
+}

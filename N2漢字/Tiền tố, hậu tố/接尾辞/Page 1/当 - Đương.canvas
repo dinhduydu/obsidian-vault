@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c38be4a23d684409","x":434,"y":1697,"width":400,"height":400,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/当 - Đương.canvas"},
+		{"id":"center","type":"text","text":"# ～あたり\n\n📚 Hán Việt: ĐƯƠNG / ĐÁNG / VỊ TRÍ (当)\n\n📍 Ý nghĩa trung tâm:\n👉 khoảng • tầm • chừng • around\n\n📌 Sắc thái:\n- không chính xác tuyệt đối\n- dùng để ước lượng thời gian / số lượng\n- nhẹ, tự nhiên trong hội thoại","x":980,"y":620,"width":920,"height":560},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 ～あたり = khoảng ~\n\n➡️ Dùng để chỉ:\n- ước lượng thời gian\n- mốc gần đúng\n- phạm vi không cố định\n\n📌 Gần nghĩa:\n- around\n- about\n- roughly","x":120,"y":520,"width":780,"height":860},
+		{"id":"word1","type":"text","text":"# 去年あたり（きょねんあたり）\n\n📅 Khoảng năm ngoái\n\n📚 Hán Việt:\n- 去年 = năm ngoái\n- あたり = khoảng\n\n💡 Nghĩa:\n- mốc thời gian xấp xỉ năm trước","x":1940,"y":720,"width":980,"height":720},
+		{"id":"word2","type":"text","text":"# 来月あたり（らいげつあたり）\n\n📆 Khoảng tháng sau\n\n📚 Hán Việt:\n- 来月 = tháng tới\n- あたり = khoảng\n\n💡 Nghĩa:\n- ước lượng thời điểm trong tương lai gần","x":1940,"y":1500,"width":980,"height":720},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N2\n\n🧩 [thời gian / số lượng] + あたり\n→ nghĩa: khoảng ~\n\nVí dụ:\n- 100円あたり = khoảng 100 yên\n- 3時あたり = khoảng 3 giờ\n- 東京あたり = khu vực Tokyo (mơ hồ)\n\n📌 Dùng trong:\n- hội thoại tự nhiên\n- ước lượng\n- mô tả không chính xác","x":820,"y":-300,"width":1200,"height":740},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ あたり = “đại khái nằm quanh đây” 📍\n\n➡️ Hình ảnh:\n- khoanh vùng mờ\n- không có con số chính xác\n- chỉ ước lượng\n\n📌 Keyword:\nあたり = AROUND / ABOUT / APPROX","x":980,"y":2700,"width":1200,"height":820}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"e51bee3749037756","fromNode":"center","fromSide":"bottom","toNode":"c38be4a23d684409","toSide":"top"}
+	]
+}

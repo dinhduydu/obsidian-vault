@@ -1,65 +1,19 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 920,
-      "height": 520,
-      "text": "# 明～（みょう～）\n\n📚 Hán Việt: MINH（明）\n\n⏭️ Ý nghĩa trung tâm:\n👉 ngày mai / năm sau / thời điểm kế tiếp\n\n📌 Sắc thái:\n- chỉ thời gian “ngay sau hiện tại”\n- dùng trong văn viết / trang trọng\n- thường = tương lai gần"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 780,
-      "height": 820,
-      "text": "# Ý nghĩa\n\n🧠 明 = tiếp theo / ngày mai / năm sau\n\n➡️ Dùng để chỉ:\n- thời điểm sau hiện tại\n- ngày kế tiếp / năm kế tiếp\n\n📌 Gần nghĩa:\n- next\n- tomorrow / next year"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 520,
-      "width": 980,
-      "height": 720,
-      "text": "# 明朝（みょうちょう）\n\n🌅 Sáng mai / ngày mai\n\n📚 Hán Việt:\n- 明 = minh / sáng / ngày sau\n- 朝 = sáng\n\n💡 Nghĩa:\n- buổi sáng ngày mai\n- 明日の朝"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 1300,
-      "width": 980,
-      "height": 720,
-      "text": "# 明年（みょうねん）\n\n📅 Năm sau\n\n📚 Hán Việt:\n- 明 = minh / tiếp theo\n- 年 = năm\n\n💡 Nghĩa:\n- năm kế tiếp\n- năm sau hiện tại"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1200,
-      "height": 680,
-      "text": "# Pattern N3–N2\n\n🧩 明 + thời gian\n→ nghĩa: thời điểm tiếp theo (mai / năm sau)\n\nVí dụ:\n- 明日 = ngày mai\n- 明後日 = ngày kia\n- 明晩 = tối mai\n\n📌 Dùng trong:\n- lịch trình\n- thời gian tương lai gần"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2700,
-      "width": 1200,
-      "height": 780,
-      "text": "# Memory Hint\n\n🧠 Nhớ 明 = “ánh sáng ngày mai” 🌅\n\n➡️ Hình ảnh:\n- ngày tiếp theo vừa ló sáng\n- tương lai rất gần\n\n📌 Keyword:\n明 = NEXT / TOMORROW / FOLLOWING"
-    }
-  ],
-  "edges": [
-    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
-    { "id": "e2", "fromNode": "center", "toNode": "word1" },
-    { "id": "e3", "fromNode": "center", "toNode": "word2" },
-    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
-    { "id": "e5", "fromNode": "center", "toNode": "memory" }
-  ]
+	"nodes":[
+		{"id":"dd085c562cae71dd","x":454,"y":1521,"width":400,"height":400,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 1/明 - Minh.canvas"},
+		{"id":"center","type":"text","text":"# 明～（みょう～）\n\n📚 Hán Việt: MINH（明）\n\n⏭️ Ý nghĩa trung tâm:\n👉 ngày mai / năm sau / thời điểm kế tiếp\n\n📌 Sắc thái:\n- chỉ thời gian “ngay sau hiện tại”\n- dùng trong văn viết / trang trọng\n- thường = tương lai gần","x":980,"y":620,"width":920,"height":520},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 明 = tiếp theo / ngày mai / năm sau\n\n➡️ Dùng để chỉ:\n- thời điểm sau hiện tại\n- ngày kế tiếp / năm kế tiếp\n\n📌 Gần nghĩa:\n- next\n- tomorrow / next year","x":120,"y":520,"width":780,"height":820},
+		{"id":"word1","type":"text","text":"# 明朝（みょうちょう）\n\n🌅 Sáng mai / ngày mai\n\n📚 Hán Việt:\n- 明 = minh / sáng / ngày sau\n- 朝 = sáng\n\n💡 Nghĩa:\n- buổi sáng ngày mai\n- 明日の朝","x":1940,"y":520,"width":980,"height":720},
+		{"id":"word2","type":"text","text":"# 明年（みょうねん）\n\n📅 Năm sau\n\n📚 Hán Việt:\n- 明 = minh / tiếp theo\n- 年 = năm\n\n💡 Nghĩa:\n- năm kế tiếp\n- năm sau hiện tại","x":1940,"y":1300,"width":980,"height":720},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N2\n\n🧩 明 + thời gian\n→ nghĩa: thời điểm tiếp theo (mai / năm sau)\n\nVí dụ:\n- 明日 = ngày mai\n- 明後日 = ngày kia\n- 明晩 = tối mai\n\n📌 Dùng trong:\n- lịch trình\n- thời gian tương lai gần","x":820,"y":-260,"width":1200,"height":680},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 明 = “ánh sáng ngày mai” 🌅\n\n➡️ Hình ảnh:\n- ngày tiếp theo vừa ló sáng\n- tương lai rất gần\n\n📌 Keyword:\n明 = NEXT / TOMORROW / FOLLOWING","x":980,"y":2700,"width":1200,"height":780}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"bottom","toNode":"word2","toSide":"top"},
+		{"id":"e4","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"a4a500677a82f9e6","fromNode":"center","fromSide":"bottom","toNode":"dd085c562cae71dd","toSide":"top"}
+	]
 }

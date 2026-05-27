@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 580,
+      "text": "# ～案（あん）\n\n📚 Hán Việt: ÁN（案）\n\n📄 Ý nghĩa trung tâm:\n👉 đề án • dự thảo • phương án • bản đề xuất\n\n📌 Sắc thái:\n- chưa chính thức / đang xem xét\n- dùng trong hành chính, chính trị, kinh doanh\n- mang tính “proposal / draft”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 案 = bản đề xuất / phương án\n\n➡️ Dùng để chỉ:\n- bản thảo chưa quyết định\n- phương án lựa chọn\n- đề xuất chính sách / kế hoạch\n\n📌 Gần nghĩa:\n- proposal\n- draft\n- plan\n- proposal document"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 220,
+      "width": 980,
+      "height": 720,
+      "text": "# 改革案（かいかくあん）\n\n🔧 Đề án cải cách\n\n📚 Hán Việt:\n- 改革 = cải cách\n- 案 = đề án\n\n💡 Nghĩa:\n- kế hoạch cải tổ hệ thống"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 720,
+      "text": "# 契約案（けいやくあん）\n\n📄 Dự thảo hợp đồng\n\n📚 Hán Việt:\n- 契約 = hợp đồng\n- 案 = dự thảo\n\n💡 Nghĩa:\n- bản hợp đồng chưa ký chính thức"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1740,
+      "width": 980,
+      "height": 720,
+      "text": "# 修正案（しゅうせいあん）\n\n✏️ Bản sửa đổi\n\n📚 Hán Việt:\n- 修正 = sửa chữa\n- 案 = phương án\n\n💡 Nghĩa:\n- đề xuất chỉnh sửa bản hiện tại"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2500,
+      "width": 980,
+      "height": 720,
+      "text": "# 折衷案（せっちゅうあん）\n\n⚖️ Phương án thỏa hiệp\n\n📚 Hán Việt:\n- 折衷 = dung hòa\n- 案 = phương án\n\n💡 Nghĩa:\n- giải pháp cân bằng giữa hai bên"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3260,
+      "width": 980,
+      "height": 720,
+      "text": "# 予算案（よさんあん）\n\n💰 Dự toán ngân sách\n\n📚 Hán Việt:\n- 予算 = ngân sách dự toán\n- 案 = đề án\n\n💡 Nghĩa:\n- kế hoạch chi tiêu tài chính"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 760,
+      "text": "# Pattern N2–N1\n\n🧩 [Danh từ] + 案\n→ nghĩa: đề xuất / dự thảo về X\n\nVí dụ:\n- 計画案 = bản kế hoạch\n- 政策案 = dự thảo chính sách\n- 法案 = dự thảo luật\n\n📌 Dùng trong:\n- chính trị\n- hành chính\n- doanh nghiệp"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 案 = “bản đặt trên bàn để xem xét” 📄\n\n➡️ Hình ảnh:\n- tài liệu chờ duyệt\n- họp bàn phương án\n- chưa chốt quyết định\n\n📌 Keyword:\n案 = DRAFT / PROPOSAL / PLAN"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

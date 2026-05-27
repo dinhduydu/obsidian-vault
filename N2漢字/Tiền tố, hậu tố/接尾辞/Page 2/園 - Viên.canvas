@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～園（えん）\n\n📚 Hán Việt: VIÊN（園）\n\n🌳 Ý nghĩa trung tâm:\n👉 vườn • khu vườn • công viên • cơ sở giáo dục/trưng bày\n\n📌 Sắc thái:\n- nơi được quy hoạch có chủ đề rõ ràng\n- không chỉ là “vườn cây” mà còn là “facility / institution”\n- dùng nhiều trong tên cơ sở"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 園 = khu vực có tổ chức\n\n➡️ Dùng để chỉ:\n- vườn cây / công viên\n- nơi nuôi dưỡng (trẻ em)\n- khu trưng bày (động vật, thực vật)\n\n📌 Gần nghĩa:\n- garden\n- park\n- facility / institution"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 700,
+      "text": "# 果樹園（かじゅえん）\n\n🍎 Vườn cây ăn quả\n\n📚 Hán Việt:\n- 果樹 = cây ăn quả\n- 園 = vườn\n\n💡 Nghĩa:\n- khu trồng cây ăn trái"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 940,
+      "width": 980,
+      "height": 700,
+      "text": "# 植物園（しょくぶつえん）\n\n🌿 Vườn thực vật\n\n📚 Hán Việt:\n- 植物 = thực vật\n- 園 = vườn\n\n💡 Nghĩa:\n- nơi trưng bày và nghiên cứu thực vật"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1680,
+      "width": 980,
+      "height": 700,
+      "text": "# 動物園（どうぶつえん）\n\n🦁 Sở thú\n\n📚 Hán Việt:\n- 動物 = động vật\n- 園 = vườn\n\n💡 Nghĩa:\n- nơi nuôi và trưng bày động vật"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2420,
+      "width": 980,
+      "height": 700,
+      "text": "# 保育園（ほいくえん）\n\n👶 Nhà trẻ\n\n📚 Hán Việt:\n- 保育 = nuôi dưỡng trẻ\n- 園 = cơ sở\n\n💡 Nghĩa:\n- nơi chăm sóc trẻ nhỏ (0–3 tuổi thường gặp)"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3160,
+      "width": 980,
+      "height": 700,
+      "text": "# 幼稚園（ようちえん）\n\n🎒 Trường mẫu giáo\n\n📚 Hán Việt:\n- 幼稚 = trẻ nhỏ\n- 園 = cơ sở giáo dục\n\n💡 Nghĩa:\n- mẫu giáo (thường 3–6 tuổi)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N2\n\n🧩 [Danh từ liên quan nơi chốn/sinh vật] + 園\n→ nghĩa: khu vực có chức năng đặc thù\n\nVí dụ:\n- 公園 = công viên\n- 学園 = học viện\n- 牧場園 = khu chăn nuôi\n\n📌 Dùng trong:\n- giáo dục\n- sinh học\n- địa điểm công cộng"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 園 = “một khu đất được chăm sóc có mục đích” 🌳\n\n➡️ Hình ảnh:\n- vườn cây\n- sở thú\n- trường trẻ em\n\n📌 Keyword:\n園 = GARDEN / PARK / INSTITUTION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

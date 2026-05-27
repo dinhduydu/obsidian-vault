@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～塩（えん）\n\n📚 Hán Việt: DIÊM（塩）\n\n🧂 Ý nghĩa trung tâm:\n👉 muối • loại muối / dạng muối theo nguồn gốc hoặc phương pháp\n\n📌 Sắc thái:\n- thường dùng trong công nghiệp thực phẩm\n- phân loại theo cách sản xuất\n- mang tính kỹ thuật / sản phẩm"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 塩 = muối\n\n➡️ Dùng để chỉ:\n- muối ăn\n- muối theo phương pháp sản xuất\n- phân loại sản phẩm muối\n\n📌 Gần nghĩa:\n- salt\n- sodium chloride (NaCl)\n- seasoning salt"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 720,
+      "text": "# 自然塩（しぜんえん）\n\n🌿 Muối tự nhiên\n\n📚 Hán Việt:\n- 自然 = tự nhiên\n- 塩 = muối\n\n💡 Nghĩa:\n- muối được khai thác tự nhiên, ít xử lý"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1300,
+      "width": 980,
+      "height": 720,
+      "text": "# 食卓塩（しょくたくえん）\n\n🍽️ Muối ăn trên bàn\n\n📚 Hán Việt:\n- 食卓 = bàn ăn\n- 塩 = muối\n\n💡 Nghĩa:\n- loại muối tinh dùng trực tiếp khi ăn"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2080,
+      "width": 980,
+      "height": 720,
+      "text": "# 天日塩（てんじつえん）\n\n☀️ Muối phơi nắng\n\n📚 Hán Việt:\n- 天日 = ánh mặt trời\n- 塩 = muối\n\n💡 Nghĩa:\n- muối được làm bằng cách phơi nước biển dưới ánh nắng"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N2\n\n🧩 [Danh từ + phương pháp / nguồn gốc] + 塩\n→ nghĩa: loại muối theo cách sản xuất\n\nVí dụ:\n- 岩塩 = muối đá\n- 海塩 = muối biển\n- 精製塩 = muối tinh chế\n\n📌 Dùng trong:\n- thực phẩm\n- công nghiệp\n- phân loại sản phẩm"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 塩 = “muối nhưng có nhiều kiểu sản xuất khác nhau” 🧂\n\n➡️ Hình ảnh:\n- biển → muối\n- nắng → muối kết tinh\n- bàn ăn → gia vị\n\n📌 Keyword:\n塩 = SALT / SEASONING"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}
