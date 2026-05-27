@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":460,"text":"# 農～（のう～）\n\n📚 Hán Việt: NÔNG（農）\n\n🌾 Ý nghĩa trung tâm:\n👉 nông nghiệp • canh tác • đất đai\n\n📌 Sắc thái:\n- liên quan đến trồng trọt\n- sản xuất nông nghiệp\n- sản phẩm từ nông thôn"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":780,"text":"# Ý nghĩa\n\n🧠 農 mang nghĩa:\n- nông nghiệp\n- canh tác\n- trồng trọt\n\n➡️ Gần nghĩa:\n- agriculture\n- farming\n\n📌 Hay dùng trong:\n- kinh tế\n- sản xuất\n- đời sống nông thôn"},
+		{"id":"word1","type":"text","x":1940,"y":520,"width":920,"height":700,"text":"# 農器具（のうきぐ）\n\n🚜 Dụng cụ nông nghiệp\n\n📚 Hán Việt:\n- 農 = nông\n- 器具 = dụng cụ\n\n💡 Nghĩa:\n- công cụ dùng trong canh tác\n- máy móc, thiết bị nông nghiệp\n\n📌 Ví dụ:\n- cuốc\n- cày\n- máy cày"},
+		{"id":"word2","type":"text","x":1940,"y":1200,"width":920,"height":700,"text":"# 農作業（のうさぎょう）\n\n🌱 Canh tác / công việc nông nghiệp\n\n📚 Hán Việt:\n- 農 = nông\n- 作業 = công việc\n\n💡 Nghĩa:\n- các hoạt động trồng trọt, chăm sóc cây trồng\n\n📌 Ví dụ:\n- cày ruộng\n- gieo hạt\n- thu hoạch"},
+		{"id":"word3","type":"text","x":1940,"y":1800,"width":920,"height":700,"text":"# 農作物（のうさくもつ）\n\n🥬 Nông sản\n\n📚 Hán Việt:\n- 農 = nông\n- 作物 = sản phẩm trồng trọt\n\n💡 Nghĩa:\n- sản phẩm thu hoạch từ nông nghiệp\n\n📌 Ví dụ:\n- lúa\n- rau\n- trái cây"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":640,"text":"# Pattern N2\n\n🧩 農 + danh từ\n→ nghĩa: “liên quan đến nông nghiệp / trồng trọt”\n\nVí dụ:\n- 農業 = nông nghiệp\n- 農村 = nông thôn\n- 農地 = đất nông nghiệp\n\n📌 Thường dùng trong:\n- kinh tế\n- đời sống\n- sản xuất"},
+		{"id":"compare","type":"text","x":120,"y":1580,"width":860,"height":900,"text":"# So sánh nuance\n\n🌾 農 = agriculture / farming\n\n📌 Liên quan:\n- đất đai\n- trồng trọt\n- sản xuất lương thực\n\n⚡ Cảm giác:\n『gắn với ruộng đồng, cây trồng, lao động tự nhiên』"},
+		{"id":"memory","type":"text","x":980,"y":2700,"width":1180,"height":720,"text":"# Memory Hint\n\n🧠 Nhớ 農 bằng hình ảnh:\n🌾 ruộng lúa\n🚜 máy cày\n🥬 rau củ\n\n➡️ Điểm chung:\n『mọi thứ liên quan đến trồng trọt và nông thôn』\n\n📌 Liên tưởng nhanh:\n農 = farming / agriculture"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"bottom","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"compare","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

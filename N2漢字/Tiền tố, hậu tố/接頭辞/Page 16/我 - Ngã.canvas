@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 560,
+      "text": "# 我が～（わが～）\n\n📚 Hán Việt: NGÃ（我）\n\n👥 Ý nghĩa trung tâm:\n👉 của chúng tôi / của ta / “đội nhà” (cách nói trang trọng)\n\n📌 Sắc thái:\n- trang trọng, mang tính tự hào\n- thể hiện sự gắn bó / thuộc về\n- thường dùng trong văn viết, diễn văn"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 我が = của chúng tôi / của ta\n\n➡️ Dùng để chỉ:\n- tổ chức của mình (my company, our school)\n- gia đình / tập thể thuộc về mình\n- cách nói trang trọng hơn 「私たちの」\n\n📌 Gần nghĩa:\n- our\n- my (formal)\n- belonging to us"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 720,
+      "text": "# 我が家（わがや）\n\n🏠 Nhà tôi / gia đình tôi\n\n📚 Hán Việt:\n- 我が = của tôi\n- 家 = nhà\n\n💡 Nghĩa:\n- gia đình mình (cách nói hơi trang trọng hoặc văn chương)"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1300,
+      "width": 980,
+      "height": 720,
+      "text": "# 我が校（わがこう）\n\n🏫 Trường chúng tôi\n\n📚 Hán Việt:\n- 我が = của chúng tôi\n- 校 = trường\n\n💡 Nghĩa:\n- cách nói trang trọng khi nói về trường mình"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2080,
+      "width": 980,
+      "height": 720,
+      "text": "# 我が社（わがしゃ）\n\n🏢 Công ty chúng tôi\n\n📚 Hán Việt:\n- 我が = của chúng tôi\n- 社 = công ty\n\n💡 Nghĩa:\n- cách nói trang trọng trong nội bộ hoặc phát biểu"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -300,
+      "width": 1200,
+      "height": 740,
+      "text": "# Pattern N2–N1\n\n🧩 我が + danh từ (tổ chức / nơi thuộc về)\n→ nghĩa: của chúng tôi / mang tính tự hào\n\nVí dụ:\n- 我が国 = đất nước chúng ta\n- 我が軍 = quân đội ta\n- 我が党 = đảng ta\n\n📌 Dùng trong:\n- diễn văn\n- văn viết trang trọng\n- ngữ cảnh nội bộ tổ chức"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 我が = “đây là của chúng ta” 🏅\n\n➡️ Hình ảnh:\n- đội nhà\n- tổ chức mình tự hào nói về\n- cảm giác thuộc về\n\n📌 Keyword:\n我が = OUR / OURS (FORMAL + PROUD)"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

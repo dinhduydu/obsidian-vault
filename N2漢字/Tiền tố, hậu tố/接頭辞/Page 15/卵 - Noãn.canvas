@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 卵～（らん～）\n\n📚 Hán Việt: NOÃN（卵）\n\n🥚 Ý nghĩa trung tâm:\n👉 trứng • tế bào trứng • trạng thái khởi đầu của sự sống\n\n📌 Sắc thái:\n- sinh học / tự nhiên\n- điểm bắt đầu (giai đoạn đầu)\n- nguồn gốc phát triển"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 卵 = trứng\n\n➡️ Dùng để chỉ:\n- trứng động vật\n- tế bào sinh học\n- giai đoạn khởi đầu\n\n📌 Gần nghĩa:\n- egg\n- ovum\n- embryo stage (khởi đầu)"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 620,
+      "width": 980,
+      "height": 720,
+      "text": "# 卵細胞（らんさいぼう）\n\n🧬 Tế bào trứng\n\n📚 Hán Việt:\n- 卵 = noãn / trứng\n- 細胞 = tế bào\n\n💡 Nghĩa:\n- tế bào sinh sản cái trong sinh học\n- thành phần quan trọng trong thụ tinh"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 700,
+      "text": "# Pattern N3–N2\n\n🧩 卵 + danh từ sinh học\n→ nghĩa: liên quan đến trứng / sinh sản\n\nVí dụ:\n- 卵子 = noãn\n- 鶏卵 = trứng gà\n- 受精卵 = trứng đã thụ tinh\n\n📌 Dùng trong:\n- sinh học\n- y học\n- thực phẩm"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 卵 = “mầm sống nhỏ” 🥚\n\n➡️ Hình ảnh:\n- quả trứng\n- điểm bắt đầu của sự sống\n- tế bào khởi nguồn\n\n📌 Keyword:\n卵 = EGG / OVUM / BEGINNING OF LIFE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e4", "fromNode": "center", "toNode": "memory" }
+  ]
+}

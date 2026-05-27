@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 非～（ひ～）\n\n📚 Hán Việt: PHI（非）\n\n🚫 Ý nghĩa trung tâm:\n👉 không • phi • trái với • phủ định\n\n📌 Sắc thái:\n- phủ định mạnh\n- không chính thức / không hợp lệ\n- mang tính đối lập"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 非 = không / phi\n\n➡️ Mang nghĩa:\n- không phải\n- trái với tiêu chuẩn\n- phủ định trạng thái\n\n📌 Tương đương:\n- non-\n- un-\n- dis-\n"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 320,
+      "width": 980,
+      "height": 680,
+      "text": "# 非科学的（ひかがくてき）\n\n🧪 Phi khoa học\n\n📚 Hán Việt:\n- 非 = phi\n- 科学的 = khoa học\n\n💡 Nghĩa:\n- không dựa trên khoa học\n- thiếu cơ sở khoa học"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1020,
+      "width": 980,
+      "height": 680,
+      "text": "# 非公開（ひこうかい）\n\n🔒 Không công khai\n\n📚 Hán Việt:\n- 非 = phi\n- 公開 = công khai\n\n💡 Nghĩa:\n- không mở cho công chúng\n- nội bộ / riêng tư"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1720,
+      "width": 980,
+      "height": 680,
+      "text": "# 非公式（ひこうしき）\n\n📄 Không chính thức\n\n📚 Hán Việt:\n- 非 = phi\n- 公式 = chính thức\n\n💡 Nghĩa:\n- không được công nhận chính thức"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2420,
+      "width": 980,
+      "height": 680,
+      "text": "# 非公認（ひこうにん）\n\n📛 Không công nhận\n\n📚 Hán Việt:\n- 非 = phi\n- 公認 = công nhận\n\n💡 Nghĩa:\n- không được cấp phép / thừa nhận"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3120,
+      "width": 980,
+      "height": 720,
+      "text": "# 非合法（ひごうほう）\n\n⚖️ Phi pháp\n\n📚 Hán Việt:\n- 非 = phi\n- 合法 = hợp pháp\n\n💡 Nghĩa:\n- không hợp pháp\n- vi phạm luật"
+    },
+    {
+      "id": "word6",
+      "type": "text",
+      "x": 1940,
+      "y": 3840,
+      "width": 980,
+      "height": 820,
+      "text": "# 非国民（ひこくみん）\n\n🚫 Người phản quốc (mang sắc thái nặng)\n\n📚 Hán Việt:\n- 非 = phi\n- 国民 = quốc dân\n\n💡 Nghĩa:\n- người bị coi là không có tinh thần quốc gia\n⚠️ Mang sắc thái tiêu cực mạnh"
+    },
+    {
+      "id": "word7",
+      "type": "text",
+      "x": 120,
+      "y": 1520,
+      "width": 760,
+      "height": 720,
+      "text": "# 非常勤（ひじょうきん）\n\n⏱️ Bán thời gian\n\n📚 Hán Việt:\n- 非常 = không thường xuyên\n- 勤 = làm việc\n\n💡 Nghĩa:\n- làm việc không cố định / part-time"
+    },
+    {
+      "id": "word8",
+      "type": "text",
+      "x": 120,
+      "y": 2260,
+      "width": 760,
+      "height": 720,
+      "text": "# 非常識（ひじょうしき）\n\n🧠 Thiếu hiểu biết thông thường\n\n📚 Hán Việt:\n- 非 = phi\n- 常識 = kiến thức thông thường\n\n💡 Nghĩa:\n- không có lẽ thường\n- hành vi khó hiểu"
+    },
+    {
+      "id": "word9",
+      "type": "text",
+      "x": 120,
+      "y": 3000,
+      "width": 760,
+      "height": 720,
+      "text": "# 非人道的（ひじんどうてき）\n\n☠️ Phi nhân đạo\n\n📚 Hán Việt:\n- 非 = phi\n- 人道的 = nhân đạo\n\n💡 Nghĩa:\n- trái với đạo đức con người"
+    },
+    {
+      "id": "word10",
+      "type": "text",
+      "x": 120,
+      "y": 3740,
+      "width": 760,
+      "height": 720,
+      "text": "# 非暴力（ひぼうりょく）\n\n✋ Không bạo lực\n\n📚 Hán Việt:\n- 非 = phi\n- 暴力 = bạo lực\n\n💡 Nghĩa:\n- không sử dụng bạo lực"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 620,
+      "text": "# Pattern N2\n\n🧩 非 + danh từ / tính từ\n→ nghĩa: phủ định / không thuộc loại đó\n\nVí dụ:\n- 非常識 = không có lẽ thường\n- 非公開 = không công khai\n- 非合法 = phi pháp\n\n📌 Dùng để:\n- phủ định trạng thái\n- nhấn mạnh tính “không thuộc chuẩn”"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 760,
+      "text": "# Memory Hint\n\n🧠 Nhớ 非 = dấu X 🚫\n\n➡️ Ý tưởng:\n- sai chuẩn\n- không được phép\n- không thuộc nhóm\n\n📌 Liên tưởng nhanh:\n非 = NOT / NON / UN / DIS"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "word6" },
+    { "id": "e8", "fromNode": "center", "toNode": "word7" },
+    { "id": "e9", "fromNode": "center", "toNode": "word8" },
+    { "id": "e10", "fromNode": "center", "toNode": "word9" },
+    { "id": "e11", "fromNode": "center", "toNode": "word10" },
+    { "id": "e12", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e13", "fromNode": "center", "toNode": "memory" }
+  ]
+}

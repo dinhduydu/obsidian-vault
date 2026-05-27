@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 熱～（ねつ～）\n\n📚 Hán Việt: NHIỆT（熱）\n\n🌐 Ý nghĩa trung tâm:\n👉 nhiệt • nóng • năng lượng nhiệt\n\n📌 Sắc thái:\n- liên quan đến nhiệt độ\n- năng lượng / vật lý / kỹ thuật\n- quá trình gia nhiệt"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 熱 mang nghĩa:\n- nhiệt\n- nóng\n- năng lượng nhiệt\n\n➡️ Gần nghĩa:\n- heat\n- thermal energy\n\n📌 Hay dùng trong:\n- vật lý\n- kỹ thuật\n- y học / cơ thể"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 920,
+      "height": 700,
+      "text": "# 熱機関（ねつきかん）\n\n⚙️ Động cơ nhiệt\n\n📚 Hán Việt:\n- 熱 = nhiệt\n- 機関 = cơ quan / máy móc\n\n💡 Nghĩa:\n- thiết bị chuyển đổi nhiệt năng thành cơ năng\n\n📌 Ví dụ:\n- động cơ hơi nước\n- động cơ nhiệt trong công nghiệp"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 920,
+      "height": 700,
+      "text": "# 熱処理（ねつしょり）\n\n🔥 Xử lý nhiệt / nhiệt luyện\n\n📚 Hán Việt:\n- 熱 = nhiệt\n- 処理 = xử lý\n\n💡 Nghĩa:\n- gia nhiệt vật liệu để thay đổi tính chất\n\n📌 Dùng trong:\n- luyện kim\n- cơ khí\n- vật liệu học"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 熱 + danh từ\n→ nghĩa: “liên quan đến nhiệt / nhiệt năng / gia nhiệt”\n\nVí dụ:\n- 熱中 = tập trung / say mê\n- 熱帯 = vùng nhiệt đới\n- 熱量 = nhiệt lượng\n\n📌 Thường dùng trong:\n- khoa học\n- kỹ thuật\n- đời sống"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌐 熱 = heat / thermal\n\n📌 Liên quan:\n- nhiệt độ cao\n- năng lượng truyền\n\n⚡ Cảm giác:\n『nóng, năng lượng mạnh, biến đổi vật chất』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 熱 bằng hình ảnh:\n🔥 lửa\n⚙️ máy chạy nóng\n🧪 kim loại nung đỏ\n\n➡️ Điểm chung:\n『nhiệt = năng lượng + biến đổi』\n\n📌 Liên tưởng nhanh:\n熱 = heat / thermal energy"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 要～（よう～）\n\n📚 Hán Việt: YẾU（要）\n\n⚠️ Ý nghĩa trung tâm:\n👉 cần • bắt buộc • yêu cầu • phải làm\n\n📌 Sắc thái:\n- mang tính mệnh lệnh / quy định\n- “không làm thì không được”\n- mức độ bắt buộc cao"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 要 = cần / phải\n\n➡️ Dùng để chỉ:\n- requirement (yêu cầu)\n- necessity (cần thiết)\n- obligation (bắt buộc)\n\n📌 Gần nghĩa:\n- must\n- need to\n- required"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 320,
+      "width": 980,
+      "height": 700,
+      "text": "# 要観察（ようかんさつ）\n\n👁️ Cần theo dõi\n\n📚 Hán Việt:\n- 要 = cần\n- 観察 = quan sát\n\n💡 Nghĩa:\n- cần theo dõi sát (y tế, kỹ thuật)\n- tình trạng cần giám sát"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1100,
+      "width": 980,
+      "height": 700,
+      "text": "# 要検討（ようけんとう）\n\n🧠 Cần xem xét\n\n📚 Hán Việt:\n- 要 = cần\n- 検討 = kiểm tra / xem xét\n\n💡 Nghĩa:\n- cần nghiên cứu thêm trước khi quyết định"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1880,
+      "width": 980,
+      "height": 700,
+      "text": "# 要注意（ようちゅうい）\n\n⚠️ Cần chú ý\n\n📚 Hán Việt:\n- 要 = cần\n- 注意 = chú ý\n\n💡 Nghĩa:\n- phải cẩn thận\n- có nguy cơ / rủi ro"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2660,
+      "width": 980,
+      "height": 700,
+      "text": "# 要返却（ようへんきゃく）\n\n📦 Cần trả lại\n\n📚 Hán Việt:\n- 要 = cần\n- 返却 = trả lại\n\n💡 Nghĩa:\n- bắt buộc phải hoàn trả (sách, đồ mượn)"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3440,
+      "width": 980,
+      "height": 700,
+      "text": "# 要予約（ようよやく）\n\n📅 Cần đặt trước\n\n📚 Hán Việt:\n- 要 = cần\n- 予約 = đặt chỗ\n\n💡 Nghĩa:\n- bắt buộc phải đặt lịch trước khi sử dụng"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 680,
+      "text": "# Pattern N3–N2\n\n🧩 要 + danh từ động từ\n→ nghĩa: cần / bắt buộc phải làm\n\nVí dụ:\n- 要相談 = cần thảo luận\n- 要確認 = cần xác nhận\n- 要連絡 = cần liên lạc\n\n📌 Dùng trong:\n- thông báo\n- quy định\n- y tế / hành chính"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 要 = “điều kiện bắt buộc” 🚨\n\n➡️ Hình ảnh:\n- biển cảnh báo\n- checklist phải làm\n- quy định không được bỏ qua\n\n📌 Keyword:\n要 = MUST / REQUIRED / NECESSARY"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 両～（りょう～）\n\n📚 Hán Việt: LƯỠNG（両）\n\n2️⃣ Ý nghĩa trung tâm:\n👉 hai • cả hai • đôi • song\n\n📌 Sắc thái:\n- luôn mang tính “pair / dual”\n- dùng cho hai phía / hai bên\n- nhấn mạnh sự đối xứng"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 両 = hai / cả hai bên\n\n➡️ Dùng để chỉ:\n- hai phía\n- hai nhóm đối lập\n- hai đơn vị cùng lúc\n\n📌 Gần nghĩa:\n- both\n- two sides\n- dual"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 260,
+      "width": 980,
+      "height": 760,
+      "text": "# 両極端（りょうきょくたん）\n\n⚖️ Hai thái cực\n\n📚 Hán Việt:\n- 両 = hai\n- 極端 = cực đoan\n\n💡 Nghĩa:\n- hai phía đối lập hoàn toàn"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1060,
+      "width": 980,
+      "height": 760,
+      "text": "# 両巨頭（りょうきょとう）\n\n🏛️ Hai nhân vật lãnh đạo lớn\n\n📚 Hán Việt:\n- 両 = hai\n- 巨頭 = lãnh đạo lớn\n\n💡 Nghĩa:\n- hai người có tầm ảnh hưởng lớn\n- hai “ông lớn”"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1860,
+      "width": 980,
+      "height": 760,
+      "text": "# 両首脳（りょうしゅのう）\n\n🌍 Hai nguyên thủ\n\n📚 Hán Việt:\n- 両 = hai\n- 首脳 = lãnh đạo cao nhất\n\n💡 Nghĩa:\n- lãnh đạo của hai quốc gia"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2660,
+      "width": 980,
+      "height": 760,
+      "text": "# 両陣営（りょうじんえい）\n\n⚔️ Hai phe\n\n📚 Hán Việt:\n- 両 = hai\n- 陣営 = phe / trận tuyến\n\n💡 Nghĩa:\n- hai bên đối lập trong chính trị / chiến lược"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3460,
+      "width": 980,
+      "height": 760,
+      "text": "# 両手（りょうて）\n\n👐 Hai tay\n\n📚 Hán Việt:\n- 両 = hai\n- 手 = tay\n\n💡 Nghĩa:\n- cả hai tay cùng lúc"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 700,
+      "text": "# Pattern N3–N2\n\n🧩 両 + danh từ\n→ nghĩa: hai bên / cả hai\n\nVí dụ:\n- 両国 = hai quốc gia\n- 両親 = cha mẹ\n- 両方 = cả hai bên\n\n📌 Dùng trong:\n- chính trị\n- xã hội\n- mô tả đối xứng"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 両 = “2 bên cân bằng” ⚖️\n\n➡️ Hình ảnh:\n- hai tay\n- hai phe\n- hai thế lực đối xứng\n\n📌 Keyword:\n両 = BOTH / TWO SIDES / PAIR"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 560,
+      "text": "# 乱～（らん～）\n\n📚 Hán Việt: LOẠN（乱）\n\n🌪️ Ý nghĩa trung tâm:\n👉 hỗn loạn • không trật tự • bừa bãi • nhiễu loạn\n\n📌 Sắc thái:\n- mất kiểm soát\n- không theo quy luật\n- trạng thái bị phá vỡ trật tự"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 880,
+      "text": "# Ý nghĩa\n\n🧠 乱 = loạn / hỗn loạn\n\n➡️ Dùng để chỉ:\n- trạng thái không ổn định\n- bị phá vỡ trật tự\n- hiện tượng tự nhiên / xã hội rối loạn\n\n📌 Gần nghĩa:\n- chaos\n- disorder\n- turbulence"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 320,
+      "width": 980,
+      "height": 760,
+      "text": "# 乱開発（らんかいはつ）\n\n🏗️ Khai thác bừa bãi\n\n📚 Hán Việt:\n- 乱 = loạn\n- 開発 = phát triển / khai thác\n\n💡 Nghĩa:\n- phát triển không kiểm soát\n- gây hủy hoại môi trường"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1160,
+      "width": 980,
+      "height": 760,
+      "text": "# 乱気流（らんきりゅう）\n\n✈️ Nhiễu động không khí\n\n📚 Hán Việt:\n- 乱 = loạn\n- 気流 = luồng khí\n\n💡 Nghĩa:\n- luồng không khí không ổn định\n- gây rung lắc máy bay"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2000,
+      "width": 980,
+      "height": 900,
+      "text": "# 乱層雲（らんそううん）\n\n☁️ Mây vũ tầng (mây mưa liên tục)\n\n📚 Hán Việt:\n- 乱 = loạn / không đều\n- 層雲 = mây tầng\n\n💡 Nghĩa:\n- lớp mây xám dày, không định hình\n- che kín bầu trời\n- gây mưa kéo dài nhưng không lớn\n\n📌 Đặc điểm:\n- màu xám tối\n- dày đặc\n- mưa liên tục"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 700,
+      "text": "# Pattern N2–N1\n\n🧩 乱 + danh từ\n→ nghĩa: hỗn loạn / không kiểm soát\n\nVí dụ:\n- 乱用 = lạm dụng\n- 乱立 = mọc lên bừa bãi\n- 乱暴 = thô bạo\n\n📌 Dùng trong:\n- thiên nhiên\n- xã hội\n- môi trường / kỹ thuật"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 乱 = “mọi thứ bị xáo trộn” 🌪️\n\n➡️ Hình ảnh:\n- gió mạnh làm mọi thứ bay loạn\n- trật tự bị phá vỡ\n- mây xám phủ kín trời\n\n📌 Keyword:\n乱 = CHAOS / TURBULENCE / DISORDER"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

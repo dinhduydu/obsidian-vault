@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 900,
+      "height": 520,
+      "text": "# 無～（む～）\n\n📚 Hán Việt: VÔ（無）\n\n🚫 Ý nghĩa trung tâm:\n👉 không có • vô • thiếu • phủ định mạnh\n\n📌 Sắc thái:\n- trạng thái không tồn tại\n- phủ định hoàn toàn\n- “không có gì” / “zero”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 無 = không có / vô\n\n➡️ Dùng để chỉ:\n- absence (không tồn tại)\n- lack (thiếu)\n- negation mạnh\n\n📌 Gần nghĩa:\n- no / without / null\n"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 320,
+      "width": 980,
+      "height": 700,
+      "text": "# 無愛想（ぶあいそう）\n\n😐 Lạnh nhạt / không thân thiện\n\n📚 Hán Việt:\n- 無 = vô\n- 愛想 = thân thiện\n\n💡 Nghĩa:\n- thái độ lạnh lùng, khó gần"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1080,
+      "width": 980,
+      "height": 700,
+      "text": "# 無遠慮（ぶえんりょ）\n\n🗣️ Không ngần ngại / thẳng thắn quá mức\n\n📚 Hán Việt:\n- 無 = vô\n- 遠慮 = e dè\n\n💡 Nghĩa:\n- nói hoặc hành động không dè dặt\n- đôi khi mang nghĩa tiêu cực"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1840,
+      "width": 980,
+      "height": 700,
+      "text": "# 無気味（ぶきみ）\n\n👻 Rùng rợn / đáng sợ\n\n📚 Hán Việt:\n- 無 = vô\n- 気味 = cảm giác\n\n💡 Nghĩa:\n- gây cảm giác bất an, sợ hãi"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2600,
+      "width": 980,
+      "height": 700,
+      "text": "# 無意識（むいしき）\n\n🧠 Vô thức / không ý thức\n\n📚 Hán Việt:\n- 無 = vô\n- 意識 = ý thức\n\n💡 Nghĩa:\n- làm mà không nhận thức rõ\n- trạng thái không ý thức"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3360,
+      "width": 980,
+      "height": 720,
+      "text": "# 無意味（むいみ）\n\n❌ Vô nghĩa\n\n📚 Hán Việt:\n- 無 = vô\n- 意味 = ý nghĩa\n\n💡 Nghĩa:\n- không có giá trị / không có ý nghĩa"
+    },
+    {
+      "id": "word6",
+      "type": "text",
+      "x": 120,
+      "y": 1500,
+      "width": 780,
+      "height": 820,
+      "text": "# 無関係（むかんけい）\n\n🔗 Không liên quan\n\n📚 Hán Việt:\n- 無 = vô\n- 関係 = quan hệ\n\n💡 Nghĩa:\n- không có liên hệ\n- không dính dáng"
+    },
+    {
+      "id": "word7",
+      "type": "text",
+      "x": 120,
+      "y": 2380,
+      "width": 780,
+      "height": 820,
+      "text": "# 無期限（むきげん）\n\n⏳ Vô thời hạn\n\n📚 Hán Việt:\n- 無 = vô\n- 期限 = kỳ hạn\n\n💡 Nghĩa:\n- không giới hạn thời gian"
+    },
+    {
+      "id": "word8",
+      "type": "text",
+      "x": 120,
+      "y": 3260,
+      "width": 780,
+      "height": 820,
+      "text": "# 無資格（むしかく）\n\n📛 Không có tư cách / chứng chỉ\n\n📚 Hán Việt:\n- 無 = vô\n- 資格 = tư cách/chứng chỉ\n\n💡 Nghĩa:\n- không đủ điều kiện pháp lý"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 680,
+      "text": "# Pattern N2–N1\n\n🧩 無 + danh từ\n→ nghĩa: không có / phủ định hoàn toàn\n\nVí dụ:\n- 無理 = không thể\n- 無料 = miễn phí\n- 無駄 = lãng phí\n\n📌 Dùng để:\n- phủ định trạng thái\n- nhấn mạnh “zero / none”"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 無 = trống rỗng ⭕\n\n➡️ Hình ảnh:\n- không có gì\n- zero\n- blank\n\n📌 Keyword:\n無 = NONE / NO / ZERO"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "word6" },
+    { "id": "e8", "fromNode": "center", "toNode": "word7" },
+    { "id": "e9", "fromNode": "center", "toNode": "word8" },
+    { "id": "e10", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e11", "fromNode": "center", "toNode": "memory" }
+  ]
+}

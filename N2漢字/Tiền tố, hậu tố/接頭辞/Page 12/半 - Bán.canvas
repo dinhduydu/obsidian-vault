@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 半～（はん～）\n\n📚 Hán Việt: BÁN（半）\n\n➗ Ý nghĩa trung tâm:\n👉 một nửa • bán phần • gần như\n\n📌 Sắc thái:\n- không hoàn toàn\n- ở mức trung gian\n- nửa trạng thái"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 半 mang nghĩa:\n- một nửa\n- bán phần\n- gần như / không hoàn toàn\n\n➡️ Gần nghĩa:\n- half\n- semi\n- partial\n\n📌 Hay dùng trong:\n- thời gian\n- vật liệu\n- trạng thái"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 920,
+      "height": 620,
+      "text": "# 半永久的（はんえいきゅうてき）\n\n⏳ Bán vĩnh cửu / gần như vĩnh cửu\n\n📚 Hán Việt:\n- 半 = bán\n- 永久的 = vĩnh cửu\n\n💡 Nghĩa:\n- tồn tại rất lâu nhưng không tuyệt đối vĩnh viễn\n\n📌 Dùng trong:\n- vật liệu\n- kỹ thuật\n- quảng cáo"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1120,
+      "width": 920,
+      "height": 620,
+      "text": "# 半透明（はんとうめい）\n\n🪟 Bán trong suốt\n\n📚 Hán Việt:\n- 半 = bán\n- 透明 = trong suốt\n\n💡 Nghĩa:\n- nhìn thấy mờ mờ qua vật\n\n📌 Ví dụ:\n- kính mờ\n- nhựa mờ\n- giấy mờ"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1820,
+      "width": 920,
+      "height": 620,
+      "text": "# 半そで（はんそで）\n\n👕 Cộc tay / tay ngắn\n\n📚 Hán Việt:\n- 半 = nửa\n- 袖 = tay áo\n\n💡 Nghĩa:\n- áo chỉ có nửa tay (ngắn tay)\n\n📌 Dùng trong:\n- thời trang\n- quần áo mùa hè"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 半 + danh từ / tính từ\n→ nghĩa: “bán / nửa / không hoàn toàn”\n\nVí dụ:\n- 半分 = một nửa\n- 半額 = nửa giá\n- 半信半疑 = nửa tin nửa nghi\n\n📌 Thường dùng để:\n- giảm mức độ\n- chỉ trạng thái trung gian"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n➗ 半 = half / semi / partial\n\n📌 Liên quan:\n- không hoàn toàn\n- trạng thái lưng chừng\n\n⚡ Cảm giác:\n『không đầy đủ 100%, nằm giữa hai trạng thái』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 半 bằng hình ảnh:\n➗ chia đôi\n🪟 kính mờ\n👕 áo cộc tay\n\n➡️ Điểm chung:\n『luôn là “một nửa” hoặc “không hoàn toàn”』\n\n📌 Liên tưởng nhanh:\n半 = half / semi / 50%"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

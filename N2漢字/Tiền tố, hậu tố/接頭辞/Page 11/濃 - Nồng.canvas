@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 濃～（のう～）\n\n📚 Hán Việt: NỒNG（濃）\n\n🧪 Ý nghĩa trung tâm:\n👉 đậm • đặc • nồng độ cao\n\n📌 Sắc thái:\n- dung dịch đậm đặc\n- màu sắc / hương vị đậm\n- mức độ tập trung cao"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 濃 mang nghĩa:\n- đậm\n- đặc\n- nồng độ cao\n\n➡️ Gần nghĩa:\n- concentrated\n- dense\n- strong\n\n📌 Hay dùng trong:\n- hóa học\n- vật lý\n- thực phẩm (vị đậm)"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 920,
+      "height": 620,
+      "text": "# 濃塩酸（のうえんさん）\n\n🧪 Axit hydrochloric đậm đặc\n\n📚 Hán Việt:\n- 濃 = đậm đặc\n- 塩酸 = axit hydrochloric\n\n💡 Nghĩa:\n- dung dịch HCl có nồng độ cao\n\n📌 Dùng trong:\n- phòng thí nghiệm\n- công nghiệp hóa chất"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1120,
+      "width": 920,
+      "height": 620,
+      "text": "# 濃硝酸（のうしょうさん）\n\n🧪 Axit nitric đậm đặc\n\n📚 Hán Việt:\n- 濃 = đậm đặc\n- 硝酸 = axit nitric\n\n💡 Nghĩa:\n- dung dịch HNO₃ nồng độ cao\n\n📌 Dùng trong:\n- hóa học\n- sản xuất phân bón, thuốc nổ"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1820,
+      "width": 920,
+      "height": 620,
+      "text": "# 濃硫酸（のうりゅうさん）\n\n🧪 Axit sulfuric đậm đặc\n\n📚 Hán Việt:\n- 濃 = đậm đặc\n- 硫酸 = axit sulfuric\n\n💡 Nghĩa:\n- H₂SO₄ nồng độ cao\n\n📌 Dùng trong:\n- công nghiệp hóa chất\n- pin, luyện kim"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 濃 + danh từ\n→ nghĩa: “đậm đặc / nồng độ cao / mạnh”\n\nVí dụ:\n- 濃霧 = sương mù dày đặc\n- 濃厚 = đậm đà / sâu sắc\n- 濃度 = nồng độ\n\n📌 Thường dùng trong:\n- hóa học\n- thời tiết\n- cảm xúc / hương vị"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🧪 濃 = concentrated / dense\n\n📌 Liên quan:\n- dung dịch mạnh\n- màu sắc đậm\n- cảm giác nặng, sâu\n\n⚡ Cảm giác:\n『đậm hơn mức bình thường, mạnh và rõ rệt』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 濃 bằng hình ảnh:\n🧪 axit đặc\n☁️ sương mù dày\n☕ cà phê đậm\n\n➡️ Điểm chung:\n『mọi thứ đều “đậm hơn bình thường”』\n\n📌 Liên tưởng nhanh:\n濃 = strong / concentrated / dense"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "word2"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "word3"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e7",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

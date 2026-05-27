@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 良～（りょう～）\n\n📚 Hán Việt: LƯƠNG（良）\n\n✨ Ý nghĩa trung tâm:\n👉 tốt • chất lượng cao • lành • ưu\n\n📌 Sắc thái:\n- mang nghĩa “good / fine / excellent”\n- dùng cho chất lượng, tính chất, năng lực\n- thường trang trọng hơn 良い（いい）"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 良 = tốt / chất lượng tốt\n\n➡️ Dùng để chỉ:\n- vật chất tốt\n- tính chất tốt\n- khả năng tốt\n\n📌 Gần nghĩa:\n- good\n- excellent\n- high quality"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 620,
+      "width": 980,
+      "height": 760,
+      "text": "# 良導体（りょうどうたい）\n\n⚡ Chất dẫn điện tốt\n\n📚 Hán Việt:\n- 良 = tốt\n- 導体 = chất dẫn\n\n💡 Nghĩa:\n- vật liệu dẫn điện / nhiệt tốt (kim loại, v.v.)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 700,
+      "text": "# Pattern N3–N2\n\n🧩 良 + danh từ\n→ nghĩa: tốt / chất lượng cao\n\nVí dụ:\n- 良品 = hàng tốt\n- 良心 = lương tâm\n- 良好 = tốt, ổn định\n\n📌 Dùng trong:\n- kỹ thuật\n- đánh giá chất lượng\n- đạo đức / trạng thái"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 良 = “đồ xịn, chất lượng cao” ⭐\n\n➡️ Hình ảnh:\n- sản phẩm tốt\n- vật liệu chất lượng\n- mọi thứ đạt chuẩn cao\n\n📌 Keyword:\n良 = GOOD / QUALITY / EXCELLENT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e4", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 元～（もと～）\n\n📚 Hán Việt: NGUYÊN（元）\n\n⏪ Ý nghĩa trung tâm:\n👉 trước đây • cựu • nguyên (đã từng là)\n\n📌 Sắc thái:\n- chỉ trạng thái quá khứ (đã từng)\n- người/vị trí không còn đảm nhiệm\n- nhấn mạnh “former”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 元 = trước đây / cũ / nguyên\n\n➡️ Dùng để chỉ:\n- người từng giữ chức vụ\n- trạng thái trước đây\n- “former” trong tiếng Anh\n\n📌 Gần nghĩa:\n- former\n- ex-\n- previous"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 720,
+      "text": "# 元首相（もとしゅしょう）\n\n🏛️ Cựu thủ tướng\n\n📚 Hán Việt:\n- 元 = nguyên / cựu\n- 首相 = thủ tướng\n\n💡 Nghĩa:\n- người từng giữ chức thủ tướng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1300,
+      "width": 980,
+      "height": 720,
+      "text": "# 元大統領（もとだいとうりょう）\n\n🇺🇸 Cựu tổng thống\n\n📚 Hán Việt:\n- 元 = cựu\n- 大統領 = tổng thống\n\n💡 Nghĩa:\n- người từng là tổng thống"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 680,
+      "text": "# Pattern N3–N2\n\n🧩 元 + danh từ (chức vụ/người)\n→ nghĩa: cựu / trước đây\n\nVí dụ:\n- 元会長 = cựu chủ tịch\n- 元社員 = nhân viên cũ\n- 元選手 = cựu vận động viên\n\n📌 Dùng trong:\n- chức vụ\n- nghề nghiệp\n- quan hệ xã hội"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 元 = “đã từng là boss” 👔➡️\n\n➡️ Hình ảnh:\n- người đã rời vị trí\n- quá khứ nhưng vẫn được nhắc tới\n\n📌 Keyword:\n元 = FORMER / EX / PREVIOUS"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e5", "fromNode": "center", "toNode": "memory" }
+  ]
+}

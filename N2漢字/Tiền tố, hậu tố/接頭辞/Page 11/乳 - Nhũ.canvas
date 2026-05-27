@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 860,
+      "height": 460,
+      "text": "# 乳～（にゅう～）\n\n📚 Hán Việt: NHŨ（乳）\n\n🌐 Ý nghĩa trung tâm:\n👉 sữa • chất lỏng dinh dưỡng\n\n📌 Sắc thái:\n- liên quan đến sữa động vật\n- sản phẩm từ sữa\n- dinh dưỡng / thực phẩm"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 760,
+      "height": 780,
+      "text": "# Ý nghĩa\n\n🧠 乳 mang nghĩa:\n- sữa\n- sản phẩm từ sữa\n- chất dinh dưỡng từ động vật (bò, dê...)\n\n➡️ Gần nghĩa:\n- milk\n- dairy\n\n📌 Hay dùng trong:\n- thực phẩm\n- y học\n- dinh dưỡng"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 620,
+      "width": 920,
+      "height": 720,
+      "text": "# 乳製品（にゅうせいひん）\n\n🥛 Sản phẩm làm từ sữa\n\n📚 Hán Việt:\n- 乳 = sữa\n- 製品 = sản phẩm\n\n💡 Nghĩa:\n- thực phẩm chế biến từ sữa\n- như: sữa chua, phô mai, bơ...\n\n📌 Ví dụ:\n- 牛乳\n- ヨーグルト\n- チーズ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1180,
+      "height": 640,
+      "text": "# Pattern N2\n\n🧩 乳 + danh từ\n→ nghĩa: “liên quan đến sữa / dinh dưỡng”\n\nVí dụ:\n- 乳児 = trẻ sơ sinh\n- 乳牛 = bò sữa\n- 乳製品 = sản phẩm sữa\n\n📌 Thường dùng trong:\n- thực phẩm\n- y học\n- nông nghiệp"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1580,
+      "width": 860,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌐 乳 = milk / dairy\n\n📌 Liên quan:\n- 牛乳 = sữa bò\n- 乳製品 = sản phẩm từ sữa\n\n⚡ Cảm giác:\n『thực phẩm mềm, giàu dinh dưỡng, tự nhiên』"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1180,
+      "height": 720,
+      "text": "# Memory Hint\n\n🧠 Nhớ 乳 bằng hình ảnh:\n🥛 ly sữa\n🐄 bò sữa\n🧀 phô mai\n\n➡️ Điểm chung:\n『tất cả đều liên quan đến sữa và dinh dưỡng』\n\n📌 Liên tưởng nhanh:\n乳 = milk / dairy / nutrition"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "toNode": "meaning"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "toNode": "word1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "toNode": "pattern"
+    },
+    {
+      "id": "e4",
+      "fromNode": "center",
+      "toNode": "compare"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "toNode": "memory"
+    }
+  ]
+}

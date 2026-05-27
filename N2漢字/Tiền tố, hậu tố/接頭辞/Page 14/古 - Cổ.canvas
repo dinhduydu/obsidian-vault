@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 900,
+      "height": 480,
+      "text": "# 古～（ふる～）\n\n📚 Hán Việt: CỔ（古）\n\n🕰️ Ý nghĩa trung tâm:\n👉 cũ • cổ • đã qua sử dụng\n\n📌 Sắc thái:\n- đồ đã dùng rồi\n- mang tính thời gian (đã cũ)\n- đôi khi = vintage"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 古 = cũ / cổ\n\n➡️ Dùng để chỉ:\n- đồ vật đã qua sử dụng\n- thứ thuộc về quá khứ\n- vật mang dấu ấn thời gian\n\n📌 Gần nghĩa:\n- old\n- ancient (tùy ngữ cảnh)\n- second-hand"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 980,
+      "height": 720,
+      "text": "# 古着（ふるぎ）\n\n👕 Quần áo cũ / đồ second-hand\n\n📚 Hán Việt:\n- 古 = cổ\n- 着 = mặc\n\n💡 Nghĩa:\n- quần áo đã qua sử dụng\n- hàng vintage"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 980,
+      "height": 720,
+      "text": "# 古新聞（ふるしんぶん）\n\n📰 Báo cũ\n\n📚 Hán Việt:\n- 古 = cổ\n- 新聞 = báo\n\n💡 Nghĩa:\n- báo đã đọc xong / đã qua sử dụng"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1980,
+      "width": 980,
+      "height": 760,
+      "text": "# 古本屋（ふるほんや）\n\n📚 Tiệm sách cũ\n\n📚 Hán Việt:\n- 古 = cổ\n- 本 = sách\n- 屋 = cửa hàng\n\n💡 Nghĩa:\n- cửa hàng bán sách second-hand\n- sách cũ giá rẻ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 640,
+      "text": "# Pattern N3–N4\n\n🧩 古 + danh từ\n→ nghĩa: cũ / đã qua sử dụng\n\nVí dụ:\n- 古道具 = đồ cổ / đồ cũ\n- 古家 = nhà cũ\n\n📌 Dùng trong:\n- đồ vật\n- cửa hàng second-hand\n- vật mang tính vintage"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 760,
+      "text": "# Memory Hint\n\n🧠 Nhớ 古 = “thời gian phủ bụi” 🕰️\n\n➡️ Hình ảnh:\n- đồ cũ\n- sách cũ\n- quần áo vintage\n\n📌 Keyword:\n古 = OLD / VINTAGE / USED"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

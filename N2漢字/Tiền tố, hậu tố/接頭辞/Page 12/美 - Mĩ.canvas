@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 900,
+      "height": 480,
+      "text": "# 美～（び～）\n\n📚 Hán Việt: MĨ（美）\n\n🌸 Ý nghĩa trung tâm:\n👉 đẹp • mỹ • vẻ đẹp\n\n📌 Sắc thái:\n- đẹp về hình thức\n- đôi khi mang tính lý tưởng hóa\n- thường dùng cho người / nghệ thuật / thẩm mỹ"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 美 = đẹp / mỹ\n\n➡️ Dùng để chỉ:\n- ngoại hình đẹp\n- vẻ đẹp lý tưởng\n- sự hài hòa thẩm mỹ\n\n📌 Gần nghĩa:\n- beautiful\n- aesthetic\n- attractive"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 980,
+      "height": 720,
+      "text": "# 美少女（びしょうじょ）\n\n🌸 Thiếu nữ xinh đẹp\n\n📚 Hán Việt:\n- 美 = mỹ\n- 少女 = thiếu nữ\n\n💡 Nghĩa:\n- cô gái trẻ có vẻ đẹp nổi bật\n- thường dùng trong anime / văn hóa đại chúng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 980,
+      "height": 720,
+      "text": "# 美少年（びしょうねん）\n\n✨ Thiếu niên đẹp trai (mang nét đẹp mềm mại)\n\n📚 Hán Việt:\n- 美 = mỹ\n- 少年 = thiếu niên\n\n💡 Nghĩa:\n- nam giới trẻ có vẻ đẹp thanh tú\n- thường dùng trong văn học / anime"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1980,
+      "width": 980,
+      "height": 760,
+      "text": "# 美男子（びなんし）\n\n🧑‍🦱 Mỹ nam / đẹp trai\n\n📚 Hán Việt:\n- 美 = mỹ\n- 男子 = nam tử\n\n💡 Nghĩa:\n- nam giới có ngoại hình đẹp\n- dùng trong cả đời sống và văn viết"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 640,
+      "text": "# Pattern N2–N3\n\n🧩 美 + danh từ\n→ nghĩa: đẹp / mang tính thẩm mỹ\n\nVí dụ:\n- 美人 = người đẹp\n- 美術 = mỹ thuật\n- 美容 = làm đẹp\n\n📌 Dùng trong:\n- ngoại hình\n- nghệ thuật\n- ngành làm đẹp"
+    },
+    {
+      "id": "compare",
+      "type": "text",
+      "x": 120,
+      "y": 1500,
+      "width": 780,
+      "height": 900,
+      "text": "# So sánh nuance\n\n🌸 美 ≠ chỉ đẹp đơn giản\n\n➡️ Thường mang:\n- vẻ đẹp lý tưởng\n- sự thu hút thẩm mỹ\n\n📌 Có thể dùng:\n- người\n- nghệ thuật\n- cảnh quan"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 760,
+      "text": "# Memory Hint\n\n🧠 Nhớ 美 = con người + hài hòa ✨\n\n➡️ Hình ảnh:\n- khuôn mặt đẹp\n- nghệ thuật tinh tế\n- sự cân đối\n\n📌 Keyword:\n美 = BEAUTY / AESTHETIC"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "compare" },
+    { "id": "e7", "fromNode": "center", "toNode": "memory" }
+  ]
+}

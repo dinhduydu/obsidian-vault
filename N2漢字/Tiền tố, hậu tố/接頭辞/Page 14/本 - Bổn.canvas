@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 920,
+      "height": 520,
+      "text": "# 本～（ほん～）\n\n📚 Hán Việt: BỔN（本）\n\n📌 Ý nghĩa trung tâm:\n👉 chính • bản chính • hiện tại • thật sự\n\n🧠 Sắc thái:\n- cái “chính thức / gốc / thật”\n- đối lập với giả / phụ / tạm\n- hoặc chỉ “cái này” đang nói tới"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 本 = bản chính / cái thật / hiện tại\n\n➡️ Dùng để chỉ:\n- phiên bản chính\n- sự việc đang nói tới\n- vật chính thức\n\n📌 Gần nghĩa:\n- this / current / main / official"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 980,
+      "height": 700,
+      "text": "# 本建築（ほんけんちく）\n\n🏗️ Công trình chính thức\n\n📚 Hán Việt:\n- 本 = bản chính\n- 建築 = kiến trúc / xây dựng\n\n💡 Nghĩa:\n- công trình chính, không phải bản thử nghiệm\n- công trình chính thức"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 980,
+      "height": 720,
+      "text": "# 本事件（ほんじけん）\n\n🧾 Vụ việc hiện tại\n\n📚 Hán Việt:\n- 本 = bản chính\n- 事件 = sự kiện / vụ án\n\n💡 Nghĩa:\n- vụ án đang được xử lý\n- vụ việc chính đang nói tới"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1980,
+      "width": 980,
+      "height": 760,
+      "text": "# 本製品（ほんせいひん）\n\n📦 Sản phẩm này / sản phẩm chính\n\n📚 Hán Việt:\n- 本 = bản chính\n- 製品 = sản phẩm\n\n💡 Nghĩa:\n- sản phẩm đang đề cập\n- sản phẩm chính thức (không phải bản demo)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 680,
+      "text": "# Pattern N2–N1\n\n🧩 本 + danh từ\n→ nghĩa: chính / hiện tại / bản chính\n\nVí dụ:\n- 本日 = hôm nay\n- 本社 = trụ sở chính\n- 本名 = tên thật\n\n📌 Dùng trong:\n- văn bản trang trọng\n- pháp lý\n- mô tả “bản chính”"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 780,
+      "text": "# Memory Hint\n\n🧠 Nhớ 本 = “bản gốc” 📄\n\n➡️ Hình ảnh:\n- tài liệu gốc\n- phiên bản chính\n- cái đang được nói tới\n\n📌 Keyword:\n本 = MAIN / ORIGINAL / CURRENT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

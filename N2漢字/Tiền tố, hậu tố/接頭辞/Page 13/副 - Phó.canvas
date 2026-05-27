@@ -1,0 +1,165 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 900,
+      "height": 520,
+      "text": "# 副～（ふく～）\n\n📚 Hán Việt: PHÓ（副）\n\n👥 Ý nghĩa trung tâm:\n👉 phụ • phó • bổ trợ • thứ cấp\n\n📌 Sắc thái:\n- đứng sau vai chính\n- hỗ trợ vai trò chính\n- có tính phụ thuộc / bổ sung"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 860,
+      "text": "# Ý nghĩa\n\n🧠 副 = phó / phụ\n\n➡️ Dùng để chỉ:\n- vai trò thứ hai\n- hỗ trợ chính\n- bổ sung / phụ trợ\n\n📌 Gần nghĩa:\n- deputy\n- vice-\n- assistant"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 320,
+      "width": 980,
+      "height": 700,
+      "text": "# 副委員長（ふくいいんちょう）\n\n👤 Phó chủ nhiệm ủy ban\n\n📚 Hán Việt:\n- 副 = phó\n- 委員長 = chủ nhiệm\n\n💡 Vai trò:\n- hỗ trợ chủ nhiệm\n- thay thế khi cần"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1080,
+      "width": 980,
+      "height": 700,
+      "text": "# 副議長（ふくぎちょう）\n\n🏛️ Phó chủ tọa\n\n📚 Hán Việt:\n- 副 = phó\n- 議長 = chủ tọa\n\n💡 Nghĩa:\n- người hỗ trợ điều hành hội nghị"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1840,
+      "width": 980,
+      "height": 700,
+      "text": "# 副校長（ふくこうちょう）\n\n🏫 Phó hiệu trưởng\n\n📚 Hán Việt:\n- 副 = phó\n- 校長 = hiệu trưởng\n\n💡 Vai trò:\n- quản lý hỗ trợ nhà trường"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2600,
+      "width": 980,
+      "height": 700,
+      "text": "# 副作用（ふくさよう）\n\n💊 Tác dụng phụ\n\n📚 Hán Việt:\n- 副 = phụ\n- 作用 = tác dụng\n\n💡 Nghĩa:\n- hiệu ứng không mong muốn\n- thường trong y học"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3360,
+      "width": 980,
+      "height": 720,
+      "text": "# 副産物（ふくさんぶつ）\n\n🏭 Sản phẩm phụ\n\n📚 Hán Việt:\n- 副 = phụ\n- 産物 = sản phẩm\n\n💡 Nghĩa:\n- sản phẩm sinh ra ngoài mục tiêu chính"
+    },
+    {
+      "id": "word6",
+      "type": "text",
+      "x": 120,
+      "y": 1500,
+      "width": 780,
+      "height": 820,
+      "text": "# 副社長（ふくしゃちょう）\n\n🏢 Phó giám đốc\n\n📚 Hán Việt:\n- 副 = phó\n- 社長 = giám đốc\n\n💡 Vai trò:\n- hỗ trợ điều hành công ty"
+    },
+    {
+      "id": "word7",
+      "type": "text",
+      "x": 120,
+      "y": 2380,
+      "width": 780,
+      "height": 820,
+      "text": "# 副食物（ふくしょくぶつ）\n\n🍱 Món ăn phụ\n\n📚 Hán Việt:\n- 副 = phụ\n- 食物 = thực phẩm\n\n💡 Nghĩa:\n- món ăn kèm món chính"
+    },
+    {
+      "id": "word8",
+      "type": "text",
+      "x": 120,
+      "y": 3260,
+      "width": 780,
+      "height": 820,
+      "text": "# 副大統領（ふくだいとうりょう）\n\n🇺🇸 Phó tổng thống\n\n📚 Hán Việt:\n- 副 = phó\n- 大統領 = tổng thống\n\n💡 Vai trò:\n- người đứng thứ hai trong chính phủ"
+    },
+    {
+      "id": "word9",
+      "type": "text",
+      "x": 120,
+      "y": 4140,
+      "width": 780,
+      "height": 820,
+      "text": "# 副知事（ふくちじ）\n\n🏛️ Phó tỉnh trưởng\n\n📚 Hán Việt:\n- 副 = phó\n- 知事 = tỉnh trưởng\n\n💡 Nghĩa:\n- hỗ trợ quản lý cấp tỉnh"
+    },
+    {
+      "id": "word10",
+      "type": "text",
+      "x": 120,
+      "y": 5020,
+      "width": 780,
+      "height": 820,
+      "text": "# 副読本（ふくどくほん）\n\n📘 Sách bổ trợ\n\n📚 Hán Việt:\n- 副 = phụ\n- 読本 = sách đọc\n\n💡 Nghĩa:\n- sách tham khảo / bổ sung học tập"
+    },
+    {
+      "id": "word11",
+      "type": "text",
+      "x": 120,
+      "y": 5900,
+      "width": 780,
+      "height": 820,
+      "text": "# 副都心（ふくとしん）\n\n🏙️ Trung tâm phụ\n\n📚 Hán Việt:\n- 副 = phụ\n- 都心 = trung tâm đô thị\n\n💡 Nghĩa:\n- khu trung tâm thứ cấp của thành phố"
+    },
+    {
+      "id": "word12",
+      "type": "text",
+      "x": 120,
+      "y": 6780,
+      "width": 780,
+      "height": 820,
+      "text": "# 副保証人（ふくほしょうにん）\n\n✍️ Người bảo lãnh phụ\n\n📚 Hán Việt:\n- 副 = phụ\n- 保証人 = người bảo lãnh\n\n💡 Nghĩa:\n- người đứng vai trò hỗ trợ bảo lãnh"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 680,
+      "text": "# Pattern N2–N1\n\n🧩 副 + danh từ\n→ nghĩa: phó / phụ / hỗ trợ\n\nVí dụ:\n- 副作用 = tác dụng phụ\n- 副社長 = phó giám đốc\n- 副産物 = sản phẩm phụ\n\n📌 Dùng trong:\n- tổ chức\n- y học\n- hành chính"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 820,
+      "text": "# Memory Hint\n\n🧠 Nhớ 副 = “vai phụ đứng sau” 👥\n\n➡️ Hình ảnh:\n- người đứng bên cạnh người chính\n- hỗ trợ / backup\n\n📌 Keyword:\n副 = DEPUTY / VICE / ASSIST"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "word6" },
+    { "id": "e8", "fromNode": "center", "toNode": "word7" },
+    { "id": "e9", "fromNode": "center", "toNode": "word8" },
+    { "id": "e10", "fromNode": "center", "toNode": "word9" },
+    { "id": "e11", "fromNode": "center", "toNode": "word10" },
+    { "id": "e12", "fromNode": "center", "toNode": "word11" },
+    { "id": "e13", "fromNode": "center", "toNode": "word12" },
+    { "id": "e14", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e15", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 900,
+      "height": 480,
+      "text": "# 別～（べつ～）\n\n📚 Hán Việt: BIỆT（別）\n\n🔀 Ý nghĩa trung tâm:\n👉 khác • riêng • tách biệt\n\n📌 Sắc thái:\n- không giống cái trước\n- tách ra khỏi nhóm chính\n- mang tính phân loại / đối lập"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 820,
+      "text": "# Ý nghĩa\n\n🧠 別 = khác / riêng biệt\n\n➡️ Dùng để chỉ:\n- sự tách riêng\n- một nhóm khác\n- không cùng loại\n\n📌 Gần nghĩa:\n- different\n- separate\n- another"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 420,
+      "width": 980,
+      "height": 720,
+      "text": "# 別行動（べつこうどう）\n\n🚶‍♂️ Hoạt động riêng\n\n📚 Hán Việt:\n- 別 = biệt\n- 行動 = hành động\n\n💡 Nghĩa:\n- mỗi người làm riêng\n- không đi cùng nhóm"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1200,
+      "width": 980,
+      "height": 720,
+      "text": "# 別世界（べっせかい）\n\n🌌 Thế giới khác\n\n📚 Hán Việt:\n- 別 = biệt\n- 世界 = thế giới\n\n💡 Nghĩa:\n- môi trường hoàn toàn khác\n- cảm giác khác biệt lớn"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1980,
+      "width": 980,
+      "height": 760,
+      "text": "# 別問題（べつもんだい）\n\n❗ Vấn đề khác\n\n📚 Hán Việt:\n- 別 = biệt\n- 問題 = vấn đề\n\n💡 Nghĩa:\n- một chuyện không liên quan\n- vấn đề tách biệt"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -260,
+      "width": 1200,
+      "height": 640,
+      "text": "# Pattern N3–N2\n\n🧩 別 + danh từ\n→ nghĩa: khác / riêng / tách biệt\n\nVí dụ:\n- 別途 = riêng (chi phí riêng)\n- 別室 = phòng riêng\n\n📌 Dùng trong:\n- phân loại\n- so sánh\n- tách nhóm"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 760,
+      "text": "# Memory Hint\n\n🧠 Nhớ 別 = “chia đôi đường” ➗\n\n➡️ Hình ảnh:\n- tách nhóm\n- đi hướng khác\n- không còn chung\n\n📌 Keyword:\n別 = DIFFERENT / SEPARATE / OTHER"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}
