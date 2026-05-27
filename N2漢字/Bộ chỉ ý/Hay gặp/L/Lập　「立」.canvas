@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"b1b5bf77c24e28b0","x":-117,"y":-1,"width":250,"height":60,"type":"text","text":"Lập　「立」"},
-		{"id":"73810d431c6e7c62","x":303,"y":-59,"width":250,"height":60,"type":"text","text":"並 - Tịnh"},
-		{"id":"cd36f3556a91b66e","x":291,"y":92,"width":250,"height":60,"type":"text","text":"普 - Phổ"}
+		{"id":"b1b5bf77c24e28b0","type":"text","text":"Lập　「立」","x":-117,"y":-1,"width":250,"height":60},
+		{"id":"73810d431c6e7c62","type":"text","text":"並 - Tịnh","x":303,"y":-59,"width":250,"height":60},
+		{"id":"cd36f3556a91b66e","type":"text","text":"普 - Phổ","x":291,"y":92,"width":250,"height":60},
+		{"id":"6c464b1f97ff15fb","x":291,"y":300,"width":400,"height":209,"type":"file","file":"Pasted image 20260527193540.png"},
+		{"id":"7037518e3957fa4e","type":"text","text":"競う　「きそう」：","x":820,"y":375,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ba115b4227328d79","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"73810d431c6e7c62","toSide":"left"},
-		{"id":"deb79bd8c4058918","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"cd36f3556a91b66e","toSide":"left"}
+		{"id":"deb79bd8c4058918","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"cd36f3556a91b66e","toSide":"left"},
+		{"id":"a76010abcfd9a991","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"6c464b1f97ff15fb","toSide":"left"},
+		{"id":"666a020f46eac4ee","fromNode":"6c464b1f97ff15fb","fromSide":"right","toNode":"7037518e3957fa4e","toSide":"left"}
 	]
 }

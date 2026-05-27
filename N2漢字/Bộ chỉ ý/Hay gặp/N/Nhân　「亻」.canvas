@@ -10,7 +10,11 @@
 		{"id":"9dc82df730b5a4ce","type":"text","text":"備考　「びこう」：　Ghi chú tham khảo được","x":1521,"y":-240,"width":356,"height":60},
 		{"id":"df6b4ee9eeaa68b1","type":"text","text":"美品　「びひん」：Trang thiết bị đồ dùng","x":1520,"y":-111,"width":357,"height":60},
 		{"id":"ce6d868c801cd939","type":"file","file":"Pasted image 20260526001933.png","x":2017,"y":-153,"width":400,"height":278},
-		{"id":"fc85a90300a573de","x":2553,"y":-86,"width":250,"height":60,"type":"text","text":"động tác cho mũi tên vào giỏ để chuẩn bị đi săn bắn"}
+		{"id":"fc85a90300a573de","type":"text","text":"động tác cho mũi tên vào giỏ để chuẩn bị đi săn bắn","x":2553,"y":-86,"width":250,"height":60},
+		{"id":"39cc7b825971fb4c","x":1490,"y":-462,"width":250,"height":60,"type":"text","text":"礼儀　「れいぎ」： Lễ nghi"},
+		{"id":"d138fae8970a28e5","x":1026,"y":-870,"width":250,"height":60,"type":"text","text":"伝 - Truyền"},
+		{"id":"cd41bcca0a8cf7f8","x":1413,"y":-1030,"width":250,"height":60,"type":"text","text":"伝統　「でんとう」：truyền thống"},
+		{"id":"3b3b4fab86cdf2c7","x":1432,"y":-859,"width":250,"height":60,"type":"text","text":"伝承　「でんしょう」： truyền thừa"}
 	],
 	"edges":[
 		{"id":"168191c58848e7fe","fromNode":"2510c4feeb8e09b9","fromSide":"left","toNode":"8e3ea1ee34d24124","toSide":"right"},
@@ -22,6 +26,10 @@
 		{"id":"0701cc935dc069cc","fromNode":"8c9b10a53ef00cf6","fromSide":"right","toNode":"9dc82df730b5a4ce","toSide":"left"},
 		{"id":"ef6ccf56f7484c38","fromNode":"8c9b10a53ef00cf6","fromSide":"right","toNode":"df6b4ee9eeaa68b1","toSide":"left"},
 		{"id":"598c32d97e3f1330","fromNode":"df6b4ee9eeaa68b1","fromSide":"right","toNode":"ce6d868c801cd939","toSide":"left"},
-		{"id":"4e16edb9f2dc1ea9","fromNode":"ce6d868c801cd939","fromSide":"right","toNode":"fc85a90300a573de","toSide":"left"}
+		{"id":"4e16edb9f2dc1ea9","fromNode":"ce6d868c801cd939","fromSide":"right","toNode":"fc85a90300a573de","toSide":"left"},
+		{"id":"5d952e0f7dbd5ade","fromNode":"8be58d529c0342b3","fromSide":"right","toNode":"39cc7b825971fb4c","toSide":"left"},
+		{"id":"99c60a5a5ed98f8f","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"d138fae8970a28e5","toSide":"left"},
+		{"id":"72961f58b2a6031b","fromNode":"d138fae8970a28e5","fromSide":"right","toNode":"cd41bcca0a8cf7f8","toSide":"left"},
+		{"id":"99708a5daffb88de","fromNode":"d138fae8970a28e5","fromSide":"right","toNode":"3b3b4fab86cdf2c7","toSide":"left"}
 	]
 }

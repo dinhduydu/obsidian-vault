@@ -1,6 +1,21 @@
 {
 	"nodes":[
-		{"id":"65df59d7aa37f71d","x":-7,"y":-22,"width":250,"height":60,"type":"text","text":"Thập　「十」"}
+		{"id":"65df59d7aa37f71d","type":"text","text":"Thập　「十」","x":-7,"y":-22,"width":250,"height":60},
+		{"id":"f0295c1c70391c06","type":"file","file":"Pasted image 20260527192748.png","x":480,"y":-380,"width":400,"height":388},
+		{"id":"8a967f70dbe862f0","x":1320,"y":-840,"width":250,"height":60,"type":"text","text":"世代　「せだい」：Thế hệ"},
+		{"id":"5b11e337988b355d","x":1325,"y":-629,"width":250,"height":60,"type":"text","text":"世紀　「せいき」： Thế kỷ"},
+		{"id":"b2305b9624506419","x":1348,"y":-475,"width":250,"height":60,"type":"text","text":"世界　「せかい」：Thế giới"},
+		{"id":"2b1a0edfe960d32f","x":1335,"y":-280,"width":250,"height":60,"type":"text","text":"世間　「せけん」：Nhân gian, thế gian"},
+		{"id":"3ced5646b6442c9c","x":1321,"y":-86,"width":250,"height":60,"type":"text","text":"世の中　「よのなか」"},
+		{"id":"aa7025ab2b9f8c4e","x":1160,"y":235,"width":250,"height":60,"type":"text","text":"出世　「しゅっせ」：thăng tiến, thành đạt"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"95bd8306bb0f8316","fromNode":"65df59d7aa37f71d","fromSide":"right","toNode":"f0295c1c70391c06","toSide":"left"},
+		{"id":"196a7098a32a44c1","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"8a967f70dbe862f0","toSide":"left"},
+		{"id":"f6edb0e6e5cef630","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"5b11e337988b355d","toSide":"left"},
+		{"id":"8b8a1e62ae02a957","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"b2305b9624506419","toSide":"left"},
+		{"id":"6f3da6a12704f765","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"2b1a0edfe960d32f","toSide":"left"},
+		{"id":"14b5900c461cc95d","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"3ced5646b6442c9c","toSide":"left"},
+		{"id":"1e333a07f43384f4","fromNode":"f0295c1c70391c06","fromSide":"right","toNode":"aa7025ab2b9f8c4e","toSide":"left"}
+	]
 }

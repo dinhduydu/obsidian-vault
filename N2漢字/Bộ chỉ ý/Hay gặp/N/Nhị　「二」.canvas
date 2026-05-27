@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"c22377e879b4108e","type":"text","text":"Nhị　「二」","x":-98,"y":-26,"width":250,"height":60},
-		{"id":"5913548ef880787a","x":220,"y":-200,"width":250,"height":60,"type":"text","text":"Kanji 互（ご・たがい"},
-		{"id":"0949aaec358a9155","x":580,"y":-260,"width":250,"height":60,"type":"text","text":"Ý nghĩa\n互い（たがい）: lẫn nhau, qua lại với nhau\n交互（こうご）: luân phiên"},
-		{"id":"30f0e0a91f86a2c0","x":-480,"y":-26,"width":250,"height":60,"type":"text","text":"二（nhị） — bộ số 2"}
+		{"id":"5913548ef880787a","type":"text","text":"Kanji 互（ご・たがい)","x":220,"y":-200,"width":250,"height":60},
+		{"id":"30f0e0a91f86a2c0","type":"text","text":"二（nhị） — bộ số 2","x":-480,"y":-26,"width":250,"height":60},
+		{"id":"0949aaec358a9155","type":"text","text":"Ý nghĩa\n互い（たがい）: lẫn nhau, qua lại với nhau\n交互（こうご）: luân phiên","x":580,"y":-320,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"7e9b4f7feefe83ad","fromNode":"c22377e879b4108e","fromSide":"right","toNode":"5913548ef880787a","toSide":"left"},

@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"fda920cf4d0aeb3c","x":-111,"y":-50,"width":250,"height":60,"type":"text","text":"Dặc　「弋」"}
+		{"id":"fda920cf4d0aeb3c","type":"text","text":"Dặc　「弋」","x":-111,"y":-50,"width":250,"height":60},
+		{"id":"bda6e9bae022e894","type":"file","file":"Pasted image 20260526004014.png","x":360,"y":-320,"width":372,"height":400},
+		{"id":"63dc0def06f141e3","x":360,"y":200,"width":400,"height":245,"type":"file","file":"Pasted image 20260527192703.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6ab784e7818622d4","fromNode":"fda920cf4d0aeb3c","fromSide":"right","toNode":"bda6e9bae022e894","toSide":"left"},
+		{"id":"ab52c9dc41472d10","fromNode":"fda920cf4d0aeb3c","fromSide":"right","toNode":"63dc0def06f141e3","toSide":"left"}
+	]
 }

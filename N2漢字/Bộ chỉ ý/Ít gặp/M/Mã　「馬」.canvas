@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"f4c5cc884d560e14","x":-182,"y":6,"width":250,"height":60,"type":"text","text":"Mã　「馬」"}
+		{"id":"f4c5cc884d560e14","type":"text","text":"Mã　「馬」","x":-182,"y":6,"width":250,"height":60},
+		{"id":"c7b4d44dc24fb14b","x":580,"y":-220,"width":400,"height":187,"type":"file","file":"Pasted image 20260527193714.png"},
+		{"id":"39924bcbe63c9013","x":220,"y":-63,"width":250,"height":60,"type":"text","text":"騒 - Tao"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"15c1a3ee39c202ef","fromNode":"39924bcbe63c9013","fromSide":"right","toNode":"c7b4d44dc24fb14b","toSide":"left"},
+		{"id":"a9d0f995e14a50ea","fromNode":"f4c5cc884d560e14","fromSide":"right","toNode":"39924bcbe63c9013","toSide":"left"}
+	]
 }
