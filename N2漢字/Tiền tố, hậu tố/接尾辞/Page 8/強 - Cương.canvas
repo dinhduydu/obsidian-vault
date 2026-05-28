@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～強（きょう）\n\n📚 Ý nghĩa:\n👉 hơn một chút • vượt mức • trên khoảng ~\n\n📌 Sắc thái:\n- dùng để ước lượng số lượng\n- nghĩa là “hơi hơn con số đó”\n- thường dùng trong thống kê, báo cáo, đời sống"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 ～強 = hơn mức X một chút\n\n➡️ Dùng để chỉ:\n- số lượng vượt nhẹ\n- ước lượng không chính xác tuyệt đối\n- mức “trên khoảng”\n\n📌 Trái nghĩa:\n- ～弱 = kém hơn một chút\n\n📌 Gần nghĩa:\n- a little over\n- slightly more than"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 600,
+      "width": 980,
+      "height": 760,
+      "text": "# 五百円強（ごひゃくえんきょう）\n\n💴 Hơn 500 yên một chút\n\n📚 Hán Việt:\n- 五百円 = 500 yên\n- 強 = hơn\n\n💡 Nghĩa:\n- khoảng trên 500 yên (≈ 500+)"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1480,
+      "width": 980,
+      "height": 760,
+      "text": "# 三キロ強（さんキロきょう）\n\n📏 Hơn 3 km một chút\n\n📚 Hán Việt:\n- 三キロ = 3 km\n- 強 = hơn\n\n💡 Nghĩa:\n- khoảng hơn 3 km (3.x km)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -360,
+      "width": 1200,
+      "height": 800,
+      "text": "# Pattern N3–N1\n\n🧩 [Số lượng] + 強\n→ nghĩa: hơn một chút so với con số đó\n\n📌 Trái nghĩa:\n- [Số lượng] + 弱 = kém hơn một chút\n\nVí dụ:\n- 百人強 = hơn 100 người\n- 一時間強 = hơn 1 giờ\n\n📌 Dùng trong:\n- thống kê\n- báo cáo\n- ước lượng đời sống"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 強 = “mạnh hơn → vượt qua một chút” 📈\n\n➡️ Hình ảnh:\n- vạch số 500 yên + thêm chút\n- mức đo vượt nhẹ\n- không chính xác tuyệt đối\n\n📌 Keyword:\n強 = SLIGHTLY OVER / JUST ABOVE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e5", "fromNode": "center", "toNode": "memory" }
+  ]
+}

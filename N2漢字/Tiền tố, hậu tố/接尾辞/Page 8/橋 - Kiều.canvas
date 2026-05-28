@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":940,"height":560,"text":"# ～橋（きょう）\n\n📚 Hán Việt: KIỀU（橋）\n\n🌉 Ý nghĩa trung tâm:\n👉 cầu (công trình bắc qua sông, đường, v.v.)\n\n📌 Sắc thái:\n- công trình giao thông\n- nối hai khu vực lại với nhau\n- dùng trong kiến trúc, đô thị, kỹ thuật"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":780,"height":920,"text":"# Ý nghĩa\n\n🧠 橋 = cây cầu\n\n➡️ Dùng để chỉ:\n- cầu đường bộ\n- cầu vượt\n- cầu thép / cầu gỗ / cầu hiện đại\n\n📌 Gần nghĩa:\n- bridge\n- overpass\n- viaduct"},
+		{"id":"word1","type":"text","x":1940,"y":500,"width":980,"height":760,"text":"# 歩道橋（ほどうきょう）\n\n🚶‍♂️ Cầu vượt đi bộ\n\n📚 Hán Việt:\n- 歩道 = lối đi bộ\n- 橋 = cầu\n\n💡 Nghĩa:\n- cầu dành cho người đi bộ qua đường"},
+		{"id":"word2","type":"text","x":1940,"y":1400,"width":980,"height":760,"text":"# 鉄鋼橋（てっこうきょう）\n\n🏗️ Cầu thép\n\n📚 Hán Việt:\n- 鉄鋼 = thép\n- 橋 = cầu\n\n💡 Nghĩa:\n- cầu làm bằng kết cấu thép"},
+		{"id":"word3","type":"text","x":1940,"y":2300,"width":980,"height":760,"text":"# 開閉橋（かいへいきょう）\n\n🚢 Cầu mở đóng\n\n📚 Hán Việt:\n- 開閉 = mở/đóng\n- 橋 = cầu\n\n💡 Nghĩa:\n- cầu có thể nâng hoặc mở ra cho tàu thuyền đi qua"},
+		{"id":"pattern","type":"text","x":820,"y":-360,"width":1200,"height":780,"text":"# Pattern N4–N1\n\n🧩 [Loại / chức năng] + 橋\n→ nghĩa: loại cầu theo thiết kế hoặc công dụng\n\nVí dụ:\n- 吊橋 = cầu treo\n- 石橋 = cầu đá\n- 斜張橋 = cầu dây văng\n\n📌 Dùng trong:\n- xây dựng\n- giao thông\n- kiến trúc\n- kỹ thuật"},
+		{"id":"memory","type":"text","x":980,"y":2700,"width":1200,"height":860,"text":"# Memory Hint\n\n🧠 Nhớ 橋 = “nối hai bờ lại với nhau” 🌉\n\n➡️ Hình ảnh:\n- cây cầu nối hai thành phố\n- người đi qua sông\n- kết nối hai điểm tách biệt\n\n📌 Keyword:\n橋 = BRIDGE / CONNECTION"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
+}

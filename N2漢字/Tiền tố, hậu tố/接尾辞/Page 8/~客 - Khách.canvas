@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～客（きゃく）\n\n📚 Hán Việt: KHÁCH（客）\n\n👤 Ý nghĩa trung tâm:\n👉 khách • người đến • khách hàng\n\n📌 Sắc thái:\n- người đến tham quan / mua sắm / sử dụng dịch vụ\n- dùng trong du lịch, thương mại, dịch vụ\n- rất phổ biến trong đời sống"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 客 = người khách / người đến\n\n➡️ Dùng để chỉ:\n- khách du lịch\n- khách hàng\n- nhóm người tham gia hoạt động\n\n📌 Gần nghĩa:\n- guest\n- customer\n- visitor"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 観光客（かんこうきゃく）\n\n🏖️ Khách du lịch / tham quan\n\n📚 Hán Việt:\n- 観光 = tham quan\n- 客 = khách\n\n💡 Nghĩa:\n- người đi du lịch, sightseeing"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 760,
+      "text": "# 旅行客（りょこうきゃく）\n\n✈️ Khách du lịch\n\n📚 Hán Việt:\n- 旅行 = du lịch\n- 客 = khách\n\n💡 Nghĩa:\n- người đi du lịch nói chung"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1760,
+      "width": 980,
+      "height": 760,
+      "text": "# 団体客（だんたいきゃく）\n\n👥 Khách theo đoàn\n\n📚 Hán Việt:\n- 団体 = tập thể, đoàn\n- 客 = khách\n\n💡 Nghĩa:\n- nhóm khách đi cùng nhau"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2540,
+      "width": 980,
+      "height": 760,
+      "text": "# 女性客（じょせいきゃく）\n\n👩 Khách nữ\n\n📚 Hán Việt:\n- 女性 = phụ nữ\n- 客 = khách\n\n💡 Nghĩa:\n- khách hàng là nữ giới"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3320,
+      "width": 980,
+      "height": 760,
+      "text": "# 登山客（とざんきゃく）\n\n⛰️ Khách leo núi\n\n📚 Hán Việt:\n- 登山 = leo núi\n- 客 = khách\n\n💡 Nghĩa:\n- người tham gia hoạt động leo núi"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -360,
+      "width": 1200,
+      "height": 800,
+      "text": "# Pattern N5–N1\n\n🧩 [Hoạt động / nhóm / giới tính] + 客\n→ nghĩa: người tham gia / khách thuộc nhóm đó\n\nVí dụ:\n- 常連客 = khách quen\n- 来客 = khách đến\n- 見学客 = khách tham quan học tập\n\n📌 Dùng trong:\n- du lịch\n- dịch vụ\n- kinh doanh\n- giao tiếp xã hội"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 客 = “người đi từ nơi khác đến” 🚶‍♂️\n\n➡️ Hình ảnh:\n- khách bước vào cửa hàng\n- du khách đi tham quan\n- người ngoài đến sử dụng dịch vụ\n\n📌 Keyword:\n客 = GUEST / CUSTOMER / VISITOR"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}
