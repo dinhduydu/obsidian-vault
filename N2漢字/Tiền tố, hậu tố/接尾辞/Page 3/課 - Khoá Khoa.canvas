@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～課（か）\n\n📚 Hán Việt: KHÓA / KHOA（課）\n\n🏢 Ý nghĩa trung tâm:\n👉 phòng ban • bộ phận • section\n\n📌 Sắc thái:\n- đơn vị tổ chức trong công ty / cơ quan\n- thường là cấp dưới của 部（bộ/phòng lớn hơn）\n- dùng nhiều trong hành chính, doanh nghiệp"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 課 = phòng ban / bộ phận\n\n➡️ Dùng để chỉ:\n- đơn vị công việc trong tổ chức\n- nhóm chuyên trách\n- bộ phận hành chính\n\n📌 Gần nghĩa:\n- department\n- section\n- division (nhỏ)"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 経理課（けいりか）\n\n💰 Phòng kế toán\n\n📚 Hán Việt:\n- 経理 = kế toán\n- 課 = phòng ban\n\n💡 Nghĩa:\n- bộ phận quản lý tài chính, sổ sách"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 人事課（じんじか）\n\n👥 Phòng nhân sự\n\n📚 Hán Việt:\n- 人事 = nhân sự\n- 課 = phòng\n\n💡 Nghĩa:\n- tuyển dụng, lương thưởng, nhân viên"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 総務課（そうむか）\n\n🏢 Phòng tổng vụ\n\n📚 Hán Việt:\n- 総務 = tổng vụ / hành chính\n- 課 = phòng\n\n💡 Nghĩa:\n- xử lý hành chính, giấy tờ, vận hành nội bộ"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N2\n\n🧩 [Chức năng công việc] + 課\n→ nghĩa: phòng/bộ phận phụ trách X\n\nVí dụ:\n- 営業課 = phòng kinh doanh\n- 開発課 = phòng phát triển\n- 広報課 = phòng truyền thông\n\n📌 Dùng trong:\n- công ty\n- cơ quan nhà nước\n- tổ chức hành chính"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 課 = “mỗi nhiệm vụ là một phòng riêng” 🏢\n\n➡️ Hình ảnh:\n- công ty chia phòng ban\n- mỗi phòng một chức năng\n- hệ thống tổ chức rõ ràng\n\n📌 Keyword:\n課 = SECTION / DEPARTMENT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

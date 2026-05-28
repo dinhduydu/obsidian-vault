@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～下（か）\n\n📚 Hán Việt: HẠ（下）\n\n⬇️ Ý nghĩa trung tâm:\n👉 dưới sự ~ • trong điều kiện ~ • dưới trạng thái ~\n\n📌 Sắc thái:\n- chỉ trạng thái bị bao trùm / chi phối\n- dùng trong hành chính, xã hội, thiên nhiên\n- mang nghĩa “under the condition of ~”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 ～下 = under / in the condition of\n\n➡️ Dùng để chỉ:\n- bị giám sát / quản lý\n- trong điều kiện môi trường cụ thể\n- trạng thái chịu ảnh hưởng\n\n📌 Gần nghĩa:\n- under\n- under supervision\n- under conditions of"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 監督下（かんとくか）\n\n👁️ Dưới sự giám sát\n\n📚 Hán Việt:\n- 監督 = giám sát\n- 下 = dưới\n\n💡 Nghĩa:\n- bị theo dõi và kiểm soát bởi người quản lý"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 支配下（しはいか）\n\n🛑 Dưới sự kiểm soát\n\n📚 Hán Việt:\n- 支配 = chi phối / thống trị\n- 下 = dưới\n\n💡 Nghĩa:\n- bị một bên kiểm soát hoàn toàn"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 台風下（たいふうか）\n\n🌪️ Trong điều kiện bão\n\n📚 Hán Việt:\n- 台風 = bão\n- 下 = trong điều kiện\n\n💡 Nghĩa:\n- khi đang có bão / thời tiết xấu"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N2–N1\n\n🧩 [Danh từ trạng thái / môi trường] + 下\n→ nghĩa: dưới điều kiện / sự chi phối của X\n\nVí dụ:\n- 指導下 = dưới sự hướng dẫn\n- 管理下 = dưới quản lý\n- 寒冷下 = trong điều kiện lạnh\n\n📌 Dùng trong:\n- hành chính\n- xã hội\n- thời tiết\n- tổ chức"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 下 = “bị đặt dưới một hệ thống/điều kiện” ⬇️\n\n➡️ Hình ảnh:\n- người đứng dưới sự giám sát\n- đất nước dưới bão\n- hệ thống kiểm soát\n\n📌 Keyword:\n下 = UNDER / CONTROLLED / CONDITION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

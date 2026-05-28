@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～型（がた）\n\n📚 Hán Việt: HÌNH / LOẠI（型）\n\n🧩 Ý nghĩa trung tâm:\n👉 kiểu • mẫu • dạng • loại người / vật\n\n📌 Sắc thái:\n- dùng để phân loại (type, model)\n- cả vật thể lẫn tính cách con người\n- rất phổ biến trong đời sống và khoa học"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 型 = kiểu / loại / mẫu\n\n➡️ Dùng để chỉ:\n- nhóm loại (model/type)\n- kiểu người (personality type)\n- mẫu sản phẩm\n\n📌 Gần nghĩa:\n- type\n- model\n- pattern"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 300,
+      "width": 980,
+      "height": 760,
+      "text": "# 血液型（けつえきがた）\n\n🩸 Nhóm máu\n\n📚 Hán Việt:\n- 血液 = máu\n- 型 = loại\n\n💡 Nghĩa:\n- A, B, O, AB"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1080,
+      "width": 980,
+      "height": 760,
+      "text": "# 最新型（さいしんがた）\n\n📱 Mẫu mới nhất\n\n📚 Hán Việt:\n- 最新 = mới nhất\n- 型 = mẫu\n\n💡 Nghĩa:\n- phiên bản mới nhất của sản phẩm"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1860,
+      "width": 980,
+      "height": 760,
+      "text": "# 天才型（てんさいがた）\n\n🧠 Kiểu thiên tài\n\n📚 Hán Việt:\n- 天才 = thiên tài\n- 型 = kiểu\n\n💡 Nghĩa:\n- giỏi bẩm sinh, không cần cố gắng nhiều"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2640,
+      "width": 980,
+      "height": 760,
+      "text": "# 努力型（どりょくがた）\n\n💪 Kiểu nỗ lực\n\n📚 Hán Việt:\n- 努力 = nỗ lực\n- 型 = kiểu\n\n💡 Nghĩa:\n- giỏi nhờ chăm chỉ, luyện tập"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N4–N1\n\n🧩 [Danh từ / tính chất] + 型\n→ nghĩa: kiểu / loại mang đặc trưng đó\n\nVí dụ:\n- A型人間 = người kiểu A\n- 攻撃型 = kiểu tấn công\n- 保守型 = kiểu bảo thủ\n\n📌 Dùng trong:\n- tính cách\n- sản phẩm\n- phân loại khoa học / xã hội"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 型 = “khuôn mẫu tạo ra các loại khác nhau” 🧩\n\n➡️ Hình ảnh:\n- khuôn đúc\n- kiểu người khác nhau\n- sản phẩm theo mẫu\n\n📌 Keyword:\n型 = TYPE / MODEL / PATTERN"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e7", "fromNode": "center", "toNode": "memory" }
+  ]
+}

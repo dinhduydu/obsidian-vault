@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～額（がく）\n\n📚 Hán Việt: NGẠCH（額）\n\n💰 Ý nghĩa trung tâm:\n👉 số tiền • mức tiền • giá trị định lượng\n\n📌 Sắc thái:\n- dùng để chỉ con số cụ thể (tiền, giá trị)\n- thường trong kinh tế, tài chính, thống kê\n- mang tính “amount / value / figure”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 額 = số tiền / mức giá trị\n\n➡️ Dùng để chỉ:\n- số tiền cụ thể\n- giá trị đo lường\n- chỉ số tài chính\n\n📌 Gần nghĩa:\n- amount\n- sum\n- monetary value"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 限度額（げんどがく）\n\n💳 Hạn mức\n\n📚 Hán Việt:\n- 限度 = giới hạn\n- 額 = số tiền\n\n💡 Nghĩa:\n- hạn mức tín dụng hoặc chi tiêu"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 760,
+      "text": "# 最高額（さいこうがく）\n\n🏆 Mức cao nhất\n\n📚 Hán Việt:\n- 最高 = cao nhất\n- 額 = số tiền\n\n💡 Nghĩa:\n- giá trị lớn nhất đạt được"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1760,
+      "width": 980,
+      "height": 760,
+      "text": "# 評価額（ひょうかがく）\n\n📊 Giá trị định giá\n\n📚 Hán Việt:\n- 評価 = đánh giá\n- 額 = giá trị\n\n💡 Nghĩa:\n- giá trị ước tính của tài sản"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2540,
+      "width": 980,
+      "height": 760,
+      "text": "# 輸出額（ゆしゅつがく）\n\n📦 Kim ngạch xuất khẩu\n\n📚 Hán Việt:\n- 輸出 = xuất khẩu\n- 額 = giá trị\n\n💡 Nghĩa:\n- tổng giá trị hàng xuất khẩu"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3320,
+      "width": 980,
+      "height": 760,
+      "text": "# 輸入額（ゆにゅうがく）\n\n📥 Kim ngạch nhập khẩu\n\n📚 Hán Việt:\n- 輸入 = nhập khẩu\n- 額 = giá trị\n\n💡 Nghĩa:\n- tổng giá trị hàng nhập khẩu"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Danh từ tài chính / hoạt động] + 額\n→ nghĩa: tổng số tiền / giá trị của X\n\nVí dụ:\n- 収入額 = thu nhập\n- 支出額 = chi tiêu\n- 契約額 = giá trị hợp đồng\n\n📌 Dùng trong:\n- tài chính\n- kinh tế\n- thống kê\n- kinh doanh"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 額 = “con số tiền cụ thể” 💰\n\n➡️ Hình ảnh:\n- bảng số tiền\n- hóa đơn\n- báo cáo tài chính\n\n📌 Keyword:\n額 = AMOUNT / VALUE / MONEY FIGURE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

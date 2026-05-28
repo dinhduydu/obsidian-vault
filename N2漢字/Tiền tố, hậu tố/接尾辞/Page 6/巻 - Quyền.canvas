@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～巻（かん）\n\n📚 Hán Việt: QUYỂN（巻）\n\n📖 Ý nghĩa trung tâm:\n👉 tập (sách, truyện, bộ tài liệu nhiều phần)\n\n📌 Sắc thái:\n- dùng để chia bộ sách / truyện nhiều tập\n- thể hiện thứ tự (thượng, trung, hạ)\n- mang tính hệ thống, phân tập"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 巻 = tập / quyển\n\n➡️ Dùng để chỉ:\n- phần của một bộ sách / truyện\n- tập 1, tập 2, tập cuối\n- cấu trúc chia theo phần\n\n📌 Gần nghĩa:\n- volume\n- part\n- book section"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 300,
+      "width": 980,
+      "height": 760,
+      "text": "# 上巻（じょうかん）\n\n📘 Tập thượng / tập 1\n\n📚 Hán Việt:\n- 上 = trên / đầu\n- 巻 = tập\n\n💡 Nghĩa:\n- phần đầu của bộ sách (tập 1)"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1080,
+      "width": 980,
+      "height": 760,
+      "text": "# 中巻（ちゅうかん）\n\n📗 Tập giữa / tập 2\n\n📚 Hán Việt:\n- 中 = giữa\n- 巻 = tập\n\n💡 Nghĩa:\n- phần giữa của bộ sách"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1860,
+      "width": 980,
+      "height": 760,
+      "text": "# 下巻（げかん）\n\n📕 Tập cuối / tập 3\n\n📚 Hán Việt:\n- 下 = dưới / cuối\n- 巻 = tập\n\n💡 Nghĩa:\n- phần kết thúc của bộ sách"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N4–N1\n\n🧩 [Số thứ tự / vị trí] + 巻\n→ nghĩa: tập trong bộ nhiều phần\n\nVí dụ:\n- 第一巻 = tập 1\n- 第二巻 = tập 2\n- 全巻 = toàn bộ các tập\n\n📌 Dùng trong:\n- truyện\n- tiểu thuyết\n- manga\n- tài liệu học thuật"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 巻 = “cuốn sách được cuộn lại thành từng phần” 📚\n\n➡️ Hình ảnh:\n- bộ truyện nhiều tập xếp chồng\n- từng quyển nối tiếp nhau\n- series theo thứ tự\n\n📌 Keyword:\n巻 = VOLUME / BOOK PART / SERIES"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

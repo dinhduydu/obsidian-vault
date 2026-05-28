@@ -1,0 +1,119 @@
+{
+	"nodes":[
+		{"id":"884fd510fbaa600d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/管 - Quản.canvas","x":388,"y":1832,"width":400,"height":400},
+		{"id":"center","type":"text","text":"# ～管（かん）\n\n📚 Hán Việt: QUẢN（管）\n\n🧪 Ý nghĩa trung tâm:\n👉 ống • đường ống • ống dẫn • cấu trúc dạng ống\n\n📌 Sắc thái:\n- dùng trong y học, sinh học, kỹ thuật\n- chỉ vật thể dạng ống hoặc hệ thống dẫn\n- mang tính kỹ thuật / khoa học","x":980,"y":620,"width":940,"height":560},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 管 = ống / đường dẫn\n\n➡️ Dùng để chỉ:\n- ống dẫn nước, khí, chất lỏng\n- cấu trúc dạng ống trong cơ thể\n- thiết bị ống trong khoa học\n\n📌 Gần nghĩa:\n- tube\n- pipe\n- duct","x":120,"y":520,"width":780,"height":920},
+		{"id":"word1","type":"text","text":"# 試験管（しけんかん）\n\n🧪 Ống nghiệm\n\n📚 Hán Việt:\n- 試験 = thử nghiệm\n- 管 = ống\n\n💡 Nghĩa:\n- ống dùng trong phòng thí nghiệm","x":1940,"y":200,"width":980,"height":760},
+		{"id":"word2","type":"text","text":"# 消化管（しょうかかん）\n\n🍽️ Đường tiêu hoá\n\n📚 Hán Việt:\n- 消化 = tiêu hoá\n- 管 = ống\n\n💡 Nghĩa:\n- hệ thống ống tiêu hóa trong cơ thể","x":1940,"y":980,"width":980,"height":760},
+		{"id":"word3","type":"text","text":"# 真空管（しんくうかん）\n\n📡 Đèn điện tử chân không\n\n📚 Hán Việt:\n- 真空 = chân không\n- 管 = ống\n\n💡 Nghĩa:\n- linh kiện điện tử dạng ống","x":1940,"y":1760,"width":980,"height":760},
+		{"id":"word4","type":"text","text":"# 水道管（すいどうかん）\n\n🚰 Ống nước\n\n📚 Hán Việt:\n- 水道 = cấp nước\n- 管 = ống\n\n💡 Nghĩa:\n- ống dẫn nước sinh hoạt","x":1940,"y":2540,"width":980,"height":760},
+		{"id":"word5","type":"text","text":"# 毛細管（もうさいかん）\n\n🩸 Mao quản\n\n📚 Hán Việt:\n- 毛細 = mao (tí hon)\n- 管 = ống\n\n💡 Nghĩa:\n- mạch máu cực nhỏ trong cơ thể","x":1940,"y":3320,"width":980,"height":760},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 管 = “ống dẫn mọi thứ chạy bên trong” 🔧💧\n\n➡️ Hình ảnh:\n- đường ống nước\n- mạch máu trong cơ thể\n- hệ thống dẫn khí\n\n📌 Keyword:\n管 = PIPE / TUBE / DUCT","x":980,"y":2700,"width":1200,"height":860},
+		{"id":"pattern","type":"text","text":"# Pattern N3–N1\n\n🧩 [Hệ thống / chức năng] + 管\n→ nghĩa: hệ thống ống dẫn hoặc cấu trúc dạng ống\n\nVí dụ:\n- 気管 = khí quản\n- 血管 = mạch máu\n- 配管 = hệ thống ống dẫn\n\n📌 Dùng trong:\n- y học\n- sinh học\n- kỹ thuật\n- cơ sở hạ tầng","x":1170,"y":20,"width":560,"height":440}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"word4","toSide":"top"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"word5","toSide":"top"},
+		{"id":"e7","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e8","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"91b2e83f54db2ded","fromNode":"center","fromSide":"bottom","toNode":"884fd510fbaa600d","toSide":"top"}
+	]
+}{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～器（き）\n\n📚 Hán Việt: KHÍ（器）\n\n⚙️ Ý nghĩa trung tâm:\n👉 dụng cụ • thiết bị • máy móc • cơ quan trong cơ thể\n\n📌 Sắc thái:\n- dùng cho thiết bị kỹ thuật\n- hoặc bộ phận cơ thể (y học)\n- mang tính chức năng / công cụ"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 器 = dụng cụ / thiết bị / cơ quan\n\n➡️ Dùng để chỉ:\n- máy móc, thiết bị\n- dụng cụ sinh hoạt\n- cơ quan trong cơ thể\n\n📌 Gần nghĩa:\n- device\n- instrument\n- apparatus"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 計算器（けいさんき）\n\n🧮 Máy tính\n\n📚 Hán Việt:\n- 計算 = tính toán\n- 器 = máy\n\n💡 Nghĩa:\n- thiết bị thực hiện phép tính"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 760,
+      "text": "# 呼吸器（こきゅうき）\n\n🫁 Hệ hô hấp / máy thở\n\n📚 Hán Việt:\n- 呼吸 = hô hấp\n- 器 = cơ quan / thiết bị\n\n💡 Nghĩa:\n- cơ quan hô hấp hoặc thiết bị hỗ trợ thở"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1760,
+      "width": 980,
+      "height": 760,
+      "text": "# 消火器（しょうかき）\n\n🧯 Bình chữa cháy\n\n📚 Hán Việt:\n- 消火 = dập lửa\n- 器 = thiết bị\n\n💡 Nghĩa:\n- dụng cụ dập tắt đám cháy"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2540,
+      "width": 980,
+      "height": 760,
+      "text": "# 拡声器（かくせいき）\n\n📢 Loa phóng thanh\n\n📚 Hán Việt:\n- 拡声 = khuếch đại âm thanh\n- 器 = thiết bị\n\n💡 Nghĩa:\n- thiết bị phát âm thanh to hơn"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3320,
+      "width": 980,
+      "height": 760,
+      "text": "# 聴診器（ちょうしんき）\n\n🩺 Ống nghe y tế\n\n📚 Hán Việt:\n- 聴診 = nghe chẩn đoán\n- 器 = dụng cụ\n\n💡 Nghĩa:\n- thiết bị bác sĩ dùng để nghe tim phổi"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -360,
+      "width": 1200,
+      "height": 800,
+      "text": "# Pattern N3–N1\n\n🧩 [Chức năng / hành động] + 器\n→ nghĩa: thiết bị thực hiện chức năng đó\n\nVí dụ:\n- 測定器 = thiết bị đo\n- 撮影器 = thiết bị chụp\n- 調理器 = thiết bị nấu\n\n📌 Dùng trong:\n- y học\n- kỹ thuật\n- thiết bị gia dụng\n- khoa học ứng dụng"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 器 = “đồ vật được tạo ra để phục vụ 1 chức năng” 🔧\n\n➡️ Hình ảnh:\n- máy móc trong phòng lab\n- thiết bị y tế\n- dụng cụ gia đình\n\n📌 Keyword:\n器 = DEVICE / TOOL / INSTRUMENT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

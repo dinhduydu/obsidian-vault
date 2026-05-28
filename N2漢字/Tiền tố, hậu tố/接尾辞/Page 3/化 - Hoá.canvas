@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 960,
+      "height": 580,
+      "text": "# ～化（か）\n\n📚 Hán Việt: HÓA（化）\n\n🔄 Ý nghĩa trung tâm:\n👉 biến đổi • chuyển hóa • trở thành ~\n\n📌 Sắc thái:\n- chỉ quá trình thay đổi trạng thái\n- rất phổ biến trong học thuật & xã hội\n- mang nghĩa “-ization / -ification / transformation”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 化 = biến đổi / chuyển thành\n\n➡️ Dùng để chỉ:\n- quá trình thay đổi trạng thái\n- xu hướng xã hội / kinh tế\n- chuyển từ A → B\n\n📌 Gần nghĩa:\n- transformation\n- -ization\n- conversion"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 一般化（いっぱんか）\n\n📊 Khái quát hóa\n\n📚 Hán Việt:\n- 一般 = phổ biến / chung\n- 化 = hóa\n\n💡 Nghĩa:\n- biến cái riêng thành khái niệm chung"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1000,
+      "width": 980,
+      "height": 760,
+      "text": "# 工業化（こうぎょうか）\n\n🏭 Công nghiệp hóa\n\n📚 Hán Việt:\n- 工業 = công nghiệp\n- 化 = hóa\n\n💡 Nghĩa:\n- chuyển sang nền kinh tế công nghiệp"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1800,
+      "width": 980,
+      "height": 760,
+      "text": "# 温暖化（おんだんか）\n\n🌍 Ấm lên toàn cầu\n\n📚 Hán Việt:\n- 温暖 = ấm áp\n- 化 = hóa\n\n💡 Nghĩa:\n- quá trình Trái Đất nóng lên"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2600,
+      "width": 980,
+      "height": 760,
+      "text": "# 機械化（きかいか）\n\n⚙️ Cơ giới hóa\n\n📚 Hán Việt:\n- 機械 = máy móc\n- 化 = hóa\n\n💡 Nghĩa:\n- thay lao động thủ công bằng máy móc"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3400,
+      "width": 980,
+      "height": 760,
+      "text": "# 情報化（じょうほうか）\n\n💻 Tin học hóa\n\n📚 Hán Việt:\n- 情報 = thông tin\n- 化 = hóa\n\n💡 Nghĩa:\n- xã hội dựa trên thông tin và dữ liệu"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Danh từ trạng thái / lĩnh vực] + 化\n→ nghĩa: quá trình chuyển đổi thành X\n\nVí dụ:\n- 電子化 = số hóa\n- 都市化 = đô thị hóa\n- 単純化 = đơn giản hóa\n\n📌 Dùng trong:\n- xã hội học\n- kinh tế\n- công nghệ\n- môi trường"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 化 = “mọi thứ đang biến đổi hình dạng” 🔄\n\n➡️ Hình ảnh:\n- nước thành hơi\n- làng thành đô thị\n- thủ công thành máy móc\n\n📌 Keyword:\n化 = TRANSFORMATION / -IZATION / CHANGE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

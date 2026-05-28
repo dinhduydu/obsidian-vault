@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～感（かん）\n\n📚 Hán Việt: CẢM（感）\n\n🧠 Ý nghĩa trung tâm:\n👉 cảm giác • cảm nhận • trạng thái cảm xúc\n\n📌 Sắc thái:\n- diễn tả cảm xúc nội tâm\n- rất phổ biến trong tâm lý, xã hội, đời sống\n- thường đi với danh từ trừu tượng"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 感 = cảm giác / cảm nhận\n\n➡️ Dùng để chỉ:\n- trạng thái tâm lý\n- cảm xúc chủ quan\n- nhận thức cảm tính\n\n📌 Gần nghĩa:\n- feeling\n- sense\n- emotion"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 安心感（あんしんかん）\n\n😌 Cảm giác yên tâm\n\n📚 Hán Việt:\n- 安心 = yên tâm\n- 感 = cảm giác\n\n💡 Nghĩa:\n- cảm giác an toàn, không lo lắng"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 760,
+      "text": "# 危機感（ききかん）\n\n⚠️ Cảm giác nguy cơ\n\n📚 Hán Việt:\n- 危機 = nguy cơ\n- 感 = cảm giác\n\n💡 Nghĩa:\n- cảm giác có nguy hiểm sắp xảy ra"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1760,
+      "width": 980,
+      "height": 760,
+      "text": "# 罪悪感（ざいあくかん）\n\n😔 Cảm giác tội lỗi\n\n📚 Hán Việt:\n- 罪悪 = tội lỗi\n- 感 = cảm giác\n\n💡 Nghĩa:\n- cảm giác có lỗi với ai đó / việc gì đó"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2540,
+      "width": 980,
+      "height": 760,
+      "text": "# 達成感（たっせいかん）\n\n🏆 Cảm giác thành tựu\n\n📚 Hán Việt:\n- 達成 = đạt được\n- 感 = cảm giác\n\n💡 Nghĩa:\n- cảm giác vui khi hoàn thành mục tiêu"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3320,
+      "width": 980,
+      "height": 760,
+      "text": "# 無力感（むりょくかん）\n\n🫠 Cảm giác bất lực\n\n📚 Hán Việt:\n- 無力 = không có lực\n- 感 = cảm giác\n\n💡 Nghĩa:\n- cảm giác không thể làm gì"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -360,
+      "width": 1200,
+      "height": 800,
+      "text": "# Pattern N4–N1\n\n🧩 [Danh từ trừu tượng] + 感\n→ nghĩa: cảm giác về X\n\nVí dụ:\n- 疲労感 = cảm giác mệt\n- 緊張感 = cảm giác căng thẳng\n- 一体感 = cảm giác gắn kết\n\n📌 Dùng trong:\n- tâm lý\n- cảm xúc con người\n- mô tả trải nghiệm nội tâm"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 感 = “cảm giác bên trong cơ thể và tâm trí” 💭\n\n➡️ Hình ảnh:\n- tim phản ứng\n- cảm xúc dâng lên\n- trạng thái tâm lý\n\n📌 Keyword:\n感 = FEELING / SENSE / EMOTION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

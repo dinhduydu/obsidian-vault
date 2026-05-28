@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～外（がい）\n\n📚 Hán Việt: NGOẠI（外）\n\n🌍 Ý nghĩa trung tâm:\n👉 bên ngoài • ngoài phạm vi • vượt ra khỏi\n\n📌 Sắc thái:\n- chỉ sự “không thuộc về phạm vi chính”\n- dùng trong trừu tượng (lĩnh vực, kế hoạch, vấn đề)\n- mang nghĩa “out of / outside / beyond”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 外 = ngoài / không thuộc phạm vi\n\n➡️ Dùng để chỉ:\n- ngoài dự kiến\n- ngoài phạm vi chuyên môn\n- không đáng kể / không quan trọng\n\n📌 Gần nghĩa:\n- outside\n- beyond\n- out of scope"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 問題外（もんだいがい）\n\n🚫 Không đáng bàn\n\n📚 Hán Việt:\n- 問題 = vấn đề\n- 外 = ngoài\n\n💡 Nghĩa:\n- không thuộc phạm vi vấn đề\n- không cần thảo luận"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 予定外（よていがい）\n\n⚠️ Ngoài dự tính\n\n📚 Hán Việt:\n- 予定 = dự định\n- 外 = ngoài\n\n💡 Nghĩa:\n- xảy ra bất ngờ, không có trong kế hoạch"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 領域外（りょういきがい）\n\n📡 Ngoài phạm vi / lĩnh vực\n\n📚 Hán Việt:\n- 領域 = lĩnh vực / phạm vi\n- 外 = ngoài\n\n💡 Nghĩa:\n- không thuộc chuyên môn hoặc phạm vi được xác định"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Danh từ trừu tượng] + 外\n→ nghĩa: ngoài phạm vi của X\n\nVí dụ:\n- 対象外 = ngoài đối tượng\n- 範囲外 = ngoài phạm vi\n- 業務外 = ngoài công việc\n\n📌 Dùng trong:\n- công việc\n- pháp lý\n- kỹ thuật\n- quản lý"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 外 = “bị đẩy ra ngoài ranh giới” 🚪\n\n➡️ Hình ảnh:\n- vòng tròn phạm vi\n- cái gì nằm ngoài vòng\n- vượt khỏi kế hoạch\n\n📌 Keyword:\n外 = OUTSIDE / BEYOND / OUT OF SCOPE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

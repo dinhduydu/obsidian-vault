@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"289985d0585cb2f7","x":113,"y":864,"width":400,"height":400,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 6/管 - Quản.canvas"},
 		{"id":"center","type":"text","text":"# 管～（かん～）\n\n📚 Hán Việt: QUẢN（管）\n\n🎺 Ý nghĩa trung tâm:\nỐng • Nhạc cụ hơi • Dùng ống dẫn âm thanh\n\n📌 Thường liên quan đến:\n- nhạc cụ thổi\n- ống dẫn\n- âm thanh tạo từ luồng khí","x":800,"y":300,"width":520,"height":340},
 		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 管 nguyên nghĩa là:\n- cái ống\n- ống tre\n- vật hình ống\n\n➡️ Trong âm nhạc:\nliên quan đến nhạc cụ dùng hơi để phát ra âm thanh.\n\n📌 Ví dụ:\n- sáo\n- tiêu\n- kèn","x":120,"y":280,"width":420,"height":460},
 		{"id":"word1","type":"text","text":"# 管楽器（かんがっき）\n\n🎷 Nhạc cụ hơi\n\n📚 Hán Việt:\n- 管 = quản\n- 楽器 = nhạc khí\n\n## Tách nghĩa\n- 管 = ống/thổi hơi\n- 楽器 = nhạc cụ\n\n💡 Hình dung:\nNhạc cụ phát âm bằng luồng hơi:\n- sáo\n- kèn\n- clarinet","x":1500,"y":80,"width":460,"height":360},
@@ -12,6 +13,7 @@
 		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
 		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
 		{"id":"e4","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
-		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+		{"id":"e5","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"},
+		{"id":"da1b95e48c164453","fromNode":"center","fromSide":"bottom","toNode":"289985d0585cb2f7","toSide":"top"}
 	]
 }

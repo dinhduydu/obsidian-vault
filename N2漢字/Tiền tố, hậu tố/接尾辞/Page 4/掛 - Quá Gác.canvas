@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～掛け（かけ）\n\n📚 Hán Việt: QUÁ / GÁC（掛）\n\n⏳ Ý nghĩa trung tâm:\n👉 đang dở • đang làm dang dở • chưa hoàn thành\n\n📌 Sắc thái:\n- chỉ hành động chưa kết thúc\n- nhấn mạnh trạng thái “mid-action”\n- rất hay dùng trong đời sống hàng ngày"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 掛け = đang làm dở\n\n➡️ Dùng để chỉ:\n- hành động chưa hoàn tất\n- trạng thái tạm dừng giữa chừng\n- công việc bỏ dở\n\n📌 Gần nghĩa:\n- in progress (unfinished)\n- halfway done\n- mid-action"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 書き掛け（かきかけ）\n\n✍️ Đang viết dở\n\n📚 Hán Việt:\n- 書く = viết\n- 掛け = dở\n\n💡 Nghĩa:\n- bài viết chưa hoàn thành"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# やり掛け（やりかけ）\n\n🛠️ Đang làm dở\n\n📚 Hán Việt:\n- やる = làm\n- 掛け = dở\n\n💡 Nghĩa:\n- công việc đang làm chưa xong"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 読み掛け（よみかけ）\n\n📖 Đang đọc dở\n\n📚 Hán Việt:\n- 読む = đọc\n- 掛け = dở\n\n💡 Nghĩa:\n- sách đang đọc chưa xong"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N4–N2\n\n🧩 [Động từ gốc] + 掛け\n→ nghĩa: đang làm dở hành động đó\n\nVí dụ:\n- 食べ掛け = đang ăn dở\n- 見掛け = trông thấy / nhìn qua\n- 仕掛け = bắt đầu làm / cơ chế\n\n📌 Dùng trong:\n- đời sống hàng ngày\n- mô tả trạng thái hành động\n- ngữ cảnh tự nhiên"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 掛け = “bị treo lại giữa chừng” ⏳\n\n➡️ Hình ảnh:\n- công việc đang làm bị dừng\n- bút dừng giữa dòng\n- sách mở nửa trang\n\n📌 Keyword:\n掛け = HALF-DONE / INCOMPLETE ACTION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

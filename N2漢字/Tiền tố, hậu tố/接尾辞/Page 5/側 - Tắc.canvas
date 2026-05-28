@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～側（がわ）\n\n📚 Hán Việt: TẮC / BÊN（側）\n\n📍 Ý nghĩa trung tâm:\n👉 phía • bên • góc nhìn của một phía nào đó\n\n📌 Sắc thái:\n- chỉ “side” trong không gian hoặc quan điểm\n- dùng nhiều trong đối lập (A-side vs B-side)\n- thường gắn với tổ chức / nhóm / con người"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 側 = phía / bên\n\n➡️ Dùng để chỉ:\n- phía của một người hoặc tổ chức\n- góc nhìn quan điểm\n- vị trí không gian (bên trái/phải, cạnh đường...)\n\n📌 Gần nghĩa:\n- side\n- standpoint\n- position"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 300,
+      "width": 980,
+      "height": 760,
+      "text": "# 相手側（あいてがわ）\n\n🤝 Phía đối phương\n\n📚 Hán Việt:\n- 相手 = đối thủ / đối tác\n- 側 = phía\n\n💡 Nghĩa:\n- bên kia trong thương lượng / tranh luận"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1080,
+      "width": 980,
+      "height": 760,
+      "text": "# 学校側（がっこうがわ）\n\n🏫 Phía nhà trường\n\n📚 Hán Việt:\n- 学校 = trường học\n- 側 = phía\n\n💡 Nghĩa:\n- góc nhìn hoặc lập trường của nhà trường"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1860,
+      "width": 980,
+      "height": 760,
+      "text": "# 消費者側（しょうひしゃがわ）\n\n🛒 Phía người tiêu dùng\n\n📚 Hán Việt:\n- 消費者 = người tiêu dùng\n- 側 = phía\n\n💡 Nghĩa:\n- góc nhìn của khách hàng / người mua"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2640,
+      "width": 980,
+      "height": 760,
+      "text": "# 道路側（どうろがわ）\n\n🛣️ Phía đường\n\n📚 Hán Việt:\n- 道路 = con đường\n- 側 = phía\n\n💡 Nghĩa:\n- phía gần đường / sát đường"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N4–N2\n\n🧩 [Danh từ] + 側\n→ nghĩa: phía / góc nhìn của X\n\nVí dụ:\n- 政府側 = phía chính phủ\n- 会社側 = phía công ty\n- 販売側 = phía bán hàng\n\n📌 Dùng trong:\n- đàm phán\n- xã hội\n- giao tiếp\n- mô tả vị trí / quan điểm"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 側 = “đứng về một bên của câu chuyện” ⚖️\n\n➡️ Hình ảnh:\n- hai phe đối lập\n- đứng về một phía\n- nhìn sự việc từ góc riêng\n\n📌 Keyword:\n側 = SIDE / POSITION / STANDPOINT"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e7", "fromNode": "center", "toNode": "memory" }
+  ]
+}

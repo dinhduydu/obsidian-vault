@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～観（かん）\n\n📚 Hán Việt: QUAN（観）\n\n🧠 Ý nghĩa trung tâm:\n👉 quan điểm • cách nhìn • nhận thức\n\n📌 Sắc thái:\n- dùng cho tư duy, triết lý, cách nhìn thế giới\n- mang tính trừu tượng\n- thường đi với lĩnh vực “-quan” trong tiếng Việt"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 観 = cách nhìn / quan niệm\n\n➡️ Dùng để chỉ:\n- hệ thống tư duy\n- quan điểm cá nhân hoặc xã hội\n- cách đánh giá thế giới\n\n📌 Gần nghĩa:\n- view\n- perspective\n- outlook"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 200,
+      "width": 980,
+      "height": 760,
+      "text": "# 価値観（かちかん）\n\n💎 Giá trị quan\n\n📚 Hán Việt:\n- 価値 = giá trị\n- 観 = quan điểm\n\n💡 Nghĩa:\n- hệ thống giá trị của một người"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 980,
+      "width": 980,
+      "height": 760,
+      "text": "# 人生観（じんせいかん）\n\n🌱 Nhân sinh quan\n\n📚 Hán Việt:\n- 人生 = cuộc đời\n- 観 = quan điểm\n\n💡 Nghĩa:\n- cách nhìn về cuộc sống"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 1760,
+      "width": 980,
+      "height": 760,
+      "text": "# 世界観（せかいかん）\n\n🌍 Thế giới quan\n\n📚 Hán Việt:\n- 世界 = thế giới\n- 観 = quan điểm\n\n💡 Nghĩa:\n- cách nhìn tổng thể về thế giới"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 2540,
+      "width": 980,
+      "height": 760,
+      "text": "# 先入観（せんにゅうかん）\n\n⚠️ Định kiến\n\n📚 Hán Việt:\n- 先入 = vào trước\n- 観 = quan niệm\n\n💡 Nghĩa:\n- suy nghĩ có sẵn trước khi đánh giá"
+    },
+    {
+      "id": "word5",
+      "type": "text",
+      "x": 1940,
+      "y": 3320,
+      "width": 980,
+      "height": 760,
+      "text": "# 歴史観（れきしかん）\n\n📜 Quan điểm lịch sử\n\n📚 Hán Việt:\n- 歴史 = lịch sử\n- 観 = quan điểm\n\n💡 Nghĩa:\n- cách nhìn về lịch sử"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Danh từ trừu tượng] + 観\n→ nghĩa: quan điểm về X\n\nVí dụ:\n- 社会観 = quan điểm xã hội\n- 自然観 = quan niệm tự nhiên\n- 職業観 = quan điểm nghề nghiệp\n\n📌 Dùng trong:\n- triết học\n- xã hội học\n- giáo dục\n- tư duy cá nhân"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 観 = “cách bạn nhìn thế giới” 👁️🌍\n\n➡️ Hình ảnh:\n- mỗi người có 1 cặp kính khác nhau\n- nhìn thế giới theo góc riêng\n- hệ giá trị cá nhân\n\n📌 Keyword:\n観 = VIEW / PERSPECTIVE / OUTLOOK"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "word5" },
+    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e8", "fromNode": "center", "toNode": "memory" }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～科（か）\n\n📚 Hán Việt: KHOA（科）\n\n📖 Ý nghĩa trung tâm:\n👉 môn học • khoa (trong y tế / giáo dục)\n\n📌 Sắc thái:\n- dùng trong trường học và bệnh viện\n- chỉ chuyên ngành hoặc phân loại học thuật\n- mang tính hệ thống, phân ngành"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 科 = môn học / khoa chuyên môn\n\n➡️ Dùng để chỉ:\n- môn học trong chương trình học\n- chuyên khoa y tế\n- phân ngành kiến thức\n\n📌 Gần nghĩa:\n- subject\n- department (medical)\n- faculty/section"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 家庭科（かていか）\n\n🏠 Môn nữ công gia chánh\n\n📚 Hán Việt:\n- 家庭 = gia đình\n- 科 = môn học\n\n💡 Nghĩa:\n- môn học về kỹ năng gia đình, nấu ăn, đời sống"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 皮膚科（ひふか）\n\n🩺 Khoa da liễu\n\n📚 Hán Việt:\n- 皮膚 = da\n- 科 = khoa\n\n💡 Nghĩa:\n- chuyên khoa điều trị bệnh về da"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 普通科（ふつうか）\n\n📘 Ban phổ thông\n\n📚 Hán Việt:\n- 普通 = bình thường / phổ thông\n- 科 = môn / ban\n\n💡 Nghĩa:\n- chương trình học phổ thông (không chuyên)"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N2\n\n🧩 [Danh từ lĩnh vực] + 科\n→ nghĩa: môn học / chuyên khoa của lĩnh vực đó\n\nVí dụ:\n- 歯科 = nha khoa\n- 外科 = ngoại khoa\n- 文科 = khoa văn\n\n📌 Dùng trong:\n- giáo dục\n- y tế\n- phân ngành chuyên môn"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 科 = “chia kiến thức thành từng ngành nhỏ” 📚\n\n➡️ Hình ảnh:\n- trường học chia môn\n- bệnh viện chia khoa\n- hệ thống kiến thức phân nhánh\n\n📌 Keyword:\n科 = SUBJECT / DEPARTMENT / SPECIALTY"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

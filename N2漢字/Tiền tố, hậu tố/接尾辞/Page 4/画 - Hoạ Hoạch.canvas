@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～画（が）\n\n📚 Hán Việt: HỌA（画）\n\n🎨 Ý nghĩa trung tâm:\n👉 tranh • hội họa • loại hình nghệ thuật vẽ\n\n📌 Sắc thái:\n- dùng để phân loại trường phái hội họa\n- mang tính nghệ thuật / học thuật\n- chỉ phong cách vẽ tranh"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 画 = tranh / hội họa\n\n➡️ Dùng để chỉ:\n- tranh vẽ\n- phong cách hội họa\n- trường phái nghệ thuật\n\n📌 Gần nghĩa:\n- painting\n- artwork\n- art style"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 西洋画（せいようが）\n\n🖼️ Hội họa phương Tây\n\n📚 Hán Việt:\n- 西洋 = phương Tây\n- 画 = tranh\n\n💡 Nghĩa:\n- phong cách hội họa châu Âu"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 東洋画（とうようが）\n\n🎨 Hội họa phương Đông\n\n📚 Hán Việt:\n- 東洋 = phương Đông\n- 画 = tranh\n\n💡 Nghĩa:\n- phong cách hội họa Á Đông (Trung Quốc, Nhật, Hàn...)"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 日本画（にほんが）\n\n🇯🇵 Tranh Nhật Bản\n\n📚 Hán Việt:\n- 日本 = Nhật Bản\n- 画 = tranh\n\n💡 Nghĩa:\n- hội họa truyền thống Nhật Bản"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N2\n\n🧩 [Khu vực / quốc gia] + 画\n→ nghĩa: phong cách hội họa của khu vực đó\n\nVí dụ:\n- 油画 = tranh sơn dầu\n- 水墨画 = tranh thủy mặc\n- 現代画 = tranh hiện đại\n\n📌 Dùng trong:\n- nghệ thuật\n- bảo tàng\n- giáo dục mỹ thuật"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 画 = “mọi thứ liên quan đến tranh và phong cách vẽ” 🎨\n\n➡️ Hình ảnh:\n- phòng tranh\n- bức họa treo tường\n- các trường phái nghệ thuật\n\n📌 Keyword:\n画 = PAINTING / ART / STYLE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e6", "fromNode": "center", "toNode": "memory" }
+  ]
+}

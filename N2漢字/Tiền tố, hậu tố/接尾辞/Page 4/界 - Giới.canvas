@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～界（かい）\n\n📚 Hán Việt: GIỚI（界）\n\n🌐 Ý nghĩa trung tâm:\n👉 lĩnh vực • thế giới • ngành nghề • cộng đồng chuyên môn\n\n📌 Sắc thái:\n- chỉ “giới” người hoạt động trong một lĩnh vực\n- mang tính xã hội / nghề nghiệp\n- giống “world / sphere / industry”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 界 = thế giới / lĩnh vực\n\n➡️ Dùng để chỉ:\n- cộng đồng nghề nghiệp\n- ngành chuyên môn\n- thế giới xã hội đặc thù\n\n📌 Gần nghĩa:\n- world\n- industry\n- sphere / field"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 520,
+      "width": 980,
+      "height": 780,
+      "text": "# 医学界（いがくかい）\n\n🩺 Giới y khoa\n\n📚 Hán Việt:\n- 医学 = y học\n- 界 = giới\n\n💡 Nghĩa:\n- cộng đồng bác sĩ, nghiên cứu y học"
+    },
+    {
+      "id": "word2",
+      "type": "text",
+      "x": 1940,
+      "y": 1380,
+      "width": 980,
+      "height": 780,
+      "text": "# 映画界（えいがかい）\n\n🎬 Giới điện ảnh\n\n📚 Hán Việt:\n- 映画 = phim\n- 界 = giới\n\n💡 Nghĩa:\n- ngành công nghiệp phim ảnh"
+    },
+    {
+      "id": "word3",
+      "type": "text",
+      "x": 1940,
+      "y": 2240,
+      "width": 980,
+      "height": 780,
+      "text": "# 芸能界（げいのうかい）\n\n🌟 Giới giải trí\n\n📚 Hán Việt:\n- 芸能 = nghệ thuật biểu diễn\n- 界 = giới\n\n💡 Nghĩa:\n- showbiz, ngành giải trí"
+    },
+    {
+      "id": "word4",
+      "type": "text",
+      "x": 1940,
+      "y": 3080,
+      "width": 980,
+      "height": 780,
+      "text": "# ビジネス界（びじねすかい）\n\n💼 Giới kinh doanh\n\n📚 Hán Việt:\n- ビジネス = kinh doanh\n- 界 = giới\n\n💡 Nghĩa:\n- cộng đồng doanh nhân, thương mại"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Lĩnh vực / ngành nghề] + 界\n→ nghĩa: giới / ngành của lĩnh vực đó\n\nVí dụ:\n- 科学界 = giới khoa học\n- 政治界 = giới chính trị\n- 音楽界 = giới âm nhạc\n\n📌 Dùng trong:\n- báo chí\n- xã hội\n- nghề nghiệp\n- truyền thông"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 界 = “một thế giới riêng của từng ngành” 🌍\n\n➡️ Hình ảnh:\n- mỗi nghề là một thế giới\n- bác sĩ, diễn viên, doanh nhân tách riêng\n- xã hội chia thành nhiều lĩnh vực\n\n📌 Keyword:\n界 = WORLD / SPHERE / FIELD"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "word2" },
+    { "id": "e4", "fromNode": "center", "toNode": "word3" },
+    { "id": "e5", "fromNode": "center", "toNode": "word4" },
+    { "id": "e6", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e7", "fromNode": "center", "toNode": "memory" }
+  ]
+}

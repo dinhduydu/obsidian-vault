@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～刊（かん）\n\n📚 Hán Việt: SAN / ẤN PHẨM（刊）\n\n📖 Ý nghĩa trung tâm:\n👉 ấn phẩm • xuất bản • số phát hành\n\n📌 Sắc thái:\n- dùng trong báo chí, sách, tạp chí\n- chỉ “phiên bản được phát hành”\n- mang tính thời điểm (year/issue-based)"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 920,
+      "text": "# Ý nghĩa\n\n🧠 刊 = ấn phẩm / bản xuất bản\n\n➡️ Dùng để chỉ:\n- năm xuất bản\n- số phát hành\n- ấn bản báo / sách\n\n📌 Gần nghĩa:\n- issue\n- edition\n- publication"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 700,
+      "width": 980,
+      "height": 780,
+      "text": "# 2015年刊（2015ねんかん）\n\n📅 Ấn phẩm năm 2015\n\n📚 Hán Việt:\n- 年 = năm\n- 刊 = xuất bản\n\n💡 Nghĩa:\n- sách / tạp chí phát hành năm 2015"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -340,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N3–N1\n\n🧩 [Năm / số kỳ] + 刊\n→ nghĩa: ấn phẩm phát hành vào thời điểm đó\n\nVí dụ:\n- 月刊 = tạp chí hàng tháng\n- 週刊 = tạp chí hàng tuần\n- 季刊 = tạp chí hàng quý\n\n📌 Dùng trong:\n- xuất bản\n- báo chí\n- tạp chí\n- thư viện"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 刊 = “tờ giấy được in và phát hành” 📰\n\n➡️ Hình ảnh:\n- báo in\n- tạp chí mới ra\n- bản phát hành theo năm\n\n📌 Keyword:\n刊 = PUBLICATION / ISSUE / EDITION"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e4", "fromNode": "center", "toNode": "memory" }
+  ]
+}

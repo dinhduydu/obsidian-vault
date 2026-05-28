@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "x": 980,
+      "y": 620,
+      "width": 940,
+      "height": 560,
+      "text": "# ～係（かかり）\n\n📚 Hán Việt: HỆ（係）\n\n👤 Ý nghĩa trung tâm:\n👉 người phụ trách • người quản lý • bộ phận chịu trách nhiệm\n\n📌 Sắc thái:\n- chỉ người hoặc nhóm phụ trách một công việc cụ thể\n- thường dùng trong tổ chức, trường học, công ty\n- mang tính “assignment / responsibility”"
+    },
+    {
+      "id": "meaning",
+      "type": "text",
+      "x": 120,
+      "y": 520,
+      "width": 780,
+      "height": 900,
+      "text": "# Ý nghĩa\n\n🧠 係 = người phụ trách\n\n➡️ Dùng để chỉ:\n- người đảm nhiệm một nhiệm vụ\n- bộ phận nhỏ trong tổ chức\n- vai trò quản lý công việc cụ thể\n\n📌 Gần nghĩa:\n- person in charge\n- 담당 (Korean)\n- responsible staff"
+    },
+    {
+      "id": "word1",
+      "type": "text",
+      "x": 1940,
+      "y": 620,
+      "width": 980,
+      "height": 780,
+      "text": "# 会計係（かいけいがかり）\n\n💰 Thủ quỹ / kế toán phụ trách\n\n📚 Hán Việt:\n- 会計 = kế toán\n- 係 = người phụ trách\n\n💡 Nghĩa:\n- người chịu trách nhiệm thu chi, tài chính"
+    },
+    {
+      "id": "pattern",
+      "type": "text",
+      "x": 820,
+      "y": -320,
+      "width": 1200,
+      "height": 780,
+      "text": "# Pattern N4–N2\n\n🧩 [Nhiệm vụ / công việc] + 係\n→ nghĩa: người phụ trách công việc đó\n\nVí dụ:\n- 受付係 = người tiếp tân\n- 警備係 = người bảo vệ\n- 広報係 = người truyền thông\n\n📌 Dùng trong:\n- trường học\n- công ty\n- tổ chức hành chính"
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "x": 980,
+      "y": 2700,
+      "width": 1200,
+      "height": 860,
+      "text": "# Memory Hint\n\n🧠 Nhớ 係 = “người bị giao một nhiệm vụ cụ thể” 📋\n\n➡️ Hình ảnh:\n- mỗi người cầm một nhiệm vụ\n- phân công rõ ràng\n- hệ thống tổ chức nhỏ\n\n📌 Keyword:\n係 = PERSON IN CHARGE / RESPONSIBLE ROLE"
+    }
+  ],
+  "edges": [
+    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
+    { "id": "e2", "fromNode": "center", "toNode": "word1" },
+    { "id": "e3", "fromNode": "center", "toNode": "pattern" },
+    { "id": "e4", "fromNode": "center", "toNode": "memory" }
+  ]
+}
