@@ -1,65 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 940,
-      "height": 560,
-      "text": "# ～きっての\n\n📚 Ý nghĩa:\n👉 “nhất trong phạm vi X” • “nổi bật nhất của X”\n\n📌 Sắc thái:\n- dùng để nhấn mạnh mức độ cao nhất trong một nhóm\n- mang tính so sánh tuyệt đối trong phạm vi giới hạn\n- thường dùng trong báo chí, giới thiệu, đánh giá"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 780,
-      "height": 920,
-      "text": "# Ý nghĩa\n\n🧠 ～きっての = số 1 trong nhóm X\n\n➡️ Dùng để chỉ:\n- người/điều nổi bật nhất trong một tập thể\n- mức độ cao nhất trong phạm vi xác định\n\n📌 Gần nghĩa:\n- the best of\n- one of the top in\n- most outstanding in"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 500,
-      "width": 980,
-      "height": 760,
-      "text": "# クラスきっての\n\n🏫 Giỏi nhất lớp\n\n📌 Nghĩa:\n- người nổi bật nhất trong lớp học\n\n💡 Ví dụ:\n- クラスきっての秀才\n→ học sinh giỏi nhất lớp"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 1400,
-      "width": 980,
-      "height": 760,
-      "text": "# 芸能界きっての（げいのうかいきっての）\n\n🎬 Nổi bật nhất giới giải trí\n\n📌 Nghĩa:\n- người nổi tiếng / xuất sắc hàng đầu showbiz\n\n💡 Ví dụ:\n- 芸能界きってのスター\n→ ngôi sao hàng đầu"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -340,
-      "width": 1200,
-      "height": 780,
-      "text": "# Pattern N2–N1\n\n🧩 [Danh từ chỉ nhóm] + きっての + [tính chất]\n→ nghĩa: nổi bật nhất trong nhóm đó\n\nVí dụ:\n- 日本きっての名医 = bác sĩ giỏi nhất Nhật\n- 業界きっての実力者 = người có thực lực hàng đầu ngành\n\n📌 Dùng trong:\n- báo chí\n- giới thiệu nhân vật\n- đánh giá xã hội / nghề nghiệp"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2700,
-      "width": 1200,
-      "height": 860,
-      "text": "# Memory Hint\n\n🧠 Nhớ きっての = “đứng trên đỉnh trong một nhóm” 🏆\n\n➡️ Hình ảnh:\n- top 1 của lớp\n- ngôi sao nổi bật nhất\n- bảng xếp hạng đứng đầu\n\n📌 Keyword:\nきっての = THE VERY BEST IN A GROUP"
-    }
-  ],
-  "edges": [
-    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
-    { "id": "e2", "fromNode": "center", "toNode": "word1" },
-    { "id": "e3", "fromNode": "center", "toNode": "word2" },
-    { "id": "e4", "fromNode": "center", "toNode": "pattern" },
-    { "id": "e5", "fromNode": "center", "toNode": "memory" }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":940,"height":560,"text":"# ～きっての\n\n📚 Ý nghĩa:\n👉 “nhất trong phạm vi X” • “nổi bật nhất của X”\n\n📌 Sắc thái:\n- dùng để nhấn mạnh mức độ cao nhất trong một nhóm\n- mang tính so sánh tuyệt đối trong phạm vi giới hạn\n- thường dùng trong báo chí, giới thiệu, đánh giá"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":780,"height":920,"text":"# Ý nghĩa\n\n🧠 ～きっての = số 1 trong nhóm X\n\n➡️ Dùng để chỉ:\n- người/điều nổi bật nhất trong một tập thể\n- mức độ cao nhất trong phạm vi xác định\n\n📌 Gần nghĩa:\n- the best of\n- one of the top in\n- most outstanding in"},
+		{"id":"word1","type":"text","x":1940,"y":500,"width":980,"height":760,"text":"# クラスきっての\n\n🏫 Giỏi nhất lớp\n\n📌 Nghĩa:\n- người nổi bật nhất trong lớp học\n\n💡 Ví dụ:\n- クラスきっての秀才\n→ học sinh giỏi nhất lớp"},
+		{"id":"word2","type":"text","x":1940,"y":1400,"width":980,"height":760,"text":"# 芸能界きっての（げいのうかいきっての）\n\n🎬 Nổi bật nhất giới giải trí\n\n📌 Nghĩa:\n- người nổi tiếng / xuất sắc hàng đầu showbiz\n\n💡 Ví dụ:\n- 芸能界きってのスター\n→ ngôi sao hàng đầu"},
+		{"id":"pattern","type":"text","x":820,"y":-340,"width":1200,"height":780,"text":"# Pattern N2–N1\n\n🧩 [Danh từ chỉ nhóm] + きっての + [tính chất]\n→ nghĩa: nổi bật nhất trong nhóm đó\n\nVí dụ:\n- 日本きっての名医 = bác sĩ giỏi nhất Nhật\n- 業界きっての実力者 = người có thực lực hàng đầu ngành\n\n📌 Dùng trong:\n- báo chí\n- giới thiệu nhân vật\n- đánh giá xã hội / nghề nghiệp"},
+		{"id":"memory","type":"text","x":980,"y":2700,"width":1200,"height":860,"text":"# Memory Hint\n\n🧠 Nhớ きっての = “đứng trên đỉnh trong một nhóm” 🏆\n\n➡️ Hình ảnh:\n- top 1 của lớp\n- ngôi sao nổi bật nhất\n- bảng xếp hạng đứng đầu\n\n📌 Keyword:\nきっての = THE VERY BEST IN A GROUP"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }
