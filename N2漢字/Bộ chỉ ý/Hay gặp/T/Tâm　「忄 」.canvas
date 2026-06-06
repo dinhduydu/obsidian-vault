@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ed73c33356ef53b6","type":"text","text":"Tâm　「忄 」","x":-69,"y":-4,"width":250,"height":60},
+		{"id":"4e1addff7f89a121","x":540,"y":-210,"width":250,"height":50,"type":"text","text":"懐かしい"},
+		{"id":"ccf069f1f9267280","x":340,"y":-210,"width":120,"height":50,"type":"text","text":"懐 - Hoài"},
+		{"id":"52387365858183fa","x":877,"y":-241,"width":250,"height":60,"type":"text","text":"thương tiếc, tưởng nhớ"}
+	],
+	"edges":[
+		{"id":"84a6e183755d5f8d","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"ccf069f1f9267280","toSide":"left"},
+		{"id":"d5c7078aa877629a","fromNode":"ccf069f1f9267280","fromSide":"right","toNode":"4e1addff7f89a121","toSide":"left"},
+		{"id":"296d7bdf57d09e11","fromNode":"4e1addff7f89a121","fromSide":"right","toNode":"52387365858183fa","toSide":"left"}
+	]
+}

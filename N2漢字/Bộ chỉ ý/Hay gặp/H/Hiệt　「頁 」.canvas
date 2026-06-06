@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"2d84f042c1472ae2","x":-153,"y":-67,"width":250,"height":60,"type":"text","text":"Hiệt　「頁 」"},
-		{"id":"2ac833da2ef0d77c","x":280,"y":-220,"width":250,"height":60,"type":"text","text":"頭 - Thủ"},
-		{"id":"b7c9ff3789d07ce9","x":291,"y":100,"width":250,"height":60,"type":"text","text":"題 - Đề"},
-		{"id":"04146bfc347ac442","x":291,"y":-67,"width":250,"height":60,"type":"text","text":"顔 - Nhan"}
+		{"id":"2d84f042c1472ae2","type":"text","text":"Hiệt　「頁 」","x":-153,"y":-67,"width":250,"height":60},
+		{"id":"2ac833da2ef0d77c","type":"text","text":"頭 - Thủ","x":280,"y":-220,"width":250,"height":60},
+		{"id":"b7c9ff3789d07ce9","type":"text","text":"題 - Đề","x":291,"y":100,"width":250,"height":60},
+		{"id":"04146bfc347ac442","type":"text","text":"顔 - Nhan","x":291,"y":-67,"width":250,"height":60},
+		{"id":"4846033b9527705d","x":430,"y":360,"width":250,"height":60,"type":"text","text":"大統領"},
+		{"id":"6d03a9f36fe63176","x":255,"y":365,"width":125,"height":50,"type":"text","text":"領 - Lĩnh "}
 	],
 	"edges":[
 		{"id":"63fddbaae78990ae","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"2ac833da2ef0d77c","toSide":"left"},
 		{"id":"1b973f0395bf4144","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"04146bfc347ac442","toSide":"left"},
-		{"id":"3882a83db99973ff","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"b7c9ff3789d07ce9","toSide":"left"}
+		{"id":"3882a83db99973ff","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"b7c9ff3789d07ce9","toSide":"left"},
+		{"id":"b70df8064582475b","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"6d03a9f36fe63176","toSide":"left"},
+		{"id":"06b4728b0162c159","fromNode":"6d03a9f36fe63176","fromSide":"right","toNode":"4846033b9527705d","toSide":"left"}
 	]
 }

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a53980c6164f4f20","type":"text","text":"Batch 1","x":-125,"y":-60,"width":105,"height":66},
+		{"id":"5b76de5672c87063","type":"text","text":"ありふれる","x":62,"y":-202,"width":250,"height":60},
+		{"id":"5e7ce4ab33194fc6","type":"text","text":"commonplace, garden variety","x":402,"y":-262,"width":258,"height":60},
+		{"id":"2e1490c3d4b1b37c","type":"text","text":"Bình thường, thông thường","x":416,"y":-167,"width":250,"height":60},
+		{"id":"0e5b45da645270cc","type":"text","text":"電子レンジは、５０年前は珍しかったが、今ではどこの家にでもあるありふれた電化製品です。","x":440,"y":-467,"width":440,"height":55},
+		{"id":"b9a47970b7073196","type":"text","text":"「電子レンジ」ー　lò vi sóng","x":690,"y":-700,"width":250,"height":60},
+		{"id":"48e2065e3223ac8f","x":851,"y":-902,"width":250,"height":60,"type":"text","text":"「レンジ」ー　range"},
+		{"id":"0d2af1e84582de8a","x":62,"y":-439,"width":250,"height":60,"type":"text","text":"有り触れる"},
+		{"id":"0fec172974ff4618","x":840,"y":-224,"width":250,"height":114,"type":"text","text":"どこにでもある\n珍しくない\n平凡な"}
+	],
+	"edges":[
+		{"id":"ac18a971fbfac3b7","fromNode":"a53980c6164f4f20","fromSide":"right","toNode":"5b76de5672c87063","toSide":"left"},
+		{"id":"a5619e45311cf410","fromNode":"5b76de5672c87063","fromSide":"right","toNode":"5e7ce4ab33194fc6","toSide":"left"},
+		{"id":"4a57090eed6f2072","fromNode":"5b76de5672c87063","fromSide":"right","toNode":"2e1490c3d4b1b37c","toSide":"left"},
+		{"id":"4a6dfc0a64898cc5","fromNode":"5b76de5672c87063","fromSide":"right","toNode":"0e5b45da645270cc","toSide":"left"},
+		{"id":"1b1537cf62428ab0","fromNode":"0e5b45da645270cc","fromSide":"top","toNode":"b9a47970b7073196","toSide":"left"},
+		{"id":"27485780eb86bd67","fromNode":"b9a47970b7073196","fromSide":"top","toNode":"48e2065e3223ac8f","toSide":"bottom"},
+		{"id":"b12ca12c42eabf8b","fromNode":"0d2af1e84582de8a","fromSide":"bottom","toNode":"5b76de5672c87063","toSide":"top"},
+		{"id":"64336d4d745bd1a4","fromNode":"5e7ce4ab33194fc6","fromSide":"right","toNode":"0fec172974ff4618","toSide":"left"},
+		{"id":"fb49ea999547a572","fromNode":"2e1490c3d4b1b37c","fromSide":"right","toNode":"0fec172974ff4618","toSide":"left"}
+	]
+}
