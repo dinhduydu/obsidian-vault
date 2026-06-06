@@ -10,18 +10,21 @@
 		{"id":"90944997bbc94e61","type":"text","text":"Diễn tả nét đặc trưng điển hình của ~","x":1566,"y":-227,"width":250,"height":60},
 		{"id":"95cc599aaf763bbe","type":"text","text":"普通形＋らしい","x":1934,"y":-534,"width":250,"height":60},
 		{"id":"2901f8bce79c7602","type":"text","text":"N＋らしい","x":1979,"y":-250,"width":250,"height":60},
-		{"id":"013a18d874c5328f","type":"text","text":"そう","x":-500,"y":-71,"width":250,"height":60},
 		{"id":"8760848091cec191","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas","x":820,"y":720,"width":211,"height":205},
 		{"id":"edf75562f0906d5b","type":"text","text":"Vます","x":800,"y":420,"width":250,"height":60},
 		{"id":"2d883bddbf5abd23","type":"text","text":"đưa ra khả năng thấp","x":1179,"y":185,"width":250,"height":60},
 		{"id":"517832ec27eebfb4","type":"file","file":"N2文法/助詞/と.canvas","x":720,"y":1070,"width":248,"height":146},
 		{"id":"aa6a3c9a8f97e4cf","type":"text","text":"Vますそうとしても","x":1740,"y":793,"width":250,"height":60},
-		{"id":"afa8a6d7fe57a633","type":"file","file":"Pasted image 20260504020551.png","x":2640,"y":678,"width":400,"height":291}
+		{"id":"afa8a6d7fe57a633","type":"file","file":"Pasted image 20260504020551.png","x":2640,"y":678,"width":400,"height":291},
+		{"id":"013a18d874c5328f","type":"text","text":"そう","x":-890,"y":-200,"width":250,"height":60},
+		{"id":"59ed64abfa138239","x":244,"y":480,"width":250,"height":60,"type":"text","text":"Vますそう"},
+		{"id":"59820367ee1a0d0c","x":-890,"y":430,"width":250,"height":50,"type":"text","text":"Nそうに"},
+		{"id":"52bdcb642892ccd9","x":-828,"y":592,"width":250,"height":60,"type":"text","text":"Nげ"}
 	],
 	"edges":[
 		{"id":"61f5759fceaf4e30","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"e600f86b375a2e25","toSide":"left","label":"そうだ"},
 		{"id":"896923c828c4970a","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"030a70233bfed5e8","toSide":"left","label":"そうもない"},
-		{"id":"4a69449e662a77e3","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"3809d5d8a39e49ad","toSide":"left","label":"そうにない"},
+		{"id":"4a69449e662a77e3","fromNode":"59820367ee1a0d0c","fromSide":"right","toNode":"3809d5d8a39e49ad","toSide":"left","label":"そうにない"},
 		{"id":"f05e9934c82da73e","fromNode":"e600f86b375a2e25","fromSide":"right","toNode":"210c890d774af55e","toSide":"left"},
 		{"id":"bf1ecb2eb596d1e7","fromNode":"030a70233bfed5e8","fromSide":"right","toNode":"b310399ba9f96c28","toSide":"left","label":"Vますそうもない"},
 		{"id":"436e8cf532d1e01f","fromNode":"3809d5d8a39e49ad","fromSide":"right","toNode":"b310399ba9f96c28","toSide":"left","label":"Vますそうにない"},
@@ -30,12 +33,15 @@
 		{"id":"89d17010eb742d6c","fromNode":"61bbf08ddb030e99","fromSide":"right","toNode":"90944997bbc94e61","toSide":"left"},
 		{"id":"928d41003dfec286","fromNode":"0f618e5a9e13ea6c","fromSide":"right","toNode":"95cc599aaf763bbe","toSide":"left"},
 		{"id":"f5a88355b023fed4","fromNode":"90944997bbc94e61","fromSide":"right","toNode":"2901f8bce79c7602","toSide":"left"},
-		{"id":"3c03701f43aa2b36","fromNode":"013a18d874c5328f","fromSide":"bottom","toNode":"8760848091cec191","toSide":"left","label":"Vますそう"},
+		{"id":"3c03701f43aa2b36","fromNode":"013a18d874c5328f","fromSide":"bottom","toNode":"59ed64abfa138239","toSide":"left","label":"Vますそう"},
 		{"id":"c9f9d3f52f870b94","fromNode":"edf75562f0906d5b","fromSide":"bottom","toNode":"8760848091cec191","toSide":"top"},
 		{"id":"96cbfb016178c5d1","fromNode":"8760848091cec191","fromSide":"right","toNode":"aa6a3c9a8f97e4cf","toSide":"left","label":"Vますそうとしても"},
 		{"id":"fc912442875c67f8","fromNode":"517832ec27eebfb4","fromSide":"right","toNode":"aa6a3c9a8f97e4cf","toSide":"bottom"},
 		{"id":"410ac6c90463e287","fromNode":"b310399ba9f96c28","fromSide":"bottom","toNode":"edf75562f0906d5b","toSide":"top"},
 		{"id":"128de182d52f891b","fromNode":"b310399ba9f96c28","fromSide":"right","toNode":"2d883bddbf5abd23","toSide":"left"},
-		{"id":"680195177212b08f","fromNode":"aa6a3c9a8f97e4cf","fromSide":"right","toNode":"afa8a6d7fe57a633","toSide":"left","label":"Vますそうとしても"}
+		{"id":"680195177212b08f","fromNode":"aa6a3c9a8f97e4cf","fromSide":"right","toNode":"afa8a6d7fe57a633","toSide":"left","label":"Vますそうとしても"},
+		{"id":"7da387d8bcb9750b","fromNode":"013a18d874c5328f","fromSide":"bottom","toNode":"59820367ee1a0d0c","toSide":"top","label":"そうに"},
+		{"id":"96d23e60f78b2a96","fromNode":"59ed64abfa138239","fromSide":"right","toNode":"8760848091cec191","toSide":"left"},
+		{"id":"b76f91797442979d","fromNode":"59820367ee1a0d0c","fromSide":"bottom","toNode":"52bdcb642892ccd9","toSide":"top"}
 	]
 }

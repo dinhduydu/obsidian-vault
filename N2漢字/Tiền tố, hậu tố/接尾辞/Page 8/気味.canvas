@@ -7,7 +7,7 @@
 		{"id":"word3","type":"text","text":"# 太り気味（ふとりぎみ）\n\n🍔 Hơi tăng cân\n\n📚 Hán Việt:\n- 太る = béo lên\n- 気味 = có xu hướng\n\n💡 Nghĩa:\n- đang có dấu hiệu tăng cân nhẹ","x":1540,"y":1210,"width":420,"height":320},
 		{"id":"word2","type":"text","text":"# 風邪気味（かぜぎみ）\n\n🤧 Cảm giác như bị cảm\n\n📚 Hán Việt:\n- 風邪 = cảm lạnh\n- 気味 = hơi có dấu hiệu\n\n💡 Nghĩa:\n- hơi có triệu chứng cảm lạnh","x":1960,"y":910,"width":340,"height":300},
 		{"id":"word1","type":"text","text":"# 疲れ気味（つかれぎみ）\n\n😵 Cảm thấy hơi mệt\n\n📚 Hán Việt:\n- 疲れ = mệt\n- 気味 = hơi có xu hướng\n\n💡 Nghĩa:\n- cơ thể đang mệt nhẹ, chưa kiệt sức","x":1960,"y":590,"width":420,"height":320},
-		{"id":"pattern","type":"text","text":"# Pattern N4–N1\n\n🧩 [Danh từ / động từ ます stem] + 気味\n→ nghĩa: hơi có xu hướng / hơi bị ~\n\nVí dụ:\n- 下がり気味 = hơi giảm\n- 疲れ気味 = hơi mệt\n- 不安気味 = hơi lo lắng\n\n📌 Dùng trong:\n- sức khỏe\n- cảm xúc\n- xu hướng thay đổi\n- mô tả trạng thái nhẹ","x":1320,"y":150,"width":360,"height":440}
+		{"id":"pattern","type":"text","text":"# Pattern N4–N1\n\n🧩 [N / V ます stem] + 気味\n→ nghĩa: hơi có xu hướng / hơi bị ~\n\nVí dụ:\n- 下がり気味 = hơi giảm\n- 疲れ気味 = hơi mệt\n- 不安気味 = hơi lo lắng\n\n📌 Dùng trong:\n- sức khỏe\n- cảm xúc\n- xu hướng thay đổi\n- mô tả trạng thái nhẹ","x":1320,"y":150,"width":360,"height":440}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},

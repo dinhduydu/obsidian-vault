@@ -7,9 +7,12 @@
 		{"id":"70776a0f044d484e","type":"text","text":"がち","x":340,"y":-305,"width":250,"height":60},
 		{"id":"3e6e8a1e6bf1fa3c","type":"text","text":"っぽい","x":920,"y":-305,"width":250,"height":60},
 		{"id":"bc484be2d491fd14","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas","x":20,"y":-860,"width":400,"height":400},
-		{"id":"3fe0abf6cb5d4945","x":1032,"y":-551,"width":250,"height":60,"type":"text","text":"Biểu thị tính chất gây cảm giác A"},
-		{"id":"38da63e56aeb82e7","x":1400,"y":-480,"width":250,"height":60,"type":"text","text":"Có khuynh hướng A"},
-		{"id":"772557804b925c54","x":1459,"y":-297,"width":250,"height":60,"type":"text","text":"Không dùng với ý tích cực"}
+		{"id":"3fe0abf6cb5d4945","type":"text","text":"Biểu thị tính chất gây cảm giác A","x":1032,"y":-551,"width":250,"height":60},
+		{"id":"38da63e56aeb82e7","type":"text","text":"Có khuynh hướng A","x":1400,"y":-480,"width":250,"height":60},
+		{"id":"772557804b925c54","type":"text","text":"Không dùng với ý tích cực","x":1459,"y":-297,"width":250,"height":60},
+		{"id":"8c9f4b4a92240a73","x":536,"y":-70,"width":250,"height":60,"type":"text","text":"Nがち"},
+		{"id":"6f618a7a9717faa8","x":1018,"y":-69,"width":250,"height":60,"type":"text","text":"病気がちだ"},
+		{"id":"7127cc15ea21fe1a","x":1391,"y":-72,"width":250,"height":60,"type":"text","text":"よく病気になった"}
 	],
 	"edges":[
 		{"id":"ccb86c89a68e8b39","fromNode":"30160a236b4807fe","fromSide":"left","toNode":"cc5ff95e7f32516f","toSide":"right","label":"Vたがる"},
@@ -19,6 +22,9 @@
 		{"id":"9ff2ccae57b7c288","fromNode":"3e6e8a1e6bf1fa3c","fromSide":"top","toNode":"3fe0abf6cb5d4945","toSide":"bottom"},
 		{"id":"e6089aea1ab98d09","fromNode":"3e6e8a1e6bf1fa3c","fromSide":"top","toNode":"38da63e56aeb82e7","toSide":"bottom"},
 		{"id":"823a73343c24379c","fromNode":"3e6e8a1e6bf1fa3c","fromSide":"right","toNode":"772557804b925c54","toSide":"left"},
-		{"id":"14866a752e3502e4","fromNode":"bc484be2d491fd14","fromSide":"right","toNode":"3e6e8a1e6bf1fa3c","toSide":"top","label":"Vますっぽい"}
+		{"id":"14866a752e3502e4","fromNode":"bc484be2d491fd14","fromSide":"right","toNode":"3e6e8a1e6bf1fa3c","toSide":"top","label":"Vますっぽい"},
+		{"id":"cf2790f68f238b8a","fromNode":"70776a0f044d484e","fromSide":"bottom","toNode":"8c9f4b4a92240a73","toSide":"top"},
+		{"id":"86ea22c33b9487c1","fromNode":"8c9f4b4a92240a73","fromSide":"right","toNode":"6f618a7a9717faa8","toSide":"left"},
+		{"id":"8b562109fe2485c9","fromNode":"6f618a7a9717faa8","fromSide":"right","toNode":"7127cc15ea21fe1a","toSide":"left"}
 	]
 }

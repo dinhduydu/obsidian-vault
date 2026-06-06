@@ -1,9 +1,41 @@
 {
 	"nodes":[
-		{"id":"0d94e6913c928905","type":"text","text":"Bôi　「貝」","x":-59,"y":-23,"width":250,"height":60},
-		{"id":"0a0fb06d3a1aefa9","x":340,"y":-144,"width":250,"height":60,"type":"text","text":"vật quý"}
+		{"id":"b2f39534e38e6847","type":"text","text":"賃 - Nhẫm","x":373,"y":-206,"width":250,"height":60},
+		{"id":"643ba38bf45574fc","type":"text","text":"家賃（やちん） = tiền thuê nhà","x":780,"y":-146,"width":250,"height":60},
+		{"id":"c1f85fa14afece91","x":783,"y":-237,"width":250,"height":60,"type":"text","text":"運賃　「うんちん」"},
+		{"id":"c3f91afc4f6bcbe7","x":789,"y":-60,"width":250,"height":60,"type":"text","text":"賃貸　「ちんたい」"},
+		{"id":"bf10387d1ddcd319","x":373,"y":160,"width":250,"height":60,"type":"text","text":"貧 - Bần"},
+		{"id":"bbdd9060dc6fd9a6","x":749,"y":155,"width":250,"height":60,"type":"text","text":"**貧しい（まずしい）** = nghèo, thiếu thốn, eo hẹp."},
+		{"id":"4a8e0ca5e18f1401","x":765,"y":280,"width":375,"height":140,"type":"text","text":"**貧**\n\n- **分（ぶん・ふん）**: chia ra, phân chia\n- **貝（かい）**: tiền bạc, tài sản (trong chữ Hán cổ, vỏ sò từng được dùng làm tiền)"},
+		{"id":"25654d5b37b04bc7","x":789,"y":-400,"width":370,"height":80,"type":"text","text":"- **家** → mái nhà + lợn → ngôi nhà, gia đình.\n- **賃** → người + tiền → tiền công, tiền thuê."},
+		{"id":"11b4d4b27d1b6ccf","type":"text","text":"Nghĩa: tiền thuê, cho thuê","x":1260,"y":-390,"width":250,"height":60},
+		{"id":"1e7b3c3a168a05ee","x":1385,"y":96,"width":313,"height":177,"type":"text","text":"貧しい家庭\n→ Gia đình nghèo.\n貧しい生活を送る。\n→ Sống cuộc sống thiếu thốn.\n経済的に貧しい。\n→ Nghèo về mặt kinh tế."},
+		{"id":"0d94e6913c928905","type":"text","text":"Bối　「貝」","x":-380,"y":0,"width":250,"height":60},
+		{"id":"0a0fb06d3a1aefa9","type":"text","text":"vật quý","x":-720,"y":-120,"width":250,"height":60},
+		{"id":"70167920d0ad505e","x":390,"y":644,"width":250,"height":60,"type":"text","text":"貨 - Hoá"},
+		{"id":"fec6f17c93825b1b","x":765,"y":584,"width":250,"height":60,"type":"text","text":"**貨物（かもつ）** = hàng hóa, hàng vận chuyển"},
+		{"id":"7043bf5b8838d7a3","x":772,"y":765,"width":368,"height":255,"type":"text","text":"**貨 = 化 + 貝**\n\n- **化（か）**: biến đổi\n    - 亻 (nhân đứng)\n    - 匕\n- **貝（かい）**: vỏ sò, tiền bạc, tài sản\n\n=> Hàng hóa là thứ được đem ra trao đổi, chuyển đổi thành tiền."},
+		{"id":"e917d2e435abecbd","x":60,"y":980,"width":250,"height":60,"type":"text","text":"費 - Phí"},
+		{"id":"e2c17b2d1a289dce","x":483,"y":1080,"width":272,"height":106,"type":"text","text":"**費用（ひよう）** = chi phí, khoản tiền phải bỏ ra để thực hiện một việc gì đó."},
+		{"id":"a0b077866513d210","x":483,"y":1240,"width":314,"height":224,"type":"text","text":"**費 = 弗 + 貝**\n\n- **弗（ふつ）**: nguyên nghĩa là \"không\", đồng thời được dùng làm thành phần âm.\n- **貝（かい）**: tiền bạc, tài sản.\n\n=> **費** mang ý \"tiêu tốn tiền bạc\"."}
 	],
 	"edges":[
-		{"id":"34ef434a2ca87314","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"0a0fb06d3a1aefa9","toSide":"left"}
+		{"id":"2acb58755bc73267","fromNode":"0d94e6913c928905","fromSide":"left","toNode":"0a0fb06d3a1aefa9","toSide":"right"},
+		{"id":"d7e636c8b362f77c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"b2f39534e38e6847","toSide":"left","label":"賃 - Nhẫm"},
+		{"id":"6998ae59fd414d5c","fromNode":"b2f39534e38e6847","fromSide":"right","toNode":"643ba38bf45574fc","toSide":"left"},
+		{"id":"fff42f8d6989d9c7","fromNode":"b2f39534e38e6847","fromSide":"right","toNode":"c1f85fa14afece91","toSide":"left"},
+		{"id":"847dc4951a2e96dc","fromNode":"b2f39534e38e6847","fromSide":"right","toNode":"c3f91afc4f6bcbe7","toSide":"left"},
+		{"id":"83c73af77578f7ba","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"bf10387d1ddcd319","toSide":"left","label":"貧 - Bần"},
+		{"id":"602a1612ac102c2a","fromNode":"bf10387d1ddcd319","fromSide":"right","toNode":"bbdd9060dc6fd9a6","toSide":"left"},
+		{"id":"98a4deb661ab59e5","fromNode":"bf10387d1ddcd319","fromSide":"right","toNode":"4a8e0ca5e18f1401","toSide":"left"},
+		{"id":"d55911e903f8b21c","fromNode":"b2f39534e38e6847","fromSide":"right","toNode":"25654d5b37b04bc7","toSide":"left"},
+		{"id":"02f60642077dcb4f","fromNode":"25654d5b37b04bc7","fromSide":"right","toNode":"11b4d4b27d1b6ccf","toSide":"left"},
+		{"id":"eeb4ec081731434e","fromNode":"bbdd9060dc6fd9a6","fromSide":"right","toNode":"1e7b3c3a168a05ee","toSide":"left"},
+		{"id":"a24da4b41e470653","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"70167920d0ad505e","toSide":"left"},
+		{"id":"f02eb501de9949fd","fromNode":"70167920d0ad505e","fromSide":"right","toNode":"fec6f17c93825b1b","toSide":"left"},
+		{"id":"58500769ba564d7b","fromNode":"70167920d0ad505e","fromSide":"right","toNode":"7043bf5b8838d7a3","toSide":"left"},
+		{"id":"307b5b41976d293c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"e917d2e435abecbd","toSide":"left"},
+		{"id":"b88f64d661d261c6","fromNode":"e917d2e435abecbd","fromSide":"right","toNode":"a0b077866513d210","toSide":"left"},
+		{"id":"e9a0058da1012636","fromNode":"e917d2e435abecbd","fromSide":"right","toNode":"e2c17b2d1a289dce","toSide":"left"}
 	]
 }

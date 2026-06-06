@@ -6,9 +6,15 @@
 		{"id":"2e1490c3d4b1b37c","type":"text","text":"Bình thường, thông thường","x":416,"y":-167,"width":250,"height":60},
 		{"id":"0e5b45da645270cc","type":"text","text":"電子レンジは、５０年前は珍しかったが、今ではどこの家にでもあるありふれた電化製品です。","x":440,"y":-467,"width":440,"height":55},
 		{"id":"b9a47970b7073196","type":"text","text":"「電子レンジ」ー　lò vi sóng","x":690,"y":-700,"width":250,"height":60},
-		{"id":"48e2065e3223ac8f","x":851,"y":-902,"width":250,"height":60,"type":"text","text":"「レンジ」ー　range"},
-		{"id":"0d2af1e84582de8a","x":62,"y":-439,"width":250,"height":60,"type":"text","text":"有り触れる"},
-		{"id":"0fec172974ff4618","x":840,"y":-224,"width":250,"height":114,"type":"text","text":"どこにでもある\n珍しくない\n平凡な"}
+		{"id":"48e2065e3223ac8f","type":"text","text":"「レンジ」ー　range","x":851,"y":-902,"width":250,"height":60},
+		{"id":"0d2af1e84582de8a","type":"text","text":"有り触れる","x":62,"y":-439,"width":250,"height":60},
+		{"id":"0fec172974ff4618","type":"text","text":"どこにでもある\n珍しくない\n平凡な","x":840,"y":-224,"width":250,"height":114},
+		{"id":"33b79819285ee7ef","x":105,"y":-2,"width":250,"height":60,"type":"text","text":"Aい＋め"},
+		{"id":"34955714e6af8888","x":954,"y":49,"width":246,"height":125,"type":"text","text":"là dạng **～め**, dùng để chỉ mức độ **hơi...**, **nghiêng về...**, hoặc **sớm hơn / nhiều hơn một chút**."},
+		{"id":"7c44c8bebf281dfc","x":535,"y":-11,"width":250,"height":60,"type":"text","text":"大きめ＝ちょっと大きい"},
+		{"id":"b56b6f2b2a6832f8","x":529,"y":136,"width":250,"height":77,"type":"text","text":"弱い (yếu) → 弱め (hơi yếu, giảm xuống một chút)"},
+		{"id":"e470b573528303d2","x":529,"y":291,"width":250,"height":109,"type":"text","text":"早い (sớm) → 早め (sớm hơn bình thường một chút)"},
+		{"id":"7b523fb750cb3397","x":1012,"y":400,"width":376,"height":222,"type":"text","text":"明日は**早め**に出発しましょう。\n→ Ngày mai hãy xuất phát sớm một chút.\n**早め**に寝たほうがいい。\n→ Nên đi ngủ sớm hơn một chút.\n問題が大きくなる前に**早め**の対応が必要だ。\n→ Cần xử lý sớm trước khi vấn đề trở nên nghiêm trọng."}
 	],
 	"edges":[
 		{"id":"ac18a971fbfac3b7","fromNode":"a53980c6164f4f20","fromSide":"right","toNode":"5b76de5672c87063","toSide":"left"},
@@ -19,6 +25,14 @@
 		{"id":"27485780eb86bd67","fromNode":"b9a47970b7073196","fromSide":"top","toNode":"48e2065e3223ac8f","toSide":"bottom"},
 		{"id":"b12ca12c42eabf8b","fromNode":"0d2af1e84582de8a","fromSide":"bottom","toNode":"5b76de5672c87063","toSide":"top"},
 		{"id":"64336d4d745bd1a4","fromNode":"5e7ce4ab33194fc6","fromSide":"right","toNode":"0fec172974ff4618","toSide":"left"},
-		{"id":"fb49ea999547a572","fromNode":"2e1490c3d4b1b37c","fromSide":"right","toNode":"0fec172974ff4618","toSide":"left"}
+		{"id":"fb49ea999547a572","fromNode":"2e1490c3d4b1b37c","fromSide":"right","toNode":"0fec172974ff4618","toSide":"left"},
+		{"id":"4d7eb084eb5b01f7","fromNode":"a53980c6164f4f20","fromSide":"right","toNode":"33b79819285ee7ef","toSide":"left"},
+		{"id":"c17186209b6574ec","fromNode":"33b79819285ee7ef","fromSide":"right","toNode":"7c44c8bebf281dfc","toSide":"left"},
+		{"id":"ad2b7c4b46cea343","fromNode":"33b79819285ee7ef","fromSide":"right","toNode":"e470b573528303d2","toSide":"left"},
+		{"id":"91a09dd04a2afec6","fromNode":"33b79819285ee7ef","fromSide":"right","toNode":"b56b6f2b2a6832f8","toSide":"left"},
+		{"id":"5e68e1901ac605d1","fromNode":"7c44c8bebf281dfc","fromSide":"right","toNode":"34955714e6af8888","toSide":"left"},
+		{"id":"b60d6c4feddc20af","fromNode":"e470b573528303d2","fromSide":"right","toNode":"34955714e6af8888","toSide":"left"},
+		{"id":"95159ea95a8d62a1","fromNode":"b56b6f2b2a6832f8","fromSide":"right","toNode":"34955714e6af8888","toSide":"left"},
+		{"id":"a37dd13a7f8aae76","fromNode":"e470b573528303d2","fromSide":"right","toNode":"7b523fb750cb3397","toSide":"left","label":"早め"}
 	]
 }

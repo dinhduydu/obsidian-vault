@@ -13,8 +13,8 @@
 		{"id":"553604f7db15ba8e","type":"text","text":"- giải khuây\n- thư giãn tinh thần\n- làm gì đó để đổi gió, bớt stress\n\n“気” = tinh thần, tâm trạng  \n“晴らし” = làm cho quang đãng, thoải mái\n\n→ nghĩa đen là:\n\n> “làm cho tâm trạng thoáng hơn”","x":1985,"y":-1273,"width":315,"height":273},
 		{"id":"7dcdc61d51179279","type":"text","text":"### Ví dụ\n\n- 気晴らしに散歩する。  \n    → Đi dạo để giải khuây.\n- 週末は気晴らしに映画を見た。  \n    → Cuối tuần tôi xem phim để thư giãn.\n- ちょっと気晴らししたほうがいいよ。  \n    → Cậu nên thư giãn một chút thì hơn.","x":1985,"y":-1680,"width":455,"height":240},
 		{"id":"118d0087447e10c3","type":"text","text":"### Liên quan\n\n- **気分転換（きぶんてんかん）**: đổi gió, đổi tâm trạng\n- **息抜き（いきぬき）**: nghỉ xả hơi\n- **リフレッシュ**: refresh, làm mới tinh thần","x":1982,"y":-2054,"width":438,"height":174},
-		{"id":"ba1032587ca25c8d","x":-1080,"y":28,"width":400,"height":400,"type":"file","file":"N2文法/気.canvas"},
-		{"id":"4578bd41b1db6c41","type":"text","text":"Khí　「气」","x":-2040,"y":-202,"width":250,"height":60}
+		{"id":"4578bd41b1db6c41","type":"text","text":"Khí　「气」","x":-2040,"y":-202,"width":250,"height":60},
+		{"id":"ba1032587ca25c8d","type":"file","file":"N2文法/気.canvas","x":-1480,"y":60,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"07d6c0e78cedd77a","fromNode":"4578bd41b1db6c41","fromSide":"right","toNode":"d3934e238649f7bb","toSide":"left"},
