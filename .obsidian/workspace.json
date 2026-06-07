@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Ít gặp/D/Đinh　「丁」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Kim　「金 (釒)」.canvas",
                 "viewState": {
-                  "x": -90,
-                  "y": -17,
-                  "zoom": 0
+                  "x": 542.6518840665185,
+                  "y": 1359.4451559186066,
+                  "zoom": 0.7013578428101492
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Đinh　「丁」"
+              "title": "Kim　「金 (釒)」"
             }
           },
           {
@@ -44,15 +44,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Ít gặp/D/Dự　「予」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/D/Đại (thế) 「代」.canvas",
                 "viewState": {
-                  "x": 339,
-                  "y": 54.5,
-                  "zoom": -0.6271487604779754
+                  "x": 760,
+                  "y": -50,
+                  "zoom": -0.974427187910093
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Dự　「予」"
+              "title": "Đại (thế) 「代」"
             }
           }
         ],
@@ -207,7 +207,11 @@
   },
   "active": "c5c3280e8c7a8e95",
   "lastOpenFiles": [
+    "N2漢字/Bộ chỉ ý/Hay gặp/D/Dương　「羊 (⺶) 」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp/D/Đinh　「丁」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/D/Dự　「予」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/D/Đinh　「丁」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/D/Đại (thế) 「代」.canvas",
     "N2漢字/Bộ chỉ ý/Ít gặp/D/Dự　「予」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/Kim　「金 (釒)」.canvas",
     "Chữa đề/24052026/問題１１.canvas",
@@ -215,10 +219,6 @@
     "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2漢字/Bộ chỉ ý/Hay gặp/H/Hành　「行」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/T/Trường　「長 (镸) 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Truy　「夂」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tử (con)　「子」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tự　「自 」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/T/Túc　「足 (⻊) 」.canvas",
     "Untitled 8.base",
     "Untitled 7.base",
     "N2漢字/Bộ chỉ ý/Hay gặp/V/Untitled",
