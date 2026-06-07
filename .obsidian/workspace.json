@@ -11,17 +11,10 @@
             "id": "eb450140b4ac6404",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Hay gặp/C/Chí　「至」.canvas",
-                "viewState": {
-                  "x": 258,
-                  "y": 1544.8471698113208,
-                  "zoom": -1.7305089444847213
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chí　「至」"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,29 +166,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb450140b4ac6404",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
-    "N2漢字/Hay gặp/C/Chí　「至」.canvas",
-    "N2漢字/Hay gặp/T/Thi　「尸」.canvas",
-    "N2漢字/Hay gặp/N/Nhân　「亻」.canvas",
-    "N2漢字/Hay gặp/D/Đao　「刀 (刂)」.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas",
-    "N2漢字/Hay gặp/D/Dương　「羊 (⺶) 」.canvas",
-    "N2漢字/Hay gặp/D/Dự　「予」.canvas",
-    "N2漢字/Hay gặp/D/Đinh　「丁」.canvas",
-    "N2漢字/Hay gặp/A/Âm　「音」.canvas",
-    "N2漢字/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」.canvas",
-    "N2漢字/Ít gặp/V",
-    "N2漢字/Ít gặp/U",
-    "N2漢字/Ít gặp/T",
-    "N2漢字/Ít gặp/S",
-    "N2漢字/Ít gặp/Q",
-    "N2漢字/Ít gặp/N",
-    "N2漢字/Ít gặp/M",
-    "N2漢字/Ít gặp/L",
-    "N2漢字/Ít gặp/K",
-    "N2漢字/Ít gặp/H",
+    "N2漢字/Bộ thủ/Ít gặp/V/Vô　「无」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/U/Uông　「尢」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tỵ　「鼻」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tả.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Truy (lại, sau).canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tiết (đốt tre).canvas",
+    "N2漢字/Bộ thủ/Ít gặp/V",
+    "N2漢字/Bộ thủ/Ít gặp/U",
+    "N2漢字/Bộ thủ/Ít gặp/T",
+    "N2漢字/Bộ thủ/Ít gặp/S",
+    "N2漢字/Bộ thủ/Ít gặp/Q",
+    "N2漢字/Bộ thủ/Ít gặp/N",
+    "N2漢字/Bộ thủ/Ít gặp/M",
+    "N2漢字/Bộ thủ/Ít gặp/L",
+    "N2漢字/Bộ thủ/Ít gặp/K",
+    "N2漢字/Bộ thủ/Ít gặp/H",
+    "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2漢字/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "Pasted image 20260527193714.png",
