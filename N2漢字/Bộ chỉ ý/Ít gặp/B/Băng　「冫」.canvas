@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"1442dbf1a61915b1","x":-171,"y":-23,"width":250,"height":60,"type":"text","text":"Băng　「冫」"}
+		{"id":"1442dbf1a61915b1","type":"text","text":"Băng　「冫」","x":-171,"y":-23,"width":250,"height":60},
+		{"id":"cb3c7259fc1ed2b0","type":"text","text":"鍛冶屋","x":702,"y":-266,"width":250,"height":60},
+		{"id":"923c64cf73697ae0","type":"text","text":"冶 - Dã","x":280,"y":-236,"width":250,"height":60},
+		{"id":"14a7f017229991df","type":"text","text":"nấu chảy (thành nước)\ndã đông","x":666,"y":-83,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"420401e4f1740e65","fromNode":"923c64cf73697ae0","fromSide":"right","toNode":"cb3c7259fc1ed2b0","toSide":"left"},
+		{"id":"0b0801f5d9fa9995","fromNode":"923c64cf73697ae0","fromSide":"right","toNode":"14a7f017229991df","toSide":"left"},
+		{"id":"c821519fd777e626","fromNode":"1442dbf1a61915b1","fromSide":"right","toNode":"923c64cf73697ae0","toSide":"left"}
+	]
 }

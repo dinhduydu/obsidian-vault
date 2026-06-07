@@ -1,9 +1,27 @@
 {
 	"nodes":[
-		{"id":"5ac0f7e2e9f132a4","x":-145,"y":-37,"width":250,"height":60,"type":"text","text":"Chí　「至」"},
-		{"id":"09d9150d320a0e6c","x":217,"y":-94,"width":250,"height":60,"type":"text","text":"đến"}
+		{"id":"5ac0f7e2e9f132a4","type":"text","text":"Chí　「至」","x":-145,"y":-37,"width":250,"height":60},
+		{"id":"09d9150d320a0e6c","type":"text","text":"chỉ ý nghĩa cơ bản của đến nơi","x":-620,"y":-160,"width":250,"height":60},
+		{"id":"ae998702c55773a0","x":-980,"y":23,"width":178,"height":149,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/N/Nhất　「一」.canvas"},
+		{"id":"343008d4942c0b46","x":-760,"y":23,"width":187,"height":110,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Tư (tôi)　「厶」.canvas"},
+		{"id":"fdf95c72e0473d7c","x":-520,"y":23,"width":202,"height":109,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thổ　「土」.canvas"},
+		{"id":"93e428f8ed5ba8b9","x":-1396,"y":-343,"width":250,"height":60,"type":"text","text":"tột cùng, đến"},
+		{"id":"27d4404dbd6a5437","x":-945,"y":-644,"width":250,"height":60,"type":"text","text":"至"},
+		{"id":"d65ba23cd38cbca7","x":-1444,"y":-750,"width":250,"height":60,"type":"text","text":"至る　「いたる」：dẫn đến"},
+		{"id":"5220b6f97e8ae8bb","type":"text","text":"致 - Trí","x":280,"y":-280,"width":250,"height":60},
+		{"id":"2489d402fc79ef37","x":645,"y":-280,"width":250,"height":60,"type":"text","text":"致す"},
+		{"id":"0698ce163dfce8f3","x":-20,"y":-440,"width":158,"height":68,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/P/Phộc　「攴 (攵)」.canvas"}
 	],
 	"edges":[
-		{"id":"435b5ca1c061ec0b","fromNode":"5ac0f7e2e9f132a4","fromSide":"right","toNode":"09d9150d320a0e6c","toSide":"left"}
+		{"id":"1d84c9f4d41ee499","fromNode":"5ac0f7e2e9f132a4","fromSide":"left","toNode":"09d9150d320a0e6c","toSide":"right"},
+		{"id":"f596418bb2b8a9d3","fromNode":"09d9150d320a0e6c","fromSide":"bottom","toNode":"ae998702c55773a0","toSide":"top"},
+		{"id":"361d17b6415f7d73","fromNode":"09d9150d320a0e6c","fromSide":"bottom","toNode":"343008d4942c0b46","toSide":"top"},
+		{"id":"5f9d1c2b23376fc4","fromNode":"09d9150d320a0e6c","fromSide":"bottom","toNode":"fdf95c72e0473d7c","toSide":"top"},
+		{"id":"1ad09ed710f30a0f","fromNode":"09d9150d320a0e6c","fromSide":"left","toNode":"93e428f8ed5ba8b9","toSide":"right"},
+		{"id":"2f546cc78341aebf","fromNode":"09d9150d320a0e6c","fromSide":"top","toNode":"27d4404dbd6a5437","toSide":"right"},
+		{"id":"ebc2eb4f99613eb7","fromNode":"27d4404dbd6a5437","fromSide":"left","toNode":"d65ba23cd38cbca7","toSide":"right"},
+		{"id":"e3ee7d5c25bc4bd2","fromNode":"5ac0f7e2e9f132a4","fromSide":"right","toNode":"5220b6f97e8ae8bb","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"c0f4b41352986482","fromNode":"5220b6f97e8ae8bb","fromSide":"right","toNode":"2489d402fc79ef37","toSide":"left"},
+		{"id":"97f1232de63210f7","fromNode":"0698ce163dfce8f3","fromSide":"right","toNode":"5220b6f97e8ae8bb","toSide":"left","label":"bạo lực để thống nhất"}
 	]
 }
