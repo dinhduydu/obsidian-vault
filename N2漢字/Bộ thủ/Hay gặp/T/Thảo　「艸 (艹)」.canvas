@@ -1,19 +1,23 @@
 {
 	"nodes":[
 		{"id":"41854e15f1aef991","type":"text","text":"Thảo　「艸 (艹)」","x":-216,"y":-57,"width":250,"height":60},
-		{"id":"b7244b8921fff235","type":"text","text":"![[Pasted image 20260522005509.png]]","x":313,"y":-211,"width":250,"height":214},
 		{"id":"ea4a93220bf60e7d","type":"text","text":"苛まる　「さいなまる」","x":735,"y":-206,"width":250,"height":60},
-		{"id":"618cf1b8f508747e","type":"text","text":"HÀ","x":728,"y":-78,"width":250,"height":60},
 		{"id":"0066e46606ec6886","type":"text","text":"Kanji **苛** mang nghĩa:\n\n- hà khắc\n- khắt khe\n- nghiêm ngặt quá mức\n- làm khó người khác","x":761,"y":82,"width":319,"height":198},
 		{"id":"d1ecc82cfa385a66","type":"text","text":"- **苛立つ（いらだつ）**: bực bội, cáu gắt\n- **苛烈（かれつ）**: khốc liệt, hà khắc\n- **苛政（かせい）**: chính sách hà khắc\n- **苛酷（かこく）**: khắc nghiệt","x":761,"y":-500,"width":357,"height":222},
-		{"id":"4cbe95740a3687cf","type":"text","text":"苦い đắng","x":262,"y":175,"width":250,"height":60}
+		{"id":"f27638e8ac7b3da1","x":326,"y":-206,"width":250,"height":60,"type":"text","text":"苛 - Hà"},
+		{"id":"b7244b8921fff235","type":"text","text":"![[Pasted image 20260522005509.png]]","x":860,"y":-80,"width":100,"height":81},
+		{"id":"4cbe95740a3687cf","type":"text","text":"苦い　「にがい」：đắng","x":690,"y":400,"width":250,"height":60},
+		{"id":"b087ac2ca100350b","x":260,"y":250,"width":250,"height":60,"type":"text","text":"苦 - Khổ"},
+		{"id":"0bde74492d253c3b","x":1140,"y":-206,"width":337,"height":146,"type":"text","text":"Bị dày vò, hành hạ, giày vò về thể xác hoặc tinh thần.\nThường dùng khi nói đến sự đau khổ kéo dài do bệnh tật, lo âu, áp lực, ký ức, cảm giác tội lỗi..."}
 	],
 	"edges":[
-		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"b7244b8921fff235","toSide":"left"},
-		{"id":"71f3e804785c3acf","fromNode":"b7244b8921fff235","fromSide":"right","toNode":"ea4a93220bf60e7d","toSide":"left"},
-		{"id":"1139b551d3d99251","fromNode":"b7244b8921fff235","fromSide":"right","toNode":"618cf1b8f508747e","toSide":"left"},
-		{"id":"585a4faa37ce6906","fromNode":"b7244b8921fff235","fromSide":"right","toNode":"0066e46606ec6886","toSide":"left"},
-		{"id":"324fb05c6c7ffdb7","fromNode":"b7244b8921fff235","fromSide":"right","toNode":"d1ecc82cfa385a66","toSide":"left"},
-		{"id":"dd88769bcddba2f3","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"4cbe95740a3687cf","toSide":"left"}
+		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
+		{"id":"71f3e804785c3acf","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"ea4a93220bf60e7d","toSide":"left"},
+		{"id":"585a4faa37ce6906","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"0066e46606ec6886","toSide":"left"},
+		{"id":"324fb05c6c7ffdb7","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"d1ecc82cfa385a66","toSide":"left"},
+		{"id":"dd88769bcddba2f3","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"b087ac2ca100350b","toSide":"left"},
+		{"id":"ec7594a7759f0c1a","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"b7244b8921fff235","toSide":"left"},
+		{"id":"6e044697ddd16fd7","fromNode":"b087ac2ca100350b","fromSide":"right","toNode":"4cbe95740a3687cf","toSide":"left"},
+		{"id":"573b6fdc33dc57ef","fromNode":"ea4a93220bf60e7d","fromSide":"right","toNode":"0bde74492d253c3b","toSide":"left"}
 	]
 }
