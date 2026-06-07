@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"dc57e10c961afd76","x":-300,"y":-160,"width":445,"height":330,"type":"text","text":"に\n├─ ① Đích đến / đối tượng\n├─ ② Góc nhìn / tiêu chuẩn đánh giá\n├─ ③ So sánh / đối chiếu\n├─ ④ Căn cứ / nguyên nhân\n├─ ⑤ Thay đổi tương ứng\n├─ ⑥ Thời điểm / hoàn cảnh\n├─ ⑦ Chủ đề / lĩnh vực\n├─ ⑧ Giả định / lập trường\n├─ ⑨ Phạm vi / kéo dài\n└─ ⑩ Mẫu cố định"}
+	],
+	"edges":[]
+}
