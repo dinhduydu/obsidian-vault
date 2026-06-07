@@ -1,6 +1,23 @@
 {
 	"nodes":[
-		{"id":"80014c716fe68b00","x":-131,"y":-36,"width":250,"height":60,"type":"text","text":"Mâu　「矛」"}
+		{"id":"80014c716fe68b00","type":"text","text":"Mâu　「矛」","x":-131,"y":-36,"width":250,"height":60},
+		{"id":"afe78763822fdfa3","type":"text","text":"矛　「ほこ」：giáo, mâu","x":240,"y":-200,"width":250,"height":60},
+		{"id":"60dc10829feba7f7","x":240,"y":-66,"width":278,"height":60,"type":"text","text":"柔　「やわらかい」：mềm mại"},
+		{"id":"712ca19b91428739","x":240,"y":60,"width":320,"height":60,"type":"text","text":"務　「つとめる」：nhiệm vụ, công việc"},
+		{"id":"4d17e8e25f8593ed","x":254,"y":340,"width":250,"height":60,"type":"text","text":"騖　「むやみに」：lao tới, chạy theo"},
+		{"id":"cfcb61e02062049d","x":700,"y":31,"width":364,"height":119,"type":"text","text":"務 = 矛 + 攵\n\nBan đầu mang ý \"cầm giáo làm việc\", sau thành nghĩa \"nhiệm vụ, công vụ\"."},
+		{"id":"3396890c2c830ac2","x":700,"y":235,"width":250,"height":50,"type":"text","text":"霧　「きり」：sương mù"},
+		{"id":"e1aae3f5966ab7ce","x":1100,"y":231,"width":398,"height":109,"type":"text","text":"霧 = 雨 + 務\n\nChữ hình thanh, trong đó 務 chủ yếu gợi âm."},
+		{"id":"98c978bf9bf4d527","x":-520,"y":-179,"width":280,"height":143,"type":"text","text":"矛 = hình cây giáo cổ đại, là một bộ thủ độc lập chứ không phải ghép từ những chữ Hán đơn giản khác."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0770c9d6aa23cd64","fromNode":"80014c716fe68b00","fromSide":"right","toNode":"afe78763822fdfa3","toSide":"left"},
+		{"id":"b6e814f64d4e61bb","fromNode":"80014c716fe68b00","fromSide":"right","toNode":"60dc10829feba7f7","toSide":"left"},
+		{"id":"59eec86848bcece8","fromNode":"80014c716fe68b00","fromSide":"right","toNode":"712ca19b91428739","toSide":"left"},
+		{"id":"386743b96730b8ba","fromNode":"80014c716fe68b00","fromSide":"right","toNode":"4d17e8e25f8593ed","toSide":"left"},
+		{"id":"b000abe0e65b3ccd","fromNode":"712ca19b91428739","fromSide":"right","toNode":"cfcb61e02062049d","toSide":"left"},
+		{"id":"4f71d2036af90db2","fromNode":"712ca19b91428739","fromSide":"right","toNode":"3396890c2c830ac2","toSide":"left"},
+		{"id":"aa3ceff991899fb1","fromNode":"3396890c2c830ac2","fromSide":"right","toNode":"e1aae3f5966ab7ce","toSide":"left"},
+		{"id":"c4cd8a05981a2264","fromNode":"80014c716fe68b00","fromSide":"left","toNode":"98c978bf9bf4d527","toSide":"right"}
+	]
 }
