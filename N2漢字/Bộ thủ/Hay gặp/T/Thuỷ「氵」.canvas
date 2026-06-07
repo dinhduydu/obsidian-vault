@@ -8,20 +8,25 @@
 		{"id":"fde9d97ad446417c","type":"text","text":"えんかつ","x":860,"y":-680,"width":250,"height":60},
 		{"id":"7004b2a1c81e2816","type":"text","text":"Thuận lợi, suôn sẻ","x":1260,"y":-680,"width":250,"height":60},
 		{"id":"577ad57af32914a5","type":"text","text":"浸透　「しんとう」 Thẩm thấu","x":0,"y":260,"width":302,"height":60},
-		{"id":"2f42700a7ceaa892","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/C/Cốt　「骨」.canvas","x":440,"y":-980,"width":299,"height":141},
+		{"id":"2f42700a7ceaa892","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」.canvas","x":440,"y":-980,"width":299,"height":141},
 		{"id":"4a36a81b66052feb","type":"text","text":"消　「Tiêu」：","x":-182,"y":980,"width":250,"height":60},
 		{"id":"c3403f863a9b3a1f","type":"text","text":"沈　「Trầm」：","x":-182,"y":1100,"width":250,"height":60},
 		{"id":"a59dd782e66dd0eb","type":"text","text":"消沈　「しょうちん」： tâm trạng suy sụp","x":260,"y":1040,"width":250,"height":60},
 		{"id":"1283f928ea0e9af9","type":"text","text":"漠　「Mạc」：","x":-162,"y":819,"width":250,"height":60},
 		{"id":"c512bda2f94bc409","type":"text","text":"気分が消沈しているときは、「漠然とした」不安に苛まれやすい。","x":700,"y":822,"width":591,"height":57},
 		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇","x":-37,"y":420,"width":250,"height":60},
-		{"id":"8184de91d0cc8d29","type":"text","text":"浮","x":-162,"y":564,"width":250,"height":60},
+		{"id":"8184de91d0cc8d29","type":"text","text":"浮 - Phù","x":-162,"y":564,"width":250,"height":60},
 		{"id":"3c2058a3f3ee8ac7","type":"text","text":"淡い","x":-5,"y":-260,"width":250,"height":60},
 		{"id":"44e54d7851527b08","type":"text","text":"漠然　「ばくぜん」： Mơ hồ, ko rõ ràng","x":1460,"y":700,"width":250,"height":60},
 		{"id":"bb97c8a7a3d1d044","type":"text","text":"渋い　「しぶい」　　Chát","x":28,"y":-117,"width":250,"height":60},
 		{"id":"365a8be1053fad2c","type":"text","text":"Thuỷ「氵」","x":-800,"y":90,"width":130,"height":55},
 		{"id":"8ecded8dad3b111b","type":"text","text":"Thuỷ「氵」","x":-1680,"y":90,"width":130,"height":55},
-		{"id":"3c30234e04de77d6","x":-1480,"y":320,"width":357,"height":167,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas"}
+		{"id":"3c30234e04de77d6","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas","x":-1480,"y":320,"width":357,"height":167},
+		{"id":"9d7638c7315ea318","type":"text","text":"Nổi lên","x":258,"y":573,"width":250,"height":60},
+		{"id":"9cf54298ba0e37e0","type":"text","text":"Bến cảng","x":273,"y":-1494,"width":250,"height":60},
+		{"id":"9fed4d439cd258f3","type":"text","text":"港","x":690,"y":-1500,"width":250,"height":60},
+		{"id":"a15ab4a24fe70d6f","type":"text","text":"津 - Tân","x":-30,"y":-1440,"width":250,"height":60},
+		{"id":"2665ebf482398149","type":"text","text":"津波","x":315,"y":-1340,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left"},
@@ -46,6 +51,11 @@
 		{"id":"f67a42cd8bd75b02","fromNode":"c512bda2f94bc409","fromSide":"right","toNode":"44e54d7851527b08","toSide":"left"},
 		{"id":"988f3b2672b38e24","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"bb97c8a7a3d1d044","toSide":"left"},
 		{"id":"261a8e25c3246646","fromNode":"8ecded8dad3b111b","fromSide":"right","toNode":"365a8be1053fad2c","toSide":"left"},
-		{"id":"8b5e165ded4e6125","fromNode":"8ecded8dad3b111b","fromSide":"bottom","toNode":"3c30234e04de77d6","toSide":"top"}
+		{"id":"8b5e165ded4e6125","fromNode":"8ecded8dad3b111b","fromSide":"bottom","toNode":"3c30234e04de77d6","toSide":"top"},
+		{"id":"0031b23550d0ec8a","fromNode":"8184de91d0cc8d29","fromSide":"right","toNode":"9d7638c7315ea318","toSide":"left"},
+		{"id":"e1b5471387ffd9fc","fromNode":"9cf54298ba0e37e0","fromSide":"right","toNode":"9fed4d439cd258f3","toSide":"left"},
+		{"id":"24d45af17a88e518","fromNode":"a15ab4a24fe70d6f","fromSide":"right","toNode":"9cf54298ba0e37e0","toSide":"left"},
+		{"id":"0308dd2d7f720699","fromNode":"a15ab4a24fe70d6f","fromSide":"right","toNode":"2665ebf482398149","toSide":"left"},
+		{"id":"5b2e6e2b01f27e36","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"a15ab4a24fe70d6f","toSide":"left"}
 	]
 }

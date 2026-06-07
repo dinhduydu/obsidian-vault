@@ -5,20 +5,22 @@
 		{"id":"9a38615f1a9e215e","type":"text","text":"晩 - Vãn","x":303,"y":100,"width":250,"height":60},
 		{"id":"9ad1e3202b4f7815","type":"text","text":"曜 - Diệu","x":303,"y":200,"width":250,"height":60},
 		{"id":"4a3e541f26348b3e","type":"text","text":"昨 - Tạc","x":303,"y":340,"width":250,"height":60},
-		{"id":"6e7555fc8c7e5ccc","type":"text","text":"Nhật　「日」","x":-118,"y":980,"width":250,"height":60},
 		{"id":"70e8ee794a47cc9b","type":"text","text":"暴 - Bạo, Bộc","x":323,"y":921,"width":250,"height":60},
 		{"id":"018437dedf2ce2c3","type":"text","text":"明 - Minh","x":303,"y":-360,"width":250,"height":60},
 		{"id":"730299385ea2d2c2","type":"text","text":"暗 - Ám","x":303,"y":-220,"width":250,"height":60},
 		{"id":"0d15bfa8c33d9a4c","type":"text","text":"### Bộ thủ\n\n- Bộ chính: 日（mặt trời）\n\nNhưng chữ này khá phức tạp, thường nhìn theo cấu trúc:\n\n- 日 : mặt trời\n- 共 dạng biến thể ở giữa\n- 氺 : nước","x":920,"y":772,"width":367,"height":271},
 		{"id":"9a1191b037ee1a8c","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas","x":1580,"y":657,"width":360,"height":231},
-		{"id":"f020143af0e43310","type":"text","text":"### Ý nghĩa gốc\n\nMang hình ảnh:\n\n> ánh nắng phơi bày mọi thứ ra ngoài\n\n→ nghĩa phát triển:\n\n- lộ ra\n- mạnh bạo\n- dữ dội\n- bộc phát không kiểm soát\n\nNên:\n\n- 暴力（ぼうりょく）: bạo lực\n- 暴風（ぼうふう）: bão lớn\n- 暴れる（あばれる）: quậy phá, vùng vẫy dữ dội","x":920,"y":1187,"width":432,"height":497},
+		{"id":"f020143af0e43310","type":"text","text":"### Ý nghĩa gốc\n\nMang hình ảnh:\n\n> ánh nắng phơi bày mọi thứ ra ngoài\n\n→ nghĩa phát triển:\n\n- lộ ra\n- mạnh bạo\n- dữ dội\n- bộc phát không kiểm soát\n\nNên:\n\n- 暴力（ぼうりょく）: bạo lực\n- 暴風（ぼうふう）: bão lớn\n- 暴れる（あばれる）: quậy phá, vùng vẫy dữ dội","x":920,"y":1187,"width":432,"height":453},
 		{"id":"5f4929ed29a01be2","type":"text","text":"景 - Cảnh","x":-650,"y":1560,"width":250,"height":60},
 		{"id":"780c940324903da9","type":"text","text":"gồm bộ Nhật và Kinh, chữ Kinh chỉ toà nhà trên núi và quang cảnh tuyệt đẹp","x":-528,"y":1775,"width":248,"height":91},
 		{"id":"e9502094a1f6a0c8","type":"file","file":"Pasted image 20260526001423.png","x":-1000,"y":1721,"width":400,"height":198},
 		{"id":"b57c6828eb745093","type":"text","text":"昇る　「のぼる」: Thăng","x":211,"y":1530,"width":250,"height":60},
 		{"id":"450092e762c36d0e","type":"file","file":"Pasted image 20260526004417.png","x":-20,"y":1684,"width":400,"height":364},
 		{"id":"e26a3a23fec0b854","type":"text","text":"dùng cốc đựng gạo để múc nước lên, xúc gì đó lên","x":5,"y":2197,"width":250,"height":60},
-		{"id":"602c5b23ec176088","x":920,"y":540,"width":400,"height":137,"type":"file","file":"Pasted image 20260527193624.png"}
+		{"id":"602c5b23ec176088","type":"file","file":"Pasted image 20260527193624.png","x":920,"y":540,"width":399,"height":137},
+		{"id":"6e7555fc8c7e5ccc","type":"text","text":"Nhật　「日」","x":-145,"y":981,"width":250,"height":60},
+		{"id":"59c810bacf2855c5","type":"text","text":"書 - Thư","x":220,"y":-595,"width":250,"height":60},
+		{"id":"444a38e0ac1a7f64","type":"text","text":"図書館","x":580,"y":-595,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"018437dedf2ce2c3","toSide":"left","label":"明 - Minh"},
@@ -38,6 +40,8 @@
 		{"id":"a17812f733c132db","fromNode":"6e7555fc8c7e5ccc","fromSide":"bottom","toNode":"b57c6828eb745093","toSide":"top"},
 		{"id":"78e0c78103c885b4","fromNode":"b57c6828eb745093","fromSide":"bottom","toNode":"450092e762c36d0e","toSide":"top"},
 		{"id":"74bc3a72db8219e1","fromNode":"450092e762c36d0e","fromSide":"bottom","toNode":"e26a3a23fec0b854","toSide":"top"},
-		{"id":"60c37cc4eafc618a","fromNode":"70e8ee794a47cc9b","fromSide":"right","toNode":"602c5b23ec176088","toSide":"left"}
+		{"id":"60c37cc4eafc618a","fromNode":"70e8ee794a47cc9b","fromSide":"right","toNode":"602c5b23ec176088","toSide":"left"},
+		{"id":"48864cdceccc76a8","fromNode":"631257b411dd2604","fromSide":"right","toNode":"59c810bacf2855c5","toSide":"left"},
+		{"id":"3f1831808e1921e9","fromNode":"59c810bacf2855c5","fromSide":"right","toNode":"444a38e0ac1a7f64","toSide":"left"}
 	]
 }

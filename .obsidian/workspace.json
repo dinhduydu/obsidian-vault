@@ -11,10 +11,17 @@
             "id": "eb450140b4ac6404",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
+                "viewState": {
+                  "x": 905.6083538195454,
+                  "y": -781.4596599930339,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thuỷ「氵」"
             }
           }
         ]
@@ -166,19 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "eb450140b4ac6404",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」.canvas",
+    "N2漢字/Hay gặp/C/Chí　「至」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/V/Vô　「无」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/U/Uông　「尢」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Tỵ　「鼻」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tả.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Truy (lại, sau).canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tiết (đốt tre).canvas",
     "N2漢字/Bộ thủ/Ít gặp/V",
     "N2漢字/Bộ thủ/Ít gặp/U",
     "N2漢字/Bộ thủ/Ít gặp/T",

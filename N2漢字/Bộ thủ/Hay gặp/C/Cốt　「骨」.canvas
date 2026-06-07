@@ -3,8 +3,8 @@
 		{"id":"af7d612970d61c32","type":"text","text":"Cốt　「骨」","x":-234,"y":-26,"width":250,"height":60},
 		{"id":"9bde495e523ad39d","type":"text","text":"滑る「すべる」（Trượt)","x":200,"y":-180,"width":250,"height":60},
 		{"id":"7e91574029614852","type":"text","text":"過　「Quá」","x":220,"y":40,"width":250,"height":60},
-		{"id":"bcb38bfd3709c3eb","x":600,"y":40,"width":250,"height":60,"type":"text","text":"過ち　「あやまち」：sai lầm"},
-		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/T/Thuỷ「氵」.canvas","x":620,"y":-175,"width":230,"height":50}
+		{"id":"bcb38bfd3709c3eb","type":"text","text":"過ち　「あやまち」：sai lầm","x":600,"y":40,"width":250,"height":60},
+		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":620,"y":-320,"width":230,"height":195}
 	],
 	"edges":[
 		{"id":"cebe79937ee1d2ad","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"9bde495e523ad39d","toSide":"left"},
