@@ -15,7 +15,7 @@
 		{"id":"6c0b04e1a9ba8563","type":"file","file":"Pasted image 20260505213049.png","x":-1360,"y":-660,"width":400,"height":262},
 		{"id":"03fe02a1092c019b","type":"text","text":"Số lượng thời gian+うちに+もしない","x":981,"y":-259,"width":250,"height":60},
 		{"id":"b45da17f922fefa4","type":"text","text":"thời gian ngắn, chưa đến bao lâu thì đã có sự thay đổi B","x":1540,"y":-333,"width":250,"height":60},
-		{"id":"7769030b62805b4c","x":1545,"y":-191,"width":250,"height":60,"type":"text","text":"何か月もしないうちに"}
+		{"id":"7769030b62805b4c","type":"text","text":"何か月もしないうちに","x":1545,"y":-191,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right","label":"かのうちに"},

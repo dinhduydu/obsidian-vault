@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/尊敬語/尊敬語.canvas",
+                "file": "N2文法/がる・がち.canvas",
                 "viewState": {
-                  "x": 95,
-                  "y": 160,
-                  "zoom": -1.2620258807728777
+                  "x": 452,
+                  "y": -283.5,
+                  "zoom": -1.0175306898803522
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "尊敬語"
+              "title": "がる・がち"
             }
           }
         ],
@@ -190,10 +190,18 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
-    "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.canvas",
+    "N2文法/しか.canvas",
+    "N2文法/ず.canvas",
+    "N2文法/たとえ.canvas",
+    "N2文法/です・だ・である.canvas",
+    "N2文法/なお.canvas",
+    "N2文法/のみ.canvas",
+    "N2文法/べき・べく.canvas",
+    "N2文法/まい.canvas",
+    "N2文法/や～など.canvas",
+    "N2文法/うちに.canvas",
+    "N2文法/尊敬語/尊敬語.canvas",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
-    "N2文法/助詞/に/に.canvas",
-    "N2文法/助詞/に/01_Đích đến_Đối tượng.canvas.canvas",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",
     "N2文法/助詞/に/10_Mẫu cố định.md",
     "N2文法/助詞/に/09_Phạm vi_Kéo dài.md",
@@ -203,14 +211,7 @@
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/04_Căn cứ_Nguyên nhân.md",
     "N2文法/助詞/に/03_So sánh_Đối chiếu.md",
-    "N2文法/助詞/に/に - Structure.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」.canvas",
     "N2文法/助詞/に",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/L/Untitled.md",
     "N2漢字/Bộ thủ/Ít gặp/V",
     "N2漢字/Bộ thủ/Ít gặp/U",
