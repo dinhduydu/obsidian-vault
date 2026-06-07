@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"31b57e4416351ec2","x":-215,"y":-47,"width":250,"height":60,"type":"text","text":"Đinh　「丁」"}
+		{"id":"31b57e4416351ec2","type":"text","text":"Đinh　「丁」","x":-215,"y":-47,"width":250,"height":60},
+		{"id":"d2f2de5617917afa","type":"text","text":"釘 - Đinh","x":180,"y":-200,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"feddf2f1bbffbbca","fromNode":"31b57e4416351ec2","fromSide":"right","toNode":"d2f2de5617917afa","toSide":"left"}
+	]
 }

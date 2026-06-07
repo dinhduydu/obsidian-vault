@@ -27,19 +27,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ chỉ ý/Hay gặp/K/Kim　「金 (釒)」.canvas",
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/D/Đinh　「丁」.canvas",
                 "viewState": {
-                  "x": 348.64805563311756,
-                  "y": -600.3909129617061,
-                  "zoom": -0.6666666666666665
+                  "x": -90,
+                  "y": -17,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Kim　「金 (釒)」"
+              "title": "Đinh　「丁」"
+            }
+          },
+          {
+            "id": "c5c3280e8c7a8e95",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ chỉ ý/Ít gặp/D/Dự　「予」.canvas",
+                "viewState": {
+                  "x": 339,
+                  "y": 54.5,
+                  "zoom": -0.6271487604779754
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dự　「予」"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5,
-    "collapsed": true
+    "width": 510.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -189,30 +205,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb450140b4ac6404",
+  "active": "c5c3280e8c7a8e95",
   "lastOpenFiles": [
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/Kỷ　「己」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
-    "N2漢字/Bộ chỉ ý/Hay gặp/V/Vật　「勿」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nạch　「疒」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/V/Untitled",
-    "N2漢字/Bộ chỉ ý/Ít gặp/M/Mâu　「矛」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/D/Đinh　「丁」.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/D/Dự　「予」.canvas",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/Kim　「金 (釒)」.canvas",
+    "Chữa đề/24052026/問題１１.canvas",
+    "N2漢字/Bộ chỉ ý/Ít gặp/H/Huyết　「血」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
+    "N2漢字/Bộ chỉ ý/Hay gặp/H/Hành　「行」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Trường　「長 (镸) 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Truy　「夂」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tử (con)　「子」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Tự　「自 」.canvas",
+    "N2漢字/Bộ chỉ ý/Hay gặp/T/Túc　「足 (⻊) 」.canvas",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "N2漢字/Bộ chỉ ý/Hay gặp/V/Untitled",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled 4.base",
     "Untitled 5.base",
     "Untitled 6.base",
-    "N2漢字/Bộ chỉ ý/Hay gặp/B/Bôi　「貝」.canvas",
-    "N2漢字/Bộ chỉ ý/Hay gặp/N/Nhân　「亻」.canvas",
-    "Chữa đề/06062026/500 無地語彙文法.canvas",
-    "N2文法/がる・がち.canvas",
-    "N2文法/そう・よう/そう.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/気味.canvas",
     "Chữa đề/06062026",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 8",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 7",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 6",
     "Pasted image 20260527193714.png",
     "Pasted image 20260527193624.png",
     "Pasted image 20260527193540.png",

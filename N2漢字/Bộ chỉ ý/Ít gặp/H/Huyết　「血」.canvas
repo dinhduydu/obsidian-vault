@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"71f5de85ed7f770e","x":-150,"y":10,"width":250,"height":60,"type":"text","text":"Huyết　「血」"}
+		{"id":"71f5de85ed7f770e","type":"text","text":"Huyết　「血」","x":-150,"y":10,"width":250,"height":60},
+		{"id":"94c4335012c72b93","x":265,"y":-199,"width":250,"height":60,"type":"text","text":"盛 - Thịnh"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f30ae9559e42833d","fromNode":"71f5de85ed7f770e","fromSide":"right","toNode":"94c4335012c72b93","toSide":"left"}
+	]
 }
