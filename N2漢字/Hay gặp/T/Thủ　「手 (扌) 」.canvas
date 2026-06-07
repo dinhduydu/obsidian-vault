@@ -6,7 +6,10 @@
 		{"id":"585f62ebcba7d310","type":"text","text":"mang trong mình một tính chất/trạng thái","x":771,"y":-206,"width":250,"height":60},
 		{"id":"d16be3f4984b1638","type":"text","text":"Ví dụ:\n\n影響力を持つ\n→ có sức ảnh hưởng\n意味を持つ\n→ có ý nghĩa\n特徴を持つ\n→ mang đặc điểm\n\nNên:\n\n生活を持つ\n= có/duy trì một kiểu sống nào đó.","x":1260,"y":-344,"width":354,"height":337},
 		{"id":"928dc0e6189c8028","type":"text","text":"抱える　「かかえる」： Ôm vấn đề nào đó","x":386,"y":203,"width":250,"height":60},
-		{"id":"fdffa883481530fa","x":404,"y":-8,"width":250,"height":60,"type":"text","text":"技"}
+		{"id":"fdffa883481530fa","type":"text","text":"技","x":404,"y":-8,"width":250,"height":60},
+		{"id":"4e378d1ad7e2e409","type":"text","text":"握 - Ác","x":297,"y":-470,"width":124,"height":50},
+		{"id":"3a27cce2596bd3b7","type":"text","text":"握る　「にぎる」：cầm, nắm","x":549,"y":-480,"width":250,"height":60},
+		{"id":"5f8ea87a3733ecc4","x":40,"y":-640,"width":163,"height":97,"type":"file","file":"N2漢字/Hay gặp/C/Chí　「至」.canvas"}
 	],
 	"edges":[
 		{"id":"39b176beb30eb398","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"3fe72ef12d33ff6f","toSide":"left"},
@@ -14,6 +17,9 @@
 		{"id":"1cbfd0d3be238e9c","fromNode":"3fe72ef12d33ff6f","fromSide":"right","toNode":"585f62ebcba7d310","toSide":"left"},
 		{"id":"f32adedd5243ba65","fromNode":"585f62ebcba7d310","fromSide":"right","toNode":"d16be3f4984b1638","toSide":"left"},
 		{"id":"31dc78abe3eee3fa","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"928dc0e6189c8028","toSide":"left"},
-		{"id":"98bf79f1f7df59a5","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"fdffa883481530fa","toSide":"left"}
+		{"id":"98bf79f1f7df59a5","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"fdffa883481530fa","toSide":"left"},
+		{"id":"ba068c91f9c410b0","fromNode":"4e378d1ad7e2e409","fromSide":"right","toNode":"3a27cce2596bd3b7","toSide":"left"},
+		{"id":"0097110ee5624172","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"4e378d1ad7e2e409","toSide":"left"},
+		{"id":"c1c38cc35097f804","fromNode":"5f8ea87a3733ecc4","fromSide":"right","toNode":"4e378d1ad7e2e409","toSide":"left"}
 	]
 }

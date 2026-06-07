@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"1c2aca42b9c98418","x":-85,"y":-26,"width":250,"height":60,"type":"text","text":"Âm　「音」"}
+	],
+	"edges":[]
+}

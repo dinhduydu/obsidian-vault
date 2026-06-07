@@ -1,8 +1,6 @@
 {
 	"nodes":[
-		{"id":"90661fa9b866948b","type":"text","text":"優 - Ưu","x":1040,"y":-500,"width":250,"height":60},
 		{"id":"8be58d529c0342b3","type":"text","text":"儀 - Nghi","x":1040,"y":-360,"width":250,"height":60},
-		{"id":"2510c4feeb8e09b9","type":"text","text":"亻","x":600,"y":-420,"width":250,"height":60},
 		{"id":"8e3ea1ee34d24124","type":"text","text":"休（やすむ）: nghỉ\n→ 亻 + 木\n体（からだ）: cơ thể\n何（なに）: cái gì\n作（つくる）: làm","x":180,"y":-463,"width":250,"height":146},
 		{"id":"5b5ea364dde07b57","type":"text","text":"Thường đứng bên trái và biểu thị:\n\nhành động do người làm\ntrạng thái của người\nnghề nghiệp, tính cách, quan hệ\n\n\n\n=> Nhìn thấy 亻 thường nghĩ:\n\n“kanji này có liên quan tới con người hoặc hành động của người”","x":-114,"y":-240,"width":544,"height":240},
 		{"id":"08e445ea2123fd29","type":"text","text":"Ví dụ:\n\n休：người (亻) dựa vào cây → nghỉ\n作：người làm → tạo ra\n体：liên quan cơ thể người\n他：người khác","x":97,"y":20,"width":333,"height":180},
@@ -17,7 +15,13 @@
 		{"id":"3b3b4fab86cdf2c7","type":"text","text":"伝承　「でんしょう」： truyền thừa","x":1432,"y":-859,"width":250,"height":60},
 		{"id":"d2f143d544fc3a83","type":"text","text":"賃 - Nhẫm","x":1014,"y":207,"width":250,"height":60},
 		{"id":"8fb7b4c09297d8f6","type":"text","text":"Nghĩa: tiền thuê, cho thuê","x":1365,"y":80,"width":250,"height":60},
-		{"id":"7908c2b197bef84c","type":"text","text":"家賃（やちん） = tiền thuê nhà","x":1421,"y":267,"width":250,"height":60}
+		{"id":"7908c2b197bef84c","type":"text","text":"家賃（やちん） = tiền thuê nhà","x":1421,"y":267,"width":250,"height":60},
+		{"id":"2510c4feeb8e09b9","type":"text","text":"亻","x":600,"y":-420,"width":260,"height":60},
+		{"id":"0249cd2c2833711f","type":"text","text":"倒れる　「たおれる」：đổ, ngã","x":1631,"y":-662,"width":300,"height":72},
+		{"id":"846555c9aa09286a","type":"text","text":"倒 - Đảo","x":1251,"y":-650,"width":250,"height":60},
+		{"id":"90661fa9b866948b","type":"text","text":"優 - Ưu","x":1001,"y":-1260,"width":250,"height":60},
+		{"id":"b299d91434337dec","type":"file","file":"N2漢字/Hay gặp/C/Chí　「至」.canvas","x":1026,"y":-765,"width":101,"height":115},
+		{"id":"bf34276a8273d7e6","type":"text","text":"con người lúc mới sinh, tập đi thường bị ngã","x":1660,"y":-557,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"168191c58848e7fe","fromNode":"2510c4feeb8e09b9","fromSide":"left","toNode":"8e3ea1ee34d24124","toSide":"right"},
@@ -36,6 +40,10 @@
 		{"id":"99708a5daffb88de","fromNode":"d138fae8970a28e5","fromSide":"right","toNode":"3b3b4fab86cdf2c7","toSide":"left"},
 		{"id":"83f4a294b7c9d1ff","fromNode":"d2f143d544fc3a83","fromSide":"right","toNode":"8fb7b4c09297d8f6","toSide":"left"},
 		{"id":"4b1a947bd4f0fe77","fromNode":"d2f143d544fc3a83","fromSide":"right","toNode":"7908c2b197bef84c","toSide":"left"},
-		{"id":"8b1c033a4584cb8c","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"d2f143d544fc3a83","toSide":"left","label":"賃 - Nhẫm"}
+		{"id":"8b1c033a4584cb8c","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"d2f143d544fc3a83","toSide":"left","label":"賃 - Nhẫm"},
+		{"id":"fcae938e8f7453f9","fromNode":"846555c9aa09286a","fromSide":"right","toNode":"0249cd2c2833711f","toSide":"left"},
+		{"id":"c7afa3cc8569cb5f","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"846555c9aa09286a","toSide":"left","label":"倒 - Đảo"},
+		{"id":"4814fb04e7d52390","fromNode":"b299d91434337dec","fromSide":"right","toNode":"846555c9aa09286a","toSide":"left","label":"âm đọc"},
+		{"id":"c8c77691554ad0bf","fromNode":"846555c9aa09286a","fromSide":"right","toNode":"bf34276a8273d7e6","toSide":"left"}
 	]
 }

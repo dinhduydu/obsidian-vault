@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"e09e1ebb7976454c","x":-205,"y":-42,"width":250,"height":60,"type":"text","text":"Đao　「刀 (刂)」"}
+		{"id":"3015003bb902d726","x":140,"y":-212,"width":250,"height":60,"type":"text","text":"到 - Đáo"},
+		{"id":"b9ae4ed2510ec9d6","x":520,"y":-280,"width":250,"height":60,"type":"text","text":"到る　「いたる」：đến nơi"},
+		{"id":"67032cfb85118b5e","x":-232,"y":-420,"width":195,"height":108,"type":"file","file":"N2漢字/Hay gặp/C/Chí　「至」.canvas"},
+		{"id":"e09e1ebb7976454c","type":"text","text":"Đao　「刀 (刂)」","x":-357,"y":-40,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cc92790cc22f428c","fromNode":"3015003bb902d726","fromSide":"right","toNode":"b9ae4ed2510ec9d6","toSide":"left"},
+		{"id":"5f069e980443fe06","fromNode":"e09e1ebb7976454c","fromSide":"right","toNode":"3015003bb902d726","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"682c1eddf7e284f8","fromNode":"67032cfb85118b5e","fromSide":"right","toNode":"3015003bb902d726","toSide":"left","label":"nghĩa cơ bản của đến nơi"}
+	]
 }
