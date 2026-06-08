@@ -1,6 +1,21 @@
 {
 	"nodes":[
-		{"id":"00240d1c73c6864c","x":-160,"y":-41,"width":250,"height":60,"type":"text","text":"Chi　「支 」"}
+		{"id":"00240d1c73c6864c","type":"text","text":"Chi　「支 」","x":-160,"y":-41,"width":250,"height":60},
+		{"id":"ab8dbafd04ca0d5e","type":"text","text":"- Chi (chống đỡ, nhánh, hỗ trợ)\n- Đồng thời là thành phần biểu âm","x":-740,"y":-100,"width":324,"height":89},
+		{"id":"1b55b3902e9afc71","type":"text","text":"技 - Kĩ","x":200,"y":-185,"width":250,"height":60},
+		{"id":"0622fb21f5ce780c","type":"text","text":"- Kỹ thuật\n- Kỹ năng\n- Chiêu thức, tuyệt kỹ\n- Tay nghề","x":584,"y":-200,"width":261,"height":135},
+		{"id":"6af59b1c146ef5cf","type":"text","text":"- 技術（ぎじゅつ）: kỹ thuật\n- 技能（ぎのう）: kỹ năng\n- 技巧（ぎこう）: khéo léo, tinh xảo\n- 競技（きょうぎ）: thi đấu, thể thao","x":979,"y":-200,"width":337,"height":147},
+		{"id":"19a83ac03739824a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ　「手 (扌) 」.canvas","x":-20,"y":-300,"width":140,"height":77},
+		{"id":"4501fd5d636bb19e","type":"text","text":"> Dùng tay (扌) để thực hiện một thao tác “đỡ – chống – điều khiển” (支)\n\n⇒ tạo ra **kỹ thuật, kỹ năng**","x":612,"y":-404,"width":568,"height":104},
+		{"id":"5c0207e90ead9146","type":"text","text":"ギ・わざ","x":612,"y":-560,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c9ec3faf33d03191","fromNode":"00240d1c73c6864c","fromSide":"left","toNode":"ab8dbafd04ca0d5e","toSide":"right"},
+		{"id":"24ebf87ed761ea3e","fromNode":"1b55b3902e9afc71","fromSide":"right","toNode":"0622fb21f5ce780c","toSide":"left"},
+		{"id":"515be7c61096c8c1","fromNode":"0622fb21f5ce780c","fromSide":"right","toNode":"6af59b1c146ef5cf","toSide":"left"},
+		{"id":"abfe0b61f5d3ec62","fromNode":"00240d1c73c6864c","fromSide":"right","toNode":"1b55b3902e9afc71","toSide":"left"},
+		{"id":"afeabf09e96ae5fc","fromNode":"19a83ac03739824a","fromSide":"right","toNode":"1b55b3902e9afc71","toSide":"left"},
+		{"id":"aaa1a7585978b969","fromNode":"1b55b3902e9afc71","fromSide":"right","toNode":"4501fd5d636bb19e","toSide":"left"},
+		{"id":"40c98761239f8002","fromNode":"1b55b3902e9afc71","fromSide":"right","toNode":"5c0207e90ead9146","toSide":"left"}
+	]
 }

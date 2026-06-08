@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"ed6f7c0a5d50e067","x":-148,"y":-46,"width":250,"height":60,"type":"text","text":"Thần　「臣」"},
-		{"id":"92b1b686658c708b","x":235,"y":-106,"width":250,"height":60,"type":"text","text":"bề tôi"}
+		{"id":"ed6f7c0a5d50e067","type":"text","text":"Thần　「臣」","x":-148,"y":-46,"width":250,"height":60},
+		{"id":"92b1b686658c708b","type":"text","text":"bề tôi","x":-480,"y":-200,"width":250,"height":60},
+		{"id":"afe4d9efbe5bf2b5","x":-680,"y":0,"width":270,"height":160,"type":"text","text":"- Là hình con mắt nhìn nghiêng / người bị trói nhìn xuống trong chữ cổ\n- Nghĩa liên quan: nhìn, giám sát, phục tùng"}
 	],
 	"edges":[
-		{"id":"0def273772a459f3","fromNode":"ed6f7c0a5d50e067","fromSide":"right","toNode":"92b1b686658c708b","toSide":"left"}
+		{"id":"922d670972e7942d","fromNode":"ed6f7c0a5d50e067","fromSide":"left","toNode":"92b1b686658c708b","toSide":"right"},
+		{"id":"283d6c14a1985a6f","fromNode":"ed6f7c0a5d50e067","fromSide":"left","toNode":"afe4d9efbe5bf2b5","toSide":"right"}
 	]
 }

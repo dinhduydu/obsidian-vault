@@ -10,12 +10,15 @@
 		{"id":"26171c020faa6434","type":"text","text":"効　「Hiệu」：","x":180,"y":-186,"width":250,"height":60},
 		{"id":"4191613de0eff494","type":"text","text":"幼　「Ấu」：","x":180,"y":-340,"width":250,"height":60},
 		{"id":"375ff29e8433ebc0","type":"text","text":"務（む・つと）「Vụ」：","x":180,"y":-820,"width":250,"height":60},
-		{"id":"21e4f06d4bdf06c4","x":700,"y":-1260,"width":250,"height":147,"type":"text","text":"nhiệm vụ\ncông việc\ntrách nhiệm\nđảm nhiệm / làm việc gì đó"},
-		{"id":"5f6e5a1fcb6c1474","x":700,"y":-1040,"width":300,"height":180,"type":"text","text":"\nオン: ム\nくん:\nつとめる（務める） = đảm nhiệm, làm nhiệm vụ\nつとまる（務まる） = có thể đảm đương được"},
-		{"id":"b0d21307576b52d3","x":729,"y":-728,"width":311,"height":168,"type":"text","text":"勤務（きんむ）: công tác, làm việc\n義務（ぎむ）: nghĩa vụ\n事務（じむ）: công việc văn phòng\n任務（にんむ）: nhiệm vụ\n公務員（こうむいん）: công chức"},
-		{"id":"4ff8bf8e12e917e2","x":1193,"y":-419,"width":387,"height":119,"type":"text","text":"会社で事務を務めている。\n→ Tôi làm công việc văn phòng ở công ty.\nこの仕事は私には務まらない。\n→ Công việc này tôi không cáng đáng nổi."},
-		{"id":"28050cc24929cca2","x":1262,"y":-692,"width":250,"height":96,"type":"text","text":"勤務 = đi làm/công tác\n任務 = nhiệm vụ được giao\n役割 = vai trò"},
-		{"id":"b11fd9c7b0589138","x":1580,"y":-880,"width":250,"height":165,"type":"text","text":"\n勤 → nhấn mạnh “siêng năng / đi làm”\n務 → nhấn mạnh “trách nhiệm, nhiệm vụ”\n役 → vai trò, vai diễn, chức năng"}
+		{"id":"21e4f06d4bdf06c4","type":"text","text":"nhiệm vụ\ncông việc\ntrách nhiệm\nđảm nhiệm / làm việc gì đó","x":700,"y":-1260,"width":250,"height":147},
+		{"id":"5f6e5a1fcb6c1474","type":"text","text":"\nオン: ム\nくん:\nつとめる（務める） = đảm nhiệm, làm nhiệm vụ\nつとまる（務まる） = có thể đảm đương được","x":700,"y":-1040,"width":300,"height":180},
+		{"id":"b0d21307576b52d3","type":"text","text":"勤務（きんむ）: công tác, làm việc\n義務（ぎむ）: nghĩa vụ\n事務（じむ）: công việc văn phòng\n任務（にんむ）: nhiệm vụ\n公務員（こうむいん）: công chức","x":729,"y":-728,"width":311,"height":168},
+		{"id":"4ff8bf8e12e917e2","type":"text","text":"会社で事務を務めている。\n→ Tôi làm công việc văn phòng ở công ty.\nこの仕事は私には務まらない。\n→ Công việc này tôi không cáng đáng nổi.","x":1193,"y":-419,"width":387,"height":119},
+		{"id":"28050cc24929cca2","type":"text","text":"勤務 = đi làm/công tác\n任務 = nhiệm vụ được giao\n役割 = vai trò","x":1262,"y":-692,"width":250,"height":96},
+		{"id":"b11fd9c7b0589138","type":"text","text":"\n勤 → nhấn mạnh “siêng năng / đi làm”\n務 → nhấn mạnh “trách nhiệm, nhiệm vụ”\n役 → vai trò, vai diễn, chức năng","x":1580,"y":-880,"width":250,"height":165},
+		{"id":"3f5cb1622ed1c26c","x":180,"y":40,"width":250,"height":60,"type":"text","text":"勇 - Dũng"},
+		{"id":"726cbfd0602bf1c4","x":560,"y":-40,"width":250,"height":60,"type":"text","text":"勇　「いさむ」："},
+		{"id":"8dab26e733789503","x":560,"y":70,"width":409,"height":96,"type":"text","text":"- 勇気（ゆうき）: dũng khí\n- 勇敢（ゆうかん）: dũng cảm\n- 勇者（ゆうしゃ）: người dũng cảm / anh hùng"}
 	],
 	"edges":[
 		{"id":"82cb26843812cc35","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"4191613de0eff494","toSide":"left"},
@@ -32,6 +35,9 @@
 		{"id":"f292721a28ebed82","fromNode":"375ff29e8433ebc0","fromSide":"right","toNode":"b0d21307576b52d3","toSide":"left","label":"Từ vựng thường gặp"},
 		{"id":"302d7388cd18f7b1","fromNode":"375ff29e8433ebc0","fromSide":"right","toNode":"b11fd9c7b0589138","toSide":"left","label":"Phân biệt"},
 		{"id":"6e2ce1fcfb07d3a5","fromNode":"b0d21307576b52d3","fromSide":"right","toNode":"28050cc24929cca2","toSide":"left","label":"務"},
-		{"id":"2e0256b7d183fcc0","fromNode":"b0d21307576b52d3","fromSide":"right","toNode":"4ff8bf8e12e917e2","toSide":"left","label":"務"}
+		{"id":"2e0256b7d183fcc0","fromNode":"b0d21307576b52d3","fromSide":"right","toNode":"4ff8bf8e12e917e2","toSide":"left","label":"務"},
+		{"id":"e51eb9951ddbdcaf","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"3f5cb1622ed1c26c","toSide":"left"},
+		{"id":"7cb3baa86be5b99e","fromNode":"3f5cb1622ed1c26c","fromSide":"right","toNode":"726cbfd0602bf1c4","toSide":"left"},
+		{"id":"ae709df49c25e425","fromNode":"3f5cb1622ed1c26c","fromSide":"right","toNode":"8dab26e733789503","toSide":"left"}
 	]
 }

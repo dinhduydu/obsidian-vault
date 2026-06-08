@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"fb377bf21125ec78","x":-81,"y":-42,"width":250,"height":60,"type":"text","text":"Khiếm　「欠 」"},
-		{"id":"45e097f2c06f84bd","x":341,"y":-134,"width":250,"height":60,"type":"text","text":"次 - Thứ"}
+		{"id":"fb377bf21125ec78","type":"text","text":"Khiếm　「欠 」","x":-340,"y":-760,"width":250,"height":60},
+		{"id":"da5844217ed18fdc","type":"text","text":"Có yếu tố “đang chuyển tiếp” (冫 biểu thị trạng thái dòng chảy/biến đổi nhẹ trong nhiều chữ)","x":0,"y":-561,"width":250,"height":132},
+		{"id":"a98ac57029a2c5f0","type":"text","text":"次 - Thứ","x":562,"y":-660,"width":250,"height":60},
+		{"id":"c58d32b3e3f49c19","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":944,"y":-700,"width":240,"height":140},
+		{"id":"0af3399199348a99","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":1384,"y":-700,"width":336,"height":139},
+		{"id":"62475c9eca0b3b15","x":-380,"y":-547,"width":253,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」.canvas"}
 	],
 	"edges":[
-		{"id":"6bd6aaa3f435bb49","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"45e097f2c06f84bd","toSide":"left"}
+		{"id":"5ee81a036e0e4d4a","fromNode":"da5844217ed18fdc","fromSide":"right","toNode":"a98ac57029a2c5f0","toSide":"left","color":"1"},
+		{"id":"ac189a8bf3e41e53","fromNode":"a98ac57029a2c5f0","fromSide":"right","toNode":"c58d32b3e3f49c19","toSide":"left"},
+		{"id":"e478adee16d43d70","fromNode":"c58d32b3e3f49c19","fromSide":"right","toNode":"0af3399199348a99","toSide":"left"},
+		{"id":"2822230d1e19aecb","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"a98ac57029a2c5f0","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
+		{"id":"31b9ff446d06340c","fromNode":"62475c9eca0b3b15","fromSide":"right","toNode":"da5844217ed18fdc","toSide":"left"}
 	]
 }

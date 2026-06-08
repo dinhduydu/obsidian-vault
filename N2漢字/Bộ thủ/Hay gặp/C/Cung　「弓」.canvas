@@ -11,11 +11,13 @@
 		{"id":"1742dd6bc0e0a335","type":"text","text":"強さ","x":645,"y":-1241,"width":250,"height":60},
 		{"id":"ef0bfd5c5279c0dd","type":"text","text":"強み","x":645,"y":-1070,"width":250,"height":60},
 		{"id":"c4d32004e1fcb943","type":"text","text":"長引く","x":429,"y":726,"width":250,"height":60},
-		{"id":"b770f06fd701fe3e","x":1051,"y":-288,"width":369,"height":55,"type":"text","text":"ぼくは選手を**引退**することにした。"},
+		{"id":"b770f06fd701fe3e","type":"text","text":"ぼくは選手を**引退**することにした。","x":1051,"y":-288,"width":369,"height":55},
 		{"id":"3b9ed071f517392a","type":"text","text":"dành, giật, kéo lại, lôi cuốn; thu hút","x":986,"y":116,"width":250,"height":60},
 		{"id":"59101c0d2cd2cbe3","type":"text","text":"Nhăn; nhăn nhó","x":956,"y":341,"width":250,"height":60},
 		{"id":"a10d552b4391861e","type":"text","text":"引きつり","x":554,"y":540,"width":250,"height":60},
-		{"id":"5d099d3483076b02","x":1020,"y":-458,"width":627,"height":50,"type":"text","text":"自分が便秘なのに、地球の**引力**が足りないとでたらめに文句を言う人がいる。"}
+		{"id":"5d099d3483076b02","type":"text","text":"自分が便秘なのに、地球の**引力**が足りないとでたらめに文句を言う人がいる。","x":1020,"y":-458,"width":627,"height":50},
+		{"id":"61e2f9ae4f8387d3","type":"text","text":"強盗　「ごうとう」：cướp","x":1040,"y":-1241,"width":250,"height":60},
+		{"id":"c1affc7fb27e7444","x":800,"y":-1420,"width":132,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」.canvas"}
 	],
 	"edges":[
 		{"id":"7b4c2337363032c0","fromNode":"6d00caf2bef75978","fromSide":"right","toNode":"9a9bbdd147bde583","toSide":"left"},
@@ -32,6 +34,8 @@
 		{"id":"66bfaba99c8717f9","fromNode":"adc26425bff83e57","fromSide":"right","toNode":"b770f06fd701fe3e","toSide":"left"},
 		{"id":"4ca1c632e18f0da3","fromNode":"d539762857cd3c3c","fromSide":"right","toNode":"3b9ed071f517392a","toSide":"left"},
 		{"id":"4c19afb922938a9f","fromNode":"50b9300a616aa4bf","fromSide":"right","toNode":"59101c0d2cd2cbe3","toSide":"left"},
-		{"id":"46526cd6e4ce8a71","fromNode":"d0e9ea697934afe0","fromSide":"right","toNode":"5d099d3483076b02","toSide":"left"}
+		{"id":"46526cd6e4ce8a71","fromNode":"d0e9ea697934afe0","fromSide":"right","toNode":"5d099d3483076b02","toSide":"left"},
+		{"id":"4c60332077715f03","fromNode":"1742dd6bc0e0a335","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"},
+		{"id":"4a7418b3213abe2b","fromNode":"c1affc7fb27e7444","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"}
 	]
 }

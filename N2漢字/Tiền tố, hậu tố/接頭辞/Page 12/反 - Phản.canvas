@@ -1,155 +1,27 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 860,
-      "height": 460,
-      "text": "# 反～（はん～）\n\n📚 Hán Việt: PHẢN（反）\n\n⚖️ Ý nghĩa trung tâm:\n👉 phản đối • đối lập • chống lại\n\n📌 Sắc thái:\n- đi ngược lại một xu hướng\n- chống lại hệ thống / quy tắc\n- phản ứng ngược"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 760,
-      "height": 780,
-      "text": "# Ý nghĩa\n\n🧠 反 mang nghĩa:\n- phản đối\n- đối lập\n- chống lại\n\n➡️ Gần nghĩa:\n- anti\n- counter\n- opposite\n\n📌 Hay dùng trong:\n- chính trị\n- khoa học\n- xã hội"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 320,
-      "width": 920,
-      "height": 620,
-      "text": "# 反革命（はんかくめい）\n\n⚔️ Phản cách mạng\n\n📚 Hán Việt:\n- 反 = phản\n- 革命 = cách mạng\n\n💡 Nghĩa:\n- chống lại phong trào cách mạng\n\n📌 Dùng trong:\n- lịch sử\n- chính trị"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 1000,
-      "width": 920,
-      "height": 620,
-      "text": "# 反作用（はんさよう）\n\n🔄 Phản tác dụng\n\n📚 Hán Việt:\n- 反 = phản\n- 作用 = tác dụng\n\n💡 Nghĩa:\n- kết quả ngược lại với mong muốn\n\n📌 Ví dụ:\n- thuốc / hành động gây tác dụng ngược"
-    },
-    {
-      "id": "word3",
-      "type": "text",
-      "x": 1940,
-      "y": 1680,
-      "width": 920,
-      "height": 620,
-      "text": "# 反社会的（はんしゃかいてき）\n\n🚫 Phản xã hội\n\n📚 Hán Việt:\n- 反 = phản\n- 社会的 = mang tính xã hội\n\n💡 Nghĩa:\n- hành vi chống lại chuẩn mực xã hội\n\n📌 Dùng trong:\n- pháp luật\n- mô tả hành vi tiêu cực"
-    },
-    {
-      "id": "word4",
-      "type": "text",
-      "x": 2920,
-      "y": 320,
-      "width": 920,
-      "height": 620,
-      "text": "# 反重力（はんじゅうりょく）\n\n🪐 Phản trọng lực\n\n📚 Hán Việt:\n- 反 = phản\n- 重力 = trọng lực\n\n💡 Nghĩa:\n- lực chống lại trọng lực\n\n📌 Dùng trong:\n- khoa học viễn tưởng\n- vật lý giả định"
-    },
-    {
-      "id": "word5",
-      "type": "text",
-      "x": 2920,
-      "y": 1000,
-      "width": 920,
-      "height": 620,
-      "text": "# 反政府（はんせいふ）\n\n🏛️ Phản chính phủ\n\n📚 Hán Việt:\n- 反 = phản\n- 政府 = chính phủ\n\n💡 Nghĩa:\n- chống lại chính quyền\n\n📌 Dùng trong:\n- chính trị\n- tin tức"
-    },
-    {
-      "id": "word6",
-      "type": "text",
-      "x": 2920,
-      "y": 1680,
-      "width": 920,
-      "height": 620,
-      "text": "# 反物質（はんぶっしつ）\n\n🧪 Phản vật chất\n\n📚 Hán Việt:\n- 反 = phản\n- 物質 = vật chất\n\n💡 Nghĩa:\n- vật chất có tính đối ngược với vật chất thường\n\n📌 Dùng trong:\n- vật lý hạt\n- khoa học vũ trụ"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1180,
-      "height": 640,
-      "text": "# Pattern N2\n\n🧩 反 + danh từ\n→ nghĩa: “phản đối / đối lập / chống lại”\n\nVí dụ:\n- 反対 = phản đối\n- 反応 = phản ứng\n- 反射 = phản xạ\n\n📌 Thường dùng trong:\n- chính trị\n- khoa học\n- xã hội"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 1580,
-      "width": 860,
-      "height": 900,
-      "text": "# So sánh nuance\n\n⚖️ 反 = anti / counter / opposite\n\n📌 Liên quan:\n- chống lại\n- đi ngược chiều\n- phản ứng ngược\n\n⚡ Cảm giác:\n『đối lập trực tiếp, mang tính phản kháng hoặc phản ứng』"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2700,
-      "width": 1180,
-      "height": 720,
-      "text": "# Memory Hint\n\n🧠 Nhớ 反 bằng hình ảnh:\n↩️ quay ngược lại\n⚔️ đối đầu\n🧪 phản ứng ngược\n\n➡️ Điểm chung:\n『luôn có chiều ngược hoặc đối lập』\n\n📌 Liên tưởng nhanh:\n反 = anti / reverse / against"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "center",
-      "toNode": "word2"
-    },
-    {
-      "id": "e4",
-      "fromNode": "center",
-      "toNode": "word3"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "word4"
-    },
-    {
-      "id": "e6",
-      "fromNode": "center",
-      "toNode": "word5"
-    },
-    {
-      "id": "e7",
-      "fromNode": "center",
-      "toNode": "word6"
-    },
-    {
-      "id": "e8",
-      "fromNode": "center",
-      "toNode": "pattern"
-    },
-    {
-      "id": "e9",
-      "fromNode": "center",
-      "toNode": "compare"
-    },
-    {
-      "id": "e10",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":460,"text":"# 反～（はん～）\n\n📚 Hán Việt: PHẢN（反）\n\n⚖️ Ý nghĩa trung tâm:\n👉 phản đối • đối lập • chống lại\n\n📌 Sắc thái:\n- đi ngược lại một xu hướng\n- chống lại hệ thống / quy tắc\n- phản ứng ngược"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":780,"text":"# Ý nghĩa\n\n🧠 反 mang nghĩa:\n- phản đối\n- đối lập\n- chống lại\n\n➡️ Gần nghĩa:\n- anti\n- counter\n- opposite\n\n📌 Hay dùng trong:\n- chính trị\n- khoa học\n- xã hội"},
+		{"id":"word1","type":"text","x":1940,"y":320,"width":920,"height":620,"text":"# 反革命（はんかくめい）\n\n⚔️ Phản cách mạng\n\n📚 Hán Việt:\n- 反 = phản\n- 革命 = cách mạng\n\n💡 Nghĩa:\n- chống lại phong trào cách mạng\n\n📌 Dùng trong:\n- lịch sử\n- chính trị"},
+		{"id":"word2","type":"text","x":1940,"y":1000,"width":920,"height":620,"text":"# 反作用（はんさよう）\n\n🔄 Phản tác dụng\n\n📚 Hán Việt:\n- 反 = phản\n- 作用 = tác dụng\n\n💡 Nghĩa:\n- kết quả ngược lại với mong muốn\n\n📌 Ví dụ:\n- thuốc / hành động gây tác dụng ngược"},
+		{"id":"word3","type":"text","x":1940,"y":1680,"width":920,"height":620,"text":"# 反社会的（はんしゃかいてき）\n\n🚫 Phản xã hội\n\n📚 Hán Việt:\n- 反 = phản\n- 社会的 = mang tính xã hội\n\n💡 Nghĩa:\n- hành vi chống lại chuẩn mực xã hội\n\n📌 Dùng trong:\n- pháp luật\n- mô tả hành vi tiêu cực"},
+		{"id":"word4","type":"text","x":2920,"y":320,"width":920,"height":620,"text":"# 反重力（はんじゅうりょく）\n\n🪐 Phản trọng lực\n\n📚 Hán Việt:\n- 反 = phản\n- 重力 = trọng lực\n\n💡 Nghĩa:\n- lực chống lại trọng lực\n\n📌 Dùng trong:\n- khoa học viễn tưởng\n- vật lý giả định"},
+		{"id":"word5","type":"text","x":2920,"y":1000,"width":920,"height":620,"text":"# 反政府（はんせいふ）\n\n🏛️ Phản chính phủ\n\n📚 Hán Việt:\n- 反 = phản\n- 政府 = chính phủ\n\n💡 Nghĩa:\n- chống lại chính quyền\n\n📌 Dùng trong:\n- chính trị\n- tin tức"},
+		{"id":"word6","type":"text","x":2920,"y":1680,"width":920,"height":620,"text":"# 反物質（はんぶっしつ）\n\n🧪 Phản vật chất\n\n📚 Hán Việt:\n- 反 = phản\n- 物質 = vật chất\n\n💡 Nghĩa:\n- vật chất có tính đối ngược với vật chất thường\n\n📌 Dùng trong:\n- vật lý hạt\n- khoa học vũ trụ"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":640,"text":"# Pattern N2\n\n🧩 反 + danh từ\n→ nghĩa: “phản đối / đối lập / chống lại”\n\nVí dụ:\n- 反対 = phản đối\n- 反応 = phản ứng\n- 反射 = phản xạ\n\n📌 Thường dùng trong:\n- chính trị\n- khoa học\n- xã hội"},
+		{"id":"compare","type":"text","x":120,"y":1580,"width":860,"height":900,"text":"# So sánh nuance\n\n⚖️ 反 = anti / counter / opposite\n\n📌 Liên quan:\n- chống lại\n- đi ngược chiều\n- phản ứng ngược\n\n⚡ Cảm giác:\n『đối lập trực tiếp, mang tính phản kháng hoặc phản ứng』"},
+		{"id":"memory","type":"text","x":980,"y":2700,"width":1180,"height":720,"text":"# Memory Hint\n\n🧠 Nhớ 反 bằng hình ảnh:\n↩️ quay ngược lại\n⚔️ đối đầu\n🧪 phản ứng ngược\n\n➡️ Điểm chung:\n『luôn có chiều ngược hoặc đối lập』\n\n📌 Liên tưởng nhanh:\n反 = anti / reverse / against"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"word4","fromSide":"right","toSide":"left"},
+		{"id":"e6","fromNode":"center","toNode":"word5","fromSide":"right","toSide":"left"},
+		{"id":"e7","fromNode":"center","toNode":"word6","fromSide":"bottom","toSide":"left"},
+		{"id":"e8","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e9","fromNode":"center","toNode":"compare","fromSide":"bottom","toSide":"top"},
+		{"id":"e10","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

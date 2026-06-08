@@ -15,9 +15,9 @@
               "state": {
                 "file": "N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -566.2985744360508,
+                  "y": -83.2505643736324,
+                  "zoom": 0.1311237199897849
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
                 "viewState": {
-                  "x": 357.54430793471926,
-                  "y": -73.62405783281052,
-                  "zoom": -0.3333333333333334
+                  "x": 247.12208832530305,
+                  "y": 401.31896846302425,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tử (con)　「子」"
+              "title": "Mịch　「糸 」"
             }
           },
           {
@@ -47,19 +47,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」.canvas",
                 "viewState": {
-                  "x": -6,
-                  "y": -45,
-                  "zoom": -0.6666666666666666
+                  "x": 80.19198015847891,
+                  "y": -21.82010632188498,
+                  "zoom": 0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Kích　「敫」"
+              "title": "Phân　「分」"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,19 +208,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d6c18a28b02b00c",
+  "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tên.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tiên.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chi　「支 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」.canvas",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",

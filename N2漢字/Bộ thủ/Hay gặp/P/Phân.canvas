@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"2f98f3b3ac4084aa","x":187,"y":-87,"width":250,"height":60,"type":"text","text":"粉 - Phấn"},
-		{"id":"2b0eeb39af2c2cbb","type":"text","text":"Phân","x":-220,"y":0,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"6c4d2cce04ddbceb","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"2f98f3b3ac4084aa","toSide":"left"}
-	]
-}

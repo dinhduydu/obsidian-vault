@@ -1,14 +1,8 @@
 {
 	"nodes":[
 		{"id":"bd7846c7848a4560","type":"text","text":"Mịch　「糸 」","x":-520,"y":80,"width":250,"height":60},
-		{"id":"c25078adeb008f88","type":"text","text":"緒","x":-26,"y":285,"width":250,"height":60},
-		{"id":"08cda558c0b65793","type":"text","text":"維","x":-25,"y":521,"width":250,"height":60},
 		{"id":"edc5a7f54700356e","type":"text","text":"維持　「**いじ**.」：","x":422,"y":511,"width":250,"height":60},
-		{"id":"1edc15e14d7d88dc","type":"text","text":"績","x":-28,"y":-40,"width":250,"height":60},
 		{"id":"f8f915c014b36d0f","type":"text","text":"成績","x":429,"y":-63,"width":250,"height":60},
-		{"id":"5f93f76e66af54c9","type":"text","text":"締","x":-10,"y":181,"width":250,"height":60},
-		{"id":"0409f92a102955bc","type":"text","text":"経","x":-60,"y":-500,"width":250,"height":60},
-		{"id":"2b4eb117a1027516","type":"text","text":"神経","x":260,"y":-500,"width":250,"height":60},
 		{"id":"3b16a607b2cf4102","type":"text","text":"- duy trì\n- giữ gìn\n- maintain","x":792,"y":485,"width":288,"height":96},
 		{"id":"b9390b42cff94ca9","type":"text","text":"現状を維持する。\n（げんじょう を いじ する。）\nDuy trì hiện trạng.","x":1260,"y":434,"width":284,"height":123},
 		{"id":"651f1406c15a6bd1","type":"text","text":"健康を維持する。\n（けんこう を いじ する。）\nDuy trì sức khỏe.\n","x":1260,"y":640,"width":244,"height":123},
@@ -16,8 +10,16 @@
 		{"id":"db16d4ac5be9c729","type":"text","text":"系　(Hệ)","x":-1360,"y":-60,"width":250,"height":60},
 		{"id":"d9daaa660411cbd6","type":"text","text":"関係","x":-1740,"y":-260,"width":250,"height":60},
 		{"id":"c3e7d894d0b48d4f","type":"text","text":" 夫一人の収入で、この五人家族の生計を**維持**している。","x":792,"y":820,"width":466,"height":60},
-		{"id":"3eb567c4ab9d30d5","type":"text","text":"継","x":-10,"y":-240,"width":250,"height":60},
-		{"id":"c1c596d6238352d2","type":"text","text":"**Bộ thủ:** 糸（いと）– bộ Mịch  \nLiên quan đến sợi chỉ, sự nối kết.","x":-815,"y":-340,"width":250,"height":142}
+		{"id":"c1c596d6238352d2","type":"text","text":"**Bộ thủ:** 糸（いと）– bộ Mịch  \nLiên quan đến sợi chỉ, sự nối kết.","x":-815,"y":-340,"width":250,"height":142},
+		{"id":"08cda558c0b65793","type":"text","text":"維 - Duy","x":-28,"y":511,"width":250,"height":60},
+		{"id":"2ab9a4db44cac674","type":"text","text":"納 - Nạp","x":-28,"y":360,"width":250,"height":60},
+		{"id":"efa0abc76accabf1","type":"text","text":"納得　「なっとく」：","x":422,"y":360,"width":250,"height":60},
+		{"id":"c25078adeb008f88","type":"text","text":"緒 - Tự","x":-28,"y":220,"width":250,"height":60},
+		{"id":"5f93f76e66af54c9","type":"text","text":"締 - Đế","x":-28,"y":80,"width":250,"height":60},
+		{"id":"1edc15e14d7d88dc","type":"text","text":"績 - Tích","x":-28,"y":-63,"width":250,"height":60},
+		{"id":"3eb567c4ab9d30d5","type":"text","text":"継 - Kế","x":-28,"y":-240,"width":250,"height":60},
+		{"id":"0409f92a102955bc","type":"text","text":"経 - Kinh","x":-28,"y":-420,"width":250,"height":60},
+		{"id":"2b4eb117a1027516","type":"text","text":"神経","x":340,"y":-420,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9b9f078448643fc5","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"0409f92a102955bc","toSide":"left"},
@@ -36,6 +38,8 @@
 		{"id":"040fd90a357d607a","fromNode":"bd0238be7da0d587","fromSide":"left","toNode":"db16d4ac5be9c729","toSide":"right"},
 		{"id":"61dece47991a854d","fromNode":"edc5a7f54700356e","fromSide":"right","toNode":"c3e7d894d0b48d4f","toSide":"left"},
 		{"id":"8b14f954aefb4876","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"3eb567c4ab9d30d5","toSide":"left"},
-		{"id":"06f27bf331bc9d67","fromNode":"bd0238be7da0d587","fromSide":"top","toNode":"c1c596d6238352d2","toSide":"bottom"}
+		{"id":"06f27bf331bc9d67","fromNode":"bd0238be7da0d587","fromSide":"top","toNode":"c1c596d6238352d2","toSide":"bottom"},
+		{"id":"c48463a84098c1b3","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"2ab9a4db44cac674","toSide":"left"},
+		{"id":"c68137a0743b60e8","fromNode":"2ab9a4db44cac674","fromSide":"right","toNode":"efa0abc76accabf1","toSide":"left"}
 	]
 }
