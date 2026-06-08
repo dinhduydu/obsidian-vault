@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas",
                 "viewState": {
-                  "x": 2187.148381382823,
-                  "y": 477.52438530455737,
-                  "zoom": 0.6666666666666667
+                  "x": -6,
+                  "y": -45,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thỉ　「豕」"
+              "title": "Kích　「敫」"
             }
           }
         ],
@@ -210,8 +210,10 @@
   },
   "active": "0d6c18a28b02b00c",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas",
@@ -219,8 +221,6 @@
     "N2漢字/Bộ thủ/Hay gặp/T/Tên.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Tiên.canvas",
     "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",

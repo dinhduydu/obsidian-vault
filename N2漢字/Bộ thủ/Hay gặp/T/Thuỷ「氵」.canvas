@@ -26,7 +26,12 @@
 		{"id":"9cf54298ba0e37e0","type":"text","text":"Bến cảng","x":273,"y":-1494,"width":250,"height":60},
 		{"id":"9fed4d439cd258f3","type":"text","text":"港","x":690,"y":-1500,"width":250,"height":60},
 		{"id":"a15ab4a24fe70d6f","type":"text","text":"津 - Tân","x":-30,"y":-1440,"width":250,"height":60},
-		{"id":"2665ebf482398149","type":"text","text":"津波","x":315,"y":-1340,"width":250,"height":60}
+		{"id":"2665ebf482398149","type":"text","text":"津波","x":315,"y":-1340,"width":250,"height":60},
+		{"id":"2b8075eeb2dd6485","type":"text","text":"激 - Kích","x":-132,"y":-1942,"width":250,"height":60},
+		{"id":"58fc20e1004ee655","type":"text","text":"Dòng nước chảy mạnh, va đập dữ dội.","x":285,"y":-2234,"width":250,"height":60},
+		{"id":"6d8af9a8957d69f8","type":"text","text":"- mãnh liệt,\n- gay gắt,\n- kích động.","x":654,"y":-2265,"width":250,"height":105},
+		{"id":"c85ad1c3538b334e","type":"text","text":"- Mãnh liệt, dữ dội.\n- Kích động, làm cho mạnh lên.\n- Cực kỳ mạnh, gay gắt.","x":654,"y":-2120,"width":250,"height":137},
+		{"id":"6fb297cc40837cf8","x":-500,"y":-2180,"width":159,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left"},
@@ -56,6 +61,11 @@
 		{"id":"e1b5471387ffd9fc","fromNode":"9cf54298ba0e37e0","fromSide":"right","toNode":"9fed4d439cd258f3","toSide":"left"},
 		{"id":"24d45af17a88e518","fromNode":"a15ab4a24fe70d6f","fromSide":"right","toNode":"9cf54298ba0e37e0","toSide":"left"},
 		{"id":"0308dd2d7f720699","fromNode":"a15ab4a24fe70d6f","fromSide":"right","toNode":"2665ebf482398149","toSide":"left"},
-		{"id":"5b2e6e2b01f27e36","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"a15ab4a24fe70d6f","toSide":"left"}
+		{"id":"5b2e6e2b01f27e36","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"a15ab4a24fe70d6f","toSide":"left"},
+		{"id":"38f3dd50fc89fdce","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"2b8075eeb2dd6485","toSide":"left"},
+		{"id":"9ca42dd568b0efcd","fromNode":"2b8075eeb2dd6485","fromSide":"right","toNode":"58fc20e1004ee655","toSide":"left"},
+		{"id":"2ea144d08cb31466","fromNode":"58fc20e1004ee655","fromSide":"right","toNode":"6d8af9a8957d69f8","toSide":"left"},
+		{"id":"e97932d3b454e6ae","fromNode":"58fc20e1004ee655","fromSide":"right","toNode":"c85ad1c3538b334e","toSide":"left"},
+		{"id":"036fd84210a7ee77","fromNode":"6fb297cc40837cf8","fromSide":"right","toNode":"2b8075eeb2dd6485","toSide":"left"}
 	]
 }
