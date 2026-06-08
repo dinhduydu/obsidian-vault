@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5dcf2a6feac53e0e","type":"text","text":"Huynh　「兄」","x":-145,"y":-48,"width":250,"height":60},
+		{"id":"3fde45f0b4e8450b","type":"text","text":"説 - Thuyết","x":253,"y":-101,"width":250,"height":60},
+		{"id":"a3e3cc12df251eab","type":"text","text":"祝 - Chúc","x":284,"y":-513,"width":250,"height":60},
+		{"id":"6f0b3f0aa97f2114","type":"text","text":"Thực hiện nghi lễ trước thần linh (礻) để cầu điều tốt đẹp → **chúc mừng, chúc phúc**.","x":695,"y":-562,"width":656,"height":50},
+		{"id":"bbf0d79587b3551d","type":"text","text":"**Nghĩa:**\n\n- Chúc mừng.\n- Chúc phúc.\n- Cầu mong điều tốt đẹp.","x":1466,"y":-606,"width":325,"height":153},
+		{"id":"37e1b0ab3bb933eb","x":-60,"y":-680,"width":136,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas"}
+	],
+	"edges":[
+		{"id":"a97e2219d4c79f6b","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"3fde45f0b4e8450b","toSide":"left"},
+		{"id":"6ba84c4a24f50c2a","fromNode":"37e1b0ab3bb933eb","fromSide":"right","toNode":"a3e3cc12df251eab","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
+		{"id":"994606a80ef4dab5","fromNode":"a3e3cc12df251eab","fromSide":"right","toNode":"6f0b3f0aa97f2114","toSide":"left"},
+		{"id":"d62557e9c3332537","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"a3e3cc12df251eab","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
+		{"id":"c4c2e78470bb5ef6","fromNode":"6f0b3f0aa97f2114","fromSide":"right","toNode":"bbf0d79587b3551d","toSide":"left"}
+	]
+}

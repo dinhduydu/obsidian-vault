@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"5dcf2a6feac53e0e","x":-145,"y":-48,"width":250,"height":60,"type":"text","text":"Huynh"},
-		{"id":"3fde45f0b4e8450b","x":253,"y":-101,"width":250,"height":60,"type":"text","text":"説 - Thuyết"}
-	],
-	"edges":[
-		{"id":"a97e2219d4c79f6b","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"3fde45f0b4e8450b","toSide":"left"}
-	]
-}

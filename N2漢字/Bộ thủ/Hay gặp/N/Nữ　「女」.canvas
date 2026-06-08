@@ -1,1 +1,21 @@
-{}
+{
+	"nodes":[
+		{"id":"5678b24a4b785455","x":-112,"y":-20,"width":250,"height":60,"type":"text","text":"Nữ　「女」"},
+		{"id":"f5031809a95c5e36","x":373,"y":-182,"width":250,"height":60,"type":"text","text":"好 - Hảo"},
+		{"id":"6e3fad1aa4ff79bf","x":761,"y":-294,"width":250,"height":60,"type":"text","text":"好調　「こうちょう」："},
+		{"id":"60bd73febaa52136","x":1161,"y":-369,"width":250,"height":135,"type":"text","text":"- Tình trạng tốt.\n- Diễn biến thuận lợi.\n- Phong độ tốt, hoạt động hiệu quả."},
+		{"id":"8c9470810cd36e1d","x":1621,"y":-479,"width":279,"height":178,"type":"text","text":"- Sức khỏe\n- Công việc\n- Kinh doanh\n- Máy móc\n- Thành tích thể thao"},
+		{"id":"e3455f36620d0f26","x":2200,"y":-673,"width":280,"height":304,"type":"text","text":"今年の売り上げは好調だ。\n→ Doanh số năm nay rất khả quan.\nチームは好調を維持している。\n→ Đội bóng đang duy trì phong độ tốt.\nエンジンは好調に動いている。\n→ Động cơ đang hoạt động tốt.\n景気は好調だ。\n→ Tình hình kinh tế đang thuận lợi."},
+		{"id":"f1653752e2cc71f9","x":761,"y":-673,"width":370,"height":121,"type":"text","text":"- 好き（すき）: thích\n- 好意（こうい）: thiện ý\n- 好物（こうぶつ）: món khoái khẩu"},
+		{"id":"a4ce7e2911bb52a0","x":79,"y":-352,"width":118,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas"}
+	],
+	"edges":[
+		{"id":"72e213b19bac3ad6","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"f5031809a95c5e36","toSide":"left"},
+		{"id":"e2ff5ae2161c2653","fromNode":"f5031809a95c5e36","fromSide":"right","toNode":"6e3fad1aa4ff79bf","toSide":"left"},
+		{"id":"14c7230285d4735f","fromNode":"6e3fad1aa4ff79bf","fromSide":"right","toNode":"60bd73febaa52136","toSide":"left"},
+		{"id":"27f39e173b29cd9d","fromNode":"60bd73febaa52136","fromSide":"right","toNode":"8c9470810cd36e1d","toSide":"left"},
+		{"id":"909f1bad8c96394f","fromNode":"8c9470810cd36e1d","fromSide":"right","toNode":"e3455f36620d0f26","toSide":"left"},
+		{"id":"73595c4e3f21e561","fromNode":"f5031809a95c5e36","fromSide":"right","toNode":"f1653752e2cc71f9","toSide":"left"},
+		{"id":"c499397c984d6380","fromNode":"a4ce7e2911bb52a0","fromSide":"right","toNode":"f5031809a95c5e36","toSide":"left"}
+	]
+}

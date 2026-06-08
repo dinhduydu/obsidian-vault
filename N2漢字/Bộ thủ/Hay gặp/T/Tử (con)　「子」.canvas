@@ -1,9 +1,21 @@
 {
 	"nodes":[
-		{"id":"5c7078c152910506","type":"text","text":"Tử (con)　「子」","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"e636fe577ee85846","x":246,"y":-78,"width":250,"height":60,"type":"text","text":"浮"}
+		{"id":"e636fe577ee85846","type":"text","text":"浮","x":246,"y":-78,"width":250,"height":60},
+		{"id":"5c7078c152910506","type":"text","text":"Tử (con)　「子」","x":-200,"y":-18,"width":250,"height":60},
+		{"id":"bfee9042bc83067e","type":"text","text":"好 - Hảo","x":246,"y":-269,"width":250,"height":60},
+		{"id":"e3ce744ddad02d86","type":"text","text":"好調　「こうちょう」：","x":634,"y":-381,"width":250,"height":60},
+		{"id":"840566d3b4e24b86","type":"text","text":"- Tình trạng tốt.\n- Diễn biến thuận lợi.\n- Phong độ tốt, hoạt động hiệu quả.","x":1034,"y":-456,"width":250,"height":135},
+		{"id":"9ed0fee06c183649","type":"text","text":"- Sức khỏe\n- Công việc\n- Kinh doanh\n- Máy móc\n- Thành tích thể thao","x":1494,"y":-566,"width":279,"height":178},
+		{"id":"95f17f794bba245e","type":"text","text":"今年の売り上げは好調だ。\n→ Doanh số năm nay rất khả quan.\nチームは好調を維持している。\n→ Đội bóng đang duy trì phong độ tốt.\nエンジンは好調に動いている。\n→ Động cơ đang hoạt động tốt.\n景気は好調だ。\n→ Tình hình kinh tế đang thuận lợi.","x":2073,"y":-760,"width":280,"height":304},
+		{"id":"a5f0c5c0b3c5fbb2","type":"text","text":"- 好き（すき）: thích\n- 好意（こうい）: thiện ý\n- 好物（こうぶつ）: món khoái khẩu","x":634,"y":-760,"width":370,"height":121}
 	],
 	"edges":[
-		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"e636fe577ee85846","toSide":"left"}
+		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"e636fe577ee85846","toSide":"left"},
+		{"id":"662db4ad0ea42197","fromNode":"bfee9042bc83067e","fromSide":"right","toNode":"e3ce744ddad02d86","toSide":"left"},
+		{"id":"ad71d577affabdd6","fromNode":"bfee9042bc83067e","fromSide":"right","toNode":"a5f0c5c0b3c5fbb2","toSide":"left"},
+		{"id":"489fefe06ad066d2","fromNode":"e3ce744ddad02d86","fromSide":"right","toNode":"840566d3b4e24b86","toSide":"left"},
+		{"id":"4c11be21bd270f17","fromNode":"840566d3b4e24b86","fromSide":"right","toNode":"9ed0fee06c183649","toSide":"left"},
+		{"id":"5ed82f07c1ac3f53","fromNode":"9ed0fee06c183649","fromSide":"right","toNode":"95f17f794bba245e","toSide":"left"},
+		{"id":"e1e7678174dae7ae","fromNode":"5c7078c152910506","fromSide":"right","toNode":"bfee9042bc83067e","toSide":"left"}
 	]
 }

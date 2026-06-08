@@ -1,13 +1,41 @@
 {
 	"nodes":[
-		{"id":"7fb4176a9289dc09","type":"text","text":"Thị (chỉ)　「示 (礻) 」","x":-236,"y":-18,"width":250,"height":60},
-		{"id":"2c236641a32a4006","x":220,"y":-354,"width":400,"height":396,"type":"file","file":"Pasted image 20260526003823.png"},
-		{"id":"cb69bbc52327f398","x":-859,"y":-177,"width":250,"height":60,"type":"text","text":"chỉ thần thánh"},
-		{"id":"9885345525516b37","x":833,"y":-285,"width":250,"height":60,"type":"text","text":"礼　「れい」： chỉ đồ cúng, dâng lễ cho thần thánh"}
+		{"id":"0b99e1e304ccc5e1","type":"text","text":"祝 - Chúc","x":193,"y":189,"width":250,"height":60},
+		{"id":"54299038a440bc93","type":"text","text":"礼 - Lễ","x":220,"y":-255,"width":250,"height":60},
+		{"id":"9885345525516b37","type":"text","text":"礼　「れい」： chỉ đồ cúng, dâng lễ cho thần thánh","x":873,"y":-315,"width":250,"height":60},
+		{"id":"2c236641a32a4006","type":"file","file":"Pasted image 20260526003823.png","x":580,"y":-372,"width":177,"height":175},
+		{"id":"c209ff5d8cf14ca7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas","x":-80,"y":380,"width":130,"height":114},
+		{"id":"146d75329e368ad5","type":"text","text":"Thực hiện nghi lễ trước thần linh (礻) để cầu điều tốt đẹp → **chúc mừng, chúc phúc**.","x":604,"y":140,"width":656,"height":50},
+		{"id":"10b03ccb0558c6ee","type":"text","text":"**Nghĩa:**\n\n- Chúc mừng.\n- Chúc phúc.\n- Cầu mong điều tốt đẹp.","x":1375,"y":96,"width":325,"height":153},
+		{"id":"9236855b7217e519","type":"text","text":"祝う\tいわう\tchúc mừng\n祝日\tしゅくじつ\tngày lễ\n祝福\tしゅくふく\tchúc phúc\n祝賀\tしゅくが\tchúc mừng, mừng lễ\n祝辞\tしゅくじ\tlời chúc mừng\n祝い\tいわい\tlễ mừng, quà mừng","x":660,"y":320,"width":346,"height":189},
+		{"id":"7fb4176a9289dc09","type":"text","text":"Thị (chỉ)　「示 (礻) 」","x":-640,"y":-257,"width":250,"height":60},
+		{"id":"cb69bbc52327f398","type":"text","text":"chỉ thần thánh, **thần linh, tín ngưỡng, nghi lễ, cầu phúc**.","x":-1120,"y":-344,"width":250,"height":60},
+		{"id":"910948422631203b","type":"text","text":"社 - Xã","x":0,"y":-1057,"width":180,"height":60},
+		{"id":"8dde1f26d216f5b2","type":"text","text":"đền thờ, công ty","x":294,"y":-1164,"width":250,"height":60},
+		{"id":"81568c01dd04d041","x":6,"y":-609,"width":250,"height":60,"type":"text","text":"神 - Thần"},
+		{"id":"53a8a2085cfaecaa","x":29,"y":-455,"width":250,"height":60,"type":"text","text":"祖 - Tổ"},
+		{"id":"30b66edf3d9addf3","x":29,"y":-822,"width":250,"height":60,"type":"text","text":"祭 - Tế/Sái"},
+		{"id":"555f8e64aacf5d66","x":5,"y":-1381,"width":250,"height":60,"type":"text","text":"福 - Phúc"},
+		{"id":"cf9c5c7035d467d1","x":-8,"y":-1607,"width":250,"height":60,"type":"text","text":"祈 - Kì"},
+		{"id":"b9c7891c7cfd23fc","x":378,"y":-1658,"width":250,"height":60,"type":"text","text":"cầu phúc"}
 	],
 	"edges":[
-		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"2c236641a32a4006","toSide":"left"},
+		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"54299038a440bc93","toSide":"left"},
 		{"id":"8a2012731dfccdd3","fromNode":"7fb4176a9289dc09","fromSide":"left","toNode":"cb69bbc52327f398","toSide":"right"},
-		{"id":"48363219fa330c23","fromNode":"2c236641a32a4006","fromSide":"right","toNode":"9885345525516b37","toSide":"left"}
+		{"id":"48363219fa330c23","fromNode":"2c236641a32a4006","fromSide":"right","toNode":"9885345525516b37","toSide":"left"},
+		{"id":"8cb44d6faa6ab969","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"0b99e1e304ccc5e1","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
+		{"id":"13566c2337fb75ca","fromNode":"54299038a440bc93","fromSide":"right","toNode":"2c236641a32a4006","toSide":"left"},
+		{"id":"0a6c6808ee787bd3","fromNode":"c209ff5d8cf14ca7","fromSide":"right","toNode":"0b99e1e304ccc5e1","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
+		{"id":"647d3236930b3334","fromNode":"0b99e1e304ccc5e1","fromSide":"right","toNode":"146d75329e368ad5","toSide":"left"},
+		{"id":"2f2221d7d8fdc6db","fromNode":"146d75329e368ad5","fromSide":"right","toNode":"10b03ccb0558c6ee","toSide":"left"},
+		{"id":"cda2ca5e3befa6d4","fromNode":"0b99e1e304ccc5e1","fromSide":"right","toNode":"9236855b7217e519","toSide":"left"},
+		{"id":"f452dc5009a43c2b","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"910948422631203b","toSide":"left"},
+		{"id":"3fcb1698694ee22a","fromNode":"910948422631203b","fromSide":"right","toNode":"8dde1f26d216f5b2","toSide":"left"},
+		{"id":"e908202fb0bf2a94","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"81568c01dd04d041","toSide":"left"},
+		{"id":"ec8d63afbd6f91a9","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"53a8a2085cfaecaa","toSide":"left"},
+		{"id":"672328f5f43c9daa","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"30b66edf3d9addf3","toSide":"left"},
+		{"id":"c11963e78e717971","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"555f8e64aacf5d66","toSide":"left"},
+		{"id":"e0c95134fc2addc6","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"cf9c5c7035d467d1","toSide":"left"},
+		{"id":"9228683c919a9ca4","fromNode":"cf9c5c7035d467d1","fromSide":"right","toNode":"b9c7891c7cfd23fc","toSide":"left"}
 	]
 }

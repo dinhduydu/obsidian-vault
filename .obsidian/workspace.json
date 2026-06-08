@@ -11,14 +11,17 @@
             "id": "eb450140b4ac6404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+                "viewState": {
+                  "x": -667.3412188392047,
+                  "y": -362.39110474036187,
+                  "zoom": -0.6666666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "05_Thay đổi_Tương ứng"
+              "icon": "lucide-layout-dashboard",
+              "title": "Thị (chỉ)　「示 (礻) 」"
             }
           },
           {
@@ -27,19 +30,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/がる・がち.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas",
                 "viewState": {
-                  "x": 452,
-                  "y": -283.5,
-                  "zoom": -1.0175306898803522
+                  "x": 357.54430793471926,
+                  "y": -73.62405783281052,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "がる・がち"
+              "title": "Tử (con)　「子」"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 510.5,
+    "collapsed": true
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -188,19 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "396b663aa2bd5f37",
+  "active": "eb450140b4ac6404",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+    "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
+    "N2文法/がる・がち.canvas",
     "N2文法/しか.canvas",
     "N2文法/ず.canvas",
     "N2文法/たとえ.canvas",
     "N2文法/です・だ・である.canvas",
     "N2文法/なお.canvas",
-    "N2文法/のみ.canvas",
-    "N2文法/べき・べく.canvas",
-    "N2文法/まい.canvas",
-    "N2文法/や～など.canvas",
-    "N2文法/うちに.canvas",
-    "N2文法/尊敬語/尊敬語.canvas",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",
     "N2文法/助詞/に/10_Mẫu cố định.md",
@@ -208,7 +212,6 @@
     "N2文法/助詞/に/08_Giả định_Lập trường.md",
     "N2文法/助詞/に/07_Chủ đề_Lĩnh vực.md",
     "N2文法/助詞/に/06_Thời điểm_Hoàn cảnh.md",
-    "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/04_Căn cứ_Nguyên nhân.md",
     "N2文法/助詞/に/03_So sánh_Đối chiếu.md",
     "N2文法/助詞/に",
