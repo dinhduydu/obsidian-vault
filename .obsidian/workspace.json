@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hành　「行」.canvas",
                 "viewState": {
-                  "x": 247.12208832530305,
-                  "y": 401.31896846302425,
-                  "zoom": 0.3333333333333334
+                  "x": 1181.6841477560433,
+                  "y": -843.8677801623572,
+                  "zoom": 0.6445523508786022
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mịch　「糸 」"
+              "title": "Hành　「行」"
             }
           },
           {
@@ -210,6 +210,7 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
@@ -220,7 +221,6 @@
     "N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/C/Chi　「支 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」.canvas",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",
