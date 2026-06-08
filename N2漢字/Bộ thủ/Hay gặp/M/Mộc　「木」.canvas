@@ -11,9 +11,10 @@
 		{"id":"33a8e6b8e7188e2e","type":"text","text":"改札　「かいさつ」： nơi soát vé ra vào ở tàu","x":1436,"y":143,"width":250,"height":60},
 		{"id":"96cdd6962a2ee9ac","type":"file","file":"N2漢字/Bộ chỉ ý/Ít gặp/M/Mục　「目」.canvas","x":80,"y":-1140,"width":400,"height":400},
 		{"id":"1cd0a188e0efd806","type":"text","text":"相 = tương","x":230,"y":-540,"width":250,"height":60},
-		{"id":"9d3d16ebf1d80f70","x":659,"y":-675,"width":241,"height":60,"type":"text","text":"相応しい　「ふさわしい」： "},
-		{"id":"a4f38a7fba781ae4","x":1020,"y":-697,"width":250,"height":164,"type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích"},
-		{"id":"bb832d91c98b06f1","x":1020,"y":-860,"width":250,"height":60,"type":"text","text":"パーティに相応しい服"}
+		{"id":"9d3d16ebf1d80f70","type":"text","text":"相応しい　「ふさわしい」： ","x":659,"y":-675,"width":241,"height":60},
+		{"id":"a4f38a7fba781ae4","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":1020,"y":-697,"width":250,"height":164},
+		{"id":"bb832d91c98b06f1","type":"text","text":"パーティに相応しい服","x":1020,"y":-860,"width":250,"height":60},
+		{"id":"dd69bed5d9e8737b","x":257,"y":294,"width":250,"height":60,"type":"text","text":"槍 - Thương"}
 	],
 	"edges":[
 		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},
@@ -28,6 +29,7 @@
 		{"id":"212498b1ba3b6f66","fromNode":"395c4efda6d5b61b","fromSide":"right","toNode":"33a8e6b8e7188e2e","toSide":"left"},
 		{"id":"64631074f7c9a6d8","fromNode":"1cd0a188e0efd806","fromSide":"right","toNode":"9d3d16ebf1d80f70","toSide":"left"},
 		{"id":"220c079bf5660a18","fromNode":"9d3d16ebf1d80f70","fromSide":"right","toNode":"a4f38a7fba781ae4","toSide":"left"},
-		{"id":"f2a73df89c2e64a9","fromNode":"9d3d16ebf1d80f70","fromSide":"right","toNode":"bb832d91c98b06f1","toSide":"left"}
+		{"id":"f2a73df89c2e64a9","fromNode":"9d3d16ebf1d80f70","fromSide":"right","toNode":"bb832d91c98b06f1","toSide":"left"},
+		{"id":"e470c7168faeb700","fromNode":"e49a2179021967a8","fromSide":"right","toNode":"dd69bed5d9e8737b","toSide":"left"}
 	]
 }

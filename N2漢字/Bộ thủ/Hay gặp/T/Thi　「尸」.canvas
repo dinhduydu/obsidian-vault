@@ -1,12 +1,14 @@
 {
 	"nodes":[
 		{"id":"f7c853bfd4890cba","type":"text","text":"Thi　「尸」","x":-225,"y":-35,"width":250,"height":60},
-		{"id":"d48fc57d93671511","type":"text","text":"届","x":216,"y":-183,"width":250,"height":60},
-		{"id":"c7d39cd2bf76d1ba","type":"text","text":"**Cấu tạo:**\n\n- Phần trên/trái: 尸 (bộ Thi)\n- Phần dưới: 由","x":609,"y":-424,"width":250,"height":144},
+		{"id":"d48fc57d93671511","type":"text","text":"届 - Giới","x":216,"y":-183,"width":250,"height":60},
+		{"id":"c7d39cd2bf76d1ba","type":"text","text":"**Cấu tạo:**\n\n- Phần trên/trái: 尸 (bộ Thi)\n- Phần dưới: 由 Do","x":609,"y":-424,"width":291,"height":144},
 		{"id":"100dc60631f1495b","type":"text","text":"Nghĩa của 届:\n\n- đến nơi, được giao tới\n- nộp, gửi","x":626,"y":-117,"width":250,"height":117},
 		{"id":"2c7db53c1b7c93bb","type":"text","text":"- 荷物が届く（にもつ が とどく）: hàng được giao đến\n- 書類を届ける（しょるい を とどける）: nộp/gửi giấy tờ","x":980,"y":-136,"width":520,"height":96},
 		{"id":"29e7412cef920839","type":"text","text":"屋 - Ốc","x":195,"y":-660,"width":133,"height":60},
-		{"id":"e8d178215da1efdd","type":"text","text":"屋上　「おくじょう」： sân thượng","x":455,"y":-660,"width":343,"height":66}
+		{"id":"e8d178215da1efdd","type":"text","text":"屋上　「おくじょう」： sân thượng","x":455,"y":-660,"width":343,"height":66},
+		{"id":"8238740f34677c96","x":-100,"y":-352,"width":155,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」.canvas"},
+		{"id":"dc2ec6c29f190808","x":-100,"y":-820,"width":165,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas"}
 	],
 	"edges":[
 		{"id":"81fc85f354e3f5d1","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"d48fc57d93671511","toSide":"left"},
@@ -14,6 +16,8 @@
 		{"id":"8276dd17203049da","fromNode":"d48fc57d93671511","fromSide":"right","toNode":"100dc60631f1495b","toSide":"left"},
 		{"id":"03f9fa08a9d683b1","fromNode":"100dc60631f1495b","fromSide":"right","toNode":"2c7db53c1b7c93bb","toSide":"left"},
 		{"id":"a4220effda01aa4c","fromNode":"29e7412cef920839","fromSide":"right","toNode":"e8d178215da1efdd","toSide":"left"},
-		{"id":"ffdb4c6c7be9b84c","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"29e7412cef920839","toSide":"left"}
+		{"id":"ffdb4c6c7be9b84c","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"29e7412cef920839","toSide":"left"},
+		{"id":"70665c16dd169fb0","fromNode":"8238740f34677c96","fromSide":"right","toNode":"d48fc57d93671511","toSide":"left"},
+		{"id":"ea65db377a6b3150","fromNode":"dc2ec6c29f190808","fromSide":"right","toNode":"29e7412cef920839","toSide":"left"}
 	]
 }

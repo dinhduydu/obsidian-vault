@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"46a0c9a2358bf335","x":-161,"y":-79,"width":250,"height":60,"type":"text","text":"Thỉ　「豕」"},
+		{"id":"43c9ba9f5ff2e495","x":338,"y":-335,"width":250,"height":60,"type":"text","text":"豕　「ぶた」：heo"},
+		{"id":"1834ec3b79882191","x":480,"y":-79,"width":250,"height":60,"type":"text","text":"家"},
+		{"id":"ab1e6cc24306b82b","x":260,"y":-220,"width":128,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"53fdb99dc6d15d5d","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"43c9ba9f5ff2e495","toSide":"left"},
+		{"id":"786ccf0c7791361f","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
+		{"id":"95a4c43157451f28","fromNode":"ab1e6cc24306b82b","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"}
+	]
+}

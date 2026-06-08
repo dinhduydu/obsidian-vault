@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」.canvas",
                 "viewState": {
-                  "x": -667.3412188392047,
-                  "y": -362.39110474036187,
-                  "zoom": -0.6666666666666667
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thị (chỉ)　「示 (礻) 」"
+              "title": "Tức　「即」"
             }
           },
           {
@@ -40,8 +40,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Tử (con)　「子」"
             }
+          },
+          {
+            "id": "0d6c18a28b02b00c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas",
+                "viewState": {
+                  "x": 787.8011689174957,
+                  "y": -29.827304419843415,
+                  "zoom": -0.728278425011136
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Nữ　「女」"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5,
-    "collapsed": true
+    "width": 510.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -191,20 +208,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb450140b4ac6404",
+  "active": "0d6c18a28b02b00c",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tên.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tiên.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Do　「由」.canvas",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
-    "N2文法/がる・がち.canvas",
-    "N2文法/しか.canvas",
-    "N2文法/ず.canvas",
-    "N2文法/たとえ.canvas",
-    "N2文法/です・だ・である.canvas",
-    "N2文法/なお.canvas",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",
     "N2文法/助詞/に/10_Mẫu cố định.md",

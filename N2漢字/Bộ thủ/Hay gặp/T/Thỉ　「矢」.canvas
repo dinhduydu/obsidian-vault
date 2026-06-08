@@ -1,6 +1,23 @@
 {
 	"nodes":[
-		{"id":"4546cc9a40699f7d","x":-193,"y":-16,"width":250,"height":60,"type":"text","text":"Thỉ　「矢」"}
+		{"id":"4546cc9a40699f7d","type":"text","text":"Thỉ　「矢」","x":-193,"y":-16,"width":250,"height":60},
+		{"id":"b5d82ab35faadb2a","type":"text","text":"知 - Tri","x":260,"y":-118,"width":250,"height":60},
+		{"id":"d4cce1a974a8e7b2","type":"text","text":"喉 - Hầu","x":260,"y":60,"width":250,"height":60},
+		{"id":"88dc2109f7bbf0a5","x":-672,"y":-135,"width":250,"height":119,"type":"text","text":"- Mũi tên.\n- Cây tên dùng để bắn cung."},
+		{"id":"3d6201b3f0d4aa25","x":296,"y":298,"width":250,"height":60,"type":"text","text":"短 - Đoản"},
+		{"id":"b88b18391fa8018d","x":281,"y":505,"width":250,"height":60,"type":"text","text":"矯 - Kiểu"},
+		{"id":"fa9b0d21b187b6ea","x":629,"y":481,"width":250,"height":60,"type":"text","text":"uốn nắn"},
+		{"id":"9104e6a58c457ccc","x":714,"y":-284,"width":250,"height":60,"type":"text","text":"矢印 mũi tên chỉ hướng"},
+		{"id":"15f96ad165e26e1b","x":-547,"y":-620,"width":148,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"629b0694cc1ee7d7","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"b5d82ab35faadb2a","toSide":"left"},
+		{"id":"111bdb80165b527d","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"d4cce1a974a8e7b2","toSide":"left"},
+		{"id":"051617d0ba3ef22c","fromNode":"4546cc9a40699f7d","fromSide":"left","toNode":"88dc2109f7bbf0a5","toSide":"right"},
+		{"id":"1bc2bdf18ffe78e2","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"3d6201b3f0d4aa25","toSide":"left"},
+		{"id":"d75927bd59acba29","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"b88b18391fa8018d","toSide":"left"},
+		{"id":"bff05411d7b3b110","fromNode":"b88b18391fa8018d","fromSide":"right","toNode":"fa9b0d21b187b6ea","toSide":"left"},
+		{"id":"ee96a880b8a8011b","fromNode":"b5d82ab35faadb2a","fromSide":"right","toNode":"9104e6a58c457ccc","toSide":"left"},
+		{"id":"8b209b8d256a6467","fromNode":"15f96ad165e26e1b","fromSide":"right","toNode":"4546cc9a40699f7d","toSide":"top","fromEnd":"arrow","label":"2 chữ này dễ nhầm vì đều là vũ khí cổ nhưng hoàn toàn khác nhau"}
+	]
 }
