@@ -14,7 +14,7 @@
 		{"id":"9d3d16ebf1d80f70","type":"text","text":"相応しい　「ふさわしい」： ","x":659,"y":-675,"width":241,"height":60},
 		{"id":"a4f38a7fba781ae4","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":1020,"y":-697,"width":250,"height":164},
 		{"id":"bb832d91c98b06f1","type":"text","text":"パーティに相応しい服","x":1020,"y":-860,"width":250,"height":60},
-		{"id":"dd69bed5d9e8737b","x":257,"y":294,"width":250,"height":60,"type":"text","text":"槍 - Thương"}
+		{"id":"dd69bed5d9e8737b","type":"text","text":"槍 - Thương","x":257,"y":294,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},

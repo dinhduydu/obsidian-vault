@@ -1,13 +1,35 @@
 {
 	"nodes":[
-		{"id":"46a0c9a2358bf335","x":-161,"y":-79,"width":250,"height":60,"type":"text","text":"Thỉ　「豕」"},
-		{"id":"43c9ba9f5ff2e495","x":338,"y":-335,"width":250,"height":60,"type":"text","text":"豕　「ぶた」：heo"},
-		{"id":"1834ec3b79882191","x":480,"y":-79,"width":250,"height":60,"type":"text","text":"家"},
-		{"id":"ab1e6cc24306b82b","x":260,"y":-220,"width":128,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas"}
+		{"id":"46a0c9a2358bf335","type":"text","text":"Thỉ　「豕」","x":-161,"y":-79,"width":250,"height":60},
+		{"id":"43c9ba9f5ff2e495","type":"text","text":"豕　「ぶた」：heo","x":338,"y":-335,"width":250,"height":60},
+		{"id":"1834ec3b79882191","type":"text","text":"家 - Gia","x":480,"y":-79,"width":250,"height":60},
+		{"id":"ab1e6cc24306b82b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":260,"y":-220,"width":128,"height":76},
+		{"id":"dc86bd9789bc3364","type":"text","text":"象 - Tượng","x":468,"y":127,"width":250,"height":60},
+		{"id":"8d3e94bdb15d55bc","type":"text","text":"豪 - Hào","x":479,"y":413,"width":250,"height":60},
+		{"id":"ab4bf0345c050f66","type":"text","text":"遂 - Toại","x":466,"y":599,"width":250,"height":60},
+		{"id":"511b2ea026b4f095","type":"text","text":"- 家（いえ）: nhà\n- 家族（かぞく）: gia đình\n- 国家（こっか）: quốc gia","x":974,"y":-180,"width":326,"height":101},
+		{"id":"42cb05b3da73ed39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas","x":274,"y":659,"width":129,"height":111},
+		{"id":"be97af91ebbf3d9f","x":1155,"y":45,"width":291,"height":135,"type":"text","text":"象\tvoi, hình tượng\t\n像\t亻 + 象\thình ảnh, tượng\n橡\t木 + 象\tcây sồi\n襐\t衤 + 象\tbọc, gói (ít gặp)"},
+		{"id":"7939bccd41d378f1","x":1600,"y":20,"width":196,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas"},
+		{"id":"31eb5cdf8e94e5ca","x":1610,"y":180,"width":176,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas"},
+		{"id":"c48e53efcf4a1321","x":1610,"y":362,"width":167,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas"},
+		{"id":"455f46ea3747191d","x":1940,"y":369,"width":250,"height":60,"type":"text","text":"像 - Tượng"},
+		{"id":"dfb8ea9534ab8229","x":2280,"y":399,"width":250,"height":112,"type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng."}
 	],
 	"edges":[
 		{"id":"53fdb99dc6d15d5d","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"43c9ba9f5ff2e495","toSide":"left"},
-		{"id":"786ccf0c7791361f","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
-		{"id":"95a4c43157451f28","fromNode":"ab1e6cc24306b82b","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"}
+		{"id":"95a4c43157451f28","fromNode":"ab1e6cc24306b82b","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
+		{"id":"b97b18db2384a64c","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
+		{"id":"38c1e130cfbc40fb","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"dc86bd9789bc3364","toSide":"left"},
+		{"id":"2af192e08bbeb638","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"8d3e94bdb15d55bc","toSide":"left"},
+		{"id":"2d9c77a17cd4fc4f","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"ab4bf0345c050f66","toSide":"left"},
+		{"id":"e8aee96e06ecf682","fromNode":"1834ec3b79882191","fromSide":"right","toNode":"511b2ea026b4f095","toSide":"left"},
+		{"id":"72ec646158e3f644","fromNode":"42cb05b3da73ed39","fromSide":"right","toNode":"ab4bf0345c050f66","toSide":"left"},
+		{"id":"1753ca694c7e24bf","fromNode":"dc86bd9789bc3364","fromSide":"right","toNode":"be97af91ebbf3d9f","toSide":"left"},
+		{"id":"56dad7de7743b726","fromNode":"7939bccd41d378f1","fromSide":"left","toNode":"be97af91ebbf3d9f","toSide":"right"},
+		{"id":"65aaf32c19aee940","fromNode":"31eb5cdf8e94e5ca","fromSide":"left","toNode":"be97af91ebbf3d9f","toSide":"right"},
+		{"id":"de1328a53cb752b9","fromNode":"c48e53efcf4a1321","fromSide":"left","toNode":"be97af91ebbf3d9f","toSide":"right"},
+		{"id":"a3a12c2b4e1ec74b","fromNode":"c48e53efcf4a1321","fromSide":"right","toNode":"455f46ea3747191d","toSide":"left"},
+		{"id":"06e1a6dc68b6d440","fromNode":"455f46ea3747191d","fromSide":"right","toNode":"dfb8ea9534ab8229","toSide":"left"}
 	]
 }
