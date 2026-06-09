@@ -21,7 +21,21 @@
 		{"id":"846555c9aa09286a","type":"text","text":"倒 - Đảo","x":1251,"y":-650,"width":250,"height":60},
 		{"id":"90661fa9b866948b","type":"text","text":"優 - Ưu","x":1001,"y":-1260,"width":250,"height":60},
 		{"id":"b299d91434337dec","type":"file","file":"N2漢字/Hay gặp/C/Chí　「至」.canvas","x":1026,"y":-765,"width":101,"height":115},
-		{"id":"bf34276a8273d7e6","type":"text","text":"con người lúc mới sinh, tập đi thường bị ngã","x":1660,"y":-557,"width":250,"height":60}
+		{"id":"bf34276a8273d7e6","type":"text","text":"con người lúc mới sinh, tập đi thường bị ngã","x":1660,"y":-557,"width":250,"height":60},
+		{"id":"61119c67da5ae86d","type":"text","text":"仕上げる　「しあげる」： hoàn thành","x":1257,"y":574,"width":250,"height":60},
+		{"id":"30dfedd11a93f4a9","type":"text","text":"仕 - Sĩ","x":960,"y":574,"width":179,"height":60},
+		{"id":"a8b37070667d9cc4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」.canvas","x":740,"y":660,"width":94,"height":80},
+		{"id":"0136b7895dfacf83","type":"text","text":"但 - Đãn","x":1007,"y":780,"width":250,"height":60},
+		{"id":"2ef744e21a480d83","type":"text","text":"ただ","x":1376,"y":927,"width":250,"height":60},
+		{"id":"26b55fd9da665765","type":"text","text":"tuy vậy, tuy nhiên","x":1376,"y":780,"width":250,"height":60},
+		{"id":"7298d069bb9d275f","type":"text","text":"儒 - Nho","x":768,"y":1128,"width":250,"height":60},
+		{"id":"7f20cbafdf1b3da6","type":"text","text":"nho giáo","x":1094,"y":1127,"width":250,"height":60},
+		{"id":"3b5ae7a119fdea81","type":"text","text":"何 - Hà","x":826,"y":1349,"width":250,"height":60},
+		{"id":"48b371b908c666f8","type":"text","text":"cái gì, hà cớ","x":1135,"y":1333,"width":250,"height":60},
+		{"id":"58cb7acde47cabaa","type":"text","text":"代 - Đại","x":881,"y":1557,"width":250,"height":60},
+		{"id":"b466188ea255ce26","type":"text","text":"đại biểu, thời đại, đại diện, đại thế","x":1259,"y":1556,"width":250,"height":60},
+		{"id":"ba038347f944a9e8","x":930,"y":1857,"width":250,"height":60,"type":"text","text":"体 - Thể"},
+		{"id":"8e39c077b25bc97c","type":"text","text":"休 - Hưu","x":930,"y":1740,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"168191c58848e7fe","fromNode":"2510c4feeb8e09b9","fromSide":"left","toNode":"8e3ea1ee34d24124","toSide":"right"},
@@ -44,6 +58,15 @@
 		{"id":"fcae938e8f7453f9","fromNode":"846555c9aa09286a","fromSide":"right","toNode":"0249cd2c2833711f","toSide":"left"},
 		{"id":"c7afa3cc8569cb5f","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"846555c9aa09286a","toSide":"left","label":"倒 - Đảo"},
 		{"id":"4814fb04e7d52390","fromNode":"b299d91434337dec","fromSide":"right","toNode":"846555c9aa09286a","toSide":"left","label":"âm đọc"},
-		{"id":"c8c77691554ad0bf","fromNode":"846555c9aa09286a","fromSide":"right","toNode":"bf34276a8273d7e6","toSide":"left"}
+		{"id":"c8c77691554ad0bf","fromNode":"846555c9aa09286a","fromSide":"right","toNode":"bf34276a8273d7e6","toSide":"left"},
+		{"id":"62af9f486fbb66a5","fromNode":"30dfedd11a93f4a9","fromSide":"right","toNode":"61119c67da5ae86d","toSide":"left"},
+		{"id":"525882d93f579de4","fromNode":"a8b37070667d9cc4","fromSide":"top","toNode":"30dfedd11a93f4a9","toSide":"left"},
+		{"id":"e174d61649d215d6","fromNode":"2510c4feeb8e09b9","fromSide":"right","toNode":"30dfedd11a93f4a9","toSide":"left"},
+		{"id":"abbd146af68bbc90","fromNode":"0136b7895dfacf83","fromSide":"right","toNode":"26b55fd9da665765","toSide":"left"},
+		{"id":"36e09e354ebe2aac","fromNode":"0136b7895dfacf83","fromSide":"right","toNode":"2ef744e21a480d83","toSide":"left"},
+		{"id":"d93a8cc9650f8306","fromNode":"2510c4feeb8e09b9","fromSide":"bottom","toNode":"0136b7895dfacf83","toSide":"left"},
+		{"id":"8838dabfca1686aa","fromNode":"7298d069bb9d275f","fromSide":"right","toNode":"7f20cbafdf1b3da6","toSide":"left"},
+		{"id":"5eab3613fa01663c","fromNode":"3b5ae7a119fdea81","fromSide":"right","toNode":"48b371b908c666f8","toSide":"left"},
+		{"id":"9f3528eb1e4f3e54","fromNode":"58cb7acde47cabaa","fromSide":"right","toNode":"b466188ea255ce26","toSide":"left"}
 	]
 }

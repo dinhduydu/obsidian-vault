@@ -7,7 +7,14 @@
 		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
 		{"id":"8de53d58e35e7061","type":"text","text":"誤　「Ngộ」","x":181,"y":348,"width":250,"height":60},
 		{"id":"2a96d03ae4a78f69","type":"text","text":"誤り　「あやまり」：","x":540,"y":348,"width":250,"height":60},
-		{"id":"a14a6baa77067fef","type":"text","text":"学生たちと一緒に本の**あやまり**を探し出す。","x":1000,"y":348,"width":400,"height":60}
+		{"id":"a14a6baa77067fef","type":"text","text":"学生たちと一緒に本の**あやまり**を探し出す。","x":1000,"y":348,"width":400,"height":60},
+		{"id":"185bc6bc3c976801","type":"text","text":"詰 - Cật","x":-114,"y":620,"width":250,"height":60},
+		{"id":"1b44c3cf6924c1f7","type":"text","text":"詰める","x":320,"y":620,"width":250,"height":60},
+		{"id":"ff7b433bded747b6","type":"text","text":"話 - Thoại","x":-114,"y":840,"width":250,"height":60},
+		{"id":"4d0e0098f4dd7049","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」.canvas","x":-340,"y":940,"width":175,"height":123},
+		{"id":"b3ad6f98c12c64f1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」.canvas","x":-407,"y":633,"width":134,"height":94},
+		{"id":"6ffdec031196a5d7","x":140,"y":-480,"width":250,"height":60,"type":"text","text":"語 - Ngữ"},
+		{"id":"6d84d66454c9f18e","x":507,"y":-531,"width":250,"height":60,"type":"text","text":"ngôn ngữ, từ ngữ"}
 	],
 	"edges":[
 		{"id":"4816444c8bcab903","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"aaef6f8a5dbfccbd","toSide":"left"},
@@ -16,6 +23,13 @@
 		{"id":"ba9be4a01f337e0b","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"7d310de5d110c01f","toSide":"left"},
 		{"id":"b1efa2ac12a328c9","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"8de53d58e35e7061","toSide":"left"},
 		{"id":"b60b46e1fc402ab8","fromNode":"8de53d58e35e7061","fromSide":"right","toNode":"2a96d03ae4a78f69","toSide":"left"},
-		{"id":"555e59303fa29de9","fromNode":"2a96d03ae4a78f69","fromSide":"right","toNode":"a14a6baa77067fef","toSide":"left"}
+		{"id":"555e59303fa29de9","fromNode":"2a96d03ae4a78f69","fromSide":"right","toNode":"a14a6baa77067fef","toSide":"left"},
+		{"id":"a0655929eedc9386","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"185bc6bc3c976801","toSide":"left"},
+		{"id":"bd98b7a35560fc70","fromNode":"185bc6bc3c976801","fromSide":"right","toNode":"1b44c3cf6924c1f7","toSide":"left"},
+		{"id":"7c91a2973de97916","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"ff7b433bded747b6","toSide":"left"},
+		{"id":"c6959b2635e73ff0","fromNode":"4d0e0098f4dd7049","fromSide":"right","toNode":"ff7b433bded747b6","toSide":"left"},
+		{"id":"1ddfdbd42eef3f7f","fromNode":"b3ad6f98c12c64f1","fromSide":"right","toNode":"185bc6bc3c976801","toSide":"left"},
+		{"id":"5d62ff80d8d41f1d","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"6ffdec031196a5d7","toSide":"left"},
+		{"id":"8db49e0c49fcccd9","fromNode":"6ffdec031196a5d7","fromSide":"right","toNode":"6d84d66454c9f18e","toSide":"left"}
 	]
 }

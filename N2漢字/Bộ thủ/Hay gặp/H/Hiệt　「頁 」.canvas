@@ -2,19 +2,28 @@
 	"nodes":[
 		{"id":"ddd0894e72e153ed","type":"group","x":260,"y":-240,"width":301,"height":253,"label":"Đầu"},
 		{"id":"2d84f042c1472ae2","type":"text","text":"Hiệt　「頁 」","x":-153,"y":-67,"width":250,"height":60},
-		{"id":"2ac833da2ef0d77c","type":"text","text":"頭 - Thủ","x":280,"y":-220,"width":250,"height":60},
-		{"id":"04146bfc347ac442","type":"text","text":"顔 - Nhan","x":291,"y":-67,"width":250,"height":60},
-		{"id":"6d03a9f36fe63176","type":"text","text":"領 - Lĩnh ","x":255,"y":365,"width":125,"height":50},
-		{"id":"602f0f80cad76bbc","type":"text","text":"- **Trán** (ひたい)\n- **Số tiền, khoản tiền** (金額, 総額...)\n- **Khung tranh, khung ảnh**","x":629,"y":-618,"width":331,"height":118},
-		{"id":"b7c9ff3789d07ce9","type":"text","text":"題 - Đề","x":249,"y":200,"width":250,"height":60},
 		{"id":"4c89c79391c99949","type":"text","text":"額 - Ngạch","x":321,"y":-440,"width":191,"height":60},
-		{"id":"e7473e11af4beef1","type":"text","text":"- 額に汗をかく: đổ mồ hôi trên trán\n- 金額（きんがく）: số tiền\n- 総額（そうがく）: tổng số tiền\n- 額縁（がくぶち）: khung tranh","x":652,"y":-387,"width":328,"height":127},
 		{"id":"3647c73bc6c2a926","type":"text","text":"**đầu người nhìn nghiêng**.","x":-704,"y":-197,"width":250,"height":60},
 		{"id":"c63acdc1c696d8c4","type":"text","text":"- đầu\n- mặt\n- khuôn mặt\n- phần trên cơ thể","x":-754,"y":-25,"width":250,"height":145},
+		{"id":"602f0f80cad76bbc","type":"text","text":"- **Trán** (ひたい)\n- **Số tiền, khoản tiền** (金額, 総額...)\n- **Khung tranh, khung ảnh**","x":629,"y":-618,"width":331,"height":118},
+		{"id":"470e46df3af5cf5a","type":"text","text":"客 - Khách","x":80,"y":-559,"width":130,"height":60},
+		{"id":"2ac833da2ef0d77c","type":"text","text":"頭 - Thủ","x":280,"y":-220,"width":250,"height":60},
+		{"id":"04146bfc347ac442","type":"text","text":"顔 - Nhan","x":291,"y":-67,"width":250,"height":60},
+		{"id":"e7473e11af4beef1","type":"text","text":"- 額に汗をかく: đổ mồ hôi trên trán\n- 金額（きんがく）: số tiền\n- 総額（そうがく）: tổng số tiền\n- 額縁（がくぶち）: khung tranh","x":652,"y":-387,"width":328,"height":127},
+		{"id":"6d03a9f36fe63176","type":"text","text":"領 - Lĩnh ","x":255,"y":365,"width":125,"height":50},
+		{"id":"b7c9ff3789d07ce9","type":"text","text":"題 - Đề","x":249,"y":200,"width":250,"height":60},
 		{"id":"6d7088f94574c5ee","type":"text","text":"順 - Thuận","x":253,"y":535,"width":250,"height":60},
+		{"id":"6259a8f1917ac5cf","type":"text","text":"頻","x":220,"y":700,"width":250,"height":60},
 		{"id":"4846033b9527705d","type":"text","text":"大統領　「だいとうりょう」：Tổng thống","x":480,"y":300,"width":438,"height":60},
 		{"id":"1b74dbb7828e5848","type":"text","text":"cổ, lãnh vực","x":480,"y":440,"width":250,"height":60},
-		{"id":"470e46df3af5cf5a","x":80,"y":-559,"width":130,"height":60,"type":"text","text":"客 - Khách"}
+		{"id":"2b8049bba8ff1bb3","type":"text","text":"頻繁","x":605,"y":700,"width":250,"height":60},
+		{"id":"9bc361af25c57b21","type":"text","text":"頒 - Ban","x":230,"y":-962,"width":250,"height":60},
+		{"id":"00cafe6d1d4e63c3","type":"text","text":"ban bố, ban hành","x":563,"y":-975,"width":250,"height":60},
+		{"id":"755b685abdc7ea62","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」.canvas","x":-71,"y":-1013,"width":216,"height":137},
+		{"id":"553a5910520810c5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」.canvas","x":-79,"y":618,"width":176,"height":82},
+		{"id":"de3f6c65d3a23a84","x":230,"y":-1240,"width":250,"height":60,"type":"text","text":"煩 - Phiền"},
+		{"id":"c4247c24f26bf73e","x":-40,"y":-1340,"width":111,"height":50,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火 (灬)」.canvas"},
+		{"id":"c439ca94093bdd28","x":575,"y":-1242,"width":250,"height":60,"type":"text","text":"phiền muộn"}
 	],
 	"edges":[
 		{"id":"63fddbaae78990ae","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"2ac833da2ef0d77c","toSide":"left"},
@@ -29,6 +38,13 @@
 		{"id":"94505932783463fe","fromNode":"2d84f042c1472ae2","fromSide":"left","toNode":"c63acdc1c696d8c4","toSide":"right"},
 		{"id":"6565396de07a0e06","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"6d7088f94574c5ee","toSide":"left"},
 		{"id":"9e49782f213f7b24","fromNode":"6d03a9f36fe63176","fromSide":"right","toNode":"1b74dbb7828e5848","toSide":"left"},
-		{"id":"3782d697c8c18608","fromNode":"470e46df3af5cf5a","fromSide":"right","toNode":"4c89c79391c99949","toSide":"left","label":"biểu âm"}
+		{"id":"3782d697c8c18608","fromNode":"470e46df3af5cf5a","fromSide":"right","toNode":"4c89c79391c99949","toSide":"left","label":"biểu âm"},
+		{"id":"3db8cea67cfa8b36","fromNode":"6259a8f1917ac5cf","fromSide":"right","toNode":"2b8049bba8ff1bb3","toSide":"left"},
+		{"id":"4e6197174cef331e","fromNode":"2d84f042c1472ae2","fromSide":"right","toNode":"6259a8f1917ac5cf","toSide":"left"},
+		{"id":"79240d4306c013dd","fromNode":"553a5910520810c5","fromSide":"right","toNode":"6d7088f94574c5ee","toSide":"left"},
+		{"id":"91c574464caa1a01","fromNode":"9bc361af25c57b21","fromSide":"right","toNode":"00cafe6d1d4e63c3","toSide":"left"},
+		{"id":"b70137ec2cba1278","fromNode":"755b685abdc7ea62","fromSide":"right","toNode":"9bc361af25c57b21","toSide":"left"},
+		{"id":"719d0d92482b336d","fromNode":"c4247c24f26bf73e","fromSide":"right","toNode":"de3f6c65d3a23a84","toSide":"left"},
+		{"id":"0ba1029d8e8e2710","fromNode":"de3f6c65d3a23a84","fromSide":"right","toNode":"c439ca94093bdd28","toSide":"left"}
 	]
 }

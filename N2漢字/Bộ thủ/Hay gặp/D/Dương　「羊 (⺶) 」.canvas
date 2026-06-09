@@ -8,7 +8,7 @@
 		{"id":"77da2f3e2305e509","type":"file","file":"Pasted image 20260526004014.png","x":760,"y":-98,"width":214,"height":230},
 		{"id":"4bfae3a1cb58240d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":180,"y":132,"width":145,"height":91},
 		{"id":"b059f6edc17711dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":-57,"y":-600,"width":134,"height":91},
-		{"id":"0aae036d267439b5","x":-300,"y":-649,"width":149,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」.canvas"}
+		{"id":"0aae036d267439b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」.canvas","x":-300,"y":-649,"width":149,"height":99}
 	],
 	"edges":[
 		{"id":"fd617b02b94bdd08","fromNode":"935b1c2d217148ee","fromSide":"right","toNode":"77da2f3e2305e509","toSide":"left"},

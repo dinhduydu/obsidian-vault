@@ -4,12 +4,14 @@
 		{"id":"9bde495e523ad39d","type":"text","text":"滑る「すべる」（Trượt)","x":200,"y":-180,"width":250,"height":60},
 		{"id":"7e91574029614852","type":"text","text":"過　「Quá」","x":220,"y":40,"width":250,"height":60},
 		{"id":"bcb38bfd3709c3eb","type":"text","text":"過ち　「あやまち」：sai lầm","x":600,"y":40,"width":250,"height":60},
-		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":620,"y":-320,"width":230,"height":195}
+		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":620,"y":-320,"width":230,"height":195},
+		{"id":"58e2a5bf7c620465","x":-480,"y":60,"width":120,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas"}
 	],
 	"edges":[
 		{"id":"cebe79937ee1d2ad","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"9bde495e523ad39d","toSide":"left"},
 		{"id":"128e5e41c124d370","fromNode":"9bde495e523ad39d","fromSide":"right","toNode":"751bec73c5f1b57f","toSide":"left"},
 		{"id":"030b873c4f02694d","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"7e91574029614852","toSide":"left"},
-		{"id":"ed5356b554c53cfc","fromNode":"7e91574029614852","fromSide":"right","toNode":"bcb38bfd3709c3eb","toSide":"left"}
+		{"id":"ed5356b554c53cfc","fromNode":"7e91574029614852","fromSide":"right","toNode":"bcb38bfd3709c3eb","toSide":"left"},
+		{"id":"d074a077361a1062","fromNode":"58e2a5bf7c620465","fromSide":"right","toNode":"af7d612970d61c32","toSide":"left"}
 	]
 }

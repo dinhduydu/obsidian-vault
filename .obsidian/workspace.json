@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」.canvas",
                 "viewState": {
-                  "x": -566.2985744360508,
-                  "y": -83.2505643736324,
-                  "zoom": 0.1311237199897849
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tức　「即」"
+              "title": "Dã　「也」"
             }
           },
           {
@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ　「𠂇」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
                 "viewState": {
-                  "x": 369.6049205014341,
-                  "y": 144.57329349547686,
-                  "zoom": -0.3333333333333334
+                  "x": 197.5943680916025,
+                  "y": 1242.3298187702205,
+                  "zoom": -1.0305883198334234
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thủ　「𠂇」"
+              "title": "Nhục　「肉 (⺼) 」"
             }
           },
           {
@@ -47,19 +47,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」.canvas",
                 "viewState": {
-                  "x": 80.19198015847891,
-                  "y": -21.82010632188498,
-                  "zoom": 0.6666666666666666
+                  "x": 972.224595488485,
+                  "y": 1421.3598541530748,
+                  "zoom": -0.2536874250149536
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Phân　「分」"
+              "title": "Kim　「金 (釒)」"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 445.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -208,19 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "396b663aa2bd5f37",
+  "active": "eb450140b4ac6404",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ　「𠂇」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/K/Khí　「气」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「玉 (王)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「癶 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị　「氏」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Untitled.md",
     "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
@@ -264,7 +264,6 @@
     "N2文法/ない・いう・しまう/しまう.md",
     "N2文法/複合動詞/Untitled.md",
     "からには.md",
-    "N2文法/Vて.md",
-    "Untitled.md"
+    "N2文法/Vて.md"
   ]
 }

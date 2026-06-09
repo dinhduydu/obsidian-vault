@@ -21,17 +21,20 @@
 		{"id":"74408e497633a35a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas","x":-821,"y":-818,"width":137,"height":121},
 		{"id":"b281ab6e97248927","type":"text","text":"膜（まく）: màng","x":864,"y":80,"width":250,"height":60},
 		{"id":"aa472e5b11731fe8","type":"text","text":"膜 - Mô/Mạc","x":476,"y":20,"width":250,"height":60},
-		{"id":"0affb12decfbc2b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":157,"y":100,"width":239,"height":140},
-		{"id":"7adf427424201b5e","type":"text","text":"募る　「つのる」：Mộ","x":-14,"y":637,"width":250,"height":60},
 		{"id":"84c4cf65ed1b0cee","type":"text","text":"募 - Mộ","x":-498,"y":648,"width":250,"height":60},
 		{"id":"a727bc2eac99607c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas","x":-799,"y":738,"width":157,"height":109},
-		{"id":"726a28b3531deece","type":"text","text":"応募　「おうぼ」：","x":-9,"y":758,"width":250,"height":60},
-		{"id":"01a2d0c25d827477","type":"text","text":"募集　「ぼしゅう」：","x":-16,"y":875,"width":250,"height":60},
-		{"id":"2f3382e5980af497","type":"text","text":"tuyển sinh, cần mất sức lực","x":5,"y":520,"width":250,"height":60},
 		{"id":"6ff2d432a94093f7","type":"text","text":"Mặt trời lặn xuống giữa cỏ cây  \n→ chiều tối  \n→ mờ dần  \n→ không rõ","x":-362,"y":139,"width":327,"height":141},
-		{"id":"33d3e12995fd40dd","x":920,"y":-160,"width":422,"height":109,"type":"text","text":"砂漠（さばく）: sa mạc\n漠然（ばくぜん）: mơ hồ, không rõ ràng\n広漠（こうばく）: rộng lớn mênh mông"},
-		{"id":"3c1c52852de3c63e","x":900,"y":-361,"width":347,"height":66,"type":"text","text":"Một khoảng nước hoặc không gian rộng đến mức nhìn không rõ giới hạn."},
-		{"id":"b16b885c8247cd7e","type":"text","text":"- Rộng lớn, mênh mông\n- Mờ mịt, xa xăm\n- Hoang vu","x":1480,"y":-387,"width":251,"height":118}
+		{"id":"33d3e12995fd40dd","type":"text","text":"砂漠（さばく）: sa mạc\n漠然（ばくぜん）: mơ hồ, không rõ ràng\n広漠（こうばく）: rộng lớn mênh mông","x":920,"y":-160,"width":422,"height":109},
+		{"id":"3c1c52852de3c63e","type":"text","text":"Một khoảng nước hoặc không gian rộng đến mức nhìn không rõ giới hạn.","x":900,"y":-361,"width":347,"height":66},
+		{"id":"b16b885c8247cd7e","type":"text","text":"- Rộng lớn, mênh mông\n- Mờ mịt, xa xăm\n- Hoang vu","x":1480,"y":-387,"width":251,"height":118},
+		{"id":"0affb12decfbc2b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":200,"y":80,"width":239,"height":140},
+		{"id":"cf404d31a92a1a0d","x":200,"y":370,"width":250,"height":60,"type":"text","text":"模 - Mô"},
+		{"id":"7adf427424201b5e","type":"text","text":"募る　「つのる」：Mộ","x":-158,"y":642,"width":250,"height":60},
+		{"id":"726a28b3531deece","type":"text","text":"応募　「おうぼ」：","x":-153,"y":763,"width":250,"height":60},
+		{"id":"01a2d0c25d827477","type":"text","text":"募集　「ぼしゅう」：","x":-160,"y":880,"width":250,"height":60},
+		{"id":"2f3382e5980af497","type":"text","text":"tuyển sinh, cần mất sức lực","x":-139,"y":525,"width":250,"height":60},
+		{"id":"a97adc2c1e077ca8","x":560,"y":370,"width":250,"height":60,"type":"text","text":"規模"},
+		{"id":"2c09e109e950a194","x":49,"y":430,"width":82,"height":78,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas"}
 	],
 	"edges":[
 		{"id":"533d360a31fed6c3","fromNode":"7d3aa28bcc30dc09","fromSide":"right","toNode":"f487d82ea284b4ed","toSide":"left","color":"2"},
@@ -64,6 +67,9 @@
 		{"id":"1f421d2ed69fa7f0","fromNode":"0043040a0145fb0c","fromSide":"bottom","toNode":"6ff2d432a94093f7","toSide":"top"},
 		{"id":"5fae6011d0e7fc47","fromNode":"b80624d4226b373d","fromSide":"right","toNode":"37dcdfd8f02b868e","toSide":"left","label":"người dang tay"},
 		{"id":"cf9820c31712ad10","fromNode":"6976a7bb6d7454ba","fromSide":"right","toNode":"33d3e12995fd40dd","toSide":"left"},
-		{"id":"9b44d6fc7456fbe5","fromNode":"6976a7bb6d7454ba","fromSide":"right","toNode":"3c1c52852de3c63e","toSide":"left"}
+		{"id":"9b44d6fc7456fbe5","fromNode":"6976a7bb6d7454ba","fromSide":"right","toNode":"3c1c52852de3c63e","toSide":"left"},
+		{"id":"2ae1fa02296e1fcc","fromNode":"0043040a0145fb0c","fromSide":"right","toNode":"cf404d31a92a1a0d","toSide":"left"},
+		{"id":"951404a14d194a3c","fromNode":"cf404d31a92a1a0d","fromSide":"right","toNode":"a97adc2c1e077ca8","toSide":"left"},
+		{"id":"f9baecda8924b273","fromNode":"2c09e109e950a194","fromSide":"right","toNode":"cf404d31a92a1a0d","toSide":"left"}
 	]
 }

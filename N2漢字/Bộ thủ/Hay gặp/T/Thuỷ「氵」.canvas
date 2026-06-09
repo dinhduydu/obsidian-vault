@@ -14,7 +14,7 @@
 		{"id":"a59dd782e66dd0eb","type":"text","text":"消沈　「しょうちん」： tâm trạng suy sụp","x":260,"y":1040,"width":250,"height":60},
 		{"id":"1283f928ea0e9af9","type":"text","text":"漠　「Mạc」：","x":-162,"y":819,"width":250,"height":60},
 		{"id":"c512bda2f94bc409","type":"text","text":"気分が消沈しているときは、「漠然とした」不安に苛まれやすい。","x":700,"y":822,"width":591,"height":57},
-		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇","x":-37,"y":420,"width":250,"height":60},
+		{"id":"62bb9c6ec27b3be9","type":"text","text":"渇 - Khát","x":-37,"y":420,"width":250,"height":60},
 		{"id":"8184de91d0cc8d29","type":"text","text":"浮 - Phù","x":-162,"y":564,"width":250,"height":60},
 		{"id":"3c2058a3f3ee8ac7","type":"text","text":"淡い","x":-5,"y":-260,"width":250,"height":60},
 		{"id":"44e54d7851527b08","type":"text","text":"漠然　「ばくぜん」： Mơ hồ, ko rõ ràng","x":1460,"y":700,"width":250,"height":60},
@@ -31,7 +31,10 @@
 		{"id":"58fc20e1004ee655","type":"text","text":"Dòng nước chảy mạnh, va đập dữ dội.","x":285,"y":-2234,"width":250,"height":60},
 		{"id":"6d8af9a8957d69f8","type":"text","text":"- mãnh liệt,\n- gay gắt,\n- kích động.","x":654,"y":-2265,"width":250,"height":105},
 		{"id":"c85ad1c3538b334e","type":"text","text":"- Mãnh liệt, dữ dội.\n- Kích động, làm cho mạnh lên.\n- Cực kỳ mạnh, gay gắt.","x":654,"y":-2120,"width":250,"height":137},
-		{"id":"6fb297cc40837cf8","x":-500,"y":-2180,"width":159,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas"}
+		{"id":"6fb297cc40837cf8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas","x":-500,"y":-2180,"width":159,"height":96},
+		{"id":"96af0c3dba759a4a","type":"text","text":"漸 - Tiệm","x":3,"y":689,"width":250,"height":60},
+		{"id":"187ee06119537f60","type":"text","text":"tiệm cận, tiến dần tới","x":341,"y":696,"width":250,"height":60},
+		{"id":"56ac13d83b0ff78a","type":"text","text":"khát nước, khát khao","x":341,"y":397,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left"},
@@ -43,7 +46,6 @@
 		{"id":"27b4e70b5d4e0319","fromNode":"5d05d4678cdf176f","fromSide":"right","toNode":"fde9d97ad446417c","toSide":"left"},
 		{"id":"ac9c1f7e30727b1a","fromNode":"fde9d97ad446417c","fromSide":"right","toNode":"7004b2a1c81e2816","toSide":"left"},
 		{"id":"5cc85964ac14d726","fromNode":"c9cb37c33b36c93f","fromSide":"right","toNode":"2f42700a7ceaa892","toSide":"left"},
-		{"id":"96dba0537e2c035c","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"62bb9c6ec27b3be9","toSide":"left"},
 		{"id":"02ae042d89367981","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"8184de91d0cc8d29","toSide":"left"},
 		{"id":"8cf618ae75aee287","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"4a36a81b66052feb","toSide":"left"},
 		{"id":"65d89ae42de18b5e","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c3403f863a9b3a1f","toSide":"left"},
@@ -66,6 +68,10 @@
 		{"id":"9ca42dd568b0efcd","fromNode":"2b8075eeb2dd6485","fromSide":"right","toNode":"58fc20e1004ee655","toSide":"left"},
 		{"id":"2ea144d08cb31466","fromNode":"58fc20e1004ee655","fromSide":"right","toNode":"6d8af9a8957d69f8","toSide":"left"},
 		{"id":"e97932d3b454e6ae","fromNode":"58fc20e1004ee655","fromSide":"right","toNode":"c85ad1c3538b334e","toSide":"left"},
-		{"id":"036fd84210a7ee77","fromNode":"6fb297cc40837cf8","fromSide":"right","toNode":"2b8075eeb2dd6485","toSide":"left"}
+		{"id":"036fd84210a7ee77","fromNode":"6fb297cc40837cf8","fromSide":"right","toNode":"2b8075eeb2dd6485","toSide":"left"},
+		{"id":"85eaf4ce726f6c95","fromNode":"96af0c3dba759a4a","fromSide":"right","toNode":"187ee06119537f60","toSide":"left"},
+		{"id":"d0ecee99374939e1","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"96af0c3dba759a4a","toSide":"left"},
+		{"id":"96dba0537e2c035c","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"62bb9c6ec27b3be9","toSide":"left"},
+		{"id":"c390171215794c8c","fromNode":"62bb9c6ec27b3be9","fromSide":"right","toNode":"56ac13d83b0ff78a","toSide":"left"}
 	]
 }

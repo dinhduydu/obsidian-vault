@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"83e5e936aa30d101","x":-228,"y":-4,"width":250,"height":60,"type":"text","text":"Bát　「癶 」"}
+		{"id":"83e5e936aa30d101","type":"text","text":"Bát　「癶 」","x":-228,"y":-4,"width":250,"height":60},
+		{"id":"3a2b6049870c29d3","x":285,"y":-119,"width":215,"height":60,"type":"text","text":"発 - Phát"},
+		{"id":"d066c2a600374841","x":578,"y":-142,"width":250,"height":60,"type":"text","text":"xuất phát, phát kiến, phát hiện, phát ngôn"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1e8e6f44e75f243f","fromNode":"83e5e936aa30d101","fromSide":"right","toNode":"3a2b6049870c29d3","toSide":"left"},
+		{"id":"49d3470c9496f52b","fromNode":"3a2b6049870c29d3","fromSide":"right","toNode":"d066c2a600374841","toSide":"left"}
+	]
 }

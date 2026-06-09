@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"38720a429833e17c","x":-154,"y":18,"width":194,"height":60,"type":"text","text":"Vương　「玉 (王)」"},
-		{"id":"aef52eb193921280","x":234,"y":-43,"width":250,"height":60,"type":"text","text":"王 - Vương"},
-		{"id":"16e6a73606738772","x":230,"y":86,"width":250,"height":60,"type":"text","text":"理 - Lý"}
+		{"id":"38720a429833e17c","type":"text","text":"Vương　「玉 (王)」","x":-154,"y":18,"width":194,"height":60},
+		{"id":"aef52eb193921280","type":"text","text":"王 - Vương","x":234,"y":-43,"width":250,"height":60},
+		{"id":"16e6a73606738772","type":"text","text":"理 - Lý","x":230,"y":86,"width":250,"height":60},
+		{"id":"378210d4f634e8c5","x":593,"y":81,"width":250,"height":60,"type":"text","text":"lí do, lí luận, nguyên lí"},
+		{"id":"f9a6cdef490202a3","x":593,"y":-200,"width":250,"height":60,"type":"text","text":"主 - Chú"}
 	],
 	"edges":[
 		{"id":"d6fa3f8b185351be","fromNode":"38720a429833e17c","fromSide":"right","toNode":"aef52eb193921280","toSide":"left"},
-		{"id":"b12eb38a06e8b68d","fromNode":"38720a429833e17c","fromSide":"right","toNode":"16e6a73606738772","toSide":"left"}
+		{"id":"b12eb38a06e8b68d","fromNode":"38720a429833e17c","fromSide":"right","toNode":"16e6a73606738772","toSide":"left"},
+		{"id":"245f97ff1eef2b36","fromNode":"16e6a73606738772","fromSide":"right","toNode":"378210d4f634e8c5","toSide":"left"},
+		{"id":"d8ec18408145f867","fromNode":"aef52eb193921280","fromSide":"right","toNode":"f9a6cdef490202a3","toSide":"left"}
 	]
 }

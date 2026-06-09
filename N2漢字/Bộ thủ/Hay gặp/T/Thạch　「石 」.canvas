@@ -1,9 +1,12 @@
 {
 	"nodes":[
 		{"id":"268df70406d78732","type":"text","text":"Thạch　「石 」","x":-166,"y":-17,"width":250,"height":60},
-		{"id":"44db4df9b59b26b0","x":264,"y":-103,"width":250,"height":60,"type":"text","text":"研 - Nghiêng"}
+		{"id":"44db4df9b59b26b0","type":"text","text":"研 - Nghiêng","x":264,"y":-103,"width":250,"height":60},
+		{"id":"467191635cfbf41b","x":483,"y":180,"width":250,"height":60,"type":"text","text":"破壊"},
+		{"id":"7e64dcb28b78981e","x":259,"y":190,"width":130,"height":50,"type":"text","text":"破"}
 	],
 	"edges":[
-		{"id":"c09cad12b95dda18","fromNode":"268df70406d78732","fromSide":"right","toNode":"44db4df9b59b26b0","toSide":"left"}
+		{"id":"c09cad12b95dda18","fromNode":"268df70406d78732","fromSide":"right","toNode":"44db4df9b59b26b0","toSide":"left"},
+		{"id":"1b6ce894911d40e1","fromNode":"268df70406d78732","fromSide":"right","toNode":"7e64dcb28b78981e","toSide":"left"}
 	]
 }

@@ -18,10 +18,15 @@
 		{"id":"e917d2e435abecbd","type":"text","text":"費 - Phí","x":60,"y":980,"width":250,"height":60},
 		{"id":"e2c17b2d1a289dce","type":"text","text":"**費用（ひよう）** = chi phí, khoản tiền phải bỏ ra để thực hiện một việc gì đó.","x":483,"y":1080,"width":272,"height":106},
 		{"id":"a0b077866513d210","type":"text","text":"**費 = 弗 + 貝**\n\n- **弗（ふつ）**: nguyên nghĩa là \"không\", đồng thời được dùng làm thành phần âm.\n- **貝（かい）**: tiền bạc, tài sản.\n\n=> **費** mang ý \"tiêu tốn tiền bạc\".","x":483,"y":1240,"width":314,"height":224},
-		{"id":"d301832604c109ea","x":175,"y":-1053,"width":250,"height":60,"type":"text","text":"敗 - Bại"},
-		{"id":"b79d7272d60bdb8b","x":633,"y":-1263,"width":250,"height":60,"type":"text","text":"ハイ／やぶれる・やぶる"},
-		{"id":"ea3a651791d6a561","x":603,"y":-1050,"width":250,"height":60,"type":"text","text":"Tài sản (貝) bị tổn thất do bị đánh đổ (攵) → thất bại (敗)."},
-		{"id":"e5c3e09c8c1b8a9c","x":637,"y":-929,"width":323,"height":169,"type":"text","text":"**Nghĩa:**\n\n- Thua, thất bại.\n- Bị đánh bại.\n- Hỏng, suy sụp (trong một số từ cổ)."}
+		{"id":"d301832604c109ea","type":"text","text":"敗 - Bại","x":175,"y":-1053,"width":250,"height":60},
+		{"id":"b79d7272d60bdb8b","type":"text","text":"ハイ／やぶれる・やぶる","x":633,"y":-1263,"width":250,"height":60},
+		{"id":"ea3a651791d6a561","type":"text","text":"Tài sản (貝) bị tổn thất do bị đánh đổ (攵) → thất bại (敗).","x":603,"y":-1050,"width":250,"height":60},
+		{"id":"e5c3e09c8c1b8a9c","type":"text","text":"**Nghĩa:**\n\n- Thua, thất bại.\n- Bị đánh bại.\n- Hỏng, suy sụp (trong một số từ cổ).","x":637,"y":-929,"width":323,"height":169},
+		{"id":"81f0480c8b569d40","type":"text","text":"賜 - Tứ","x":236,"y":-520,"width":250,"height":60},
+		{"id":"baf5d2598ab138be","type":"text","text":"賜る　「たまわる」：ban cho, ban tặng","x":603,"y":-520,"width":250,"height":60},
+		{"id":"2cc2b42eae5d72a8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」.canvas","x":120,"y":-800,"width":185,"height":144},
+		{"id":"93ddb9f8d1e0a165","x":103,"y":-1380,"width":250,"height":60,"type":"text","text":"員 - Viên"},
+		{"id":"08357a6748bbf98d","x":425,"y":-1378,"width":250,"height":60,"type":"text","text":"thành viên, nhân viên"}
 	],
 	"edges":[
 		{"id":"2acb58755bc73267","fromNode":"0d94e6913c928905","fromSide":"left","toNode":"0a0fb06d3a1aefa9","toSide":"right"},
@@ -44,6 +49,9 @@
 		{"id":"c270bfda84d1b67b","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"d301832604c109ea","toSide":"left","label":"敗 - Bại"},
 		{"id":"1a4994ac931f0ed1","fromNode":"d301832604c109ea","fromSide":"right","toNode":"b79d7272d60bdb8b","toSide":"left"},
 		{"id":"3b778a14186a8984","fromNode":"d301832604c109ea","fromSide":"right","toNode":"ea3a651791d6a561","toSide":"left"},
-		{"id":"cb0dfec76bc38e5b","fromNode":"d301832604c109ea","fromSide":"right","toNode":"e5c3e09c8c1b8a9c","toSide":"left"}
+		{"id":"cb0dfec76bc38e5b","fromNode":"d301832604c109ea","fromSide":"right","toNode":"e5c3e09c8c1b8a9c","toSide":"left"},
+		{"id":"6254a2df71e5737a","fromNode":"81f0480c8b569d40","fromSide":"right","toNode":"baf5d2598ab138be","toSide":"left"},
+		{"id":"d029ae81031b02c9","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"81f0480c8b569d40","toSide":"left"},
+		{"id":"094416086632931c","fromNode":"93ddb9f8d1e0a165","fromSide":"right","toNode":"08357a6748bbf98d","toSide":"left"}
 	]
 }

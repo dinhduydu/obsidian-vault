@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"fd6e881b24265a43","x":-181,"y":-33,"width":250,"height":60,"type":"text","text":"Nạch　「疒」"},
-		{"id":"4c41c089d214b946","x":218,"y":-154,"width":250,"height":60,"type":"text","text":"病 - Bệnh"}
+		{"id":"fd6e881b24265a43","type":"text","text":"Nạch　「疒」","x":-181,"y":-33,"width":250,"height":60},
+		{"id":"4c41c089d214b946","type":"text","text":"病 - Bệnh","x":218,"y":-154,"width":250,"height":60},
+		{"id":"684800315e0d9b8e","x":218,"y":-3,"width":250,"height":60,"type":"text","text":"痘 - Đậu"},
+		{"id":"523a112bceeb8df8","x":532,"y":-1,"width":250,"height":60,"type":"text","text":"bệnh đậu mùa"}
 	],
 	"edges":[
-		{"id":"35dc2d7ede42f0ee","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"4c41c089d214b946","toSide":"left"}
+		{"id":"35dc2d7ede42f0ee","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"4c41c089d214b946","toSide":"left"},
+		{"id":"427fff0f694aec49","fromNode":"684800315e0d9b8e","fromSide":"right","toNode":"523a112bceeb8df8","toSide":"left"},
+		{"id":"cc80bc443bf9f3f1","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"684800315e0d9b8e","toSide":"left"}
 	]
 }

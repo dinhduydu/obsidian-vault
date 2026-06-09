@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3e5be5baa38c8bdb","x":-140,"y":-39,"width":160,"height":60,"type":"text","text":"Ao　「凹」"},
+		{"id":"55f60fda1b744e6a","x":-470,"y":-105,"width":250,"height":60,"type":"text","text":"chỗ lõm"}
+	],
+	"edges":[
+		{"id":"9aa43871a774bbe4","fromNode":"3e5be5baa38c8bdb","fromSide":"left","toNode":"55f60fda1b744e6a","toSide":"right"}
+	]
+}

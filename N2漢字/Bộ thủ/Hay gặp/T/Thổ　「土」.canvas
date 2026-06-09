@@ -1,11 +1,16 @@
 {
 	"nodes":[
 		{"id":"9d612bff3dbfbb2c","type":"text","text":"Thổ　「土」","x":-89,"y":-12,"width":250,"height":60},
-		{"id":"c90a3567bafe6c89","x":409,"y":-165,"width":250,"height":60,"type":"text","text":"周"},
-		{"id":"b9010149cc8f7d56","x":860,"y":-174,"width":322,"height":79,"type":"text","text":"円周「えんしゅう」：chu vi hình tròn / đường tròn bao quanh hình tròn."}
+		{"id":"c90a3567bafe6c89","type":"text","text":"周 - Chu","x":409,"y":-165,"width":250,"height":60},
+		{"id":"b9010149cc8f7d56","type":"text","text":"円周「えんしゅう」：chu vi hình tròn / đường tròn bao quanh hình tròn.","x":860,"y":-174,"width":322,"height":79},
+		{"id":"7a51c9c44f62d245","type":"text","text":"地 - Địa","x":380,"y":0,"width":250,"height":60},
+		{"id":"140b911bae6dd236","type":"text","text":"場 - Trường","x":380,"y":160,"width":250,"height":60},
+		{"id":"b564c1945a4be492","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」.canvas","x":100,"y":190,"width":199,"height":157},
+		{"id":"b24e7279d7a269ac","x":725,"y":146,"width":250,"height":60,"type":"text","text":"hội trường, quảng trường"}
 	],
 	"edges":[
 		{"id":"aa72622cbff4d332","fromNode":"9d612bff3dbfbb2c","fromSide":"right","toNode":"c90a3567bafe6c89","toSide":"left"},
-		{"id":"6452bf10d10e3d0b","fromNode":"c90a3567bafe6c89","fromSide":"right","toNode":"b9010149cc8f7d56","toSide":"left"}
+		{"id":"6452bf10d10e3d0b","fromNode":"c90a3567bafe6c89","fromSide":"right","toNode":"b9010149cc8f7d56","toSide":"left"},
+		{"id":"a0f44867bdd8ff6e","fromNode":"140b911bae6dd236","fromSide":"right","toNode":"b24e7279d7a269ac","toSide":"left"}
 	]
 }

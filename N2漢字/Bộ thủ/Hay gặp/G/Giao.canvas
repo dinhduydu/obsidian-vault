@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"be576c077b13174d","x":-136,"y":-15,"width":250,"height":60,"type":"text","text":"Giao"},
-		{"id":"62c72ae60a88ed6b","x":234,"y":-64,"width":250,"height":60,"type":"text","text":"効 - Hiệu"}
+		{"id":"be576c077b13174d","type":"text","text":"Giao","x":-136,"y":-15,"width":250,"height":60},
+		{"id":"62c72ae60a88ed6b","type":"text","text":"効 - Hiệu","x":234,"y":-64,"width":250,"height":60},
+		{"id":"61e2c58356cfe051","x":234,"y":60,"width":250,"height":60,"type":"text","text":"校 - Hiệu"},
+		{"id":"8211cab6b7c8418c","x":700,"y":60,"width":250,"height":60,"type":"text","text":"trường học"},
+		{"id":"ba45b146126518b0","x":66,"y":120,"width":96,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas"},
+		{"id":"88fa96fd93b09041","x":10,"y":-160,"width":152,"height":70,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas"}
 	],
 	"edges":[
-		{"id":"d6ebb7e59fc433dd","fromNode":"be576c077b13174d","fromSide":"right","toNode":"62c72ae60a88ed6b","toSide":"left"}
+		{"id":"d6ebb7e59fc433dd","fromNode":"be576c077b13174d","fromSide":"right","toNode":"62c72ae60a88ed6b","toSide":"left"},
+		{"id":"37631f50ec252768","fromNode":"be576c077b13174d","fromSide":"right","toNode":"61e2c58356cfe051","toSide":"left"},
+		{"id":"f1feca2ac2efe3df","fromNode":"61e2c58356cfe051","fromSide":"right","toNode":"8211cab6b7c8418c","toSide":"left"},
+		{"id":"2212a9ea1f1626e2","fromNode":"ba45b146126518b0","fromSide":"right","toNode":"61e2c58356cfe051","toSide":"left"},
+		{"id":"321df7dea9efb0cd","fromNode":"88fa96fd93b09041","fromSide":"right","toNode":"62c72ae60a88ed6b","toSide":"left"}
 	]
 }

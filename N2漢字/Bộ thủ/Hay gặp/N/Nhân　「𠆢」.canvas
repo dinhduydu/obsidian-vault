@@ -1,13 +1,15 @@
 {
 	"nodes":[
 		{"id":"b04dded07785bfc8","type":"text","text":"Nhân　「𠆢」","x":-224,"y":-17,"width":144,"height":60},
-		{"id":"2fea870ee4a07f3b","x":-680,"y":-480,"width":376,"height":286,"type":"text","text":"Thường nằm phía trên, giống hình người dang chân che bên dưới.\n\nÝ nghĩa thường thiên về:\n\n- tụ hợp\n- bao phủ\n- tập trung\n- liên quan con người ở mức khái niệm hơn là hành động trực tiếp"},
+		{"id":"2fea870ee4a07f3b","type":"text","text":"Thường nằm phía trên, giống hình người dang chân che bên dưới.\n\nÝ nghĩa thường thiên về:\n\n- tụ hợp\n- bao phủ\n- tập trung\n- liên quan con người ở mức khái niệm hơn là hành động trực tiếp","x":-680,"y":-480,"width":376,"height":286},
 		{"id":"40515b0f93e4c811","type":"text","text":"今（いま）: bây giờ\n会（あう）: gặp\n全（ぜん）: toàn bộ\n合（あう・ごう）: hợp, ghép","x":-800,"y":200,"width":323,"height":139},
-		{"id":"d73eff292dff3a7b","x":-1320,"y":411,"width":375,"height":189,"type":"text","text":"Ví dụ:\n\n- 会：người tụ lại → gặp gỡ\n- 合：gom lại → hợp\n- 全：bao trọn → toàn bộ\n- 今：hình người + vật bên dưới → thời điểm hiện tại"}
+		{"id":"d73eff292dff3a7b","type":"text","text":"Ví dụ:\n\n- 会：người tụ lại → gặp gỡ\n- 合：gom lại → hợp\n- 全：bao trọn → toàn bộ\n- 今：hình người + vật bên dưới → thời điểm hiện tại","x":-1320,"y":411,"width":375,"height":189},
+		{"id":"8ac0de2fd9e963b8","x":200,"y":-80,"width":250,"height":60,"type":"text","text":"食 - Thực"}
 	],
 	"edges":[
 		{"id":"7e783cd3d90f49c7","fromNode":"b04dded07785bfc8","fromSide":"left","toNode":"40515b0f93e4c811","toSide":"top"},
 		{"id":"7ddb43b77017dd30","fromNode":"b04dded07785bfc8","fromSide":"top","toNode":"2fea870ee4a07f3b","toSide":"bottom"},
-		{"id":"dad37fdc55e98920","fromNode":"40515b0f93e4c811","fromSide":"left","toNode":"d73eff292dff3a7b","toSide":"right"}
+		{"id":"dad37fdc55e98920","fromNode":"40515b0f93e4c811","fromSide":"left","toNode":"d73eff292dff3a7b","toSide":"right"},
+		{"id":"cdfa4dcb74e1c866","fromNode":"b04dded07785bfc8","fromSide":"right","toNode":"8ac0de2fd9e963b8","toSide":"left"}
 	]
 }

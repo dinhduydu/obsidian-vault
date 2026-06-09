@@ -16,9 +16,12 @@
 		{"id":"4ff8bf8e12e917e2","type":"text","text":"会社で事務を務めている。\n→ Tôi làm công việc văn phòng ở công ty.\nこの仕事は私には務まらない。\n→ Công việc này tôi không cáng đáng nổi.","x":1193,"y":-419,"width":387,"height":119},
 		{"id":"28050cc24929cca2","type":"text","text":"勤務 = đi làm/công tác\n任務 = nhiệm vụ được giao\n役割 = vai trò","x":1262,"y":-692,"width":250,"height":96},
 		{"id":"b11fd9c7b0589138","type":"text","text":"\n勤 → nhấn mạnh “siêng năng / đi làm”\n務 → nhấn mạnh “trách nhiệm, nhiệm vụ”\n役 → vai trò, vai diễn, chức năng","x":1580,"y":-880,"width":250,"height":165},
-		{"id":"3f5cb1622ed1c26c","x":180,"y":40,"width":250,"height":60,"type":"text","text":"勇 - Dũng"},
-		{"id":"726cbfd0602bf1c4","x":560,"y":-40,"width":250,"height":60,"type":"text","text":"勇　「いさむ」："},
-		{"id":"8dab26e733789503","x":560,"y":70,"width":409,"height":96,"type":"text","text":"- 勇気（ゆうき）: dũng khí\n- 勇敢（ゆうかん）: dũng cảm\n- 勇者（ゆうしゃ）: người dũng cảm / anh hùng"}
+		{"id":"3f5cb1622ed1c26c","type":"text","text":"勇 - Dũng","x":180,"y":40,"width":250,"height":60},
+		{"id":"726cbfd0602bf1c4","type":"text","text":"勇　「いさむ」：","x":560,"y":-40,"width":250,"height":60},
+		{"id":"8dab26e733789503","type":"text","text":"- 勇気（ゆうき）: dũng khí\n- 勇敢（ゆうかん）: dũng cảm\n- 勇者（ゆうしゃ）: người dũng cảm / anh hùng","x":560,"y":70,"width":409,"height":96},
+		{"id":"461c6344de0cfb38","x":160,"y":-520,"width":250,"height":60,"type":"text","text":"動 - Động"},
+		{"id":"45be2bf9c0fa9055","x":-80,"y":-960,"width":112,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」.canvas"},
+		{"id":"01d22b29ea43e0d7","x":-255,"y":-760,"width":125,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas"}
 	],
 	"edges":[
 		{"id":"82cb26843812cc35","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"4191613de0eff494","toSide":"left"},
@@ -38,6 +41,8 @@
 		{"id":"2e0256b7d183fcc0","fromNode":"b0d21307576b52d3","fromSide":"right","toNode":"4ff8bf8e12e917e2","toSide":"left","label":"務"},
 		{"id":"e51eb9951ddbdcaf","fromNode":"f1614e553a4985cf","fromSide":"right","toNode":"3f5cb1622ed1c26c","toSide":"left"},
 		{"id":"7cb3baa86be5b99e","fromNode":"3f5cb1622ed1c26c","fromSide":"right","toNode":"726cbfd0602bf1c4","toSide":"left"},
-		{"id":"ae709df49c25e425","fromNode":"3f5cb1622ed1c26c","fromSide":"right","toNode":"8dab26e733789503","toSide":"left"}
+		{"id":"ae709df49c25e425","fromNode":"3f5cb1622ed1c26c","fromSide":"right","toNode":"8dab26e733789503","toSide":"left"},
+		{"id":"c31281561e3c5404","fromNode":"45be2bf9c0fa9055","fromSide":"right","toNode":"375ff29e8433ebc0","toSide":"left"},
+		{"id":"916864f2b895b084","fromNode":"01d22b29ea43e0d7","fromSide":"right","toNode":"375ff29e8433ebc0","toSide":"left"}
 	]
 }

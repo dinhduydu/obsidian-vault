@@ -1,5 +1,9 @@
 {
 	"nodes":[
+		{"id":"8f6af6672b1626eb","x":540,"y":-859,"width":1127,"height":651,"type":"group","label":"いん"},
+		{"id":"62993d66b37bc790","x":534,"y":-100,"width":346,"height":720,"type":"group","label":"ひき"},
+		{"id":"f0aaf15b91a3235e","type":"group","x":420,"y":-1940,"width":290,"height":190,"label":"つよい"},
+		{"id":"b01c2dea477550ad","type":"group","x":860,"y":-940,"width":290,"height":181,"label":"ごう"},
 		{"id":"6d00caf2bef75978","type":"text","text":"Cung　「弓」","x":-300,"y":0,"width":250,"height":60},
 		{"id":"a14660958001e16d","type":"text","text":"引 - Dẫn","x":154,"y":6,"width":250,"height":60},
 		{"id":"d0e9ea697934afe0","type":"text","text":"引力　「いんりょく」：lực hấp dẫn","x":560,"y":-463,"width":250,"height":60},
@@ -8,16 +12,17 @@
 		{"id":"d539762857cd3c3c","type":"text","text":"引き寄せる　「ひきよせる」","x":560,"y":116,"width":250,"height":60},
 		{"id":"50b9300a616aa4bf","type":"text","text":"引きつる　「ひきつる」","x":560,"y":341,"width":250,"height":60},
 		{"id":"9a9bbdd147bde583","type":"text","text":"強 - Cương","x":160,"y":-1100,"width":250,"height":60},
-		{"id":"1742dd6bc0e0a335","type":"text","text":"強さ","x":645,"y":-1241,"width":250,"height":60},
-		{"id":"ef0bfd5c5279c0dd","type":"text","text":"強み","x":645,"y":-1070,"width":250,"height":60},
 		{"id":"c4d32004e1fcb943","type":"text","text":"長引く","x":429,"y":726,"width":250,"height":60},
 		{"id":"b770f06fd701fe3e","type":"text","text":"ぼくは選手を**引退**することにした。","x":1051,"y":-288,"width":369,"height":55},
 		{"id":"3b9ed071f517392a","type":"text","text":"dành, giật, kéo lại, lôi cuốn; thu hút","x":986,"y":116,"width":250,"height":60},
 		{"id":"59101c0d2cd2cbe3","type":"text","text":"Nhăn; nhăn nhó","x":956,"y":341,"width":250,"height":60},
 		{"id":"a10d552b4391861e","type":"text","text":"引きつり","x":554,"y":540,"width":250,"height":60},
 		{"id":"5d099d3483076b02","type":"text","text":"自分が便秘なのに、地球の**引力**が足りないとでたらめに文句を言う人がいる。","x":1020,"y":-458,"width":627,"height":50},
-		{"id":"61e2f9ae4f8387d3","type":"text","text":"強盗　「ごうとう」：cướp","x":1040,"y":-1241,"width":250,"height":60},
-		{"id":"c1affc7fb27e7444","x":800,"y":-1420,"width":132,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」.canvas"}
+		{"id":"ef0bfd5c5279c0dd","type":"text","text":"強み","x":440,"y":-1920,"width":250,"height":60},
+		{"id":"1742dd6bc0e0a335","type":"text","text":"強さ","x":440,"y":-1830,"width":250,"height":60},
+		{"id":"c1affc7fb27e7444","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」.canvas","x":640,"y":-1099,"width":132,"height":74},
+		{"id":"61e2f9ae4f8387d3","type":"text","text":"強盗　「ごうとう」：cướp","x":880,"y":-920,"width":250,"height":60},
+		{"id":"76c89db2ac6d06be","type":"text","text":"強引　「ごういん」：","x":880,"y":-839,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7b4c2337363032c0","fromNode":"6d00caf2bef75978","fromSide":"right","toNode":"9a9bbdd147bde583","toSide":"left"},
@@ -35,7 +40,9 @@
 		{"id":"4ca1c632e18f0da3","fromNode":"d539762857cd3c3c","fromSide":"right","toNode":"3b9ed071f517392a","toSide":"left"},
 		{"id":"4c19afb922938a9f","fromNode":"50b9300a616aa4bf","fromSide":"right","toNode":"59101c0d2cd2cbe3","toSide":"left"},
 		{"id":"46526cd6e4ce8a71","fromNode":"d0e9ea697934afe0","fromSide":"right","toNode":"5d099d3483076b02","toSide":"left"},
-		{"id":"4c60332077715f03","fromNode":"1742dd6bc0e0a335","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"},
-		{"id":"4a7418b3213abe2b","fromNode":"c1affc7fb27e7444","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"}
+		{"id":"4c60332077715f03","fromNode":"9a9bbdd147bde583","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"},
+		{"id":"1af9e859ee69e458","fromNode":"9a9bbdd147bde583","fromSide":"right","toNode":"76c89db2ac6d06be","toSide":"left"},
+		{"id":"4a7418b3213abe2b","fromNode":"c1affc7fb27e7444","fromSide":"right","toNode":"61e2f9ae4f8387d3","toSide":"left"},
+		{"id":"9f713d9e32689828","fromNode":"a14660958001e16d","fromSide":"right","toNode":"76c89db2ac6d06be","toSide":"left"}
 	]
 }

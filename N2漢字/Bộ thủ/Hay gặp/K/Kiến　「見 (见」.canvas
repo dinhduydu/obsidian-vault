@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"04b1e8ee7c620759","x":-139,"y":1,"width":250,"height":60,"type":"text","text":"Kiến　「見 (见」"}
+		{"id":"04b1e8ee7c620759","type":"text","text":"Kiến　「見 (见」","x":-139,"y":1,"width":250,"height":60},
+		{"id":"57d821fe68053440","type":"text","text":"感受性　「かんじゅせい」：","x":277,"y":-25,"width":250,"height":60},
+		{"id":"d497b59921015d1b","x":221,"y":-180,"width":199,"height":50,"type":"text","text":"敏感　「びんかん」："},
+		{"id":"8b95925f92286b96","x":612,"y":-45,"width":250,"height":60,"type":"text","text":"cảm nhận về âm nhạc"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e105f433d40935e8","fromNode":"57d821fe68053440","fromSide":"right","toNode":"8b95925f92286b96","toSide":"left"}
+	]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ee762cd8390ecbe7","x":-165,"y":-39,"width":250,"height":60,"type":"text","text":"Nhân　「𠂉」"},
+		{"id":"98c683fc5f9e076a","x":160,"y":-120,"width":250,"height":60,"type":"text","text":"毎 - Mỗi"}
+	],
+	"edges":[
+		{"id":"52ea15ba56e8fb11","fromNode":"ee762cd8390ecbe7","fromSide":"right","toNode":"98c683fc5f9e076a","toSide":"left"}
+	]
+}

@@ -1,23 +1,25 @@
 {
 	"nodes":[
-		{"id":"e603542cb333ba08","type":"text","text":"料 - Liệu","x":291,"y":-116,"width":250,"height":60},
-		{"id":"9f2c8ef127203706","type":"text","text":"粉 - Phấn","x":291,"y":36,"width":250,"height":60},
 		{"id":"b363cdf76a4c397d","type":"text","text":"Hoà　「禾」","x":-340,"y":36,"width":250,"height":60},
 		{"id":"bb9025f2f97a342c","type":"text","text":"移転　「いてん」：chuyển địa điểm / dời sang chỗ mới.","x":303,"y":243,"width":250,"height":60},
 		{"id":"e572b5127e2e1f80","type":"text","text":"Bộ thủ: 禾（のぎへん） — bộ Hòa\nNghĩa: di chuyển","x":-860,"y":-100,"width":321,"height":74},
 		{"id":"3691312acd631ed5","type":"text","text":"ダム建設で、その村は隣村へ**移転**することになった。","x":660,"y":235,"width":434,"height":76},
 		{"id":"069fdc0e400bebb7","type":"text","text":"穏 - Ổn","x":282,"y":-300,"width":250,"height":60},
-		{"id":"e8d66b82396bd430","x":620,"y":-300,"width":250,"height":60,"type":"text","text":"穏やか"},
-		{"id":"b8543e518afada74","x":978,"y":-386,"width":250,"height":60,"type":"text","text":"điềm đạm, yên ả"}
+		{"id":"e8d66b82396bd430","type":"text","text":"穏やか","x":620,"y":-300,"width":250,"height":60},
+		{"id":"b8543e518afada74","type":"text","text":"điềm đạm, yên ả","x":978,"y":-386,"width":250,"height":60},
+		{"id":"e603542cb333ba08","type":"text","text":"料 - Khoa","x":291,"y":-146,"width":250,"height":60},
+		{"id":"8e4c542b95c9745f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」.canvas","x":60,"y":-314,"width":123,"height":74},
+		{"id":"be771f59892577a2","type":"text","text":"外科　「げか」：","x":700,"y":-146,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
-		{"id":"3a0b187f2e780e9d","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"9f2c8ef127203706","toSide":"left"},
 		{"id":"5d07fc3297a00796","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"bb9025f2f97a342c","toSide":"left"},
 		{"id":"14e767c6e15e8386","fromNode":"b363cdf76a4c397d","fromSide":"left","toNode":"e572b5127e2e1f80","toSide":"right"},
 		{"id":"50c20d71010e1b4c","fromNode":"bb9025f2f97a342c","fromSide":"right","toNode":"3691312acd631ed5","toSide":"left"},
 		{"id":"1f5fd79722609636","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"069fdc0e400bebb7","toSide":"left"},
 		{"id":"8dc94bdcc7353010","fromNode":"069fdc0e400bebb7","fromSide":"right","toNode":"e8d66b82396bd430","toSide":"left"},
-		{"id":"1bf50e27c795f054","fromNode":"e8d66b82396bd430","fromSide":"right","toNode":"b8543e518afada74","toSide":"left"}
+		{"id":"1bf50e27c795f054","fromNode":"e8d66b82396bd430","fromSide":"right","toNode":"b8543e518afada74","toSide":"left"},
+		{"id":"e714d9c5b0be19e9","fromNode":"8e4c542b95c9745f","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
+		{"id":"7cac9f85929f9844","fromNode":"e603542cb333ba08","fromSide":"right","toNode":"be771f59892577a2","toSide":"left"}
 	]
 }

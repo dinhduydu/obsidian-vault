@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"6c33ac5c577aefcc","type":"text","text":"Thủ　「𠂇」","x":-167,"y":-12,"width":127,"height":50},
+		{"id":"ce82200634e9dd0d","type":"text","text":"左（ひだり）- Tả","x":117,"y":-358,"width":250,"height":60},
+		{"id":"f95a440a33b39dd8","type":"text","text":"右（みぎ）- Hữu","x":117,"y":-203,"width":250,"height":60},
+		{"id":"f4f5d85fe36cddef","type":"text","text":"左右　「さゆう」：","x":561,"y":-240,"width":250,"height":60},
+		{"id":"ddef62e8ad1dde29","type":"text","text":"有（ゆう・ある）- Hữu","x":140,"y":38,"width":250,"height":60},
+		{"id":"93298fe14e758084","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":-103,"y":120,"width":147,"height":91},
+		{"id":"79e669c1aa61cb9a","x":153,"y":-85,"width":250,"height":60,"type":"text","text":"友（とも）- Hữu"},
+		{"id":"7ef1f6799cc4abce","x":585,"y":-63,"width":250,"height":60,"type":"text","text":"Hai bàn tay nắm lấy nhau → bạn bè."},
+		{"id":"035525d72d5a341f","x":-500,"y":-173,"width":250,"height":110,"type":"text","text":"Là hình tay cổ xưa hơn, thường xuất hiện trong chữ tượng hình cổ."}
+	],
+	"edges":[
+		{"id":"754977061bde4a7a","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"ce82200634e9dd0d","toSide":"left"},
+		{"id":"9711aa9efc9e292a","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"f95a440a33b39dd8","toSide":"left"},
+		{"id":"9a1b3f55fa62babe","fromNode":"ce82200634e9dd0d","fromSide":"right","toNode":"f4f5d85fe36cddef","toSide":"left"},
+		{"id":"8472fc61bdb3cbfb","fromNode":"f95a440a33b39dd8","fromSide":"right","toNode":"f4f5d85fe36cddef","toSide":"left"},
+		{"id":"2088b047db50a1a6","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"ddef62e8ad1dde29","toSide":"left"},
+		{"id":"29241047443ebc48","fromNode":"93298fe14e758084","fromSide":"right","toNode":"ddef62e8ad1dde29","toSide":"left"},
+		{"id":"842c18afe1ebc92d","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"79e669c1aa61cb9a","toSide":"left"},
+		{"id":"aa58143bf6dd1b0e","fromNode":"79e669c1aa61cb9a","fromSide":"right","toNode":"7ef1f6799cc4abce","toSide":"left"},
+		{"id":"94a10f47d1790a72","fromNode":"035525d72d5a341f","fromSide":"right","toNode":"b287e976157848da","toSide":"left"},
+		{"id":"327433ef4f067876","fromNode":"6c33ac5c577aefcc","fromSide":"left","toNode":"035525d72d5a341f","toSide":"right"}
+	]
+}
