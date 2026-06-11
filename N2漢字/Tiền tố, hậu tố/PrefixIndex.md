@@ -2,6 +2,7 @@ Tiền tố
 ### Phủ định / Đối lập
  │   ├─ 無 (Vô): Thiếu, không (Vd: 無意識 - vô thức, 無責任 - vô trách nhiệm)
  │   ├─ 非 (Phi): Không, phi (Vd: 非公開 - không công khai, 非合法 - phi pháp)
+ │   │   [[非 - Phi.canvas]]
  │   ├─ 未 (Vị): Chưa (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)
  │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)
  │   └─ 逆 (Nghịch): Phản, ngược (Vd: 逆効果 - tác dụng ngược, 逆回転 - quay ngược chiều)
@@ -26,6 +27,7 @@ Tiền tố
  │
 ### Thời gian
  │   ├─ 新 (Tân): Mới (Vd: 新商品 - sản phẩm mới, 新生活 - cuộc sống mới)
+ │   │   [[新 - Tân.canvas]]
  │   ├─ 旧 (Cựu): Cũ, cựu (Vd: 旧正月 - Tết âm lịch, 旧制度 - chế độ cũ)
  │   ├─ 元 (Nguyên): Trước đây, cựu (Vd: 元首相 - cựu thủ tướng)
  │   ├─ 現 (Hiện): Hiện tại (Vd: 現時点 - thời điểm hiện tại, 現住所 - chỗ ở hiện tại)

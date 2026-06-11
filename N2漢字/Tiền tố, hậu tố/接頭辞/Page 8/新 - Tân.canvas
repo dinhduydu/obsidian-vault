@@ -1,113 +1,22 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 820,
-      "height": 420,
-      "text": "# 新～（しん～）\n\n📚 Hán Việt: TÂN（新）\n\n🌱 Ý nghĩa trung tâm:\nMới • Mới xuất hiện • Mới thay đổi\n\n📌 Thường dùng để:\n- cái mới hoàn toàn\n- phiên bản mới\n- trạng thái vừa bắt đầu"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 500,
-      "width": 760,
-      "height": 760,
-      "text": "# Ý nghĩa\n\n🧠 新 mang sắc thái:\n- mới\n- hiện đại hơn cái cũ\n- vừa xuất hiện\n- được thay thế/cập nhật\n\n➡️ Gần giống:\n- new\n- fresh\n- latest\n\n📌 Prefix này cực phổ biến trong:\n- đời sống\n- kinh doanh\n- công nghệ\n- xã hội"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 60,
-      "width": 920,
-      "height": 620,
-      "text": "# 新傾向（しんけいこう）\n\n📊 Xu thế mới\n\n📚 Hán Việt:\n- 新 = mới\n- 傾向 = xu hướng\n\n## Nuance\nChỉ:\n- trend mới\n- thay đổi trong xã hội\n- hướng phát triển mới\n\n💡 Hay dùng trong:\n- báo chí\n- phân tích xã hội"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 840,
-      "width": 920,
-      "height": 620,
-      "text": "# 新商品（しんしょうひん）\n\n🛍️ Sản phẩm mới\n\n📚 Hán Việt:\n- 新 = mới\n- 商品 = hàng hóa/sản phẩm\n\n## Nuance\n- sản phẩm vừa ra mắt\n- hàng mới trên thị trường\n\n📌 Rất hay gặp trong:\n- marketing\n- quảng cáo\n- kinh doanh"
-    },
-    {
-      "id": "word3",
-      "type": "text",
-      "x": 1940,
-      "y": 1620,
-      "width": 920,
-      "height": 620,
-      "text": "# 新生活（しんせいかつ）\n\n🏠 Cuộc sống mới\n\n📚 Hán Việt:\n- 新 = mới\n- 生活 = cuộc sống\n\n## Nuance\n- bắt đầu cuộc sống mới\n- chuyển nhà / đi học / đi làm mới\n\n💡 Thường dùng khi:\n- tốt nghiệp\n- chuyển việc\n- chuyển nơi ở"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1180,
-      "height": 620,
-      "text": "# Pattern N2\n\n🧩 新 + Danh từ\n→ Mang nghĩa:\n『mới / vừa xuất hiện / cập nhật』\n\nVí dụ:\n- 新技術 = công nghệ mới\n- 新制度 = hệ thống mới\n- 新規 = mới (mới tạo)\n\n📌 Prefix cực phổ biến trong đời sống hiện đại"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 1500,
-      "width": 860,
-      "height": 900,
-      "text": "# So sánh nuance\n\n🆕 新\n→ mới / hiện đại / cập nhật\n\n🕰️ 旧\n→ cũ / trước đây\n\n📌 Ví dụ:\n- 新商品 = sản phẩm mới\n- 旧商品 = sản phẩm cũ\n\n⚡ 新 tạo cảm giác:\n『được thay thế hoặc vừa xuất hiện gần đây』\n\n📌 JLPT cực hay gặp:\n- 新生活\n- 新商品\n- 新制度"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2580,
-      "width": 1180,
-      "height": 700,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 新 bằng hình ảnh:\n\n📦 hộp sản phẩm mới mở ra\n🏠 bắt đầu cuộc sống mới\n📊 xu hướng mới xuất hiện\n\n➡️ Điểm chung:\n『mọi thứ vừa được tạo ra hoặc bắt đầu』\n\n📌 Liên tưởng nhanh:\n新 = new = bắt đầu cái mới"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "center",
-      "toNode": "word2"
-    },
-    {
-      "id": "e4",
-      "fromNode": "center",
-      "toNode": "word3"
-    },
-    {
-      "id": "e5",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e6",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e7",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","text":"# 新～（しん～）\n\n📚 Hán Việt: TÂN（新）\n\n🌱 Ý nghĩa trung tâm:\nMới • Mới xuất hiện • Mới thay đổi\n\n📌 Thường dùng để:\n- cái mới hoàn toàn\n- phiên bản mới\n- trạng thái vừa bắt đầu","x":980,"y":620,"width":820,"height":420},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 新 mang sắc thái:\n- mới\n- hiện đại hơn cái cũ\n- vừa xuất hiện\n- được thay thế/cập nhật\n\n➡️ Gần giống:\n- new\n- fresh\n- latest\n\n📌 Prefix này cực phổ biến trong:\n- đời sống\n- kinh doanh\n- công nghệ\n- xã hội","x":620,"y":620,"width":360,"height":540},
+		{"id":"compare","type":"text","text":"# So sánh nuance\n\n🆕 新\n→ mới / hiện đại / cập nhật\n\n🕰️ 旧\n→ cũ / trước đây\n\n📌 Ví dụ:\n- 新商品 = sản phẩm mới\n- 旧商品 = sản phẩm cũ\n\n⚡ 新 tạo cảm giác:\n『được thay thế hoặc vừa xuất hiện gần đây』\n\n📌 JLPT cực hay gặp:\n- 新生活\n- 新商品\n- 新制度","x":620,"y":1160,"width":360,"height":560},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 新 + Danh từ\n→ Mang nghĩa:\n『mới / vừa xuất hiện / cập nhật』\n\nVí dụ:\n- 新技術 = công nghệ mới\n- 新制度 = hệ thống mới\n- 新規 = mới (mới tạo)\n\n📌 Prefix cực phổ biến trong đời sống hiện đại","x":620,"y":280,"width":1180,"height":340},
+		{"id":"word2","type":"text","text":"# 新商品（しんしょうひん）\n\n🛍️ Sản phẩm mới\n\n📚 Hán Việt:\n- 新 = mới\n- 商品 = hàng hóa/sản phẩm\n\n## Nuance\n- sản phẩm vừa ra mắt\n- hàng mới trên thị trường\n\n📌 Rất hay gặp trong:\n- marketing\n- quảng cáo\n- kinh doanh","x":980,"y":1040,"width":920,"height":520},
+		{"id":"word3","type":"text","text":"# 新生活（しんせいかつ）\n\n🏠 Cuộc sống mới\n\n📚 Hán Việt:\n- 新 = mới\n- 生活 = cuộc sống\n\n## Nuance\n- bắt đầu cuộc sống mới\n- chuyển nhà / đi học / đi làm mới\n\n💡 Thường dùng khi:\n- tốt nghiệp\n- chuyển việc\n- chuyển nơi ở","x":1900,"y":1040,"width":920,"height":520},
+		{"id":"word1","type":"text","text":"# 新傾向（しんけいこう）\n\n📊 Xu thế mới\n\n📚 Hán Việt:\n- 新 = mới\n- 傾向 = xu hướng\n\n## Nuance\nChỉ:\n- trend mới\n- thay đổi trong xã hội\n- hướng phát triển mới\n\n💡 Hay dùng trong:\n- báo chí\n- phân tích xã hội","x":1800,"y":490,"width":460,"height":550},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Hãy nhớ 新 bằng hình ảnh:\n\n📦 hộp sản phẩm mới mở ra\n🏠 bắt đầu cuộc sống mới\n📊 xu hướng mới xuất hiện\n\n➡️ Điểm chung:\n『mọi thứ vừa được tạo ra hoặc bắt đầu』\n\n📌 Liên tưởng nhanh:\n新 = new = bắt đầu cái mới","x":980,"y":1560,"width":1180,"height":700},
+		{"id":"d8d7fb5eeb792780","x":180,"y":1288,"width":440,"height":272,"type":"file","file":"Pasted image 20260612014232.png"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"pattern","fromSide":"bottom","toNode":"center","toSide":"top"},
+		{"id":"e6","fromNode":"compare","fromSide":"top","toNode":"center","toSide":"bottom"},
+		{"id":"e7","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
+	]
 }

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"187e6f51d03c5acf","type":"text","text":"Nam　「男」","x":-121,"y":-10,"width":250,"height":60},
+		{"id":"c06ffecc913a71ae","type":"text","text":"野 - Dạ/Dã","x":290,"y":-74,"width":250,"height":60},
+		{"id":"295664838ce5f92d","x":-340,"y":80,"width":159,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas"},
+		{"id":"0afcda7329b9501d","x":-329,"y":-120,"width":137,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」.canvas"},
+		{"id":"682ecc56fc11f7ea","x":20,"y":-260,"width":141,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」.canvas"}
+	],
+	"edges":[
+		{"id":"6b186c2743290738","fromNode":"187e6f51d03c5acf","fromSide":"right","toNode":"c06ffecc913a71ae","toSide":"left"},
+		{"id":"fded1bc04c57caf4","fromNode":"295664838ce5f92d","fromSide":"right","toNode":"187e6f51d03c5acf","toSide":"left"},
+		{"id":"3a3e9074025bb922","fromNode":"0afcda7329b9501d","fromSide":"right","toNode":"187e6f51d03c5acf","toSide":"left"},
+		{"id":"35e68d3b36d729ab","fromNode":"682ecc56fc11f7ea","fromSide":"right","toNode":"c06ffecc913a71ae","toSide":"left"}
+	]
+}

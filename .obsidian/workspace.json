@@ -4,43 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc5b6e2992a7803",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb450140b4ac6404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PrefixIndex"
-            }
-          },
-          {
-            "id": "0d6c18a28b02b00c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」.canvas",
-                "viewState": {
-                  "x": 972.224595488485,
-                  "y": 1421.3598541530748,
-                  "zoom": -0.2536874250149536
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Kim　「金 (釒)」"
-            }
-          }
-        ]
-      },
-      {
         "id": "a328be10bcb27e2e",
         "type": "tabs",
         "children": [
@@ -48,14 +11,17 @@
             "id": "396b663aa2bd5f37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Tiền tố, hậu tố/接頭辞/Page 8/新 - Tân.canvas",
+                "viewState": {
+                  "x": 1309.3880752375505,
+                  "y": 1030.006561876885,
+                  "zoom": -1.0291917127147834
+                }
               },
-              "icon": "lucide-file",
-              "title": "SubfixIndex"
+              "icon": "lucide-layout-dashboard",
+              "title": "新 - Tân"
             }
           }
         ]
@@ -115,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -208,10 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb450140b4ac6404",
+  "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
-    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "Pasted image 20260612014232.png",
     "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/非 - Phi.canvas",
+    "Pasted image 20260612014026.png",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nam　「男」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
     "Untitled 10.base",
     "Untitled 9.base",
@@ -223,8 +192,6 @@
     "N2漢字/Bộ thủ/Ít gặp/N/Untitled",
     "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C",
     "N2漢字/Bộ thủ/Hay gặp/G/Untitled",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/D",
@@ -256,7 +223,6 @@
     "Pasted image 20260526004014.png",
     "Pasted image 20260526003823.png",
     "Pasted image 20260526003253.png",
-    "Pasted image 20260526002922.png",
     "N2文法/助詞/LAYOUT_README.md",
     "N2文法/復習/第２課.md",
     "N2文法/自動詞ー他動詞/自動詞.md",
