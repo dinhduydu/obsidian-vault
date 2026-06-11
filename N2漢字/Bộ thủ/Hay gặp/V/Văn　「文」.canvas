@@ -1,9 +1,14 @@
 {
 	"nodes":[
-		{"id":"cfab21f388ec3326","x":-204,"y":-46,"width":250,"height":60,"type":"text","text":"Văn　「文」"},
-		{"id":"27645beeb6529263","x":195,"y":-116,"width":250,"height":60,"type":"text","text":"văn hóa, họa tiết"}
+		{"id":"cfab21f388ec3326","type":"text","text":"Văn　「文」","x":-204,"y":-46,"width":250,"height":60},
+		{"id":"27645beeb6529263","type":"text","text":"văn hóa, họa tiết","x":-580,"y":-180,"width":250,"height":60},
+		{"id":"b644ecde1c4b8f82","x":160,"y":-270,"width":250,"height":60,"type":"text","text":"対 - Đối"},
+		{"id":"99af62bf500d3d3e","x":500,"y":-270,"width":250,"height":60,"type":"text","text":"対う　「むかう」："},
+		{"id":"230808300c1c690a","x":-168,"y":-460,"width":214,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」.canvas"}
 	],
 	"edges":[
-		{"id":"03cf05faf420f597","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"27645beeb6529263","toSide":"left"}
+		{"id":"03cf05faf420f597","fromNode":"cfab21f388ec3326","fromSide":"left","toNode":"27645beeb6529263","toSide":"right"},
+		{"id":"44d43ca8b3ef15b7","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"b644ecde1c4b8f82","toSide":"left"},
+		{"id":"ce6e3b9e672050ee","fromNode":"b644ecde1c4b8f82","fromSide":"right","toNode":"99af62bf500d3d3e","toSide":"left"}
 	]
 }

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"6052c41dbe3d810c","type":"text","text":"Phiệt","x":-160,"y":-4,"width":250,"height":60},
+		{"id":"2f19d5dde2437731","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas","x":-56,"y":-220,"width":146,"height":84},
+		{"id":"8baf7e5fd847471a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hệ　「系」.canvas","x":240,"y":-136,"width":206,"height":123},
+		{"id":"3c3a13c09a44dbbf","x":580,"y":160,"width":250,"height":60,"type":"text","text":"必ず　「かならず」："},
+		{"id":"25bc67529c64d513","type":"text","text":"必 - Tất","x":240,"y":160,"width":250,"height":60},
+		{"id":"243938bd506ace45","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm　「心 (忄⺗) 」.canvas","x":-35,"y":280,"width":200,"height":136}
+	],
+	"edges":[
+		{"id":"b83bef919cf089f3","fromNode":"2f19d5dde2437731","fromSide":"right","toNode":"8baf7e5fd847471a","toSide":"left"},
+		{"id":"d18f046b282ae520","fromNode":"6052c41dbe3d810c","fromSide":"right","toNode":"8baf7e5fd847471a","toSide":"left"},
+		{"id":"1c26b82d758d10b7","fromNode":"6052c41dbe3d810c","fromSide":"right","toNode":"25bc67529c64d513","toSide":"left"},
+		{"id":"193359bc798fbac4","fromNode":"25bc67529c64d513","fromSide":"right","toNode":"3c3a13c09a44dbbf","toSide":"left"},
+		{"id":"a05570b4a9a34eba","fromNode":"243938bd506ace45","fromSide":"right","toNode":"25bc67529c64d513","toSide":"left"}
+	]
+}

@@ -1,9 +1,35 @@
 {
 	"nodes":[
-		{"id":"23cbaa0a085abe50","x":-132,"y":-40,"width":250,"height":60,"type":"text","text":"Cách　「革」"},
-		{"id":"04808e8a87b3a90d","x":203,"y":-99,"width":250,"height":60,"type":"text","text":"da thuộc"}
+		{"id":"23cbaa0a085abe50","type":"text","text":"Cách　「革」","x":-132,"y":-40,"width":250,"height":60},
+		{"id":"d44a87bc2ec377e4","type":"text","text":"革 - Cách","x":260,"y":-230,"width":250,"height":60},
+		{"id":"c25b8cf606efeba7","type":"text","text":"革命　「かくめい」：cách mạng","x":680,"y":-519,"width":250,"height":60},
+		{"id":"9d9ec963884dee76","type":"text","text":"革新　「かくしん」：cách tân","x":680,"y":-659,"width":250,"height":60},
+		{"id":"3eb6076322534dfa","type":"text","text":"改革　「かいかく」：cải cách ","x":680,"y":-800,"width":250,"height":60},
+		{"id":"04808e8a87b3a90d","type":"text","text":"da thuộc","x":-560,"y":-170,"width":250,"height":60},
+		{"id":"e6b5ed84599ebd5c","type":"text","text":"靴 - Ngoa","x":297,"y":127,"width":250,"height":60},
+		{"id":"a37bc83372be652e","type":"text","text":"giày dép","x":716,"y":-54,"width":250,"height":60},
+		{"id":"8e34a39eb8f454de","type":"text","text":"靴下　「くつした」：tất","x":687,"y":313,"width":250,"height":60},
+		{"id":"8f93981801490b55","type":"text","text":"靴　「くつ」：giày","x":687,"y":200,"width":250,"height":60},
+		{"id":"09cfcf1466f90e25","type":"text","text":"革靴　「かわぐつ」：giày da","x":687,"y":460,"width":250,"height":60},
+		{"id":"af3d585fe7e6006d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 3/化 - Hoá.canvas","x":40,"y":229,"width":116,"height":62},
+		{"id":"cd9d0b6aa262b009","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」.canvas","x":-160,"y":313,"width":106,"height":79},
+		{"id":"17eb483c46443ae4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":-160,"y":127,"width":77,"height":74},
+		{"id":"278d05d18098007d","x":680,"y":-360,"width":480,"height":60,"type":"text","text":"皮革製品　「ひかくせいひん」：sản phẩm làm bằng da"}
 	],
 	"edges":[
-		{"id":"914d18425bb93457","fromNode":"23cbaa0a085abe50","fromSide":"right","toNode":"04808e8a87b3a90d","toSide":"left"}
+		{"id":"c2a45d688ccbcd3f","fromNode":"d44a87bc2ec377e4","fromSide":"right","toNode":"3eb6076322534dfa","toSide":"left"},
+		{"id":"59f399c38ffe6fd2","fromNode":"d44a87bc2ec377e4","fromSide":"right","toNode":"9d9ec963884dee76","toSide":"left"},
+		{"id":"3e4632fbcc5161d6","fromNode":"d44a87bc2ec377e4","fromSide":"right","toNode":"c25b8cf606efeba7","toSide":"left"},
+		{"id":"05125c5feedbf169","fromNode":"23cbaa0a085abe50","fromSide":"right","toNode":"d44a87bc2ec377e4","toSide":"left"},
+		{"id":"2a3160be4a2b40b5","fromNode":"23cbaa0a085abe50","fromSide":"left","toNode":"04808e8a87b3a90d","toSide":"right"},
+		{"id":"ac7ea84651ce37ef","fromNode":"23cbaa0a085abe50","fromSide":"right","toNode":"e6b5ed84599ebd5c","toSide":"left","label":"giày làm từ da"},
+		{"id":"c651eb6bf952d57c","fromNode":"e6b5ed84599ebd5c","fromSide":"right","toNode":"a37bc83372be652e","toSide":"left"},
+		{"id":"79bef95acf423b0c","fromNode":"e6b5ed84599ebd5c","fromSide":"right","toNode":"8f93981801490b55","toSide":"left"},
+		{"id":"e38e68284126e625","fromNode":"e6b5ed84599ebd5c","fromSide":"right","toNode":"8e34a39eb8f454de","toSide":"left"},
+		{"id":"86caa623c515a120","fromNode":"e6b5ed84599ebd5c","fromSide":"right","toNode":"09cfcf1466f90e25","toSide":"left"},
+		{"id":"bbb35f9695c7585d","fromNode":"af3d585fe7e6006d","fromSide":"right","toNode":"e6b5ed84599ebd5c","toSide":"left"},
+		{"id":"291abc4bd9def6a5","fromNode":"cd9d0b6aa262b009","fromSide":"right","toNode":"af3d585fe7e6006d","toSide":"left"},
+		{"id":"56b02a12a0283326","fromNode":"17eb483c46443ae4","fromSide":"right","toNode":"af3d585fe7e6006d","toSide":"left"},
+		{"id":"5c9f200dc0ce568d","fromNode":"d44a87bc2ec377e4","fromSide":"right","toNode":"278d05d18098007d","toSide":"left"}
 	]
 }

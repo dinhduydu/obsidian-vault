@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"379e3bc66a2dc5e5","type":"text","text":"Thái　「太」","x":-108,"y":-18,"width":250,"height":60},
+		{"id":"653794b69ac9449a","type":"text","text":"太る　「ふとる」：","x":380,"y":-18,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f3df983cb27f8c62","fromNode":"379e3bc66a2dc5e5","fromSide":"right","toNode":"653794b69ac9449a","toSide":"left"}
+	]
+}

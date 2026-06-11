@@ -1,9 +1,33 @@
 {
 	"nodes":[
-		{"id":"cc62b56140fb469c","x":-153,"y":-15,"width":250,"height":60,"type":"text","text":"Đại (lớn)　「大」"},
-		{"id":"e8a2fb851c394dc2","x":297,"y":-160,"width":250,"height":60,"type":"text","text":"涙 - Lệ"}
+		{"id":"e8a2fb851c394dc2","type":"text","text":"涙 - Lệ","x":297,"y":-160,"width":250,"height":60},
+		{"id":"5ada99e8c4d86345","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":97,"y":-320,"width":119,"height":79},
+		{"id":"1c03e5ebf90482b2","type":"text","text":"涙  「なみだ」(nước mắt)","x":680,"y":-160,"width":250,"height":60},
+		{"id":"886e4a437ba020d9","type":"text","text":"Đại (lớn)　「大」","x":-153,"y":670,"width":250,"height":60},
+		{"id":"ceacddee76a19363","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":35,"y":371,"width":125,"height":85},
+		{"id":"0a4b6dab62becc49","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「夫」.canvas","x":297,"y":240,"width":165,"height":96},
+		{"id":"5614c96ca4069491","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」.canvas","x":297,"y":493,"width":139,"height":105},
+		{"id":"cc62b56140fb469c","type":"text","text":"Đại (lớn)　「大」","x":-153,"y":-15,"width":250,"height":60},
+		{"id":"c5438f38e1fa3385","type":"text","text":"Đại (lớn)　「大」","x":2040,"y":-15,"width":250,"height":60},
+		{"id":"bf8b52b2bc7f0bb2","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」.canvas","x":2680,"y":86,"width":245,"height":148},
+		{"id":"d8c716dd9754deb5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Chủ.canvas","x":2400,"y":260,"width":171,"height":145},
+		{"id":"7f650a59bdeee574","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thái　「太」.canvas","x":2680,"y":460,"width":251,"height":160},
+		{"id":"3cb1d327aae77cc2","type":"text","text":"Đại (lớn)　「大」","x":2040,"y":510,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"808c5b7b6fb326e3","fromNode":"cc62b56140fb469c","fromSide":"right","toNode":"e8a2fb851c394dc2","toSide":"left"}
+		{"id":"808c5b7b6fb326e3","fromNode":"cc62b56140fb469c","fromSide":"right","toNode":"e8a2fb851c394dc2","toSide":"left"},
+		{"id":"bed597a58eca01e1","fromNode":"5ada99e8c4d86345","fromSide":"right","toNode":"e8a2fb851c394dc2","toSide":"left"},
+		{"id":"57bf8fa3bb6f130a","fromNode":"e8a2fb851c394dc2","fromSide":"right","toNode":"1c03e5ebf90482b2","toSide":"left"},
+		{"id":"a457ed2ea4a1d338","fromNode":"cc62b56140fb469c","fromSide":"right","toNode":"0a4b6dab62becc49","toSide":"left","label":"to lớn"},
+		{"id":"1c2e9242185bc7c8","fromNode":"ceacddee76a19363","fromSide":"right","toNode":"0a4b6dab62becc49","toSide":"left","label":"cao nhất"},
+		{"id":"53f1fc0883eb4856","fromNode":"cc62b56140fb469c","fromSide":"bottom","toNode":"886e4a437ba020d9","toSide":"top"},
+		{"id":"fe4aeab183effbb7","fromNode":"ceacddee76a19363","fromSide":"right","toNode":"5614c96ca4069491","toSide":"left","label":"kẹp tóc"},
+		{"id":"a9731130d48ee102","fromNode":"886e4a437ba020d9","fromSide":"right","toNode":"5614c96ca4069491","toSide":"left","label":"người trưởng thành"},
+		{"id":"ad8961765fc9890d","fromNode":"cc62b56140fb469c","fromSide":"right","toNode":"c5438f38e1fa3385","toSide":"left","label":"Đại (lớn)　「大」"},
+		{"id":"7142b7945dc5d1e0","fromNode":"c5438f38e1fa3385","fromSide":"right","toNode":"bf8b52b2bc7f0bb2","toSide":"left"},
+		{"id":"d8089f7c50d178ef","fromNode":"d8c716dd9754deb5","fromSide":"right","toNode":"bf8b52b2bc7f0bb2","toSide":"left"},
+		{"id":"daf967dabfa3cb8d","fromNode":"c5438f38e1fa3385","fromSide":"bottom","toNode":"3cb1d327aae77cc2","toSide":"top"},
+		{"id":"58c7393c1d9ea655","fromNode":"3cb1d327aae77cc2","fromSide":"right","toNode":"7f650a59bdeee574","toSide":"left"},
+		{"id":"28fc67f7b855bda3","fromNode":"d8c716dd9754deb5","fromSide":"right","toNode":"7f650a59bdeee574","toSide":"left","label":"vết mỡ"}
 	]
 }

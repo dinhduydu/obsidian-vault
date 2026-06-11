@@ -34,8 +34,12 @@
 		{"id":"48b371b908c666f8","type":"text","text":"cái gì, hà cớ","x":1135,"y":1333,"width":250,"height":60},
 		{"id":"58cb7acde47cabaa","type":"text","text":"代 - Đại","x":881,"y":1557,"width":250,"height":60},
 		{"id":"b466188ea255ce26","type":"text","text":"đại biểu, thời đại, đại diện, đại thế","x":1259,"y":1556,"width":250,"height":60},
-		{"id":"ba038347f944a9e8","x":930,"y":1857,"width":250,"height":60,"type":"text","text":"体 - Thể"},
-		{"id":"8e39c077b25bc97c","type":"text","text":"休 - Hưu","x":930,"y":1740,"width":250,"height":60}
+		{"id":"ba038347f944a9e8","type":"text","text":"体 - Thể","x":930,"y":1857,"width":250,"height":60},
+		{"id":"8e39c077b25bc97c","type":"text","text":"休 - Hưu","x":930,"y":1740,"width":250,"height":60},
+		{"id":"0a597ebc77ed03eb","type":"text","text":"伏 - Phục","x":4845,"y":271,"width":250,"height":63},
+		{"id":"ede94a0a8c33756c","type":"text","text":"伏せる　「ふせる」：mai phục","x":5225,"y":271,"width":280,"height":63},
+		{"id":"c67388c5ee9d8550","type":"text","text":"亻","x":4449,"y":180,"width":260,"height":60},
+		{"id":"1fe0413f6960a218","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」.canvas","x":4532,"y":400,"width":177,"height":119}
 	],
 	"edges":[
 		{"id":"168191c58848e7fe","fromNode":"2510c4feeb8e09b9","fromSide":"left","toNode":"8e3ea1ee34d24124","toSide":"right"},
@@ -67,6 +71,9 @@
 		{"id":"d93a8cc9650f8306","fromNode":"2510c4feeb8e09b9","fromSide":"bottom","toNode":"0136b7895dfacf83","toSide":"left"},
 		{"id":"8838dabfca1686aa","fromNode":"7298d069bb9d275f","fromSide":"right","toNode":"7f20cbafdf1b3da6","toSide":"left"},
 		{"id":"5eab3613fa01663c","fromNode":"3b5ae7a119fdea81","fromSide":"right","toNode":"48b371b908c666f8","toSide":"left"},
-		{"id":"9f3528eb1e4f3e54","fromNode":"58cb7acde47cabaa","fromSide":"right","toNode":"b466188ea255ce26","toSide":"left"}
+		{"id":"9f3528eb1e4f3e54","fromNode":"58cb7acde47cabaa","fromSide":"right","toNode":"b466188ea255ce26","toSide":"left"},
+		{"id":"c5a5be2011f2854b","fromNode":"0a597ebc77ed03eb","fromSide":"right","toNode":"ede94a0a8c33756c","toSide":"left"},
+		{"id":"cf8b61c2514bcfbc","fromNode":"c67388c5ee9d8550","fromSide":"right","toNode":"0a597ebc77ed03eb","toSide":"left"},
+		{"id":"76a4d4592d65ac35","fromNode":"1fe0413f6960a218","fromSide":"right","toNode":"0a597ebc77ed03eb","toSide":"left"}
 	]
 }

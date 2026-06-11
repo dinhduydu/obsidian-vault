@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9d29900704a6391d","type":"text","text":"Thiên （天）","x":-165,"y":-68,"width":250,"height":60},
+		{"id":"713333e0407c8ba3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-560,"y":40,"width":160,"height":140},
+		{"id":"d96ea6c4c2b2d8bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」.canvas","x":-560,"y":-240,"width":164,"height":95},
+		{"id":"96ce310a8af046c9","type":"text","text":"bầu trời","x":240,"y":-203,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"acf7b16abbc3c0ea","fromNode":"d96ea6c4c2b2d8bc","fromSide":"right","toNode":"9d29900704a6391d","toSide":"left","label":"to lớn"},
+		{"id":"e59a4aaa6ea4d1fd","fromNode":"713333e0407c8ba3","fromSide":"right","toNode":"9d29900704a6391d","toSide":"left","label":"cao nhất"},
+		{"id":"1f454c59e0a716a9","fromNode":"9d29900704a6391d","fromSide":"right","toNode":"96ce310a8af046c9","toSide":"left"}
+	]
+}

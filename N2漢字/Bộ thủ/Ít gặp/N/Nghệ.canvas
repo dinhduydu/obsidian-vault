@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"15edb35cfda7b1d0","type":"text","text":"Nghệ","x":-203,"y":-44,"width":250,"height":60},
+		{"id":"ef0cd5bbb18adc54","type":"text","text":"丈 - Trượng","x":160,"y":42,"width":150,"height":55},
+		{"id":"f4c3ba78d699547a","type":"text","text":"丈夫　「じょうぶ」：bền, chắc","x":400,"y":40,"width":274,"height":60},
+		{"id":"68e4fb0c2474c08e","x":-100,"y":100,"width":147,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas"},
+		{"id":"e7181fc2f4090508","x":-615,"y":-114,"width":250,"height":60,"type":"text","text":"chỉ gang tay"},
+		{"id":"3a397b5afee0e3be","x":-584,"y":57,"width":250,"height":60,"type":"text","text":"đo chiều dài"}
+	],
+	"edges":[
+		{"id":"530132d4f8d94c13","fromNode":"ef0cd5bbb18adc54","fromSide":"right","toNode":"f4c3ba78d699547a","toSide":"left"},
+		{"id":"4d173f1df749c5a0","fromNode":"15edb35cfda7b1d0","fromSide":"right","toNode":"ef0cd5bbb18adc54","toSide":"left"},
+		{"id":"fc94bc3d481b7b54","fromNode":"68e4fb0c2474c08e","fromSide":"right","toNode":"ef0cd5bbb18adc54","toSide":"left"},
+		{"id":"6f50dc6c564d3e93","fromNode":"15edb35cfda7b1d0","fromSide":"left","toNode":"e7181fc2f4090508","toSide":"right"},
+		{"id":"b7a993491f5c64d7","fromNode":"15edb35cfda7b1d0","fromSide":"left","toNode":"3a397b5afee0e3be","toSide":"right","label":"nghĩa cổ"}
+	]
+}

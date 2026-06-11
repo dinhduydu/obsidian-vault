@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"69032c86e3530777","type":"text","text":"Hệ　「系」","x":-260,"y":0,"width":250,"height":60},
+		{"id":"9c506f53339f269b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas","x":-576,"y":-100,"width":146,"height":84},
+		{"id":"0c47d733da4f2f02","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phiệt.canvas","x":-551,"y":80,"width":121,"height":131},
+		{"id":"e363c4cae1a85db6","type":"text","text":"係 - Hệ","x":240,"y":-294,"width":250,"height":60},
+		{"id":"f6b184fc92d73a58","type":"text","text":"系図　「けいず」：phả hệ","x":-628,"y":360,"width":250,"height":60},
+		{"id":"be6d61428441a7ce","type":"text","text":"関係　「かんけい」：quan hệ","x":660,"y":-438,"width":250,"height":60},
+		{"id":"650064dd25575bc9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":-260,"y":-420,"width":170,"height":144},
+		{"id":"9542087903b7e362","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas","x":381,"y":-120,"width":109,"height":62},
+		{"id":"6246b5b9d13c5c12","type":"text","text":"孫 - Tôn","x":600,"y":-216,"width":250,"height":60},
+		{"id":"10c3c5a2190c27cb","type":"text","text":"孫　「まご」：cháu","x":980,"y":-294,"width":250,"height":60},
+		{"id":"c1799481e8fba6b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":702,"y":60,"width":148,"height":122},
+		{"id":"52edc03537319cfd","type":"text","text":"遜 - Tốn","x":940,"y":-60,"width":250,"height":60},
+		{"id":"0b766099d36d1397","type":"text","text":"遜う　「したがう」：","x":1300,"y":-60,"width":250,"height":60},
+		{"id":"508c869006b71105","x":1300,"y":91,"width":250,"height":60,"type":"text","text":"謙遜　「けんそん」： khiêm tốn"}
+	],
+	"edges":[
+		{"id":"68e749cec5391bb2","fromNode":"e363c4cae1a85db6","fromSide":"right","toNode":"be6d61428441a7ce","toSide":"left"},
+		{"id":"169f3c6c8c16c910","fromNode":"0c47d733da4f2f02","fromSide":"right","toNode":"69032c86e3530777","toSide":"left"},
+		{"id":"e4c677be4f9285e2","fromNode":"9c506f53339f269b","fromSide":"right","toNode":"69032c86e3530777","toSide":"left"},
+		{"id":"a8b4578261b8e267","fromNode":"69032c86e3530777","fromSide":"bottom","toNode":"f6b184fc92d73a58","toSide":"top"},
+		{"id":"0042b67809f38dcf","fromNode":"69032c86e3530777","fromSide":"right","toNode":"e363c4cae1a85db6","toSide":"left","label":"bằng mối quan hệ"},
+		{"id":"8c1e9cf30eaf31d0","fromNode":"650064dd25575bc9","fromSide":"right","toNode":"e363c4cae1a85db6","toSide":"left","label":"con người liên kết với nhau"},
+		{"id":"81078e8b159b6abd","fromNode":"e363c4cae1a85db6","fromSide":"right","toNode":"6246b5b9d13c5c12","toSide":"left"},
+		{"id":"a87a26c145432d9c","fromNode":"9542087903b7e362","fromSide":"right","toNode":"6246b5b9d13c5c12","toSide":"left"},
+		{"id":"3ce03e45a7d0432e","fromNode":"6246b5b9d13c5c12","fromSide":"right","toNode":"10c3c5a2190c27cb","toSide":"left"},
+		{"id":"f61a05ef298166ea","fromNode":"6246b5b9d13c5c12","fromSide":"right","toNode":"52edc03537319cfd","toSide":"left"},
+		{"id":"b0b43be0faca74fd","fromNode":"c1799481e8fba6b0","fromSide":"right","toNode":"52edc03537319cfd","toSide":"left"},
+		{"id":"603d940ecd7de88d","fromNode":"52edc03537319cfd","fromSide":"right","toNode":"0b766099d36d1397","toSide":"left"},
+		{"id":"1083f545c6036479","fromNode":"52edc03537319cfd","fromSide":"right","toNode":"508c869006b71105","toSide":"left"}
+	]
+}

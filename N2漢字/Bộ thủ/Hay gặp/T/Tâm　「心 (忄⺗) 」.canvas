@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"ed73c33356ef53b6","x":-69,"y":-4,"width":250,"height":60,"type":"text","text":"Tâm　「心 (忄⺗) 」"}
+		{"id":"ed73c33356ef53b6","type":"text","text":"Tâm　「心」","x":-69,"y":-4,"width":250,"height":60},
+		{"id":"2478bb0b87f345a1","type":"text","text":"必ず　「かならず」：","x":640,"y":120,"width":250,"height":60},
+		{"id":"cd6c91450cdeab93","type":"text","text":"必 - Tất","x":300,"y":120,"width":250,"height":60},
+		{"id":"8e1084c4d2128722","x":64,"y":150,"width":117,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phiệt.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"913f3f00d530c68c","fromNode":"cd6c91450cdeab93","fromSide":"right","toNode":"2478bb0b87f345a1","toSide":"left"},
+		{"id":"bbd357027e84cba5","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"cd6c91450cdeab93","toSide":"left"},
+		{"id":"b06213de3bac683d","fromNode":"8e1084c4d2128722","fromSide":"right","toNode":"cd6c91450cdeab93","toSide":"left"}
+	]
 }

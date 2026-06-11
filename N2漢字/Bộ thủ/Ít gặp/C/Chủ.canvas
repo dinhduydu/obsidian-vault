@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ef716f133c297af7","type":"text","text":"Chủ","x":-95,"y":-35,"width":250,"height":60},
+		{"id":"bd9ffc20f41f2177","type":"text","text":"覚 - Giác","x":300,"y":-35,"width":250,"height":60},
+		{"id":"18afc6fd34432132","type":"text","text":"覚える　「おぼえる」： cảm giác","x":700,"y":-35,"width":250,"height":60},
+		{"id":"d1267cb31508dbb5","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":716,"y":79,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5474963169fbabcd","fromNode":"bd9ffc20f41f2177","fromSide":"right","toNode":"18afc6fd34432132","toSide":"left"},
+		{"id":"e6142a74eca08caf","fromNode":"bd9ffc20f41f2177","fromSide":"right","toNode":"d1267cb31508dbb5","toSide":"left"},
+		{"id":"f35da2ba94478c4a","fromNode":"ef716f133c297af7","fromSide":"right","toNode":"bd9ffc20f41f2177","toSide":"left"}
+	]
+}

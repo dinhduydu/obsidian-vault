@@ -1,14 +1,17 @@
 {
 	"nodes":[
+		{"id":"2afe07498d47143b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」.canvas","x":-999,"y":-9,"width":400,"height":400},
 		{"id":"4546cc9a40699f7d","type":"text","text":"Thỉ　「矢」","x":-193,"y":-16,"width":250,"height":60},
 		{"id":"b5d82ab35faadb2a","type":"text","text":"知 - Tri","x":260,"y":-118,"width":250,"height":60},
 		{"id":"d4cce1a974a8e7b2","type":"text","text":"喉 - Hầu","x":260,"y":60,"width":250,"height":60},
-		{"id":"88dc2109f7bbf0a5","x":-672,"y":-135,"width":250,"height":119,"type":"text","text":"- Mũi tên.\n- Cây tên dùng để bắn cung."},
-		{"id":"3d6201b3f0d4aa25","x":296,"y":298,"width":250,"height":60,"type":"text","text":"短 - Đoản"},
-		{"id":"b88b18391fa8018d","x":281,"y":505,"width":250,"height":60,"type":"text","text":"矯 - Kiểu"},
-		{"id":"fa9b0d21b187b6ea","x":629,"y":481,"width":250,"height":60,"type":"text","text":"uốn nắn"},
-		{"id":"9104e6a58c457ccc","x":714,"y":-284,"width":250,"height":60,"type":"text","text":"矢印 mũi tên chỉ hướng"},
-		{"id":"15f96ad165e26e1b","x":-547,"y":-620,"width":148,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」.canvas"}
+		{"id":"88dc2109f7bbf0a5","type":"text","text":"- Mũi tên.\n- Cây tên dùng để bắn cung.","x":-672,"y":-135,"width":250,"height":119},
+		{"id":"3d6201b3f0d4aa25","type":"text","text":"短 - Đoản","x":296,"y":298,"width":250,"height":60},
+		{"id":"b88b18391fa8018d","type":"text","text":"矯 - Kiểu","x":281,"y":505,"width":250,"height":60},
+		{"id":"fa9b0d21b187b6ea","type":"text","text":"uốn nắn","x":629,"y":481,"width":250,"height":60},
+		{"id":"15f96ad165e26e1b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」.canvas","x":-547,"y":-620,"width":148,"height":111},
+		{"id":"9104e6a58c457ccc","type":"text","text":"矢印 mũi tên chỉ hướng","x":620,"y":-118,"width":250,"height":60},
+		{"id":"ecb8a73ec66b4585","type":"text","text":"医 - Y","x":260,"y":-340,"width":250,"height":60},
+		{"id":"36a0b8a1050a9f08","type":"text","text":"医師　「いし」：","x":620,"y":-340,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"629b0694cc1ee7d7","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"b5d82ab35faadb2a","toSide":"left"},
@@ -18,6 +21,9 @@
 		{"id":"d75927bd59acba29","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"b88b18391fa8018d","toSide":"left"},
 		{"id":"bff05411d7b3b110","fromNode":"b88b18391fa8018d","fromSide":"right","toNode":"fa9b0d21b187b6ea","toSide":"left"},
 		{"id":"ee96a880b8a8011b","fromNode":"b5d82ab35faadb2a","fromSide":"right","toNode":"9104e6a58c457ccc","toSide":"left"},
-		{"id":"8b209b8d256a6467","fromNode":"15f96ad165e26e1b","fromSide":"right","toNode":"4546cc9a40699f7d","toSide":"top","fromEnd":"arrow","label":"2 chữ này dễ nhầm vì đều là vũ khí cổ nhưng hoàn toàn khác nhau"}
+		{"id":"8b209b8d256a6467","fromNode":"15f96ad165e26e1b","fromSide":"right","toNode":"4546cc9a40699f7d","toSide":"top","fromEnd":"arrow","label":"2 chữ này dễ nhầm vì đều là vũ khí cổ nhưng hoàn toàn khác nhau"},
+		{"id":"811ec8a6f42ed785","fromNode":"4546cc9a40699f7d","fromSide":"right","toNode":"ecb8a73ec66b4585","toSide":"left"},
+		{"id":"c341e75301e5af02","fromNode":"ecb8a73ec66b4585","fromSide":"right","toNode":"36a0b8a1050a9f08","toSide":"left"},
+		{"id":"0a75b1cdbdd4497c","fromNode":"2afe07498d47143b","fromSide":"right","toNode":"4546cc9a40699f7d","toSide":"bottom","label":"2 chữ này dễ nhầm"}
 	]
 }

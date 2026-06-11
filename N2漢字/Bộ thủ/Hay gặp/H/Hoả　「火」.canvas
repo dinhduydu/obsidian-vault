@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"9e5de16ad3d1b286","type":"file","file":"Chữa đề/24052026/問題 1.canvas","x":1287,"y":-644,"width":400,"height":400},
+		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火 (灬)」","x":-198,"y":-26,"width":250,"height":60},
+		{"id":"53532e7dedb3fb31","type":"text","text":"淡 - D","x":221,"y":-123,"width":250,"height":60},
+		{"id":"2632dd9d77318c1f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":640,"y":-220,"width":222,"height":162},
+		{"id":"68ff4cf40292804d","type":"text","text":"災い　「わざわい」： Tai","x":200,"y":-356,"width":250,"height":60},
+		{"id":"74dcfbedbfa8f811","type":"text","text":"![[Pasted image 20260526002922.png]]","x":595,"y":-524,"width":250,"height":168},
+		{"id":"8711facd68f77275","type":"text","text":"災害　「さいがい」： chỉ rủi ro thiên tai, tai nạn, hoả hoạn","x":928,"y":-577,"width":250,"height":97},
+		{"id":"533018ce4f851e85","type":"text","text":"防災　「ぼうさい」：","x":935,"y":-418,"width":250,"height":60},
+		{"id":"ff0a66b4a1245bfc","type":"text","text":"畑 - Điền","x":197,"y":92,"width":250,"height":60},
+		{"id":"21f8e920670b1e83","type":"text","text":"畑　「はたけ」： Ruộng, cánh đồng","x":560,"y":92,"width":250,"height":60},
+		{"id":"e6b364eba66882b4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」.canvas","x":-120,"y":180,"width":172,"height":148}
+	],
+	"edges":[
+		{"id":"5ddc7b2bc725bd10","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"53532e7dedb3fb31","toSide":"left"},
+		{"id":"60b130909a2b4903","fromNode":"53532e7dedb3fb31","fromSide":"right","toNode":"2632dd9d77318c1f","toSide":"left"},
+		{"id":"96f238456e0cc759","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"68ff4cf40292804d","toSide":"left"},
+		{"id":"cca5853ff439c1a2","fromNode":"68ff4cf40292804d","fromSide":"right","toNode":"74dcfbedbfa8f811","toSide":"left"},
+		{"id":"8accfef64960569f","fromNode":"74dcfbedbfa8f811","fromSide":"right","toNode":"8711facd68f77275","toSide":"left"},
+		{"id":"10c55176de2da51b","fromNode":"74dcfbedbfa8f811","fromSide":"right","toNode":"533018ce4f851e85","toSide":"left"},
+		{"id":"2059ae299ba6fb80","fromNode":"533018ce4f851e85","fromSide":"right","toNode":"9e5de16ad3d1b286","toSide":"left"},
+		{"id":"f878c9c9f3f2ebd3","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"ff0a66b4a1245bfc","toSide":"left","label":"đốt lửa"},
+		{"id":"7129de1f5b4eed0a","fromNode":"e6b364eba66882b4","fromSide":"right","toNode":"ff0a66b4a1245bfc","toSide":"left","label":"ruộng"},
+		{"id":"b6966f65ab162efe","fromNode":"ff0a66b4a1245bfc","fromSide":"right","toNode":"21f8e920670b1e83","toSide":"left"}
+	]
+}

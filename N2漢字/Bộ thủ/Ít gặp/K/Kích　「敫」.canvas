@@ -7,7 +7,8 @@
 		{"id":"fb9f194a36bd6eb5","type":"text","text":"激 - Kích","x":260,"y":-174,"width":250,"height":60},
 		{"id":"cae6a5bfcd74d4fd","type":"text","text":"Dòng nước chảy mạnh, va đập dữ dội.","x":677,"y":-466,"width":250,"height":60},
 		{"id":"ad214821f3c993ad","type":"text","text":"- mãnh liệt,\n- gay gắt,\n- kích động.","x":1046,"y":-497,"width":250,"height":105},
-		{"id":"16705d11c35e5c0b","type":"text","text":"- Mãnh liệt, dữ dội.\n- Kích động, làm cho mạnh lên.\n- Cực kỳ mạnh, gay gắt.","x":1046,"y":-352,"width":250,"height":137}
+		{"id":"16705d11c35e5c0b","type":"text","text":"- Mãnh liệt, dữ dội.\n- Kích động, làm cho mạnh lên.\n- Cực kỳ mạnh, gay gắt.","x":1046,"y":-352,"width":250,"height":137},
+		{"id":"b6a1c9f2c4e5e583","x":-120,"y":-340,"width":174,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas"}
 	],
 	"edges":[
 		{"id":"58d3627851b98bcf","fromNode":"7090c43d98d7e7d0","fromSide":"right","toNode":"6f0c01ef2c584fb4","toSide":"left"},
@@ -16,6 +17,7 @@
 		{"id":"e0179ab87ea696f9","fromNode":"fb9f194a36bd6eb5","fromSide":"right","toNode":"cae6a5bfcd74d4fd","toSide":"left"},
 		{"id":"3919e91a025ebb46","fromNode":"cae6a5bfcd74d4fd","fromSide":"right","toNode":"ad214821f3c993ad","toSide":"left"},
 		{"id":"92f183d20d339036","fromNode":"cae6a5bfcd74d4fd","fromSide":"right","toNode":"16705d11c35e5c0b","toSide":"left"},
-		{"id":"4ecc1d3f75c210da","fromNode":"6f0c01ef2c584fb4","fromSide":"right","toNode":"fb9f194a36bd6eb5","toSide":"left"}
+		{"id":"4ecc1d3f75c210da","fromNode":"6f0c01ef2c584fb4","fromSide":"right","toNode":"fb9f194a36bd6eb5","toSide":"left"},
+		{"id":"b93ab8b672f1a7db","fromNode":"b6a1c9f2c4e5e583","fromSide":"right","toNode":"fb9f194a36bd6eb5","toSide":"left"}
 	]
 }

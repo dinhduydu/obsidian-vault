@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"cf778834b7f7bab8","x":-101,"y":-26,"width":250,"height":60,"type":"text","text":"Kê　「彐」"},
-		{"id":"c252bdc68034f08e","x":339,"y":-56,"width":250,"height":60,"type":"text","text":"đầu con nhím"}
+		{"id":"cf778834b7f7bab8","type":"text","text":"Kê　「彐」","x":-101,"y":-26,"width":250,"height":60},
+		{"id":"c252bdc68034f08e","type":"text","text":"đầu con nhím","x":339,"y":-56,"width":250,"height":60},
+		{"id":"404c507a8ca62ede","x":-400,"y":-200,"width":250,"height":60,"type":"text","text":"hình bàn tay hoặc đầu chổi"}
 	],
 	"edges":[
-		{"id":"2aeea836deade0a0","fromNode":"cf778834b7f7bab8","fromSide":"right","toNode":"c252bdc68034f08e","toSide":"left"}
+		{"id":"2aeea836deade0a0","fromNode":"cf778834b7f7bab8","fromSide":"right","toNode":"c252bdc68034f08e","toSide":"left"},
+		{"id":"3f5719496cdbff9d","fromNode":"cf778834b7f7bab8","fromSide":"left","toNode":"404c507a8ca62ede","toSide":"right"}
 	]
 }

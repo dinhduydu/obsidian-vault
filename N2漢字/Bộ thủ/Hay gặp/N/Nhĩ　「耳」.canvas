@@ -1,9 +1,19 @@
 {
 	"nodes":[
 		{"id":"22c7ec65d03a1de8","type":"text","text":"Nhĩ　「耳」","x":-120,"y":-18,"width":250,"height":60},
-		{"id":"bff4b834b6526a19","x":297,"y":-155,"width":250,"height":60,"type":"text","text":"厳重"}
+		{"id":"697865ad0c3d0973","x":237,"y":-290,"width":250,"height":60,"type":"text","text":"厳 - Nghiêm"},
+		{"id":"bff4b834b6526a19","type":"text","text":"厳重","x":640,"y":-160,"width":250,"height":60},
+		{"id":"06874725d1e93661","type":"text","text":"餌 - Nhị","x":220,"y":-623,"width":250,"height":60},
+		{"id":"1369d1708f3430c6","type":"text","text":"mồi, thức ăn cho động vật","x":-140,"y":-780,"width":250,"height":60},
+		{"id":"3d15fde49cf7c502","type":"text","text":"餌　「えさ」：","x":597,"y":-708,"width":250,"height":60},
+		{"id":"bf5ee5a614f2d0f5","x":-140,"y":-563,"width":140,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」「M」.canvas"}
 	],
 	"edges":[
-		{"id":"1910c8641d64bb1f","fromNode":"22c7ec65d03a1de8","fromSide":"right","toNode":"bff4b834b6526a19","toSide":"left"}
+		{"id":"1910c8641d64bb1f","fromNode":"697865ad0c3d0973","fromSide":"right","toNode":"bff4b834b6526a19","toSide":"left"},
+		{"id":"15023c099e5d447e","fromNode":"06874725d1e93661","fromSide":"left","toNode":"1369d1708f3430c6","toSide":"right"},
+		{"id":"37ebce402ae32621","fromNode":"06874725d1e93661","fromSide":"right","toNode":"3d15fde49cf7c502","toSide":"left"},
+		{"id":"d78a50611f91e972","fromNode":"22c7ec65d03a1de8","fromSide":"right","toNode":"697865ad0c3d0973","toSide":"left"},
+		{"id":"a0b9c1cd77addaf5","fromNode":"22c7ec65d03a1de8","fromSide":"right","toNode":"06874725d1e93661","toSide":"left"},
+		{"id":"43ac755f8f8ae5e3","fromNode":"bf5ee5a614f2d0f5","fromSide":"right","toNode":"06874725d1e93661","toSide":"left"}
 	]
 }

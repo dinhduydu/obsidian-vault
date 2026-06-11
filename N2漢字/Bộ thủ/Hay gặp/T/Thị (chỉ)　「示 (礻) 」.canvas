@@ -18,7 +18,7 @@
 		{"id":"555f8e64aacf5d66","type":"text","text":"福 - Phúc","x":5,"y":-1381,"width":250,"height":60},
 		{"id":"cf9c5c7035d467d1","type":"text","text":"祈 - Kì","x":-8,"y":-1607,"width":250,"height":60},
 		{"id":"b9c7891c7cfd23fc","type":"text","text":"cầu phúc","x":378,"y":-1658,"width":250,"height":60},
-		{"id":"5a2bad09da966297","x":278,"y":-1037,"width":250,"height":60,"type":"text","text":"xã hội, công xã, hợp tác xã"}
+		{"id":"5a2bad09da966297","type":"text","text":"xã hội, công xã, hợp tác xã","x":278,"y":-1037,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"54299038a440bc93","toSide":"left"},

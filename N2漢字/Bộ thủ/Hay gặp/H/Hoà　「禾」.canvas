@@ -9,17 +9,25 @@
 		{"id":"b8543e518afada74","type":"text","text":"điềm đạm, yên ả","x":978,"y":-386,"width":250,"height":60},
 		{"id":"e603542cb333ba08","type":"text","text":"料 - Khoa","x":291,"y":-146,"width":250,"height":60},
 		{"id":"8e4c542b95c9745f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」.canvas","x":60,"y":-314,"width":123,"height":74},
-		{"id":"be771f59892577a2","type":"text","text":"外科　「げか」：","x":700,"y":-146,"width":250,"height":60}
+		{"id":"be771f59892577a2","type":"text","text":"外科　「げか」：","x":700,"y":-146,"width":250,"height":60},
+		{"id":"09d94eedc111f226","type":"text","text":"移 - Di","x":120,"y":248,"width":130,"height":50},
+		{"id":"a049c1f4e71038ff","type":"text","text":"秩 - Trật","x":140,"y":495,"width":163,"height":50},
+		{"id":"928a401e0d4755c4","type":"text","text":"秩序　「ちつじょ」：","x":460,"y":490,"width":250,"height":60},
+		{"id":"db913ff08a67459a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」.canvas","x":-180,"y":620,"width":128,"height":109}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
-		{"id":"5d07fc3297a00796","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"bb9025f2f97a342c","toSide":"left"},
+		{"id":"5d07fc3297a00796","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"09d94eedc111f226","toSide":"left"},
 		{"id":"14e767c6e15e8386","fromNode":"b363cdf76a4c397d","fromSide":"left","toNode":"e572b5127e2e1f80","toSide":"right"},
 		{"id":"50c20d71010e1b4c","fromNode":"bb9025f2f97a342c","fromSide":"right","toNode":"3691312acd631ed5","toSide":"left"},
 		{"id":"1f5fd79722609636","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"069fdc0e400bebb7","toSide":"left"},
 		{"id":"8dc94bdcc7353010","fromNode":"069fdc0e400bebb7","fromSide":"right","toNode":"e8d66b82396bd430","toSide":"left"},
 		{"id":"1bf50e27c795f054","fromNode":"e8d66b82396bd430","fromSide":"right","toNode":"b8543e518afada74","toSide":"left"},
 		{"id":"e714d9c5b0be19e9","fromNode":"8e4c542b95c9745f","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
-		{"id":"7cac9f85929f9844","fromNode":"e603542cb333ba08","fromSide":"right","toNode":"be771f59892577a2","toSide":"left"}
+		{"id":"7cac9f85929f9844","fromNode":"e603542cb333ba08","fromSide":"right","toNode":"be771f59892577a2","toSide":"left"},
+		{"id":"69630e07b9aa30e3","fromNode":"09d94eedc111f226","fromSide":"right","toNode":"bb9025f2f97a342c","toSide":"left"},
+		{"id":"692ff2596f8a5fd6","fromNode":"db913ff08a67459a","fromSide":"right","toNode":"a049c1f4e71038ff","toSide":"left","label":"âm đọc"},
+		{"id":"90eff4ba95713fe0","fromNode":"a049c1f4e71038ff","fromSide":"right","toNode":"928a401e0d4755c4","toSide":"left","label":"秩 - Trật"},
+		{"id":"639d0bd21175a168","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"a049c1f4e71038ff","toSide":"left","label":"cánh đồng lúa thẳng tắp"}
 	]
 }

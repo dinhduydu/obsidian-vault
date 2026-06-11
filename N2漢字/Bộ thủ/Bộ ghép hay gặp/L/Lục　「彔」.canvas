@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"9fdcb13a0dd6bcfb","type":"text","text":"Lục　「彔」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"0a2616f592b9f4d6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ　「永」.canvas","x":-380,"y":120,"width":103,"height":93},
+		{"id":"643726a3bd2e636a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kê　「彐」.canvas","x":-380,"y":-200,"width":103,"height":94},
+		{"id":"9ea8c2c3d3e62d2c","type":"text","text":"Chuyển chú","x":-128,"y":-251,"width":250,"height":60},
+		{"id":"0daa19a81e1c46da","x":-380,"y":320,"width":329,"height":127,"type":"text","text":"Ban đầu 彔 mô tả việc:\n\ndùng tay cầm vật gì đó\nchất lỏng chảy xuống\n"},
+		{"id":"af217a61c7aa1f74","x":40,"y":320,"width":273,"height":150,"type":"text","text":"Nghĩa gốc liên quan đến:\n\nkhắc ghi\nthu thập\nghi nhận\n"},
+		{"id":"cf51aa131059fbe4","type":"text","text":"緑 - Lục","x":520,"y":-360,"width":250,"height":60},
+		{"id":"3c89cc4b1d476f00","x":180,"y":-580,"width":215,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas"},
+		{"id":"d0df7c17c1e69195","x":520,"y":-136,"width":250,"height":60,"type":"text","text":"録 - Lục"},
+		{"id":"d5cba326c3a03d8c","x":900,"y":-136,"width":250,"height":60,"type":"text","text":"記録　「きろく」：kỉ lục"},
+		{"id":"560c0f9e42222f80","x":325,"y":-251,"width":140,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"367c9575901635c9","fromNode":"643726a3bd2e636a","fromSide":"right","toNode":"9fdcb13a0dd6bcfb","toSide":"left"},
+		{"id":"aa8c094d173c5f46","fromNode":"0a2616f592b9f4d6","fromSide":"right","toNode":"9fdcb13a0dd6bcfb","toSide":"left"},
+		{"id":"3c0b4916956bc905","fromNode":"9fdcb13a0dd6bcfb","fromSide":"right","toNode":"cf51aa131059fbe4","toSide":"left"},
+		{"id":"66d985a9045caf33","fromNode":"9ea8c2c3d3e62d2c","fromSide":"bottom","toNode":"9fdcb13a0dd6bcfb","toSide":"top"},
+		{"id":"a51208c3d455f4a9","fromNode":"9fdcb13a0dd6bcfb","fromSide":"bottom","toNode":"0daa19a81e1c46da","toSide":"top"},
+		{"id":"f5179b5a62e59de5","fromNode":"9fdcb13a0dd6bcfb","fromSide":"bottom","toNode":"af217a61c7aa1f74","toSide":"top"},
+		{"id":"cf843d8b36e4654f","fromNode":"3c89cc4b1d476f00","fromSide":"right","toNode":"cf51aa131059fbe4","toSide":"left"},
+		{"id":"9ac020eb6295de44","fromNode":"9fdcb13a0dd6bcfb","fromSide":"right","toNode":"d0df7c17c1e69195","toSide":"left"},
+		{"id":"ca3ac2a1f616751c","fromNode":"d0df7c17c1e69195","fromSide":"right","toNode":"d5cba326c3a03d8c","toSide":"left"},
+		{"id":"c48d88f999f299ec","fromNode":"560c0f9e42222f80","fromSide":"right","toNode":"d0df7c17c1e69195","toSide":"left"}
+	]
+}

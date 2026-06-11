@@ -1,25 +1,25 @@
 {
 	"nodes":[
 		{"id":"46a0c9a2358bf335","type":"text","text":"Thỉ　「豕」","x":-161,"y":-79,"width":250,"height":60},
-		{"id":"43c9ba9f5ff2e495","type":"text","text":"豕　「ぶた」：heo","x":338,"y":-335,"width":250,"height":60},
 		{"id":"1834ec3b79882191","type":"text","text":"家 - Gia","x":480,"y":-79,"width":250,"height":60},
 		{"id":"ab1e6cc24306b82b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":260,"y":-220,"width":128,"height":76},
-		{"id":"8d3e94bdb15d55bc","type":"text","text":"豪 - Hào","x":479,"y":413,"width":250,"height":60},
-		{"id":"ab4bf0345c050f66","type":"text","text":"遂 - Toại","x":466,"y":599,"width":250,"height":60},
 		{"id":"511b2ea026b4f095","type":"text","text":"- 家（いえ）: nhà\n- 家族（かぞく）: gia đình\n- 国家（こっか）: quốc gia","x":974,"y":-180,"width":326,"height":101},
-		{"id":"42cb05b3da73ed39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」.canvas","x":274,"y":659,"width":129,"height":111},
 		{"id":"be97af91ebbf3d9f","type":"text","text":"象\tvoi, hình tượng\t\n像\t亻 + 象\thình ảnh, tượng\n橡\t木 + 象\tcây sồi\n襐\t衤 + 象\tbọc, gói (ít gặp)","x":1155,"y":45,"width":291,"height":135},
 		{"id":"7939bccd41d378f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị (chỉ)　「示 (礻) 」.canvas","x":1600,"y":20,"width":196,"height":101},
 		{"id":"31eb5cdf8e94e5ca","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":1610,"y":180,"width":176,"height":118},
 		{"id":"c48e53efcf4a1321","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":1610,"y":362,"width":167,"height":111},
-		{"id":"455f46ea3747191d","type":"text","text":"像 - Tượng","x":1940,"y":369,"width":250,"height":60},
-		{"id":"dfb8ea9534ab8229","type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng.","x":2280,"y":399,"width":250,"height":112},
-		{"id":"dd651f8ed3b306a4","x":463,"y":260,"width":250,"height":50,"type":"text","text":"逐 - Trục"},
 		{"id":"dc86bd9789bc3364","type":"text","text":"象 - Tượng","x":849,"y":83,"width":250,"height":60},
-		{"id":"38735cd2aa5ca3d2","x":806,"y":250,"width":250,"height":60,"type":"text","text":"đuổi theo, khu trục"}
+		{"id":"43c9ba9f5ff2e495","type":"text","text":"豕　「ぶた」：heo","x":-580,"y":-480,"width":250,"height":60},
+		{"id":"8d3e94bdb15d55bc","type":"text","text":"豪 - Hào","x":324,"y":-540,"width":250,"height":60},
+		{"id":"ab4bf0345c050f66","type":"text","text":"遂 - Toại","x":480,"y":241,"width":250,"height":60},
+		{"id":"dd651f8ed3b306a4","type":"text","text":"逐 - Trục","x":480,"y":532,"width":250,"height":50},
+		{"id":"42cb05b3da73ed39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":114,"y":362,"width":129,"height":111},
+		{"id":"38735cd2aa5ca3d2","type":"text","text":"đuổi theo, khu trục","x":840,"y":527,"width":250,"height":60},
+		{"id":"455f46ea3747191d","type":"text","text":"像 - Tượng","x":1920,"y":388,"width":250,"height":60},
+		{"id":"dfb8ea9534ab8229","type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng.","x":2320,"y":362,"width":250,"height":112}
 	],
 	"edges":[
-		{"id":"53fdb99dc6d15d5d","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"43c9ba9f5ff2e495","toSide":"left"},
+		{"id":"53fdb99dc6d15d5d","fromNode":"46a0c9a2358bf335","fromSide":"left","toNode":"43c9ba9f5ff2e495","toSide":"right"},
 		{"id":"95a4c43157451f28","fromNode":"ab1e6cc24306b82b","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
 		{"id":"b97b18db2384a64c","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"1834ec3b79882191","toSide":"left"},
 		{"id":"38c1e130cfbc40fb","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"dc86bd9789bc3364","toSide":"left"},
@@ -33,6 +33,8 @@
 		{"id":"de1328a53cb752b9","fromNode":"c48e53efcf4a1321","fromSide":"left","toNode":"be97af91ebbf3d9f","toSide":"right"},
 		{"id":"a3a12c2b4e1ec74b","fromNode":"c48e53efcf4a1321","fromSide":"right","toNode":"455f46ea3747191d","toSide":"left"},
 		{"id":"06e1a6dc68b6d440","fromNode":"455f46ea3747191d","fromSide":"right","toNode":"dfb8ea9534ab8229","toSide":"left"},
-		{"id":"3a201ada9378407f","fromNode":"dd651f8ed3b306a4","fromSide":"right","toNode":"38735cd2aa5ca3d2","toSide":"left"}
+		{"id":"3a201ada9378407f","fromNode":"dd651f8ed3b306a4","fromSide":"right","toNode":"38735cd2aa5ca3d2","toSide":"left"},
+		{"id":"3ccd76807d240df5","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"dd651f8ed3b306a4","toSide":"left"},
+		{"id":"17612a6304eb9923","fromNode":"42cb05b3da73ed39","fromSide":"right","toNode":"dd651f8ed3b306a4","toSide":"left"}
 	]
 }

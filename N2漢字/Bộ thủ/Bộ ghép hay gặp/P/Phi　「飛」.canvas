@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2092a09cc3e8a292","type":"text","text":"Phi　「飛」","x":-159,"y":-55,"width":250,"height":60},
+		{"id":"46d2338ab1be072c","type":"text","text":"Bộ thủ cũ","x":-527,"y":-180,"width":250,"height":60},
+		{"id":"a3697c80b48acbdc","x":-784,"y":64,"width":250,"height":60,"type":"text","text":"飛行機　「ひこうき」："},
+		{"id":"5ec8065445b684ec","x":-847,"y":267,"width":250,"height":60,"type":"text","text":"飛ぶ　「とぶ」："},
+		{"id":"aefb953443785666","x":-847,"y":426,"width":250,"height":60,"type":"text","text":"飛行場　「ひこうじょう」："},
+		{"id":"1aa7126e6cf2b019","x":-815,"y":590,"width":250,"height":60,"type":"text","text":"飛躍　「ひやく」："}
+	],
+	"edges":[
+		{"id":"87ce9e1cce31dcb1","fromNode":"2092a09cc3e8a292","fromSide":"left","toNode":"46d2338ab1be072c","toSide":"right"},
+		{"id":"686655d2e4b022a7","fromNode":"2092a09cc3e8a292","fromSide":"left","toNode":"a3697c80b48acbdc","toSide":"right"},
+		{"id":"47e530b86a0cbbda","fromNode":"2092a09cc3e8a292","fromSide":"left","toNode":"5ec8065445b684ec","toSide":"right"},
+		{"id":"d422eb0634c57cb2","fromNode":"2092a09cc3e8a292","fromSide":"left","toNode":"aefb953443785666","toSide":"right"},
+		{"id":"58edec84e106d06d","fromNode":"2092a09cc3e8a292","fromSide":"left","toNode":"1aa7126e6cf2b019","toSide":"right"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8ac84b0ba269de46","type":"text","text":"Thực　「食」","x":-280,"y":0,"width":250,"height":60},
+		{"id":"751850e76b21b57d","type":"text","text":"食事　「しょくじ」：","x":-680,"y":-320,"width":250,"height":60},
+		{"id":"59795eeac3b6e84c","type":"text","text":"餌 - Nhị","x":180,"y":-83,"width":250,"height":60},
+		{"id":"c3da7e18c5bd8105","type":"text","text":"mồi, thức ăn cho động vật","x":-180,"y":-240,"width":250,"height":60},
+		{"id":"ad46ded3343bda27","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」.canvas","x":-30,"y":-460,"width":114,"height":92},
+		{"id":"dda58b6359546f3d","type":"text","text":"餌　「えさ」：","x":557,"y":-168,"width":250,"height":60},
+		{"id":"6bf973c9f26efbe6","x":-614,"y":30,"width":119,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」.canvas"}
+	],
+	"edges":[
+		{"id":"8db874801c332b86","fromNode":"8ac84b0ba269de46","fromSide":"left","toNode":"751850e76b21b57d","toSide":"right"},
+		{"id":"3d855ea628c0dc6c","fromNode":"8ac84b0ba269de46","fromSide":"right","toNode":"59795eeac3b6e84c","toSide":"left"},
+		{"id":"845e235481ac1f9e","fromNode":"59795eeac3b6e84c","fromSide":"left","toNode":"c3da7e18c5bd8105","toSide":"right"},
+		{"id":"fdd865a7b783d836","fromNode":"ad46ded3343bda27","fromSide":"right","toNode":"59795eeac3b6e84c","toSide":"left"},
+		{"id":"323130defd36cdc8","fromNode":"59795eeac3b6e84c","fromSide":"right","toNode":"dda58b6359546f3d","toSide":"left"},
+		{"id":"93964a060b54211c","fromNode":"6bf973c9f26efbe6","fromSide":"right","toNode":"8ac84b0ba269de46","toSide":"left"}
+	]
+}

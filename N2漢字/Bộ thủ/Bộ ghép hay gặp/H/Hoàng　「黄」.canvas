@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"aa7784de9fa79646","type":"text","text":"黄金　「こがね」：","x":-25,"y":-55,"width":250,"height":60},
+		{"id":"5f17f3c8b3aa4ba1","type":"text","text":"Hoàng　「黄」","x":-465,"y":-56,"width":250,"height":60},
+		{"id":"fb01a16c97d45344","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」.canvas","x":-720,"y":40,"width":170,"height":106},
+		{"id":"0fcfd40f3c7de082","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-377,"y":180,"width":162,"height":187},
+		{"id":"771177536d292d02","type":"text","text":"横 - Hoành","x":-25,"y":146,"width":250,"height":60},
+		{"id":"e855aaa6d9a83b48","type":"text","text":"横柄　「おうへい」：","x":400,"y":270,"width":250,"height":60},
+		{"id":"24378fd0703d8e6f","type":"text","text":"横　「よこ」：","x":400,"y":396,"width":250,"height":60},
+		{"id":"71bb310ce4fe35e5","type":"text","text":"横断　「おうだん」：","x":400,"y":146,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4878a26453bd91dc","fromNode":"5f17f3c8b3aa4ba1","fromSide":"right","toNode":"aa7784de9fa79646","toSide":"left"},
+		{"id":"b69a0a42a08840f8","fromNode":"fb01a16c97d45344","fromSide":"right","toNode":"5f17f3c8b3aa4ba1","toSide":"left"},
+		{"id":"30815ba3f01fc264","fromNode":"5f17f3c8b3aa4ba1","fromSide":"right","toNode":"771177536d292d02","toSide":"left"},
+		{"id":"491de3ce87b59219","fromNode":"5f17f3c8b3aa4ba1","fromSide":"right","toNode":"0fcfd40f3c7de082","toSide":"top"},
+		{"id":"6b7983da8fa69695","fromNode":"771177536d292d02","fromSide":"right","toNode":"71bb310ce4fe35e5","toSide":"left"},
+		{"id":"8d216f9d4ca1a987","fromNode":"771177536d292d02","fromSide":"right","toNode":"e855aaa6d9a83b48","toSide":"left"},
+		{"id":"342b38936e54e293","fromNode":"771177536d292d02","fromSide":"right","toNode":"24378fd0703d8e6f","toSide":"left"}
+	]
+}

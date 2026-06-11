@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"13065062fea26820","type":"text","text":"Biệt　「別」","x":-156,"y":-25,"width":250,"height":60},
+		{"id":"a65e265cc0d0b766","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-500,"y":-200,"width":185,"height":127},
+		{"id":"b53063215b3328f4","x":-565,"y":35,"width":250,"height":60,"type":"text","text":"Vạn"},
+		{"id":"1447ca1d3496d3d1","x":-473,"y":200,"width":158,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」.canvas"}
+	],
+	"edges":[
+		{"id":"8eea2455969f69e8","fromNode":"a65e265cc0d0b766","fromSide":"right","toNode":"13065062fea26820","toSide":"left"},
+		{"id":"dbb7693b4e3d07d1","fromNode":"b53063215b3328f4","fromSide":"right","toNode":"13065062fea26820","toSide":"left"},
+		{"id":"562f96da56e807d0","fromNode":"1447ca1d3496d3d1","fromSide":"right","toNode":"13065062fea26820","toSide":"left"}
+	]
+}

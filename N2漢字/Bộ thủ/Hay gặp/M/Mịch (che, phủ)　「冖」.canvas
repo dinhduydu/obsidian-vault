@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"f3cc3a30fb1e8a67","x":-198,"y":-40,"width":250,"height":60,"type":"text","text":"Mịch (che, phủ)　「冖」"}
+		{"id":"f3cc3a30fb1e8a67","type":"text","text":"Mịch (che, phủ)　「冖」","x":-198,"y":-40,"width":250,"height":60},
+		{"id":"2d8182c61783a0be","type":"text","text":"覚 - Giác","x":260,"y":-40,"width":250,"height":60},
+		{"id":"88c43e7f658d5f3f","type":"text","text":"覚える　「おぼえる」： cảm giác","x":660,"y":-40,"width":250,"height":60},
+		{"id":"86404c62a1232ce5","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":676,"y":74,"width":250,"height":60},
+		{"id":"77ad0c9a05e37e66","x":-140,"y":134,"width":192,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fdd4db9c481940d0","fromNode":"2d8182c61783a0be","fromSide":"right","toNode":"88c43e7f658d5f3f","toSide":"left"},
+		{"id":"ed2fa04419d123cf","fromNode":"2d8182c61783a0be","fromSide":"right","toNode":"86404c62a1232ce5","toSide":"left"},
+		{"id":"78d51647217ac4e2","fromNode":"f3cc3a30fb1e8a67","fromSide":"right","toNode":"2d8182c61783a0be","toSide":"left"},
+		{"id":"0d66ed776d85eca3","fromNode":"77ad0c9a05e37e66","fromSide":"right","toNode":"2d8182c61783a0be","toSide":"left"}
+	]
 }
