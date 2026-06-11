@@ -11,30 +11,14 @@
             "id": "eb450140b4ac6404",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 10.base",
-                "viewName": "Table"
+                "file": "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 10"
-            }
-          },
-          {
-            "id": "396b663aa2bd5f37",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
-                "viewState": {
-                  "x": 197.5943680916025,
-                  "y": 1242.3298187702205,
-                  "zoom": -1.0305883198334234
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Nhục　「肉 (⺼) 」"
+              "icon": "lucide-file",
+              "title": "PrefixIndex"
             }
           },
           {
@@ -52,6 +36,26 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Kim　「金 (釒)」"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a328be10bcb27e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396b663aa2bd5f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SubfixIndex"
             }
           }
         ]
@@ -111,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -203,10 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "eb450140b4ac6404",
   "lastOpenFiles": [
-    "Untitled 9.base",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
     "Untitled 10.base",
+    "Untitled 9.base",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
@@ -217,7 +225,6 @@
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C",
     "N2漢字/Bộ thủ/Hay gặp/G/Untitled",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/D",
@@ -225,7 +232,6 @@
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/L",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/H",
     "N2漢字/Bộ thủ/Ít gặp/P",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P",
     "N2漢字/Bộ thủ/Ít gặp/T/Untitled.md",
     "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
@@ -258,8 +264,6 @@
     "fastkey.md",
     "N2文法/尊敬語/尊敬語.md",
     "N2文法/ない・いう・しまう/しまう.md",
-    "N2文法/複合動詞/Untitled.md",
-    "からには.md",
-    "N2文法/Vて.md"
+    "N2文法/複合動詞/Untitled.md"
   ]
 }

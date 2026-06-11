@@ -1,5 +1,5 @@
 Hậu tố
- │ ├─ Tính chất / Trạng thái
+### Tính chất / Trạng thái
  │   ├─ ～性 (Tính): Bản chất (Vd: 安全性 - tính an toàn)
  │   ├─ ～的な (Đích): Mang tính (Vd: 科学的 - mang tính khoa học)
  │   ├─ ～感 (Cảm): Cảm giác (Vd: 安心感 - cảm giác yên tâm)
@@ -16,7 +16,7 @@ Hậu tố
  │   ├─ ～熱 (Nhiệt): Tâm huyết, say mê (Vd: 野球熱 - say mê bóng chày)
  │   └─ ～能 (Năng): Năng lượng (Vd: 放射能 - năng lượng phóng xạ)
  │
- │ ├─ Mức độ / Số lượng
+### Mức độ / Số lượng
  │   ├─ ～一 (Nhất): Nhất, số một (Vd: 世界一 - nhất thế giới)
  │   ├─ ～強 (Cường): Hơn một chút (Vd: 五百円強 - hơn 500 yên)
  │   ├─ ～弱 (Nhược): Gần mức (Vd: 三千名弱 - gần 3000 người)
@@ -41,7 +41,7 @@ Hậu tố
  │   ├─ ～差 (Sai): Chênh lệch (Vd: 時間差 - chênh lệch thời gian)
  │   └─ ～巻 (Quyển): Tập sách (Vd: 上巻 - tập đầu)
  │
- │ ├─ Nghề nghiệp / Con người
+### Nghề nghiệp / Con người
  │   ├─ ～士 (Sĩ): Có bằng cấp (Vd: 弁護士 - luật sư)
  │   ├─ ～師 (Sư): Có chuyên môn (Vd: 看護師 - y tá)
  │   ├─ ～手 (Thủ): Người thực hiện (Vd: 運転手 - tài xế)
@@ -61,7 +61,7 @@ Hậu tố
  │   ├─ ～殿 (Điện): Ngài (Vd: 山田殿)
  │   └─ ～連れ (Liên): Đưa đi cùng (Vd: 家族連れ)
  │
- │ ├─ Thiết bị / Dụng cụ
+### Thiết bị / Dụng cụ
  │   ├─ ～機 (Cơ): Máy móc (Vd: 洗濯機 - máy giặt)
  │   ├─ ～器 (Khí): Máy, cơ quan (Vd: 消火器 - bình chữa cháy)
  │   ├─ ～具 (Cụ): Dụng cụ (Vd: 文房具 - văn phòng phẩm)
@@ -71,7 +71,7 @@ Hậu tố
  │   ├─ ～灯 (Đăng): Đèn (Vd: 街路灯 - đèn đường)
  │   └─ ～塔 (Tháp): Tháp, trạm (Vd: 時計塔 - tháp đồng hồ)
  │
- │ ├─ Chi phí / Giá trị
+### Chi phí / Giá trị
  │   ├─ ～費 (Phí): Chi phí (Vd: 生活費 - phí sinh hoạt)
  │   ├─ ～賃 (Nhẫm): Tiền công, phí dịch vụ (Vd: 電車賃 - tiền tàu)
  │   ├─ ～額 (Ngạch): Số tiền (Vd: 最高額)
@@ -80,7 +80,7 @@ Hậu tố
  │   ├─ ～税 (Thuế): (Vd: 消費税 - thuế tiêu dùng)
  │   └─ ～財 (Tài): Tài sản, hàng hóa (Vd: 文化財)
  │
- │ ├─ Phân loại / Hình thức
+### Phân loại / Hình thức
  │   ├─ ～型 (Hình): Mẫu, kiểu (Vd: 最新型)
  │   ├─ ～式 (Thức): Hình thức (Vd: 結婚式)
  │   ├─ ～制 (Chế): Chế độ (Vd: 予約制)
@@ -104,8 +104,8 @@ Hậu tố
  │   ├─ ～案 (Án): Đề án, dự thảo (Vd: 改革案)
  │   └─ ～法 (Pháp): Luật, phương pháp (Vd: 料理法)
  │
- │ Hậu tố (Mở rộng)
- │ ├─ Thời gian / Thời điểm / Chu kỳ
+### ==Hậu tố (Mở rộng)==
+### Thời gian / Thời điểm / Chu kỳ
  │   ├─ ～明け (Minh): Kết thúc (Vd: 梅雨明け - kết thúc mùa mưa)
  │   ├─ ～後 (Hậu): Sau (Vd: 放課後 - sau giờ học)
  │   ├─ ～歳 (Tuế): Tuổi (Vd: 何歳 - bao nhiêu tuổi)
@@ -115,7 +115,7 @@ Hậu tố
  │   ├─ ～周 (Chu): Vòng (Vd: 一周 - một vòng)
  │   └─ ～順 (Thuận): Theo thứ tự (Vd: 年代順 - theo niên đại)
  │
- │ ├─ Không gian / Địa điểm / Cơ sở 
+### Không gian / Địa điểm / Cơ sở 
  │   ├─ ～園 (Viên): Vườn, công viên (Vd: 動物園 - sở thú)
  │   ├─ ～港 (Cảng): Cảng (Vd: 貿易港 - cảng thương mại)
  │   ├─ ～室 (Thất): Phòng (Vd: 研究室 - phòng nghiên cứu)
@@ -132,7 +132,7 @@ Hậu tố
  │   ├─ ～橋 (Kiều): Cầu (Vd: 歩道橋 - cầu vượt đường bộ)
  │   └─ ～工 (Công): Thợ, nghề (Vd: 修理工 - thợ sửa chữa)
  │
- │ ├─ Văn hóa / Nghệ thuật / Ấn phẩm 
+### Văn hóa / Nghệ thuật / Ấn phẩm 
  │   ├─ ～画 (Họa): Tranh, hội họa (Vd: 日本画 - tranh Nhật Bản)
  │   ├─ ～刊 (San): Xuất bản, ấn phẩm (Vd: 2015年刊 - xuất bản năm 2015)
  │   ├─ ～曲 (Khúc): Bản nhạc, ca khúc (Vd: 主題曲 - ca khúc chủ đề)
@@ -152,7 +152,7 @@ Hậu tố
  │   ├─ ～章 (Chương): Chương (Vd: 第一章 - chương 1)
  │   └─ ～展 (Triển): Triển lãm (Vd: 美術展 - triển lãm mỹ thuật)
  │
- │ ├─ Luật pháp / Y tế / Xã hội 
+### Luật pháp / Y tế / Xã hội 
  │   ├─ ～権 (Quyền): Quyền (Vd: 著作権 - quyền tác giả)
  │   ├─ ～罪 (Tội): Tội, vi phạm (Vd: 窃盗罪 - tội ăn trộm)
  │   ├─ ～犯 (Phạm): Tội phạm, kẻ phạm tội (Vd: 殺人犯 - kẻ sát nhân)
@@ -163,7 +163,7 @@ Hậu tố
  │   ├─ ～痛 (Thống): Đau (Vd: 筋肉痛 - đau cơ)
  │   └─ ～層 (Tầng): Tầng lớp (Vd: 知識層 - tầng lớp trí thức)
  │
- │ ├─ Vật chất / Khoa học / Đồ uống 
+### Vật chất / Khoa học / Đồ uống 
  │   ├─ ～液 (Dịch): Dung dịch (Vd: 消化液 - dịch tiêu hóa)
  │   ├─ ～塩 (Diêm): Muối (Vd: 自然塩 - muối tự nhiên)
  │   ├─ ～材 (Tài): Vật liệu (Vd: 断熱材 - chất cách nhiệt)
@@ -175,7 +175,7 @@ Hậu tố
  │   ├─ ～標 (Tiêu): Cột mốc, ký hiệu (Vd: 里程標 - cột mốc)
  │   └─ ～酒 (Tửu): Rượu (Vd: 日本酒 - rượu Nhật)
  │
- │ ├─ Hoạt động / Tổ chức / Thi đấu 
+### Hoạt động / Tổ chức / Thi đấu 
  │   ├─ ～業 (Nghiệp): Ngành, kinh doanh (Vd: 建設業 - ngành xây dựng)
  │   ├─ ～軍 (Quân): Quân đội (Vd: 政府軍 - quân chính phủ)
  │   ├─ ～団 (Đoàn): Đoàn, tổ chức (Vd: 調査団 - đoàn điều tra)
@@ -189,7 +189,7 @@ Hậu tố
  │   ├─ ～敗 (Bại): Thua, bại (Vd: 連敗 - thất bại liên tiếp)
  │   └─ ～術 (Thuật): Kỹ năng, thuật (Vd: 会話術 - kỹ thuật giao tiếp)
  │
- │ └─ Other (Trạng thái / Đối tượng / Đặc thù khác)
+### Other (Trạng thái / Đối tượng / Đặc thù khác)
  ├─ ～下 (Hạ): Dưới, trong điều kiện (Vd: 支配下 - dưới sự chi phối)
  ├─ ～切れ (Thiết): Hết, quá hạn (Vd: 期限切れ - hết thời hạn)
  ├─ ～口 (Khẩu): Cửa, lối (Vd: 非常口 - cửa thoát hiểm)

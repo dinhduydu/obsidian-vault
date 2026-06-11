@@ -1,12 +1,12 @@
 Tiền tố
- │ ├─ Phủ định / Đối lập
+### Phủ định / Đối lập
  │   ├─ 無 (Vô): Thiếu, không (Vd: 無意識 - vô thức, 無責任 - vô trách nhiệm)
  │   ├─ 非 (Phi): Không, phi (Vd: 非公開 - không công khai, 非合法 - phi pháp)
  │   ├─ 未 (Vị): Chưa (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)
  │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)
  │   └─ 逆 (Nghịch): Phản, ngược (Vd: 逆効果 - tác dụng ngược, 逆回転 - quay ngược chiều)
  │
- │ ├─ Mức độ
+### Mức độ
  │   ├─ 超 (Siêu): Cực kỳ (Vd: 超高速 - siêu tốc độ, 超能力 - siêu năng lực)
  │   ├─ 大 (Đại): Quy mô lớn (Vd: 大規模 - quy mô lớn, 大歓迎 - nhiệt liệt chào mừng)
  │   ├─ 高 (Cao): Cao (Vd: 高収入 - thu nhập cao, 高学歴 - học vấn cao)
@@ -24,7 +24,7 @@ Tiền tố
  │   ├─ 濃 (Nồng): Đậm, đặc (Vd: 濃塩酸 - axit đậm đặc)
  │   └─ 満 (Mãn): Đầy, đủ (Vd: 満タン - đầy bình, 満年齢 - tuổi tròn)
  │
- │ ├─ Thời gian
+### Thời gian
  │   ├─ 新 (Tân): Mới (Vd: 新商品 - sản phẩm mới, 新生活 - cuộc sống mới)
  │   ├─ 旧 (Cựu): Cũ, cựu (Vd: 旧正月 - Tết âm lịch, 旧制度 - chế độ cũ)
  │   ├─ 元 (Nguyên): Trước đây, cựu (Vd: 元首相 - cựu thủ tướng)
@@ -38,7 +38,7 @@ Tiền tố
  │   ├─ あくる: Tiếp theo (Vd: あくる朝 - sáng hôm sau)
  │   └─ 初 (Sơ): Đầu tiên (Vd: 初体験 - trải nghiệm đầu tiên)
  │
- │ ├─ Số lượng 
+### Số lượng 
  │   ├─ 一 (Nhất): Một (Vd: 一種 - một loại, 一握ri - một nắm)
  │   ├─ 多 (Đa): Nhiều (Vd: 多機能 - nhiều tính năng, 多目的 - đa năng)
  │   ├─ 全 (Toàn): Tất cả (Vd: 全学生 - tất cả học sinh, 全自動 - hoàn toàn tự động)
@@ -49,11 +49,11 @@ Tiền tố
  │   ├─ 半 (Bán): Một nửa, gần như (Vd: 半透明 - bán trong suốt, 半そで - cộc tay)
  │   └─ 幾 (Ki): Bao nhiêu, nhiều (Vd: 幾通り - nhiều cách)
  │
- │ ├─ Lặp lại
+### Lặp lại
  │   └─ 再 (Tái): Làm lại (Vd: 再利用 - tái sử dụng, 再開発 - tái phát triển)
  │==========================================================================================================
- │ Tiền tố (Mở rộng)
- │ ├─ Tính chất / Trạng thái 
+### ==Tiền tố (Mở rộng)==
+### Tính chất / Trạng thái 
  │   ├─ 純 (Thuần): Thuần túy (Vd: 純国産 - thuần sản xuất trong nước)
  │   ├─ 静 (Tĩnh): Tĩnh (Vd: 静電気 - tĩnh điện)
  │   ├─ 等 (Đẳng): Đều, bằng nhau (Vd: 等間隔 - khoảng cách bằng nhau)
@@ -68,7 +68,7 @@ Tiền tố
  │   ├─ 生 (Sinh): Sống, tươi, trực tiếp (Vd: 生演奏 - biểu diễn trực tiếp)
  │   └─ 角 (Giác): Góc, hình khối (Vd: 角砂糖 - đường cục)
  │
- │ ├─ Vai trò / Đối tượng / Sở hữu 
+### Vai trò / Đối tượng / Sở hữu 
  │   ├─ 当 (Đương): Chúng tôi - dùng cho cơ quan (Vd: 当事務所 - văn phòng của chúng tôi)
  │   ├─ 我が (Ngã): Tôi, chúng tôi - mang tính tự hào (Vd: 我が社 - công ty chúng tôi)
  │   ├─ 被 (Bị): Đối tượng nhận hành động (Vd: 被保険者 - người được bảo hiểm)
@@ -78,7 +78,7 @@ Tiền tố
  │   ├─ 主 (Chủ): Chính (Vd: 主目的 - mục đích chính)
  │   └─ 本 (Bổn/Bản): Chính thức, này (Vd: 本事件 - vụ án này/đang xử lý)
  │
- │ ├─ Quan hệ / Thứ tự / Vị trí
+### Quan hệ / Thứ tự / Vị trí
  │   ├─ 他 (Tha): Khác (Vd: 他大学 - trường đại học khác)
  │   ├─ 別 (Biệt): Riêng biệt, khác (Vd: 別世界 - thế giới khác)
  │   ├─ 対 (Đối): Đối với, tới (Vd: 対米輸出 - xuất khẩu sang Mỹ)
@@ -88,7 +88,7 @@ Tiền tố
  │   ├─ 同 (Đồng): Cùng, giống (Vd: 同世代 - cùng thế hệ)
  │   └─ ある (Hữu): Nào đó (Vd: ある日 - một ngày nọ)
  │
- │ ├─ Lĩnh vực / Đặc thù
+### Lĩnh vực / Đặc thù
  │   ├─ 絵 (Hội): Vẽ, minh họa (Vd: 絵日記 - nhật ký bằng hình vẽ)
  │   ├─ 管 (Quản): Nhạc cụ hơi/thổi (Vd: 管楽器)
  │   ├─ 軍 (Quân): Quân đội (Vd: 軍資金 - quân nhu/tài chính quân đội)
@@ -101,19 +101,19 @@ Tiền tố
  │   ├─ 卵 (Noãn): Trứng (Vd: 卵細胞 - tế bào trứng)
  │   └─ 徒 (Đồ): Chạy đua (Vd: 徒競走 - cuộc chạy đua)
  │
- │ ├─ Hành động / Nhu cầu / Gốc rễ
+### Hành động / Nhu cầu / Gốc rễ
  │   ├─ 加 (Gia): Tăng thêm (Vd: 加速度 - gia tốc)
  │   ├─ 省 (Tỉnh): Cắt giảm, tiết kiệm (Vd: 省エネ - tiết kiệm năng lượng)
  │   ├─ 要 (Yếu): Cần, yêu cầu (Vd: 要予約 - cần đặt trước)
  │   ├─ 誤 (Ngộ): Nhầm, sai (Vd: 誤操作 - thao tác sai)
  │   └─ 原 (Nguyên): Gốc, nguồn (Vd: 原動力 - nguồn lực thúc đẩy)
  │
- │ ├─ Phạm vi / Tổng quát / Thời gian
+### Phạm vi / Tổng quát / Thời gian
  │   ├─ 総 (Tổng): Tổng (Vd: 総売上 - tổng doanh thu)
  │   ├─ 古 (Cổ): Cũ (Vd: 古着 - quần áo cũ)
  │   └─ 御 (Ngự): Kính ngữ (Vd: 御礼 - lời cảm ơn)
  │
- │ └─ Mức độ (Bổ sung)
+### Mức độ (Bổ sung)
  ├─ 重 (Trọng): Nặng (Vd: 重労働 - lao động nặng nhọc)
  ├─ 上 (Thượng): Tốt, cao (Vd: 上成績 - thành tích tốt)
  ├─ 深 (Thâm): Sâu (Vd: 深呼吸 - hít thở sâu)
