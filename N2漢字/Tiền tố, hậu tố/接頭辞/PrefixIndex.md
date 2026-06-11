@@ -51,5 +51,70 @@ Tiền tố
  │
  │ ├─ Lặp lại
  │   └─ 再 (Tái): Làm lại (Vd: 再利用 - tái sử dụng, 再開発 - tái phát triển)
+ │==========================================================================================================
+ │ Tiền tố (Mở rộng)
+ │ ├─ Tính chất / Trạng thái 
+ │   ├─ 純 (Thuần): Thuần túy (Vd: 純国産 - thuần sản xuất trong nước)
+ │   ├─ 静 (Tĩnh): Tĩnh (Vd: 静電気 - tĩnh điện)
+ │   ├─ 等 (Đẳng): Đều, bằng nhau (Vd: 等間隔 - khoảng cách bằng nhau)
+ │   ├─ 美 (Mỹ): Đẹp (Vd: 美男子 - mỹ nam)
+ │   ├── 良 (Lương): Tốt (Vd: 良導体 - chất dẫn tốt)
+ │   ├─ 和 (Hòa): Kiểu Nhật (Vd: 和食 - món ăn Nhật)
+ │   ├─ 空き (Không): Trống, rỗng (Vd: 空き部屋 - phòng trống)
+ │   ├─ 活 (Hoạt): Thực tế, đang hoạt động (Vd: 活火山 - núi lửa đang hoạt động)
+ │   ├─ 仮 (Giả): Tạm thời (Vd: 仮契約 - hợp đồng tạm thời)
+ │   ├─ 草 (Thảo): Nghiệp dư, không chính thức (Vd: 草野球 - bóng chày nghiệp dư)
+ │   ├─ 乱 (Loạn): Loạn (Vd: 乱開発 - khai thác bừa bãi)
+ │   ├─ 生 (Sinh): Sống, tươi, trực tiếp (Vd: 生演奏 - biểu diễn trực tiếp)
+ │   └─ 角 (Giác): Góc, hình khối (Vd: 角砂糖 - đường cục)
  │
- │ └─ Other (Tiền tố khác) └─ 空き, ある, 絵, 御, 加, 角, 活, 仮, 管, 草, 軍, 劇, 原, 誤, 主, 州, 重, 純, 助, 省, 上, 深, 素, 性, 静, 総, 他, 対, 第, 駐, 直, 徒, 当, 等, 同, 生, 乳, 熱, 農, 被, 美, 副, 古, 別, 本, 要, 乱, 卵, 良, 老, 和, 我が
+ │ ├─ Vai trò / Đối tượng / Sở hữu 
+ │   ├─ 当 (Đương): Chúng tôi - dùng cho cơ quan (Vd: 当事務所 - văn phòng của chúng tôi)
+ │   ├─ 我が (Ngã): Tôi, chúng tôi - mang tính tự hào (Vd: 我が社 - công ty chúng tôi)
+ │   ├─ 被 (Bị): Đối tượng nhận hành động (Vd: 被保険者 - người được bảo hiểm)
+ │   ├─ 副 (Phó): Phó, phụ (Vd: 副社長 - phó giám đốc)
+ │   ├─ 助 (Trợ): Trợ lý, hỗ trợ (Vd: 助監督 - trợ lý đạo diễn)
+ │   ├─ 老 (Lão): Già (Vd: 老教授 - giáo sư già)
+ │   ├─ 主 (Chủ): Chính (Vd: 主目的 - mục đích chính)
+ │   └─ 本 (Bổn/Bản): Chính thức, này (Vd: 本事件 - vụ án này/đang xử lý)
+ │
+ │ ├─ Quan hệ / Thứ tự / Vị trí
+ │   ├─ 他 (Tha): Khác (Vd: 他大学 - trường đại học khác)
+ │   ├─ 別 (Biệt): Riêng biệt, khác (Vd: 別世界 - thế giới khác)
+ │   ├─ 対 (Đối): Đối với, tới (Vd: 対米輸出 - xuất khẩu sang Mỹ)
+ │   ├─ 第 (Đệ): Thứ tự (Vd: 第一歩 - bước đầu tiên)
+ │   ├─ 駐 (Trú): Tại, trú đóng tại (Vd: 駐日 - tại Nhật Bản)
+ │   ├─ 直 (Trực): Thẳng, trực tiếp (Vd: 直輸入 - nhập khẩu trực tiếp)
+ │   ├─ 同 (Đồng): Cùng, giống (Vd: 同世代 - cùng thế hệ)
+ │   └─ ある (Hữu): Nào đó (Vd: ある日 - một ngày nọ)
+ │
+ │ ├─ Lĩnh vực / Đặc thù
+ │   ├─ 絵 (Hội): Vẽ, minh họa (Vd: 絵日記 - nhật ký bằng hình vẽ)
+ │   ├─ 管 (Quản): Nhạc cụ hơi/thổi (Vd: 管楽器)
+ │   ├─ 軍 (Quân): Quân đội (Vd: 軍資金 - quân nhu/tài chính quân đội)
+ │   ├─ 劇 (Kịch): Kịch (Vd: 劇作家 - nhà soạn kịch)
+ │   ├─ 州 (Châu): Bang (Vd: 州政府 - chính quyền bang)
+ │   ├─ 性 (Tính): Giới tính (Vd: 性教育 - giáo dục giới tính)
+ │   ├─ 乳 (Nhũ): Sữa (Vd: 乳製品 - sản phẩm từ sữa)
+ │   ├─ 熱 (Nhiệt): Nhiệt (Vd: 熱処理 - xử lý nhiệt)
+ │   ├─ 農 (Nông): Nông nghiệp (Vd: 農作物 - nông sản)
+ │   ├─ 卵 (Noãn): Trứng (Vd: 卵細胞 - tế bào trứng)
+ │   └─ 徒 (Đồ): Chạy đua (Vd: 徒競走 - cuộc chạy đua)
+ │
+ │ ├─ Hành động / Nhu cầu / Gốc rễ
+ │   ├─ 加 (Gia): Tăng thêm (Vd: 加速度 - gia tốc)
+ │   ├─ 省 (Tỉnh): Cắt giảm, tiết kiệm (Vd: 省エネ - tiết kiệm năng lượng)
+ │   ├─ 要 (Yếu): Cần, yêu cầu (Vd: 要予約 - cần đặt trước)
+ │   ├─ 誤 (Ngộ): Nhầm, sai (Vd: 誤操作 - thao tác sai)
+ │   └─ 原 (Nguyên): Gốc, nguồn (Vd: 原動力 - nguồn lực thúc đẩy)
+ │
+ │ ├─ Phạm vi / Tổng quát / Thời gian
+ │   ├─ 総 (Tổng): Tổng (Vd: 総売上 - tổng doanh thu)
+ │   ├─ 古 (Cổ): Cũ (Vd: 古着 - quần áo cũ)
+ │   └─ 御 (Ngự): Kính ngữ (Vd: 御礼 - lời cảm ơn)
+ │
+ │ └─ Mức độ (Bổ sung)
+ ├─ 重 (Trọng): Nặng (Vd: 重労働 - lao động nặng nhọc)
+ ├─ 上 (Thượng): Tốt, cao (Vd: 上成績 - thành tích tốt)
+ ├─ 深 (Thâm): Sâu (Vd: 深呼吸 - hít thở sâu)
+ └─ 素 (Tố): Đơn thuần hoặc nhấn mạnh (Vd: 素顔 - mặt mộc, 素早い - nhanh thoăn thoắt)
