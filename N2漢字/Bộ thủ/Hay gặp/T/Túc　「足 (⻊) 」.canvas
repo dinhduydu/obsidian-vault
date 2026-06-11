@@ -1,9 +1,7 @@
 {
 	"nodes":[
-		{"id":"b60019e69e2b8486","type":"text","text":"Túc　「足 (⻊) 」","x":-227,"y":-2,"width":250,"height":60},
 		{"id":"8e81d15d86aa7bce","type":"text","text":"跡 - Tích","x":265,"y":-148,"width":250,"height":60},
 		{"id":"7455e28c37ed68e7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「赤」.canvas","x":23,"y":-340,"width":114,"height":65},
-		{"id":"018fd6968dc5d727","type":"text","text":"Chân\nDi chuyển, bước đi","x":-600,"y":-32,"width":250,"height":60},
 		{"id":"18d43b3816364611","type":"text","text":"di tích = 旧跡（きゅうせき）\ndấu vết = 跡","x":1340,"y":235,"width":260,"height":98},
 		{"id":"8262708b5397740b","type":"text","text":"足跡（そくせき／あしあと）: dấu chân\n旧跡（きゅうせき）: di tích cũ\n跡地（あとち）: khu đất còn lại sau khi bị phá/dỡ\n面影の跡（おもかげのあと）: dấu vết còn lại của hình ảnh","x":662,"y":80,"width":469,"height":124},
 		{"id":"b90b7dc1272ff06b","type":"text","text":"筆跡　「ひっせき」：","x":673,"y":-179,"width":250,"height":60},
@@ -12,7 +10,12 @@
 		{"id":"805d3bddeb3d3e5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas","x":448,"y":-440,"width":124,"height":66},
 		{"id":"65ab7820c93014b2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas","x":455,"y":-640,"width":111,"height":77},
 		{"id":"e5a1ac6e8cfe5613","type":"text","text":"筆　「ふで」","x":922,"y":-520,"width":250,"height":60},
-		{"id":"375d519c1ce06ccf","type":"text","text":"筆 - Bút","x":718,"y":-520,"width":160,"height":60}
+		{"id":"375d519c1ce06ccf","type":"text","text":"筆 - Bút","x":718,"y":-520,"width":160,"height":60},
+		{"id":"018fd6968dc5d727","type":"text","text":"Chân\nDi chuyển, bước đi","x":-1180,"y":-178,"width":250,"height":60},
+		{"id":"b60019e69e2b8486","type":"text","text":"Túc　「足 (⻊) 」","x":-807,"y":-148,"width":250,"height":60},
+		{"id":"dd9ad282332f7d3d","x":-440,"y":180,"width":250,"height":60,"type":"text","text":"促 - Thúc"},
+		{"id":"1a6432e3184feba3","x":-80,"y":80,"width":305,"height":70,"type":"text","text":"促す　「うながす」：thúc đẩy"},
+		{"id":"b2b69c121b7cfb62","x":-720,"y":240,"width":174,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas"}
 	],
 	"edges":[
 		{"id":"ed494f59f1b6bbd7","fromNode":"b60019e69e2b8486","fromSide":"right","toNode":"8e81d15d86aa7bce","toSide":"left"},
@@ -26,6 +29,9 @@
 		{"id":"7bf4d9b327c41833","fromNode":"375d519c1ce06ccf","fromSide":"right","toNode":"e5a1ac6e8cfe5613","toSide":"left"},
 		{"id":"e1db588b07f24219","fromNode":"805d3bddeb3d3e5e","fromSide":"right","toNode":"375d519c1ce06ccf","toSide":"left"},
 		{"id":"d7609870f0592578","fromNode":"65ab7820c93014b2","fromSide":"right","toNode":"375d519c1ce06ccf","toSide":"left"},
-		{"id":"2bca535fca7459ea","fromNode":"375d519c1ce06ccf","fromSide":"bottom","toNode":"b90b7dc1272ff06b","toSide":"top"}
+		{"id":"2bca535fca7459ea","fromNode":"375d519c1ce06ccf","fromSide":"bottom","toNode":"b90b7dc1272ff06b","toSide":"top"},
+		{"id":"f6a561a67c0df0dd","fromNode":"b60019e69e2b8486","fromSide":"right","toNode":"dd9ad282332f7d3d","toSide":"left"},
+		{"id":"1cf73c050fdc7eea","fromNode":"dd9ad282332f7d3d","fromSide":"right","toNode":"1a6432e3184feba3","toSide":"left"},
+		{"id":"d2532e144653969d","fromNode":"b2b69c121b7cfb62","fromSide":"right","toNode":"dd9ad282332f7d3d","toSide":"left"}
 	]
 }

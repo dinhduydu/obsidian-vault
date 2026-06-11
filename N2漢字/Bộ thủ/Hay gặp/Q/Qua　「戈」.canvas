@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"202db1b4a85de541","x":-193,"y":-46,"width":250,"height":60,"type":"text","text":"Qua　「戈」"}
+		{"id":"202db1b4a85de541","type":"text","text":"Qua　「戈」","x":-500,"y":-40,"width":250,"height":60},
+		{"id":"0e8e5cb2d74a62ea","x":-62,"y":-182,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"10306a842caf526f","fromNode":"202db1b4a85de541","fromSide":"right","toNode":"0e8e5cb2d74a62ea","toSide":"left"}
+	]
 }

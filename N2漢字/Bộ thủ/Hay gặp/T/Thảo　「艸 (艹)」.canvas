@@ -9,7 +9,9 @@
 		{"id":"4cbe95740a3687cf","type":"text","text":"苦い　「にがい」：đắng","x":690,"y":400,"width":250,"height":60},
 		{"id":"b087ac2ca100350b","type":"text","text":"苦 - Khổ","x":260,"y":250,"width":250,"height":60},
 		{"id":"0bde74492d253c3b","type":"text","text":"Bị dày vò, hành hạ, giày vò về thể xác hoặc tinh thần.\nThường dùng khi nói đến sự đau khổ kéo dài do bệnh tật, lo âu, áp lực, ký ức, cảm giác tội lỗi...","x":1140,"y":-206,"width":337,"height":146},
-		{"id":"86e7d892d2d677ff","x":260,"y":600,"width":250,"height":60,"type":"text","text":"落"}
+		{"id":"86e7d892d2d677ff","type":"text","text":"落","x":260,"y":600,"width":250,"height":60},
+		{"id":"bad5ca911c674c69","type":"text","text":"芽 - Nha","x":236,"y":780,"width":250,"height":60},
+		{"id":"c250f4310c1920f6","type":"text","text":"肉芽　「にくが」：khối u, chỗ sưng","x":610,"y":780,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
@@ -20,6 +22,8 @@
 		{"id":"ec7594a7759f0c1a","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"b7244b8921fff235","toSide":"left"},
 		{"id":"6e044697ddd16fd7","fromNode":"b087ac2ca100350b","fromSide":"right","toNode":"4cbe95740a3687cf","toSide":"left"},
 		{"id":"573b6fdc33dc57ef","fromNode":"ea4a93220bf60e7d","fromSide":"right","toNode":"0bde74492d253c3b","toSide":"left"},
-		{"id":"156a56a73d87e145","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"86e7d892d2d677ff","toSide":"left"}
+		{"id":"156a56a73d87e145","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"86e7d892d2d677ff","toSide":"left"},
+		{"id":"e1fea48acccdac94","fromNode":"bad5ca911c674c69","fromSide":"right","toNode":"c250f4310c1920f6","toSide":"left"},
+		{"id":"4c2b2845fcc94a84","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"bad5ca911c674c69","toSide":"left"}
 	]
 }

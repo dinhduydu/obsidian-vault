@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"428fbddbf815d0b6","type":"text","text":"Chỉ　「止」","x":-144,"y":-73,"width":250,"height":60},
+		{"id":"9b0b66ad5694c10a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」.canvas","x":280,"y":-340,"width":319,"height":136},
+		{"id":"a14240f55e34a644","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-120,"y":-460,"width":177,"height":95},
+		{"id":"2c5eddc262859f34","type":"text","text":"Chỉ　「止」","x":-695,"y":-233,"width":250,"height":60},
+		{"id":"dc721f2041709ada","type":"text","text":"廃止　「はいし」：bãi bỏ","x":-1260,"y":-378,"width":250,"height":60},
+		{"id":"d965f34efba49d58","type":"text","text":"中止　「ちゅうし」：chấm dứt","x":-1264,"y":-260,"width":250,"height":60},
+		{"id":"fc1acce06459098d","type":"text","text":"停止　「ていし」：đình chỉ, dừng","x":-1352,"y":-102,"width":250,"height":60},
+		{"id":"4120eca06732cd74","type":"text","text":"口止め　「くちどめ」：bịt miệng","x":-1279,"y":2,"width":250,"height":60},
+		{"id":"8b740db5952859c6","type":"text","text":"禁止　「きんし」：cấm","x":-1336,"y":170,"width":250,"height":60},
+		{"id":"0f23f001a7573a61","type":"text","text":"企画　「きかく」：","x":680,"y":75,"width":250,"height":60},
+		{"id":"d19cb411d20248cd","type":"text","text":"企業　「きぎょう」：","x":680,"y":229,"width":250,"height":60},
+		{"id":"00dfc636f80f7d84","type":"text","text":"企 - Xí","x":315,"y":135,"width":250,"height":60},
+		{"id":"8f8cc55eb5c0b378","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「𠆢」.canvas","x":20,"y":229,"width":139,"height":98}
+	],
+	"edges":[
+		{"id":"f63b1c03e34413af","fromNode":"428fbddbf815d0b6","fromSide":"right","toNode":"9b0b66ad5694c10a","toSide":"left","label":"dừng lại"},
+		{"id":"87499d75b8dd1026","fromNode":"a14240f55e34a644","fromSide":"right","toNode":"9b0b66ad5694c10a","toSide":"left","label":"vạch ra giới hạn"},
+		{"id":"a512d8a8757794e6","fromNode":"428fbddbf815d0b6","fromSide":"left","toNode":"2c5eddc262859f34","toSide":"right"},
+		{"id":"95da4393a16c43a3","fromNode":"2c5eddc262859f34","fromSide":"left","toNode":"dc721f2041709ada","toSide":"right"},
+		{"id":"5288ae4831fd8d9f","fromNode":"2c5eddc262859f34","fromSide":"left","toNode":"d965f34efba49d58","toSide":"right"},
+		{"id":"b2121ba1161f19c3","fromNode":"2c5eddc262859f34","fromSide":"left","toNode":"fc1acce06459098d","toSide":"right"},
+		{"id":"8babe06cf4c4abdd","fromNode":"2c5eddc262859f34","fromSide":"left","toNode":"4120eca06732cd74","toSide":"right"},
+		{"id":"c320e3f4f82ef81b","fromNode":"2c5eddc262859f34","fromSide":"left","toNode":"8b740db5952859c6","toSide":"right"},
+		{"id":"427d800a53ddda55","fromNode":"00dfc636f80f7d84","fromSide":"right","toNode":"0f23f001a7573a61","toSide":"left"},
+		{"id":"2533795aae5f8fc6","fromNode":"00dfc636f80f7d84","fromSide":"right","toNode":"d19cb411d20248cd","toSide":"left"},
+		{"id":"38647d68ced0cde9","fromNode":"428fbddbf815d0b6","fromSide":"right","toNode":"00dfc636f80f7d84","toSide":"left","label":"âm đọc"},
+		{"id":"5f4bb4a6bc796a60","fromNode":"8f8cc55eb5c0b378","fromSide":"right","toNode":"00dfc636f80f7d84","toSide":"left","label":"nhiều người"}
+	]
+}

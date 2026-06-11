@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"0b070b6c8e3bb830","x":-122,"y":-48,"width":250,"height":60,"type":"text","text":"Thuỷ　「永」"}
+		{"id":"0b070b6c8e3bb830","type":"text","text":"Thuỷ　「永」","x":-122,"y":-48,"width":250,"height":60},
+		{"id":"5ae2ee3fa100484c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":260,"y":-318,"width":144,"height":141},
+		{"id":"517352f09320e450","type":"text","text":"永 → dòng nước chảy\n𠂢 (phần nét xiên phía trên)","x":240,"y":-108,"width":250,"height":60},
+		{"id":"a25708cc9250177a","type":"text","text":"派 - Phái","x":660,"y":-278,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f51dd12acafae8e0","fromNode":"5ae2ee3fa100484c","fromSide":"right","toNode":"a25708cc9250177a","toSide":"left"},
+		{"id":"9993b7ed9987667f","fromNode":"517352f09320e450","fromSide":"right","toNode":"a25708cc9250177a","toSide":"left"},
+		{"id":"b170383e6e9f0a6a","fromNode":"0b070b6c8e3bb830","fromSide":"right","toNode":"517352f09320e450","toSide":"left"}
+	]
 }

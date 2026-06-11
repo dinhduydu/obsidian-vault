@@ -1,13 +1,38 @@
 {
 	"nodes":[
-		{"id":"32dcebf78961fadf","type":"text","text":"Xích　「彳」","x":-149,"y":-23,"width":250,"height":60},
-		{"id":"e82a7d30337f290c","type":"text","text":"法律","x":505,"y":-140,"width":250,"height":60},
+		{"id":"e82a7d30337f290c","type":"text","text":"法律　「ほうりつ」：pháp luật","x":505,"y":-140,"width":250,"height":60},
 		{"id":"1f92bb894fae7ee7","type":"text","text":"律 - Luật","x":260,"y":-140,"width":140,"height":60},
-		{"id":"20919d136bab8cfa","x":-41,"y":-320,"width":142,"height":62,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas"}
+		{"id":"20919d136bab8cfa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas","x":-41,"y":-320,"width":142,"height":62},
+		{"id":"852c9bb83d57cdb1","type":"text","text":"徒 - Đồ","x":275,"y":136,"width":250,"height":60},
+		{"id":"da1b590f8c655329","type":"text","text":"生徒　「せいと」：","x":646,"y":120,"width":250,"height":60},
+		{"id":"32762747f91e36ba","type":"text","text":"徒歩　「とほ」：","x":671,"y":258,"width":250,"height":60},
+		{"id":"aa75c47e8c2ef5c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」.canvas","x":-24,"y":217,"width":167,"height":142},
+		{"id":"4ea53a19dd533071","type":"text","text":"復 - Phục","x":275,"y":540,"width":250,"height":60},
+		{"id":"916f3eabcfa1910a","type":"text","text":"回復　「かいふく」：hồi phục","x":716,"y":540,"width":250,"height":60},
+		{"id":"8cb2139b4b18d1f6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」.canvas","x":-33,"y":640,"width":176,"height":149},
+		{"id":"b44198054145c964","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hành　「行」.canvas","x":236,"y":-352,"width":189,"height":127},
+		{"id":"32dcebf78961fadf","type":"text","text":"Xích　「彳」","x":-149,"y":-23,"width":250,"height":60},
+		{"id":"76f1ac64b70e2f4f","type":"text","text":"後 - Hậu","x":308,"y":1040,"width":250,"height":60},
+		{"id":"3bf4ad66c5afb917","type":"text","text":"最後　「さいご」：","x":671,"y":1040,"width":250,"height":60},
+		{"id":"7cbdb6a1d80b7f60","x":-24,"y":920,"width":159,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」.canvas"},
+		{"id":"ac05ba99c88c92a2","type":"text","text":"Xích　「彳」","x":-320,"y":1040,"width":250,"height":60},
+		{"id":"c7ffc026227e29b1","x":-24,"y":1140,"width":159,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」.canvas"}
 	],
 	"edges":[
 		{"id":"7939cb0b8ca7121f","fromNode":"1f92bb894fae7ee7","fromSide":"right","toNode":"e82a7d30337f290c","toSide":"left"},
 		{"id":"55d2f27ca8d27cae","fromNode":"32dcebf78961fadf","fromSide":"right","toNode":"1f92bb894fae7ee7","toSide":"left"},
-		{"id":"97dbdfde8fe2b8e1","fromNode":"20919d136bab8cfa","fromSide":"right","toNode":"1f92bb894fae7ee7","toSide":"left"}
+		{"id":"97dbdfde8fe2b8e1","fromNode":"20919d136bab8cfa","fromSide":"right","toNode":"1f92bb894fae7ee7","toSide":"left"},
+		{"id":"fd09ecaf407bf99c","fromNode":"852c9bb83d57cdb1","fromSide":"right","toNode":"da1b590f8c655329","toSide":"left"},
+		{"id":"8b30624bfb9c4816","fromNode":"852c9bb83d57cdb1","fromSide":"right","toNode":"32762747f91e36ba","toSide":"left"},
+		{"id":"d87f266a016b9964","fromNode":"32dcebf78961fadf","fromSide":"right","toNode":"852c9bb83d57cdb1","toSide":"left"},
+		{"id":"609259e060e84d75","fromNode":"aa75c47e8c2ef5c3","fromSide":"right","toNode":"852c9bb83d57cdb1","toSide":"left"},
+		{"id":"0160efafc356d187","fromNode":"4ea53a19dd533071","fromSide":"right","toNode":"916f3eabcfa1910a","toSide":"left"},
+		{"id":"033036d03168e489","fromNode":"32dcebf78961fadf","fromSide":"right","toNode":"4ea53a19dd533071","toSide":"left"},
+		{"id":"11b650ff1fa8ef23","fromNode":"8cb2139b4b18d1f6","fromSide":"right","toNode":"4ea53a19dd533071","toSide":"left"},
+		{"id":"95cdc6bc37c06783","fromNode":"32dcebf78961fadf","fromSide":"right","toNode":"b44198054145c964","toSide":"left"},
+		{"id":"f84742073fdb8552","fromNode":"76f1ac64b70e2f4f","fromSide":"right","toNode":"3bf4ad66c5afb917","toSide":"left"},
+		{"id":"6145a7316261f0b6","fromNode":"ac05ba99c88c92a2","fromSide":"right","toNode":"76f1ac64b70e2f4f","toSide":"left"},
+		{"id":"85f7cb28a9821ed7","fromNode":"7cbdb6a1d80b7f60","fromSide":"right","toNode":"76f1ac64b70e2f4f","toSide":"left"},
+		{"id":"5f01dd02d9476542","fromNode":"c7ffc026227e29b1","fromSide":"right","toNode":"76f1ac64b70e2f4f","toSide":"left"}
 	]
 }

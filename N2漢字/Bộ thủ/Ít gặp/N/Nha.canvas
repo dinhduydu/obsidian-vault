@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"621d825a18dbc202","x":-104,"y":-17,"width":250,"height":60,"type":"text","text":"Nha　「牙」"},
+		{"id":"5792c72d14fb9b10","x":-571,"y":-159,"width":250,"height":60,"type":"text","text":"răng nanh, ngà"},
+		{"id":"4d7149893f08202a","x":372,"y":-159,"width":250,"height":60,"type":"text","text":"牙　「きば」：răng nanh, ngà"},
+		{"id":"2b407042a41b5515","x":346,"y":190,"width":250,"height":60,"type":"text","text":"芽 - Nha"},
+		{"id":"55933ec2ecac5a52","x":100,"y":250,"width":123,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas"},
+		{"id":"4c5799a602889d6a","x":720,"y":190,"width":250,"height":60,"type":"text","text":"肉芽　「にくが」：khối u, chỗ sưng"}
+	],
+	"edges":[
+		{"id":"422de5414fbd5230","fromNode":"621d825a18dbc202","fromSide":"left","toNode":"5792c72d14fb9b10","toSide":"right"},
+		{"id":"fd883e8e3b2c9248","fromNode":"621d825a18dbc202","fromSide":"right","toNode":"4d7149893f08202a","toSide":"left"},
+		{"id":"e59f48cb61cb4d19","fromNode":"621d825a18dbc202","fromSide":"right","toNode":"2b407042a41b5515","toSide":"left"},
+		{"id":"e1ea60c97b04fd23","fromNode":"55933ec2ecac5a52","fromSide":"right","toNode":"2b407042a41b5515","toSide":"left"},
+		{"id":"0ba94fd50d90808f","fromNode":"2b407042a41b5515","fromSide":"right","toNode":"4c5799a602889d6a","toSide":"left"}
+	]
+}

@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"b5bbdadc1613cbe1","x":-89,"y":-31,"width":250,"height":60,"type":"text","text":"Nghiễm　「广」"}
+		{"id":"b5bbdadc1613cbe1","type":"text","text":"Nghiễm　「广」","x":-89,"y":-31,"width":250,"height":60},
+		{"id":"fbadf1aaccbd5be8","type":"text","text":"庫 - Khố","x":300,"y":60,"width":250,"height":60},
+		{"id":"25fc955df272ac99","type":"text","text":"宝庫　「ほうこ」：bảo tàng","x":740,"y":60,"width":250,"height":60},
+		{"id":"ccbb753dabfcae0e","x":20,"y":160,"width":129,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1a9b2f538968f6bc","fromNode":"fbadf1aaccbd5be8","fromSide":"right","toNode":"25fc955df272ac99","toSide":"left"},
+		{"id":"c03c1d244b911029","fromNode":"b5bbdadc1613cbe1","fromSide":"right","toNode":"fbadf1aaccbd5be8","toSide":"left"},
+		{"id":"89ded36193bef4bc","fromNode":"ccbb753dabfcae0e","fromSide":"right","toNode":"fbadf1aaccbd5be8","toSide":"left"}
+	]
 }

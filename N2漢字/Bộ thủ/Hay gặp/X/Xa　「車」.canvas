@@ -1,11 +1,36 @@
 {
 	"nodes":[
-		{"id":"ab7020e0cd187125","type":"text","text":"Xa　「車」","x":-160,"y":-20,"width":250,"height":60},
-		{"id":"23b7e68de13bd509","x":-600,"y":-140,"width":250,"height":107,"type":"text","text":"- Bộ thủ: **車（くるま）** — bộ Xa\n- Nghĩa: xoay, chuyển đổi"},
-		{"id":"917b745752a235aa","x":240,"y":-93,"width":250,"height":60,"type":"text","text":"転（てん）"}
+		{"id":"917b745752a235aa","type":"text","text":"転 - Chuyển","x":240,"y":-93,"width":250,"height":60},
+		{"id":"90a362fbe160e299","type":"text","text":"庫 - Khố","x":240,"y":-300,"width":250,"height":60},
+		{"id":"2c56fec3f6b9c274","type":"text","text":"宝庫　「ほうこ」：bảo tàng","x":680,"y":-300,"width":250,"height":60},
+		{"id":"7cf8cbe12e2dc5d4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas","x":-51,"y":-540,"width":141,"height":115},
+		{"id":"573a2beb3c0ad26b","type":"text","text":"連 - Liên","x":240,"y":140,"width":250,"height":60},
+		{"id":"d6b7c15e8f4c1f56","type":"text","text":"運 - Vận","x":718,"y":367,"width":250,"height":60},
+		{"id":"e4ad306ac6268569","type":"text","text":"運賃","x":660,"y":80,"width":250,"height":60},
+		{"id":"23b7e68de13bd509","type":"text","text":"- Bộ thủ: **車（くるま）** — bộ Xa\n- Nghĩa: xoay, chuyển đổi","x":-900,"y":-213,"width":250,"height":107},
+		{"id":"ab7020e0cd187125","type":"text","text":"Xa　「車」","x":-460,"y":-93,"width":250,"height":60},
+		{"id":"60b08a1d159e6a2e","type":"text","text":"Xa　「車」","x":-460,"y":640,"width":250,"height":60},
+		{"id":"ae4b5fea3f3e1740","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas","x":365,"y":397,"width":185,"height":136},
+		{"id":"a72ce3cc42bbfe32","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas","x":-382,"y":840,"width":172,"height":103},
+		{"id":"1a43044b0e5c2f6b","type":"text","text":"Quân","x":-108,"y":740,"width":250,"height":60},
+		{"id":"d865c4fc6190a768","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-35,"y":200,"width":177,"height":167},
+		{"id":"46e73ca54d9ddd12","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-35,"y":892,"width":177,"height":167}
 	],
 	"edges":[
 		{"id":"a1b13fed69757004","fromNode":"ab7020e0cd187125","fromSide":"left","toNode":"23b7e68de13bd509","toSide":"right"},
-		{"id":"62e23a2196a9d67f","fromNode":"ab7020e0cd187125","fromSide":"right","toNode":"917b745752a235aa","toSide":"left"}
+		{"id":"62e23a2196a9d67f","fromNode":"ab7020e0cd187125","fromSide":"right","toNode":"917b745752a235aa","toSide":"left"},
+		{"id":"02399c9dda50ac87","fromNode":"90a362fbe160e299","fromSide":"right","toNode":"2c56fec3f6b9c274","toSide":"left"},
+		{"id":"a4ba69fd395cb7fa","fromNode":"ab7020e0cd187125","fromSide":"right","toNode":"90a362fbe160e299","toSide":"left"},
+		{"id":"bc0b7e4c91e937ae","fromNode":"7cf8cbe12e2dc5d4","fromSide":"right","toNode":"90a362fbe160e299","toSide":"left"},
+		{"id":"1b47f22296efccf2","fromNode":"ab7020e0cd187125","fromSide":"right","toNode":"573a2beb3c0ad26b","toSide":"left"},
+		{"id":"fd240e0e6f85f8ca","fromNode":"573a2beb3c0ad26b","fromSide":"right","toNode":"e4ad306ac6268569","toSide":"left"},
+		{"id":"b2c48a3bea657650","fromNode":"ae4b5fea3f3e1740","fromSide":"right","toNode":"d6b7c15e8f4c1f56","toSide":"left"},
+		{"id":"2713a0cd9d59b9ca","fromNode":"573a2beb3c0ad26b","fromSide":"right","toNode":"d6b7c15e8f4c1f56","toSide":"left"},
+		{"id":"650ca41f5aab866f","fromNode":"ab7020e0cd187125","fromSide":"bottom","toNode":"60b08a1d159e6a2e","toSide":"top"},
+		{"id":"6c887cc28bc93524","fromNode":"60b08a1d159e6a2e","fromSide":"right","toNode":"1a43044b0e5c2f6b","toSide":"left"},
+		{"id":"ff9c83dbe8de6c34","fromNode":"a72ce3cc42bbfe32","fromSide":"right","toNode":"1a43044b0e5c2f6b","toSide":"left"},
+		{"id":"4fe0a62df007acde","fromNode":"d865c4fc6190a768","fromSide":"right","toNode":"573a2beb3c0ad26b","toSide":"left"},
+		{"id":"ec9064654515da5b","fromNode":"46e73ca54d9ddd12","fromSide":"right","toNode":"d6b7c15e8f4c1f56","toSide":"bottom"},
+		{"id":"a6e099ada88eea34","fromNode":"1a43044b0e5c2f6b","fromSide":"right","toNode":"d6b7c15e8f4c1f56","toSide":"bottom"}
 	]
 }

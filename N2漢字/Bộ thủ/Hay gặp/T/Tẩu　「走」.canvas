@@ -1,13 +1,25 @@
 {
 	"nodes":[
-		{"id":"346c1ed930868651","x":-169,"y":-14,"width":250,"height":60,"type":"text","text":"Tẩu　「走」"},
-		{"id":"17130aa929e285ff","x":213,"y":-114,"width":250,"height":60,"type":"text","text":"走 - Tẩu"},
-		{"id":"2c4e90eee060492b","x":230,"y":31,"width":250,"height":60,"type":"text","text":"起 - Khởi"},
-		{"id":"ff3aa8fee3204c46","x":231,"y":181,"width":250,"height":60,"type":"text","text":"徒 - Đồ"}
+		{"id":"346c1ed930868651","type":"text","text":"Tẩu　「走」","x":-169,"y":-14,"width":250,"height":60},
+		{"id":"2c4e90eee060492b","type":"text","text":"起 - Khởi","x":230,"y":31,"width":250,"height":60},
+		{"id":"ff3aa8fee3204c46","type":"text","text":"徒 - Đồ","x":231,"y":181,"width":250,"height":60},
+		{"id":"17130aa929e285ff","type":"text","text":"走 - Tẩu","x":-820,"y":-360,"width":250,"height":60},
+		{"id":"9bbc4b381d2add3e","x":-1268,"y":-497,"width":250,"height":60,"type":"text","text":"走る　「はしる」："},
+		{"id":"0ed4b40a6ed84ec0","x":-1353,"y":-261,"width":250,"height":60,"type":"text","text":"逃走　「とうそう」：bỏ chạy"},
+		{"id":"2ce5c3faba5bc3e1","x":-1156,"y":-137,"width":250,"height":60,"type":"text","text":"口走る　「くちばしる」：lỡ miệng"},
+		{"id":"a542993635213701","x":-80,"y":280,"width":201,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas"},
+		{"id":"81581012d592d31a","x":602,"y":165,"width":250,"height":60,"type":"text","text":"生徒　「せいと」："},
+		{"id":"fe8400dd015d35bd","x":627,"y":303,"width":250,"height":60,"type":"text","text":"徒歩　「とほ」："}
 	],
 	"edges":[
-		{"id":"b18cdf6f0fafcb5c","fromNode":"346c1ed930868651","fromSide":"right","toNode":"17130aa929e285ff","toSide":"left"},
+		{"id":"b18cdf6f0fafcb5c","fromNode":"346c1ed930868651","fromSide":"left","toNode":"17130aa929e285ff","toSide":"right"},
 		{"id":"2de3d6179dd0e85b","fromNode":"346c1ed930868651","fromSide":"right","toNode":"2c4e90eee060492b","toSide":"left"},
-		{"id":"571174b41ee69dae","fromNode":"346c1ed930868651","fromSide":"right","toNode":"ff3aa8fee3204c46","toSide":"left"}
+		{"id":"571174b41ee69dae","fromNode":"346c1ed930868651","fromSide":"right","toNode":"ff3aa8fee3204c46","toSide":"left"},
+		{"id":"525642d6f65aeabb","fromNode":"17130aa929e285ff","fromSide":"left","toNode":"9bbc4b381d2add3e","toSide":"right"},
+		{"id":"45b18e6693bb5091","fromNode":"17130aa929e285ff","fromSide":"left","toNode":"0ed4b40a6ed84ec0","toSide":"right"},
+		{"id":"7fc9900d1e80c2a7","fromNode":"17130aa929e285ff","fromSide":"left","toNode":"2ce5c3faba5bc3e1","toSide":"right"},
+		{"id":"f32e63a23e7681ed","fromNode":"ff3aa8fee3204c46","fromSide":"right","toNode":"81581012d592d31a","toSide":"left"},
+		{"id":"808df837074beb8f","fromNode":"ff3aa8fee3204c46","fromSide":"right","toNode":"fe8400dd015d35bd","toSide":"left"},
+		{"id":"95e8ed510367cd51","fromNode":"a542993635213701","fromSide":"right","toNode":"ff3aa8fee3204c46","toSide":"left"}
 	]
 }

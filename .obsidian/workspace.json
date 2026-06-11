@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas",
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」.canvas",
                 "viewState": {
-                  "x": 540.7507312521549,
-                  "y": -17.24377202991181,
-                  "zoom": 0.1316222914873728
+                  "x": -3,
+                  "y": -17,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Hoả　「火」"
+              "title": "Các　「各」"
             }
           },
           {
@@ -209,24 +209,27 @@
   },
   "active": "eb450140b4ac6404",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hoả　「灬」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hộ　「户」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phi　「飛」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phỉ　「韭 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nha.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Untitled",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C",
+    "N2漢字/Bộ thủ/Hay gặp/G/Untitled",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/B",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/L",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/H",
     "N2漢字/Bộ thủ/Ít gặp/P",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/P",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/T",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp",
     "N2漢字/Bộ thủ/Ít gặp/T/Untitled.md",
     "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
@@ -239,10 +242,7 @@
     "N2文法/助詞/に/06_Thời điểm_Hoàn cảnh.md",
     "N2文法/助詞/に/04_Căn cứ_Nguyên nhân.md",
     "N2文法/助詞/に/03_So sánh_Đối chiếu.md",
-    "N2文法/助詞/に",
     "N2漢字/Bộ thủ/Hay gặp/L/Untitled.md",
-    "N2漢字/Bộ thủ/Ít gặp/V",
-    "N2漢字/Bộ thủ/Ít gặp/U",
     "N2漢字/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "Pasted image 20260527193714.png",

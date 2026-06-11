@@ -27,7 +27,6 @@
 		{"id":"9fed4d439cd258f3","type":"text","text":"港","x":-1045,"y":-680,"width":250,"height":60},
 		{"id":"9cf54298ba0e37e0","type":"text","text":"Bến cảng","x":-1462,"y":-674,"width":250,"height":60},
 		{"id":"a15ab4a24fe70d6f","type":"text","text":"津 - Tân","x":-1765,"y":-620,"width":250,"height":60},
-		{"id":"1de335ae4263b669","type":"text","text":"Thuỷ「氵」","x":-2080,"y":86,"width":130,"height":55},
 		{"id":"6d8af9a8957d69f8","type":"text","text":"- mãnh liệt,\n- gay gắt,\n- kích động.","x":609,"y":-1120,"width":250,"height":105},
 		{"id":"58fc20e1004ee655","type":"text","text":"Dòng nước chảy mạnh, va đập dữ dội.","x":240,"y":-1089,"width":250,"height":60},
 		{"id":"6fb297cc40837cf8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas","x":-545,"y":-1035,"width":159,"height":96},
@@ -41,7 +40,12 @@
 		{"id":"bbd2e91d32cce472","type":"text","text":"涙 - Lệ","x":-52,"y":280,"width":250,"height":60},
 		{"id":"8ae4b6ba2bfbf412","type":"text","text":"涙  「なみだ」(nước mắt)","x":348,"y":280,"width":250,"height":60},
 		{"id":"560ac839cdf4ce93","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」.canvas","x":-320,"y":400,"width":173,"height":112},
-		{"id":"f9bc2302faf0e4ef","x":-260,"y":560,"width":168,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」.canvas"}
+		{"id":"f9bc2302faf0e4ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」.canvas","x":-260,"y":560,"width":168,"height":132},
+		{"id":"1de335ae4263b669","type":"text","text":"Thuỷ「氵」","x":-2080,"y":86,"width":130,"height":55},
+		{"id":"f29b5aa55047fa60","type":"text","text":"Thuỷ「氵」","x":-3200,"y":86,"width":130,"height":55},
+		{"id":"7ea1041c7324a0ea","x":-2940,"y":367,"width":250,"height":60,"type":"text","text":"洗 - Tiển"},
+		{"id":"32a93be19603bbb0","x":-2540,"y":367,"width":250,"height":60,"type":"text","text":"洗う　「あらう」："},
+		{"id":"c4571d878ce071e5","x":-3260,"y":427,"width":154,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tiên　「先」.canvas"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left","label":"滑　（Hoạt)"},
@@ -85,6 +89,10 @@
 		{"id":"6e8235c3676e5b2f","fromNode":"bc04194e45226914","fromSide":"right","toNode":"3c30234e04de77d6","toSide":"top"},
 		{"id":"e090368eb84e7a1b","fromNode":"1de335ae4263b669","fromSide":"right","toNode":"8ecded8dad3b111b","toSide":"left"},
 		{"id":"b089bdfaf8796848","fromNode":"560ac839cdf4ce93","fromSide":"right","toNode":"bbd2e91d32cce472","toSide":"left"},
-		{"id":"25bb4337e24ecbfb","fromNode":"f9bc2302faf0e4ef","fromSide":"right","toNode":"1283f928ea0e9af9","toSide":"top"}
+		{"id":"25bb4337e24ecbfb","fromNode":"f9bc2302faf0e4ef","fromSide":"right","toNode":"1283f928ea0e9af9","toSide":"top"},
+		{"id":"03737a11f0800e63","fromNode":"f29b5aa55047fa60","fromSide":"right","toNode":"1de335ae4263b669","toSide":"left"},
+		{"id":"ff5fec3e379b0f7e","fromNode":"7ea1041c7324a0ea","fromSide":"right","toNode":"32a93be19603bbb0","toSide":"left"},
+		{"id":"113306e26056ee05","fromNode":"f29b5aa55047fa60","fromSide":"right","toNode":"7ea1041c7324a0ea","toSide":"left"},
+		{"id":"d0e67e1036a11043","fromNode":"c4571d878ce071e5","fromSide":"right","toNode":"7ea1041c7324a0ea","toSide":"left"}
 	]
 }

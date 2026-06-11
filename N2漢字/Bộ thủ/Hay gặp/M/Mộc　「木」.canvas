@@ -19,8 +19,14 @@
 		{"id":"ab189a4f55992418","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas","x":-80,"y":678,"width":121,"height":101},
 		{"id":"23bb4f0a23247837","type":"text","text":"- Tấm ván\n- Bảng","x":576,"y":514,"width":250,"height":60},
 		{"id":"72c1b274f6b125f1","type":"text","text":"- 黒板（こくばん）: bảng đen\n- 看板（かんばん）: biển hiệu","x":564,"y":668,"width":296,"height":72},
-		{"id":"ab8f0e815a1802d6","x":387,"y":854,"width":250,"height":60,"type":"text","text":"桟 - Sạn"},
-		{"id":"8919498cef6ae41f","x":747,"y":854,"width":250,"height":60,"type":"text","text":"khung gỗ, xà nhà"}
+		{"id":"b442effee84c321b","type":"text","text":"Mộc　「木」","x":-480,"y":947,"width":250,"height":60},
+		{"id":"ab8f0e815a1802d6","type":"text","text":"桟 - Sạn","x":451,"y":1147,"width":250,"height":60},
+		{"id":"8919498cef6ae41f","type":"text","text":"khung gỗ, xà nhà","x":811,"y":1147,"width":250,"height":60},
+		{"id":"d57d3f5d802c4e2b","type":"text","text":"素材　「そざい」：","x":422,"y":1240,"width":250,"height":60},
+		{"id":"5b3b8ac62b3a3776","type":"text","text":"材木　「さいもく」：","x":402,"y":1040,"width":250,"height":60},
+		{"id":"dcd47b10324f068c","type":"text","text":"材 - Tài","x":37,"y":1240,"width":250,"height":60},
+		{"id":"5ce2e04e466e7f05","x":-125,"y":371,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas"},
+		{"id":"5da3770246f741cc","x":-315,"y":1360,"width":171,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas"}
 	],
 	"edges":[
 		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},
@@ -41,6 +47,11 @@
 		{"id":"6dfa24bad7903c94","fromNode":"ab189a4f55992418","fromSide":"right","toNode":"8e1e318941476160","toSide":"left","label":"tiền tố"},
 		{"id":"b0eabe1c633c2bca","fromNode":"8e1e318941476160","fromSide":"right","toNode":"23bb4f0a23247837","toSide":"left"},
 		{"id":"5060ccd42780b2e9","fromNode":"8e1e318941476160","fromSide":"right","toNode":"72c1b274f6b125f1","toSide":"left"},
-		{"id":"474c09c23e76e2cc","fromNode":"ab8f0e815a1802d6","fromSide":"right","toNode":"8919498cef6ae41f","toSide":"left"}
+		{"id":"474c09c23e76e2cc","fromNode":"ab8f0e815a1802d6","fromSide":"right","toNode":"8919498cef6ae41f","toSide":"left"},
+		{"id":"b94317f499565ec5","fromNode":"dcd47b10324f068c","fromSide":"right","toNode":"5b3b8ac62b3a3776","toSide":"left"},
+		{"id":"9ce04b5a7cfb9af9","fromNode":"dcd47b10324f068c","fromSide":"right","toNode":"d57d3f5d802c4e2b","toSide":"left"},
+		{"id":"329cfa456a12a4c1","fromNode":"e49a2179021967a8","fromSide":"bottom","toNode":"b442effee84c321b","toSide":"top"},
+		{"id":"a27805300d674943","fromNode":"b442effee84c321b","fromSide":"right","toNode":"dcd47b10324f068c","toSide":"left"},
+		{"id":"90e2ceaf09b4f171","fromNode":"5da3770246f741cc","fromSide":"right","toNode":"dcd47b10324f068c","toSide":"left"}
 	]
 }

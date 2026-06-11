@@ -32,9 +32,13 @@
 		{"id":"b2f39534e38e6847","type":"text","text":"賃 - Nhẫm","x":348,"y":971,"width":250,"height":60},
 		{"id":"bbdd9060dc6fd9a6","type":"text","text":"**貧しい（まずしい）** = nghèo, thiếu thốn, eo hẹp.","x":724,"y":1332,"width":250,"height":60},
 		{"id":"bf10387d1ddcd319","type":"text","text":"貧 - Bần","x":348,"y":1337,"width":250,"height":60},
-		{"id":"141f081feddfeab2","x":182,"y":600,"width":166,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas"},
+		{"id":"141f081feddfeab2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas","x":182,"y":600,"width":166,"height":161},
 		{"id":"0e7501974b5bd673","type":"text","text":"成績：thành tích","x":889,"y":520,"width":250,"height":60},
-		{"id":"137c931e8cfd15b5","type":"text","text":"績 - Tích","x":432,"y":520,"width":250,"height":60}
+		{"id":"137c931e8cfd15b5","type":"text","text":"績 - Tích","x":432,"y":520,"width":250,"height":60},
+		{"id":"0a2e49b60ffb926f","type":"text","text":"財 - Tài","x":508,"y":160,"width":250,"height":60},
+		{"id":"d8914b62d375e2b8","type":"text","text":"財界　「ざいかい」：","x":910,"y":100,"width":250,"height":60},
+		{"id":"57b0213eff4f3741","type":"text","text":"財産　「ざいさん」：","x":906,"y":188,"width":250,"height":60},
+		{"id":"478755c84a3347f4","x":220,"y":218,"width":173,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas"}
 	],
 	"edges":[
 		{"id":"d7e636c8b362f77c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"b2f39534e38e6847","toSide":"left","label":"賃 - Nhẫm"},
@@ -67,6 +71,10 @@
 		{"id":"014bcc7c7be5eeca","fromNode":"7ac613c592aacd6c","fromSide":"right","toNode":"ee9e69f02b5ba144","toSide":"left"},
 		{"id":"5d803220336e8186","fromNode":"137c931e8cfd15b5","fromSide":"right","toNode":"0e7501974b5bd673","toSide":"left"},
 		{"id":"5259b1c47fd5c880","fromNode":"141f081feddfeab2","fromSide":"right","toNode":"137c931e8cfd15b5","toSide":"left"},
-		{"id":"a8f0f703da168075","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"137c931e8cfd15b5","toSide":"left"}
+		{"id":"a8f0f703da168075","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"137c931e8cfd15b5","toSide":"left"},
+		{"id":"6beda30214c723f8","fromNode":"0a2e49b60ffb926f","fromSide":"right","toNode":"d8914b62d375e2b8","toSide":"left"},
+		{"id":"d71e3f0e78f89e05","fromNode":"0a2e49b60ffb926f","fromSide":"right","toNode":"57b0213eff4f3741","toSide":"left"},
+		{"id":"c0802b0ac6014b2d","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"},
+		{"id":"c72002e2ac48f7c1","fromNode":"478755c84a3347f4","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"}
 	]
 }

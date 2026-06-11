@@ -16,7 +16,9 @@
 		{"id":"b32a89c2be5ce320","type":"text","text":"**名字（みょうじ / 名字）** = họ, tên họ (family name, surname)","x":704,"y":266,"width":276,"height":74},
 		{"id":"daa64dd67fd12af0","type":"text","text":"浮（フ・うく・うかぶ・うかれる）\n\nNghĩa chính:\n\nNổi, trôi trên mặt nước\nHiện lên, xuất hiện\nKhông ổn định, hời hợt\nVui vẻ quá mức, phù phiếm (うかれる)","x":740,"y":-154,"width":355,"height":213},
 		{"id":"277cfa4ac30441f5","type":"text","text":"Ban đầu chỉ vật nổi trên mặt nước.\n\n⇒ Có nước (氵) và vật không chìm mà nổi lên.","x":1240,"y":-108,"width":363,"height":122},
-		{"id":"bbaf62edf06fc30f","type":"text","text":"浮かぶ: nổi lên\n頭に浮かぶ: hiện lên trong đầu\n名前が浮かぶ: nhớ ra tên\n浮気: lòng dạ không ổn định, thay đổi tình cảm","x":2129,"y":-119,"width":449,"height":133}
+		{"id":"bbaf62edf06fc30f","type":"text","text":"浮かぶ: nổi lên\n頭に浮かぶ: hiện lên trong đầu\n名前が浮かぶ: nhớ ra tên\n浮気: lòng dạ không ổn định, thay đổi tình cảm","x":2129,"y":-119,"width":449,"height":133},
+		{"id":"8604efb324ff1866","type":"text","text":"教 - Giáo","x":248,"y":440,"width":250,"height":60},
+		{"id":"ad4de03fb4f6d02a","x":-157,"y":470,"width":165,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas"}
 	],
 	"edges":[
 		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"e636fe577ee85846","toSide":"left"},
@@ -34,6 +36,8 @@
 		{"id":"e3d7fc8de99b5970","fromNode":"3b0a2c2b8b92a4fe","fromSide":"right","toNode":"b32a89c2be5ce320","toSide":"left"},
 		{"id":"78922afbd468ed98","fromNode":"e636fe577ee85846","fromSide":"right","toNode":"daa64dd67fd12af0","toSide":"left"},
 		{"id":"f39f9e6d8096d5d2","fromNode":"daa64dd67fd12af0","fromSide":"right","toNode":"277cfa4ac30441f5","toSide":"left"},
-		{"id":"5026219ee71cccfe","fromNode":"277cfa4ac30441f5","fromSide":"right","toNode":"bbaf62edf06fc30f","toSide":"left","label":"Từ nghĩa \"nổi trên nước\" mở rộng thành:"}
+		{"id":"5026219ee71cccfe","fromNode":"277cfa4ac30441f5","fromSide":"right","toNode":"bbaf62edf06fc30f","toSide":"left","label":"Từ nghĩa \"nổi trên nước\" mở rộng thành:"},
+		{"id":"9cd75d31bda384d0","fromNode":"5c7078c152910506","fromSide":"right","toNode":"8604efb324ff1866","toSide":"left"},
+		{"id":"21072e97ddab915b","fromNode":"ad4de03fb4f6d02a","fromSide":"right","toNode":"8604efb324ff1866","toSide":"left"}
 	]
 }
