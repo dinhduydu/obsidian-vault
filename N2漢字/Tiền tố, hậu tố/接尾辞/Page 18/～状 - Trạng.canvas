@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"d17566561e344a1e","type":"group","x":-1320,"y":230,"width":1040,"height":1320,"label":"～状 = GIẤY TỜ / THƯ TỪ / VĂN BẢN"},
+		{"id":"f0b2fec128c3bca2","type":"group","x":-70,"y":230,"width":650,"height":420,"label":"～状 = HÌNH DẠNG"},
+		{"id":"94acacbb690f0620","type":"group","x":830,"y":230,"width":360,"height":460,"label":"～状 = TRẠNG THÁI"},
+		{"id":"group1","type":"text","text":"① ～状 = GIẤY TỜ / THƯ TỪ / VĂN BẢN\n\n状 = trạng\n(văn thư chính thức)","x":-900,"y":250,"width":360,"height":140},
+		{"id":"a1","type":"text","text":"案内状\nあんないじょう\n\nÁn nội trạng\n= Thư thông báo\n= Thư mời sự kiện","x":-1300,"y":450,"width":300,"height":220},
+		{"id":"a2","type":"text","text":"招待状\nしょうたいじょう\n\nChiêu đãi trạng\n= Thiệp mời\n(mang tính cá nhân)","x":-950,"y":450,"width":300,"height":220},
+		{"id":"a4","type":"text","text":"質問状\nしつもんじょう\n\nChất vấn trạng\n= Thư chất vấn\n= Thư hỏi","x":-1300,"y":730,"width":300,"height":220},
+		{"id":"a5","type":"text","text":"催促状\nさいそくじょう\n\nThôi xúc trạng\n= Giấy nhắc nợ\n= Thư hối thúc","x":-950,"y":730,"width":300,"height":220},
+		{"id":"a7","type":"text","text":"表彰状\nひょうしょうじょう\n\nBiểu chương trạng\n= Giấy khen","x":-1300,"y":1010,"width":300,"height":220},
+		{"id":"a8","type":"text","text":"免許状\nめんきょじょう\n\nMiễn hứa trạng\n= Giấy phép\n= Chứng chỉ hành nghề","x":-950,"y":1010,"width":300,"height":220},
+		{"id":"a10","type":"text","text":"信任状\nしんにんじょう\n\nTín nhiệm trạng\n= Quốc thư\n= Văn bản bổ nhiệm ngoại giao","x":-950,"y":1290,"width":340,"height":240},
+		{"id":"a3","type":"text","text":"紹介状\nしょうかいじょう\n\nThiệu giới trạng\n= Thư giới thiệu","x":-600,"y":450,"width":300,"height":220},
+		{"id":"a6","type":"text","text":"告訴状\nこくそじょう\n\nCáo tố trạng\n= Đơn tố cáo","x":-600,"y":730,"width":300,"height":220},
+		{"id":"a9","type":"text","text":"遺言状\nゆいごんじょう\n\nDi ngôn trạng\n= Di chúc\n= 遺言書","x":-600,"y":1010,"width":300,"height":220},
+		{"id":"group3","type":"text","text":"③ ～状 = TRẠNG THÁI\n\nĐặc điểm bên ngoài","x":850,"y":250,"width":320,"height":120},
+		{"id":"c1","type":"text","text":"クリーム状\nクリームじょう\n\nCream-like\n= Dạng kem\n= Sệt, đặc sánh","x":850,"y":450,"width":320,"height":220},
+		{"id":"compare","type":"text","text":"PHÂN BIỆT N2\n\n案内状\n= thư thông báo\n= sự kiện, hội thảo\n\n招待状\n= thiệp mời cá nhân\n= cưới, tiệc\n\n紹介状\n= thư giới thiệu\n\n質問状\n= thư chất vấn","x":-250,"y":850,"width":500,"height":380},
+		{"id":"summary","type":"text","text":"TỔNG KẾT\n\n～状\n↓\nTRẠNG\n\n① Văn bản\n案内状\n招待状\n紹介状\n質問状\n表彰状\n\n② Hình dạng\n球状\nチューブ状\n\n③ Trạng thái\nクリーム状\n\nMẸO:\nNếu đứng sau danh từ vật lý\n→ hình dạng\n\nNếu đứng sau tính chất vật chất\n→ trạng thái\n\nNếu đứng sau động từ/Hán từ hành chính\n→ giấy tờ, văn bản","x":500,"y":850,"width":740,"height":690},
+		{"id":"0727e0af5dbbd4de","type":"text","text":"液体状 = trạng thái dạng lỏng","x":850,"y":390,"width":250,"height":60},
+		{"id":"9e7406ac312f5d16","type":"file","file":"Pasted image 20260612121054.png","x":1280,"y":390,"width":400,"height":212},
+		{"id":"title","type":"text","text":"# N2 Hậu tố ～状（じょう）\n\nHán Việt: TRẠNG（状）\n\nÝ gốc:\n① Văn bản / giấy tờ\n② Trạng thái\n③ Hình dạng","x":0,"y":0,"width":520,"height":140},
+		{"id":"group2","type":"text","text":"② ～状 = HÌNH DẠNG\n\n状 = dạng, hình","x":50,"y":250,"width":320,"height":120},
+		{"id":"b1","type":"text","text":"球状\nきゅうじょう\n\nCầu trạng\n= Hình cầu","x":-50,"y":450,"width":280,"height":180},
+		{"id":"b2","type":"text","text":"チューブ状\nチューブじょう\n\nTube-shaped\n= Hình ống","x":280,"y":450,"width":280,"height":180}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"title","fromSide":"left","toNode":"group1","toSide":"right"},
+		{"id":"e2","fromNode":"title","fromSide":"bottom","toNode":"group2","toSide":"top"},
+		{"id":"e3","fromNode":"title","fromSide":"bottom","toNode":"group3","toSide":"left"},
+		{"id":"e4","fromNode":"group1","fromSide":"bottom","toNode":"compare","toSide":"top"},
+		{"id":"e5","fromNode":"title","fromSide":"bottom","toNode":"summary","toSide":"top"},
+		{"id":"73d90f0d22d4fbc1","fromNode":"group3","fromSide":"right","toNode":"9e7406ac312f5d16","toSide":"top"}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"bce90c5a9d04a162","x":-1170,"y":230,"width":1020,"height":920,"type":"group","label":" 式 = NGHI THỨC / LỄ"},
+		{"id":"df2dd0d8411c23fe","x":1430,"y":230,"width":799,"height":420,"type":"group","label":"式 = LOẠI / CƠ CHẾ HOẠT ĐỘNG"},
+		{"id":"8c696a6bbf30460e","x":-170,"y":230,"width":710,"height":420,"type":"group","label":"式 = CÔNG THỨC"},
+		{"id":"2675a55ab26c1641","x":530,"y":230,"width":670,"height":420,"type":"group","label":"式 = KIỂU / PHONG CÁCH"},
+		{"id":"title","type":"text","text":"# N2 Hậu tố ～式（しき）\n\nHán Việt: THỨC（式）\nÝ gốc: hình thức đã được quy chuẩn","x":0,"y":0,"width":500,"height":120},
+		{"id":"group1","type":"text","text":"① 式 = NGHI THỨC / LỄ\n\n式 = thức\n(nghi thức, lễ nghi)","x":-800,"y":250,"width":320,"height":120},
+		{"id":"g1_1","type":"text","text":"開会式\nかいかいしき\n\nKhai hội thức\n= Lễ khai mạc","x":-1150,"y":450,"width":280,"height":180},
+		{"id":"g1_2","type":"text","text":"閉会式\nへいかいしき\n\nBế hội thức\n= Lễ bế mạc","x":-800,"y":450,"width":280,"height":180},
+		{"id":"g1_3","type":"text","text":"結婚式\nけっこんしき\n\nKết hôn thức\n= Lễ cưới","x":-450,"y":450,"width":280,"height":180},
+		{"id":"g1_4","type":"text","text":"卒業式\nそつぎょうしき\n\nTốt nghiệp thức\n= Lễ tốt nghiệp","x":-1150,"y":700,"width":280,"height":180},
+		{"id":"g1_5","type":"text","text":"始業式\nしぎょうしき\n\nThủy nghiệp thức\n= Lễ khai giảng","x":-800,"y":700,"width":280,"height":180},
+		{"id":"g1_6","type":"text","text":"成人式\nせいじんしき\n\nThành nhân thức\n= Lễ trưởng thành","x":-450,"y":700,"width":280,"height":180},
+		{"id":"g1_7","type":"text","text":"告別式\nこくべつしき\n\nCáo biệt thức\n= Lễ truy điệu","x":-800,"y":950,"width":280,"height":180},
+		{"id":"group2","type":"text","text":"② 式 = CÔNG THỨC\n\nBiểu thức, phương trình","x":0,"y":250,"width":320,"height":120},
+		{"id":"g2_1","type":"text","text":"化学式\nかがくしき\n\nHóa học thức\n= Công thức hóa học","x":-150,"y":450,"width":300,"height":180},
+		{"id":"g2_2","type":"text","text":"方程式\nほうていしき\n\nPhương trình thức\n= Phương trình","x":220,"y":450,"width":300,"height":180},
+		{"id":"group3","type":"text","text":"③ 式 = KIỂU / PHONG CÁCH\n\nTheo kiểu, theo hệ","x":700,"y":250,"width":320,"height":120},
+		{"id":"g3_1","type":"text","text":"日本式\nにほんしき\n\nNhật Bản thức\n= Kiểu Nhật","x":550,"y":450,"width":280,"height":180},
+		{"id":"g3_2","type":"text","text":"最新式\nさいしんしき\n\nTối tân thức\n= Kiểu mới nhất","x":900,"y":450,"width":280,"height":180},
+		{"id":"group4","type":"text","text":"④ 式 = LOẠI / CƠ CHẾ HOẠT ĐỘNG\n\nMáy móc, thiết bị","x":1450,"y":250,"width":360,"height":120},
+		{"id":"g4_1","type":"text","text":"充電式\nじゅうでんしき\n\nSung điện thức\n= Loại sạc điện","x":1500,"y":450,"width":320,"height":180},
+		{"id":"summary","type":"text","text":"TỔNG KẾT\n\n～式\n↓\nHình thức đã được quy chuẩn\n\n① Nghi thức\n結婚式\n卒業式\n\n② Công thức\n化学式\n方程式\n\n③ Kiểu mẫu\n日本式\n最新式\n\n④ Cơ chế hoạt động\n充電式","x":250,"y":900,"width":500,"height":500},
+		{"id":"tip","type":"text","text":"MẸO JLPT N2-N1\n\nNếu đứng sau:\n\n• 結婚・卒業・成人\n→ LỄ\n\n• 化学・方程\n→ CÔNG THỨC\n\n• 日本・最新\n→ KIỂU\n\n• 充電・電池・自動\n→ LOẠI THIẾT BỊ","x":-640,"y":-240,"width":500,"height":360}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"title","fromSide":"bottom","toNode":"group1","toSide":"right"},
+		{"id":"e2","fromNode":"title","fromSide":"bottom","toNode":"group2","toSide":"top"},
+		{"id":"e3","fromNode":"title","fromSide":"bottom","toNode":"group3","toSide":"top"},
+		{"id":"e4","fromNode":"title","fromSide":"right","toNode":"group4","toSide":"left"},
+		{"id":"e5","fromNode":"title","fromSide":"bottom","toNode":"summary","toSide":"top"},
+		{"id":"3440c510a9d34f46","fromNode":"title","fromSide":"left","toNode":"tip","toSide":"right"}
+	]
+}

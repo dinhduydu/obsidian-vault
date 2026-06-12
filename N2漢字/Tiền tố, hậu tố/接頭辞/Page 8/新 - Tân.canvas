@@ -8,7 +8,7 @@
 		{"id":"word3","type":"text","text":"# 新生活（しんせいかつ）\n\n🏠 Cuộc sống mới\n\n📚 Hán Việt:\n- 新 = mới\n- 生活 = cuộc sống\n\n## Nuance\n- bắt đầu cuộc sống mới\n- chuyển nhà / đi học / đi làm mới\n\n💡 Thường dùng khi:\n- tốt nghiệp\n- chuyển việc\n- chuyển nơi ở","x":1900,"y":1040,"width":920,"height":520},
 		{"id":"word1","type":"text","text":"# 新傾向（しんけいこう）\n\n📊 Xu thế mới\n\n📚 Hán Việt:\n- 新 = mới\n- 傾向 = xu hướng\n\n## Nuance\nChỉ:\n- trend mới\n- thay đổi trong xã hội\n- hướng phát triển mới\n\n💡 Hay dùng trong:\n- báo chí\n- phân tích xã hội","x":1800,"y":490,"width":460,"height":550},
 		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Hãy nhớ 新 bằng hình ảnh:\n\n📦 hộp sản phẩm mới mở ra\n🏠 bắt đầu cuộc sống mới\n📊 xu hướng mới xuất hiện\n\n➡️ Điểm chung:\n『mọi thứ vừa được tạo ra hoặc bắt đầu』\n\n📌 Liên tưởng nhanh:\n新 = new = bắt đầu cái mới","x":980,"y":1560,"width":1180,"height":700},
-		{"id":"d8d7fb5eeb792780","x":180,"y":1288,"width":440,"height":272,"type":"file","file":"Pasted image 20260612014232.png"}
+		{"id":"d8d7fb5eeb792780","type":"file","file":"Pasted image 20260612014232.png","x":180,"y":1288,"width":440,"height":272}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},

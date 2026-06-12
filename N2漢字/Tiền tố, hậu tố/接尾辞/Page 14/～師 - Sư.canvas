@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"cd00e31354e9fc05","type":"group","x":-470,"y":230,"width":1020,"height":710,"label":"② DỊCH VỤ / KỸ THUẬT"},
+		{"id":"c94062d16928cc35","type":"group","x":-1220,"y":230,"width":690,"height":410,"label":"① Y TẾ"},
+		{"id":"012ef0e53b0a906c","type":"group","x":630,"y":230,"width":650,"height":410,"label":"③ TÔN GIÁO"},
+		{"id":"c082ab0697045264","x":1380,"y":230,"width":340,"height":730,"type":"group","label":"④ ĐẶC BIỆT"},
+		{"id":"title","type":"text","text":"# N2 Hậu tố ～師（し）\n\nHán Việt: SƯ（師）\n\nÝ nghĩa:\nNgười có kỹ năng chuyên môn,\nnghề nghiệp chuyên biệt,\nngười được đào tạo bài bản.","x":0,"y":-80,"width":550,"height":230},
+		{"id":"medical","type":"text","text":"① Y TẾ","x":-1000,"y":250,"width":250,"height":80},
+		{"id":"m1","type":"text","text":"看護師\nかんごし\n\nKhán hộ sư\n\n= Y tá\n= Điều dưỡng","x":-1200,"y":400,"width":300,"height":220},
+		{"id":"m2","type":"text","text":"薬剤師\nやくざいし\n\nDược tề sư\n\n= Dược sĩ","x":-850,"y":400,"width":300,"height":220},
+		{"id":"service","type":"text","text":"② DỊCH VỤ / KỸ THUẬT","x":-300,"y":250,"width":320,"height":80},
+		{"id":"s1","type":"text","text":"美容師\nびようし\n\nMỹ dung sư\n\n= Thợ làm tóc","x":-450,"y":400,"width":280,"height":220},
+		{"id":"s2","type":"text","text":"調理師\nちょうりし\n\nĐiều lý sư\n\n= Đầu bếp chuyên nghiệp","x":-100,"y":400,"width":280,"height":220},
+		{"id":"s3","type":"text","text":"調律師\nちょうりつし\n\nĐiều luật sư\n\n= Thợ chỉnh đàn","x":250,"y":400,"width":280,"height":220},
+		{"id":"s4","type":"text","text":"指圧師\nしあつし\n\nChỉ áp sư\n\n= Người bấm huyệt\n= Chuyên viên massage","x":-450,"y":680,"width":280,"height":240},
+		{"id":"s5","type":"text","text":"写真師\nしゃしんし\n\nTả chân sư\n\n= Nhiếp ảnh gia\n(cách gọi cũ)","x":-100,"y":680,"width":280,"height":240},
+		{"id":"s6","type":"text","text":"表具師\nひょうぐし\n\nBiểu cụ sư\n\n= Thợ đóng khung tranh\n= Thợ làm bình phong","x":250,"y":680,"width":280,"height":240},
+		{"id":"religion","type":"text","text":"③ TÔN GIÁO","x":700,"y":250,"width":250,"height":80},
+		{"id":"r1","type":"text","text":"宣教師\nせんきょうし\n\nTuyên giáo sư\n\n= Nhà truyền giáo","x":650,"y":400,"width":280,"height":220},
+		{"id":"r2","type":"text","text":"伝道師\nでんどうし\n\nTruyền đạo sư\n\n= Người truyền đạo","x":980,"y":400,"width":280,"height":220},
+		{"id":"special","type":"text","text":"④ ĐẶC BIỆT","x":1450,"y":250,"width":250,"height":80},
+		{"id":"sp1","type":"text","text":"調教師\nちょうきょうし\n\nĐiều giáo sư\n\n= Huấn luyện viên ngựa đua","x":1400,"y":400,"width":300,"height":240},
+		{"id":"sp2","type":"text","text":"詐欺師\nさぎし\n\nTrá ngụy sư\n\n= Kẻ lừa đảo\n\n⚠ Không phải nghề hợp pháp","x":1400,"y":700,"width":300,"height":240},
+		{"id":"core","type":"text","text":"GỐC HÁN TỰ\n\n師 = SƯ\n\n軍師 → quân sư\n教師 → giáo sư / giáo viên\n医師 → y sư\n\n=> Người có chuyên môn\n=> Người hướng dẫn\n=> Người hành nghề","x":620,"y":-115,"width":450,"height":265},
+		{"id":"591f51721131e3ef","type":"file","file":"Pasted image 20260612121325.png","x":-1680,"y":400,"width":400,"height":204},
+		{"id":"summary","type":"text","text":"TỔNG KẾT N2\n\n～師 = SƯ\n\nÝ nghĩa:\nNgười có chuyên môn\nNgười hành nghề\nNgười được đào tạo\n\nNhóm hay gặp:\n\nY tế\n看護師\n薬剤師\n医師\n\nLàm đẹp\n美容師\n\n","x":-480,"y":980,"width":700,"height":440},
+		{"id":"d05c3a66aa0f7606","x":220,"y":1179,"width":497,"height":482,"type":"text","text":"Ẩm thực\n調理師\n\nKỹ thuật\n調律師\n\nTôn giáo\n宣教師\n伝道師\n\nĐặc biệt\n詐欺師\n調教師\n\nMẸO:\nThấy ～師 → nghĩ ngay\n'Người làm nghề gì đó'\n'Chuyên gia trong lĩnh vực đó'"},
+		{"id":"compare","type":"text","text":"PHÂN BIỆT\n\n医者\n= bác sĩ (cách nói thường)\n\n医師\n= bác sĩ (chức danh)\n\n美容院\n= tiệm tóc\n\n美容師\n= thợ làm tóc\n\n薬局\n= nhà thuốc\n\n薬剤師\n= dược sĩ","x":740,"y":721,"width":520,"height":479}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"title","fromSide":"left","toNode":"medical","toSide":"right"},
+		{"id":"e2","fromNode":"title","fromSide":"bottom","toNode":"service","toSide":"top"},
+		{"id":"e3","fromNode":"title","fromSide":"bottom","toNode":"religion","toSide":"top"},
+		{"id":"e4","fromNode":"title","fromSide":"right","toNode":"special","toSide":"left"},
+		{"id":"e5","fromNode":"title","fromSide":"bottom","toNode":"summary","toSide":"top"}
+	]
+}

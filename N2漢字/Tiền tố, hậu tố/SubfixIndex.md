@@ -5,7 +5,7 @@ Hậu tố
  │   ├─ ～感 (Cảm): Cảm giác (Vd: 安心感 - cảm giác yên tâm)
  │   ├─ ～気味 (Ki vị): Có vẻ (Vd: 疲れ気味 - cảm thấy mệt)
  │   ├─ ～化 (Hóa): Thay đổi (Vd: 温暖化 - nóng lên toàn cầu)
- │   ├─ ～状 (Trạng): Trạng thái, hình dạng (Vd: 球状 - hình cầu)
+ │   ├─ ～状 (Trạng): Trạng thái, hình dạng (Vd: 球状 - hình cầu)　[[～状 - Trạng.canvas]]
  │   ├─ ～観 (Quan): Quan điểm (Vd: 価値観 - giá trị quan)
  │   ├─ ～視 (Thị): Coi là (Vd: 重要視 - xem trọng)
  │   ├─ ～済み (Tế): Đã xong (Vd: 解決済み - đã giải quyết xong)
@@ -23,6 +23,7 @@ Hậu tố
  │   ├─ ～倍 (Bội): Gấp số lần (Vd: 何倍 - gấp bao nhiêu lần)
  │   ├─ ～きっての: Nhất trong phạm vi (Vd: クラスきっての - giỏi nhất lớp)
  │   ├─ ～一式: Một bộ hoàn chỉnh (Vd: 家具一式)
+ │   ├─────[[一式 - Nhất Thức.canvas]]
  │   ├─ ～一色: Một màu/không khí (Vd: 緑一色 - một màu xanh)
  │   ├─ ～あたり: Tầm khoảng (Vd: 来月あたり - khoảng tháng sau)
  │   ├─ ～おきに: Cứ cách (Vd: 1時間おきに)
@@ -43,7 +44,7 @@ Hậu tố
  │
 ### Nghề nghiệp / Con người
  │   ├─ ～士 (Sĩ): Có bằng cấp (Vd: 弁護士 - luật sư)
- │   ├─ ～師 (Sư): Có chuyên môn (Vd: 看護師 - y tá)
+ │   ├─ ～師 (Sư): Có chuyên môn (Vd: 看護師 - y tá)　[[～師 - Sư.canvas]]
  │   ├─ ～手 (Thủ): Người thực hiện (Vd: 運転手 - tài xế)
  │   ├─ ～官 (Quan): Quan chức (Vd: 警察官 - cảnh sát)
  │   ├─ ～児 (Nhi): Đứa trẻ (Vd: 天才児 - thần đồng)
@@ -82,7 +83,7 @@ Hậu tố
  │
 ### Phân loại / Hình thức
  │   ├─ ～型 (Hình): Mẫu, kiểu (Vd: 最新型)
- │   ├─ ～式 (Thức): Hình thức (Vd: 結婚式)
+ │   ├─ ～式 (Thức): Hình thức (Vd: 結婚式)　[[～式 - Thức.canvas]]
  │   ├─ ～制 (Chế): Chế độ (Vd: 予約制)
  │   ├─ ～版 (Bản): Phiên bản (Vd: 最新版)
  │   ├─ ～科 (Khoa): Khoa, môn học (Vd: 皮膚科)

@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 ～気味 = hơi có dấu hiệu của X\n\n➡️ Dùng để chỉ:\n- trạng thái nhẹ\n- cảm giác đang tiến dần tới một tình trạng\n- mức độ chưa rõ ràng\n\n📌 Gần nghĩa:\n- slightly ~\n- a bit ~\n- tending to ~","x":400,"y":710,"width":480,"height":380},
 		{"id":"center","type":"text","text":"# ～気味（ぎみ）\n\n📚 Ý nghĩa:\n👉 có vẻ ~ • hơi ~ • cảm giác đang có xu hướng ~\n\n📌 Sắc thái:\n- dùng khi trạng thái chưa rõ ràng 100%\n- mang tính “hơi hơi”, “có xu hướng”\n- thường dùng cho cơ thể, cảm xúc, tình trạng","x":1260,"y":760,"width":480,"height":280},
-		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 気味 = “có dấu hiệu nhẹ của một trạng thái” 🌫️\n\n➡️ Hình ảnh:\n- trời sắp mưa (nhưng chưa mưa)\n- cơ thể hơi mệt\n- mọi thứ chỉ “đang nghiêng về”\n\n📌 Keyword:\n気味 = TENDING TO / SLIGHTLY / HINT OF","x":640,"y":1210,"width":480,"height":340},
-		{"id":"word4","type":"text","text":"# 上がり気味（あがりぎみ）\n\n📈 Có xu hướng tăng\n\n📚 Hán Việt:\n- 上がる = tăng\n- 気味 = hơi có xu hướng\n\n💡 Nghĩa:\n- giá/trạng thái đang tăng nhẹ","x":1120,"y":1210,"width":420,"height":320},
-		{"id":"word3","type":"text","text":"# 太り気味（ふとりぎみ）\n\n🍔 Hơi tăng cân\n\n📚 Hán Việt:\n- 太る = béo lên\n- 気味 = có xu hướng\n\n💡 Nghĩa:\n- đang có dấu hiệu tăng cân nhẹ","x":1540,"y":1210,"width":420,"height":320},
-		{"id":"word2","type":"text","text":"# 風邪気味（かぜぎみ）\n\n🤧 Cảm giác như bị cảm\n\n📚 Hán Việt:\n- 風邪 = cảm lạnh\n- 気味 = hơi có dấu hiệu\n\n💡 Nghĩa:\n- hơi có triệu chứng cảm lạnh","x":1960,"y":910,"width":340,"height":300},
-		{"id":"word1","type":"text","text":"# 疲れ気味（つかれぎみ）\n\n😵 Cảm thấy hơi mệt\n\n📚 Hán Việt:\n- 疲れ = mệt\n- 気味 = hơi có xu hướng\n\n💡 Nghĩa:\n- cơ thể đang mệt nhẹ, chưa kiệt sức","x":1960,"y":590,"width":420,"height":320},
-		{"id":"pattern","type":"text","text":"# Pattern N4–N1\n\n🧩 [N / V ます stem] + 気味\n→ nghĩa: hơi có xu hướng / hơi bị ~\n\nVí dụ:\n- 下がり気味 = hơi giảm\n- 疲れ気味 = hơi mệt\n- 不安気味 = hơi lo lắng\n\n📌 Dùng trong:\n- sức khỏe\n- cảm xúc\n- xu hướng thay đổi\n- mô tả trạng thái nhẹ","x":1320,"y":150,"width":360,"height":440}
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 ～気味 = hơi có dấu hiệu của X\n\n➡️ Dùng để chỉ:\n- trạng thái nhẹ\n- cảm giác đang tiến dần tới một tình trạng\n- mức độ chưa rõ ràng\n\n📌 Gần nghĩa:\n- slightly ~\n- a bit ~\n- tending to ~","x":780,"y":760,"width":480,"height":380},
+		{"id":"pattern","type":"text","text":"# Pattern N4–N1\n\n🧩 [N / V ます stem] + 気味\n→ nghĩa: hơi có xu hướng / hơi bị ~\n\nVí dụ:\n- 下がり気味 = hơi giảm\n- 疲れ気味 = hơi mệt\n- 不安気味 = hơi lo lắng\n\n📌 Dùng trong:\n- sức khỏe\n- cảm xúc\n- xu hướng thay đổi\n- mô tả trạng thái nhẹ","x":1260,"y":320,"width":360,"height":440},
+		{"id":"word1","type":"text","text":"# 疲れ気味（つかれぎみ）\n\n😵 Cảm thấy hơi mệt\n\n📚 Hán Việt:\n- 疲れ = mệt\n- 気味 = hơi có xu hướng\n\n💡 Nghĩa:\n- cơ thể đang mệt nhẹ, chưa kiệt sức","x":1620,"y":440,"width":420,"height":320},
+		{"id":"word2","type":"text","text":"# 風邪気味（かぜぎみ）\n\n🤧 Cảm giác như bị cảm\n\n📚 Hán Việt:\n- 風邪 = cảm lạnh\n- 気味 = hơi có dấu hiệu\n\n💡 Nghĩa:\n- hơi có triệu chứng cảm lạnh","x":1740,"y":760,"width":340,"height":300},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Nhớ 気味 = “có dấu hiệu nhẹ của một trạng thái” 🌫️\n\n➡️ Hình ảnh:\n- trời sắp mưa (nhưng chưa mưa)\n- cơ thể hơi mệt\n- mọi thứ chỉ “đang nghiêng về”\n\n📌 Keyword:\n気味 = TENDING TO / SLIGHTLY / HINT OF","x":780,"y":1140,"width":480,"height":340},
+		{"id":"word3","type":"text","text":"# 太り気味（ふとりぎみ）\n\n🍔 Hơi tăng cân\n\n📚 Hán Việt:\n- 太る = béo lên\n- 気味 = có xu hướng\n\n💡 Nghĩa:\n- đang có dấu hiệu tăng cân nhẹ","x":1680,"y":1060,"width":420,"height":320},
+		{"id":"word4","type":"text","text":"# 上がり気味（あがりぎみ）\n\n📈 Có xu hướng tăng\n\n📚 Hán Việt:\n- 上がる = tăng\n- 気味 = hơi có xu hướng\n\n💡 Nghĩa:\n- giá/trạng thái đang tăng nhẹ","x":1260,"y":1040,"width":420,"height":320}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
