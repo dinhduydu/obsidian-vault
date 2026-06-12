@@ -22,7 +22,7 @@
 		{"id":"3c30234e04de77d6","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas","x":-1360,"y":340,"width":137,"height":73},
 		{"id":"bc04194e45226914","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」.canvas","x":-1500,"y":200,"width":80,"height":78},
 		{"id":"bb97c8a7a3d1d044","type":"text","text":"渋い　「しぶい」：Chát","x":-1410,"y":732,"width":250,"height":60},
-		{"id":"2a94f86684180d61","type":"text","text":"渋い - Chát","x":-1750,"y":732,"width":250,"height":60},
+		{"id":"2a94f86684180d61","type":"text","text":"渋 - Chát","x":-1750,"y":732,"width":250,"height":60},
 		{"id":"2665ebf482398149","type":"text","text":"津波","x":-1420,"y":-520,"width":250,"height":60},
 		{"id":"9fed4d439cd258f3","type":"text","text":"港","x":-1045,"y":-680,"width":250,"height":60},
 		{"id":"9cf54298ba0e37e0","type":"text","text":"Bến cảng","x":-1462,"y":-674,"width":250,"height":60},
@@ -43,9 +43,12 @@
 		{"id":"f9bc2302faf0e4ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」.canvas","x":-260,"y":560,"width":168,"height":132},
 		{"id":"1de335ae4263b669","type":"text","text":"Thuỷ「氵」","x":-2080,"y":86,"width":130,"height":55},
 		{"id":"f29b5aa55047fa60","type":"text","text":"Thuỷ「氵」","x":-3200,"y":86,"width":130,"height":55},
-		{"id":"7ea1041c7324a0ea","x":-2940,"y":367,"width":250,"height":60,"type":"text","text":"洗 - Tiển"},
-		{"id":"32a93be19603bbb0","x":-2540,"y":367,"width":250,"height":60,"type":"text","text":"洗う　「あらう」："},
-		{"id":"c4571d878ce071e5","x":-3260,"y":427,"width":154,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tiên　「先」.canvas"}
+		{"id":"7ea1041c7324a0ea","type":"text","text":"洗 - Tiển","x":-2940,"y":367,"width":250,"height":60},
+		{"id":"32a93be19603bbb0","type":"text","text":"洗う　「あらう」：","x":-2540,"y":367,"width":250,"height":60},
+		{"id":"c4571d878ce071e5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tiên　「先」.canvas","x":-3260,"y":427,"width":154,"height":112},
+		{"id":"dd7aeec261093f28","x":-2957,"y":702,"width":250,"height":60,"type":"text","text":"深 - Thâm"},
+		{"id":"3424d007028c5cb0","x":-2637,"y":702,"width":250,"height":60,"type":"text","text":"深刻　「しんこく」:"},
+		{"id":"aae3e79a5b0017bf","x":-2637,"y":880,"width":354,"height":50,"type":"text","text":"農村に若い人がいないのは深刻な問題だ。"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left","label":"滑　（Hoạt)"},
@@ -66,7 +69,7 @@
 		{"id":"2fed9f7037309195","fromNode":"a59dd782e66dd0eb","fromSide":"right","toNode":"c512bda2f94bc409","toSide":"left"},
 		{"id":"c6e7c67e453c7551","fromNode":"1de335ae4263b669","fromSide":"right","toNode":"3c2058a3f3ee8ac7","toSide":"left","label":"淡 - Đạm"},
 		{"id":"f67a42cd8bd75b02","fromNode":"c512bda2f94bc409","fromSide":"right","toNode":"44e54d7851527b08","toSide":"left"},
-		{"id":"988f3b2672b38e24","fromNode":"1de335ae4263b669","fromSide":"right","toNode":"2a94f86684180d61","toSide":"left","label":"渋い - Chát"},
+		{"id":"988f3b2672b38e24","fromNode":"1de335ae4263b669","fromSide":"right","toNode":"2a94f86684180d61","toSide":"left","label":"渋 - Chát"},
 		{"id":"261a8e25c3246646","fromNode":"8ecded8dad3b111b","fromSide":"right","toNode":"365a8be1053fad2c","toSide":"left"},
 		{"id":"8b5e165ded4e6125","fromNode":"8ecded8dad3b111b","fromSide":"bottom","toNode":"3c30234e04de77d6","toSide":"top"},
 		{"id":"0031b23550d0ec8a","fromNode":"8184de91d0cc8d29","fromSide":"right","toNode":"9d7638c7315ea318","toSide":"left"},
@@ -93,6 +96,9 @@
 		{"id":"03737a11f0800e63","fromNode":"f29b5aa55047fa60","fromSide":"right","toNode":"1de335ae4263b669","toSide":"left"},
 		{"id":"ff5fec3e379b0f7e","fromNode":"7ea1041c7324a0ea","fromSide":"right","toNode":"32a93be19603bbb0","toSide":"left"},
 		{"id":"113306e26056ee05","fromNode":"f29b5aa55047fa60","fromSide":"right","toNode":"7ea1041c7324a0ea","toSide":"left"},
-		{"id":"d0e67e1036a11043","fromNode":"c4571d878ce071e5","fromSide":"right","toNode":"7ea1041c7324a0ea","toSide":"left"}
+		{"id":"d0e67e1036a11043","fromNode":"c4571d878ce071e5","fromSide":"right","toNode":"7ea1041c7324a0ea","toSide":"left"},
+		{"id":"b6d8d6a920101249","fromNode":"dd7aeec261093f28","fromSide":"right","toNode":"3424d007028c5cb0","toSide":"left"},
+		{"id":"5a3572589bb0cf89","fromNode":"f29b5aa55047fa60","fromSide":"right","toNode":"dd7aeec261093f28","toSide":"left"},
+		{"id":"c280ef876ac997a7","fromNode":"dd7aeec261093f28","fromSide":"right","toNode":"aae3e79a5b0017bf","toSide":"left"}
 	]
 }

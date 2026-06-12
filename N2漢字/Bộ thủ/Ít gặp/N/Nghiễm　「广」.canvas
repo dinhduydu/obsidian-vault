@@ -3,11 +3,35 @@
 		{"id":"b5bbdadc1613cbe1","type":"text","text":"Nghiễm　「广」","x":-89,"y":-31,"width":250,"height":60},
 		{"id":"fbadf1aaccbd5be8","type":"text","text":"庫 - Khố","x":300,"y":60,"width":250,"height":60},
 		{"id":"25fc955df272ac99","type":"text","text":"宝庫　「ほうこ」：bảo tàng","x":740,"y":60,"width":250,"height":60},
-		{"id":"ccbb753dabfcae0e","x":20,"y":160,"width":129,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」.canvas"}
+		{"id":"ccbb753dabfcae0e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」.canvas","x":20,"y":160,"width":129,"height":120},
+		{"id":"b2833f7a652634bb","type":"text","text":"庇 - Tí","x":327,"y":-236,"width":250,"height":60},
+		{"id":"39e0d357c1b23a51","type":"text","text":"广（まだれ - mái nhà)","x":-460,"y":-176,"width":250,"height":60},
+		{"id":"8da8e0895b826351","type":"text","text":"- Dưới mái nhà được che chắn, bảo vệ.\n- Từ đó phát triển thành nghĩa **che chở, bảo vệ**.","x":-640,"y":140,"width":381,"height":100},
+		{"id":"88959ecb943646cd","type":"text","text":"庇護（ひご）: bảo hộ, che chở","x":720,"y":-340,"width":302,"height":58},
+		{"id":"b5750d122944aa32","type":"text","text":"\n庇う（かばう）: bảo vệ, bênh vực","x":720,"y":-520,"width":313,"height":60},
+		{"id":"ee3e243f52bcc87a","type":"text","text":"= che chở + đứng ra đỡ đòn + bênh vực","x":77,"y":-490,"width":250,"height":60},
+		{"id":"c20cb710fca9bd95","type":"text","text":"### 守る（まもる）\nBảo vệ nói chung.\nKhông nhất thiết phải đứng ra chịu thay.\n\n環境を守る。\nBảo vệ môi trường.","x":1616,"y":-1305,"width":346,"height":206},
+		{"id":"6763f8def6b7036b","type":"text","text":"Mẫu thường gặp\n子供をかばう\n→ Bảo vệ con cái\n友達をかばう\n→ Bênh vực bạn bè\n部下をかばう\n→ Bảo vệ cấp dưới\n犯人をかばう\n→ Bao che cho tội phạm","x":1616,"y":-985,"width":265,"height":258},
+		{"id":"53b46045f537b332","type":"text","text":"### 助ける（たすける）\nGiúp đỡ, cứu giúp.\n\n溺れている人を助ける。\nCứu người bị đuối nước.","x":1962,"y":-1305,"width":321,"height":206},
+		{"id":"fb5434f08e4aa9a2","type":"text","text":"1. Bảo vệ ai đó khỏi nguy hiểm\n母は子供をかばった。\n→ Người mẹ che chở cho đứa con.\n彼は友人をかばってけがをした。\n→ Anh ấy bị thương vì che chắn cho bạn mình.","x":1240,"y":-985,"width":376,"height":180},
+		{"id":"50befa774554f40d","type":"text","text":"2. Bênh vực, bảo vệ khỏi bị chỉ trích\n彼女は弟をかばった。\n→ Cô ấy bênh vực em trai mình.\nどうして彼をかばうのですか。\n→ Tại sao anh lại bênh vực anh ta?","x":1240,"y":-805,"width":376,"height":169},
+		{"id":"9bb0a81ce6b52ac0","type":"text","text":"### かばう\nĐứng ra che chắn, nhận phần thiệt hoặc chỉ trích thay người khác.\n\n友達をかばう。\nĐứng ra bênh vực bạn.","x":1789,"y":-651,"width":480,"height":191},
+		{"id":"6d7f3a91fcee8af8","type":"text","text":"悪い人ではないと言って、彼女は友人を**かばった**。","x":2320,"y":-580,"width":437,"height":50,"color":"1"}
 	],
 	"edges":[
 		{"id":"1a9b2f538968f6bc","fromNode":"fbadf1aaccbd5be8","fromSide":"right","toNode":"25fc955df272ac99","toSide":"left"},
+		{"id":"89ded36193bef4bc","fromNode":"ccbb753dabfcae0e","fromSide":"right","toNode":"fbadf1aaccbd5be8","toSide":"left"},
 		{"id":"c03c1d244b911029","fromNode":"b5bbdadc1613cbe1","fromSide":"right","toNode":"fbadf1aaccbd5be8","toSide":"left"},
-		{"id":"89ded36193bef4bc","fromNode":"ccbb753dabfcae0e","fromSide":"right","toNode":"fbadf1aaccbd5be8","toSide":"left"}
+		{"id":"e4eaca9dd461068d","fromNode":"b5bbdadc1613cbe1","fromSide":"right","toNode":"b2833f7a652634bb","toSide":"left"},
+		{"id":"624dbc0a956ee416","fromNode":"b5bbdadc1613cbe1","fromSide":"left","toNode":"39e0d357c1b23a51","toSide":"right"},
+		{"id":"ed3422d495eea9b6","fromNode":"b5bbdadc1613cbe1","fromSide":"left","toNode":"8da8e0895b826351","toSide":"right"},
+		{"id":"dfdb147d05ff868d","fromNode":"b2833f7a652634bb","fromSide":"right","toNode":"88959ecb943646cd","toSide":"left"},
+		{"id":"b235c1273048084b","fromNode":"b2833f7a652634bb","fromSide":"right","toNode":"b5750d122944aa32","toSide":"left"},
+		{"id":"eba71fe436d0520c","fromNode":"b5750d122944aa32","fromSide":"right","toNode":"fb5434f08e4aa9a2","toSide":"left"},
+		{"id":"444d8327fb11a43a","fromNode":"b5750d122944aa32","fromSide":"right","toNode":"50befa774554f40d","toSide":"left"},
+		{"id":"4eeb8e501d722626","fromNode":"fb5434f08e4aa9a2","fromSide":"top","toNode":"c20cb710fca9bd95","toSide":"left"},
+		{"id":"51a54c6ecae2d1da","fromNode":"50befa774554f40d","fromSide":"bottom","toNode":"9bb0a81ce6b52ac0","toSide":"left"},
+		{"id":"78bfce65d458e1af","fromNode":"b2833f7a652634bb","fromSide":"top","toNode":"ee3e243f52bcc87a","toSide":"right"},
+		{"id":"290881c70ec2806e","fromNode":"9bb0a81ce6b52ac0","fromSide":"right","toNode":"6d7f3a91fcee8af8","toSide":"left"}
 	]
 }

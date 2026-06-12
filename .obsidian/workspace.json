@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35/～別 - Biệt.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」.canvas",
                 "viewState": {
-                  "x": 1568.7167206625322,
-                  "y": 917.8008202490851,
-                  "zoom": -0.40484156102177543
+                  "x": -247.93410778632852,
+                  "y": -853.3106626989486,
+                  "zoom": 0.30913082042324785
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "～別 - Biệt"
+              "title": "Khiếm　「欠 」"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "欠",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,23 +176,31 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
+    "Chữa đề/24052026/問題６.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas",
+    "N2語彙/ひらがな/きっかけ.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas",
+    "N2語彙/ひらがな/だらしない.canvas",
+    "N2語彙/Phó từ/しっかり.canvas",
+    "N2語彙/Phó từ/きっぱり.canvas",
+    "N2語彙/Phó từ",
+    "N2文法/自動詞ー他動詞/自動詞.md",
+    "N2文法/自動詞ー他動詞/他動詞.md",
+    "Untitled 12.base",
+    "Untitled 11.base",
+    "N2語彙/ひらがな/きっかけ.md",
+    "N2語彙/ひらがな",
     "Pasted image 20260612121936.png",
     "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35/Untitled.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35/～別 - Biệt.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/～状 - Trạng.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14/～師 - Sư.canvas",
     "Pasted image 20260612121325.png",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14/Untitled.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14",
     "Pasted image 20260612121054.png",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/Untitled.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/～状 - Trangj.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 88/～式 - Thức.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/気味.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 88/Untitled.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 88",
     "Pasted image 20260612115614.png",
     "Pasted image 20260612014232.png",
@@ -199,10 +208,6 @@
     "Pasted image 20260612014026.png",
     "Untitled 10.base",
     "Untitled 9.base",
-    "N2漢字/Bộ thủ/Ít gặp/N/Untitled",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C",
-    "N2漢字/Bộ thủ/Hay gặp/G/Untitled",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D",
     "N2漢字/Bộ thủ/Ít gặp/T/Untitled.md",
     "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
@@ -222,14 +227,10 @@
     "Pasted image 20260527193624.png",
     "Pasted image 20260527193540.png",
     "Pasted image 20260527192748.png",
-    "Pasted image 20260527192703.png",
     "N2文法/助詞/LAYOUT_README.md",
     "N2文法/復習/第２課.md",
-    "N2文法/自動詞ー他動詞/自動詞.md",
-    "N2文法/自動詞ー他動詞/他動詞.md",
     "fastkey.md",
     "N2文法/尊敬語/尊敬語.md",
-    "N2文法/ない・いう・しまう/しまう.md",
-    "N2文法/複合動詞/Untitled.md"
+    "N2文法/ない・いう・しまう/しまう.md"
   ]
 }

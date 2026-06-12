@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2aa95ed40e0307f0","type":"text","text":"だらしない là tính từ đuôi い, dùng để chỉ người hoặc cách làm việc:\n\nLuộm thuộm, bừa bộn\nThiếu kỷ luật, thiếu nghiêm túc\nYếu đuối, không có ý chí\nKhông biết giữ gìn, không đàng hoàng","x":280,"y":0,"width":607,"height":180},
+		{"id":"c0fa16d3a8e9bdef","type":"text","text":"### 2.Thiếu kỷ luật\nだらしない生活を送っている。\n→ Sống một cuộc sống thiếu nề nếp.\n彼は時間にだらしない。\n→ Anh ấy không đúng giờ, rất thiếu kỷ luật.","x":-140,"y":360,"width":368,"height":248},
+		{"id":"b0eda82924fedac9","type":"text","text":"だらしない","x":-81,"y":180,"width":250,"height":60},
+		{"id":"dd75009640e4c92e","type":"text","text":"### Các mẫu hay gặp\nお金にだらしない\n→ Không biết quản lý tiền bạc.\n時間にだらしない\n→ Hay trễ giờ.\n異性関係にだらしない\n→ Lăng nhăng trong chuyện tình cảm.\n服装がだらしない\n→ Ăn mặc nhếch nhác.","x":960,"y":-43,"width":340,"height":283},
+		{"id":"7f9de3f027b387e2","type":"text","text":"### Từ trái nghĩa\nきちんとしている\n→ Chỉnh tề, ngăn nắp.\nしっかりしている\n→ Chững chạc, đáng tin cậy.\n規則正しい（きそくただしい）\n→ Có nề nếp.","x":960,"y":240,"width":340,"height":240},
+		{"id":"4d4390e69d63a182","type":"text","text":"### Ví dụ:\n\n彼はだらしない。\n→ Anh ta cẩu thả, thiếu kỷ luật.\n彼はしっかりしている。\n→ Anh ta rất đáng tin cậy.","x":1300,"y":240,"width":331,"height":240},
+		{"id":"395b418d6fe3232d","type":"file","file":"N2語彙/Phó từ/しっかり.canvas","x":660,"y":300,"width":200,"height":180},
+		{"id":"011d7d6e94970794","type":"text","text":"### 3. Thiếu ý chí\nそんなだらしないことでどうする。\n→ Yếu đuối như thế thì làm được gì?","x":228,"y":360,"width":304,"height":140},
+		{"id":"26fe7aa3f3f7c78f","type":"text","text":"### 1. Luộm thuộm, bừa bộn\n\n- 部屋がだらしない。  \n    → Căn phòng rất bừa bộn.\n- 彼は服装がだらしない。  \n    → Anh ấy ăn mặc luộm thuộm.","x":-519,"y":360,"width":379,"height":216},
+		{"id":"3923dcab8d5142f6","x":-700,"y":680,"width":416,"height":59,"type":"text","text":"彼は**だらしな**くて何日も同じシャツを着ている。"}
+	],
+	"edges":[
+		{"id":"c61e0cab680f9117","fromNode":"b0eda82924fedac9","fromSide":"right","toNode":"2aa95ed40e0307f0","toSide":"left"},
+		{"id":"5fcb545c235d9755","fromNode":"b0eda82924fedac9","fromSide":"bottom","toNode":"26fe7aa3f3f7c78f","toSide":"top"},
+		{"id":"49f458a9da81b630","fromNode":"b0eda82924fedac9","fromSide":"bottom","toNode":"c0fa16d3a8e9bdef","toSide":"top"},
+		{"id":"ab23efcfd9dfad5f","fromNode":"b0eda82924fedac9","fromSide":"bottom","toNode":"011d7d6e94970794","toSide":"top"},
+		{"id":"d78f6e0c31656686","fromNode":"2aa95ed40e0307f0","fromSide":"right","toNode":"dd75009640e4c92e","toSide":"left"},
+		{"id":"0515294ec5f0992a","fromNode":"395b418d6fe3232d","fromSide":"right","toNode":"7f9de3f027b387e2","toSide":"left"},
+		{"id":"f05c764a854ae989","fromNode":"26fe7aa3f3f7c78f","fromSide":"bottom","toNode":"3923dcab8d5142f6","toSide":"top"}
+	]
+}

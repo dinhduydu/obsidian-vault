@@ -3,7 +3,6 @@
 		{"id":"title","type":"text","text":"# 問題6 詳細解説","x":0,"y":0,"width":320,"height":80},
 		{"id":"q28","type":"text","text":"28．取材（しゅざい）\n\n漢越:\n取 = thủ\n材 = tài\n\n取材 = phỏng vấn / tác nghiệp lấy tư liệu\n\n正解：4\n\nあの選手の練習の様子を取材した。\n= phỏng vấn / tác nghiệp về tuyển thủ đó","x":0,"y":120,"width":500,"height":340},
 		{"id":"q28-wrong","type":"text","text":"Vì sao đáp án khác sai?\n\n1．試験の範囲を友達に取材\n❌ 取材 không dùng với bạn bè bình thường\n→ chỉ dùng kiểu báo chí, media\n\n2．営業時間を取材\n❌ giờ mở cửa chỉ cần 確認（かくにん）\nkhông phải đi tác nghiệp\n\n3．地図を取材できる\n❌ bản đồ là tra cứu\n→ 調べる mới đúng","x":560,"y":120,"width":560,"height":360},
-		{"id":"q29","type":"text","text":"29．きっかけ\n\n= cơ hội mở đầu / nguyên nhân khởi đầu\n\n正解：2\n\n友人に写真をほめられたのがきっかけで...\n= được khen ảnh nên bắt đầu học nghiêm túc","x":0,"y":520,"width":500,"height":320},
 		{"id":"q29-wrong","type":"text","text":"Vì sao đáp án khác sai?\n\n1．季節のきっかけ\n❌ không đi với mùa\n→ phải là 季節の変わり目\n\n3．反対するきっかけ\n❌ kì lạ về logic\n→ きっかけ thường là trigger bắt đầu hành động tích cực/trung tính\n\n4．次のきっかけ\n❌ không dùng như 'dịp sau'\n→ phải là 次の機会（きかい）","x":560,"y":520,"width":620,"height":360},
 		{"id":"q30","type":"text","text":"30．深刻（しんこく）\n\n漢越:\n深 = thâm\n刻 = khắc\n\n深刻 = nghiêm trọng\n\n正解：3\n\n深刻な悩み\n= nỗi lo nghiêm trọng","x":0,"y":960,"width":460,"height":300},
 		{"id":"q30-wrong","type":"text","text":"1．深刻な愛情\n❌ tình yêu không đi với 'nghiêm trọng'\n\n2．深刻に過ごす\n❌ 深刻 là tính chất trạng thái xấu\nkhông phải cách sống\n\n4．深刻に勉強した\n❌ học nghiêm túc dùng 真剣に（しんけんに）","x":520,"y":960,"width":520,"height":320},
@@ -13,7 +12,10 @@
 		{"id":"q32-thinking","type":"text","text":"Vì sao dễ chọn 4?\n\n母は怒っている外見だった。\n\nNgười học thường hiểu:\n'có vẻ như đang giận'\n\n=> liên tưởng tới vẻ bề ngoài\n\nNhưng:\n外見 = ngoại hình vật lý\n(khuôn mặt, dáng vẻ, hình dạng)\n\nKhông dùng để đoán cảm xúc tạm thời.","x":560,"y":1760,"width":620,"height":360},
 		{"id":"q32-correct","type":"text","text":"1．人を外見で判断する\n= đánh giá người khác qua ngoại hình\n\nĐây là collocation cực phổ biến:\n\n外見で判断する\n= judging by appearance\n\nCác đáp án sai:\n\n2．窓の外見\n❌ cửa sổ không dùng 外見\n→ 外側 / 見た目\n\n3．月の外見\n❌ mặt trăng dùng 形・表面","x":1240,"y":1760,"width":580,"height":400},
 		{"id":"11c4423e218fc66d","type":"file","file":"Pasted image 20260525002206.png","x":-680,"y":420,"width":535,"height":520},
-		{"id":"11759142ce67b867","type":"file","file":"Pasted image 20260525002223.png","x":-680,"y":1614,"width":535,"height":466}
+		{"id":"11759142ce67b867","type":"file","file":"Pasted image 20260525002223.png","x":-680,"y":1614,"width":535,"height":466},
+		{"id":"1333cb312bdb6b6f","type":"file","file":"N2語彙/ひらがな/きっかけ.canvas","x":1480,"y":620,"width":223,"height":161},
+		{"id":"q29","type":"text","text":"29．きっかけ\n\n= cơ hội mở đầu / nguyên nhân khởi đầu\n\n正解：2\n\n友人に写真をほめられたのがきっかけで...\n= được khen ảnh nên bắt đầu học nghiêm túc","x":20,"y":520,"width":500,"height":320},
+		{"id":"1a59d44f1790d16a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas","x":1296,"y":200,"width":184,"height":121}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q28","fromSide":"right","toNode":"q28-wrong","toSide":"left"},
@@ -26,6 +28,8 @@
 		{"id":"328374023ec745c6","fromNode":"11c4423e218fc66d","fromSide":"right","toNode":"q29","toSide":"left"},
 		{"id":"263d2f99cab8b227","fromNode":"11c4423e218fc66d","fromSide":"right","toNode":"q30","toSide":"left"},
 		{"id":"3e1437f37330ae74","fromNode":"11759142ce67b867","fromSide":"right","toNode":"q31","toSide":"left"},
-		{"id":"91ecafadfe22084c","fromNode":"11759142ce67b867","fromSide":"right","toNode":"q32-main","toSide":"left"}
+		{"id":"91ecafadfe22084c","fromNode":"11759142ce67b867","fromSide":"right","toNode":"q32-main","toSide":"left"},
+		{"id":"fb34e3e5dd3b4b9e","fromNode":"q29-wrong","fromSide":"right","toNode":"1333cb312bdb6b6f","toSide":"left"},
+		{"id":"1f8ec24b6f4021dd","fromNode":"q28-wrong","fromSide":"right","toNode":"1a59d44f1790d16a","toSide":"left"}
 	]
 }

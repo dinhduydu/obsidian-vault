@@ -38,7 +38,9 @@
 		{"id":"0a2e49b60ffb926f","type":"text","text":"財 - Tài","x":508,"y":160,"width":250,"height":60},
 		{"id":"d8914b62d375e2b8","type":"text","text":"財界　「ざいかい」：","x":910,"y":100,"width":250,"height":60},
 		{"id":"57b0213eff4f3741","type":"text","text":"財産　「ざいさん」：","x":906,"y":188,"width":250,"height":60},
-		{"id":"478755c84a3347f4","x":220,"y":218,"width":173,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas"}
+		{"id":"478755c84a3347f4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas","x":220,"y":218,"width":173,"height":119},
+		{"id":"7cb81e09bda2f645","x":-2064,"y":500,"width":250,"height":60,"type":"text","text":"自負　「じふ」：tự hào"},
+		{"id":"fa2f1c9ab84d8b88","x":-1680,"y":420,"width":526,"height":53,"type":"text","text":"私は、読書の量なら友達の誰にも**負け**ないと**自負**している。"}
 	],
 	"edges":[
 		{"id":"d7e636c8b362f77c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"b2f39534e38e6847","toSide":"left","label":"賃 - Nhẫm"},
@@ -75,6 +77,9 @@
 		{"id":"6beda30214c723f8","fromNode":"0a2e49b60ffb926f","fromSide":"right","toNode":"d8914b62d375e2b8","toSide":"left"},
 		{"id":"d71e3f0e78f89e05","fromNode":"0a2e49b60ffb926f","fromSide":"right","toNode":"57b0213eff4f3741","toSide":"left"},
 		{"id":"c0802b0ac6014b2d","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"},
-		{"id":"c72002e2ac48f7c1","fromNode":"478755c84a3347f4","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"}
+		{"id":"c72002e2ac48f7c1","fromNode":"478755c84a3347f4","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"},
+		{"id":"fa413e47ac5f4bc9","fromNode":"7ac613c592aacd6c","fromSide":"right","toNode":"7cb81e09bda2f645","toSide":"left"},
+		{"id":"5b2be73d0d368747","fromNode":"7cb81e09bda2f645","fromSide":"right","toNode":"fa2f1c9ab84d8b88","toSide":"left"},
+		{"id":"b39ef8ce1046b24f","fromNode":"ee9e69f02b5ba144","fromSide":"right","toNode":"fa2f1c9ab84d8b88","toSide":"left"}
 	]
 }

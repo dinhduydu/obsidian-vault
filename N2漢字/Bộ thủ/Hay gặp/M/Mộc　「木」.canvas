@@ -9,11 +9,9 @@
 		{"id":"395c4efda6d5b61b","type":"text","text":"tiền, vé, thẻ","x":1100,"y":84,"width":250,"height":60},
 		{"id":"d27e09b9893e90d6","type":"text","text":"偽札　「にせさつ」：tiền giả","x":1427,"y":59,"width":250,"height":60},
 		{"id":"33a8e6b8e7188e2e","type":"text","text":"改札　「かいさつ」： nơi soát vé ra vào ở tàu","x":1436,"y":143,"width":250,"height":60},
-		{"id":"96cdd6962a2ee9ac","type":"file","file":"N2漢字/Bộ chỉ ý/Ít gặp/M/Mục　「目」.canvas","x":80,"y":-1140,"width":400,"height":400},
 		{"id":"1cd0a188e0efd806","type":"text","text":"相 = tương","x":230,"y":-540,"width":250,"height":60},
 		{"id":"9d3d16ebf1d80f70","type":"text","text":"相応しい　「ふさわしい」： ","x":659,"y":-675,"width":241,"height":60},
-		{"id":"a4f38a7fba781ae4","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":1020,"y":-697,"width":250,"height":164},
-		{"id":"bb832d91c98b06f1","type":"text","text":"パーティに相応しい服","x":1020,"y":-860,"width":250,"height":60},
+		{"id":"bb832d91c98b06f1","type":"text","text":"パーティに**相応**しい服","x":1020,"y":-860,"width":250,"height":60},
 		{"id":"dd69bed5d9e8737b","type":"text","text":"槍 - Thương","x":257,"y":294,"width":250,"height":60},
 		{"id":"8e1e318941476160","type":"text","text":"板 - Bản","x":195,"y":618,"width":250,"height":60},
 		{"id":"ab189a4f55992418","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas","x":-80,"y":678,"width":121,"height":101},
@@ -25,12 +23,15 @@
 		{"id":"d57d3f5d802c4e2b","type":"text","text":"素材　「そざい」：","x":422,"y":1240,"width":250,"height":60},
 		{"id":"5b3b8ac62b3a3776","type":"text","text":"材木　「さいもく」：","x":402,"y":1040,"width":250,"height":60},
 		{"id":"dcd47b10324f068c","type":"text","text":"材 - Tài","x":37,"y":1240,"width":250,"height":60},
-		{"id":"5ce2e04e466e7f05","x":-125,"y":371,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas"},
-		{"id":"5da3770246f741cc","x":-315,"y":1360,"width":171,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas"}
+		{"id":"5ce2e04e466e7f05","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-125,"y":371,"width":400,"height":400},
+		{"id":"5da3770246f741cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas","x":-315,"y":1360,"width":171,"height":154},
+		{"id":"96cdd6962a2ee9ac","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」.canvas","x":-80,"y":-645,"width":200,"height":90},
+		{"id":"a4f38a7fba781ae4","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":1020,"y":-727,"width":250,"height":164},
+		{"id":"718a1afd2c5b7dfb","x":1020,"y":-980,"width":327,"height":60,"type":"text","text":"スイカは夏に**ふさわしい**果物です。"}
 	],
 	"edges":[
 		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},
-		{"id":"cc995303cc726a52","fromNode":"96cdd6962a2ee9ac","fromSide":"bottom","toNode":"1cd0a188e0efd806","toSide":"top"},
+		{"id":"cc995303cc726a52","fromNode":"96cdd6962a2ee9ac","fromSide":"right","toNode":"1cd0a188e0efd806","toSide":"left"},
 		{"id":"3d4cd74cd50ab871","fromNode":"e49a2179021967a8","fromSide":"right","toNode":"1cd0a188e0efd806","toSide":"left"},
 		{"id":"0e80230bc6234764","fromNode":"e49a2179021967a8","fromSide":"right","toNode":"c291e535d68c59ee","toSide":"left"},
 		{"id":"caffdd48b5853717","fromNode":"c291e535d68c59ee","fromSide":"right","toNode":"9d39aba07e399b1c","toSide":"left"},
@@ -52,6 +53,7 @@
 		{"id":"9ce04b5a7cfb9af9","fromNode":"dcd47b10324f068c","fromSide":"right","toNode":"d57d3f5d802c4e2b","toSide":"left"},
 		{"id":"329cfa456a12a4c1","fromNode":"e49a2179021967a8","fromSide":"bottom","toNode":"b442effee84c321b","toSide":"top"},
 		{"id":"a27805300d674943","fromNode":"b442effee84c321b","fromSide":"right","toNode":"dcd47b10324f068c","toSide":"left"},
-		{"id":"90e2ceaf09b4f171","fromNode":"5da3770246f741cc","fromSide":"right","toNode":"dcd47b10324f068c","toSide":"left"}
+		{"id":"90e2ceaf09b4f171","fromNode":"5da3770246f741cc","fromSide":"right","toNode":"dcd47b10324f068c","toSide":"left"},
+		{"id":"342bfe190215d5fa","fromNode":"9d3d16ebf1d80f70","fromSide":"right","toNode":"718a1afd2c5b7dfb","toSide":"left"}
 	]
 }

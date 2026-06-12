@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0189225c63df2fa9","x":-188,"y":-42,"width":250,"height":60,"type":"text","text":"きっぱり"},
+		{"id":"3be7a98f72fece3e","x":-740,"y":-180,"width":468,"height":70,"type":"text","text":"Dứt khoát, rõ ràng\nHoàn toàn, triệt để (thường là từ bỏ, cắt đứt, phủ nhận)"},
+		{"id":"f82d971c09ed9396","x":-522,"y":-12,"width":250,"height":60,"type":"text","text":"có thể dùng với ～する."},
+		{"id":"e1760d0c6dfede54","x":222,"y":-180,"width":365,"height":50,"type":"text","text":"そんな不当な要求は**きっぱり**断るべきだ。"},
+		{"id":"b51d5d69d254db00","x":222,"y":60,"width":489,"height":150,"type":"text","text":"きっぱり断る（ことわる）: từ chối dứt khoát\nきっぱり言う: nói thẳng, nói dứt khoát\nきっぱり否定する（ひていする）: phủ nhận dứt khoát\nきっぱり諦める（あきらめる）: từ bỏ hoàn toàn\nきっぱりやめる: bỏ hẳn"}
+	],
+	"edges":[
+		{"id":"94b3e5b21d6dbc8c","fromNode":"0189225c63df2fa9","fromSide":"right","toNode":"e1760d0c6dfede54","toSide":"left"},
+		{"id":"dc8fa14e11538fd7","fromNode":"0189225c63df2fa9","fromSide":"left","toNode":"3be7a98f72fece3e","toSide":"right"},
+		{"id":"47875a8dbd7465e9","fromNode":"0189225c63df2fa9","fromSide":"left","toNode":"f82d971c09ed9396","toSide":"right"},
+		{"id":"dd75355a323ecbe6","fromNode":"0189225c63df2fa9","fromSide":"right","toNode":"b51d5d69d254db00","toSide":"left"}
+	]
+}

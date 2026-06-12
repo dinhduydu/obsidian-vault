@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2c50bbadfd4ed1db","x":-133,"y":-39,"width":250,"height":60,"type":"text","text":"ひとりでに"},
+		{"id":"51aa8d62175442f5","x":200,"y":-64,"width":385,"height":51,"type":"text","text":"悲しくなって、ひとりでに涙が出てきた。"}
+	],
+	"edges":[
+		{"id":"9b9385b492fd175e","fromNode":"2c50bbadfd4ed1db","fromSide":"right","toNode":"51aa8d62175442f5","toSide":"left"}
+	]
+}

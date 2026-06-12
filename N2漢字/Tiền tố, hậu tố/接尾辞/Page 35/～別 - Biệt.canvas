@@ -10,9 +10,9 @@
 		{"id":"compare","type":"text","text":"PHÂN BIỆT\n\n区別（くべつ）\n→ sự phân biệt\n\n差別（さべつ）\n→ kỳ thị, phân biệt đối xử\n\n別々（べつべつ）\n→ riêng rẽ\n\n～別\n→ phân loại theo tiêu chí","x":850,"y":460,"width":420,"height":320},
 		{"id":"example","type":"text","text":"VÍ DỤ N2\n\n年代別に集計する。\n→ Tổng hợp theo từng độ tuổi.\n\n国別のデータを見る。\n→ Xem dữ liệu theo từng quốc gia.\n\n能力別にクラスを分ける。\n→ Chia lớp theo năng lực.","x":200,"y":900,"width":500,"height":320},
 		{"id":"summary","type":"text","text":"TỔNG KẾT\n\n～別 = BIỆT\n\nÝ nghĩa:\nPhân loại riêng theo...\n\n職業別\n→ theo nghề nghiệp\n\n地方別\n→ theo địa phương\n\n能力別\n→ theo năng lực\n\n年代別\n→ theo độ tuổi\n\n国別\n→ theo quốc gia\n\nMẸO:\nThấy ～別\n↓\n'Chia theo tiêu chí phía trước'\n\nA別\n=\nTheo A","x":-250,"y":880,"width":380,"height":720},
-		{"id":"cc1ce086e266bfc1","x":750,"y":854,"width":400,"height":206,"type":"file","file":"Pasted image 20260612121936.png"},
-		{"id":"16b7b4da644257a0","x":1270,"y":854,"width":376,"height":163,"type":"text","text":"科目別\n\n⇒ Phân theo môn học\n\n⇒ Theo từng môn học"},
-		{"id":"1d8af8bd66a7ab35","x":1800,"y":854,"width":330,"height":372,"type":"text","text":"科目別成績表\n（かもくべつせいせきひょう）\n\n→ Bảng điểm theo từng môn\n\n科目別の平均点\n（かもくべつのへいきんてん）\n\n→ Điểm trung bình theo từng môn\n\n科目別に分析する\n（かもくべつにぶんせきする）\n\n→ Phân tích theo từng môn học"}
+		{"id":"cc1ce086e266bfc1","type":"file","file":"Pasted image 20260612121936.png","x":750,"y":854,"width":400,"height":206},
+		{"id":"16b7b4da644257a0","type":"text","text":"科目別\n\n⇒ Phân theo môn học\n\n⇒ Theo từng môn học","x":1270,"y":854,"width":376,"height":163},
+		{"id":"1d8af8bd66a7ab35","type":"text","text":"科目別成績表\n（かもくべつせいせきひょう）\n\n→ Bảng điểm theo từng môn\n\n科目別の平均点\n（かもくべつのへいきんてん）\n\n→ Điểm trung bình theo từng môn\n\n科目別に分析する\n（かもくべつにぶんせきする）\n\n→ Phân tích theo từng môn học","x":1800,"y":854,"width":330,"height":372}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"title","fromSide":"bottom","toNode":"rule","toSide":"top"},

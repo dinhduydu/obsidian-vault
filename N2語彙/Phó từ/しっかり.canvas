@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"09a3478ae6fd1dc3","type":"text","text":"しっかり","x":-160,"y":-83,"width":250,"height":60},
+		{"id":"2d62a14bb2aab11f","x":220,"y":-200,"width":250,"height":60,"type":"text","text":"しっかりしている\n→ Chững chạc, đáng tin cậy."}
+	],
+	"edges":[
+		{"id":"27a6fc9320d57d01","fromNode":"09a3478ae6fd1dc3","fromSide":"right","toNode":"2d62a14bb2aab11f","toSide":"left"}
+	]
+}
