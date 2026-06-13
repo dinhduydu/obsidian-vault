@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"8bce150dbb67d81e","x":-141,"y":-61,"width":250,"height":60,"type":"text","text":"Phiến　「片 」"}
+		{"id":"8bce150dbb67d81e","type":"text","text":"Phiến　「片 」","x":-141,"y":-61,"width":250,"height":60},
+		{"id":"b0e2ab21be969094","type":"text","text":"版権　「はんけん」：","x":360,"y":29,"width":250,"height":60},
+		{"id":"5353b7921baf5241","type":"text","text":"原板　「げんばん」：","x":360,"y":-31,"width":250,"height":60},
+		{"id":"45cc530a0b6e4356","type":"text","text":"出版　「しゅっぱん」：","x":360,"y":-91,"width":250,"height":60},
+		{"id":"aa8fcb9ecbcebe88","type":"text","text":"版元　「はんもと」：","x":360,"y":-151,"width":250,"height":60}
 	],
 	"edges":[]
 }
