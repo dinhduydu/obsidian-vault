@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」.canvas",
+                "file": "N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas",
                 "viewState": {
-                  "x": 485.5332907528375,
-                  "y": 68.12228227424256,
-                  "zoom": -0.6666666666666665
+                  "x": 1510,
+                  "y": 654,
+                  "zoom": -0.8744691179161412
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Phản　「反」"
+              "title": "反 - Phản"
             }
           }
         ],
@@ -193,20 +193,21 @@
   },
   "active": "dd8a17bf7db4cd53",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/P/Phiến　「片 」.canvas",
+    "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」.canvas",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "N2語彙/ひらがな/だらしない.canvas",
+    "N2語彙/ひらがな/きっかけ.canvas",
+    "N2語彙/カタカナ/カタカナ.md",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/低 - Đê.canvas",
+    "N2語彙/カタカナ",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phiến　「片 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/P/Phiệt.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/K",
-    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
-    "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
     "Untitled 13.base",
     "N2語彙/Phó từ",
     "N2文法/自動詞ー他動詞/自動詞.md",
@@ -221,7 +222,6 @@
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14",
     "Pasted image 20260612121054.png",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 88",
     "Pasted image 20260612115614.png",
     "Pasted image 20260612014232.png",
     "Pasted image 20260612014026.png",
@@ -247,7 +247,6 @@
     "N2文法/助詞/LAYOUT_README.md",
     "N2文法/復習/第２課.md",
     "fastkey.md",
-    "N2文法/尊敬語/尊敬語.md",
-    "N2文法/ない・いう・しまう/しまう.md"
+    "N2文法/尊敬語/尊敬語.md"
   ]
 }

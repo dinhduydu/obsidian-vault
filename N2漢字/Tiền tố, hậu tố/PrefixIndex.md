@@ -4,7 +4,7 @@ Tiền tố
  │   ├─ 非 (Phi): Không, phi (Vd: 非公開 - không công khai, 非合法 - phi pháp)
  │   │   [[非 - Phi.canvas]]
  │   ├─ 未 (Vị): Chưa hành động (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)　[[未 - Vị.canvas]]
- │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)
+ │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)　[[反 - Phản.canvas]]　[[Phản　「反」.canvas]]
  │   └─ 逆 (Nghịch): Phản, ngược (Vd: 逆効果 - tác dụng ngược, 逆回転 - quay ngược chiều)
  │
 ### Mức độ
@@ -12,7 +12,7 @@ Tiền tố
  │   ├─ 大 (Đại): Quy mô lớn (Vd: 大規模 - quy mô lớn, 大歓迎 - nhiệt liệt chào mừng)
  │   ├─ 高 (Cao): Cao (Vd: 高収入 - thu nhập cao, 高学歴 - học vấn cao)
  │   ├─ 最 (Tối): Nhất, cực đại (Vd: 最高級 - thượng hạng, 最先端 - mới nhất)
- │   ├─ 低 (Đê): Thấp (Vd: 低価格 - giá thấp, 低気圧 - khí áp thấp)
+ │   ├─ 低 (Đê): Thấp (Vd: 低価格 - giá thấp, 低気圧 - khí áp thấp)　[[低 - Đê.canvas]]
  │   ├─ 薄 (Bạc): Có chút, hơi (Vd: 薄暗い - hơi tối tăm, 薄汚い - hơi bẩn)
  │   ├─ 小 (Tiểu): Một chút, nhỏ (Vd: 小規模 - quy mô nhỏ, 小論文 - tiểu luận)
  │   ├─ 真 (Chân): Nhấn mạnh mức độ tuyệt đối (Vd: 真新しい - mới tinh, 真夜中 - nửa đêm)

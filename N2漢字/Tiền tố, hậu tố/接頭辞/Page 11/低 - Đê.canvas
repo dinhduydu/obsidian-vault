@@ -1,21 +1,22 @@
 {
 	"nodes":[
-		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":420,"text":"# 低～（てい～）\n\n📚 Hán Việt: ĐÊ（低）\n\n🌐 Ý nghĩa trung tâm:\nThấp • mức độ thấp • giảm xuống\n\n📌 Thường dùng để:\n- giá trị thấp\n- mức độ thấp\n- trạng thái khiêm tốn / giảm"},
-		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 低 mang sắc thái:\n- thấp hơn mức chuẩn\n- giảm cường độ / giá trị\n- vị trí thấp\n\n➡️ Gần giống:\n- low\n- lower\n- humble (trong nghĩa thái độ)\n\n📌 Hay gặp trong:\n- kinh tế\n- thời tiết\n- xã hội"},
-		{"id":"word1","type":"text","x":1940,"y":80,"width":920,"height":620,"text":"# 低価格（ていかかく）\n\n💰 Giá thấp\n\n📚 Hán Việt:\n- 低 = thấp\n- 価格 = giá cả\n\n## Nuance\n- giá rẻ hơn mức trung bình\n- cạnh tranh về giá\n\n💡 Dùng trong:\n- kinh doanh\n- marketing"},
-		{"id":"word2","type":"text","x":1940,"y":860,"width":920,"height":620,"text":"# 低気圧（ていきあつ）\n\n🌧️ Áp suất thấp\n\n📚 Hán Việt:\n- 低 = thấp\n- 気圧 = khí áp\n\n## Nuance\n- vùng khí áp thấp gây mưa, bão\n- thuật ngữ khí tượng\n\n💡 Dùng trong:\n- thời tiết\n- khoa học"},
-		{"id":"word3","type":"text","x":1940,"y":1640,"width":920,"height":760,"text":"# 低姿勢（ていしせい）\n\n🙇 Khiêm tốn, nhún nhường\n\n📚 Hán Việt:\n- 低 = thấp\n- 姿勢 = tư thế\n\n## Nuance\n- thái độ hạ mình, không kiêu ngạo\n- mềm mỏng trong giao tiếp\n\n💡 Dùng trong:\n- giao tiếp\n- công việc"},
-		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 低 + Danh từ\n→ Mang nghĩa:\n『thấp / giảm mức độ / thấp hơn tiêu chuẩn』\n\nVí dụ:\n- 低温 = nhiệt độ thấp\n- 低所得 = thu nhập thấp\n- 低評価 = đánh giá thấp\n\n📌 Prefix này thường dùng trong:\n- kinh tế\n- khoa học\n- đời sống"},
-		{"id":"compare","type":"text","x":120,"y":1540,"width":860,"height":920,"text":"# So sánh nuance\n\n🌐 低 = thấp hơn chuẩn / mức trung bình\n\n📌 Khác với:\n- 高 = cao\n- 小 = nhỏ (không phải luôn là “thấp”)\n\nVí dụ:\n- 低価格 ≠ 小価格\n- 低気圧 ≠ 高気圧\n\n⚡ Cảm giác:\n『giảm mức độ / hạ xuống / khiêm tốn』\n\n📌 JLPT hay gặp:\n- 低価格\n- 低気圧\n- 低評価"},
-		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 低 bằng hình ảnh:\n\n⬇️ giá rẻ hơn\n🌧️ áp suất thấp gây mưa\n🙇 cúi thấp người\n\n➡️ Điểm chung:\n『mọi thứ đều ở mức thấp hơn bình thường』\n\n📌 Liên tưởng nhanh:\n低 = low / under / reduced"}
+		{"id":"center","type":"text","text":"# 低～（てい～）\n\n📚 Hán Việt: ĐÊ（低）\n\n🌐 Ý nghĩa trung tâm:\nThấp • mức độ thấp • giảm xuống\n\n📌 Thường dùng để:\n- giá trị thấp\n- mức độ thấp\n- trạng thái khiêm tốn / giảm","x":980,"y":620,"width":860,"height":420},
+		{"id":"pattern","type":"text","text":"# Pattern N2\n\n🧩 低 + Danh từ\n→ Mang nghĩa:\n『thấp / giảm mức độ / thấp hơn tiêu chuẩn』\n\nVí dụ:\n- 低温 = nhiệt độ thấp\n- 低所得 = thu nhập thấp\n- 低評価 = đánh giá thấp\n\n📌 Prefix này thường dùng trong:\n- kinh tế\n- khoa học\n- đời sống","x":980,"y":180,"width":380,"height":440},
+		{"id":"word1","type":"text","text":"# 低価格（ていかかく）\n\n💰 Giá thấp\n\n📚 Hán Việt:\n- 低 = thấp\n- 価格 = giá cả\n\n## Nuance\n- giá rẻ hơn mức trung bình\n- cạnh tranh về giá\n\n💡 Dùng trong:\n- kinh doanh\n- marketing","x":1840,"y":160,"width":310,"height":460},
+		{"id":"word2","type":"text","text":"# 低気圧（ていきあつ）\n\n🌧️ Áp suất thấp\n\n📚 Hán Việt:\n- 低 = thấp\n- 気圧 = khí áp\n\n## Nuance\n- vùng khí áp thấp gây mưa, bão\n- thuật ngữ khí tượng\n\n💡 Dùng trong:\n- thời tiết\n- khoa học","x":1840,"y":620,"width":300,"height":460},
+		{"id":"meaning","type":"text","text":"# Ý nghĩa\n\n🧠 低 mang sắc thái:\n- thấp hơn mức chuẩn\n- giảm cường độ / giá trị\n- vị trí thấp\n\n➡️ Gần giống:\n- low\n- lower\n- humble (trong nghĩa thái độ)\n\n📌 Hay gặp trong:\n- kinh tế\n- thời tiết\n- xã hội","x":660,"y":560,"width":320,"height":480},
+		{"id":"compare","type":"text","text":"# So sánh nuance\n\n🌐 低 = thấp hơn chuẩn / mức trung bình\n\n📌 Khác với:\n- 高 = cao\n- 小 = nhỏ (không phải luôn là “thấp”)\n\nVí dụ:\n- 低価格 ≠ 小価格\n- 低気圧 ≠ 高気圧\n\n⚡ Cảm giác:\n『giảm mức độ / hạ xuống / khiêm tốn』\n\n📌 JLPT hay gặp:\n- 低価格\n- 低気圧\n- 低評価","x":580,"y":1040,"width":400,"height":540},
+		{"id":"memory","type":"text","text":"# Memory Hint\n\n🧠 Hãy nhớ 低 bằng hình ảnh:\n\n⬇️ giá rẻ hơn\n🌧️ áp suất thấp gây mưa\n🙇 cúi thấp người\n\n➡️ Điểm chung:\n『mọi thứ đều ở mức thấp hơn bình thường』\n\n📌 Liên tưởng nhanh:\n低 = low / under / reduced","x":980,"y":1040,"width":420,"height":340},
+		{"id":"word3","type":"text","text":"# 低姿勢（ていしせい）\n\n🙇 Khiêm tốn, nhún nhường\n\n📚 Hán Việt:\n- 低 = thấp\n- 姿勢 = tư thế\n\n## Nuance\n- thái độ hạ mình, không kiêu ngạo\n- mềm mỏng trong giao tiếp\n\n💡 Dùng trong:\n- giao tiếp\n- công việc","x":1840,"y":1080,"width":400,"height":460},
+		{"id":"88753fb62bf2bc0b","x":2300,"y":680,"width":661,"height":50,"type":"text","text":"あの子は**低学年**の生徒で、とてもまじめな子なのよ。"}
 	],
 	"edges":[
-		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
-		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
-		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
-		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
-		{"id":"e5","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
-		{"id":"e6","fromNode":"center","toNode":"compare","fromSide":"bottom","toSide":"top"},
-		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+		{"id":"e1","fromNode":"center","fromSide":"left","toNode":"meaning","toSide":"right"},
+		{"id":"e2","fromNode":"center","fromSide":"right","toNode":"word1","toSide":"left"},
+		{"id":"e3","fromNode":"center","fromSide":"right","toNode":"word2","toSide":"left"},
+		{"id":"e4","fromNode":"center","fromSide":"bottom","toNode":"word3","toSide":"top"},
+		{"id":"e5","fromNode":"center","fromSide":"top","toNode":"pattern","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","fromSide":"bottom","toNode":"compare","toSide":"top"},
+		{"id":"e7","fromNode":"center","fromSide":"bottom","toNode":"memory","toSide":"top"}
 	]
 }
