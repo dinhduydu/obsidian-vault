@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2a7ad0f1c33aa78c","type":"text","text":"百　「ひゃく」：","x":-520,"y":-180,"width":250,"height":60},
+		{"id":"b265d0c22bba584f","x":400,"y":-200,"width":250,"height":60,"type":"text","text":"宿 - Túc"},
+		{"id":"2424c38560ac700d","x":720,"y":-200,"width":250,"height":60,"type":"text","text":"宿題　「しゅくだい」：bài tập về nhà"},
+		{"id":"6f913e2914466e74","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":0,"y":-820,"width":180,"height":160},
+		{"id":"53399283750df543","type":"text","text":"百","x":-125,"y":-400,"width":250,"height":60},
+		{"id":"ea4b2fd717fc709a","x":28,"y":-170,"width":195,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"d125e214b0a84c07","fromNode":"53399283750df543","fromSide":"left","toNode":"2a7ad0f1c33aa78c","toSide":"right"},
+		{"id":"9cd54106248ec424","fromNode":"53399283750df543","fromSide":"right","toNode":"b265d0c22bba584f","toSide":"left","label":"nhiều"},
+		{"id":"769b75df736710b4","fromNode":"6f913e2914466e74","fromSide":"right","toNode":"b265d0c22bba584f","toSide":"left","label":"trong nhà có "},
+		{"id":"c93477594fd90380","fromNode":"ea4b2fd717fc709a","fromSide":"right","toNode":"b265d0c22bba584f","toSide":"left","label":"người"},
+		{"id":"d663fa6018b8021a","fromNode":"b265d0c22bba584f","fromSide":"right","toNode":"2424c38560ac700d","toSide":"left"}
+	]
+}

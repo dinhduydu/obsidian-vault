@@ -11,10 +11,9 @@
 		{"id":"d56a367849287a9c","type":"text","text":"冷 - Hàn","x":280,"y":420,"width":250,"height":60},
 		{"id":"db5af7ee63830e10","type":"text","text":"Liên quan đến lạnh, đóng băng (trong nhiều chữ Hán)","x":-171,"y":360,"width":250,"height":60},
 		{"id":"5dc1c749b972131f","type":"text","text":"准 - Chuẩn","x":308,"y":-398,"width":250,"height":60},
-		{"id":"96623207bfb3af02","type":"text","text":"次 - Thứ","x":391,"y":-599,"width":250,"height":60},
-		{"id":"85633d6ce399f481","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":773,"y":-639,"width":240,"height":140},
-		{"id":"83b5fb93310cb7dc","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":1213,"y":-639,"width":336,"height":139},
-		{"id":"d755b7d294f581bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」.canvas","x":6,"y":-840,"width":146,"height":83}
+		{"id":"d755b7d294f581bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」.canvas","x":6,"y":-840,"width":146,"height":83},
+		{"id":"9ca9956728f9d3f1","x":316,"y":-640,"width":178,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」.canvas"},
+		{"id":"85633d6ce399f481","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":640,"y":-666,"width":240,"height":140}
 	],
 	"edges":[
 		{"id":"420401e4f1740e65","fromNode":"923c64cf73697ae0","fromSide":"right","toNode":"cb3c7259fc1ed2b0","toSide":"left"},
@@ -30,9 +29,8 @@
 		{"id":"0a45d634ef71ccfc","fromNode":"2e64b790af8b86d5","fromSide":"right","toNode":"923c64cf73697ae0","toSide":"left","color":"1"},
 		{"id":"148110422e559afe","fromNode":"db5af7ee63830e10","fromSide":"right","toNode":"d56a367849287a9c","toSide":"left","color":"5"},
 		{"id":"699830e66b2f3299","fromNode":"db5af7ee63830e10","fromSide":"right","toNode":"00745cc649032323","toSide":"left","color":"5"},
-		{"id":"ff27fa4d78fa5184","fromNode":"96623207bfb3af02","fromSide":"right","toNode":"85633d6ce399f481","toSide":"left"},
-		{"id":"c81c509fd44e8e9a","fromNode":"d755b7d294f581bc","fromSide":"right","toNode":"96623207bfb3af02","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
-		{"id":"92408896018f0940","fromNode":"85633d6ce399f481","fromSide":"right","toNode":"83b5fb93310cb7dc","toSide":"left"},
-		{"id":"b7e39e250ccfc496","fromNode":"2e64b790af8b86d5","fromSide":"right","toNode":"96623207bfb3af02","toSide":"left","color":"1"}
+		{"id":"c81c509fd44e8e9a","fromNode":"d755b7d294f581bc","fromSide":"right","toNode":"9ca9956728f9d3f1","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
+		{"id":"b7e39e250ccfc496","fromNode":"2e64b790af8b86d5","fromSide":"right","toNode":"9ca9956728f9d3f1","toSide":"left","color":"1"},
+		{"id":"7a1fecbb7517ed79","fromNode":"9ca9956728f9d3f1","fromSide":"right","toNode":"85633d6ce399f481","toSide":"left"}
 	]
 }

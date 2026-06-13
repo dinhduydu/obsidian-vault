@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"624c17ad7508912b","type":"text","text":"空き","x":260,"y":-180,"width":250,"height":60},
-		{"id":"a615a7615e75eb08","type":"text","text":"Miên　「宀」","x":-580,"y":40,"width":250,"height":60},
 		{"id":"15bdb8108eb4fab0","type":"text","text":"終点まで**空き**ができなかったので、そのまま立ちっぱなしだった。","x":660,"y":-240,"width":540,"height":60},
 		{"id":"f1bf52c79c6b66da","type":"text","text":"安易","x":220,"y":200,"width":250,"height":60},
 		{"id":"aaba2122d0940825","type":"text","text":"“quá dễ và quá thoải mái”\n→ làm mà không suy nghĩ sâu.","x":750,"y":200,"width":309,"height":65},
@@ -11,7 +10,13 @@
 		{"id":"1d2ce0a32be5008b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」.canvas","x":-116,"y":-150,"width":135,"height":142},
 		{"id":"7588c201ed1c8674","type":"text","text":"安 - An","x":-141,"y":148,"width":250,"height":60},
 		{"id":"5599a5ee7bcdc06e","type":"text","text":"安（あん）\nBộ thủ: 宀（うかんむり）\nNghĩa: yên ổn, dễ chịu","x":220,"y":45,"width":250,"height":103},
-		{"id":"e0b38ce3fafa4097","x":-360,"y":230,"width":106,"height":70,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas"}
+		{"id":"e0b38ce3fafa4097","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas","x":-360,"y":230,"width":106,"height":70},
+		{"id":"32eeb203994c0fd6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas","x":220,"y":880,"width":161,"height":120},
+		{"id":"330f24f52f2983a0","type":"text","text":"貯金　「ちょきん」： tiết kiệm tiền","x":614,"y":1219,"width":250,"height":60},
+		{"id":"2ec010836d8aa8e6","type":"text","text":"貯 - Trữ","x":256,"y":1219,"width":250,"height":60},
+		{"id":"a615a7615e75eb08","type":"text","text":"Miên　「宀」","x":-580,"y":40,"width":250,"height":60},
+		{"id":"f84f3f76708e2246","type":"text","text":"Miên　「宀」","x":-610,"y":850,"width":250,"height":60},
+		{"id":"b760f8495b13b8b9","x":-576,"y":1080,"width":161,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」.canvas"}
 	],
 	"edges":[
 		{"id":"c3a0a647f422fd28","fromNode":"1d2ce0a32be5008b","fromSide":"right","toNode":"624c17ad7508912b","toSide":"left"},
@@ -24,6 +29,11 @@
 		{"id":"76b1985f07241ad8","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"1dadf681c54567c6","toSide":"left"},
 		{"id":"4552a813d7e4adfc","fromNode":"f1bf52c79c6b66da","fromSide":"right","toNode":"cc8850c11f9646f2","toSide":"left"},
 		{"id":"1a9ed9586ab9f9ee","fromNode":"7588c201ed1c8674","fromSide":"right","toNode":"5599a5ee7bcdc06e","toSide":"left"},
-		{"id":"648f00142bc9d920","fromNode":"e0b38ce3fafa4097","fromSide":"right","toNode":"7588c201ed1c8674","toSide":"left"}
+		{"id":"648f00142bc9d920","fromNode":"e0b38ce3fafa4097","fromSide":"right","toNode":"7588c201ed1c8674","toSide":"left"},
+		{"id":"97739f490d1eb74f","fromNode":"2ec010836d8aa8e6","fromSide":"right","toNode":"330f24f52f2983a0","toSide":"left"},
+		{"id":"ddcb38ec02e207aa","fromNode":"32eeb203994c0fd6","fromSide":"right","toNode":"2ec010836d8aa8e6","toSide":"left","label":"tiền"},
+		{"id":"c0209722a9373a5f","fromNode":"a615a7615e75eb08","fromSide":"right","toNode":"2ec010836d8aa8e6","toSide":"left","label":"trong nhà"},
+		{"id":"80d8c8d386e80842","fromNode":"b760f8495b13b8b9","fromSide":"right","toNode":"2ec010836d8aa8e6","toSide":"left","label":"đóng đinh, bảo quản"},
+		{"id":"c723df1f135bffcb","fromNode":"f84f3f76708e2246","fromSide":"right","toNode":"2ec010836d8aa8e6","toSide":"left"}
 	]
 }

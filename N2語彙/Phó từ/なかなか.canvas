@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"a8eb4aa3e121948a","x":-127,"y":-44,"width":250,"height":60,"type":"text","text":"なかなか"},
+		{"id":"2932fc56e6c2a712","x":334,"y":-102,"width":250,"height":60,"type":"text","text":"khá, tương đối"},
+		{"id":"2a799808a085d62c","x":-28,"y":107,"width":250,"height":60,"type":"text","text":"そうとう"}
+	],
+	"edges":[
+		{"id":"089826a071f063cd","fromNode":"a8eb4aa3e121948a","fromSide":"right","toNode":"2932fc56e6c2a712","toSide":"left"}
+	]
+}

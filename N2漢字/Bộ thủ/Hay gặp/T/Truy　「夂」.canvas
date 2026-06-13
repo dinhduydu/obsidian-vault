@@ -1,13 +1,17 @@
 {
 	"nodes":[
 		{"id":"49952d17efd5d24e","type":"text","text":"厳 - Nghiêm","x":-23,"y":-198,"width":250,"height":60},
-		{"id":"297d2ba2ef978681","type":"text","text":"Truy　「夂」","x":-360,"y":-20,"width":235,"height":60},
 		{"id":"93f791d79aa9f256","type":"text","text":"厳重","x":380,"y":-198,"width":250,"height":60},
 		{"id":"b29204a562f16888","type":"text","text":"Ý nghĩa gốc:\n\nĐi từ phía sau\nTheo sau","x":-760,"y":-238,"width":265,"height":141},
 		{"id":"598599bca03b369b","type":"text","text":"条 - Điều","x":40,"y":200,"width":250,"height":60},
 		{"id":"4f76f06ac810c838","type":"text","text":"夏 - Hạ","x":2,"y":366,"width":250,"height":60},
 		{"id":"7046bd8c72b51adb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas","x":-760,"y":99,"width":190,"height":202},
-		{"id":"7566038db65b0161","x":40,"y":-20,"width":212,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」.canvas"}
+		{"id":"7566038db65b0161","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」.canvas","x":40,"y":-20,"width":212,"height":135},
+		{"id":"297d2ba2ef978681","type":"text","text":"Truy　「夂」","x":-360,"y":-20,"width":235,"height":60},
+		{"id":"fc93d5e353f43330","type":"text","text":"Truy　「夂」","x":-380,"y":-610,"width":235,"height":60},
+		{"id":"fcb28b724a34c783","x":-23,"y":-740,"width":250,"height":60,"type":"text","text":"冬 - Đông"},
+		{"id":"0c552c7bc3b0a124","x":396,"y":-740,"width":250,"height":60,"type":"text","text":"冬　「ふゆ」：mùa đông"},
+		{"id":"5a6a3b58b3666037","x":-339,"y":-880,"width":154,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Chủ　「丶」.canvas"}
 	],
 	"edges":[
 		{"id":"f00d53223804c570","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"49952d17efd5d24e","toSide":"left"},
@@ -16,6 +20,9 @@
 		{"id":"90ca34102ae8b175","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"598599bca03b369b","toSide":"left"},
 		{"id":"f866982f60507815","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"4f76f06ac810c838","toSide":"left"},
 		{"id":"0e65dcbe42c46556","fromNode":"7046bd8c72b51adb","fromSide":"right","toNode":"297d2ba2ef978681","toSide":"bottom","label":"Nét cuối không có dấu chấm bên phải."},
-		{"id":"51b600eedf2f8ce8","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"7566038db65b0161","toSide":"left"}
+		{"id":"51b600eedf2f8ce8","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"7566038db65b0161","toSide":"left"},
+		{"id":"b172a64004a112de","fromNode":"fcb28b724a34c783","fromSide":"right","toNode":"0c552c7bc3b0a124","toSide":"left"},
+		{"id":"a46b0e6d570f45d0","fromNode":"fc93d5e353f43330","fromSide":"right","toNode":"fcb28b724a34c783","toSide":"left","label":"đuổi bắt nhau dưới trời tuyết rơi"},
+		{"id":"10ff92e44b8b9d96","fromNode":"5a6a3b58b3666037","fromSide":"right","toNode":"fcb28b724a34c783","toSide":"left","label":"tả hình ảnh tuyết rơi"}
 	]
 }

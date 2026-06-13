@@ -18,7 +18,9 @@
 		{"id":"da5ef8e733ed3212","type":"text","text":"「N2」くらい","x":-1107,"y":-157,"width":250,"height":60},
 		{"id":"5892e0ae71917a8d","type":"file","file":"Pasted image 20260517111957.png","x":-2200,"y":-545,"width":400,"height":155},
 		{"id":"787d7e085d7ba32d","type":"text","text":"くらいの","x":-1660,"y":-361,"width":250,"height":60},
-		{"id":"047c9706c3ad0654","type":"text","text":"くらいで","x":-1660,"y":20,"width":250,"height":60}
+		{"id":"047c9706c3ad0654","type":"text","text":"くらいで","x":-1660,"y":20,"width":250,"height":60},
+		{"id":"e9ea9e4e23fa5b01","x":-1279,"y":1924,"width":250,"height":60,"type":"text","text":"このぐらいにしておく"},
+		{"id":"08d9c472701dc878","x":-1324,"y":2006,"width":250,"height":60,"type":"text","text":"làm đến đây thôi rồi dừng"}
 	],
 	"edges":[
 		{"id":"51300f7ba55e5f0e","fromNode":"db8eafb3417c022c","fromSide":"bottom","toNode":"2dc6401af7daacb0","toSide":"top"},

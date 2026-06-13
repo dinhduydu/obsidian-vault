@@ -2,11 +2,19 @@
 	"nodes":[
 		{"id":"268df70406d78732","type":"text","text":"Thạch　「石 」","x":-166,"y":-17,"width":250,"height":60},
 		{"id":"44db4df9b59b26b0","type":"text","text":"研 - Nghiêng","x":264,"y":-103,"width":250,"height":60},
-		{"id":"467191635cfbf41b","x":483,"y":180,"width":250,"height":60,"type":"text","text":"破壊"},
-		{"id":"7e64dcb28b78981e","x":259,"y":190,"width":130,"height":50,"type":"text","text":"破"}
+		{"id":"467191635cfbf41b","type":"text","text":"破壊","x":483,"y":180,"width":250,"height":60},
+		{"id":"7e64dcb28b78981e","type":"text","text":"破","x":259,"y":190,"width":130,"height":50},
+		{"id":"1c23be3c04afa6ed","type":"text","text":"Chữ cổ biểu thị:\n\n- Nước chảy không ngừng\n- Chuyển động liên tục","x":-297,"y":393,"width":262,"height":147},
+		{"id":"69c63cec6a2d5a87","type":"text","text":"硫 - Lưu","x":241,"y":465,"width":250,"height":60},
+		{"id":"1c183cc73cc251b0","type":"text","text":"硫黄　「いおう」：Lưu huỳnh","x":625,"y":426,"width":250,"height":60},
+		{"id":"d42650199cb90b82","type":"text","text":"㐬","x":60,"y":540,"width":96,"height":50}
 	],
 	"edges":[
 		{"id":"c09cad12b95dda18","fromNode":"268df70406d78732","fromSide":"right","toNode":"44db4df9b59b26b0","toSide":"left"},
-		{"id":"1b6ce894911d40e1","fromNode":"268df70406d78732","fromSide":"right","toNode":"7e64dcb28b78981e","toSide":"left"}
+		{"id":"1b6ce894911d40e1","fromNode":"268df70406d78732","fromSide":"right","toNode":"7e64dcb28b78981e","toSide":"left"},
+		{"id":"b746ae1955bc0643","fromNode":"d42650199cb90b82","fromSide":"left","toNode":"1c23be3c04afa6ed","toSide":"right"},
+		{"id":"0f9b907fd68cbf0e","fromNode":"d42650199cb90b82","fromSide":"right","toNode":"69c63cec6a2d5a87","toSide":"left"},
+		{"id":"6628b1c1231eaf49","fromNode":"69c63cec6a2d5a87","fromSide":"right","toNode":"1c183cc73cc251b0","toSide":"left"},
+		{"id":"11f71773c4ed4d26","fromNode":"268df70406d78732","fromSide":"right","toNode":"69c63cec6a2d5a87","toSide":"left"}
 	]
 }

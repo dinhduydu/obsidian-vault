@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ed73c33356ef53b6","type":"text","text":"Tâm　「心」","x":-69,"y":-4,"width":250,"height":60},
+		{"id":"2478bb0b87f345a1","type":"text","text":"必ず　「かならず」：","x":640,"y":120,"width":250,"height":60},
+		{"id":"cd6c91450cdeab93","type":"text","text":"必 - Tất","x":300,"y":120,"width":250,"height":60},
+		{"id":"8e1084c4d2128722","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phiệt.canvas","x":64,"y":150,"width":117,"height":117},
+		{"id":"badac2a4e57d6a04","type":"text","text":"秋 - Thu","x":140,"y":-580,"width":250,"height":60},
+		{"id":"9dcb151fdf93af8d","type":"text","text":"愁 - Sầu","x":570,"y":-458,"width":250,"height":60},
+		{"id":"bfa357e05f608211","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":1010,"y":-458,"width":250,"height":60},
+		{"id":"75f8f7137315f89a","x":-69,"y":-681,"width":123,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"913f3f00d530c68c","fromNode":"cd6c91450cdeab93","fromSide":"right","toNode":"2478bb0b87f345a1","toSide":"left"},
+		{"id":"bbd357027e84cba5","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"cd6c91450cdeab93","toSide":"left"},
+		{"id":"b06213de3bac683d","fromNode":"8e1084c4d2128722","fromSide":"right","toNode":"cd6c91450cdeab93","toSide":"left"},
+		{"id":"a0ae3da910dc69dd","fromNode":"badac2a4e57d6a04","fromSide":"right","toNode":"9dcb151fdf93af8d","toSide":"left","label":"mùa thu"},
+		{"id":"bfdc3e889d5ffd58","fromNode":"9dcb151fdf93af8d","fromSide":"right","toNode":"bfa357e05f608211","toSide":"left"},
+		{"id":"4b56bfa26f2c94cf","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"9dcb151fdf93af8d","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"},
+		{"id":"b15c9c7aa647d519","fromNode":"75f8f7137315f89a","fromSide":"right","toNode":"badac2a4e57d6a04","toSide":"left"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"bb169022fe7bb841","type":"group","x":-1075,"y":-215,"width":631,"height":929,"label":"Thứ　「次」"},
+		{"id":"cd9616b1c5528098","type":"text","text":"Thứ　「次」","x":-154,"y":-62,"width":250,"height":60},
+		{"id":"7978ac65e5de8f07","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":-800,"y":-195,"width":336,"height":139},
+		{"id":"6f37596a6dcac9e2","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":-752,"y":68,"width":240,"height":140},
+		{"id":"9eb88d80f0385dfb","type":"text","text":"次男　「じなん」：con trai thứ","x":-1055,"y":280,"width":250,"height":60},
+		{"id":"3a0ad719885b2ec8","type":"text","text":"目次　「もくじ」：mục lục","x":-1051,"y":404,"width":250,"height":60},
+		{"id":"4b05d74515ee75b4","type":"text","text":"次第　「しだい」：","x":-1051,"y":554,"width":250,"height":60},
+		{"id":"e3ec424783b18ca1","type":"text","text":"sau khi","x":-714,"y":634,"width":250,"height":60},
+		{"id":"ab8e13f481ea4a52","type":"text","text":"tuỳ vào","x":-715,"y":494,"width":250,"height":60},
+		{"id":"ad93fd5b25feba58","x":-380,"y":-360,"width":165,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」.canvas"},
+		{"id":"6e87379b041275b4","x":-398,"y":6,"width":183,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"17a78f97ef6a96bd","fromNode":"4b05d74515ee75b4","fromSide":"right","toNode":"ab8e13f481ea4a52","toSide":"left"},
+		{"id":"6d11979dcce14c27","fromNode":"4b05d74515ee75b4","fromSide":"right","toNode":"e3ec424783b18ca1","toSide":"left"},
+		{"id":"d914a885a461914f","fromNode":"cd9616b1c5528098","fromSide":"left","toNode":"7978ac65e5de8f07","toSide":"right"},
+		{"id":"15a64879e45ded4f","fromNode":"ad93fd5b25feba58","fromSide":"right","toNode":"cd9616b1c5528098","toSide":"left"},
+		{"id":"3c0982322c92a631","fromNode":"6e87379b041275b4","fromSide":"right","toNode":"cd9616b1c5528098","toSide":"left"}
+	]
+}

@@ -20,9 +20,11 @@
 		{"id":"59c810bacf2855c5","type":"text","text":"書 - Thư","x":220,"y":-595,"width":250,"height":60},
 		{"id":"444a38e0ac1a7f64","type":"text","text":"図書館","x":580,"y":-595,"width":250,"height":60},
 		{"id":"450092e762c36d0e","type":"file","file":"Pasted image 20260526004417.png","x":252,"y":1700,"width":169,"height":154},
-		{"id":"20b4a9eaec0d7f90","x":560,"y":1700,"width":250,"height":60,"type":"text","text":"昇華する　「しょうかする」："},
-		{"id":"7120e4bde50a693c","x":570,"y":1833,"width":250,"height":60,"type":"text","text":"昇進　「しょうしん」："},
-		{"id":"e26a3a23fec0b854","type":"text","text":"dùng cốc đựng gạo để múc nước lên, xúc gì đó lên","x":211,"y":2000,"width":250,"height":60}
+		{"id":"20b4a9eaec0d7f90","type":"text","text":"昇華する　「しょうかする」：","x":560,"y":1700,"width":250,"height":60},
+		{"id":"7120e4bde50a693c","type":"text","text":"昇進　「しょうしん」：","x":570,"y":1833,"width":250,"height":60},
+		{"id":"e26a3a23fec0b854","type":"text","text":"dùng cốc đựng gạo để múc nước lên, xúc gì đó lên","x":211,"y":2000,"width":250,"height":60},
+		{"id":"13a865c94c9887d4","type":"text","text":"昇 - Thăng","x":171,"y":1280,"width":250,"height":60},
+		{"id":"7340f9ae331cffef","type":"text","text":"升 - Thăng","x":-120,"y":1384,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"018437dedf2ce2c3","toSide":"left","label":"明 - Minh"},
@@ -39,13 +41,15 @@
 		{"id":"432912fa0469ede9","fromNode":"5f4929ed29a01be2","fromSide":"bottom","toNode":"780c940324903da9","toSide":"top","label":"景 - Cảnh"},
 		{"id":"e575769aa1dc819f","fromNode":"5f4929ed29a01be2","fromSide":"left","toNode":"e9502094a1f6a0c8","toSide":"top","label":"景 - Cảnh"},
 		{"id":"895385849cb1fd3a","fromNode":"631257b411dd2604","fromSide":"right","toNode":"4a3e541f26348b3e","toSide":"left","label":"昨 - Tạc"},
-		{"id":"a17812f733c132db","fromNode":"6e7555fc8c7e5ccc","fromSide":"bottom","toNode":"b57c6828eb745093","toSide":"top"},
+		{"id":"a17812f733c132db","fromNode":"13a865c94c9887d4","fromSide":"bottom","toNode":"b57c6828eb745093","toSide":"top"},
 		{"id":"78e0c78103c885b4","fromNode":"b57c6828eb745093","fromSide":"bottom","toNode":"450092e762c36d0e","toSide":"top"},
 		{"id":"74bc3a72db8219e1","fromNode":"450092e762c36d0e","fromSide":"bottom","toNode":"e26a3a23fec0b854","toSide":"top"},
 		{"id":"60c37cc4eafc618a","fromNode":"70e8ee794a47cc9b","fromSide":"right","toNode":"602c5b23ec176088","toSide":"left"},
 		{"id":"48864cdceccc76a8","fromNode":"631257b411dd2604","fromSide":"right","toNode":"59c810bacf2855c5","toSide":"left"},
 		{"id":"3f1831808e1921e9","fromNode":"59c810bacf2855c5","fromSide":"right","toNode":"444a38e0ac1a7f64","toSide":"left"},
 		{"id":"87da80dbf26d855a","fromNode":"450092e762c36d0e","fromSide":"right","toNode":"20b4a9eaec0d7f90","toSide":"left"},
-		{"id":"9e504868e00d9e72","fromNode":"450092e762c36d0e","fromSide":"right","toNode":"7120e4bde50a693c","toSide":"left"}
+		{"id":"9e504868e00d9e72","fromNode":"450092e762c36d0e","fromSide":"right","toNode":"7120e4bde50a693c","toSide":"left"},
+		{"id":"d972c29bb5f94060","fromNode":"7340f9ae331cffef","fromSide":"right","toNode":"13a865c94c9887d4","toSide":"left"},
+		{"id":"403358ba87c6c9e5","fromNode":"6e7555fc8c7e5ccc","fromSide":"bottom","toNode":"13a865c94c9887d4","toSide":"left"}
 	]
 }

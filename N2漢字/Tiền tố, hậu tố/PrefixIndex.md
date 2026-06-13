@@ -3,7 +3,7 @@ Tiền tố
  │   ├─ 無 (Vô): Thiếu, không (Vd: 無意識 - vô thức, 無責任 - vô trách nhiệm)
  │   ├─ 非 (Phi): Không, phi (Vd: 非公開 - không công khai, 非合法 - phi pháp)
  │   │   [[非 - Phi.canvas]]
- │   ├─ 未 (Vị): Chưa (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)
+ │   ├─ 未 (Vị): Chưa hành động (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)　[[未 - Vị.canvas]]
  │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)
  │   └─ 逆 (Nghịch): Phản, ngược (Vd: 逆効果 - tác dụng ngược, 逆回転 - quay ngược chiều)
  │
@@ -24,7 +24,8 @@ Tiền tố
  │   ├─ 難 (Nan): Khó khăn (Vd: 難事件 - vụ việc nan giải, 難問題 - vấn đề phức tạp)
  │   ├─ 濃 (Nồng): Đậm, đặc (Vd: 濃塩酸 - axit đậm đặc)
  │   └─ 満 (Mãn): Đầy, đủ (Vd: 満タン - đầy bình, 満年齢 - tuổi tròn)
- │
+ │バカでかい　ばかていね　ばかさわぎ　ばかだかい　バカ正直
+ 猛　猛烈 Mãnh liệt
 ### Thời gian
  │   ├─ 新 (Tân): Mới (Vd: 新商品 - sản phẩm mới, 新生活 - cuộc sống mới)
  │   │   [[新 - Tân.canvas]]
@@ -74,7 +75,7 @@ Tiền tố
  │   ├─ 当 (Đương): Chúng tôi - dùng cho cơ quan (Vd: 当事務所 - văn phòng của chúng tôi)
  │   ├─ 我が (Ngã): Tôi, chúng tôi - mang tính tự hào (Vd: 我が社 - công ty chúng tôi)
  │   ├─ 被 (Bị): Đối tượng nhận hành động (Vd: 被保険者 - người được bảo hiểm)
- │   ├─ 副 (Phó): Phó, phụ (Vd: 副社長 - phó giám đốc)
+ │   ├─ 副 (Phó): Phó, phụ (Vd: 副社長 - phó giám đốc)　[[副 - Phó.canvas]]
  │   ├─ 助 (Trợ): Trợ lý, hỗ trợ (Vd: 助監督 - trợ lý đạo diễn)
  │   ├─ 老 (Lão): Già (Vd: 老教授 - giáo sư già)
  │   ├─ 主 (Chủ): Chính (Vd: 主目的 - mục đích chính)
@@ -120,3 +121,6 @@ Tiền tố
  ├─ 上 (Thượng): Tốt, cao (Vd: 上成績 - thành tích tốt)
  ├─ 深 (Thâm): Sâu (Vd: 深呼吸 - hít thở sâu)
  └─ 素 (Tố): Đơn thuần hoặc nhấn mạnh (Vd: 素顔 - mặt mộc, 素早い - nhanh thoăn thoắt)
+
+
+名 (Danh): Nổi tiếng

@@ -7,7 +7,7 @@
 		{"id":"91f9fa760b2e4cbc","type":"text","text":"養成","x":1080,"y":-50,"width":250,"height":60},
 		{"id":"fc398c54944a8dea","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":134,"y":260,"width":342,"height":62},
 		{"id":"6fc23544b1ad9c96","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」.canvas","x":440,"y":-160,"width":173,"height":90},
-		{"id":"d014a0b156d29391","x":613,"y":172,"width":92,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」「M」.canvas"}
+		{"id":"d014a0b156d29391","x":613,"y":172,"width":92,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas"}
 	],
 	"edges":[
 		{"id":"b09f532710737ca2","fromNode":"f4b11f85a0235567","fromSide":"right","toNode":"04fd500b6d4c9721","toSide":"left"},

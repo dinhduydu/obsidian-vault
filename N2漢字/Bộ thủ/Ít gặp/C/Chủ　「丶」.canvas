@@ -1,14 +1,22 @@
 {
 	"nodes":[
-		{"id":"ef716f133c297af7","type":"text","text":"Chủ　「丶」","x":-95,"y":-35,"width":250,"height":60},
 		{"id":"bd9ffc20f41f2177","type":"text","text":"覚 - Giác","x":300,"y":-35,"width":250,"height":60},
 		{"id":"18afc6fd34432132","type":"text","text":"覚える　「おぼえる」： cảm giác","x":700,"y":-35,"width":250,"height":60},
 		{"id":"d1267cb31508dbb5","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":716,"y":79,"width":250,"height":60},
 		{"id":"9342bcbf239c55fb","type":"text","text":"州 - Châu","x":281,"y":-258,"width":250,"height":60},
 		{"id":"1a35cfbe2dc36285","type":"text","text":"欧州　「おうしゅう」：Châu Âu","x":678,"y":-260,"width":250,"height":60},
-		{"id":"460d9aef2ab4d10a","x":-74,"y":-360,"width":229,"height":51,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」.canvas"},
-		{"id":"825d189824cc9e70","x":-85,"y":79,"width":240,"height":229,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」.canvas"},
-		{"id":"cec2f3902a388735","x":0,"y":360,"width":150,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas"}
+		{"id":"460d9aef2ab4d10a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」.canvas","x":-74,"y":-360,"width":229,"height":51},
+		{"id":"825d189824cc9e70","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」.canvas","x":-85,"y":79,"width":240,"height":229},
+		{"id":"cec2f3902a388735","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas","x":0,"y":360,"width":150,"height":134},
+		{"id":"fc893eb86d0b804c","type":"text","text":"冬 - Đông","x":1937,"y":-150,"width":250,"height":60},
+		{"id":"0732d4bf0d29c856","type":"text","text":"冬　「ふゆ」：mùa đông","x":2356,"y":-150,"width":250,"height":60},
+		{"id":"ef716f133c297af7","type":"text","text":"Chủ　「丶」","x":-95,"y":-35,"width":250,"height":60},
+		{"id":"4afbaf4ecc57eb79","type":"text","text":"Chủ　「丶」","x":1565,"y":-420,"width":250,"height":60},
+		{"id":"2ba0bfe60148f968","x":1420,"y":-90,"width":201,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」.canvas"},
+		{"id":"aba00054ad920723","x":2356,"y":-480,"width":250,"height":60,"type":"text","text":"終 - Chung"},
+		{"id":"98e98fa596b9c26a","x":2080,"y":-800,"width":159,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas"},
+		{"id":"a7ea5666aca6b159","x":2780,"y":-480,"width":250,"height":60,"type":"text","text":"終る　「おわる」："},
+		{"id":"647c601269502317","x":2736,"y":-646,"width":250,"height":60,"type":"text","text":"kết thúc"}
 	],
 	"edges":[
 		{"id":"5474963169fbabcd","fromNode":"bd9ffc20f41f2177","fromSide":"right","toNode":"18afc6fd34432132","toSide":"left"},
@@ -18,6 +26,13 @@
 		{"id":"bb0dfbc7d05c11f3","fromNode":"ef716f133c297af7","fromSide":"right","toNode":"9342bcbf239c55fb","toSide":"left","label":"con thuyền trên sông"},
 		{"id":"2be2ee60ab886467","fromNode":"9342bcbf239c55fb","fromSide":"right","toNode":"1a35cfbe2dc36285","toSide":"left"},
 		{"id":"42c244de2474c2f9","fromNode":"825d189824cc9e70","fromSide":"right","toNode":"bd9ffc20f41f2177","toSide":"left"},
-		{"id":"384fc972a14cba1c","fromNode":"cec2f3902a388735","fromSide":"right","toNode":"bd9ffc20f41f2177","toSide":"left"}
+		{"id":"384fc972a14cba1c","fromNode":"cec2f3902a388735","fromSide":"right","toNode":"bd9ffc20f41f2177","toSide":"left"},
+		{"id":"d6fff6fd31ffbd0c","fromNode":"2ba0bfe60148f968","fromSide":"right","toNode":"fc893eb86d0b804c","toSide":"left","label":"đuổi bắt nhau dưới trời tuyết rơi"},
+		{"id":"490fb0f41412c7ea","fromNode":"fc893eb86d0b804c","fromSide":"right","toNode":"0732d4bf0d29c856","toSide":"left"},
+		{"id":"6d176c7b780df940","fromNode":"4afbaf4ecc57eb79","fromSide":"right","toNode":"fc893eb86d0b804c","toSide":"left","label":"tả hình ảnh tuyết rơi"},
+		{"id":"264d00b50750056f","fromNode":"aba00054ad920723","fromSide":"right","toNode":"a7ea5666aca6b159","toSide":"left"},
+		{"id":"5d5dec2216377d02","fromNode":"fc893eb86d0b804c","fromSide":"right","toNode":"aba00054ad920723","toSide":"left","label":"may áo vào mùa đông"},
+		{"id":"870386c1f91cb609","fromNode":"98e98fa596b9c26a","fromSide":"right","toNode":"aba00054ad920723","toSide":"left","label":"nhu cầu về tơ lụa"},
+		{"id":"0405b866d0c5b1cd","fromNode":"aba00054ad920723","fromSide":"right","toNode":"647c601269502317","toSide":"left"}
 	]
 }

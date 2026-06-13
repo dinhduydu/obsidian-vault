@@ -13,18 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」.canvas",
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bách　「百」.canvas",
                 "viewState": {
-                  "x": -247.93410778632852,
-                  "y": -853.3106626989486,
-                  "zoom": 0.30913082042324785
+                  "x": 343.1488275983756,
+                  "y": -193.89722409617696,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Khiếm　「欠 」"
+              "title": "Bách　「百」"
+            }
+          },
+          {
+            "id": "dd8a17bf7db4cd53",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」.canvas",
+                "viewState": {
+                  "x": 496.739896790094,
+                  "y": 133.47149932856007,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thiên　「天」"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "欠",
+                "query": "Thăng",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,19 +191,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "396b663aa2bd5f37",
+  "active": "dd8a17bf7db4cd53",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
-    "Chữa đề/24052026/問題６.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/P/Phiệt.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas",
-    "N2語彙/ひらがな/きっかけ.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas",
-    "N2語彙/ひらがな/だらしない.canvas",
-    "N2語彙/Phó từ/しっかり.canvas",
-    "N2語彙/Phó từ/きっぱり.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Y　「衤」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
+    "Untitled 13.base",
     "N2語彙/Phó từ",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
@@ -195,7 +216,6 @@
     "N2語彙/ひらがな/きっかけ.md",
     "N2語彙/ひらがな",
     "Pasted image 20260612121936.png",
-    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35",
     "Pasted image 20260612121325.png",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14",
@@ -204,10 +224,7 @@
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 88",
     "Pasted image 20260612115614.png",
     "Pasted image 20260612014232.png",
-    "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
     "Pasted image 20260612014026.png",
-    "Untitled 10.base",
-    "Untitled 9.base",
     "N2漢字/Bộ thủ/Ít gặp/T/Untitled.md",
     "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",

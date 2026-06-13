@@ -2,13 +2,30 @@
 	"nodes":[
 		{"id":"cfab21f388ec3326","type":"text","text":"Văn　「文」","x":-204,"y":-46,"width":250,"height":60},
 		{"id":"27645beeb6529263","type":"text","text":"văn hóa, họa tiết","x":-580,"y":-180,"width":250,"height":60},
-		{"id":"b644ecde1c4b8f82","x":160,"y":-270,"width":250,"height":60,"type":"text","text":"対 - Đối"},
-		{"id":"99af62bf500d3d3e","x":500,"y":-270,"width":250,"height":60,"type":"text","text":"対う　「むかう」："},
-		{"id":"230808300c1c690a","x":-168,"y":-460,"width":214,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」.canvas"}
+		{"id":"b644ecde1c4b8f82","type":"text","text":"対 - Đối","x":160,"y":-270,"width":250,"height":60},
+		{"id":"99af62bf500d3d3e","type":"text","text":"対う　「むかう」：","x":500,"y":-270,"width":250,"height":60},
+		{"id":"230808300c1c690a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」.canvas","x":-168,"y":-460,"width":214,"height":143},
+		{"id":"760f65ca06f4a5a1","type":"text","text":"紋 - Văn","x":200,"y":120,"width":250,"height":60},
+		{"id":"3d31d10569fae82f","type":"text","text":"指紋　「しもん」：","x":529,"y":120,"width":250,"height":60},
+		{"id":"885e633e8e91be79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas","x":-100,"y":180,"width":146,"height":108},
+		{"id":"09b8e77c2882a03c","type":"text","text":"hoa văn","x":550,"y":14,"width":250,"height":60},
+		{"id":"5ca49b04d8779e10","x":544,"y":440,"width":250,"height":60,"type":"text","text":"蚊帳　「かや」：màn"},
+		{"id":"ebbb9d7a19c380de","x":200,"y":440,"width":250,"height":60,"type":"text","text":"蚊 - Văn"},
+		{"id":"3e9573b556473667","x":546,"y":308,"width":250,"height":60,"type":"text","text":"Muỗi"},
+		{"id":"41ac0cc79ce1af43","x":-204,"y":500,"width":154,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」.canvas"}
 	],
 	"edges":[
 		{"id":"03cf05faf420f597","fromNode":"cfab21f388ec3326","fromSide":"left","toNode":"27645beeb6529263","toSide":"right"},
 		{"id":"44d43ca8b3ef15b7","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"b644ecde1c4b8f82","toSide":"left"},
-		{"id":"ce6e3b9e672050ee","fromNode":"b644ecde1c4b8f82","fromSide":"right","toNode":"99af62bf500d3d3e","toSide":"left"}
+		{"id":"ce6e3b9e672050ee","fromNode":"b644ecde1c4b8f82","fromSide":"right","toNode":"99af62bf500d3d3e","toSide":"left"},
+		{"id":"66df0dfd0080571b","fromNode":"230808300c1c690a","fromSide":"right","toNode":"b644ecde1c4b8f82","toSide":"left"},
+		{"id":"22c0167c4eb8e626","fromNode":"760f65ca06f4a5a1","fromSide":"right","toNode":"3d31d10569fae82f","toSide":"left"},
+		{"id":"e4162c54655b5932","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"760f65ca06f4a5a1","toSide":"left"},
+		{"id":"6cdee1ca70f926b3","fromNode":"885e633e8e91be79","fromSide":"right","toNode":"760f65ca06f4a5a1","toSide":"left"},
+		{"id":"055c9f61c69cc2a0","fromNode":"760f65ca06f4a5a1","fromSide":"right","toNode":"09b8e77c2882a03c","toSide":"left"},
+		{"id":"3e9ebc70c9babad1","fromNode":"ebbb9d7a19c380de","fromSide":"right","toNode":"5ca49b04d8779e10","toSide":"left"},
+		{"id":"a0563d60dc69b508","fromNode":"ebbb9d7a19c380de","fromSide":"right","toNode":"3e9573b556473667","toSide":"left"},
+		{"id":"81d30bb5575e690f","fromNode":"cfab21f388ec3326","fromSide":"right","toNode":"ebbb9d7a19c380de","toSide":"left"},
+		{"id":"b49fb48204bac398","fromNode":"41ac0cc79ce1af43","fromSide":"right","toNode":"ebbb9d7a19c380de","toSide":"left"}
 	]
 }

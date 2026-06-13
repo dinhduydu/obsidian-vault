@@ -11,7 +11,12 @@
 		{"id":"0bde74492d253c3b","type":"text","text":"Bị dày vò, hành hạ, giày vò về thể xác hoặc tinh thần.\nThường dùng khi nói đến sự đau khổ kéo dài do bệnh tật, lo âu, áp lực, ký ức, cảm giác tội lỗi...","x":1140,"y":-206,"width":337,"height":146},
 		{"id":"86e7d892d2d677ff","type":"text","text":"落","x":260,"y":600,"width":250,"height":60},
 		{"id":"bad5ca911c674c69","type":"text","text":"芽 - Nha","x":236,"y":780,"width":250,"height":60},
-		{"id":"c250f4310c1920f6","type":"text","text":"肉芽　「にくが」：khối u, chỗ sưng","x":610,"y":780,"width":250,"height":60}
+		{"id":"c250f4310c1920f6","type":"text","text":"肉芽　「にくが」：khối u, chỗ sưng","x":610,"y":780,"width":250,"height":60},
+		{"id":"b77739033f683ce4","type":"text","text":"何 - Hà","x":315,"y":-944,"width":250,"height":60},
+		{"id":"10318c9c5732b86a","type":"text","text":"cái gì","x":678,"y":-1040,"width":250,"height":60},
+		{"id":"ff5c19cedd8602f2","type":"text","text":"荷 - Hà","x":690,"y":-817,"width":250,"height":60},
+		{"id":"47d52c0e095c21b7","type":"text","text":"荷物　「にもつ」：hành lý","x":1065,"y":-817,"width":250,"height":60},
+		{"id":"9a280b1203b9fdc3","x":-41,"y":-700,"width":150,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas"}
 	],
 	"edges":[
 		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
@@ -24,6 +29,12 @@
 		{"id":"573b6fdc33dc57ef","fromNode":"ea4a93220bf60e7d","fromSide":"right","toNode":"0bde74492d253c3b","toSide":"left"},
 		{"id":"156a56a73d87e145","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"86e7d892d2d677ff","toSide":"left"},
 		{"id":"e1fea48acccdac94","fromNode":"bad5ca911c674c69","fromSide":"right","toNode":"c250f4310c1920f6","toSide":"left"},
-		{"id":"4c2b2845fcc94a84","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"bad5ca911c674c69","toSide":"left"}
+		{"id":"4c2b2845fcc94a84","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"bad5ca911c674c69","toSide":"left"},
+		{"id":"8c1d36dea5d0bbf5","fromNode":"b77739033f683ce4","fromSide":"right","toNode":"10318c9c5732b86a","toSide":"left"},
+		{"id":"beb9a83d90f1022b","fromNode":"b77739033f683ce4","fromSide":"right","toNode":"ff5c19cedd8602f2","toSide":"left"},
+		{"id":"e743345515841fa0","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"ff5c19cedd8602f2","toSide":"left"},
+		{"id":"b78a1a0f348dcd82","fromNode":"ff5c19cedd8602f2","fromSide":"right","toNode":"47d52c0e095c21b7","toSide":"left"},
+		{"id":"4c447106d2778546","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
+		{"id":"cae3b0a363d34e85","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"b77739033f683ce4","toSide":"left"}
 	]
 }

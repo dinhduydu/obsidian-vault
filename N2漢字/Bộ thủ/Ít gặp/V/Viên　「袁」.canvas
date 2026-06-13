@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"aa623fc3f92c5924","type":"text","text":"園 - Viên","x":-369,"y":-32,"width":250,"height":60},
+		{"id":"959f5f400d0d9c9a","type":"text","text":"園芸　「えんげい」：","x":80,"y":-32,"width":250,"height":60},
+		{"id":"5b98fc54850065c9","type":"text","text":"袁 - Viên","x":-820,"y":120,"width":250,"height":60},
+		{"id":"981a99bebf528fde","type":"text","text":"土 (đất)\n口\n衣 (áo)","x":-1220,"y":96,"width":250,"height":108},
+		{"id":"7b381dbe0c7c4a08","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y　「衣」.canvas","x":-1107,"y":-180,"width":137,"height":72},
+		{"id":"381eb7724c68c574","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":-1080,"y":240,"width":142,"height":165},
+		{"id":"954f32df79ae057c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-1107,"y":-47,"width":98,"height":90},
+		{"id":"b565555e1829433a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-620,"y":380,"width":164,"height":86},
+		{"id":"632ceba71c910364","type":"text","text":"遠足　「**えんそく**.」：","x":145,"y":750,"width":250,"height":60},
+		{"id":"54ee1a919015339b","type":"text","text":"妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。","x":510,"y":756,"width":575,"height":50},
+		{"id":"38a07cbfd2c39730","type":"text","text":"→ 遠足 = đi xa bằng chân → chuyến dã ngoại.","x":776,"y":310,"width":250,"height":60},
+		{"id":"1191469bd7afffd7","type":"text","text":"- chuyến đi dã ngoại\n- picnic / school excursion","x":526,"y":539,"width":250,"height":60},
+		{"id":"14fae694322c8c12","type":"text","text":"Thường dùng cho hoạt động trường học:\n\nhọc sinh đi công viên\nsở thú\nbảo tàng\nleo núi nhẹ","x":905,"y":466,"width":250,"height":206},
+		{"id":"614fe3a020f369e1","type":"text","text":"明日は遠足です。\n（あした は えんそく です。）\nNgày mai là buổi dã ngoại.","x":1385,"y":310,"width":280,"height":127},
+		{"id":"9531a2a3de29ea2b","type":"text","text":"遠足のおやつ\n（えんそく の おやつ）\nĐồ ăn vặt mang theo khi đi dã ngoại.","x":1385,"y":569,"width":250,"height":108},
+		{"id":"d1bc4655226d479c","type":"text","text":"遠 - Viễn","x":-369,"y":280,"width":250,"height":60},
+		{"id":"25203a880dde641b","x":-650,"y":-400,"width":160,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」.canvas"},
+		{"id":"ae783f054a7b9699","x":-369,"y":-280,"width":250,"height":60,"type":"text","text":"猿 - Viên"},
+		{"id":"25a7f73abf97341a","x":-49,"y":-344,"width":250,"height":60,"type":"text","text":"con khỉ"}
+	],
+	"edges":[
+		{"id":"17d8bb98ad09ef75","fromNode":"aa623fc3f92c5924","fromSide":"right","toNode":"959f5f400d0d9c9a","toSide":"left"},
+		{"id":"e01a28e0850baf28","fromNode":"981a99bebf528fde","fromSide":"right","toNode":"5b98fc54850065c9","toSide":"left"},
+		{"id":"87e4ab8bd208b45c","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"aa623fc3f92c5924","toSide":"left"},
+		{"id":"d4db61c7a17f2c1d","fromNode":"7b381dbe0c7c4a08","fromSide":"right","toNode":"5b98fc54850065c9","toSide":"left"},
+		{"id":"6b0618e859f0c1a0","fromNode":"381eb7724c68c574","fromSide":"right","toNode":"5b98fc54850065c9","toSide":"left"},
+		{"id":"105b55ecfe11839f","fromNode":"954f32df79ae057c","fromSide":"right","toNode":"5b98fc54850065c9","toSide":"left"},
+		{"id":"1f7f9821f139187b","fromNode":"632ceba71c910364","fromSide":"right","toNode":"54ee1a919015339b","toSide":"left"},
+		{"id":"6921b4cf7e12767c","fromNode":"632ceba71c910364","fromSide":"right","toNode":"1191469bd7afffd7","toSide":"left"},
+		{"id":"2876e4bdf7ddb868","fromNode":"d1bc4655226d479c","fromSide":"right","toNode":"632ceba71c910364","toSide":"left"},
+		{"id":"f0dd91a115b53dd3","fromNode":"1191469bd7afffd7","fromSide":"top","toNode":"38a07cbfd2c39730","toSide":"left"},
+		{"id":"3db2449864509ca1","fromNode":"1191469bd7afffd7","fromSide":"right","toNode":"14fae694322c8c12","toSide":"left"},
+		{"id":"8241c63e6da8fb4f","fromNode":"14fae694322c8c12","fromSide":"right","toNode":"614fe3a020f369e1","toSide":"left"},
+		{"id":"23925c68c620b51f","fromNode":"14fae694322c8c12","fromSide":"right","toNode":"9531a2a3de29ea2b","toSide":"left"},
+		{"id":"4989dd2d5d7f36c2","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"d1bc4655226d479c","toSide":"left"},
+		{"id":"89820e22b69ac232","fromNode":"b565555e1829433a","fromSide":"right","toNode":"d1bc4655226d479c","toSide":"left"},
+		{"id":"5f06d1fa5cae4db5","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"ae783f054a7b9699","toSide":"left"},
+		{"id":"6f66216e8f4057e0","fromNode":"25203a880dde641b","fromSide":"right","toNode":"ae783f054a7b9699","toSide":"left"},
+		{"id":"4f62f5d72848dc5c","fromNode":"ae783f054a7b9699","fromSide":"right","toNode":"25a7f73abf97341a","toSide":"left"}
+	]
+}

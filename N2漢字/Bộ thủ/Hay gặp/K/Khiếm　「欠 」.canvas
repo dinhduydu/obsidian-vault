@@ -1,19 +1,40 @@
 {
 	"nodes":[
-		{"id":"fb377bf21125ec78","type":"text","text":"Khiếm　「欠 」","x":-340,"y":-760,"width":250,"height":60},
 		{"id":"da5844217ed18fdc","type":"text","text":"Có yếu tố “đang chuyển tiếp” (冫 biểu thị trạng thái dòng chảy/biến đổi nhẹ trong nhiều chữ)","x":0,"y":-561,"width":250,"height":132},
-		{"id":"a98ac57029a2c5f0","type":"text","text":"次 - Thứ","x":562,"y":-660,"width":250,"height":60},
-		{"id":"c58d32b3e3f49c19","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":944,"y":-700,"width":240,"height":140},
-		{"id":"0af3399199348a99","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":1384,"y":-700,"width":336,"height":139},
 		{"id":"62475c9eca0b3b15","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」.canvas","x":-380,"y":-547,"width":253,"height":105},
-		{"id":"f1ea120fa6e3ed39","x":-820,"y":-1020,"width":250,"height":60,"type":"text","text":"欠陥　「けっかん」："}
+		{"id":"f1ea120fa6e3ed39","type":"text","text":"欠陥　「けっかん」：","x":-820,"y":-1020,"width":250,"height":60},
+		{"id":"a9f2b9c4c49e5298","type":"text","text":"その製品は**欠陥**が見つかったために回収された。","x":-1320,"y":-1140,"width":420,"height":50},
+		{"id":"8a358cd6146531fc","type":"text","text":"欠ける　「かける」： thiếu","x":-820,"y":-960,"width":250,"height":60},
+		{"id":"33702b64956ed0d6","type":"text","text":"欠如　「けつじょ」：sự thiếu","x":-820,"y":-900,"width":250,"height":60},
+		{"id":"516fc9efa5dc2b5c","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」.canvas","x":600,"y":-740,"width":280,"height":220},
+		{"id":"fb377bf21125ec78","type":"text","text":"Khiếm　「欠 」","x":-340,"y":-760,"width":250,"height":60},
+		{"id":"8a5fe69d8c2d9f6b","type":"text","text":"Khiếm　「欠 」","x":600,"y":-1220,"width":250,"height":60},
+		{"id":"46db3c0bf8b38221","x":1060,"y":-1342,"width":250,"height":60,"type":"text","text":"炊 - Xuý"},
+		{"id":"a4ad2fb602421d58","x":1405,"y":-1344,"width":250,"height":60,"type":"text","text":"炊飯器　「すいはんき」："},
+		{"id":"01587d7fc1abbea2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas","x":752,"y":-1460,"width":146,"height":116},
+		{"id":"3acfda617395925b","x":1060,"y":-1140,"width":250,"height":60,"type":"text","text":"吹 - Xuý"},
+		{"id":"30dfac8676da31dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":834,"y":-1009,"width":141,"height":86},
+		{"id":"1ebec5d5010f7b7b","x":1405,"y":-1140,"width":250,"height":60,"type":"text","text":"吹く　「ふく」："},
+		{"id":"5fba36bb456047ec","x":1380,"y":-1560,"width":250,"height":60,"type":"text","text":"飲む　「のむ」："},
+		{"id":"e483148c8273b68f","x":1040,"y":-1560,"width":250,"height":60,"type":"text","text":"飲 - Ẩm"},
+		{"id":"3ac44cb92c9aeee8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas","x":757,"y":-1740,"width":154,"height":120}
 	],
 	"edges":[
-		{"id":"5ee81a036e0e4d4a","fromNode":"da5844217ed18fdc","fromSide":"right","toNode":"a98ac57029a2c5f0","toSide":"left","color":"1"},
-		{"id":"ac189a8bf3e41e53","fromNode":"a98ac57029a2c5f0","fromSide":"right","toNode":"c58d32b3e3f49c19","toSide":"left"},
-		{"id":"e478adee16d43d70","fromNode":"c58d32b3e3f49c19","fromSide":"right","toNode":"0af3399199348a99","toSide":"left"},
-		{"id":"2822230d1e19aecb","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"a98ac57029a2c5f0","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
+		{"id":"5ee81a036e0e4d4a","fromNode":"da5844217ed18fdc","fromSide":"right","toNode":"516fc9efa5dc2b5c","toSide":"left","color":"1"},
+		{"id":"2822230d1e19aecb","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"516fc9efa5dc2b5c","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
 		{"id":"31b9ff446d06340c","fromNode":"62475c9eca0b3b15","fromSide":"right","toNode":"da5844217ed18fdc","toSide":"left"},
-		{"id":"d91ebe7f6993abbb","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"f1ea120fa6e3ed39","toSide":"right"}
+		{"id":"d91ebe7f6993abbb","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"f1ea120fa6e3ed39","toSide":"right"},
+		{"id":"13179e8550973ebb","fromNode":"f1ea120fa6e3ed39","fromSide":"left","toNode":"a9f2b9c4c49e5298","toSide":"right"},
+		{"id":"81bfc2a9b8c3077d","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"8a358cd6146531fc","toSide":"right"},
+		{"id":"f965fc9e7aa927f8","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"33702b64956ed0d6","toSide":"right"},
+		{"id":"0a16a9fdcfdc258a","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"8a5fe69d8c2d9f6b","toSide":"left"},
+		{"id":"2dbb5a29017e802d","fromNode":"01587d7fc1abbea2","fromSide":"right","toNode":"46db3c0bf8b38221","toSide":"left"},
+		{"id":"65514beed5f79990","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"46db3c0bf8b38221","toSide":"left"},
+		{"id":"97085587c8632df7","fromNode":"46db3c0bf8b38221","fromSide":"right","toNode":"a4ad2fb602421d58","toSide":"left"},
+		{"id":"f3622ba4c60d08d4","fromNode":"30dfac8676da31dd","fromSide":"right","toNode":"3acfda617395925b","toSide":"left"},
+		{"id":"74ac3b6756d44037","fromNode":"3acfda617395925b","fromSide":"right","toNode":"1ebec5d5010f7b7b","toSide":"left"},
+		{"id":"607c70de3ecc6e6c","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"3acfda617395925b","toSide":"left"},
+		{"id":"a7b7658483b3b802","fromNode":"3ac44cb92c9aeee8","fromSide":"right","toNode":"e483148c8273b68f","toSide":"left"},
+		{"id":"e52a3c1a8a3485ac","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"e483148c8273b68f","toSide":"left"}
 	]
 }

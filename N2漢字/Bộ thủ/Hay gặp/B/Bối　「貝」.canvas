@@ -39,8 +39,15 @@
 		{"id":"d8914b62d375e2b8","type":"text","text":"財界　「ざいかい」：","x":910,"y":100,"width":250,"height":60},
 		{"id":"57b0213eff4f3741","type":"text","text":"財産　「ざいさん」：","x":906,"y":188,"width":250,"height":60},
 		{"id":"478755c84a3347f4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas","x":220,"y":218,"width":173,"height":119},
-		{"id":"7cb81e09bda2f645","x":-2064,"y":500,"width":250,"height":60,"type":"text","text":"自負　「じふ」：tự hào"},
-		{"id":"fa2f1c9ab84d8b88","x":-1680,"y":420,"width":526,"height":53,"type":"text","text":"私は、読書の量なら友達の誰にも**負け**ないと**自負**している。"}
+		{"id":"7cb81e09bda2f645","type":"text","text":"自負　「じふ」：tự hào","x":-2064,"y":500,"width":250,"height":60},
+		{"id":"fa2f1c9ab84d8b88","type":"text","text":"私は、読書の量なら友達の誰にも**負け**ないと**自負**している。","x":-1680,"y":420,"width":526,"height":53},
+		{"id":"413dc0fb0b4b2a1f","type":"text","text":"貯金　「ちょきん」： tiết kiệm tiền","x":-1216,"y":-1031,"width":250,"height":60},
+		{"id":"f60a6d31abf132af","type":"text","text":"貯 - Trữ","x":-1574,"y":-1031,"width":250,"height":60},
+		{"id":"5fa8718683cb7d59","type":"text","text":"Miên　「宀」","x":-2440,"y":-1400,"width":250,"height":60},
+		{"id":"a25ecd499e76db75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」.canvas","x":-2406,"y":-1170,"width":161,"height":121},
+		{"id":"3ebdd29654079051","type":"text","text":"時間を潰す","x":-1054,"y":-420,"width":250,"height":60},
+		{"id":"8bd81a648a4376b8","x":-1466,"y":-348,"width":250,"height":60,"type":"text","text":"潰 - Hội"},
+		{"id":"5fee45fe28b1b661","x":-1700,"y":-560,"width":101,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas"}
 	],
 	"edges":[
 		{"id":"d7e636c8b362f77c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"b2f39534e38e6847","toSide":"left","label":"賃 - Nhẫm"},
@@ -80,6 +87,13 @@
 		{"id":"c72002e2ac48f7c1","fromNode":"478755c84a3347f4","fromSide":"right","toNode":"0a2e49b60ffb926f","toSide":"left"},
 		{"id":"fa413e47ac5f4bc9","fromNode":"7ac613c592aacd6c","fromSide":"right","toNode":"7cb81e09bda2f645","toSide":"left"},
 		{"id":"5b2be73d0d368747","fromNode":"7cb81e09bda2f645","fromSide":"right","toNode":"fa2f1c9ab84d8b88","toSide":"left"},
-		{"id":"b39ef8ce1046b24f","fromNode":"ee9e69f02b5ba144","fromSide":"right","toNode":"fa2f1c9ab84d8b88","toSide":"left"}
+		{"id":"b39ef8ce1046b24f","fromNode":"ee9e69f02b5ba144","fromSide":"right","toNode":"fa2f1c9ab84d8b88","toSide":"left"},
+		{"id":"7129e1e118973fa4","fromNode":"f1688eaef147ace1","fromSide":"top","toNode":"8bd81a648a4376b8","toSide":"left"},
+		{"id":"fe5d392168cece59","fromNode":"f60a6d31abf132af","fromSide":"right","toNode":"413dc0fb0b4b2a1f","toSide":"left"},
+		{"id":"d094b43274067156","fromNode":"a25ecd499e76db75","fromSide":"right","toNode":"f60a6d31abf132af","toSide":"left","label":"đóng đinh, bảo quản"},
+		{"id":"396f94cc35234d7c","fromNode":"5fa8718683cb7d59","fromSide":"right","toNode":"f60a6d31abf132af","toSide":"left"},
+		{"id":"0dac25159b63eb92","fromNode":"f1688eaef147ace1","fromSide":"top","toNode":"f60a6d31abf132af","toSide":"left","label":"貯 - Trữ"},
+		{"id":"efd06beda0ffacfd","fromNode":"8bd81a648a4376b8","fromSide":"right","toNode":"3ebdd29654079051","toSide":"left"},
+		{"id":"ab039cbec223c599","fromNode":"5fee45fe28b1b661","fromSide":"right","toNode":"8bd81a648a4376b8","toSide":"left"}
 	]
 }

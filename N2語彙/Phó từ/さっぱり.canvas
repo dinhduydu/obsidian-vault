@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"200f232903c19678","x":-169,"y":-22,"width":250,"height":60,"type":"text","text":"さっぱり"},
+		{"id":"07cfd41e05658850","x":201,"y":89,"width":250,"height":60,"type":"text","text":"kết quả tiêu cực"},
+		{"id":"19ad04ef3f7f002a","x":-169,"y":149,"width":250,"height":60,"type":"text","text":"まったく"}
+	],
+	"edges":[
+		{"id":"9ecd2d44a71d9013","fromNode":"200f232903c19678","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left"},
+		{"id":"d2319bf8cc0b1b9e","fromNode":"19ad04ef3f7f002a","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left"}
+	]
+}

@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火 (灬)」","x":-198,"y":-26,"width":250,"height":60},
+		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「灬」","x":-198,"y":-26,"width":250,"height":60},
 		{"id":"707740992dec6508","type":"text","text":"焦 - Tiêu","x":224,"y":94,"width":250,"height":60},
 		{"id":"9d61f1c94e309817","type":"text","text":"Chữ 焦 gồm:\n\n- 隹（chim đuôi ngắn）\n- 灬（lửa）\n\nHình ảnh gốc:\n\n> con chim bị lửa đốt cháy","x":668,"y":44,"width":372,"height":236},
 		{"id":"1db401bfb2204670","type":"text","text":"→ nghĩa gốc:\n\n- cháy khét\n- bị nung nóng\n\nTừ đó phát triển thành:\n\n- nóng ruột\n- sốt ruột\n- cuống lên\n\nNên:\n\n- 焦る（あせる）= lo cuống, hấp tấp, sốt ruột\n\nLiên tưởng:\n\n> trong lòng như bị “thiêu đốt” nên mất bình tĩnh.","x":1263,"y":49,"width":477,"height":431},
 		{"id":"109ae6d73f4a342b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「隹」.canvas","x":-73,"y":198,"width":168,"height":164},
-		{"id":"1ecaa3c0a323125a","x":224,"y":-200,"width":250,"height":60,"type":"text","text":"熱 - Nhiệt"}
+		{"id":"1ecaa3c0a323125a","type":"text","text":"熱 - Nhiệt","x":224,"y":-200,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7fdef10512886e31","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"707740992dec6508","toSide":"left"},

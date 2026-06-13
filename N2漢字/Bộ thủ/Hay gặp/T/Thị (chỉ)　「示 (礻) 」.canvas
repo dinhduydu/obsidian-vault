@@ -18,10 +18,12 @@
 		{"id":"555f8e64aacf5d66","type":"text","text":"福 - Phúc","x":5,"y":-1381,"width":250,"height":60},
 		{"id":"cf9c5c7035d467d1","type":"text","text":"祈 - Kì","x":-8,"y":-1607,"width":250,"height":60},
 		{"id":"b9c7891c7cfd23fc","type":"text","text":"cầu phúc","x":378,"y":-1658,"width":250,"height":60},
-		{"id":"5a2bad09da966297","type":"text","text":"xã hội, công xã, hợp tác xã","x":278,"y":-1037,"width":250,"height":60}
+		{"id":"5a2bad09da966297","type":"text","text":"xã hội, công xã, hợp tác xã","x":278,"y":-1037,"width":250,"height":60},
+		{"id":"af380bff52fa4e41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":-400,"y":-1194,"width":177,"height":121},
+		{"id":"c7f9f344908233d3","x":-39,"y":-365,"width":170,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」.canvas"}
 	],
 	"edges":[
-		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"54299038a440bc93","toSide":"left"},
+		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"54299038a440bc93","toSide":"left","label":"bàn thờ"},
 		{"id":"8a2012731dfccdd3","fromNode":"7fb4176a9289dc09","fromSide":"left","toNode":"cb69bbc52327f398","toSide":"right"},
 		{"id":"48363219fa330c23","fromNode":"2c236641a32a4006","fromSide":"right","toNode":"9885345525516b37","toSide":"left"},
 		{"id":"8cb44d6faa6ab969","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"0b99e1e304ccc5e1","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
@@ -30,7 +32,7 @@
 		{"id":"647d3236930b3334","fromNode":"0b99e1e304ccc5e1","fromSide":"right","toNode":"146d75329e368ad5","toSide":"left"},
 		{"id":"2f2221d7d8fdc6db","fromNode":"146d75329e368ad5","fromSide":"right","toNode":"10b03ccb0558c6ee","toSide":"left"},
 		{"id":"cda2ca5e3befa6d4","fromNode":"0b99e1e304ccc5e1","fromSide":"right","toNode":"9236855b7217e519","toSide":"left"},
-		{"id":"f452dc5009a43c2b","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"910948422631203b","toSide":"left"},
+		{"id":"f452dc5009a43c2b","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"910948422631203b","toSide":"left","label":"cúng thần"},
 		{"id":"3fcb1698694ee22a","fromNode":"910948422631203b","fromSide":"right","toNode":"8dde1f26d216f5b2","toSide":"left"},
 		{"id":"e908202fb0bf2a94","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"81568c01dd04d041","toSide":"left"},
 		{"id":"ec8d63afbd6f91a9","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"53a8a2085cfaecaa","toSide":"left"},
@@ -38,6 +40,8 @@
 		{"id":"c11963e78e717971","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"555f8e64aacf5d66","toSide":"left"},
 		{"id":"e0c95134fc2addc6","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"cf9c5c7035d467d1","toSide":"left"},
 		{"id":"9228683c919a9ca4","fromNode":"cf9c5c7035d467d1","fromSide":"right","toNode":"b9c7891c7cfd23fc","toSide":"left"},
-		{"id":"67a742f942e31684","fromNode":"910948422631203b","fromSide":"right","toNode":"5a2bad09da966297","toSide":"left"}
+		{"id":"67a742f942e31684","fromNode":"910948422631203b","fromSide":"right","toNode":"5a2bad09da966297","toSide":"left"},
+		{"id":"43e0bf285a77cade","fromNode":"af380bff52fa4e41","fromSide":"right","toNode":"910948422631203b","toSide":"left","label":"thổ công"},
+		{"id":"a9ce5031ca74640d","fromNode":"c7f9f344908233d3","fromSide":"right","toNode":"54299038a440bc93","toSide":"left","label":"dáng người quỳ"}
 	]
 }

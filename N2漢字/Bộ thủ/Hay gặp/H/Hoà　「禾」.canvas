@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"b363cdf76a4c397d","type":"text","text":"Hoà　「禾」","x":-340,"y":36,"width":250,"height":60},
 		{"id":"bb9025f2f97a342c","type":"text","text":"移転　「いてん」：chuyển địa điểm / dời sang chỗ mới.","x":303,"y":243,"width":250,"height":60},
 		{"id":"e572b5127e2e1f80","type":"text","text":"Bộ thủ: 禾（のぎへん） — bộ Hòa\nNghĩa: di chuyển","x":-860,"y":-100,"width":321,"height":74},
 		{"id":"3691312acd631ed5","type":"text","text":"ダム建設で、その村は隣村へ**移転**することになった。","x":660,"y":235,"width":434,"height":76},
@@ -13,7 +12,14 @@
 		{"id":"09d94eedc111f226","type":"text","text":"移 - Di","x":120,"y":248,"width":130,"height":50},
 		{"id":"a049c1f4e71038ff","type":"text","text":"秩 - Trật","x":140,"y":495,"width":163,"height":50},
 		{"id":"928a401e0d4755c4","type":"text","text":"秩序　「ちつじょ」：","x":460,"y":490,"width":250,"height":60},
-		{"id":"db913ff08a67459a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」.canvas","x":-180,"y":620,"width":128,"height":109}
+		{"id":"db913ff08a67459a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」.canvas","x":-180,"y":620,"width":128,"height":109},
+		{"id":"b363cdf76a4c397d","type":"text","text":"Hoà　「禾」","x":-340,"y":36,"width":250,"height":60},
+		{"id":"cc96e9b7c53c9417","type":"text","text":"秋 - Thu","x":210,"y":1330,"width":250,"height":60},
+		{"id":"8cb882128fe73db5","type":"text","text":"Hoà　「禾」","x":-283,"y":1180,"width":250,"height":60},
+		{"id":"04e1b0167c92bdb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas","x":-220,"y":1390,"width":213,"height":184},
+		{"id":"0b038bf9961092e9","type":"text","text":"愁 - Sầu","x":640,"y":1452,"width":250,"height":60},
+		{"id":"c2360dda6e7f228e","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":1080,"y":1452,"width":250,"height":60},
+		{"id":"0d7df1ebe127b904","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm　「心」.canvas","x":210,"y":1620,"width":233,"height":140}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},
@@ -28,6 +34,11 @@
 		{"id":"69630e07b9aa30e3","fromNode":"09d94eedc111f226","fromSide":"right","toNode":"bb9025f2f97a342c","toSide":"left"},
 		{"id":"692ff2596f8a5fd6","fromNode":"db913ff08a67459a","fromSide":"right","toNode":"a049c1f4e71038ff","toSide":"left","label":"âm đọc"},
 		{"id":"90eff4ba95713fe0","fromNode":"a049c1f4e71038ff","fromSide":"right","toNode":"928a401e0d4755c4","toSide":"left","label":"秩 - Trật"},
-		{"id":"639d0bd21175a168","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"a049c1f4e71038ff","toSide":"left","label":"cánh đồng lúa thẳng tắp"}
+		{"id":"639d0bd21175a168","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"a049c1f4e71038ff","toSide":"left","label":"cánh đồng lúa thẳng tắp"},
+		{"id":"81cc97521fe8b841","fromNode":"04e1b0167c92bdb7","fromSide":"right","toNode":"cc96e9b7c53c9417","toSide":"left","label":"vàng như lửa"},
+		{"id":"45b69da216a5baa6","fromNode":"8cb882128fe73db5","fromSide":"right","toNode":"cc96e9b7c53c9417","toSide":"left","label":"lúa"},
+		{"id":"f0df74fa579cecc3","fromNode":"cc96e9b7c53c9417","fromSide":"right","toNode":"0b038bf9961092e9","toSide":"left","label":"mùa thu"},
+		{"id":"76b5382472a1197d","fromNode":"0b038bf9961092e9","fromSide":"right","toNode":"c2360dda6e7f228e","toSide":"left"},
+		{"id":"f512ceba6c2b2d65","fromNode":"0d7df1ebe127b904","fromSide":"right","toNode":"0b038bf9961092e9","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"}
 	]
 }
