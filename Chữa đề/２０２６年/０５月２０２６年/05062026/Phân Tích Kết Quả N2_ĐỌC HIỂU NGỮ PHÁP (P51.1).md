@@ -1,0 +1,77 @@
+Tóm tắt bài làm
+
+- **Tổng số câu**: 5 câu.
+- **Số đúng**: 2 câu.
+- **Số sai**: **3 câu** (Câu 1, 3, 5).
+- **Tỷ lệ chính xác**: **40%**.
+- **5 Điểm yếu quan trọng nhất**:
+    1. 🔴 **Danh từ hóa động từ**: Nhầm lẫn giữa thể điều kiện và việc dùng _koto_ để làm chủ ngữ.
+    2. 🔴 **Phó từ nhấn mạnh câu hỏi**: Chưa nhận diện được cặp bài trùng **一体...か**.
+    3. 🔴 **Cấu trúc câu chẻ (Cleft sentence)**: Lỗi kết thúc câu khi chủ ngữ là cụm danh từ hóa (_~no ga..._).
+    4. 🟠 **Phân tích logic đoạn văn**: Bị đánh lừa bởi các đáp án diễn giải dài dòng thay vì danh từ trọng tâm.
+    5. 🟢 **Tốc độ đọc hiểu**: Cần chú ý hơn vào các trợ từ kết nối câu.
+
+---
+
+Chi tiết các câu sai
+
+Câu 1: Danh từ hóa để tạo cảm thán
+
+- **Đoạn văn gốc**: 「ああ、本を **(1)** 何と素晴らしいことであろうか」.
+- **Đáp án đã chọn**: **1 (読めば)** - **Đáp án đúng**: **2 (読むことは)**.
+- **Lý do sai**: Nhầm sang câu điều kiện. Cấu trúc _~koto de arou ka_ (Chẳng phải là việc... hay sao) yêu cầu vế trước phải là một danh từ hoặc động từ đã được danh từ hóa.
+- **Dấu hiệu**: Đuôi câu kết thúc bằng **こと** (danh từ).
+- **Ví dụ**: 彼に会う**ことは**、私にとって大きな喜びだ。
+
+Câu 3: Phó từ đi kèm từ nghi vấn
+
+- **Đoạn văn gốc**: 「**(3)** 何の得があって人間たちはこんな地味な営みをしているのか？」.
+- **Đáp án đã chọn**: **3 (どうやら)** - **Đáp án đúng**: **1 (一体)**.
+- **Lý do sai**: _Douyara_ (có vẻ như) không đi với câu hỏi nhấn mạnh. _Ittai_ dùng để nhấn mạnh sự thắc mắc "Rốt cuộc là/Cái quái gì...".
+- **Dấu hiệu**: Đi cùng từ nghi vấn **何の** (cái gì) và kết thúc bằng **か**.
+- **Ví dụ**: **一体**どこへ行くつもりですか。
+
+Câu 5: Kết thúc câu logic
+
+- **Đoạn văn gốc**: 「...繰り返し語っているのが、**(5)**。」.
+- **Đáp án đã chọn**: **3 (本書であきらかになります)** - **Đáp án đúng**: **1 (本書です)**.
+- **Lý do sai**: Cấu trúc _~no ga, (N) desu_ (Cái mà... chính là N). Đáp án 3 tạo thành một câu độc lập chồng chéo, không khớp ngữ pháp với vế trước.
+- **Dấu hiệu**: Chủ ngữ là cụm **語っているのが** (Việc đang kể là...) đòi hỏi vị ngữ phải là một danh từ.
+- **Ví dụ**: 私が探しているのは、この**本です**。
+
+---
+
+Trích xuất kiến thức & Learning Profile
+
+1. 〜ことは...である (Danh từ hóa)
+
+- **Kiến thức**: Biến động từ thành danh từ để làm chủ đề câu cảm thán hoặc nhận định.
+- **Profile**: Correct +0, **Wrong +1**, Last Seen: 14/06/2026, Mastery: **🔴 Low**, Priority: **🔴 High**.
+
+2. 一体 (Rốt cuộc/Rốt tộ)
+
+- **Kiến thức**: Phó từ nhấn mạnh sự ngạc nhiên hoặc thắc mắc trong câu hỏi.
+- **Profile**: Correct +0, **Wrong +1**, Last Seen: 14/06/2026, Mastery: **🔴 Low**, Priority: **🔴 High**.
+
+3. 〜のが、[N]です (Cấu trúc nhấn mạnh)
+
+- **Kiến thức**: Nhấn mạnh danh từ đứng sau bằng cách đưa cụm hành động lên đầu làm chủ ngữ.
+- **Profile**: Correct +0, **Wrong +1**, Last Seen: 14/06/2026, Mastery: **🔴 Low**, Priority: **🟠 Medium**.
+
+---
+
+Weak Points
+
+1. 🔴 **一体 (Ittai)**: Nhầm với _**どうやら**_. VD: _一体何の得があるのか (Câu 3)_.
+2. 🔴 **Danh từ hóa (Koto)**: Nhầm với thể _~ba_. VD: _本を読むことは...素晴らしい (Câu 1)_.
+3. 🔴 **Logic kết thúc câu**: Chọn sai loại từ (động từ thay vì danh từ) ở cuối câu chẻ. _VD: Câu 5_.
+4. 🟠 **Xác định chủ ngữ đoạn văn**: Lúng túng khi chủ ngữ là một cụm danh từ dài.
+
+---
+
+Action Next
+
+- [ ] **Ngữ pháp**: Ôn lại nhóm phó từ đi kèm câu hỏi (一体, まさか, はたして).
+- [ ] **Cấu trúc**: Luyện tập viết lại câu bằng cấu trúc **〜のは、〜だ** để quen việc chọn danh từ ở cuối câu.
+- [ ] **Đọc hiểu**: Khi gặp cụm **〜のが**, hãy đánh dấu ngay đó là chủ ngữ để tìm danh từ tương ứng ở vị ngữ.
+- [ ] **Mục tiêu**: Tuyệt đối không chọn đáp án chứa động từ/câu hoàn chỉnh khi vế trước đã là cụm danh từ hóa kết thúc bằng **_のが_**.

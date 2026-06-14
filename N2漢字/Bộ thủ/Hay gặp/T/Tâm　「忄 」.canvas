@@ -4,14 +4,18 @@
 		{"id":"4e1addff7f89a121","type":"text","text":"懐かしい","x":540,"y":-210,"width":250,"height":50},
 		{"id":"ccf069f1f9267280","type":"text","text":"懐 - Hoài","x":340,"y":-210,"width":120,"height":50},
 		{"id":"52387365858183fa","type":"text","text":"thương tiếc, tưởng nhớ","x":877,"y":-241,"width":250,"height":60},
-		{"id":"8354451489d86ac7","x":340,"y":-40,"width":120,"height":60,"type":"text","text":"惰 - Noạ"},
-		{"id":"aeeb6f7d21c28868","x":565,"y":-24,"width":250,"height":60,"type":"text","text":"lười biếng"}
+		{"id":"8354451489d86ac7","type":"text","text":"惰 - Noạ","x":340,"y":-40,"width":120,"height":60},
+		{"id":"aeeb6f7d21c28868","type":"text","text":"lười biếng","x":565,"y":-24,"width":250,"height":60},
+		{"id":"55159faf8f393970","type":"text","text":"慢 - Mạn","x":340,"y":176,"width":250,"height":60},
+		{"id":"fc37f1b6038a6eed","type":"text","text":"我慢\n（がまん）\n\n= chịu đựng, nhẫn nhịn\n\n漢越:\n我 = ngã\n慢 = mạn\n\n我慢が苦手\n= kém chịu đựng","x":740,"y":236,"width":473,"height":276}
 	],
 	"edges":[
 		{"id":"84a6e183755d5f8d","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"ccf069f1f9267280","toSide":"left"},
 		{"id":"d5c7078aa877629a","fromNode":"ccf069f1f9267280","fromSide":"right","toNode":"4e1addff7f89a121","toSide":"left"},
 		{"id":"296d7bdf57d09e11","fromNode":"4e1addff7f89a121","fromSide":"right","toNode":"52387365858183fa","toSide":"left"},
 		{"id":"f427f8ac5585ca39","fromNode":"8354451489d86ac7","fromSide":"right","toNode":"aeeb6f7d21c28868","toSide":"left"},
-		{"id":"a4aae4398d51b98f","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"8354451489d86ac7","toSide":"left"}
+		{"id":"a4aae4398d51b98f","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"8354451489d86ac7","toSide":"left"},
+		{"id":"844c8644356b8bf4","fromNode":"55159faf8f393970","fromSide":"right","toNode":"fc37f1b6038a6eed","toSide":"left"},
+		{"id":"dac72ba8f89dfaba","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"55159faf8f393970","toSide":"left"}
 	]
 }
