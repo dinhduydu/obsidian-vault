@@ -11,37 +11,14 @@
             "id": "396b663aa2bd5f37",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
-                "viewState": {
-                  "x": 956.2120937040999,
-                  "y": -742.0084388597905,
-                  "zoom": -0.5106378651412438
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Nhật　「日」"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4539a56cfca728d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd8a17bf7db4cd53",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/N/亻 (Nhân đứng).md",
+                "file": "Chữa đề/Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "亻 (Nhân đứng)"
+              "title": "Prompt"
             }
           }
         ]
@@ -195,6 +172,24 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
+    "Chữa đề/２０２６年/０６月２０２６年/13062026/1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1).md",
+    "Chữa đề/Learning_Profile.md",
+    "Chữa đề/２０２６年/０６月２０２６年/13062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Day13_用法/Day13_Batch04.canvas",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026/5. Phân Tích Bài Làm N2_TỔNG ÔN TỪ VỰNG BÀI 6 (P5).md",
+    "Chữa đề/２０２６年",
+    "Chữa đề/２０２６年/０５月２０２６年",
+    "Chữa đề/２０２６年/０６月２０２６年",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026/4. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 47).md",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026/3. Phân Tích Kết Quả Luyện Thi JLPT N2 - Kính Ngữ Nghe Hiểu (Test 3).md",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026/2. Phân Tích Kết Quả Luyện Thi JLPT N2 - Kính Ngữ (Nghe Hiểu).md",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026/1. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 46).md",
+    "Chữa đề/Prompt.md",
+    "Chữa đề/２０２６年/０６月２０２６年/14062026",
+    "CXPI/CXPI Communications - CSDN Library.md",
+    "CXPI/UDSonCXPI Standard Document.md",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
+    "CXPI",
     "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
     "N2文法/Điền sao/Cách kết hợp của các dạng ngữ pháp cơ bản và trợ từ.md",
     "N2文法/Điền sao/Cách kết nối với những phó từ đi với dạng ngữ pháp cố định.md",
@@ -211,23 +206,15 @@
     "N2漢字/Tiền tố, hậu tố/PrefixIndex.md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」.canvas",
     "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
-    "N2語彙/ひらがな/だらしない.canvas",
-    "N2語彙/ひらがな/きっかけ.canvas",
     "N2語彙/カタカナ/カタカナ.md",
     "N2語彙/カタカナ",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/K",
     "Untitled 13.base",
-    "N2語彙/Phó từ",
     "N2文法/自動詞ー他動詞/自動詞.md",
     "N2文法/自動詞ー他動詞/他動詞.md",
-    "Untitled 12.base",
-    "Untitled 11.base",
     "N2語彙/ひらがな/きっかけ.md",
-    "N2語彙/ひらがな",
     "Pasted image 20260612121936.png",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 35",
     "Pasted image 20260612121325.png",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14",
     "Pasted image 20260612121054.png",
     "Pasted image 20260612115614.png",
     "Pasted image 20260612014232.png",
@@ -237,16 +224,6 @@
     "N2文法/助詞/に/05_Thay đổi_Tương ứng.md",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "N2文法/助詞/に/01_Đích đến_Đối tượng.md",
-    "N2文法/助詞/に/10_Mẫu cố định.md",
-    "N2文法/助詞/に/09_Phạm vi_Kéo dài.md",
-    "N2文法/助詞/に/08_Giả định_Lập trường.md",
-    "N2文法/助詞/に/07_Chủ đề_Lĩnh vực.md",
-    "N2文法/助詞/に/06_Thời điểm_Hoàn cảnh.md",
-    "N2文法/助詞/に/04_Căn cứ_Nguyên nhân.md",
-    "N2文法/助詞/に/03_So sánh_Đối chiếu.md",
-    "N2漢字/Bộ thủ/Hay gặp/L/Untitled.md",
-    "N2漢字/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
-    "N2漢字/Bộ chỉ ý/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
     "Pasted image 20260527193714.png",
     "Pasted image 20260527193624.png",
     "Pasted image 20260527193540.png",
