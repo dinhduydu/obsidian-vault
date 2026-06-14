@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas",
                 "viewState": {
-                  "x": 675.6113035468084,
-                  "y": 1971.110813929843,
-                  "zoom": -0.6666666666666663
+                  "x": 956.2120937040999,
+                  "y": -742.0084388597905,
+                  "zoom": -0.5106378651412438
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Nhân　「亻」"
+              "title": "Nhật　「日」"
             }
           }
         ]
@@ -195,8 +195,14 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」.canvas",
+    "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
+    "N2文法/Điền sao/Cách kết hợp của các dạng ngữ pháp cơ bản và trợ từ.md",
+    "N2文法/Điền sao/Cách kết nối với những phó từ đi với dạng ngữ pháp cố định.md",
+    "N2文法/Điền sao/Kết cấu trợ từ, từ loại trong câu.md",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas",
+    "N2文法/Điền sao",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/亻 (Nhân đứng).md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bách　「百」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân　「𠆢」.canvas",
@@ -208,9 +214,7 @@
     "N2語彙/ひらがな/だらしない.canvas",
     "N2語彙/ひらがな/きっかけ.canvas",
     "N2語彙/カタカナ/カタカナ.md",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/低 - Đê.canvas",
     "N2語彙/カタカナ",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phiến　「片 」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/K",
     "Untitled 13.base",
     "N2語彙/Phó từ",
@@ -225,7 +229,6 @@
     "Pasted image 20260612121325.png",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 14",
     "Pasted image 20260612121054.png",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18",
     "Pasted image 20260612115614.png",
     "Pasted image 20260612014232.png",
     "Pasted image 20260612014026.png",
@@ -247,9 +250,6 @@
     "Pasted image 20260527193714.png",
     "Pasted image 20260527193624.png",
     "Pasted image 20260527193540.png",
-    "Pasted image 20260527192748.png",
-    "N2文法/助詞/LAYOUT_README.md",
-    "N2文法/復習/第２課.md",
-    "fastkey.md"
+    "Pasted image 20260527192748.png"
   ]
 }
