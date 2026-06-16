@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 41
-- Total Knowledge Items: 119
-- Correct: 91
-- Wrong: 155
-- Accuracy: 37.0%
+- Total Reviews: 55
+- Total Knowledge Items: 136
+- Correct: 102
+- Wrong: 172
+- Accuracy: 37.2%
 
 ## 🚨 Review Queue
 
@@ -26,10 +26,10 @@
 - [[Từ vựng Katakana chuyên dụng]] | Score: 10 | Wrong: 2
 - [[Quy tắc O/Go + V + ni naru]] | Score: 10 | Wrong: 2
 - [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] | Score: 10 | Wrong: 2
+- [[〜に違いない (Chắc chắn là)]] | Score: 10 | Wrong: 2
 - [[〜向き (Thích hợp cho...)]] | Score: 10 | Wrong: 2
 - [[〜からして (Căn cứ vào/Nhìn từ)]] | Score: 10 | Wrong: 2
-- [[〜に従って (Theo như/Cùng với)]] | Score: 10 | Wrong: 2
-- [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] | Score: 10 | Wrong: 2
+- [[〜による (Do/Bởi)]] | Score: 10 | Wrong: 2
 
 ## 🔥 Top Weak Points
 
@@ -49,30 +49,30 @@
 - [[Từ vựng Katakana chuyên dụng]] (Wrong: 2)
 - [[Quy tắc O/Go + V + ni naru]] (Wrong: 2)
 - [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] (Wrong: 2)
+- [[〜に違いない (Chắc chắn là)]] (Wrong: 2)
 - [[〜向き (Thích hợp cho...)]] (Wrong: 2)
 - [[〜からして (Căn cứ vào/Nhìn từ)]] (Wrong: 2)
-- [[〜に従って (Theo như/Cùng với)]] (Wrong: 2)
-- [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] (Wrong: 2)
+- [[〜による (Do/Bởi)]] (Wrong: 2)
 
 ## 📈 Category Statistics
 
-- Grammar: 49.6% (Correct 63 / Wrong 64)
-- Reading: 15.4% (Correct 2 / Wrong 11)
+- Grammar: 46.2% (Correct 66 / Wrong 77)
+- Reading: 33.3% (Correct 6 / Wrong 12)
 - Topics: 23.5% (Correct 8 / Wrong 26)
-- Vocabulary: 25.0% (Correct 18 / Wrong 54)
+- Vocabulary: 27.8% (Correct 22 / Wrong 57)
 
 ## 📚 Top Grammar
 
 - [[Cấu trúc 〜ていただく (Nhận ơn)]] (Score: 15)
 - [[〜にしては (Xét về/Dù là...)]] (Score: 15)
 - [[〜にかけては (Xét về mặt...)]] (Score: 15)
+- [[〜に違いない (Chắc chắn là)]] (Score: 10)
 - [[〜向き (Thích hợp cho...)]] (Score: 10)
 - [[〜からして (Căn cứ vào/Nhìn từ)]] (Score: 10)
+- [[〜による (Do/Bởi)]] (Score: 10)
 - [[〜に従って (Theo như/Cùng với)]] (Score: 10)
 - [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] (Score: 10)
 - [[〜まい (V-masu + まい)]] (Score: 10)
-- [[〜次第 (Ngay sau khi)]] (Score: 10)
-- [[〜を兼ねて (Kết hợp/Kiêm)]] (Score: 5)
 
 ## 📚 Top Vocabulary
 
@@ -95,10 +95,18 @@
 - [[Kỹ năng so sánh đối chiếu (Comparison)]] (Score: 25)
 - [[Phân tích tư thế/lập trường (Stance Analysis)]] (Score: 15)
 - [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] (Score: 10)
+- [[Nghe hiểu lý do/nguyên nhân]] (Score: 5)
 - [[要点 (Yếu điểm - Ý chính)]] (Score: 5)
 
 ## 📅 Recent Reviews
 
+- [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
+- [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
+- [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
+- [[5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
+- [[6. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 5 (P6)]]
+- [[7. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P6)]]
+- [[5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1)]]
 - [[1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1)]]
 - [[2. Phân Tích Kết Quả N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
@@ -112,10 +120,3 @@
 - [[2. Phân Tích Kết Quả N2_NGHE HIỂU_問題2]]
 - [[1. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 6]]
 - [[2. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 7]]
-- [[3. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 39]]
-- [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGẮN_BÀI 32]]
-- [[2. Phân Tích Bài Làm N2_ĐỌC HIỂU NGẮN_BÀI 33]]
-- [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU DÀI_BÀI 20]]
-- [[1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (17)]]
-- [[2. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (14)]]
-- [[3. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (15)]]
