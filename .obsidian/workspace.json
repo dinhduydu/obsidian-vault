@@ -11,24 +11,17 @@
             "id": "396b663aa2bd5f37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Grammar/〜たうえで (V-ta + うえで).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "N2文法/一方・上・限り・つもり・他/上.canvas",
+                "viewState": {
+                  "x": 1533.8079130940546,
+                  "y": 666.2746395086198,
+                  "zoom": -0.24305117209846067
                 }
               },
-              "icon": "lucide-file",
-              "title": "〜たうえで (V-ta + うえで)"
+              "icon": "lucide-layout-dashboard",
+              "title": "上"
             }
           }
         ]
@@ -181,8 +174,9 @@
   },
   "active": "396b663aa2bd5f37",
   "lastOpenFiles": [
-    "N2文法/一方・上・限り・つもり・他/上.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜たうえで (V-ta + うえで).md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/3. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (20).md",
+    "N2文法/一方・上・限り・つもり・他/上.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜たいと願う (Cầu mong muốn...).md",
     "Chữa đề/Learning_Profile/Grammar/〜しだい (V-masu + しだい).md",
     "Chữa đề/Learning_Profile/Grammar/〜くせに (Mặc dù... - mỉa mai).md",
