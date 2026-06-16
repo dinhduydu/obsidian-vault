@@ -1,8 +1,30 @@
 from collections import defaultdict
+from datetime import datetime
+from pathlib import Path
 
 from config import DASHBOARD_FILE
 
 from markdown_manager import update_markdown
+
+def extract_review_date(path):
+
+    path = Path(path)
+
+    for parent in path.parents:
+
+        if parent.name.isdigit():
+
+            try:
+                return datetime.strptime(
+                    parent.name,
+                    "%d%m%Y"
+                )
+
+            except ValueError:
+                pass
+
+
+    return datetime.min
 
 def top_by_category(
     knowledge,
@@ -299,7 +321,14 @@ def generate_dashboard(
 
     lines.append("")
 
-    for review in reviews[:20]:
+    sorted_reviews = sorted(
+        reviews,
+        key=extract_review_date,
+        reverse=True
+    )
+
+
+    for review in sorted_reviews[:20]:
 
         lines.append(
             f"- [[{review}]]"
