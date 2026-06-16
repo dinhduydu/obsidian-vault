@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜からして (Căn cứ vào/Nhìn từ)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (14)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

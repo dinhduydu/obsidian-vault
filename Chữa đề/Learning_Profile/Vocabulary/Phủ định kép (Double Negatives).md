@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Phủ định kép (Double Negatives)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích BÀI LÀM N2_CÁCH NÓI THỰC TẾ KHÔNG XẢY RA]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

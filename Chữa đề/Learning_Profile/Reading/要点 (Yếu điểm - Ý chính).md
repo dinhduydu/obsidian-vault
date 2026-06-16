@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 要点 (Yếu điểm - Ý chính)
 
 Category: Reading
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P4)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

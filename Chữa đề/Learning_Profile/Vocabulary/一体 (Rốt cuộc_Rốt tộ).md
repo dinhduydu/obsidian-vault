@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 一体 (Rốt cuộc/Rốt tộ)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGỮ PHÁP (P51.1)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

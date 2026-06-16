@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 連絡 vs 連続 (Liên lạc vs Liên tục)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P3)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Phân tích tư thế/lập trường (Stance Analysis)
 
 Category: Reading
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[3. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 39]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

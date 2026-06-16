@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # ユニークな価値 / 発想 (Giá trị/Ý tưởng độc nhất)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Bài Làm N2_ĐỌC HIỂU NGẮN_BÀI 33]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

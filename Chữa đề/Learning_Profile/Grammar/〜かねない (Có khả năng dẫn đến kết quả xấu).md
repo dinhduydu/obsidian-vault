@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜かねない (Có khả năng dẫn đến kết quả xấu)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU TRUNG_BÀI 16]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

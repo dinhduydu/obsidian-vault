@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Cấu trúc Cho/Nhận/Xin phép (Giving & Receiving)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả Luyện Thi JLPT N2 - Kính Ngữ (Nghe Hiểu)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜を もとに (Dựa trên/Căn cứ vào)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[4. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (16)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

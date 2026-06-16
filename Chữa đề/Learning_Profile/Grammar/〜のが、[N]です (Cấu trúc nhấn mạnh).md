@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜のが、[N]です (Cấu trúc nhấn mạnh)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGỮ PHÁP (P51.1)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

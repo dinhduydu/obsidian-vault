@@ -2,6 +2,7 @@ from collections import defaultdict
 
 from config import DASHBOARD_FILE
 
+from markdown_manager import update_markdown
 
 def top_by_category(
     knowledge,

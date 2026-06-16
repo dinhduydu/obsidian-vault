@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜向き (Thích hợp cho...)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (17)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

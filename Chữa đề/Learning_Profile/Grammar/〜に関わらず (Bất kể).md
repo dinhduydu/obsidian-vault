@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜に関わらず (Bất kể)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Bài Làm N2_TEST NGỮ PHÁP_BÀI 11.2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

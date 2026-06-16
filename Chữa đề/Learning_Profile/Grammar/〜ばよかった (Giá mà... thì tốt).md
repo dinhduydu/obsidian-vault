@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜ばよかった (Giá mà... thì tốt)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích BÀI LÀM N2_CÁCH NÓI THỰC TẾ KHÔNG XẢY RA]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 習慣化 (Tập quán hóa - Tạo thành thói quen)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 19]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

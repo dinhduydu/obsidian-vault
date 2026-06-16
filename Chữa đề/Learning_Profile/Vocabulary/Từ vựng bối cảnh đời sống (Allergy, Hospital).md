@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Từ vựng bối cảnh đời sống (Allergy, Hospital)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[4. Phân Tích KẾT QUẢ N2_NGHE_TEST 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

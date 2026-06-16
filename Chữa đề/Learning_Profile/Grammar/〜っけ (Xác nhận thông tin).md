@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜っけ (Xác nhận thông tin)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[3. Phân Tích BÀI LÀM N2_DẠNG RÚT GỌN TRONG VĂN NÓI]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

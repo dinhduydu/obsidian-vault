@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Từ vựng bối cảnh giáo dục (受験, 教育)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_NGHE HIỂU_問題2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

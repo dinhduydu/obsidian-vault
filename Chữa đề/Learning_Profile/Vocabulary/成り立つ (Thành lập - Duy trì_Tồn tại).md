@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 成り立つ (Thành lập - Duy trì/Tồn tại)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 29]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

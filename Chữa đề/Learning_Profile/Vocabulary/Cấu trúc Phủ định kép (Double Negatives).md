@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Cấu trúc Phủ định kép (Double Negatives)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_CÁCH NÓI PHỨC TẠP THEO DẠNG NGỮ PHÁP]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

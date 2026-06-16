@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Nghe hiểu chi tiết (Lý do/Nguyên nhân)
 
 Category: Reading
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_NGHE HIỂU_問題2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

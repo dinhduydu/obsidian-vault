@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 中古 (Trúng cổ - Đồ cũ)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P3)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

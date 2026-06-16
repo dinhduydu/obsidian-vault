@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # Synonyms (Từ đồng nghĩa)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_TEST ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

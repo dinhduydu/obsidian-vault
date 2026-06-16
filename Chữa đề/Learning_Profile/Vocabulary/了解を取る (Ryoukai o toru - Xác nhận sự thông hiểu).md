@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 了解を取る (Ryoukai o toru - Xác nhận sự thông hiểu)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU TRUNG_BÀI 16]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 〜の割には (Dù... nhưng/So với...)
 
 Category: Grammar
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 7]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

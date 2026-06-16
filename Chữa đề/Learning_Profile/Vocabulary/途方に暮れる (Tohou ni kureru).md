@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 途方に暮れる (Tohou ni kureru)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (19)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

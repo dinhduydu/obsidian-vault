@@ -5,6 +5,8 @@ from config import (
     PROFILE_FOLDERS
 )
 
+from markdown_manager import update_markdown
+
 def sanitize_filename(name):
 
     return re.sub(
@@ -99,7 +101,7 @@ def generate_profiles(
                 f"- [[{review}]]"
             )
 
-        path.write_text(
-            "\n".join(content),
-            encoding="utf-8"
+        update_markdown(
+            path,
+            "\n".join(content)
         )

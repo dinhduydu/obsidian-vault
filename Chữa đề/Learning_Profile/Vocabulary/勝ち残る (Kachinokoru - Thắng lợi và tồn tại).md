@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 勝ち残る (Kachinokoru - Thắng lợi và tồn tại)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[2. Phân Tích Bài Làm N2_ĐỌC HIỂU NGẮN_BÀI 33]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

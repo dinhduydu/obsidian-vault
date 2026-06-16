@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 取捨選択 (Thủ xá tuyển trạch - Lựa chọn lấy hay bỏ)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[3. Phân Tích Kết Quả N2_ĐỌC HIỂU TRUNG VĂN_TEST 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 我慢 (Ngã mạn - Chịu đựng/Kiềm chế)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 29]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

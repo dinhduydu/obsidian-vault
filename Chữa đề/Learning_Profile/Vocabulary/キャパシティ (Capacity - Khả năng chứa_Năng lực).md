@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # キャパシティ (Capacity - Khả năng chứa/Năng lực)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[3. Phân Tích Kết Quả N2_ĐỌC HIỂU TRUNG VĂN_TEST 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

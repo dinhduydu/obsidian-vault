@@ -1,3 +1,5 @@
+<!-- AUTO_START -->
+
 # 気が散る (Khí tản - Xao nhãng/Phân tâm)
 
 Category: Vocabulary
@@ -10,3 +12,11 @@ Priority:
 ## Related Reviews
 
 - [[4. Phân Tích KẾT QUẢ N2_ĐỌC HIỂU SO SÁNH_BÀI 49]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
