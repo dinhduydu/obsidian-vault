@@ -1,6 +1,6 @@
 # Kỹ năng so sánh đối chiếu (Comparison)
 
-Category: Vocabulary
+Category: Reading
 Correct: 1
 Wrong: 5
 Accuracy: 16.7%

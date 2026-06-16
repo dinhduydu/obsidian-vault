@@ -1,8 +1,8 @@
-# Từ vựng Katakana chuyên dụng
+# Tiền tố & Hậu tố Hán tự (Prefix/Suffix)
 
-Category: Vocabulary
+Category: Topics
 Correct: 0
-Wrong: 2
+Wrong: 8
 Accuracy: 0.0%
 Mastery: 
 Priority: 

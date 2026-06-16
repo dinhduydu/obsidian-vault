@@ -8,6 +8,29 @@
 - Wrong: 155
 - Accuracy: 37.0%
 
+## 🚨 Review Queue
+
+- [[Tiền tố & Hậu tố Hán tự (Prefix/Suffix)]] | Score: 40 | Wrong: 8
+- [[Kính ngữ đặc biệt (S-K Levels)]] | Score: 30 | Wrong: 6
+- [[Kỹ năng so sánh đối chiếu (Comparison)]] | Score: 25 | Wrong: 5
+- [[Cụm từ cố định N2 (Fixed Expressions)]] | Score: 20 | Wrong: 4
+- [[Tôn kính ngữ đặc biệt (Sonkeigo)]] | Score: 15 | Wrong: 3
+- [[Khiêm nhường ngữ (Kenjougo)]] | Score: 15 | Wrong: 3
+- [[Cấu trúc 〜ていただく (Nhận ơn)]] | Score: 15 | Wrong: 3
+- [[Phân tích tư thế/lập trường (Stance Analysis)]] | Score: 15 | Wrong: 3
+- [[〜にしては (Xét về/Dù là...)]] | Score: 15 | Wrong: 3
+- [[〜にかけては (Xét về mặt...)]] | Score: 15 | Wrong: 3
+- [[Cấu trúc Phủ định kép (Double Negatives)]] | Score: 15 | Wrong: 3
+- [[Kính ngữ phản xạ (Keigo Reflex)]] | Score: 10 | Wrong: 2
+- [[Cụm từ ghép nhấn mạnh]] | Score: 10 | Wrong: 2
+- [[Từ vựng Katakana chuyên dụng]] | Score: 10 | Wrong: 2
+- [[Quy tắc O/Go + V + ni naru]] | Score: 10 | Wrong: 2
+- [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] | Score: 10 | Wrong: 2
+- [[〜向き (Thích hợp cho...)]] | Score: 10 | Wrong: 2
+- [[〜からして (Căn cứ vào/Nhìn từ)]] | Score: 10 | Wrong: 2
+- [[〜に従って (Theo như/Cùng với)]] | Score: 10 | Wrong: 2
+- [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] | Score: 10 | Wrong: 2
+
 ## 🔥 Top Weak Points
 
 - [[Tiền tố & Hậu tố Hán tự (Prefix/Suffix)]] (Wrong: 8)
@@ -30,6 +53,49 @@
 - [[〜からして (Căn cứ vào/Nhìn từ)]] (Wrong: 2)
 - [[〜に従って (Theo như/Cùng với)]] (Wrong: 2)
 - [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] (Wrong: 2)
+
+## 📈 Category Statistics
+
+- Grammar: 49.6% (Correct 63 / Wrong 64)
+- Reading: 15.4% (Correct 2 / Wrong 11)
+- Topics: 23.5% (Correct 8 / Wrong 26)
+- Vocabulary: 25.0% (Correct 18 / Wrong 54)
+
+## 📚 Top Grammar
+
+- [[Cấu trúc 〜ていただく (Nhận ơn)]] (Score: 15)
+- [[〜にしては (Xét về/Dù là...)]] (Score: 15)
+- [[〜にかけては (Xét về mặt...)]] (Score: 15)
+- [[〜向き (Thích hợp cho...)]] (Score: 10)
+- [[〜からして (Căn cứ vào/Nhìn từ)]] (Score: 10)
+- [[〜に従って (Theo như/Cùng với)]] (Score: 10)
+- [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] (Score: 10)
+- [[〜まい (V-masu + まい)]] (Score: 10)
+- [[〜次第 (Ngay sau khi)]] (Score: 10)
+- [[〜を兼ねて (Kết hợp/Kiêm)]] (Score: 5)
+
+## 📚 Top Vocabulary
+
+- [[Khiêm nhường ngữ (Kenjougo)]] (Score: 15)
+- [[Cấu trúc Phủ định kép (Double Negatives)]] (Score: 15)
+- [[Cụm từ ghép nhấn mạnh]] (Score: 10)
+- [[Quy tắc O/Go + V + ni naru]] (Score: 10)
+- [[Collocations (Kết hợp từ)]] (Score: 10)
+- [[Synonyms (Từ đồng nghĩa)]] (Score: 10)
+- [[本分 (Bổn phận - Nhiệm vụ chính)]] (Score: 10)
+- [[Phó từ đi kèm phủ định (Adverbs with Negatives)]] (Score: 5)
+- [[仲よくする (Quan hệ tốt/Hòa thuận)]] (Score: 5)
+- [[別れる (Chia tay/Độc lập)]] (Score: 5)
+
+## 📚 Top Kanji
+
+
+## 📚 Top Reading
+
+- [[Kỹ năng so sánh đối chiếu (Comparison)]] (Score: 25)
+- [[Phân tích tư thế/lập trường (Stance Analysis)]] (Score: 15)
+- [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] (Score: 10)
+- [[要点 (Yếu điểm - Ý chính)]] (Score: 5)
 
 ## 📅 Recent Reviews
 

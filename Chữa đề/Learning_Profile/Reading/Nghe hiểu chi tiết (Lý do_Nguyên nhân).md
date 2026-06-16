@@ -1,6 +1,6 @@
 # Nghe hiểu chi tiết (Lý do/Nguyên nhân)
 
-Category: Vocabulary
+Category: Reading
 Correct: 1
 Wrong: 2
 Accuracy: 33.3%

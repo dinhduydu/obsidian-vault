@@ -3,6 +3,16 @@ import re
 from models import KnowledgeItem
 from classifier import classify
 
+def normalize_text(text):
+
+    return (
+        text
+        .replace("🔴", "")
+        .replace("🟠", "")
+        .replace("🟢", "")
+        .replace("**", "")
+        .strip()
+    )
 
 ITEM_PATTERN = re.compile(
     r"""
@@ -50,15 +60,27 @@ def parse_review_file(
             priority
         ) = match
 
+        clean_name = (
+            name
+            .replace("**", "")
+            .replace("`", "")
+            .strip()
+        )
+
         item = KnowledgeItem(
-            name=name.strip(),
+            name=clean_name,
             category=classify(
-                name.strip()
+                clean_name
             ),
             correct=int(correct),
             wrong=int(wrong),
-            mastery=mastery.strip(),
-            priority=priority.strip()
+            mastery=normalize_text(
+                mastery
+            ),
+
+            priority=normalize_text(
+                priority
+            )
         )
 
         item.reviews.add(

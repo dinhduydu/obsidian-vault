@@ -1,6 +1,6 @@
 # Kính ngữ đặc biệt (S-K Levels)
 
-Category: Vocabulary
+Category: Topics
 Correct: 1
 Wrong: 6
 Accuracy: 14.3%

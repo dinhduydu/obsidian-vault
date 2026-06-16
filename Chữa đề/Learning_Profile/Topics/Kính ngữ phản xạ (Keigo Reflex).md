@@ -1,9 +1,9 @@
-# Cụm từ cố định N2 (Fixed Expressions)
+# Kính ngữ phản xạ (Keigo Reflex)
 
-Category: Vocabulary
-Correct: 3
-Wrong: 4
-Accuracy: 42.9%
+Category: Topics
+Correct: 2
+Wrong: 2
+Accuracy: 50.0%
 Mastery: 
 Priority: 
 

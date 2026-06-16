@@ -1,6 +1,6 @@
 # 要点 (Yếu điểm - Ý chính)
 
-Category: Vocabulary
+Category: Reading
 Correct: 0
 Wrong: 1
 Accuracy: 0.0%

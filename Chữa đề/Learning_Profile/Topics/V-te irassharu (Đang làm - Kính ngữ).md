@@ -1,6 +1,6 @@
 # V-te irassharu (Đang làm - Kính ngữ)
 
-Category: Vocabulary
+Category: Topics
 Correct: 1
 Wrong: 1
 Accuracy: 50.0%

@@ -1,6 +1,6 @@
 # Tôn kính ngữ đặc biệt (Sonkeigo)
 
-Category: Vocabulary
+Category: Topics
 Correct: 1
 Wrong: 3
 Accuracy: 25.0%
