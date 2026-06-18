@@ -1,6 +1,6 @@
 <!-- AUTO_START -->
 
-# 見守る
+# - Vocabulary: Giải nghệ. Ngữ cảnh: Vận động viên marathon quyết định giải nghệ.
 
 Category: Vocabulary
 Correct: 0
@@ -11,7 +11,7 @@ Priority: 🔴 High
 
 ## Related Reviews
 
-- [[2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF)]]
+- [[2. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 7]]
 
 <!-- AUTO_END -->
 

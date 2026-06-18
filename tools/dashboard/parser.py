@@ -18,24 +18,23 @@ def normalize_text(text):
 
 PROFILE_PATTERN = re.compile(
     r"""
-    -\s*
-    \*\*(.*?)\*\*
-    \s*:\s*
-    Correct\s*(\d+)
-    \s*,\s*
-    Wrong\s*(\d+)
-    \s*,\s*
-    Last\s*Seen:\s*([0-9\-]+)
-    \s*,\s*
-    Mastery:\s*(.*?)
-    \s*,\s*
-    Priority:\s*(.*?)
+    ^([^\n]+)\n
+    .*?
+    Correct\s*\+?(\d+)
+    ,\s*
+    Wrong\s*\+?(\d+)
+    ,\s*
+    Last\s*Seen\s*([0-9\-]+)
+    ,\s*
+    Mastery\s*(.*?)
+    ,\s*
+    Priority\s*(.*?)
     $
     """,
     re.MULTILINE
+    | re.DOTALL
     | re.VERBOSE
 )
-
 
 def parse_review_file(
     file_path,
@@ -47,14 +46,18 @@ def parse_review_file(
         errors="ignore"
     )
 
+    if "Learning Profile" not in text:
+        return []
+
+    profile_text = text.split(
+        "Learning Profile",
+        1
+    )[1]
+
     items = []
 
     matches = PROFILE_PATTERN.findall(
-        text
-    )
-
-    print(
-        f"{file_path.stem}: {len(matches)} items"
+        profile_text
     )
 
     for match in matches:
@@ -63,39 +66,36 @@ def parse_review_file(
             name,
             correct,
             wrong,
-            last_seen,
+            _,
             mastery,
             priority
         ) = match
 
-        clean_name = (
+        name = (
             name
             .replace("**", "")
-            .replace("`", "")
             .strip()
         )
 
         item = KnowledgeItem(
-            name=clean_name,
-            category=classify(
-                clean_name
-            ),
+            name=name,
+            category=classify(name),
             correct=int(correct),
             wrong=int(wrong),
-            mastery=normalize_text(
-                mastery
-            ),
-            priority=normalize_text(
-                priority
-            )
+            mastery=mastery.strip(),
+            priority=priority.strip()
         )
+
+        item.last_seen = review_date
 
         item.reviews.add(
             file_path.stem
         )
 
-        item.last_seen = review_date
-
         items.append(item)
+
+    print(
+        f"{file_path.stem}: {len(items)} items"
+    )
 
     return items

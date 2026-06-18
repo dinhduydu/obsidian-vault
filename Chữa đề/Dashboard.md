@@ -3,85 +3,90 @@
 ## 🎯 Overall
 
 - Total Reviews: 59
-- Total Knowledge Items: 23
-- Correct: 3
-- Wrong: 20
-- Accuracy: 13.0%
+- Total Knowledge Items: 25
+- Correct: 15
+- Wrong: 12
+- Accuracy: 55.6%
 
 ## 🚨 Review Queue
 
-- [[言い合う]] | Score: 20 | Wrong: 1
-- [[生み出す]] | Score: 20 | Wrong: 1
-- [[引き上げる]] | Score: 20 | Wrong: 1
 - [[見守る]] | Score: 20 | Wrong: 1
-- [[ひっくり返す]] | Score: 20 | Wrong: 1
-- [[差し引く]] | Score: 20 | Wrong: 1
-- [[見分ける]] | Score: 20 | Wrong: 1
-- [[取り掛かる]] | Score: 20 | Wrong: 1
-- [[申し出る]] | Score: 20 | Wrong: 1
-- [[落ち込む]] | Score: 20 | Wrong: 1
-- [[見下ろす]] | Score: 15 | Wrong: 1
-- [[見違える]] | Score: 15 | Wrong: 1
-- [[ぶら下がる]] | Score: 15 | Wrong: 1
-- [[ことづける]] | Score: 15 | Wrong: 1
-- [[おくらせる]] | Score: 15 | Wrong: 1
-- [[無断で持ち出す]] | Score: 15 | Wrong: 1
-- [[冗談が過ぎる]] | Score: 10 | Wrong: 1
-- [[本物と偽者]] | Score: 10 | Wrong: 1
-- [[情緒不安定]] | Score: 10 | Wrong: 1
-- [[消化のいい]] | Score: 10 | Wrong: 1
+- [[手を加える]] | Score: 20 | Wrong: 1
+- [[長期的に考える]] | Score: 20 | Wrong: 1
+- [[- Vocabulary: Ký tên (văn bản trang trọng). Ngữ cảnh: Ký tên vào tờ đồng ý tham gia.]] | Score: 20 | Wrong: 1
+- [[- Vocabulary: Bản thảo/bản viết tay. Ngữ cảnh: Nhờ tiền bối viết bản thảo lời nhắn.]] | Score: 20 | Wrong: 1
+- [[- Vocabulary: Giải nghệ. Ngữ cảnh: Vận động viên marathon quyết định giải nghệ.]] | Score: 20 | Wrong: 1
+- [[- Fixed Expression: Không thể nhượng bộ/Bắt buộc. Thường dùng cho quan điểm chính của tác giả.]] | Score: 20 | Wrong: 1
+- [[- Fixed Expression: Không câu nệ/Không quan trọng. Dùng để loại trừ các đáp án nhiễu.]] | Score: 20 | Wrong: 1
+- [[- Conjunction: Chức năng: Dẫn dắt giải pháp dựa trên vấn đề. Sắc thái: Do đó/Vì vậy. Mẫu: [Vấn đề]. そこで [Giải pháp].]] | Score: 20 | Wrong: 1
+- [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] | Score: 20 | Wrong: 1
+- [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] | Score: 20 | Wrong: 1
+- [[結局]] | Score: 12 | Wrong: 1
+- [[見直す]] | Score: 2 | Wrong: 0
+- [[徐々に]] | Score: 2 | Wrong: 0
+- [[用途に合わせる]] | Score: 2 | Wrong: 0
+- [[- Compound Verb: V1: 見る (Nhìn) + V2: 守る (Bảo vệ). Nghĩa: Dõi theo/Trông nom. Collocation: 子供を見守る.]] | Score: 2 | Wrong: 0
+- [[- Conjunction: Chức năng: Liệt kê thứ tự hành động tiếp theo. Sắc thái: Khách quan. Mẫu: A. それから B.]] | Score: 2 | Wrong: 0
+- [[行き来する]] | Score: 0 | Wrong: 0
+- [[そこで]] | Score: 0 | Wrong: 0
+- [[それによると]] | Score: 0 | Wrong: 0
 
 ## 🔥 Top Weak Points
 
-- [[言い合う]] (Wrong: 1)
-- [[生み出す]] (Wrong: 1)
-- [[引き上げる]] (Wrong: 1)
 - [[見守る]] (Wrong: 1)
-- [[ひっくり返す]] (Wrong: 1)
-- [[差し引く]] (Wrong: 1)
-- [[見分ける]] (Wrong: 1)
-- [[取り掛かる]] (Wrong: 1)
-- [[申し出る]] (Wrong: 1)
-- [[落ち込む]] (Wrong: 1)
-- [[見下ろす]] (Wrong: 1)
-- [[見違える]] (Wrong: 1)
-- [[ぶら下がる]] (Wrong: 1)
-- [[ことづける]] (Wrong: 1)
-- [[おくらせる]] (Wrong: 1)
-- [[無断で持ち出す]] (Wrong: 1)
-- [[冗談が過ぎる]] (Wrong: 1)
-- [[本物と偽者]] (Wrong: 1)
-- [[情緒不安定]] (Wrong: 1)
-- [[消化のいい]] (Wrong: 1)
+- [[結局]] (Wrong: 1)
+- [[手を加える]] (Wrong: 1)
+- [[長期的に考える]] (Wrong: 1)
+- [[- Vocabulary: Ký tên (văn bản trang trọng). Ngữ cảnh: Ký tên vào tờ đồng ý tham gia.]] (Wrong: 1)
+- [[- Vocabulary: Bản thảo/bản viết tay. Ngữ cảnh: Nhờ tiền bối viết bản thảo lời nhắn.]] (Wrong: 1)
+- [[- Vocabulary: Giải nghệ. Ngữ cảnh: Vận động viên marathon quyết định giải nghệ.]] (Wrong: 1)
+- [[- Fixed Expression: Không thể nhượng bộ/Bắt buộc. Thường dùng cho quan điểm chính của tác giả.]] (Wrong: 1)
+- [[- Fixed Expression: Không câu nệ/Không quan trọng. Dùng để loại trừ các đáp án nhiễu.]] (Wrong: 1)
+- [[- Conjunction: Chức năng: Dẫn dắt giải pháp dựa trên vấn đề. Sắc thái: Do đó/Vì vậy. Mẫu: [Vấn đề]. そこで [Giải pháp].]] (Wrong: 1)
+- [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] (Wrong: 1)
+- [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] (Wrong: 1)
+- [[見直す]] (Wrong: 0)
+- [[行き来する]] (Wrong: 0)
+- [[徐々に]] (Wrong: 0)
+- [[そこで]] (Wrong: 0)
+- [[それによると]] (Wrong: 0)
+- [[用途に合わせる]] (Wrong: 0)
+- [[様子を見る]] (Wrong: 0)
+- [[反対意見が出る]] (Wrong: 0)
 
 ## 📈 Category Statistics
 
-- CompoundVerb: 0.0% (Correct 0 / Wrong 5)
-- Grammar: 0.0% (Correct 0 / Wrong 1)
-- Vocabulary: 17.6% (Correct 3 / Wrong 14)
+- Conjunction: 100.0% (Correct 2 / Wrong 0)
+- Grammar: 100.0% (Correct 2 / Wrong 0)
+- Kanji: 50.0% (Correct 1 / Wrong 1)
+- Reading: 0.0% (Correct 0 / Wrong 1)
+- Vocabulary: 50.0% (Correct 10 / Wrong 10)
 
 ## 📚 Top Grammar
 
-- [[ことづける]] (Score: 15)
+- [[- Adverb: Sắc thái: Thay đổi từng chút một theo thời gian. Mẫu: 徐々に行動するようになる.]] (Score: 0)
 
 ## 📚 Top Vocabulary
 
-- [[引き上げる]] (Score: 20)
 - [[見守る]] (Score: 20)
-- [[差し引く]] (Score: 20)
-- [[見分ける]] (Score: 20)
-- [[取り掛かる]] (Score: 20)
-- [[申し出る]] (Score: 20)
-- [[見下ろす]] (Score: 15)
-- [[見違える]] (Score: 15)
-- [[ぶら下がる]] (Score: 15)
-- [[おくらせる]] (Score: 15)
+- [[手を加える]] (Score: 20)
+- [[長期的に考える]] (Score: 20)
+- [[- Vocabulary: Ký tên (văn bản trang trọng). Ngữ cảnh: Ký tên vào tờ đồng ý tham gia.]] (Score: 20)
+- [[- Vocabulary: Bản thảo/bản viết tay. Ngữ cảnh: Nhờ tiền bối viết bản thảo lời nhắn.]] (Score: 20)
+- [[- Vocabulary: Giải nghệ. Ngữ cảnh: Vận động viên marathon quyết định giải nghệ.]] (Score: 20)
+- [[- Fixed Expression: Không câu nệ/Không quan trọng. Dùng để loại trừ các đáp án nhiễu.]] (Score: 20)
+- [[- Conjunction: Chức năng: Dẫn dắt giải pháp dựa trên vấn đề. Sắc thái: Do đó/Vì vậy. Mẫu: [Vấn đề]. そこで [Giải pháp].]] (Score: 20)
+- [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] (Score: 20)
+- [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] (Score: 20)
 
 ## 📚 Top Kanji
 
+- [[結局]] (Score: 12)
+- [[署名]] (Score: 0)
 
 ## 📚 Top Reading
 
+- [[- Fixed Expression: Không thể nhượng bộ/Bắt buộc. Thường dùng cho quan điểm chính của tác giả.]] (Score: 20)
 
 ## 📅 Recent Reviews
 
