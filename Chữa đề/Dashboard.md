@@ -3,70 +3,79 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 44
-- Correct: 47
-- Wrong: 98
-- Accuracy: 32.4%
+- Total Knowledge Items: 75
+- Correct: 56
+- Wrong: 120
+- Accuracy: 31.8%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 350| Wrong: 68
+- [[]] | Vocabulary| Score: 355| Wrong: 68
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
+- [[途切れる]] | Vocabulary| Score: 20| Wrong: 1
+- [[把握]] | Kanji| Score: 20| Wrong: 1
+- [[筆者の主張の把握]] | Reading| Score: 20| Wrong: 1
+- [[置き換える]] | CompoundVerb| Score: 20| Wrong: 1
+- [[掘り下げる]] | CompoundVerb| Score: 20| Wrong: 1
+- [[解像度を上げる]] | Collocation| Score: 20| Wrong: 1
+- [[思いをさらけ出す]] | Collocation| Score: 20| Wrong: 1
+- [[文書の目的把握]] | Reading| Score: 20| Wrong: 1
+- [[使い心地]] | CompoundVerb| Score: 20| Wrong: 1
+- [[役立てたい]] | CompoundVerb| Score: 20| Wrong: 1
+- [[力を入れてまいりました]] | FixedExpression| Score: 20| Wrong: 1
+- [[伺い]] | Kenjougo| Score: 20| Wrong: 1
+- [[進呈いたします]] | Kenjougo| Score: 20| Wrong: 1
 - [[さび]] | Vocabulary| Score: 20| Wrong: 1
 - [[とうげ]] | Vocabulary| Score: 20| Wrong: 1
 - [[ファスナー]] | Vocabulary| Score: 20| Wrong: 1
 - [[オーケストラ]] | Vocabulary| Score: 20| Wrong: 1
 - [[コレクション]] | Vocabulary| Score: 20| Wrong: 1
-- [[カーブ]] | Vocabulary| Score: 20| Wrong: 1
-- [[ギャング]] | Vocabulary| Score: 20| Wrong: 1
-- [[着脱させる]] | CompoundVerb| Score: 20| Wrong: 1
-- [[出しすぎ]] | CompoundVerb| Score: 20| Wrong: 1
-- [[さびを落とす]] | Collocation| Score: 20| Wrong: 1
-- [[同格]] | Vocabulary| Score: 20| Wrong: 1
-- [[役目]] | Vocabulary| Score: 20| Wrong: 1
-- [[役目を果たす]] | Collocation| Score: 20| Wrong: 1
-- [[見守る]] | CompoundVerb| Score: 20| Wrong: 1
-- [[手を加えて]] | FixedExpression| Score: 20| Wrong: 1
-- [[長期的に考える]] | FixedExpression| Score: 20| Wrong: 1
-- [[レクリエーション]] | Vocabulary| Score: 15| Wrong: 1
-- [[最高点]] | Kanji| Score: 12| Wrong: 1
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 68
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
-- [[さび]] (Vocabulary) Wrong: 1
-- [[とうげ]] (Vocabulary) Wrong: 1
-- [[ファスナー]] (Vocabulary) Wrong: 1
-- [[オーケストラ]] (Vocabulary) Wrong: 1
-- [[コレクション]] (Vocabulary) Wrong: 1
-- [[カーブ]] (Vocabulary) Wrong: 1
-- [[ギャング]] (Vocabulary) Wrong: 1
-- [[レクリエーション]] (Vocabulary) Wrong: 1
-- [[着脱させる]] (CompoundVerb) Wrong: 1
-- [[出しすぎ]] (CompoundVerb) Wrong: 1
-- [[最高点]] (Kanji) Wrong: 1
-- [[逮捕された]] (FixedExpression) Wrong: 1
-- [[さびを落とす]] (Collocation) Wrong: 1
-- [[同格]] (Vocabulary) Wrong: 1
-- [[役目]] (Vocabulary) Wrong: 1
-- [[役目を果たす]] (Collocation) Wrong: 1
-- [[見守る]] (CompoundVerb) Wrong: 1
-- [[手を加えて]] (FixedExpression) Wrong: 1
+- [[途切れる]] (Vocabulary) Wrong: 1
+- [[把握]] (Kanji) Wrong: 1
+- [[筆者の主張の把握]] (Reading) Wrong: 1
+- [[置き換える]] (CompoundVerb) Wrong: 1
+- [[掘り下げる]] (CompoundVerb) Wrong: 1
+- [[思考を整理する]] (FixedExpression) Wrong: 1
+- [[解像度を上げる]] (Collocation) Wrong: 1
+- [[思いをさらけ出す]] (Collocation) Wrong: 1
+- [[昨年度]] (Vocabulary) Wrong: 1
+- [[粗品]] (Vocabulary) Wrong: 1
+- [[別紙]] (Vocabulary) Wrong: 1
+- [[文書の目的把握]] (Reading) Wrong: 1
+- [[使い心地]] (CompoundVerb) Wrong: 1
+- [[役立てたい]] (CompoundVerb) Wrong: 1
+- [[力を入れてまいりました]] (FixedExpression) Wrong: 1
+- [[広く伺う]] (FixedExpression) Wrong: 1
+- [[開発に役立てる]] (Collocation) Wrong: 1
+- [[アンケートにお答えいただく]] (Collocation) Wrong: 1
 
 ## 📈 Category Statistics
 
-- Collocation: 71.4% (Correct 5 / Wrong 2)
-- CompoundVerb: 50.0% (Correct 3 / Wrong 3)
-- FixedExpression: 40.0% (Correct 2 / Wrong 3)
-- Kanji: 0.0% (Correct 0 / Wrong 1)
-- Keigo: 100.0% (Correct 1 / Wrong 0)
-- Vocabulary: 28.8% (Correct 36 / Wrong 89)
+- Collocation: 45.5% (Correct 5 / Wrong 6)
+- CompoundVerb: 41.7% (Correct 5 / Wrong 7)
+- FixedExpression: 33.3% (Correct 3 / Wrong 6)
+- Grammar: 100.0% (Correct 2 / Wrong 0)
+- Kanji: 50.0% (Correct 2 / Wrong 2)
+- Keigo: 50.0% (Correct 1 / Wrong 1)
+- Kenjougo: 0.0% (Correct 0 / Wrong 3)
+- Reading: 0.0% (Correct 0 / Wrong 2)
+- Vocabulary: 29.0% (Correct 38 / Wrong 93)
+
+## 📚 Top Grammar
+
+- [[〜からこそ]] (Score: 0)
+- [[〜得る]] (Score: 0)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 350)
+- [[]] (Score: 355)
 - [[& Kiến thức liên quan]] (Score: 70)
+- [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
 - [[とうげ]] (Score: 20)
 - [[ファスナー]] (Score: 20)
@@ -74,42 +83,67 @@
 - [[コレクション]] (Score: 20)
 - [[カーブ]] (Score: 20)
 - [[ギャング]] (Score: 20)
-- [[同格]] (Score: 20)
 
 ## 📚 Top Kanji
 
+- [[把握]] (Score: 20)
 - [[最高点]] (Score: 12)
+- [[響く]] (Score: 0)
+- [[誤解]] (Score: 0)
+
+## 📚 Top Reading
+
+- [[筆者の主張の把握]] (Score: 20)
+- [[文書の目的把握]] (Score: 20)
 
 ## 📚 Top CompoundVerb
 
+- [[置き換える]] (Score: 20)
+- [[掘り下げる]] (Score: 20)
+- [[使い心地]] (Score: 20)
+- [[役立てたい]] (Score: 20)
 - [[着脱させる]] (Score: 20)
 - [[出しすぎ]] (Score: 20)
 - [[見守る]] (Score: 20)
 - [[見直す]] (Score: 7)
-- [[見込み]] (Score: 0)
-- [[行き来する]] (Score: 0)
+- [[引き出す]] (Score: 0)
+- [[生み出す]] (Score: 0)
 
 ## 📚 Top FixedExpression
 
+- [[力を入れてまいりました]] (Score: 20)
 - [[手を加えて]] (Score: 20)
 - [[長期的に考える]] (Score: 20)
+- [[広く伺う]] (Score: 15)
+- [[思考を整理する]] (Score: 12)
 - [[逮捕された]] (Score: 12)
+- [[心に響く]] (Score: 0)
 - [[余計な事を言う]] (Score: 0)
 - [[賄賂を受け取る]] (Score: 0)
 
 ## 📚 Top Collocation
 
+- [[解像度を上げる]] (Score: 20)
+- [[思いをさらけ出す]] (Score: 20)
 - [[さびを落とす]] (Score: 20)
 - [[役目を果たす]] (Score: 20)
+- [[開発に役立てる]] (Score: 15)
+- [[アンケートにお答えいただく]] (Score: 7)
 - [[用途に合わせる]] (Score: 2)
 - [[習慣がある]] (Score: 0)
 - [[代金を払う]] (Score: 0)
 - [[様子を見る]] (Score: 0)
-- [[反対意見が出る]] (Score: 0)
 
 ## 📚 Top Keigo
 
+- [[お買い上げ]] (Score: 7)
 - [[お泊まりになる]] (Score: 7)
+
+## 📚 Top Kenjougo
+
+- [[伺い]] (Score: 20)
+- [[進呈いたします]] (Score: 20)
+- [[申し上げます]] (Score: 7)
 
 ## 📅 Recent Reviews
 
