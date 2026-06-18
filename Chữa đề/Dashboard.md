@@ -3,10 +3,10 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 286
-- Correct: 152
-- Wrong: 247
-- Accuracy: 38.1%
+- Total Knowledge Items: 295
+- Correct: 156
+- Wrong: 251
+- Accuracy: 38.3%
 
 ## 🚨 Review Queue
 
@@ -58,16 +58,18 @@
 
 - Collocation: 61.5% (Correct 16 / Wrong 10)
 - CompoundVerb: 36.9% (Correct 24 / Wrong 41)
-- FixedExpression: 48.9% (Correct 22 / Wrong 23)
-- Grammar: 35.3% (Correct 6 / Wrong 11)
+- FixedExpression: 51.1% (Correct 24 / Wrong 23)
+- Grammar: 38.1% (Correct 8 / Wrong 13)
 - Kanji: 71.4% (Correct 10 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
 - Reading: 33.3% (Correct 1 / Wrong 2)
-- Vocabulary: 32.3% (Correct 72 / Wrong 151)
+- Vocabulary: 32.0% (Correct 72 / Wrong 153)
 
 ## 📚 Top Grammar
 
+- [[〜に違いない]] (Score: 20)
+- [[〜は当然のこと]] (Score: 20)
 - [[〜のではないだろうか]] (Score: 20)
 - [[〜にほかならない]] (Score: 20)
 - [[〜まいか]] (Score: 20)
@@ -76,8 +78,6 @@
 - [[〜てならない]] (Score: 20)
 - [[〜たいものだ]] (Score: 20)
 - [[〜か〜ないかのうちに]] (Score: 20)
-- [[〜こそ]] (Score: 15)
-- [[〜ことだってできる]] (Score: 15)
 
 ## 📚 Top Vocabulary
 
