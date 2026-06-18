@@ -3,15 +3,16 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 280
-- Correct: 153
-- Wrong: 242
-- Accuracy: 38.7%
+- Total Knowledge Items: 287
+- Correct: 152
+- Wrong: 247
+- Accuracy: 38.1%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 335| Wrong: 64
+- [[]] | Vocabulary| Score: 310| Wrong: 59
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
+- [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
 - [[オーケストラ]] | Vocabulary| Score: 25| Wrong: 2
@@ -19,7 +20,6 @@
 - [[ギャング]] | Vocabulary| Score: 25| Wrong: 2
 - [[着脱させる]] | CompoundVerb| Score: 25| Wrong: 2
 - [[出しすぎ]] | CompoundVerb| Score: 25| Wrong: 2
-- [[見守る]] | CompoundVerb| Score: 25| Wrong: 2
 - [[途切れる]] | Vocabulary| Score: 20| Wrong: 1
 - [[把握]] | Kanji| Score: 20| Wrong: 1
 - [[筆者の主張の把握]] | Reading| Score: 20| Wrong: 1
@@ -33,8 +33,9 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 64
+- [[]] (Vocabulary) Wrong: 59
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
+- [[見守る]] (CompoundVerb) Wrong: 3
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
 - [[オーケストラ]] (Vocabulary) Wrong: 2
@@ -45,43 +46,42 @@
 - [[出しすぎ]] (CompoundVerb) Wrong: 2
 - [[最高点]] (Kanji) Wrong: 2
 - [[逮捕された]] (FixedExpression) Wrong: 2
-- [[見守る]] (CompoundVerb) Wrong: 2
 - [[途切れる]] (Vocabulary) Wrong: 1
 - [[把握]] (Kanji) Wrong: 1
 - [[筆者の主張の把握]] (Reading) Wrong: 1
+- [[引き出す]] (CompoundVerb) Wrong: 1
 - [[置き換える]] (CompoundVerb) Wrong: 1
 - [[掘り下げる]] (CompoundVerb) Wrong: 1
 - [[思考を整理する]] (FixedExpression) Wrong: 1
-- [[解像度を上げる]] (Collocation) Wrong: 1
 
 ## 📈 Category Statistics
 
 - Collocation: 61.5% (Correct 16 / Wrong 10)
-- CompoundVerb: 38.7% (Correct 24 / Wrong 38)
-- FixedExpression: 51.2% (Correct 22 / Wrong 21)
-- Grammar: 46.2% (Correct 6 / Wrong 7)
+- CompoundVerb: 36.9% (Correct 24 / Wrong 41)
+- FixedExpression: 48.9% (Correct 22 / Wrong 23)
+- Grammar: 35.3% (Correct 6 / Wrong 11)
 - Kanji: 71.4% (Correct 10 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
 - Reading: 33.3% (Correct 1 / Wrong 2)
-- Vocabulary: 32.0% (Correct 73 / Wrong 155)
+- Vocabulary: 32.3% (Correct 72 / Wrong 151)
 
 ## 📚 Top Grammar
 
 - [[〜〜からこそ]] (Score: 20)
+- [[〜のではないだろうか]] (Score: 20)
+- [[〜にほかならない]] (Score: 20)
+- [[〜まいか]] (Score: 20)
 - [[〜ざるを得ない]] (Score: 20)
 - [[〜ところから]] (Score: 20)
 - [[〜てならない]] (Score: 20)
 - [[〜たいものだ]] (Score: 20)
 - [[〜か〜ないかのうちに]] (Score: 20)
-- [[〜ことだってできる]] (Score: 15)
-- [[〜からこそ]] (Score: 0)
-- [[〜得る]] (Score: 0)
-- [[〜ないではいられない]] (Score: 0)
+- [[〜こそ]] (Score: 15)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 335)
+- [[]] (Score: 310)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -113,9 +113,9 @@
 
 ## 📚 Top CompoundVerb
 
+- [[見守る]] (Score: 30)
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
-- [[見守る]] (Score: 25)
 - [[置き換える]] (Score: 20)
 - [[掘り下げる]] (Score: 20)
 - [[使い心地]] (Score: 20)
