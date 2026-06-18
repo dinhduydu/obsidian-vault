@@ -17,6 +17,7 @@ Priority:
 
 
 <!-- USER_START -->
+〜にわたる (Suốt phạm vi)
 
-
+- **Kiến thức**: Chỉ không gian/thời gian rộng. Khác với _にあたり_ (thời điểm).
 <!-- USER_END -->

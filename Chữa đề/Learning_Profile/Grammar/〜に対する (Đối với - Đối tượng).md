@@ -17,6 +17,6 @@ Priority:
 
 
 <!-- USER_START -->
-
+Dùng khi thể hiện thái độ, hành động hướng vào một đối tượng cụ thể.
 
 <!-- USER_END -->

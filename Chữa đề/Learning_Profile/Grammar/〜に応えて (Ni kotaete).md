@@ -17,6 +17,8 @@ Priority:
 
 
 <!-- USER_START -->
+〜に応えて (Ni kotaete)
 
+- **Ngữ cảnh**: Thực hiện hành động để đáp lại yêu cầu, kỳ vọng hoặc tiếng gọi của ai đó.
 
 <!-- USER_END -->

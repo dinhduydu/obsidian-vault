@@ -17,6 +17,8 @@ Priority:
 
 
 <!-- USER_START -->
+〜うちに (Trong lúc/Trước khi...)
 
+- **Kiến thức**: Diễn tả một sự thay đổi xảy ra trong khi một trạng thái khác đang tiếp diễn.
 
 <!-- USER_END -->
