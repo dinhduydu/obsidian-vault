@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 204
-- Correct: 124
-- Wrong: 196
-- Accuracy: 38.8%
+- Total Knowledge Items: 242
+- Correct: 135
+- Wrong: 223
+- Accuracy: 37.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 342| Wrong: 67
+- [[]] | Vocabulary| Score: 337| Wrong: 66
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
@@ -19,6 +19,7 @@
 - [[ギャング]] | Vocabulary| Score: 25| Wrong: 2
 - [[着脱させる]] | CompoundVerb| Score: 25| Wrong: 2
 - [[出しすぎ]] | CompoundVerb| Score: 25| Wrong: 2
+- [[見守る]] | CompoundVerb| Score: 25| Wrong: 2
 - [[途切れる]] | Vocabulary| Score: 20| Wrong: 1
 - [[把握]] | Kanji| Score: 20| Wrong: 1
 - [[筆者の主張の把握]] | Reading| Score: 20| Wrong: 1
@@ -29,11 +30,10 @@
 - [[文書の目的把握]] | Reading| Score: 20| Wrong: 1
 - [[使い心地]] | CompoundVerb| Score: 20| Wrong: 1
 - [[役立てたい]] | CompoundVerb| Score: 20| Wrong: 1
-- [[力を入れてまいりました]] | FixedExpression| Score: 20| Wrong: 1
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 67
+- [[]] (Vocabulary) Wrong: 66
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
@@ -45,6 +45,7 @@
 - [[出しすぎ]] (CompoundVerb) Wrong: 2
 - [[最高点]] (Kanji) Wrong: 2
 - [[逮捕された]] (FixedExpression) Wrong: 2
+- [[見守る]] (CompoundVerb) Wrong: 2
 - [[途切れる]] (Vocabulary) Wrong: 1
 - [[把握]] (Kanji) Wrong: 1
 - [[筆者の主張の把握]] (Reading) Wrong: 1
@@ -52,28 +53,28 @@
 - [[掘り下げる]] (CompoundVerb) Wrong: 1
 - [[思考を整理する]] (FixedExpression) Wrong: 1
 - [[解像度を上げる]] (Collocation) Wrong: 1
-- [[思いをさらけ出す]] (Collocation) Wrong: 1
 
 ## 📈 Category Statistics
 
 - Collocation: 59.1% (Correct 13 / Wrong 9)
-- CompoundVerb: 45.8% (Correct 11 / Wrong 13)
-- FixedExpression: 61.8% (Correct 21 / Wrong 13)
-- Grammar: 100.0% (Correct 2 / Wrong 0)
+- CompoundVerb: 39.3% (Correct 22 / Wrong 34)
+- FixedExpression: 55.3% (Correct 21 / Wrong 17)
+- Grammar: 66.7% (Correct 2 / Wrong 1)
 - Kanji: 66.7% (Correct 8 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
-- Kenjougo: 0.0% (Correct 0 / Wrong 3)
+- Kenjougo: 0.0% (Correct 0 / Wrong 4)
 - Reading: 0.0% (Correct 0 / Wrong 2)
 - Vocabulary: 31.1% (Correct 68 / Wrong 151)
 
 ## 📚 Top Grammar
 
+- [[〜〜からこそ]] (Score: 20)
 - [[〜からこそ]] (Score: 0)
 - [[〜得る]] (Score: 0)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 342)
+- [[]] (Score: 337)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -106,6 +107,7 @@
 
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
+- [[見守る]] (Score: 25)
 - [[置き換える]] (Score: 20)
 - [[掘り下げる]] (Score: 20)
 - [[使い心地]] (Score: 20)
@@ -113,7 +115,6 @@
 - [[近づく]] (Score: 20)
 - [[長引く]] (Score: 20)
 - [[近寄る]] (Score: 20)
-- [[ひと休み]] (Score: 20)
 
 ## 📚 Top FixedExpression
 
@@ -124,9 +125,9 @@
 - [[明け方]] (Score: 20)
 - [[かん違い]] (Score: 20)
 - [[面倒くさい]] (Score: 20)
-- [[手を加えて]] (Score: 20)
-- [[長期的に考える]] (Score: 20)
-- [[逮捕された]] (Score: 17)
+- [[冗談が過ぎる]] (Score: 20)
+- [[情緒不安定]] (Score: 20)
+- [[無断で]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -150,6 +151,7 @@
 
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
+- [[申し上げる]] (Score: 20)
 - [[申し上げます]] (Score: 7)
 
 ## 📅 Recent Reviews
