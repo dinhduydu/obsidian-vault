@@ -3,13 +3,15 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 14
-- Correct: 11
-- Wrong: 3
-- Accuracy: 78.6%
+- Total Knowledge Items: 16
+- Correct: 35
+- Wrong: 84
+- Accuracy: 29.4%
 
 ## 🚨 Review Queue
 
+- [[]] | Vocabulary| Score: 360| Wrong: 70
+- [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[同格]] | Vocabulary| Score: 20| Wrong: 1
 - [[役目]] | Vocabulary| Score: 20| Wrong: 1
 - [[役目を果たす]] | Collocation| Score: 20| Wrong: 1
@@ -27,6 +29,8 @@
 
 ## 🔥 Top Weak Points
 
+- [[]] (Vocabulary) Wrong: 70
+- [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[同格]] (Vocabulary) Wrong: 1
 - [[役目]] (Vocabulary) Wrong: 1
 - [[役目を果たす]] (Collocation) Wrong: 1
@@ -47,10 +51,12 @@
 - Collocation: 50.0% (Correct 1 / Wrong 1)
 - CompoundVerb: 100.0% (Correct 1 / Wrong 0)
 - FixedExpression: 100.0% (Correct 2 / Wrong 0)
-- Vocabulary: 77.8% (Correct 7 / Wrong 2)
+- Vocabulary: 27.2% (Correct 31 / Wrong 83)
 
 ## 📚 Top Vocabulary
 
+- [[]] (Score: 360)
+- [[& Kiến thức liên quan]] (Score: 70)
 - [[同格]] (Score: 20)
 - [[役目]] (Score: 20)
 - [[代金]] (Score: 0)
@@ -59,7 +65,6 @@
 - [[物騒]] (Score: 0)
 - [[余計]] (Score: 0)
 - [[利口]] (Score: 0)
-- [[かま]] (Score: 0)
 
 ## 📚 Top CompoundVerb
 
