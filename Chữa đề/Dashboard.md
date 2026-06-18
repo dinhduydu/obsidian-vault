@@ -3,7 +3,7 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 287
+- Total Knowledge Items: 286
 - Correct: 152
 - Wrong: 247
 - Accuracy: 38.1%
@@ -48,11 +48,11 @@
 - [[逮捕された]] (FixedExpression) Wrong: 2
 - [[途切れる]] (Vocabulary) Wrong: 1
 - [[把握]] (Kanji) Wrong: 1
+- [[〜からこそ]] (Grammar) Wrong: 1
 - [[筆者の主張の把握]] (Reading) Wrong: 1
 - [[引き出す]] (CompoundVerb) Wrong: 1
 - [[置き換える]] (CompoundVerb) Wrong: 1
 - [[掘り下げる]] (CompoundVerb) Wrong: 1
-- [[思考を整理する]] (FixedExpression) Wrong: 1
 
 ## 📈 Category Statistics
 
@@ -68,7 +68,6 @@
 
 ## 📚 Top Grammar
 
-- [[〜〜からこそ]] (Score: 20)
 - [[〜のではないだろうか]] (Score: 20)
 - [[〜にほかならない]] (Score: 20)
 - [[〜まいか]] (Score: 20)
@@ -78,6 +77,7 @@
 - [[〜たいものだ]] (Score: 20)
 - [[〜か〜ないかのうちに]] (Score: 20)
 - [[〜こそ]] (Score: 15)
+- [[〜ことだってできる]] (Score: 15)
 
 ## 📚 Top Vocabulary
 
