@@ -12,7 +12,6 @@ Priority: **🔴 High**.
 ## Related Reviews
 
 - [[1. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P3)]]
-- [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGẮN_BÀI 32]]
 - [[2. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P4)]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
 
