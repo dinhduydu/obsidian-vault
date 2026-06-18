@@ -101,6 +101,13 @@ def generate_profiles(
                 f"- [[{review}]]"
             )
 
+        print(
+            "NAME:",
+            item.name,
+            "CATEGORY:",
+            item.category
+        )
+        
         update_markdown(
             path,
             "\n".join(content)

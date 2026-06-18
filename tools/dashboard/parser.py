@@ -3,6 +3,7 @@ import re
 from models import KnowledgeItem
 
 
+
 def normalize_text(text):
 
     return (
@@ -11,151 +12,304 @@ def normalize_text(text):
         .replace("🟠", "")
         .replace("🟢", "")
         .replace("**", "")
+        .replace("`", "")
         .strip()
     )
 
 
-# =========================
-# Extract Learning Profile
-# =========================
 
-PROFILE_PATTERN = re.compile(
-    r"""
-    ^([^\n]+)
-    .*?
-    Correct\s*\+?(\d+)
-    .*?
-    Wrong\s*\+?(\d+)
-    .*?
-    Last\s*Seen\s*([0-9\-]+)
-    .*?
-    Mastery\s*(.*?)
-    .*?
-    Priority\s*(.*?)
-    $
-    """,
-    re.MULTILINE
-    | re.DOTALL
-    | re.VERBOSE
-)
+def clean_name(name):
+
+    name = normalize_text(name)
 
 
-# =========================
-# Extract category map
-# =========================
+    prefixes = [
+        "NAME:",
+        "ITEM:",
+        "Item:",
+        "Vocabulary:",
+        "Grammar:",
+        "Kanji:",
+        "Particle:",
+        "Reading:",
+        "Compound Verb:",
+        "CompoundVerb:",
+        "Fixed Expression:",
+        "FixedExpression:",
+        "Collocation:",
+        "Adverb:",
+        "Conjunction:",
+        "Keigo:",
+        "Kenjougo:"
+    ]
 
-CATEGORY_PATTERN = re.compile(
-    r"""
-    ^##\s*(.+?)
-    \n
-    (.*?)
-    (?=
-        ^##|
-        \Z
-    )
-    """,
-    re.MULTILINE
-    | re.DOTALL
-)
+
+    for p in prefixes:
+
+        if name.startswith(p):
+
+            name = name[len(p):].strip()
 
 
-def extract_category_map(text):
 
-    category_map = {}
-
-    matches = CATEGORY_PATTERN.findall(
-        text
+    name = re.sub(
+        r"^\d+[\.\)]\s*",
+        "",
+        name
     )
 
-    for category, block in matches:
 
-        category = (
-            category
-            .strip()
-            .replace(" ", "")
-        )
-
-        for line in block.splitlines():
-
-            line = line.strip()
-
-            if not line.startswith("-"):
-                continue
-
-            item = (
-                line[1:]
-                .strip()
-                .replace("**", "")
-                .replace("`", "")
-            )
-
-            if item:
-
-                category_map[item] = category
+    return name.strip()
 
 
-    return category_map
 
 
 
 def normalize_category(category):
 
+    if not category:
+        return None
+
+
+    key = (
+        category
+        .replace(" ", "")
+        .lower()
+    )
+
+
     mapping = {
 
-        "CompoundVerb":
-            "CompoundVerb",
-
-        "Compound Verb":
-            "CompoundVerb",
-
-        "FixedExpression":
-            "FixedExpression",
-
-        "Fixed Expression":
-            "FixedExpression",
-
-        "ReadingComprehension":
-            "Reading",
-
-        "Reading Comprehension":
-            "Reading",
-
-        "Vocabulary":
+        "vocabulary":
             "Vocabulary",
 
-        "Grammar":
+        "grammar":
             "Grammar",
 
-        "Kanji":
+        "kanji":
             "Kanji",
 
-        "Particle":
+        "particle":
             "Particle",
 
-        "Adverb":
+        "reading":
+            "Reading",
+
+        "compoundverb":
+            "CompoundVerb",
+
+        "adverb":
             "Adverb",
 
-        "Conjunction":
+        "conjunction":
             "Conjunction",
 
-        "Collocation":
+        "fixedexpression":
+            "FixedExpression",
+
+        "collocation":
             "Collocation",
 
-        "Keigo":
+        "keigo":
             "Keigo",
 
-        "Kenjougo":
-            "Kenjougo",
-
-        "Topics":
-            "Topics",
+        "kenjougo":
+            "Kenjougo"
     }
 
 
     return mapping.get(
-        category,
+        key
+    )
+
+
+
+
+
+def split_heading_category(title):
+
+
+    title = (
+        title
+        .replace("#","")
+        .strip()
+    )
+
+
+    if "|" not in title:
+
+        return (
+            clean_name(title),
+            None
+        )
+
+
+    left, right = title.split(
+        "|",
+        1
+    )
+
+
+    category = normalize_category(
+        left.strip()
+    )
+
+
+    name = clean_name(
+        right.strip()
+    )
+
+
+    return (
+        name,
         category
     )
+
+
+
+
+
+
+
+def extract_category_map(text):
+
+    result = {}
+
+
+    for line in text.splitlines():
+
+        line = line.strip()
+
+
+        if not line:
+            continue
+
+
+
+        # nhận:
+        # Vocabulary | 同格
+        # ### Vocabulary | 同格
+
+        if "|" in line:
+
+
+            name, category = split_heading_category(
+                line
+            )
+
+
+            if (
+                name
+                and category
+            ):
+
+                result[name] = category
+
+
+
+    return result
+
+
+
+
+
+
+
+def parse_profiles(text):
+
+    result = []
+
+
+    blocks = re.split(
+        r"\n(?=(?:###|Vocabulary \||Grammar \||Kanji \||Reading \||Collocation \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
+        text
+    )
+
+
+
+    for block in blocks:
+
+
+        if "Correct:" not in block:
+
+            continue
+
+
+
+        first_line = (
+            block
+            .splitlines()[0]
+            .strip()
+        )
+
+
+        name, heading_category = split_heading_category(
+            first_line
+        )
+
+
+
+        correct = re.search(
+            r"Correct:\s*\+?(\d+)",
+            block
+        )
+
+
+        wrong = re.search(
+            r"Wrong:\s*\+?(\d+)",
+            block
+        )
+
+
+        mastery = re.search(
+            r"Mastery:\s*(.+)",
+            block
+        )
+
+
+        priority = re.search(
+            r"Priority:\s*(.+)",
+            block
+        )
+
+
+        if not correct:
+
+            continue
+
+
+
+        result.append({
+
+            "name":
+                name,
+
+            "heading_category":
+                heading_category,
+
+            "correct":
+                int(correct.group(1)),
+
+            "wrong":
+                int(wrong.group(1))
+                if wrong else 0,
+
+            "mastery":
+                mastery.group(1).strip()
+                if mastery else "",
+
+            "priority":
+                priority.group(1).strip()
+                if priority else ""
+
+        })
+
+
+    return result
+
+
+
+
 
 
 
@@ -164,10 +318,12 @@ def parse_review_file(
     review_date
 ):
 
+
     text = file_path.read_text(
         encoding="utf-8",
         errors="ignore"
     )
+
 
 
     if "Learning Profile" not in text:
@@ -175,9 +331,17 @@ def parse_review_file(
         return []
 
 
-    category_map = (
-        extract_category_map(text)
+
+    category_map = extract_category_map(
+        text
     )
+
+
+    print(
+        "CATEGORY MAP:",
+        len(category_map)
+    )
+
 
 
     profile_text = text.split(
@@ -186,43 +350,31 @@ def parse_review_file(
     )[1]
 
 
+
     items = []
 
 
-    matches = PROFILE_PATTERN.findall(
+
+    for data in parse_profiles(
         profile_text
-    )
+    ):
 
 
-    for match in matches:
-
-        (
-            name,
-            correct,
-            wrong,
-            _,
-            mastery,
-            priority
-        ) = match
+        name = data["name"]
 
 
-        name = (
-            name
-            .replace("**", "")
-            .replace("`", "")
-            .strip()
+
+        category = (
+            data["heading_category"]
+            or category_map.get(name)
         )
 
 
-        category = category_map.get(
-            name,
-            "Vocabulary"
-        )
 
+        if category is None:
 
-        category = normalize_category(
-            category
-        )
+            category = "Vocabulary"
+
 
 
         item = KnowledgeItem(
@@ -231,17 +383,13 @@ def parse_review_file(
 
             category=category,
 
-            correct=int(correct),
+            correct=data["correct"],
 
-            wrong=int(wrong),
+            wrong=data["wrong"],
 
-            mastery=normalize_text(
-                mastery
-            ),
+            mastery=data["mastery"],
 
-            priority=normalize_text(
-                priority
-            )
+            priority=data["priority"]
         )
 
 
@@ -256,10 +404,12 @@ def parse_review_file(
         items.append(item)
 
 
-
-    print(
-        f"{file_path.stem}: {len(items)} items"
-    )
+        print(
+            "NAME:",
+            item.name,
+            "CATEGORY:",
+            item.category
+        )
 
 
     return items
