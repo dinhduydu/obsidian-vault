@@ -16,3 +16,4 @@ reload
 [N2] Correcting exercises by using tool
 [N2] Update name file
 [N2] Update tool and DB
+[N2] Update path of files
