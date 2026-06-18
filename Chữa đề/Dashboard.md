@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 242
-- Correct: 135
-- Wrong: 223
-- Accuracy: 37.7%
+- Total Knowledge Items: 259
+- Correct: 145
+- Wrong: 230
+- Accuracy: 38.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 337| Wrong: 66
+- [[]] | Vocabulary| Score: 345| Wrong: 66
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
@@ -56,15 +56,15 @@
 
 ## 📈 Category Statistics
 
-- Collocation: 59.1% (Correct 13 / Wrong 9)
-- CompoundVerb: 39.3% (Correct 22 / Wrong 34)
-- FixedExpression: 55.3% (Correct 21 / Wrong 17)
+- Collocation: 60.0% (Correct 15 / Wrong 10)
+- CompoundVerb: 40.7% (Correct 24 / Wrong 35)
+- FixedExpression: 53.7% (Correct 22 / Wrong 19)
 - Grammar: 66.7% (Correct 2 / Wrong 1)
-- Kanji: 66.7% (Correct 8 / Wrong 4)
+- Kanji: 71.4% (Correct 10 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
 - Reading: 0.0% (Correct 0 / Wrong 2)
-- Vocabulary: 31.1% (Correct 68 / Wrong 151)
+- Vocabulary: 31.6% (Correct 71 / Wrong 154)
 
 ## 📚 Top Grammar
 
@@ -74,7 +74,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 337)
+- [[]] (Score: 345)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -93,10 +93,10 @@
 - [[響く]] (Score: 0)
 - [[誤解]] (Score: 0)
 - [[救出]] (Score: 0)
+- [[優先]] (Score: 0)
+- [[経験]] (Score: 0)
 - [[異文化]] (Score: 0)
 - [[温暖化]] (Score: 0)
-- [[合格率]] (Score: 0)
-- [[経済界]] (Score: 0)
 
 ## 📚 Top Reading
 
@@ -112,13 +112,15 @@
 - [[掘り下げる]] (Score: 20)
 - [[使い心地]] (Score: 20)
 - [[役立てたい]] (Score: 20)
+- [[盛り付ける]] (Score: 20)
 - [[近づく]] (Score: 20)
 - [[長引く]] (Score: 20)
-- [[近寄る]] (Score: 20)
 
 ## 📚 Top FixedExpression
 
 - [[力を入れてまいりました]] (Score: 20)
+- [[譲れない]] (Score: 20)
+- [[こだわらない]] (Score: 20)
 - [[逆効果]] (Score: 20)
 - [[ひとりごと]] (Score: 20)
 - [[初日の出]] (Score: 20)
@@ -126,8 +128,6 @@
 - [[かん違い]] (Score: 20)
 - [[面倒くさい]] (Score: 20)
 - [[冗談が過ぎる]] (Score: 20)
-- [[情緒不安定]] (Score: 20)
-- [[無断で]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -136,11 +136,11 @@
 - [[さびを落とす]] (Score: 20)
 - [[役目を果たす]] (Score: 20)
 - [[楽にする]] (Score: 20)
+- [[気持ちを切り替える]] (Score: 20)
 - [[責任感が強い]] (Score: 20)
 - [[言葉づかいに気をつける]] (Score: 20)
 - [[開発に役立てる]] (Score: 15)
 - [[アンケートにお答えいただく]] (Score: 7)
-- [[用途に合わせる]] (Score: 2)
 
 ## 📚 Top Keigo
 
