@@ -3,13 +3,16 @@
 ## 🎯 Overall
 
 - Total Reviews: 59
-- Total Knowledge Items: 25
-- Correct: 15
-- Wrong: 12
-- Accuracy: 55.6%
+- Total Knowledge Items: 38
+- Correct: 25
+- Wrong: 15
+- Accuracy: 62.5%
 
 ## 🚨 Review Queue
 
+- [[- Vocabulary: Tiền thanh toán hàng hóa/dịch vụ. Ngữ cảnh: Trả tiền taxi.]] | Score: 20 | Wrong: 1
+- [[- Vocabulary: Nguy hiểm/Loạn lạc. Ngữ cảnh: Khu vực nhiều bất lương nên nguy hiểm.]] | Score: 20 | Wrong: 1
+- [[- Compound Verb: V1: 見る (Nhìn) + V2: 込む (Vào trong). Nghĩa ghép: Nhìn thấu tương lai/Dự báo. Collocation: 見込みがある (Có triển vọng).]] | Score: 20 | Wrong: 1
 - [[見守る]] | Score: 20 | Wrong: 1
 - [[手を加える]] | Score: 20 | Wrong: 1
 - [[長期的に考える]] | Score: 20 | Wrong: 1
@@ -22,17 +25,17 @@
 - [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] | Score: 20 | Wrong: 1
 - [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] | Score: 20 | Wrong: 1
 - [[結局]] | Score: 12 | Wrong: 1
+- [[- Vocabulary: Cái lò/Nồi nấu lớn (nồi gang). Ngữ cảnh: Nấu cơm bằng nồi lớn.]] | Score: 7 | Wrong: 0
 - [[見直す]] | Score: 2 | Wrong: 0
 - [[徐々に]] | Score: 2 | Wrong: 0
 - [[用途に合わせる]] | Score: 2 | Wrong: 0
 - [[- Compound Verb: V1: 見る (Nhìn) + V2: 守る (Bảo vệ). Nghĩa: Dõi theo/Trông nom. Collocation: 子供を見守る.]] | Score: 2 | Wrong: 0
-- [[- Conjunction: Chức năng: Liệt kê thứ tự hành động tiếp theo. Sắc thái: Khách quan. Mẫu: A. それから B.]] | Score: 2 | Wrong: 0
-- [[行き来する]] | Score: 0 | Wrong: 0
-- [[そこで]] | Score: 0 | Wrong: 0
-- [[それによると]] | Score: 0 | Wrong: 0
 
 ## 🔥 Top Weak Points
 
+- [[- Vocabulary: Tiền thanh toán hàng hóa/dịch vụ. Ngữ cảnh: Trả tiền taxi.]] (Wrong: 1)
+- [[- Vocabulary: Nguy hiểm/Loạn lạc. Ngữ cảnh: Khu vực nhiều bất lương nên nguy hiểm.]] (Wrong: 1)
+- [[- Compound Verb: V1: 見る (Nhìn) + V2: 込む (Vào trong). Nghĩa ghép: Nhìn thấu tương lai/Dự báo. Collocation: 見込みがある (Có triển vọng).]] (Wrong: 1)
 - [[見守る]] (Wrong: 1)
 - [[結局]] (Wrong: 1)
 - [[手を加える]] (Wrong: 1)
@@ -45,22 +48,19 @@
 - [[- Conjunction: Chức năng: Dẫn dắt giải pháp dựa trên vấn đề. Sắc thái: Do đó/Vì vậy. Mẫu: [Vấn đề]. そこで [Giải pháp].]] (Wrong: 1)
 - [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] (Wrong: 1)
 - [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] (Wrong: 1)
-- [[見直す]] (Wrong: 0)
-- [[行き来する]] (Wrong: 0)
-- [[徐々に]] (Wrong: 0)
-- [[そこで]] (Wrong: 0)
-- [[それによると]] (Wrong: 0)
-- [[用途に合わせる]] (Wrong: 0)
-- [[様子を見る]] (Wrong: 0)
-- [[反対意見が出る]] (Wrong: 0)
+- [[代金]] (Wrong: 0)
+- [[- Vocabulary: Cùng đẳng cấp/địa vị. Không dùng cho giá cả hàng hóa.]] (Wrong: 0)
+- [[- Vocabulary: Trong ngày/Ban ngày. Ngữ cảnh: Lượng giao thông ban ngày đông.]] (Wrong: 0)
+- [[- Vocabulary: Bất chính/Gian lận. Ngữ cảnh: Nhận hối lộ bất chính.]] (Wrong: 0)
+- [[- Vocabulary: Trách nhiệm/Phận sự. Thường đi với con người và chức vụ.]] (Wrong: 0)
 
 ## 📈 Category Statistics
 
 - Conjunction: 100.0% (Correct 2 / Wrong 0)
 - Grammar: 100.0% (Correct 2 / Wrong 0)
-- Kanji: 50.0% (Correct 1 / Wrong 1)
+- Kanji: 66.7% (Correct 2 / Wrong 1)
 - Reading: 0.0% (Correct 0 / Wrong 1)
-- Vocabulary: 50.0% (Correct 10 / Wrong 10)
+- Vocabulary: 59.4% (Correct 19 / Wrong 13)
 
 ## 📚 Top Grammar
 
@@ -68,6 +68,9 @@
 
 ## 📚 Top Vocabulary
 
+- [[- Vocabulary: Tiền thanh toán hàng hóa/dịch vụ. Ngữ cảnh: Trả tiền taxi.]] (Score: 20)
+- [[- Vocabulary: Nguy hiểm/Loạn lạc. Ngữ cảnh: Khu vực nhiều bất lương nên nguy hiểm.]] (Score: 20)
+- [[- Compound Verb: V1: 見る (Nhìn) + V2: 込む (Vào trong). Nghĩa ghép: Nhìn thấu tương lai/Dự báo. Collocation: 見込みがある (Có triển vọng).]] (Score: 20)
 - [[見守る]] (Score: 20)
 - [[手を加える]] (Score: 20)
 - [[長期的に考える]] (Score: 20)
@@ -75,13 +78,11 @@
 - [[- Vocabulary: Bản thảo/bản viết tay. Ngữ cảnh: Nhờ tiền bối viết bản thảo lời nhắn.]] (Score: 20)
 - [[- Vocabulary: Giải nghệ. Ngữ cảnh: Vận động viên marathon quyết định giải nghệ.]] (Score: 20)
 - [[- Fixed Expression: Không câu nệ/Không quan trọng. Dùng để loại trừ các đáp án nhiễu.]] (Score: 20)
-- [[- Conjunction: Chức năng: Dẫn dắt giải pháp dựa trên vấn đề. Sắc thái: Do đó/Vì vậy. Mẫu: [Vấn đề]. そこで [Giải pháp].]] (Score: 20)
-- [[- Compound Verb: V1: 盛る (Xới/Đơm) + V2: 付ける (Gắn vào). Nghĩa: Bày biện thức ăn lên đĩa. Collocation: サラダを皿に盛り付ける.]] (Score: 20)
-- [[- Collocation: Nhờ vả/Yêu cầu (trang trọng). Ngữ cảnh: Nhờ chuyên gia hoặc cấp trên làm việc gì đó.]] (Score: 20)
 
 ## 📚 Top Kanji
 
 - [[結局]] (Score: 12)
+- [[代金]] (Score: 0)
 - [[署名]] (Score: 0)
 
 ## 📚 Top Reading
