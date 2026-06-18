@@ -1,38 +1,18 @@
-Phân tích bài làm tiếng Nhật và xuất Markdown cho Obsidian.  
+Phân tích bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian gồm:  
+Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.  
   
-Bắt buộc tạo:  
-Summary  
-Error Analysis  
-Knowledge Extracted  
-Learning Profile  
-Weak Points  
-Action Next  
+Knowledge Extracted bắt buộc chia section:  
+Vocabulary, Kanji, Grammar, Particle, Reading, Compound Verb, Adverb, Conjunction, Fixed Expression, Collocation, Keigo, Kenjougo.  
   
-Knowledge Extracted phải chia đúng section:  
+Mỗi dòng trong Knowledge Extracted chỉ chứa 1 kiến thức duy nhất, không thêm prefix category vào tên item.  
   
-## Vocabulary  
-## Kanji  
-## Grammar  
-## Particle  
-## Reading  
-## Compound Verb  
-## Adverb  
-## Conjunction  
-## Fixed Expression  
-## Collocation  
-## Keigo  
-## Kenjougo  
+Tạo Learning Profile cho toàn bộ item trong Knowledge Extracted, không gộp hoặc bỏ sót.  
   
-Mỗi dòng chỉ chứa 1 kiến thức.  
-  
-Learning Profile phải tạo cho tất cả item trong Knowledge Extracted.  
-Không được gộp.  
-  
-Format bắt buộc:  
+Mỗi Learning Profile giữ format parse tự động:  
 Correct +N  
 Wrong +N  
 Last Seen YYYY-MM-DD  
 Mastery  
 Priority  
   
-Không thêm prefix category vào tên item vì folder đã quyết định loại dữ liệu.
+Compound Verb / Fixed Expression / Collocation ghi kèm nghĩa, cách dùng, ví dụ ngắn; ưu tiên dữ liệu có cấu trúc.
