@@ -11,13 +11,17 @@ from parser import (
     parse_review_file
 )
 
+
+
 from profile_generator import (
     generate_profiles
 )
 
+
 from dashboard_generator import (
     generate_dashboard
 )
+
 
 
 def main():
@@ -101,6 +105,7 @@ def main():
     )
 
     print("Done")
+
 
 
 if __name__ == "__main__":

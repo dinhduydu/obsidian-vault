@@ -11,5 +11,8 @@ PROFILE_FOLDERS = [
     "Grammar",
     "Kanji",
     "Reading",
-    "Topics"
+    "Topics",
+    "CompoundVerb",
+    "Adverb",
+    "Conjunction",
 ]

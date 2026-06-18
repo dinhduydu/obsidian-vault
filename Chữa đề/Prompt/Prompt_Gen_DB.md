@@ -1,6 +1,8 @@
-Phân tích bài làm tiếng Nhật dựa trên câu hỏi, đáp án đúng, đáp án đã chọn và lịch sử học tập. Xuất Markdown thuần cho Obsidian, ngắn gọn, đọc trong 30–60 giây. Bao gồm: Summary (tổng câu, đúng, sai, tỷ lệ đúng, tối đa 5 điểm yếu quan trọng), Error Analysis cho từng câu sai (ngữ cảnh gốc, đáp án chọn, đáp án đúng, lý do sai, dấu hiệu nhận biết, ví dụ tương tự), Knowledge Extracted (Vocabulary, Kanji, Reading, Grammar, Particle, Fixed Expression, Compound Verb, Adverb, Conjunction, Reading Comprehension) kèm nghĩa và ngữ cảnh.
+Phân tích bài làm tiếng Nhật dựa trên câu hỏi, đáp án đúng, đáp án đã chọn và lịch sử học tập. Xuất Markdown thuần cho Obsidian, ngắn gọn, đọc trong 30–60 giây. Bao gồm: Summary, Error Analysis cho từng câu sai (ngữ cảnh, đáp án chọn, đáp án đúng, lý do sai, dấu hiệu nhận biết, ví dụ tương tự), Weak Points (tối đa 10 mục) và Action Next ưu tiên lỗi lặp lại, JLPT trọng điểm và bẫy dễ nhầm.
 
-Cập nhật Learning Profile cho từng kiến thức: Correct +N, Wrong +N, Last Seen, Mastery Level, Review Priority. Tạo Weak Points (tối đa 10 mục) và Action Next ưu tiên lỗi lặp lại, JLPT trọng điểm và bẫy dễ nhầm. Với Compound Verb phải tách V1 + V2, giải thích nghĩa ghép, cụm thường dùng, phó từ và liên từ thường đi kèm; với Adverb và Conjunction phải ghi rõ sắc thái, vai trò, mẫu đi kèm và collocation phổ biến.
+Bắt buộc tạo mục **Knowledge Extracted** và liệt kê MỖI kiến thức trên một dòng riêng, không gộp nhóm, gồm: Vocabulary, Kanji, Grammar, Particle, Reading, Fixed Expression, Compound Verb, Adverb, Conjunction, Reading Comprehension. Ví dụ: 思い出す, きっぱり, すると, ふと思い出す phải là các mục riêng biệt.
 
-Luôn trích xuất Fixed Expressions/Collocations (ví dụ: ふと思い出す, きっぱり断る, しっかり確認する) để có thể tái sử dụng cho CompoundVerb_DB, Adverb_DB, Conjunction_DB, Collocation_DB và Dashboard. Dùng cấu trúc # / ## / ###, in đậm thông tin quan trọng, có thể dùng 🔴🟠🟢, không dùng bảng hoặc HTML.
-Ưu tiên trích xuất dữ liệu có cấu trúc hơn là giải thích dài dòng.
+Với MỖI kiến thức trong Knowledge Extracted, bắt buộc tạo một mục Learning Profile riêng theo format hiện có gồm: Correct +N, Wrong +N, Last Seen, Mastery Level, Review Priority. Compound Verb phải tách nghĩa và động từ thường đi kèm; Adverb và Conjunction phải ghi sắc thái, vai trò và collocation phổ biến; luôn trích xuất Fixed Expressions/Collocations để tái sử dụng cho Dashboard và các database sau này.
+
+Dùng cấu trúc # / ## / ###, in đậm thông tin quan trọng, có thể dùng 🔴🟠🟢, không dùng bảng hoặc HTML. Ưu tiên dữ liệu có cấu trúc hơn là giải thích dài dòng.
+

@@ -2,7 +2,7 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 55
+- Total Reviews: 59
 - Total Knowledge Items: 136
 - Correct: 102
 - Wrong: 172
@@ -58,8 +58,8 @@
 
 - Grammar: 46.2% (Correct 66 / Wrong 77)
 - Reading: 33.3% (Correct 6 / Wrong 12)
-- Topics: 23.5% (Correct 8 / Wrong 26)
-- Vocabulary: 27.8% (Correct 22 / Wrong 57)
+- Topics: 18.5% (Correct 5 / Wrong 22)
+- Vocabulary: 29.1% (Correct 25 / Wrong 61)
 
 ## 📚 Top Grammar
 
@@ -76,6 +76,7 @@
 
 ## 📚 Top Vocabulary
 
+- [[Cụm từ cố định N2 (Fixed Expressions)]] (Score: 20)
 - [[Khiêm nhường ngữ (Kenjougo)]] (Score: 15)
 - [[Cấu trúc Phủ định kép (Double Negatives)]] (Score: 15)
 - [[Cụm từ ghép nhấn mạnh]] (Score: 10)
@@ -85,7 +86,6 @@
 - [[本分 (Bổn phận - Nhiệm vụ chính)]] (Score: 10)
 - [[Phó từ đi kèm phủ định (Adverbs with Negatives)]] (Score: 5)
 - [[仲よくする (Quan hệ tốt/Hòa thuận)]] (Score: 5)
-- [[別れる (Chia tay/Độc lập)]] (Score: 5)
 
 ## 📚 Top Kanji
 
@@ -107,6 +107,10 @@
 - [[6. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 5 (P6)]]
 - [[7. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P6)]]
 - [[5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1)]]
+- [[1.Phân Tích BÀI LÀM N2 NGHE HIỂU - THÁNG 12 2025]]
+- [[2. Phân Tích BÀI LÀM N2_NGÀY 3_ÔN TẬP TIỀN TỐ, HẬU TỐ (P1)]]
+- [[4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP]]
+- [[2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF)]]
 - [[1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1)]]
 - [[2. Phân Tích Kết Quả N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
@@ -116,7 +120,3 @@
 - [[4. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 47)]]
 - [[5. Phân Tích Bài Làm N2_TỔNG ÔN TỪ VỰNG BÀI 6 (P5)]]
 - [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGỮ PHÁP (P51.1)]]
-- [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 19]]
-- [[2. Phân Tích Kết Quả N2_NGHE HIỂU_問題2]]
-- [[1. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 6]]
-- [[2. Phân Tích Bài Làm N2_NGHE NGỮ PHÁP_TEST 7]]

@@ -15,3 +15,4 @@ reload
 [N2] Update prefix subfix
 [N2] Correcting exercises by using tool
 [N2] Update name file
+[N2] Update tool and DB

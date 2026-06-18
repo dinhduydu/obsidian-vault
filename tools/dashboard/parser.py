@@ -92,3 +92,4 @@ def parse_review_file(
         items.append(item)
 
     return items
+

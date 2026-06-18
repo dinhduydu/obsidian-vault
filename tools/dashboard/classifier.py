@@ -64,10 +64,70 @@ TOPIC_HINTS = [
     "Hậu tố",
     "Prefix",
     "Suffix",
-    "Từ vựng Katakana",
-    "Cụm từ cố định",
-    "Fixed Expression",
 ]
+
+
+# =========================
+# Adverb
+# =========================
+
+ADVERB_HINTS = [
+    "きっぱり",
+    "しっかり",
+    "かなり",
+    "ずいぶん",
+    "たびたび",
+    "しばしば",
+    "ふと",
+    "ぼんやり",
+    "あっさり",
+    "さっぱり",
+]
+
+
+# =========================
+# Conjunction
+# =========================
+
+CONJUNCTION_HINTS = [
+    "すると",
+    "しかし",
+    "ところが",
+    "そのため",
+    "つまり",
+    "それでも",
+    "したがって",
+    "そこで",
+]
+
+
+# =========================
+# Compound Verb
+# =========================
+
+COMPOUND_VERB_SUFFIXES = [
+    "出す",
+    "込む",
+    "切る",
+    "続ける",
+    "返す",
+    "直す",
+    "始める",
+    "終わる",
+    "合う",
+    "かける",
+]
+
+
+def is_compound_verb(word):
+
+    if len(word) < 4:
+        return False
+
+    return any(
+        word.endswith(suffix)
+        for suffix in COMPOUND_VERB_SUFFIXES
+    )
 
 
 def classify(name):
@@ -91,6 +151,27 @@ def classify(name):
 
         if hint.lower() in name.lower():
             return "Reading"
+
+    # =====================
+    # Adverb
+    # =====================
+
+    if name in ADVERB_HINTS:
+        return "Adverb"
+
+    # =====================
+    # Conjunction
+    # =====================
+
+    if name in CONJUNCTION_HINTS:
+        return "Conjunction"
+
+    # =====================
+    # Compound Verb
+    # =====================
+
+    if is_compound_verb(name):
+        return "CompoundVerb"
 
     # =====================
     # Topics
