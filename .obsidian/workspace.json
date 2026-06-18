@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 324.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -170,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7b09dd685ec86af",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
     "Chữa đề/Learning_Profile/Vocabulary/& Kiến thức liên quan.md",
     "Chữa đề/README.md.md",
