@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 315
-- Correct: 168
-- Wrong: 270
-- Accuracy: 38.4%
+- Total Knowledge Items: 344
+- Correct: 189
+- Wrong: 280
+- Accuracy: 40.3%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 300| Wrong: 57
+- [[]] | Vocabulary| Score: 280| Wrong: 53
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 57
+- [[]] (Vocabulary) Wrong: 53
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[事実確認]] (Reading) Wrong: 3
@@ -57,14 +57,14 @@
 ## 📈 Category Statistics
 
 - Collocation: 61.5% (Correct 16 / Wrong 10)
-- CompoundVerb: 38.8% (Correct 26 / Wrong 41)
-- FixedExpression: 52.0% (Correct 26 / Wrong 24)
-- Grammar: 33.3% (Correct 11 / Wrong 22)
-- Kanji: 71.4% (Correct 10 / Wrong 4)
+- CompoundVerb: 40.0% (Correct 28 / Wrong 42)
+- FixedExpression: 53.7% (Correct 29 / Wrong 25)
+- Grammar: 37.0% (Correct 17 / Wrong 29)
+- Kanji: 66.7% (Correct 10 / Wrong 5)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
-- Reading: 37.5% (Correct 3 / Wrong 5)
-- Vocabulary: 32.1% (Correct 75 / Wrong 159)
+- Reading: 40.0% (Correct 4 / Wrong 6)
+- Vocabulary: 34.7% (Correct 84 / Wrong 158)
 
 ## 📚 Top Grammar
 
@@ -77,11 +77,11 @@
 - [[〜にほかならない]] (Score: 20)
 - [[〜まいか]] (Score: 20)
 - [[〜ざるを得ない]] (Score: 20)
-- [[〜まい]] (Score: 20)
+- [[〜ばよかった]] (Score: 20)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 300)
+- [[]] (Score: 280)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -97,20 +97,22 @@
 - [[把握]] (Score: 20)
 - [[最高点]] (Score: 17)
 - [[説得]] (Score: 15)
+- [[姿]] (Score: 15)
 - [[響く]] (Score: 0)
 - [[誤解]] (Score: 0)
 - [[救出]] (Score: 0)
 - [[優先]] (Score: 0)
 - [[経験]] (Score: 0)
 - [[異文化]] (Score: 0)
-- [[温暖化]] (Score: 0)
 
 ## 📚 Top Reading
 
 - [[事実確認]] (Score: 27)
 - [[筆者の主張の把握]] (Score: 20)
 - [[文書の目的把握]] (Score: 20)
+- [[鍵となる語]] (Score: 20)
 - [[Synthesis (Commonality)]] (Score: 7)
+- [[言葉のクッション]] (Score: 0)
 
 ## 📚 Top CompoundVerb
 
