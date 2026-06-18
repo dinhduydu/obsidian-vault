@@ -3,10 +3,10 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 140
-- Correct: 93
-- Wrong: 163
-- Accuracy: 36.3%
+- Total Knowledge Items: 204
+- Correct: 124
+- Wrong: 196
+- Accuracy: 38.8%
 
 ## 🚨 Review Queue
 
@@ -56,15 +56,15 @@
 
 ## 📈 Category Statistics
 
-- Collocation: 58.8% (Correct 10 / Wrong 7)
-- CompoundVerb: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 30.0% (Correct 3 / Wrong 7)
+- Collocation: 59.1% (Correct 13 / Wrong 9)
+- CompoundVerb: 45.8% (Correct 11 / Wrong 13)
+- FixedExpression: 61.8% (Correct 21 / Wrong 13)
 - Grammar: 100.0% (Correct 2 / Wrong 0)
-- Kanji: 42.9% (Correct 3 / Wrong 4)
+- Kanji: 66.7% (Correct 8 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 3)
 - Reading: 0.0% (Correct 0 / Wrong 2)
-- Vocabulary: 34.3% (Correct 68 / Wrong 130)
+- Vocabulary: 31.1% (Correct 68 / Wrong 151)
 
 ## 📚 Top Grammar
 
@@ -92,6 +92,10 @@
 - [[響く]] (Score: 0)
 - [[誤解]] (Score: 0)
 - [[救出]] (Score: 0)
+- [[異文化]] (Score: 0)
+- [[温暖化]] (Score: 0)
+- [[合格率]] (Score: 0)
+- [[経済界]] (Score: 0)
 
 ## 📚 Top Reading
 
@@ -106,22 +110,23 @@
 - [[掘り下げる]] (Score: 20)
 - [[使い心地]] (Score: 20)
 - [[役立てたい]] (Score: 20)
-- [[見守る]] (Score: 20)
-- [[見直す]] (Score: 7)
-- [[引き出す]] (Score: 0)
-- [[生み出す]] (Score: 0)
+- [[近づく]] (Score: 20)
+- [[長引く]] (Score: 20)
+- [[近寄る]] (Score: 20)
+- [[ひと休み]] (Score: 20)
 
 ## 📚 Top FixedExpression
 
 - [[力を入れてまいりました]] (Score: 20)
+- [[逆効果]] (Score: 20)
+- [[ひとりごと]] (Score: 20)
+- [[初日の出]] (Score: 20)
+- [[明け方]] (Score: 20)
+- [[かん違い]] (Score: 20)
+- [[面倒くさい]] (Score: 20)
 - [[手を加えて]] (Score: 20)
 - [[長期的に考える]] (Score: 20)
 - [[逮捕された]] (Score: 17)
-- [[広く伺う]] (Score: 15)
-- [[思考を整理する]] (Score: 12)
-- [[心に響く]] (Score: 0)
-- [[余計な事を言う]] (Score: 0)
-- [[賄賂を受け取る]] (Score: 0)
 
 ## 📚 Top Collocation
 
@@ -130,11 +135,11 @@
 - [[さびを落とす]] (Score: 20)
 - [[役目を果たす]] (Score: 20)
 - [[楽にする]] (Score: 20)
+- [[責任感が強い]] (Score: 20)
+- [[言葉づかいに気をつける]] (Score: 20)
 - [[開発に役立てる]] (Score: 15)
 - [[アンケートにお答えいただく]] (Score: 7)
 - [[用途に合わせる]] (Score: 2)
-- [[習慣がある]] (Score: 0)
-- [[さび को 落とす]] (Score: 0)
 
 ## 📚 Top Keigo
 

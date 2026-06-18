@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6).md",
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week3/17062026/2. Phân Tích BÀI LÀM N2_NGÀY 3_ÔN TẬP TIỀN TỐ, HẬU TỐ (P1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)"
+              "title": "2. Phân Tích BÀI LÀM N2_NGÀY 3_ÔN TẬP TIỀN TỐ, HẬU TỐ (P1)"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,34 +255,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a8fd991d3130b8",
+  "active": "59e0e8a8a88c3399",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Vocabulary/すきとおる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/ずうずうしい.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/16062026/5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1).md",
-    "Chữa đề/Learning_Profile/Vocabulary/しゃがむ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/さび.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6).md",
-    "Chữa đề/Learning_Profile/Vocabulary/サイレン.md",
-    "Chữa đề/Learning_Profile/Vocabulary/サークル.md",
-    "Chữa đề/Learning_Profile/Vocabulary/コンセント.md",
-    "Chữa đề/Learning_Profile/Vocabulary/コンクリート.md",
-    "Chữa đề/Learning_Profile/Vocabulary/コレクション.md",
-    "Chữa đề/Learning_Profile/Vocabulary/こっそり.md",
-    "Chữa đề/Learning_Profile/Vocabulary/コーチ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/くせ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/ギャング.md",
-    "Chữa đề/Learning_Profile/Vocabulary/キャパシティ (Capacity - Khả năng chứa_Năng lực).md",
-    "Chữa đề/Learning_Profile/Vocabulary/かま.md",
-    "Chữa đề/Learning_Profile/Vocabulary/かかわる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/かおり.md",
-    "Chữa đề/Learning_Profile/Vocabulary/カーブ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/おくらせる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/おおざっぱに.md",
-    "Chữa đề/Learning_Profile/Vocabulary/オーケストラ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/イメージ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/アナウンサー.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6).md",
+    "Chữa đề/Learning_Profile/Collocation/言葉づかいに気をつける.md",
+    "Chữa đề/Learning_Profile/Collocation/日当たりがいい.md",
+    "Chữa đề/Learning_Profile/Collocation/売り上げが減っている.md",
+    "Chữa đề/Learning_Profile/Collocation/仲直りできた.md",
+    "Chữa đề/Learning_Profile/Collocation/責任感が強い.md",
+    "Chữa đề/Learning_Profile/FixedExpression/力強い.md",
+    "Chữa đề/Learning_Profile/FixedExpression/面倒くさい.md",
+    "Chữa đề/Learning_Profile/FixedExpression/かん違い.md",
+    "Chữa đề/Learning_Profile/FixedExpression/日本海側.md",
+    "Chữa đề/Learning_Profile/FixedExpression/南向き.md",
+    "Chữa đề/Learning_Profile/FixedExpression/日本一.md",
+    "Chữa đề/Learning_Profile/FixedExpression/明け方.md",
+    "Chữa đề/Learning_Profile/FixedExpression/初日の出.md",
+    "Chữa đề/Learning_Profile/FixedExpression/ひとりごと.md",
+    "Chữa đề/Learning_Profile/FixedExpression/心当たり.md",
+    "Chữa đề/Learning_Profile/FixedExpression/風邪気味.md",
+    "Chữa đề/Learning_Profile/FixedExpression/予想外.md",
+    "Chữa đề/Learning_Profile/FixedExpression/充電式.md",
+    "Chữa đề/Learning_Profile/FixedExpression/自主性.md",
+    "Chữa đề/Learning_Profile/FixedExpression/消極的.md",
+    "Chữa đề/Learning_Profile/FixedExpression/新製品.md",
+    "Chữa đề/Learning_Profile/FixedExpression/逆効果.md",
+    "Chữa đề/Learning_Profile/FixedExpression/非常識.md",
+    "Chữa đề/Learning_Profile/FixedExpression/未発達.md",
+    "Chữa đề/Learning_Profile/FixedExpression/不規則.md",
+    "Chữa đề/Learning_Profile/FixedExpression/準決勝.md",
     "N2文法/助詞/から.canvas",
     "N2文法/助詞/こそ.canvas",
     "N2文法/一方・上・限り・つもり・他/上.canvas",
