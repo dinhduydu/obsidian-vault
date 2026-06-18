@@ -3,6 +3,7 @@ import re
 from models import KnowledgeItem
 from classifier import classify
 
+
 def normalize_text(text):
 
     return (
@@ -14,23 +15,24 @@ def normalize_text(text):
         .strip()
     )
 
-ITEM_PATTERN = re.compile(
+
+PROFILE_PATTERN = re.compile(
     r"""
-    ^\d+\.\s*(.*?)\n
-    .*?
-    Profile.*?
-    Correct\s*\+?(\d+)
-    .*?
-    Wrong\s*\+?(\d+)
-    .*?
-    Last\s*Seen:\s*([0-9/]+)
-    .*?
+    -\s*
+    \*\*(.*?)\*\*
+    \s*:\s*
+    Correct\s*(\d+)
+    \s*,\s*
+    Wrong\s*(\d+)
+    \s*,\s*
+    Last\s*Seen:\s*([0-9\-]+)
+    \s*,\s*
     Mastery:\s*(.*?)
-    .*?
+    \s*,\s*
     Priority:\s*(.*?)
+    $
     """,
     re.MULTILINE
-    | re.DOTALL
     | re.VERBOSE
 )
 
@@ -47,7 +49,13 @@ def parse_review_file(
 
     items = []
 
-    matches = ITEM_PATTERN.findall(text)
+    matches = PROFILE_PATTERN.findall(
+        text
+    )
+
+    print(
+        f"{file_path.stem}: {len(matches)} items"
+    )
 
     for match in matches:
 
@@ -77,7 +85,6 @@ def parse_review_file(
             mastery=normalize_text(
                 mastery
             ),
-
             priority=normalize_text(
                 priority
             )
@@ -92,4 +99,3 @@ def parse_review_file(
         items.append(item)
 
     return items
-

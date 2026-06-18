@@ -3,100 +3,85 @@
 ## 🎯 Overall
 
 - Total Reviews: 59
-- Total Knowledge Items: 136
-- Correct: 102
-- Wrong: 172
-- Accuracy: 37.2%
+- Total Knowledge Items: 23
+- Correct: 3
+- Wrong: 20
+- Accuracy: 13.0%
 
 ## 🚨 Review Queue
 
-- [[Tiền tố & Hậu tố Hán tự (Prefix/Suffix)]] | Score: 40 | Wrong: 8
-- [[Kính ngữ đặc biệt (S-K Levels)]] | Score: 30 | Wrong: 6
-- [[Kỹ năng so sánh đối chiếu (Comparison)]] | Score: 25 | Wrong: 5
-- [[Cụm từ cố định N2 (Fixed Expressions)]] | Score: 20 | Wrong: 4
-- [[Tôn kính ngữ đặc biệt (Sonkeigo)]] | Score: 15 | Wrong: 3
-- [[Khiêm nhường ngữ (Kenjougo)]] | Score: 15 | Wrong: 3
-- [[Cấu trúc 〜ていただく (Nhận ơn)]] | Score: 15 | Wrong: 3
-- [[Phân tích tư thế/lập trường (Stance Analysis)]] | Score: 15 | Wrong: 3
-- [[〜にしては (Xét về/Dù là...)]] | Score: 15 | Wrong: 3
-- [[〜にかけては (Xét về mặt...)]] | Score: 15 | Wrong: 3
-- [[Cấu trúc Phủ định kép (Double Negatives)]] | Score: 15 | Wrong: 3
-- [[Kính ngữ phản xạ (Keigo Reflex)]] | Score: 10 | Wrong: 2
-- [[Cụm từ ghép nhấn mạnh]] | Score: 10 | Wrong: 2
-- [[Từ vựng Katakana chuyên dụng]] | Score: 10 | Wrong: 2
-- [[Quy tắc O/Go + V + ni naru]] | Score: 10 | Wrong: 2
-- [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] | Score: 10 | Wrong: 2
-- [[〜に違いない (Chắc chắn là)]] | Score: 10 | Wrong: 2
-- [[〜向き (Thích hợp cho...)]] | Score: 10 | Wrong: 2
-- [[〜からして (Căn cứ vào/Nhìn từ)]] | Score: 10 | Wrong: 2
-- [[〜による (Do/Bởi)]] | Score: 10 | Wrong: 2
+- [[言い合う]] | Score: 20 | Wrong: 1
+- [[生み出す]] | Score: 20 | Wrong: 1
+- [[引き上げる]] | Score: 20 | Wrong: 1
+- [[見守る]] | Score: 20 | Wrong: 1
+- [[ひっくり返す]] | Score: 20 | Wrong: 1
+- [[差し引く]] | Score: 20 | Wrong: 1
+- [[見分ける]] | Score: 20 | Wrong: 1
+- [[取り掛かる]] | Score: 20 | Wrong: 1
+- [[申し出る]] | Score: 20 | Wrong: 1
+- [[落ち込む]] | Score: 20 | Wrong: 1
+- [[見下ろす]] | Score: 15 | Wrong: 1
+- [[見違える]] | Score: 15 | Wrong: 1
+- [[ぶら下がる]] | Score: 15 | Wrong: 1
+- [[ことづける]] | Score: 15 | Wrong: 1
+- [[おくらせる]] | Score: 15 | Wrong: 1
+- [[無断で持ち出す]] | Score: 15 | Wrong: 1
+- [[冗談が過ぎる]] | Score: 10 | Wrong: 1
+- [[本物と偽者]] | Score: 10 | Wrong: 1
+- [[情緒不安定]] | Score: 10 | Wrong: 1
+- [[消化のいい]] | Score: 10 | Wrong: 1
 
 ## 🔥 Top Weak Points
 
-- [[Tiền tố & Hậu tố Hán tự (Prefix/Suffix)]] (Wrong: 8)
-- [[Kính ngữ đặc biệt (S-K Levels)]] (Wrong: 6)
-- [[Kỹ năng so sánh đối chiếu (Comparison)]] (Wrong: 5)
-- [[Cụm từ cố định N2 (Fixed Expressions)]] (Wrong: 4)
-- [[Tôn kính ngữ đặc biệt (Sonkeigo)]] (Wrong: 3)
-- [[Khiêm nhường ngữ (Kenjougo)]] (Wrong: 3)
-- [[Cấu trúc 〜ていただく (Nhận ơn)]] (Wrong: 3)
-- [[Phân tích tư thế/lập trường (Stance Analysis)]] (Wrong: 3)
-- [[〜にしては (Xét về/Dù là...)]] (Wrong: 3)
-- [[〜にかけては (Xét về mặt...)]] (Wrong: 3)
-- [[Cấu trúc Phủ định kép (Double Negatives)]] (Wrong: 3)
-- [[Kính ngữ phản xạ (Keigo Reflex)]] (Wrong: 2)
-- [[Cụm từ ghép nhấn mạnh]] (Wrong: 2)
-- [[Từ vựng Katakana chuyên dụng]] (Wrong: 2)
-- [[Quy tắc O/Go + V + ni naru]] (Wrong: 2)
-- [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] (Wrong: 2)
-- [[〜に違いない (Chắc chắn là)]] (Wrong: 2)
-- [[〜向き (Thích hợp cho...)]] (Wrong: 2)
-- [[〜からして (Căn cứ vào/Nhìn từ)]] (Wrong: 2)
-- [[〜による (Do/Bởi)]] (Wrong: 2)
+- [[言い合う]] (Wrong: 1)
+- [[生み出す]] (Wrong: 1)
+- [[引き上げる]] (Wrong: 1)
+- [[見守る]] (Wrong: 1)
+- [[ひっくり返す]] (Wrong: 1)
+- [[差し引く]] (Wrong: 1)
+- [[見分ける]] (Wrong: 1)
+- [[取り掛かる]] (Wrong: 1)
+- [[申し出る]] (Wrong: 1)
+- [[落ち込む]] (Wrong: 1)
+- [[見下ろす]] (Wrong: 1)
+- [[見違える]] (Wrong: 1)
+- [[ぶら下がる]] (Wrong: 1)
+- [[ことづける]] (Wrong: 1)
+- [[おくらせる]] (Wrong: 1)
+- [[無断で持ち出す]] (Wrong: 1)
+- [[冗談が過ぎる]] (Wrong: 1)
+- [[本物と偽者]] (Wrong: 1)
+- [[情緒不安定]] (Wrong: 1)
+- [[消化のいい]] (Wrong: 1)
 
 ## 📈 Category Statistics
 
-- Grammar: 46.2% (Correct 66 / Wrong 77)
-- Reading: 33.3% (Correct 6 / Wrong 12)
-- Topics: 18.5% (Correct 5 / Wrong 22)
-- Vocabulary: 29.1% (Correct 25 / Wrong 61)
+- CompoundVerb: 0.0% (Correct 0 / Wrong 5)
+- Grammar: 0.0% (Correct 0 / Wrong 1)
+- Vocabulary: 17.6% (Correct 3 / Wrong 14)
 
 ## 📚 Top Grammar
 
-- [[Cấu trúc 〜ていただく (Nhận ơn)]] (Score: 15)
-- [[〜にしては (Xét về/Dù là...)]] (Score: 15)
-- [[〜にかけては (Xét về mặt...)]] (Score: 15)
-- [[〜に違いない (Chắc chắn là)]] (Score: 10)
-- [[〜向き (Thích hợp cho...)]] (Score: 10)
-- [[〜からして (Căn cứ vào/Nhìn từ)]] (Score: 10)
-- [[〜による (Do/Bởi)]] (Score: 10)
-- [[〜に従って (Theo như/Cùng với)]] (Score: 10)
-- [[〜しかない / 〜しかあるまい (Chỉ còn cách)]] (Score: 10)
-- [[〜まい (V-masu + まい)]] (Score: 10)
+- [[ことづける]] (Score: 15)
 
 ## 📚 Top Vocabulary
 
-- [[Cụm từ cố định N2 (Fixed Expressions)]] (Score: 20)
-- [[Khiêm nhường ngữ (Kenjougo)]] (Score: 15)
-- [[Cấu trúc Phủ định kép (Double Negatives)]] (Score: 15)
-- [[Cụm từ ghép nhấn mạnh]] (Score: 10)
-- [[Quy tắc O/Go + V + ni naru]] (Score: 10)
-- [[Collocations (Kết hợp từ)]] (Score: 10)
-- [[Synonyms (Từ đồng nghĩa)]] (Score: 10)
-- [[本分 (Bổn phận - Nhiệm vụ chính)]] (Score: 10)
-- [[Phó từ đi kèm phủ định (Adverbs with Negatives)]] (Score: 5)
-- [[仲よくする (Quan hệ tốt/Hòa thuận)]] (Score: 5)
+- [[引き上げる]] (Score: 20)
+- [[見守る]] (Score: 20)
+- [[差し引く]] (Score: 20)
+- [[見分ける]] (Score: 20)
+- [[取り掛かる]] (Score: 20)
+- [[申し出る]] (Score: 20)
+- [[見下ろす]] (Score: 15)
+- [[見違える]] (Score: 15)
+- [[ぶら下がる]] (Score: 15)
+- [[おくらせる]] (Score: 15)
 
 ## 📚 Top Kanji
 
 
 ## 📚 Top Reading
 
-- [[Kỹ năng so sánh đối chiếu (Comparison)]] (Score: 25)
-- [[Phân tích tư thế/lập trường (Stance Analysis)]] (Score: 15)
-- [[Nghe hiểu chi tiết (Lý do/Nguyên nhân)]] (Score: 10)
-- [[Nghe hiểu lý do/nguyên nhân]] (Score: 5)
-- [[要点 (Yếu điểm - Ý chính)]] (Score: 5)
 
 ## 📅 Recent Reviews
 
