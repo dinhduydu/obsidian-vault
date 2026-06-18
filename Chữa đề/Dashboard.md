@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 72
-- Total Knowledge Items: 613
-- Correct: 355
-- Wrong: 431
-- Accuracy: 45.2%
+- Total Reviews: 75
+- Total Knowledge Items: 708
+- Correct: 420
+- Wrong: 482
+- Accuracy: 46.6%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 210| Wrong: 39
+- [[]] | Vocabulary| Score: 190| Wrong: 35
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 40| Wrong: 5
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 39
+- [[]] (Vocabulary) Wrong: 35
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 5
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
@@ -48,23 +48,23 @@
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
 - [[〜しかない]] (Grammar) Wrong: 3
 - [[筆者の考え]] (Reading) Wrong: 3
+- [[申し上げます]] (Kenjougo) Wrong: 2
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
 - [[オーケストラ]] (Vocabulary) Wrong: 2
 - [[カーブ]] (Vocabulary) Wrong: 2
-- [[ギャング]] (Vocabulary) Wrong: 2
 
 ## 📈 Category Statistics
 
-- Collocation: 55.8% (Correct 29 / Wrong 23)
-- CompoundVerb: 45.5% (Correct 45 / Wrong 54)
-- FixedExpression: 45.7% (Correct 42 / Wrong 50)
-- Grammar: 43.6% (Correct 58 / Wrong 75)
-- Kanji: 64.7% (Correct 33 / Wrong 18)
-- Keigo: 60.0% (Correct 3 / Wrong 2)
-- Kenjougo: 28.6% (Correct 2 / Wrong 5)
+- Collocation: 58.6% (Correct 34 / Wrong 24)
+- CompoundVerb: 45.2% (Correct 47 / Wrong 57)
+- FixedExpression: 43.3% (Correct 45 / Wrong 59)
+- Grammar: 47.3% (Correct 86 / Wrong 96)
+- Kanji: 63.1% (Correct 41 / Wrong 24)
+- Keigo: 75.0% (Correct 6 / Wrong 2)
+- Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.1% (Correct 13 / Wrong 23)
-- Vocabulary: 41.8% (Correct 130 / Wrong 181)
+- Vocabulary: 43.3% (Correct 146 / Wrong 191)
 
 ## 📚 Top Grammar
 
@@ -77,11 +77,11 @@
 - [[〜よりもずっと]] (Score: 25)
 - [[〜ばよかった]] (Score: 25)
 - [[〜ないことはない]] (Score: 25)
-- [[〜からといって]] (Score: 25)
+- [[〜につれて]] (Score: 25)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 210)
+- [[]] (Score: 190)
 - [[& Kiến thức liên quan]] (Score: 65)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -98,12 +98,12 @@
 - [[塩]] (Score: 20)
 - [[灯]] (Score: 20)
 - [[報]] (Score: 20)
+- [[非]] (Score: 20)
+- [[職]] (Score: 20)
+- [[下]] (Score: 20)
+- [[好]] (Score: 20)
+- [[試]] (Score: 20)
 - [[最高点]] (Score: 17)
-- [[説得]] (Score: 15)
-- [[勝敗]] (Score: 15)
-- [[価値]] (Score: 15)
-- [[姿]] (Score: 15)
-- [[実践]] (Score: 15)
 
 ## 📚 Top Reading
 
@@ -155,7 +155,7 @@
 - [[責任感が強い]] (Score: 20)
 - [[言葉づかいに気をつける]] (Score: 20)
 - [[気がする]] (Score: 20)
-- [[目を引く]] (Score: 20)
+- [[感情的な反応を示す]] (Score: 20)
 
 ## 📚 Top Keigo
 
@@ -164,14 +164,17 @@
 - [[お泊まりになる]] (Score: 7)
 - [[お越しくださいました]] (Score: 0)
 - [[おいでいただく]] (Score: 0)
+- [[教えていただけませんか]] (Score: 0)
+- [[ご連絡を差し上げる]] (Score: 0)
+- [[ご連絡させていただきます]] (Score: 0)
 
 ## 📚 Top Kenjougo
 
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
 - [[申し上げる]] (Score: 20)
+- [[申し上げます]] (Score: 12)
 - [[始めさせていただきます]] (Score: 12)
-- [[申し上げます]] (Score: 7)
 - [[かしこまる]] (Score: 0)
 - [[お越しをお待ちしております]] (Score: 0)
 
