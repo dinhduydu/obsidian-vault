@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 344
-- Correct: 189
-- Wrong: 280
-- Accuracy: 40.3%
+- Total Knowledge Items: 361
+- Correct: 196
+- Wrong: 291
+- Accuracy: 40.2%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 280| Wrong: 53
+- [[]] | Vocabulary| Score: 270| Wrong: 51
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
@@ -33,10 +33,11 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 53
+- [[]] (Vocabulary) Wrong: 51
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[事実確認]] (Reading) Wrong: 3
+- [[〜からこそ]] (Grammar) Wrong: 2
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
 - [[オーケストラ]] (Vocabulary) Wrong: 2
@@ -52,19 +53,18 @@
 - [[研修]] (Vocabulary) Wrong: 2
 - [[負担]] (Vocabulary) Wrong: 2
 - [[途切れる]] (Vocabulary) Wrong: 1
-- [[把握]] (Kanji) Wrong: 1
 
 ## 📈 Category Statistics
 
-- Collocation: 61.5% (Correct 16 / Wrong 10)
-- CompoundVerb: 40.0% (Correct 28 / Wrong 42)
-- FixedExpression: 53.7% (Correct 29 / Wrong 25)
-- Grammar: 37.0% (Correct 17 / Wrong 29)
+- Collocation: 59.3% (Correct 16 / Wrong 11)
+- CompoundVerb: 40.3% (Correct 29 / Wrong 43)
+- FixedExpression: 50.9% (Correct 29 / Wrong 28)
+- Grammar: 40.0% (Correct 22 / Wrong 33)
 - Kanji: 66.7% (Correct 10 / Wrong 5)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
 - Reading: 40.0% (Correct 4 / Wrong 6)
-- Vocabulary: 34.7% (Correct 84 / Wrong 158)
+- Vocabulary: 34.7% (Correct 85 / Wrong 160)
 
 ## 📚 Top Grammar
 
@@ -77,11 +77,11 @@
 - [[〜にほかならない]] (Score: 20)
 - [[〜まいか]] (Score: 20)
 - [[〜ざるを得ない]] (Score: 20)
-- [[〜ばよかった]] (Score: 20)
+- [[〜ないうちに]] (Score: 20)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 280)
+- [[]] (Score: 270)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
