@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 259
-- Correct: 145
-- Wrong: 230
+- Total Knowledge Items: 280
+- Correct: 153
+- Wrong: 242
 - Accuracy: 38.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 345| Wrong: 66
+- [[]] | Vocabulary| Score: 335| Wrong: 64
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 66
+- [[]] (Vocabulary) Wrong: 64
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
@@ -56,25 +56,32 @@
 
 ## 📈 Category Statistics
 
-- Collocation: 60.0% (Correct 15 / Wrong 10)
-- CompoundVerb: 40.7% (Correct 24 / Wrong 35)
-- FixedExpression: 53.7% (Correct 22 / Wrong 19)
-- Grammar: 66.7% (Correct 2 / Wrong 1)
+- Collocation: 61.5% (Correct 16 / Wrong 10)
+- CompoundVerb: 38.7% (Correct 24 / Wrong 38)
+- FixedExpression: 51.2% (Correct 22 / Wrong 21)
+- Grammar: 46.2% (Correct 6 / Wrong 7)
 - Kanji: 71.4% (Correct 10 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
-- Reading: 0.0% (Correct 0 / Wrong 2)
-- Vocabulary: 31.6% (Correct 71 / Wrong 154)
+- Reading: 33.3% (Correct 1 / Wrong 2)
+- Vocabulary: 32.0% (Correct 73 / Wrong 155)
 
 ## 📚 Top Grammar
 
 - [[〜〜からこそ]] (Score: 20)
+- [[〜ざるを得ない]] (Score: 20)
+- [[〜ところから]] (Score: 20)
+- [[〜てならない]] (Score: 20)
+- [[〜たいものだ]] (Score: 20)
+- [[〜か〜ないかのうちに]] (Score: 20)
+- [[〜ことだってできる]] (Score: 15)
 - [[〜からこそ]] (Score: 0)
 - [[〜得る]] (Score: 0)
+- [[〜ないではいられない]] (Score: 0)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 345)
+- [[]] (Score: 335)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -102,6 +109,7 @@
 
 - [[筆者の主張の把握]] (Score: 20)
 - [[文書の目的把握]] (Score: 20)
+- [[Synthesis (Commonality)]] (Score: 7)
 
 ## 📚 Top CompoundVerb
 
