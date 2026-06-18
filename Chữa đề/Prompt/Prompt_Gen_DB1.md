@@ -18,4 +18,4 @@ Learning Profile phải tạo cho 100% item đã xuất hiện ở Knowledge Ext
 - Priority:  
   
 CompoundVerb, FixedExpression, Collocation phải ghi thêm Meaning, Usage, Example.  
-Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật c
+Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật cụ thể.
