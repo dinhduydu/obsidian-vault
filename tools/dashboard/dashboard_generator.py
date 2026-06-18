@@ -4,7 +4,6 @@ from pathlib import Path
 
 from config import DASHBOARD_FILE
 
-from markdown_manager import update_markdown
 
 def extract_review_date(path):
 
@@ -23,8 +22,9 @@ def extract_review_date(path):
             except ValueError:
                 pass
 
-
     return datetime.min
+
+
 
 def top_by_category(
     knowledge,
@@ -33,9 +33,11 @@ def top_by_category(
 ):
 
     items = [
+
         x
         for x in knowledge.values()
         if x.category == category
+
     ]
 
     items.sort(
@@ -46,12 +48,18 @@ def top_by_category(
     return items[:limit]
 
 
+
 def generate_dashboard(
     knowledge,
     reviews
 ):
 
     lines = []
+
+
+    # =========================
+    # OVERALL
+    # =========================
 
     total_correct = sum(
         x.correct
@@ -68,6 +76,7 @@ def generate_dashboard(
         + total_wrong
     )
 
+
     accuracy = 0
 
     if total_answers:
@@ -79,15 +88,13 @@ def generate_dashboard(
             1
         )
 
+
     lines.append(
         "# 📊 Japanese Learning Dashboard"
     )
 
     lines.append("")
 
-    # =========================
-    # OVERALL
-    # =========================
 
     lines.append(
         "## 🎯 Overall"
@@ -115,17 +122,14 @@ def generate_dashboard(
         f"- Accuracy: {accuracy}%"
     )
 
+
     lines.append("")
+
+
 
     # =========================
     # REVIEW QUEUE
     # =========================
-
-    review_queue = sorted(
-        knowledge.values(),
-        key=lambda x: x.review_score,
-        reverse=True
-    )
 
     lines.append(
         "## 🚨 Review Queue"
@@ -133,19 +137,32 @@ def generate_dashboard(
 
     lines.append("")
 
-    for item in review_queue[:20]:
+
+    queue = sorted(
+        knowledge.values(),
+        key=lambda x: x.review_score,
+        reverse=True
+    )
+
+
+    for item in queue[:20]:
 
         lines.append(
-            f"- [[{item.name}]]"
-            f" | Score: {item.review_score}"
-            f" | Wrong: {item.wrong}"
+            f"- [[{item.name}]] "
+            f"| {item.category}"
+            f"| Score: {item.review_score}"
+            f"| Wrong: {item.wrong}"
         )
 
+
     lines.append("")
+
+
 
     # =========================
     # WEAK POINTS
     # =========================
+
 
     lines.append(
         "## 🔥 Top Weak Points"
@@ -153,41 +170,51 @@ def generate_dashboard(
 
     lines.append("")
 
-    weak_points = sorted(
+
+    weak = sorted(
         knowledge.values(),
         key=lambda x: x.wrong,
         reverse=True
     )
 
-    for item in weak_points[:20]:
+
+    for item in weak[:20]:
 
         lines.append(
             f"- [[{item.name}]] "
-            f"(Wrong: {item.wrong})"
+            f"({item.category}) "
+            f"Wrong: {item.wrong}"
         )
+
 
     lines.append("")
 
+
+
     # =========================
-    # CATEGORY STATS
+    # CATEGORY STATISTICS
     # =========================
 
-    category_stats = defaultdict(
-        lambda: {
-            "correct": 0,
-            "wrong": 0
+
+    stats = defaultdict(
+        lambda:
+        {
+            "correct":0,
+            "wrong":0
         }
     )
 
+
     for item in knowledge.values():
 
-        category_stats[
-            item.category
-        ]["correct"] += item.correct
+        stats[item.category]["correct"] += (
+            item.correct
+        )
 
-        category_stats[
-            item.category
-        ]["wrong"] += item.wrong
+        stats[item.category]["wrong"] += (
+            item.wrong
+        )
+
 
     lines.append(
         "## 📈 Category Statistics"
@@ -195,131 +222,111 @@ def generate_dashboard(
 
     lines.append("")
 
-    for category, stats in sorted(
-        category_stats.items()
+
+    for category, value in sorted(
+        stats.items()
     ):
 
         total = (
-            stats["correct"]
-            + stats["wrong"]
+            value["correct"]
+            +
+            value["wrong"]
         )
+
 
         acc = 0
 
         if total:
 
             acc = round(
-                stats["correct"]
-                / total
-                * 100,
+                value["correct"]
+                /
+                total
+                *
+                100,
                 1
             )
+
 
         lines.append(
             f"- {category}: "
             f"{acc}% "
-            f"(Correct {stats['correct']} / Wrong {stats['wrong']})"
+            f"(Correct {value['correct']} / "
+            f"Wrong {value['wrong']})"
         )
 
-    lines.append("")
-
-    # =========================
-    # GRAMMAR
-    # =========================
-
-    lines.append(
-        "## 📚 Top Grammar"
-    )
 
     lines.append("")
 
-    for item in top_by_category(
-        knowledge,
-        "Grammar"
-    ):
+
+
+    # =========================
+    # ALL CATEGORIES
+    # =========================
+
+
+    categories = [
+
+        "Grammar",
+        "Vocabulary",
+        "Kanji",
+        "Reading",
+        "Particle",
+        "CompoundVerb",
+        "FixedExpression",
+        "Collocation",
+        "Adverb",
+        "Conjunction",
+        "Keigo",
+        "Kenjougo",
+        "Topics",
+
+    ]
+
+
+    for category in categories:
+
+
+        items = top_by_category(
+            knowledge,
+            category
+        )
+
+
+        if not items:
+            continue
+
 
         lines.append(
-            f"- [[{item.name}]] "
-            f"(Score: {item.review_score})"
+            f"## 📚 Top {category}"
         )
 
-    lines.append("")
+        lines.append("")
 
-    # =========================
-    # VOCABULARY
-    # =========================
 
-    lines.append(
-        "## 📚 Top Vocabulary"
-    )
+        for item in items:
 
-    lines.append("")
+            lines.append(
+                f"- [[{item.name}]] "
+                f"(Score: {item.review_score})"
+            )
 
-    for item in top_by_category(
-        knowledge,
-        "Vocabulary"
-    ):
 
-        lines.append(
-            f"- [[{item.name}]] "
-            f"(Score: {item.review_score})"
-        )
+        lines.append("")
 
-    lines.append("")
 
-    # =========================
-    # KANJI
-    # =========================
-
-    lines.append(
-        "## 📚 Top Kanji"
-    )
-
-    lines.append("")
-
-    for item in top_by_category(
-        knowledge,
-        "Kanji"
-    ):
-
-        lines.append(
-            f"- [[{item.name}]] "
-            f"(Score: {item.review_score})"
-        )
-
-    lines.append("")
-
-    # =========================
-    # READING
-    # =========================
-
-    lines.append(
-        "## 📚 Top Reading"
-    )
-
-    lines.append("")
-
-    for item in top_by_category(
-        knowledge,
-        "Reading"
-    ):
-
-        lines.append(
-            f"- [[{item.name}]] "
-            f"(Score: {item.review_score})"
-        )
-
-    lines.append("")
 
     # =========================
     # RECENT REVIEWS
     # =========================
+
 
     lines.append(
         "## 📅 Recent Reviews"
     )
 
     lines.append("")
+
 
     sorted_reviews = sorted(
         reviews,
@@ -334,8 +341,8 @@ def generate_dashboard(
             f"- [[{review}]]"
         )
 
+
     DASHBOARD_FILE.write_text(
         "\n".join(lines),
         encoding="utf-8"
     )
-

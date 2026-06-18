@@ -7,12 +7,23 @@ PROFILE_ROOT = VAULT_ROOT / "Learning_Profile"
 DASHBOARD_FILE = VAULT_ROOT / "Dashboard.md"
 
 PROFILE_FOLDERS = [
+
     "Vocabulary",
-    "Grammar",
     "Kanji",
+
+    "Grammar",
+    "Particle",
+
     "Reading",
     "Topics",
+
     "CompoundVerb",
     "Adverb",
     "Conjunction",
+
+    "Collocation",
+    "FixedExpression",
+
+    "Keigo",
+    "Kenjougo",
 ]

@@ -1,7 +1,6 @@
 import re
 
 from models import KnowledgeItem
-from classifier import classify
 
 
 def normalize_text(text):
@@ -16,18 +15,22 @@ def normalize_text(text):
     )
 
 
+# =========================
+# Extract Learning Profile
+# =========================
+
 PROFILE_PATTERN = re.compile(
     r"""
-    ^([^\n]+)\n
+    ^([^\n]+)
     .*?
     Correct\s*\+?(\d+)
-    ,\s*
+    .*?
     Wrong\s*\+?(\d+)
-    ,\s*
+    .*?
     Last\s*Seen\s*([0-9\-]+)
-    ,\s*
+    .*?
     Mastery\s*(.*?)
-    ,\s*
+    .*?
     Priority\s*(.*?)
     $
     """,
@@ -35,6 +38,126 @@ PROFILE_PATTERN = re.compile(
     | re.DOTALL
     | re.VERBOSE
 )
+
+
+# =========================
+# Extract category map
+# =========================
+
+CATEGORY_PATTERN = re.compile(
+    r"""
+    ^##\s*(.+?)
+    \n
+    (.*?)
+    (?=
+        ^##|
+        \Z
+    )
+    """,
+    re.MULTILINE
+    | re.DOTALL
+)
+
+
+def extract_category_map(text):
+
+    category_map = {}
+
+    matches = CATEGORY_PATTERN.findall(
+        text
+    )
+
+    for category, block in matches:
+
+        category = (
+            category
+            .strip()
+            .replace(" ", "")
+        )
+
+        for line in block.splitlines():
+
+            line = line.strip()
+
+            if not line.startswith("-"):
+                continue
+
+            item = (
+                line[1:]
+                .strip()
+                .replace("**", "")
+                .replace("`", "")
+            )
+
+            if item:
+
+                category_map[item] = category
+
+
+    return category_map
+
+
+
+def normalize_category(category):
+
+    mapping = {
+
+        "CompoundVerb":
+            "CompoundVerb",
+
+        "Compound Verb":
+            "CompoundVerb",
+
+        "FixedExpression":
+            "FixedExpression",
+
+        "Fixed Expression":
+            "FixedExpression",
+
+        "ReadingComprehension":
+            "Reading",
+
+        "Reading Comprehension":
+            "Reading",
+
+        "Vocabulary":
+            "Vocabulary",
+
+        "Grammar":
+            "Grammar",
+
+        "Kanji":
+            "Kanji",
+
+        "Particle":
+            "Particle",
+
+        "Adverb":
+            "Adverb",
+
+        "Conjunction":
+            "Conjunction",
+
+        "Collocation":
+            "Collocation",
+
+        "Keigo":
+            "Keigo",
+
+        "Kenjougo":
+            "Kenjougo",
+
+        "Topics":
+            "Topics",
+    }
+
+
+    return mapping.get(
+        category,
+        category
+    )
+
+
 
 def parse_review_file(
     file_path,
@@ -46,19 +169,30 @@ def parse_review_file(
         errors="ignore"
     )
 
+
     if "Learning Profile" not in text:
+
         return []
+
+
+    category_map = (
+        extract_category_map(text)
+    )
+
 
     profile_text = text.split(
         "Learning Profile",
         1
     )[1]
 
+
     items = []
+
 
     matches = PROFILE_PATTERN.findall(
         profile_text
     )
+
 
     for match in matches:
 
@@ -71,31 +205,61 @@ def parse_review_file(
             priority
         ) = match
 
+
         name = (
             name
             .replace("**", "")
+            .replace("`", "")
             .strip()
         )
 
-        item = KnowledgeItem(
-            name=name,
-            category=classify(name),
-            correct=int(correct),
-            wrong=int(wrong),
-            mastery=mastery.strip(),
-            priority=priority.strip()
+
+        category = category_map.get(
+            name,
+            "Vocabulary"
         )
 
+
+        category = normalize_category(
+            category
+        )
+
+
+        item = KnowledgeItem(
+
+            name=name,
+
+            category=category,
+
+            correct=int(correct),
+
+            wrong=int(wrong),
+
+            mastery=normalize_text(
+                mastery
+            ),
+
+            priority=normalize_text(
+                priority
+            )
+        )
+
+
         item.last_seen = review_date
+
 
         item.reviews.add(
             file_path.stem
         )
 
+
         items.append(item)
+
+
 
     print(
         f"{file_path.stem}: {len(items)} items"
     )
+
 
     return items
