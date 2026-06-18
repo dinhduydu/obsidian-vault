@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week3/18062026/2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF).md",
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF)"
+              "title": "5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)"
             }
           },
           {
@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50"
             }
+          },
+          {
+            "id": "c70c78400fa0b349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/Learning_Profile/CompoundVerb/出しすぎ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "出しすぎ"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +213,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a150d27a6579896c",
+  "active": "36a8fd991d3130b8",
   "lastOpenFiles": [
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/5..md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/18062026/2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/出しすぎ.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/着脱させる.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/言い合う.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/見込み.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/見守る.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/見直す.md",
     "Chữa đề/Learning_Profile/Keigo/Quy tắc O_Go + V + ni naru.md",
     "Chữa đề/Learning_Profile/Kenjougo/Cấu trúc Cho_Nhận_Xin phép (Giving & Receiving).md",
     "Chữa đề/Learning_Profile/Kenjougo/Cấu trúc 〜ていただく (Nhận ơn).md",
@@ -217,16 +241,6 @@
     "Chữa đề/Learning_Profile/FixedExpression/広く伺う.md",
     "Chữa đề/Learning_Profile/FixedExpression/力を入れてまいりました.md",
     "Chữa đề/Learning_Profile/CompoundVerb/役立てたい.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/使い心地.md",
-    "Chữa đề/Learning_Profile/Reading/文書の目的把握.md",
-    "Chữa đề/Learning_Profile/Vocabulary/別紙.md",
-    "Chữa đề/Learning_Profile/Vocabulary/粗品.md",
-    "Chữa đề/Learning_Profile/Vocabulary/昨年度.md",
-    "Chữa đề/Learning_Profile/Collocation/思いをさらけ出す.md",
-    "Chữa đề/Learning_Profile/Collocation/解像度を上げる.md",
-    "Chữa đề/Learning_Profile/FixedExpression/思考を整理する.md",
-    "Chữa đề/Learning_Profile/FixedExpression/心に響く.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/掘り下げる.md",
     "N2文法/一方・上・限り・つもり・他/上.canvas",
     "tools/dashboard/migrate_markdown.py",
     "Chữa đề/Learning_Profile/Collocations",
