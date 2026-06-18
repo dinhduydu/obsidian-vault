@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 76
-- Correct: 62
-- Wrong: 129
-- Accuracy: 32.5%
+- Total Knowledge Items: 140
+- Correct: 93
+- Wrong: 163
+- Accuracy: 36.3%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 345| Wrong: 67
+- [[]] | Vocabulary| Score: 342| Wrong: 67
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
@@ -56,15 +56,15 @@
 
 ## 📈 Category Statistics
 
-- Collocation: 53.8% (Correct 7 / Wrong 6)
-- CompoundVerb: 35.7% (Correct 5 / Wrong 9)
+- Collocation: 58.8% (Correct 10 / Wrong 7)
+- CompoundVerb: 40.0% (Correct 6 / Wrong 9)
 - FixedExpression: 30.0% (Correct 3 / Wrong 7)
 - Grammar: 100.0% (Correct 2 / Wrong 0)
-- Kanji: 40.0% (Correct 2 / Wrong 3)
+- Kanji: 42.9% (Correct 3 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 3)
 - Reading: 0.0% (Correct 0 / Wrong 2)
-- Vocabulary: 30.0% (Correct 42 / Wrong 98)
+- Vocabulary: 34.3% (Correct 68 / Wrong 130)
 
 ## 📚 Top Grammar
 
@@ -73,7 +73,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 345)
+- [[]] (Score: 342)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
@@ -88,8 +88,10 @@
 
 - [[把握]] (Score: 20)
 - [[最高点]] (Score: 17)
+- [[説得]] (Score: 15)
 - [[響く]] (Score: 0)
 - [[誤解]] (Score: 0)
+- [[救出]] (Score: 0)
 
 ## 📚 Top Reading
 
@@ -127,12 +129,12 @@
 - [[思いをさらけ出す]] (Score: 20)
 - [[さびを落とす]] (Score: 20)
 - [[役目を果たす]] (Score: 20)
+- [[楽にする]] (Score: 20)
 - [[開発に役立てる]] (Score: 15)
 - [[アンケートにお答えいただく]] (Score: 7)
 - [[用途に合わせる]] (Score: 2)
 - [[習慣がある]] (Score: 0)
 - [[さび को 落とす]] (Score: 0)
-- [[代金を払う]] (Score: 0)
 
 ## 📚 Top Keigo
 
