@@ -3,16 +3,17 @@
 ## 🎯 Overall
 
 - Total Reviews: 58
-- Total Knowledge Items: 295
-- Correct: 156
-- Wrong: 251
-- Accuracy: 38.3%
+- Total Knowledge Items: 304
+- Correct: 159
+- Wrong: 264
+- Accuracy: 37.6%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 310| Wrong: 59
+- [[]] | Vocabulary| Score: 305| Wrong: 58
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 70| Wrong: 11
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
+- [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
 - [[オーケストラ]] | Vocabulary| Score: 25| Wrong: 2
@@ -20,22 +21,22 @@
 - [[ギャング]] | Vocabulary| Score: 25| Wrong: 2
 - [[着脱させる]] | CompoundVerb| Score: 25| Wrong: 2
 - [[出しすぎ]] | CompoundVerb| Score: 25| Wrong: 2
+- [[〜なくても]] | Grammar| Score: 25| Wrong: 2
+- [[〜よりもずっと]] | Grammar| Score: 25| Wrong: 2
+- [[研修]] | Vocabulary| Score: 25| Wrong: 2
 - [[途切れる]] | Vocabulary| Score: 20| Wrong: 1
 - [[把握]] | Kanji| Score: 20| Wrong: 1
 - [[筆者の主張の把握]] | Reading| Score: 20| Wrong: 1
 - [[置き換える]] | CompoundVerb| Score: 20| Wrong: 1
 - [[掘り下げる]] | CompoundVerb| Score: 20| Wrong: 1
 - [[解像度を上げる]] | Collocation| Score: 20| Wrong: 1
-- [[思いをさらけ出す]] | Collocation| Score: 20| Wrong: 1
-- [[文書の目的把握]] | Reading| Score: 20| Wrong: 1
-- [[使い心地]] | CompoundVerb| Score: 20| Wrong: 1
-- [[役立てたい]] | CompoundVerb| Score: 20| Wrong: 1
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 59
+- [[]] (Vocabulary) Wrong: 58
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 11
 - [[見守る]] (CompoundVerb) Wrong: 3
+- [[事実確認]] (Reading) Wrong: 3
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Vocabulary) Wrong: 2
 - [[オーケストラ]] (Vocabulary) Wrong: 2
@@ -46,28 +47,30 @@
 - [[出しすぎ]] (CompoundVerb) Wrong: 2
 - [[最高点]] (Kanji) Wrong: 2
 - [[逮捕された]] (FixedExpression) Wrong: 2
+- [[〜なくても]] (Grammar) Wrong: 2
+- [[〜よりもずっと]] (Grammar) Wrong: 2
+- [[研修]] (Vocabulary) Wrong: 2
 - [[途切れる]] (Vocabulary) Wrong: 1
 - [[把握]] (Kanji) Wrong: 1
 - [[〜からこそ]] (Grammar) Wrong: 1
-- [[筆者の主張の把握]] (Reading) Wrong: 1
-- [[引き出す]] (CompoundVerb) Wrong: 1
-- [[置き換える]] (CompoundVerb) Wrong: 1
-- [[掘り下げる]] (CompoundVerb) Wrong: 1
 
 ## 📈 Category Statistics
 
 - Collocation: 61.5% (Correct 16 / Wrong 10)
 - CompoundVerb: 36.9% (Correct 24 / Wrong 41)
-- FixedExpression: 51.1% (Correct 24 / Wrong 23)
-- Grammar: 38.1% (Correct 8 / Wrong 13)
+- FixedExpression: 50.0% (Correct 24 / Wrong 24)
+- Grammar: 30.8% (Correct 8 / Wrong 18)
 - Kanji: 71.4% (Correct 10 / Wrong 4)
 - Keigo: 50.0% (Correct 1 / Wrong 1)
 - Kenjougo: 0.0% (Correct 0 / Wrong 4)
-- Reading: 33.3% (Correct 1 / Wrong 2)
-- Vocabulary: 32.0% (Correct 72 / Wrong 153)
+- Reading: 37.5% (Correct 3 / Wrong 5)
+- Vocabulary: 31.7% (Correct 73 / Wrong 157)
 
 ## 📚 Top Grammar
 
+- [[〜なくても]] (Score: 25)
+- [[〜よりもずっと]] (Score: 25)
+- [[〜べき]] (Score: 20)
 - [[〜に違いない]] (Score: 20)
 - [[〜は当然のこと]] (Score: 20)
 - [[〜のではないだろうか]] (Score: 20)
@@ -75,22 +78,19 @@
 - [[〜まいか]] (Score: 20)
 - [[〜ざるを得ない]] (Score: 20)
 - [[〜ところから]] (Score: 20)
-- [[〜てならない]] (Score: 20)
-- [[〜たいものだ]] (Score: 20)
-- [[〜か〜ないかのうちに]] (Score: 20)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 310)
+- [[]] (Score: 305)
 - [[& Kiến thức liên quan]] (Score: 70)
 - [[とうげ]] (Score: 25)
 - [[ファスナー]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
+- [[研修]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
-- [[コレクション]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -107,6 +107,7 @@
 
 ## 📚 Top Reading
 
+- [[事実確認]] (Score: 27)
 - [[筆者の主張の把握]] (Score: 20)
 - [[文書の目的把握]] (Score: 20)
 - [[Synthesis (Commonality)]] (Score: 7)
