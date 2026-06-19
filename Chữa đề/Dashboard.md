@@ -3,15 +3,15 @@
 ## 🎯 Overall
 
 - Total Reviews: 77
-- Total Knowledge Items: 860
-- Correct: 521
-- Wrong: 604
-- Accuracy: 46.3%
+- Total Knowledge Items: 903
+- Correct: 528
+- Wrong: 646
+- Accuracy: 45.0%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 170| Wrong: 31
-- [[& Kiến thức liên quan]] | Vocabulary| Score: 65| Wrong: 10
+- [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 40| Wrong: 5
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
@@ -34,7 +34,7 @@
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 31
-- [[& Kiến thức liên quan]] (Vocabulary) Wrong: 10
+- [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜まい]] (Grammar) Wrong: 5
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
@@ -52,21 +52,21 @@
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
 - [[〜しかない]] (Grammar) Wrong: 3
 - [[筆者の考え]] (Reading) Wrong: 3
-- [[〜つつある]] (Grammar) Wrong: 3
+- [[相当]] (Vocabulary) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 51.1% (Correct 23 / Wrong 22)
-- Collocation: 57.1% (Correct 40 / Wrong 30)
-- CompoundVerb: 44.0% (Correct 51 / Wrong 65)
-- FixedExpression: 43.1% (Correct 50 / Wrong 66)
-- Grammar: 45.1% (Correct 114 / Wrong 139)
-- Kanji: 65.1% (Correct 54 / Wrong 29)
-- Katakana: 43.6% (Correct 17 / Wrong 22)
+- Adverb: 50.0% (Correct 23 / Wrong 23)
+- Collocation: 56.2% (Correct 41 / Wrong 32)
+- CompoundVerb: 43.6% (Correct 51 / Wrong 66)
+- FixedExpression: 40.8% (Correct 51 / Wrong 74)
+- Grammar: 44.7% (Correct 115 / Wrong 142)
+- Kanji: 60.0% (Correct 54 / Wrong 36)
+- Katakana: 42.5% (Correct 17 / Wrong 23)
 - Keigo: 80.0% (Correct 8 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.8% (Correct 14 / Wrong 24)
-- Vocabulary: 42.7% (Correct 148 / Wrong 199)
+- Vocabulary: 41.1% (Correct 152 / Wrong 218)
 
 ## 📚 Top Grammar
 
@@ -84,15 +84,15 @@
 ## 📚 Top Vocabulary
 
 - [[]] (Score: 170)
-- [[& Kiến thức liên quan]] (Score: 65)
+- [[& Kiến thức liên quan]] (Score: 55)
 - [[とうげ]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
+- [[相当]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
 - [[同格]] (Score: 20)
 - [[役目]] (Score: 20)
-- [[はずす]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -181,9 +181,9 @@
 - [[当分]] (Score: 20)
 - [[じかに]] (Score: 20)
 - [[ひとりでに]] (Score: 20)
+- [[やっと]] (Score: 20)
 - [[結局]] (Score: 17)
 - [[常々]] (Score: 15)
-- [[やっと]] (Score: 15)
 
 ## 📚 Top Keigo
 

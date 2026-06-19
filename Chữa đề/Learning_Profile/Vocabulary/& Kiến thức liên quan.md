@@ -4,15 +4,13 @@
 
 Category: Vocabulary
 Correct: 0
-Wrong: 10
+Wrong: 8
 Accuracy: 0.0%
 Mastery: **🔴 Low**, Priority: **🔴 High**.
 Priority: **🔴 High**.
 
 ## Related Reviews
 
-- [[1. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P3)]]
-- [[2. Phân Tích Kết Quả N2_CẶP TỪ DỄ NHẦM LẪN (P4)]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
 
 <!-- AUTO_END -->
