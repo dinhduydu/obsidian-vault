@@ -1,6 +1,6 @@
 <!-- AUTO_START -->
 
-# キャパシティ (Capacity - Khả năng chứa/Năng lực)
+# キャパシティ
 
 Category: Vocabulary
 Correct: 0
@@ -17,6 +17,6 @@ Priority:
 
 
 <!-- USER_START -->
-
+キャパシティ (Capacity - Khả năng chứa/Năng lực)
 
 <!-- USER_END -->
