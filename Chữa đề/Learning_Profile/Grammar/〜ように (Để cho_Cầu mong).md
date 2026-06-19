@@ -1,18 +1,17 @@
 <!-- AUTO_START -->
 
-# 〜からといって
+# 〜ように (Để cho/Cầu mong)
 
 Category: Grammar
-Correct: 0
-Wrong: 3
-Accuracy: 0.0%
-Mastery: Low
-Priority: 🔴 High
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: 100%
+Priority: Low
 
 ## Related Reviews
 
 - [[1. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 2]]
-- [[3. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 3.1]]
 
 <!-- AUTO_END -->
 

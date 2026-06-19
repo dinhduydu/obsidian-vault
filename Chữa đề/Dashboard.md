@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 81
-- Total Knowledge Items: 979
-- Correct: 571
-- Wrong: 731
-- Accuracy: 43.9%
+- Total Reviews: 82
+- Total Knowledge Items: 1004
+- Correct: 579
+- Wrong: 753
+- Accuracy: 43.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 170| Wrong: 31
+- [[]] | Vocabulary| Score: 175| Wrong: 32
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
@@ -22,6 +22,7 @@
 - [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
+- [[〜からといって]] | Grammar| Score: 30| Wrong: 3
 - [[相当]] | Vocabulary| Score: 30| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
@@ -29,11 +30,10 @@
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Katakana| Score: 25| Wrong: 2
 - [[オーケストラ]] | Katakana| Score: 25| Wrong: 2
-- [[カーブ]] | Katakana| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 31
+- [[]] (Vocabulary) Wrong: 32
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 49.1% (Correct 26 / Wrong 27)
-- Collocation: 54.2% (Correct 45 / Wrong 38)
-- CompoundVerb: 44.3% (Correct 54 / Wrong 68)
-- FixedExpression: 40.7% (Correct 57 / Wrong 83)
-- Grammar: 43.9% (Correct 122 / Wrong 156)
+- Adverb: 48.2% (Correct 27 / Wrong 29)
+- Collocation: 52.9% (Correct 45 / Wrong 40)
+- CompoundVerb: 43.5% (Correct 54 / Wrong 70)
+- FixedExpression: 40.8% (Correct 58 / Wrong 84)
+- Grammar: 43.3% (Correct 126 / Wrong 165)
 - Kanji: 56.1% (Correct 60 / Wrong 47)
-- Katakana: 40.4% (Correct 19 / Wrong 28)
-- Keigo: 80.0% (Correct 8 / Wrong 2)
+- Katakana: 40.4% (Correct 21 / Wrong 31)
+- Keigo: 66.7% (Correct 8 / Wrong 4)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 35.9% (Correct 14 / Wrong 25)
-- Vocabulary: 39.5% (Correct 164 / Wrong 251)
+- Vocabulary: 39.4% (Correct 164 / Wrong 252)
 
 ## 📚 Top Grammar
 
@@ -76,14 +76,14 @@
 - [[〜に違いない]] (Score: 30)
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
+- [[〜からといって]] (Score: 30)
 - [[〜つつ]] (Score: 30)
 - [[〜なくても]] (Score: 25)
 - [[〜よりもずっと]] (Score: 25)
-- [[〜ばよかった]] (Score: 25)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 170)
+- [[]] (Score: 175)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
@@ -188,15 +188,15 @@
 ## 📚 Top Keigo
 
 - [[お待ちしておりました]] (Score: 20)
+- [[ご覧いただく]] (Score: 15)
 - [[お買い上げ]] (Score: 7)
 - [[お泊まりになる]] (Score: 7)
-- [[お越しくださいました]] (Score: 0)
+- [[お越しくださいました]] (Score: 5)
 - [[おいでいただく]] (Score: 0)
 - [[教えていただけませんか]] (Score: 0)
 - [[ご連絡を差し上げる]] (Score: 0)
 - [[ご連絡させていただきます]] (Score: 0)
 - [[存じます]] (Score: 0)
-- [[お元気でご活躍のことと]] (Score: 0)
 
 ## 📚 Top Kenjougo
 
