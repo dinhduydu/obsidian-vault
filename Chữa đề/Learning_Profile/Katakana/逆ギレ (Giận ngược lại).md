@@ -2,7 +2,7 @@
 
 # 逆ギレ (Giận ngược lại)
 
-Category: Vocabulary
+Category: Katakana
 Correct: 0
 Wrong: 1
 Accuracy: 0.0%
