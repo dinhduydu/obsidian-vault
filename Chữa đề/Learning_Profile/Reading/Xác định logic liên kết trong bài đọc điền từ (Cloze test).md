@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# Xác định logic liên kết trong bài đọc điền từ (Cloze test)
+
+Category: Reading
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: 0%
+Priority: High
+
+## Related Reviews
+
+- [[2. Phân Tích N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

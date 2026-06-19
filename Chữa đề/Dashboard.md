@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 86
-- Total Knowledge Items: 1139
-- Correct: 642
-- Wrong: 861
-- Accuracy: 42.7%
+- Total Reviews: 89
+- Total Knowledge Items: 1226
+- Correct: 685
+- Wrong: 943
+- Accuracy: 42.1%
 
 ## 🚨 Review Queue
 
@@ -14,6 +14,8 @@
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
+- [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
+- [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[〜とは限らない]] | Grammar| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
@@ -23,13 +25,11 @@
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
 - [[〜からといって]] | Grammar| Score: 30| Wrong: 3
-- [[〜ようとする]] | Grammar| Score: 30| Wrong: 3
 - [[相当]] | Vocabulary| Score: 30| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
-- [[ファスナー]] | Katakana| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
@@ -38,48 +38,48 @@
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
+- [[〜ようとする]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
 - [[相当]] (Vocabulary) Wrong: 4
 - [[〜つつ]] (Grammar) Wrong: 4
 - [[やっと]] (Adverb) Wrong: 4
 - [[〜からこそ]] (Grammar) Wrong: 3
+- [[落ち込む]] (CompoundVerb) Wrong: 3
 - [[見守る]] (CompoundVerb) Wrong: 3
+- [[結局]] (Adverb) Wrong: 3
 - [[〜とは限らない]] (Grammar) Wrong: 3
 - [[文脈判断]] (Reading) Wrong: 3
 - [[全体としての内容]] (Reading) Wrong: 3
 - [[最もよいものを一つ選んでください]] (FixedExpression) Wrong: 3
 - [[負担]] (Vocabulary) Wrong: 3
 - [[事実確認]] (Reading) Wrong: 3
-- [[〜に違いない]] (Grammar) Wrong: 3
-- [[演技]] (Vocabulary) Wrong: 3
-- [[〜のではないだろうか]] (Grammar) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 41.0% (Correct 32 / Wrong 46)
-- Collocation: 51.5% (Correct 51 / Wrong 48)
-- CompoundVerb: 43.4% (Correct 59 / Wrong 77)
-- FixedExpression: 39.7% (Correct 60 / Wrong 91)
-- Grammar: 43.3% (Correct 133 / Wrong 174)
-- Kanji: 57.1% (Correct 68 / Wrong 51)
-- Katakana: 37.7% (Correct 23 / Wrong 38)
-- Keigo: 66.7% (Correct 8 / Wrong 4)
+- Adverb: 35.6% (Correct 32 / Wrong 58)
+- Collocation: 50.5% (Correct 52 / Wrong 51)
+- CompoundVerb: 43.8% (Correct 63 / Wrong 81)
+- FixedExpression: 39.8% (Correct 64 / Wrong 97)
+- Grammar: 43.0% (Correct 138 / Wrong 183)
+- Kanji: 54.7% (Correct 75 / Wrong 62)
+- Katakana: 36.5% (Correct 27 / Wrong 47)
+- Keigo: 61.5% (Correct 8 / Wrong 5)
 - Kenjougo: 33.3% (Correct 3 / Wrong 6)
-- Reading: 35.0% (Correct 14 / Wrong 26)
-- Vocabulary: 38.9% (Correct 191 / Wrong 300)
+- Reading: 34.1% (Correct 14 / Wrong 27)
+- Vocabulary: 39.1% (Correct 209 / Wrong 326)
 
 ## 📚 Top Grammar
 
 - [[〜まい]] (Score: 45)
 - [[〜ざるを得ない]] (Score: 35)
+- [[〜ようとする]] (Score: 35)
 - [[〜とは限らない]] (Score: 30)
 - [[〜に違いない]] (Score: 30)
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
 - [[〜からといって]] (Score: 30)
-- [[〜ようとする]] (Score: 30)
 - [[〜つつ]] (Score: 30)
-- [[〜なくても]] (Score: 25)
+- [[〜ぬまま]] (Score: 25)
 
 ## 📚 Top Vocabulary
 
@@ -96,6 +96,7 @@
 
 ## 📚 Top Kanji
 
+- [[改善]] (Score: 25)
 - [[把握]] (Score: 20)
 - [[塩]] (Score: 20)
 - [[灯]] (Score: 20)
@@ -105,7 +106,6 @@
 - [[下]] (Score: 20)
 - [[好]] (Score: 20)
 - [[試]] (Score: 20)
-- [[連続]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -113,12 +113,12 @@
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
+- [[コスト]] (Score: 25)
 - [[コレクション]] (Score: 20)
 - [[レクリエーション]] (Score: 20)
 - [[イメージ]] (Score: 20)
 - [[コーチ]] (Score: 20)
 - [[サイレン]] (Score: 20)
-- [[チャンス]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -135,10 +135,10 @@
 
 ## 📚 Top CompoundVerb
 
+- [[落ち込む]] (Score: 30)
 - [[見守る]] (Score: 30)
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
-- [[落ち込む]] (Score: 25)
 - [[向き合う]] (Score: 25)
 - [[〜てしまう]] (Score: 25)
 - [[置き換える]] (Score: 20)
@@ -161,6 +161,7 @@
 
 ## 📚 Top Collocation
 
+- [[気がする]] (Score: 25)
 - [[解像度を上げる]] (Score: 20)
 - [[思いをさらけ出す]] (Score: 20)
 - [[さびを落とす]] (Score: 20)
@@ -169,12 +170,12 @@
 - [[気持ちを切り替える]] (Score: 20)
 - [[責任感が強い]] (Score: 20)
 - [[言葉づかいに気をつける]] (Score: 20)
-- [[気がする]] (Score: 20)
 - [[感情的な反応を示す]] (Score: 20)
 
 ## 📚 Top Adverb
 
 - [[やっと]] (Score: 25)
+- [[結局]] (Score: 22)
 - [[こっそり]] (Score: 20)
 - [[最優先]] (Score: 20)
 - [[ただ]] (Score: 20)
@@ -182,12 +183,11 @@
 - [[当分]] (Score: 20)
 - [[じかに]] (Score: 20)
 - [[ひとりでに]] (Score: 20)
-- [[いきなり]] (Score: 20)
-- [[結局]] (Score: 17)
+- [[およそ]] (Score: 20)
 
 ## 📚 Top Keigo
 
-- [[お待ちしておりました]] (Score: 20)
+- [[お待ちしておりました]] (Score: 25)
 - [[ご覧いただく]] (Score: 15)
 - [[お買い上げ]] (Score: 7)
 - [[お泊まりになる]] (Score: 7)
