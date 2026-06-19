@@ -62,10 +62,11 @@
 - FixedExpression: 43.3% (Correct 45 / Wrong 59)
 - Grammar: 47.3% (Correct 86 / Wrong 96)
 - Kanji: 63.1% (Correct 41 / Wrong 24)
+- Katakana: 100.0% (Correct 1 / Wrong 0)
 - Keigo: 75.0% (Correct 6 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.1% (Correct 13 / Wrong 23)
-- Vocabulary: 43.1% (Correct 144 / Wrong 190)
+- Vocabulary: 42.9% (Correct 143 / Wrong 190)
 
 ## 📚 Top Grammar
 
@@ -105,6 +106,10 @@
 - [[好]] (Score: 20)
 - [[試]] (Score: 20)
 - [[最高点]] (Score: 17)
+
+## 📚 Top Katakana
+
+- [[アレルギー]] (Score: 0)
 
 ## 📚 Top Reading
 

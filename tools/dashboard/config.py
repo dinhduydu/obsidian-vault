@@ -10,6 +10,7 @@ PROFILE_FOLDERS = [
 
     "Vocabulary",
     "Kanji",
+    "Katakana",
 
     "Grammar",
     "Particle",

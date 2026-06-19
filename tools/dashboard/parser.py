@@ -29,6 +29,7 @@ def clean_name(name):
         "Item:",
         "Vocabulary:",
         "Grammar:",
+        "Katakana:",
         "Kanji:",
         "Particle:",
         "Reading:",
@@ -88,6 +89,9 @@ def normalize_category(category):
 
         "kanji":
             "Kanji",
+
+        "katakana":
+            "Katakana",
 
         "particle":
             "Particle",
@@ -221,7 +225,7 @@ def parse_profiles(text):
 
 
     blocks = re.split(
-        r"\n(?=(?:###|Vocabulary \||Grammar \||Adverb \||Kanji \||Reading \||Collocation \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
+        r"\n(?=(?:###|Vocabulary \||Grammar \||Adverb \||Katakana \||Kanji \||Reading \||Collocation \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
         text
     )
 

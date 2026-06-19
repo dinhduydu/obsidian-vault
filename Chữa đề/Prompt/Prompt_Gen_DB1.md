@@ -2,7 +2,7 @@ Phân tích bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian g�
 Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.  
   
 Knowledge Extracted bắt buộc chia category:  
-Vocabulary, Kanji, Grammar, Particle, Reading, CompoundVerb, Adverb, Conjunction, FixedExpression, Collocation, Keigo, Kenjougo.  
+Vocabulary, Kanji, Katakana, Grammar, Particle, Reading, CompoundVerb, Adverb, Conjunction, FixedExpression, Collocation, Keigo, Kenjougo.  
   
 Mỗi item trong Knowledge Extracted bắt buộc viết đúng format:  
 ### CATEGORY | ITEM_NAME  
@@ -17,5 +17,5 @@ Learning Profile phải tạo cho 100% item đã xuất hiện ở Knowledge Ext
 - Mastery:  
 - Priority:  
   
-CompoundVerb, FixedExpression, Collocation phải ghi thêm Meaning, Usage, Example.  
+Adverb, Katakana, CompoundVerb, FixedExpression, Collocation phải ghi thêm Meaning, Usage, Example.  
 Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật cụ thể.

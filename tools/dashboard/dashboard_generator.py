@@ -270,6 +270,7 @@ def generate_dashboard(
         "Grammar",
         "Vocabulary",
         "Kanji",
+        "Katakana",
         "Reading",
         "Particle",
         "CompoundVerb",
