@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 75
-- Total Knowledge Items: 734
-- Correct: 433
-- Wrong: 499
+- Total Knowledge Items: 752
+- Correct: 442
+- Wrong: 509
 - Accuracy: 46.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 190| Wrong: 35
+- [[]] | Vocabulary| Score: 185| Wrong: 34
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 40| Wrong: 5
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 35
+- [[]] (Vocabulary) Wrong: 34
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 5
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
@@ -43,6 +43,7 @@
 - [[文脈判断]] (Reading) Wrong: 3
 - [[全体としての内容]] (Reading) Wrong: 3
 - [[最もよいものを一つ選んでください]] (FixedExpression) Wrong: 3
+- [[負担]] (Vocabulary) Wrong: 3
 - [[事実確認]] (Reading) Wrong: 3
 - [[〜に違いない]] (Grammar) Wrong: 3
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
@@ -52,21 +53,20 @@
 - [[とうげ]] (Vocabulary) Wrong: 2
 - [[ファスナー]] (Katakana) Wrong: 2
 - [[オーケストラ]] (Katakana) Wrong: 2
-- [[カーブ]] (Katakana) Wrong: 2
 
 ## 📈 Category Statistics
 
-- Adverb: 45.5% (Correct 15 / Wrong 18)
-- Collocation: 58.6% (Correct 34 / Wrong 24)
-- CompoundVerb: 45.2% (Correct 47 / Wrong 57)
-- FixedExpression: 43.3% (Correct 45 / Wrong 59)
-- Grammar: 47.3% (Correct 86 / Wrong 96)
-- Kanji: 63.1% (Correct 41 / Wrong 24)
-- Katakana: 35.3% (Correct 12 / Wrong 22)
+- Adverb: 45.7% (Correct 16 / Wrong 19)
+- Collocation: 60.0% (Correct 36 / Wrong 24)
+- CompoundVerb: 45.3% (Correct 48 / Wrong 58)
+- FixedExpression: 42.5% (Correct 45 / Wrong 61)
+- Grammar: 47.0% (Correct 87 / Wrong 98)
+- Kanji: 63.2% (Correct 43 / Wrong 25)
+- Katakana: 37.1% (Correct 13 / Wrong 22)
 - Keigo: 75.0% (Correct 6 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
-- Reading: 36.1% (Correct 13 / Wrong 23)
-- Vocabulary: 44.0% (Correct 132 / Wrong 168)
+- Reading: 35.1% (Correct 13 / Wrong 24)
+- Vocabulary: 43.9% (Correct 133 / Wrong 170)
 
 ## 📚 Top Grammar
 
@@ -83,16 +83,16 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 190)
+- [[]] (Score: 185)
 - [[& Kiến thức liên quan]] (Score: 65)
 - [[とうげ]] (Score: 25)
+- [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
 - [[同格]] (Score: 20)
 - [[役目]] (Score: 20)
 - [[はずす]] (Score: 20)
-- [[方針]] (Score: 20)
 
 ## 📚 Top Kanji
 
