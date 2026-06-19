@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 77
-- Total Knowledge Items: 903
-- Correct: 528
-- Wrong: 646
-- Accuracy: 45.0%
+- Total Reviews: 78
+- Total Knowledge Items: 908
+- Correct: 532
+- Wrong: 685
+- Accuracy: 43.7%
 
 ## 🚨 Review Queue
 
@@ -22,6 +22,7 @@
 - [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
+- [[相当]] | Vocabulary| Score: 30| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
@@ -29,7 +30,6 @@
 - [[ファスナー]] | Katakana| Score: 25| Wrong: 2
 - [[オーケストラ]] | Katakana| Score: 25| Wrong: 2
 - [[カーブ]] | Katakana| Score: 25| Wrong: 2
-- [[ギャング]] | Katakana| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
@@ -39,7 +39,9 @@
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
+- [[相当]] (Vocabulary) Wrong: 4
 - [[〜つつ]] (Grammar) Wrong: 4
+- [[やっと]] (Adverb) Wrong: 4
 - [[〜からこそ]] (Grammar) Wrong: 3
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[〜とは限らない]] (Grammar) Wrong: 3
@@ -51,22 +53,20 @@
 - [[〜に違いない]] (Grammar) Wrong: 3
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
 - [[〜しかない]] (Grammar) Wrong: 3
-- [[筆者の考え]] (Reading) Wrong: 3
-- [[相当]] (Vocabulary) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 50.0% (Correct 23 / Wrong 23)
-- Collocation: 56.2% (Correct 41 / Wrong 32)
-- CompoundVerb: 43.6% (Correct 51 / Wrong 66)
-- FixedExpression: 40.8% (Correct 51 / Wrong 74)
-- Grammar: 44.7% (Correct 115 / Wrong 142)
-- Kanji: 60.0% (Correct 54 / Wrong 36)
-- Katakana: 42.5% (Correct 17 / Wrong 23)
+- Adverb: 48.9% (Correct 23 / Wrong 24)
+- Collocation: 53.9% (Correct 41 / Wrong 35)
+- CompoundVerb: 43.2% (Correct 51 / Wrong 67)
+- FixedExpression: 39.5% (Correct 51 / Wrong 78)
+- Grammar: 44.6% (Correct 115 / Wrong 143)
+- Kanji: 54.5% (Correct 54 / Wrong 45)
+- Katakana: 41.5% (Correct 17 / Wrong 24)
 - Keigo: 80.0% (Correct 8 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.8% (Correct 14 / Wrong 24)
-- Vocabulary: 41.1% (Correct 152 / Wrong 218)
+- Vocabulary: 39.7% (Correct 156 / Wrong 237)
 
 ## 📚 Top Grammar
 
@@ -85,10 +85,10 @@
 
 - [[]] (Score: 170)
 - [[& Kiến thức liên quan]] (Score: 55)
+- [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[相当]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
 - [[同格]] (Score: 20)
@@ -105,7 +105,7 @@
 - [[下]] (Score: 20)
 - [[好]] (Score: 20)
 - [[試]] (Score: 20)
-- [[最高点]] (Score: 17)
+- [[連続]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -174,6 +174,7 @@
 
 ## 📚 Top Adverb
 
+- [[やっと]] (Score: 25)
 - [[こっそり]] (Score: 20)
 - [[最優先]] (Score: 20)
 - [[ただ]] (Score: 20)
@@ -181,7 +182,6 @@
 - [[当分]] (Score: 20)
 - [[じかに]] (Score: 20)
 - [[ひとりでに]] (Score: 20)
-- [[やっと]] (Score: 20)
 - [[結局]] (Score: 17)
 - [[常々]] (Score: 15)
 
