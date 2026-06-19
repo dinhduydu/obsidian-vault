@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 92
-- Total Knowledge Items: 1330
-- Correct: 717
-- Wrong: 1034
-- Accuracy: 40.9%
+- Total Reviews: 105
+- Total Knowledge Items: 1481
+- Correct: 807
+- Wrong: 1144
+- Accuracy: 41.4%
 
 ## 🚨 Review Queue
 
@@ -15,6 +15,7 @@
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
+- [[〜あまり]] | Grammar| Score: 35| Wrong: 4
 - [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[〜とは限らない]] | Grammar| Score: 30| Wrong: 3
@@ -25,11 +26,10 @@
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
 - [[〜からといって]] | Grammar| Score: 30| Wrong: 3
+- [[〜かけ]] | Grammar| Score: 30| Wrong: 3
 - [[相当]] | Vocabulary| Score: 30| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
-- [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
-- [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
@@ -39,6 +39,7 @@
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
+- [[〜あまり]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
 - [[相当]] (Vocabulary) Wrong: 4
 - [[〜つつ]] (Grammar) Wrong: 4
@@ -52,34 +53,33 @@
 - [[全体としての内容]] (Reading) Wrong: 3
 - [[最もよいものを一つ選んでください]] (FixedExpression) Wrong: 3
 - [[負担]] (Vocabulary) Wrong: 3
-- [[事実確認]] (Reading) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 31.8% (Correct 34 / Wrong 73)
-- Collocation: 50.0% (Correct 53 / Wrong 53)
-- CompoundVerb: 41.7% (Correct 63 / Wrong 88)
-- FixedExpression: 39.2% (Correct 65 / Wrong 101)
-- Grammar: 43.1% (Correct 143 / Wrong 189)
-- Kanji: 51.4% (Correct 74 / Wrong 70)
-- Katakana: 37.0% (Correct 30 / Wrong 51)
-- Keigo: 61.5% (Correct 8 / Wrong 5)
+- Adverb: 32.3% (Correct 41 / Wrong 86)
+- Collocation: 48.2% (Correct 55 / Wrong 59)
+- CompoundVerb: 41.3% (Correct 64 / Wrong 91)
+- FixedExpression: 38.7% (Correct 67 / Wrong 106)
+- Grammar: 43.9% (Correct 163 / Wrong 208)
+- Kanji: 50.0% (Correct 87 / Wrong 87)
+- Katakana: 37.8% (Correct 34 / Wrong 56)
+- Keigo: 64.3% (Correct 9 / Wrong 5)
 - Kenjougo: 30.0% (Correct 3 / Wrong 7)
 - Reading: 34.1% (Correct 14 / Wrong 27)
-- Vocabulary: 38.3% (Correct 230 / Wrong 370)
+- Vocabulary: 39.6% (Correct 270 / Wrong 412)
 
 ## 📚 Top Grammar
 
 - [[〜まい]] (Score: 45)
 - [[〜ざるを得ない]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
+- [[〜あまり]] (Score: 35)
 - [[〜とは限らない]] (Score: 30)
 - [[〜に違いない]] (Score: 30)
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
 - [[〜からといって]] (Score: 30)
-- [[〜つつ]] (Score: 30)
-- [[〜ぬまま]] (Score: 25)
+- [[〜かけ]] (Score: 30)
 
 ## 📚 Top Vocabulary
 
@@ -90,9 +90,9 @@
 - [[収穫]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
+- [[首相]] (Score: 25)
+- [[卑怯]] (Score: 25)
 - [[取材]] (Score: 22)
-- [[途切れる]] (Score: 20)
-- [[さび]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -149,6 +149,7 @@
 ## 📚 Top FixedExpression
 
 - [[耳にする]] (Score: 25)
+- [[思いがけない]] (Score: 25)
 - [[力を入れてまいりました]] (Score: 20)
 - [[譲れない]] (Score: 20)
 - [[こだわらない]] (Score: 20)
@@ -157,7 +158,6 @@
 - [[初日の出]] (Score: 20)
 - [[明け方]] (Score: 20)
 - [[かん違い]] (Score: 20)
-- [[面倒くさい]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -174,6 +174,8 @@
 
 ## 📚 Top Adverb
 
+- [[およそ]] (Score: 25)
+- [[とりあえず]] (Score: 25)
 - [[やっと]] (Score: 25)
 - [[結局]] (Score: 22)
 - [[こっそり]] (Score: 20)
@@ -182,8 +184,6 @@
 - [[あらかじめ]] (Score: 20)
 - [[当分]] (Score: 20)
 - [[じかに]] (Score: 20)
-- [[ひとりでに]] (Score: 20)
-- [[およそ]] (Score: 20)
 
 ## 📚 Top Keigo
 
@@ -196,7 +196,7 @@
 - [[教えていただけませんか]] (Score: 0)
 - [[ご連絡を差し上げる]] (Score: 0)
 - [[ご連絡させていただきます]] (Score: 0)
-- [[存じます]] (Score: 0)
+- [[ご存じ]] (Score: 0)
 
 ## 📚 Top Kenjougo
 
