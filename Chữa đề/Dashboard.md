@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 79
-- Total Knowledge Items: 913
-- Correct: 536
-- Wrong: 693
-- Accuracy: 43.6%
+- Total Reviews: 81
+- Total Knowledge Items: 979
+- Correct: 571
+- Wrong: 731
+- Accuracy: 43.9%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 48.9% (Correct 23 / Wrong 24)
-- Collocation: 53.8% (Correct 42 / Wrong 36)
-- CompoundVerb: 43.2% (Correct 51 / Wrong 67)
-- FixedExpression: 39.7% (Correct 52 / Wrong 79)
-- Grammar: 44.2% (Correct 117 / Wrong 148)
-- Kanji: 54.5% (Correct 54 / Wrong 45)
-- Katakana: 40.5% (Correct 17 / Wrong 25)
+- Adverb: 49.1% (Correct 26 / Wrong 27)
+- Collocation: 54.2% (Correct 45 / Wrong 38)
+- CompoundVerb: 44.3% (Correct 54 / Wrong 68)
+- FixedExpression: 40.7% (Correct 57 / Wrong 83)
+- Grammar: 43.9% (Correct 122 / Wrong 156)
+- Kanji: 56.1% (Correct 60 / Wrong 47)
+- Katakana: 40.4% (Correct 19 / Wrong 28)
 - Keigo: 80.0% (Correct 8 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
-- Reading: 36.8% (Correct 14 / Wrong 24)
-- Vocabulary: 39.7% (Correct 156 / Wrong 237)
+- Reading: 35.9% (Correct 14 / Wrong 25)
+- Vocabulary: 39.5% (Correct 164 / Wrong 251)
 
 ## 📚 Top Grammar
 
@@ -87,12 +87,12 @@
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
+- [[収穫]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
 - [[同格]] (Score: 20)
-- [[役目]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -148,6 +148,7 @@
 
 ## 📚 Top FixedExpression
 
+- [[耳にする]] (Score: 25)
 - [[力を入れてまいりました]] (Score: 20)
 - [[譲れない]] (Score: 20)
 - [[こだわらない]] (Score: 20)
@@ -157,7 +158,6 @@
 - [[明け方]] (Score: 20)
 - [[かん違い]] (Score: 20)
 - [[面倒くさい]] (Score: 20)
-- [[冗談が過ぎる]] (Score: 20)
 
 ## 📚 Top Collocation
 
