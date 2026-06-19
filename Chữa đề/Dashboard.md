@@ -2,17 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 75
-- Total Knowledge Items: 752
-- Correct: 442
-- Wrong: 509
-- Accuracy: 46.5%
+- Total Reviews: 76
+- Total Knowledge Items: 845
+- Correct: 514
+- Wrong: 585
+- Accuracy: 46.8%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 185| Wrong: 34
+- [[]] | Vocabulary| Score: 170| Wrong: 31
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 40| Wrong: 5
+- [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[〜とは限らない]] | Grammar| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
@@ -21,6 +22,7 @@
 - [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
+- [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
@@ -28,15 +30,16 @@
 - [[オーケストラ]] | Katakana| Score: 25| Wrong: 2
 - [[カーブ]] | Katakana| Score: 25| Wrong: 2
 - [[ギャング]] | Katakana| Score: 25| Wrong: 2
-- [[着脱させる]] | CompoundVerb| Score: 25| Wrong: 2
-- [[出しすぎ]] | CompoundVerb| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 34
+- [[]] (Vocabulary) Wrong: 31
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 5
+- [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
+- [[〜次第]] (Grammar) Wrong: 4
+- [[〜つつ]] (Grammar) Wrong: 4
 - [[〜からこそ]] (Grammar) Wrong: 3
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[〜とは限らない]] (Grammar) Wrong: 3
@@ -49,41 +52,38 @@
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
 - [[〜しかない]] (Grammar) Wrong: 3
 - [[筆者の考え]] (Reading) Wrong: 3
-- [[申し上げます]] (Kenjougo) Wrong: 2
-- [[とうげ]] (Vocabulary) Wrong: 2
-- [[ファスナー]] (Katakana) Wrong: 2
-- [[オーケストラ]] (Katakana) Wrong: 2
+- [[〜つつある]] (Grammar) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 45.7% (Correct 16 / Wrong 19)
-- Collocation: 60.0% (Correct 36 / Wrong 24)
-- CompoundVerb: 45.3% (Correct 48 / Wrong 58)
-- FixedExpression: 42.5% (Correct 45 / Wrong 61)
-- Grammar: 47.0% (Correct 87 / Wrong 98)
-- Kanji: 63.2% (Correct 43 / Wrong 25)
-- Katakana: 37.1% (Correct 13 / Wrong 22)
-- Keigo: 75.0% (Correct 6 / Wrong 2)
+- Adverb: 51.2% (Correct 22 / Wrong 21)
+- Collocation: 56.7% (Correct 38 / Wrong 29)
+- CompoundVerb: 44.0% (Correct 51 / Wrong 65)
+- FixedExpression: 43.1% (Correct 50 / Wrong 66)
+- Grammar: 44.8% (Correct 112 / Wrong 138)
+- Kanji: 65.8% (Correct 52 / Wrong 27)
+- Katakana: 43.6% (Correct 17 / Wrong 22)
+- Keigo: 80.0% (Correct 8 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
-- Reading: 35.1% (Correct 13 / Wrong 24)
-- Vocabulary: 43.9% (Correct 133 / Wrong 170)
+- Reading: 36.8% (Correct 14 / Wrong 24)
+- Vocabulary: 44.4% (Correct 148 / Wrong 185)
 
 ## 📚 Top Grammar
 
 - [[〜まい]] (Score: 40)
+- [[〜ざるを得ない]] (Score: 35)
 - [[〜とは限らない]] (Score: 30)
 - [[〜に違いない]] (Score: 30)
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
+- [[〜つつ]] (Score: 30)
 - [[〜なくても]] (Score: 25)
 - [[〜よりもずっと]] (Score: 25)
 - [[〜ばよかった]] (Score: 25)
-- [[〜ないことはない]] (Score: 25)
-- [[〜につれて]] (Score: 25)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 185)
+- [[]] (Score: 170)
 - [[& Kiến thức liên quan]] (Score: 65)
 - [[とうげ]] (Score: 25)
 - [[負担]] (Score: 25)
@@ -195,6 +195,8 @@
 - [[教えていただけませんか]] (Score: 0)
 - [[ご連絡を差し上げる]] (Score: 0)
 - [[ご連絡させていただきます]] (Score: 0)
+- [[存じます]] (Score: 0)
+- [[お元気でご活躍のことと]] (Score: 0)
 
 ## 📚 Top Kenjougo
 
