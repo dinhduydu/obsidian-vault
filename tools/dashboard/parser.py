@@ -221,7 +221,7 @@ def parse_profiles(text):
 
 
     blocks = re.split(
-        r"\n(?=(?:###|Vocabulary \||Grammar \||Kanji \||Reading \||Collocation \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
+        r"\n(?=(?:###|Vocabulary \||Grammar \||Adverb \||Kanji \||Reading \||Collocation \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
         text
     )
 

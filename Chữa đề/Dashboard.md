@@ -3,10 +3,10 @@
 ## 🎯 Overall
 
 - Total Reviews: 75
-- Total Knowledge Items: 708
-- Correct: 420
-- Wrong: 482
-- Accuracy: 46.6%
+- Total Knowledge Items: 734
+- Correct: 433
+- Wrong: 499
+- Accuracy: 46.5%
 
 ## 🚨 Review Queue
 
@@ -56,6 +56,7 @@
 
 ## 📈 Category Statistics
 
+- Adverb: 45.5% (Correct 15 / Wrong 18)
 - Collocation: 58.6% (Correct 34 / Wrong 24)
 - CompoundVerb: 45.2% (Correct 47 / Wrong 57)
 - FixedExpression: 43.3% (Correct 45 / Wrong 59)
@@ -64,7 +65,7 @@
 - Keigo: 75.0% (Correct 6 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.1% (Correct 13 / Wrong 23)
-- Vocabulary: 43.3% (Correct 146 / Wrong 191)
+- Vocabulary: 43.1% (Correct 144 / Wrong 190)
 
 ## 📚 Top Grammar
 
@@ -156,6 +157,19 @@
 - [[言葉づかいに気をつける]] (Score: 20)
 - [[気がする]] (Score: 20)
 - [[感情的な反応を示す]] (Score: 20)
+
+## 📚 Top Adverb
+
+- [[こっそり]] (Score: 20)
+- [[最優先]] (Score: 20)
+- [[ただ]] (Score: 20)
+- [[あらかじめ]] (Score: 20)
+- [[当分]] (Score: 20)
+- [[じかに]] (Score: 20)
+- [[ひとりでに]] (Score: 20)
+- [[結局]] (Score: 17)
+- [[常々]] (Score: 15)
+- [[むしろ]] (Score: 12)
 
 ## 📚 Top Keigo
 
