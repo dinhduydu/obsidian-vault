@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 89
-- Total Knowledge Items: 1226
-- Correct: 685
-- Wrong: 943
-- Accuracy: 42.1%
+- Total Reviews: 92
+- Total Knowledge Items: 1330
+- Correct: 717
+- Wrong: 1034
+- Accuracy: 40.9%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.6% (Correct 32 / Wrong 58)
-- Collocation: 50.5% (Correct 52 / Wrong 51)
-- CompoundVerb: 43.8% (Correct 63 / Wrong 81)
-- FixedExpression: 39.8% (Correct 64 / Wrong 97)
-- Grammar: 43.0% (Correct 138 / Wrong 183)
-- Kanji: 54.7% (Correct 75 / Wrong 62)
-- Katakana: 36.5% (Correct 27 / Wrong 47)
+- Adverb: 31.8% (Correct 34 / Wrong 73)
+- Collocation: 50.0% (Correct 53 / Wrong 53)
+- CompoundVerb: 41.7% (Correct 63 / Wrong 88)
+- FixedExpression: 39.2% (Correct 65 / Wrong 101)
+- Grammar: 43.1% (Correct 143 / Wrong 189)
+- Kanji: 51.4% (Correct 74 / Wrong 70)
+- Katakana: 37.0% (Correct 30 / Wrong 51)
 - Keigo: 61.5% (Correct 8 / Wrong 5)
-- Kenjougo: 33.3% (Correct 3 / Wrong 6)
+- Kenjougo: 30.0% (Correct 3 / Wrong 7)
 - Reading: 34.1% (Correct 14 / Wrong 27)
-- Vocabulary: 39.1% (Correct 209 / Wrong 326)
+- Vocabulary: 38.3% (Correct 230 / Wrong 370)
 
 ## 📚 Top Grammar
 
@@ -90,9 +90,9 @@
 - [[収穫]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
+- [[取材]] (Score: 22)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
-- [[同格]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -203,6 +203,7 @@
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
 - [[申し上げる]] (Score: 20)
+- [[〜させていただきます]] (Score: 15)
 - [[申し上げます]] (Score: 12)
 - [[始めさせていただきます]] (Score: 12)
 - [[かしこまる]] (Score: 0)
