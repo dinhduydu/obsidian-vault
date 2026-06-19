@@ -24,10 +24,10 @@
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
-- [[ファスナー]] | Vocabulary| Score: 25| Wrong: 2
-- [[オーケストラ]] | Vocabulary| Score: 25| Wrong: 2
-- [[カーブ]] | Vocabulary| Score: 25| Wrong: 2
-- [[ギャング]] | Vocabulary| Score: 25| Wrong: 2
+- [[ファスナー]] | Katakana| Score: 25| Wrong: 2
+- [[オーケストラ]] | Katakana| Score: 25| Wrong: 2
+- [[カーブ]] | Katakana| Score: 25| Wrong: 2
+- [[ギャング]] | Katakana| Score: 25| Wrong: 2
 - [[着脱させる]] | CompoundVerb| Score: 25| Wrong: 2
 - [[出しすぎ]] | CompoundVerb| Score: 25| Wrong: 2
 
@@ -50,9 +50,9 @@
 - [[筆者の考え]] (Reading) Wrong: 3
 - [[申し上げます]] (Kenjougo) Wrong: 2
 - [[とうげ]] (Vocabulary) Wrong: 2
-- [[ファスナー]] (Vocabulary) Wrong: 2
-- [[オーケストラ]] (Vocabulary) Wrong: 2
-- [[カーブ]] (Vocabulary) Wrong: 2
+- [[ファスナー]] (Katakana) Wrong: 2
+- [[オーケストラ]] (Katakana) Wrong: 2
+- [[カーブ]] (Katakana) Wrong: 2
 
 ## 📈 Category Statistics
 
@@ -62,11 +62,11 @@
 - FixedExpression: 43.3% (Correct 45 / Wrong 59)
 - Grammar: 47.3% (Correct 86 / Wrong 96)
 - Kanji: 63.1% (Correct 41 / Wrong 24)
-- Katakana: 100.0% (Correct 1 / Wrong 0)
+- Katakana: 35.3% (Correct 12 / Wrong 22)
 - Keigo: 75.0% (Correct 6 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.1% (Correct 13 / Wrong 23)
-- Vocabulary: 42.9% (Correct 143 / Wrong 190)
+- Vocabulary: 44.0% (Correct 132 / Wrong 168)
 
 ## 📚 Top Grammar
 
@@ -86,13 +86,13 @@
 - [[]] (Score: 190)
 - [[& Kiến thức liên quan]] (Score: 65)
 - [[とうげ]] (Score: 25)
-- [[ファスナー]] (Score: 25)
-- [[オーケストラ]] (Score: 25)
-- [[カーブ]] (Score: 25)
-- [[ギャング]] (Score: 25)
 - [[研修]] (Score: 25)
 - [[途切れる]] (Score: 20)
 - [[さび]] (Score: 20)
+- [[同格]] (Score: 20)
+- [[役目]] (Score: 20)
+- [[はずす]] (Score: 20)
+- [[方針]] (Score: 20)
 
 ## 📚 Top Kanji
 
@@ -109,7 +109,16 @@
 
 ## 📚 Top Katakana
 
-- [[アレルギー]] (Score: 0)
+- [[ファスナー]] (Score: 25)
+- [[オーケストラ]] (Score: 25)
+- [[カーブ]] (Score: 25)
+- [[ギャング]] (Score: 25)
+- [[コレクション]] (Score: 20)
+- [[レクリエーション]] (Score: 20)
+- [[イメージ]] (Score: 20)
+- [[コーチ]] (Score: 20)
+- [[サイレン]] (Score: 20)
+- [[チャンス]] (Score: 20)
 
 ## 📚 Top Reading
 
