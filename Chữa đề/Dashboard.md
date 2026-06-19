@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 82
-- Total Knowledge Items: 1004
-- Correct: 579
-- Wrong: 753
-- Accuracy: 43.5%
+- Total Reviews: 86
+- Total Knowledge Items: 1139
+- Correct: 642
+- Wrong: 861
+- Accuracy: 42.7%
 
 ## 🚨 Review Queue
 
@@ -23,13 +23,13 @@
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
 - [[〜からといって]] | Grammar| Score: 30| Wrong: 3
+- [[〜ようとする]] | Grammar| Score: 30| Wrong: 3
 - [[相当]] | Vocabulary| Score: 30| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 30| Wrong: 4
 - [[事実確認]] | Reading| Score: 27| Wrong: 3
 - [[Synthesis (Commonality)]] | Reading| Score: 27| Wrong: 4
 - [[とうげ]] | Vocabulary| Score: 25| Wrong: 2
 - [[ファスナー]] | Katakana| Score: 25| Wrong: 2
-- [[オーケストラ]] | Katakana| Score: 25| Wrong: 2
 
 ## 🔥 Top Weak Points
 
@@ -51,22 +51,22 @@
 - [[負担]] (Vocabulary) Wrong: 3
 - [[事実確認]] (Reading) Wrong: 3
 - [[〜に違いない]] (Grammar) Wrong: 3
+- [[演技]] (Vocabulary) Wrong: 3
 - [[〜のではないだろうか]] (Grammar) Wrong: 3
-- [[〜しかない]] (Grammar) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 48.2% (Correct 27 / Wrong 29)
-- Collocation: 52.9% (Correct 45 / Wrong 40)
-- CompoundVerb: 43.5% (Correct 54 / Wrong 70)
-- FixedExpression: 40.8% (Correct 58 / Wrong 84)
-- Grammar: 43.3% (Correct 126 / Wrong 165)
-- Kanji: 56.1% (Correct 60 / Wrong 47)
-- Katakana: 40.4% (Correct 21 / Wrong 31)
+- Adverb: 41.0% (Correct 32 / Wrong 46)
+- Collocation: 51.5% (Correct 51 / Wrong 48)
+- CompoundVerb: 43.4% (Correct 59 / Wrong 77)
+- FixedExpression: 39.7% (Correct 60 / Wrong 91)
+- Grammar: 43.3% (Correct 133 / Wrong 174)
+- Kanji: 57.1% (Correct 68 / Wrong 51)
+- Katakana: 37.7% (Correct 23 / Wrong 38)
 - Keigo: 66.7% (Correct 8 / Wrong 4)
-- Kenjougo: 25.0% (Correct 2 / Wrong 6)
-- Reading: 35.9% (Correct 14 / Wrong 25)
-- Vocabulary: 39.4% (Correct 164 / Wrong 252)
+- Kenjougo: 33.3% (Correct 3 / Wrong 6)
+- Reading: 35.0% (Correct 14 / Wrong 26)
+- Vocabulary: 38.9% (Correct 191 / Wrong 300)
 
 ## 📚 Top Grammar
 
@@ -77,9 +77,9 @@
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
 - [[〜からといって]] (Score: 30)
+- [[〜ようとする]] (Score: 30)
 - [[〜つつ]] (Score: 30)
 - [[〜なくても]] (Score: 25)
-- [[〜よりもずっと]] (Score: 25)
 
 ## 📚 Top Vocabulary
 
@@ -182,8 +182,8 @@
 - [[当分]] (Score: 20)
 - [[じかに]] (Score: 20)
 - [[ひとりでに]] (Score: 20)
+- [[いきなり]] (Score: 20)
 - [[結局]] (Score: 17)
-- [[常々]] (Score: 15)
 
 ## 📚 Top Keigo
 
@@ -207,6 +207,7 @@
 - [[始めさせていただきます]] (Score: 12)
 - [[かしこまる]] (Score: 0)
 - [[お越しをお待ちしております]] (Score: 0)
+- [[いただく]] (Score: 0)
 
 ## 📅 Recent Reviews
 
