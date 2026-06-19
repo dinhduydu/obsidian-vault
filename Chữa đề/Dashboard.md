@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 76
-- Total Knowledge Items: 845
-- Correct: 514
-- Wrong: 585
-- Accuracy: 46.8%
+- Total Reviews: 77
+- Total Knowledge Items: 860
+- Correct: 521
+- Wrong: 604
+- Accuracy: 46.3%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 51.2% (Correct 22 / Wrong 21)
-- Collocation: 56.7% (Correct 38 / Wrong 29)
+- Adverb: 51.1% (Correct 23 / Wrong 22)
+- Collocation: 57.1% (Correct 40 / Wrong 30)
 - CompoundVerb: 44.0% (Correct 51 / Wrong 65)
 - FixedExpression: 43.1% (Correct 50 / Wrong 66)
-- Grammar: 44.8% (Correct 112 / Wrong 138)
-- Kanji: 65.8% (Correct 52 / Wrong 27)
+- Grammar: 45.1% (Correct 114 / Wrong 139)
+- Kanji: 65.1% (Correct 54 / Wrong 29)
 - Katakana: 43.6% (Correct 17 / Wrong 22)
 - Keigo: 80.0% (Correct 8 / Wrong 2)
 - Kenjougo: 25.0% (Correct 2 / Wrong 6)
 - Reading: 36.8% (Correct 14 / Wrong 24)
-- Vocabulary: 44.4% (Correct 148 / Wrong 185)
+- Vocabulary: 42.7% (Correct 148 / Wrong 199)
 
 ## 📚 Top Grammar
 
@@ -183,7 +183,7 @@
 - [[ひとりでに]] (Score: 20)
 - [[結局]] (Score: 17)
 - [[常々]] (Score: 15)
-- [[むしろ]] (Score: 12)
+- [[やっと]] (Score: 15)
 
 ## 📚 Top Keigo
 
