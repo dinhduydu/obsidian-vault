@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 279
-- Total Knowledge Items: 3280
-- Correct: 1895
-- Wrong: 2375
-- Accuracy: 44.4%
+- Total Reviews: 281
+- Total Knowledge Items: 3300
+- Correct: 1899
+- Wrong: 2397
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
@@ -24,12 +24,12 @@
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[申し上げる]] | Kenjougo| Score: 35| Wrong: 4
+- [[筆者の考え]] | Reading| Score: 35| Wrong: 4
 - [[全体理解]] | Reading| Score: 35| Wrong: 4
 - [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
 - [[模擬試験]] | Vocabulary| Score: 35| Wrong: 7
 - [[質問とせんたくし]] | Reading| Score: 35| Wrong: 4
 - [[〜からといって]] | Grammar| Score: 35| Wrong: 5
-- [[〜べき]] | Grammar| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.9% (Correct 138 / Wrong 217)
-- Collocation: 48.5% (Correct 79 / Wrong 84)
-- CompoundVerb: 41.5% (Correct 105 / Wrong 148)
-- FixedExpression: 40.5% (Correct 161 / Wrong 237)
-- Grammar: 47.3% (Correct 445 / Wrong 495)
-- Kanji: 46.4% (Correct 192 / Wrong 222)
-- Katakana: 45.0% (Correct 85 / Wrong 104)
+- Adverb: 38.5% (Correct 139 / Wrong 222)
+- Collocation: 48.2% (Correct 79 / Wrong 85)
+- CompoundVerb: 41.3% (Correct 105 / Wrong 149)
+- FixedExpression: 40.2% (Correct 161 / Wrong 239)
+- Grammar: 47.5% (Correct 447 / Wrong 495)
+- Kanji: 46.4% (Correct 194 / Wrong 224)
+- Katakana: 44.7% (Correct 85 / Wrong 105)
 - Keigo: 51.9% (Correct 28 / Wrong 26)
 - Kenjougo: 26.1% (Correct 18 / Wrong 51)
-- Reading: 35.2% (Correct 56 / Wrong 103)
-- Vocabulary: 46.1% (Correct 588 / Wrong 688)
+- Reading: 34.4% (Correct 56 / Wrong 107)
+- Vocabulary: 45.8% (Correct 587 / Wrong 694)
 
 ## 📚 Top Grammar
 
@@ -124,12 +124,12 @@
 
 - [[即時応答]] (Score: 55)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
+- [[筆者の考え]] (Score: 35)
 - [[全体理解]] (Score: 35)
 - [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
-- [[筆者の考え]] (Score: 30)
 - [[Phân biệt Ko-So-A trong văn bản]] (Score: 30)
 - [[Loại trừ phương án mang tính tuyệt đối]] (Score: 30)
 
@@ -227,9 +227,9 @@
 - [[3. Phân Tích BÀI LÀM N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1]]
 - [[4. Phân Tích BÀI LÀM N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 14]]
 - [[5. Phân Tích BÀI LÀM N2_NGHE HIỂU_問題3 (1806263.PDF)]]
+- [[1. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP JLPT 12.2025_TEST 1]]
+- [[2. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2]]
 - [[2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ]]
 - [[2. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 2 (P3)]]
 - [[3. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 1]]
 - [[4. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 2]]
-- [[5. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 3]]
-- [[6. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 4]]
