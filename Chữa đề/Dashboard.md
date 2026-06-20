@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 169
-- Total Knowledge Items: 2144
-- Correct: 1203
-- Wrong: 1636
-- Accuracy: 42.4%
+- Total Reviews: 177
+- Total Knowledge Items: 2207
+- Correct: 1254
+- Wrong: 1683
+- Accuracy: 42.7%
 
 ## 🚨 Review Queue
 
@@ -16,20 +16,20 @@
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜あまり]] | Grammar| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
+- [[〜べき]] | Grammar| Score: 35| Wrong: 4
 - [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
+- [[〜からといって]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
 - [[〜がち]] | Grammar| Score: 35| Wrong: 5
 - [[改善]] | Kanji| Score: 35| Wrong: 4
+- [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] | Reading| Score: 32| Wrong: 4
 - [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[申し上げる]] | Kenjougo| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
-- [[全体としての内容]] | Reading| Score: 30| Wrong: 3
-- [[〜べき]] | Grammar| Score: 30| Wrong: 3
-- [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
 
 ## 🔥 Top Weak Points
 
@@ -42,31 +42,31 @@
 - [[〜がち]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[むしろ]] (Adverb) Wrong: 4
+- [[〜べき]] (Grammar) Wrong: 4
 - [[〜に違いない]] (Grammar) Wrong: 4
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜べきではない]] (Grammar) Wrong: 4
+- [[〜からといって]] (Grammar) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
+- [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Reading) Wrong: 4
 - [[どうも]] (Adverb) Wrong: 4
 - [[〜つつある]] (Grammar) Wrong: 4
-- [[まるで]] (Adverb) Wrong: 4
-- [[改善]] (Kanji) Wrong: 4
-- [[相当]] (Vocabulary) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 30.1% (Correct 65 / Wrong 151)
+- Adverb: 32.2% (Correct 74 / Wrong 156)
 - Collocation: 47.2% (Correct 59 / Wrong 66)
-- CompoundVerb: 42.1% (Correct 80 / Wrong 110)
-- FixedExpression: 37.2% (Correct 96 / Wrong 162)
-- Grammar: 44.2% (Correct 288 / Wrong 364)
-- Kanji: 48.5% (Correct 116 / Wrong 123)
+- CompoundVerb: 41.6% (Correct 79 / Wrong 111)
+- FixedExpression: 37.6% (Correct 102 / Wrong 169)
+- Grammar: 44.6% (Correct 296 / Wrong 368)
+- Kanji: 49.2% (Correct 122 / Wrong 126)
 - Katakana: 44.2% (Correct 50 / Wrong 63)
 - Keigo: 52.3% (Correct 23 / Wrong 21)
 - Kenjougo: 23.7% (Correct 14 / Wrong 45)
-- Reading: 37.1% (Correct 26 / Wrong 44)
-- Vocabulary: 44.2% (Correct 386 / Wrong 487)
+- Reading: 39.2% (Correct 40 / Wrong 62)
+- Vocabulary: 44.3% (Correct 395 / Wrong 496)
 
 ## 📚 Top Grammar
 
@@ -74,12 +74,12 @@
 - [[〜まい]] (Score: 45)
 - [[〜あまり]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
+- [[〜べき]] (Score: 35)
 - [[〜に違いない]] (Score: 35)
 - [[〜ざるを得ない]] (Score: 35)
 - [[〜べきではない]] (Score: 35)
+- [[〜からといって]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
-- [[〜がち]] (Score: 35)
-- [[〜べき]] (Score: 30)
 
 ## 📚 Top Vocabulary
 
@@ -122,16 +122,16 @@
 
 ## 📚 Top Reading
 
+- [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
 - [[筆者の考え]] (Score: 30)
+- [[Phân biệt Ko-So-A trong văn bản]] (Score: 30)
 - [[Loại trừ phương án mang tính tuyệt đối]] (Score: 30)
 - [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
 - [[事実確認]] (Score: 27)
 - [[Synthesis (Commonality)]] (Score: 27)
 - [[筆者の主張の把握]] (Score: 25)
-- [[Tư duy tỷ lệ thuận (比例)]] (Score: 25)
-- [[文書の目的把握]] (Score: 20)
 
 ## 📚 Top CompoundVerb
 

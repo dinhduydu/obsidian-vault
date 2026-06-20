@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# Chỉ thị từ "そういう" (Sou iu)
+
+Category: Reading
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Medium
+
+## Related Reviews
+
+- [[3. Phân Tích ĐẠI TỪ CHỈ THỊ_TEST 5]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
