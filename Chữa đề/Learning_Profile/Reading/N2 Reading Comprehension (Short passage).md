@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# N2 Reading Comprehension (Short passage)
+
+Category: Reading
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Medium
+
+## Related Reviews
+
+- [[4. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 5]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

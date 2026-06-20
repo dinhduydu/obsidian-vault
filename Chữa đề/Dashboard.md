@@ -2,17 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 126
-- Total Knowledge Items: 1756
-- Correct: 985
-- Wrong: 1307
-- Accuracy: 43.0%
+- Total Reviews: 132
+- Total Knowledge Items: 1814
+- Correct: 1042
+- Wrong: 1335
+- Accuracy: 43.8%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 190| Wrong: 35
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
+- [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
@@ -29,12 +30,12 @@
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
 - [[〜からといって]] | Grammar| Score: 30| Wrong: 3
 - [[〜がち]] | Grammar| Score: 30| Wrong: 3
-- [[〜かけ]] | Grammar| Score: 30| Wrong: 3
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 35
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
@@ -52,25 +53,25 @@
 - [[結局]] (Adverb) Wrong: 3
 - [[〜とは限らない]] (Grammar) Wrong: 3
 - [[文脈判断]] (Reading) Wrong: 3
-- [[全体としての内容]] (Reading) Wrong: 3
 
 ## 📈 Category Statistics
 
 - Adverb: 32.5% (Correct 49 / Wrong 102)
-- Collocation: 47.4% (Correct 55 / Wrong 61)
-- CompoundVerb: 41.6% (Correct 72 / Wrong 101)
-- FixedExpression: 37.7% (Correct 77 / Wrong 127)
-- Grammar: 44.8% (Correct 215 / Wrong 265)
-- Kanji: 50.0% (Correct 106 / Wrong 106)
-- Katakana: 42.7% (Correct 44 / Wrong 59)
+- Collocation: 47.1% (Correct 57 / Wrong 64)
+- CompoundVerb: 42.9% (Correct 76 / Wrong 101)
+- FixedExpression: 38.0% (Correct 81 / Wrong 132)
+- Grammar: 46.8% (Correct 239 / Wrong 272)
+- Kanji: 50.0% (Correct 116 / Wrong 116)
+- Katakana: 42.5% (Correct 45 / Wrong 61)
 - Keigo: 61.1% (Correct 11 / Wrong 7)
 - Kenjougo: 23.1% (Correct 3 / Wrong 10)
-- Reading: 45.1% (Correct 23 / Wrong 28)
-- Vocabulary: 42.8% (Correct 330 / Wrong 441)
+- Reading: 47.2% (Correct 25 / Wrong 28)
+- Vocabulary: 43.5% (Correct 340 / Wrong 442)
 
 ## 📚 Top Grammar
 
 - [[〜まい]] (Score: 45)
+- [[〜受身形 (Ukemi)]] (Score: 40)
 - [[〜ざるを得ない]] (Score: 35)
 - [[〜べきではない]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
@@ -79,7 +80,6 @@
 - [[〜に違いない]] (Score: 30)
 - [[〜のではないだろうか]] (Score: 30)
 - [[〜しかない]] (Score: 30)
-- [[〜からといって]] (Score: 30)
 
 ## 📚 Top Vocabulary
 
