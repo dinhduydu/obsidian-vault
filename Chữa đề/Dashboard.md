@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 144
-- Total Knowledge Items: 1937
-- Correct: 1108
-- Wrong: 1440
+- Total Reviews: 151
+- Total Knowledge Items: 2017
+- Correct: 1150
+- Wrong: 1496
 - Accuracy: 43.5%
 
 ## 🚨 Review Queue
@@ -44,6 +44,7 @@
 - [[〜ようとする]] (Grammar) Wrong: 4
 - [[〜あまり]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
+- [[まるで]] (Adverb) Wrong: 4
 - [[改善]] (Kanji) Wrong: 4
 - [[相当]] (Vocabulary) Wrong: 4
 - [[〜つつ]] (Grammar) Wrong: 4
@@ -52,21 +53,20 @@
 - [[申し上げます]] (Kenjougo) Wrong: 3
 - [[落ち込む]] (CompoundVerb) Wrong: 3
 - [[見守る]] (CompoundVerb) Wrong: 3
-- [[結局]] (Adverb) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 31.8% (Correct 49 / Wrong 105)
+- Adverb: 33.1% (Correct 55 / Wrong 111)
 - Collocation: 48.0% (Correct 59 / Wrong 64)
-- CompoundVerb: 41.8% (Correct 77 / Wrong 107)
-- FixedExpression: 37.3% (Correct 88 / Wrong 148)
-- Grammar: 46.8% (Correct 256 / Wrong 291)
-- Kanji: 49.8% (Correct 117 / Wrong 118)
-- Katakana: 42.2% (Correct 46 / Wrong 63)
+- CompoundVerb: 42.3% (Correct 80 / Wrong 109)
+- FixedExpression: 37.7% (Correct 92 / Wrong 152)
+- Grammar: 45.9% (Correct 273 / Wrong 322)
+- Kanji: 49.6% (Correct 116 / Wrong 118)
+- Katakana: 43.2% (Correct 48 / Wrong 63)
 - Keigo: 53.7% (Correct 22 / Wrong 19)
 - Kenjougo: 26.9% (Correct 14 / Wrong 38)
-- Reading: 43.1% (Correct 25 / Wrong 33)
-- Vocabulary: 43.9% (Correct 355 / Wrong 454)
+- Reading: 42.6% (Correct 26 / Wrong 35)
+- Vocabulary: 44.0% (Correct 365 / Wrong 465)
 
 ## 📚 Top Grammar
 
@@ -128,7 +128,7 @@
 - [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
 - [[事実確認]] (Score: 27)
 - [[Synthesis (Commonality)]] (Score: 27)
-- [[筆者の主張の把握]] (Score: 20)
+- [[筆者の主張の把握]] (Score: 25)
 - [[文書の目的把握]] (Score: 20)
 - [[Main Argument Identification]] (Score: 20)
 - [[鍵となる語]] (Score: 20)
@@ -174,16 +174,16 @@
 
 ## 📚 Top Adverb
 
+- [[要するに]] (Score: 25)
 - [[いつかは]] (Score: 25)
 - [[のんびりと]] (Score: 25)
 - [[およそ]] (Score: 25)
 - [[とりあえず]] (Score: 25)
 - [[やっと]] (Score: 25)
 - [[結局]] (Score: 22)
+- [[まるで]] (Score: 22)
 - [[こっそり]] (Score: 20)
 - [[最優先]] (Score: 20)
-- [[ただ]] (Score: 20)
-- [[あらかじめ]] (Score: 20)
 
 ## 📚 Top Keigo
 
