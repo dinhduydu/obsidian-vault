@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# Xác định quan điểm tác giả (とらえているか)
+
+Category: Reading
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Medium
+
+## Related Reviews
+
+- [[2. Phân Tích Đọc hiểu ngắn - Bài 45]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

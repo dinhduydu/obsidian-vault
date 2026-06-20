@@ -2,84 +2,84 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 211
-- Total Knowledge Items: 2500
-- Correct: 1400
-- Wrong: 1768
-- Accuracy: 44.2%
+- Total Reviews: 227
+- Total Knowledge Items: 2714
+- Correct: 1547
+- Wrong: 1976
+- Accuracy: 43.9%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 230| Wrong: 43
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[〜あまり]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
-- [[〜あまり]] | Grammar| Score: 40| Wrong: 5
+- [[〜がち]] | Grammar| Score: 40| Wrong: 6
+- [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
+- [[〜からといって]] | Grammar| Score: 35| Wrong: 5
 - [[〜べき]] | Grammar| Score: 35| Wrong: 4
 - [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
+- [[〜つつ]] | Grammar| Score: 35| Wrong: 5
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
+- [[〜つつある]] | Grammar| Score: 35| Wrong: 5
+- [[〜にすぎない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
-- [[〜がち]] | Grammar| Score: 35| Wrong: 5
 - [[改善]] | Kanji| Score: 35| Wrong: 4
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] | Reading| Score: 32| Wrong: 4
-- [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
-- [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
-- [[申し上げる]] | Kenjougo| Score: 30| Wrong: 3
-- [[文脈判断]] | Reading| Score: 30| Wrong: 3
-- [[全体としての内容]] | Reading| Score: 30| Wrong: 3
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 43
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
+- [[〜がち]] (Grammar) Wrong: 6
+- [[申し上げます]] (Kenjougo) Wrong: 5
+- [[〜からといって]] (Grammar) Wrong: 5
+- [[〜つつ]] (Grammar) Wrong: 5
+- [[〜にもかかわらず]] (Grammar) Wrong: 5
+- [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
+- [[〜つつある]] (Grammar) Wrong: 5
 - [[〜次第]] (Grammar) Wrong: 5
-- [[〜あまり]] (Grammar) Wrong: 5
-- [[〜がち]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[むしろ]] (Adverb) Wrong: 4
-- [[〜からといって]] (Grammar) Wrong: 4
 - [[〜べき]] (Grammar) Wrong: 4
 - [[〜に違いない]] (Grammar) Wrong: 4
+- [[〜こそ]] (Grammar) Wrong: 4
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
-- [[Synthesis (Commonality)]] (Reading) Wrong: 4
-- [[〜つつ]] (Grammar) Wrong: 4
-- [[〜べきではない]] (Grammar) Wrong: 4
-- [[〜ようとする]] (Grammar) Wrong: 4
-- [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Reading) Wrong: 4
-- [[どうも]] (Adverb) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 35.4% (Correct 90 / Wrong 164)
-- Collocation: 48.1% (Correct 62 / Wrong 67)
-- CompoundVerb: 42.4% (Correct 87 / Wrong 118)
-- FixedExpression: 40.4% (Correct 120 / Wrong 177)
-- Grammar: 46.8% (Correct 339 / Wrong 385)
-- Kanji: 49.2% (Correct 124 / Wrong 128)
-- Katakana: 47.6% (Correct 59 / Wrong 65)
+- Adverb: 37.5% (Correct 116 / Wrong 193)
+- Collocation: 48.6% (Correct 71 / Wrong 75)
+- CompoundVerb: 41.8% (Correct 92 / Wrong 128)
+- FixedExpression: 39.9% (Correct 125 / Wrong 188)
+- Grammar: 46.5% (Correct 389 / Wrong 448)
+- Kanji: 49.3% (Correct 145 / Wrong 149)
+- Katakana: 46.0% (Correct 64 / Wrong 75)
 - Keigo: 51.1% (Correct 24 / Wrong 23)
-- Kenjougo: 25.0% (Correct 16 / Wrong 48)
-- Reading: 38.2% (Correct 42 / Wrong 68)
-- Vocabulary: 45.4% (Correct 437 / Wrong 525)
+- Kenjougo: 24.2% (Correct 16 / Wrong 50)
+- Reading: 36.1% (Correct 43 / Wrong 76)
+- Vocabulary: 44.7% (Correct 462 / Wrong 571)
 
 ## 📚 Top Grammar
 
+- [[〜あまり]] (Score: 50)
 - [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
-- [[〜あまり]] (Score: 40)
+- [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
+- [[〜からといって]] (Score: 35)
 - [[〜べき]] (Score: 35)
 - [[〜に違いない]] (Score: 35)
 - [[〜ざるを得ない]] (Score: 35)
-- [[〜べきではない]] (Score: 35)
-- [[〜ようとする]] (Score: 35)
-- [[〜がち]] (Score: 35)
+- [[〜つつ]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
@@ -88,24 +88,24 @@
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
+- [[移転]] (Score: 25)
+- [[過剰]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[移転]] (Score: 25)
-- [[手入れ]] (Score: 25)
-- [[許す]] (Score: 25)
+- [[確保]] (Score: 25)
 
 ## 📚 Top Kanji
 
 - [[改善]] (Score: 35)
 - [[把握]] (Score: 20)
+- [[弁償]] (Score: 20)
+- [[社交적]] (Score: 20)
+- [[携わる]] (Score: 20)
+- [[顕著]] (Score: 20)
 - [[塩]] (Score: 20)
 - [[灯]] (Score: 20)
 - [[報]] (Score: 20)
 - [[非]] (Score: 20)
-- [[職]] (Score: 20)
-- [[下]] (Score: 20)
-- [[好]] (Score: 20)
-- [[試]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -122,6 +122,7 @@
 
 ## 📚 Top Reading
 
+- [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
@@ -131,7 +132,6 @@
 - [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
 - [[事実確認]] (Score: 27)
 - [[Synthesis (Commonality)]] (Score: 27)
-- [[筆者の主張の把握]] (Score: 25)
 
 ## 📚 Top CompoundVerb
 
@@ -139,12 +139,12 @@
 - [[見守る]] (Score: 30)
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
+- [[長引く]] (Score: 25)
 - [[向き合う]] (Score: 25)
 - [[〜てしまう]] (Score: 25)
 - [[打ち消す]] (Score: 25)
 - [[置き換える]] (Score: 20)
 - [[掘り下げる]] (Score: 20)
-- [[使い心地]] (Score: 20)
 
 ## 📚 Top FixedExpression
 
@@ -175,15 +175,15 @@
 ## 📚 Top Adverb
 
 - [[どうも]] (Score: 35)
+- [[さっさと]] (Score: 30)
 - [[つい]] (Score: 30)
-- [[せっかく]] (Score: 25)
-- [[はたして]] (Score: 25)
 - [[かえって]] (Score: 25)
+- [[せっかく]] (Score: 25)
+- [[すっきり]] (Score: 25)
+- [[はたして]] (Score: 25)
 - [[いわゆる]] (Score: 25)
 - [[とても]] (Score: 25)
 - [[まさか]] (Score: 25)
-- [[とっくに]] (Score: 25)
-- [[要するに]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -201,6 +201,7 @@
 ## 📚 Top Kenjougo
 
 - [[申し上げる]] (Score: 30)
+- [[申し上げます]] (Score: 27)
 - [[〜させていただきます]] (Score: 25)
 - [[お〜申し上げます]] (Score: 25)
 - [[存ずる]] (Score: 25)
@@ -209,7 +210,6 @@
 - [[いただく]] (Score: 22)
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
-- [[お招きいただき]] (Score: 20)
 
 ## 📅 Recent Reviews
 
@@ -227,9 +227,9 @@
 - [[3. Phân Tích BÀI LÀM N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1]]
 - [[4. Phân Tích BÀI LÀM N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 14]]
 - [[5. Phân Tích BÀI LÀM N2_NGHE HIỂU_問題3 (1806263.PDF)]]
+- [[2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ]]
 - [[1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1)]]
 - [[2. Phân Tích Kết Quả N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
 - [[5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1)]]
 - [[6. Phân Tích N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
-- [[7. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
