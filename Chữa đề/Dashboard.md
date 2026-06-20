@@ -3,7 +3,7 @@
 ## 🎯 Overall
 
 - Total Reviews: 196
-- Total Knowledge Items: 2427
+- Total Knowledge Items: 2466
 - Correct: 1394
 - Wrong: 1747
 - Accuracy: 44.4%
@@ -20,7 +20,6 @@
 - [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
-- [[〜からといって]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
 - [[〜がち]] | Grammar| Score: 35| Wrong: 5
@@ -30,6 +29,7 @@
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[申し上げる]] | Kenjougo| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
+- [[全体としての内容]] | Reading| Score: 30| Wrong: 3
 
 ## 🔥 Top Weak Points
 
@@ -47,12 +47,12 @@
 - [[〜に違いない]] (Grammar) Wrong: 4
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
-- [[〜べきではない]] (Grammar) Wrong: 4
+- [[〜つつ]] (Grammar) Wrong: 4
 - [[〜からといって]] (Grammar) Wrong: 4
+- [[〜べきではない]] (Grammar) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Reading) Wrong: 4
 - [[どうも]] (Adverb) Wrong: 4
-- [[〜つつある]] (Grammar) Wrong: 4
 
 ## 📈 Category Statistics
 
@@ -61,12 +61,12 @@
 - CompoundVerb: 42.9% (Correct 87 / Wrong 116)
 - FixedExpression: 40.3% (Correct 118 / Wrong 175)
 - Grammar: 46.7% (Correct 339 / Wrong 387)
-- Kanji: 49.4% (Correct 124 / Wrong 127)
+- Kanji: 49.2% (Correct 124 / Wrong 128)
 - Katakana: 48.4% (Correct 59 / Wrong 63)
 - Keigo: 52.2% (Correct 24 / Wrong 22)
 - Kenjougo: 25.0% (Correct 16 / Wrong 48)
 - Reading: 38.2% (Correct 42 / Wrong 68)
-- Vocabulary: 45.9% (Correct 435 / Wrong 513)
+- Vocabulary: 45.9% (Correct 435 / Wrong 512)
 
 ## 📚 Top Grammar
 
@@ -78,8 +78,8 @@
 - [[〜に違いない]] (Score: 35)
 - [[〜ざるを得ない]] (Score: 35)
 - [[〜べきではない]] (Score: 35)
-- [[〜からといって]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
+- [[〜がち]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
