@@ -1,17 +1,16 @@
 <!-- AUTO_START -->
 
-# 受け取る
+# N2 Grammar Cloze (Email Magazine)
 
-Category: CompoundVerb
-Correct: 1
-Wrong: 2
-Accuracy: 33.3%
-Mastery: Medium
-Priority: Medium
+Category: Reading
+Correct: 0
+Wrong: 5
+Accuracy: 0.0%
+Mastery: Very Low
+Priority: Critical
 
 ## Related Reviews
 
-- [[2. Phân Tích N2_TEST TỪ VỰNG_BÀI 1]]
 - [[3. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP (P52.2)]]
 
 <!-- AUTO_END -->

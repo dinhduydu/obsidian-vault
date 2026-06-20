@@ -1,22 +1,22 @@
 <!-- AUTO_START -->
 
-# トラブル
+# 直る (Tự động từ)
 
-Category: Katakana
+Category: Vocabulary
 Correct: 0
 Wrong: 1
 Accuracy: 0.0%
-Mastery: 0%
+Mastery: Low
 Priority: High
 
 ## Related Reviews
 
-- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
+- [[2. Phân Tích THA ĐỘNG TỪ - TỰ ĐỘNG TỪ_TEST 2]]
 
 <!-- AUTO_END -->
 
 
 <!-- USER_START -->
-trouble
+
 
 <!-- USER_END -->

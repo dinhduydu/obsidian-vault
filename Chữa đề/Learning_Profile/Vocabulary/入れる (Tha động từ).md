@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 入れる (Tha động từ)
+
+Category: Vocabulary
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: Low
+Priority: Medium
+
+## Related Reviews
+
+- [[2. Phân Tích THA ĐỘNG TỪ - TỰ ĐỘNG TỪ_TEST 2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 132
-- Total Knowledge Items: 1814
-- Correct: 1042
-- Wrong: 1335
-- Accuracy: 43.8%
+- Total Reviews: 135
+- Total Knowledge Items: 1845
+- Correct: 1062
+- Wrong: 1366
+- Accuracy: 43.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 190| Wrong: 35
+- [[]] | Vocabulary| Score: 195| Wrong: 36
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -29,14 +29,15 @@
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 - [[筆者の考え]] | Reading| Score: 30| Wrong: 3
 - [[〜からといって]] | Grammar| Score: 30| Wrong: 3
-- [[〜がち]] | Grammar| Score: 30| Wrong: 3
+- [[N2 Grammar Cloze (Email Magazine)]] | Reading| Score: 30| Wrong: 5
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 35
+- [[]] (Vocabulary) Wrong: 36
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 6
+- [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜べきではない]] (Grammar) Wrong: 4
@@ -52,21 +53,20 @@
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[結局]] (Adverb) Wrong: 3
 - [[〜とは限らない]] (Grammar) Wrong: 3
-- [[文脈判断]] (Reading) Wrong: 3
 
 ## 📈 Category Statistics
 
 - Adverb: 32.5% (Correct 49 / Wrong 102)
-- Collocation: 47.1% (Correct 57 / Wrong 64)
-- CompoundVerb: 42.9% (Correct 76 / Wrong 101)
-- FixedExpression: 38.0% (Correct 81 / Wrong 132)
-- Grammar: 46.8% (Correct 239 / Wrong 272)
-- Kanji: 50.0% (Correct 116 / Wrong 116)
-- Katakana: 42.5% (Correct 45 / Wrong 61)
+- Collocation: 48.0% (Correct 59 / Wrong 64)
+- CompoundVerb: 42.5% (Correct 76 / Wrong 103)
+- FixedExpression: 37.7% (Correct 83 / Wrong 137)
+- Grammar: 46.8% (Correct 246 / Wrong 280)
+- Kanji: 49.6% (Correct 116 / Wrong 118)
+- Katakana: 41.7% (Correct 45 / Wrong 63)
 - Keigo: 61.1% (Correct 11 / Wrong 7)
 - Kenjougo: 23.1% (Correct 3 / Wrong 10)
-- Reading: 47.2% (Correct 25 / Wrong 28)
-- Vocabulary: 43.5% (Correct 340 / Wrong 442)
+- Reading: 43.1% (Correct 25 / Wrong 33)
+- Vocabulary: 43.7% (Correct 349 / Wrong 449)
 
 ## 📚 Top Grammar
 
@@ -83,7 +83,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 190)
+- [[]] (Score: 195)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
@@ -125,13 +125,13 @@
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
 - [[筆者の考え]] (Score: 30)
+- [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
 - [[事実確認]] (Score: 27)
 - [[Synthesis (Commonality)]] (Score: 27)
 - [[筆者の主張の把握]] (Score: 20)
 - [[文書の目的把握]] (Score: 20)
 - [[Main Argument Identification]] (Score: 20)
 - [[鍵となる語]] (Score: 20)
-- [[Logic của vòng xoáy bạo lực]] (Score: 20)
 
 ## 📚 Top CompoundVerb
 
@@ -150,6 +150,7 @@
 
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
+- [[鍵をかける]] (Score: 25)
 - [[足を運ぶ]] (Score: 25)
 - [[思いがけない]] (Score: 25)
 - [[力を入れてまいりました]] (Score: 20)
@@ -157,7 +158,6 @@
 - [[こだわらない]] (Score: 20)
 - [[逆効果]] (Score: 20)
 - [[ひとりごと]] (Score: 20)
-- [[初日の出]] (Score: 20)
 
 ## 📚 Top Collocation
 
