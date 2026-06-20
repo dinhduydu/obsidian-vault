@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 119
-- Total Knowledge Items: 1692
-- Correct: 957
-- Wrong: 1262
-- Accuracy: 43.1%
+- Total Reviews: 126
+- Total Knowledge Items: 1756
+- Correct: 985
+- Wrong: 1307
+- Accuracy: 43.0%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 180| Wrong: 33
+- [[]] | Vocabulary| Score: 190| Wrong: 35
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 33
+- [[]] (Vocabulary) Wrong: 35
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 33.1% (Correct 48 / Wrong 97)
-- Collocation: 48.2% (Correct 55 / Wrong 59)
-- CompoundVerb: 41.6% (Correct 69 / Wrong 97)
-- FixedExpression: 37.4% (Correct 74 / Wrong 124)
-- Grammar: 45.2% (Correct 205 / Wrong 249)
-- Kanji: 51.5% (Correct 103 / Wrong 97)
-- Katakana: 41.6% (Correct 42 / Wrong 59)
+- Adverb: 32.5% (Correct 49 / Wrong 102)
+- Collocation: 47.4% (Correct 55 / Wrong 61)
+- CompoundVerb: 41.6% (Correct 72 / Wrong 101)
+- FixedExpression: 37.7% (Correct 77 / Wrong 127)
+- Grammar: 44.8% (Correct 215 / Wrong 265)
+- Kanji: 50.0% (Correct 106 / Wrong 106)
+- Katakana: 42.7% (Correct 44 / Wrong 59)
 - Keigo: 61.1% (Correct 11 / Wrong 7)
 - Kenjougo: 23.1% (Correct 3 / Wrong 10)
-- Reading: 44.0% (Correct 22 / Wrong 28)
-- Vocabulary: 42.8% (Correct 325 / Wrong 435)
+- Reading: 45.1% (Correct 23 / Wrong 28)
+- Vocabulary: 42.8% (Correct 330 / Wrong 441)
 
 ## 📚 Top Grammar
 
@@ -83,7 +83,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 180)
+- [[]] (Score: 190)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
