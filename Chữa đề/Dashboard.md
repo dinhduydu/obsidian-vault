@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 207
-- Total Knowledge Items: 2466
-- Correct: 1394
-- Wrong: 1747
-- Accuracy: 44.4%
+- Total Reviews: 211
+- Total Knowledge Items: 2500
+- Correct: 1400
+- Wrong: 1768
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
@@ -43,12 +43,12 @@
 - [[〜がち]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[むしろ]] (Adverb) Wrong: 4
+- [[〜からといって]] (Grammar) Wrong: 4
 - [[〜べき]] (Grammar) Wrong: 4
 - [[〜に違いない]] (Grammar) Wrong: 4
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜つつ]] (Grammar) Wrong: 4
-- [[〜からといって]] (Grammar) Wrong: 4
 - [[〜べきではない]] (Grammar) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Reading) Wrong: 4
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.3% (Correct 88 / Wrong 161)
+- Adverb: 35.4% (Correct 90 / Wrong 164)
 - Collocation: 48.1% (Correct 62 / Wrong 67)
-- CompoundVerb: 42.9% (Correct 87 / Wrong 116)
-- FixedExpression: 40.3% (Correct 118 / Wrong 175)
-- Grammar: 46.7% (Correct 339 / Wrong 387)
+- CompoundVerb: 42.4% (Correct 87 / Wrong 118)
+- FixedExpression: 40.4% (Correct 120 / Wrong 177)
+- Grammar: 46.8% (Correct 339 / Wrong 385)
 - Kanji: 49.2% (Correct 124 / Wrong 128)
-- Katakana: 48.4% (Correct 59 / Wrong 63)
-- Keigo: 52.2% (Correct 24 / Wrong 22)
+- Katakana: 47.6% (Correct 59 / Wrong 65)
+- Keigo: 51.1% (Correct 24 / Wrong 23)
 - Kenjougo: 25.0% (Correct 16 / Wrong 48)
 - Reading: 38.2% (Correct 42 / Wrong 68)
-- Vocabulary: 45.9% (Correct 435 / Wrong 512)
+- Vocabulary: 45.4% (Correct 437 / Wrong 525)
 
 ## 📚 Top Grammar
 
@@ -176,6 +176,7 @@
 
 - [[どうも]] (Score: 35)
 - [[つい]] (Score: 30)
+- [[せっかく]] (Score: 25)
 - [[はたして]] (Score: 25)
 - [[かえって]] (Score: 25)
 - [[いわゆる]] (Score: 25)
@@ -183,7 +184,6 @@
 - [[まさか]] (Score: 25)
 - [[とっくに]] (Score: 25)
 - [[要するに]] (Score: 25)
-- [[いつかは]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -196,7 +196,7 @@
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
-- [[〜でございます]] (Score: 15)
+- [[お越しいただく]] (Score: 15)
 
 ## 📚 Top Kenjougo
 
@@ -230,6 +230,6 @@
 - [[1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1)]]
 - [[2. Phân Tích Kết Quả N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
 - [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
-- [[1. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 46)]]
-- [[2. Phân Tích Kết Quả Luyện Thi JLPT N2 - Kính Ngữ (Nghe Hiểu)]]
-- [[3. Phân Tích Kết Quả Luyện Thi JLPT N2 - Kính Ngữ Nghe Hiểu (Test 3)]]
+- [[5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1)]]
+- [[6. Phân Tích N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
+- [[7. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
