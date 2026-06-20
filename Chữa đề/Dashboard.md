@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 227
-- Total Knowledge Items: 2714
-- Correct: 1547
-- Wrong: 1976
-- Accuracy: 43.9%
+- Total Reviews: 231
+- Total Knowledge Items: 2770
+- Correct: 1580
+- Wrong: 2004
+- Accuracy: 44.1%
 
 ## 🚨 Review Queue
 
@@ -21,15 +21,15 @@
 - [[〜からといって]] | Grammar| Score: 35| Wrong: 5
 - [[〜べき]] | Grammar| Score: 35| Wrong: 4
 - [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
+- [[〜にほかならない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 35| Wrong: 5
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜つつある]] | Grammar| Score: 35| Wrong: 5
-- [[〜にすぎない]] | Grammar| Score: 35| Wrong: 4
+- [[〜にすぎない]] | Grammar| Score: 35| Wrong: 5
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
 - [[改善]] | Kanji| Score: 35| Wrong: 4
-- [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] | Reading| Score: 32| Wrong: 4
 
 ## 🔥 Top Weak Points
 
@@ -46,27 +46,27 @@
 - [[〜にもかかわらず]] (Grammar) Wrong: 5
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
 - [[〜つつある]] (Grammar) Wrong: 5
+- [[〜にすぎない]] (Grammar) Wrong: 5
 - [[〜次第]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[むしろ]] (Adverb) Wrong: 4
 - [[〜べき]] (Grammar) Wrong: 4
 - [[〜に違いない]] (Grammar) Wrong: 4
-- [[〜こそ]] (Grammar) Wrong: 4
-- [[〜ざるを得ない]] (Grammar) Wrong: 4
+- [[〜にほかならない]] (Grammar) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 37.5% (Correct 116 / Wrong 193)
-- Collocation: 48.6% (Correct 71 / Wrong 75)
-- CompoundVerb: 41.8% (Correct 92 / Wrong 128)
-- FixedExpression: 39.9% (Correct 125 / Wrong 188)
-- Grammar: 46.5% (Correct 389 / Wrong 448)
-- Kanji: 49.3% (Correct 145 / Wrong 149)
-- Katakana: 46.0% (Correct 64 / Wrong 75)
+- Adverb: 38.1% (Correct 120 / Wrong 195)
+- Collocation: 49.3% (Correct 75 / Wrong 77)
+- CompoundVerb: 42.2% (Correct 95 / Wrong 130)
+- FixedExpression: 40.4% (Correct 128 / Wrong 189)
+- Grammar: 46.4% (Correct 398 / Wrong 459)
+- Kanji: 49.5% (Correct 149 / Wrong 152)
+- Katakana: 45.7% (Correct 64 / Wrong 76)
 - Keigo: 51.1% (Correct 24 / Wrong 23)
 - Kenjougo: 24.2% (Correct 16 / Wrong 50)
-- Reading: 36.1% (Correct 43 / Wrong 76)
-- Vocabulary: 44.7% (Correct 462 / Wrong 571)
+- Reading: 35.8% (Correct 43 / Wrong 77)
+- Vocabulary: 44.8% (Correct 468 / Wrong 576)
 
 ## 📚 Top Grammar
 
@@ -78,8 +78,8 @@
 - [[〜からといって]] (Score: 35)
 - [[〜べき]] (Score: 35)
 - [[〜に違いない]] (Score: 35)
+- [[〜にほかならない]] (Score: 35)
 - [[〜ざるを得ない]] (Score: 35)
-- [[〜つつ]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
@@ -101,11 +101,11 @@
 - [[弁償]] (Score: 20)
 - [[社交적]] (Score: 20)
 - [[携わる]] (Score: 20)
+- [[抵抗]] (Score: 20)
 - [[顕著]] (Score: 20)
 - [[塩]] (Score: 20)
 - [[灯]] (Score: 20)
 - [[報]] (Score: 20)
-- [[非]] (Score: 20)
 
 ## 📚 Top Katakana
 
