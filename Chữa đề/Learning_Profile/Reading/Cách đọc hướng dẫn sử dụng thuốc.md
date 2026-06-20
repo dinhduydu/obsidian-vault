@@ -1,18 +1,17 @@
 <!-- AUTO_START -->
 
-# はたして
+# Cách đọc hướng dẫn sử dụng thuốc
 
-Category: Adverb
+Category: Reading
 Correct: 0
-Wrong: 2
+Wrong: 1
 Accuracy: 0.0%
 Mastery: Low
 Priority: High
 
 ## Related Reviews
 
-- [[2. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 42]]
-- [[7. Phân Tích N2_TỪ NỐI (P3)]]
+- [[5. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 9]]
 
 <!-- AUTO_END -->
 

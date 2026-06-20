@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 177
-- Total Knowledge Items: 2207
-- Correct: 1254
-- Wrong: 1683
-- Accuracy: 42.7%
+- Total Reviews: 184
+- Total Knowledge Items: 2256
+- Correct: 1310
+- Wrong: 1690
+- Accuracy: 43.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 210| Wrong: 39
+- [[]] | Vocabulary| Score: 225| Wrong: 42
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 39
+- [[]] (Vocabulary) Wrong: 42
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 6
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 32.2% (Correct 74 / Wrong 156)
-- Collocation: 47.2% (Correct 59 / Wrong 66)
-- CompoundVerb: 41.6% (Correct 79 / Wrong 111)
-- FixedExpression: 37.6% (Correct 102 / Wrong 169)
-- Grammar: 44.6% (Correct 296 / Wrong 368)
-- Kanji: 49.2% (Correct 122 / Wrong 126)
-- Katakana: 44.2% (Correct 50 / Wrong 63)
+- Adverb: 33.6% (Correct 80 / Wrong 158)
+- Collocation: 47.6% (Correct 60 / Wrong 66)
+- CompoundVerb: 43.1% (Correct 84 / Wrong 111)
+- FixedExpression: 39.6% (Correct 110 / Wrong 168)
+- Grammar: 45.3% (Correct 306 / Wrong 369)
+- Kanji: 49.4% (Correct 123 / Wrong 126)
+- Katakana: 46.2% (Correct 54 / Wrong 63)
 - Keigo: 52.3% (Correct 23 / Wrong 21)
 - Kenjougo: 23.7% (Correct 14 / Wrong 45)
-- Reading: 39.2% (Correct 40 / Wrong 62)
-- Vocabulary: 44.3% (Correct 395 / Wrong 496)
+- Reading: 39.4% (Correct 41 / Wrong 63)
+- Vocabulary: 45.4% (Correct 415 / Wrong 500)
 
 ## 📚 Top Grammar
 
@@ -83,7 +83,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 210)
+- [[]] (Score: 225)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
@@ -176,14 +176,14 @@
 
 - [[どうも]] (Score: 35)
 - [[つい]] (Score: 30)
+- [[はたして]] (Score: 25)
+- [[かえって]] (Score: 25)
 - [[いわゆる]] (Score: 25)
 - [[とても]] (Score: 25)
 - [[まさか]] (Score: 25)
 - [[とっくに]] (Score: 25)
 - [[要するに]] (Score: 25)
 - [[いつかは]] (Score: 25)
-- [[のんびりと]] (Score: 25)
-- [[およそ]] (Score: 25)
 
 ## 📚 Top Keigo
 
