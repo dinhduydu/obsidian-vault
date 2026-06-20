@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 142
-- Total Knowledge Items: 1910
-- Correct: 1093
-- Wrong: 1416
-- Accuracy: 43.6%
+- Total Reviews: 144
+- Total Knowledge Items: 1937
+- Correct: 1108
+- Wrong: 1440
+- Accuracy: 43.5%
 
 ## 🚨 Review Queue
 
@@ -49,24 +49,24 @@
 - [[〜つつ]] (Grammar) Wrong: 4
 - [[やっと]] (Adverb) Wrong: 4
 - [[〜からこそ]] (Grammar) Wrong: 3
+- [[申し上げます]] (Kenjougo) Wrong: 3
 - [[落ち込む]] (CompoundVerb) Wrong: 3
 - [[見守る]] (CompoundVerb) Wrong: 3
 - [[結局]] (Adverb) Wrong: 3
-- [[〜とは限らない]] (Grammar) Wrong: 3
 
 ## 📈 Category Statistics
 
 - Adverb: 31.8% (Correct 49 / Wrong 105)
 - Collocation: 48.0% (Correct 59 / Wrong 64)
 - CompoundVerb: 41.8% (Correct 77 / Wrong 107)
-- FixedExpression: 37.8% (Correct 87 / Wrong 143)
-- Grammar: 46.7% (Correct 255 / Wrong 291)
-- Kanji: 49.6% (Correct 116 / Wrong 118)
+- FixedExpression: 37.3% (Correct 88 / Wrong 148)
+- Grammar: 46.8% (Correct 256 / Wrong 291)
+- Kanji: 49.8% (Correct 117 / Wrong 118)
 - Katakana: 42.2% (Correct 46 / Wrong 63)
-- Keigo: 53.3% (Correct 16 / Wrong 14)
-- Kenjougo: 27.3% (Correct 9 / Wrong 24)
+- Keigo: 53.7% (Correct 22 / Wrong 19)
+- Kenjougo: 26.9% (Correct 14 / Wrong 38)
 - Reading: 43.1% (Correct 25 / Wrong 33)
-- Vocabulary: 43.8% (Correct 354 / Wrong 454)
+- Vocabulary: 43.9% (Correct 355 / Wrong 454)
 
 ## 📚 Top Grammar
 
@@ -189,27 +189,27 @@
 
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
+- [[なさる]] (Score: 25)
 - [[お～になる]] (Score: 20)
+- [[お見えになる]] (Score: 20)
+- [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
 - [[ごらんになる]] (Score: 15)
-- [[なさる]] (Score: 15)
+- [[ご心配だ]] (Score: 15)
 - [[ご存じだ]] (Score: 15)
-- [[お越し]] (Score: 15)
-- [[ご覧いただく]] (Score: 15)
-- [[お買い上げ]] (Score: 7)
 
 ## 📚 Top Kenjougo
 
+- [[申し上げる]] (Score: 25)
+- [[存ずる]] (Score: 25)
 - [[いたす]] (Score: 25)
 - [[お～する]] (Score: 25)
 - [[いただく]] (Score: 22)
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
-- [[申し上げる]] (Score: 20)
-- [[お + stem + したい]] (Score: 20)
-- [[ご + Noun + します]] (Score: 20)
-- [[おる]] (Score: 20)
-- [[お目にかかる]] (Score: 20)
+- [[お持ちいたす]] (Score: 20)
+- [[お届けできる]] (Score: 20)
+- [[お借りする]] (Score: 20)
 
 ## 📅 Recent Reviews
 
