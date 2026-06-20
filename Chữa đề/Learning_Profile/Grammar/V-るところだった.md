@@ -1,18 +1,17 @@
 <!-- AUTO_START -->
 
-# 恐れ入りますが
+# V-るところだった
 
-Category: FixedExpression
+Category: Grammar
 Correct: 1
-Wrong: 2
-Accuracy: 33.3%
-Mastery: Medium
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
 Priority: Low
 
 ## Related Reviews
 
 - [[1. Phân Tích N2_TEST GIỮA GIỜ BỔ SUNG_BÀI 14]]
-- [[2. Phân Tích N3_KÍNH NGỮ (P5)]]
 
 <!-- AUTO_END -->
 

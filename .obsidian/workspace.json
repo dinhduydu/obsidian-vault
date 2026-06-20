@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０４月２０２６年/Week5/27042026/2. Phân Tích N2_BÀI TẬP ĐIỀN SAO (1).md",
+                "file": "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026/1. Phân Tích N2_MẪU NGỮ PHÁP SƠ CẤP_TEST 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phân Tích N2_BÀI TẬP ĐIỀN SAO (1)"
+              "title": "1. Phân Tích N2_MẪU NGỮ PHÁP SƠ CẤP_TEST 1"
+            }
+          },
+          {
+            "id": "4e5cc0201c9ff2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026/2. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 1"
+            }
+          },
+          {
+            "id": "a9a46eb93f0b9759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/２０２６年/０５月２０２６年/Week2/08052026/5. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 23"
             }
           },
           {
@@ -106,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 547.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -255,34 +283,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2be506fff70835bf",
+  "active": "a9a46eb93f0b9759",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Vocabulary/肝心（かんじん）.md",
-    "Chữa đề/Learning_Profile/Vocabulary/溝（みぞ）.md",
-    "Chữa đề/Learning_Profile/Grammar/〜とか.md",
-    "Chữa đề/Learning_Profile/Grammar/必ずしも〜とは限らない.md",
-    "Chữa đề/Learning_Profile/Grammar/〜というものでもない.md",
-    "Chữa đề/Learning_Profile/Kenjougo/賜る.md",
-    "Chữa đề/Learning_Profile/FixedExpression/言ờng thì 言い表せない.md",
-    "Chữa đề/Learning_Profile/Adverb/幸いに.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/言い表す.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/話しかける.md",
-    "Chữa đề/Learning_Profile/Grammar/〜にあたり.md",
-    "Chữa đề/Learning_Profile/Grammar/〜といって.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てやる.md",
-    "Chữa đề/Learning_Profile/Kanji/感謝.md",
-    "Chữa đề/Learning_Profile/Kanji/企画.md",
-    "Chữa đề/Learning_Profile/Kanji/影響.md",
-    "Chữa đề/Learning_Profile/Vocabulary/実態.md",
-    "Chữa đề/Learning_Profile/Vocabulary/襲う.md",
-    "Chữa đề/Learning_Profile/Vocabulary/痴漢.md",
-    "Chữa đề/Learning_Profile/Vocabulary/貧しい.md",
-    "Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md",
-    "Chữa đề/Learning_Profile/FixedExpression/日本独特の.md",
-    "Chữa đề/Learning_Profile/FixedExpression/大人というものだ.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てまで.md",
-    "Chữa đề/Learning_Profile/Grammar/〜にせよ...にせよ.md",
-    "Chữa đề/Learning_Profile/Grammar/〜すべきか否か.md",
+    "Chữa đề/Learning_Profile/Reading/共通点の抽出.md",
+    "Chữa đề/Learning_Profile/Vocabulary/貯蓄.md",
+    "Chữa đề/Learning_Profile/Vocabulary/家計管理.md",
+    "Chữa đề/Learning_Profile/Reading/Phân tích quan điểm đối chiếu (A & B).md",
+    "Chữa đề/Learning_Profile/FixedExpression/思いをする.md",
+    "Chữa đề/Learning_Profile/FixedExpression/それなりに.md",
+    "Chữa đề/Learning_Profile/Adverb/漠然と.md",
+    "Chữa đề/Learning_Profile/Grammar/〜さえ ... ば.md",
+    "Chữa đề/Learning_Profile/Grammar/〜を理由に.md",
+    "Chữa đề/Learning_Profile/Vocabulary/罪悪感.md",
+    "Chữa đề/Learning_Profile/Vocabulary/節約.md",
+    "Chữa đề/Learning_Profile/Reading/AとBの共通点.md",
+    "Chữa đề/Learning_Profile/FixedExpression/土俵に立つ.md",
+    "Chữa đề/Learning_Profile/Reading/Phân tích quan điểm tương phản A & B.md",
+    "Chữa đề/Learning_Profile/Vocabulary/自分磨き.md",
+    "Chữa đề/Learning_Profile/Vocabulary/土俵.md",
+    "Chữa đề/Learning_Profile/Vocabulary/学歴.md",
+    "Chữa đề/Learning_Profile/FixedExpression/あるに越したことはない.md",
+    "Chữa đề/Learning_Profile/Grammar/〜次第だ.md",
+    "Chữa đề/Learning_Profile/Grammar/〜に限らない.md",
+    "Chữa đề/Learning_Profile/Vocabulary/犠牲.md",
+    "Chữa đề/Learning_Profile/Vocabulary/惨め.md",
+    "Chữa đề/Learning_Profile/Vocabulary/不良品.md",
+    "Chữa đề/Learning_Profile/Adverb/もう少しで.md",
+    "Chữa đề/Learning_Profile/Adverb/せいぜい.md",
+    "Chữa đề/Learning_Profile/FixedExpression/思いもよらぬ.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week2/08052026",
+    "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026",
     "Chữa đề/２０２６年/０４月２０２６年/Week1/06042026",
     "Chữa đề/２０２６年/０４月２０２６年/Week1",
     "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026",
@@ -291,8 +321,6 @@
     "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026",
     "Chữa đề/２０２６年/０４月２０２６年/Week3/17042026",
     "Chữa đề/２０２６年/０４月２０２６年/Week3/20042026",
-    "Chữa đề/２０２６年/０４月２０２６年/Week3",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/20062026",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch01.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch04.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch02.canvas",

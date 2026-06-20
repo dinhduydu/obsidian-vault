@@ -1,17 +1,16 @@
 <!-- AUTO_START -->
 
-# 予算
+# Phân tích quan điểm đối chiếu (A & B)
 
-Category: Vocabulary
-Correct: 1
+Category: Reading
+Correct: 0
 Wrong: 0
-Accuracy: 100.0%
-Mastery: Medium
-Priority: Low
+Accuracy: 0%
+Mastery: New
+Priority: High
 
 ## Related Reviews
 
-- [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[4. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 23]]
 
 <!-- AUTO_END -->

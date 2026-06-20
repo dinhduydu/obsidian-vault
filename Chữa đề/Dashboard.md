@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 240
-- Total Knowledge Items: 2878
-- Correct: 1623
-- Wrong: 2039
-- Accuracy: 44.3%
+- Total Reviews: 245
+- Total Knowledge Items: 2906
+- Correct: 1645
+- Wrong: 2055
+- Accuracy: 44.5%
 
 ## 🚨 Review Queue
 
@@ -27,9 +27,9 @@
 - [[〜つつ]] | Grammar| Score: 35| Wrong: 5
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜つつある]] | Grammar| Score: 35| Wrong: 5
-- [[〜にすぎない]] | Grammar| Score: 35| Wrong: 5
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
+- [[改善]] | Kanji| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
@@ -44,11 +44,11 @@
 - [[〜がち]] (Grammar) Wrong: 6
 - [[申し上げます]] (Kenjougo) Wrong: 5
 - [[〜からといって]] (Grammar) Wrong: 5
+- [[〜にすぎない]] (Grammar) Wrong: 5
 - [[〜つつ]] (Grammar) Wrong: 5
 - [[〜にもかかわらず]] (Grammar) Wrong: 5
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
 - [[〜つつある]] (Grammar) Wrong: 5
-- [[〜にすぎない]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[〜からこそ]] (Grammar) Wrong: 4
 - [[むしろ]] (Adverb) Wrong: 4
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.9% (Correct 126 / Wrong 198)
+- Adverb: 38.7% (Correct 127 / Wrong 201)
 - Collocation: 49.4% (Correct 77 / Wrong 79)
 - CompoundVerb: 43.2% (Correct 98 / Wrong 129)
-- FixedExpression: 40.1% (Correct 131 / Wrong 196)
-- Grammar: 46.9% (Correct 418 / Wrong 474)
-- Kanji: 49.2% (Correct 153 / Wrong 158)
+- FixedExpression: 40.5% (Correct 136 / Wrong 200)
+- Grammar: 47.2% (Correct 427 / Wrong 478)
+- Kanji: 49.4% (Correct 153 / Wrong 157)
 - Katakana: 45.7% (Correct 64 / Wrong 76)
 - Keigo: 51.0% (Correct 25 / Wrong 24)
 - Kenjougo: 24.2% (Correct 16 / Wrong 50)
-- Reading: 35.8% (Correct 43 / Wrong 77)
-- Vocabulary: 45.0% (Correct 472 / Wrong 578)
+- Reading: 35.2% (Correct 43 / Wrong 79)
+- Vocabulary: 45.1% (Correct 479 / Wrong 582)
 
 ## 📚 Top Grammar
 
@@ -178,12 +178,12 @@
 - [[さっさと]] (Score: 30)
 - [[かえって]] (Score: 25)
 - [[せっかく]] (Score: 25)
+- [[あらかじめ]] (Score: 25)
 - [[すっきり]] (Score: 25)
 - [[はたして]] (Score: 25)
 - [[いわゆる]] (Score: 25)
 - [[とても]] (Score: 25)
 - [[まさか]] (Score: 25)
-- [[とっくに]] (Score: 25)
 
 ## 📚 Top Keigo
 
