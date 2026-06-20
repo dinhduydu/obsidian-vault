@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 239
-- Total Knowledge Items: 2874
-- Correct: 1621
-- Wrong: 2028
-- Accuracy: 44.4%
+- Total Reviews: 240
+- Total Knowledge Items: 2878
+- Correct: 1623
+- Wrong: 2039
+- Accuracy: 44.3%
 
 ## 🚨 Review Queue
 
@@ -50,23 +50,23 @@
 - [[〜つつある]] (Grammar) Wrong: 5
 - [[〜にすぎない]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
+- [[〜からこそ]] (Grammar) Wrong: 4
 - [[むしろ]] (Adverb) Wrong: 4
 - [[〜どころではない]] (FixedExpression) Wrong: 4
-- [[〜べき]] (Grammar) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 39.1% (Correct 126 / Wrong 196)
+- Adverb: 38.9% (Correct 126 / Wrong 198)
 - Collocation: 49.4% (Correct 77 / Wrong 79)
 - CompoundVerb: 43.2% (Correct 98 / Wrong 129)
-- FixedExpression: 40.0% (Correct 130 / Wrong 195)
-- Grammar: 47.1% (Correct 417 / Wrong 469)
-- Kanji: 49.4% (Correct 153 / Wrong 157)
+- FixedExpression: 40.1% (Correct 131 / Wrong 196)
+- Grammar: 46.9% (Correct 418 / Wrong 474)
+- Kanji: 49.2% (Correct 153 / Wrong 158)
 - Katakana: 45.7% (Correct 64 / Wrong 76)
 - Keigo: 51.0% (Correct 25 / Wrong 24)
 - Kenjougo: 24.2% (Correct 16 / Wrong 50)
 - Reading: 35.8% (Correct 43 / Wrong 77)
-- Vocabulary: 45.0% (Correct 472 / Wrong 576)
+- Vocabulary: 45.0% (Correct 472 / Wrong 578)
 
 ## 📚 Top Grammar
 
@@ -92,7 +92,7 @@
 - [[過剰]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[確保]] (Score: 25)
+- [[決めつける]] (Score: 25)
 
 ## 📚 Top Kanji
 
