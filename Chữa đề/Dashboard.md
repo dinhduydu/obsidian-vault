@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 257
-- Total Knowledge Items: 3005
-- Correct: 1717
-- Wrong: 2123
+- Total Reviews: 260
+- Total Knowledge Items: 3028
+- Correct: 1726
+- Wrong: 2139
 - Accuracy: 44.7%
 
 ## 🚨 Review Queue
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.7% (Correct 130 / Wrong 206)
+- Adverb: 38.5% (Correct 130 / Wrong 208)
 - Collocation: 48.4% (Correct 77 / Wrong 82)
-- CompoundVerb: 42.7% (Correct 99 / Wrong 133)
-- FixedExpression: 40.6% (Correct 139 / Wrong 203)
-- Grammar: 47.3% (Correct 439 / Wrong 489)
-- Kanji: 49.0% (Correct 150 / Wrong 156)
-- Katakana: 46.8% (Correct 73 / Wrong 83)
-- Keigo: 50.9% (Correct 27 / Wrong 26)
+- CompoundVerb: 42.7% (Correct 100 / Wrong 134)
+- FixedExpression: 41.0% (Correct 141 / Wrong 203)
+- Grammar: 47.3% (Correct 441 / Wrong 491)
+- Kanji: 49.3% (Correct 151 / Wrong 155)
+- Katakana: 45.6% (Correct 73 / Wrong 87)
+- Keigo: 51.9% (Correct 28 / Wrong 26)
 - Kenjougo: 26.5% (Correct 18 / Wrong 50)
-- Reading: 36.2% (Correct 46 / Wrong 81)
-- Vocabulary: 45.8% (Correct 519 / Wrong 614)
+- Reading: 35.2% (Correct 43 / Wrong 79)
+- Vocabulary: 45.6% (Correct 524 / Wrong 624)
 
 ## 📚 Top Grammar
 
@@ -92,7 +92,7 @@
 - [[過剰]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[専念]] (Score: 25)
+- [[ポイント理解]] (Score: 25)
 
 ## 📚 Top Kanji
 

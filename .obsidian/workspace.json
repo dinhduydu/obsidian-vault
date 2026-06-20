@@ -53,14 +53,17 @@
             "id": "a9a46eb93f0b9759",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026/4. Phân Tích N2_NGHE_TEST 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch03.canvas",
+                "viewState": {
+                  "x": 155.5,
+                  "y": -40,
+                  "zoom": -1.1056740423895774
+                }
               },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích N2_NGHE_TEST 5"
+              "icon": "lucide-layout-dashboard",
+              "title": "Day13_Batch03"
             }
           },
           {
@@ -166,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "思い出す",
+                "query": "長引く",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +190,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -285,33 +289,36 @@
   },
   "active": "a9a46eb93f0b9759",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026/3. Phân Tích N2_CHỌN TỪ_BÀI TẬP 7.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026/4. Phân Tích N2_NGHE_TEST 5.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026/2. Phân Tích N2_CHỌN TỪ_BÀI TẬP 6.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026/1. Phân Tích N2_CHỌN TỪ_BÀI TẬP 5.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/09052026/6. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 50..md",
+    "Chữa đề/Learning_Profile/CompoundVerb/長引く.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026/1. Phân Tích 50 câu hỏi về cách dùng từ.md",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」.canvas",
+    "Chữa đề/２０２６年/０５月２０２６年/Week3/20052026/2. Phân Tích Nghe hiểu N2 lần thứ 15.md",
+    "Chữa đề/Learning_Profile/Vocabulary/即時応答.md",
+    "Chữa đề/Learning_Profile/Vocabulary/統合理解.md",
+    "Chữa đề/Learning_Profile/Vocabulary/概要理解.md",
+    "Chữa đề/Learning_Profile/Vocabulary/ポイント理解.md",
+    "Chữa đề/Learning_Profile/Vocabulary/課題理解.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ため.md",
+    "Chữa đề/Learning_Profile/Katakana/キャンプ.md",
+    "Chữa đề/Learning_Profile/Katakana/ベランダ.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/書き直す.md",
+    "Chữa đề/Learning_Profile/Kanji/短所.md",
+    "Chữa đề/Learning_Profile/Vocabulary/文法.md",
+    "Chữa đề/Learning_Profile/Vocabulary/修正.md",
+    "Chữa đề/Learning_Profile/Vocabulary/構成.md",
+    "Chữa đề/Learning_Profile/Grammar/〜にする.md",
+    "Chữa đề/Learning_Profile/Keigo/させてもらえないでしょうか.md",
+    "Chữa đề/Learning_Profile/Vocabulary/伝言.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/かけ直す.md",
+    "Chữa đề/Learning_Profile/Adverb/のちほど.md",
+    "Chữa đề/Learning_Profile/Vocabulary/逆転勝ち.md",
+    "Chữa đề/Learning_Profile/FixedExpression/気をつけます.md",
+    "Chữa đề/Learning_Profile/Katakana/アイス.md",
+    "Chữa đề/Learning_Profile/Katakana/ホット.md",
+    "Chữa đề/Learning_Profile/Grammar/〜んじゃない？.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week3/20052026",
+    "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026",
-    "Chữa đề/Learning_Profile/CompoundVerb/取ってある.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ではない.md",
-    "Chữa đề/Learning_Profile/Grammar/〜される.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てある.md",
-    "Chữa đề/Learning_Profile/Vocabulary/集中.md",
-    "Chữa đề/Learning_Profile/Vocabulary/上手.md",
-    "Chữa đề/Learning_Profile/Vocabulary/面白かったです.md",
-    "Chữa đề/Learning_Profile/Vocabulary/分かりました.md",
-    "Chữa đề/Learning_Profile/Vocabulary/呼ぶ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/撮る.md",
-    "Chữa đề/Learning_Profile/Vocabulary/見せる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/見る.md",
-    "Chữa đề/Learning_Profile/FixedExpression/ちょっと気分が悪くて.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ましょうか.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てください.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てもいいですか.md",
-    "Chữa đề/Learning_Profile/Kenjougo/伺います.md",
-    "Chữa đề/Learning_Profile/Kenjougo/存じません.md",
-    "Chữa đề/Learning_Profile/Keigo/お待ちしております.md",
-    "Chữa đề/Learning_Profile/Keigo/〜様はいますか.md",
-    "Chữa đề/Learning_Profile/Keigo/〜様ですか.md",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/09052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week1/04052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/08052026",
@@ -319,8 +326,6 @@
     "Chữa đề/２０２６年/０４月２０２６年/Week1/06042026",
     "Chữa đề/２０２６年/０４月２０２６年/Week1",
     "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026",
-    "Chữa đề/２０２６年/０４月２０２６年/Week2/10042026",
-    "Chữa đề/２０２６年/０４月２０２６年/Week2",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch01.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch04.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch02.canvas",
@@ -339,7 +344,6 @@
     "Pasted image 20260618063345.png",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/06062026/500 無地語彙文法.canvas",
     "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題10.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題１２.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 10/他 - Tha.canvas"
+    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題１２.canvas"
   ]
 }
