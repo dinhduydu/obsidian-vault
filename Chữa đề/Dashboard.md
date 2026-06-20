@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 195
-- Total Knowledge Items: 2345
-- Correct: 1380
-- Wrong: 1744
-- Accuracy: 44.2%
+- Total Reviews: 196
+- Total Knowledge Items: 2360
+- Correct: 1394
+- Wrong: 1747
+- Accuracy: 44.4%
 
 ## 🚨 Review Queue
 
@@ -58,15 +58,15 @@
 
 - Adverb: 35.3% (Correct 88 / Wrong 161)
 - Collocation: 48.1% (Correct 62 / Wrong 67)
-- CompoundVerb: 43.1% (Correct 87 / Wrong 115)
-- FixedExpression: 39.9% (Correct 116 / Wrong 175)
-- Grammar: 46.2% (Correct 333 / Wrong 387)
+- CompoundVerb: 42.9% (Correct 87 / Wrong 116)
+- FixedExpression: 40.3% (Correct 118 / Wrong 175)
+- Grammar: 46.7% (Correct 339 / Wrong 387)
 - Kanji: 49.4% (Correct 123 / Wrong 126)
-- Katakana: 47.9% (Correct 58 / Wrong 63)
+- Katakana: 48.4% (Correct 59 / Wrong 63)
 - Keigo: 52.2% (Correct 24 / Wrong 22)
 - Kenjougo: 25.0% (Correct 16 / Wrong 48)
-- Reading: 38.5% (Correct 42 / Wrong 67)
-- Vocabulary: 45.7% (Correct 431 / Wrong 513)
+- Reading: 38.2% (Correct 42 / Wrong 68)
+- Vocabulary: 45.9% (Correct 436 / Wrong 514)
 
 ## 📚 Top Grammar
 
