@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 184
-- Total Knowledge Items: 2256
-- Correct: 1310
-- Wrong: 1690
-- Accuracy: 43.7%
+- Total Reviews: 195
+- Total Knowledge Items: 2345
+- Correct: 1380
+- Wrong: 1744
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 225| Wrong: 42
+- [[]] | Vocabulary| Score: 230| Wrong: 43
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
@@ -33,11 +33,12 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 42
+- [[]] (Vocabulary) Wrong: 43
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
+- [[〜次第]] (Grammar) Wrong: 5
 - [[〜あまり]] (Grammar) Wrong: 5
 - [[〜がち]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
@@ -49,24 +50,23 @@
 - [[〜べきではない]] (Grammar) Wrong: 4
 - [[〜からといって]] (Grammar) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
-- [[〜次第]] (Grammar) Wrong: 4
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Reading) Wrong: 4
 - [[どうも]] (Adverb) Wrong: 4
 - [[〜つつある]] (Grammar) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 33.6% (Correct 80 / Wrong 158)
-- Collocation: 47.6% (Correct 60 / Wrong 66)
-- CompoundVerb: 43.1% (Correct 84 / Wrong 111)
-- FixedExpression: 39.6% (Correct 110 / Wrong 168)
-- Grammar: 45.3% (Correct 306 / Wrong 369)
+- Adverb: 35.3% (Correct 88 / Wrong 161)
+- Collocation: 48.1% (Correct 62 / Wrong 67)
+- CompoundVerb: 43.1% (Correct 87 / Wrong 115)
+- FixedExpression: 39.9% (Correct 116 / Wrong 175)
+- Grammar: 46.2% (Correct 333 / Wrong 387)
 - Kanji: 49.4% (Correct 123 / Wrong 126)
-- Katakana: 46.2% (Correct 54 / Wrong 63)
-- Keigo: 52.3% (Correct 23 / Wrong 21)
-- Kenjougo: 23.7% (Correct 14 / Wrong 45)
-- Reading: 39.4% (Correct 41 / Wrong 63)
-- Vocabulary: 45.4% (Correct 415 / Wrong 500)
+- Katakana: 47.9% (Correct 58 / Wrong 63)
+- Keigo: 52.2% (Correct 24 / Wrong 22)
+- Kenjougo: 25.0% (Correct 16 / Wrong 48)
+- Reading: 38.5% (Correct 42 / Wrong 67)
+- Vocabulary: 45.7% (Correct 431 / Wrong 513)
 
 ## 📚 Top Grammar
 
@@ -83,16 +83,16 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 225)
+- [[]] (Score: 230)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
+- [[移転]] (Score: 25)
 - [[手入れ]] (Score: 25)
 - [[許す]] (Score: 25)
-- [[首相]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -148,6 +148,7 @@
 
 ## 📚 Top FixedExpression
 
+- [[逆効果]] (Score: 25)
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
 - [[願います]] (Score: 25)
@@ -157,7 +158,6 @@
 - [[力を入れてまいりました]] (Score: 20)
 - [[譲れない]] (Score: 20)
 - [[こだわらない]] (Score: 20)
-- [[逆効果]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -190,17 +190,18 @@
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
+- [[見えました]] (Score: 20)
 - [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
 - [[〜でございます]] (Score: 15)
-- [[ごらんになる]] (Score: 15)
 
 ## 📚 Top Kenjougo
 
 - [[申し上げる]] (Score: 30)
+- [[〜させていただきます]] (Score: 25)
 - [[お〜申し上げます]] (Score: 25)
 - [[存ずる]] (Score: 25)
 - [[いたす]] (Score: 25)
@@ -208,8 +209,7 @@
 - [[いただく]] (Score: 22)
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
-- [[おわび申し上げます]] (Score: 20)
-- [[お持ちいたす]] (Score: 20)
+- [[お招きいただき]] (Score: 20)
 
 ## 📅 Recent Reviews
 

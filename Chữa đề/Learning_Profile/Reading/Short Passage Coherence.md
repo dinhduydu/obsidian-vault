@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# Short Passage Coherence
+
+Category: Reading
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: Low
+Priority: High
+
+## Related Reviews
+
+- [[4. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

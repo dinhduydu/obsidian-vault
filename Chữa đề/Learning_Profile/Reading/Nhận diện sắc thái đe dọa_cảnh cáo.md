@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# Nhận diện sắc thái đe dọa/cảnh cáo
+
+Category: Reading
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[7. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 4]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
