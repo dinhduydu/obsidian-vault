@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 135
-- Total Knowledge Items: 1845
-- Correct: 1062
-- Wrong: 1366
-- Accuracy: 43.7%
+- Total Reviews: 142
+- Total Knowledge Items: 1910
+- Correct: 1093
+- Wrong: 1416
+- Accuracy: 43.6%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 32.5% (Correct 49 / Wrong 102)
+- Adverb: 31.8% (Correct 49 / Wrong 105)
 - Collocation: 48.0% (Correct 59 / Wrong 64)
-- CompoundVerb: 42.5% (Correct 76 / Wrong 103)
-- FixedExpression: 37.7% (Correct 83 / Wrong 137)
-- Grammar: 46.8% (Correct 246 / Wrong 280)
+- CompoundVerb: 41.8% (Correct 77 / Wrong 107)
+- FixedExpression: 37.8% (Correct 87 / Wrong 143)
+- Grammar: 46.7% (Correct 255 / Wrong 291)
 - Kanji: 49.6% (Correct 116 / Wrong 118)
-- Katakana: 41.7% (Correct 45 / Wrong 63)
-- Keigo: 61.1% (Correct 11 / Wrong 7)
-- Kenjougo: 23.1% (Correct 3 / Wrong 10)
+- Katakana: 42.2% (Correct 46 / Wrong 63)
+- Keigo: 53.3% (Correct 16 / Wrong 14)
+- Kenjougo: 27.3% (Correct 9 / Wrong 24)
 - Reading: 43.1% (Correct 25 / Wrong 33)
-- Vocabulary: 43.7% (Correct 349 / Wrong 449)
+- Vocabulary: 43.8% (Correct 354 / Wrong 454)
 
 ## 📚 Top Grammar
 
@@ -188,28 +188,28 @@
 ## 📚 Top Keigo
 
 - [[お待ちしておりました]] (Score: 25)
-- [[ございます]] (Score: 20)
+- [[いらっしゃいます]] (Score: 25)
+- [[お～になる]] (Score: 20)
 - [[ご予定]] (Score: 20)
+- [[ごらんになる]] (Score: 15)
+- [[なさる]] (Score: 15)
+- [[ご存じだ]] (Score: 15)
+- [[お越し]] (Score: 15)
 - [[ご覧いただく]] (Score: 15)
 - [[お買い上げ]] (Score: 7)
-- [[お泊まりになる]] (Score: 7)
-- [[お越しくださいました]] (Score: 5)
-- [[おいでいただく]] (Score: 0)
-- [[教えていただけませんか]] (Score: 0)
-- [[ご連絡を差し上げる]] (Score: 0)
 
 ## 📚 Top Kenjougo
 
+- [[いたす]] (Score: 25)
+- [[お～する]] (Score: 25)
+- [[いただく]] (Score: 22)
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
 - [[申し上げる]] (Score: 20)
-- [[うかがう]] (Score: 20)
-- [[お借りした]] (Score: 20)
-- [[まいります]] (Score: 15)
-- [[〜させていただきます]] (Score: 15)
-- [[申し上げます]] (Score: 12)
-- [[始めさせていただきます]] (Score: 12)
-- [[かしこまる]] (Score: 0)
+- [[お + stem + したい]] (Score: 20)
+- [[ご + Noun + します]] (Score: 20)
+- [[おる]] (Score: 20)
+- [[お目にかかる]] (Score: 20)
 
 ## 📅 Recent Reviews
 
