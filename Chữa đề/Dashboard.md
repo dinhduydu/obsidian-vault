@@ -2,88 +2,88 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 162
-- Total Knowledge Items: 2093
-- Correct: 1180
-- Wrong: 1569
-- Accuracy: 42.9%
+- Total Reviews: 169
+- Total Knowledge Items: 2144
+- Correct: 1203
+- Wrong: 1636
+- Accuracy: 42.4%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 205| Wrong: 38
+- [[]] | Vocabulary| Score: 210| Wrong: 39
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
+- [[〜あまり]] | Grammar| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
+- [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
-- [[〜あまり]] | Grammar| Score: 35| Wrong: 4
-- [[〜がち]] | Grammar| Score: 35| Wrong: 4
+- [[どうも]] | Adverb| Score: 35| Wrong: 4
+- [[〜がち]] | Grammar| Score: 35| Wrong: 5
 - [[改善]] | Kanji| Score: 35| Wrong: 4
 - [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
 - [[申し上げる]] | Kenjougo| Score: 30| Wrong: 3
-- [[〜とは限らない]] | Grammar| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
 - [[全体としての内容]] | Reading| Score: 30| Wrong: 3
 - [[〜べき]] | Grammar| Score: 30| Wrong: 3
-- [[〜に違いない]] | Grammar| Score: 30| Wrong: 3
 - [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
-- [[〜しかない]] | Grammar| Score: 30| Wrong: 3
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 38
+- [[]] (Vocabulary) Wrong: 39
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
+- [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
+- [[〜あまり]] (Grammar) Wrong: 5
+- [[〜がち]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
+- [[むしろ]] (Adverb) Wrong: 4
+- [[〜に違いない]] (Grammar) Wrong: 4
 - [[〜ざるを得ない]] (Grammar) Wrong: 4
 - [[Synthesis (Commonality)]] (Reading) Wrong: 4
 - [[〜べきではない]] (Grammar) Wrong: 4
 - [[〜ようとする]] (Grammar) Wrong: 4
-- [[〜あまり]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
-- [[〜がち]] (Grammar) Wrong: 4
+- [[どうも]] (Adverb) Wrong: 4
 - [[〜つつある]] (Grammar) Wrong: 4
 - [[まるで]] (Adverb) Wrong: 4
 - [[改善]] (Kanji) Wrong: 4
 - [[相当]] (Vocabulary) Wrong: 4
-- [[〜つつ]] (Grammar) Wrong: 4
-- [[やっと]] (Adverb) Wrong: 4
-- [[〜からこそ]] (Grammar) Wrong: 3
-- [[申し上げます]] (Kenjougo) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 32.4% (Correct 59 / Wrong 123)
-- Collocation: 48.0% (Correct 59 / Wrong 64)
-- CompoundVerb: 42.3% (Correct 80 / Wrong 109)
-- FixedExpression: 37.1% (Correct 95 / Wrong 161)
-- Grammar: 45.1% (Correct 281 / Wrong 342)
-- Kanji: 49.2% (Correct 116 / Wrong 120)
+- Adverb: 30.1% (Correct 65 / Wrong 151)
+- Collocation: 47.2% (Correct 59 / Wrong 66)
+- CompoundVerb: 42.1% (Correct 80 / Wrong 110)
+- FixedExpression: 37.2% (Correct 96 / Wrong 162)
+- Grammar: 44.2% (Correct 288 / Wrong 364)
+- Kanji: 48.5% (Correct 116 / Wrong 123)
 - Katakana: 44.2% (Correct 50 / Wrong 63)
-- Keigo: 53.5% (Correct 23 / Wrong 20)
+- Keigo: 52.3% (Correct 23 / Wrong 21)
 - Kenjougo: 23.7% (Correct 14 / Wrong 45)
-- Reading: 40.0% (Correct 26 / Wrong 39)
-- Vocabulary: 43.8% (Correct 377 / Wrong 483)
+- Reading: 37.1% (Correct 26 / Wrong 44)
+- Vocabulary: 44.2% (Correct 386 / Wrong 487)
 
 ## 📚 Top Grammar
 
+- [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
+- [[〜あまり]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
+- [[〜に違いない]] (Score: 35)
 - [[〜ざるを得ない]] (Score: 35)
 - [[〜べきではない]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
-- [[〜あまり]] (Score: 35)
 - [[〜がち]] (Score: 35)
-- [[〜とは限らない]] (Score: 30)
 - [[〜べき]] (Score: 30)
-- [[〜に違いない]] (Score: 30)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 205)
+- [[]] (Score: 210)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
@@ -125,13 +125,13 @@
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
 - [[筆者の考え]] (Score: 30)
+- [[Loại trừ phương án mang tính tuyệt đối]] (Score: 30)
 - [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
 - [[事実確認]] (Score: 27)
 - [[Synthesis (Commonality)]] (Score: 27)
 - [[筆者の主張の把握]] (Score: 25)
+- [[Tư duy tỷ lệ thuận (比例)]] (Score: 25)
 - [[文書の目的把握]] (Score: 20)
-- [[Main Argument Identification]] (Score: 20)
-- [[鍵となる語]] (Score: 20)
 
 ## 📚 Top CompoundVerb
 
@@ -174,29 +174,29 @@
 
 ## 📚 Top Adverb
 
-- [[つい]] (Score: 25)
+- [[どうも]] (Score: 35)
+- [[つい]] (Score: 30)
+- [[いわゆる]] (Score: 25)
+- [[とても]] (Score: 25)
+- [[まさか]] (Score: 25)
+- [[とっくに]] (Score: 25)
 - [[要するに]] (Score: 25)
 - [[いつかは]] (Score: 25)
 - [[のんびりと]] (Score: 25)
 - [[およそ]] (Score: 25)
-- [[とりあえず]] (Score: 25)
-- [[やっと]] (Score: 25)
-- [[結局]] (Score: 22)
-- [[まるで]] (Score: 22)
-- [[こっそり]] (Score: 20)
 
 ## 📚 Top Keigo
 
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
+- [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
 - [[〜でございます]] (Score: 15)
 - [[ごらんになる]] (Score: 15)
-- [[ご心配だ]] (Score: 15)
 
 ## 📚 Top Kenjougo
 

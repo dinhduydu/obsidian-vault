@@ -1,17 +1,17 @@
 <!-- AUTO_START -->
 
-# 〜か (câu hỏi gián tiếp)
+# 〜か (Câu hỏi gián tiếp)
 
 Category: Grammar
 Correct: 0
 Wrong: 1
 Accuracy: 0.0%
-Mastery: 🔴 Low
-Priority: 🔴 High
+Mastery: Low
+Priority: High
 
 ## Related Reviews
 
-- [[1. Phân Tích Kết Quả N2_TEST NGỮ PHÁP_BÀI 12.2]]
+- [[1. Phân Tích PHÓ TỪ_TEST 1]]
 
 <!-- AUTO_END -->
 
