@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 245
-- Total Knowledge Items: 2906
-- Correct: 1645
-- Wrong: 2055
-- Accuracy: 44.5%
+- Total Reviews: 253
+- Total Knowledge Items: 2976
+- Correct: 1687
+- Wrong: 2078
+- Accuracy: 44.8%
 
 ## 🚨 Review Queue
 
@@ -58,15 +58,15 @@
 
 - Adverb: 38.7% (Correct 127 / Wrong 201)
 - Collocation: 49.4% (Correct 77 / Wrong 79)
-- CompoundVerb: 43.2% (Correct 98 / Wrong 129)
-- FixedExpression: 40.5% (Correct 136 / Wrong 200)
-- Grammar: 47.2% (Correct 427 / Wrong 478)
+- CompoundVerb: 43.2% (Correct 99 / Wrong 130)
+- FixedExpression: 40.4% (Correct 136 / Wrong 201)
+- Grammar: 47.2% (Correct 433 / Wrong 485)
 - Kanji: 49.4% (Correct 153 / Wrong 157)
-- Katakana: 45.7% (Correct 64 / Wrong 76)
-- Keigo: 51.0% (Correct 25 / Wrong 24)
-- Kenjougo: 24.2% (Correct 16 / Wrong 50)
+- Katakana: 48.3% (Correct 72 / Wrong 77)
+- Keigo: 50.9% (Correct 27 / Wrong 26)
+- Kenjougo: 26.5% (Correct 18 / Wrong 50)
 - Reading: 35.2% (Correct 43 / Wrong 79)
-- Vocabulary: 45.1% (Correct 479 / Wrong 582)
+- Vocabulary: 45.8% (Correct 502 / Wrong 593)
 
 ## 📚 Top Grammar
 
@@ -92,7 +92,7 @@
 - [[過剰]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[決めつける]] (Score: 25)
+- [[慎重]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -141,10 +141,10 @@
 - [[出しすぎ]] (Score: 25)
 - [[長引く]] (Score: 25)
 - [[向き合う]] (Score: 25)
+- [[送られてくる]] (Score: 25)
 - [[〜てしまう]] (Score: 25)
 - [[打ち消す]] (Score: 25)
 - [[置き換える]] (Score: 20)
-- [[掘り下げる]] (Score: 20)
 
 ## 📚 Top FixedExpression
 
@@ -190,13 +190,13 @@
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
+- [[〜様ですか]] (Score: 20)
 - [[見えました]] (Score: 20)
 - [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
-- [[お帰りになり]] (Score: 17)
 
 ## 📚 Top Kenjougo
 
