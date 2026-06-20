@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 253
-- Total Knowledge Items: 2976
-- Correct: 1687
-- Wrong: 2078
-- Accuracy: 44.8%
+- Total Reviews: 257
+- Total Knowledge Items: 3005
+- Correct: 1717
+- Wrong: 2123
+- Accuracy: 44.7%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.7% (Correct 127 / Wrong 201)
-- Collocation: 49.4% (Correct 77 / Wrong 79)
-- CompoundVerb: 43.2% (Correct 99 / Wrong 130)
-- FixedExpression: 40.4% (Correct 136 / Wrong 201)
-- Grammar: 47.2% (Correct 433 / Wrong 485)
-- Kanji: 49.4% (Correct 153 / Wrong 157)
-- Katakana: 48.3% (Correct 72 / Wrong 77)
+- Adverb: 38.7% (Correct 130 / Wrong 206)
+- Collocation: 48.4% (Correct 77 / Wrong 82)
+- CompoundVerb: 42.7% (Correct 99 / Wrong 133)
+- FixedExpression: 40.6% (Correct 139 / Wrong 203)
+- Grammar: 47.3% (Correct 439 / Wrong 489)
+- Kanji: 49.0% (Correct 150 / Wrong 156)
+- Katakana: 46.8% (Correct 73 / Wrong 83)
 - Keigo: 50.9% (Correct 27 / Wrong 26)
 - Kenjougo: 26.5% (Correct 18 / Wrong 50)
-- Reading: 35.2% (Correct 43 / Wrong 79)
-- Vocabulary: 45.8% (Correct 502 / Wrong 593)
+- Reading: 36.2% (Correct 46 / Wrong 81)
+- Vocabulary: 45.8% (Correct 519 / Wrong 614)
 
 ## 📚 Top Grammar
 
@@ -92,7 +92,7 @@
 - [[過剰]] (Score: 25)
 - [[負担]] (Score: 25)
 - [[研修]] (Score: 25)
-- [[慎重]] (Score: 25)
+- [[専念]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -114,11 +114,11 @@
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
+- [[スムーズに]] (Score: 25)
+- [[マイペース]] (Score: 25)
+- [[シーズン]] (Score: 25)
 - [[コレクション]] (Score: 20)
 - [[レクリエーション]] (Score: 20)
-- [[イメージ]] (Score: 20)
-- [[コーチ]] (Score: 20)
-- [[サイレン]] (Score: 20)
 
 ## 📚 Top Reading
 
