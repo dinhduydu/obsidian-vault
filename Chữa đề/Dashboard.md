@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 151
-- Total Knowledge Items: 2017
-- Correct: 1150
-- Wrong: 1496
-- Accuracy: 43.5%
+- Total Reviews: 158
+- Total Knowledge Items: 2073
+- Correct: 1164
+- Wrong: 1557
+- Accuracy: 42.8%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 195| Wrong: 36
+- [[]] | Vocabulary| Score: 200| Wrong: 37
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -18,22 +18,22 @@
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[〜あまり]] | Grammar| Score: 35| Wrong: 4
+- [[〜がち]] | Grammar| Score: 35| Wrong: 4
 - [[改善]] | Kanji| Score: 35| Wrong: 4
 - [[落ち込む]] | CompoundVerb| Score: 30| Wrong: 3
 - [[見守る]] | CompoundVerb| Score: 30| Wrong: 3
+- [[申し上げる]] | Kenjougo| Score: 30| Wrong: 3
 - [[〜とは限らない]] | Grammar| Score: 30| Wrong: 3
 - [[文脈判断]] | Reading| Score: 30| Wrong: 3
 - [[全体としての内容]] | Reading| Score: 30| Wrong: 3
+- [[〜べき]] | Grammar| Score: 30| Wrong: 3
 - [[〜に違いない]] | Grammar| Score: 30| Wrong: 3
 - [[〜のではないだろうか]] | Grammar| Score: 30| Wrong: 3
 - [[〜しかない]] | Grammar| Score: 30| Wrong: 3
-- [[筆者の考え]] | Reading| Score: 30| Wrong: 3
-- [[〜からといって]] | Grammar| Score: 30| Wrong: 3
-- [[N2 Grammar Cloze (Email Magazine)]] | Reading| Score: 30| Wrong: 5
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 36
+- [[]] (Vocabulary) Wrong: 37
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 6
@@ -44,6 +44,8 @@
 - [[〜ようとする]] (Grammar) Wrong: 4
 - [[〜あまり]] (Grammar) Wrong: 4
 - [[〜次第]] (Grammar) Wrong: 4
+- [[〜がち]] (Grammar) Wrong: 4
+- [[〜つつある]] (Grammar) Wrong: 4
 - [[まるで]] (Adverb) Wrong: 4
 - [[改善]] (Kanji) Wrong: 4
 - [[相当]] (Vocabulary) Wrong: 4
@@ -51,22 +53,20 @@
 - [[やっと]] (Adverb) Wrong: 4
 - [[〜からこそ]] (Grammar) Wrong: 3
 - [[申し上げます]] (Kenjougo) Wrong: 3
-- [[落ち込む]] (CompoundVerb) Wrong: 3
-- [[見守る]] (CompoundVerb) Wrong: 3
 
 ## 📈 Category Statistics
 
-- Adverb: 33.1% (Correct 55 / Wrong 111)
+- Adverb: 31.6% (Correct 56 / Wrong 121)
 - Collocation: 48.0% (Correct 59 / Wrong 64)
 - CompoundVerb: 42.3% (Correct 80 / Wrong 109)
-- FixedExpression: 37.7% (Correct 92 / Wrong 152)
-- Grammar: 45.9% (Correct 273 / Wrong 322)
-- Kanji: 49.6% (Correct 116 / Wrong 118)
-- Katakana: 43.2% (Correct 48 / Wrong 63)
-- Keigo: 53.7% (Correct 22 / Wrong 19)
-- Kenjougo: 26.9% (Correct 14 / Wrong 38)
-- Reading: 42.6% (Correct 26 / Wrong 35)
-- Vocabulary: 44.0% (Correct 365 / Wrong 465)
+- FixedExpression: 37.4% (Correct 95 / Wrong 159)
+- Grammar: 44.8% (Correct 278 / Wrong 342)
+- Kanji: 49.4% (Correct 116 / Wrong 119)
+- Katakana: 44.2% (Correct 50 / Wrong 63)
+- Keigo: 53.5% (Correct 23 / Wrong 20)
+- Kenjougo: 24.1% (Correct 14 / Wrong 44)
+- Reading: 40.0% (Correct 26 / Wrong 39)
+- Vocabulary: 43.5% (Correct 367 / Wrong 477)
 
 ## 📚 Top Grammar
 
@@ -76,14 +76,14 @@
 - [[〜べきではない]] (Score: 35)
 - [[〜ようとする]] (Score: 35)
 - [[〜あまり]] (Score: 35)
+- [[〜がち]] (Score: 35)
 - [[〜とは限らない]] (Score: 30)
+- [[〜べき]] (Score: 30)
 - [[〜に違いない]] (Score: 30)
-- [[〜のではないだろうか]] (Score: 30)
-- [[〜しかない]] (Score: 30)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 195)
+- [[]] (Score: 200)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
@@ -150,6 +150,7 @@
 
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
+- [[願います]] (Score: 25)
 - [[鍵をかける]] (Score: 25)
 - [[足を運ぶ]] (Score: 25)
 - [[思いがけない]] (Score: 25)
@@ -157,7 +158,6 @@
 - [[譲れない]] (Score: 20)
 - [[こだわらない]] (Score: 20)
 - [[逆効果]] (Score: 20)
-- [[ひとりごと]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -174,6 +174,7 @@
 
 ## 📚 Top Adverb
 
+- [[つい]] (Score: 25)
 - [[要するに]] (Score: 25)
 - [[いつかは]] (Score: 25)
 - [[のんびりと]] (Score: 25)
@@ -183,7 +184,6 @@
 - [[結局]] (Score: 22)
 - [[まるで]] (Score: 22)
 - [[こっそり]] (Score: 20)
-- [[最優先]] (Score: 20)
 
 ## 📚 Top Keigo
 
@@ -194,22 +194,22 @@
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
+- [[〜でございます]] (Score: 15)
 - [[ごらんになる]] (Score: 15)
 - [[ご心配だ]] (Score: 15)
-- [[ご存じだ]] (Score: 15)
 
 ## 📚 Top Kenjougo
 
-- [[申し上げる]] (Score: 25)
+- [[申し上げる]] (Score: 30)
+- [[お〜申し上げます]] (Score: 25)
 - [[存ずる]] (Score: 25)
 - [[いたす]] (Score: 25)
 - [[お～する]] (Score: 25)
 - [[いただく]] (Score: 22)
 - [[伺い]] (Score: 20)
 - [[進呈いたします]] (Score: 20)
+- [[おわび申し上げます]] (Score: 20)
 - [[お持ちいたす]] (Score: 20)
-- [[お届けできる]] (Score: 20)
-- [[お借りする]] (Score: 20)
 
 ## 📅 Recent Reviews
 
