@@ -2,19 +2,21 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 231
-- Total Knowledge Items: 2770
-- Correct: 1580
-- Wrong: 2004
-- Accuracy: 44.1%
+- Total Reviews: 239
+- Total Knowledge Items: 2874
+- Correct: 1621
+- Wrong: 2028
+- Accuracy: 44.4%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 230| Wrong: 43
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[〜ざるを得ない]] | Grammar| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
+- [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -22,23 +24,23 @@
 - [[〜べき]] | Grammar| Score: 35| Wrong: 4
 - [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
 - [[〜にほかならない]] | Grammar| Score: 35| Wrong: 4
-- [[〜ざるを得ない]] | Grammar| Score: 35| Wrong: 4
 - [[〜つつ]] | Grammar| Score: 35| Wrong: 5
 - [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
 - [[〜つつある]] | Grammar| Score: 35| Wrong: 5
 - [[〜にすぎない]] | Grammar| Score: 35| Wrong: 5
 - [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
 - [[どうも]] | Adverb| Score: 35| Wrong: 4
-- [[改善]] | Kanji| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 43
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[〜ざるを得ない]] (Grammar) Wrong: 7
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
+- [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
 - [[申し上げます]] (Kenjougo) Wrong: 5
 - [[〜からといって]] (Grammar) Wrong: 5
@@ -47,39 +49,37 @@
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
 - [[〜つつある]] (Grammar) Wrong: 5
 - [[〜にすぎない]] (Grammar) Wrong: 5
-- [[〜次第]] (Grammar) Wrong: 5
 - [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
 - [[むしろ]] (Adverb) Wrong: 4
+- [[〜どころではない]] (FixedExpression) Wrong: 4
 - [[〜べき]] (Grammar) Wrong: 4
-- [[〜に違いない]] (Grammar) Wrong: 4
-- [[〜にほかならない]] (Grammar) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 38.1% (Correct 120 / Wrong 195)
-- Collocation: 49.3% (Correct 75 / Wrong 77)
-- CompoundVerb: 42.2% (Correct 95 / Wrong 130)
-- FixedExpression: 40.4% (Correct 128 / Wrong 189)
-- Grammar: 46.4% (Correct 398 / Wrong 459)
-- Kanji: 49.5% (Correct 149 / Wrong 152)
+- Adverb: 39.1% (Correct 126 / Wrong 196)
+- Collocation: 49.4% (Correct 77 / Wrong 79)
+- CompoundVerb: 43.2% (Correct 98 / Wrong 129)
+- FixedExpression: 40.0% (Correct 130 / Wrong 195)
+- Grammar: 47.1% (Correct 417 / Wrong 469)
+- Kanji: 49.4% (Correct 153 / Wrong 157)
 - Katakana: 45.7% (Correct 64 / Wrong 76)
-- Keigo: 51.1% (Correct 24 / Wrong 23)
+- Keigo: 51.0% (Correct 25 / Wrong 24)
 - Kenjougo: 24.2% (Correct 16 / Wrong 50)
 - Reading: 35.8% (Correct 43 / Wrong 77)
-- Vocabulary: 44.8% (Correct 468 / Wrong 576)
+- Vocabulary: 45.0% (Correct 472 / Wrong 576)
 
 ## 📚 Top Grammar
 
+- [[〜ざるを得ない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
 - [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
+- [[〜次第]] (Score: 42)
 - [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
 - [[〜からといって]] (Score: 35)
 - [[〜べき]] (Score: 35)
 - [[〜に違いない]] (Score: 35)
-- [[〜にほかならない]] (Score: 35)
-- [[〜ざるを得ない]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
@@ -148,6 +148,7 @@
 
 ## 📚 Top FixedExpression
 
+- [[〜どころではない]] (Score: 30)
 - [[逆効果]] (Score: 25)
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
@@ -157,7 +158,6 @@
 - [[思いがけない]] (Score: 25)
 - [[力を入れてまいりました]] (Score: 20)
 - [[譲れない]] (Score: 20)
-- [[こだわらない]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -176,7 +176,6 @@
 
 - [[どうも]] (Score: 35)
 - [[さっさと]] (Score: 30)
-- [[つい]] (Score: 30)
 - [[かえって]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[すっきり]] (Score: 25)
@@ -184,6 +183,7 @@
 - [[いわゆる]] (Score: 25)
 - [[とても]] (Score: 25)
 - [[まさか]] (Score: 25)
+- [[とっくに]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -196,7 +196,7 @@
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
-- [[お越しいただく]] (Score: 15)
+- [[お帰りになり]] (Score: 17)
 
 ## 📚 Top Kenjougo
 

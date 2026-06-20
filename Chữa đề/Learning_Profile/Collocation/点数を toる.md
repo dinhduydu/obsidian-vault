@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 点数を toる
+
+Category: Collocation
+Correct: 0
+Wrong: 0
+Accuracy: 0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[4. Phân Tích N2_BÀI TẬP ĐIỀN SAO (9)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
