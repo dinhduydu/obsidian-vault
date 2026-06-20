@@ -2,16 +2,19 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 260
-- Total Knowledge Items: 3028
-- Correct: 1726
-- Wrong: 2139
-- Accuracy: 44.7%
+- Total Reviews: 279
+- Total Knowledge Items: 3280
+- Correct: 1895
+- Wrong: 2375
+- Accuracy: 44.4%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 230| Wrong: 43
+- [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
+- [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[〜ざるを得ない]] | Grammar| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
@@ -20,21 +23,23 @@
 - [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
+- [[申し上げる]] | Kenjougo| Score: 35| Wrong: 4
+- [[全体理解]] | Reading| Score: 35| Wrong: 4
+- [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
+- [[模擬試験]] | Vocabulary| Score: 35| Wrong: 7
+- [[質問とせんたくし]] | Reading| Score: 35| Wrong: 4
 - [[〜からといって]] | Grammar| Score: 35| Wrong: 5
 - [[〜べき]] | Grammar| Score: 35| Wrong: 4
-- [[〜に違いない]] | Grammar| Score: 35| Wrong: 4
-- [[〜にほかならない]] | Grammar| Score: 35| Wrong: 4
-- [[〜つつ]] | Grammar| Score: 35| Wrong: 5
-- [[〜べきではない]] | Grammar| Score: 35| Wrong: 4
-- [[〜つつある]] | Grammar| Score: 35| Wrong: 5
-- [[〜ようとする]] | Grammar| Score: 35| Wrong: 4
-- [[どうも]] | Adverb| Score: 35| Wrong: 4
-- [[改善]] | Kanji| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 43
+- [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[必修パターン]] (Vocabulary) Wrong: 7
+- [[模擬試験]] (Vocabulary) Wrong: 7
+- [[返事]] (FixedExpression) Wrong: 7
 - [[〜ざるを得ない]] (Grammar) Wrong: 7
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
@@ -48,25 +53,20 @@
 - [[〜つつ]] (Grammar) Wrong: 5
 - [[〜にもかかわらず]] (Grammar) Wrong: 5
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
-- [[〜つつある]] (Grammar) Wrong: 5
-- [[N2 Grammar Cloze (Email Magazine)]] (Reading) Wrong: 5
-- [[〜からこそ]] (Grammar) Wrong: 4
-- [[むしろ]] (Adverb) Wrong: 4
-- [[〜どころではない]] (FixedExpression) Wrong: 4
 
 ## 📈 Category Statistics
 
-- Adverb: 38.5% (Correct 130 / Wrong 208)
-- Collocation: 48.4% (Correct 77 / Wrong 82)
-- CompoundVerb: 42.7% (Correct 100 / Wrong 134)
-- FixedExpression: 41.0% (Correct 141 / Wrong 203)
-- Grammar: 47.3% (Correct 441 / Wrong 491)
-- Kanji: 49.3% (Correct 151 / Wrong 155)
-- Katakana: 45.6% (Correct 73 / Wrong 87)
+- Adverb: 38.9% (Correct 138 / Wrong 217)
+- Collocation: 48.5% (Correct 79 / Wrong 84)
+- CompoundVerb: 41.5% (Correct 105 / Wrong 148)
+- FixedExpression: 40.5% (Correct 161 / Wrong 237)
+- Grammar: 47.3% (Correct 445 / Wrong 495)
+- Kanji: 46.4% (Correct 192 / Wrong 222)
+- Katakana: 45.0% (Correct 85 / Wrong 104)
 - Keigo: 51.9% (Correct 28 / Wrong 26)
-- Kenjougo: 26.5% (Correct 18 / Wrong 50)
-- Reading: 35.2% (Correct 43 / Wrong 79)
-- Vocabulary: 45.6% (Correct 524 / Wrong 624)
+- Kenjougo: 26.1% (Correct 18 / Wrong 51)
+- Reading: 35.2% (Correct 56 / Wrong 103)
+- Vocabulary: 46.1% (Correct 588 / Wrong 688)
 
 ## 📚 Top Grammar
 
@@ -85,31 +85,31 @@
 
 - [[]] (Score: 230)
 - [[& Kiến thức liên quan]] (Score: 55)
+- [[必修パターン]] (Score: 35)
+- [[模擬試験]] (Score: 35)
+- [[持参]] (Score: 30)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[移転]] (Score: 25)
 - [[過剰]] (Score: 25)
-- [[負担]] (Score: 25)
-- [[研修]] (Score: 25)
-- [[ポイント理解]] (Score: 25)
 
 ## 📚 Top Kanji
 
 - [[改善]] (Score: 35)
+- [[外科]] (Score: 25)
+- [[衣装]] (Score: 25)
+- [[演説]] (Score: 25)
 - [[把握]] (Score: 20)
-- [[弁償]] (Score: 20)
-- [[社交적]] (Score: 20)
-- [[携わる]] (Score: 20)
-- [[抵抗]] (Score: 20)
-- [[顕著]] (Score: 20)
-- [[塩]] (Score: 20)
-- [[灯]] (Score: 20)
-- [[報]] (Score: 20)
+- [[仮〜]] (Score: 20)
+- [[不〜]] (Score: 20)
+- [[勇ましい]] (Score: 20)
+- [[額]] (Score: 20)
+- [[白髪]] (Score: 20)
 
 ## 📚 Top Katakana
 
-- [[ファスナー]] (Score: 25)
+- [[ファスナー]] (Score: 30)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
@@ -122,16 +122,16 @@
 
 ## 📚 Top Reading
 
+- [[即時応答]] (Score: 55)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
+- [[全体理解]] (Score: 35)
+- [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[文脈判断]] (Score: 30)
 - [[全体としての内容]] (Score: 30)
 - [[筆者の考え]] (Score: 30)
 - [[Phân biệt Ko-So-A trong văn bản]] (Score: 30)
 - [[Loại trừ phương án mang tính tuyệt đối]] (Score: 30)
-- [[N2 Grammar Cloze (Email Magazine)]] (Score: 30)
-- [[事実確認]] (Score: 27)
-- [[Synthesis (Commonality)]] (Score: 27)
 
 ## 📚 Top CompoundVerb
 
@@ -140,14 +140,16 @@
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
 - [[長引く]] (Score: 25)
-- [[向き合う]] (Score: 25)
-- [[送られてくる]] (Score: 25)
-- [[〜てしまう]] (Score: 25)
-- [[打ち消す]] (Score: 25)
-- [[置き換える]] (Score: 20)
+- [[透き通る]] (Score: 25)
+- [[追い込む]] (Score: 25)
+- [[打ち合わせる]] (Score: 25)
+- [[思い出す]] (Score: 25)
+- [[引き受ける]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
+- [[最もよいもの]] (Score: 50)
+- [[返事]] (Score: 50)
 - [[〜どころではない]] (Score: 30)
 - [[逆効果]] (Score: 25)
 - [[耳にする]] (Score: 25)
@@ -156,8 +158,6 @@
 - [[鍵をかける]] (Score: 25)
 - [[足を運ぶ]] (Score: 25)
 - [[思いがけない]] (Score: 25)
-- [[力を入れてまいりました]] (Score: 20)
-- [[譲れない]] (Score: 20)
 
 ## 📚 Top Collocation
 
@@ -179,11 +179,11 @@
 - [[かえって]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[あらかじめ]] (Score: 25)
+- [[偶然]] (Score: 25)
 - [[すっきり]] (Score: 25)
 - [[はたして]] (Score: 25)
 - [[いわゆる]] (Score: 25)
 - [[とても]] (Score: 25)
-- [[まさか]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -200,7 +200,7 @@
 
 ## 📚 Top Kenjougo
 
-- [[申し上げる]] (Score: 30)
+- [[申し上げる]] (Score: 35)
 - [[申し上げます]] (Score: 27)
 - [[〜させていただきます]] (Score: 25)
 - [[お〜申し上げます]] (Score: 25)
@@ -228,8 +228,8 @@
 - [[4. Phân Tích BÀI LÀM N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 14]]
 - [[5. Phân Tích BÀI LÀM N2_NGHE HIỂU_問題3 (1806263.PDF)]]
 - [[2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ]]
-- [[1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1)]]
-- [[2. Phân Tích Kết Quả N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
-- [[3. Phân Tích Kết Quả N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9]]
-- [[5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1)]]
-- [[6. Phân Tích N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5]]
+- [[2. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 2 (P3)]]
+- [[3. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 1]]
+- [[4. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 2]]
+- [[5. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 3]]
+- [[6. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 4]]

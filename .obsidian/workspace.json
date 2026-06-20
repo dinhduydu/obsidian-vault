@@ -53,17 +53,14 @@
             "id": "a9a46eb93f0b9759",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch03.canvas",
-                "viewState": {
-                  "x": 155.5,
-                  "y": -40,
-                  "zoom": -1.1056740423895774
-                }
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/6. Phân Tích N2_聴解_必修パターン_模擬試験_問題4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day13_Batch03"
+              "icon": "lucide-file",
+              "title": "6. Phân Tích N2_聴解_必修パターン_模擬試験_問題4"
             }
           },
           {
@@ -190,8 +187,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,33 +285,37 @@
   },
   "active": "a9a46eb93f0b9759",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/CompoundVerb/長引く.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026/1. Phân Tích 50 câu hỏi về cách dùng từ.md",
+    "Chữa đề/Learning_Profile/Vocabulary/料理を分ける.md",
+    "Chữa đề/Learning_Profile/Vocabulary/料理を食べる.md",
+    "Chữa đề/Learning_Profile/Vocabulary/料理を作る.md",
+    "Chữa đề/Learning_Profile/Vocabulary/料理を調べる.md",
+    "Chữa đề/Learning_Profile/FixedExpression/あくなki.md",
+    "Chữa đề/Learning_Profile/FixedExpression/時間つぶし.md",
+    "Chữa đề/Learning_Profile/Adverb/まさに.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/埋め合わせる.md",
+    "Chữa đề/Learning_Profile/Grammar/〜に応える.md",
+    "Chữa đề/Learning_Profile/Grammar/〜て仕方がない.md",
+    "Chữa đề/Learning_Profile/Kanji/価値観.md",
+    "Chữa đề/Learning_Profile/Vocabulary/飽きる.md",
+    "Chữa đề/Learning_Profile/Vocabulary/勤勉.md",
+    "Chữa đề/Learning_Profile/Vocabulary/こぼれる.md",
+    "Chữa đề/Learning_Profile/Vocabulary/妥当.md",
+    "Chữa đề/Learning_Profile/Vocabulary/きつい.md",
+    "Chữa đề/Learning_Profile/Vocabulary/満足する.md",
+    "Chữa đề/Learning_Profile/Collocation/ボリュームがある.md",
+    "Chữa đề/Learning_Profile/Vocabulary/中央.md",
+    "Chữa đề/Learning_Profile/Adverb/偶然.md",
+    "Chữa đề/Learning_Profile/Vocabulary/調子.md",
+    "Chữa đề/Learning_Profile/FixedExpression/メモをとる.md",
+    "Chữa đề/Learning_Profile/Katakana/コンクール.md",
+    "Chữa đề/Learning_Profile/FixedExpression/先入観を持たずに.md",
+    "Chữa đề/Learning_Profile/FixedExpression/ゼロから考える.md",
+    "Chữa đề/Learning_Profile/Adverb/はるかに.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Week1/03062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Week1/01062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch03.canvas",
     "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week3/20052026/2. Phân Tích Nghe hiểu N2 lần thứ 15.md",
-    "Chữa đề/Learning_Profile/Vocabulary/即時応答.md",
-    "Chữa đề/Learning_Profile/Vocabulary/統合理解.md",
-    "Chữa đề/Learning_Profile/Vocabulary/概要理解.md",
-    "Chữa đề/Learning_Profile/Vocabulary/ポイント理解.md",
-    "Chữa đề/Learning_Profile/Vocabulary/課題理解.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ため.md",
-    "Chữa đề/Learning_Profile/Katakana/キャンプ.md",
-    "Chữa đề/Learning_Profile/Katakana/ベランダ.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/書き直す.md",
-    "Chữa đề/Learning_Profile/Kanji/短所.md",
-    "Chữa đề/Learning_Profile/Vocabulary/文法.md",
-    "Chữa đề/Learning_Profile/Vocabulary/修正.md",
-    "Chữa đề/Learning_Profile/Vocabulary/構成.md",
-    "Chữa đề/Learning_Profile/Grammar/〜にする.md",
-    "Chữa đề/Learning_Profile/Keigo/させてもらえないでしょうか.md",
-    "Chữa đề/Learning_Profile/Vocabulary/伝言.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/かけ直す.md",
-    "Chữa đề/Learning_Profile/Adverb/のちほど.md",
-    "Chữa đề/Learning_Profile/Vocabulary/逆転勝ち.md",
-    "Chữa đề/Learning_Profile/FixedExpression/気をつけます.md",
-    "Chữa đề/Learning_Profile/Katakana/アイス.md",
-    "Chữa đề/Learning_Profile/Katakana/ホット.md",
-    "Chữa đề/Learning_Profile/Grammar/〜んじゃない？.md",
     "Chữa đề/２０２６年/０５月２０２６年/Week3/20052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026",
@@ -323,9 +323,6 @@
     "Chữa đề/２０２６年/０５月２０２６年/Week1/04052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/08052026",
     "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026",
-    "Chữa đề/２０２６年/０４月２０２６年/Week1/06042026",
-    "Chữa đề/２０２６年/０４月２０２６年/Week1",
-    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch01.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch04.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch02.canvas",
@@ -343,7 +340,6 @@
     "Pasted image 20260618063512.png",
     "Pasted image 20260618063345.png",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/06062026/500 無地語彙文法.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題10.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題１２.canvas"
+    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題10.canvas"
   ]
 }
