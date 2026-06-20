@@ -3,7 +3,7 @@
 ## 🎯 Overall
 
 - Total Reviews: 196
-- Total Knowledge Items: 2372
+- Total Knowledge Items: 2389
 - Correct: 1394
 - Wrong: 1747
 - Accuracy: 44.4%
