@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 281
-- Total Knowledge Items: 3300
-- Correct: 1899
-- Wrong: 2397
-- Accuracy: 44.2%
+- Total Reviews: 284
+- Total Knowledge Items: 3391
+- Correct: 1949
+- Wrong: 2471
+- Accuracy: 44.1%
 
 ## 🚨 Review Queue
 
@@ -56,17 +56,17 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.5% (Correct 139 / Wrong 222)
+- Adverb: 38.5% (Correct 145 / Wrong 232)
 - Collocation: 48.2% (Correct 79 / Wrong 85)
 - CompoundVerb: 41.3% (Correct 105 / Wrong 149)
-- FixedExpression: 40.2% (Correct 161 / Wrong 239)
-- Grammar: 47.5% (Correct 447 / Wrong 495)
-- Kanji: 46.4% (Correct 194 / Wrong 224)
-- Katakana: 44.7% (Correct 85 / Wrong 105)
+- FixedExpression: 40.4% (Correct 164 / Wrong 242)
+- Grammar: 47.4% (Correct 447 / Wrong 496)
+- Kanji: 46.5% (Correct 191 / Wrong 220)
+- Katakana: 44.3% (Correct 85 / Wrong 107)
 - Keigo: 51.9% (Correct 28 / Wrong 26)
-- Kenjougo: 26.1% (Correct 18 / Wrong 51)
-- Reading: 34.4% (Correct 56 / Wrong 107)
-- Vocabulary: 45.8% (Correct 587 / Wrong 694)
+- Kenjougo: 26.9% (Correct 18 / Wrong 49)
+- Reading: 33.3% (Correct 55 / Wrong 110)
+- Vocabulary: 45.6% (Correct 632 / Wrong 755)
 
 ## 📚 Top Grammar
 
@@ -87,12 +87,12 @@
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
+- [[まいる]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[移転]] (Score: 25)
-- [[過剰]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -103,9 +103,9 @@
 - [[把握]] (Score: 20)
 - [[仮〜]] (Score: 20)
 - [[不〜]] (Score: 20)
-- [[勇ましい]] (Score: 20)
 - [[額]] (Score: 20)
 - [[白髪]] (Score: 20)
+- [[顧みる]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -152,12 +152,12 @@
 - [[返事]] (Score: 50)
 - [[〜どころではない]] (Score: 30)
 - [[逆効果]] (Score: 25)
+- [[明け方]] (Score: 25)
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
 - [[願います]] (Score: 25)
 - [[鍵をかける]] (Score: 25)
 - [[足を運ぶ]] (Score: 25)
-- [[思いがけない]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -175,15 +175,15 @@
 ## 📚 Top Adverb
 
 - [[どうも]] (Score: 35)
+- [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
+- [[そうぞうしい]] (Score: 25)
 - [[かえって]] (Score: 25)
+- [[偶然]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[あらかじめ]] (Score: 25)
-- [[偶然]] (Score: 25)
 - [[すっきり]] (Score: 25)
 - [[はたして]] (Score: 25)
-- [[いわゆる]] (Score: 25)
-- [[とても]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -230,6 +230,6 @@
 - [[1. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP JLPT 12.2025_TEST 1]]
 - [[2. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2]]
 - [[2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ]]
-- [[2. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 2 (P3)]]
-- [[3. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 1]]
-- [[4. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 2]]
+- [[3. Phân Tích Từ gần nghĩa (Day 12)]]
+- [[4. Phân Tích N2 - Đọc hiểu & Ngữ pháp (Test 13)]]
+- [[1. Phân Tích Phân tích bài làm JLPT N2 - Ôn tập Từ vựng (P1)]]
