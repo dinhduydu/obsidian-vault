@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"c69dd695c2eac177","x":860,"y":-256,"width":600,"height":840,"type":"group","label":"Compound Verb"},
+		{"id":"ea666b15f9725ef9","type":"text","text":"持","x":-117,"y":-66,"width":250,"height":60},
+		{"id":"f47ea8cddfd04df3","x":1040,"y":-236,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/持ち出す.md"},
+		{"id":"c5ebcfef01215473","x":1040,"y":164,"width":366,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/持てあます.md"},
+		{"id":"b7b4d0e12e898f7a","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/持参.md","x":780,"y":-1060,"width":300,"height":194},
+		{"id":"cd38c707c53adf37","x":1520,"y":-236,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/持って帰る.md"}
+	],
+	"edges":[
+		{"id":"3d96699d28ecc16e","fromNode":"ea666b15f9725ef9","fromSide":"right","toNode":"b7b4d0e12e898f7a","toSide":"left"},
+		{"id":"a8464163398f2e92","fromNode":"ea666b15f9725ef9","fromSide":"right","toNode":"c69dd695c2eac177","toSide":"left"}
+	]
+}

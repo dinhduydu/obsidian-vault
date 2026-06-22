@@ -11,9 +11,10 @@
 		{"id":"820fb194c8b84354","type":"text","text":"旅行に行くのは来週だ。","x":340,"y":-818,"width":250,"height":60},
 		{"id":"659d76c6e8e8d5b7","type":"text","text":"「N2」は","x":-1530,"y":71,"width":250,"height":60},
 		{"id":"3a70ede285ec1f3d","type":"text","text":"はさておき","x":-1886,"y":408,"width":250,"height":60},
-		{"id":"4a9f64b90e1ed0d2","x":-1406,"y":413,"width":250,"height":60,"type":"text","text":"はともかく"},
-		{"id":"c13e7550aa748072","x":-1442,"y":-468,"width":250,"height":60,"type":"text","text":"「N3」は"},
-		{"id":"b440637b9337d8fe","type":"text","text":"～もちろん","x":-2000,"y":-468,"width":250,"height":60}
+		{"id":"4a9f64b90e1ed0d2","type":"text","text":"はともかく","x":-1406,"y":413,"width":250,"height":60},
+		{"id":"c13e7550aa748072","type":"text","text":"「N3」は","x":-1442,"y":-468,"width":250,"height":60},
+		{"id":"b440637b9337d8fe","type":"text","text":"～もちろん","x":-2000,"y":-468,"width":250,"height":60},
+		{"id":"04c4990180e1cd1a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもちろん.md","x":-2840,"y":-779,"width":680,"height":682}
 	],
 	"edges":[
 		{"id":"c3cea95d1e7b3c04","fromNode":"f39b7c3d1307dcf6","fromSide":"right","toNode":"a2825e8c0449f958","toSide":"left"},
@@ -28,6 +29,7 @@
 		{"id":"eb50ea1fe80ae4e7","fromNode":"9c00fc0da9f7b6c2","fromSide":"bottom","toNode":"659d76c6e8e8d5b7","toSide":"top","label":"「N2」は"},
 		{"id":"c86905b299a119cd","fromNode":"659d76c6e8e8d5b7","fromSide":"bottom","toNode":"3a70ede285ec1f3d","toSide":"top","label":"はさておき"},
 		{"id":"8e93f3605be835b9","fromNode":"659d76c6e8e8d5b7","fromSide":"bottom","toNode":"4a9f64b90e1ed0d2","toSide":"top","label":"はともかく"},
-		{"id":"13d2062ef0424728","fromNode":"9c00fc0da9f7b6c2","fromSide":"left","toNode":"c13e7550aa748072","toSide":"right"}
+		{"id":"13d2062ef0424728","fromNode":"9c00fc0da9f7b6c2","fromSide":"left","toNode":"c13e7550aa748072","toSide":"right"},
+		{"id":"e5593295367c97f9","fromNode":"b440637b9337d8fe","fromSide":"left","toNode":"04c4990180e1cd1a","toSide":"right"}
 	]
 }
