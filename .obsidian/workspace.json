@@ -59,14 +59,17 @@
             "id": "a7df854a1477c359",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/のんき.md",
-                "mode": "source",
-                "source": false
+                "file": "N2文法/助詞/へ.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "のんき"
+              "icon": "lucide-layout-dashboard",
+              "title": "へ"
             }
           },
           {
@@ -119,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "のんき",
+                "query": "ことへとつながる",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,6 +241,13 @@
   },
   "active": "a7df854a1477c359",
   "lastOpenFiles": [
+    "Untitled 14.base",
+    "N2文法/助詞/へ.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜ことへとつながる.md",
+    "へ.canvas",
+    "N2文法/助詞/と.canvas",
+    "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/6. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 2..md",
+    "Chữa đề/Learning_Profile/Adverb/のんき.md",
     "Chữa đề/２０２６年/０２月２０２６年/Week2/10022026/3. Phân Tích TỪ NỐI_TEST 2 (THEO CHỦ ĐIỂM).md",
     "N2文法/助詞/むしろ.canvas",
     "Chữa đề/Learning_Profile/Adverb/むしろ.md",
@@ -262,9 +271,6 @@
     "Chữa đề/Learning_Profile/Conjunction/それなら.md",
     "Chữa đề/Learning_Profile/Conjunction/それに.md",
     "Chữa đề/Learning_Profile/Conjunction/それだけに.md",
-    "Chữa đề/Learning_Profile/Conjunction/したがって.md",
-    "Chữa đề/Learning_Profile/Conjunction/ひいては.md",
-    "Chữa đề/Learning_Profile/Conjunction/かつ.md",
     "N2文法/ない・いう・しまう/ないーtable.canvas",
     "N2文法/ない・いう・しまう/ない.canvas",
     "N2漢字/N2漢字/持.canvas",
@@ -272,9 +278,6 @@
     "N2文法/うちに.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thủ　「手 (扌) 」.canvas",
     "N2漢字/N2漢字",
-    "N2漢字/N2漢字.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas",
-    "N2文法/助詞/は.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week3/21062026",
     "Chữa đề/２０２６年/０６月２０２６年/Week3/19062026",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026",
@@ -283,7 +286,6 @@
     "Chữa đề/２０２６年/０５月２０２６年/Week3/20052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/13052026",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/09052026",
     "Pasted image 20260618064256.png",
     "Pasted image 20260618064240.png",
     "Pasted image 20260618064133.png",
