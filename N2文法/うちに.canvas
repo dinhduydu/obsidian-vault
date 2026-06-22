@@ -15,7 +15,11 @@
 		{"id":"6c0b04e1a9ba8563","type":"file","file":"Pasted image 20260505213049.png","x":-1360,"y":-660,"width":400,"height":262},
 		{"id":"03fe02a1092c019b","type":"text","text":"Số lượng thời gian+うちに+もしない","x":981,"y":-259,"width":250,"height":60},
 		{"id":"b45da17f922fefa4","type":"text","text":"thời gian ngắn, chưa đến bao lâu thì đã có sự thay đổi B","x":1540,"y":-333,"width":250,"height":60},
-		{"id":"7769030b62805b4c","type":"text","text":"何か月もしないうちに","x":1545,"y":-191,"width":250,"height":60}
+		{"id":"7769030b62805b4c","type":"text","text":"何か月もしないうちに","x":1545,"y":-191,"width":250,"height":60},
+		{"id":"3bb85c5ea550b41d","x":184,"y":795,"width":250,"height":60,"type":"text","text":"そのうち"},
+		{"id":"418e99e754120746","x":623,"y":795,"width":582,"height":50,"type":"text","text":"つまらないと感じたものも、続けてみると**そのうち**楽しくなってくる"},
+		{"id":"65b458afc2ce5a34","x":638,"y":632,"width":250,"height":60,"type":"text","text":"Chỉ tương lai, kết quả phía sau"},
+		{"id":"4b64e1fdba11d09e","x":600,"y":920,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/そのうち.md"}
 	],
 	"edges":[
 		{"id":"db2237c1a76b901a","fromNode":"2da8e41873c63c35","fromSide":"left","toNode":"34968906856b09b0","toSide":"right","label":"かのうちに"},
@@ -32,6 +36,9 @@
 		{"id":"3a24f2a8122c2e1a","fromNode":"34968906856b09b0","fromSide":"top","toNode":"6c0b04e1a9ba8563","toSide":"right","label":"かのうちに"},
 		{"id":"bfdcabad85ff8260","fromNode":"429029cf3356e5b6","fromSide":"top","toNode":"03fe02a1092c019b","toSide":"left","label":"Số lượng thời gian+うちに\n+もしない"},
 		{"id":"887212de0a2626d3","fromNode":"03fe02a1092c019b","fromSide":"right","toNode":"b45da17f922fefa4","toSide":"left"},
-		{"id":"80fa890e7881110b","fromNode":"03fe02a1092c019b","fromSide":"right","toNode":"7769030b62805b4c","toSide":"left"}
+		{"id":"80fa890e7881110b","fromNode":"03fe02a1092c019b","fromSide":"right","toNode":"7769030b62805b4c","toSide":"left"},
+		{"id":"16dd6a82494c5139","fromNode":"3bb85c5ea550b41d","fromSide":"right","toNode":"418e99e754120746","toSide":"left"},
+		{"id":"b7468b390daaadad","fromNode":"3bb85c5ea550b41d","fromSide":"right","toNode":"65b458afc2ce5a34","toSide":"left"},
+		{"id":"6152b79472a6ec7f","fromNode":"3bb85c5ea550b41d","fromSide":"right","toNode":"4b64e1fdba11d09e","toSide":"left"}
 	]
 }
