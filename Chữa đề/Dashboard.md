@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 284
-- Total Knowledge Items: 3449
-- Correct: 1987
+- Total Reviews: 288
+- Total Knowledge Items: 3457
+- Correct: 2011
 - Wrong: 2562
-- Accuracy: 43.7%
+- Accuracy: 44.0%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 190| Wrong: 35
+- [[]] | Vocabulary| Score: 210| Wrong: 39
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
@@ -24,7 +24,7 @@
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
-- [[申し上げる]] | Kenjougo| Score: 35| Wrong: 4
+- [[むしろ]] | Conjunction| Score: 35| Wrong: 6
 - [[筆者の考え]] | Reading| Score: 35| Wrong: 4
 - [[全体理解]] | Reading| Score: 35| Wrong: 4
 - [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 35
+- [[]] (Vocabulary) Wrong: 39
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
@@ -44,30 +44,30 @@
 - [[〜ざるを得ない]] (Grammar) Wrong: 7
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
+- [[むしろ]] (Conjunction) Wrong: 6
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
-- [[申し上げます]] (Kenjougo) Wrong: 5
-- [[むしろ]] (Adverb) Wrong: 5
 - [[つまり]] (Conjunction) Wrong: 5
 - [[〜からといって]] (Grammar) Wrong: 5
 - [[しかし]] (Conjunction) Wrong: 5
+- [[〜にすぎない]] (Grammar) Wrong: 5
 
 ## 📈 Category Statistics
 
-- Adverb: 38.0% (Correct 141 / Wrong 230)
-- Collocation: 48.2% (Correct 79 / Wrong 85)
-- CompoundVerb: 41.3% (Correct 105 / Wrong 149)
-- Conjunction: 32.7% (Correct 49 / Wrong 101)
-- FixedExpression: 40.4% (Correct 164 / Wrong 242)
-- Grammar: 47.3% (Correct 446 / Wrong 496)
-- Kanji: 46.5% (Correct 191 / Wrong 220)
-- Katakana: 44.3% (Correct 85 / Wrong 107)
+- Adverb: 39.0% (Correct 154 / Wrong 241)
+- Collocation: 47.1% (Correct 80 / Wrong 90)
+- CompoundVerb: 40.9% (Correct 106 / Wrong 153)
+- Conjunction: 34.4% (Correct 56 / Wrong 107)
+- Demonstratives: 16.7% (Correct 1 / Wrong 5)
+- FixedExpression: 40.0% (Correct 160 / Wrong 240)
+- Grammar: 47.5% (Correct 452 / Wrong 499)
+- Kanji: 46.5% (Correct 195 / Wrong 224)
+- Katakana: 44.8% (Correct 87 / Wrong 107)
 - Keigo: 51.9% (Correct 28 / Wrong 26)
-- Kenjougo: 26.9% (Correct 18 / Wrong 49)
-- Reading: 33.3% (Correct 55 / Wrong 110)
-- Vocabulary: 45.6% (Correct 626 / Wrong 747)
+- Reading: 31.8% (Correct 55 / Wrong 118)
+- Vocabulary: 45.9% (Correct 637 / Wrong 752)
 
 ## 📚 Top Grammar
 
@@ -84,16 +84,16 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 190)
+- [[]] (Score: 210)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
-- [[まいる]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[移転]] (Score: 25)
+- [[過剰]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -176,24 +176,24 @@
 ## 📚 Top Adverb
 
 - [[どうも]] (Score: 35)
+- [[どうしても]] (Score: 30)
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
-- [[むしろ]] (Score: 27)
+- [[せっかく]] (Score: 25)
+- [[つい]] (Score: 25)
+- [[今にも]] (Score: 25)
 - [[そうぞうしい]] (Score: 25)
 - [[かえって]] (Score: 25)
 - [[偶然]] (Score: 25)
-- [[せっかく]] (Score: 25)
-- [[あらかじめ]] (Score: 25)
-- [[すっきり]] (Score: 25)
 
 ## 📚 Top Conjunction
 
 - [[そこで]] (Score: 37)
+- [[むしろ]] (Score: 35)
 - [[それにしては]] (Score: 35)
 - [[要するに]] (Score: 35)
 - [[つまり]] (Score: 32)
 - [[つきましては]] (Score: 30)
-- [[また]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[ただし]] (Score: 30)
 - [[それにしても]] (Score: 30)
@@ -212,21 +212,20 @@
 - [[なられる]] (Score: 20)
 - [[ご予定]] (Score: 20)
 
-## 📚 Top Kenjougo
+## 📚 Top Demonstratives
 
-- [[申し上げる]] (Score: 35)
-- [[申し上げます]] (Score: 27)
-- [[〜させていただきます]] (Score: 25)
-- [[お〜申し上げます]] (Score: 25)
-- [[存ずる]] (Score: 25)
-- [[いたす]] (Score: 25)
-- [[お～する]] (Score: 25)
-- [[いただく]] (Score: 22)
-- [[伺い]] (Score: 20)
-- [[進呈いたします]] (Score: 20)
+- [[あんなに]] (Score: 20)
+- [[こんなに]] (Score: 15)
+- [[あの]] (Score: 15)
+- [[ああ]] (Score: 15)
+- [[そう]] (Score: 0)
 
 ## 📅 Recent Reviews
 
+- [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
+- [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
+- [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
+- [[5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2.]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
@@ -243,7 +242,3 @@
 - [[5. Phân Tích BÀI LÀM N2_NGHE HIỂU_問題3 (1806263.PDF)]]
 - [[1. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP JLPT 12.2025_TEST 1]]
 - [[2. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2]]
-- [[2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ]]
-- [[3. Phân Tích Từ gần nghĩa (Day 12)]]
-- [[4. Phân Tích N2 - Đọc hiểu & Ngữ pháp (Test 13)]]
-- [[1. Phân Tích Phân tích bài làm JLPT N2 - Ôn tập Từ vựng (P1)]]

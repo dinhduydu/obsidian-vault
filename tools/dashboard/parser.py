@@ -41,7 +41,8 @@ def clean_name(name):
         "Adverb:",
         "Conjunction:",
         "Keigo:",
-        "Kenjougo:"
+        "Kenjougo:",
+        "Demonstratives:"
     ]
 
 
@@ -118,7 +119,10 @@ def normalize_category(category):
             "Keigo",
 
         "kenjougo":
-            "Kenjougo"
+            "Kenjougo",
+
+        "demonstratives":
+            "Demonstratives"
     }
 
 
@@ -225,7 +229,7 @@ def parse_profiles(text):
 
 
     blocks = re.split(
-        r"\n(?=(?:###|Vocabulary \||Grammar \||Adverb \||Katakana \||Kanji \||Reading \||Collocation \||Conjunction \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \|))",
+        r"\n(?=(?:###|Vocabulary \||Grammar \||Adverb \||Katakana \||Kanji \||Reading \||Collocation \||Conjunction \||FixedExpression \||CompoundVerb \||Keigo \||Kenjougo \| Topics \||Demonstratives \|))",
         text
     )
 

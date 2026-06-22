@@ -27,4 +27,6 @@ PROFILE_FOLDERS = [
 
     "Keigo",
     "Kenjougo",
+    "Demonstratives",
+    
 ]

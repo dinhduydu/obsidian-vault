@@ -119,6 +119,14 @@ COMPOUND_VERB_SUFFIXES = [
 ]
 
 
+# =========================
+# Demonstratives
+# =========================
+
+DEMONSTRATIVES_HINTS = [
+    "ああ",
+]
+
 def is_compound_verb(word):
 
     if len(word) < 4:
@@ -172,6 +180,13 @@ def classify(name):
 
     if is_compound_verb(name):
         return "CompoundVerb"
+
+    # =====================
+    # Demonstratives
+    # =====================
+
+    if name in DEMONSTRATIVES_HINTS:
+        return "Demonstratives"
 
     # =====================
     # Topics

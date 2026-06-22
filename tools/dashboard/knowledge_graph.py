@@ -18,3 +18,7 @@ class KnowledgeGraph:
     collocations: set = field(
         default_factory=set
     )
+
+    demonstratives: set = field(
+        default_factory=set
+    )
