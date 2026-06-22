@@ -3,14 +3,14 @@
 ## 🎯 Overall
 
 - Total Reviews: 284
-- Total Knowledge Items: 3391
-- Correct: 1949
-- Wrong: 2471
-- Accuracy: 44.1%
+- Total Knowledge Items: 3449
+- Correct: 1987
+- Wrong: 2562
+- Accuracy: 43.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 230| Wrong: 43
+- [[]] | Vocabulary| Score: 190| Wrong: 35
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
@@ -23,20 +23,21 @@
 - [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
+- [[そこで]] | Conjunction| Score: 37| Wrong: 7
 - [[申し上げる]] | Kenjougo| Score: 35| Wrong: 4
 - [[筆者の考え]] | Reading| Score: 35| Wrong: 4
 - [[全体理解]] | Reading| Score: 35| Wrong: 4
 - [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
 - [[模擬試験]] | Vocabulary| Score: 35| Wrong: 7
 - [[質問とせんたくし]] | Reading| Score: 35| Wrong: 4
-- [[〜からといって]] | Grammar| Score: 35| Wrong: 5
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 43
+- [[]] (Vocabulary) Wrong: 35
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[そこで]] (Conjunction) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
 - [[模擬試験]] (Vocabulary) Wrong: 7
 - [[返事]] (FixedExpression) Wrong: 7
@@ -48,25 +49,25 @@
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
 - [[申し上げます]] (Kenjougo) Wrong: 5
+- [[むしろ]] (Adverb) Wrong: 5
+- [[つまり]] (Conjunction) Wrong: 5
 - [[〜からといって]] (Grammar) Wrong: 5
-- [[〜にすぎない]] (Grammar) Wrong: 5
-- [[〜つつ]] (Grammar) Wrong: 5
-- [[〜にもかかわらず]] (Grammar) Wrong: 5
-- [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Reading) Wrong: 5
+- [[しかし]] (Conjunction) Wrong: 5
 
 ## 📈 Category Statistics
 
-- Adverb: 38.5% (Correct 145 / Wrong 232)
+- Adverb: 38.0% (Correct 141 / Wrong 230)
 - Collocation: 48.2% (Correct 79 / Wrong 85)
 - CompoundVerb: 41.3% (Correct 105 / Wrong 149)
+- Conjunction: 32.7% (Correct 49 / Wrong 101)
 - FixedExpression: 40.4% (Correct 164 / Wrong 242)
-- Grammar: 47.4% (Correct 447 / Wrong 496)
+- Grammar: 47.3% (Correct 446 / Wrong 496)
 - Kanji: 46.5% (Correct 191 / Wrong 220)
 - Katakana: 44.3% (Correct 85 / Wrong 107)
 - Keigo: 51.9% (Correct 28 / Wrong 26)
 - Kenjougo: 26.9% (Correct 18 / Wrong 49)
 - Reading: 33.3% (Correct 55 / Wrong 110)
-- Vocabulary: 45.6% (Correct 632 / Wrong 755)
+- Vocabulary: 45.6% (Correct 626 / Wrong 747)
 
 ## 📚 Top Grammar
 
@@ -83,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 230)
+- [[]] (Score: 190)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
@@ -177,13 +178,26 @@
 - [[どうも]] (Score: 35)
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
+- [[むしろ]] (Score: 27)
 - [[そうぞうしい]] (Score: 25)
 - [[かえって]] (Score: 25)
 - [[偶然]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[あらかじめ]] (Score: 25)
 - [[すっきり]] (Score: 25)
-- [[はたして]] (Score: 25)
+
+## 📚 Top Conjunction
+
+- [[そこで]] (Score: 37)
+- [[それにしては]] (Score: 35)
+- [[要するに]] (Score: 35)
+- [[つまり]] (Score: 32)
+- [[つきましては]] (Score: 30)
+- [[また]] (Score: 30)
+- [[それで]] (Score: 30)
+- [[ただし]] (Score: 30)
+- [[それにしても]] (Score: 30)
+- [[とはいえ]] (Score: 30)
 
 ## 📚 Top Keigo
 
