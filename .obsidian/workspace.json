@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/ろくに.md",
+                "file": "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/5. Phân Tích Cấu trúc sắp xếp câu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ろくに"
+              "title": "5. Phân Tích Cấu trúc sắp xếp câu"
             }
           }
         ],
@@ -347,12 +347,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 516.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -446,32 +445,34 @@
   },
   "active": "355f80fc888ac9f3",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/1. Phân Tích Kết Quả Ngữ Pháp Ngoài Chương Trình (P1.1).md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week1/06042026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 8.1.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/3. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1.md",
-    "Chữa đề/Learning_Profile/Adverb/ろくに.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/6. Phân Tích N2_NGỮ PHÁP TRONG NGHE JLPT_CỤM TỪ ĐẶC BIỆT_TEST 5.md",
-    "Chữa đề/Learning_Profile/Grammar/ろくに〜ない (Chẳng... được tử tế).md",
-    "Chữa đề/Learning_Profile/Adverb/ろくに (ろくな).md",
-    "Chữa đề/Learning_Profile/Adverb/ろくに (〜ない).md",
-    "Chữa đề/Learning_Profile/Adverb/すらすら.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026/3. Phân Tích Các cấu trúc ngữ pháp N2 xoay quanh もの.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026/4. Phân Tích N2_QUAN ĐIỂM TÁC GIẢ VỀ MỘT KHÁI NIỆM_TEST 2.md",
-    "Chữa đề/Learning_Profile/Collocation/横取りする.md",
-    "Chữa đề/Learning_Profile/Collocation/体面を保つ.md",
-    "Chữa đề/Learning_Profile/Collocation/実力を発揮させる.md",
-    "Chữa đề/Learning_Profile/FixedExpression/とるに足らない.md",
-    "Chữa đề/Learning_Profile/Katakana/フィフティ・フィフティ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/獲得.md",
-    "Chữa đề/Learning_Profile/Vocabulary/体面.md",
-    "Chữa đề/Learning_Profile/Vocabulary/軽視.md",
-    "Chữa đề/Learning_Profile/Vocabulary/結実.md",
-    "Chữa đề/Learning_Profile/Reading/筆者の考えを捉える.md",
-    "Chữa đề/Learning_Profile/FixedExpression/寝てばかり.md",
-    "Chữa đề/Learning_Profile/Vocabulary/勉強不足.md",
-    "Chữa đề/Learning_Profile/Vocabulary/徹夜.md",
-    "Chữa đề/Learning_Profile/Vocabulary/見知らぬ人.md",
+    "Chữa đề/Learning_Profile/Vocabulary/匹敵する.md",
+    "Chữa đề/Learning_Profile/Vocabulary/首脳会談.md",
+    "Chữa đề/Learning_Profile/Grammar/〜わけにはいかない.md",
+    "Chữa đề/Learning_Profile/Vocabulary/見事だ.md",
+    "Chữa đề/Learning_Profile/Vocabulary/上達する.md",
+    "Chữa đề/Learning_Profile/Vocabulary/善良な.md",
+    "Chữa đề/Learning_Profile/Vocabulary/ユニーク.md",
+    "Chữa đề/Learning_Profile/Vocabulary/発想.md",
+    "Chữa đề/Learning_Profile/Vocabulary/態度.md",
+    "Chữa đề/Learning_Profile/Vocabulary/謝る.md",
+    "Chữa đề/Learning_Profile/Adverb/ずいぶん.md",
+    "Chữa đề/Learning_Profile/Adverb/よほど.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ばかりの.md",
+    "Chữa đề/Learning_Profile/Grammar/〜から見れば.md",
+    "Chữa đề/Learning_Profile/Grammar/〜からすると.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/3. Phân Tích N3_C2_BÀI TẬP NGỮ PHÁP_BÀI 15.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/2. Phân Tích N3_C2_BÀI TẬP NGỮ PHÁP_BÀI 14.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/1. Phân Tích N3_C2_BÀI TẬP NGỮ PHÁP_BÀI 15.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/5. Phân Tích Cấu trúc sắp xếp câu.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/4. Phân Tích N3_C2 Ngữ pháp Bài 14.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 6.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026/2. Phân Tích N2_ĐỌC HIỂU Ý KIẾN TÁC GIẢ_TEST 2.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026/1. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 5.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/20032026/2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 4.1.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/20032026/1. Phân Tích N2_ĐỌC HIỂU Ý KIẾN TÁC GIẢ_TEST 3.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week4/23032026/3. Phân Tích N2_CẶP TỪ DỄ NHẦM LẪN (P1).md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week4/23032026",
     "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026",
     "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026",
     "Chữa đề/２０２６年/０３月２０２６年/Week4",
@@ -486,8 +487,6 @@
     "Chữa đề/２０２６年/０６月２０２６年/Week4/23062026",
     "Chữa đề/Learning_Profile/Demonstratives",
     "N2文法/うちに.canvas",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4",
     "N2文法/助詞/へ.canvas",
     "へ.canvas",
     "N2文法/助詞/と.canvas",

@@ -2,19 +2,19 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 304
-- Total Knowledge Items: 3589
-- Correct: 2143
-- Wrong: 2702
-- Accuracy: 44.2%
+- Total Reviews: 313
+- Total Knowledge Items: 3661
+- Correct: 2235
+- Wrong: 2775
+- Accuracy: 44.6%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 210| Wrong: 39
+- [[]] | Vocabulary| Score: 215| Wrong: 40
+- [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
-- [[〜にもかかわらず]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
@@ -22,6 +22,7 @@
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜にほかならない]] | Grammar| Score: 40| Wrong: 5
+- [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 - [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -29,16 +30,15 @@
 - [[むしろ]] | Conjunction| Score: 35| Wrong: 6
 - [[〜に限って]] | Grammar| Score: 35| Wrong: 4
 - [[筆者の考え]] | Reading| Score: 35| Wrong: 4
-- [[全体理解]] | Reading| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 39
+- [[]] (Vocabulary) Wrong: 40
 - [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
-- [[〜にもかかわらず]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
@@ -47,44 +47,44 @@
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
+- [[〜からといって]] (Grammar) Wrong: 6
+- [[しかし]] (Conjunction) Wrong: 6
 - [[〜にすぎない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
-- [[〜にほかならない]] (Grammar) Wrong: 5
-- [[〜からこそ]] (Grammar) Wrong: 5
 
 ## 📈 Category Statistics
 
-- Adverb: 39.4% (Correct 161 / Wrong 248)
-- Collocation: 47.3% (Correct 88 / Wrong 98)
-- CompoundVerb: 41.2% (Correct 108 / Wrong 154)
-- Conjunction: 34.3% (Correct 57 / Wrong 109)
+- Adverb: 39.7% (Correct 166 / Wrong 252)
+- Collocation: 45.9% (Correct 94 / Wrong 111)
+- CompoundVerb: 41.3% (Correct 109 / Wrong 155)
+- Conjunction: 33.9% (Correct 57 / Wrong 111)
 - Demonstratives: 25.0% (Correct 2 / Wrong 6)
-- FixedExpression: 40.3% (Correct 165 / Wrong 244)
-- Grammar: 48.5% (Correct 531 / Wrong 564)
-- Kanji: 46.5% (Correct 195 / Wrong 224)
-- Katakana: 44.2% (Correct 87 / Wrong 110)
+- FixedExpression: 40.7% (Correct 170 / Wrong 248)
+- Grammar: 49.6% (Correct 573 / Wrong 582)
+- Kanji: 47.0% (Correct 196 / Wrong 221)
+- Katakana: 45.1% (Correct 92 / Wrong 112)
 - Keigo: 50.9% (Correct 29 / Wrong 28)
-- Reading: 31.5% (Correct 56 / Wrong 122)
-- Vocabulary: 45.5% (Correct 664 / Wrong 795)
+- Reading: 31.5% (Correct 57 / Wrong 124)
+- Vocabulary: 45.5% (Correct 690 / Wrong 825)
 
 ## 📚 Top Grammar
 
+- [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
-- [[〜にもかかわらず]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
 - [[〜まい]] (Score: 45)
 - [[〜次第]] (Score: 42)
 - [[〜にほかならない]] (Score: 40)
+- [[〜からといって]] (Score: 40)
 - [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
-- [[〜に限って]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 210)
+- [[]] (Score: 215)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
@@ -152,13 +152,13 @@
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
 - [[〜どころではない]] (Score: 30)
+- [[足を運ぶ]] (Score: 30)
 - [[逆効果]] (Score: 25)
 - [[明け方]] (Score: 25)
 - [[耳にする]] (Score: 25)
 - [[〜を中心に]] (Score: 25)
 - [[願います]] (Score: 25)
 - [[鍵をかける]] (Score: 25)
-- [[足を運ぶ]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -194,10 +194,10 @@
 - [[要するに]] (Score: 35)
 - [[つまり]] (Score: 32)
 - [[つきましては]] (Score: 30)
+- [[しかし]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
 - [[とはいえ]] (Score: 30)
-- [[実は]] (Score: 25)
 
 ## 📚 Top Keigo
 
