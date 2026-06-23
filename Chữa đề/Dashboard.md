@@ -2,22 +2,22 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 290
-- Total Knowledge Items: 3470
-- Correct: 2019
-- Wrong: 2584
-- Accuracy: 43.9%
+- Total Reviews: 296
+- Total Knowledge Items: 3511
+- Correct: 2077
+- Wrong: 2627
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 210| Wrong: 39
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[〜にもかかわらず]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[〜ざるを得ない]] | Grammar| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
-- [[〜にもかかわらず]] | Grammar| Score: 45| Wrong: 6
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
@@ -37,6 +37,7 @@
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[〜にもかかわらず]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
 - [[模擬試験]] (Vocabulary) Wrong: 7
@@ -45,7 +46,6 @@
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
-- [[〜にもかかわらず]] (Grammar) Wrong: 6
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
@@ -56,24 +56,24 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.8% (Correct 155 / Wrong 245)
-- Collocation: 46.7% (Correct 79 / Wrong 90)
-- CompoundVerb: 40.9% (Correct 106 / Wrong 153)
-- Conjunction: 34.1% (Correct 56 / Wrong 108)
-- Demonstratives: 28.6% (Correct 2 / Wrong 5)
-- FixedExpression: 40.0% (Correct 161 / Wrong 241)
-- Grammar: 47.1% (Correct 456 / Wrong 512)
-- Kanji: 46.4% (Correct 194 / Wrong 224)
+- Adverb: 39.1% (Correct 157 / Wrong 245)
+- Collocation: 47.1% (Correct 82 / Wrong 92)
+- CompoundVerb: 41.0% (Correct 107 / Wrong 154)
+- Conjunction: 34.5% (Correct 57 / Wrong 108)
+- Demonstratives: 25.0% (Correct 2 / Wrong 6)
+- FixedExpression: 40.3% (Correct 163 / Wrong 241)
+- Grammar: 47.8% (Correct 489 / Wrong 533)
+- Kanji: 46.5% (Correct 195 / Wrong 224)
 - Katakana: 45.1% (Correct 87 / Wrong 106)
-- Keigo: 50.9% (Correct 28 / Wrong 27)
+- Keigo: 50.9% (Correct 29 / Wrong 28)
 - Reading: 31.6% (Correct 55 / Wrong 119)
-- Vocabulary: 45.9% (Correct 640 / Wrong 754)
+- Vocabulary: 45.9% (Correct 654 / Wrong 771)
 
 ## 📚 Top Grammar
 
+- [[〜にもかかわらず]] (Score: 50)
 - [[〜ざるを得ない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
-- [[〜にもかかわらず]] (Score: 45)
 - [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
 - [[〜次第]] (Score: 42)
@@ -89,11 +89,11 @@
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
 - [[持参]] (Score: 30)
-- [[相当]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[移転]] (Score: 25)
 - [[過剰]] (Score: 25)
+- [[入会金]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -101,12 +101,12 @@
 - [[外科]] (Score: 25)
 - [[衣装]] (Score: 25)
 - [[演説]] (Score: 25)
+- [[寒気]] (Score: 25)
 - [[把握]] (Score: 20)
 - [[仮〜]] (Score: 20)
 - [[不〜]] (Score: 20)
 - [[額]] (Score: 20)
 - [[白髪]] (Score: 20)
-- [[顧みる]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -195,9 +195,9 @@
 - [[つまり]] (Score: 32)
 - [[つきましては]] (Score: 30)
 - [[それで]] (Score: 30)
-- [[ただし]] (Score: 30)
 - [[それにしても]] (Score: 30)
 - [[とはいえ]] (Score: 30)
+- [[実は]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -218,6 +218,7 @@
 - [[こんなに]] (Score: 15)
 - [[あの]] (Score: 15)
 - [[ああ]] (Score: 15)
+- [[その]] (Score: 15)
 - [[そう]] (Score: 0)
 - [[そんな]] (Score: 0)
 
