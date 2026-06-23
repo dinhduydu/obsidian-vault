@@ -2,23 +2,23 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 296
-- Total Knowledge Items: 3511
-- Correct: 2077
-- Wrong: 2627
-- Accuracy: 44.2%
+- Total Reviews: 300
+- Total Knowledge Items: 3544
+- Correct: 2119
+- Wrong: 2661
+- Accuracy: 44.3%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 210| Wrong: 39
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
 - [[〜にもかかわらず]] | Grammar| Score: 50| Wrong: 7
+- [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
-- [[〜ざるを得ない]] | Grammar| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
-- [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜にほかならない]] | Grammar| Score: 40| Wrong: 5
@@ -27,9 +27,9 @@
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
 - [[むしろ]] | Conjunction| Score: 35| Wrong: 6
+- [[〜に限って]] | Grammar| Score: 35| Wrong: 4
 - [[筆者の考え]] | Reading| Score: 35| Wrong: 4
 - [[全体理解]] | Reading| Score: 35| Wrong: 4
-- [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
 
 ## 🔥 Top Weak Points
 
@@ -37,16 +37,16 @@
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[〜ざるを得ない]] (Grammar) Wrong: 8
 - [[〜にもかかわらず]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
+- [[〜とは限らない]] (Grammar) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
 - [[模擬試験]] (Vocabulary) Wrong: 7
 - [[返事]] (FixedExpression) Wrong: 7
-- [[〜ざるを得ない]] (Grammar) Wrong: 7
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
-- [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
@@ -57,30 +57,30 @@
 ## 📈 Category Statistics
 
 - Adverb: 39.1% (Correct 157 / Wrong 245)
-- Collocation: 47.1% (Correct 82 / Wrong 92)
-- CompoundVerb: 41.0% (Correct 107 / Wrong 154)
-- Conjunction: 34.5% (Correct 57 / Wrong 108)
+- Collocation: 48.1% (Correct 87 / Wrong 94)
+- CompoundVerb: 41.2% (Correct 108 / Wrong 154)
+- Conjunction: 34.3% (Correct 57 / Wrong 109)
 - Demonstratives: 25.0% (Correct 2 / Wrong 6)
-- FixedExpression: 40.3% (Correct 163 / Wrong 241)
-- Grammar: 47.8% (Correct 489 / Wrong 533)
+- FixedExpression: 40.5% (Correct 164 / Wrong 241)
+- Grammar: 48.4% (Correct 519 / Wrong 554)
 - Kanji: 46.5% (Correct 195 / Wrong 224)
 - Katakana: 45.1% (Correct 87 / Wrong 106)
 - Keigo: 50.9% (Correct 29 / Wrong 28)
 - Reading: 31.6% (Correct 55 / Wrong 119)
-- Vocabulary: 45.9% (Correct 654 / Wrong 771)
+- Vocabulary: 45.8% (Correct 659 / Wrong 781)
 
 ## 📚 Top Grammar
 
+- [[〜ざるを得ない]] (Score: 55)
 - [[〜にもかかわらず]] (Score: 50)
-- [[〜ざるを得ない]] (Score: 50)
+- [[〜とは限らない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
-- [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
 - [[〜次第]] (Score: 42)
 - [[〜にほかならない]] (Score: 40)
 - [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
-- [[〜からといって]] (Score: 35)
+- [[〜に限って]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
@@ -89,11 +89,11 @@
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
 - [[持参]] (Score: 30)
+- [[研修]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
 - [[移転]] (Score: 25)
 - [[過剰]] (Score: 25)
-- [[入会金]] (Score: 25)
 
 ## 📚 Top Kanji
 
