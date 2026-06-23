@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 288
-- Total Knowledge Items: 3457
-- Correct: 2011
-- Wrong: 2562
-- Accuracy: 44.0%
+- Total Reviews: 290
+- Total Knowledge Items: 3470
+- Correct: 2019
+- Wrong: 2584
+- Accuracy: 43.9%
 
 ## 🚨 Review Queue
 
@@ -17,9 +17,11 @@
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[〜ざるを得ない]] | Grammar| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
+- [[〜にもかかわらず]] | Grammar| Score: 45| Wrong: 6
 - [[〜とは限らない]] | Grammar| Score: 45| Wrong: 6
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
+- [[〜にほかならない]] | Grammar| Score: 40| Wrong: 5
 - [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -28,8 +30,6 @@
 - [[筆者の考え]] | Reading| Score: 35| Wrong: 4
 - [[全体理解]] | Reading| Score: 35| Wrong: 4
 - [[必修パターン]] | Vocabulary| Score: 35| Wrong: 7
-- [[模擬試験]] | Vocabulary| Score: 35| Wrong: 7
-- [[質問とせんたくし]] | Reading| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
@@ -45,42 +45,42 @@
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
+- [[〜にもかかわらず]] (Grammar) Wrong: 6
 - [[〜とは限らない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
+- [[〜にほかならない]] (Grammar) Wrong: 5
 - [[つまり]] (Conjunction) Wrong: 5
 - [[〜からといって]] (Grammar) Wrong: 5
-- [[しかし]] (Conjunction) Wrong: 5
-- [[〜にすぎない]] (Grammar) Wrong: 5
 
 ## 📈 Category Statistics
 
-- Adverb: 39.0% (Correct 154 / Wrong 241)
-- Collocation: 47.1% (Correct 80 / Wrong 90)
+- Adverb: 38.8% (Correct 155 / Wrong 245)
+- Collocation: 46.7% (Correct 79 / Wrong 90)
 - CompoundVerb: 40.9% (Correct 106 / Wrong 153)
-- Conjunction: 34.4% (Correct 56 / Wrong 107)
-- Demonstratives: 16.7% (Correct 1 / Wrong 5)
-- FixedExpression: 40.0% (Correct 160 / Wrong 240)
-- Grammar: 47.5% (Correct 452 / Wrong 499)
-- Kanji: 46.5% (Correct 195 / Wrong 224)
-- Katakana: 44.8% (Correct 87 / Wrong 107)
-- Keigo: 51.9% (Correct 28 / Wrong 26)
-- Reading: 31.8% (Correct 55 / Wrong 118)
-- Vocabulary: 45.9% (Correct 637 / Wrong 752)
+- Conjunction: 34.1% (Correct 56 / Wrong 108)
+- Demonstratives: 28.6% (Correct 2 / Wrong 5)
+- FixedExpression: 40.0% (Correct 161 / Wrong 241)
+- Grammar: 47.1% (Correct 456 / Wrong 512)
+- Kanji: 46.4% (Correct 194 / Wrong 224)
+- Katakana: 45.1% (Correct 87 / Wrong 106)
+- Keigo: 50.9% (Correct 28 / Wrong 27)
+- Reading: 31.6% (Correct 55 / Wrong 119)
+- Vocabulary: 45.9% (Correct 640 / Wrong 754)
 
 ## 📚 Top Grammar
 
 - [[〜ざるを得ない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
+- [[〜にもかかわらず]] (Score: 45)
 - [[〜とは限らない]] (Score: 45)
 - [[〜まい]] (Score: 45)
 - [[〜次第]] (Score: 42)
+- [[〜にほかならない]] (Score: 40)
 - [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
 - [[〜からといって]] (Score: 35)
-- [[〜べき]] (Score: 35)
-- [[〜に違いない]] (Score: 35)
 
 ## 📚 Top Vocabulary
 
@@ -179,12 +179,12 @@
 - [[どうしても]] (Score: 30)
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
+- [[もっとも]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[つい]] (Score: 25)
 - [[今にも]] (Score: 25)
 - [[そうぞうしい]] (Score: 25)
 - [[かえって]] (Score: 25)
-- [[偶然]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -204,13 +204,13 @@
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
+- [[〜ご覧いただく]] (Score: 20)
 - [[〜様ですか]] (Score: 20)
 - [[見えました]] (Score: 20)
 - [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
 - [[お見えになる]] (Score: 20)
 - [[なられる]] (Score: 20)
-- [[ご予定]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
@@ -219,6 +219,7 @@
 - [[あの]] (Score: 15)
 - [[ああ]] (Score: 15)
 - [[そう]] (Score: 0)
+- [[そんな]] (Score: 0)
 
 ## 📅 Recent Reviews
 
@@ -226,6 +227,8 @@
 - [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
 - [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
 - [[5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2.]]
+- [[2. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 19]]
+- [[3. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
@@ -240,5 +243,3 @@
 - [[3. Phân Tích BÀI LÀM N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1]]
 - [[4. Phân Tích BÀI LÀM N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 14]]
 - [[5. Phân Tích BÀI LÀM N2_NGHE HIỂU_問題3 (1806263.PDF)]]
-- [[1. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP JLPT 12.2025_TEST 1]]
-- [[2. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2]]
