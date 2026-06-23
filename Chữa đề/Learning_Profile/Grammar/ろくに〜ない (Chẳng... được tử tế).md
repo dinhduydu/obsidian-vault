@@ -17,6 +17,6 @@ Priority:
 
 
 <!-- USER_START -->
-
+[[ろくに (ろくな)]]
 
 <!-- USER_END -->

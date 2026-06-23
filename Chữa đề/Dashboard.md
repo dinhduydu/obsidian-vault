@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 300
-- Total Knowledge Items: 3544
-- Correct: 2119
-- Wrong: 2661
-- Accuracy: 44.3%
+- Total Reviews: 304
+- Total Knowledge Items: 3589
+- Correct: 2143
+- Wrong: 2702
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
@@ -47,27 +47,27 @@
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
+- [[〜にすぎない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
 - [[〜がち]] (Grammar) Wrong: 6
 - [[〜にほかならない]] (Grammar) Wrong: 5
-- [[つまり]] (Conjunction) Wrong: 5
-- [[〜からといって]] (Grammar) Wrong: 5
+- [[〜からこそ]] (Grammar) Wrong: 5
 
 ## 📈 Category Statistics
 
-- Adverb: 39.1% (Correct 157 / Wrong 245)
-- Collocation: 48.1% (Correct 87 / Wrong 94)
+- Adverb: 39.4% (Correct 161 / Wrong 248)
+- Collocation: 47.3% (Correct 88 / Wrong 98)
 - CompoundVerb: 41.2% (Correct 108 / Wrong 154)
 - Conjunction: 34.3% (Correct 57 / Wrong 109)
 - Demonstratives: 25.0% (Correct 2 / Wrong 6)
-- FixedExpression: 40.5% (Correct 164 / Wrong 241)
-- Grammar: 48.4% (Correct 519 / Wrong 554)
+- FixedExpression: 40.3% (Correct 165 / Wrong 244)
+- Grammar: 48.5% (Correct 531 / Wrong 564)
 - Kanji: 46.5% (Correct 195 / Wrong 224)
-- Katakana: 45.1% (Correct 87 / Wrong 106)
+- Katakana: 44.2% (Correct 87 / Wrong 110)
 - Keigo: 50.9% (Correct 29 / Wrong 28)
-- Reading: 31.6% (Correct 55 / Wrong 119)
-- Vocabulary: 45.8% (Correct 659 / Wrong 781)
+- Reading: 31.5% (Correct 56 / Wrong 122)
+- Vocabulary: 45.5% (Correct 664 / Wrong 795)
 
 ## 📚 Top Grammar
 
@@ -92,8 +92,8 @@
 - [[研修]] (Score: 30)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
+- [[肯定感]] (Score: 25)
 - [[移転]] (Score: 25)
-- [[過剰]] (Score: 25)
 
 ## 📚 Top Kanji
 

@@ -1,17 +1,16 @@
 <!-- AUTO_START -->
 
-# よく
+# 〜ものだ (Cảm thán)
 
-Category: Adverb
-Correct: 0
-Wrong: 2
-Accuracy: 0.0%
-Mastery: 0%
-Priority: Medium
+Category: Grammar
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: 100%
+Priority: Low
 
 ## Related Reviews
 
-- [[1. Phân Tích N3_BÀI TẬP ĐIỀN SAO_BÀI 21]]
 - [[2. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 11]]
 
 <!-- AUTO_END -->
