@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 〜đều何라도
+
+Category: FixedExpression
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: 100%
+Priority: Low
+
+## Related Reviews
+
+- [[3. Phân Tích N3_TRỢ TỪ_TEST 2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
