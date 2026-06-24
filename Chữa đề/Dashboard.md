@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 317
-- Total Knowledge Items: 3716
-- Correct: 2278
-- Wrong: 2817
+- Total Reviews: 318
+- Total Knowledge Items: 3748
+- Correct: 2299
+- Wrong: 2846
 - Accuracy: 44.7%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 39.9% (Correct 166 / Wrong 250)
-- Collocation: 44.5% (Correct 94 / Wrong 117)
-- CompoundVerb: 40.9% (Correct 110 / Wrong 159)
+- Adverb: 40.5% (Correct 175 / Wrong 257)
+- Collocation: 44.8% (Correct 95 / Wrong 117)
+- CompoundVerb: 40.7% (Correct 110 / Wrong 160)
 - Conjunction: 33.7% (Correct 57 / Wrong 112)
 - Demonstratives: 30.0% (Correct 3 / Wrong 7)
-- FixedExpression: 40.8% (Correct 174 / Wrong 252)
+- FixedExpression: 40.7% (Correct 174 / Wrong 253)
 - Grammar: 49.3% (Correct 578 / Wrong 595)
-- Kanji: 47.4% (Correct 195 / Wrong 216)
+- Kanji: 47.3% (Correct 194 / Wrong 216)
 - Katakana: 44.9% (Correct 92 / Wrong 113)
 - Keigo: 50.9% (Correct 29 / Wrong 28)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.1% (Correct 723 / Wrong 844)
+- Vocabulary: 46.0% (Correct 735 / Wrong 864)
 
 ## 📚 Top Grammar
 
@@ -88,12 +88,12 @@
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
+- [[無理]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[研修]] (Score: 30)
+- [[光景]] (Score: 25)
 - [[とうげ]] (Score: 25)
 - [[収穫]] (Score: 25)
-- [[肯定感]] (Score: 25)
-- [[移転]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -180,11 +180,11 @@
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
 - [[もっとも]] (Score: 25)
+- [[すっかり]] (Score: 25)
 - [[せっかく]] (Score: 25)
 - [[つい]] (Score: 25)
 - [[今にも]] (Score: 25)
 - [[そうぞうしい]] (Score: 25)
-- [[かえって]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -235,6 +235,7 @@
 - [[3. Phân Tích N3_TRỢ TỪ_TEST 2]]
 - [[4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 1.2]]
 - [[5. Phân Tích N2 Midterm Grammar Assessment Course 1]]
+- [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
@@ -244,4 +245,3 @@
 - [[5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1)]]
 - [[1.Phân Tích BÀI LÀM N2 NGHE HIỂU - THÁNG 12 2025]]
 - [[2. Phân Tích BÀI LÀM N2_NGÀY 3_ÔN TẬP TIỀN TỐ, HẬU TỐ (P1)]]
-- [[4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP]]
