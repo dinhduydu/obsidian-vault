@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 318
-- Total Knowledge Items: 3748
-- Correct: 2299
-- Wrong: 2846
-- Accuracy: 44.7%
+- Total Reviews: 320
+- Total Knowledge Items: 3768
+- Correct: 2303
+- Wrong: 2884
+- Accuracy: 44.4%
 
 ## 🚨 Review Queue
 
@@ -19,11 +19,11 @@
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
+- [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜まい]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜にほかならない]] | Grammar| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
-- [[〜がち]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
@@ -39,6 +39,7 @@
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
+- [[〜がち]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
@@ -52,22 +53,21 @@
 - [[〜にすぎない]] (Grammar) Wrong: 6
 - [[〜まい]] (Grammar) Wrong: 6
 - [[〜次第]] (Grammar) Wrong: 6
-- [[〜がち]] (Grammar) Wrong: 6
 
 ## 📈 Category Statistics
 
-- Adverb: 40.5% (Correct 175 / Wrong 257)
-- Collocation: 44.8% (Correct 95 / Wrong 117)
-- CompoundVerb: 40.7% (Correct 110 / Wrong 160)
-- Conjunction: 33.7% (Correct 57 / Wrong 112)
+- Adverb: 40.5% (Correct 178 / Wrong 261)
+- Collocation: 43.2% (Correct 95 / Wrong 125)
+- CompoundVerb: 40.1% (Correct 110 / Wrong 164)
+- Conjunction: 32.7% (Correct 55 / Wrong 113)
 - Demonstratives: 30.0% (Correct 3 / Wrong 7)
 - FixedExpression: 40.7% (Correct 174 / Wrong 253)
-- Grammar: 49.3% (Correct 578 / Wrong 595)
-- Kanji: 47.3% (Correct 194 / Wrong 216)
-- Katakana: 44.9% (Correct 92 / Wrong 113)
-- Keigo: 50.9% (Correct 29 / Wrong 28)
+- Grammar: 48.9% (Correct 578 / Wrong 605)
+- Kanji: 47.2% (Correct 196 / Wrong 219)
+- Katakana: 44.0% (Correct 92 / Wrong 117)
+- Keigo: 49.2% (Correct 29 / Wrong 30)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.0% (Correct 735 / Wrong 864)
+- Vocabulary: 45.9% (Correct 736 / Wrong 866)
 
 ## 📚 Top Grammar
 
@@ -75,11 +75,11 @@
 - [[〜ざるを得ない]] (Score: 55)
 - [[〜とは限らない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
+- [[〜がち]] (Score: 45)
 - [[〜まい]] (Score: 45)
 - [[〜次第]] (Score: 42)
 - [[〜にほかならない]] (Score: 40)
 - [[〜からといって]] (Score: 40)
-- [[〜がち]] (Score: 40)
 - [[〜受身形 (Ukemi)]] (Score: 40)
 
 ## 📚 Top Vocabulary
@@ -91,9 +91,9 @@
 - [[無理]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[研修]] (Score: 30)
+- [[行方]] (Score: 25)
 - [[光景]] (Score: 25)
 - [[とうげ]] (Score: 25)
-- [[収穫]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -110,7 +110,7 @@
 
 ## 📚 Top Katakana
 
-- [[テクニック]] (Score: 30)
+- [[テクニック]] (Score: 35)
 - [[ファスナー]] (Score: 30)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
@@ -138,14 +138,14 @@
 
 - [[落ち込む]] (Score: 30)
 - [[見守る]] (Score: 30)
+- [[わき見運転]] (Score: 25)
+- [[教育実習]] (Score: 25)
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
 - [[長引く]] (Score: 25)
 - [[透き通る]] (Score: 25)
 - [[追い込む]] (Score: 25)
 - [[打ち合わせる]] (Score: 25)
-- [[思い出す]] (Score: 25)
-- [[引き受ける]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -162,16 +162,16 @@
 
 ## 📚 Top Collocation
 
+- [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
-- [[騒音を防止する]] (Score: 20)
+- [[ビザを延長する]] (Score: 20)
+- [[苦情が出る]] (Score: 20)
+- [[火山の噴火]] (Score: 20)
+- [[責任を負わされる]] (Score: 20)
+- [[驚かせてやる]] (Score: 20)
+- [[危険にさらされる]] (Score: 20)
 - [[解像度を上げる]] (Score: 20)
 - [[思いをさらけ出す]] (Score: 20)
-- [[さびを落とす]] (Score: 20)
-- [[役目を果たす]] (Score: 20)
-- [[楽にする]] (Score: 20)
-- [[気持ちを切り替える]] (Score: 20)
-- [[責任感が強い]] (Score: 20)
-- [[言葉づかいに気をつける]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -184,7 +184,7 @@
 - [[せっかく]] (Score: 25)
 - [[つい]] (Score: 25)
 - [[今にも]] (Score: 25)
-- [[そうぞうしい]] (Score: 25)
+- [[あくまで]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -205,12 +205,12 @@
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
 - [[〜ご覧いただく]] (Score: 20)
+- [[〜させていただけないでしょうか]] (Score: 20)
 - [[〜様ですか]] (Score: 20)
 - [[見えました]] (Score: 20)
 - [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
 - [[お見えになる]] (Score: 20)
-- [[なられる]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
@@ -234,8 +234,10 @@
 - [[2. Phân Tích Trợ từ chỉ mục đích, thời gian, liệt kê, và các cấu trúc nhấn mạnh như こそ, さえ]]
 - [[3. Phân Tích N3_TRỢ TỪ_TEST 2]]
 - [[4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 1.2]]
+- [[5. Phân Tích N2 Midterm Grammar Assessment Course 1 1]]
 - [[5. Phân Tích N2 Midterm Grammar Assessment Course 1]]
 - [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
+- [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
@@ -243,5 +245,3 @@
 - [[6. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 5 (P6)]]
 - [[7. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P6)]]
 - [[5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1)]]
-- [[1.Phân Tích BÀI LÀM N2 NGHE HIỂU - THÁNG 12 2025]]
-- [[2. Phân Tích BÀI LÀM N2_NGÀY 3_ÔN TẬP TIỀN TỐ, HẬU TỐ (P1)]]
