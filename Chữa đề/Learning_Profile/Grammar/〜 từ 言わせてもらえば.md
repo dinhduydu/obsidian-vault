@@ -1,18 +1,16 @@
 <!-- AUTO_START -->
 
-# 悔やむ
+# 〜 từ 言わせてもらえば
 
-Category: Vocabulary
-Correct: 0
-Wrong: 3
-Accuracy: 0.0%
+Category: Grammar
+Correct: 1
+Wrong: 1
+Accuracy: 50.0%
 Mastery: Low
 Priority: High
 
 ## Related Reviews
 
-- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 4]]
-- [[6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 - [[7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 
 <!-- AUTO_END -->

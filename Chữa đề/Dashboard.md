@@ -2,15 +2,16 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 324
-- Total Knowledge Items: 3817
-- Correct: 2334
-- Wrong: 2941
+- Total Reviews: 326
+- Total Knowledge Items: 3824
+- Correct: 2346
+- Wrong: 2960
 - Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 215| Wrong: 40
+- [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
@@ -19,7 +20,6 @@
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
-- [[〜あまり]] | Grammar| Score: 50| Wrong: 7
 - [[〜にほかならない]] | Grammar| Score: 45| Wrong: 6
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
@@ -34,6 +34,7 @@
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 40
+- [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
@@ -46,7 +47,6 @@
 - [[必修パターン]] (Vocabulary) Wrong: 7
 - [[模擬試験]] (Vocabulary) Wrong: 7
 - [[返事]] (FixedExpression) Wrong: 7
-- [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
 - [[〜にほかならない]] (Grammar) Wrong: 6
@@ -58,24 +58,24 @@
 
 - Adverb: 40.7% (Correct 182 / Wrong 265)
 - Collocation: 43.7% (Correct 97 / Wrong 125)
-- CompoundVerb: 40.1% (Correct 111 / Wrong 166)
+- CompoundVerb: 39.9% (Correct 111 / Wrong 167)
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
 - Demonstratives: 27.3% (Correct 3 / Wrong 8)
 - FixedExpression: 40.3% (Correct 172 / Wrong 255)
-- Grammar: 48.2% (Correct 595 / Wrong 639)
-- Kanji: 47.2% (Correct 196 / Wrong 219)
-- Katakana: 43.6% (Correct 92 / Wrong 119)
+- Grammar: 48.2% (Correct 605 / Wrong 651)
+- Kanji: 47.1% (Correct 195 / Wrong 219)
+- Katakana: 43.3% (Correct 91 / Wrong 119)
 - Keigo: 49.2% (Correct 29 / Wrong 30)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 45.9% (Correct 745 / Wrong 878)
+- Vocabulary: 45.9% (Correct 749 / Wrong 884)
 
 ## 📚 Top Grammar
 
+- [[〜あまり]] (Score: 60)
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
 - [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
-- [[〜あまり]] (Score: 50)
 - [[〜にほかならない]] (Score: 45)
 - [[〜がち]] (Score: 45)
 - [[〜ものの]] (Score: 45)
@@ -89,11 +89,11 @@
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
 - [[無理]] (Score: 30)
+- [[悔やむ]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[研修]] (Score: 30)
 - [[行方]] (Score: 25)
 - [[光景]] (Score: 25)
-- [[格好]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -241,7 +241,7 @@
 - [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]
 - [[4. Phân Tích N2_TỪ ĐỒNG NGHĨA (P9)]]
 - [[5. Phân Tích N2_TỪ ĐỒNG NGHĨA (P8)]]
+- [[6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
+- [[7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 - [[２．Phân Tích N2_TỪ ĐỒNG NGHĨA (P10)]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
-- [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
-- [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
