@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 321
-- Total Knowledge Items: 3793
-- Correct: 2320
-- Wrong: 2924
+- Total Reviews: 324
+- Total Knowledge Items: 3817
+- Correct: 2334
+- Wrong: 2941
 - Accuracy: 44.2%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 40.6% (Correct 179 / Wrong 262)
-- Collocation: 43.4% (Correct 96 / Wrong 125)
-- CompoundVerb: 39.9% (Correct 110 / Wrong 166)
+- Adverb: 40.7% (Correct 182 / Wrong 265)
+- Collocation: 43.7% (Correct 97 / Wrong 125)
+- CompoundVerb: 40.1% (Correct 111 / Wrong 166)
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
 - Demonstratives: 27.3% (Correct 3 / Wrong 8)
-- FixedExpression: 40.4% (Correct 172 / Wrong 254)
+- FixedExpression: 40.3% (Correct 172 / Wrong 255)
 - Grammar: 48.2% (Correct 595 / Wrong 639)
 - Kanji: 47.2% (Correct 196 / Wrong 219)
-- Katakana: 43.8% (Correct 92 / Wrong 118)
+- Katakana: 43.6% (Correct 92 / Wrong 119)
 - Keigo: 49.2% (Correct 29 / Wrong 30)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 45.9% (Correct 736 / Wrong 866)
+- Vocabulary: 45.9% (Correct 745 / Wrong 878)
 
 ## 📚 Top Grammar
 
@@ -93,7 +93,7 @@
 - [[研修]] (Score: 30)
 - [[行方]] (Score: 25)
 - [[光景]] (Score: 25)
-- [[とうげ]] (Score: 25)
+- [[格好]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -119,7 +119,7 @@
 - [[スムーズに]] (Score: 25)
 - [[マイペース]] (Score: 25)
 - [[シーズン]] (Score: 25)
-- [[コレクション]] (Score: 20)
+- [[スタイル]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -239,9 +239,9 @@
 - [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
 - [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
 - [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]
+- [[4. Phân Tích N2_TỪ ĐỒNG NGHĨA (P9)]]
+- [[5. Phân Tích N2_TỪ ĐỒNG NGHĨA (P8)]]
+- [[２．Phân Tích N2_TỪ ĐỒNG NGHĨA (P10)]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
-- [[5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
-- [[6. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 5 (P6)]]
-- [[7. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P6)]]

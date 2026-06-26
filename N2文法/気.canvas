@@ -7,7 +7,7 @@
 		{"id":"e32879c0b0d37173","type":"file","file":"Pasted image 20260412211220.png","x":-1000,"y":360,"width":400,"height":178},
 		{"id":"a51e0edeaa18da46","type":"file","file":"Pasted image 20260412211243.png","x":-1600,"y":341,"width":400,"height":216},
 		{"id":"1e7bd4944dcb9329","type":"file","file":"Pasted image 20260407220846.png","x":-1160,"y":-180,"width":400,"height":400},
-		{"id":"cc718f1bad1718c2","type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/K/Khí　「气」.canvas","x":-920,"y":-760,"width":400,"height":400}
+		{"id":"cc718f1bad1718c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khí　「气」.canvas","x":-920,"y":-760,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"18a3791f12259a01","fromNode":"3b54c8aa92d20996","fromSide":"left","toNode":"1e7bd4944dcb9329","toSide":"right"},

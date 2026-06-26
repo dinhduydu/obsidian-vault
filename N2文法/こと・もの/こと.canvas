@@ -72,7 +72,11 @@
 		{"id":"fed5cd727e26c3ca","type":"text","text":"まだ時間があるから、諦めることはない。","x":3448,"y":-810,"width":389,"height":60},
 		{"id":"2cb95960f40f09c5","type":"text","text":"「N3」ことはない","x":2140,"y":-810,"width":250,"height":60},
 		{"id":"4e9d62576081523c","type":"file","file":"Pasted image 20260409075941.png","x":572,"y":-149,"width":400,"height":214},
-		{"id":"09f58b007b8f260c","type":"file","file":"Pasted image 20260410084620.png","x":154,"y":-1356,"width":400,"height":193}
+		{"id":"09f58b007b8f260c","type":"file","file":"Pasted image 20260410084620.png","x":154,"y":-1356,"width":400,"height":193},
+		{"id":"0b84c0522fe4acda","x":1265,"y":-3060,"width":250,"height":60,"type":"text","text":"ことで"},
+		{"id":"1673c1a304754694","x":1593,"y":-2989,"width":250,"height":60,"type":"text","text":"で"},
+		{"id":"87726b9eca242aef","x":1593,"y":-3120,"width":250,"height":60,"type":"text","text":"bằng việc nào đó"},
+		{"id":"15f566c12be5060c","x":1984,"y":-2989,"width":250,"height":60,"type":"text","text":"Vì lý do A -> kết quả B"}
 	],
 	"edges":[
 		{"id":"fd61aa1f80711936","fromNode":"3113605081a3a040","fromSide":"right","toNode":"4e9d62576081523c","toSide":"left","label":"ことはない"},
@@ -153,6 +157,9 @@
 		{"id":"075c37295b4aedcf","fromNode":"3f1c4e5ba7e1395a","fromSide":"right","toNode":"114a72a3a3497e98","toSide":"left","label":"という＋ことだ"},
 		{"id":"4ba54d9e686b3c72","fromNode":"53ba9f58708fc940","fromSide":"top","toNode":"eecd559c639cccad","toSide":"bottom","label":"のことだから"},
 		{"id":"29fde6a482d072ea","fromNode":"89a85daf0692ccd9","fromSide":"right","toNode":"d326065db2d133dc","toSide":"left","label":"ことから"},
-		{"id":"e224b4da2d5ca3c0","fromNode":"2473d6c2f27b1b03","fromSide":"right","toNode":"d326065db2d133dc","toSide":"left","label":"ことだから"}
+		{"id":"e224b4da2d5ca3c0","fromNode":"2473d6c2f27b1b03","fromSide":"right","toNode":"d326065db2d133dc","toSide":"left","label":"ことだから"},
+		{"id":"5a000421d7908580","fromNode":"0b84c0522fe4acda","fromSide":"right","toNode":"87726b9eca242aef","toSide":"left"},
+		{"id":"187a87602f9d1701","fromNode":"0b84c0522fe4acda","fromSide":"right","toNode":"1673c1a304754694","toSide":"left"},
+		{"id":"5f1c6b0ef4e7be87","fromNode":"1673c1a304754694","fromSide":"right","toNode":"15f566c12be5060c","toSide":"left"}
 	]
 }

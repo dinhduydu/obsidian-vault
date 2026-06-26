@@ -69,9 +69,9 @@
 		{"id":"efb8c063e4e89654","type":"file","file":"Pasted image 20260505213225.png","x":790,"y":-1960,"width":400,"height":261},
 		{"id":"9e2263e4999de3a1","type":"text","text":"ように思える","x":2664,"y":364,"width":250,"height":56},
 		{"id":"e37d5a6ebfb29bc4","type":"text","text":"Cảm thấy, dường như là","x":2560,"y":580,"width":250,"height":60},
-		{"id":"a570433fecfb20b1","x":80,"y":-1200,"width":250,"height":60,"type":"text","text":"　ような"},
-		{"id":"d974a921d5815dd0","x":1420,"y":-1520,"width":400,"height":60,"type":"text","text":"正しいことのほうが多くなるような生活"},
-		{"id":"dfedb78b005cc764","x":1980,"y":-1880,"width":351,"height":331,"type":"text","text":"Không phải:\n\n“cuộc sống giống như…”\n\nMà là:\n\n“cuộc sống sao cho điều đúng nhiều hơn”\n\nỞ đây:\n\nような mang sắc thái:\n“theo kiểu”, “hướng tới trạng thái”"}
+		{"id":"a570433fecfb20b1","type":"text","text":"　ような","x":80,"y":-1200,"width":250,"height":60},
+		{"id":"d974a921d5815dd0","type":"text","text":"正しいことのほうが多くなるような生活","x":1420,"y":-1520,"width":400,"height":60},
+		{"id":"dfedb78b005cc764","type":"text","text":"Không phải:\n\n“cuộc sống giống như…”\n\nMà là:\n\n“cuộc sống sao cho điều đúng nhiều hơn”\n\nỞ đây:\n\nような mang sắc thái:\n“theo kiểu”, “hướng tới trạng thái”","x":1980,"y":-1880,"width":351,"height":331}
 	],
 	"edges":[
 		{"id":"976318583a612cef","fromNode":"908075991677c442","fromSide":"right","toNode":"751a3c5c892cf370","toSide":"left","label":"ようだ"},
