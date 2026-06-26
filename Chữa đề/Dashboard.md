@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 320
-- Total Knowledge Items: 3768
-- Correct: 2303
-- Wrong: 2884
-- Accuracy: 44.4%
+- Total Reviews: 321
+- Total Knowledge Items: 3793
+- Correct: 2320
+- Wrong: 2924
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
@@ -15,21 +15,21 @@
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
+- [[〜まい]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[〜あまり]] | Grammar| Score: 50| Wrong: 7
+- [[〜にほかならない]] | Grammar| Score: 45| Wrong: 6
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
-- [[〜まい]] | Grammar| Score: 45| Wrong: 6
+- [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
-- [[〜にほかならない]] | Grammar| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
 - [[むしろ]] | Conjunction| Score: 35| Wrong: 6
 - [[〜に限って]] | Grammar| Score: 35| Wrong: 4
-- [[〜こそ]] | Grammar| Score: 35| Wrong: 5
 
 ## 🔥 Top Weak Points
 
@@ -40,6 +40,7 @@
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
 - [[〜がち]] (Grammar) Wrong: 7
+- [[〜まい]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
 - [[〜とは限らない]] (Grammar) Wrong: 7
 - [[必修パターン]] (Vocabulary) Wrong: 7
@@ -48,23 +49,22 @@
 - [[〜あまり]] (Grammar) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
+- [[〜にほかならない]] (Grammar) Wrong: 6
+- [[〜ものの]] (Grammar) Wrong: 6
 - [[〜からといって]] (Grammar) Wrong: 6
 - [[しかし]] (Conjunction) Wrong: 6
-- [[〜にすぎない]] (Grammar) Wrong: 6
-- [[〜まい]] (Grammar) Wrong: 6
-- [[〜次第]] (Grammar) Wrong: 6
 
 ## 📈 Category Statistics
 
-- Adverb: 40.5% (Correct 178 / Wrong 261)
-- Collocation: 43.2% (Correct 95 / Wrong 125)
-- CompoundVerb: 40.1% (Correct 110 / Wrong 164)
+- Adverb: 40.6% (Correct 179 / Wrong 262)
+- Collocation: 43.4% (Correct 96 / Wrong 125)
+- CompoundVerb: 39.9% (Correct 110 / Wrong 166)
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
-- Demonstratives: 30.0% (Correct 3 / Wrong 7)
-- FixedExpression: 40.7% (Correct 174 / Wrong 253)
-- Grammar: 48.9% (Correct 578 / Wrong 605)
+- Demonstratives: 27.3% (Correct 3 / Wrong 8)
+- FixedExpression: 40.4% (Correct 172 / Wrong 254)
+- Grammar: 48.2% (Correct 595 / Wrong 639)
 - Kanji: 47.2% (Correct 196 / Wrong 219)
-- Katakana: 44.0% (Correct 92 / Wrong 117)
+- Katakana: 43.8% (Correct 92 / Wrong 118)
 - Keigo: 49.2% (Correct 29 / Wrong 30)
 - Reading: 31.5% (Correct 57 / Wrong 124)
 - Vocabulary: 45.9% (Correct 736 / Wrong 866)
@@ -73,14 +73,14 @@
 
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
+- [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
 - [[〜あまり]] (Score: 50)
+- [[〜にほかならない]] (Score: 45)
 - [[〜がち]] (Score: 45)
-- [[〜まい]] (Score: 45)
+- [[〜ものの]] (Score: 45)
 - [[〜次第]] (Score: 42)
-- [[〜にほかならない]] (Score: 40)
 - [[〜からといって]] (Score: 40)
-- [[〜受身形 (Ukemi)]] (Score: 40)
 
 ## 📚 Top Vocabulary
 
@@ -220,8 +220,8 @@
 - [[ああ]] (Score: 15)
 - [[その]] (Score: 15)
 - [[どこ]] (Score: 10)
+- [[そんな]] (Score: 5)
 - [[そう]] (Score: 0)
-- [[そんな]] (Score: 0)
 
 ## 📅 Recent Reviews
 
@@ -238,10 +238,10 @@
 - [[5. Phân Tích N2 Midterm Grammar Assessment Course 1]]
 - [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
 - [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
+- [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]
 - [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
 - [[3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44]]
 - [[4. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
 - [[5. Phân Tích BÀI LÀM N2 TỔNG ÔN TỪ VỰNG BÀI 6 (P6)]]
 - [[6. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 5 (P6)]]
 - [[7. Phân Tích BÀI LÀM N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P6)]]
-- [[5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1)]]
