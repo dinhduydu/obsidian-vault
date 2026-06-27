@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Prompt/Prompt_Gen_DB1.md",
+                "file": "Chữa đề/Learning_Profile/Adverb/別に.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt_Gen_DB1"
+              "title": "別に"
             }
           },
           {
@@ -299,12 +299,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/今ひとつ.md",
+                "file": "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "今ひとつ"
+              "title": "1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18)"
             }
           },
           {
@@ -322,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -471,34 +471,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8cce3adacfe602e",
+  "active": "45dce7a520c5fe35",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Adverb/二度.md",
-    "Chữa đề/Learning_Profile/Adverb/二度と.md",
-    "Chữa đề/２０２６年/０２月２０２６年/Week4/28022026/2. Phân Tích PHÓ TỪ_TEST 2.md",
-    "Chữa đề/Learning_Profile/Adverb/予め.md",
-    "Chữa đề/Learning_Profile/Adverb/予め (あらかじめ).md",
-    "Chữa đề/Learning_Profile/Adverb/ぶらぶら.md",
-    "Chữa đề/Learning_Profile/Adverb/ふと.md",
-    "Chữa đề/Learning_Profile/Adverb/ぶかぶか.md",
-    "Chữa đề/Learning_Profile/Adverb/ふいに.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/20062026/3. Phân Tích Từ gần nghĩa (Day 12).md",
-    "Chữa đề/Learning_Profile/Adverb/わりに.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/26012026/2. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 4.md",
+    "Chữa đề/Learning_Profile/Adverb/別に.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/21012026/2. Phân Tích N3_KÍNH NGỮ (P5).md",
+    "N2語彙/Phó từ/🚫 Đi kèm phủ định.md",
+    "Chữa đề/Learning_Profile/Adverb/全く.md",
+    "N2語彙/Phó từ/⏳Thay đổi theo thời gian.md",
+    "Chữa đề/Learning_Profile/Adverb/少しも.md",
+    "Chữa đề/Learning_Profile/Adverb/決して.md",
     "Chữa đề/Learning_Profile/Adverb/ろくに.md",
-    "Chữa đề/Learning_Profile/Adverb/いちがいに.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week3/18052026/1. Phân Tích 50 câu hỏi về cách dùng từ.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/20062026/2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.md",
-    "Chữa đề/Learning_Profile/Adverb/いちいち.md",
-    "Chữa đề/Learning_Profile/Adverb/いずれにしても.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/03122025/3. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 11.md",
-    "Chữa đề/Learning_Profile/Adverb/いずれは.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week1/03112025/3. Phân Tích Kết Quả THAOLEJP_N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.2).md",
-    "Chữa đề/Learning_Profile/Adverb/いずれ.md",
-    "Chữa đề/Learning_Profile/Adverb/いざ.md",
-    "Chữa đề/Learning_Profile/Adverb/いくら.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 6.md",
-    "Chữa đề/Learning_Profile/Adverb/いくぶん.md",
-    "Chữa đề/Learning_Profile/Adverb/いきなり.md",
+    "Chữa đề/Learning_Profile/Adverb/めったに.md",
+    "Chữa đề/Learning_Profile/Adverb/ちっとも.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4).md",
+    "N2文法/ない・いう・しまう/ない.canvas",
+    "Vない.md",
+    "N2文法/次第・つつ/次第.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜次第.md",
+    "Chữa đề/Learning_Profile/Adverb/次第に.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ように（なる）.md",
+    "Chữa đề/Learning_Profile/Adverb/徐々に.md",
+    "N2語彙/Phó từ/Adverb Navigation.canvas",
+    "Chữa đề/Learning_Profile/Adverb/だんだん.md",
+    "Chữa đề/Learning_Profile/Adverb/どんどん.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week1/06032026/3. Phân Tích ĐẠI TỪ CHỈ THỊ_TEST 5.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/2. Phân Tích N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1.md",
+    "一掃.md",
+    "Chữa đề/Learning_Profile/Adverb/一段と.md",
+    "Chữa đề/Learning_Profile/Adverb/相次いで.md",
+    "Chữa đề/Learning_Profile/Adverb/続々と.md",
+    "Chữa đề/Learning_Profile/Adverb/次々と.md",
     "N2語彙/Phó từ/なかなか.canvas",
     "N2語彙/Phó từ/がらがら.canvas",
     "N2語彙/Phó từ/きっぱり.canvas",
@@ -506,13 +509,10 @@
     "N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas",
     "N2文法/こと・もの/こと.canvas",
     "N2漢字/Bộ thủ/Hay gặp/K/Khí　「气」.canvas",
-    "N2文法/気.canvas",
     "Untitled 16.base",
     "Untitled 15.base",
-    "N2文法/そう・よう/よう.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/26062026",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/25062026",
-    "N2文法/です・だ・である.canvas",
     "Pasted image 20260624180707.png",
     "Pasted image 20260624180247.png",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026",

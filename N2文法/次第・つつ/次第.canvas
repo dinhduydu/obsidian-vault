@@ -3,13 +3,23 @@
 		{"id":"7772a5c888f411aa","type":"file","file":"Pasted image 20260409080020.png","x":-20,"y":-140,"width":400,"height":233},
 		{"id":"b15d1be6a8f5d24a","type":"text","text":"次第","x":-440,"y":-53,"width":250,"height":60},
 		{"id":"36a135f9d0106166","type":"file","file":"Pasted image 20260409080102.png","x":-20,"y":-500,"width":399,"height":158},
-		{"id":"4b32ef7dad44ed08","type":"text","text":"次第","x":-982,"y":-124,"width":250,"height":60},
-		{"id":"c58aa8f05505f38f","type":"text","text":"次第で","x":-870,"y":210,"width":250,"height":60}
+		{"id":"4b32ef7dad44ed08","type":"text","text":"次第だ","x":-982,"y":-124,"width":250,"height":64},
+		{"id":"c58aa8f05505f38f","type":"text","text":"次第で","x":-870,"y":210,"width":250,"height":60},
+		{"id":"97947dd0d9024d0e","x":-1382,"y":240,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第で.md"},
+		{"id":"2ed7e4cde3c4c799","x":-2000,"y":400,"width":400,"height":480,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md"},
+		{"id":"144fdd9a01e86b4f","x":-1516,"y":-425,"width":400,"height":333,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第だ.md"},
+		{"id":"72d2e2cf1cb87e51","x":-1516,"y":-825,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第です.md"},
+		{"id":"471c0f0a007cb4f4","x":-515,"y":-780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第 (Ngay sau khi).md"}
 	],
 	"edges":[
 		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},
 		{"id":"1fa46ef792b6e24e","fromNode":"36a135f9d0106166","fromSide":"bottom","toNode":"7772a5c888f411aa","toSide":"top"},
 		{"id":"5af5cfb53d34087d","fromNode":"b15d1be6a8f5d24a","fromSide":"left","toNode":"4b32ef7dad44ed08","toSide":"right"},
-		{"id":"cdd8dbcaf3feede3","fromNode":"b15d1be6a8f5d24a","fromSide":"bottom","toNode":"c58aa8f05505f38f","toSide":"top"}
+		{"id":"cdd8dbcaf3feede3","fromNode":"b15d1be6a8f5d24a","fromSide":"bottom","toNode":"c58aa8f05505f38f","toSide":"top"},
+		{"id":"c90720a749a3208f","fromNode":"c58aa8f05505f38f","fromSide":"left","toNode":"97947dd0d9024d0e","toSide":"right"},
+		{"id":"d2e7926c06b015fd","fromNode":"97947dd0d9024d0e","fromSide":"left","toNode":"2ed7e4cde3c4c799","toSide":"right"},
+		{"id":"a5b5863d6792a88d","fromNode":"4b32ef7dad44ed08","fromSide":"left","toNode":"144fdd9a01e86b4f","toSide":"right"},
+		{"id":"4341c2adc76c47e9","fromNode":"4b32ef7dad44ed08","fromSide":"left","toNode":"72d2e2cf1cb87e51","toSide":"right"},
+		{"id":"b284dae114c9ab78","fromNode":"36a135f9d0106166","fromSide":"left","toNode":"471c0f0a007cb4f4","toSide":"right"}
 	]
 }
