@@ -1,32 +1,34 @@
 {
 	"nodes":[
+		{"id":"8ac1db97bf328e32","type":"group","x":-495,"y":-1060,"width":913,"height":241,"label":"をめぐって　ー　Xoay quanh"},
 		{"id":"4877fae6b807474a","type":"text","text":"を","x":-1700,"y":-1541,"width":250,"height":50},
 		{"id":"c466cc8010fef179","type":"text","text":"を込めて","x":-1173,"y":-2080,"width":250,"height":60},
-		{"id":"67a3dfe03fb8928c","type":"text","text":"Nを込めて","x":-731,"y":-2165,"width":250,"height":60},
-		{"id":"83f64d9aa7df629d","type":"text","text":"Dùng khi muốn nói đưa tình cảm A vào 1 thứ nào đó","x":-331,"y":-2263,"width":250,"height":60},
-		{"id":"5f7f89b9d5c8df11","type":"text","text":"A thường là","x":50,"y":-2312,"width":250,"height":60},
 		{"id":"be1dd4b6a5cd1c24","type":"text","text":"愛","x":388,"y":-2384,"width":250,"height":60},
-		{"id":"6554ef561888f9dd","type":"text","text":"思い","x":400,"y":-2225,"width":250,"height":60},
 		{"id":"e5dc24ac946b4a97","type":"text","text":"ざるを得ない","x":-2191,"y":-2259,"width":250,"height":60},
-		{"id":"b5eca80d96f52104","type":"text","text":"「N3」を","x":-1980,"y":-944,"width":250,"height":60},
-		{"id":"9fb2f31016120f8e","type":"text","text":"を通して","x":-2230,"y":-700,"width":250,"height":60},
-		{"id":"9266d5336ebbb5d1","type":"file","file":"N2文法/助詞/に/に.canvas","x":-1550,"y":-396,"width":310,"height":196},
-		{"id":"0b7c203334515a5e","type":"text","text":"をもとに（して）","x":-1746,"y":-640,"width":250,"height":60},
-		{"id":"996a589cc04e69ee","type":"text","text":"「N2]　を","x":-1240,"y":-840,"width":250,"height":60},
-		{"id":"c35c42bb83588cbc","type":"text","text":"を契機（けいき）に","x":-1329,"y":-673,"width":250,"height":60},
-		{"id":"384b1c2db5c77d52","type":"file","file":"Pasted image 20260412211037.png","x":-225,"y":-580,"width":400,"height":221},
-		{"id":"d55d3a3ea9ac58a8","type":"text","text":"をめぐって","x":-475,"y":-944,"width":250,"height":60},
 		{"id":"c3c14d6abad94487","type":"text","text":"をきっかけに（して）","x":-2520,"y":-1320,"width":250,"height":60},
 		{"id":"ca47a4fb951a4c4c","type":"text","text":"得る（える・うる）","x":-2510,"y":-2559,"width":250,"height":60},
 		{"id":"9d44dbaddf4f8908","type":"text","text":"「N3」を","x":-1540,"y":-1920,"width":250,"height":60},
 		{"id":"a7de986e356de212","type":"text","text":"を","x":-4120,"y":-3877,"width":60,"height":60},
 		{"id":"446eafb8755b5cb0","type":"text","text":"With verbs of motion, shows where the motion occurs","x":-3843,"y":-3807,"width":250,"height":60},
 		{"id":"6e956ea87c8edee4","type":"text","text":"Marks the object of verb","x":-3841,"y":-4040,"width":250,"height":60},
+		{"id":"67a3dfe03fb8928c","type":"text","text":"Nを込めて","x":-731,"y":-2165,"width":250,"height":60},
+		{"id":"83f64d9aa7df629d","type":"text","text":"Dùng khi muốn nói đưa tình cảm A vào 1 thứ nào đó","x":-331,"y":-2263,"width":250,"height":60},
+		{"id":"5f7f89b9d5c8df11","type":"text","text":"A thường là","x":50,"y":-2312,"width":250,"height":60},
+		{"id":"6554ef561888f9dd","type":"text","text":"思い","x":400,"y":-2225,"width":250,"height":60},
+		{"id":"9266d5336ebbb5d1","type":"file","file":"N2文法/助詞/に/に.canvas","x":-1550,"y":-396,"width":310,"height":196},
+		{"id":"0b7c203334515a5e","type":"text","text":"をもとに（して）","x":-1746,"y":-640,"width":250,"height":60},
+		{"id":"996a589cc04e69ee","type":"text","text":"「N2]　を","x":-1240,"y":-840,"width":250,"height":60},
+		{"id":"c35c42bb83588cbc","type":"text","text":"を契機（けいき）に","x":-1329,"y":-673,"width":250,"height":60},
+		{"id":"44f7df2535343e0a","type":"text","text":"を問（と）わず","x":-987,"y":-610,"width":250,"height":60},
+		{"id":"b5eca80d96f52104","type":"text","text":"「N3」を","x":-1980,"y":-944,"width":250,"height":60},
 		{"id":"84fecbb1c0b8a6b5","type":"text","text":"をはじめ","x":-975,"y":-1200,"width":250,"height":60},
 		{"id":"364cf841a94fc513","type":"text","text":"をはじめとして","x":-725,"y":-1466,"width":250,"height":60},
-		{"id":"368e17850bd8e645","type":"file","file":"N2文法/助詞/と.canvas","x":-40,"y":-1511,"width":209,"height":151},
+		{"id":"368e17850bd8e645","type":"file","file":"N2文法/助詞/と/と.canvas","x":-40,"y":-1511,"width":209,"height":151},
 		{"id":"3bdcc2d535d262f1","type":"text","text":"を始める","x":-725,"y":-1800,"width":250,"height":60},
-		{"id":"44f7df2535343e0a","x":-987,"y":-610,"width":250,"height":60,"type":"text","text":"を問（と）わず"}
+		{"id":"049ec7299cb4f06f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜をめぐって.md","x":-25,"y":-1040,"width":423,"height":201},
+		{"id":"d55d3a3ea9ac58a8","type":"text","text":"をめぐって","x":-475,"y":-944,"width":250,"height":60},
+		{"id":"9fb2f31016120f8e","type":"text","text":"を通して","x":-2230,"y":-700,"width":250,"height":60},
+		{"id":"384b1c2db5c77d52","type":"file","file":"Pasted image 20260412211037.png","x":-225,"y":-610,"width":454,"height":251}
 	],
 	"edges":[
 		{"id":"6ea83776af42dc19","fromNode":"a7de986e356de212","fromSide":"right","toNode":"6e956ea87c8edee4","toSide":"left"},
@@ -56,6 +58,7 @@
 		{"id":"d626d21f571c551d","fromNode":"3bdcc2d535d262f1","fromSide":"bottom","toNode":"364cf841a94fc513","toSide":"top","label":"をはじめとして"},
 		{"id":"d8905f3b964b3c2f","fromNode":"364cf841a94fc513","fromSide":"right","toNode":"368e17850bd8e645","toSide":"left","label":"をはじめとして"},
 		{"id":"e6c6e8e83f02c6a0","fromNode":"996a589cc04e69ee","fromSide":"top","toNode":"84fecbb1c0b8a6b5","toSide":"left","label":"をはじめ"},
-		{"id":"5457d14a348997ca","fromNode":"996a589cc04e69ee","fromSide":"bottom","toNode":"44f7df2535343e0a","toSide":"top"}
+		{"id":"5457d14a348997ca","fromNode":"996a589cc04e69ee","fromSide":"bottom","toNode":"44f7df2535343e0a","toSide":"top"},
+		{"id":"6b95d582a455074a","fromNode":"d55d3a3ea9ac58a8","fromSide":"right","toNode":"049ec7299cb4f06f","toSide":"left"}
 	]
 }

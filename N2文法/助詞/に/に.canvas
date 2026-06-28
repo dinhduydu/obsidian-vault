@@ -170,7 +170,7 @@
 		{"id":"8405b8a943840cd7","type":"text","text":"Lấy A làm phương thức","x":2140,"y":-2320,"width":250,"height":60},
 		{"id":"9d4932815500b79b","type":"text","text":"A là nguyên nhân","x":2140,"y":-2086,"width":250,"height":60},
 		{"id":"14e5c8d5f4c3dfdb","type":"text","text":"「N2」に","x":2380,"y":-728,"width":250,"height":60},
-		{"id":"063a6d9803143319","type":"file","file":"N2文法/助詞/を.canvas","x":3840,"y":-4215,"width":241,"height":155},
+		{"id":"063a6d9803143319","type":"file","file":"N2文法/助詞/を/を.canvas","x":3840,"y":-4215,"width":241,"height":155},
 		{"id":"2e7a26df4e8254ee","type":"text","text":"にこしたことはない","x":2526,"y":-1213,"width":250,"height":60},
 		{"id":"ee099ba8f7ce93fc","type":"file","file":"N2文法/こと・もの/こと.canvas","x":3068,"y":-1288,"width":108,"height":150},
 		{"id":"95b08166575114a1","type":"text","text":"に相違（そうい）ない","x":2943,"y":-480,"width":250,"height":60},

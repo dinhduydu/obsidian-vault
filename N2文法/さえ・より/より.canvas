@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"2c092303cc5ae0be","type":"text","text":"より","x":-178,"y":-51,"width":250,"height":60},
 		{"id":"a6a918e33bd425ec","type":"text","text":"というより","x":-671,"y":-49,"width":250,"height":60},
-		{"id":"558f0c574ef79114","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-1100,"y":-300,"width":243,"height":200},
-		{"id":"9446f7ba8ece16bc","x":304,"y":-248,"width":756,"height":50,"type":"text","text":"完璧な人はいないが、あやまち**より**正しいことのほうが多い生活をするべきだ。"},
-		{"id":"801edd789cb4265f","x":1260,"y":-248,"width":588,"height":50,"type":"text","text":"Không ai là hoàn hảo, nhưng nên sống sao cho điều đúng nhiều hơn sai lầm."}
+		{"id":"9446f7ba8ece16bc","type":"text","text":"完璧な人はいないが、あやまち**より**正しいことのほうが多い生活をするべきだ。","x":304,"y":-248,"width":756,"height":50},
+		{"id":"801edd789cb4265f","type":"text","text":"Không ai là hoàn hảo, nhưng nên sống sao cho điều đúng nhiều hơn sai lầm.","x":1260,"y":-248,"width":588,"height":50},
+		{"id":"558f0c574ef79114","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-1140,"y":-51,"width":243,"height":200},
+		{"id":"3b8b5b9d5d8d325d","x":-1240,"y":-623,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/というより.md"}
 	],
 	"edges":[
 		{"id":"b98485374c41ed69","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"a6a918e33bd425ec","toSide":"right"},
 		{"id":"f4ff920998413e50","fromNode":"a6a918e33bd425ec","fromSide":"left","toNode":"558f0c574ef79114","toSide":"right","label":"というより"},
 		{"id":"5b4f91ee010a0bc6","fromNode":"2c092303cc5ae0be","fromSide":"right","toNode":"9446f7ba8ece16bc","toSide":"left","label":"より"},
-		{"id":"65f3419ef897d0a1","fromNode":"9446f7ba8ece16bc","fromSide":"right","toNode":"801edd789cb4265f","toSide":"left","label":"より"}
+		{"id":"65f3419ef897d0a1","fromNode":"9446f7ba8ece16bc","fromSide":"right","toNode":"801edd789cb4265f","toSide":"left","label":"より"},
+		{"id":"38841ee044ea6903","fromNode":"a6a918e33bd425ec","fromSide":"top","toNode":"3b8b5b9d5d8d325d","toSide":"right"}
 	]
 }

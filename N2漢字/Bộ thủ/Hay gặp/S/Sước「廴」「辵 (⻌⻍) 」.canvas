@@ -37,7 +37,7 @@
 		{"id":"82322b4eb500cc63","type":"file","file":"N2文法/助詞/に/に.canvas","x":420,"y":395,"width":183,"height":110},
 		{"id":"21f1f474a74740fa","type":"text","text":"明日は遠足です。\n（あした は えんそく です。）\nNgày mai là buổi dã ngoại.","x":1660,"y":-760,"width":280,"height":127},
 		{"id":"a779becea17a9f06","type":"text","text":"遠足のおやつ\n（えんそく の おやつ）\nĐồ ăn vặt mang theo khi đi dã ngoại.","x":1660,"y":-501,"width":250,"height":108},
-		{"id":"653aa3dbf139319d","type":"file","file":"N2文法/助詞/を.canvas","x":420,"y":541,"width":135,"height":99},
+		{"id":"653aa3dbf139319d","type":"file","file":"N2文法/助詞/を/を.canvas","x":420,"y":541,"width":135,"height":99},
 		{"id":"bc1c2aa17147eb8e","type":"text","text":"Ví dụ:\n\n仕事を先延ばしにする\n→ trì hoãn công việc\n決断を先延ばしにしている。\n→ đang kéo dài việc đưa ra quyết định\n先延ばし癖\n→ thói quen procrastinate","x":-277,"y":1493,"width":250,"height":267},
 		{"id":"d9ed1de9e836d186","type":"text","text":"運 - Vận","x":-62,"y":720,"width":250,"height":60},
 		{"id":"2970dc1d438d8c63","type":"text","text":"選 - Tuyển","x":-62,"y":860,"width":250,"height":60},
