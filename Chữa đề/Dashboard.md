@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 327
-- Total Knowledge Items: 3824
-- Correct: 2346
-- Wrong: 2960
-- Accuracy: 44.2%
+- Total Reviews: 329
+- Total Knowledge Items: 3829
+- Correct: 2347
+- Wrong: 2969
+- Accuracy: 44.1%
 
 ## 🚨 Review Queue
 
@@ -24,12 +24,12 @@
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
+- [[〜に限って]] | Grammar| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
 - [[むしろ]] | Conjunction| Score: 35| Wrong: 6
-- [[〜に限って]] | Grammar| Score: 35| Wrong: 4
 
 ## 🔥 Top Weak Points
 
@@ -62,10 +62,10 @@
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
 - Demonstratives: 27.3% (Correct 3 / Wrong 8)
 - FixedExpression: 40.3% (Correct 172 / Wrong 255)
-- Grammar: 48.2% (Correct 605 / Wrong 651)
+- Grammar: 47.9% (Correct 606 / Wrong 659)
 - Kanji: 47.1% (Correct 195 / Wrong 219)
 - Katakana: 43.3% (Correct 91 / Wrong 119)
-- Keigo: 49.2% (Correct 29 / Wrong 30)
+- Keigo: 48.3% (Correct 29 / Wrong 31)
 - Reading: 31.5% (Correct 57 / Wrong 124)
 - Vocabulary: 45.9% (Correct 749 / Wrong 884)
 
@@ -80,7 +80,7 @@
 - [[〜がち]] (Score: 45)
 - [[〜ものの]] (Score: 45)
 - [[〜次第]] (Score: 42)
-- [[〜からといって]] (Score: 40)
+- [[〜に限って]] (Score: 40)
 
 ## 📚 Top Vocabulary
 
@@ -206,11 +206,11 @@
 - [[なさる]] (Score: 25)
 - [[〜ご覧いただく]] (Score: 20)
 - [[〜させていただけないでしょうか]] (Score: 20)
+- [[お休みになったら]] (Score: 20)
 - [[〜様ですか]] (Score: 20)
 - [[見えました]] (Score: 20)
 - [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
 - [[お～になる]] (Score: 20)
-- [[お見えになる]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
