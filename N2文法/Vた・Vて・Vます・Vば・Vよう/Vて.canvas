@@ -125,7 +125,7 @@
 		{"id":"949a49d26c1e0085","type":"text","text":"Diễn tả hành động đang diễn ra","x":4480,"y":445,"width":250,"height":60},
 		{"id":"e90536f194fa25f8","type":"text","text":"Diễn tả kết quả còn lại của một hành động hay sự kiện","x":4517,"y":580,"width":250,"height":60},
 		{"id":"86b9b75cf8a00564","type":"text","text":"Diễn tả việc lặp đi lặp lại trong 1 thời gian dài như thói quen","x":4480,"y":357,"width":250,"height":60},
-		{"id":"483983b9b3d2490d","type":"file","file":"N2文法/うちに.canvas","x":4059,"y":124,"width":275,"height":173},
+		{"id":"483983b9b3d2490d","type":"file","file":"N2文法/うち.canvas","x":4059,"y":124,"width":275,"height":173},
 		{"id":"1b21eb271bbee78b","type":"text","text":"Vていない","x":3232,"y":840,"width":250,"height":60},
 		{"id":"fa3c5ee307a29cea","type":"text","text":"Diễn tả 1 việc chưa hoàn thành","x":3660,"y":840,"width":250,"height":60},
 		{"id":"5af78ef0b5353bed","type":"text","text":"Vて以来","x":-1448,"y":-1858,"width":250,"height":60},

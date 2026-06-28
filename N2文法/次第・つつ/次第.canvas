@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"id":"7772a5c888f411aa","type":"file","file":"Pasted image 20260409080020.png","x":-20,"y":-140,"width":400,"height":233},
+		{"id":"d67ce6fd4c082353","type":"group","x":-1536,"y":-920,"width":824,"height":893,"color":"5","label":"〜次第だ　ー　Tuỳ thuộc vào"},
+		{"id":"47370ea92637b438","type":"group","x":-535,"y":-920,"width":934,"height":598,"color":"6","label":"〜次第 (Ngay sau khi)"},
+		{"id":"2ed7e4cde3c4c799","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md","x":-2000,"y":400,"width":400,"height":480},
 		{"id":"b15d1be6a8f5d24a","type":"text","text":"次第","x":-440,"y":-53,"width":250,"height":60},
-		{"id":"36a135f9d0106166","type":"file","file":"Pasted image 20260409080102.png","x":-20,"y":-500,"width":399,"height":158},
 		{"id":"4b32ef7dad44ed08","type":"text","text":"次第だ","x":-982,"y":-124,"width":250,"height":64},
+		{"id":"72d2e2cf1cb87e51","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第です.md","x":-1516,"y":-825,"width":400,"height":400},
+		{"id":"471c0f0a007cb4f4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第 (Ngay sau khi).md","x":-515,"y":-780,"width":400,"height":400},
+		{"id":"144fdd9a01e86b4f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第だ.md","x":-1516,"y":-380,"width":400,"height":333},
 		{"id":"c58aa8f05505f38f","type":"text","text":"次第で","x":-870,"y":210,"width":250,"height":60},
-		{"id":"97947dd0d9024d0e","x":-1382,"y":240,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第で.md"},
-		{"id":"2ed7e4cde3c4c799","x":-2000,"y":400,"width":400,"height":480,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md"},
-		{"id":"144fdd9a01e86b4f","x":-1516,"y":-425,"width":400,"height":333,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第だ.md"},
-		{"id":"72d2e2cf1cb87e51","x":-1516,"y":-825,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第です.md"},
-		{"id":"471c0f0a007cb4f4","x":-515,"y":-780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第 (Ngay sau khi).md"}
+		{"id":"7772a5c888f411aa","type":"file","file":"Pasted image 20260409080020.png","x":-20,"y":-140,"width":400,"height":233},
+		{"id":"36a135f9d0106166","type":"file","file":"Pasted image 20260409080102.png","x":-20,"y":-500,"width":399,"height":158},
+		{"id":"97947dd0d9024d0e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第で.md","x":-1382,"y":240,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},

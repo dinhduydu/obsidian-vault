@@ -14,7 +14,8 @@
 		{"id":"a72ce3cc42bbfe32","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas","x":-382,"y":840,"width":172,"height":103},
 		{"id":"1a43044b0e5c2f6b","type":"text","text":"Quân","x":-108,"y":740,"width":250,"height":60},
 		{"id":"d865c4fc6190a768","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-35,"y":200,"width":177,"height":167},
-		{"id":"46e73ca54d9ddd12","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-35,"y":892,"width":177,"height":167}
+		{"id":"46e73ca54d9ddd12","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-35,"y":892,"width":177,"height":167},
+		{"id":"c2c446304ebb74f3","x":220,"y":-700,"width":250,"height":60,"type":"text","text":"輸 - Thâu"}
 	],
 	"edges":[
 		{"id":"a1b13fed69757004","fromNode":"ab7020e0cd187125","fromSide":"left","toNode":"23b7e68de13bd509","toSide":"right"},

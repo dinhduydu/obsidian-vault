@@ -204,7 +204,7 @@
 		{"id":"9b2e987d6850a229","type":"file","file":"N2文法/あまり・だけ/あまり.canvas","x":2208,"y":-9202,"width":387,"height":221},
 		{"id":"4eb3616f8cd69954","type":"text","text":"「N4」に","x":2822,"y":-8842,"width":250,"height":60},
 		{"id":"1370775a443fef0d","type":"text","text":"「N3」に","x":4633,"y":-9381,"width":250,"height":60},
-		{"id":"264c8a0a3bcbbcb5","type":"file","file":"N2文法/うちに.canvas","x":5247,"y":-9381,"width":400,"height":400},
+		{"id":"264c8a0a3bcbbcb5","type":"file","file":"N2文法/うち.canvas","x":5247,"y":-9381,"width":400,"height":400},
 		{"id":"d42a7d2fc8a82ec8","type":"text","text":"ために","x":5247,"y":-9552,"width":250,"height":50},
 		{"id":"31fc1494e75b397a","type":"file","file":"N2文法/こと・もの/こと.canvas","x":6235,"y":-10280,"width":193,"height":90},
 		{"id":"38c91a39bcd20c49","type":"text","text":"ふるさとに変えるたびに、山に登ることにしている。","x":6480,"y":-10016,"width":250,"height":60},

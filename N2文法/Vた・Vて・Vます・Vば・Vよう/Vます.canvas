@@ -49,7 +49,8 @@
 		{"id":"ded1f25379408bd8","type":"file","file":"Pasted image 20260410084023.png","x":920,"y":-363,"width":406,"height":225},
 		{"id":"0e3202967cc0c886","type":"text","text":"Vますかね","x":1450,"y":-280,"width":250,"height":60},
 		{"id":"179df47ece104dd6","type":"text","text":"Vます　かねない","x":1890,"y":-120,"width":250,"height":60},
-		{"id":"fe33c57c48b0046f","type":"text","text":"Vます　かねる","x":1890,"y":-368,"width":250,"height":60}
+		{"id":"fe33c57c48b0046f","type":"text","text":"Vます　かねる","x":1890,"y":-368,"width":250,"height":60},
+		{"id":"18af00ffb2fd545a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない.md","x":3260,"y":-2100,"width":319,"height":248}
 	],
 	"edges":[
 		{"id":"cc3253ba0c86c40f","fromNode":"d390c9eb3ba2041e","fromSide":"bottom","toNode":"ded1f25379408bd8","toSide":"left","label":"Vますかね"},
@@ -104,6 +105,7 @@
 		{"id":"847304c7da6e7e17","fromNode":"d390c9eb3ba2041e","fromSide":"bottom","toNode":"181e0338f84d626d","toSide":"top","label":"Vますながら"},
 		{"id":"dd38fdd537409ee1","fromNode":"9f4a4f87f711ce01","fromSide":"top","toNode":"a05e4bfd47fa163b","toSide":"bottom","label":"「N2」Vます"},
 		{"id":"e091bd5a053e36dd","fromNode":"07439d6e5e224ab0","fromSide":"bottom","toNode":"a6d9c52fbf266e75","toSide":"top","label":"Vますぬく"},
-		{"id":"2d80952dfebfa437","fromNode":"9f4a4f87f711ce01","fromSide":"bottom","toNode":"07439d6e5e224ab0","toSide":"top","label":"「N2」Vます"}
+		{"id":"2d80952dfebfa437","fromNode":"9f4a4f87f711ce01","fromSide":"bottom","toNode":"07439d6e5e224ab0","toSide":"top","label":"「N2」Vます"},
+		{"id":"acc0341b9b440a66","fromNode":"1be10d9840c413c6","fromSide":"right","toNode":"18af00ffb2fd545a","toSide":"left"}
 	]
 }

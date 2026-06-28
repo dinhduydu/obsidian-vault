@@ -23,10 +23,11 @@
 		{"id":"cd5fbef749c0a27e","type":"text","text":"Dùng khi muốn nói: nỗ lực/ thử làm A","x":1723,"y":715,"width":250,"height":60},
 		{"id":"fe014a6f807d6b02","type":"text","text":"V移行系＋としする","x":2365,"y":560,"width":250,"height":60},
 		{"id":"7ec46a413a1a006f","type":"text","text":"溺れている子供を助けようとして、彼は海に飛びこんだ。","x":2370,"y":725,"width":523,"height":50},
-		{"id":"fc4622f275a8549b","x":2126,"y":831,"width":250,"height":60,"type":"text","text":"Cố gắng làm gì đó"},
+		{"id":"fc4622f275a8549b","type":"text","text":"Cố gắng làm gì đó","x":2126,"y":831,"width":250,"height":60},
 		{"id":"c52edf9482cfbb3e","type":"file","file":"N2文法/助詞/と.canvas","x":3171,"y":686,"width":218,"height":128},
-		{"id":"a190865885328aae","x":3740,"y":720,"width":250,"height":60,"type":"text","text":"Vよう＋としても"},
-		{"id":"e59dc6c0a742f7de","x":4380,"y":720,"width":250,"height":60,"type":"text","text":"Dù cho cố làm gì thì ko suôn sẻ được"}
+		{"id":"a190865885328aae","type":"text","text":"Vよう＋としても","x":3740,"y":720,"width":250,"height":60},
+		{"id":"e59dc6c0a742f7de","type":"text","text":"Dù cho cố làm gì thì ko suôn sẻ được","x":4380,"y":720,"width":250,"height":60},
+		{"id":"0560a3655f844247","x":-126,"y":-887,"width":250,"height":60,"type":"text","text":"Vようもない"}
 	],
 	"edges":[
 		{"id":"2e239b8c4682802a","fromNode":"903bb778fead9390","fromSide":"right","toNode":"b9c11045cb50e9ec","toSide":"left","label":"Vようではないか"},

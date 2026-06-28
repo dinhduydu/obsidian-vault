@@ -1,9 +1,11 @@
 {
 	"nodes":[
+		{"id":"8925449bafbbd3f5","x":-1554,"y":-286,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない.md"},
 		{"id":"0d1fde4bbb8cbaac","type":"text","text":"ほか","x":-114,"y":-7,"width":250,"height":60},
-		{"id":"79be9e9ebf8ec736","type":"file","file":"Pasted image 20260412210605.png","x":-740,"y":-86,"width":400,"height":219}
+		{"id":"79be9e9ebf8ec736","type":"file","file":"Pasted image 20260412210605.png","x":-920,"y":-7,"width":400,"height":219}
 	],
 	"edges":[
-		{"id":"c1f45aa075618a28","fromNode":"0d1fde4bbb8cbaac","fromSide":"left","toNode":"79be9e9ebf8ec736","toSide":"right"}
+		{"id":"c1f45aa075618a28","fromNode":"0d1fde4bbb8cbaac","fromSide":"left","toNode":"79be9e9ebf8ec736","toSide":"right","label":"ほかない"},
+		{"id":"3d2d7500cec1e3d9","fromNode":"79be9e9ebf8ec736","fromSide":"left","toNode":"8925449bafbbd3f5","toSide":"right"}
 	]
 }
