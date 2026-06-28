@@ -2,7 +2,7 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 326
+- Total Reviews: 327
 - Total Knowledge Items: 3824
 - Correct: 2346
 - Wrong: 2960
@@ -244,4 +244,4 @@
 - [[6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 - [[7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 - [[２．Phân Tích N2_TỪ ĐỒNG NGHĨA (P10)]]
-- [[2. Phân Tích BÀI LÀM N2 ĐỌC HIỂU DÀI - BÀI 50]]
+- [[1. Phân Tích N2_NGÀY 20_ÔN TẬP NGỮ PHÁP CƠ BẢN]]
