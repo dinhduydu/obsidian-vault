@@ -17,6 +17,8 @@ Priority:
 
 
 <!-- USER_START -->
+Grammar | 〜の割には
 
+- **Giải thích**: So với mức độ/tiêu chuẩn thông thường thì kết quả lại khác (Dù... nhưng/So với...).
 
 <!-- USER_END -->

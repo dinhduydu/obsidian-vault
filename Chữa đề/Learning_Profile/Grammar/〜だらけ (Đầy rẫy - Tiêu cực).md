@@ -17,6 +17,6 @@ Priority:
 
 
 <!-- USER_START -->
-
-
+[[〜だらけ]]
+🔴 **Cụm từ cố định chỉ trạng thái (~だらけ)**: Sai vị trí của danh từ và hậu tố chỉ sự tiêu cực lặp lại.
 <!-- USER_END -->
