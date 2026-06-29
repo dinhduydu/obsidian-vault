@@ -17,6 +17,11 @@ Priority: Low
 
 
 <!-- USER_START -->
+[[〜ところだった (Suýt chút nữa thì...)]]
 
+Grammar | V-るところだった
 
+- **Meaning:** Suýt nữa thì...
+- **Usage:** Diễn tả một sự việc suýt chút nữa là xảy ra (thường là điều không mong muốn).
+- **Example:** もう少しで大切な書類を忘れるところだった。
 <!-- USER_END -->

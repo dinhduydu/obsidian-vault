@@ -18,5 +18,7 @@ Priority:
 
 <!-- USER_START -->
 
+Grammar | 〜ところだった
 
+- **Giải thích**: Diễn tả một sự việc suýt chút nữa đã xảy ra nhưng thực tế là **đã không xảy ra**.
 <!-- USER_END -->
