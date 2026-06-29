@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 329
-- Total Knowledge Items: 3829
-- Correct: 2347
-- Wrong: 2969
-- Accuracy: 44.1%
+- Total Reviews: 331
+- Total Knowledge Items: 3831
+- Correct: 2348
+- Wrong: 2983
+- Accuracy: 44.0%
 
 ## 🚨 Review Queue
 
@@ -62,7 +62,7 @@
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
 - Demonstratives: 27.3% (Correct 3 / Wrong 8)
 - FixedExpression: 40.3% (Correct 172 / Wrong 255)
-- Grammar: 47.9% (Correct 606 / Wrong 659)
+- Grammar: 47.4% (Correct 607 / Wrong 673)
 - Kanji: 47.1% (Correct 195 / Wrong 219)
 - Katakana: 43.3% (Correct 91 / Wrong 119)
 - Keigo: 48.3% (Correct 29 / Wrong 31)

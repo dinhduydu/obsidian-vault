@@ -9,12 +9,12 @@
 		{"id":"4b32ef7dad44ed08","type":"text","text":"次第だ","x":-982,"y":-124,"width":250,"height":64},
 		{"id":"144fdd9a01e86b4f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第だ.md","x":-1516,"y":-380,"width":400,"height":333},
 		{"id":"72d2e2cf1cb87e51","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第です.md","x":-1516,"y":-825,"width":400,"height":400},
+		{"id":"79f21336192f4ad0","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas","x":-560,"y":-1200,"width":245,"height":164},
+		{"id":"2ed7e4cde3c4c799","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md","x":-2000,"y":400,"width":400,"height":480},
 		{"id":"7772a5c888f411aa","type":"file","file":"Pasted image 20260409080020.png","x":-20,"y":-140,"width":400,"height":233},
 		{"id":"471c0f0a007cb4f4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第 (Ngay sau khi).md","x":-140,"y":-931,"width":400,"height":400},
 		{"id":"36a135f9d0106166","type":"file","file":"Pasted image 20260409080102.png","x":355,"y":-651,"width":399,"height":158},
-		{"id":"79f21336192f4ad0","x":-560,"y":-1200,"width":245,"height":164,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas"},
-		{"id":"2ed7e4cde3c4c799","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md","x":-2000,"y":400,"width":400,"height":480},
-		{"id":"626d38ff9e2873a2","x":980,"y":-1100,"width":401,"height":252,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-masu + 次第 (Ngay sau khi).md"}
+		{"id":"626d38ff9e2873a2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-masu + 次第 (Ngay sau khi).md","x":980,"y":-1100,"width":401,"height":252}
 	],
 	"edges":[
 		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},
