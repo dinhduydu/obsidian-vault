@@ -13,8 +13,9 @@
 		{"id":"ff7b433bded747b6","type":"text","text":"話 - Thoại","x":-114,"y":840,"width":250,"height":60},
 		{"id":"4d0e0098f4dd7049","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」.canvas","x":-340,"y":940,"width":175,"height":123},
 		{"id":"b3ad6f98c12c64f1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」.canvas","x":-407,"y":633,"width":134,"height":94},
-		{"id":"6ffdec031196a5d7","x":140,"y":-480,"width":250,"height":60,"type":"text","text":"語 - Ngữ"},
-		{"id":"6d84d66454c9f18e","x":507,"y":-531,"width":250,"height":60,"type":"text","text":"ngôn ngữ, từ ngữ"}
+		{"id":"6ffdec031196a5d7","type":"text","text":"語 - Ngữ","x":140,"y":-480,"width":250,"height":60},
+		{"id":"6d84d66454c9f18e","type":"text","text":"ngôn ngữ, từ ngữ","x":507,"y":-531,"width":250,"height":60},
+		{"id":"1bd889a7e2ef3d83","x":320,"y":727,"width":146,"height":50,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md"}
 	],
 	"edges":[
 		{"id":"4816444c8bcab903","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"aaef6f8a5dbfccbd","toSide":"left"},
@@ -30,6 +31,7 @@
 		{"id":"c6959b2635e73ff0","fromNode":"4d0e0098f4dd7049","fromSide":"right","toNode":"ff7b433bded747b6","toSide":"left"},
 		{"id":"1ddfdbd42eef3f7f","fromNode":"b3ad6f98c12c64f1","fromSide":"right","toNode":"185bc6bc3c976801","toSide":"left"},
 		{"id":"5d62ff80d8d41f1d","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"6ffdec031196a5d7","toSide":"left"},
-		{"id":"8db49e0c49fcccd9","fromNode":"6ffdec031196a5d7","fromSide":"right","toNode":"6d84d66454c9f18e","toSide":"left"}
+		{"id":"8db49e0c49fcccd9","fromNode":"6ffdec031196a5d7","fromSide":"right","toNode":"6d84d66454c9f18e","toSide":"left"},
+		{"id":"9878853b7b8731a0","fromNode":"185bc6bc3c976801","fromSide":"right","toNode":"1bd889a7e2ef3d83","toSide":"left"}
 	]
 }
