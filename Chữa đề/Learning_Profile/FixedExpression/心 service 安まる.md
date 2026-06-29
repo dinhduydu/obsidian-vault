@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 心 service 安まる
+
+Category: FixedExpression
+Correct: 0
+Wrong: 0
+Accuracy: 0%
+Mastery: 0%
+Priority: Medium
+
+## Related Reviews
+
+- [[5. Phân Tích N2 điền sao]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
