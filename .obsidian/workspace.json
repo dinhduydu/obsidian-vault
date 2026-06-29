@@ -4,353 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1d2f716b1bc742",
+        "id": "1452976ac5b45e68",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a46eb93f0b9759",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/N2漢字/持.canvas",
-                "viewState": {
-                  "x": 1218.4780599944518,
-                  "y": -17.355508626389167,
-                  "zoom": -0.6666666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "持"
-            }
-          },
-          {
-            "id": "5b6b456b685a5072",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2文法/ない・いう・しまう/ないーtable.canvas",
-                "viewState": {
-                  "x": 287.42089436323795,
-                  "y": 179.88941081241433,
-                  "zoom": -1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ないーtable"
-            }
-          },
-          {
-            "id": "0e402e139e4e5adb",
+            "id": "96d5f4e8336f9618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N2文法/ない・いう・しまう/ない.md",
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week3/17062026/4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ない"
-            }
-          },
-          {
-            "id": "a7df854a1477c359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2."
-            }
-          },
-          {
-            "id": "a99dc46fb7c4eebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "207c3229d92d2004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "150f56a0a5c71f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/Prompt/Prompt_Gen_DB1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt_Gen_DB1"
-            }
-          },
-          {
-            "id": "45dce7a520c5fe35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp N2/N2/N2.10. Sự đối lập, Tương ứng và Mục đích.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "N2.10. Sự đối lập, Tương ứng và Mục đích"
-            }
-          },
-          {
-            "id": "179b32b407eb152d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp N2/N2/Ngữ pháp N2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ngữ pháp N2"
-            }
-          },
-          {
-            "id": "12a1f017f82fcbf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/3. Phân Tích N2 (Ngày 20).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Phân Tích N2 (Ngày 20)"
-            }
-          },
-          {
-            "id": "dd8afb6665c27cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/3. Phân Tích lỗi sai ngữ pháp N2 (Ngày 20 và 21).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Phân Tích lỗi sai ngữ pháp N2 (Ngày 20 và 21)"
-            }
-          },
-          {
-            "id": "bf8802d2fd1a637f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "7c7140b3bd624cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "0c3ef44a280b168f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "3c2f4ab1489ab4e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "7a3249b24d87a34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "ee4ad1020fa75e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "6af39d472fce04ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "eb0ac805d280b3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "15e68eb84167f15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)"
-            }
-          },
-          {
-            "id": "bde0ab19e23436cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/Learning_Profile/Grammar/〜にしたがって.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "〜にしたがって"
-            }
-          },
-          {
-            "id": "355f80fc888ac9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/5. Phân Tích N2 Midterm Grammar Assessment Course 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Phân Tích N2 Midterm Grammar Assessment Course 1"
-            }
-          },
-          {
-            "id": "d8cce3adacfe602e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18)"
-            }
-          },
-          {
-            "id": "f67d63532a3ee2cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/Prompt/Prompt_Gen_DB1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt_Gen_DB1"
+              "title": "4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -382,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "〜に限って",
+                "query": "見逃す",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -403,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -499,54 +171,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd8afb6665c27cd8",
+  "active": "96d5f4e8336f9618",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/8.  Logic & Dependency (Sự phụ thuộc & Biến đổi kéo theo).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/3. Phân Tích lỗi sai ngữ pháp N2 (Ngày 20 và 21).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/3. Phân Tích N2 (Ngày 20).md",
-    "Chữa đề/Learning_Profile/Grammar/〜だけに.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/8. G6. Form & Register (Kính ngữ & Chia sai dạng).md",
-    "N2文法/あまり・だけ/だけ.canvas",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/3. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 2.2.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/7. G4. Logical Relation (Nhầm quan hệ logic).md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week4/24122025/2. Phân Tích N3_TEST NGỮ PHÁP_BÀI 3.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/2. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 2.3.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/1. Phân Tích N2_NGÀY 21_ÔN TẬP NGỮ PHÁP CƠ BẢN (P4)..md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/6. G3. Usage & Nuance (Nhầm sắc thái, Đuôi câu).md",
-    "Chữa đề/Learning_Profile/FixedExpression/〜ことにする.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ことにする.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week1/07032026/4. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 8.md",
-    "Chữa đề/２０２６年/０２月２０２６年/Week4/28022026/1. Phân Tích PHÓ TỪ_TEST 1.md",
-    "Chữa đề/Learning_Profile/Grammar/〜わけだ.md",
-    "Chữa đề/Learning_Profile/Grammar/〜こともない.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 13.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/5. G2. Trigger Recognition (Không nhận ra từ khóa).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/4. G1. Grammar Confusion (Nhầm mẫu ngữ pháp gần nghĩa).md",
-    "末に.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/見守る.md",
+    "N2語彙/Từ ghép/見/見.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week2/11052026/3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 19.md",
     "Chữa đề/Prompt/Prompt_Gen_DB1.md",
-    "Chữa đề/Learning_Profile/Grammar/〜からして (Căn cứ vào_Nhìn từ).md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week1/01052026/2. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (14).md",
-    "Chữa đề/Learning_Profile/Grammar/〜に対しては.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 1.1.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/5. Phân Tích N2 Midterm Grammar Assessment Course 1.md",
+    "Chữa đề/Learning_Profile/Grammar/〜にしたがって.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/3. Phân Tích N2 (Ngày 20).md",
+    "N2文法/Tổng hợp ngữ pháp N2/N2/Ngữ pháp N2.md",
+    "N2文法/Tổng hợp ngữ pháp N2/N2/N2.10. Sự đối lập, Tương ứng và Mục đích.md",
+    "Chữa đề/Dashboard.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week1/03062026/1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 9.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
+    "N2文法/ない・いう・しまう/ない.md",
+    "N2文法/ない・いう・しまう/ないーtable.canvas",
+    "N2漢字/N2漢字/持.canvas",
+    "Chữa đề/Learning_Profile/CompoundVerb/見直す.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/18062026/2. Phân Tích BÀI LÀM JLPT N2 LISTENING PRACTICE (1. NGHE RAW.PDF).md",
+    "Chữa đề/Learning_Profile/Vocabulary/見せる.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/04052026/1. Phân Tích N2_KÍNH NGỮ.md",
+    "Chữa đề/Learning_Profile/Vocabulary/見出し.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/23122025/1. Phân Tích N3_TEST TỪ VỰNG_BÀI 1.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/見つける.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/6. Phân Tích N2_ĐỌC HIỂU KÈM NGỮ PHÁP_TEST 2..md",
+    "Chữa đề/Learning_Profile/Vocabulary/見守る.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/17062026/4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week5/29052026/3. Phân Tích Kết Quả N2_ĐỌC HIỂU SO SÁNH_BÀI 39.md",
+    "N2語彙/Từ ghép/見/見.canvas",
+    "N2語彙/Từ ghép/見",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」.canvas",
+    "N2語彙/ひらがな/きっかけ.canvas",
+    "N2語彙/Từ ghép",
+    "N2文法/あまり・だけ/だけ.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026",
     "N2文法/ない・いう・しまう/という.canvas",
     "N2文法/助詞/か.canvas",
     "N2文法/次第・つつ/次第.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026",
     "N2文法/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá.canvas",
-    "N2文法/助詞/も.canvas",
-    "N2文法/助詞/こそ.canvas",
-    "N2文法/助詞/は.canvas",
-    "N2文法/助詞/むしろ.canvas",
-    "N2文法/助詞/を/を.canvas",
     "N2文法/助詞/を",
     "N2文法/助詞/と",
     "N2文法/Tổng hợp ngữ pháp N2/N3",
     "N2文法/Tổng hợp ngữ pháp N2/N2",
     "N2文法/Tổng hợp ngữ pháp N2",
     "Untitled 16.base",
-    "Untitled 15.base",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/26062026",
     "Pasted image 20260624180707.png",
     "Pasted image 20260624180247.png",
     "Pasted image 20260618064256.png",
