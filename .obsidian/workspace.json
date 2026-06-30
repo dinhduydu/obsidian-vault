@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/2. Phân loại Ngữ pháp N2_NGÀY 23_ÔN TẬP NGỮ PHÁP NÂNG CAO (P2).md",
+                "file": "Chữa đề/Learning_Profile/Adverb/Thiết kế hệ thống học Phó từ (副詞).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phân loại Ngữ pháp N2_NGÀY 23_ÔN TẬP NGỮ PHÁP NÂNG CAO (P2)"
+              "title": "Thiết kế hệ thống học Phó từ (副詞)"
+            }
+          },
+          {
+            "id": "6e9d47c6fadf502d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/２０２６年/０１月２０２６年/Week1/07012026/2. Phân Tích N3_BÀI TẬP ĐIỀN SAO_BÀI 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Phân Tích N3_BÀI TẬP ĐIỀN SAO_BÀI 1"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "〜良ければ",
+                "query": "とうとう",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,60 +187,60 @@
   },
   "active": "96d5f4e8336f9618",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Demonstratives/この.md",
-    "Chữa đề/Learning_Profile/Keigo/おいでになる.md",
-    "Chữa đề/Learning_Profile/Keigo/存じております.md",
-    "Chữa đề/Learning_Profile/Katakana/プレゼント.md",
-    "Chữa đề/Learning_Profile/Katakana/フランス.md",
-    "Chữa đề/Learning_Profile/Katakana/スポーツマン.md",
-    "Chữa đề/Learning_Profile/Katakana/ホール.md",
-    "Chữa đề/Learning_Profile/Adverb/ずっと.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/戦いぬく.md",
-    "Chữa đề/Learning_Profile/Grammar/〜につけて.md",
-    "Chữa đề/Learning_Profile/Grammar/〜という.md",
-    "Chữa đề/Learning_Profile/Grammar/〜に基づき.md",
-    "Chữa đề/Learning_Profile/Grammar/〜たまらない.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/3. Phân Tích N2_NGÀY 23_ÔN TẬP NGỮ PHÁP NÂNG CAO (P2).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/1. BTVN.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/2. Phân loại Ngữ pháp N2_NGÀY 23_ÔN TẬP NGỮ PHÁP NÂNG CAO (P2).md",
+    "Chữa đề/Learning_Profile/Adverb/すでに.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week1/02022026/2. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 5.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/15. Trợ từ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/14. Danh từ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/13. Số đếm và hậu tố số đếm.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/12. Động từ liên kết.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/11. Từ để hỏi.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10. Kính ngữ.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/1. Phân Tích N2_NGÀY 21_ÔN TẬP NGỮ PHÁP CƠ BẢN (P4)..md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/29062026/3. Phân Tích N2_NGÀY 22_ÔN TẬP NGỮ PHÁP NÂNG CAO (P1).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026/4. G1. Grammar Confusion (Nhầm mẫu ngữ pháp gần nghĩa).md",
-    "N2文法/Tổng hợp ngữ pháp N2/JLPT Grammar Confusion Index (N3–N1).md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/9. Từ chỉ định.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/8. Liên kết.md",
+    "Chữa đề/Learning_Profile/Conjunction/それから.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week2/09022026/1. Phân Tích N2_TỪ NỐI.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week4/25022026/2. Phân Tích TỪ NỐI_BÀI 2.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/17062026/1.Phân Tích BÀI LÀM N2 NGHE HIỂU - THÁNG 12 2025.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/7. Câu điều kiện.md",
+    "Chữa đề/Learning_Profile/Conjunction/それに.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week2/09012026/2. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 2.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week4/27022026/1. Phân Tích TEST 5 (THEO CHỦ ĐIỂM).md",
+    "Chữa đề/Learning_Profile/Conjunction/したがって.md",
+    "Chữa đề/Learning_Profile/Conjunction/それで.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week1/07032026/2. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 6.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week2/10022026/1. Phân Tích TỪ NỐI_BÀI 1.md",
+    "Chữa đề/Learning_Profile/Conjunction/そして.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week1/07032026/6. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 10.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/23122025/4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 2.md",
+    "N2文法/助詞/も.canvas",
+    "N2文法/助詞/なら.canvas",
+    "N2文法/くらい・ほど/くらい.canvas",
+    "N2語彙/Phó từ/Adverb Navigation.canvas",
+    "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026",
     "N2文法/一方・上・限り・つもり・他/限り.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜に限る.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 17.md",
-    "Chữa đề/Learning_Profile/Grammar/〜限りは.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week4/23122025/4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 2.md",
-    "Chữa đề/Learning_Profile/Grammar/〜限りでは.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/4. Phân Tích N2_TEST NGỮ PHÁP_BÀI 6.1.md",
     "N2文法/ばかり・はず・わけ/わけ.canvas",
     "N2文法/うち.canvas",
     "Pasted image 20260629193141.png",
     "Pasted image 20260629192942.png",
     "N2文法/こと・もの/こと.canvas",
     "N2文法/助詞/を/を.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題６.canvas",
     "Untitled 17.base",
     "N2語彙/Từ ghép/手",
     "Pasted image 20260629181628.png",
     "Pasted image 20260629181519.png",
     "Pasted image 20260629181404.png",
-    "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題２.canvas",
     "Pasted image 20260629180822.png",
     "Pasted image 20260629180712.png",
     "Pasted image 20260629180556.png",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thái　「太」.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/気味.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/29062026",
-    "N2文法/ない・いう・しまう/ないーtable.canvas",
     "N2語彙/Từ ghép/込む",
     "N2語彙/Từ ghép/見",
     "N2語彙/Từ ghép",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/28062026",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026",
-    "N2文法/助詞/を",
     "Pasted image 20260624180707.png",
     "Pasted image 20260624180247.png"
   ]

@@ -4,7 +4,16 @@
 		{"id":"08fff89a8d501f12","type":"text","text":"なら","x":120,"y":-5,"width":250,"height":60},
 		{"id":"9f12974f4a0e3854","type":"text","text":"Diễn tả ý chí phán đoán, nguyện vọng của người nói, sau khi tiếp nhận lời mà đối phương nói","x":-420,"y":-360,"width":350,"height":140},
 		{"id":"917b0372f2948012","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas","x":-513,"y":-680,"width":186,"height":138},
-		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1260,"y":-82,"width":400,"height":207}
+		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1260,"y":-82,"width":400,"height":207},
+		{"id":"5d12104658a778d3","x":-2160,"y":-760,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それなら.md"},
+		{"id":"8a517bc5b3f51ac9","x":-2160,"y":-220,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/だけなら.md"},
+		{"id":"44dbb2e3e97ddd3e","x":-2160,"y":280,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようなら.md"},
+		{"id":"a682a523a9607564","x":-2160,"y":780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものなら.md"},
+		{"id":"73f5aa7517216a00","x":-1540,"y":780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいなら.md"},
+		{"id":"40107dc4208be3ea","x":-940,"y":780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜でならない.md"},
+		{"id":"ded08e624df668bb","x":-420,"y":780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない.md"},
+		{"id":"39fc953a95ef9874","x":170,"y":780,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない _ 〜でならない.md"},
+		{"id":"50248fa4106fd1b0","x":-1540,"y":280,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のみならず.md"}
 	],
 	"edges":[
 		{"id":"bd534816bf10ceea","fromNode":"08fff89a8d501f12","fromSide":"left","toNode":"b6911b4630d01961","toSide":"right","label":"ならともかく"},

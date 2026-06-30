@@ -29,15 +29,24 @@
 			tâm trí đang rối bời.
 [[ごろごろ]] 
 	**Meaning:** Tiếng vật nặng lăn, tiếng sấm, hoặc trạng thái rảnh rỗi không làm gì.
-[[しいんと]] 
+[[しいんと]]
+	**Meaning:** Yên lặng như tờ, tĩnh mịch.
 [[じっと]] 
+	**Meaning:** (Nhìn) chằm chằm, im lặng (chờ đợi).
 [[すっきり]] 
-[[すらすら]] 
-[[ずらりと]] 
-[[そっと]] 
-[[のろのろ]] 
-[[のんびり]] 
-[[はきはき]] 
+	**Meaning:** Sảng khoái, gọn gàng.
+[[すらすら]]
+	**Meaning:** Trôi chảy/Lưu loát.
+[[ずらりと]]
+	**Meaning:** Hàng loạt, san sát theo hàng.
+[[そっと]]
+	**Meaning:** Nhẹ nhàng, khẽ khàng, lén lút.
+[[のろのろ]]
+	**Meaning**: Chậm chạp, lờ đờ.
+[[のんびり]]
+	**Meaning:** Thong thả, thong dong, thư giãn.
+[[はきはき]]
+	**Meaning:** Rõ ràng, rành mạch.
 [[はっきり]] 
 [[ひょっこり]] 
 [[びっしょり]] 
