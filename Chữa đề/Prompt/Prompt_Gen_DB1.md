@@ -1,4 +1,4 @@
-	Phân tích bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian gồm:  
+Phân tích bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian gồm:  
 Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.  
   
 Knowledge Extracted bắt buộc chia category:  

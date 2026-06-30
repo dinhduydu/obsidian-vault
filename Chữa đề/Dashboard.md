@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 332
-- Total Knowledge Items: 3934
-- Correct: 2428
-- Wrong: 3012
-- Accuracy: 44.6%
+- Total Reviews: 333
+- Total Knowledge Items: 3947
+- Correct: 2453
+- Wrong: 3031
+- Accuracy: 44.7%
 
 ## 🚨 Review Queue
 
@@ -16,6 +16,7 @@
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
+- [[〜に限って]] | Grammar| Score: 50| Wrong: 7
 - [[〜まい]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
@@ -24,7 +25,6 @@
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
-- [[〜に限って]] | Grammar| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
@@ -40,6 +40,7 @@
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
+- [[〜に限って]] (Grammar) Wrong: 7
 - [[〜がち]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
@@ -52,20 +53,19 @@
 - [[〜にほかならない]] (Grammar) Wrong: 6
 - [[〜ものの]] (Grammar) Wrong: 6
 - [[〜からといって]] (Grammar) Wrong: 6
-- [[しかし]] (Conjunction) Wrong: 6
 
 ## 📈 Category Statistics
 
-- Adverb: 41.1% (Correct 187 / Wrong 268)
+- Adverb: 41.3% (Correct 189 / Wrong 269)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
-- CompoundVerb: 41.2% (Correct 117 / Wrong 167)
+- CompoundVerb: 41.1% (Correct 117 / Wrong 168)
 - Conjunction: 32.7% (Correct 55 / Wrong 113)
-- Demonstratives: 27.3% (Correct 3 / Wrong 8)
+- Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 40.3% (Correct 175 / Wrong 259)
-- Grammar: 47.9% (Correct 620 / Wrong 675)
+- Grammar: 48.0% (Correct 636 / Wrong 688)
 - Kanji: 48.7% (Correct 229 / Wrong 241)
-- Katakana: 44.9% (Correct 97 / Wrong 119)
-- Keigo: 48.3% (Correct 29 / Wrong 31)
+- Katakana: 45.9% (Correct 101 / Wrong 119)
+- Keigo: 45.3% (Correct 29 / Wrong 35)
 - Reading: 31.5% (Correct 57 / Wrong 124)
 - Vocabulary: 46.1% (Correct 752 / Wrong 878)
 
@@ -74,13 +74,13 @@
 - [[〜あまり]] (Score: 60)
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
+- [[〜に限って]] (Score: 50)
 - [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
 - [[〜にほかならない]] (Score: 45)
 - [[〜がち]] (Score: 45)
 - [[〜ものの]] (Score: 45)
 - [[〜次第]] (Score: 42)
-- [[〜に限って]] (Score: 40)
 
 ## 📚 Top Vocabulary
 
@@ -177,6 +177,7 @@
 
 - [[どうも]] (Score: 35)
 - [[どうしても]] (Score: 30)
+- [[およそ]] (Score: 30)
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
 - [[もっとも]] (Score: 25)
@@ -184,7 +185,6 @@
 - [[せっかく]] (Score: 25)
 - [[つい]] (Score: 25)
 - [[今にも]] (Score: 25)
-- [[あくまで]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -201,16 +201,16 @@
 
 ## 📚 Top Keigo
 
+- [[いらっしゃる]] (Score: 25)
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
 - [[〜ご覧いただく]] (Score: 20)
 - [[〜させていただけないでしょうか]] (Score: 20)
 - [[お休みになったら]] (Score: 20)
+- [[存じております]] (Score: 20)
+- [[おいでになる]] (Score: 20)
 - [[〜様ですか]] (Score: 20)
-- [[見えました]] (Score: 20)
-- [[〜てもらう (Khiêm nhường ngữ/Cho nhận)]] (Score: 20)
-- [[お～になる]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
@@ -222,6 +222,7 @@
 - [[どこ]] (Score: 10)
 - [[そんな]] (Score: 5)
 - [[そう]] (Score: 0)
+- [[この]] (Score: 0)
 
 ## 📅 Recent Reviews
 
