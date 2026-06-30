@@ -17,3 +17,4 @@ reload
 [N2] Update name file
 [N2] Update tool and DB
 [N2] Update path of files
+[N2][Read book] Update note
