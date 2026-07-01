@@ -16,7 +16,8 @@
 		{"id":"fb5434f08e4aa9a2","type":"text","text":"1. Bảo vệ ai đó khỏi nguy hiểm\n母は子供をかばった。\n→ Người mẹ che chở cho đứa con.\n彼は友人をかばってけがをした。\n→ Anh ấy bị thương vì che chắn cho bạn mình.","x":1240,"y":-985,"width":376,"height":180},
 		{"id":"50befa774554f40d","type":"text","text":"2. Bênh vực, bảo vệ khỏi bị chỉ trích\n彼女は弟をかばった。\n→ Cô ấy bênh vực em trai mình.\nどうして彼をかばうのですか。\n→ Tại sao anh lại bênh vực anh ta?","x":1240,"y":-805,"width":376,"height":169},
 		{"id":"9bb0a81ce6b52ac0","type":"text","text":"### かばう\nĐứng ra che chắn, nhận phần thiệt hoặc chỉ trích thay người khác.\n\n友達をかばう。\nĐứng ra bênh vực bạn.","x":1789,"y":-651,"width":480,"height":191},
-		{"id":"6d7f3a91fcee8af8","type":"text","text":"悪い人ではないと言って、彼女は友人を**かばった**。","x":2320,"y":-580,"width":437,"height":50,"color":"1"}
+		{"id":"6d7f3a91fcee8af8","type":"text","text":"悪い人ではないと言って、彼女は友人を**かばった**。","x":2320,"y":-580,"width":437,"height":50,"color":"1"},
+		{"id":"66c6b20b65336dc5","x":1240,"y":-400,"width":250,"height":60,"type":"text","text":"悪い人ではないと言って、彼女は友人をかばった。"}
 	],
 	"edges":[
 		{"id":"1a9b2f538968f6bc","fromNode":"fbadf1aaccbd5be8","fromSide":"right","toNode":"25fc955df272ac99","toSide":"left"},
@@ -32,6 +33,7 @@
 		{"id":"4eeb8e501d722626","fromNode":"fb5434f08e4aa9a2","fromSide":"top","toNode":"c20cb710fca9bd95","toSide":"left"},
 		{"id":"51a54c6ecae2d1da","fromNode":"50befa774554f40d","fromSide":"bottom","toNode":"9bb0a81ce6b52ac0","toSide":"left"},
 		{"id":"78bfce65d458e1af","fromNode":"b2833f7a652634bb","fromSide":"top","toNode":"ee3e243f52bcc87a","toSide":"right"},
-		{"id":"290881c70ec2806e","fromNode":"9bb0a81ce6b52ac0","fromSide":"right","toNode":"6d7f3a91fcee8af8","toSide":"left"}
+		{"id":"290881c70ec2806e","fromNode":"9bb0a81ce6b52ac0","fromSide":"right","toNode":"6d7f3a91fcee8af8","toSide":"left"},
+		{"id":"52faa4337b3ac31e","fromNode":"b5750d122944aa32","fromSide":"right","toNode":"66c6b20b65336dc5","toSide":"left"}
 	]
 }
