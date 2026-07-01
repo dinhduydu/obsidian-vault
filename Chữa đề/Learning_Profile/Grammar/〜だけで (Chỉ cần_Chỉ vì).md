@@ -17,6 +17,8 @@ Priority: High
 
 
 <!-- USER_START -->
+[[〜だけで]]
+
 Grammar | 〜だけで (Chỉ cần/Chỉ vì)
 
 Diễn tả ý nghĩa chỉ với một nguyên nhân hoặc điều kiện đơn giản đó thôi cũng đủ dẫn đến kết quả.

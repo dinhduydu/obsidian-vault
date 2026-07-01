@@ -18,5 +18,7 @@ Priority: Medium
 
 <!-- USER_START -->
 
+Grammar | 〜だけだ (Chỉ là/Chỉ đơn giản là)
 
+Dùng để giới hạn phạm vi, tính chất của sự việc.
 <!-- USER_END -->

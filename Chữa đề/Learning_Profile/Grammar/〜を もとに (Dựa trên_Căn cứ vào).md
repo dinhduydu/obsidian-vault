@@ -17,6 +17,10 @@ Priority:
 
 
 <!-- USER_START -->
+[[〜をもとに]]
 
+2. 〜を もとに (Dựa trên/Căn cứ vào)
 
+- **Ngữ cảnh**: _テストの点数を もとに_ (Dựa trên điểm bài kiểm tra).
+- **Learning Profile**: Correct +0, **Wrong +1**, Last Seen: 15/06/2026, Mastery: **🔴 Low**, Priority: **🔴 High**.
 <!-- USER_END -->
