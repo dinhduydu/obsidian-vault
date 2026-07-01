@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 346
+- Total Reviews: 347
 - Total Knowledge Items: 4012
-- Correct: 2528
-- Wrong: 3101
-- Accuracy: 44.9%
+- Correct: 2535
+- Wrong: 3104
+- Accuracy: 45.0%
 
 ## 🚨 Review Queue
 
@@ -25,11 +25,11 @@
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
+- [[さっさと]] | Adverb| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 - [[〜受身形 (Ukemi)]] | Grammar| Score: 40| Wrong: 7
 - [[そこで]] | Conjunction| Score: 37| Wrong: 7
-- [[むしろ]] | Conjunction| Score: 35| Wrong: 6
 
 ## 🔥 Top Weak Points
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.4% (Correct 209 / Wrong 284)
+- Adverb: 42.7% (Correct 212 / Wrong 285)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
 - CompoundVerb: 41.3% (Correct 118 / Wrong 168)
 - Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.0% (Correct 175 / Wrong 262)
+- FixedExpression: 40.2% (Correct 175 / Wrong 260)
 - Grammar: 47.6% (Correct 655 / Wrong 721)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 46.2% (Correct 30 / Wrong 35)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.3% (Correct 771 / Wrong 894)
+- Vocabulary: 46.3% (Correct 775 / Wrong 898)
 
 ## 📚 Top Grammar
 
@@ -91,9 +91,9 @@
 - [[無理]] (Score: 30)
 - [[悔やむ]] (Score: 30)
 - [[苦情]] (Score: 30)
+- [[見解]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[研修]] (Score: 30)
-- [[行方]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -175,6 +175,7 @@
 
 ## 📚 Top Adverb
 
+- [[さっさと]] (Score: 40)
 - [[どうしても]] (Score: 35)
 - [[とりあえず]] (Score: 35)
 - [[どうも]] (Score: 35)
@@ -182,7 +183,6 @@
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
 - [[一層]] (Score: 30)
-- [[さっさと]] (Score: 30)
 - [[もっとも]] (Score: 25)
 - [[すっかり]] (Score: 25)
 
