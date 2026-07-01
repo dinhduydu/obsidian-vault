@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 337
-- Total Knowledge Items: 3970
-- Correct: 2481
-- Wrong: 3056
-- Accuracy: 44.8%
+- Total Reviews: 342
+- Total Knowledge Items: 3976
+- Correct: 2494
+- Wrong: 3062
+- Accuracy: 44.9%
 
 ## 🚨 Review Queue
 
@@ -61,9 +61,9 @@
 - CompoundVerb: 41.1% (Correct 117 / Wrong 168)
 - Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.5% (Correct 176 / Wrong 259)
-- Grammar: 47.8% (Correct 637 / Wrong 696)
-- Kanji: 48.7% (Correct 229 / Wrong 241)
+- FixedExpression: 40.3% (Correct 175 / Wrong 259)
+- Grammar: 47.7% (Correct 640 / Wrong 702)
+- Kanji: 49.9% (Correct 240 / Wrong 241)
 - Katakana: 46.5% (Correct 105 / Wrong 121)
 - Keigo: 46.2% (Correct 30 / Wrong 35)
 - Reading: 31.5% (Correct 57 / Wrong 124)
@@ -226,6 +226,7 @@
 
 ## 📅 Recent Reviews
 
+- [[2. Phân Tích]]
 - [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
 - [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
 - [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
@@ -245,4 +246,3 @@
 - [[5. Phân Tích N2_TỪ ĐỒNG NGHĨA (P8)]]
 - [[6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
 - [[7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
-- [[1. Phân Tích N2_NGÀY 20_ÔN TẬP NGỮ PHÁP CƠ BẢN]]
