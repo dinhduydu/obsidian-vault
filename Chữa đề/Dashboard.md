@@ -3,10 +3,10 @@
 ## 🎯 Overall
 
 - Total Reviews: 337
-- Total Knowledge Items: 3947
-- Correct: 2453
-- Wrong: 3031
-- Accuracy: 44.7%
+- Total Knowledge Items: 3970
+- Correct: 2481
+- Wrong: 3056
+- Accuracy: 44.8%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 41.3% (Correct 189 / Wrong 269)
+- Adverb: 42.2% (Correct 202 / Wrong 277)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
 - CompoundVerb: 41.1% (Correct 117 / Wrong 168)
-- Conjunction: 32.7% (Correct 55 / Wrong 113)
+- Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.3% (Correct 175 / Wrong 259)
-- Grammar: 48.0% (Correct 636 / Wrong 688)
+- FixedExpression: 40.5% (Correct 176 / Wrong 259)
+- Grammar: 47.8% (Correct 637 / Wrong 696)
 - Kanji: 48.7% (Correct 229 / Wrong 241)
-- Katakana: 45.9% (Correct 101 / Wrong 119)
-- Keigo: 45.3% (Correct 29 / Wrong 35)
+- Katakana: 46.5% (Correct 105 / Wrong 121)
+- Keigo: 46.2% (Correct 30 / Wrong 35)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.1% (Correct 752 / Wrong 878)
+- Vocabulary: 46.2% (Correct 759 / Wrong 885)
 
 ## 📚 Top Grammar
 
@@ -112,6 +112,7 @@
 
 - [[テクニック]] (Score: 35)
 - [[ファスナー]] (Score: 30)
+- [[ブーム]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
@@ -119,7 +120,6 @@
 - [[スムーズに]] (Score: 25)
 - [[マイペース]] (Score: 25)
 - [[シーズン]] (Score: 25)
-- [[スタイル]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -175,16 +175,16 @@
 
 ## 📚 Top Adverb
 
+- [[どうしても]] (Score: 35)
+- [[とりあえず]] (Score: 35)
 - [[どうも]] (Score: 35)
-- [[どうしても]] (Score: 30)
+- [[つい]] (Score: 30)
+- [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
 - [[一層]] (Score: 30)
 - [[さっさと]] (Score: 30)
 - [[もっとも]] (Score: 25)
 - [[すっかり]] (Score: 25)
-- [[せっかく]] (Score: 25)
-- [[つい]] (Score: 25)
-- [[今にも]] (Score: 25)
 
 ## 📚 Top Conjunction
 
