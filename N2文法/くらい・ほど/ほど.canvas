@@ -6,7 +6,7 @@
 		{"id":"83d39849359740a6","type":"text","text":"ほど","x":30,"y":-60,"width":250,"height":60},
 		{"id":"797184928dc0ba08","type":"text","text":"Vるほど","x":760,"y":241,"width":250,"height":60},
 		{"id":"f1dae7e3c48647a4","type":"file","file":"Pasted image 20260517111722.png","x":1260,"y":226,"width":399,"height":89},
-		{"id":"8f9da088c418b380","x":820,"y":600,"width":720,"height":60,"type":"text","text":"息子は、朝学校に行く際に、必ずと言っていいほど忘れ物をしている"}
+		{"id":"8f9da088c418b380","type":"text","text":"息子は、朝学校に行く際に、必ずと言っていいほど忘れ物をしている","x":820,"y":600,"width":720,"height":60}
 	],
 	"edges":[
 		{"id":"e219827ba5ba1888","fromNode":"83d39849359740a6","fromSide":"bottom","toNode":"0620a1ae98c36ea0","toSide":"top"},
