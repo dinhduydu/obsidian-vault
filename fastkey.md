@@ -2,6 +2,7 @@ pullnote
 pushnote
 openalias
 reload
+53. Đinh Duy Dự
 [N2] Update
 [N2] Correcting exercises
 [N2] Push doc

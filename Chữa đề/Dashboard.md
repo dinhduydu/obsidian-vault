@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 342
-- Total Knowledge Items: 3976
-- Correct: 2494
-- Wrong: 3062
+- Total Reviews: 346
+- Total Knowledge Items: 4012
+- Correct: 2528
+- Wrong: 3101
 - Accuracy: 44.9%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.2% (Correct 202 / Wrong 277)
+- Adverb: 42.4% (Correct 209 / Wrong 284)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
-- CompoundVerb: 41.1% (Correct 117 / Wrong 168)
+- CompoundVerb: 41.3% (Correct 118 / Wrong 168)
 - Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.3% (Correct 175 / Wrong 259)
-- Grammar: 47.7% (Correct 640 / Wrong 702)
-- Kanji: 49.9% (Correct 240 / Wrong 241)
-- Katakana: 46.5% (Correct 105 / Wrong 121)
+- FixedExpression: 40.0% (Correct 175 / Wrong 262)
+- Grammar: 47.6% (Correct 655 / Wrong 721)
+- Kanji: 49.9% (Correct 239 / Wrong 240)
+- Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 46.2% (Correct 30 / Wrong 35)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.2% (Correct 759 / Wrong 885)
+- Vocabulary: 46.3% (Correct 771 / Wrong 894)
 
 ## 📚 Top Grammar
 
@@ -90,10 +90,10 @@
 - [[模擬試験]] (Score: 35)
 - [[無理]] (Score: 30)
 - [[悔やむ]] (Score: 30)
+- [[苦情]] (Score: 30)
 - [[持参]] (Score: 30)
 - [[研修]] (Score: 30)
 - [[行方]] (Score: 25)
-- [[光景]] (Score: 25)
 
 ## 📚 Top Kanji
 
@@ -111,6 +111,7 @@
 ## 📚 Top Katakana
 
 - [[テクニック]] (Score: 35)
+- [[タイミング]] (Score: 30)
 - [[ファスナー]] (Score: 30)
 - [[ブーム]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
@@ -119,7 +120,6 @@
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
 - [[マイペース]] (Score: 25)
-- [[シーズン]] (Score: 25)
 
 ## 📚 Top Reading
 
@@ -153,12 +153,12 @@
 - [[返事]] (Score: 50)
 - [[〜どころではない]] (Score: 30)
 - [[足を運ぶ]] (Score: 30)
+- [[～を問わず]] (Score: 25)
+- [[～を込めて]] (Score: 25)
+- [[～とする]] (Score: 25)
 - [[逆効果]] (Score: 25)
 - [[明け方]] (Score: 25)
 - [[耳にする]] (Score: 25)
-- [[〜を中心に]] (Score: 25)
-- [[願います]] (Score: 25)
-- [[鍵をかける]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -226,7 +226,10 @@
 
 ## 📅 Recent Reviews
 
-- [[2. Phân Tích]]
+- [[2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3)]]
+- [[3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9]]
+- [[4. Phân Tích N2 - DAY 14 PRACTICE TEST]]
+- [[5. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 8]]
 - [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
 - [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
 - [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
@@ -243,6 +246,3 @@
 - [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]
 - [[2. Phân Tích N2_TỪ ĐỒNG NGHĨA (P10)]]
 - [[4. Phân Tích N2_TỪ ĐỒNG NGHĨA (P9)]]
-- [[5. Phân Tích N2_TỪ ĐỒNG NGHĨA (P8)]]
-- [[6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
-- [[7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1)]]
