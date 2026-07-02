@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 349
-- Total Knowledge Items: 4068
+- Total Reviews: 350
+- Total Knowledge Items: 4069
 - Correct: 2570
-- Wrong: 3164
+- Wrong: 3168
 - Accuracy: 44.8%
 
 ## 🚨 Review Queue
@@ -28,8 +28,8 @@
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜というわけだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜というものだ]] | Grammar| Score: 40| Wrong: 5
+- [[〜べき]] | Grammar| Score: 40| Wrong: 5
 - [[さっさと]] | Adverb| Score: 40| Wrong: 5
-- [[〜からといって]] | Grammar| Score: 40| Wrong: 6
 
 ## 🔥 Top Weak Points
 
@@ -56,13 +56,13 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.7% (Correct 212 / Wrong 285)
+- Adverb: 42.6% (Correct 212 / Wrong 286)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
 - CompoundVerb: 41.3% (Correct 118 / Wrong 168)
 - Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.4% (Correct 174 / Wrong 257)
-- Grammar: 46.9% (Correct 691 / Wrong 783)
+- FixedExpression: 40.3% (Correct 174 / Wrong 258)
+- Grammar: 46.8% (Correct 691 / Wrong 785)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
@@ -232,6 +232,7 @@
 - [[5. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 8]]
 - [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
+- [[４．Phân Tích N2_BÀI TẬP ĐIỀN SAO (2)]]
 - [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
 - [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
 - [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
@@ -245,4 +246,3 @@
 - [[5. Phân Tích N2 Midterm Grammar Assessment Course 1]]
 - [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
 - [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
-- [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]

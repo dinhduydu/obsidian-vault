@@ -1,10 +1,6 @@
 {
 	"nodes":[
-		{"id":"c415602bcdeb5eff","type":"text","text":"## 2. Giải thích / định nghĩa (＝ “gọi là…”, “có tên là…”)\n\nDùng để **giới thiệu khái niệm / tên gọi**\n\n**Cấu trúc:**\n\n- AというB = B gọi là A\n\n**Ví dụ:**\n\n- これは「絆」**という**漢字です  \n    → Đây là chữ Kanji gọi là “絆”\n- ベトナムという国  \n    → Đất nước gọi là Việt Nam","x":1377,"y":1716,"width":874,"height":344},
-		{"id":"d2209c220e41fa0f","type":"text","text":"と","x":225,"y":1906,"width":250,"height":60},
-		{"id":"7e90f3117635df2d","type":"text","text":"## 3. Nhấn mạnh / liệt kê (＝ “cái gọi là…”, “toàn là…”)\n\nDùng để nhấn mạnh nội dung phía trước\n\n**Ví dụ:**\n\n- 家にはテレビというテレビがない  \n    → Trong nhà không có **bất cứ cái gọi là TV nào**\n\n👉 Nhấn mạnh kiểu: “thứ gọi là …”","x":1375,"y":2302,"width":930,"height":298},
-		{"id":"7451bbfa74c98ef4","type":"text","text":"## 5. Dùng trong hội thoại (＝ “mà nói là…”)\n\nThường dùng trong nói chuyện để **nhắc lại / xác nhận**\n\n**Ví dụ:**\n\n- え？田中さんが来る**という**？  \n    → Hả? Bạn nói là Tanaka sẽ đến à?","x":581,"y":2658,"width":644,"height":242},
-		{"id":"5e2fc9b43019260f","type":"text","text":"## 4. Diễn đạt nội dung (＝ “việc là…”)\n\nDùng để biến câu thành danh từ (giống “việc…”)\n\n**Ví dụ:**\n\n- 日本へ行くという夢  \n    → Ước mơ **đi Nhật**\n- 彼が来ないということは問題だ  \n    → **Việc anh ấy không đến** là vấn đề","x":1367,"y":2861,"width":938,"height":279},
+		{"id":"3587f2fbb73c72f9","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/言うに言えない.md","x":-816,"y":2781,"width":400,"height":400},
 		{"id":"6641ef24bfd30c98","type":"file","file":"Pasted image 20260409075001.png","x":-2708,"y":2120,"width":400,"height":400},
 		{"id":"4beb1baf02dfd748","type":"file","file":"Pasted image 20260409075011.png","x":-2708,"y":2660,"width":400,"height":400},
 		{"id":"a658191ab0016d30","type":"file","file":"Pasted image 20260409075023.png","x":-2708,"y":3120,"width":400,"height":400},
@@ -13,25 +9,17 @@
 		{"id":"3fc3bc5f5604cf5d","type":"text","text":"という = “rằng / gọi là / cái gọi là / việc là”","x":-206,"y":1580,"width":308,"height":100},
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-177,"y":1906,"width":250,"height":60},
 		{"id":"e336e484ff937bbb","type":"file","file":"Pasted image 20260410084620.png","x":-855,"y":1840,"width":400,"height":193},
-		{"id":"d59f1b2dad2d565e","type":"text","text":"「という」 là một cấu trúc **rất quan trọng trong tiếng Nhật**, có nhiều chức năng. Hiểu đơn giản: nó liên quan đến **“nói / gọi / trích dẫn / giải thích”**.","x":425,"y":1580,"width":727,"height":100},
-		{"id":"857f66fbbf7ec535","type":"text","text":"## 1. Trích dẫn (＝ “rằng…”)\n\nDùng để **truyền đạt lời nói / thông tin**\n\n**Cấu trúc:**\n\n- ～という + danh từ / thông tin\n\n**Ví dụ:**\n\n- 彼は来ない**という**話を聞いた  \n    → Tôi nghe **rằng** anh ấy không đến\n- 明日は雨だ**という**予報です  \n    → Dự báo nói **rằng** ngày mai mưa\n\n👉 Giống: 「～と」 nhưng formal hơn, hay dùng trong văn viết","x":1480,"y":1120,"width":886,"height":390},
 		{"id":"af884af36ed9cb19","type":"file","file":"N2文法/助詞/と/という.canvas","x":-252,"y":1040,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
 		{"id":"b686696ed44af780","fromNode":"55b175afad532f38","fromSide":"left","toNode":"e336e484ff937bbb","toSide":"right","label":"からいう"},
 		{"id":"55033ea6c4a41f61","fromNode":"55b175afad532f38","fromSide":"top","toNode":"3fc3bc5f5604cf5d","toSide":"bottom","label":"という"},
-		{"id":"68bc9c7670c62137","fromNode":"3fc3bc5f5604cf5d","fromSide":"right","toNode":"d59f1b2dad2d565e","toSide":"left","label":"chức năng"},
-		{"id":"72d0a62d2d9e8e7d","fromNode":"d59f1b2dad2d565e","fromSide":"right","toNode":"857f66fbbf7ec535","toSide":"left"},
-		{"id":"b8edf9dc681cdb7f","fromNode":"d59f1b2dad2d565e","fromSide":"right","toNode":"c415602bcdeb5eff","toSide":"left"},
-		{"id":"54c628e692041d06","fromNode":"d59f1b2dad2d565e","fromSide":"right","toNode":"7e90f3117635df2d","toSide":"left"},
-		{"id":"3582f7ad54487ec6","fromNode":"d59f1b2dad2d565e","fromSide":"right","toNode":"5e2fc9b43019260f","toSide":"left"},
-		{"id":"0c2b8916141345e5","fromNode":"d59f1b2dad2d565e","fromSide":"right","toNode":"7451bbfa74c98ef4","toSide":"left"},
 		{"id":"1aac00897e6e421b","fromNode":"3fc3bc5f5604cf5d","fromSide":"left","toNode":"fa9b8fa59b2720a0","toSide":"right"},
 		{"id":"cdf4d0fc871149c7","fromNode":"55b175afad532f38","fromSide":"bottom","toNode":"b1447c2a13fe5f9b","toSide":"right"},
 		{"id":"fb541e6c990f0569","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"6641ef24bfd30c98","toSide":"right"},
 		{"id":"3696971c19f268df","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"4beb1baf02dfd748","toSide":"right"},
 		{"id":"e59e02140a37ecdc","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"a658191ab0016d30","toSide":"right"},
-		{"id":"476721478c893830","fromNode":"3fc3bc5f5604cf5d","fromSide":"top","toNode":"af884af36ed9cb19","toSide":"bottom","label":"という"}
+		{"id":"476721478c893830","fromNode":"3fc3bc5f5604cf5d","fromSide":"top","toNode":"af884af36ed9cb19","toSide":"bottom","label":"という"},
+		{"id":"80c257899a34202f","fromNode":"55b175afad532f38","fromSide":"bottom","toNode":"3587f2fbb73c72f9","toSide":"top"}
 	]
 }
