@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8925449bafbbd3f5","x":-1554,"y":-286,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない.md"},
+		{"id":"8925449bafbbd3f5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない.md","x":-1554,"y":-286,"width":400,"height":400},
 		{"id":"0d1fde4bbb8cbaac","type":"text","text":"ほか","x":-114,"y":-7,"width":250,"height":60},
 		{"id":"79be9e9ebf8ec736","type":"file","file":"Pasted image 20260412210605.png","x":-920,"y":-7,"width":400,"height":219}
 	],

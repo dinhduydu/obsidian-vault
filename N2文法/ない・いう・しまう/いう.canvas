@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"af884af36ed9cb19","x":-486,"y":1056,"width":400,"height":400,"type":"file","file":"N2文法/ない・いう・しまう/という.canvas"},
 		{"id":"c415602bcdeb5eff","type":"text","text":"## 2. Giải thích / định nghĩa (＝ “gọi là…”, “có tên là…”)\n\nDùng để **giới thiệu khái niệm / tên gọi**\n\n**Cấu trúc:**\n\n- AというB = B gọi là A\n\n**Ví dụ:**\n\n- これは「絆」**という**漢字です  \n    → Đây là chữ Kanji gọi là “絆”\n- ベトナムという国  \n    → Đất nước gọi là Việt Nam","x":1377,"y":1716,"width":874,"height":344},
 		{"id":"d2209c220e41fa0f","type":"text","text":"と","x":225,"y":1906,"width":250,"height":60},
 		{"id":"7e90f3117635df2d","type":"text","text":"## 3. Nhấn mạnh / liệt kê (＝ “cái gọi là…”, “toàn là…”)\n\nDùng để nhấn mạnh nội dung phía trước\n\n**Ví dụ:**\n\n- 家にはテレビというテレビがない  \n    → Trong nhà không có **bất cứ cái gọi là TV nào**\n\n👉 Nhấn mạnh kiểu: “thứ gọi là …”","x":1375,"y":2302,"width":930,"height":298},
@@ -15,7 +14,8 @@
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-177,"y":1906,"width":250,"height":60},
 		{"id":"e336e484ff937bbb","type":"file","file":"Pasted image 20260410084620.png","x":-855,"y":1840,"width":400,"height":193},
 		{"id":"d59f1b2dad2d565e","type":"text","text":"「という」 là một cấu trúc **rất quan trọng trong tiếng Nhật**, có nhiều chức năng. Hiểu đơn giản: nó liên quan đến **“nói / gọi / trích dẫn / giải thích”**.","x":425,"y":1580,"width":727,"height":100},
-		{"id":"857f66fbbf7ec535","type":"text","text":"## 1. Trích dẫn (＝ “rằng…”)\n\nDùng để **truyền đạt lời nói / thông tin**\n\n**Cấu trúc:**\n\n- ～という + danh từ / thông tin\n\n**Ví dụ:**\n\n- 彼は来ない**という**話を聞いた  \n    → Tôi nghe **rằng** anh ấy không đến\n- 明日は雨だ**という**予報です  \n    → Dự báo nói **rằng** ngày mai mưa\n\n👉 Giống: 「～と」 nhưng formal hơn, hay dùng trong văn viết","x":1480,"y":1120,"width":886,"height":390}
+		{"id":"857f66fbbf7ec535","type":"text","text":"## 1. Trích dẫn (＝ “rằng…”)\n\nDùng để **truyền đạt lời nói / thông tin**\n\n**Cấu trúc:**\n\n- ～という + danh từ / thông tin\n\n**Ví dụ:**\n\n- 彼は来ない**という**話を聞いた  \n    → Tôi nghe **rằng** anh ấy không đến\n- 明日は雨だ**という**予報です  \n    → Dự báo nói **rằng** ngày mai mưa\n\n👉 Giống: 「～と」 nhưng formal hơn, hay dùng trong văn viết","x":1480,"y":1120,"width":886,"height":390},
+		{"id":"af884af36ed9cb19","type":"file","file":"N2文法/助詞/と/という.canvas","x":-252,"y":1040,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"7b244c660c072e30","fromNode":"55b175afad532f38","fromSide":"right","toNode":"d2209c220e41fa0f","toSide":"left"},
@@ -32,6 +32,6 @@
 		{"id":"fb541e6c990f0569","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"6641ef24bfd30c98","toSide":"right"},
 		{"id":"3696971c19f268df","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"4beb1baf02dfd748","toSide":"right"},
 		{"id":"e59e02140a37ecdc","fromNode":"b1447c2a13fe5f9b","fromSide":"left","toNode":"a658191ab0016d30","toSide":"right"},
-		{"id":"476721478c893830","fromNode":"3fc3bc5f5604cf5d","fromSide":"top","toNode":"af884af36ed9cb19","toSide":"bottom"}
+		{"id":"476721478c893830","fromNode":"3fc3bc5f5604cf5d","fromSide":"top","toNode":"af884af36ed9cb19","toSide":"bottom","label":"という"}
 	]
 }

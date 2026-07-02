@@ -17,6 +17,6 @@ Priority: High
 
 
 <!-- USER_START -->
-
+[[〜というもの]]
 
 <!-- USER_END -->
