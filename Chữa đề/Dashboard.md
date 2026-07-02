@@ -2,17 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 348
-- Total Knowledge Items: 4067
-- Correct: 2567
-- Wrong: 3155
-- Accuracy: 44.9%
+- Total Reviews: 349
+- Total Knowledge Items: 4068
+- Correct: 2570
+- Wrong: 3164
+- Accuracy: 44.8%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 215| Wrong: 40
+- [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
+- [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
-- [[〜にすぎない]] | Grammar| Score: 55| Wrong: 8
 - [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
@@ -22,21 +23,21 @@
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
-- [[〜にほかならない]] | Grammar| Score: 45| Wrong: 6
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
+- [[〜というわけだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜というものだ]] | Grammar| Score: 40| Wrong: 5
 - [[さっさと]] | Adverb| Score: 40| Wrong: 5
 - [[〜からといって]] | Grammar| Score: 40| Wrong: 6
-- [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] | Reading| Score: 40| Wrong: 5
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 40
+- [[〜にすぎない]] (Grammar) Wrong: 9
+- [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
-- [[〜にすぎない]] (Grammar) Wrong: 8
 - [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
@@ -51,7 +52,6 @@
 - [[返事]] (FixedExpression) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
 - [[むしろ]] (Conjunction) Wrong: 6
-- [[〜にほかならない]] (Grammar) Wrong: 6
 - [[〜ものの]] (Grammar) Wrong: 6
 
 ## 📈 Category Statistics
@@ -62,7 +62,7 @@
 - Conjunction: 33.1% (Correct 56 / Wrong 113)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 40.4% (Correct 174 / Wrong 257)
-- Grammar: 47.1% (Correct 688 / Wrong 774)
+- Grammar: 46.9% (Correct 691 / Wrong 783)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
@@ -71,14 +71,14 @@
 
 ## 📚 Top Grammar
 
+- [[〜にすぎない]] (Score: 60)
+- [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
-- [[〜にすぎない]] (Score: 55)
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
 - [[〜に限って]] (Score: 50)
 - [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
-- [[〜にほかならない]] (Score: 45)
 - [[〜がち]] (Score: 45)
 - [[〜ものの]] (Score: 45)
 
@@ -231,6 +231,7 @@
 - [[4. Phân Tích N2 - DAY 14 PRACTICE TEST]]
 - [[5. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 8]]
 - [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
+- [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
 - [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
 - [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
@@ -245,4 +246,3 @@
 - [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
 - [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
 - [[1. Phân Tích N2_NGÀY 19_ÔN TẬP NGỮ PHÁP CƠ BẢN (P2)]]
-- [[2. Phân Tích N2_TỪ ĐỒNG NGHĨA (P10)]]

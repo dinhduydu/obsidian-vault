@@ -138,7 +138,7 @@
 		{"id":"7d298a65ccd47159","type":"text","text":"Vてでも","x":-320,"y":401,"width":250,"height":60},
 		{"id":"9ea317bd7858ec52","type":"file","file":"Pasted image 20260505210130.png","x":5731,"y":-2075,"width":244,"height":184},
 		{"id":"798583bfa0babf8d","type":"file","file":"Pasted image 20260517131237.png","x":-3300,"y":416,"width":398,"height":85},
-		{"id":"ac1e792f7688268c","x":1045,"y":-1803,"width":400,"height":62,"type":"file","file":"Pasted image 20260517143753.png"}
+		{"id":"ac1e792f7688268c","type":"file","file":"Pasted image 20260517143753.png","x":1045,"y":-1803,"width":400,"height":62}
 	],
 	"edges":[
 		{"id":"6b3fefeab375a8b6","fromNode":"835add4850e7963d","fromSide":"right","toNode":"57f9e9a27ae902ae","toSide":"left","label":"Vてくれる"},
