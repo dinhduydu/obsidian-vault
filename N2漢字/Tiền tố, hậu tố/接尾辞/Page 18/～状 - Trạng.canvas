@@ -14,16 +14,16 @@
 		{"id":"a3","type":"text","text":"紹介状\nしょうかいじょう\n\nThiệu giới trạng\n= Thư giới thiệu","x":-600,"y":450,"width":300,"height":220},
 		{"id":"a6","type":"text","text":"告訴状\nこくそじょう\n\nCáo tố trạng\n= Đơn tố cáo","x":-600,"y":730,"width":300,"height":220},
 		{"id":"a9","type":"text","text":"遺言状\nゆいごんじょう\n\nDi ngôn trạng\n= Di chúc\n= 遺言書","x":-600,"y":1010,"width":300,"height":220},
-		{"id":"group3","type":"text","text":"③ ～状 = TRẠNG THÁI\n\nĐặc điểm bên ngoài","x":850,"y":250,"width":320,"height":120},
-		{"id":"c1","type":"text","text":"クリーム状\nクリームじょう\n\nCream-like\n= Dạng kem\n= Sệt, đặc sánh","x":850,"y":450,"width":320,"height":220},
 		{"id":"compare","type":"text","text":"PHÂN BIỆT N2\n\n案内状\n= thư thông báo\n= sự kiện, hội thảo\n\n招待状\n= thiệp mời cá nhân\n= cưới, tiệc\n\n紹介状\n= thư giới thiệu\n\n質問状\n= thư chất vấn","x":-250,"y":850,"width":500,"height":380},
 		{"id":"summary","type":"text","text":"TỔNG KẾT\n\n～状\n↓\nTRẠNG\n\n① Văn bản\n案内状\n招待状\n紹介状\n質問状\n表彰状\n\n② Hình dạng\n球状\nチューブ状\n\n③ Trạng thái\nクリーム状\n\nMẸO:\nNếu đứng sau danh từ vật lý\n→ hình dạng\n\nNếu đứng sau tính chất vật chất\n→ trạng thái\n\nNếu đứng sau động từ/Hán từ hành chính\n→ giấy tờ, văn bản","x":500,"y":850,"width":740,"height":690},
-		{"id":"0727e0af5dbbd4de","type":"text","text":"液体状 = trạng thái dạng lỏng","x":850,"y":390,"width":250,"height":60},
-		{"id":"9e7406ac312f5d16","type":"file","file":"Pasted image 20260612121054.png","x":1280,"y":390,"width":400,"height":212},
 		{"id":"title","type":"text","text":"# N2 Hậu tố ～状（じょう）\n\nHán Việt: TRẠNG（状）\n\nÝ gốc:\n① Văn bản / giấy tờ\n② Trạng thái\n③ Hình dạng","x":0,"y":0,"width":520,"height":140},
 		{"id":"group2","type":"text","text":"② ～状 = HÌNH DẠNG\n\n状 = dạng, hình","x":50,"y":250,"width":320,"height":120},
 		{"id":"b1","type":"text","text":"球状\nきゅうじょう\n\nCầu trạng\n= Hình cầu","x":-50,"y":450,"width":280,"height":180},
-		{"id":"b2","type":"text","text":"チューブ状\nチューブじょう\n\nTube-shaped\n= Hình ống","x":280,"y":450,"width":280,"height":180}
+		{"id":"b2","type":"text","text":"チューブ状\nチューブじょう\n\nTube-shaped\n= Hình ống","x":280,"y":450,"width":280,"height":180},
+		{"id":"group3","type":"text","text":"③ ～状 = TRẠNG THÁI\n\nĐặc điểm bên ngoài","x":850,"y":250,"width":320,"height":120},
+		{"id":"c1","type":"text","text":"クリーム状\nクリームじょう\n\nCream-like\n= Dạng kem\n= Sệt, đặc sánh","x":850,"y":450,"width":320,"height":220},
+		{"id":"0727e0af5dbbd4de","type":"text","text":"液体状 = trạng thái dạng lỏng","x":850,"y":390,"width":250,"height":60},
+		{"id":"9e7406ac312f5d16","type":"file","file":"Pasted image 20260612121054.png","x":1280,"y":390,"width":400,"height":212}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"title","fromSide":"left","toNode":"group1","toSide":"right"},
