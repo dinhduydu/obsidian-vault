@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/4. Phân Tích Tư duy sắp xếp trật tự câu (1-10).md",
+                "file": "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/17. Giải thích rõ cấu trúc 〜もばかにならない.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)"
+              "title": "17. Giải thích rõ cấu trúc 〜もばかにならない"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない.md",
+                "file": "N2文法/なる・する/～になる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない"
+              "title": "～になる"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "～ざるをえない",
+                "query": "になる",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,8 +158,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,15 +254,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6d525ef0963ca1",
+  "active": "96d5f4e8336f9618",
   "lastOpenFiles": [
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/4. Phân Tích Tư duy sắp xếp trật tự câu (1-10).md",
+    "N2文法/なる・する/～になる.md",
+    "Chữa đề/Learning_Profile/Keigo/お～になる.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week3/19012026/3. Phân Tích N3_KÍNH NGỮ (P3).md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/21012026/2. Phân Tích N3_KÍNH NGỮ (P5).md",
+    "Chữa đề/Learning_Profile/Collocation/夢中になる.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week5/29052026/4. Phân Tích KẾT QUẢ N2_ĐỌC HIỂU SO SÁNH_BÀI 49.md",
+    "～ともなると.md",
+    "～になる.md",
+    "N2文法/なる・する/なる.canvas",
+    "N2文法/なる・する/する.canvas",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/16. Giải thích sự khác biệt giữa ～てしまいそうになる và ～そうだった.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない.md",
     "Pasted image 20260703153838.png",
     "Chữa đề/Learning_Profile/Grammar/～わけにはいかない.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない.md",
     "～ざるをえない.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026/3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/1. BTVN.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/Untitled.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/17. Giải thích rõ cấu trúc 〜もばかにならない.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/15. Phân Tích câu 51-60 trong bài 0307261-24-27.pdf.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/6. Phân Tích trật tự điền sao bị sai (6-10).md",
     "AI_Context/1. Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
@@ -276,16 +286,7 @@
     "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/10. Phân Tích điền sao N2 (0307261-15-19.pdf).md",
     "Chữa đề/Learning_Profile/Collocation/許可が下りる.md",
     "Chữa đề/２０２６年/０４月２０２６年/Week2/10042026/2. Phân Tích N2_CHỌN TỪ_BÀI TẬP 1.md",
-    "Chữa đề/Learning_Profile/Vocabulary/許す.md",
-    "Chữa đề/Learning_Profile/Kanji/許す.md",
-    "Chữa đề/Learning_Profile/FixedExpression/許しがたい.md",
-    "Chữa đề/Learning_Profile/Vocabulary/許されて.md",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/～状 - Trạng.canvas",
-    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/1. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.3).md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week5/30042026/3. Phân Tích N2_BÀI TẬP ĐIỀN SAO (12).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/6. Phân Tích N2 - TỔNG ÔN TỪ VỰNG BÀI 1 (P4).md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/11. Phân Tích câu 31 đến 41 của tệp 0307261-15-19.pdf.md",
-    "Chữa đề/Prompt/Prompt Phân tích lỗi sai ngữ pháp.md",
     "Pasted image 20260703143831.png",
     "N2文法/助詞/と/という.canvas",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026",
@@ -295,8 +296,6 @@
     "N2文法/あまり・だけ/だけ.canvas",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/02072026",
     "N2文法/こと・もの/こと.canvas",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch04.canvas",
-    "N2文法/くらい・ほど/くらい.canvas",
     "Pasted image 20260702071558.png",
     "Pasted image 20260701183621.png",
     "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026",
@@ -312,7 +311,6 @@
     "Pasted image 20260629181628.png",
     "Pasted image 20260629181519.png",
     "Pasted image 20260629181404.png",
-    "Pasted image 20260629180822.png",
-    "Pasted image 20260629180712.png"
+    "Pasted image 20260629180822.png"
   ]
 }
