@@ -243,6 +243,6 @@
 - [[19. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 19]]
 - [[2. Phân Tích N2_NGÀY 26_ÔN TẬP NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1) (1-11)]]
 - [[2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない]]
-- [[21. Phân Tích]]
+- [[21. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 15]]
 - [[4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)]]
 - [[6. Phân Tích trật tự điền sao bị sai (6-10)]]
