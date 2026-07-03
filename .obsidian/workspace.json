@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Grammar/驚かされる.md",
+                "file": "Chữa đề/Learning_Profile/Keigo/お休みになる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "驚かされる"
+              "title": "お休みになる"
+            }
+          },
+          {
+            "id": "82086f0734ccac10",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」.canvas",
+                "viewState": {
+                  "x": 303.0626441511202,
+                  "y": 593.4200050849736,
+                  "zoom": -1.0802425963741804
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Hiệt　「頁 」"
             }
           },
           {
@@ -77,7 +94,8 @@
               "title": "1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "〜をもとに",
+                "query": "様先",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -226,34 +244,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "82086f0734ccac10",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Grammar/〜ようにと (Trích dẫn yêu cầu_mong muốn).md",
-    "Chữa đề/Learning_Profile/Grammar/〜まま.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ことも少なくありません.md",
-    "Chữa đề/Learning_Profile/Grammar/〜もの (Đương nhiên).md",
-    "Chữa đề/Learning_Profile/Grammar/〜ことにはならない..md",
-    "Chữa đề/Learning_Profile/Grammar/〜か (câu hỏi gián tiếp).md",
-    "Chữa đề/Learning_Profile/Grammar/〜ように（なる）.md",
-    "Chữa đề/Learning_Profile/Grammar/〜言わせてもらえば.md",
-    "Chữa đề/Learning_Profile/Grammar/他の〜よりもずっと (Hơn hẳn những... khác).md",
-    "Chữa đề/Learning_Profile/Grammar/ろくに〜ない (Chẳng... được tử tế).md",
-    "Chữa đề/Learning_Profile/Grammar/～かというと.md",
-    "Chữa đề/Learning_Profile/Grammar/～がち.md",
-    "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026/2. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 1.md",
-    "Chữa đề/Learning_Profile/Grammar/～がたい.md",
-    "Chữa đề/２０２６年/０１月２０２６年/Week5/30012026/3. Phân Tích N2_TEST ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 1.md",
-    "Chữa đề/Learning_Profile/Grammar/～かいがあって.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026/3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9.md",
-    "Chữa đề/Learning_Profile/Grammar/〜迷惑の受身 (Adversative Passive).md",
-    "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/2. Phân Tích N3_BỊ ĐỘNG, SAI KHIẾN (P3).md",
-    "Chữa đề/Learning_Profile/Grammar/〜次第だ.md",
-    "Chữa đề/Learning_Profile/Grammar/〜次第.md",
-    "Chữa đề/Learning_Profile/Grammar/〜次第 (Ngay sau khi).md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week1/03112025/4. Phân Tích Kết Quả NGỮ PHÁP N2_TEST 4.md",
-    "Chữa đề/Learning_Profile/Grammar/〜末に.md",
-    "Chữa đề/Learning_Profile/Grammar/〜向け.md",
-    "Chữa đề/Learning_Profile/Grammar/〜向け (Dành cho đối tượng).md",
+    "Chữa đề/Learning_Profile/Kenjougo/いただく.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10.4.2. 謙譲語 (Dạng khiêm nhường).md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10.4.1. 尊敬語 (Dạng kính trọng).md",
+    "Chữa đề/Learning_Profile/Kenjougo/拝借.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week1/02022026/3. Phân Tích N2_TEST ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 5.md",
+    "Chữa đề/Learning_Profile/Kenjougo/お目にかかる.md",
+    "お掛けになる.md",
+    "お読みになる.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/1. Phân Tích N2_NGÀY 20_ÔN TẬP NGỮ PHÁP CƠ BẢN.md",
+    "Chữa đề/Learning_Profile/Keigo/お休みになる.md",
+    "Chữa đề/Learning_Profile/Keigo/なさる.md",
+    "Chữa đề/Learning_Profile/Keigo/ご存じだ.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week3/19012026/2. Phân Tích N3_KÍNH NGỮ (P2).md",
+    "Chữa đề/Learning_Profile/Keigo/お～になる.md",
+    "N2文法/なる・する/～になる.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10.4.3. 丁重語 (Dạng nhã nhặn).md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10.4.4. 丁寧語 (Dạng lịch sự).md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10.4.5. 美化語 (Dạng tao nhã).md",
+    "Chữa đề/Learning_Profile/Kenjougo/～させていただく.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week3/19012026/3. Phân Tích N3_KÍNH NGỮ (P3).md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/23012026/1. Phân Tích KÍNH NGỮ_TEST 2.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/2. Phân Tích KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.md",
+    "Chữa đề/Learning_Profile/Kenjougo/申し上げる.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/17062026/4. Phân Tích BÀI LÀM N2_NGÀY 8_ÔN TẬP ĐỘNG TỪ GHÉP.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/3. Phân Tích N2_TV_ĐỘNG TỪ GHÉP.md",
+    "Chữa đề/Learning_Profile/Kenjougo/いたす.md",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/橋 - Kiều.canvas",
     "N2文法/なる・する/なる.canvas",
     "N2文法/なる・する/する.canvas",
