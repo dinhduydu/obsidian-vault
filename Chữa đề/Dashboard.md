@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 350
-- Total Knowledge Items: 4069
-- Correct: 2570
-- Wrong: 3168
-- Accuracy: 44.8%
+- Total Reviews: 366
+- Total Knowledge Items: 4103
+- Correct: 2581
+- Wrong: 3218
+- Accuracy: 44.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 215| Wrong: 40
+- [[]] | Vocabulary| Score: 222| Wrong: 42
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
@@ -29,11 +29,11 @@
 - [[〜というわけだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜というものだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜べき]] | Grammar| Score: 40| Wrong: 5
-- [[さっさと]] | Adverb| Score: 40| Wrong: 5
+- [[〜からには]] | Grammar| Score: 40| Wrong: 5
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 40
+- [[]] (Vocabulary) Wrong: 42
 - [[〜にすぎない]] (Grammar) Wrong: 9
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.6% (Correct 212 / Wrong 286)
+- Adverb: 42.5% (Correct 214 / Wrong 290)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
 - CompoundVerb: 41.3% (Correct 118 / Wrong 168)
-- Conjunction: 33.1% (Correct 56 / Wrong 113)
+- Conjunction: 32.9% (Correct 56 / Wrong 114)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.3% (Correct 174 / Wrong 258)
-- Grammar: 46.8% (Correct 691 / Wrong 785)
+- FixedExpression: 40.1% (Correct 175 / Wrong 261)
+- Grammar: 45.8% (Correct 697 / Wrong 825)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.3% (Correct 775 / Wrong 898)
+- Vocabulary: 46.3% (Correct 777 / Wrong 900)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 215)
+- [[]] (Score: 222)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
@@ -155,10 +155,10 @@
 - [[～を問わず]] (Score: 25)
 - [[～を込めて]] (Score: 25)
 - [[～とする]] (Score: 25)
+- [[身が引き締まる思い]] (Score: 25)
 - [[逆効果]] (Score: 25)
 - [[明け方]] (Score: 25)
 - [[耳にする]] (Score: 25)
-- [[〜を中心に]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -183,8 +183,8 @@
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
 - [[一層]] (Score: 30)
+- [[よく]] (Score: 25)
 - [[もっとも]] (Score: 25)
-- [[すっかり]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -233,16 +233,16 @@
 - [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[４．Phân Tích N2_BÀI TẬP ĐIỀN SAO (2)]]
-- [[2. Phân Tích Bài đọc hiểu so sánh (Mondai 12)]]
-- [[3. Phân Tích Bài đọc hiểu trường văn (Mondai 13)]]
-- [[4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives)]]
-- [[5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2.]]
-- [[2. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 19]]
-- [[3. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20]]
-- [[2. Phân Tích Trợ từ chỉ mục đích, thời gian, liệt kê, và các cấu trúc nhấn mạnh như こそ, さえ]]
-- [[3. Phân Tích N3_TRỢ TỪ_TEST 2]]
-- [[4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 1.2]]
-- [[5. Phân Tích N2 Midterm Grammar Assessment Course 1 1]]
-- [[5. Phân Tích N2 Midterm Grammar Assessment Course 1]]
-- [[6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4)]]
-- [[1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1]]
+- [[10. Phân Tích điền sao N2 (0307261-15-19.pdf)]]
+- [[11. Phân Tích câu 31 đến 41 của tệp 0307261-15-19.pdf]]
+- [[12. Phân Tích câu điền sao từ 41 đến 50]]
+- [[13. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP (Câu 42-50)]]
+- [[14. Phân Tích điền sao 54 55]]
+- [[15. Phân Tích câu 51-60 trong bài 0307261-24-27.pdf]]
+- [[18. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 18]]
+- [[19. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 19]]
+- [[2. Phân Tích N2_NGÀY 26_ÔN TẬP NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1) (1-11)]]
+- [[2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない]]
+- [[21. Phân Tích]]
+- [[4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)]]
+- [[6. Phân Tích trật tự điền sao bị sai (6-10)]]

@@ -1,6 +1,6 @@
 <!-- AUTO_START -->
 
-# 〜を兼ねて
+# 〜 bridge を兼ねて
 
 Category: Grammar
 Correct: 0
@@ -11,8 +11,7 @@ Priority: High
 
 ## Related Reviews
 
-- [[4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)]]
-- [[5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1)]]
+- [[2. Phân Tích N2_NGÀY 26_ÔN TẬP NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1) (1-11)]]
 
 <!-- AUTO_END -->
 
