@@ -1,6 +1,6 @@
 <!-- AUTO_START -->
 
-# 〜向け (Dành cho đối tượng)
+# 〜のが、Nです
 
 Category: Grammar
 Correct: 0
@@ -11,12 +11,12 @@ Priority:
 
 ## Related Reviews
 
-- [[1. Phân Tích Kết Quả Luyện Thi JLPT N2]]
+- [[1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGỮ PHÁP (P51.1)]]
 
 <!-- AUTO_END -->
 
 
 <!-- USER_START -->
-
+Cấu trúc nhấn mạnh
 
 <!-- USER_END -->

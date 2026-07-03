@@ -18,5 +18,7 @@ Priority: Critical
 
 <!-- USER_START -->
 
+Grammar | 〜迷惑の受身 (Adversative Passive)
 
+Thể bị động biểu thị sự phiền toái, khó chịu cho người nói khi một sự việc nào đó xảy ra (ví dụ: bị dính mưa, bị bạn đến chơi khuya).
 <!-- USER_END -->
