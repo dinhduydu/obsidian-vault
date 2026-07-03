@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 〜もの (Đương nhiên)
+
+Category: Grammar
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: 100%
+Priority: Low
+
+## Related Reviews
+
+- [[3. Phân Tích Các cấu trúc ngữ pháp N2 xoay quanh もの]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

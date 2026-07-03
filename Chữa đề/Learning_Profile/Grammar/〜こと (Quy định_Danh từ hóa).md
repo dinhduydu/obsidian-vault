@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 〜こと (Quy định/Danh từ hóa)
+
+Category: Grammar
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: 0%
+Priority: Medium
+
+## Related Reviews
+
+- [[1. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
