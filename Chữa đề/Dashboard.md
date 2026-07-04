@@ -5,7 +5,7 @@
 - Total Reviews: 373
 - Total Knowledge Items: 4114
 - Correct: 2581
-- Wrong: 3240
+- Wrong: 3245
 - Accuracy: 44.3%
 
 ## 🚨 Review Queue
@@ -18,6 +18,7 @@
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
+- [[むしろ]] | Grammar| Score: 50| Wrong: 7
 - [[〜に限って]] | Grammar| Score: 50| Wrong: 7
 - [[〜まい]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
@@ -29,7 +30,6 @@
 - [[〜というわけだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜というものだ]] | Grammar| Score: 40| Wrong: 5
 - [[〜べき]] | Grammar| Score: 40| Wrong: 5
-- [[〜からには]] | Grammar| Score: 40| Wrong: 5
 
 ## 🔥 Top Weak Points
 
@@ -42,6 +42,7 @@
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
+- [[むしろ]] (Grammar) Wrong: 7
 - [[〜に限って]] (Grammar) Wrong: 7
 - [[〜がち]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 7
@@ -51,7 +52,6 @@
 - [[模擬試験]] (Vocabulary) Wrong: 7
 - [[返事]] (FixedExpression) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
-- [[むしろ]] (Conjunction) Wrong: 6
 - [[〜ものの]] (Grammar) Wrong: 6
 
 ## 📈 Category Statistics
@@ -59,10 +59,10 @@
 - Adverb: 42.3% (Correct 214 / Wrong 292)
 - Collocation: 45.3% (Correct 107 / Wrong 129)
 - CompoundVerb: 41.3% (Correct 118 / Wrong 168)
-- Conjunction: 32.9% (Correct 56 / Wrong 114)
+- Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 40.0% (Correct 175 / Wrong 262)
-- Grammar: 45.2% (Correct 697 / Wrong 844)
+- Grammar: 45.0% (Correct 699 / Wrong 855)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
@@ -76,11 +76,11 @@
 - [[〜あまり]] (Score: 60)
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
+- [[むしろ]] (Score: 50)
 - [[〜に限って]] (Score: 50)
 - [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
 - [[〜がち]] (Score: 45)
-- [[〜ものの]] (Score: 45)
 
 ## 📚 Top Vocabulary
 
@@ -189,7 +189,6 @@
 ## 📚 Top Conjunction
 
 - [[そこで]] (Score: 37)
-- [[むしろ]] (Score: 35)
 - [[それにしては]] (Score: 35)
 - [[要するに]] (Score: 35)
 - [[つまり]] (Score: 32)
@@ -198,6 +197,7 @@
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
 - [[とはいえ]] (Score: 30)
+- [[実は]] (Score: 25)
 
 ## 📚 Top Keigo
 
