@@ -1,43 +1,89 @@
+# Japanese Learning Flow
+
+## 1. Learning loop (overview)
+
 ```mermaid
-flowchart TD
+sequenceDiagram
+    actor User as 👤 Learner
+    participant Inbox as Obsidian Inbox
+    participant KB as Knowledge Base
+    participant Review as Review Note<br/>(*Phân Tích*.md)
+    participant AI as NotebookLM / AI
+    participant Tool as Python Tool<br/>(generate_dashboard.py)
+    participant Dash as Dashboard.md
 
-A[📥 Câu / Từ mới gặp] --> B[Obsidian Inbox]
+    User->>Inbox: Gặp từ / câu mới
+    User->>Inbox: Phân loại & tạo note
+    Note over Inbox,KB: Vocabulary · Kanji · Grammar · Reading · ...
 
-B --> C{Phân loại}
+    User->>Review: Tạo đề ôn tập (Markdown)
+    User->>AI: Upload đề review
+    AI-->>User: Bài tập / giải thích
 
-C --> D[Vocabulary]
-C --> E[Kanji]
-C --> F[Grammar]
-C --> G[Reading]
+    User->>Review: Làm bài & ghi Learning Profile
+    Note over Review: Correct / Wrong / Mastery / Priority
 
-D --> H[Tạo Note từ vựng]
-E --> I[Tạo Note Kanji + Bộ thủ]
-F --> J[Tạo Note ngữ pháp]
+    User->>Tool: Chạy script
+    Tool->>Review: Đọc & parse Learning Profile
+    Tool->>KB: Cập nhật Learning_Profile/*.md
+    Tool->>Dash: Tạo Dashboard (điểm yếu, review queue)
+    User->>Dash: Xem thống kê & chọn mục cần ôn
+```
 
-H --> K[(Japanese Knowledge Base)]
-I --> K
-J --> K
+## 2. Python tool pipeline
 
-K --> L[Dataview Dashboard]
+`generate_dashboard.py` quét vault, gộp dữ liệu từ mọi bài review, rồi sinh profile + dashboard.
 
-L --> M[Theo dõi điểm yếu]
-M --> N[Generate Review]
+```mermaid
+sequenceDiagram
+    participant Main as generate_dashboard.py
+    participant Scanner as scanner
+    participant Parser as parser
+    participant Merge as knowledge dict
+    participant Profiles as profile_generator
+    participant Dashboard as dashboard_generator
+    participant Vault as Obsidian Vault
 
-N --> O[Python Script]
+    Main->>Scanner: find_review_files(VAULT_ROOT)
+    Note over Scanner: Tìm *.md có "Phân Tích"<br/>bỏ qua Dashboard
+    Scanner-->>Main: danh sách file review
 
-O --> P[Tạo đề Markdown]
+    loop mỗi file review
+        Main->>Scanner: extract_date(file)
+        Scanner-->>Main: ngày review (thư mục DDMMYYYY)
 
-P --> Q[NotebookLM]
+        Main->>Parser: parse_review_file(file, date)
+        Parser->>Parser: extract_category_map()
+        Note over Parser: Đọc dòng "Category | keyword"<br/>strip wiki-link [[Page|Alias]]
+        Parser->>Parser: parse_profiles()
+        Note over Parser: Tách block theo heading<br/>đọc Correct / Wrong / Mastery / Priority
+        Parser-->>Main: KnowledgeItem[]
+    end
 
-Q --> R[AI tạo bài tập / giải thích]
+    Main->>Merge: gộp theo name
+    Note over Merge: Cộng correct & wrong<br/>giữ last_seen mới nhất
 
-R --> S[Làm bài]
+    Main->>Profiles: generate_profiles(knowledge)
+    Profiles->>Vault: Learning_Profile/{Category}/{name}.md
+    Note over Profiles: Ghi stats + Related Reviews<br/>giữ vùng USER_START/USER_END
 
-S --> T{Đúng/Sai}
+    Main->>Dashboard: generate_dashboard(knowledge, reviews)
+    Dashboard->>Vault: Dashboard.md
+    Note over Dashboard: Overall · Review Queue<br/>Weak Points · Category stats
+```
 
-T -->|Đúng| U[Update correct count]
-T -->|Sai| V[Create Error Note]
+## 3. Parser detail (keyword extraction)
 
-U --> K
-V --> K
+```mermaid
+flowchart LR
+    A["Heading line<br/>Adverb | [[ともかく]]"] --> B[split_heading_category]
+    B --> C[clean_name]
+    C --> D[normalize_text]
+    D --> E[strip prefix<br/>Adverb: · Vocabulary: ...]
+    E --> F[strip_wikilink]
+    F --> G["keyword: ともかく"]
+
+    H["Adverb | ともかく"] --> B
+    I["Adverb | [[Page|Alias]]"] --> B
+    B --> J["keyword: Alias"]
 ```
