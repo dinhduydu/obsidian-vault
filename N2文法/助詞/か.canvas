@@ -20,7 +20,7 @@
 		{"id":"78e3890a45fea12c","type":"text","text":"心配する","x":383,"y":331,"width":250,"height":60},
 		{"id":"c69f031221ef686a","type":"text","text":"～のでしょうか","x":1036,"y":238,"width":250,"height":60},
 		{"id":"377411b2ffabb1dd","type":"file","file":"N2文法/こと・もの/もの.canvas","x":-153,"y":-959,"width":248,"height":166},
-		{"id":"c5ee0d69bf748eb2","type":"file","file":"N2文法/ばかり・はず・わけ/ばかり.canvas","x":-487,"y":-756,"width":91,"height":50},
+		{"id":"c5ee0d69bf748eb2","type":"file","file":"N2文法/助詞/ばかり/ばかり.canvas","x":-487,"y":-756,"width":91,"height":50},
 		{"id":"f47d101a8f5eecb8","type":"text","text":"ばかりか","x":-940,"y":-1020,"width":250,"height":60},
 		{"id":"c6eeeedb760288b0","type":"text","text":"ないものか","x":289,"y":-1132,"width":250,"height":60},
 		{"id":"6ae008f9c56dc12e","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":300,"y":-1420,"width":227,"height":167},
