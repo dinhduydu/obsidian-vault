@@ -3,20 +3,14 @@ Knowledge Extracted chỉ dùng các category: Vocabulary, Kanji, Katakana, Gram
 Mọi item bắt buộc có: Meaning, Trigger, Contrast, Semantic Tag, One-line Summary; Vocabulary thêm Correct Synonym, Distractor1–3, Explanation; Grammar dựa trên Phân Loại Ngữ pháp JLPT và JLPT Grammar Confusion Index để liệt kê các mẫu cùng trường nghĩa, Confusion Set và giải thích vì sao chọn sai; Adverb/Katakana/CompoundVerb/FixedExpression/Collocation/Demonstratives thêm Usage, Example.
 
 
-Learning Profile phải tạo cho 100% item đã xuất hiện ở Knowledge Extracted, giữ nguyên tên item và format:
+Learning Profile phải tạo cho 100% item đã xuất hiện ở Knowledge Extracted, không tạo bảng, giữ nguyên tên item và format:
 
 
 CATEGORY | ITEM_NAME
-
-
 Correct: +N
-
 Wrong: +N
-
 Last Seen: YYYY-MM-DD
-
 Mastery:
-
 Priority:
 
 

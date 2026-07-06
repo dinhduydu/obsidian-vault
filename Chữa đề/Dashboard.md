@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 373
-- Total Knowledge Items: 4114
+- Total Reviews: 374
+- Total Knowledge Items: 4116
 - Correct: 2581
-- Wrong: 3245
+- Wrong: 3250
 - Accuracy: 44.3%
 
 ## 🚨 Review Queue
@@ -57,17 +57,17 @@
 ## 📈 Category Statistics
 
 - Adverb: 42.3% (Correct 214 / Wrong 292)
-- Collocation: 45.3% (Correct 107 / Wrong 129)
-- CompoundVerb: 41.3% (Correct 118 / Wrong 168)
+- Collocation: 45.1% (Correct 107 / Wrong 130)
+- CompoundVerb: 41.6% (Correct 117 / Wrong 164)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.0% (Correct 175 / Wrong 262)
+- FixedExpression: 39.9% (Correct 175 / Wrong 264)
 - Grammar: 45.0% (Correct 699 / Wrong 855)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.3% (Correct 777 / Wrong 900)
+- Vocabulary: 46.2% (Correct 778 / Wrong 906)
 
 ## 📚 Top Grammar
 
@@ -86,6 +86,7 @@
 
 - [[]] (Score: 222)
 - [[& Kiến thức liên quan]] (Score: 55)
+- [[落ち込む]] (Score: 35)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
 - [[無理]] (Score: 30)
@@ -93,7 +94,6 @@
 - [[苦情]] (Score: 30)
 - [[見解]] (Score: 30)
 - [[持参]] (Score: 30)
-- [[研修]] (Score: 30)
 
 ## 📚 Top Kanji
 
@@ -136,7 +136,6 @@
 
 ## 📚 Top CompoundVerb
 
-- [[落ち込む]] (Score: 30)
 - [[見守る]] (Score: 30)
 - [[わき見運転]] (Score: 25)
 - [[教育実習]] (Score: 25)
@@ -146,24 +145,26 @@
 - [[透き通る]] (Score: 25)
 - [[追い込む]] (Score: 25)
 - [[打ち合わせる]] (Score: 25)
+- [[思い出す]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
 - [[足を運ぶ]] (Score: 30)
+- [[駆け引き]] (Score: 25)
 - [[～を問わず]] (Score: 25)
 - [[～を込めて]] (Score: 25)
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
 - [[逆効果]] (Score: 25)
 - [[明け方]] (Score: 25)
-- [[耳にする]] (Score: 25)
 
 ## 📚 Top Collocation
 
 - [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
+- [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
 - [[苦情が出る]] (Score: 20)
 - [[火山の噴火]] (Score: 20)
@@ -171,7 +172,6 @@
 - [[驚かせてやる]] (Score: 20)
 - [[危険にさらされる]] (Score: 20)
 - [[解像度を上げる]] (Score: 20)
-- [[思いをさらけ出す]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -226,6 +226,7 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
 - [[2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3)]]
 - [[3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9]]
 - [[4. Phân Tích N2 - DAY 14 PRACTICE TEST]]
@@ -245,4 +246,3 @@
 - [[2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない]]
 - [[21. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 15]]
 - [[4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)]]
-- [[6. Phân Tích trật tự điền sao bị sai (6-10)]]
