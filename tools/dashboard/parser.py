@@ -4,6 +4,22 @@ from models import KnowledgeItem
 
 
 
+def strip_wikilink(text):
+
+    match = re.fullmatch(
+        r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]",
+        text.strip()
+    )
+
+    if not match:
+        return text
+
+    page, alias = match.groups()
+
+    return alias if alias else page
+
+
+
 def normalize_text(text):
 
     return (
@@ -61,7 +77,9 @@ def clean_name(name):
     )
 
 
-    return name.strip()
+    return strip_wikilink(
+        name.strip()
+    ).strip()
 
 
 
