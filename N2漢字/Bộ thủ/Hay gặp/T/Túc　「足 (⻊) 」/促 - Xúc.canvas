@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2619d27d0089a7b3","type":"text","text":"促 - Xúc","x":-149,"y":-52,"width":250,"height":60},
+		{"id":"ca2a8e183f370ec6","type":"text","text":"促す　「うながす」：thúc đẩy","x":211,"y":-152,"width":305,"height":70},
+		{"id":"32dd56d07d2c58b6","type":"text","text":"催促　「さいそく」：thúc giục","x":220,"y":16,"width":250,"height":60},
+		{"id":"24b7a9cc27638b9e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas","x":-560,"y":-282,"width":208,"height":165},
+		{"id":"40409839bb3279c6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":-456,"y":19,"width":174,"height":115},
+		{"id":"de1e5985080d0e6a","type":"file","file":"Chữa đề/Learning_Profile/Collocation/自覚を促す.md","x":700,"y":-290,"width":233,"height":173}
+	],
+	"edges":[
+		{"id":"753ee649a3c8a591","fromNode":"24b7a9cc27638b9e","fromSide":"right","toNode":"2619d27d0089a7b3","toSide":"left"},
+		{"id":"e100b4e53a69236b","fromNode":"2619d27d0089a7b3","fromSide":"right","toNode":"ca2a8e183f370ec6","toSide":"left"},
+		{"id":"095378f7c04a7c11","fromNode":"2619d27d0089a7b3","fromSide":"right","toNode":"32dd56d07d2c58b6","toSide":"left"},
+		{"id":"7dc7457e3690ec7f","fromNode":"ca2a8e183f370ec6","fromSide":"right","toNode":"de1e5985080d0e6a","toSide":"left"},
+		{"id":"9d7f9f7f80011f3b","fromNode":"40409839bb3279c6","fromSide":"right","toNode":"2619d27d0089a7b3","toSide":"left"}
+	]
+}

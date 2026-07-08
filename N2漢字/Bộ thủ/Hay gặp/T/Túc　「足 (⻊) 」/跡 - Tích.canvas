@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"ba467b5c03f75ec9","type":"text","text":"跡 - Tích","x":-616,"y":-57,"width":250,"height":60},
+		{"id":"eef223881692405e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「赤」.canvas","x":-858,"y":-249,"width":114,"height":65},
+		{"id":"2e14635863a67896","type":"text","text":"di tích = 旧跡（きゅうせき）\ndấu vết = 跡","x":459,"y":326,"width":260,"height":98},
+		{"id":"444ca365e6fa3907","type":"text","text":"足跡（そくせき／あしあと）: dấu chân\n旧跡（きゅうせき）: di tích cũ\n跡地（あとち）: khu đất còn lại sau khi bị phá/dỡ\n面影の跡（おもかげのあと）: dấu vết còn lại của hình ảnh","x":-219,"y":171,"width":469,"height":124},
+		{"id":"6761e9fdf41db445","type":"text","text":"筆跡　「ひっせき」：","x":-208,"y":-88,"width":250,"height":60},
+		{"id":"0b66f874903057ab","type":"text","text":"- Chữ viết tay\n- Dấu vết nét bút\n- Chữ viết mang đặc trưng của từng người (handwriting)","x":371,"y":-41,"width":488,"height":112},
+		{"id":"0457e7351335244b","type":"text","text":"Người xưa hình dung:\n\n> Chân (足) đã đi qua → để lại dấu (亦 như phần còn lại / vết sót)","x":-261,"y":424,"width":438,"height":125},
+		{"id":"9d135c8b292d566f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas","x":-433,"y":-349,"width":124,"height":66},
+		{"id":"81eb610bda1beaaf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas","x":-426,"y":-549,"width":111,"height":77},
+		{"id":"cf8ec3daa5a98cc1","type":"text","text":"筆　「ふで」","x":41,"y":-429,"width":250,"height":60},
+		{"id":"3b7d0ad3d01ffe62","type":"text","text":"筆 - Bút","x":-163,"y":-429,"width":160,"height":60},
+		{"id":"7b8db90bdddd7ff2","x":-983,"y":60,"width":182,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"1254c7081a06e025","fromNode":"ba467b5c03f75ec9","fromSide":"right","toNode":"0457e7351335244b","toSide":"left"},
+		{"id":"d9a91f7bd8937483","fromNode":"ba467b5c03f75ec9","fromSide":"right","toNode":"444ca365e6fa3907","toSide":"left"},
+		{"id":"7f4e9f8d6f9ef4a1","fromNode":"ba467b5c03f75ec9","fromSide":"right","toNode":"6761e9fdf41db445","toSide":"left"},
+		{"id":"996e200cb7eb49d0","fromNode":"eef223881692405e","fromSide":"right","toNode":"ba467b5c03f75ec9","toSide":"left","label":"âm đọc"},
+		{"id":"2659ceeab3dc81f6","fromNode":"444ca365e6fa3907","fromSide":"right","toNode":"2e14635863a67896","toSide":"left"},
+		{"id":"299a444e56c41814","fromNode":"6761e9fdf41db445","fromSide":"right","toNode":"0b66f874903057ab","toSide":"left"},
+		{"id":"cd288d9b7c296109","fromNode":"3b7d0ad3d01ffe62","fromSide":"bottom","toNode":"6761e9fdf41db445","toSide":"top"},
+		{"id":"b7daf8b0e6cb96bf","fromNode":"9d135c8b292d566f","fromSide":"right","toNode":"3b7d0ad3d01ffe62","toSide":"left"},
+		{"id":"cf43ca857ef1ef3b","fromNode":"81eb610bda1beaaf","fromSide":"right","toNode":"3b7d0ad3d01ffe62","toSide":"left"},
+		{"id":"37b01fc00b215aaa","fromNode":"3b7d0ad3d01ffe62","fromSide":"right","toNode":"cf8ec3daa5a98cc1","toSide":"left"},
+		{"id":"47695db0bbb046c3","fromNode":"7b8db90bdddd7ff2","fromSide":"right","toNode":"ba467b5c03f75ec9","toSide":"left"}
+	]
+}
