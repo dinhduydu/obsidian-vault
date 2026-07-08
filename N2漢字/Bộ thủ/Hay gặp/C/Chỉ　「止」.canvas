@@ -12,7 +12,7 @@
 		{"id":"0f23f001a7573a61","type":"text","text":"企画　「きかく」：","x":680,"y":75,"width":250,"height":60},
 		{"id":"d19cb411d20248cd","type":"text","text":"企業　「きぎょう」：","x":680,"y":229,"width":250,"height":60},
 		{"id":"00dfc636f80f7d84","type":"text","text":"企 - Xí","x":315,"y":135,"width":250,"height":60},
-		{"id":"8f8cc55eb5c0b378","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「𠆢」.canvas","x":20,"y":229,"width":139,"height":98}
+		{"id":"8f8cc55eb5c0b378","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":20,"y":229,"width":139,"height":98}
 	],
 	"edges":[
 		{"id":"f63b1c03e34413af","fromNode":"428fbddbf815d0b6","fromSide":"right","toNode":"9b0b66ad5694c10a","toSide":"left","label":"dừng lại"},

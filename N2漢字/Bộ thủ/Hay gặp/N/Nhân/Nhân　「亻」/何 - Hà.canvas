@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"76b32b81e9ac1324","type":"text","text":"荷 - Hà","x":139,"y":3,"width":250,"height":60},
+		{"id":"382af22106ec807b","type":"text","text":"荷物　「にもつ」：hành lý","x":514,"y":3,"width":250,"height":60},
+		{"id":"ac57becea5357dee","type":"text","text":"cái gì","x":127,"y":-220,"width":250,"height":60},
+		{"id":"880d0ed838dbe707","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas","x":-201,"y":70,"width":216,"height":151},
+		{"id":"e46ee54bc81a2e18","type":"text","text":"何 - Hà","x":-235,"y":-124,"width":250,"height":60},
+		{"id":"f4061e5275475abf","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas","x":-640,"y":-64,"width":136,"height":134},
+		{"id":"141e760c5bae2656","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-686,"y":-460,"width":182,"height":139},
+		{"id":"b420d653dd6edfb1","type":"text","text":"cái gì, hà cớ","x":480,"y":-351,"width":250,"height":60},
+		{"id":"ee12c6a3507146bc","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/何かも.md","x":940,"y":-720,"width":292,"height":172},
+		{"id":"aeea0a518f9aed46","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/何でも好きな物を頼んでください.md","x":940,"y":-482,"width":344,"height":131},
+		{"id":"ed4417e5372ea222","type":"file","file":"Chữa đề/Learning_Profile/Adverb/何とか.md","x":940,"y":-309,"width":239,"height":178},
+		{"id":"12e80b533bbc84e4","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/何とかしたい.md","x":935,"y":-89,"width":302,"height":185},
+		{"id":"f003a62c37078fdb","type":"file","file":"Chữa đề/Learning_Profile/Adverb/何も.md","x":875,"y":-960,"width":237,"height":102},
+		{"id":"6a9f84e65c76ec95","x":1480,"y":-1180,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/でも何でも.md"}
+	],
+	"edges":[
+		{"id":"8240ff0b3831ffeb","fromNode":"76b32b81e9ac1324","fromSide":"right","toNode":"382af22106ec807b","toSide":"left"},
+		{"id":"d1dde16e621f9268","fromNode":"e46ee54bc81a2e18","fromSide":"right","toNode":"76b32b81e9ac1324","toSide":"left"},
+		{"id":"a71e1f5b765257e2","fromNode":"880d0ed838dbe707","fromSide":"right","toNode":"76b32b81e9ac1324","toSide":"left"},
+		{"id":"99104f8b95e6e17d","fromNode":"e46ee54bc81a2e18","fromSide":"right","toNode":"ac57becea5357dee","toSide":"left"},
+		{"id":"f0106f9807c6c1c6","fromNode":"141e760c5bae2656","fromSide":"right","toNode":"e46ee54bc81a2e18","toSide":"left","label":"tò mò, thắc mắc"},
+		{"id":"2a8644045c8307d6","fromNode":"f4061e5275475abf","fromSide":"right","toNode":"e46ee54bc81a2e18","toSide":"left"},
+		{"id":"1c255d949c072bee","fromNode":"ac57becea5357dee","fromSide":"right","toNode":"b420d653dd6edfb1","toSide":"left"},
+		{"id":"11ae98a561ab56c1","fromNode":"b420d653dd6edfb1","fromSide":"right","toNode":"ee12c6a3507146bc","toSide":"left"},
+		{"id":"0b213c5e4b840966","fromNode":"b420d653dd6edfb1","fromSide":"right","toNode":"aeea0a518f9aed46","toSide":"left"},
+		{"id":"8fb35db79c694831","fromNode":"b420d653dd6edfb1","fromSide":"right","toNode":"ed4417e5372ea222","toSide":"left"},
+		{"id":"2e37a81bd52a6df3","fromNode":"b420d653dd6edfb1","fromSide":"right","toNode":"12e80b533bbc84e4","toSide":"left"},
+		{"id":"b30a7ecb30899e23","fromNode":"b420d653dd6edfb1","fromSide":"right","toNode":"f003a62c37078fdb","toSide":"left"},
+		{"id":"0472fa22fb904d6d","fromNode":"f003a62c37078fdb","fromSide":"right","toNode":"6a9f84e65c76ec95","toSide":"left"}
+	]
+}

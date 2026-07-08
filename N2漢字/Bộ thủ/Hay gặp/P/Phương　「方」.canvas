@@ -8,7 +8,7 @@
 		{"id":"77648f0ca796bf02","type":"text","text":"倣 - Phòng","x":620,"y":160,"width":250,"height":60},
 		{"id":"0a816c8d59d09d02","type":"text","text":"mô phỏng","x":996,"y":176,"width":250,"height":60},
 		{"id":"38c8f5e5f12d66d2","type":"text","text":"放 - Phóng","x":286,"y":80,"width":250,"height":60},
-		{"id":"0645c5be61797e6b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":421,"y":260,"width":91,"height":96}
+		{"id":"0645c5be61797e6b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":421,"y":260,"width":91,"height":96}
 	],
 	"edges":[
 		{"id":"15150b2e78376289","fromNode":"88a73c5215e6f84d","fromSide":"right","toNode":"c413c8d7fdb4372e","toSide":"left"},

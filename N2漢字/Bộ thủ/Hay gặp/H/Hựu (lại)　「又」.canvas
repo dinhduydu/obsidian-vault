@@ -3,7 +3,7 @@
 		{"id":"4066efe1903fabe3","type":"text","text":"Hựu (lại)　「又」","x":-119,"y":-71,"width":250,"height":60},
 		{"id":"f66c4a1f494a2fc9","type":"text","text":"|lại nữa / tay phải|Gợi hành động lặp lại.|\n|---|---|","x":-500,"y":-200,"width":250,"height":60},
 		{"id":"d0335bffa3dd1511","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」.canvas","x":28,"y":-440,"width":103,"height":123},
-		{"id":"ce29b2a05f58dec8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」.canvas","x":280,"y":-378,"width":178,"height":94}
+		{"id":"ce29b2a05f58dec8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":280,"y":-378,"width":178,"height":94}
 	],
 	"edges":[
 		{"id":"f8a594ed75e71035","fromNode":"4066efe1903fabe3","fromSide":"left","toNode":"f66c4a1f494a2fc9","toSide":"right"},

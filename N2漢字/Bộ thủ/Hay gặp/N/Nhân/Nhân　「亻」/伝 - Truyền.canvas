@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"034c40d641bd7c20","type":"text","text":"伝統　「でんとう」：truyền thống","x":59,"y":-115,"width":250,"height":60},
+		{"id":"5de8fb1f7e98c65e","type":"text","text":"伝承　「でんしょう」： truyền thừa","x":78,"y":56,"width":250,"height":60},
+		{"id":"51164a7274bad3ae","type":"text","text":"伝 - Truyền","x":-328,"y":45,"width":250,"height":60},
+		{"id":"416033e401ef83ed","x":-620,"y":-95,"width":170,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"2c8b4402d06988c1","fromNode":"51164a7274bad3ae","fromSide":"right","toNode":"034c40d641bd7c20","toSide":"left"},
+		{"id":"23b9b784d82068d8","fromNode":"51164a7274bad3ae","fromSide":"right","toNode":"5de8fb1f7e98c65e","toSide":"left"},
+		{"id":"0a492fa204352654","fromNode":"416033e401ef83ed","fromSide":"right","toNode":"51164a7274bad3ae","toSide":"left"}
+	]
+}

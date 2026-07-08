@@ -8,7 +8,7 @@
 		{"id":"c85f33d5051af9b8","type":"text","text":"板 - Bản","x":40,"y":-1889,"width":250,"height":60},
 		{"id":"af7aa4e80719a95f","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas","x":-255,"y":-1970,"width":121,"height":101},
 		{"id":"fee11b1329092b5e","type":"text","text":"Mộc　「木」","x":-380,"y":-1660,"width":250,"height":60},
-		{"id":"6032a0dcd4114e12","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」.canvas","x":40,"y":-1560,"width":191,"height":150},
+		{"id":"6032a0dcd4114e12","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」/Bản　「本」.canvas","x":40,"y":-1560,"width":191,"height":150},
 		{"id":"687015c59bae7b5b","type":"text","text":"gốc rễ, cơ bản","x":374,"y":-1560,"width":250,"height":60},
 		{"id":"4d2828487de5bfbd","type":"text","text":"khung gỗ, xà nhà","x":760,"y":458,"width":250,"height":60},
 		{"id":"9d39aba07e399b1c","type":"file","file":"Pasted image 20260526003253.png","x":560,"y":-148,"width":400,"height":313},
@@ -18,7 +18,7 @@
 		{"id":"a4f38a7fba781ae4","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":1140,"y":-2454,"width":250,"height":164},
 		{"id":"dd69bed5d9e8737b","type":"text","text":"槍 - Thương","x":197,"y":220,"width":250,"height":60},
 		{"id":"fadb6a06b4c83aab","type":"text","text":"桟 - Sạn","x":270,"y":458,"width":250,"height":60},
-		{"id":"d2193f43bac0392f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas","x":-280,"y":-1124,"width":150,"height":127},
+		{"id":"d2193f43bac0392f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-280,"y":-1124,"width":150,"height":127},
 		{"id":"720e9eb58f3b742c","type":"text","text":"休 - Hưu","x":40,"y":-1240,"width":250,"height":60},
 		{"id":"c98dad198456b80a","type":"text","text":"### 村（そん／むら）\n\n- Bộ thủ: **木（き）** — bộ Mộc\n- Nghĩa: làng","x":-580,"y":-212,"width":250,"height":186},
 		{"id":"1f1f547a7ac90b28","type":"text","text":"枝 - Chi","x":295,"y":-282,"width":250,"height":60},
@@ -42,7 +42,7 @@
 		{"id":"8f7c93192c6a25d4","x":-333,"y":-2884,"width":278,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas"},
 		{"id":"b694b2a046276d44","x":545,"y":-2723,"width":250,"height":60,"type":"text","text":"保護　「ほご」："},
 		{"id":"36deda090d595681","x":100,"y":-2753,"width":250,"height":60,"type":"text","text":"保 - Bảo"},
-		{"id":"3fd6dc3e5fe63817","x":-180,"y":-2640,"width":144,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas"}
+		{"id":"3fd6dc3e5fe63817","x":-180,"y":-2640,"width":144,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
 	],
 	"edges":[
 		{"id":"fdf7455b2ef2938a","fromNode":"e49a2179021967a8","fromSide":"left","toNode":"c98dad198456b80a","toSide":"right","label":"木"},

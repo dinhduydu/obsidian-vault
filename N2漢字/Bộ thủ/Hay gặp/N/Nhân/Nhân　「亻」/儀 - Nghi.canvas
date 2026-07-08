@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0aba45db5d26e93b","type":"text","text":"礼儀　「れいぎ」： Lễ nghi","x":100,"y":-81,"width":250,"height":60},
+		{"id":"5f3f2c12fffff00a","type":"text","text":"儀 - Nghi","x":-350,"y":21,"width":250,"height":60},
+		{"id":"bf40e2b46d205663","x":-700,"y":-184,"width":191,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"fc87f40e2c9326f7","fromNode":"5f3f2c12fffff00a","fromSide":"right","toNode":"0aba45db5d26e93b","toSide":"left"},
+		{"id":"c669b047e32f6115","fromNode":"bf40e2b46d205663","fromSide":"right","toNode":"5f3f2c12fffff00a","toSide":"left"}
+	]
+}

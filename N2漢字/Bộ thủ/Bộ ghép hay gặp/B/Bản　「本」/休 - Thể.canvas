@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"51f21aaffec1f6c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-458,"y":-82,"width":140,"height":105},
+		{"id":"580f26184498466a","type":"text","text":"休 - Thể","x":-150,"y":23,"width":250,"height":60},
+		{"id":"4bfd7ee5764b94ed","type":"text","text":"休憩　「きゅうけい」：","x":208,"y":23,"width":250,"height":60},
+		{"id":"41ac3d7e6d63fac1","x":-520,"y":180,"width":172,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」/Bản　「本」.canvas"}
+	],
+	"edges":[
+		{"id":"3c22cdc75926e151","fromNode":"51f21aaffec1f6c2","fromSide":"right","toNode":"580f26184498466a","toSide":"left"},
+		{"id":"54f2d1993db7f493","fromNode":"580f26184498466a","fromSide":"right","toNode":"4bfd7ee5764b94ed","toSide":"left"},
+		{"id":"6dd0d3d5a65c680c","fromNode":"41ac3d7e6d63fac1","fromSide":"right","toNode":"580f26184498466a","toSide":"left"}
+	]
+}

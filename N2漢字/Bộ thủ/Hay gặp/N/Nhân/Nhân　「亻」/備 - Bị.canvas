@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ed75bef56ea49dad","type":"text","text":"美品　「びひん」：Trang thiết bị đồ dùng","x":-407,"y":-53,"width":357,"height":60},
+		{"id":"19cc8b953e2ccafb","type":"text","text":"備考　「びこう」：　Ghi chú tham khảo được","x":-406,"y":-182,"width":356,"height":60},
+		{"id":"459b1e4e498fee54","type":"text","text":"động tác cho mũi tên vào giỏ để chuẩn bị đi săn bắn","x":626,"y":-28,"width":250,"height":60},
+		{"id":"c5feb8095b7da70c","type":"file","file":"Pasted image 20260526001933.png","x":90,"y":-95,"width":400,"height":278},
+		{"id":"ecac2307dc60b4a1","type":"text","text":"備える　「そなえる」　chuẩn bị","x":-840,"y":-122,"width":250,"height":60},
+		{"id":"dd16a90712c7bb1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-1700,"y":-300,"width":174,"height":101},
+		{"id":"c1e580ac3c62893f","type":"text","text":"備 - Bị","x":-1320,"y":-152,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3d794636ec2a0924","fromNode":"ecac2307dc60b4a1","fromSide":"right","toNode":"19cc8b953e2ccafb","toSide":"left"},
+		{"id":"c2c8b6e18e20e65d","fromNode":"ecac2307dc60b4a1","fromSide":"right","toNode":"ed75bef56ea49dad","toSide":"left"},
+		{"id":"7439675e6d825e5c","fromNode":"ed75bef56ea49dad","fromSide":"right","toNode":"c5feb8095b7da70c","toSide":"left"},
+		{"id":"97f24588adf9c72c","fromNode":"c5feb8095b7da70c","fromSide":"right","toNode":"459b1e4e498fee54","toSide":"left"},
+		{"id":"515edf5e8a3f8e2d","fromNode":"dd16a90712c7bb1a","fromSide":"right","toNode":"c1e580ac3c62893f","toSide":"left"},
+		{"id":"b94d8f3deae55444","fromNode":"c1e580ac3c62893f","fromSide":"right","toNode":"ecac2307dc60b4a1","toSide":"left"}
+	]
+}

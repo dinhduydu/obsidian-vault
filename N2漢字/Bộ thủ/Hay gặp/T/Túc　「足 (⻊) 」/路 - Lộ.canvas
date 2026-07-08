@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c41fe47cd9fa2941","type":"text","text":"路 - Lộ","x":-184,"y":-49,"width":250,"height":60},
+		{"id":"5f279e7b579c9320","type":"text","text":"岐路　「きろ」：bước ngoặt, ngã rẽ","x":180,"y":-49,"width":250,"height":60},
+		{"id":"1e8db9c3a5272b89","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas","x":-59,"y":-280,"width":170,"height":103}
+	],
+	"edges":[
+		{"id":"ff8ea18e55420638","fromNode":"c41fe47cd9fa2941","fromSide":"right","toNode":"5f279e7b579c9320","toSide":"left"},
+		{"id":"f3edd11c8b0cbc3b","fromNode":"1e8db9c3a5272b89","fromSide":"right","toNode":"5f279e7b579c9320","toSide":"left"}
+	]
+}

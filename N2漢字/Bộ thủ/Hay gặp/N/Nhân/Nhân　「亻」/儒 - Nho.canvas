@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b0ae5f45b5cc7d5b","type":"text","text":"nho giáo","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1d5f028eed87dd4a","type":"text","text":"儒 - Nho","x":-460,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"43f0b139e79a20c3","fromNode":"1d5f028eed87dd4a","fromSide":"right","toNode":"b0ae5f45b5cc7d5b","toSide":"left"}
+	]
+}

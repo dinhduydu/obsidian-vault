@@ -39,7 +39,7 @@
 		{"id":"bb68d69ecdc63029","type":"text","text":"- Mạch máu\n- Mạch đập\n- Dòng chảy liên tục\n- Quan hệ, đầu mối, cơ hội (恋愛脈, 人脈...)","x":691,"y":34,"width":369,"height":126},
 		{"id":"9734519e6342272d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas","x":751,"y":190,"width":87,"height":90},
 		{"id":"47ce926c0573020a","type":"text","text":"肢 - Chi","x":626,"y":-54,"width":250,"height":60},
-		{"id":"602400159dc432b5","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」.canvas","x":381,"y":-105,"width":143,"height":81}
+		{"id":"602400159dc432b5","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":381,"y":-105,"width":143,"height":81}
 	],
 	"edges":[
 		{"id":"f9daa3bb09c31dba","fromNode":"f5d852c45bebaf8b","fromSide":"right","toNode":"97bf7825cc4e0897","toSide":"left"},

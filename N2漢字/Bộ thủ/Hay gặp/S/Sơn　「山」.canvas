@@ -1,13 +1,11 @@
 {
 	"nodes":[
 		{"id":"75e7cfed1ef1420a","type":"text","text":"Sơn　「山」","x":-160,"y":-60,"width":250,"height":60},
-		{"id":"8060eda88679b8f8","type":"text","text":"岐 - Kỹ","x":240,"y":-380,"width":250,"height":60},
-		{"id":"f996fa1a1e144aca","type":"text","text":"岐路　「きろ」：bước ngoặt, ngã rẽ","x":572,"y":-380,"width":250,"height":60},
-		{"id":"0dea882ec0d49b39","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」.canvas","x":-118,"y":-422,"width":167,"height":145}
+		{"id":"0dea882ec0d49b39","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":-118,"y":-422,"width":167,"height":145},
+		{"id":"af3d2d4e0ef0c6c7","x":320,"y":-340,"width":241,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas"}
 	],
 	"edges":[
-		{"id":"824343dddfc6b2ce","fromNode":"8060eda88679b8f8","fromSide":"right","toNode":"f996fa1a1e144aca","toSide":"left"},
-		{"id":"31c08fa71b231b2c","fromNode":"0dea882ec0d49b39","fromSide":"right","toNode":"8060eda88679b8f8","toSide":"left"},
-		{"id":"663384c91c2fc83f","fromNode":"75e7cfed1ef1420a","fromSide":"right","toNode":"8060eda88679b8f8","toSide":"left"}
+		{"id":"31c08fa71b231b2c","fromNode":"0dea882ec0d49b39","fromSide":"right","toNode":"af3d2d4e0ef0c6c7","toSide":"left"},
+		{"id":"663384c91c2fc83f","fromNode":"75e7cfed1ef1420a","fromSide":"right","toNode":"af3d2d4e0ef0c6c7","toSide":"left"}
 	]
 }

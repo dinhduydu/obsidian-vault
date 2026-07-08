@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"22eebf86dd20436d","type":"text","text":"釘 - Đinh","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e01621a169bb2dfd","x":-380,"y":-151,"width":147,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"},
+		{"id":"c119df2a83a75836","x":-373,"y":40,"width":140,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"c344f2ff92404f6e","fromNode":"e01621a169bb2dfd","fromSide":"right","toNode":"22eebf86dd20436d","toSide":"left"},
+		{"id":"0047576a99aedf6c","fromNode":"c119df2a83a75836","fromSide":"right","toNode":"22eebf86dd20436d","toSide":"left"}
+	]
+}

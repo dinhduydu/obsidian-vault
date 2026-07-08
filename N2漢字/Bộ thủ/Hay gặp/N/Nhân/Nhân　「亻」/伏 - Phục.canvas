@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9cbab25ce068393e","type":"text","text":"伏 - Phục","x":-132,"y":-68,"width":250,"height":63},
+		{"id":"3bebc19a5e2a6d27","type":"text","text":"伏せる　「ふせる」：mai phục","x":248,"y":-68,"width":280,"height":63},
+		{"id":"a908be79315e883f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」.canvas","x":-528,"y":41,"width":177,"height":119},
+		{"id":"9c03d338f7400c5d","x":-439,"y":-160,"width":87,"height":60,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"b583992b0e9e40a9","fromNode":"9cbab25ce068393e","fromSide":"right","toNode":"3bebc19a5e2a6d27","toSide":"left"},
+		{"id":"0b6dab4124101f67","fromNode":"9c03d338f7400c5d","fromSide":"right","toNode":"9cbab25ce068393e","toSide":"left"},
+		{"id":"204c5af0cdf0528f","fromNode":"a908be79315e883f","fromSide":"right","toNode":"9cbab25ce068393e","toSide":"left"}
+	]
+}

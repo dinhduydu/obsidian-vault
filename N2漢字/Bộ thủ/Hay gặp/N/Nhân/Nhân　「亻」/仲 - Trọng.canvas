@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7a3cf847b9ef0542","type":"text","text":"仲間　「なかま」：","x":136,"y":50,"width":250,"height":60},
+		{"id":"822487c03dcc99d4","type":"text","text":"仲 - Trọng","x":-186,"y":50,"width":250,"height":60},
+		{"id":"ab9666c620b512cb","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas","x":-386,"y":-110,"width":144,"height":103},
+		{"id":"db54ab7c83ab872e","x":-523,"y":110,"width":209,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"c26e53163316eb82","fromNode":"822487c03dcc99d4","fromSide":"right","toNode":"7a3cf847b9ef0542","toSide":"left"},
+		{"id":"07392ad3fd4949bc","fromNode":"ab9666c620b512cb","fromSide":"right","toNode":"822487c03dcc99d4","toSide":"left"},
+		{"id":"bebf0a35e75a017f","fromNode":"db54ab7c83ab872e","fromSide":"right","toNode":"822487c03dcc99d4","toSide":"left"}
+	]
+}

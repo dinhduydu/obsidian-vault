@@ -12,7 +12,7 @@
 		{"id":"571c7e55492822ea","x":120,"y":420,"width":117,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas"},
 		{"id":"2cf6bafd4012cb3a","x":448,"y":598,"width":250,"height":60,"type":"text","text":"何 - Hà"},
 		{"id":"118ef548d3ef7b20","x":810,"y":502,"width":250,"height":60,"type":"text","text":"cái gì"},
-		{"id":"e8b413a35cc9e402","x":31,"y":740,"width":148,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân　「亻」.canvas"}
+		{"id":"e8b413a35cc9e402","x":31,"y":740,"width":148,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
 	],
 	"edges":[
 		{"id":"4c476e3c60dbb06b","fromNode":"19356b76902038bd","fromSide":"left","toNode":"cbef268559f38d13","toSide":"right"},

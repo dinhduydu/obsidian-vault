@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"726febebc433486f","type":"text","text":"錬 - Luyện","x":-140,"y":-48,"width":250,"height":60},
+		{"id":"c47b208b8148a5cb","type":"text","text":"鍛える　「きたえる」：rèn","x":260,"y":-48,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0f917f371309280e","fromNode":"726febebc433486f","fromSide":"right","toNode":"c47b208b8148a5cb","toSide":"left"}
+	]
+}
