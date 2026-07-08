@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c62d56f6509c4103","type":"text","text":"飲 - Ẩm","x":-153,"y":60,"width":250,"height":60},
+		{"id":"7579452327b37ee3","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas","x":-436,"y":-120,"width":154,"height":120},
+		{"id":"08b28934cce69086","type":"text","text":"飲む　「のむ」：","x":260,"y":-90,"width":250,"height":60},
+		{"id":"da64ac1a1b7caecc","x":-520,"y":200,"width":182,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"}
+	],
+	"edges":[
+		{"id":"75cdbad8ff080459","fromNode":"7579452327b37ee3","fromSide":"right","toNode":"c62d56f6509c4103","toSide":"left"},
+		{"id":"3a9b186c2abb1575","fromNode":"c62d56f6509c4103","fromSide":"right","toNode":"08b28934cce69086","toSide":"left"},
+		{"id":"42582b2e58d5ffbb","fromNode":"da64ac1a1b7caecc","fromSide":"right","toNode":"c62d56f6509c4103","toSide":"left"}
+	]
+}

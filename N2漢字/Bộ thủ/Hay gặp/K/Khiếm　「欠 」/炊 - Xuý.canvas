@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3499583af2f84bdb","type":"text","text":"炊 - Xuý","x":-143,"y":29,"width":250,"height":60},
+		{"id":"f1440a035da9f8fd","type":"text","text":"炊飯器　「すいはんき」：","x":202,"y":27,"width":250,"height":60},
+		{"id":"5e41b089f125d714","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas","x":-451,"y":-89,"width":146,"height":116},
+		{"id":"89433829e8581a38","x":-523,"y":89,"width":218,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"}
+	],
+	"edges":[
+		{"id":"ea0004c8bde22f43","fromNode":"3499583af2f84bdb","fromSide":"right","toNode":"f1440a035da9f8fd","toSide":"left"},
+		{"id":"ff0c4b3646eade87","fromNode":"5e41b089f125d714","fromSide":"right","toNode":"3499583af2f84bdb","toSide":"left"},
+		{"id":"0ce4f5ca14ecf175","fromNode":"89433829e8581a38","fromSide":"right","toNode":"3499583af2f84bdb","toSide":"left"}
+	]
+}

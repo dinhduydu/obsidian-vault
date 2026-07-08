@@ -11,14 +11,34 @@
             "id": "82086f0734ccac10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Collocation/自覚を促す.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas",
+                "viewState": {
+                  "x": 596.6644840570293,
+                  "y": -121.98088103055144,
+                  "zoom": 0.8866609454113772
+                }
               },
-              "icon": "lucide-file",
-              "title": "自覚を促す"
+              "icon": "lucide-layout-dashboard",
+              "title": "Hiệt　「頁 」"
+            }
+          },
+          {
+            "id": "776548a74bda4c6a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas",
+                "viewState": {
+                  "x": -20.560447488166375,
+                  "y": -32.515638563928974,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "顔 - Nhan"
             }
           },
           {
@@ -105,7 +125,8 @@
               "title": "1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "促す",
+                "query": "顔",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +179,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,24 +276,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "776548a74bda4c6a",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/促 - Xúc.canvas",
+    "Chữa đề/Learning_Profile/Vocabulary/顔合わせ.md",
+    "Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week5/28042026/5. Phân Tích N2_BÀI TẬP ĐIỀN SAO (10).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1).md",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas",
+    "Chữa đề/Learning_Profile/Kanji/顔料.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/2. Phân Tích N2_NGÀY 2_ÔN TẬP KANJI (P2).md",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頭 - Thủ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻.canvas",
+    "Chữa đề/Learning_Profile/Adverb/頻繁.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/1. Phân Tích N2_NGÀY 1_ÔN TẬP KANJI (P1).md",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/額 - Ngạch.canvas",
+    "Chữa đề/Learning_Profile/Kenjougo/いただく.md",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頂 - Đính.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/順 - Thuận.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/領 - Lĩnh.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/題 - Đề.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kệ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/追いかける.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/19112025/1. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 2.md",
+    "N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Untitled",
+    "N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」",
+    "Chữa đề/Learning_Profile/Collocation/自覚を促す.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/14062026/4. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 47).md",
-    "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/跡 - Tích.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/距 - Cự.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Untitled.md",
     "Review_2026-06-16.md",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thái　「太」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tự　「自 」.canvas",
     "Untitled 19.base",
-    "Chữa đề/Learning_Profile/Collocation/自覚を促す.md",
-    "N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」.canvas",
     "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/3. Bài test ôn tập 1.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/2. Phân Tích Ngữ Pháp.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG.md",
@@ -285,10 +322,7 @@
     "N2doc/ModelReference/Optimizing_Heisigs_method_for_learning_Japanese_a.pdf",
     "N2doc/ModelReference/2. Kodansha KLC model.md",
     "N2doc/ModelReference/1.1. Hệ thống Tối ưu hóa Phương pháp Học Kanji Heisig.md",
-    "N2doc/ModelReference/3. WaniKani Model.md",
     "Pasted image 20260707003836.png",
-    "N2doc/ModelReference/0. Build up model to learn Kanji.md",
-    "N2doc/ModelReference/1. Heisig Model.md",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",
     "Pasted image 20260707003352.png",
@@ -296,17 +330,6 @@
     "Pasted image 20260707003149.png",
     "N2doc/20_Nichi_Goukaku_N1-Moji.Goi.Bunpou.pdf",
     "N2doc/Bị động sai khiến AI.pdf",
-    "N2doc/Thaolejp_Tong hop ngu phap N3.pdf",
-    "N2doc/Thaolejp_N1,2_Tien to.pdf",
-    "Chữa đề/Learning_Profile/Demonstratives/あんなに.md",
-    "N2doc/ModelReference",
-    "Chữa đề/Learning_Profile/Demonstratives/あの.md",
-    "Chữa đề/Learning_Profile/Demonstratives/ああ.md",
-    "Chữa đề/Learning_Profile/Grammar/〜か.md",
-    "Chữa đề/２０２６年/０２月２０２６年/Week4/28022026/1. Phân Tích PHÓ TỪ_TEST 1.md",
-    "Chữa đề/Learning_Profile/Grammar/～をめぐって.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/1. Phân Tích N2_NGÀY 20_ÔN TẬP NGỮ PHÁP CƠ BẢN.md",
-    "Chữa đề/Learning_Profile/Grammar/〜をめぐって.md",
     "Pasted image 20260704224317.png",
     "Pasted image 20260704130450.png",
     "Pasted image 20260704130403.png",

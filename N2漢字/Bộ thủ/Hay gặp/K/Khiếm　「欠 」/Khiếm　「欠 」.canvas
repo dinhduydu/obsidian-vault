@@ -9,15 +9,12 @@
 		{"id":"516fc9efa5dc2b5c","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」.canvas","x":600,"y":-740,"width":280,"height":220},
 		{"id":"fb377bf21125ec78","type":"text","text":"Khiếm　「欠 」","x":-340,"y":-760,"width":250,"height":60},
 		{"id":"8a5fe69d8c2d9f6b","type":"text","text":"Khiếm　「欠 」","x":600,"y":-1220,"width":250,"height":60},
-		{"id":"46db3c0bf8b38221","x":1060,"y":-1342,"width":250,"height":60,"type":"text","text":"炊 - Xuý"},
-		{"id":"a4ad2fb602421d58","x":1405,"y":-1344,"width":250,"height":60,"type":"text","text":"炊飯器　「すいはんき」："},
 		{"id":"01587d7fc1abbea2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas","x":752,"y":-1460,"width":146,"height":116},
-		{"id":"3acfda617395925b","x":1060,"y":-1140,"width":250,"height":60,"type":"text","text":"吹 - Xuý"},
 		{"id":"30dfac8676da31dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":834,"y":-1009,"width":141,"height":86},
-		{"id":"1ebec5d5010f7b7b","x":1405,"y":-1140,"width":250,"height":60,"type":"text","text":"吹く　「ふく」："},
-		{"id":"5fba36bb456047ec","x":1380,"y":-1560,"width":250,"height":60,"type":"text","text":"飲む　「のむ」："},
-		{"id":"e483148c8273b68f","x":1040,"y":-1560,"width":250,"height":60,"type":"text","text":"飲 - Ẩm"},
-		{"id":"3ac44cb92c9aeee8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas","x":757,"y":-1740,"width":154,"height":120}
+		{"id":"3ac44cb92c9aeee8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」.canvas","x":757,"y":-1740,"width":154,"height":120},
+		{"id":"9b2f5d833d130e7b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/飲 - Ẩm.canvas","x":1080,"y":-1660,"width":127,"height":122},
+		{"id":"de858688afe487a4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/炊 - Xuý.canvas","x":1078,"y":-1379,"width":131,"height":71},
+		{"id":"579bf5f38316a61d","x":1100,"y":-1160,"width":123,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/吹 - Xuý.canvas"}
 	],
 	"edges":[
 		{"id":"5ee81a036e0e4d4a","fromNode":"da5844217ed18fdc","fromSide":"right","toNode":"516fc9efa5dc2b5c","toSide":"left","color":"1"},
@@ -28,13 +25,11 @@
 		{"id":"81bfc2a9b8c3077d","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"8a358cd6146531fc","toSide":"right"},
 		{"id":"f965fc9e7aa927f8","fromNode":"fb377bf21125ec78","fromSide":"left","toNode":"33702b64956ed0d6","toSide":"right"},
 		{"id":"0a16a9fdcfdc258a","fromNode":"fb377bf21125ec78","fromSide":"right","toNode":"8a5fe69d8c2d9f6b","toSide":"left"},
-		{"id":"2dbb5a29017e802d","fromNode":"01587d7fc1abbea2","fromSide":"right","toNode":"46db3c0bf8b38221","toSide":"left"},
-		{"id":"65514beed5f79990","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"46db3c0bf8b38221","toSide":"left"},
-		{"id":"97085587c8632df7","fromNode":"46db3c0bf8b38221","fromSide":"right","toNode":"a4ad2fb602421d58","toSide":"left"},
-		{"id":"f3622ba4c60d08d4","fromNode":"30dfac8676da31dd","fromSide":"right","toNode":"3acfda617395925b","toSide":"left"},
-		{"id":"74ac3b6756d44037","fromNode":"3acfda617395925b","fromSide":"right","toNode":"1ebec5d5010f7b7b","toSide":"left"},
-		{"id":"607c70de3ecc6e6c","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"3acfda617395925b","toSide":"left"},
-		{"id":"a7b7658483b3b802","fromNode":"3ac44cb92c9aeee8","fromSide":"right","toNode":"e483148c8273b68f","toSide":"left"},
-		{"id":"e52a3c1a8a3485ac","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"e483148c8273b68f","toSide":"left"}
+		{"id":"2dbb5a29017e802d","fromNode":"01587d7fc1abbea2","fromSide":"right","toNode":"de858688afe487a4","toSide":"left"},
+		{"id":"65514beed5f79990","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"de858688afe487a4","toSide":"left"},
+		{"id":"f3622ba4c60d08d4","fromNode":"30dfac8676da31dd","fromSide":"right","toNode":"579bf5f38316a61d","toSide":"left"},
+		{"id":"607c70de3ecc6e6c","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"579bf5f38316a61d","toSide":"left"},
+		{"id":"a7b7658483b3b802","fromNode":"3ac44cb92c9aeee8","fromSide":"right","toNode":"9b2f5d833d130e7b","toSide":"left"},
+		{"id":"e52a3c1a8a3485ac","fromNode":"8a5fe69d8c2d9f6b","fromSide":"right","toNode":"9b2f5d833d130e7b","toSide":"left"}
 	]
 }

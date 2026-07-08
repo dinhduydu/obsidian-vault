@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"77eaa3f9441181bd","type":"text","text":"領 - Lĩnh ","x":-331,"y":-35,"width":125,"height":50},
+		{"id":"8025df259cab53ee","type":"text","text":"大統領　「だいとうりょう」：Tổng thống","x":-106,"y":-100,"width":438,"height":60},
+		{"id":"efb3b03f99032d22","type":"text","text":"cổ, lãnh vực","x":-106,"y":40,"width":250,"height":60},
+		{"id":"bbc0645afc2b42cf","x":-580,"y":-195,"width":154,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"5ca54f24c4081cf5","fromNode":"77eaa3f9441181bd","fromSide":"right","toNode":"8025df259cab53ee","toSide":"left"},
+		{"id":"7fbfdb249fb9ab01","fromNode":"77eaa3f9441181bd","fromSide":"right","toNode":"efb3b03f99032d22","toSide":"left"},
+		{"id":"6eefa26843976044","fromNode":"bbc0645afc2b42cf","fromSide":"right","toNode":"77eaa3f9441181bd","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"736cb17f152f2e79","type":"text","text":"頂 - Đính","x":-125,"y":-33,"width":250,"height":60},
+		{"id":"50987e316beb5a52","type":"file","file":"Chữa đề/Learning_Profile/Kenjougo/いただく.md","x":260,"y":-71,"width":300,"height":191},
+		{"id":"451b05c4b01a0ac7","x":-389,"y":-240,"width":141,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"},
+		{"id":"db44b41cc2289540","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」.canvas","x":-371,"y":-3,"width":106,"height":104}
+	],
+	"edges":[
+		{"id":"b6a45752f95f9afa","fromNode":"db44b41cc2289540","fromSide":"right","toNode":"736cb17f152f2e79","toSide":"left"},
+		{"id":"7ceb912ad5b88da9","fromNode":"736cb17f152f2e79","fromSide":"right","toNode":"50987e316beb5a52","toSide":"left"},
+		{"id":"7a29c36ce01545d3","fromNode":"451b05c4b01a0ac7","fromSide":"right","toNode":"736cb17f152f2e79","toSide":"left"}
+	]
+}

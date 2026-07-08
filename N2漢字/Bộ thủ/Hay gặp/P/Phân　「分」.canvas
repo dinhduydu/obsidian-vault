@@ -4,7 +4,7 @@
 		{"id":"2b0eeb39af2c2cbb","type":"text","text":"Phân　「分」","x":-220,"y":0,"width":250,"height":60},
 		{"id":"12e663063a011e31","type":"text","text":"頒 - Ban","x":187,"y":73,"width":250,"height":60},
 		{"id":"d0f2305a2197a04e","type":"text","text":"ban bố, ban hành","x":520,"y":60,"width":250,"height":60},
-		{"id":"8b8ed59b1e447a3d","x":-165,"y":200,"width":195,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」.canvas"}
+		{"id":"8b8ed59b1e447a3d","x":-165,"y":200,"width":195,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
 	],
 	"edges":[
 		{"id":"6c4d2cce04ddbceb","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"2f98f3b3ac4084aa","toSide":"left"},

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"362e1933059576c1","type":"text","text":"客 - Khách","x":-450,"y":-120,"width":130,"height":60},
+		{"id":"8615dbceba50db88","type":"text","text":"- **Trán** (ひたい)\n- **Số tiền, khoản tiền** (金額, 総額...)\n- **Khung tranh, khung ảnh**","x":99,"y":-179,"width":331,"height":118},
+		{"id":"4303bb326fc5b56c","type":"text","text":"額 - Ngạch","x":-209,"y":-1,"width":191,"height":60},
+		{"id":"9474d20b0eb16c76","type":"text","text":"- 額に汗をかく: đổ mồ hôi trên trán\n- 金額（きんがく）: số tiền\n- 総額（そうがく）: tổng số tiền\n- 額縁（がくぶち）: khung tranh","x":122,"y":52,"width":328,"height":127},
+		{"id":"a306e8e9f63a0ef1","x":-565,"y":52,"width":180,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"b402ae62f8172cba","fromNode":"362e1933059576c1","fromSide":"right","toNode":"4303bb326fc5b56c","toSide":"left","label":"biểu âm"},
+		{"id":"117ce0e1f3b322be","fromNode":"4303bb326fc5b56c","fromSide":"right","toNode":"8615dbceba50db88","toSide":"left"},
+		{"id":"2077890fea9292b9","fromNode":"4303bb326fc5b56c","fromSide":"right","toNode":"9474d20b0eb16c76","toSide":"left"},
+		{"id":"c45c1260dd71b371","fromNode":"a306e8e9f63a0ef1","fromSide":"right","toNode":"4303bb326fc5b56c","toSide":"left"}
+	]
+}

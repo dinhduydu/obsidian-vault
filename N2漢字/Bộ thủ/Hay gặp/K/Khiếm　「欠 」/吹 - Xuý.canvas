@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"05011dc963131106","type":"text","text":"吹 - Xuý","x":-184,"y":-108,"width":250,"height":60},
+		{"id":"4de01a4bd7921e24","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-410,"y":23,"width":141,"height":86},
+		{"id":"d980266d36fcb4ae","type":"text","text":"吹く　「ふく」：","x":161,"y":-108,"width":250,"height":60},
+		{"id":"6c69ddd0c24e1152","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/炊 - Xuý.canvas","x":-444,"y":-235,"width":175,"height":127},
+		{"id":"d635fcef1354b393","x":660,"y":-276,"width":275,"height":228,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追いかける.md"}
+	],
+	"edges":[
+		{"id":"f4fc7669de3ae9f8","fromNode":"05011dc963131106","fromSide":"right","toNode":"d980266d36fcb4ae","toSide":"left"},
+		{"id":"de07203837395b9c","fromNode":"4de01a4bd7921e24","fromSide":"right","toNode":"05011dc963131106","toSide":"left"},
+		{"id":"add0727859f5cc8e","fromNode":"6c69ddd0c24e1152","fromSide":"right","toNode":"05011dc963131106","toSide":"left"},
+		{"id":"03843c654e5c9c3a","fromNode":"d980266d36fcb4ae","fromSide":"right","toNode":"d635fcef1354b393","toSide":"left"}
+	]
+}

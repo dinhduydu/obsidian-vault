@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"90efe0087c97f23b","x":-183,"y":-61,"width":250,"height":60,"type":"text","text":"題 - Đề"},
+		{"id":"a6bd34dc94e3e5da","x":-480,"y":-170,"width":166,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"a2e03a27c72b908a","fromNode":"a6bd34dc94e3e5da","fromSide":"right","toNode":"90efe0087c97f23b","toSide":"left"}
+	]
+}
