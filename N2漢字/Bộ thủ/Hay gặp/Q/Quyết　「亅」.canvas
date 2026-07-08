@@ -3,7 +3,7 @@
 		{"id":"d1244521f3ad83a7","type":"text","text":"Quyết　「亅」","x":-208,"y":-29,"width":250,"height":60},
 		{"id":"52a4e53ebe211692","type":"text","text":"|móc|Nét móc dùng trong cấu trúc chữ.|\n|---|---|","x":254,"y":-110,"width":326,"height":81},
 		{"id":"a8d64614dd95acbf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-38,"y":-540,"width":98,"height":104},
-		{"id":"7581e5c26933edcb","x":254,"y":-380,"width":120,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」.canvas"}
+		{"id":"7581e5c26933edcb","x":254,"y":-380,"width":120,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"}
 	],
 	"edges":[
 		{"id":"4e97b7fcdae289ea","fromNode":"d1244521f3ad83a7","fromSide":"right","toNode":"52a4e53ebe211692","toSide":"left"},

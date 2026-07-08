@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52b9c0b88d76fc61","type":"text","text":"頒 - Ban","x":-141,"y":-17,"width":250,"height":60},
+		{"id":"3404386163258f6a","type":"text","text":"ban bố, ban hành","x":192,"y":-30,"width":250,"height":60},
+		{"id":"c828e6b7d66a9994","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」.canvas","x":-440,"y":-180,"width":216,"height":137},
+		{"id":"cad5eb7fbd9fbb88","x":-442,"y":30,"width":220,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"50b7e2d09d067dbe","fromNode":"52b9c0b88d76fc61","fromSide":"right","toNode":"3404386163258f6a","toSide":"left"},
+		{"id":"9332c1bbd696efe6","fromNode":"c828e6b7d66a9994","fromSide":"right","toNode":"52b9c0b88d76fc61","toSide":"left"},
+		{"id":"1e50880e6eb50484","fromNode":"cad5eb7fbd9fbb88","fromSide":"right","toNode":"52b9c0b88d76fc61","toSide":"left"}
+	]
+}
