@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"45f8f043f3bec758","type":"text","text":"遠足　「**えんそく**.」：","x":-377,"y":205,"width":250,"height":60},
+		{"id":"470352353783a6ce","type":"text","text":"妹が友達と**遠足**に出かけるので、お母さんは弁当を用意してやった。","x":-12,"y":211,"width":575,"height":50},
+		{"id":"f9bbd0f1b03c45af","type":"text","text":"→ 遠足 = đi xa bằng chân → chuyến dã ngoại.","x":254,"y":-235,"width":250,"height":60},
+		{"id":"44817af9d70c4607","type":"text","text":"- chuyến đi dã ngoại\n- picnic / school excursion","x":4,"y":-6,"width":250,"height":60},
+		{"id":"1ab5217dfd5d7e4e","type":"text","text":"Thường dùng cho hoạt động trường học:\n\nhọc sinh đi công viên\nsở thú\nbảo tàng\nleo núi nhẹ","x":383,"y":-79,"width":250,"height":206},
+		{"id":"0610e41c727e7268","type":"text","text":"明日は遠足です。\n（あした は えんそく です。）\nNgày mai là buổi dã ngoại.","x":863,"y":-235,"width":280,"height":127},
+		{"id":"3648286aedf0cfc4","type":"text","text":"遠足のおやつ\n（えんそく の おやつ）\nĐồ ăn vặt mang theo khi đi dã ngoại.","x":863,"y":24,"width":250,"height":108},
+		{"id":"24160d5a8a72e688","type":"text","text":"遠 - Viễn","x":-891,"y":-265,"width":250,"height":60},
+		{"id":"1f6e268b68e8478e","x":-1200,"y":-420,"width":167,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/Viên　「袁」.canvas"},
+		{"id":"bc9716aebc892154","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-1282,"y":-120,"width":164,"height":86}
+	],
+	"edges":[
+		{"id":"43429e6dd737dd1a","fromNode":"bc9716aebc892154","fromSide":"right","toNode":"24160d5a8a72e688","toSide":"left","label":"đường xa"},
+		{"id":"a073476d57092366","fromNode":"45f8f043f3bec758","fromSide":"right","toNode":"470352353783a6ce","toSide":"left"},
+		{"id":"c53e7ac57e1d0c83","fromNode":"45f8f043f3bec758","fromSide":"right","toNode":"44817af9d70c4607","toSide":"left"},
+		{"id":"34c5124dbf896614","fromNode":"24160d5a8a72e688","fromSide":"right","toNode":"45f8f043f3bec758","toSide":"left"},
+		{"id":"d30c6b87863f6a66","fromNode":"44817af9d70c4607","fromSide":"top","toNode":"f9bbd0f1b03c45af","toSide":"left"},
+		{"id":"6499d0d8f84b3168","fromNode":"44817af9d70c4607","fromSide":"right","toNode":"1ab5217dfd5d7e4e","toSide":"left"},
+		{"id":"d53ae3971d5cc692","fromNode":"1ab5217dfd5d7e4e","fromSide":"right","toNode":"0610e41c727e7268","toSide":"left"},
+		{"id":"b7c998edc1936606","fromNode":"1ab5217dfd5d7e4e","fromSide":"right","toNode":"3648286aedf0cfc4","toSide":"left"},
+		{"id":"5b535ff91268ef02","fromNode":"1f6e268b68e8478e","fromSide":"right","toNode":"24160d5a8a72e688","toSide":"left"}
+	]
+}

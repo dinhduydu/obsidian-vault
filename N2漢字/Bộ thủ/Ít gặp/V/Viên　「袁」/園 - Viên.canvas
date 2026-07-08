@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9136ca08950683ef","type":"text","text":"園 - Viên","x":-349,"y":-30,"width":250,"height":60},
+		{"id":"a6369f1d544fb45f","type":"text","text":"園芸　「えんげい」：","x":100,"y":-30,"width":250,"height":60},
+		{"id":"e43bea29426630a1","x":-740,"y":-200,"width":176,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/Viên　「袁」.canvas"}
+	],
+	"edges":[
+		{"id":"e7e1747845eb20b4","fromNode":"9136ca08950683ef","fromSide":"right","toNode":"a6369f1d544fb45f","toSide":"left"},
+		{"id":"aebe2f2949199dfb","fromNode":"e43bea29426630a1","fromSide":"right","toNode":"9136ca08950683ef","toSide":"left"}
+	]
+}

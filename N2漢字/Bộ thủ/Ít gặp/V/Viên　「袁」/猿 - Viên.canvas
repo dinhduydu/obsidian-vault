@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c81d5bf076437ee4","type":"text","text":"猿 - Viên","x":-144,"y":30,"width":250,"height":60},
+		{"id":"e2113f28971c26ff","type":"text","text":"con khỉ","x":176,"y":-34,"width":250,"height":60},
+		{"id":"7e0248a890b9ae00","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」.canvas","x":-585,"y":-136,"width":160,"height":166},
+		{"id":"9022be16f518865e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/Viên　「袁」.canvas","x":-520,"y":200,"width":155,"height":180}
+	],
+	"edges":[
+		{"id":"0dfb1c57a65ad69e","fromNode":"7e0248a890b9ae00","fromSide":"right","toNode":"c81d5bf076437ee4","toSide":"left","label":"thú có lông"},
+		{"id":"206290346372666d","fromNode":"c81d5bf076437ee4","fromSide":"right","toNode":"e2113f28971c26ff","toSide":"left"},
+		{"id":"10c31555139c3899","fromNode":"9022be16f518865e","fromSide":"right","toNode":"c81d5bf076437ee4","toSide":"left","label":"âm đọc"}
+	]
+}

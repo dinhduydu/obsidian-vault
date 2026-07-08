@@ -51,7 +51,7 @@
 		{"id":"848beb52b42d95c4","type":"text","text":"通 - Thông","x":-62,"y":560,"width":250,"height":60},
 		{"id":"0112ee0c71df0aef","type":"text","text":"延 - Duyên","x":1,"y":1088,"width":250,"height":60},
 		{"id":"946d7fa380e25d5b","type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào","x":-1306,"y":1046,"width":173,"height":108},
-		{"id":"bf87f78fc76f0c12","x":63,"y":-441,"width":197,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」.canvas"}
+		{"id":"bf87f78fc76f0c12","x":63,"y":-441,"width":197,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/Viên　「袁」.canvas"}
 	],
 	"edges":[
 		{"id":"8bd72771567ff646","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"a55d38a6eef4f248","toSide":"left"},

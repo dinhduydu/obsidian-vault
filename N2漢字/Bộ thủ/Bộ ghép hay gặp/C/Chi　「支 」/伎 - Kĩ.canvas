@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"8b6656902789aa94","type":"text","text":"伎 - Kỹ","x":-143,"y":-126,"width":250,"height":60},
+		{"id":"8b6656902789aa94","type":"text","text":"伎 - Kĩ","x":-143,"y":-126,"width":250,"height":60},
 		{"id":"c10bf6cfb30c39f5","type":"text","text":"歌舞伎","x":187,"y":-126,"width":250,"height":60},
 		{"id":"ebfeebae01966037","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-437,"y":-66,"width":195,"height":192},
-		{"id":"9c268e801b5d99e8","x":-342,"y":-220,"width":100,"height":51,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas"}
+		{"id":"9c268e801b5d99e8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":-342,"y":-220,"width":100,"height":51}
 	],
 	"edges":[
 		{"id":"8dc8db93940229ef","fromNode":"8b6656902789aa94","fromSide":"right","toNode":"c10bf6cfb30c39f5","toSide":"left"},
