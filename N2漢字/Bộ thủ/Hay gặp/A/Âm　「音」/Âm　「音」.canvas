@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"a3f42a408ea6b20e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/意 - Ý.canvas","x":301,"y":240,"width":187,"height":131},
+		{"id":"847086fa0289e9c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-132,"y":335,"width":280,"height":182},
+		{"id":"0017453b3cec03ce","type":"text","text":"音 - Âm","x":-840,"y":-160,"width":250,"height":60},
+		{"id":"7232694749d17a2a","type":"text","text":"音楽　「おんがく」：","x":-1560,"y":-280,"width":250,"height":60},
+		{"id":"1c2aca42b9c98418","type":"text","text":"Âm　「音」","x":-160,"y":30,"width":250,"height":60},
+		{"id":"a7a7d1381e38f69c","x":297,"y":-260,"width":181,"height":70,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/暗 - Ám.canvas"},
+		{"id":"b90997bdc53f2155","x":-96,"y":-400,"width":122,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"1d6f230d04ca4c89","fromNode":"1c2aca42b9c98418","fromSide":"left","toNode":"0017453b3cec03ce","toSide":"right"},
+		{"id":"76fb4a508cff215d","fromNode":"0017453b3cec03ce","fromSide":"left","toNode":"7232694749d17a2a","toSide":"right"},
+		{"id":"ba727e3bfe27ffbd","fromNode":"1c2aca42b9c98418","fromSide":"right","toNode":"a7a7d1381e38f69c","toSide":"left"},
+		{"id":"a24c432422f62920","fromNode":"847086fa0289e9c2","fromSide":"right","toNode":"a3f42a408ea6b20e","toSide":"left"},
+		{"id":"d311c2c3ed84fc3e","fromNode":"1c2aca42b9c98418","fromSide":"right","toNode":"a3f42a408ea6b20e","toSide":"left"},
+		{"id":"674d67860ad2b2ac","fromNode":"b90997bdc53f2155","fromSide":"right","toNode":"a7a7d1381e38f69c","toSide":"left"}
+	]
+}

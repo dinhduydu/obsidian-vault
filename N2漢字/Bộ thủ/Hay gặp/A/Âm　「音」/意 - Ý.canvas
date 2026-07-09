@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b4224c9def3a1061","type":"text","text":"意 - Ý","x":-174,"y":-54,"width":250,"height":60},
+		{"id":"6d8b67d0b924335d","type":"text","text":"憶 - Ức","x":275,"y":-84,"width":250,"height":60},
+		{"id":"218bdde242e4004e","type":"text","text":"記憶","x":655,"y":-84,"width":250,"height":60},
+		{"id":"4b98c7a078c98e32","type":"text","text":"億 - Ức","x":260,"y":38,"width":250,"height":60},
+		{"id":"773a9f625dab6114","type":"text","text":"億　「おく」：","x":645,"y":26,"width":250,"height":60},
+		{"id":"2dd08304c493cba6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas","x":-20,"y":-180,"width":125,"height":81},
+		{"id":"95065885fd0c5821","x":-116,"y":160,"width":193,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"a8475ab6317eaf1b","x":-420,"y":-139,"width":141,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas"},
+		{"id":"68050aace7284b6f","x":-460,"y":38,"width":168,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"118ad1b8102163a4","fromNode":"6d8b67d0b924335d","fromSide":"right","toNode":"218bdde242e4004e","toSide":"left"},
+		{"id":"7ae8dacfd93ee547","fromNode":"4b98c7a078c98e32","fromSide":"right","toNode":"773a9f625dab6114","toSide":"left"},
+		{"id":"66a43dd43f785935","fromNode":"b4224c9def3a1061","fromSide":"right","toNode":"6d8b67d0b924335d","toSide":"left"},
+		{"id":"14ba71859483a047","fromNode":"b4224c9def3a1061","fromSide":"right","toNode":"4b98c7a078c98e32","toSide":"left"},
+		{"id":"d58f5f34b04a9ba6","fromNode":"2dd08304c493cba6","fromSide":"right","toNode":"6d8b67d0b924335d","toSide":"left"},
+		{"id":"15feca485ce06a54","fromNode":"95065885fd0c5821","fromSide":"right","toNode":"4b98c7a078c98e32","toSide":"left"},
+		{"id":"a014bfe307f44d3b","fromNode":"a8475ab6317eaf1b","fromSide":"right","toNode":"b4224c9def3a1061","toSide":"left"},
+		{"id":"e6231a554ed3ff50","fromNode":"68050aace7284b6f","fromSide":"right","toNode":"b4224c9def3a1061","toSide":"left"}
+	]
+}

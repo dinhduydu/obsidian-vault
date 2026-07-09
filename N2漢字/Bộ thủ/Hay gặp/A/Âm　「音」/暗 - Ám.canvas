@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ff92acbe69b76cbc","type":"text","text":"暗 - Ám","x":-140,"y":-100,"width":250,"height":60},
+		{"id":"e23c78691c5b72c4","type":"text","text":"暗い　「くらい」：","x":200,"y":-200,"width":250,"height":60},
+		{"id":"a673448788131219","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas","x":-360,"y":-70,"width":129,"height":83},
+		{"id":"d898fc951e57a08f","x":-360,"y":-306,"width":130,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"148752735593f7af","fromNode":"ff92acbe69b76cbc","fromSide":"right","toNode":"e23c78691c5b72c4","toSide":"left"},
+		{"id":"d2dc3ec116e672d0","fromNode":"a673448788131219","fromSide":"right","toNode":"ff92acbe69b76cbc","toSide":"left"},
+		{"id":"b0b82696a8f8a784","fromNode":"d898fc951e57a08f","fromSide":"right","toNode":"ff92acbe69b76cbc","toSide":"left"}
+	]
+}

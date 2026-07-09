@@ -6,18 +6,19 @@
 		{"id":"9ad1e3202b4f7815","type":"text","text":"曜 - Diệu","x":303,"y":200,"width":250,"height":60},
 		{"id":"4a3e541f26348b3e","type":"text","text":"昨 - Tạc","x":303,"y":340,"width":250,"height":60},
 		{"id":"018437dedf2ce2c3","type":"text","text":"明 - Minh","x":303,"y":-360,"width":250,"height":60},
-		{"id":"730299385ea2d2c2","type":"text","text":"暗 - Ám","x":303,"y":-220,"width":250,"height":60},
 		{"id":"6e7555fc8c7e5ccc","type":"text","text":"Nhật　「日」","x":-145,"y":981,"width":250,"height":60},
 		{"id":"59c810bacf2855c5","type":"text","text":"書 - Thư","x":220,"y":-595,"width":250,"height":60},
 		{"id":"444a38e0ac1a7f64","type":"text","text":"図書館","x":580,"y":-595,"width":250,"height":60},
 		{"id":"d1dc523a2392a32a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/暴 - Bạo, Bộc.canvas","x":359,"y":760,"width":194,"height":115},
 		{"id":"8f7c2be45229d36b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/昇 - Thăng.canvas","x":380,"y":981,"width":236,"height":137},
 		{"id":"d35a5b84e21038fe","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/景 - Cảnh.canvas","x":240,"y":1340,"width":200,"height":131},
-		{"id":"3b6e88b5c510993a","x":232,"y":-780,"width":143,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/着 - Trước.canvas"}
+		{"id":"3b6e88b5c510993a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/着 - Trước.canvas","x":232,"y":-780,"width":143,"height":100},
+		{"id":"e9a83831716ebb90","x":420,"y":-220,"width":110,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/暗 - Ám.canvas"},
+		{"id":"922cb775d061218d","x":259,"y":-272,"width":89,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas"}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"018437dedf2ce2c3","toSide":"left","label":"明 - Minh"},
-		{"id":"c51ca715676583e0","fromNode":"631257b411dd2604","fromSide":"right","toNode":"730299385ea2d2c2","toSide":"left","label":"暗 - Ám"},
+		{"id":"c51ca715676583e0","fromNode":"631257b411dd2604","fromSide":"right","toNode":"e9a83831716ebb90","toSide":"left","label":"暗 - Ám"},
 		{"id":"fcc0ee550dd204aa","fromNode":"631257b411dd2604","fromSide":"right","toNode":"e06a9c39295255f5","toSide":"left","label":"映 - Ảnh"},
 		{"id":"8edd201aa1afbacf","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9a38615f1a9e215e","toSide":"left","label":"晩 - Vãn"},
 		{"id":"3a8f01448d007fe5","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9ad1e3202b4f7815","toSide":"left","label":"曜 - Diệu"},
@@ -28,6 +29,7 @@
 		{"id":"48864cdceccc76a8","fromNode":"631257b411dd2604","fromSide":"right","toNode":"59c810bacf2855c5","toSide":"left"},
 		{"id":"3f1831808e1921e9","fromNode":"59c810bacf2855c5","fromSide":"right","toNode":"444a38e0ac1a7f64","toSide":"left"},
 		{"id":"700bde14d08902bd","fromNode":"631257b411dd2604","fromSide":"top","toNode":"3b6e88b5c510993a","toSide":"left"},
-		{"id":"c84bb74de654f9a4","fromNode":"6e7555fc8c7e5ccc","fromSide":"right","toNode":"8f7c2be45229d36b","toSide":"left"}
+		{"id":"c84bb74de654f9a4","fromNode":"6e7555fc8c7e5ccc","fromSide":"right","toNode":"8f7c2be45229d36b","toSide":"left"},
+		{"id":"3caeba575cbd8e1f","fromNode":"922cb775d061218d","fromSide":"right","toNode":"e9a83831716ebb90","toSide":"left"}
 	]
 }
