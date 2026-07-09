@@ -15,7 +15,7 @@
 		{"id":"11759142ce67b867","type":"file","file":"Pasted image 20260525002223.png","x":-680,"y":1614,"width":535,"height":466},
 		{"id":"1333cb312bdb6b6f","type":"file","file":"N2語彙/ひらがな/きっかけ.canvas","x":1480,"y":620,"width":223,"height":161},
 		{"id":"q29","type":"text","text":"29．きっかけ\n\n= cơ hội mở đầu / nguyên nhân khởi đầu\n\n正解：2\n\n友人に写真をほめられたのがきっかけで...\n= được khen ảnh nên bắt đầu học nghiêm túc","x":20,"y":520,"width":500,"height":320},
-		{"id":"1a59d44f1790d16a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」.canvas","x":1296,"y":200,"width":184,"height":121}
+		{"id":"1a59d44f1790d16a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas","x":1296,"y":200,"width":184,"height":121}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"q28","fromSide":"right","toNode":"q28-wrong","toSide":"left"},

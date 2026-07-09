@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"988c96ec5f029828","type":"group","x":202,"y":48,"width":840,"height":440,"label":"込む"},
+		{"id":"a0e556520094ca45","type":"text","text":"試験に落ちて**落ち込んで**いる。\n→ Trượt kỳ thi nên đang rất suy sụp.\nそんなに**落ち込**まないで。\n→ Đừng buồn như vậy.\nミスしてかなり**落ち込ん**だ。\n→ Vì mắc lỗi nên tôi đã down tinh thần khá nhiều.\n\n\n","x":-1303,"y":-32,"width":651,"height":180},
+		{"id":"6d3d9d2352527517","type":"text","text":"Phân biệt\n悲しい: buồn nói chung\n落ち込む: tinh thần tụt xuống sau một chuyện gì đó\nへこむ: slang, kiểu “tụt mood”, “quê”, “xìu”","x":-1090,"y":-412,"width":486,"height":115},
+		{"id":"ef82be61f05c8ea9","type":"text","text":"彼にひどいことを言われてへこんだ。\n→ Bị nói nặng nên tụt mood luôn.","x":-1043,"y":-181,"width":359,"height":80},
+		{"id":"82cbb3a8a7485c99","type":"text","text":"落ち込む　「おちこむ」","x":-143,"y":-57,"width":250,"height":60},
+		{"id":"2580bbb42e2849fe","type":"text","text":"放り込む\nほうりこむ\nNém / quăng / nhét vào (một cách mạnh tay, không để ý nhiều)","x":273,"y":-192,"width":299,"height":165},
+		{"id":"744a861a48d23ff8","type":"text","text":"持ち込む\nもちこむ\nMang vào","x":697,"y":-118,"width":250,"height":91},
+		{"id":"75c4259e749318a7","type":"file","file":"N2文法/複合動詞/image/Pasted image 20260406000616.png","x":222,"y":68,"width":400,"height":400},
+		{"id":"081eca51f473b66a","type":"file","file":"N2文法/複合動詞/image/Pasted image 20260406000627.png","x":622,"y":68,"width":400,"height":400},
+		{"id":"2273139d1ea6416c","type":"text","text":"折り込み\nおりこみ\nLồng vào, thêm vào, chèn vào","x":-163,"y":248,"width":260,"height":118},
+		{"id":"76d5336b576fc18a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas","x":-903,"y":448,"width":193,"height":97},
+		{"id":"85d0b2e9c4d0fc92","type":"text","text":"\n\n落ちる = rơi xuống\n込む = đi sâu vào\n\n→ cảm xúc “rơi xuống sâu”.","x":-563,"y":110,"width":250,"height":125},
+		{"id":"2533f4be64857d1c","type":"text","text":"落ち込む:\n\nbuồn chán\nsuy sụp tinh thần\nthất vọng\ntụt mood","x":-523,"y":-226,"width":250,"height":169},
+		{"id":"4da38ebeed49180b","type":"text","text":"込む","x":720,"y":-544,"width":250,"height":60},
+		{"id":"f930cbf315ee716b","type":"text","text":"込む = đi sâu vào","x":197,"y":-544,"width":250,"height":60},
+		{"id":"a948c48c9df642cd","type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào","x":1131,"y":214,"width":173,"height":108},
+		{"id":"e30ed266cf881b04","x":1022,"y":-740,"width":213,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"39ef686a94c4c245","fromNode":"4da38ebeed49180b","fromSide":"bottom","toNode":"988c96ec5f029828","toSide":"top"},
+		{"id":"1118078a6b3b2d35","fromNode":"2533f4be64857d1c","fromSide":"left","toNode":"a0e556520094ca45","toSide":"right"},
+		{"id":"d46f0f728e9f673b","fromNode":"2533f4be64857d1c","fromSide":"left","toNode":"6d3d9d2352527517","toSide":"right"},
+		{"id":"97ad7f6319da7988","fromNode":"2533f4be64857d1c","fromSide":"left","toNode":"ef82be61f05c8ea9","toSide":"right"},
+		{"id":"761c5a3ece349493","fromNode":"85d0b2e9c4d0fc92","fromSide":"left","toNode":"76d5336b576fc18a","toSide":"right"},
+		{"id":"e6cf017488092761","fromNode":"82cbb3a8a7485c99","fromSide":"left","toNode":"85d0b2e9c4d0fc92","toSide":"right","label":"Nghĩa gốc:"},
+		{"id":"dc90ada7a372975d","fromNode":"82cbb3a8a7485c99","fromSide":"left","toNode":"2533f4be64857d1c","toSide":"right"},
+		{"id":"c141fa36d4e02e49","fromNode":"75c4259e749318a7","fromSide":"left","toNode":"82cbb3a8a7485c99","toSide":"right"},
+		{"id":"1273558d3f4244ae","fromNode":"4da38ebeed49180b","fromSide":"left","toNode":"f930cbf315ee716b","toSide":"right"},
+		{"id":"01557afacd89a99c","fromNode":"75c4259e749318a7","fromSide":"top","toNode":"2580bbb42e2849fe","toSide":"bottom"},
+		{"id":"e7f539c32946bd74","fromNode":"081eca51f473b66a","fromSide":"top","toNode":"744a861a48d23ff8","toSide":"bottom"},
+		{"id":"b928828ddc00e4da","fromNode":"75c4259e749318a7","fromSide":"left","toNode":"2273139d1ea6416c","toSide":"right"},
+		{"id":"60832d3c96dd93ee","fromNode":"081eca51f473b66a","fromSide":"right","toNode":"a948c48c9df642cd","toSide":"left"},
+		{"id":"c133a37631e1811d","fromNode":"e30ed266cf881b04","fromSide":"left","toNode":"4da38ebeed49180b","toSide":"top"}
+	]
+}

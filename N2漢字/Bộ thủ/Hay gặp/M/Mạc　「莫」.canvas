@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0043040a0145fb0c","type":"text","text":"Mạc　「莫」","x":-160,"y":-68,"width":250,"height":60},
-		{"id":"11c0916140d3679b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas","x":-1520,"y":-36,"width":238,"height":119},
+		{"id":"11c0916140d3679b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-1520,"y":-36,"width":238,"height":119},
 		{"id":"b80624d4226b373d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」.canvas","x":-1459,"y":336,"width":196,"height":128},
 		{"id":"a52a5db558921028","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」.canvas","x":-1341,"y":-159,"width":113,"height":80},
 		{"id":"37dcdfd8f02b868e","type":"text","text":"Mặt trời lặn xuống giữa cỏ cây → trời tối → nghĩa “không”, “chớ”, “mờ tối”.","x":-1081,"y":-79,"width":328,"height":85},
@@ -18,7 +18,7 @@
 		{"id":"76731498fc298453","type":"text","text":"mặt trời lặn","x":-41,"y":-800,"width":250,"height":60},
 		{"id":"c5acb4e188fbc2c8","type":"text","text":"暮（く・らす / ぼ）: sống, chiều tối","x":130,"y":-722,"width":316,"height":50},
 		{"id":"64214793dc579244","type":"text","text":"Ví dụ: 暮らす - sinh sống","x":90,"y":-602,"width":265,"height":88},
-		{"id":"74408e497633a35a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas","x":-821,"y":-818,"width":137,"height":121},
+		{"id":"74408e497633a35a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-821,"y":-818,"width":137,"height":121},
 		{"id":"b281ab6e97248927","type":"text","text":"膜（まく）: màng","x":864,"y":80,"width":250,"height":60},
 		{"id":"aa472e5b11731fe8","type":"text","text":"膜 - Mô/Mạc","x":476,"y":20,"width":250,"height":60},
 		{"id":"84c4cf65ed1b0cee","type":"text","text":"募 - Mộ","x":-498,"y":648,"width":250,"height":60},

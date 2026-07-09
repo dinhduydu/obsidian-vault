@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56eef5502ec51515","type":"text","text":"着 - Trước","x":-432,"y":-30,"width":250,"height":60},
+		{"id":"81fa4fcbfa83c32f","type":"text","text":"着る\n├─ かぶる\n│   ├─ 帽子\n│   └─ ヘルメット\n│\n├─ かける\n│   ├─ メガネ\n│   └─ マスク\n│\n├─ はく\n│   ├─ 靴\n│   └─ ズボン\n│\n└─ する\n    ├─ 手袋\n    └─ マフラー","x":53,"y":-225,"width":379,"height":450},
+		{"id":"17b88e44f9fc6be6","x":-800,"y":-127,"width":186,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"dce7784e54ab4921","fromNode":"56eef5502ec51515","fromSide":"right","toNode":"81fa4fcbfa83c32f","toSide":"left"},
+		{"id":"bb958f1dff868f25","fromNode":"17b88e44f9fc6be6","fromSide":"right","toNode":"56eef5502ec51515","toSide":"left"}
+	]
+}

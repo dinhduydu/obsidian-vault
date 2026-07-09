@@ -7,7 +7,7 @@
 		{"id":"e21c5d568bc1466e","type":"text","text":"送 - Tống","x":280,"y":80,"width":250,"height":60},
 		{"id":"4e6d2db9edf244da","type":"text","text":"人生を送る","x":936,"y":80,"width":250,"height":60},
 		{"id":"28195a0357c09bfd","type":"text","text":"sống cuộc đời","x":1452,"y":80,"width":250,"height":60},
-		{"id":"c6f3db4ef8c4516c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-40,"y":140,"width":160,"height":150}
+		{"id":"c6f3db4ef8c4516c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-40,"y":140,"width":160,"height":150}
 	],
 	"edges":[
 		{"id":"acf7b16abbc3c0ea","fromNode":"d96ea6c4c2b2d8bc","fromSide":"right","toNode":"9d29900704a6391d","toSide":"left","label":"to lớn"},

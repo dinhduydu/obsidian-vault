@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f5ab9c909bd1f69b","type":"text","text":"昇 - Thăng","x":-201,"y":-55,"width":250,"height":60},
+		{"id":"3d6b42debbe94bc1","type":"text","text":"昇る　「のぼる」: Thăng","x":105,"y":-85,"width":250,"height":60},
+		{"id":"4d40a03afeffc048","type":"file","file":"Pasted image 20260526004417.png","x":561,"y":-281,"width":169,"height":154},
+		{"id":"2277532930ca22b6","type":"text","text":"昇華する　「しょうかする」：","x":1209,"y":-295,"width":250,"height":60},
+		{"id":"2c8985759463ff38","type":"text","text":"昇進　「しょうしん」：","x":1219,"y":-162,"width":250,"height":60},
+		{"id":"beece8f2e3412c32","type":"text","text":"dùng cốc đựng gạo để múc nước lên, xúc gì đó lên","x":860,"y":5,"width":250,"height":60},
+		{"id":"e28223d86f9a0d69","x":-520,"y":-162,"width":202,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/升 - Thăng.canvas"},
+		{"id":"3514f806632b3642","x":-488,"y":65,"width":170,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"3656082496addad9","fromNode":"3d6b42debbe94bc1","fromSide":"right","toNode":"4d40a03afeffc048","toSide":"left"},
+		{"id":"f6b00102d57d135d","fromNode":"4d40a03afeffc048","fromSide":"bottom","toNode":"beece8f2e3412c32","toSide":"top"},
+		{"id":"c600519d6943754e","fromNode":"4d40a03afeffc048","fromSide":"right","toNode":"2277532930ca22b6","toSide":"left"},
+		{"id":"f09b19b001b67e91","fromNode":"4d40a03afeffc048","fromSide":"right","toNode":"2c8985759463ff38","toSide":"left"},
+		{"id":"7bf3738d0d6d4687","fromNode":"f5ab9c909bd1f69b","fromSide":"right","toNode":"3d6b42debbe94bc1","toSide":"left"},
+		{"id":"a3dbd0ec6bc9cc87","fromNode":"e28223d86f9a0d69","fromSide":"right","toNode":"f5ab9c909bd1f69b","toSide":"left"},
+		{"id":"f6ee07fed2d4206d","fromNode":"3514f806632b3642","fromSide":"right","toNode":"f5ab9c909bd1f69b","toSide":"left"}
+	]
+}

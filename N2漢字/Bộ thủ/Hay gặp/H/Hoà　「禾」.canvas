@@ -19,7 +19,7 @@
 		{"id":"04e1b0167c92bdb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả　「火」.canvas","x":-220,"y":1390,"width":213,"height":184},
 		{"id":"0b038bf9961092e9","type":"text","text":"愁 - Sầu","x":640,"y":1452,"width":250,"height":60},
 		{"id":"c2360dda6e7f228e","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":1080,"y":1452,"width":250,"height":60},
-		{"id":"0d7df1ebe127b904","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm　「心」.canvas","x":210,"y":1620,"width":233,"height":140}
+		{"id":"0d7df1ebe127b904","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":210,"y":1620,"width":233,"height":140}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"e603542cb333ba08","toSide":"left"},

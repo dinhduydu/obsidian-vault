@@ -15,7 +15,7 @@
 		{"id":"a64a3953b169672e","type":"text","text":"現役　「げんえき」：","x":668,"y":-980,"width":250,"height":60},
 		{"id":"a90cfb7d8249587c","type":"text","text":"- Đang còn hoạt động\n- Đang tại chức\n- Đang thi đấu/làm việc chính thức\n- Chưa nghỉ hưu, chưa giải nghệ","x":1091,"y":-1094,"width":334,"height":144},
 		{"id":"04570e5cf05d4ec8","type":"text","text":"- 現役の選手  \n    (Vận động viên còn thi đấu)\n- 現役の医師  \n    (Bác sĩ đang hành nghề)\n- 現役を引退する  \n    (Giải nghệ/nghỉ công tác)","x":1091,"y":-940,"width":443,"height":180},
-		{"id":"cf809e9e94db73f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas","x":2060,"y":-60,"width":400,"height":400}
+		{"id":"cf809e9e94db73f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":2060,"y":-60,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"0de4b11583b87189","fromNode":"3b471df96980326e","fromSide":"right","toNode":"e838d229165064a9","toSide":"left"},

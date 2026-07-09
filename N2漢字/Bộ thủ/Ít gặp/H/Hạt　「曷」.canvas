@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"bd4cc32da3719dfc","type":"text","text":"Hạt　「曷」","x":-107,"y":-17,"width":167,"height":60},
-		{"id":"d1d5f2c55bceeb98","x":-340,"y":-160,"width":135,"height":84,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」.canvas"},
+		{"id":"d1d5f2c55bceeb98","x":-340,"y":-160,"width":135,"height":84,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
 		{"id":"1e54310ce5f9013d","x":-387,"y":120,"width":115,"height":50,"type":"text","text":"匃"},
 		{"id":"d0952894d614268b","x":180,"y":-144,"width":250,"height":60,"type":"text","text":"曷 - Hạt"},
 		{"id":"9d19bf46aedf568d","x":540,"y":-340,"width":250,"height":60,"type":"text","text":"曷為（なんすれぞ）"}

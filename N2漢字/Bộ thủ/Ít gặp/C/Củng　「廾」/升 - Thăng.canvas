@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c8ef131a07a435e3","type":"text","text":"升 - Thăng","x":-315,"y":-30,"width":250,"height":60},
+		{"id":"d264e5da4b470b97","type":"text","text":"一升　「いっしょう」： 1 thăng","x":65,"y":-30,"width":250,"height":60},
+		{"id":"8bc8947c632d2a9b","x":65,"y":-240,"width":191,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/昇 - Thăng.canvas"},
+		{"id":"328bdd2f1c623b86","x":-251,"y":-380,"width":123,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"eac157af5ad7506b","fromNode":"c8ef131a07a435e3","fromSide":"right","toNode":"d264e5da4b470b97","toSide":"left"},
+		{"id":"0e2a9593ebbf6bb7","fromNode":"c8ef131a07a435e3","fromSide":"right","toNode":"8bc8947c632d2a9b","toSide":"left"},
+		{"id":"2cd8383c8f775610","fromNode":"328bdd2f1c623b86","fromSide":"right","toNode":"8bc8947c632d2a9b","toSide":"left"}
+	]
+}

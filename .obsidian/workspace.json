@@ -98,15 +98,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/S/Sước「廴」「辵 (⻌⻍) 」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas",
                 "viewState": {
-                  "x": -2354.373212558229,
-                  "y": 929.6655299736102,
-                  "zoom": -0.7571922491352567
+                  "x": 332.8426350659386,
+                  "y": 64.14386973789578,
+                  "zoom": 0.6316686275845143
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Sước「廴」「辵 (⻌⻍) 」"
+              "title": "Tài　「才」"
+            }
+          },
+          {
+            "id": "3636f90824f33ab9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas",
+                "viewState": {
+                  "x": 595.5,
+                  "y": -207,
+                  "zoom": -0.12840131664268278
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tâm　「心」"
             }
           },
           {
@@ -194,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -343,19 +360,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "624547dc2a2f5315",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/Viên　「袁」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/遠 - Viễn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/V/Vạn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/猿 - Viên.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/園 - Viên.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tâm",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/財 - Tài.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/材 - Tài.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/咲 - Tiếu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/关 - Tống.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/Bát　「丷」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/送 - Tống.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「癶 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/込む.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」",
+    "N2漢字/Bộ thủ/Ít gặp/B/Biện　「弁」",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」",
     "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/伎 - Kĩ.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/技 - Kĩ.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/何 - Hà.canvas",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/2. Phân Tích Trợ từ chỉ mục đích, thời gian, liệt kê, và các cấu trúc nhấn mạnh như こそ, さえ.md",
     "Chữa đề/Learning_Profile/FixedExpression/何かも.md",
@@ -366,16 +390,9 @@
     "Chữa đề/２０２６年/０５月２０２６年/Week4/22052026/1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGẮN_BÀI 32.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/5. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 2.md",
     "Chữa đề/２０２６年/０４月２０２６年/Week5/29042026/5. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (3).md",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bách　「百」/宿 - Túc",
     "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/2. Phân Tích N2_BÀI TẬP 1.2.md",
     "Chữa đề/Learning_Profile/Adverb/ひょっこり.md",
     "Chữa đề/Learning_Profile/Vocabulary/煩悩.md",

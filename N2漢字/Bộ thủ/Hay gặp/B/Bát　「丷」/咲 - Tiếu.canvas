@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9bd82aca6d1db598","x":-89,"y":-15,"width":250,"height":60,"type":"text","text":"咲 - Tiếu"},
+		{"id":"df102351bf313027","x":-380,"y":-101,"width":104,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/关 - Tống.canvas"},
+		{"id":"b002697457862ecf","x":-406,"y":45,"width":130,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a24b8c176c32c3f0","fromNode":"df102351bf313027","fromSide":"right","toNode":"9bd82aca6d1db598","toSide":"left"},
+		{"id":"a205f434144509ee","fromNode":"b002697457862ecf","fromSide":"right","toNode":"9bd82aca6d1db598","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6b11a1ec323e216f","type":"text","text":"景 - Cảnh","x":13,"y":-194,"width":250,"height":60},
+		{"id":"ba0a6fe3f83932cc","x":-280,"y":-360,"width":120,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"f1bfb82a8ef17c12","type":"text","text":"gồm bộ Nhật và Kinh, chữ Kinh chỉ toà nhà trên núi và quang cảnh tuyệt đẹp","x":-720,"y":-78,"width":248,"height":91},
+		{"id":"be267e17344f9156","type":"file","file":"Pasted image 20260526001423.png","x":-280,"y":60,"width":400,"height":198}
+	],
+	"edges":[
+		{"id":"95b64225d661cd46","fromNode":"6b11a1ec323e216f","fromSide":"left","toNode":"f1bfb82a8ef17c12","toSide":"top","label":"景 - Cảnh"},
+		{"id":"2c6a17bbf33918e0","fromNode":"6b11a1ec323e216f","fromSide":"bottom","toNode":"be267e17344f9156","toSide":"top","label":"景 - Cảnh"},
+		{"id":"a7731fb4792df869","fromNode":"ba0a6fe3f83932cc","fromSide":"right","toNode":"6b11a1ec323e216f","toSide":"left"}
+	]
+}
