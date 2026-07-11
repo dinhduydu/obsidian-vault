@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c79782333251d27b","type":"text","text":"Dã　「也」","x":-137,"y":-51,"width":250,"height":60},
+		{"id":"2a901cc818cd3730","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/施 - Thi.canvas","x":260,"y":-160,"width":91,"height":89},
+		{"id":"28a8bc872ee01d03","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas","x":-13,"y":-340,"width":126,"height":91},
+		{"id":"9aec0a7c87ac12b3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-12,"y":-220,"width":113,"height":120},
+		{"id":"a8d0fb4e05162cc2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/池 - Trì.canvas","x":260,"y":20,"width":168,"height":137},
+		{"id":"ca95f46c75ef61f8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":60,"y":107,"width":94,"height":100},
+		{"id":"c9be8724e1ed5bc8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":45,"y":360,"width":117,"height":121},
+		{"id":"edeffd88f4ec3138","x":260,"y":240,"width":103,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/地 - Địa.canvas"}
+	],
+	"edges":[
+		{"id":"3787e8ab62c0c23b","fromNode":"c79782333251d27b","fromSide":"right","toNode":"2a901cc818cd3730","toSide":"left"},
+		{"id":"1afba1ca3ed24890","fromNode":"28a8bc872ee01d03","fromSide":"right","toNode":"2a901cc818cd3730","toSide":"left"},
+		{"id":"330c26854a6f07af","fromNode":"9aec0a7c87ac12b3","fromSide":"right","toNode":"2a901cc818cd3730","toSide":"left"},
+		{"id":"804860d1448eb889","fromNode":"c79782333251d27b","fromSide":"right","toNode":"a8d0fb4e05162cc2","toSide":"left"},
+		{"id":"545f28923de1b8d5","fromNode":"ca95f46c75ef61f8","fromSide":"right","toNode":"a8d0fb4e05162cc2","toSide":"left"},
+		{"id":"544ec020da4c8acd","fromNode":"c79782333251d27b","fromSide":"right","toNode":"edeffd88f4ec3138","toSide":"left"},
+		{"id":"7335d5f5897dd901","fromNode":"c9be8724e1ed5bc8","fromSide":"right","toNode":"edeffd88f4ec3138","toSide":"left"}
+	]
+}

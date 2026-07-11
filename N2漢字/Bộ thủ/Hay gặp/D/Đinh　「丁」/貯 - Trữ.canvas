@@ -3,7 +3,7 @@
 		{"id":"96a6efd65defdeed","type":"text","text":"貯 - Trữ","x":-96,"y":190,"width":250,"height":60},
 		{"id":"e43c0ea766bbf52b","type":"text","text":"貯金　「ちょきん」： tiết kiệm tiền","x":262,"y":190,"width":250,"height":60},
 		{"id":"ff45d7659ce5d5dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":-501,"y":-29,"width":150,"height":159},
-		{"id":"56350b051440072e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas","x":-512,"y":-249,"width":161,"height":120},
+		{"id":"56350b051440072e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-512,"y":-249,"width":161,"height":120},
 		{"id":"2a9d3d0633692267","x":-546,"y":190,"width":241,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"}
 	],
 	"edges":[

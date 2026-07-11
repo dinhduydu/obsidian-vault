@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4d6e75d48dd66aec","type":"text","text":"Ất 「乙」","x":-300,"y":-60,"width":250,"height":60},
+		{"id":"912a6c9f81516c90","type":"text","text":"| vị trí thứ 2 | Hình móc, thường để chỉ cái nhỏ, yếu. |\n| --- | --- |","x":-1120,"y":-540,"width":425,"height":110},
+		{"id":"0b133ae540f0c52c","type":"text","text":"礼 - Lễ","x":100,"y":-313,"width":250,"height":60},
+		{"id":"b96ba4d4e896c9c7","type":"text","text":"礼　「れい」： chỉ đồ cúng, dâng lễ cho thần thánh","x":753,"y":-373,"width":250,"height":60},
+		{"id":"059cc10c25c69e7e","type":"file","file":"Pasted image 20260526003823.png","x":460,"y":-430,"width":177,"height":175},
+		{"id":"d17de37e32749ea5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-160,"y":-474,"width":142,"height":132},
+		{"id":"f40c301169270cfc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas","x":-140,"y":67,"width":118,"height":82},
+		{"id":"35ad9bbd85e319cb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-140,"y":320,"width":121,"height":114},
+		{"id":"46ccbcd2d5c8cc54","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/孔 - Khổng.canvas","x":120,"y":-93,"width":168,"height":126},
+		{"id":"3b3e2f13a54a7598","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/札 - Trát.canvas","x":120,"y":149,"width":169,"height":150}
+	],
+	"edges":[
+		{"id":"1405c3ff02f2656a","fromNode":"4d6e75d48dd66aec","fromSide":"left","toNode":"912a6c9f81516c90","toSide":"right"},
+		{"id":"e7f00e7f244b1d6a","fromNode":"0b133ae540f0c52c","fromSide":"right","toNode":"059cc10c25c69e7e","toSide":"left"},
+		{"id":"30944d0ede9d8d4f","fromNode":"059cc10c25c69e7e","fromSide":"right","toNode":"b96ba4d4e896c9c7","toSide":"left"},
+		{"id":"2fcab3a53b89136a","fromNode":"4d6e75d48dd66aec","fromSide":"right","toNode":"0b133ae540f0c52c","toSide":"left"},
+		{"id":"8dd170755760b05a","fromNode":"d17de37e32749ea5","fromSide":"right","toNode":"0b133ae540f0c52c","toSide":"left"},
+		{"id":"0f90327f1f4a51f4","fromNode":"4d6e75d48dd66aec","fromSide":"right","toNode":"46ccbcd2d5c8cc54","toSide":"left"},
+		{"id":"96a4667f67ae36c4","fromNode":"f40c301169270cfc","fromSide":"right","toNode":"46ccbcd2d5c8cc54","toSide":"left"},
+		{"id":"bcab1e2921ffb2ab","fromNode":"4d6e75d48dd66aec","fromSide":"right","toNode":"3b3e2f13a54a7598","toSide":"left"},
+		{"id":"c7ebdcc44ed13ea5","fromNode":"35ad9bbd85e319cb","fromSide":"right","toNode":"3b3e2f13a54a7598","toSide":"left"}
+	]
+}

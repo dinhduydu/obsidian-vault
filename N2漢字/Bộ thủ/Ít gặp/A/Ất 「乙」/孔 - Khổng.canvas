@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b54a0e39ee018b9d","type":"text","text":"孔 - Khổng","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e69f0de611feced1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas","x":-360,"y":80,"width":118,"height":82},
+		{"id":"34ef35ba365cab2b","x":-427,"y":-200,"width":185,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"afd72eeff9eb9302","fromNode":"e69f0de611feced1","fromSide":"right","toNode":"b54a0e39ee018b9d","toSide":"left"},
+		{"id":"9de2d91df338ae6c","fromNode":"34ef35ba365cab2b","fromSide":"right","toNode":"b54a0e39ee018b9d","toSide":"left"}
+	]
+}

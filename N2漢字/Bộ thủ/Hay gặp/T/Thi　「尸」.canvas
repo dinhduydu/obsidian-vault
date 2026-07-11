@@ -7,11 +7,11 @@
 		{"id":"2c7db53c1b7c93bb","type":"text","text":"- 荷物が届く（にもつ が とどく）: hàng được giao đến\n- 書類を届ける（しょるい を とどける）: nộp/gửi giấy tờ","x":980,"y":-136,"width":520,"height":96},
 		{"id":"29e7412cef920839","type":"text","text":"屋 - Ốc","x":195,"y":-660,"width":133,"height":60},
 		{"id":"e8d178215da1efdd","type":"text","text":"屋上　「おくじょう」： sân thượng","x":455,"y":-660,"width":343,"height":66},
-		{"id":"8238740f34677c96","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」.canvas","x":-100,"y":-352,"width":155,"height":118},
+		{"id":"8238740f34677c96","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」/Do　「由」.canvas","x":-100,"y":-352,"width":155,"height":118},
 		{"id":"dc2ec6c29f190808","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":-100,"y":-820,"width":165,"height":121},
 		{"id":"45d3137e09ec5fb6","type":"text","text":"刷 - Loát","x":243,"y":325,"width":250,"height":60},
 		{"id":"94ffb882e15d9aec","type":"text","text":"印刷　「いんさつ」：","x":603,"y":325,"width":250,"height":60},
-		{"id":"c331187717f6ab61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」.canvas","x":-208,"y":280,"width":181,"height":105},
+		{"id":"c331187717f6ab61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-208,"y":280,"width":181,"height":105},
 		{"id":"6730d0327414a339","x":-255,"y":80,"width":170,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」.canvas"}
 	],
 	"edges":[

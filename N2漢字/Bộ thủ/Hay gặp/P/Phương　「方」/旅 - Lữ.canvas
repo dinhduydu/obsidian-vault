@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3f95c25dfa2d6af0","type":"text","text":"旅 - Lữ","x":-106,"y":-47,"width":250,"height":60},
+		{"id":"ac848c91d6a2138c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas","x":-320,"y":-160,"width":124,"height":83},
+		{"id":"f1883a9cde00592c","x":-356,"y":13,"width":160,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"b569c5fe1c635ce2","fromNode":"f1883a9cde00592c","fromSide":"right","toNode":"3f95c25dfa2d6af0","toSide":"left"},
+		{"id":"cfd9aca4c4970808","fromNode":"ac848c91d6a2138c","fromSide":"right","toNode":"3f95c25dfa2d6af0","toSide":"left"}
+	]
+}

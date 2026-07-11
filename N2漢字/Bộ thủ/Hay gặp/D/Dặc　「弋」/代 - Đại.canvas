@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"305afc7a1166ceae","x":-179,"y":-86,"width":250,"height":60,"type":"text","text":"代 - Đại"},
+		{"id":"b7e0547cfb197aa6","x":-360,"y":-189,"width":95,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"78ba8f2cc28ab7d9","x":-425,"y":0,"width":160,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dặc　「弋」/Dặc　「弋」.canvas"}
+	],
+	"edges":[
+		{"id":"ccb7ce5fe2be846e","fromNode":"b7e0547cfb197aa6","fromSide":"right","toNode":"305afc7a1166ceae","toSide":"left"},
+		{"id":"ed08f13a4f862cfe","fromNode":"78ba8f2cc28ab7d9","fromSide":"right","toNode":"305afc7a1166ceae","toSide":"left"}
+	]
+}

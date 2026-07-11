@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f084150056e5e12c","type":"text","text":"述 - Thuật","x":-299,"y":-30,"width":250,"height":60},
+		{"id":"570892409a30fe4d","type":"text","text":"述べる","x":50,"y":-33,"width":250,"height":67},
+		{"id":"534a5aee16c611b2","x":-580,"y":60,"width":111,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"8ea40980a53b739f","fromNode":"f084150056e5e12c","fromSide":"right","toNode":"570892409a30fe4d","toSide":"left"},
+		{"id":"4da08b8144a1bbae","fromNode":"534a5aee16c611b2","fromSide":"right","toNode":"f084150056e5e12c","toSide":"left"}
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"00d3b586a3def378","type":"group","x":260,"y":-580,"width":899,"height":1130,"label":"Bộ phận cơ thể người"},
-		{"id":"9a0cbdd0c41e28aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ　「𠂇」.canvas","x":40,"y":-1100,"width":123,"height":83},
+		{"id":"9a0cbdd0c41e28aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":40,"y":-1100,"width":123,"height":83},
 		{"id":"fe8ffa81065bcec2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ　「永」.canvas","x":-860,"y":252,"width":211,"height":177},
 		{"id":"10a6be86524625f2","type":"text","text":"trẫm, vua xưng","x":421,"y":993,"width":250,"height":60},
 		{"id":"523f9ab84af15f04","type":"text","text":"nở ra, bành trướng","x":447,"y":1100,"width":250,"height":60},
@@ -12,7 +12,7 @@
 		{"id":"bb3e660a53aa983d","type":"text","text":"- 脈拍（みゃくはく）: nhịp mạch\n- 動脈（どうみゃく）: động mạch\n- 静脈（じょうみゃく）: tĩnh mạch\n- 文脈（ぶんみゃく）: văn mạch, ngữ cảnh\n- 人脈（じんみゃく）: quan hệ xã hội","x":1345,"y":-24,"width":395,"height":184},
 		{"id":"802e20bc6d4d85b6","type":"text","text":"Nhục　「⺼」","x":-649,"y":1130,"width":250,"height":60},
 		{"id":"313279a958a085cc","type":"text","text":"前 - Tiền","x":-164,"y":1382,"width":250,"height":60},
-		{"id":"1c458cf1aaf91947","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」.canvas","x":-540,"y":1520,"width":158,"height":116},
+		{"id":"1c458cf1aaf91947","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-540,"y":1520,"width":158,"height":116},
 		{"id":"0ff2a5d84a5a34db","type":"text","text":"肺 - Phế","x":328,"y":-381,"width":250,"height":60},
 		{"id":"7af6173cae4dad0b","type":"text","text":"Phổi","x":703,"y":-381,"width":250,"height":60},
 		{"id":"d9ad1dcb0d6e81bd","type":"text","text":"永 → dòng nước chảy\n𠂢 (phần nét xiên phía trên)","x":-600,"y":310,"width":250,"height":60},

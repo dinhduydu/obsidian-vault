@@ -12,7 +12,7 @@ Tiền tố
  │   ├─ 大 (Đại): Quy mô lớn (Vd: 大規模 - quy mô lớn, 大歓迎 - nhiệt liệt chào mừng)
  │   ├─ 高 (Cao): Cao (Vd: 高収入 - thu nhập cao, 高学歴 - học vấn cao)
  │   ├─ 最 (Tối): Nhất, cực đại (Vd: 最高級 - thượng hạng, 最先端 - mới nhất)
- │   ├─ 低 (Đê): Thấp (Vd: 低価格 - giá thấp, 低気圧 - khí áp thấp)　[[低 - Đê.canvas]]
+ │   ├─ 低 (Đê): Thấp (Vd: 低価格 - giá thấp, 低気圧 - khí áp thấp)　[[N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/低 - Đê.canvas]]
  │   ├─ 薄 (Bạc): Có chút, hơi (Vd: 薄暗い - hơi tối tăm, 薄汚い - hơi bẩn)
  │   ├─ 小 (Tiểu): Một chút, nhỏ (Vd: 小規模 - quy mô nhỏ, 小論文 - tiểu luận)
  │   ├─ 真 (Chân): Nhấn mạnh mức độ tuyệt đối (Vd: 真新しい - mới tinh, 真夜中 - nửa đêm)

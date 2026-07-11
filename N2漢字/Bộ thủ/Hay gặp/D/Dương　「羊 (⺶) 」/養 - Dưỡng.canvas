@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f9c7a32c1b3267c9","type":"text","text":"養 - Dưỡng","x":-55,"y":93,"width":250,"height":60},
+		{"id":"e0e2f98268525df1","type":"text","text":"養成","x":305,"y":93,"width":250,"height":60},
+		{"id":"7c4c0a6fe2897af9","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":-312,"y":-103,"width":134,"height":91},
+		{"id":"59153e5a5413e9fe","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-555,"y":-152,"width":149,"height":99},
+		{"id":"20d46dcb07ed1b5e","x":-280,"y":180,"width":138,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"}
+	],
+	"edges":[
+		{"id":"1289ee90ae3844e5","fromNode":"f9c7a32c1b3267c9","fromSide":"right","toNode":"e0e2f98268525df1","toSide":"left"},
+		{"id":"9f0df622b8a3a9a6","fromNode":"7c4c0a6fe2897af9","fromSide":"right","toNode":"f9c7a32c1b3267c9","toSide":"left"},
+		{"id":"0b80b769fc307739","fromNode":"59153e5a5413e9fe","fromSide":"right","toNode":"7c4c0a6fe2897af9","toSide":"left"},
+		{"id":"cd7fa1811e67fbc3","fromNode":"20d46dcb07ed1b5e","fromSide":"right","toNode":"f9c7a32c1b3267c9","toSide":"left"}
+	]
+}

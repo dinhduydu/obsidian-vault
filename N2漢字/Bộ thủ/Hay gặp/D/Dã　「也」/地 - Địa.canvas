@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b5cbd70576b63f4d","type":"text","text":"地 - Địa","x":-52,"y":-37,"width":250,"height":60},
+		{"id":"d0a692c2253fec98","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":-440,"y":-166,"width":197,"height":129},
+		{"id":"0c6f18d21d773495","x":-324,"y":40,"width":81,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/Dã　「也」.canvas"}
+	],
+	"edges":[
+		{"id":"f789e4a745ba55f2","fromNode":"d0a692c2253fec98","fromSide":"right","toNode":"b5cbd70576b63f4d","toSide":"left"},
+		{"id":"575e771ddfea8aa6","fromNode":"0c6f18d21d773495","fromSide":"right","toNode":"b5cbd70576b63f4d","toSide":"left"}
+	]
+}

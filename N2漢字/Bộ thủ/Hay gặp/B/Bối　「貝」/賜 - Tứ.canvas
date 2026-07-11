@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"674e31c6e2faf64d","type":"text","text":"賜 - Tứ","x":-308,"y":-30,"width":250,"height":60},
+		{"id":"dcaedda71dad959f","type":"text","text":"賜る　「たまわる」：ban cho, ban tặng","x":59,"y":-30,"width":250,"height":60},
+		{"id":"1a2eaa2bdbed351a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-560,"y":-139,"width":115,"height":109},
+		{"id":"32f1119cec945a15","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」.canvas","x":-652,"y":60,"width":185,"height":144}
+	],
+	"edges":[
+		{"id":"96e9c3d9746796b2","fromNode":"674e31c6e2faf64d","fromSide":"right","toNode":"dcaedda71dad959f","toSide":"left"},
+		{"id":"cc4fbbaeb5ab5f1b","fromNode":"1a2eaa2bdbed351a","fromSide":"right","toNode":"674e31c6e2faf64d","toSide":"left"},
+		{"id":"032922e0d1e2af4b","fromNode":"32f1119cec945a15","fromSide":"right","toNode":"674e31c6e2faf64d","toSide":"left"}
+	]
+}

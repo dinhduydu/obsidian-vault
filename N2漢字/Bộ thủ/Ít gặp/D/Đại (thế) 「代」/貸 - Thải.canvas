@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1189b57d78a1a361","type":"text","text":"貸 「かす」- Thải","x":-781,"y":-187,"width":250,"height":60},
+		{"id":"a06ffcaa18d40db8","type":"text","text":"cho mượn","x":-401,"y":-247,"width":250,"height":60},
+		{"id":"05f60f84eec315a2","type":"text","text":"貸家","x":-367,"y":-107,"width":250,"height":60},
+		{"id":"e92ed7d226208c68","type":"text","text":"貸し切る","x":-353,"y":10,"width":250,"height":60},
+		{"id":"54595a5a9e986c52","type":"text","text":"hẹn trước, đặt trước","x":10,"y":-41,"width":250,"height":60},
+		{"id":"b7d79d39909cdf9c","type":"text","text":"貸し切り","x":28,"y":99,"width":250,"height":60},
+		{"id":"dc31c50bc1fe72fd","type":"text","text":"Sự dành trước; sự giữ trước; sự đặt chỗ trước; đặt trước; hẹn trước; giữ chỗ trước","x":365,"y":76,"width":374,"height":83},
+		{"id":"f0a561bd7ec7fdef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-981,"y":-307,"width":121,"height":100},
+		{"id":"97f72e757685ec43","x":-1063,"y":-103,"width":165,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đại (thế) 「代」/Đại (thế) 「代」.canvas"}
+	],
+	"edges":[
+		{"id":"78594ae0217e4574","fromNode":"1189b57d78a1a361","fromSide":"right","toNode":"a06ffcaa18d40db8","toSide":"left"},
+		{"id":"cef5fa97e9a7a925","fromNode":"1189b57d78a1a361","fromSide":"right","toNode":"05f60f84eec315a2","toSide":"left"},
+		{"id":"01341157c45a1b65","fromNode":"1189b57d78a1a361","fromSide":"right","toNode":"e92ed7d226208c68","toSide":"left"},
+		{"id":"a2e3156c00a31fe5","fromNode":"f0a561bd7ec7fdef","fromSide":"right","toNode":"1189b57d78a1a361","toSide":"left"},
+		{"id":"a6231886df1994f3","fromNode":"e92ed7d226208c68","fromSide":"right","toNode":"54595a5a9e986c52","toSide":"left"},
+		{"id":"c5d6d86467f02c1c","fromNode":"e92ed7d226208c68","fromSide":"right","toNode":"b7d79d39909cdf9c","toSide":"left"},
+		{"id":"aad160e684d5af9e","fromNode":"b7d79d39909cdf9c","fromSide":"right","toNode":"dc31c50bc1fe72fd","toSide":"left"},
+		{"id":"d5c4bdb6a86360a2","fromNode":"97f72e757685ec43","fromSide":"right","toNode":"1189b57d78a1a361","toSide":"left"}
+	]
+}

@@ -8,7 +8,7 @@
 		{"id":"fb3f3301efe2be8b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-195,"y":480,"width":170,"height":169},
 		{"id":"51ebe7ecf47ee291","type":"text","text":"教訓　「きょうくん」：giáo huấn","x":693,"y":720,"width":250,"height":60},
 		{"id":"f8c510a28d8fc86f","type":"text","text":"訓 - Huấn","x":200,"y":777,"width":250,"height":60},
-		{"id":"800e923f7b4fb9b9","x":-180,"y":837,"width":155,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」.canvas"}
+		{"id":"800e923f7b4fb9b9","x":-180,"y":837,"width":155,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
 	],
 	"edges":[
 		{"id":"fd2098f736cc5660","fromNode":"71d43bfdbb5166af","fromSide":"right","toNode":"c31ac638b69c36bd","toSide":"left","label":"con thuyền trên sông"},

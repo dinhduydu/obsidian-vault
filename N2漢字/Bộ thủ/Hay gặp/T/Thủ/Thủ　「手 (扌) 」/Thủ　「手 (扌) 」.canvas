@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"dc9e4746316fa120","type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ","x":-620,"y":-164,"width":250,"height":90},
+		{"id":"5f8ea87a3733ecc4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":40,"y":-640,"width":163,"height":97},
+		{"id":"86eb217df8976559","type":"text","text":"Các chữ liên quan hành động bằng tay","x":-1018,"y":-199,"width":250,"height":60},
+		{"id":"928dc0e6189c8028","type":"text","text":"抱える　「かかえる」： Ôm vấn đề nào đó","x":656,"y":200,"width":344,"height":60},
+		{"id":"70beba636d980007","type":"text","text":"抱 - Bão","x":357,"y":200,"width":250,"height":60},
+		{"id":"c22df1420184cdf0","type":"text","text":"押 - Áp","x":531,"y":880,"width":250,"height":60},
+		{"id":"b5d0ff68b4a853d1","type":"text","text":"投 - Đầu","x":565,"y":720,"width":250,"height":60},
+		{"id":"6ffd8d1f1cc01aaf","type":"text","text":"打 - Đả","x":630,"y":600,"width":250,"height":60},
+		{"id":"19d40c4bcfe342e1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/握 - Ác.canvas","x":297,"y":-567,"width":98,"height":87},
+		{"id":"6138d4cd786be1bd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/拝 - Bái.canvas","x":395,"y":-420,"width":92,"height":66},
+		{"id":"7de708367a0425e8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/持 - Trì.canvas","x":423,"y":-98,"width":117,"height":100},
+		{"id":"e2bc2f506534c864","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/打 - Đả.canvas","x":423,"y":340,"width":196,"height":145},
+		{"id":"aa7d49108d6a041b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/技 - Kĩ.canvas","x":513,"y":1060,"width":228,"height":191},
+		{"id":"ef93dc3a8df642d4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":260,"y":1220,"width":135,"height":150},
+		{"id":"0e313ac988b2a926","type":"text","text":"Thủ　「手 (扌) 」","x":-166,"y":2,"width":250,"height":60},
+		{"id":"67d517a561bfe3bf","x":531,"y":1520,"width":243,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/掲 - Yết.canvas"},
+		{"id":"c2cfc4d76cedf710","type":"text","text":"Thủ　「手 (扌) 」","x":-173,"y":1564,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3f3af7eaa076ef6d","fromNode":"0e313ac988b2a926","fromSide":"left","toNode":"dc9e4746316fa120","toSide":"right"},
+		{"id":"31dc78abe3eee3fa","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"70beba636d980007","toSide":"left"},
+		{"id":"98bf79f1f7df59a5","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"aa7d49108d6a041b","toSide":"left"},
+		{"id":"0097110ee5624172","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"19d40c4bcfe342e1","toSide":"left"},
+		{"id":"c1c38cc35097f804","fromNode":"5f8ea87a3733ecc4","fromSide":"right","toNode":"19d40c4bcfe342e1","toSide":"left"},
+		{"id":"57c104c75005205f","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"6138d4cd786be1bd","toSide":"left"},
+		{"id":"6593c1c9532defa6","fromNode":"dc9e4746316fa120","fromSide":"left","toNode":"86eb217df8976559","toSide":"right"},
+		{"id":"a8530934d0bcb5a4","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"e2bc2f506534c864","toSide":"left"},
+		{"id":"2e12ec1828075c5e","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"b5d0ff68b4a853d1","toSide":"left"},
+		{"id":"d8a8e0d487f99e0a","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"c22df1420184cdf0","toSide":"left"},
+		{"id":"584078d18a456f04","fromNode":"ef93dc3a8df642d4","fromSide":"right","toNode":"aa7d49108d6a041b","toSide":"left"},
+		{"id":"edad83e9050b3c4d","fromNode":"70beba636d980007","fromSide":"right","toNode":"928dc0e6189c8028","toSide":"left"},
+		{"id":"cce7768952d976f8","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"7de708367a0425e8","toSide":"left"},
+		{"id":"89d50c926e6f07a8","fromNode":"c2cfc4d76cedf710","fromSide":"right","toNode":"67d517a561bfe3bf","toSide":"left"}
+	]
+}

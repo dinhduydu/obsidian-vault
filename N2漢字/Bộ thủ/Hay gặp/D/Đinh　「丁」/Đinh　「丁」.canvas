@@ -1,24 +1,29 @@
 {
 	"nodes":[
-		{"id":"ed71000459145685","type":"text","text":"Đinh　「丁」","x":-220,"y":1079,"width":250,"height":60},
-		{"id":"70ba2dd95d6cbec7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":270,"y":1494,"width":122,"height":100},
-		{"id":"d4d7536c2a8f6493","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":120,"y":860,"width":150,"height":159},
-		{"id":"96699fe02e288a41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas","x":109,"y":640,"width":161,"height":120},
-		{"id":"7ddb5b8a7b7fdf8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":270,"y":1672,"width":100,"height":95},
-		{"id":"78a1877a677de2a6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":0,"y":2071,"width":129,"height":99},
-		{"id":"4425f9769999a841","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas","x":272,"y":1920,"width":240,"height":171},
-		{"id":"055ddac39376786a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/貯 - Trữ.canvas","x":520,"y":1059,"width":177,"height":101},
-		{"id":"5f684cec1c721aac","x":525,"y":1300,"width":168,"height":71,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/町 - Đinh.canvas"},
-		{"id":"e621be7884709fc6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm công cụ, vật dụng bằng kim loại/釘 - Đinh.canvas","x":520,"y":1594,"width":149,"height":50},
 		{"id":"42addf0c13dca116","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-1113,"y":48,"width":98,"height":104},
-		{"id":"31b57e4416351ec2","type":"text","text":"Đinh　「丁」","x":-908,"y":193,"width":250,"height":60},
 		{"id":"c0d4ec4aeeeddba9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quyết　「亅」.canvas","x":-1113,"y":260,"width":112,"height":111},
-		{"id":"bfe159cf78fbf271","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/庁 - Sảnh.canvas","x":-293,"y":175,"width":146,"height":97},
-		{"id":"483d5c0b3333d627","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas","x":-613,"y":-40,"width":133,"height":67}
+		{"id":"9a8e00e83274c44e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灯 - Đăng.canvas","x":-300,"y":-180,"width":140,"height":139},
+		{"id":"05c1a679b2f597b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-881,"y":-480,"width":197,"height":151},
+		{"id":"31b57e4416351ec2","type":"text","text":"Đinh　「丁」","x":-908,"y":193,"width":250,"height":60},
+		{"id":"5f684cec1c721aac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/町 - Đinh.canvas","x":215,"y":1620,"width":168,"height":71},
+		{"id":"e621be7884709fc6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm công cụ, vật dụng bằng kim loại/釘 - Đinh.canvas","x":210,"y":1914,"width":149,"height":50},
+		{"id":"7ddb5b8a7b7fdf8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-40,"y":1992,"width":100,"height":95},
+		{"id":"4425f9769999a841","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas","x":-38,"y":2240,"width":240,"height":171},
+		{"id":"78a1877a677de2a6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-310,"y":2391,"width":129,"height":99},
+		{"id":"96699fe02e288a41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-201,"y":960,"width":161,"height":120},
+		{"id":"d4d7536c2a8f6493","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":-190,"y":1180,"width":150,"height":159},
+		{"id":"055ddac39376786a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/貯 - Trữ.canvas","x":210,"y":1379,"width":177,"height":101},
+		{"id":"ed71000459145685","type":"text","text":"Đinh　「丁」","x":-530,"y":1399,"width":250,"height":60},
+		{"id":"8809a3415856d0cc","type":"text","text":"Đinh　「丁」","x":-1180,"y":1319,"width":250,"height":60},
+		{"id":"bfe159cf78fbf271","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/庁 - Sảnh.canvas","x":300,"y":175,"width":146,"height":97},
+		{"id":"483d5c0b3333d627","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas","x":-20,"y":-40,"width":133,"height":67},
+		{"id":"2f924ac2c8812e39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頂 - Đỉnh.canvas","x":-234,"y":420,"width":228,"height":201},
+		{"id":"b7000cdf9157a720","x":-540,"y":550,"width":172,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"},
+		{"id":"70ba2dd95d6cbec7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-99,"y":1780,"width":122,"height":100}
 	],
 	"edges":[
 		{"id":"feddf2f1bbffbbca","fromNode":"ed71000459145685","fromSide":"right","toNode":"e621be7884709fc6","toSide":"left"},
-		{"id":"41eed2f8ea16071a","fromNode":"7ddb5b8a7b7fdf8a","fromSide":"right","toNode":"e621be7884709fc6","toSide":"left"},
+		{"id":"41eed2f8ea16071a","fromNode":"7ddb5b8a7b7fdf8a","fromSide":"right","toNode":"e621be7884709fc6","toSide":"left","label":"kim loại"},
 		{"id":"c4990ecf459e52e5","fromNode":"42addf0c13dca116","fromSide":"right","toNode":"31b57e4416351ec2","toSide":"left"},
 		{"id":"1a10526bb7c8a654","fromNode":"c0d4ec4aeeeddba9","fromSide":"right","toNode":"31b57e4416351ec2","toSide":"left"},
 		{"id":"16b5d3da3bfed1d7","fromNode":"ed71000459145685","fromSide":"right","toNode":"5f684cec1c721aac","toSide":"left","label":"âm đọc"},
@@ -30,6 +35,10 @@
 		{"id":"33fe8c388a8c7ba5","fromNode":"ed71000459145685","fromSide":"right","toNode":"055ddac39376786a","toSide":"left","label":"đóng đinh, bảo quản"},
 		{"id":"c1858a62abb0ee9e","fromNode":"78a1877a677de2a6","fromSide":"right","toNode":"4425f9769999a841","toSide":"left"},
 		{"id":"59898bc3d6ce5dc4","fromNode":"ed71000459145685","fromSide":"right","toNode":"4425f9769999a841","toSide":"left"},
-		{"id":"94cd7761cfbef986","fromNode":"31b57e4416351ec2","fromSide":"bottom","toNode":"ed71000459145685","toSide":"left","label":"sub node"}
+		{"id":"94cd7761cfbef986","fromNode":"8809a3415856d0cc","fromSide":"right","toNode":"ed71000459145685","toSide":"left","label":"sub node"},
+		{"id":"923fc69c87c2cfc5","fromNode":"31b57e4416351ec2","fromSide":"right","toNode":"9a8e00e83274c44e","toSide":"left"},
+		{"id":"db4adfa5c755c62d","fromNode":"05c1a679b2f597b9","fromSide":"right","toNode":"9a8e00e83274c44e","toSide":"left","label":"lửa làm ngọn đèn hải đăng"},
+		{"id":"b061aed2a009c9bc","fromNode":"31b57e4416351ec2","fromSide":"right","toNode":"2f924ac2c8812e39","toSide":"left"},
+		{"id":"090dfd6c9de44084","fromNode":"b7000cdf9157a720","fromSide":"right","toNode":"2f924ac2c8812e39","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3f2c1d795ddf16ba","type":"text","text":"低 - Đê","x":-174,"y":-84,"width":250,"height":60},
+		{"id":"b80208703437d1f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/Đê　「氐」.canvas","x":-420,"y":-300,"width":149,"height":107},
+		{"id":"6a4241bf8d41e99b","x":-391,"y":-24,"width":120,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"d4be14768412aab0","fromNode":"b80208703437d1f0","fromSide":"right","toNode":"3f2c1d795ddf16ba","toSide":"left"},
+		{"id":"d1fce76ff476286f","fromNode":"6a4241bf8d41e99b","fromSide":"right","toNode":"3f2c1d795ddf16ba","toSide":"left"}
+	]
+}

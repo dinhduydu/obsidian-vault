@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0ca0b46306684d1e","x":-191,"y":-60,"width":250,"height":60,"type":"text","text":"袋 - Đại"},
+		{"id":"ee5627806a181fac","x":-400,"y":-130,"width":80,"height":70,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đại (thế) 「代」/Đại (thế) 「代」.canvas"}
+	],
+	"edges":[
+		{"id":"8b7b675a343d9f95","fromNode":"ee5627806a181fac","fromSide":"right","toNode":"0ca0b46306684d1e","toSide":"left"}
+	]
+}

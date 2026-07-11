@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f3217d14442d66c7","type":"text","text":"礼 - Lễ","x":-321,"y":51,"width":250,"height":60},
+		{"id":"ef3817e9b0216361","type":"text","text":"礼　「れい」： chỉ đồ cúng, dâng lễ cho thần thánh","x":332,"y":-9,"width":250,"height":60},
+		{"id":"ad62888b92fede78","type":"file","file":"Pasted image 20260526003823.png","x":39,"y":-66,"width":177,"height":175},
+		{"id":"258964d124ecb6fd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-652,"y":-180,"width":142,"height":132},
+		{"id":"cf2ea75a18e180d2","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas","x":-652,"y":140,"width":152,"height":108}
+	],
+	"edges":[
+		{"id":"b6a3e0e997707f43","fromNode":"f3217d14442d66c7","fromSide":"right","toNode":"ad62888b92fede78","toSide":"left"},
+		{"id":"ff8f413078c83936","fromNode":"258964d124ecb6fd","fromSide":"right","toNode":"f3217d14442d66c7","toSide":"left","label":"dáng người quỳ"},
+		{"id":"0c08d85acccf6b4b","fromNode":"ad62888b92fede78","fromSide":"right","toNode":"ef3817e9b0216361","toSide":"left"},
+		{"id":"4f21e03b6e0c89a8","fromNode":"cf2ea75a18e180d2","fromSide":"right","toNode":"f3217d14442d66c7","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d38741f8a474fe19","type":"text","text":"良 - Lương","x":-60,"y":-30,"width":185,"height":60},
+		{"id":"a143d495b18d52ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-400,"y":-147,"width":116,"height":117},
+		{"id":"9bc33a12416c22fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":39,"y":-334,"width":173,"height":90},
+		{"id":"acfd5706db1c846b","x":440,"y":-180,"width":171,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas"},
+		{"id":"85b6f3e1617df93d","type":"text","text":"良\n= 一个 mái + 艮 (cấn)","x":-409,"y":-364,"width":250,"height":60},
+		{"id":"a120403c19ad9186","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":-571,"y":120,"width":342,"height":62}
+	],
+	"edges":[
+		{"id":"2e0d6bc660251340","fromNode":"a143d495b18d52ea","fromSide":"right","toNode":"d38741f8a474fe19","toSide":"left"},
+		{"id":"ac9b0f7d1287afeb","fromNode":"9bc33a12416c22fc","fromSide":"right","toNode":"acfd5706db1c846b","toSide":"left"},
+		{"id":"92ac510930c37d65","fromNode":"d38741f8a474fe19","fromSide":"right","toNode":"acfd5706db1c846b","toSide":"left"},
+		{"id":"72d6aa2c901ebafc","fromNode":"d38741f8a474fe19","fromSide":"bottom","toNode":"a120403c19ad9186","toSide":"right"},
+		{"id":"bcdfdceecd9c16e0","fromNode":"d38741f8a474fe19","fromSide":"top","toNode":"85b6f3e1617df93d","toSide":"right"}
+	]
+}

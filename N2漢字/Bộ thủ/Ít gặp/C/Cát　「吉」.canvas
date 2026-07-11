@@ -3,7 +3,7 @@
 		{"id":"6a2c4058113fda40","type":"text","text":"Cát　「吉」","x":-88,"y":-29,"width":250,"height":60},
 		{"id":"6366499754a4742a","type":"text","text":"詰 - Cật","x":260,"y":-120,"width":250,"height":60},
 		{"id":"4a9d080abf7e6ed1","type":"text","text":"詰める","x":694,"y":-120,"width":250,"height":60},
-		{"id":"3798e476434c2818","x":-21,"y":-360,"width":183,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」.canvas"}
+		{"id":"3798e476434c2818","x":-21,"y":-360,"width":183,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
 	],
 	"edges":[
 		{"id":"aea6334732a5a2e4","fromNode":"6366499754a4742a","fromSide":"right","toNode":"4a9d080abf7e6ed1","toSide":"left"},

@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"e82a7d30337f290c","type":"text","text":"法律　「ほうりつ」：pháp luật","x":505,"y":-140,"width":250,"height":60},
 		{"id":"1f92bb894fae7ee7","type":"text","text":"律 - Luật","x":260,"y":-140,"width":140,"height":60},
-		{"id":"20919d136bab8cfa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」.canvas","x":-41,"y":-320,"width":142,"height":62},
+		{"id":"20919d136bab8cfa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas","x":-41,"y":-320,"width":142,"height":62},
 		{"id":"852c9bb83d57cdb1","type":"text","text":"徒 - Đồ","x":275,"y":136,"width":250,"height":60},
 		{"id":"da1b590f8c655329","type":"text","text":"生徒　「せいと」：","x":646,"y":120,"width":250,"height":60},
 		{"id":"32762747f91e36ba","type":"text","text":"徒歩　「とほ」：","x":671,"y":258,"width":250,"height":60},
-		{"id":"aa75c47e8c2ef5c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」.canvas","x":-24,"y":217,"width":167,"height":142},
+		{"id":"aa75c47e8c2ef5c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas","x":-24,"y":217,"width":167,"height":142},
 		{"id":"4ea53a19dd533071","type":"text","text":"復 - Phục","x":275,"y":540,"width":250,"height":60},
 		{"id":"916f3eabcfa1910a","type":"text","text":"回復　「かいふく」：hồi phục","x":716,"y":540,"width":250,"height":60},
 		{"id":"8cb2139b4b18d1f6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」.canvas","x":-33,"y":640,"width":176,"height":149},

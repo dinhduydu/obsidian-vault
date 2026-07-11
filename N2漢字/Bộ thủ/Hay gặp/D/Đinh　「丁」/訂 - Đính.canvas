@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4d8d43d88cb4cd3c","x":-80,"y":-17,"width":250,"height":60,"type":"text","text":"訂 - Đính"},
+		{"id":"e937da69d07541b2","x":-400,"y":-123,"width":156,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"},
+		{"id":"a6aaf49cd843c278","x":-385,"y":100,"width":141,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"a576bf0e796a13d5","fromNode":"e937da69d07541b2","fromSide":"right","toNode":"4d8d43d88cb4cd3c","toSide":"left"},
+		{"id":"2a8cf69c532f6aa1","fromNode":"a6aaf49cd843c278","fromSide":"right","toNode":"4d8d43d88cb4cd3c","toSide":"left"}
+	]
+}

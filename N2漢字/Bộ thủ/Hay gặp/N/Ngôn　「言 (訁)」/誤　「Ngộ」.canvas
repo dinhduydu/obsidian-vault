@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"24ceceb26d7096ae","type":"text","text":"誤　「Ngộ」","x":-609,"y":-30,"width":250,"height":60},
+		{"id":"70e3fbb508545dec","type":"text","text":"誤り　「あやまり」：","x":-250,"y":-30,"width":250,"height":60},
+		{"id":"2a0d024b7e19e56d","type":"text","text":"学生たちと一緒に本の**あやまり**を探し出す。","x":210,"y":-30,"width":400,"height":60},
+		{"id":"6179403b624abd3d","x":-860,"y":-160,"width":129,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"6ce88de14ed63112","fromNode":"24ceceb26d7096ae","fromSide":"right","toNode":"70e3fbb508545dec","toSide":"left"},
+		{"id":"0ec14cd544c8c52d","fromNode":"70e3fbb508545dec","fromSide":"right","toNode":"2a0d024b7e19e56d","toSide":"left"},
+		{"id":"aec371d01cc0ea5e","fromNode":"6179403b624abd3d","fromSide":"right","toNode":"24ceceb26d7096ae","toSide":"left"}
+	]
+}

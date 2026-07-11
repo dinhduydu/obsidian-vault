@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"ffc949372829e132","x":620,"y":660,"width":695,"height":499,"type":"group","label":"Untitled group"},
+		{"id":"88a73c5215e6f84d","type":"text","text":"Phương　「方」","x":-520,"y":-60,"width":250,"height":60},
+		{"id":"0d0de3057e58db1e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/族 - Tộc.canvas","x":180,"y":1440,"width":107,"height":67},
+		{"id":"bc1e46c9c81322bf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/防 - Phòng.canvas","x":282,"y":-460,"width":180,"height":140},
+		{"id":"330f998b600b8483","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.canvas","x":289,"y":-107,"width":166,"height":155},
+		{"id":"8d0dae81b0af9c65","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas","x":23,"y":8,"width":122,"height":80},
+		{"id":"da6ba095bae77ece","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/旅 - Lữ.canvas","x":282,"y":180,"width":190,"height":127},
+		{"id":"6f113873c65ab3dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y　「衣」/Y　「衣」.canvas","x":-97,"y":228,"width":170,"height":159},
+		{"id":"ff684b41c067f12c","type":"text","text":"Phương　「方」","x":-516,"y":880,"width":250,"height":60},
+		{"id":"100be30514e1fb8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-266,"y":597,"width":125,"height":148},
+		{"id":"d3d9063055cc2182","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/遊 - Du.canvas","x":658,"y":1020,"width":145,"height":119},
+		{"id":"6b6691e7c9611a9a","x":640,"y":780,"width":91,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/施 - Thi.canvas"},
+		{"id":"6d7af32492ea02e5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas","x":341,"y":1200,"width":77,"height":69},
+		{"id":"f1b1ab2bad15db06","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":341,"y":1308,"width":89,"height":65},
+		{"id":"be45563a534288de","x":435,"y":649,"width":128,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/Dã　「也」.canvas"}
+	],
+	"edges":[
+		{"id":"95fbf0630899c1a0","fromNode":"88a73c5215e6f84d","fromSide":"right","toNode":"330f998b600b8483","toSide":"left"},
+		{"id":"a68a5540693d0530","fromNode":"8d0dae81b0af9c65","fromSide":"right","toNode":"330f998b600b8483","toSide":"left"},
+		{"id":"954bbdf7aeb0b6fa","fromNode":"88a73c5215e6f84d","fromSide":"right","toNode":"bc1e46c9c81322bf","toSide":"left"},
+		{"id":"aec8936dbec086c9","fromNode":"88a73c5215e6f84d","fromSide":"right","toNode":"da6ba095bae77ece","toSide":"left"},
+		{"id":"877408f04b5d5f83","fromNode":"6f113873c65ab3dd","fromSide":"right","toNode":"da6ba095bae77ece","toSide":"left"},
+		{"id":"05ba459ab1576117","fromNode":"f1b1ab2bad15db06","fromSide":"right","toNode":"d3d9063055cc2182","toSide":"left"},
+		{"id":"fa5361d9c6c9fa36","fromNode":"88a73c5215e6f84d","fromSide":"bottom","toNode":"ff684b41c067f12c","toSide":"top"},
+		{"id":"b4c40d005e013e5a","fromNode":"100be30514e1fb8a","fromSide":"right","toNode":"ffc949372829e132","toSide":"left"},
+		{"id":"6b7ab9e742ca583e","fromNode":"6d7af32492ea02e5","fromSide":"right","toNode":"d3d9063055cc2182","toSide":"left"},
+		{"id":"0e7b23f000c13183","fromNode":"ff684b41c067f12c","fromSide":"right","toNode":"ffc949372829e132","toSide":"left"},
+		{"id":"da6a09bb719b787e","fromNode":"be45563a534288de","fromSide":"right","toNode":"6b6691e7c9611a9a","toSide":"left"}
+	]
+}

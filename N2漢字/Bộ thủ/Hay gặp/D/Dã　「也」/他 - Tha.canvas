@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fdf9bf484000d253","x":-58,"y":-39,"width":250,"height":60,"type":"text","text":"他 - Tha"},
+		{"id":"6c9e5861b0698051","x":-280,"y":21,"width":117,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/Dã　「也」.canvas"},
+		{"id":"c8e75f76f150a48b","x":-309,"y":-200,"width":146,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"a47dd1406ff3ee01","fromNode":"6c9e5861b0698051","fromSide":"right","toNode":"fdf9bf484000d253","toSide":"left"},
+		{"id":"091cfd8c5b0524b5","fromNode":"c8e75f76f150a48b","fromSide":"right","toNode":"fdf9bf484000d253","toSide":"left"}
+	]
+}

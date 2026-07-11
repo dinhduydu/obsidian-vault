@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7dc38edcd959976a","type":"text","text":"財 - Tài","x":-231,"y":1,"width":250,"height":60},
-		{"id":"c4ca53f4c89b2ce5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」.canvas","x":-420,"y":-89,"width":94,"height":70},
+		{"id":"c4ca53f4c89b2ce5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-420,"y":-89,"width":94,"height":70},
 		{"id":"022111b98a881ef3","type":"text","text":"財界　「ざいかい」：","x":171,"y":-59,"width":250,"height":60},
 		{"id":"c04147481ce42a3d","type":"text","text":"財産　「ざいさん」：","x":167,"y":29,"width":250,"height":60},
 		{"id":"cc0417df7ab82690","x":-459,"y":89,"width":133,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas"}

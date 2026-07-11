@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas",
                 "viewState": {
-                  "x": 596.6644840570293,
-                  "y": -121.98088103055144,
-                  "zoom": 0.8866609454113772
+                  "x": -172.95066093285385,
+                  "y": -107.62902532305085,
+                  "zoom": -0.356193747499772
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Hiệt　「頁 」"
+              "title": "Tẩu　「走」"
             }
           },
           {
@@ -115,15 +115,66 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/咲 - Tiếu.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
                 "viewState": {
-                  "x": -122.5,
-                  "y": 18.5,
-                  "zoom": 0
+                  "x": 449.4717965956987,
+                  "y": -377.64691246511114,
+                  "zoom": 0.7251688040812179
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "咲 - Tiếu"
+              "title": "Thủ　「手 (扌) 」"
+            }
+          },
+          {
+            "id": "cf294481b40b407d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
+                "viewState": {
+                  "x": 303.0143426134334,
+                  "y": -277.5208952478314,
+                  "zoom": 0.39183547074788455
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thủ　「手 (扌) 」"
+            }
+          },
+          {
+            "id": "df4d1602d58cf71f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
+                "viewState": {
+                  "x": 576.5721097958358,
+                  "y": 526.6910393950437,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thủ　「手 (扌) 」"
+            }
+          },
+          {
+            "id": "1907a88412609077",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas",
+                "viewState": {
+                  "x": 180.56210691823895,
+                  "y": -371.32096354166674,
+                  "zoom": -0.1488011150843208
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ngôn　「言 (訁)」"
             }
           },
           {
@@ -210,8 +261,7 @@
               "title": "1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,7 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 355.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -360,28 +410,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3636f90824f33ab9",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/关 - Tống.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/Bát　「丷」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/暗 - Ám.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/意 - Ý.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」",
-    "N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tâm",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/財 - Tài.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/材 - Tài.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」",
-    "N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」",
-    "N2漢字/Bộ thủ/Ít gặp/B/Biện　「弁」",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」",
-    "N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/Đê　「氐」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/邸 - Để.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/抵 - Đề.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/低 - Đê.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/底 - Đê.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/礼 - Lễ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/札 - Trát.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」",
+    "N2漢字/Bộ thủ/Ít gặp/A/Ao　「凹」",
+    "N2漢字/Bộ thủ/Ít gặp/A/Á　「襾 (西)」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Dược　「龠」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Đẩu　「斗 」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」",
+    "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/2. Phân Tích Trợ từ chỉ mục đích, thời gian, liệt kê, và các cấu trúc nhấn mạnh như こそ, さえ.md",
     "Chữa đề/Learning_Profile/FixedExpression/何かも.md",
@@ -392,7 +445,6 @@
     "Chữa đề/２０２６年/０５月２０２６年/Week4/22052026/1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGẮN_BÀI 32.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/5. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 2.md",
     "Chữa đề/２０２６年/０４月２０２６年/Week5/29042026/5. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (3).md",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」",
     "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/2. Phân Tích N2_BÀI TẬP 1.2.md",
     "Chữa đề/Learning_Profile/Adverb/ひょっこり.md",
     "Chữa đề/Learning_Profile/Vocabulary/煩悩.md",
@@ -406,8 +458,6 @@
     "Chữa đề/Learning_Profile/Adverb/頻繁.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/1. Phân Tích N2_NGÀY 1_ÔN TẬP KANJI (P1).md",
     "Chữa đề/Learning_Profile/Kenjougo/いただく.md",
-    "N2漢字/Bộ thủ/Hay gặp/K/TỔNG HỢP TỪ VỰNG 「気」 (N3 → N1) TRONG JLPT.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/追いかける.md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

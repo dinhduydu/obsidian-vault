@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"aa7784de9fa79646","type":"text","text":"黄金　「こがね」：","x":-25,"y":-55,"width":250,"height":60},
 		{"id":"5f17f3c8b3aa4ba1","type":"text","text":"Hoàng　「黄」","x":-465,"y":-56,"width":250,"height":60},
-		{"id":"fb01a16c97d45344","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」.canvas","x":-720,"y":40,"width":170,"height":106},
+		{"id":"fb01a16c97d45344","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」/Do　「由」.canvas","x":-720,"y":40,"width":170,"height":106},
 		{"id":"0fcfd40f3c7de082","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-377,"y":180,"width":162,"height":187},
 		{"id":"771177536d292d02","type":"text","text":"横 - Hoành","x":-25,"y":146,"width":250,"height":60},
 		{"id":"e855aaa6d9a83b48","type":"text","text":"横柄　「おうへい」：","x":400,"y":270,"width":250,"height":60},

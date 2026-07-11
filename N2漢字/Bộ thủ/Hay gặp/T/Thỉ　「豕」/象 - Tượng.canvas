@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e8c0fe2aaa0cb98a","type":"text","text":"象\tvoi, hình tượng\t\n像\t亻 + 象\thình ảnh, tượng\n橡\t木 + 象\tcây sồi\n襐\t衤 + 象\tbọc, gói (ít gặp)","x":-554,"y":-202,"width":291,"height":135},
+		{"id":"5b7d68d69fa94e06","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-109,"y":-227,"width":196,"height":101},
+		{"id":"573d637a5471246e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-99,"y":-67,"width":176,"height":118},
+		{"id":"dfd62708178e1df0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-99,"y":115,"width":167,"height":111},
+		{"id":"f4116ff497a7d166","type":"text","text":"象 - Tượng","x":-860,"y":-164,"width":250,"height":60},
+		{"id":"bd33d4aec20aef73","type":"text","text":"像 - Tượng","x":211,"y":141,"width":250,"height":60},
+		{"id":"1f3bb990a1d6913b","type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng.","x":611,"y":115,"width":250,"height":112},
+		{"id":"fcf7d5c7762393d6","x":-1180,"y":-220,"width":162,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas"}
+	],
+	"edges":[
+		{"id":"c71ee3bdaf48f3fc","fromNode":"f4116ff497a7d166","fromSide":"right","toNode":"e8c0fe2aaa0cb98a","toSide":"left"},
+		{"id":"1cb38538749e465b","fromNode":"5b7d68d69fa94e06","fromSide":"left","toNode":"e8c0fe2aaa0cb98a","toSide":"right"},
+		{"id":"7af24c63bc6581b3","fromNode":"573d637a5471246e","fromSide":"left","toNode":"e8c0fe2aaa0cb98a","toSide":"right"},
+		{"id":"e3a988916b194522","fromNode":"dfd62708178e1df0","fromSide":"left","toNode":"e8c0fe2aaa0cb98a","toSide":"right"},
+		{"id":"dc82eb4a43a6eb51","fromNode":"dfd62708178e1df0","fromSide":"right","toNode":"bd33d4aec20aef73","toSide":"left"},
+		{"id":"1dc9fbee87d8bb29","fromNode":"bd33d4aec20aef73","fromSide":"right","toNode":"1f3bb990a1d6913b","toSide":"left"},
+		{"id":"07d94180290502d5","fromNode":"fcf7d5c7762393d6","fromSide":"right","toNode":"f4116ff497a7d166","toSide":"left"}
+	]
+}

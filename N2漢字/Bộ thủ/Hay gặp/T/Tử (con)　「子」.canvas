@@ -20,7 +20,7 @@
 		{"id":"7e476fcb57fb2552","type":"text","text":"（じ・あざ）","x":640,"y":228,"width":250,"height":60},
 		{"id":"b32a89c2be5ce320","type":"text","text":"**名字（みょうじ / 名字）** = họ, tên họ (family name, surname)","x":704,"y":366,"width":276,"height":74},
 		{"id":"3b0a2c2b8b92a4fe","type":"text","text":"字 - Tự","x":248,"y":228,"width":250,"height":60},
-		{"id":"ba7f7436105b967a","x":-17,"y":89,"width":111,"height":65,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」.canvas"}
+		{"id":"ba7f7436105b967a","x":-17,"y":89,"width":111,"height":65,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
 	],
 	"edges":[
 		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"e636fe577ee85846","toSide":"left"},

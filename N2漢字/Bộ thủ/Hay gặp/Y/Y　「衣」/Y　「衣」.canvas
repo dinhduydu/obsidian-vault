@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cf0b41b2da0e3950","type":"text","text":"Y　「衣 (衤)」","x":-154,"y":-41,"width":250,"height":60},
+		{"id":"6ced3adc802145ed","x":-66,"y":-260,"width":162,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas"},
+		{"id":"0b750af13d261eda","x":280,"y":-194,"width":192,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/旅 - Lữ.canvas"}
+	],
+	"edges":[
+		{"id":"e1289dee9a90da9e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"0b750af13d261eda","toSide":"left"},
+		{"id":"ebe09ff1e214d087","fromNode":"6ced3adc802145ed","fromSide":"right","toNode":"0b750af13d261eda","toSide":"left"}
+	]
+}

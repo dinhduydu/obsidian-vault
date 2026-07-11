@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8ce159bdb5b16d4e","type":"text","text":"先延（さきのばし） là:\n\ntrì hoãn\nkéo dài ra sau\nprocrastination\n\nThường dùng khi:\n\nbiết nên làm nhưng cứ dời lại\npostpone intentionally/passively\n\nPhân tích:\n\n先（さき） = phía trước\n延ばす（のばす） = kéo dài\n\n→ “đẩy cái gì đó ra phía trước”\n= dời sang sau.\n\nLiên quan:\n\n延期（えんき） = hoãn chính thức\n後回し（あとまわし） = để sau\n保留（ほりゅう） = hold/tạm để đó\n\nKanji:\n\n延 = kéo dài, gia hạn\n(延長・延期・先延ばし)","x":64,"y":-263,"width":637,"height":920},
+		{"id":"7b77102a29bdb946","type":"text","text":"## Cấu tạo\n\n- 正 / 止 (bước chân, đi)\n- - 廴 (đi dài)\n\n→ ý gốc:  \n“kéo dài bước đi”  \n→ mở rộng thành:\n\n- kéo dài thời gian\n- trì hoãn\n- lan rộng","x":64,"y":-657,"width":589,"height":364},
+		{"id":"06dcd51e9d161c72","type":"text","text":"Ví dụ:\n\n仕事を先延ばしにする\n→ trì hoãn công việc\n決断を先延ばしにしている。\n→ đang kéo dài việc đưa ra quyết định\n先延ばし癖\n→ thói quen procrastinate","x":-701,"y":-252,"width":250,"height":267},
+		{"id":"66a7d8488121d2ec","type":"text","text":"延 - Duyên","x":-423,"y":-657,"width":250,"height":60},
+		{"id":"7604293d7e45d239","x":-794,"y":-723,"width":186,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"5e9d4d5f96729cde","fromNode":"66a7d8488121d2ec","fromSide":"right","toNode":"8ce159bdb5b16d4e","toSide":"left"},
+		{"id":"b0c15f9276ad3415","fromNode":"66a7d8488121d2ec","fromSide":"right","toNode":"7b77102a29bdb946","toSide":"left"},
+		{"id":"490148fccf5f0f0f","fromNode":"66a7d8488121d2ec","fromSide":"bottom","toNode":"06dcd51e9d161c72","toSide":"top"},
+		{"id":"3be57089d41db3a4","fromNode":"7604293d7e45d239","fromSide":"right","toNode":"66a7d8488121d2ec","toSide":"left"}
+	]
+}

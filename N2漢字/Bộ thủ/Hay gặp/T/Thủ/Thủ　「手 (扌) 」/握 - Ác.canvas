@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9d3a40ca68a7b9cf","type":"text","text":"握 - Ác","x":-132,"y":38,"width":124,"height":50},
+		{"id":"1ff14da77da830bd","type":"text","text":"握る　「にぎる」：cầm, nắm","x":120,"y":28,"width":250,"height":60},
+		{"id":"42b7ab89dbba9ec4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":-389,"y":-132,"width":163,"height":97}
+	],
+	"edges":[
+		{"id":"54dc4d3e29908083","fromNode":"9d3a40ca68a7b9cf","fromSide":"right","toNode":"1ff14da77da830bd","toSide":"left"},
+		{"id":"fcb589ba2c7a96bb","fromNode":"42b7ab89dbba9ec4","fromSide":"right","toNode":"9d3a40ca68a7b9cf","toSide":"left"}
+	]
+}

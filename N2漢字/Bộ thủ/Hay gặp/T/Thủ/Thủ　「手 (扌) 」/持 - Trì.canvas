@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"337671e6b7261784","type":"text","text":"mang trong mình một tính chất/trạng thái","x":-406,"y":-94,"width":250,"height":60},
+		{"id":"58d8f2c40c6afa3d","type":"text","text":"- Cầm, nắm, giữ\n- Sở hữu, có\n- Duy trì, kéo dài","x":-406,"y":33,"width":269,"height":95},
+		{"id":"0b6355a7ee307225","type":"text","text":"- 持つ（もつ）: cầm, giữ\n- 気持ち（きもち）: cảm xúc\n- 持続（じぞく）: duy trì\n- 持参（じさん）: mang theo","x":-8,"y":133,"width":291,"height":127},
+		{"id":"2679d6e3ac7def67","type":"text","text":"持 - Trì","x":-737,"y":-64,"width":250,"height":60},
+		{"id":"eb2754f937b592d8","type":"text","text":"Ví dụ:\n\n影響力を持つ\n→ có sức ảnh hưởng\n意味を持つ\n→ có ý nghĩa\n特徴を持つ\n→ mang đặc điểm","x":83,"y":-260,"width":334,"height":250},
+		{"id":"08cf259307362079","type":"text","text":"Nên:\n\n生活を持つ\n= có/duy trì một kiểu sống nào đó.","x":563,"y":-193,"width":317,"height":117},
+		{"id":"20379bacaffc63d4","type":"text","text":"寺 - Tự","x":-985,"y":33,"width":119,"height":60},
+		{"id":"701bd44a808db4b0","x":-1040,"y":-213,"width":174,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"8a6550bff273cae7","fromNode":"337671e6b7261784","fromSide":"right","toNode":"eb2754f937b592d8","toSide":"left"},
+		{"id":"48baafc6756b2065","fromNode":"2679d6e3ac7def67","fromSide":"right","toNode":"337671e6b7261784","toSide":"left"},
+		{"id":"c17e48a0d20ac3a2","fromNode":"58d8f2c40c6afa3d","fromSide":"right","toNode":"0b6355a7ee307225","toSide":"left"},
+		{"id":"921749401718dd5c","fromNode":"2679d6e3ac7def67","fromSide":"right","toNode":"58d8f2c40c6afa3d","toSide":"left"},
+		{"id":"d3f052f78a06b721","fromNode":"20379bacaffc63d4","fromSide":"right","toNode":"2679d6e3ac7def67","toSide":"left"},
+		{"id":"f3bac73a0e509f03","fromNode":"eb2754f937b592d8","fromSide":"right","toNode":"08cf259307362079","toSide":"left"},
+		{"id":"45a2b5f6bd7a2918","fromNode":"701bd44a808db4b0","fromSide":"right","toNode":"2679d6e3ac7def67","toSide":"left"}
+	]
+}

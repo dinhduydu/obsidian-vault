@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e2f50277935bd8e6","type":"text","text":"計 - Kế","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"87e0035b42f08e67","x":-360,"y":-160,"width":136,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"50cd0274499116b4","fromNode":"87e0035b42f08e67","fromSide":"right","toNode":"e2f50277935bd8e6","toSide":"left"}
+	]
+}

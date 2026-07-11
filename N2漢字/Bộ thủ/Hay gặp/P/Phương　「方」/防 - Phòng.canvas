@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8c9033e8f18038d1","type":"text","text":"防 - Phòng","x":-151,"y":-30,"width":250,"height":60},
+		{"id":"df109715ffaf9cdf","type":"text","text":"防ぐ　「ふせぐ」： Phòng bị","x":240,"y":-198,"width":250,"height":60},
+		{"id":"81e7724905d2acd5","type":"file","file":"Pasted image 20260526002752.png","x":584,"y":-420,"width":400,"height":240},
+		{"id":"9bffbb032c507109","type":"text","text":"gò đất, xây đê đập để nước ko chảy sang tứ phương","x":1156,"y":-392,"width":250,"height":60},
+		{"id":"6be5b130f515f98e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas","x":-480,"y":30,"width":160,"height":145},
+		{"id":"27ac895cf9cc8128","x":-460,"y":-270,"width":165,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"15b559b5cf5c3eb5","fromNode":"df109715ffaf9cdf","fromSide":"right","toNode":"81e7724905d2acd5","toSide":"left"},
+		{"id":"0f7f8acafa1d05fb","fromNode":"81e7724905d2acd5","fromSide":"right","toNode":"9bffbb032c507109","toSide":"left"},
+		{"id":"991b37864352cdfa","fromNode":"8c9033e8f18038d1","fromSide":"right","toNode":"df109715ffaf9cdf","toSide":"left"},
+		{"id":"fcad5880cf14924f","fromNode":"6be5b130f515f98e","fromSide":"right","toNode":"8c9033e8f18038d1","toSide":"left"},
+		{"id":"5a620fb72c2024ed","fromNode":"27ac895cf9cc8128","fromSide":"right","toNode":"8c9033e8f18038d1","toSide":"left"}
+	]
+}

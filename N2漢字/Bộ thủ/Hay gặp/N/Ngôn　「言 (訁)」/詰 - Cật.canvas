@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8f19ff9af6deac79","type":"text","text":"詰 - Cật","x":-195,"y":-78,"width":250,"height":60},
+		{"id":"dba830e4aba638f0","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md","x":239,"y":29,"width":321,"height":191},
+		{"id":"d4bdd563ad353dfb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-518,"y":-300,"width":164,"height":129},
+		{"id":"eb1f6e5a1dbf4dfb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/込む.canvas","x":-70,"y":149,"width":93,"height":142},
+		{"id":"89622f4e03e4a0b3","type":"text","text":"詰める","x":239,"y":-235,"width":250,"height":60},
+		{"id":"03a12cefffa5f709","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」.canvas","x":-488,"y":0,"width":134,"height":94}
+	],
+	"edges":[
+		{"id":"931f752f69a7e7ed","fromNode":"8f19ff9af6deac79","fromSide":"right","toNode":"89622f4e03e4a0b3","toSide":"left"},
+		{"id":"629aada74f5be6f9","fromNode":"8f19ff9af6deac79","fromSide":"right","toNode":"dba830e4aba638f0","toSide":"left","label":"Nhồi nhét"},
+		{"id":"cb3e735b51ea123a","fromNode":"03a12cefffa5f709","fromSide":"right","toNode":"8f19ff9af6deac79","toSide":"left"},
+		{"id":"c7c25a23c3a0b388","fromNode":"d4bdd563ad353dfb","fromSide":"right","toNode":"8f19ff9af6deac79","toSide":"left"},
+		{"id":"1e5d257990e4d592","fromNode":"eb1f6e5a1dbf4dfb","fromSide":"right","toNode":"dba830e4aba638f0","toSide":"left"}
+	]
+}

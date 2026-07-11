@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"14de13c615242dcd","type":"text","text":"灯 - Đăng","x":-110,"y":-36,"width":250,"height":60},
+		{"id":"1436c819dd4a9943","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-613,"y":-240,"width":158,"height":134},
+		{"id":"a17cf054d5da3815","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas","x":-630,"y":80,"width":193,"height":149}
+	],
+	"edges":[
+		{"id":"29d3ce23eda5ccaf","fromNode":"1436c819dd4a9943","fromSide":"right","toNode":"14de13c615242dcd","toSide":"left","label":"lửa làm ngọn đèn hải đăng"},
+		{"id":"fae9bed78d34c6c2","fromNode":"a17cf054d5da3815","fromSide":"right","toNode":"14de13c615242dcd","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bc76827880bb3990","type":"text","text":"伐 - Phạt","x":-132,"y":-60,"width":250,"height":60},
+		{"id":"bb6a1804d9969013","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-420,"y":20,"width":139,"height":134},
+		{"id":"11f3f0b78fbba599","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-402,"y":-220,"width":121,"height":136},
+		{"id":"662b2c714e482c23","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」.canvas","x":-59,"y":-339,"width":177,"height":119},
+		{"id":"b118db466a5ea984","x":300,"y":-240,"width":211,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/閥 - Phiệt.canvas"}
+	],
+	"edges":[
+		{"id":"d0ef3c00fd437e6f","fromNode":"bb6a1804d9969013","fromSide":"right","toNode":"bc76827880bb3990","toSide":"left"},
+		{"id":"bfd6e5292ba537b3","fromNode":"11f3f0b78fbba599","fromSide":"right","toNode":"bc76827880bb3990","toSide":"left"},
+		{"id":"5ef216b7ec681178","fromNode":"662b2c714e482c23","fromSide":"right","toNode":"b118db466a5ea984","toSide":"left"},
+		{"id":"c3d4b40fc6f49162","fromNode":"bc76827880bb3990","fromSide":"right","toNode":"b118db466a5ea984","toSide":"left"}
+	]
+}

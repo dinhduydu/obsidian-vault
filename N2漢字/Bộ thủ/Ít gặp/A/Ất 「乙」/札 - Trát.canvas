@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2084f49231a72acb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-60,"y":-57,"width":121,"height":114},
+		{"id":"08f7c2243d6b974d","type":"text","text":"札 - Trát","x":220,"y":-117,"width":250,"height":60},
+		{"id":"1eee880e21ce42fe","type":"text","text":"札　「ふだ」：","x":572,"y":-117,"width":250,"height":60},
+		{"id":"cf5fb4f837a2d216","type":"text","text":"tiền giấy","x":593,"y":-222,"width":250,"height":60},
+		{"id":"3c0f21f6eb84ec12","x":-111,"y":-316,"width":172,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"97a293e1b55a0cb8","fromNode":"08f7c2243d6b974d","fromSide":"right","toNode":"cf5fb4f837a2d216","toSide":"left"},
+		{"id":"59fb4e14f2df2d34","fromNode":"08f7c2243d6b974d","fromSide":"right","toNode":"1eee880e21ce42fe","toSide":"left"},
+		{"id":"580e193ff5239f28","fromNode":"2084f49231a72acb","fromSide":"right","toNode":"08f7c2243d6b974d","toSide":"left"},
+		{"id":"ad0fbbdbf9fa0613","fromNode":"3c0f21f6eb84ec12","fromSide":"right","toNode":"08f7c2243d6b974d","toSide":"left"}
+	]
+}

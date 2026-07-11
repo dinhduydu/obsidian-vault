@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1e295e5a8e495f47","type":"text","text":"thành viên, nhân viên","x":44,"y":-30,"width":250,"height":60},
+		{"id":"52b050a33d025946","type":"text","text":"員 - Viên","x":-293,"y":-30,"width":250,"height":60},
+		{"id":"6ffffe497586b0dd","x":-580,"y":-124,"width":155,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"b7d186587b8b1a09","x":-580,"y":100,"width":159,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"e2c9ae3d902e59f8","fromNode":"52b050a33d025946","fromSide":"right","toNode":"1e295e5a8e495f47","toSide":"left"},
+		{"id":"0de8bdfc9e7fc0bd","fromNode":"6ffffe497586b0dd","fromSide":"right","toNode":"52b050a33d025946","toSide":"left"},
+		{"id":"b95e551d6d7e4a45","fromNode":"b7d186587b8b1a09","fromSide":"right","toNode":"52b050a33d025946","toSide":"left"}
+	]
+}

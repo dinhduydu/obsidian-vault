@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e9e3079737bb3cf2","type":"text","text":"語 - Ngữ","x":-308,"y":-4,"width":250,"height":60},
+		{"id":"7056514ae7355c9a","type":"text","text":"ngôn ngữ, từ ngữ","x":59,"y":-55,"width":250,"height":60},
+		{"id":"634ad18ac6fbdc4b","x":-560,"y":-162,"width":137,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"05d70a1c95f429f2","fromNode":"e9e3079737bb3cf2","fromSide":"right","toNode":"7056514ae7355c9a","toSide":"left"},
+		{"id":"eb442d11a9d0c690","fromNode":"634ad18ac6fbdc4b","fromSide":"right","toNode":"e9e3079737bb3cf2","toSide":"left"}
+	]
+}

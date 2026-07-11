@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"99cbba6e610d4b88","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」.canvas","x":-132,"y":-320,"width":142,"height":122},
+		{"id":"d586e25d05352b6f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":80,"y":-198,"width":124,"height":82},
+		{"id":"6869ad412f081a78","type":"text","text":"Thị　「氏」","x":120,"y":-380,"width":250,"height":60},
+		{"id":"15faf8c6e3fa3908","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/婚 - Hôn.canvas","x":540,"y":-320,"width":126,"height":96},
+		{"id":"b06a8380cd2cca53","x":540,"y":-640,"width":177,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/民 - Dân.canvas"},
+		{"id":"963d3987619396c6","x":256,"y":-688,"width":114,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"2ffe485e685b206f","fromNode":"99cbba6e610d4b88","fromSide":"right","toNode":"15faf8c6e3fa3908","toSide":"left"},
+		{"id":"2801eb61e39dc6ed","fromNode":"d586e25d05352b6f","fromSide":"right","toNode":"15faf8c6e3fa3908","toSide":"left"},
+		{"id":"f29624b17f6e6c53","fromNode":"6869ad412f081a78","fromSide":"right","toNode":"15faf8c6e3fa3908","toSide":"left"},
+		{"id":"e891f9df98651c20","fromNode":"6869ad412f081a78","fromSide":"right","toNode":"b06a8380cd2cca53","toSide":"left"},
+		{"id":"1c6ae6d0cf995bc1","fromNode":"963d3987619396c6","fromSide":"right","toNode":"b06a8380cd2cca53","toSide":"left"}
+	]
+}

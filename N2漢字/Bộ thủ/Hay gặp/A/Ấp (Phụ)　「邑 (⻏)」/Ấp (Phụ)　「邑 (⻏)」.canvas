@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0a42937e6256dc0","type":"text","text":"Ấp (Phụ)　「邑 (⻏)」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e075c874ee4e7257","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/防 - Phòng.canvas","x":280,"y":-240,"width":226,"height":185},
+		{"id":"0f7d4a405d6c9880","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas","x":-75,"y":-304,"width":200,"height":129}
+	],
+	"edges":[
+		{"id":"8f8fdbb296ec698d","fromNode":"c0a42937e6256dc0","fromSide":"right","toNode":"e075c874ee4e7257","toSide":"left"},
+		{"id":"cdc6b0ec9f02b924","fromNode":"0f7d4a405d6c9880","fromSide":"right","toNode":"e075c874ee4e7257","toSide":"left"}
+	]
+}
