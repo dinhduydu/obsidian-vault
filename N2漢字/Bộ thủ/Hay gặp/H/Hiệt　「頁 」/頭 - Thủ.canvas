@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"495f36acf48f6f0f","x":240,"y":73,"width":250,"height":60,"type":"text","text":"頭 - Thủ"},
-		{"id":"de38f967e06fe85f","x":-40,"y":80,"width":160,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+		{"id":"495f36acf48f6f0f","type":"text","text":"頭 - Thủ","x":240,"y":73,"width":250,"height":60},
+		{"id":"a42b44584e84c97b","x":3,"y":-120,"width":117,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"},
+		{"id":"de38f967e06fe85f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":3,"y":133,"width":117,"height":80}
 	],
 	"edges":[
-		{"id":"5bde4b69010e5314","fromNode":"de38f967e06fe85f","fromSide":"right","toNode":"495f36acf48f6f0f","toSide":"left"}
+		{"id":"5bde4b69010e5314","fromNode":"de38f967e06fe85f","fromSide":"right","toNode":"495f36acf48f6f0f","toSide":"left"},
+		{"id":"7e34edb44d5b6e74","fromNode":"a42b44584e84c97b","fromSide":"right","toNode":"495f36acf48f6f0f","toSide":"left"}
 	]
 }

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0789575f84349db0","type":"text","text":"届 - Giới","x":-421,"y":17,"width":250,"height":60},
+		{"id":"535c7685076bc94b","type":"text","text":"**Cấu tạo:**\n\n- Phần trên/trái: 尸 (bộ Thi)\n- Phần dưới: 由 Do","x":-28,"y":-224,"width":291,"height":144},
+		{"id":"760a6b86daa73e38","type":"text","text":"Nghĩa của 届:\n\n- đến nơi, được giao tới\n- nộp, gửi","x":-11,"y":83,"width":250,"height":117},
+		{"id":"6d164ebfa466777b","type":"text","text":"- 荷物が届く（にもつ が とどく）: hàng được giao đến\n- 書類を届ける（しょるい を とどける）: nộp/gửi giấy tờ","x":343,"y":64,"width":520,"height":96},
+		{"id":"d1ba91028fd5f426","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」/Do　「由」.canvas","x":-737,"y":-152,"width":155,"height":118},
+		{"id":"b129f2f7d023937f","x":-760,"y":83,"width":148,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"bae7c8468cd970db","fromNode":"b129f2f7d023937f","fromSide":"right","toNode":"0789575f84349db0","toSide":"left"},
+		{"id":"da49b52bc926efb9","fromNode":"0789575f84349db0","fromSide":"right","toNode":"535c7685076bc94b","toSide":"left"},
+		{"id":"e7813a7253f4d414","fromNode":"0789575f84349db0","fromSide":"right","toNode":"760a6b86daa73e38","toSide":"left"},
+		{"id":"fbc002fc0a8ae6b3","fromNode":"d1ba91028fd5f426","fromSide":"right","toNode":"0789575f84349db0","toSide":"left"},
+		{"id":"3685ce4459c98086","fromNode":"760a6b86daa73e38","fromSide":"right","toNode":"6d164ebfa466777b","toSide":"left"}
+	]
+}

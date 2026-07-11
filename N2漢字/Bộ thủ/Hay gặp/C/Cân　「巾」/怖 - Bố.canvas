@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86d6add408bb3ec5","type":"text","text":"怖 - Bố","x":-248,"y":-53,"width":250,"height":60},
+		{"id":"8c5e131ace993a41","x":-460,"y":-180,"width":105,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/布 - Bố.canvas"},
+		{"id":"48dd4fe8f1d6f4b9","x":-470,"y":7,"width":115,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"ccf777001caaebed","fromNode":"8c5e131ace993a41","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"},
+		{"id":"bea41291c6f7f975","fromNode":"48dd4fe8f1d6f4b9","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"}
+	]
+}

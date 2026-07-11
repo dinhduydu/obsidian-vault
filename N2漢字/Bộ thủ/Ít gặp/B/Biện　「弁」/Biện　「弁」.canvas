@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"5ef4df458a1f8d22","x":-380,"y":0,"width":250,"height":60,"type":"text","text":"Biện　「弁」"},
-		{"id":"87a605f843d079a2","x":-700,"y":-180,"width":130,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」.canvas"},
+		{"id":"87a605f843d079a2","x":-700,"y":-180,"width":130,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
 		{"id":"547004d8a12fcfc5","x":-700,"y":60,"width":148,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
 		{"id":"5cde85ee25884ebe","x":46,"y":-181,"width":250,"height":60,"type":"text","text":"弁明　「べんめい」：biện minh"}
 	],

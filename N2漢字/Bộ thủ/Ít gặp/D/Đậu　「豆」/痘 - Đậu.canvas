@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"005b968e3eb48351","x":-51,"y":-3,"width":250,"height":60,"type":"text","text":"痘 - Đậu"},
+		{"id":"dae4674dd7422b6f","x":-420,"y":-108,"width":249,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas"},
+		{"id":"131e7c0b05bbe3e8","x":-359,"y":100,"width":188,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"e70f5da4fcb7a159","fromNode":"dae4674dd7422b6f","fromSide":"right","toNode":"005b968e3eb48351","toSide":"left"},
+		{"id":"782997d187532d43","fromNode":"131e7c0b05bbe3e8","fromSide":"right","toNode":"005b968e3eb48351","toSide":"left"}
+	]
+}

@@ -6,9 +6,11 @@
 		{"id":"f4f5d85fe36cddef","type":"text","text":"左右　「さゆう」：","x":561,"y":-240,"width":250,"height":60},
 		{"id":"ddef62e8ad1dde29","type":"text","text":"有（ゆう・ある）- Hữu","x":140,"y":38,"width":250,"height":60},
 		{"id":"93298fe14e758084","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":-103,"y":120,"width":147,"height":91},
-		{"id":"79e669c1aa61cb9a","x":153,"y":-85,"width":250,"height":60,"type":"text","text":"友（とも）- Hữu"},
-		{"id":"7ef1f6799cc4abce","x":585,"y":-63,"width":250,"height":60,"type":"text","text":"Hai bàn tay nắm lấy nhau → bạn bè."},
-		{"id":"035525d72d5a341f","x":-500,"y":-173,"width":250,"height":110,"type":"text","text":"Là hình tay cổ xưa hơn, thường xuất hiện trong chữ tượng hình cổ."}
+		{"id":"79e669c1aa61cb9a","type":"text","text":"友（とも）- Hữu","x":153,"y":-85,"width":250,"height":60},
+		{"id":"7ef1f6799cc4abce","type":"text","text":"Hai bàn tay nắm lấy nhau → bạn bè.","x":585,"y":-63,"width":250,"height":60},
+		{"id":"035525d72d5a341f","type":"text","text":"Là hình tay cổ xưa hơn, thường xuất hiện trong chữ tượng hình cổ.","x":-500,"y":-173,"width":250,"height":110},
+		{"id":"f9258721553e67f8","x":153,"y":240,"width":164,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/布 - Bố.canvas"},
+		{"id":"d590aef9cafce236","x":-81,"y":352,"width":125,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
 	],
 	"edges":[
 		{"id":"754977061bde4a7a","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"ce82200634e9dd0d","toSide":"left"},
@@ -19,7 +21,8 @@
 		{"id":"29241047443ebc48","fromNode":"93298fe14e758084","fromSide":"right","toNode":"ddef62e8ad1dde29","toSide":"left"},
 		{"id":"842c18afe1ebc92d","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"79e669c1aa61cb9a","toSide":"left"},
 		{"id":"aa58143bf6dd1b0e","fromNode":"79e669c1aa61cb9a","fromSide":"right","toNode":"7ef1f6799cc4abce","toSide":"left"},
-		{"id":"94a10f47d1790a72","fromNode":"035525d72d5a341f","fromSide":"right","toNode":"b287e976157848da","toSide":"left"},
-		{"id":"327433ef4f067876","fromNode":"6c33ac5c577aefcc","fromSide":"left","toNode":"035525d72d5a341f","toSide":"right"}
+		{"id":"327433ef4f067876","fromNode":"6c33ac5c577aefcc","fromSide":"left","toNode":"035525d72d5a341f","toSide":"right"},
+		{"id":"2158693fab067dfe","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"f9258721553e67f8","toSide":"left"},
+		{"id":"8c57d8480483fe43","fromNode":"d590aef9cafce236","fromSide":"right","toNode":"f9258721553e67f8","toSide":"left"}
 	]
 }

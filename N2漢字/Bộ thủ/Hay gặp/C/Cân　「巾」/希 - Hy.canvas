@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a7bc288842514682","type":"text","text":"希 - Hy","x":-136,"y":-52,"width":250,"height":60},
+		{"id":"61409f47eed0af63","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/布 - Bố.canvas","x":-440,"y":-300,"width":163,"height":149},
+		{"id":"2465e4b22d2492e1","x":-396,"y":8,"width":119,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas"}
+	],
+	"edges":[
+		{"id":"95c624fe57e7c430","fromNode":"61409f47eed0af63","fromSide":"right","toNode":"a7bc288842514682","toSide":"left"},
+		{"id":"a86c3ee57b37e259","fromNode":"2465e4b22d2492e1","fromSide":"right","toNode":"a7bc288842514682","toSide":"left"}
+	]
+}

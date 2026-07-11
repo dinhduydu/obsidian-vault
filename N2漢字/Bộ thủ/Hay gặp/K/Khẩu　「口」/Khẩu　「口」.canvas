@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"68a738dca89dd93d","type":"text","text":"Khẩu　「口」","x":-198,"y":-6,"width":250,"height":60},
+		{"id":"101cf89f23e21a19","type":"text","text":"喉","x":255,"y":51,"width":250,"height":60},
+		{"id":"21f40ef35e21fa92","type":"text","text":"### 呑\n\n- Bộ thủ: **口（くち）**\n- Nghĩa gốc: nuốt","x":269,"y":255,"width":250,"height":125},
+		{"id":"b7eec87a5e2f5ed9","type":"text","text":"- **呑気**\n- hoặc hiragana: のんき","x":705,"y":249,"width":250,"height":91},
+		{"id":"5e9496d0862d0374","type":"text","text":"Tùy ngữ cảnh có thể:\n\n- tích cực: thoải mái, không stress\n- tiêu cực: quá vô tư, thiếu cảnh giác","x":1081,"y":202,"width":339,"height":158},
+		{"id":"968690fbd38594b5","type":"text","text":"- vô tư\n- thong thả\n- không lo nghĩ nhiều\n- carefree / easygoing","x":1085,"y":473,"width":335,"height":127},
+		{"id":"c9a8c31355ab88f2","type":"text","text":"**のんき**な人  \n（のんき な ひと）  \nNgười vô tư.","x":1607,"y":434,"width":250,"height":103},
+		{"id":"99c39726787c9752","type":"text","text":"そんな**のんき**なことを言っている場合じゃない。\n（そんな のんき な こと を いって いる ばあい じゃ ない。）\nKhông phải lúc để nói mấy điều vô tư như vậy.","x":1607,"y":600,"width":566,"height":102},
+		{"id":"a1bed289ff68db26","x":255,"y":-200,"width":133,"height":63,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/合 - Hợp.canvas"}
+	],
+	"edges":[
+		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},
+		{"id":"dba9f27a1ad3c1f7","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"101cf89f23e21a19","toSide":"left"},
+		{"id":"f3fa1cca8562952d","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"21f40ef35e21fa92","toSide":"left"},
+		{"id":"88f80e3fd7787bda","fromNode":"21f40ef35e21fa92","fromSide":"right","toNode":"b7eec87a5e2f5ed9","toSide":"left"},
+		{"id":"66c87155c07040a3","fromNode":"b7eec87a5e2f5ed9","fromSide":"right","toNode":"5e9496d0862d0374","toSide":"left"},
+		{"id":"6b9c847d9a2ecd70","fromNode":"b7eec87a5e2f5ed9","fromSide":"right","toNode":"968690fbd38594b5","toSide":"left"},
+		{"id":"48eed6618fd6ac3c","fromNode":"968690fbd38594b5","fromSide":"right","toNode":"c9a8c31355ab88f2","toSide":"left"},
+		{"id":"4e308cd9c8508577","fromNode":"968690fbd38594b5","fromSide":"right","toNode":"99c39726787c9752","toSide":"left"}
+	]
+}

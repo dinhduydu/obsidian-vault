@@ -9,7 +9,7 @@
 		{"id":"f61a13deaa4335ba","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」.canvas","x":-200,"y":36,"width":124,"height":107},
 		{"id":"d0690ea02d86baec","type":"text","text":"教 - Giáo","x":-201,"y":272,"width":250,"height":60},
 		{"id":"bde77b162cdb450c","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」.canvas","x":-460,"y":-260,"width":156,"height":104},
-		{"id":"113284df7282322c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」.canvas","x":-480,"y":320,"width":172,"height":149},
+		{"id":"113284df7282322c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-480,"y":320,"width":172,"height":149},
 		{"id":"31594459bc88c6ef","type":"text","text":"改 - Cải","x":-220,"y":574,"width":250,"height":60},
 		{"id":"b8c86adbbe3f2aed","type":"text","text":"放 - Phóng","x":-309,"y":699,"width":250,"height":60},
 		{"id":"df6093df8338bcc4","type":"text","text":"倣 - Phòng","x":124,"y":788,"width":250,"height":60},
@@ -21,7 +21,7 @@
 		{"id":"8b59f03c72b9b06b","type":"text","text":"故 - Cố","x":-420,"y":1300,"width":250,"height":60},
 		{"id":"fc09f8425f898275","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/古 - Cổ.canvas","x":-735,"y":1380,"width":134,"height":170},
 		{"id":"ff4a2c9d11f90e36","x":-350,"y":1058,"width":250,"height":60,"type":"text","text":"救 - Cứu"},
-		{"id":"12e9aa2be6c8936e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」.canvas","x":-1300,"y":311,"width":177,"height":167}
+		{"id":"12e9aa2be6c8936e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」/Truy　「夂」.canvas","x":-1300,"y":311,"width":177,"height":167}
 	],
 	"edges":[
 		{"id":"8d49fb146311cb8d","fromNode":"afdf3fa7c2ecc46b","fromSide":"right","toNode":"d25b812815f1611c","toSide":"left"},

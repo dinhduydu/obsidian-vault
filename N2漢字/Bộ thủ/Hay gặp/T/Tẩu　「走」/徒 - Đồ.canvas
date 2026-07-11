@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cc718da2a6093c73","type":"text","text":"徒 - Đồ","x":-167,"y":-128,"width":250,"height":60},
+		{"id":"93afde6199d1e1f3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-478,"y":-29,"width":201,"height":173},
+		{"id":"9e5df61fee8ea23b","type":"text","text":"生徒　「せいと」：","x":204,"y":-144,"width":250,"height":60},
+		{"id":"ff26bd95e57d88bb","type":"text","text":"徒歩　「とほ」：","x":229,"y":-6,"width":250,"height":60},
+		{"id":"f2d58f96498482e4","x":-400,"y":-254,"width":116,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas"}
+	],
+	"edges":[
+		{"id":"81aa50f8208c8310","fromNode":"cc718da2a6093c73","fromSide":"right","toNode":"9e5df61fee8ea23b","toSide":"left"},
+		{"id":"76e31265d037960c","fromNode":"cc718da2a6093c73","fromSide":"right","toNode":"ff26bd95e57d88bb","toSide":"left"},
+		{"id":"d20280cbb8cbfd32","fromNode":"93afde6199d1e1f3","fromSide":"right","toNode":"cc718da2a6093c73","toSide":"left"},
+		{"id":"9c977af2087b61d9","fromNode":"f2d58f96498482e4","fromSide":"right","toNode":"cc718da2a6093c73","toSide":"left"}
+	]
+}

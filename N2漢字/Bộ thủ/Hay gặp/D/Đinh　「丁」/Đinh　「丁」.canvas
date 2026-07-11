@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"42addf0c13dca116","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-1113,"y":48,"width":98,"height":104},
-		{"id":"c0d4ec4aeeeddba9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quyết　「亅」.canvas","x":-1113,"y":260,"width":112,"height":111},
+		{"id":"c0d4ec4aeeeddba9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quyết　「亅」/Quyết　「亅」.canvas","x":-1113,"y":260,"width":112,"height":111},
 		{"id":"9a8e00e83274c44e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灯 - Đăng.canvas","x":-300,"y":-180,"width":140,"height":139},
 		{"id":"05c1a679b2f597b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-881,"y":-480,"width":197,"height":151},
 		{"id":"31b57e4416351ec2","type":"text","text":"Đinh　「丁」","x":-908,"y":193,"width":250,"height":60},
@@ -9,7 +9,7 @@
 		{"id":"e621be7884709fc6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm công cụ, vật dụng bằng kim loại/釘 - Đinh.canvas","x":210,"y":1914,"width":149,"height":50},
 		{"id":"7ddb5b8a7b7fdf8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-40,"y":1992,"width":100,"height":95},
 		{"id":"4425f9769999a841","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas","x":-38,"y":2240,"width":240,"height":171},
-		{"id":"78a1877a677de2a6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-310,"y":2391,"width":129,"height":99},
+		{"id":"78a1877a677de2a6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-310,"y":2391,"width":129,"height":99},
 		{"id":"96699fe02e288a41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-201,"y":960,"width":161,"height":120},
 		{"id":"d4d7536c2a8f6493","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」.canvas","x":-190,"y":1180,"width":150,"height":159},
 		{"id":"055ddac39376786a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/貯 - Trữ.canvas","x":210,"y":1379,"width":177,"height":101},

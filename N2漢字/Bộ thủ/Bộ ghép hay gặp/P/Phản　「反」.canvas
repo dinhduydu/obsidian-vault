@@ -43,7 +43,7 @@
 		{"id":"4f064bb071b3fae1","type":"text","text":"大阪　「おおさか」：","x":913,"y":2257,"width":250,"height":60},
 		{"id":"e765486734e4126a","type":"text","text":"坂　「さか」：","x":573,"y":2500,"width":250,"height":60},
 		{"id":"72cd08ff6c8258f0","type":"text","text":"坂道　「さかみち」：","x":664,"y":2657,"width":250,"height":60},
-		{"id":"dd25a23818795a60","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":330,"y":2560,"width":122,"height":131},
+		{"id":"dd25a23818795a60","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":330,"y":2560,"width":122,"height":131},
 		{"id":"ccbbcdb5b26bf6f2","type":"text","text":"Phản　「反」","x":-400,"y":81,"width":250,"height":60}
 	],
 	"edges":[

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"1c78d2c5bec4271b","type":"text","text":"Trung　「中」","x":-180,"y":-59,"width":250,"height":60},
-		{"id":"0e752e27ad138071","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」.canvas","x":-500,"y":-133,"width":153,"height":74},
+		{"id":"0e752e27ad138071","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-500,"y":-133,"width":153,"height":74},
 		{"id":"0a331ed35d8d8e3f","type":"text","text":"Cổn","x":-597,"y":100,"width":250,"height":60},
 		{"id":"cbd2427f697349f4","type":"text","text":"仲 - Trọng","x":240,"y":-247,"width":250,"height":60},
 		{"id":"cba98a1b80cec29b","type":"text","text":"仲間　「なかま」：","x":562,"y":-247,"width":250,"height":60},
@@ -9,7 +9,7 @@
 		{"id":"18121e38fb573fe8","x":280,"y":40,"width":250,"height":60,"type":"text","text":"忠 - Trung"},
 		{"id":"9bd994e68042d7da","x":604,"y":40,"width":250,"height":60,"type":"text","text":"忠実　「ちゅうじつ」：trung thực"},
 		{"id":"cb468f3261076ab9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-58,"y":200,"width":128,"height":116},
-		{"id":"9c84f48668dc9a86","x":-113,"y":500,"width":183,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas"},
+		{"id":"9c84f48668dc9a86","x":-113,"y":500,"width":183,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
 		{"id":"a4a02e4ec004b9f6","x":280,"y":380,"width":250,"height":60,"type":"text","text":"沖 - Trùng"},
 		{"id":"1d128d87b4a3d3b7","x":687,"y":380,"width":250,"height":60,"type":"text","text":"沖合　「おきあい」： ngoài khơi"}
 	],

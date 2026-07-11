@@ -6,8 +6,8 @@
 		{"id":"e09e1ebb7976454c","type":"text","text":"Đao　「刀 (刂)」","x":-357,"y":-40,"width":250,"height":60},
 		{"id":"2a375288168c8ff2","x":140,"y":150,"width":250,"height":60,"type":"text","text":"刷 - Loát"},
 		{"id":"8aa32441504d39bf","x":500,"y":150,"width":250,"height":60,"type":"text","text":"印刷　「いんさつ」："},
-		{"id":"fcc9ea85e8492d3f","x":-172,"y":260,"width":131,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」.canvas"},
-		{"id":"12bffd7b23cda330","x":-181,"y":480,"width":140,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」.canvas"}
+		{"id":"fcc9ea85e8492d3f","x":-172,"y":260,"width":131,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"12bffd7b23cda330","x":-181,"y":480,"width":140,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
 	],
 	"edges":[
 		{"id":"cc92790cc22f428c","fromNode":"3015003bb902d726","fromSide":"right","toNode":"b9ae4ed2510ec9d6","toSide":"left"},

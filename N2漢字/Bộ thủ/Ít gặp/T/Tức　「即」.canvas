@@ -6,7 +6,7 @@
 		{"id":"902a4786d7dc43dd","type":"text","text":"## Phân biệt các từ gần nghĩa\n\n|Từ|Nghĩa|\n|---|---|\n|調節|điều chỉnh mức độ cho phù hợp|\n|調整（ちょうせい）|điều chỉnh, cân đối nhiều yếu tố|\n|修正（しゅうせい）|sửa chữa lỗi|\n|設定（せってい）|thiết lập|","x":214,"y":-133,"width":506,"height":259},
 		{"id":"9a06c78d08ae6962","type":"text","text":"- 季節（きせつ）: mùa\n- 関節（かんせつ）: khớp\n- 節約（せつやく）: tiết kiệm\n- 調節（ちょうせつ）: điều chỉnh, điều tiết","x":223,"y":241,"width":417,"height":125},
 		{"id":"df341e28dc1728f7","x":-1080,"y":-60,"width":250,"height":60,"type":"text","text":"Tức　「即」"},
-		{"id":"8510454992f79030","x":-1040,"y":-314,"width":129,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas"}
+		{"id":"8510454992f79030","x":-1040,"y":-314,"width":129,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
 	],
 	"edges":[
 		{"id":"03ee7df90df4db18","fromNode":"01fda36817aab588","fromSide":"right","toNode":"0d272634e8a96ae4","toSide":"left"},

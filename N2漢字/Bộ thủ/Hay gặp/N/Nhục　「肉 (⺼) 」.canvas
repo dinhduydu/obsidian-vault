@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"00d3b586a3def378","type":"group","x":260,"y":-580,"width":899,"height":1130,"label":"Bộ phận cơ thể người"},
 		{"id":"9a0cbdd0c41e28aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":40,"y":-1100,"width":123,"height":83},
-		{"id":"fe8ffa81065bcec2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ　「永」.canvas","x":-860,"y":252,"width":211,"height":177},
+		{"id":"fe8ffa81065bcec2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「永」/Thuỷ　「永」.canvas","x":-860,"y":252,"width":211,"height":177},
 		{"id":"10a6be86524625f2","type":"text","text":"trẫm, vua xưng","x":421,"y":993,"width":250,"height":60},
 		{"id":"523f9ab84af15f04","type":"text","text":"nở ra, bành trướng","x":447,"y":1100,"width":250,"height":60},
 		{"id":"173de92644be8f48","type":"text","text":"bản sao","x":447,"y":1196,"width":250,"height":60},
@@ -16,7 +16,7 @@
 		{"id":"0ff2a5d84a5a34db","type":"text","text":"肺 - Phế","x":328,"y":-381,"width":250,"height":60},
 		{"id":"7af6173cae4dad0b","type":"text","text":"Phổi","x":703,"y":-381,"width":250,"height":60},
 		{"id":"d9ad1dcb0d6e81bd","type":"text","text":"永 → dòng nước chảy\n𠂢 (phần nét xiên phía trên)","x":-600,"y":310,"width":250,"height":60},
-		{"id":"09c34599b9ea29af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":-580,"y":100,"width":144,"height":141},
+		{"id":"09c34599b9ea29af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-580,"y":100,"width":144,"height":141},
 		{"id":"9968fc95be3d0be8","type":"text","text":"Lliên quan đến cơ thể, bộ Nhục viết biến dạng thành **月** ở bên trái.","x":-730,"y":-482,"width":260,"height":101},
 		{"id":"8c90498e5da35492","type":"text","text":"筋　「すじ」：cốt truyện, gân","x":1216,"y":195,"width":250,"height":60},
 		{"id":"b896006b729294a1","type":"text","text":"筋肉　「きんにく」：cơ bắp","x":1220,"y":356,"width":250,"height":60},
@@ -37,7 +37,7 @@
 		{"id":"777c1f2f470cbdde","type":"text","text":"ruột","x":889,"y":-201,"width":250,"height":60},
 		{"id":"6f41af72cb4dec69","type":"text","text":"脳 - Não","x":297,"y":235,"width":250,"height":60},
 		{"id":"bb68d69ecdc63029","type":"text","text":"- Mạch máu\n- Mạch đập\n- Dòng chảy liên tục\n- Quan hệ, đầu mối, cơ hội (恋愛脈, 人脈...)","x":691,"y":34,"width":369,"height":126},
-		{"id":"9734519e6342272d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas","x":751,"y":190,"width":87,"height":90},
+		{"id":"9734519e6342272d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":751,"y":190,"width":87,"height":90},
 		{"id":"47ce926c0573020a","type":"text","text":"肢 - Chi","x":626,"y":-54,"width":250,"height":60},
 		{"id":"602400159dc432b5","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas","x":381,"y":-105,"width":143,"height":81}
 	],

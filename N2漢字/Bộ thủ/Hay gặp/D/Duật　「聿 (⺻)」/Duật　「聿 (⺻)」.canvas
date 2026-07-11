@@ -13,8 +13,8 @@
 		{"id":"cad9e7f208a51072","type":"text","text":"港","x":701,"y":-840,"width":250,"height":60},
 		{"id":"3dc15cfe4bce0e30","type":"text","text":"津 - Tân","x":-19,"y":-780,"width":250,"height":60},
 		{"id":"abd657b5bc4bb7c8","type":"text","text":"津波","x":326,"y":-680,"width":250,"height":60},
-		{"id":"7b09ca38a70c02ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ「氵」.canvas","x":-240,"y":-1100,"width":166,"height":114},
-		{"id":"49beee5eb59bf4d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」.canvas","x":80,"y":380,"width":124,"height":66},
+		{"id":"7b09ca38a70c02ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-240,"y":-1100,"width":166,"height":114},
+		{"id":"49beee5eb59bf4d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":80,"y":380,"width":124,"height":66},
 		{"id":"e7dc8914f89c40fa","x":676,"y":170,"width":250,"height":60,"type":"text","text":"規律　「きりつ」：quy luật"},
 		{"id":"4daa330a5b4f4b85","type":"text","text":"法律","x":676,"y":30,"width":250,"height":60}
 	],

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"adee7d88dc2eb0d2","x":-300,"y":-120,"width":250,"height":60,"type":"text","text":"Kỷ　「己」"},
+		{"id":"7ed279e81bcab990","x":100,"y":-262,"width":220,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/起 - Khởi.canvas"}
+	],
+	"edges":[
+		{"id":"516f962050e728d3","fromNode":"adee7d88dc2eb0d2","fromSide":"right","toNode":"7ed279e81bcab990","toSide":"left"}
+	]
+}

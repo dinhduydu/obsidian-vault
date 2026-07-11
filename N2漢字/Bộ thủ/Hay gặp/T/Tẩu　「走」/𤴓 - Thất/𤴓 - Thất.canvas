@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d981b94b23ca96f9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas","x":-560,"y":-83,"width":131,"height":81},
+		{"id":"20d9062c5036dccf","type":"text","text":"𤴓 - Thất","x":120,"y":-72,"width":250,"height":60},
+		{"id":"37cb15bab2a0a410","type":"text","text":"Thất　「疋 (⺪) 」","x":460,"y":-200,"width":250,"height":60},
+		{"id":"7e6c8c45b14f0745","type":"text","text":"đơn vị vải","x":842,"y":-340,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"25cd70b54387b884","fromNode":"d981b94b23ca96f9","fromSide":"right","toNode":"20d9062c5036dccf","toSide":"left","label":"coi chữ Thất là 1 dạng biến thể của Tẩu"},
+		{"id":"857931237d2c1607","fromNode":"37cb15bab2a0a410","fromSide":"right","toNode":"7e6c8c45b14f0745","toSide":"left"},
+		{"id":"6a16a18818150ffe","fromNode":"20d9062c5036dccf","fromSide":"right","toNode":"37cb15bab2a0a410","toSide":"left"}
+	]
+}

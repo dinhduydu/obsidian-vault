@@ -4,7 +4,7 @@
 		{"id":"2d8182c61783a0be","type":"text","text":"覚 - Giác","x":260,"y":-40,"width":250,"height":60},
 		{"id":"88c43e7f658d5f3f","type":"text","text":"覚える　「おぼえる」： cảm giác","x":660,"y":-40,"width":250,"height":60},
 		{"id":"86404c62a1232ce5","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":676,"y":74,"width":250,"height":60},
-		{"id":"77ad0c9a05e37e66","x":-140,"y":134,"width":192,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」.canvas"}
+		{"id":"77ad0c9a05e37e66","x":-140,"y":134,"width":192,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
 	],
 	"edges":[
 		{"id":"fdd4db9c481940d0","fromNode":"2d8182c61783a0be","fromSide":"right","toNode":"88c43e7f658d5f3f","toSide":"left"},

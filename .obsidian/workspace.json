@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas",
                 "viewState": {
-                  "x": -172.95066093285385,
-                  "y": -107.62902532305085,
-                  "zoom": -0.356193747499772
+                  "x": 271.5,
+                  "y": -42.2421875,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tẩu　「走」"
+              "title": "Đậu　「豆」"
             }
           },
           {
@@ -32,13 +32,64 @@
               "state": {
                 "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas",
                 "viewState": {
-                  "x": 404.583994785532,
-                  "y": -1196.778581466771,
-                  "zoom": 0.5201180033137243
+                  "x": 469.48290018734514,
+                  "y": -222.27062822877645,
+                  "zoom": -0.4798819966862757
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Kim　「金 (釒)」"
+            }
+          },
+          {
+            "id": "a20c721deb56cfdd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas",
+                "viewState": {
+                  "x": 91.82723778626871,
+                  "y": -107.91405453557009,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cân　「巾」"
+            }
+          },
+          {
+            "id": "a088096010706a06",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas",
+                "viewState": {
+                  "x": 416.39654222719065,
+                  "y": 8.143137502604276,
+                  "zoom": -0.3333333333333332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thi　「尸」"
+            }
+          },
+          {
+            "id": "4f43b5bb07440c1f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tỷ　「比」"
             }
           },
           {
@@ -261,7 +312,8 @@
               "title": "1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -412,27 +464,27 @@
   },
   "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/Đê　「氐」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/邸 - Để.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/抵 - Đề.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/低 - Đê.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」/底 - Đê.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/礼 - Lễ.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đê　「氐」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/札 - Trát.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」",
-    "N2漢字/Bộ thủ/Ít gặp/A/Ao　「凹」",
-    "N2漢字/Bộ thủ/Ít gặp/A/Á　「襾 (西)」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Dược　「龠」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đẩu　「斗 」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tự　「自 」/Tự　「自 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tự　「自 」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tử",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「隹」/Truy　「隹」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「隹」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」/Truy　「夂」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「永」/Thuỷ　「永」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas",
     "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
     "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",

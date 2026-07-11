@@ -24,12 +24,12 @@
 		{"id":"c6aad12936f96300","type":"text","text":"附 - Phụ","x":-52,"y":860,"width":250,"height":60},
 		{"id":"0c5a3ab9f4b132b1","type":"text","text":"đính kèm, phụ thuộc","x":298,"y":867,"width":250,"height":60},
 		{"id":"0be91f017670b615","type":"text","text":"堕 - Đoạ","x":-52,"y":980,"width":250,"height":60},
-		{"id":"b44f018aa5e16bfa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」.canvas","x":-280,"y":1100,"width":128,"height":80},
+		{"id":"b44f018aa5e16bfa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-280,"y":1100,"width":128,"height":80},
 		{"id":"b5eb006bbc829e30","type":"text","text":"有 - Hữu","x":-500,"y":980,"width":250,"height":60},
 		{"id":"96977dc3dae32aec","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":-650,"y":920,"width":71,"height":70},
 		{"id":"b277a1d8f92ef5db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":-650,"y":1040,"width":71,"height":60},
 		{"id":"4d4561edba834c49","x":-285,"y":844,"width":133,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
-		{"id":"78a3a27818cc786e","x":-312,"y":687,"width":125,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」.canvas"}
+		{"id":"78a3a27818cc786e","x":-312,"y":687,"width":125,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
 	],
 	"edges":[
 		{"id":"505c7d8ffff11107","fromNode":"fe611471988920e1","fromSide":"right","toNode":"759b7e9f3f1eaebb","toSide":"left"},

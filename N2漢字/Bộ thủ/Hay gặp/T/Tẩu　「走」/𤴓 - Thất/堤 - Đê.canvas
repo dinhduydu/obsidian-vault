@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b21e81f5b758b554","x":-64,"y":-92,"width":250,"height":60,"type":"text","text":"堤 - Đề"},
+		{"id":"4640ffa5627b418b","x":-360,"y":-215,"width":169,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas"},
+		{"id":"5824e3c46fd72907","x":-352,"y":0,"width":161,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"5167760f32375fd1","fromNode":"4640ffa5627b418b","fromSide":"right","toNode":"b21e81f5b758b554","toSide":"left"},
+		{"id":"e570eee99a2afd86","fromNode":"5824e3c46fd72907","fromSide":"right","toNode":"b21e81f5b758b554","toSide":"left"}
+	]
+}

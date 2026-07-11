@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1540634b8b476e96","type":"text","text":"Thất　「疋 (⺪) 」","x":-82,"y":-40,"width":250,"height":60},
+		{"id":"c279d7649d9c6c46","type":"text","text":"đơn vị vải","x":300,"y":-180,"width":250,"height":60},
+		{"id":"db6456a0cf00300e","x":-420,"y":-120,"width":141,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/𤴓 - Thất.canvas"}
+	],
+	"edges":[
+		{"id":"428c04e41c29c3ce","fromNode":"1540634b8b476e96","fromSide":"right","toNode":"c279d7649d9c6c46","toSide":"left"},
+		{"id":"04b029c1a68cd71f","fromNode":"db6456a0cf00300e","fromSide":"right","toNode":"1540634b8b476e96","toSide":"left"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f1291e5e20333745","type":"text","text":"布 - Bố","x":-39,"y":-57,"width":250,"height":60},
+		{"id":"a4f56f9cff508372","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-360,"y":-137,"width":156,"height":110},
+		{"id":"7450b29d83a5a5cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":-411,"y":80,"width":207,"height":192},
+		{"id":"7348e52a82997d07","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/怖 - Bố.canvas","x":380,"y":-236,"width":142,"height":99},
+		{"id":"9c49112f3ac82173","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas","x":76,"y":-360,"width":135,"height":82},
+		{"id":"49f10462f868921a","x":380,"y":5,"width":198,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/希 - Hy.canvas"},
+		{"id":"6c5694630a0b47d3","x":120,"y":147,"width":127,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas"}
+	],
+	"edges":[
+		{"id":"aa0e4742dd16a8c0","fromNode":"a4f56f9cff508372","fromSide":"right","toNode":"f1291e5e20333745","toSide":"left"},
+		{"id":"91ff526aebc912db","fromNode":"7450b29d83a5a5cc","fromSide":"right","toNode":"f1291e5e20333745","toSide":"left"},
+		{"id":"efe2503ff165ab25","fromNode":"f1291e5e20333745","fromSide":"right","toNode":"7348e52a82997d07","toSide":"left"},
+		{"id":"f2d76d21f6059f0c","fromNode":"9c49112f3ac82173","fromSide":"right","toNode":"7348e52a82997d07","toSide":"left"},
+		{"id":"130e3e218a0d59b6","fromNode":"f1291e5e20333745","fromSide":"right","toNode":"49f10462f868921a","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"815619d857703ac9","type":"text","text":"登 - Đăng","x":-109,"y":-10,"width":250,"height":60},
+		{"id":"c38b1d68c1c0ac06","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bát　「癶 」/Bát　「癶 」.canvas","x":-360,"y":-100,"width":132,"height":62},
+		{"id":"a0c8b1ac7baeae5f","x":-440,"y":200,"width":250,"height":60,"type":"text","text":"登\tleo lên"},
+		{"id":"6145e4dd3a6a39c2","x":-385,"y":20,"width":157,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"3cc3e75d0120e47f","fromNode":"c38b1d68c1c0ac06","fromSide":"right","toNode":"815619d857703ac9","toSide":"left"},
+		{"id":"21bfa9aa4a252b14","fromNode":"815619d857703ac9","fromSide":"left","toNode":"a0c8b1ac7baeae5f","toSide":"right"},
+		{"id":"cc1e688a0a735817","fromNode":"6145e4dd3a6a39c2","fromSide":"right","toNode":"815619d857703ac9","toSide":"left"}
+	]
+}
