@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"590bb67efc346d80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-595,"y":-194,"width":164,"height":77},
+		{"id":"4f96d6d541c86a25","type":"text","text":"漠 - Mạc","x":-291,"y":26,"width":250,"height":60},
+		{"id":"ae87964dcb218bc7","type":"text","text":"砂漠（さばく）: sa mạc\n漠然（ばくぜん）: mơ hồ, không rõ ràng\n広漠（こうばく）: rộng lớn mênh mông","x":173,"y":86,"width":422,"height":109},
+		{"id":"62cdb14c126fa92f","type":"text","text":"Một khoảng nước hoặc không gian rộng đến mức nhìn không rõ giới hạn.","x":153,"y":-115,"width":347,"height":66},
+		{"id":"8593a8273f34f24d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas","x":-590,"y":86,"width":155,"height":158},
+		{"id":"e3a5ae5e1058e930","type":"text","text":"- Rộng lớn, mênh mông\n- Mờ mịt, xa xăm\n- Hoang vu","x":820,"y":-194,"width":251,"height":118}
+	],
+	"edges":[
+		{"id":"066d3ffa243389ca","fromNode":"590bb67efc346d80","fromSide":"right","toNode":"4f96d6d541c86a25","toSide":"left","label":"nước"},
+		{"id":"aef5e3107c2f8ebe","fromNode":"4f96d6d541c86a25","fromSide":"right","toNode":"ae87964dcb218bc7","toSide":"left"},
+		{"id":"1ad3dd6a863b455e","fromNode":"4f96d6d541c86a25","fromSide":"right","toNode":"62cdb14c126fa92f","toSide":"left"},
+		{"id":"7df153f84b509b78","fromNode":"8593a8273f34f24d","fromSide":"right","toNode":"4f96d6d541c86a25","toSide":"left"},
+		{"id":"b385238df5b610c8","fromNode":"62cdb14c126fa92f","fromSide":"right","toNode":"e3a5ae5e1058e930","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ecc7110d646593f0","type":"text","text":"忠 - Trung","x":-186,"y":-162,"width":250,"height":60},
+		{"id":"343a3238e36a7f0b","type":"text","text":"忠実　「ちゅうじつ」：trung thực","x":138,"y":-162,"width":250,"height":60},
+		{"id":"c8a0e76b7278ba0d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-524,"y":-2,"width":128,"height":116},
+		{"id":"0aae76ede553bca3","x":-524,"y":-320,"width":153,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas"}
+	],
+	"edges":[
+		{"id":"3cc7abed452a7c1e","fromNode":"ecc7110d646593f0","fromSide":"right","toNode":"343a3238e36a7f0b","toSide":"left"},
+		{"id":"11286b0eeace72c7","fromNode":"c8a0e76b7278ba0d","fromSide":"right","toNode":"ecc7110d646593f0","toSide":"left","label":"trung thực là 1 tính cách"},
+		{"id":"d5b261135da3f651","fromNode":"0aae76ede553bca3","fromSide":"right","toNode":"ecc7110d646593f0","toSide":"left"}
+	]
+}

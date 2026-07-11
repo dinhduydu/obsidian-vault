@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"df341e28dc1728f7","type":"text","text":"Tức　「即」","x":-1080,"y":-60,"width":250,"height":60},
+		{"id":"8510454992f79030","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-1040,"y":-314,"width":129,"height":98},
+		{"id":"47d7591010b4f476","x":-680,"y":-216,"width":99,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」/節 - Tiết.canvas"}
+	],
+	"edges":[
+		{"id":"ce61ef2520183659","fromNode":"df341e28dc1728f7","fromSide":"right","toNode":"47d7591010b4f476","toSide":"left"},
+		{"id":"c59ed0f9eccfa714","fromNode":"8510454992f79030","fromSide":"right","toNode":"47d7591010b4f476","toSide":"left"}
+	]
+}

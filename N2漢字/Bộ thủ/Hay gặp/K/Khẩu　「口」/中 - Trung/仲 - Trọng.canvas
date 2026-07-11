@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"433dd919f525fdc1","x":-143,"y":19,"width":250,"height":60,"type":"text","text":"仲 - Trọng"},
+		{"id":"cfe173780f52d98b","x":-440,"y":-160,"width":141,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/中 - Trung.canvas"},
+		{"id":"e5ac25362a8a2f73","x":-430,"y":79,"width":122,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"885d24d3df7a9782","fromNode":"cfe173780f52d98b","fromSide":"right","toNode":"433dd919f525fdc1","toSide":"left"},
+		{"id":"c37f0fe3eaf2c40a","fromNode":"e5ac25362a8a2f73","fromSide":"right","toNode":"433dd919f525fdc1","toSide":"left"}
+	]
+}

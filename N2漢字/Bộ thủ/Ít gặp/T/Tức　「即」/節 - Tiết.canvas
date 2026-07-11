@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8406fc1bd297da61","type":"text","text":"節 - Tiết","x":-539,"y":-190,"width":250,"height":60},
+		{"id":"7171022aa9bab60a","type":"text","text":"- Đốt tre, mắt tre.\n- Khớp, đốt.\n- Tiết độ, chừng mực.\n- Mùa tiết (季節).","x":-120,"y":-314,"width":250,"height":148},
+		{"id":"d3bb8abc3ad6d585","type":"text","text":"- 季節（きせつ）: mùa, thời tiết.\n- 関節（かんせつ）: khớp xương.\n- 節約（せつやく）: tiết kiệm.","x":320,"y":-366,"width":320,"height":112},
+		{"id":"55f41a539aadd3b9","type":"text","text":"## Phân biệt các từ gần nghĩa\n\n|Từ|Nghĩa|\n|---|---|\n|調節|điều chỉnh mức độ cho phù hợp|\n|調整（ちょうせい）|điều chỉnh, cân đối nhiều yếu tố|\n|修正（しゅうせい）|sửa chữa lỗi|\n|設定（せってい）|thiết lập|","x":394,"y":-133,"width":506,"height":259},
+		{"id":"91e5a06de1291d0b","type":"text","text":"- 季節（きせつ）: mùa\n- 関節（かんせつ）: khớp\n- 節約（せつやく）: tiết kiệm\n- 調節（ちょうせつ）: điều chỉnh, điều tiết","x":403,"y":241,"width":417,"height":125},
+		{"id":"194fc185d4a9bedb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-860,"y":-314,"width":129,"height":98},
+		{"id":"04307c8a85c24b5b","x":-900,"y":-40,"width":146,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tức　「即」/Tức　「即」.canvas"}
+	],
+	"edges":[
+		{"id":"7371f1d42952300b","fromNode":"8406fc1bd297da61","fromSide":"right","toNode":"7171022aa9bab60a","toSide":"left"},
+		{"id":"d95c1f72e9387d1f","fromNode":"04307c8a85c24b5b","fromSide":"right","toNode":"8406fc1bd297da61","toSide":"left"},
+		{"id":"bab60825ef122499","fromNode":"194fc185d4a9bedb","fromSide":"right","toNode":"8406fc1bd297da61","toSide":"left"},
+		{"id":"3dcb8f67128aaed7","fromNode":"7171022aa9bab60a","fromSide":"right","toNode":"d3bb8abc3ad6d585","toSide":"left"},
+		{"id":"61b35ac17939d798","fromNode":"7171022aa9bab60a","fromSide":"right","toNode":"55f41a539aadd3b9","toSide":"left"},
+		{"id":"00438bdb71c9b1b7","fromNode":"7171022aa9bab60a","fromSide":"right","toNode":"91e5a06de1291d0b","toSide":"left"}
+	]
+}

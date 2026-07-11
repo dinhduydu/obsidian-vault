@@ -2,12 +2,16 @@
 	"nodes":[
 		{"id":"fd6e881b24265a43","type":"text","text":"Nạch　「疒」","x":-181,"y":-33,"width":250,"height":60},
 		{"id":"4c41c089d214b946","type":"text","text":"病 - Bệnh","x":218,"y":-154,"width":250,"height":60},
-		{"id":"684800315e0d9b8e","x":218,"y":-3,"width":250,"height":60,"type":"text","text":"痘 - Đậu"},
-		{"id":"523a112bceeb8df8","x":532,"y":-1,"width":250,"height":60,"type":"text","text":"bệnh đậu mùa"}
+		{"id":"25f1c0112c552115","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/痘 - Đậu.canvas","x":233,"y":120,"width":221,"height":132},
+		{"id":"dbf4416aa7a7d067","x":233,"y":340,"width":195,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/疫 - Dịch.canvas"},
+		{"id":"5bf5fd5b8f019efe","x":-20,"y":194,"width":129,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"},
+		{"id":"22664691cc9bfaae","x":-30,"y":423,"width":139,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
 	],
 	"edges":[
 		{"id":"35dc2d7ede42f0ee","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"4c41c089d214b946","toSide":"left"},
-		{"id":"427fff0f694aec49","fromNode":"684800315e0d9b8e","fromSide":"right","toNode":"523a112bceeb8df8","toSide":"left"},
-		{"id":"cc80bc443bf9f3f1","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"684800315e0d9b8e","toSide":"left"}
+		{"id":"cc80bc443bf9f3f1","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"25f1c0112c552115","toSide":"left"},
+		{"id":"96ad1c71a51a9bb1","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"dbf4416aa7a7d067","toSide":"left"},
+		{"id":"57eb5cd08993a33d","fromNode":"5bf5fd5b8f019efe","fromSide":"right","toNode":"25f1c0112c552115","toSide":"left"},
+		{"id":"fe0ffedd840e3758","fromNode":"22664691cc9bfaae","fromSide":"right","toNode":"dbf4416aa7a7d067","toSide":"left"}
 	]
 }

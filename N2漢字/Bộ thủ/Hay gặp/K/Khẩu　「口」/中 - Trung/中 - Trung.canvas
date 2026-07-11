@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9bd05fad4c3d6ab1","type":"text","text":"中 - Trung","x":-170,"y":-54,"width":250,"height":60},
+		{"id":"3793e64dc66224b1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-420,"y":-160,"width":122,"height":79},
+		{"id":"5e1c4b18b4c22743","type":"text","text":"Nét cổn dọc","x":-580,"y":100,"width":250,"height":60},
+		{"id":"808de38f844f9309","x":200,"y":-252,"width":164,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas"}
+	],
+	"edges":[
+		{"id":"9c94b6e5a9695feb","fromNode":"3793e64dc66224b1","fromSide":"right","toNode":"9bd05fad4c3d6ab1","toSide":"left"},
+		{"id":"38f95157466584aa","fromNode":"5e1c4b18b4c22743","fromSide":"right","toNode":"9bd05fad4c3d6ab1","toSide":"left","label":"đi qua trung điểm"},
+		{"id":"770cda515fb86386","fromNode":"9bd05fad4c3d6ab1","fromSide":"right","toNode":"808de38f844f9309","toSide":"left"}
+	]
+}

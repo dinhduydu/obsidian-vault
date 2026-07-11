@@ -7,12 +7,12 @@
 		{"id":"230808300c1c690a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas","x":-168,"y":-460,"width":214,"height":143},
 		{"id":"760f65ca06f4a5a1","type":"text","text":"紋 - Văn","x":200,"y":120,"width":250,"height":60},
 		{"id":"3d31d10569fae82f","type":"text","text":"指紋　「しもん」：","x":529,"y":120,"width":250,"height":60},
-		{"id":"885e633e8e91be79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」.canvas","x":-100,"y":180,"width":146,"height":108},
+		{"id":"885e633e8e91be79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-100,"y":180,"width":146,"height":108},
 		{"id":"09b8e77c2882a03c","type":"text","text":"hoa văn","x":550,"y":14,"width":250,"height":60},
 		{"id":"5ca49b04d8779e10","x":544,"y":440,"width":250,"height":60,"type":"text","text":"蚊帳　「かや」：màn"},
 		{"id":"ebbb9d7a19c380de","x":200,"y":440,"width":250,"height":60,"type":"text","text":"蚊 - Văn"},
 		{"id":"3e9573b556473667","x":546,"y":308,"width":250,"height":60,"type":"text","text":"Muỗi"},
-		{"id":"41ac0cc79ce1af43","x":-204,"y":500,"width":154,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」.canvas"}
+		{"id":"41ac0cc79ce1af43","x":-204,"y":500,"width":154,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
 	],
 	"edges":[
 		{"id":"03cf05faf420f597","fromNode":"cfab21f388ec3326","fromSide":"left","toNode":"27645beeb6529263","toSide":"right"},

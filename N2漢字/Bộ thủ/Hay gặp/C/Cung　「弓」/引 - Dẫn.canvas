@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"135d45d8294b964a","type":"group","x":-370,"y":-929,"width":1127,"height":651,"label":"引　「いん」"},
+		{"id":"6de0b9d4263eee54","type":"group","x":-376,"y":-170,"width":800,"height":740,"label":"引　「ひき」"},
+		{"id":"aa60e9eecac7106c","type":"group","x":-376,"y":910,"width":665,"height":100,"label":"引　「ひき」"},
+		{"id":"0f0a3179b6726550","type":"group","x":-50,"y":-1010,"width":290,"height":181,"label":"強　「ごう」"},
+		{"id":"c3e78abbd083cd4d","type":"text","text":"強盗　「ごうとう」：cướp","x":-30,"y":-990,"width":250,"height":60},
+		{"id":"deb84a1e91254a0b","type":"text","text":"引き出し　「ひきだし」：ngăn kéo","x":-350,"y":-150,"width":300,"height":60},
+		{"id":"6849f51fa101b81f","type":"text","text":"引 - Dẫn","x":-756,"y":-64,"width":250,"height":60},
+		{"id":"b436272ead9a9cfb","type":"text","text":"引力　「いんりょく」：lực hấp dẫn","x":-350,"y":-533,"width":250,"height":60},
+		{"id":"bc7bc27f1e1805b0","type":"text","text":"引退　「いんたい」：giải nghệ","x":-350,"y":-358,"width":300,"height":60},
+		{"id":"2e8616e1f711a280","type":"text","text":"引き寄せる　「ひきよせる」","x":-350,"y":46,"width":250,"height":60},
+		{"id":"5f05e1bf43eaae5f","type":"text","text":"引きつり","x":-356,"y":470,"width":250,"height":60},
+		{"id":"1f343b74a10094bd","type":"text","text":"引きつる　「ひきつる」","x":-350,"y":271,"width":250,"height":60},
+		{"id":"fb0225a07dd29c2c","type":"text","text":"Nhăn; nhăn nhó","x":46,"y":271,"width":250,"height":60},
+		{"id":"2b12087f5c32c388","type":"text","text":"ぼくは選手を**引退**することにした。","x":110,"y":-358,"width":369,"height":55},
+		{"id":"45de40e2c714065f","type":"text","text":"dành, giật, kéo lại, lôi cuốn; thu hút","x":76,"y":46,"width":250,"height":60},
+		{"id":"f6306013c6010dd2","type":"text","text":"長引く　「ながびく」：bị kéo dài ra","x":-356,"y":930,"width":311,"height":60},
+		{"id":"631ce15ac2e97cc2","type":"text","text":"会議が長引いた。","x":19,"y":930,"width":250,"height":60},
+		{"id":"3732ee9292381876","type":"text","text":"自分が便秘なのに、地球の**引力**が足りないとでたらめに文句を言う人がいる。","x":110,"y":-528,"width":627,"height":50},
+		{"id":"ad9b6c335171be91","type":"text","text":"引用　「いんよう」：","x":-350,"y":-670,"width":250,"height":60},
+		{"id":"b44a3e7f9a32688c","type":"text","text":"他人の著作からの無断**引用**は禁物です。","x":110,"y":-670,"width":357,"height":60},
+		{"id":"0763d5154f71f930","type":"text","text":"強引　「ごういん」：","x":-30,"y":-909,"width":250,"height":60},
+		{"id":"10db2bb88d5b282f","x":-1420,"y":-234,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"}
+	],
+	"edges":[
+		{"id":"75847d36af6b09f1","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"deb84a1e91254a0b","toSide":"left"},
+		{"id":"52afe14b7296e128","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"2e8616e1f711a280","toSide":"left"},
+		{"id":"c8c8c3a92bc42d8d","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"1f343b74a10094bd","toSide":"left"},
+		{"id":"f4db12f35fd9dd6e","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"b436272ead9a9cfb","toSide":"left"},
+		{"id":"170257f021706170","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"bc7bc27f1e1805b0","toSide":"left"},
+		{"id":"4835b685d60e5036","fromNode":"6849f51fa101b81f","fromSide":"bottom","toNode":"f6306013c6010dd2","toSide":"left"},
+		{"id":"5e3cbc6ec0bf71b6","fromNode":"6849f51fa101b81f","fromSide":"right","toNode":"0763d5154f71f930","toSide":"left"},
+		{"id":"2e6d2a18c904ae26","fromNode":"ad9b6c335171be91","fromSide":"right","toNode":"b44a3e7f9a32688c","toSide":"left"},
+		{"id":"66c8df2fcd5e8592","fromNode":"b436272ead9a9cfb","fromSide":"right","toNode":"3732ee9292381876","toSide":"left"},
+		{"id":"f290fe345ff106ce","fromNode":"bc7bc27f1e1805b0","fromSide":"right","toNode":"2b12087f5c32c388","toSide":"left"},
+		{"id":"1aa430fc3afe3c69","fromNode":"2e8616e1f711a280","fromSide":"right","toNode":"45de40e2c714065f","toSide":"left"},
+		{"id":"1c60f9e7c5668a58","fromNode":"5f05e1bf43eaae5f","fromSide":"right","toNode":"fb0225a07dd29c2c","toSide":"left"},
+		{"id":"ebeb5f25b78cc725","fromNode":"1f343b74a10094bd","fromSide":"right","toNode":"fb0225a07dd29c2c","toSide":"left"},
+		{"id":"bc844bfef47135fb","fromNode":"f6306013c6010dd2","fromSide":"right","toNode":"631ce15ac2e97cc2","toSide":"left"},
+		{"id":"148a25ba3004c66a","fromNode":"10db2bb88d5b282f","fromSide":"right","toNode":"6849f51fa101b81f","toSide":"left"}
+	]
+}

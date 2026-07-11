@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"df93751fc02a21b0","x":-230,"y":-40,"width":250,"height":60,"type":"text","text":"槍 - Thương"},
+		{"id":"65abe106d198a212","x":-480,"y":60,"width":158,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"25d498ed772342b4","fromNode":"65abe106d198a212","fromSide":"right","toNode":"df93751fc02a21b0","toSide":"left"}
+	]
+}

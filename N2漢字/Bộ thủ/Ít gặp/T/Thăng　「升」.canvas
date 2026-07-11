@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"5d8bff802d54da46","x":-154,"y":-23,"width":250,"height":60,"type":"text","text":"升 - Thăng"},
-		{"id":"e585616fa45b5241","x":176,"y":-42,"width":250,"height":60,"type":"text","text":"một đấu (đo lường)"}
+		{"id":"e585616fa45b5241","type":"text","text":"một đấu (đo lường)","x":176,"y":-42,"width":250,"height":60},
+		{"id":"5d8bff802d54da46","type":"text","text":"升 - Thăng","x":-200,"y":40,"width":250,"height":60},
+		{"id":"d29043608f78cc7f","x":-520,"y":100,"width":227,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/升 - Thăng.canvas"}
 	],
 	"edges":[
-		{"id":"b55abe69b1272430","fromNode":"5d8bff802d54da46","fromSide":"right","toNode":"e585616fa45b5241","toSide":"left"}
+		{"id":"b55abe69b1272430","fromNode":"5d8bff802d54da46","fromSide":"right","toNode":"e585616fa45b5241","toSide":"left"},
+		{"id":"e70af695aba0f930","fromNode":"d29043608f78cc7f","fromSide":"right","toNode":"5d8bff802d54da46","toSide":"left"}
 	]
 }

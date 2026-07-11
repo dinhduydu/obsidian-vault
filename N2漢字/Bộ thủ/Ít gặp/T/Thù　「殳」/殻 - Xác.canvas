@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ca66ba42e5e0eba7","x":-181,"y":-26,"width":250,"height":60,"type":"text","text":"殻 - Xác"},
+		{"id":"8381b5f5cdd9ab21","x":-420,"y":34,"width":125,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"52d0db201e02efb3","fromNode":"8381b5f5cdd9ab21","fromSide":"right","toNode":"ca66ba42e5e0eba7","toSide":"left"}
+	]
+}

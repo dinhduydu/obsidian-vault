@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"bef389ae41f269fb","type":"text","text":"募 - Mộ","x":-154,"y":-84,"width":250,"height":60},
+		{"id":"909a45df4cbef31d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas","x":-455,"y":6,"width":157,"height":109},
+		{"id":"5b77056ed8266d01","type":"text","text":"募る　「つのる」：Mộ","x":186,"y":-90,"width":250,"height":60},
+		{"id":"377071e99ed59060","type":"text","text":"応募　「おうぼ」：","x":191,"y":31,"width":250,"height":60},
+		{"id":"0040c13632761683","type":"text","text":"募集　「ぼしゅう」：","x":184,"y":148,"width":250,"height":60},
+		{"id":"b478f20d6092bf72","type":"text","text":"tuyển sinh, cần mất sức lực","x":205,"y":-207,"width":250,"height":60},
+		{"id":"09ac26ad7ad709a1","x":-480,"y":-284,"width":142,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"}
+	],
+	"edges":[
+		{"id":"8728ade6f9fcc96b","fromNode":"bef389ae41f269fb","fromSide":"right","toNode":"5b77056ed8266d01","toSide":"left","color":"1"},
+		{"id":"e0ccb8d7cc854d98","fromNode":"bef389ae41f269fb","fromSide":"right","toNode":"377071e99ed59060","toSide":"left"},
+		{"id":"3455c1041a6378f6","fromNode":"bef389ae41f269fb","fromSide":"right","toNode":"0040c13632761683","toSide":"left"},
+		{"id":"e87116342138ddb1","fromNode":"bef389ae41f269fb","fromSide":"right","toNode":"b478f20d6092bf72","toSide":"left"},
+		{"id":"a5737d5f08cadf0b","fromNode":"909a45df4cbef31d","fromSide":"right","toNode":"bef389ae41f269fb","toSide":"left","color":"1"},
+		{"id":"f64e16bd0ad29e7a","fromNode":"09ac26ad7ad709a1","fromSide":"right","toNode":"bef389ae41f269fb","toSide":"left"}
+	]
+}

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"c4a8c136879fb161","x":-194,"y":-51,"width":250,"height":60,"type":"text","text":"Thù　「殳」"},
-		{"id":"79cc2da696bbbdaa","x":249,"y":-122,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"46fcc8819735b10d","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"79cc2da696bbbdaa","toSide":"left"}
-	]
-}

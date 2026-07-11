@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7c0d7b56cbfaa001","x":-115,"y":-47,"width":250,"height":60,"type":"text","text":"穀 - Cốc"},
+		{"id":"54559131fcc885f9","x":-360,"y":-200,"width":99,"height":79,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas"},
+		{"id":"98ef865e3d42e142","x":-440,"y":-67,"width":179,"height":50,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"c7943dcbb31cc053","x":-377,"y":40,"width":116,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas"},
+		{"id":"d3c7fe4c1c00a4e3","x":-445,"y":200,"width":184,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"ae54ba723350176d","fromNode":"54559131fcc885f9","fromSide":"right","toNode":"7c0d7b56cbfaa001","toSide":"left"},
+		{"id":"51f26bd9a3a8524a","fromNode":"c7943dcbb31cc053","fromSide":"right","toNode":"7c0d7b56cbfaa001","toSide":"left"},
+		{"id":"4f0bea2b8570c4c3","fromNode":"98ef865e3d42e142","fromSide":"right","toNode":"7c0d7b56cbfaa001","toSide":"left"},
+		{"id":"846c0d57967908a0","fromNode":"d3c7fe4c1c00a4e3","fromSide":"right","toNode":"7c0d7b56cbfaa001","toSide":"left"}
+	]
+}

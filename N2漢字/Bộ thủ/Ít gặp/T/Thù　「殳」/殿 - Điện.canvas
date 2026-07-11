@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cbd98fedd5f4b70b","x":-135,"y":-36,"width":250,"height":60,"type":"text","text":"殿 - Điện"},
+		{"id":"9d8f7e97b3cb1c8e","x":-360,"y":60,"width":121,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"5cdeaad5ad6278b4","fromNode":"9d8f7e97b3cb1c8e","fromSide":"right","toNode":"cbd98fedd5f4b70b","toSide":"left"}
+	]
+}

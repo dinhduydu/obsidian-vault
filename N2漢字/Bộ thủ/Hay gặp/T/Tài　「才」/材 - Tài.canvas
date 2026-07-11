@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"b6429f8552ba4bfb","type":"text","text":"材 - Tài","x":-499,"y":-90,"width":250,"height":60},
 		{"id":"8bd05a41e1b4cbd3","type":"text","text":"材木　「さいもく」：","x":-134,"y":-290,"width":250,"height":60},
-		{"id":"650aac9b30ca9f70","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-754,"y":-30,"width":174,"height":102},
+		{"id":"650aac9b30ca9f70","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-754,"y":-30,"width":174,"height":102},
 		{"id":"ef2994afa3704a91","type":"text","text":"材料　「ざいりょう」：","x":-123,"y":58,"width":250,"height":60},
 		{"id":"7a3bbeb9a4b4931e","type":"text","text":"取材　「しゅざい」：phỏng vấn / tác nghiệp lấy tư liệu","x":-134,"y":214,"width":441,"height":60},
 		{"id":"72c4467cdd0516ee","type":"text","text":"素材　「そざい」：","x":-134,"y":-90,"width":250,"height":60},

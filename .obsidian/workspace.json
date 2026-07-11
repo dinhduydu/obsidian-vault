@@ -13,15 +13,134 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas",
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas",
                 "viewState": {
-                  "x": 271.5,
-                  "y": -42.2421875,
-                  "zoom": 1
+                  "x": 272.39147427524153,
+                  "y": 286.9911710747636,
+                  "zoom": 0.15437881394587338
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Đậu　「豆」"
+              "title": "Trung　「中」"
+            }
+          },
+          {
+            "id": "d382da96b2b850af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas",
+                "viewState": {
+                  "x": -273.84251614913404,
+                  "y": -886.9589746589961,
+                  "zoom": -0.32977048740871234
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mạc　「莫」"
+            }
+          },
+          {
+            "id": "44b36e7a6ae17167",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas",
+                "viewState": {
+                  "x": -262.49886133049154,
+                  "y": 636.7637415127731,
+                  "zoom": 0.272190489870139
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mạc　「莫」"
+            }
+          },
+          {
+            "id": "e235f14682dab53b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas",
+                "viewState": {
+                  "x": 158.79173088036885,
+                  "y": 337.1457249342201,
+                  "zoom": 0.6055238232034723
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mạc　「莫」"
+            }
+          },
+          {
+            "id": "9fa63d378efdd9a6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas",
+                "viewState": {
+                  "x": 547.3687093680276,
+                  "y": -262.14464401699564,
+                  "zoom": 0.9989377605408163
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mạc　「莫」"
+            }
+          },
+          {
+            "id": "478cb377bd74361e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+                "viewState": {
+                  "x": 198.03549732290733,
+                  "y": -2486.568669933737,
+                  "zoom": 0.1677500006160541
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mộc　「木」"
+            }
+          },
+          {
+            "id": "93c7bb92c69322c2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+                "viewState": {
+                  "x": 230.59480726476687,
+                  "y": 356.49641648259677,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mộc　「木」"
+            }
+          },
+          {
+            "id": "dca6d7db71023bcc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+                "viewState": {
+                  "x": 209.4831813284602,
+                  "y": -1486.1295358209636,
+                  "zoom": 0.5010833339493874
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mộc　「木」"
             }
           },
           {
@@ -81,15 +200,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas",
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 202.71093484099583,
+                  "y": 3.9979257618977044,
+                  "zoom": 0.010195938257068327
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Trung　「中」"
+            }
+          },
+          {
+            "id": "5f760349c4e2d7fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/仲 - Trọng.canvas",
+                "viewState": {
+                  "x": -68.5,
+                  "y": 99.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tỷ　「比」"
+              "title": "仲 - Trọng"
             }
           },
           {
@@ -313,7 +449,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -462,29 +598,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "dca6d7db71023bcc",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tự　「自 」/Tự　「自 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tự　「自 」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tử",
-    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「隹」/Truy　「隹」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「隹」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」/Truy　「夂」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「永」/Thuỷ　「永」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/休 - Hưu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/枝 - Chi.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/保 - Bảo.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/槍 - Thương.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/桟 - Sạn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/引 - Dẫn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/強 - Cương.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/Cốt　「骨」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Công　「工」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỳ　「隹 」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」",
+    "N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Untitled",
     "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
     "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"dc9e4746316fa120","type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ","x":-620,"y":-164,"width":250,"height":90},
-		{"id":"5f8ea87a3733ecc4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":40,"y":-640,"width":163,"height":97},
+		{"id":"5f8ea87a3733ecc4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":40,"y":-640,"width":163,"height":97},
 		{"id":"86eb217df8976559","type":"text","text":"Các chữ liên quan hành động bằng tay","x":-1018,"y":-199,"width":250,"height":60},
 		{"id":"928dc0e6189c8028","type":"text","text":"抱える　「かかえる」： Ôm vấn đề nào đó","x":656,"y":200,"width":344,"height":60},
 		{"id":"70beba636d980007","type":"text","text":"抱 - Bão","x":357,"y":200,"width":250,"height":60},

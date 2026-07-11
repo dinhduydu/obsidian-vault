@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4dfa921eb5569727","type":"group","x":-282,"y":-558,"width":290,"height":190,"label":"つよい"},
+		{"id":"e9ea0c504ce53a55","type":"group","x":158,"y":442,"width":290,"height":181,"label":"強　「ごう」"},
+		{"id":"e1af538d573613dc","type":"text","text":"強み","x":-262,"y":-538,"width":250,"height":60},
+		{"id":"bcb2b4ac881804cc","type":"text","text":"強さ","x":-262,"y":-448,"width":250,"height":60},
+		{"id":"8d7b1465cc2c43ab","type":"text","text":"強盗　「ごうとう」：cướp","x":178,"y":462,"width":250,"height":60},
+		{"id":"4d6fccf64e38408d","type":"text","text":"強 - Cương","x":-542,"y":282,"width":250,"height":60},
+		{"id":"451b158d8c86c953","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-62,"y":283,"width":132,"height":74},
+		{"id":"2176493c44252592","type":"text","text":"強引　「ごういん」：","x":178,"y":543,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1875cf862ad5c624","fromNode":"4d6fccf64e38408d","fromSide":"right","toNode":"e1af538d573613dc","toSide":"left"},
+		{"id":"f73a4350870b59ba","fromNode":"4d6fccf64e38408d","fromSide":"right","toNode":"bcb2b4ac881804cc","toSide":"left"},
+		{"id":"e2c3171d3e9bd2fa","fromNode":"4d6fccf64e38408d","fromSide":"right","toNode":"8d7b1465cc2c43ab","toSide":"left"},
+		{"id":"9e5efbd00b02e848","fromNode":"451b158d8c86c953","fromSide":"right","toNode":"8d7b1465cc2c43ab","toSide":"left"},
+		{"id":"d61944787b76296d","fromNode":"4d6fccf64e38408d","fromSide":"right","toNode":"2176493c44252592","toSide":"left"}
+	]
+}

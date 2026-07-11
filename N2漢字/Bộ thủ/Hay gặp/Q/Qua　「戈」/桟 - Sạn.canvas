@@ -3,7 +3,7 @@
 		{"id":"b45ceadb699bcc2a","type":"text","text":"khung gỗ, xà nhà","x":120,"y":-30,"width":250,"height":60},
 		{"id":"4baa654f5fc79bba","type":"text","text":"桟 - Sạn","x":-370,"y":-30,"width":250,"height":60},
 		{"id":"b619a06b4be38b2a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-620,"y":30,"width":117,"height":98},
-		{"id":"418f7a6d1341c32a","x":-640,"y":-200,"width":113,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas"}
+		{"id":"418f7a6d1341c32a","x":-640,"y":-200,"width":113,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
 	],
 	"edges":[
 		{"id":"49abe31771a39a28","fromNode":"4baa654f5fc79bba","fromSide":"right","toNode":"b45ceadb699bcc2a","toSide":"left"},

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"f6ac66b6d1f6a086","type":"text","text":"屋 - Ốc","x":-154,"y":47,"width":133,"height":60},
 		{"id":"d0074acd133fb65f","type":"text","text":"屋上　「おくじょう」： sân thượng","x":106,"y":47,"width":343,"height":66},
-		{"id":"d2a88fb6de0cf9f9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":-449,"y":-113,"width":165,"height":121},
+		{"id":"d2a88fb6de0cf9f9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-449,"y":-113,"width":165,"height":121},
 		{"id":"25b7eed841a12ddf","x":-404,"y":107,"width":120,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
 	],
 	"edges":[

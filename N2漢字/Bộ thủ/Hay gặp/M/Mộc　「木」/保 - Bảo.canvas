@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"39d2fca638f778cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-564,"y":-162,"width":278,"height":210},
+		{"id":"d7c2218ddbb6494f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-411,"y":82,"width":144,"height":81},
+		{"id":"3803c4dbec489374","type":"text","text":"保 - Bảo","x":-131,"y":-31,"width":250,"height":60},
+		{"id":"ffd8c6cd30c8fb14","type":"text","text":"保護　「ほご」：","x":314,"y":-1,"width":250,"height":60},
+		{"id":"55d91fe744c0ceda","x":-425,"y":-380,"width":131,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"4669451ae7116f79","fromNode":"39d2fca638f778cc","fromSide":"right","toNode":"3803c4dbec489374","toSide":"left"},
+		{"id":"5780cbd0302ee8ea","fromNode":"d7c2218ddbb6494f","fromSide":"right","toNode":"3803c4dbec489374","toSide":"left"},
+		{"id":"405e35a421b4d1f6","fromNode":"3803c4dbec489374","fromSide":"right","toNode":"ffd8c6cd30c8fb14","toSide":"left"},
+		{"id":"6651da905c2bc3ee","fromNode":"55d91fe744c0ceda","fromSide":"right","toNode":"3803c4dbec489374","toSide":"left"}
+	]
+}

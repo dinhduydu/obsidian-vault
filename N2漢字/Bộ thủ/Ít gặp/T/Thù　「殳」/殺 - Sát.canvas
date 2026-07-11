@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a518c1486fff6194","x":-118,"y":-78,"width":250,"height":60,"type":"text","text":"殺 - Sát"},
+		{"id":"dd2aa7d1b2a4f955","x":-400,"y":-260,"width":88,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas"},
+		{"id":"f93fd2cc301a7e22","x":-494,"y":60,"width":188,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"},
+		{"id":"41a03d782d7ce5e9","x":-426,"y":-86,"width":114,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"323548a112a968d1","fromNode":"f93fd2cc301a7e22","fromSide":"right","toNode":"a518c1486fff6194","toSide":"left"},
+		{"id":"e84b6be438030f97","fromNode":"dd2aa7d1b2a4f955","fromSide":"right","toNode":"a518c1486fff6194","toSide":"left"},
+		{"id":"de488f4a48045163","fromNode":"41a03d782d7ce5e9","fromSide":"right","toNode":"a518c1486fff6194","toSide":"left"}
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f8fa80456574a3f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」.canvas","x":-99,"y":106,"width":168,"height":104},
+		{"id":"f8fa80456574a3f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-99,"y":106,"width":168,"height":104},
 		{"id":"df544a359275c931","type":"text","text":"覚 - Giác","x":260,"y":180,"width":250,"height":60},
 		{"id":"fbd454c85502ecf4","type":"text","text":"覚える　「おぼえる」： cảm giác","x":660,"y":180,"width":250,"height":60},
 		{"id":"eae41d37a8fe04da","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":676,"y":294,"width":250,"height":60},

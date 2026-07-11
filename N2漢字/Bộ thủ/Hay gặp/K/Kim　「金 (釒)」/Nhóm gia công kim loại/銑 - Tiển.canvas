@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3f0a5c9dc2afa5c2","type":"text","text":"銑 - Tiển","x":-153,"y":0,"width":250,"height":60},
 		{"id":"2e21203bafb544e7","type":"text","text":"luyện thép","x":189,"y":-12,"width":250,"height":60},
-		{"id":"7296afe28f4291bf","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tiên　「先」.canvas","x":-438,"y":-60,"width":172,"height":82}
+		{"id":"7296afe28f4291bf","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tiên　「先」/Tiên　「先」.canvas","x":-438,"y":-60,"width":172,"height":82}
 	],
 	"edges":[
 		{"id":"6284c9a66b47dab6","fromNode":"3f0a5c9dc2afa5c2","fromSide":"right","toNode":"2e21203bafb544e7","toSide":"left"},

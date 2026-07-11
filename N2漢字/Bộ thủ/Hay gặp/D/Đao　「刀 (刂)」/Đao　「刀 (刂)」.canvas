@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3015003bb902d726","type":"text","text":"到 - Đáo","x":140,"y":-212,"width":250,"height":60},
 		{"id":"b9ae4ed2510ec9d6","type":"text","text":"到る　「いたる」：đến nơi","x":520,"y":-280,"width":250,"height":60},
-		{"id":"67032cfb85118b5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」.canvas","x":-232,"y":-420,"width":195,"height":108},
+		{"id":"67032cfb85118b5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-232,"y":-420,"width":195,"height":108},
 		{"id":"e09e1ebb7976454c","type":"text","text":"Đao　「刀 (刂)」","x":-357,"y":-40,"width":250,"height":60},
 		{"id":"2a375288168c8ff2","x":140,"y":150,"width":250,"height":60,"type":"text","text":"刷 - Loát"},
 		{"id":"8aa32441504d39bf","x":500,"y":150,"width":250,"height":60,"type":"text","text":"印刷　「いんさつ」："},

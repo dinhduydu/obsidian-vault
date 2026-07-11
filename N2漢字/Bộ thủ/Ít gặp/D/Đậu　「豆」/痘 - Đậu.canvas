@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"005b968e3eb48351","x":-51,"y":-3,"width":250,"height":60,"type":"text","text":"痘 - Đậu"},
-		{"id":"dae4674dd7422b6f","x":-420,"y":-108,"width":249,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas"},
-		{"id":"131e7c0b05bbe3e8","x":-359,"y":100,"width":188,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+		{"id":"005b968e3eb48351","type":"text","text":"痘 - Đậu","x":-51,"y":-3,"width":250,"height":60},
+		{"id":"dae4674dd7422b6f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas","x":-420,"y":-108,"width":249,"height":105},
+		{"id":"131e7c0b05bbe3e8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas","x":-359,"y":100,"width":188,"height":157},
+		{"id":"767b4c242187b566","type":"text","text":"bệnh đậu mùa","x":320,"y":-85,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e70f5da4fcb7a159","fromNode":"dae4674dd7422b6f","fromSide":"right","toNode":"005b968e3eb48351","toSide":"left"},
-		{"id":"782997d187532d43","fromNode":"131e7c0b05bbe3e8","fromSide":"right","toNode":"005b968e3eb48351","toSide":"left"}
+		{"id":"782997d187532d43","fromNode":"131e7c0b05bbe3e8","fromSide":"right","toNode":"005b968e3eb48351","toSide":"left"},
+		{"id":"31f9cf7d1b72a7d7","fromNode":"005b968e3eb48351","fromSide":"right","toNode":"767b4c242187b566","toSide":"left"}
 	]
 }

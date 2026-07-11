@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"b55bb9c7cf87b1d0","type":"group","x":229,"y":1040,"width":571,"height":597,"label":"Untitled group"},
+		{"id":"b592190aa3f4c683","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/役 - Dịch.canvas","x":249,"y":-260,"width":205,"height":110},
+		{"id":"5d7db06cfce22ed9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-22,"y":-340,"width":156,"height":109},
+		{"id":"ebf5b54d5a191278","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/疫 - Dịch.canvas","x":249,"y":60,"width":156,"height":97},
+		{"id":"75ae1f4d16fcf4b8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas","x":-40,"y":140,"width":133,"height":88},
+		{"id":"ee8c520620ab2870","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":15,"y":300,"width":116,"height":96},
+		{"id":"72920e3ced54fe10","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/没 - Một.canvas","x":249,"y":213,"width":173,"height":87},
+		{"id":"d9543719cb04bd6b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/投 - Đầu.canvas","x":249,"y":396,"width":235,"height":193},
+		{"id":"d8c812a698c43cbc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas","x":-60,"y":520,"width":108,"height":116},
+		{"id":"b2fe6666dd498458","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殺 - Sát.canvas","x":249,"y":780,"width":214,"height":115},
+		{"id":"c4a8c136879fb161","type":"text","text":"Thù　「殳」","x":-800,"y":240,"width":250,"height":60},
+		{"id":"3f95282f9762faf7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-177,"y":1000,"width":179,"height":50},
+		{"id":"ea4116cb33878847","type":"text","text":"Thù　「殳」","x":-800,"y":1309,"width":250,"height":60},
+		{"id":"2e5d95c405328280","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas","x":-186,"y":856,"width":99,"height":79},
+		{"id":"26f11535299551ab","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/穀 - Cốc.canvas","x":356,"y":1123,"width":296,"height":138},
+		{"id":"675f22e327a31aee","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas","x":180,"y":1083,"width":116,"height":81},
+		{"id":"206c71e29bebc5e3","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殻 - Xác.canvas","x":380,"y":1400,"width":178,"height":177},
+		{"id":"6eaab64fc5585a84","x":-69,"y":1784,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殿 - Điện.canvas"},
+		{"id":"e048e62f68440a7a","x":-520,"y":1903,"width":141,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"46fcc8819735b10d","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"b592190aa3f4c683","toSide":"left"},
+		{"id":"8f36fa970c887cd2","fromNode":"5d7db06cfce22ed9","fromSide":"right","toNode":"b592190aa3f4c683","toSide":"left"},
+		{"id":"76e64e13dd3c923b","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"ebf5b54d5a191278","toSide":"left"},
+		{"id":"156f09eff3b527f3","fromNode":"75ae1f4d16fcf4b8","fromSide":"right","toNode":"ebf5b54d5a191278","toSide":"left"},
+		{"id":"7fa0ba9645f71e67","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"72920e3ced54fe10","toSide":"left"},
+		{"id":"47bdfd34dc76d0a6","fromNode":"ee8c520620ab2870","fromSide":"right","toNode":"72920e3ced54fe10","toSide":"left"},
+		{"id":"e95d989bf52a0f42","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"d9543719cb04bd6b","toSide":"left"},
+		{"id":"d51343ef07930998","fromNode":"d8c812a698c43cbc","fromSide":"right","toNode":"d9543719cb04bd6b","toSide":"left"},
+		{"id":"c0ed4b915002f95c","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"b2fe6666dd498458","toSide":"left"},
+		{"id":"6e397daf98f71938","fromNode":"ea4116cb33878847","fromSide":"right","toNode":"b55bb9c7cf87b1d0","toSide":"left"},
+		{"id":"47a0ddb3bc5f41ae","fromNode":"675f22e327a31aee","fromSide":"right","toNode":"26f11535299551ab","toSide":"left"},
+		{"id":"ce76de1079132a66","fromNode":"3f95282f9762faf7","fromSide":"right","toNode":"b55bb9c7cf87b1d0","toSide":"left"},
+		{"id":"a7c75574155bdf17","fromNode":"2e5d95c405328280","fromSide":"right","toNode":"b55bb9c7cf87b1d0","toSide":"left"},
+		{"id":"49ef70a3639da653","fromNode":"ea4116cb33878847","fromSide":"right","toNode":"6eaab64fc5585a84","toSide":"left"},
+		{"id":"efbe6090289e94ec","fromNode":"e048e62f68440a7a","fromSide":"right","toNode":"6eaab64fc5585a84","toSide":"left"}
+	]
+}

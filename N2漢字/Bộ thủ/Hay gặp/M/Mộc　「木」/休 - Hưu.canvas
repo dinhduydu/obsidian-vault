@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6cd598ee6cf7abf4","type":"text","text":"休 - Hưu","x":-79,"y":-50,"width":250,"height":60},
+		{"id":"78dcdb018ee202a0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-480,"y":-20,"width":150,"height":127},
+		{"id":"0a2b628d7510faea","x":-480,"y":-220,"width":140,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6f1e29ba004f4753","fromNode":"78dcdb018ee202a0","fromSide":"right","toNode":"6cd598ee6cf7abf4","toSide":"left"},
+		{"id":"aed72471b111c385","fromNode":"0a2b628d7510faea","fromSide":"right","toNode":"6cd598ee6cf7abf4","toSide":"left"}
+	]
+}

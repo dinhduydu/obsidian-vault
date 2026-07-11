@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"df19ecbc16a58f7b","type":"text","text":"問 - Vấn","x":-310,"y":-21,"width":250,"height":60},
+		{"id":"3a787d36f036bfef","type":"text","text":"vấn đáp, chất vấn, vấn đề","x":61,"y":-38,"width":250,"height":60},
+		{"id":"73b5615a0237e7b7","x":-600,"y":-140,"width":199,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"},
+		{"id":"b8f321b70891bdde","x":-522,"y":39,"width":121,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"b727f2b0ff894055","fromNode":"df19ecbc16a58f7b","fromSide":"right","toNode":"3a787d36f036bfef","toSide":"left"},
+		{"id":"0dec3d838de7e645","fromNode":"73b5615a0237e7b7","fromSide":"right","toNode":"df19ecbc16a58f7b","toSide":"left"},
+		{"id":"5e1dd602fdb64602","fromNode":"b8f321b70891bdde","fromSide":"right","toNode":"df19ecbc16a58f7b","toSide":"left"}
+	]
+}

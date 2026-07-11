@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"e4646f7411bac5f3","type":"text","text":"Bản　「本」","x":-153,"y":-37,"width":250,"height":60},
-		{"id":"0e05b1410ba20d75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-500,"y":-145,"width":150,"height":108},
+		{"id":"0e05b1410ba20d75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-500,"y":-145,"width":150,"height":108},
 		{"id":"80e98af7ad02f6c0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-528,"y":40,"width":178,"height":110},
 		{"id":"fd6f466e5b6dfc00","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-28,"y":-280,"width":140,"height":105},
 		{"id":"239af8c4588cdd6b","x":300,"y":-175,"width":151,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」/休 - Thể.canvas"}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e4f90f9ec9396e8","x":-135,"y":-58,"width":250,"height":60,"type":"text","text":"没 - Một"},
+		{"id":"e186a6739c6d273b","x":-400,"y":-180,"width":116,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"e34e4d7f2662dd00","x":-421,"y":40,"width":137,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"bbf586a7ced32048","fromNode":"e186a6739c6d273b","fromSide":"right","toNode":"7e4f90f9ec9396e8","toSide":"left"},
+		{"id":"4e46a1520cd88fde","fromNode":"e34e4d7f2662dd00","fromSide":"right","toNode":"7e4f90f9ec9396e8","toSide":"left"}
+	]
+}

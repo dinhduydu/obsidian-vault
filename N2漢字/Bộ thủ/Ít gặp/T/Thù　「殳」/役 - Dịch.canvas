@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3edb4d0d69b4856e","type":"text","text":"役 - Dịch","x":-82,"y":-13,"width":250,"height":60},
+		{"id":"4d8b60b84acfd298","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-380,"y":-140,"width":148,"height":98},
+		{"id":"56da8b78d08d37c3","x":-366,"y":47,"width":120,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"4c5b3eb34e39fef6","fromNode":"4d8b60b84acfd298","fromSide":"right","toNode":"3edb4d0d69b4856e","toSide":"left"},
+		{"id":"eec96ba2fa3a21e2","fromNode":"56da8b78d08d37c3","fromSide":"right","toNode":"3edb4d0d69b4856e","toSide":"left"}
+	]
+}

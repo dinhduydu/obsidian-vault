@@ -16,7 +16,7 @@
 		{"id":"3bf4ad66c5afb917","type":"text","text":"最後　「さいご」：","x":671,"y":1040,"width":250,"height":60},
 		{"id":"7cbdb6a1d80b7f60","x":-24,"y":920,"width":159,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」.canvas"},
 		{"id":"ac05ba99c88c92a2","type":"text","text":"Xích　「彳」","x":-320,"y":1040,"width":250,"height":60},
-		{"id":"c7ffc026227e29b1","x":-24,"y":1140,"width":159,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」/Truy　「夂」.canvas"}
+		{"id":"c7ffc026227e29b1","x":-24,"y":1140,"width":159,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
 	],
 	"edges":[
 		{"id":"7939cb0b8ca7121f","fromNode":"1f92bb894fae7ee7","fromSide":"right","toNode":"e82a7d30337f290c","toSide":"left"},

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e8c0fe2aaa0cb98a","type":"text","text":"象\tvoi, hình tượng\t\n像\t亻 + 象\thình ảnh, tượng\n橡\t木 + 象\tcây sồi\n襐\t衤 + 象\tbọc, gói (ít gặp)","x":-554,"y":-202,"width":291,"height":135},
 		{"id":"5b7d68d69fa94e06","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-109,"y":-227,"width":196,"height":101},
-		{"id":"573d637a5471246e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":-99,"y":-67,"width":176,"height":118},
+		{"id":"573d637a5471246e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-99,"y":-67,"width":176,"height":118},
 		{"id":"dfd62708178e1df0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-99,"y":115,"width":167,"height":111},
 		{"id":"f4116ff497a7d166","type":"text","text":"象 - Tượng","x":-860,"y":-164,"width":250,"height":60},
 		{"id":"bd33d4aec20aef73","type":"text","text":"像 - Tượng","x":211,"y":141,"width":250,"height":60},

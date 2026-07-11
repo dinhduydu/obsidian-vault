@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"13d858307847eba1","type":"text","text":"Trùng　「虫」","x":-183,"y":-6,"width":250,"height":60},
+		{"id":"c0eccdbf1d7994d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」.canvas","x":-55,"y":-274,"width":122,"height":88},
+		{"id":"730077fafc76726f","x":240,"y":-129,"width":140,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蚊 - Văn.canvas"}
+	],
+	"edges":[
+		{"id":"4af8dc6fca16d9a1","fromNode":"13d858307847eba1","fromSide":"right","toNode":"730077fafc76726f","toSide":"left"},
+		{"id":"7458b156e0845645","fromNode":"c0eccdbf1d7994d4","fromSide":"right","toNode":"730077fafc76726f","toSide":"left"}
+	]
+}

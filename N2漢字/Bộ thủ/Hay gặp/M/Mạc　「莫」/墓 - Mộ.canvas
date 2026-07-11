@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a074aa964ec26cb","type":"text","text":"墓 - Mộ","x":-126,"y":41,"width":250,"height":60},
+		{"id":"27a7a9ee9e53fd8a","type":"text","text":"墓（はか）: mộ","x":381,"y":41,"width":250,"height":60},
+		{"id":"d76ad3c039c7b096","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-580,"y":-180,"width":148,"height":90}
+	],
+	"edges":[
+		{"id":"81795de6596adaad","fromNode":"4a074aa964ec26cb","fromSide":"right","toNode":"27a7a9ee9e53fd8a","toSide":"left","color":"2"},
+		{"id":"ed3f442bbeb00fff","fromNode":"d76ad3c039c7b096","fromSide":"bottom","toNode":"4a074aa964ec26cb","toSide":"left","color":"2"}
+	]
+}

@@ -21,7 +21,7 @@
 		{"id":"8b59f03c72b9b06b","type":"text","text":"故 - Cố","x":-420,"y":1300,"width":250,"height":60},
 		{"id":"fc09f8425f898275","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/古 - Cổ.canvas","x":-735,"y":1380,"width":134,"height":170},
 		{"id":"ff4a2c9d11f90e36","x":-350,"y":1058,"width":250,"height":60,"type":"text","text":"救 - Cứu"},
-		{"id":"12e9aa2be6c8936e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy　「夂」/Truy　「夂」.canvas","x":-1300,"y":311,"width":177,"height":167}
+		{"id":"12e9aa2be6c8936e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-1300,"y":311,"width":177,"height":167}
 	],
 	"edges":[
 		{"id":"8d49fb146311cb8d","fromNode":"afdf3fa7c2ecc46b","fromSide":"right","toNode":"d25b812815f1611c","toSide":"left"},

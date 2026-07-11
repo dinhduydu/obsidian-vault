@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5a3f43df8e94de38","type":"text","text":"疫 - Dịch","x":-469,"y":63,"width":189,"height":60},
+		{"id":"a865ab6b1e2b616b","type":"text","text":"防疫　「ぼうえき」：phòng dịch","x":-80,"y":-60,"width":250,"height":60},
+		{"id":"11248ebd11da896f","x":-820,"y":-60,"width":196,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"},
+		{"id":"628e15bae6616480","x":-765,"y":140,"width":141,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"7dbc41138c924065","fromNode":"5a3f43df8e94de38","fromSide":"right","toNode":"a865ab6b1e2b616b","toSide":"left"},
+		{"id":"0f2aeaa7b66dcbb8","fromNode":"11248ebd11da896f","fromSide":"right","toNode":"5a3f43df8e94de38","toSide":"left"},
+		{"id":"fcac0758b0f76ab4","fromNode":"628e15bae6616480","fromSide":"right","toNode":"5a3f43df8e94de38","toSide":"left"}
+	]
+}

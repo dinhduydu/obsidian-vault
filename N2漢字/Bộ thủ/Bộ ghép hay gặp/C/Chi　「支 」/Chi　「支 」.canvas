@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"00240d1c73c6864c","type":"text","text":"Chi　「支 」","x":-160,"y":-41,"width":250,"height":60},
 		{"id":"ab8dbafd04ca0d5e","type":"text","text":"- Chi (chống đỡ, nhánh, hỗ trợ)\n- Đồng thời là thành phần biểu âm","x":-740,"y":-100,"width":324,"height":89},
-		{"id":"3ee95d7b371bbf50","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」.canvas","x":-519,"y":-352,"width":103,"height":123},
+		{"id":"3ee95d7b371bbf50","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-519,"y":-352,"width":103,"height":123},
 		{"id":"cec36aff208764e8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」.canvas","x":-578,"y":-607,"width":170,"height":155},
 		{"id":"7de2441dffb06230","type":"text","text":"支える　「ささえる」：","x":-618,"y":80,"width":250,"height":60},
 		{"id":"b57f0a8558af0798","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":235,"y":500,"width":195,"height":192},
@@ -13,7 +13,7 @@
 		{"id":"14f04d4d84d97102","type":"text","text":"四肢　「しし」：tứ chi","x":298,"y":1119,"width":250,"height":60},
 		{"id":"1359cfd28de3370f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/技 - Kĩ.canvas","x":221,"y":-261,"width":158,"height":141},
 		{"id":"19a83ac03739824a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas","x":-35,"y":-360,"width":140,"height":77},
-		{"id":"4e3f472c8ad830e0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」.canvas","x":35,"y":160,"width":134,"height":131},
+		{"id":"4e3f472c8ad830e0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":35,"y":160,"width":134,"height":131},
 		{"id":"ba4c4a586c813def","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/枝 - Chi.canvas","x":461,"y":30,"width":193,"height":130},
 		{"id":"e98cb8a78f50b6a6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/伎 - Kĩ.canvas","x":581,"y":340,"width":113,"height":71},
 		{"id":"f8474ca8d5451bae","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas","x":240,"y":840,"width":168,"height":141}

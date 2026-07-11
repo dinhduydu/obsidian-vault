@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"80a7c99ed0bd025f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-469,"y":-121,"width":161,"height":118},
+		{"id":"70b8b8cde06fcc33","type":"text","text":"khai mạc","x":163,"y":-54,"width":250,"height":60},
+		{"id":"ed52eac3105c5ffe","type":"text","text":"幕 - Mạc/Mộ/Mán","x":-272,"y":62,"width":250,"height":60},
+		{"id":"35aa0b65a7a3a2ce","type":"text","text":"幕（まく）: màn, màn che","x":220,"y":62,"width":250,"height":60},
+		{"id":"fcb498473886c200","x":-637,"y":140,"width":168,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"}
+	],
+	"edges":[
+		{"id":"b8d536023386dee0","fromNode":"80a7c99ed0bd025f","fromSide":"bottom","toNode":"ed52eac3105c5ffe","toSide":"left","color":"5","label":"Vải"},
+		{"id":"0a56a81cb0f4b079","fromNode":"ed52eac3105c5ffe","fromSide":"right","toNode":"70b8b8cde06fcc33","toSide":"left"},
+		{"id":"ced830d50939fca2","fromNode":"ed52eac3105c5ffe","fromSide":"right","toNode":"35aa0b65a7a3a2ce","toSide":"left","color":"5"},
+		{"id":"686be9ab4dc8ea00","fromNode":"fcb498473886c200","fromSide":"right","toNode":"ed52eac3105c5ffe","toSide":"left"}
+	]
+}

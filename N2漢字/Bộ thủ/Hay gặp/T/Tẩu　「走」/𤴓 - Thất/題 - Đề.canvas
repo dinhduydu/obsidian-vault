@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"aac0771b6cfc7b82","x":-67,"y":-25,"width":250,"height":60,"type":"text","text":"題 - Đề"},
-		{"id":"090507dc7f0c14a1","x":-300,"y":-180,"width":138,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas"},
-		{"id":"a4553cf1f30a7769","x":-322,"y":35,"width":160,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+		{"id":"aac0771b6cfc7b82","type":"text","text":"題 - Đề","x":-67,"y":-25,"width":250,"height":60},
+		{"id":"090507dc7f0c14a1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas","x":-300,"y":-180,"width":138,"height":129},
+		{"id":"a4553cf1f30a7769","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-322,"y":35,"width":160,"height":118},
+		{"id":"60d7a784604dcb01","x":90,"y":-232,"width":186,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bách　「百」/宿 - Túc.canvas"},
+		{"id":"08f1cf80cdabb975","x":360,"y":-25,"width":250,"height":60,"type":"text","text":"宿題　「しゅくだい」：bài tập về nhà"}
 	],
 	"edges":[
 		{"id":"47d7b5090c52c4b5","fromNode":"090507dc7f0c14a1","fromSide":"right","toNode":"aac0771b6cfc7b82","toSide":"left"},
-		{"id":"5a5648ebf2d933d3","fromNode":"a4553cf1f30a7769","fromSide":"right","toNode":"aac0771b6cfc7b82","toSide":"left"}
+		{"id":"5a5648ebf2d933d3","fromNode":"a4553cf1f30a7769","fromSide":"right","toNode":"aac0771b6cfc7b82","toSide":"left"},
+		{"id":"43e62b8c37ddecb3","fromNode":"aac0771b6cfc7b82","fromSide":"right","toNode":"08f1cf80cdabb975","toSide":"left"},
+		{"id":"b778342bbfc3c010","fromNode":"60d7a784604dcb01","fromSide":"right","toNode":"08f1cf80cdabb975","toSide":"left"}
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"19deb7543eda0556","type":"text","text":"模 - Mô","x":-229,"y":-69,"width":250,"height":60},
+		{"id":"eb3c06e9bcbb505e","type":"text","text":"規模","x":131,"y":-69,"width":250,"height":60},
+		{"id":"41ee5d5f4b1b7693","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-380,"y":-9,"width":82,"height":78},
+		{"id":"57f5679820dabb9f","x":-521,"y":-183,"width":182,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"}
+	],
+	"edges":[
+		{"id":"b267dd357a40f808","fromNode":"19deb7543eda0556","fromSide":"right","toNode":"eb3c06e9bcbb505e","toSide":"left"},
+		{"id":"e220edac545485bc","fromNode":"41ee5d5f4b1b7693","fromSide":"right","toNode":"19deb7543eda0556","toSide":"left"},
+		{"id":"5a037546af70348e","fromNode":"57f5679820dabb9f","fromSide":"right","toNode":"19deb7543eda0556","toSide":"left"}
+	]
+}

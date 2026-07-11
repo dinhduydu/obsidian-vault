@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f957cc4b67b976a7","type":"text","text":"膜（まく）: màng","x":207,"y":-40,"width":250,"height":60},
+		{"id":"1cd5612f4eaf382a","type":"text","text":"膜 - Mô/Mạc","x":-181,"y":-100,"width":250,"height":60},
+		{"id":"feffab2648b2ff5c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas","x":-457,"y":-40,"width":239,"height":140},
+		{"id":"b6e4c93e8585ce22","x":-480,"y":-280,"width":155,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"}
+	],
+	"edges":[
+		{"id":"9b72484b263193b1","fromNode":"1cd5612f4eaf382a","fromSide":"right","toNode":"f957cc4b67b976a7","toSide":"left","color":"6"},
+		{"id":"c87f8b9d0ffaeffe","fromNode":"feffab2648b2ff5c","fromSide":"right","toNode":"1cd5612f4eaf382a","toSide":"left","color":"6"},
+		{"id":"7b24c86e2beb8795","fromNode":"b6e4c93e8585ce22","fromSide":"right","toNode":"1cd5612f4eaf382a","toSide":"left"}
+	]
+}
