@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bd9f8eb8263e56e8","type":"text","text":"秋 - Thu","x":-313,"y":-140,"width":250,"height":60},
+		{"id":"b7ccd98758a69d3f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-743,"y":-80,"width":213,"height":184},
+		{"id":"5daa58d4daac68d6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-313,"y":150,"width":233,"height":140},
+		{"id":"54efbfd0ed5680bd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-778,"y":-500,"width":142,"height":85},
+		{"id":"850c8d4c71cb97fd","x":200,"y":8,"width":178,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/愁 - Sầu.canvas"}
+	],
+	"edges":[
+		{"id":"77b1034d37103280","fromNode":"bd9f8eb8263e56e8","fromSide":"right","toNode":"850c8d4c71cb97fd","toSide":"left","label":"mùa thu"},
+		{"id":"bea54c63aa8dcf0f","fromNode":"b7ccd98758a69d3f","fromSide":"right","toNode":"bd9f8eb8263e56e8","toSide":"left","label":"vàng như lửa"},
+		{"id":"3a4e4a97d696d51d","fromNode":"54efbfd0ed5680bd","fromSide":"right","toNode":"bd9f8eb8263e56e8","toSide":"left","label":"lúa"},
+		{"id":"38d4792f41cbb821","fromNode":"5daa58d4daac68d6","fromSide":"right","toNode":"850c8d4c71cb97fd","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"}
+	]
+}

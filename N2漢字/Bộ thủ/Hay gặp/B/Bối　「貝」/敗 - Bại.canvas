@@ -5,7 +5,7 @@
 		{"id":"b066e26ecf5f768c","type":"text","text":"Tài sản (貝) bị tổn thất do bị đánh đổ (攵) → thất bại (敗).","x":36,"y":-38,"width":250,"height":60},
 		{"id":"7e704565268405e7","type":"text","text":"**Nghĩa:**\n\n- Thua, thất bại.\n- Bị đánh bại.\n- Hỏng, suy sụp (trong một số từ cổ).","x":70,"y":83,"width":323,"height":169},
 		{"id":"82c9c438cfa304de","x":-600,"y":-156,"width":133,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
-		{"id":"280f2533b420d998","x":-640,"y":19,"width":133,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」.canvas"}
+		{"id":"280f2533b420d998","x":-640,"y":19,"width":133,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
 	],
 	"edges":[
 		{"id":"1495ecd916f6edf4","fromNode":"6007c964b32399c4","fromSide":"right","toNode":"54f964631c71f2ec","toSide":"left"},

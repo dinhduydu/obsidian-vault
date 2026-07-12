@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0b99e1e304ccc5e1","type":"text","text":"祝 - Chúc","x":193,"y":189,"width":250,"height":60},
-		{"id":"c209ff5d8cf14ca7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas","x":-80,"y":380,"width":130,"height":114},
+		{"id":"c209ff5d8cf14ca7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas","x":-80,"y":380,"width":130,"height":114},
 		{"id":"146d75329e368ad5","type":"text","text":"Thực hiện nghi lễ trước thần linh (礻) để cầu điều tốt đẹp → **chúc mừng, chúc phúc**.","x":604,"y":140,"width":656,"height":50},
 		{"id":"10b03ccb0558c6ee","type":"text","text":"**Nghĩa:**\n\n- Chúc mừng.\n- Chúc phúc.\n- Cầu mong điều tốt đẹp.","x":1375,"y":96,"width":325,"height":153},
 		{"id":"9236855b7217e519","type":"text","text":"祝う\tいわう\tchúc mừng\n祝日\tしゅくじつ\tngày lễ\n祝福\tしゅくふく\tchúc phúc\n祝賀\tしゅくが\tchúc mừng, mừng lễ\n祝辞\tしゅくじ\tlời chúc mừng\n祝い\tいわい\tlễ mừng, quà mừng","x":660,"y":320,"width":346,"height":189},

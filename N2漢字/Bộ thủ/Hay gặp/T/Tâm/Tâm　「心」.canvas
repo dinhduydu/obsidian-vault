@@ -7,7 +7,7 @@
 		{"id":"badac2a4e57d6a04","type":"text","text":"秋 - Thu","x":140,"y":-580,"width":250,"height":60},
 		{"id":"9dcb151fdf93af8d","type":"text","text":"愁 - Sầu","x":570,"y":-458,"width":250,"height":60},
 		{"id":"bfa357e05f608211","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":1010,"y":-458,"width":250,"height":60},
-		{"id":"75f8f7137315f89a","x":-69,"y":-681,"width":123,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas"}
+		{"id":"75f8f7137315f89a","x":-69,"y":-681,"width":123,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
 	],
 	"edges":[
 		{"id":"913f3f00d530c68c","fromNode":"cd6c91450cdeab93","fromSide":"right","toNode":"2478bb0b87f345a1","toSide":"left"},

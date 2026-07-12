@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6511728496ca1707","type":"text","text":"准 - Chuẩn","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"baad31db834b9f2d","x":-380,"y":30,"width":146,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"f4d481a49a78ebaf","fromNode":"baad31db834b9f2d","fromSide":"right","toNode":"6511728496ca1707","toSide":"left"}
+	]
+}

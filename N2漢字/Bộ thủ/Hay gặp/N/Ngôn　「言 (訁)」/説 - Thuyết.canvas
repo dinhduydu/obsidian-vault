@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"17d583300170f2f8","type":"text","text":"説 - Thuyết","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"b708a6f1d9faa956","x":-378,"y":60,"width":133,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas"},
+		{"id":"b708a6f1d9faa956","x":-378,"y":60,"width":133,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas"},
 		{"id":"b19bbacbce238348","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-378,"y":-123,"width":109,"height":93}
 	],
 	"edges":[

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92de106e68467828","type":"text","text":"愁 - Sầu","x":-130,"y":-93,"width":250,"height":60},
+		{"id":"3be288bac237493c","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":310,"y":-93,"width":250,"height":60},
+		{"id":"fcac90a7f84ee1d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-560,"y":75,"width":233,"height":140},
+		{"id":"371bed698f0617f6","x":-560,"y":-400,"width":183,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas"}
+	],
+	"edges":[
+		{"id":"81de4971a59e3705","fromNode":"371bed698f0617f6","fromSide":"right","toNode":"92de106e68467828","toSide":"left","label":"mùa thu"},
+		{"id":"3d55a90a628a4c6e","fromNode":"92de106e68467828","fromSide":"right","toNode":"3be288bac237493c","toSide":"left"},
+		{"id":"fc779dc6e11f1d5c","fromNode":"fcac90a7f84ee1d4","fromSide":"right","toNode":"92de106e68467828","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"}
+	]
+}

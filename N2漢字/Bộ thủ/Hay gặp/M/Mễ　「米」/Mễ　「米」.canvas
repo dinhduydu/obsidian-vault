@@ -6,9 +6,9 @@
 		{"id":"6ef8679af449faeb","type":"text","text":"- 継続（けいぞく）: tiếp tục\n- 事業を継ぐ（じぎょう を つぐ）: kế thừa sự nghiệp\n- 王位継承（おうい けいしょう）: kế vị ngai vàng","x":1196,"y":-400,"width":484,"height":100},
 		{"id":"3ad42a42a7273186","type":"text","text":"Cấu tạo:\n\n- Bên trái: 糸 (sợi chỉ → nối)\n- Bên phải: 米 + phần biến thể khác tạo âm","x":766,"y":-760,"width":295,"height":163},
 		{"id":"558a6d7b7c2cdb90","type":"text","text":"粉 - Phấn","x":360,"y":122,"width":250,"height":60},
-		{"id":"461ed4daf8662c64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」.canvas","x":80,"y":240,"width":171,"height":144},
+		{"id":"461ed4daf8662c64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":80,"y":240,"width":171,"height":144},
 		{"id":"3579695dd0295684","type":"text","text":"料 - Khoa","x":360,"y":420,"width":250,"height":60},
-		{"id":"41a0a9c7bad62ce1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」.canvas","x":20,"y":600,"width":192,"height":164}
+		{"id":"41a0a9c7bad62ce1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":20,"y":600,"width":192,"height":164}
 	],
 	"edges":[
 		{"id":"40b32d92b852173c","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"444c05a5ae85352d","toSide":"left"},

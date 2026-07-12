@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d30800124acc2b36","x":-186,"y":-22,"width":250,"height":60,"type":"text","text":"完 - Hoàn"},
+		{"id":"1ff40079d3da0318","x":-460,"y":38,"width":153,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyên　「元」/Nguyên　「元」.canvas"},
+		{"id":"2579ad3ef0e060f9","x":-486,"y":-240,"width":179,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"cd39a2b818b34011","fromNode":"1ff40079d3da0318","fromSide":"right","toNode":"d30800124acc2b36","toSide":"left"},
+		{"id":"2f798603b6c492dd","fromNode":"2579ad3ef0e060f9","fromSide":"right","toNode":"d30800124acc2b36","toSide":"left"}
+	]
+}

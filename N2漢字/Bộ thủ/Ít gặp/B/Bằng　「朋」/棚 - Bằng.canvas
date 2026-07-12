@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"934a09913875ea73","x":-152,"y":-9,"width":250,"height":60,"type":"text","text":"棚 - Bằng"},
+		{"id":"7011a08e77380aca","x":-420,"y":-134,"width":141,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/Bằng　「朋」.canvas"},
+		{"id":"17ec66cbed8bd109","x":-439,"y":80,"width":160,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6e4948fcdda811c8","fromNode":"7011a08e77380aca","fromSide":"right","toNode":"934a09913875ea73","toSide":"left"},
+		{"id":"1f48ba26f1113173","fromNode":"17ec66cbed8bd109","fromSide":"right","toNode":"934a09913875ea73","toSide":"left"}
+	]
+}

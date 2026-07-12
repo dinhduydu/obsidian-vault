@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2a20383c478c849b","type":"text","text":"穏 - Ổn","x":-464,"y":-30,"width":250,"height":60},
+		{"id":"703cd06eaa3ea058","type":"text","text":"穏やか","x":-126,"y":-30,"width":250,"height":60},
+		{"id":"cd00f3bf34bdf5bc","type":"text","text":"điềm đạm, yên ả","x":232,"y":-116,"width":250,"height":60},
+		{"id":"8a8e396ea3c55c8c","x":-740,"y":-135,"width":176,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"90335e4a08006217","fromNode":"2a20383c478c849b","fromSide":"right","toNode":"703cd06eaa3ea058","toSide":"left"},
+		{"id":"32ad2bcfe43a22e4","fromNode":"703cd06eaa3ea058","fromSide":"right","toNode":"cd00f3bf34bdf5bc","toSide":"left"},
+		{"id":"bf42e6b2435861f9","fromNode":"8a8e396ea3c55c8c","fromSide":"right","toNode":"2a20383c478c849b","toSide":"left"}
+	]
+}

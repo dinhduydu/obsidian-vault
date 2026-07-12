@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d1c67ec122d4f4d7","type":"text","text":"凍 - Đông","x":-63,"y":-113,"width":250,"height":60},
+		{"id":"63ff4e46dc8b8c62","type":"text","text":"nước đông, nước đá","x":291,"y":-149,"width":250,"height":60},
+		{"id":"44e9f10d157929c4","type":"text","text":"凍える　「こごえる」：","x":292,"y":-14,"width":250,"height":60},
+		{"id":"6f57630e4eed5654","type":"text","text":"Liên quan đến lạnh, đóng băng (trong nhiều chữ Hán)","x":-542,"y":132,"width":250,"height":60},
+		{"id":"762cc1538a520c85","x":-494,"y":-277,"width":154,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"feb0fd1ad894e632","fromNode":"762cc1538a520c85","fromSide":"right","toNode":"d1c67ec122d4f4d7","toSide":"left"},
+		{"id":"473ab3c64d19c23a","fromNode":"762cc1538a520c85","fromSide":"bottom","toNode":"6f57630e4eed5654","toSide":"top"},
+		{"id":"cf601b756f2c7d44","fromNode":"d1c67ec122d4f4d7","fromSide":"right","toNode":"63ff4e46dc8b8c62","toSide":"left"},
+		{"id":"322c2e235345c263","fromNode":"d1c67ec122d4f4d7","fromSide":"right","toNode":"44e9f10d157929c4","toSide":"left"},
+		{"id":"5ea9983d118e33e2","fromNode":"6f57630e4eed5654","fromSide":"right","toNode":"d1c67ec122d4f4d7","toSide":"left","color":"5"}
+	]
+}

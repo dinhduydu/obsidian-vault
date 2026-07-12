@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b074677f9922fd55","x":-177,"y":-70,"width":250,"height":60,"type":"text","text":"冷 - Hàn"},
+		{"id":"0e7a84606317122c","x":-500,"y":-70,"width":211,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"36400a059381c856","fromNode":"0e7a84606317122c","fromSide":"right","toNode":"b074677f9922fd55","toSide":"left"}
+	]
+}

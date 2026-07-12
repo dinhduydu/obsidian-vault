@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c7c608003bcbc177","x":-184,"y":22,"width":250,"height":60,"type":"text","text":"冠 - Quán"},
+		{"id":"9aa59e0e90427f79","x":-420,"y":-140,"width":142,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyên　「元」/Nguyên　「元」.canvas"},
+		{"id":"6f4080ee3d48ec70","x":-420,"y":52,"width":142,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"22ca56e657267415","x":-417,"y":220,"width":139,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"02ea5a2958249b74","fromNode":"9aa59e0e90427f79","fromSide":"right","toNode":"c7c608003bcbc177","toSide":"left"},
+		{"id":"4963cee9be28271b","fromNode":"6f4080ee3d48ec70","fromSide":"right","toNode":"c7c608003bcbc177","toSide":"left"},
+		{"id":"b019d0e3d96f6175","fromNode":"22ca56e657267415","fromSide":"right","toNode":"c7c608003bcbc177","toSide":"left"}
+	]
+}

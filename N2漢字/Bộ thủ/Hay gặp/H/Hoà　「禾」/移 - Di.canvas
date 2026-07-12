@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3ed5b2b8427f3e8f","type":"text","text":"移転　「いてん」：chuyển địa điểm / dời sang chỗ mới.","x":-74,"y":70,"width":250,"height":60},
+		{"id":"767ff6e6ac74681e","type":"text","text":"ダム建設で、その村は隣村へ**移転**することになった。","x":283,"y":62,"width":434,"height":76},
+		{"id":"2dc439881df6e1bf","type":"text","text":"移 - Di","x":-257,"y":75,"width":130,"height":50},
+		{"id":"5e54e410504c6b3d","x":-592,"y":-360,"width":144,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"8e87135794a2a0d0","fromNode":"3ed5b2b8427f3e8f","fromSide":"right","toNode":"767ff6e6ac74681e","toSide":"left"},
+		{"id":"5f7e34fb39458993","fromNode":"2dc439881df6e1bf","fromSide":"right","toNode":"3ed5b2b8427f3e8f","toSide":"left"},
+		{"id":"12aaa9ddad5bc1dc","fromNode":"5e54e410504c6b3d","fromSide":"right","toNode":"2dc439881df6e1bf","toSide":"left"}
+	]
+}

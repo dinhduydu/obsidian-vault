@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"da5844217ed18fdc","type":"text","text":"Có yếu tố “đang chuyển tiếp” (冫 biểu thị trạng thái dòng chảy/biến đổi nhẹ trong nhiều chữ)","x":0,"y":-561,"width":250,"height":132},
-		{"id":"62475c9eca0b3b15","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」.canvas","x":-380,"y":-547,"width":253,"height":105},
+		{"id":"62475c9eca0b3b15","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-380,"y":-547,"width":253,"height":105},
 		{"id":"f1ea120fa6e3ed39","type":"text","text":"欠陥　「けっかん」：","x":-820,"y":-1020,"width":250,"height":60},
 		{"id":"a9f2b9c4c49e5298","type":"text","text":"その製品は**欠陥**が見つかったために回収された。","x":-1320,"y":-1140,"width":420,"height":50},
 		{"id":"8a358cd6146531fc","type":"text","text":"欠ける　「かける」： thiếu","x":-820,"y":-960,"width":250,"height":60},

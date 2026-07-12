@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"9b48c50d653ed960","type":"text","text":"鍛冶屋","x":312,"y":-34,"width":250,"height":60},
+		{"id":"91d3065874d48e42","type":"text","text":"冶 - Dã","x":-110,"y":-4,"width":250,"height":60},
+		{"id":"d3f600912470a343","type":"text","text":"nấu chảy (thành nước)\ndã đông","x":276,"y":149,"width":250,"height":60},
+		{"id":"eafabdda02113d2a","type":"text","text":"Có yếu tố “đang chuyển tiếp” (冫 biểu thị trạng thái dòng chảy/biến đổi nhẹ trong nhiều chữ)","x":-561,"y":-268,"width":250,"height":132},
+		{"id":"89ec5f54306a7fea","x":-522,"y":149,"width":173,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"c861f433031fd87a","fromNode":"89ec5f54306a7fea","fromSide":"right","toNode":"91d3065874d48e42","toSide":"left"},
+		{"id":"d3d9518ad8ce6a24","fromNode":"89ec5f54306a7fea","fromSide":"top","toNode":"eafabdda02113d2a","toSide":"bottom"},
+		{"id":"5a5804b8311913ad","fromNode":"91d3065874d48e42","fromSide":"right","toNode":"9b48c50d653ed960","toSide":"left"},
+		{"id":"cb30268f685d1387","fromNode":"91d3065874d48e42","fromSide":"right","toNode":"d3f600912470a343","toSide":"left"},
+		{"id":"721c39119cb2283f","fromNode":"eafabdda02113d2a","fromSide":"right","toNode":"91d3065874d48e42","toSide":"left","color":"1"}
+	]
+}

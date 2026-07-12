@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e483459c1272963f","x":-112,"y":-19,"width":250,"height":60,"type":"text","text":"炭 - Than"},
+		{"id":"745e6d39df20e9fd","x":-400,"y":80,"width":167,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灰 - Hôi.canvas"},
+		{"id":"921b3f460fdf423c","x":-407,"y":-177,"width":174,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"38b55ef3e2d487cf","fromNode":"745e6d39df20e9fd","fromSide":"right","toNode":"e483459c1272963f","toSide":"left"},
+		{"id":"01a90a752a78b293","fromNode":"921b3f460fdf423c","fromSide":"right","toNode":"e483459c1272963f","toSide":"left"}
+	]
+}

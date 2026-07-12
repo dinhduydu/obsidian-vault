@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4fe4f10d9e971d46","x":-74,"y":-63,"width":250,"height":60,"type":"text","text":"灰 - Hôi"},
+		{"id":"4fe49eabad026cac","x":-360,"y":-200,"width":103,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"},
+		{"id":"b295997c1346ab92","x":-420,"y":-33,"width":163,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"cdc8214f0a7fe1fc","fromNode":"4fe49eabad026cac","fromSide":"right","toNode":"4fe4f10d9e971d46","toSide":"left"},
+		{"id":"6f13ee6e305912d5","fromNode":"b295997c1346ab92","fromSide":"right","toNode":"4fe4f10d9e971d46","toSide":"left"}
+	]
+}

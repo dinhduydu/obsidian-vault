@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ab02fe0f8c2f2575","x":-173,"y":-91,"width":250,"height":60,"type":"text","text":"玩 - Ngoạn"},
+		{"id":"709a023adf43648b","x":-420,"y":0,"width":160,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyên　「元」/Nguyên　「元」.canvas"},
+		{"id":"17d4b9a382b81257","x":-395,"y":-197,"width":135,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「玉 (王)」.canvas"}
+	],
+	"edges":[
+		{"id":"544ccb033fffd45b","fromNode":"709a023adf43648b","fromSide":"right","toNode":"ab02fe0f8c2f2575","toSide":"left"},
+		{"id":"b3b90e1ba61a48ef","fromNode":"17d4b9a382b81257","fromSide":"right","toNode":"ab02fe0f8c2f2575","toSide":"left"}
+	]
+}

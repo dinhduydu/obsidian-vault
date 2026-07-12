@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8286856e715f22ef","type":"text","text":"料 - Khoa","x":-246,"y":17,"width":250,"height":60},
+		{"id":"4b5dca2a0fc3dcc5","type":"text","text":"外科　「げか」：","x":163,"y":17,"width":250,"height":60},
+		{"id":"3a696bc359f0e998","x":-498,"y":77,"width":147,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"},
+		{"id":"99896a934cc2dc9d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-474,"y":-100,"width":123,"height":74}
+	],
+	"edges":[
+		{"id":"fcc5df6b081cf639","fromNode":"8286856e715f22ef","fromSide":"right","toNode":"4b5dca2a0fc3dcc5","toSide":"left"},
+		{"id":"12a629183b87c608","fromNode":"99896a934cc2dc9d","fromSide":"right","toNode":"8286856e715f22ef","toSide":"left"},
+		{"id":"afe9515b7cc669aa","fromNode":"3a696bc359f0e998","fromSide":"right","toNode":"8286856e715f22ef","toSide":"left"}
+	]
+}

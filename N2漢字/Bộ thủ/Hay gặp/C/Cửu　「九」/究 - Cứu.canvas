@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"550cb27ed323b285","type":"text","text":"究 - Cứu","x":-164,"y":-32,"width":250,"height":60},
 		{"id":"4c57a97e500c39d4","x":-380,"y":28,"width":158,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas"},
-		{"id":"c202776b5e96b275","x":-420,"y":-180,"width":162,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」.canvas"}
+		{"id":"c202776b5e96b275","x":-420,"y":-180,"width":162,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"}
 	],
 	"edges":[
 		{"id":"bc28a5fa313de47f","fromNode":"4c57a97e500c39d4","fromSide":"right","toNode":"550cb27ed323b285","toSide":"left"},

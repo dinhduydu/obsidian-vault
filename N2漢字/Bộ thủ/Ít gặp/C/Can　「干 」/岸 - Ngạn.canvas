@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f732c0c22fcbc9c","x":-168,"y":-60,"width":250,"height":60,"type":"text","text":"岸 - Ngạn"},
+		{"id":"29849bb32ecb8ee1","x":-440,"y":-121,"width":149,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"0b00b0cd320e81c2","x":-442,"y":60,"width":151,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas"}
+	],
+	"edges":[
+		{"id":"899f3bba24348592","fromNode":"29849bb32ecb8ee1","fromSide":"right","toNode":"7f732c0c22fcbc9c","toSide":"left"},
+		{"id":"cbf6d1538ddf1abe","fromNode":"0b00b0cd320e81c2","fromSide":"right","toNode":"7f732c0c22fcbc9c","toSide":"left"}
+	]
+}

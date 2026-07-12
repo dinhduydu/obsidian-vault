@@ -10,7 +10,7 @@
 		{"id":"e3ec424783b18ca1","type":"text","text":"sau khi","x":-714,"y":634,"width":250,"height":60},
 		{"id":"ab8e13f481ea4a52","type":"text","text":"tuỳ vào","x":-715,"y":494,"width":250,"height":60},
 		{"id":"ad93fd5b25feba58","x":-380,"y":-360,"width":165,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"},
-		{"id":"6e87379b041275b4","x":-398,"y":6,"width":183,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」.canvas"}
+		{"id":"6e87379b041275b4","x":-398,"y":6,"width":183,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
 	],
 	"edges":[
 		{"id":"17a78f97ef6a96bd","fromNode":"4b05d74515ee75b4","fromSide":"right","toNode":"ab8e13f481ea4a52","toSide":"left"},
