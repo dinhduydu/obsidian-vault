@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"58994a992067b6ba","x":-113,"y":-28,"width":250,"height":60,"type":"text","text":"遅 - Trì"},
+		{"id":"7b7b396ef1bc80a1","x":-320,"y":-100,"width":110,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"2f71761349e68c9d","x":-327,"y":60,"width":117,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"},
+		{"id":"86a59c5f439deff9","x":-337,"y":200,"width":127,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"40ad28619bd68664","fromNode":"7b7b396ef1bc80a1","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"},
+		{"id":"319aeeb93186d37c","fromNode":"2f71761349e68c9d","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"},
+		{"id":"57d0822f3be43518","fromNode":"86a59c5f439deff9","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"}
+	]
+}

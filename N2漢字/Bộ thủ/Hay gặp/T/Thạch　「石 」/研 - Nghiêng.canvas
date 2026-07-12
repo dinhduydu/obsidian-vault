@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a3bf6015836d6d30","x":-126,"y":-90,"width":250,"height":60,"type":"text","text":"研 - Nghiêng"},
+		{"id":"248760afc6c19682","x":-500,"y":-177,"width":167,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thạch　「石 」/Thạch　「石 」.canvas"}
+	],
+	"edges":[
+		{"id":"513065c167597116","fromNode":"248760afc6c19682","fromSide":"right","toNode":"a3bf6015836d6d30","toSide":"left"}
+	]
+}

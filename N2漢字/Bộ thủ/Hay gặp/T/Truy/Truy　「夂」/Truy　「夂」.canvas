@@ -11,7 +11,7 @@
 		{"id":"fc93d5e353f43330","type":"text","text":"Truy　「夂」","x":-380,"y":-610,"width":235,"height":60},
 		{"id":"fcb28b724a34c783","x":-23,"y":-740,"width":250,"height":60,"type":"text","text":"冬 - Đông"},
 		{"id":"0c552c7bc3b0a124","x":396,"y":-740,"width":250,"height":60,"type":"text","text":"冬　「ふゆ」：mùa đông"},
-		{"id":"5a6a3b58b3666037","x":-339,"y":-880,"width":154,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Chủ　「丶」.canvas"}
+		{"id":"5a6a3b58b3666037","x":-339,"y":-880,"width":154,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Chủ　「丶」/Chủ　「丶」.canvas"}
 	],
 	"edges":[
 		{"id":"f00d53223804c570","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"49952d17efd5d24e","toSide":"left"},

@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
 		{"id":"4d0e0098f4dd7049","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas","x":-340,"y":940,"width":175,"height":123},
-		{"id":"b3ad6f98c12c64f1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」.canvas","x":-407,"y":633,"width":134,"height":94},
+		{"id":"b3ad6f98c12c64f1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":-407,"y":633,"width":134,"height":94},
 		{"id":"db13403d4069ecf6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/訂 - Đính.canvas","x":140,"y":-740,"width":152,"height":116},
 		{"id":"abc2401c6fff6254","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas","x":-160,"y":-860,"width":160,"height":100},
 		{"id":"201753812e5257f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/詰 - Cật.canvas","x":-80,"y":440,"width":136,"height":123},
@@ -13,7 +12,11 @@
 		{"id":"579d30d0e6af97df","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/説 - Thuyết.canvas","x":179,"y":-300,"width":118,"height":75},
 		{"id":"0ed3340fdb1b051a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/計 - Kế.canvas","x":181,"y":-160,"width":156,"height":101},
 		{"id":"fdd4309c2952ad00","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/試 - Thí.canvas","x":179,"y":-15,"width":132,"height":112},
-		{"id":"3df64f8363d94f35","x":181,"y":-480,"width":139,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/語 - Ngữ.canvas"}
+		{"id":"3df64f8363d94f35","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/語 - Ngữ.canvas","x":181,"y":-480,"width":139,"height":74},
+		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
+		{"id":"cd5ff17cda74838c","type":"text","text":"Ngôn　「言 (訁)」","x":980,"y":11,"width":250,"height":60},
+		{"id":"e9c1288cbd3e9ee9","x":1380,"y":-100,"width":126,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/許 - Hứa.canvas"},
+		{"id":"35c32c574d9d1787","x":1120,"y":-180,"width":137,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/Ngọ　「午」.canvas"}
 	],
 	"edges":[
 		{"id":"5e25a62afaedebb0","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"fdd4309c2952ad00","toSide":"left"},
@@ -28,6 +31,8 @@
 		{"id":"88b26ec43980805f","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"db13403d4069ecf6","toSide":"left"},
 		{"id":"5588f7005c39b8b9","fromNode":"abc2401c6fff6254","fromSide":"right","toNode":"db13403d4069ecf6","toSide":"left"},
 		{"id":"6d0a4c8b384bc0fa","fromNode":"67f4d1bd8b887fb7","fromSide":"right","toNode":"7dfb660c5b8ca965","toSide":"left"},
-		{"id":"7b883627a57796c2","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"0ed3340fdb1b051a","toSide":"left"}
+		{"id":"7b883627a57796c2","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"0ed3340fdb1b051a","toSide":"left"},
+		{"id":"210c3dbae25f6519","fromNode":"cd5ff17cda74838c","fromSide":"right","toNode":"e9c1288cbd3e9ee9","toSide":"left"},
+		{"id":"732cfea717760d34","fromNode":"35c32c574d9d1787","fromSide":"right","toNode":"e9c1288cbd3e9ee9","toSide":"left"}
 	]
 }

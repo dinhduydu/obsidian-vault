@@ -8,7 +8,7 @@
 		{"id":"7321627095e52fd2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/布 - Bố.canvas","x":419,"y":140,"width":177,"height":134},
 		{"id":"3d8461d566c05419","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":137,"y":274,"width":164,"height":127},
 		{"id":"19aa1e907a00378f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/希 - Hy.canvas","x":900,"y":260,"width":169,"height":129},
-		{"id":"e4c80687e1dcb5d7","x":680,"y":440,"width":110,"height":68,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas"}
+		{"id":"e4c80687e1dcb5d7","x":680,"y":440,"width":110,"height":68,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"}
 	],
 	"edges":[
 		{"id":"5976bdc5e6721bcd","fromNode":"7321627095e52fd2","fromSide":"right","toNode":"19aa1e907a00378f","toSide":"left"},

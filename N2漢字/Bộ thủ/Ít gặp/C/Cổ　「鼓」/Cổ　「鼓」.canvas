@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"22b567743b909598","type":"text","text":"Cổ　「鼓」","x":-165,"y":-18,"width":250,"height":60},
+		{"id":"6a6686be688f6b21","type":"text","text":"cái trống","x":212,"y":-99,"width":250,"height":60},
+		{"id":"52dcfd74343dc789","x":-420,"y":42,"width":172,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"8c1a2fdcc8c5ee71","fromNode":"22b567743b909598","fromSide":"right","toNode":"6a6686be688f6b21","toSide":"left"},
+		{"id":"086caf3701d91b6c","fromNode":"52dcfd74343dc789","fromSide":"right","toNode":"22b567743b909598","toSide":"left"}
+	]
+}

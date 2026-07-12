@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a5af430e8744fe19","type":"text","text":"Ngưu / Đặc　「牛」","x":-187,"y":-29,"width":250,"height":60},
+		{"id":"5a2798380e335e74","type":"text","text":"件 - Kiện","x":220,"y":240,"width":250,"height":60},
+		{"id":"9676337b131eb98d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/物 - Vật.canvas","x":256,"y":-140,"width":90,"height":69},
+		{"id":"020efa0277548811","x":-64,"y":320,"width":127,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"103a9e5382a8c83a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/特 - Đặc.canvas","x":256,"y":-360,"width":89,"height":82}
+	],
+	"edges":[
+		{"id":"63ce4aa01a217e67","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"103a9e5382a8c83a","toSide":"left","label":"特 - Đặc"},
+		{"id":"6b20875b7de0ba7c","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"9676337b131eb98d","toSide":"left"},
+		{"id":"ffc1a6097f5ec947","fromNode":"a5af430e8744fe19","fromSide":"right","toNode":"5a2798380e335e74","toSide":"left"},
+		{"id":"742d4dc41a8c9458","fromNode":"020efa0277548811","fromSide":"right","toNode":"5a2798380e335e74","toSide":"left"}
+	]
+}

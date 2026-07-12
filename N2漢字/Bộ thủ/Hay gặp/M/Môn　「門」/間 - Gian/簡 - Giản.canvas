@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ee8a4c602f2487d5","type":"text","text":"簡 - Giản","x":-215,"y":-61,"width":250,"height":60},
+		{"id":"7409c2d3940c7745","x":-480,"y":-61,"width":162,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/間 - Gian/間 - Gian.canvas"},
+		{"id":"22272be59a9dd719","x":-487,"y":-320,"width":169,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"15f3a46e0768ea7a","fromNode":"7409c2d3940c7745","fromSide":"right","toNode":"ee8a4c602f2487d5","toSide":"left"},
+		{"id":"8b99f12102a75f54","fromNode":"22272be59a9dd719","fromSide":"right","toNode":"ee8a4c602f2487d5","toSide":"left"}
+	]
+}

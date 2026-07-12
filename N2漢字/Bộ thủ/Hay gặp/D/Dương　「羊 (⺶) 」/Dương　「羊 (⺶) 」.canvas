@@ -2,19 +2,17 @@
 	"nodes":[
 		{"id":"2fa9bf9b1352336a","type":"text","text":"Dương - Cừu, chỉ cái gì đó đẹp đẽ","x":-673,"y":-108,"width":250,"height":60},
 		{"id":"0e6cbb83b2b5a0f6","type":"text","text":"Dương　「羊 (⺶) 」","x":-240,"y":-13,"width":250,"height":60},
-		{"id":"935b1c2d217148ee","type":"text","text":"義 - Nghĩa","x":401,"y":38,"width":250,"height":60},
-		{"id":"77da2f3e2305e509","type":"file","file":"Pasted image 20260526004014.png","x":760,"y":-98,"width":214,"height":230},
-		{"id":"4bfae3a1cb58240d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":180,"y":132,"width":145,"height":91},
 		{"id":"0aae036d267439b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-300,"y":-649,"width":149,"height":99},
 		{"id":"45c11b88eda5c08d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas","x":242,"y":-344,"width":166,"height":167},
-		{"id":"b059f6edc17711dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":10,"y":-500,"width":134,"height":75}
+		{"id":"b059f6edc17711dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":10,"y":-500,"width":134,"height":75},
+		{"id":"4bfae3a1cb58240d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":100,"y":220,"width":145,"height":91},
+		{"id":"4a1ddcee4df0e18c","x":340,"y":80,"width":164,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa.canvas"}
 	],
 	"edges":[
-		{"id":"fd617b02b94bdd08","fromNode":"935b1c2d217148ee","fromSide":"right","toNode":"77da2f3e2305e509","toSide":"left"},
 		{"id":"8cba8349bc0feb3c","fromNode":"0e6cbb83b2b5a0f6","fromSide":"left","toNode":"2fa9bf9b1352336a","toSide":"right"},
 		{"id":"f39a6b5c4fb80dca","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"45c11b88eda5c08d","toSide":"left"},
-		{"id":"dd000e720e058424","fromNode":"4bfae3a1cb58240d","fromSide":"right","toNode":"935b1c2d217148ee","toSide":"left"},
-		{"id":"d4a3be199cb0372e","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"935b1c2d217148ee","toSide":"left"},
+		{"id":"dd000e720e058424","fromNode":"4bfae3a1cb58240d","fromSide":"right","toNode":"4a1ddcee4df0e18c","toSide":"left"},
+		{"id":"d4a3be199cb0372e","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"4a1ddcee4df0e18c","toSide":"left"},
 		{"id":"c0a4a9ccbcd4ef01","fromNode":"0aae036d267439b5","fromSide":"right","toNode":"b059f6edc17711dc","toSide":"left"},
 		{"id":"a6609cd4d7a292b9","fromNode":"b059f6edc17711dc","fromSide":"right","toNode":"45c11b88eda5c08d","toSide":"left"}
 	]

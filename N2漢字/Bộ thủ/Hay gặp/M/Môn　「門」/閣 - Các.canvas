@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e13caf9663e07f66","x":-287,"y":-44,"width":250,"height":60,"type":"text","text":"閣 - Các"},
+		{"id":"77221781f12501e7","x":-600,"y":-131,"width":187,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"},
+		{"id":"de3371ca35211959","x":-600,"y":16,"width":161,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/Các　「各」.canvas"}
+	],
+	"edges":[
+		{"id":"03a83c14afc33f9c","fromNode":"77221781f12501e7","fromSide":"right","toNode":"e13caf9663e07f66","toSide":"left"},
+		{"id":"d5297b5e07b8ade5","fromNode":"de3371ca35211959","fromSide":"right","toNode":"e13caf9663e07f66","toSide":"left"}
+	]
+}

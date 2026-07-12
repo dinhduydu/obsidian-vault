@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"2b6dc120dccffb34","x":-214,"y":-4,"width":250,"height":60,"type":"text","text":"閉 - Bế"}
+		{"id":"2b6dc120dccffb34","type":"text","text":"閉 - Bế","x":-214,"y":-4,"width":250,"height":60},
+		{"id":"cf4832ed1ed185de","x":-440,"y":-60,"width":111,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas"},
+		{"id":"9b7698bcd783b5af","x":-440,"y":100,"width":111,"height":79,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9c83d2941ae9c843","fromNode":"cf4832ed1ed185de","fromSide":"right","toNode":"2b6dc120dccffb34","toSide":"left"},
+		{"id":"ea9dc917c07bf383","fromNode":"9b7698bcd783b5af","fromSide":"right","toNode":"2b6dc120dccffb34","toSide":"left"}
+	]
 }

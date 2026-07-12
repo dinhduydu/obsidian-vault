@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3f75a94c244e59bb","x":-125,"y":-22,"width":250,"height":60,"type":"text","text":"闘 - Đấu"},
+		{"id":"dd4603d870fd64a6","x":-400,"y":-137,"width":154,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"},
+		{"id":"dc1349cd8e968866","x":-434,"y":120,"width":188,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"},
+		{"id":"ddd6cd835e0fa6d6","x":-586,"y":-22,"width":186,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"bebb3ea00acd7186","fromNode":"dd4603d870fd64a6","fromSide":"right","toNode":"3f75a94c244e59bb","toSide":"left"},
+		{"id":"51366108563804cc","fromNode":"ddd6cd835e0fa6d6","fromSide":"right","toNode":"3f75a94c244e59bb","toSide":"left"},
+		{"id":"5ac67ba7d6fb05b6","fromNode":"dc1349cd8e968866","fromSide":"right","toNode":"3f75a94c244e59bb","toSide":"left"}
+	]
+}

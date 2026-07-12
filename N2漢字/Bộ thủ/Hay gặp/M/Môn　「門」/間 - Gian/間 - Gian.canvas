@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9fd27f09f9cfc3ca","type":"text","text":"間 - Gian","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"ecff227c5b0ccca5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas","x":-420,"y":-160,"width":170,"height":95},
+		{"id":"2a0eb46f8c983d5a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-335,"y":0,"width":109,"height":95}
+	],
+	"edges":[
+		{"id":"4ab0adaf03e9e5f6","fromNode":"ecff227c5b0ccca5","fromSide":"right","toNode":"9fd27f09f9cfc3ca","toSide":"left"},
+		{"id":"fe306dbaceaeeca7","fromNode":"2a0eb46f8c983d5a","fromSide":"right","toNode":"9fd27f09f9cfc3ca","toSide":"left"}
+	]
+}

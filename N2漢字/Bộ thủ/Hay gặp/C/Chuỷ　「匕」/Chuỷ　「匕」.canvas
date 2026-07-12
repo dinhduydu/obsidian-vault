@@ -20,7 +20,7 @@
 		{"id":"f77cb503f66fcb5e","type":"text","text":"靴下　「くつした」：tất","x":990,"y":1427,"width":250,"height":60},
 		{"id":"be32cfa5e0341ba8","type":"text","text":"靴　「くつ」：giày","x":990,"y":1314,"width":250,"height":60},
 		{"id":"bcb3b73f7558b696","type":"text","text":"革靴　「かわぐつ」：giày da","x":990,"y":1574,"width":250,"height":60},
-		{"id":"7ee261b3aebc8eec","x":240,"y":1457,"width":139,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cách　「革」.canvas"}
+		{"id":"7ee261b3aebc8eec","x":240,"y":1457,"width":139,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cách　「革」/Cách　「革」.canvas"}
 	],
 	"edges":[
 		{"id":"129aec2fe5d14d95","fromNode":"ad859ffbe111232a","fromSide":"right","toNode":"6aa1fbb1f672b40d","toSide":"left"},

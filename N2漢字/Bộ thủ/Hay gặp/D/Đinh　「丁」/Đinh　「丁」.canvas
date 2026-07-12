@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"42addf0c13dca116","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-1113,"y":48,"width":98,"height":104},
+		{"id":"42addf0c13dca116","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-1113,"y":48,"width":98,"height":104},
 		{"id":"c0d4ec4aeeeddba9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quyết　「亅」/Quyết　「亅」.canvas","x":-1113,"y":260,"width":112,"height":111},
 		{"id":"9a8e00e83274c44e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灯 - Đăng.canvas","x":-300,"y":-180,"width":140,"height":139},
 		{"id":"05c1a679b2f597b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-881,"y":-480,"width":197,"height":151},
@@ -16,7 +16,7 @@
 		{"id":"ed71000459145685","type":"text","text":"Đinh　「丁」","x":-530,"y":1399,"width":250,"height":60},
 		{"id":"8809a3415856d0cc","type":"text","text":"Đinh　「丁」","x":-1180,"y":1319,"width":250,"height":60},
 		{"id":"bfe159cf78fbf271","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/庁 - Sảnh.canvas","x":300,"y":175,"width":146,"height":97},
-		{"id":"483d5c0b3333d627","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas","x":-20,"y":-40,"width":133,"height":67},
+		{"id":"483d5c0b3333d627","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas","x":-20,"y":-40,"width":133,"height":67},
 		{"id":"2f924ac2c8812e39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頂 - Đỉnh.canvas","x":-234,"y":420,"width":228,"height":201},
 		{"id":"b7000cdf9157a720","x":-540,"y":550,"width":172,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"},
 		{"id":"70ba2dd95d6cbec7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-99,"y":1780,"width":122,"height":100}

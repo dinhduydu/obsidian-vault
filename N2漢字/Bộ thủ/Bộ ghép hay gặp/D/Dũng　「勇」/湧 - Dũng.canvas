@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bd6d3d85aa69a867","x":-129,"y":-24,"width":250,"height":60,"type":"text","text":"湧 - Dũng"},
+		{"id":"a5e4e07910aa3e28","x":-380,"y":-143,"width":147,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/勇 - Dũng.canvas"},
+		{"id":"dd0b32c86eda2606","x":-353,"y":60,"width":120,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"6ede087291d86751","fromNode":"a5e4e07910aa3e28","fromSide":"right","toNode":"bd6d3d85aa69a867","toSide":"left"},
+		{"id":"2099674d959e48c2","fromNode":"dd0b32c86eda2606","fromSide":"right","toNode":"bd6d3d85aa69a867","toSide":"left"}
+	]
+}

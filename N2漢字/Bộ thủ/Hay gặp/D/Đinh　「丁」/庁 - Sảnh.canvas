@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"107071c5080a3c4f","type":"text","text":"庁 - Sảnh","x":-209,"y":-107,"width":250,"height":60},
 		{"id":"e5a182d65c8e204e","type":"text","text":"官庁　「かんちょう」：cơ quan nhà nước","x":173,"y":-107,"width":250,"height":60},
-		{"id":"fc13c7c9912975fd","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」.canvas","x":-487,"y":37,"width":133,"height":67},
+		{"id":"fc13c7c9912975fd","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas","x":-487,"y":37,"width":133,"height":67},
 		{"id":"dd8e07b2b5578c20","x":-487,"y":-233,"width":170,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"}
 	],
 	"edges":[

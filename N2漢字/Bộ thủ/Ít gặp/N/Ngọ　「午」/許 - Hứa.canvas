@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5f1e48a5e2f17db","x":-169,"y":9,"width":250,"height":60,"type":"text","text":"許 - Hứa"},
+		{"id":"4ff6e2afd8443072","x":-420,"y":-80,"width":162,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/Ngọ　「午」.canvas"},
+		{"id":"6bbe10f1e653ddb4","x":-386,"y":140,"width":128,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"98fbd4d1775d4743","fromNode":"4ff6e2afd8443072","fromSide":"right","toNode":"e5f1e48a5e2f17db","toSide":"left"},
+		{"id":"46033d1b5ec99c46","fromNode":"6bbe10f1e653ddb4","fromSide":"right","toNode":"e5f1e48a5e2f17db","toSide":"left"}
+	]
+}

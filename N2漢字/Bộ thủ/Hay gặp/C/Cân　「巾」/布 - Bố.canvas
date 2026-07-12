@@ -6,7 +6,7 @@
 		{"id":"7348e52a82997d07","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/怖 - Bố.canvas","x":380,"y":-236,"width":142,"height":99},
 		{"id":"9c49112f3ac82173","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas","x":76,"y":-360,"width":135,"height":82},
 		{"id":"49f10462f868921a","x":380,"y":5,"width":198,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/希 - Hy.canvas"},
-		{"id":"6c5694630a0b47d3","x":120,"y":147,"width":127,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas"}
+		{"id":"6c5694630a0b47d3","x":120,"y":147,"width":127,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"}
 	],
 	"edges":[
 		{"id":"aa0e4742dd16a8c0","fromNode":"a4f56f9cff508372","fromSide":"right","toNode":"f1291e5e20333745","toSide":"left"},

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1806a6c5fca8697f","type":"text","text":"義 - Nghĩa","x":-244,"y":-18,"width":250,"height":60},
+		{"id":"7f712af29f0f39be","type":"file","file":"Pasted image 20260526004014.png","x":115,"y":-154,"width":214,"height":230},
+		{"id":"77d4ae969e5a81dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":-465,"y":76,"width":145,"height":91},
+		{"id":"52bec94fd8de0e1f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-455,"y":-119,"width":126,"height":101},
+		{"id":"786f4069d32099ae","x":189,"y":200,"width":280,"height":267,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/儀 - Nghi.canvas"},
+		{"id":"d948945fa7f9b4b5","x":-119,"y":360,"width":177,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"06b57a4f1abe7cad","fromNode":"1806a6c5fca8697f","fromSide":"right","toNode":"7f712af29f0f39be","toSide":"left"},
+		{"id":"f2ebfdadb62d0032","fromNode":"77d4ae969e5a81dc","fromSide":"right","toNode":"1806a6c5fca8697f","toSide":"left"},
+		{"id":"5ac32ddebabcca05","fromNode":"52bec94fd8de0e1f","fromSide":"right","toNode":"1806a6c5fca8697f","toSide":"left"},
+		{"id":"d78e57f06abcd97f","fromNode":"1806a6c5fca8697f","fromSide":"right","toNode":"786f4069d32099ae","toSide":"left"},
+		{"id":"9d859a2f54764879","fromNode":"d948945fa7f9b4b5","fromSide":"right","toNode":"786f4069d32099ae","toSide":"left"}
+	]
+}

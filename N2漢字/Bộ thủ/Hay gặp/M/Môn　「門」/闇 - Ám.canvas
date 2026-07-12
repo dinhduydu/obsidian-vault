@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6af16624146c7d22","x":-143,"y":-38,"width":250,"height":60,"type":"text","text":"闇 - Ám"},
+		{"id":"89637037dadeed34","x":-400,"y":-121,"width":158,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"},
+		{"id":"d858f0425a292678","x":-390,"y":22,"width":148,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas"}
+	],
+	"edges":[
+		{"id":"67ae768f768e7870","fromNode":"89637037dadeed34","fromSide":"right","toNode":"6af16624146c7d22","toSide":"left"},
+		{"id":"229576da57e02b86","fromNode":"d858f0425a292678","fromSide":"right","toNode":"6af16624146c7d22","toSide":"left"}
+	]
+}

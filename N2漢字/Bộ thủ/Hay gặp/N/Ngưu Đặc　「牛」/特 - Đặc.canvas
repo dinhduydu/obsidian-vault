@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6028ee2a9ebbeee4","x":-211,"y":-8,"width":250,"height":60,"type":"text","text":"特 - Đặc"},
+		{"id":"191e39111b9dde0f","x":-480,"y":-92,"width":124,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"d972ca235223c97d","fromNode":"191e39111b9dde0f","fromSide":"right","toNode":"6028ee2a9ebbeee4","toSide":"left"}
+	]
+}

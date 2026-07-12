@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"005b968e3eb48351","type":"text","text":"痘 - Đậu","x":-51,"y":-3,"width":250,"height":60},
-		{"id":"dae4674dd7422b6f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」.canvas","x":-420,"y":-108,"width":249,"height":105},
+		{"id":"dae4674dd7422b6f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas","x":-420,"y":-108,"width":249,"height":105},
 		{"id":"131e7c0b05bbe3e8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas","x":-359,"y":100,"width":188,"height":157},
 		{"id":"767b4c242187b566","type":"text","text":"bệnh đậu mùa","x":320,"y":-85,"width":250,"height":60}
 	],

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"adc8003ee6a81b33","type":"text","text":"Nhất　「一」","x":-280,"y":-45,"width":250,"height":60},
-		{"id":"955f84cce70f683e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」.canvas","x":-320,"y":260,"width":260,"height":156},
+		{"id":"955f84cce70f683e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas","x":-320,"y":260,"width":260,"height":156},
 		{"id":"e5f7203942658a8a","type":"text","text":"丈 - Trượng","x":80,"y":29,"width":150,"height":55},
 		{"id":"bf0cf6a51638bfd0","type":"text","text":"丈夫　「じょうぶ」：bền, chắc","x":320,"y":27,"width":274,"height":60},
 		{"id":"1170615f27f3202e","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」/Thiên　「天」.canvas","x":60,"y":-380,"width":304,"height":249}

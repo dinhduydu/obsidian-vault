@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"420a163161cd89a0","type":"text","text":"破壊","x":-64,"y":-41,"width":250,"height":60},
+		{"id":"cc4cb8b915c8a43e","type":"text","text":"破","x":-288,"y":-31,"width":130,"height":50},
+		{"id":"0a9b1724ef2cb596","x":-540,"y":40,"width":138,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thạch　「石 」/Thạch　「石 」.canvas"}
+	],
+	"edges":[
+		{"id":"3473fc1a60ffd995","fromNode":"cc4cb8b915c8a43e","fromSide":"right","toNode":"420a163161cd89a0","toSide":"left"},
+		{"id":"e9da13fe7729a283","fromNode":"0a9b1724ef2cb596","fromSide":"right","toNode":"cc4cb8b915c8a43e","toSide":"left"}
+	]
+}

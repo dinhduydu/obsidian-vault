@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"244f474457033e3a","type":"text","text":"Dũng　「甬」","x":-140,"y":-59,"width":250,"height":60},
+		{"id":"9bec1cc56a21abb8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/痛 - Thống.canvas","x":340,"y":-180,"width":184,"height":77},
+		{"id":"40e8c017957d86bb","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/通 - Thông.canvas","x":340,"y":1,"width":145,"height":109}
+	],
+	"edges":[
+		{"id":"c744fb4f18cb92cc","fromNode":"244f474457033e3a","fromSide":"right","toNode":"9bec1cc56a21abb8","toSide":"left"},
+		{"id":"5334e263f406f7af","fromNode":"244f474457033e3a","fromSide":"right","toNode":"40e8c017957d86bb","toSide":"left"}
+	]
+}

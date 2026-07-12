@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d0039af77d2bb46c","x":-109,"y":-55,"width":250,"height":60,"type":"text","text":"閲 - Duyệt"},
+		{"id":"0c4da6ea1431b858","x":-320,"y":40,"width":139,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」.canvas"},
+		{"id":"77dbaef8b560eb69","x":-320,"y":-173,"width":134,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"}
+	],
+	"edges":[
+		{"id":"749007f4c249ac35","fromNode":"0c4da6ea1431b858","fromSide":"right","toNode":"d0039af77d2bb46c","toSide":"left"},
+		{"id":"9acebfa633229b54","fromNode":"77dbaef8b560eb69","fromSide":"right","toNode":"d0039af77d2bb46c","toSide":"left"}
+	]
+}
