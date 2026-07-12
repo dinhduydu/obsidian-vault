@@ -1,15 +1,21 @@
 {
 	"nodes":[
 		{"id":"ad2674b75a84073c","type":"text","text":"顔 - Nhan","x":-210,"y":-73,"width":250,"height":60},
-		{"id":"6b61e0b1672d6f29","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-560,"y":-193,"width":170,"height":150},
 		{"id":"9c5afdb9e4e7c559","type":"file","file":"Chữa đề/Learning_Profile/Kanji/顔料.md","x":320,"y":-443,"width":400,"height":400},
 		{"id":"816fb4c1875b0c50","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/顔合わせ.md","x":320,"y":20,"width":400,"height":400},
-		{"id":"3c000f315f6c72bf","x":320,"y":480,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md"}
+		{"id":"3c000f315f6c72bf","type":"file","file":"Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md","x":320,"y":480,"width":400,"height":400},
+		{"id":"6b61e0b1672d6f29","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-520,"y":-300,"width":170,"height":150},
+		{"id":"1b5ab83b156f4c36","x":-503,"y":-73,"width":136,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"48e7268f75d45c4d","x":-520,"y":140,"width":156,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"edc40277862153bc","x":-590,"y":360,"width":226,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas"}
 	],
 	"edges":[
 		{"id":"8b0756febd746aa7","fromNode":"6b61e0b1672d6f29","fromSide":"right","toNode":"ad2674b75a84073c","toSide":"left"},
 		{"id":"9b847f7fbfa50ed4","fromNode":"ad2674b75a84073c","fromSide":"right","toNode":"9c5afdb9e4e7c559","toSide":"left"},
 		{"id":"1a5aa3880b569509","fromNode":"ad2674b75a84073c","fromSide":"right","toNode":"816fb4c1875b0c50","toSide":"left"},
-		{"id":"722c919ca94091f1","fromNode":"ad2674b75a84073c","fromSide":"right","toNode":"3c000f315f6c72bf","toSide":"left"}
+		{"id":"722c919ca94091f1","fromNode":"ad2674b75a84073c","fromSide":"right","toNode":"3c000f315f6c72bf","toSide":"left"},
+		{"id":"5a195cea99d0f35d","fromNode":"1b5ab83b156f4c36","fromSide":"right","toNode":"ad2674b75a84073c","toSide":"left"},
+		{"id":"191705a2432ec801","fromNode":"48e7268f75d45c4d","fromSide":"right","toNode":"ad2674b75a84073c","toSide":"left"},
+		{"id":"58529b0e3fc15a17","fromNode":"edc40277862153bc","fromSide":"right","toNode":"ad2674b75a84073c","toSide":"left"}
 	]
 }

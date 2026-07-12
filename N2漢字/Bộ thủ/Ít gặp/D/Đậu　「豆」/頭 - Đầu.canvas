@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0cdf395a8450fe60","type":"text","text":"頭 - Đầu","x":-99,"y":-28,"width":250,"height":60},
+		{"id":"d6bf307f2d6e72b7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-340,"y":-140,"width":109,"height":107},
+		{"id":"0ff448987b620e68","x":-360,"y":40,"width":129,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"31818615d34f00c3","fromNode":"d6bf307f2d6e72b7","fromSide":"right","toNode":"0cdf395a8450fe60","toSide":"left"},
+		{"id":"d6d0c0e1fb371ba3","fromNode":"0ff448987b620e68","fromSide":"right","toNode":"0cdf395a8450fe60","toSide":"left"}
+	]
+}

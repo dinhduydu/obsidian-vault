@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"91f53d0138a4430e","type":"text","text":"頬 - Giáp","x":-130,"y":-56,"width":250,"height":60},
+		{"id":"a1e7fdc0d22fd25b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-380,"y":-180,"width":128,"height":104}
+	],
+	"edges":[
+		{"id":"4448a8af4ad555cb","fromNode":"a1e7fdc0d22fd25b","fromSide":"right","toNode":"91f53d0138a4430e","toSide":"left"}
+	]
+}

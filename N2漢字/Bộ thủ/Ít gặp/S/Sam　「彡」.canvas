@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"bc2f17d7427b017b","type":"text","text":"Sam　「彡」","x":-220,"y":-40,"width":250,"height":60},
 		{"id":"e7f1bd7132486f4f","type":"text","text":"lông dài, trang trí","x":-660,"y":-260,"width":250,"height":60},
-		{"id":"9ffddbd418dd6cb4","x":343,"y":-284,"width":250,"height":60,"type":"text","text":"髪 - Phát"},
-		{"id":"fa57b9021213e1c1","x":714,"y":-249,"width":446,"height":50,"type":"text","text":"Người xưa dùng bộ 髟 để chỉ mọi thứ liên quan đến tóc."},
-		{"id":"0f047356c086d0cf","x":714,"y":-420,"width":326,"height":60,"type":"text","text":"白髪　「しらが」：tóc bạc, tóc trắng"}
+		{"id":"9ffddbd418dd6cb4","type":"text","text":"髪 - Phát","x":343,"y":-284,"width":250,"height":60},
+		{"id":"fa57b9021213e1c1","type":"text","text":"Người xưa dùng bộ 髟 để chỉ mọi thứ liên quan đến tóc.","x":714,"y":-249,"width":446,"height":50},
+		{"id":"0f047356c086d0cf","type":"text","text":"白髪　「しらが」：tóc bạc, tóc trắng","x":714,"y":-420,"width":326,"height":60},
+		{"id":"438ae2f9d843ac1f","x":343,"y":-10,"width":202,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas"}
 	],
 	"edges":[
 		{"id":"585e97da9b1ccd1a","fromNode":"bc2f17d7427b017b","fromSide":"left","toNode":"e7f1bd7132486f4f","toSide":"right"},
 		{"id":"0d0958fb086f8d5b","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"9ffddbd418dd6cb4","toSide":"left"},
 		{"id":"6e2f8390996813b8","fromNode":"9ffddbd418dd6cb4","fromSide":"right","toNode":"0f047356c086d0cf","toSide":"left"},
-		{"id":"a679886b506984b2","fromNode":"9ffddbd418dd6cb4","fromSide":"right","toNode":"fa57b9021213e1c1","toSide":"left"}
+		{"id":"a679886b506984b2","fromNode":"9ffddbd418dd6cb4","fromSide":"right","toNode":"fa57b9021213e1c1","toSide":"left"},
+		{"id":"fd332a71ffb919b6","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"438ae2f9d843ac1f","toSide":"left"}
 	]
 }
