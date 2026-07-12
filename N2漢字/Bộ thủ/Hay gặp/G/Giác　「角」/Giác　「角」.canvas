@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"796b244f59cbe1cf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「」.canvas","x":-126,"y":-272,"width":130,"height":96},
+		{"id":"b87c7c217a888850","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-126,"y":-460,"width":113,"height":80},
+		{"id":"bdcb45db9d826ce1","x":180,"y":-131,"width":163,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giác　「角」/解 - Giải.canvas"},
+		{"id":"62d39ca33a671839","type":"text","text":"Giác　「角」","x":-186,"y":-68,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7acab0bbce5e5fbc","fromNode":"b87c7c217a888850","fromSide":"right","toNode":"bdcb45db9d826ce1","toSide":"left"},
+		{"id":"8760cb22c890081c","fromNode":"796b244f59cbe1cf","fromSide":"right","toNode":"bdcb45db9d826ce1","toSide":"left"},
+		{"id":"e14760d84a39050e","fromNode":"62d39ca33a671839","fromSide":"right","toNode":"bdcb45db9d826ce1","toSide":"left"}
+	]
+}

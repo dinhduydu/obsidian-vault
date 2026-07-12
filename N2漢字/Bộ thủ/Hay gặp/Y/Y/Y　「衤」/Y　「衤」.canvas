@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cf0b41b2da0e3950","type":"text","text":"Y　「衤」","x":-154,"y":-41,"width":250,"height":60},
+		{"id":"520d48bd4777a10f","type":"text","text":"複 - Phức","x":258,"y":-132,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a77fb82208a1ed6e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"520d48bd4777a10f","toSide":"left"}
+	]
+}

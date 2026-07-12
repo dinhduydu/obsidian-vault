@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d37715802015b414","x":-101,"y":-61,"width":250,"height":60,"type":"text","text":"笑 - Tiếu"},
+		{"id":"ad06d1a079c80e3d","x":-300,"y":20,"width":87,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"},
+		{"id":"2d0d6ad11eeea044","x":-355,"y":-180,"width":111,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"1f4c81dca16c4f92","fromNode":"ad06d1a079c80e3d","fromSide":"right","toNode":"d37715802015b414","toSide":"left"},
+		{"id":"4edaebe3ce9edabc","fromNode":"2d0d6ad11eeea044","fromSide":"right","toNode":"d37715802015b414","toSide":"left"}
+	]
+}

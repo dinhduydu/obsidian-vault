@@ -7,7 +7,7 @@
 		{"id":"7a3bbeb9a4b4931e","type":"text","text":"取材　「しゅざい」：phỏng vấn / tác nghiệp lấy tư liệu","x":-134,"y":214,"width":441,"height":60},
 		{"id":"72c4467cdd0516ee","type":"text","text":"素材　「そざい」：","x":-134,"y":-90,"width":250,"height":60},
 		{"id":"56e99501b5cebd41","type":"text","text":"あの選手の練習の様子を取材した。\n= phỏng vấn / tác nghiệp về tuyển thủ đó","x":406,"y":198,"width":409,"height":92},
-		{"id":"50e2c7d9cda76cac","x":-754,"y":-400,"width":154,"height":73,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas"}
+		{"id":"50e2c7d9cda76cac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas","x":-754,"y":-400,"width":154,"height":73}
 	],
 	"edges":[
 		{"id":"ca24045ce28b3ef9","fromNode":"50e2c7d9cda76cac","fromSide":"right","toNode":"b6429f8552ba4bfb","toSide":"left"},

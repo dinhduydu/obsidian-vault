@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d760689dd961c1c0","type":"text","text":"位 - Vị","x":-135,"y":23,"width":250,"height":60},
+		{"id":"ce4a9f0ed9f9f558","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-420,"y":-140,"width":164,"height":163},
+		{"id":"a04cd667f0c44595","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-377,"y":160,"width":121,"height":90},
+		{"id":"340ba2843690665b","type":"text","text":"地位　「ちい」：địa vị","x":260,"y":23,"width":250,"height":60},
+		{"id":"e6f1890ebcfb5fa2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dã　「也」/地 - Địa.canvas","x":52,"y":-177,"width":126,"height":119}
+	],
+	"edges":[
+		{"id":"2a931cc715f33d22","fromNode":"ce4a9f0ed9f9f558","fromSide":"right","toNode":"d760689dd961c1c0","toSide":"left"},
+		{"id":"34403500eaf0fd9c","fromNode":"a04cd667f0c44595","fromSide":"right","toNode":"d760689dd961c1c0","toSide":"left"},
+		{"id":"9b935468aec39475","fromNode":"d760689dd961c1c0","fromSide":"right","toNode":"340ba2843690665b","toSide":"left"},
+		{"id":"6ad2629188a0a034","fromNode":"e6f1890ebcfb5fa2","fromSide":"right","toNode":"340ba2843690665b","toSide":"left"}
+	]
+}

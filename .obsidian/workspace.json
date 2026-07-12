@@ -132,15 +132,66 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas",
                 "viewState": {
-                  "x": 209.4831813284602,
-                  "y": -1486.1295358209636,
-                  "zoom": 0.5010833339493874
+                  "x": 173.09527148341922,
+                  "y": 81.47541732297981,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Mộc　「木」"
+              "title": "Yêu　「幺」"
+            }
+          },
+          {
+            "id": "74ff56645ae8e457",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas",
+                "viewState": {
+                  "x": 83.5,
+                  "y": 238,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Yêu　「幺」"
+            }
+          },
+          {
+            "id": "16853244c39b24db",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/Động　「動 」.canvas",
+                "viewState": {
+                  "x": 215,
+                  "y": -58,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Động　「動 」"
+            }
+          },
+          {
+            "id": "3b88adab94e30540",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/Động　「動 」.canvas",
+                "viewState": {
+                  "x": 218.5,
+                  "y": -58,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Động　「動 」"
             }
           },
           {
@@ -449,7 +500,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -598,29 +649,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dca6d7db71023bcc",
+  "active": "3b88adab94e30540",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/休 - Hưu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/働 - Động.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/Động　「動 」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/Các　「各」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/伎 - Kĩ.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/枝 - Chi.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/保 - Bảo.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/槍 - Thương.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/桟 - Sạn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/引 - Dẫn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/強 - Cương.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/Cốt　「骨」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Công　「工」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỳ　「隹 」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」",
-    "N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Untitled",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phi　「飛」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thái　「太」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」",
+    "N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」",
     "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
     "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",

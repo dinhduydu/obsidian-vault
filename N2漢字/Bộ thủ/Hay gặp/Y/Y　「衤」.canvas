@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"cf0b41b2da0e3950","x":-154,"y":-41,"width":250,"height":60,"type":"text","text":"Y　「衣 (衤)」"},
-		{"id":"520d48bd4777a10f","x":258,"y":-132,"width":250,"height":60,"type":"text","text":"複 - Phức"}
-	],
-	"edges":[
-		{"id":"a77fb82208a1ed6e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"520d48bd4777a10f","toSide":"left"}
-	]
-}

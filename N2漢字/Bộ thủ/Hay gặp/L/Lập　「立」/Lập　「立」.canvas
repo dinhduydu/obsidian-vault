@@ -8,11 +8,10 @@
 		{"id":"eaf3f038c349f321","type":"text","text":"普及　「」：phổ cập","x":802,"y":27,"width":250,"height":60},
 		{"id":"2ffd7a2438a99a38","type":"text","text":"電気自動車が**普及**するのにはまだ時間がかかる。","x":1200,"y":32,"width":437,"height":50},
 		{"id":"90ff0efc83a9cacf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":8,"y":-380,"width":175,"height":111},
-		{"id":"001ad23d5d323f1f","type":"text","text":"位 - Vị","x":303,"y":-299,"width":250,"height":60},
-		{"id":"0117c32099677c13","type":"text","text":"地位　「ちい」：địa vị","x":661,"y":-299,"width":250,"height":60},
-		{"id":"f1f1c7aef7a960a9","x":40,"y":-780,"width":156,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
-		{"id":"930e279fc2c4468c","x":658,"y":-551,"width":250,"height":60,"type":"text","text":"泣く　「なく」：khóc"},
-		{"id":"1039a95f0348926a","x":303,"y":-560,"width":250,"height":60,"type":"text","text":"泣 - Khấp"}
+		{"id":"f1f1c7aef7a960a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":40,"y":-780,"width":156,"height":150},
+		{"id":"930e279fc2c4468c","type":"text","text":"泣く　「なく」：khóc","x":658,"y":-551,"width":250,"height":60},
+		{"id":"1039a95f0348926a","type":"text","text":"泣 - Khấp","x":303,"y":-560,"width":250,"height":60},
+		{"id":"3f0f50bb35d18961","x":307,"y":-269,"width":109,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/位 - Vị.canvas"}
 	],
 	"edges":[
 		{"id":"ba115b4227328d79","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"73810d431c6e7c62","toSide":"left"},
@@ -21,9 +20,8 @@
 		{"id":"666a020f46eac4ee","fromNode":"6c464b1f97ff15fb","fromSide":"right","toNode":"7037518e3957fa4e","toSide":"left"},
 		{"id":"72e32fc3cf9fe5ad","fromNode":"cd36f3556a91b66e","fromSide":"right","toNode":"eaf3f038c349f321","toSide":"left"},
 		{"id":"13038a575a1485e7","fromNode":"eaf3f038c349f321","fromSide":"right","toNode":"2ffd7a2438a99a38","toSide":"left"},
-		{"id":"e956c58d1461c602","fromNode":"001ad23d5d323f1f","fromSide":"right","toNode":"0117c32099677c13","toSide":"left"},
-		{"id":"16d7d2620e10b3e3","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"001ad23d5d323f1f","toSide":"left"},
-		{"id":"06afb6c9bee7f930","fromNode":"90ff0efc83a9cacf","fromSide":"right","toNode":"001ad23d5d323f1f","toSide":"left"},
+		{"id":"16d7d2620e10b3e3","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
+		{"id":"06afb6c9bee7f930","fromNode":"90ff0efc83a9cacf","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
 		{"id":"66bd2368d2e95538","fromNode":"1039a95f0348926a","fromSide":"right","toNode":"930e279fc2c4468c","toSide":"left"},
 		{"id":"6cca4233632a9869","fromNode":"f1f1c7aef7a960a9","fromSide":"right","toNode":"1039a95f0348926a","toSide":"left"}
 	]

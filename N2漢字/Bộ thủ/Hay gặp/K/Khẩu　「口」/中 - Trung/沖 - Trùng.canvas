@@ -3,7 +3,7 @@
 		{"id":"60238404ba354787","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-525,"y":-32,"width":183,"height":185},
 		{"id":"0c54323ef4912f86","type":"text","text":"沖 - Trùng","x":-132,"y":-152,"width":250,"height":60},
 		{"id":"843b729f6ab3f8db","type":"text","text":"沖合　「おきあい」： ngoài khơi","x":275,"y":-152,"width":250,"height":60},
-		{"id":"4389d29dbb62d3ef","x":-491,"y":-340,"width":149,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」.canvas"}
+		{"id":"4389d29dbb62d3ef","x":-491,"y":-340,"width":149,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/Trung　「中」.canvas"}
 	],
 	"edges":[
 		{"id":"ccd2cb657278aaf8","fromNode":"60238404ba354787","fromSide":"right","toNode":"0c54323ef4912f86","toSide":"left","label":"biển khơi"},

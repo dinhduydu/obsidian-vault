@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f9bd1735d6665bb6","type":"text","text":"幼 - Ấu","x":-60,"y":14,"width":250,"height":60},
+		{"id":"49f683e8096e85f2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas","x":-320,"y":44,"width":113,"height":125},
+		{"id":"9149ef35437cd9a3","x":-325,"y":-180,"width":118,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"89d8aeb7c9948a10","fromNode":"49f683e8096e85f2","fromSide":"right","toNode":"f9bd1735d6665bb6","toSide":"left"},
+		{"id":"98e8f021ab8e70c5","fromNode":"9149ef35437cd9a3","fromSide":"right","toNode":"f9bd1735d6665bb6","toSide":"left"}
+	]
+}

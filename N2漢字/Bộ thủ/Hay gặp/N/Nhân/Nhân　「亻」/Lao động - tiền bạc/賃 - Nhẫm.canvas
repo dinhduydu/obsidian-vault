@@ -3,11 +3,13 @@
 		{"id":"02ff20d3f6b9aad8","type":"text","text":"賃 - Nhẫm","x":-328,"y":4,"width":250,"height":60},
 		{"id":"56c393904d29018d","type":"text","text":"家賃（やちん） = tiền thuê nhà","x":79,"y":64,"width":250,"height":60},
 		{"id":"55300a613c948d4a","type":"text","text":"Nghĩa: tiền thuê, cho thuê","x":23,"y":-123,"width":250,"height":60},
-		{"id":"ffeadbd202bb6e4f","x":-580,"y":-64,"width":147,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+		{"id":"ffeadbd202bb6e4f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-580,"y":-64,"width":147,"height":128},
+		{"id":"ae1a2beefcd61ed6","type":"text","text":"Lao động / tiền bạc ","x":-683,"y":180,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"033942e11444a984","fromNode":"02ff20d3f6b9aad8","fromSide":"right","toNode":"55300a613c948d4a","toSide":"left"},
 		{"id":"a65d3f3f8c98d856","fromNode":"02ff20d3f6b9aad8","fromSide":"right","toNode":"56c393904d29018d","toSide":"left"},
-		{"id":"2d645ede9d3b6587","fromNode":"ffeadbd202bb6e4f","fromSide":"right","toNode":"02ff20d3f6b9aad8","toSide":"left"}
+		{"id":"2d645ede9d3b6587","fromNode":"ffeadbd202bb6e4f","fromSide":"right","toNode":"02ff20d3f6b9aad8","toSide":"left"},
+		{"id":"d9f8b88660cbb7aa","fromNode":"02ff20d3f6b9aad8","fromSide":"left","toNode":"ae1a2beefcd61ed6","toSide":"right"}
 	]
 }

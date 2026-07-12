@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3017b91fa38a614e","type":"text","text":"触 - Xúc","x":-68,"y":-4,"width":250,"height":60},
+		{"id":"ed26320599292380","x":-360,"y":-105,"width":156,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giác　「角」/Giác　「角」.canvas"},
+		{"id":"4f764ec45caec9a0","x":-352,"y":100,"width":148,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
+	],
+	"edges":[
+		{"id":"ce64151c5d697b5b","fromNode":"ed26320599292380","fromSide":"right","toNode":"3017b91fa38a614e","toSide":"left"},
+		{"id":"27bc1d2f5f4c0bbf","fromNode":"4f764ec45caec9a0","fromSide":"right","toNode":"3017b91fa38a614e","toSide":"left"}
+	]
+}

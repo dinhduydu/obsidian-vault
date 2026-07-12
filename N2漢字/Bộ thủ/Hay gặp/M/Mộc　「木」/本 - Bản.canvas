@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"98d3e25de450b7f5","type":"text","text":"本 - Bản","x":-71,"y":-42,"width":250,"height":60},
+		{"id":"396208e2adece9ac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-380,"y":-164,"width":144,"height":122},
+		{"id":"58f6e7177e7e402a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」.canvas","x":-401,"y":40,"width":165,"height":160},
+		{"id":"1edd2d611ea1a169","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":74,"y":160,"width":105,"height":116},
+		{"id":"558f82dbd7467105","x":337,"y":-88,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/体 - Thể.canvas"}
+	],
+	"edges":[
+		{"id":"d418569cc076c6f7","fromNode":"396208e2adece9ac","fromSide":"right","toNode":"98d3e25de450b7f5","toSide":"left"},
+		{"id":"cc1842636301721c","fromNode":"58f6e7177e7e402a","fromSide":"right","toNode":"98d3e25de450b7f5","toSide":"left"},
+		{"id":"71d769483defbd1d","fromNode":"98d3e25de450b7f5","fromSide":"right","toNode":"558f82dbd7467105","toSide":"left"},
+		{"id":"b0a77fdfe2c801e3","fromNode":"1edd2d611ea1a169","fromSide":"right","toNode":"558f82dbd7467105","toSide":"left"}
+	]
+}

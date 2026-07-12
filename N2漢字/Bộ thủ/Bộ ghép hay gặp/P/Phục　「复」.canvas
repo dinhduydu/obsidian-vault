@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"ef849261f0343f78","type":"text","text":"Phục　「复」","x":-197,"y":-9,"width":250,"height":60},
 		{"id":"b534522fe288f86a","type":"text","text":"複 - Phức","x":376,"y":-113,"width":250,"height":60},
-		{"id":"bbd1c4214e75763d","x":120,"y":-360,"width":144,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y　「衤」.canvas"},
+		{"id":"bbd1c4214e75763d","x":120,"y":-360,"width":144,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"},
 		{"id":"04c921c663807562","x":400,"y":160,"width":250,"height":60,"type":"text","text":"復 - Phục"},
 		{"id":"d277115bf7ee4308","type":"text","text":"回復　「かいふく」：hồi phục","x":841,"y":160,"width":250,"height":60},
 		{"id":"fb5de92192c4a2a2","x":80,"y":280,"width":148,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas"}

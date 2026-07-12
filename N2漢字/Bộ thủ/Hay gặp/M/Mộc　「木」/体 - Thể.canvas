@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"78f3a4f34a4e076c","x":-24,"y":-53,"width":250,"height":60,"type":"text","text":"体 - Thể"},
+		{"id":"def101ecaf512c69","x":-320,"y":40,"width":175,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/本 - Bản.canvas"},
+		{"id":"5d634829115816b2","x":-321,"y":-220,"width":176,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"80ba369449ae5168","fromNode":"def101ecaf512c69","fromSide":"right","toNode":"78f3a4f34a4e076c","toSide":"left"},
+		{"id":"6acdc46bdc8634e5","fromNode":"5d634829115816b2","fromSide":"right","toNode":"78f3a4f34a4e076c","toSide":"left"}
+	]
+}

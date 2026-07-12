@@ -29,7 +29,7 @@
 		{"id":"a15ab4a24fe70d6f","type":"text","text":"津 - Tân","x":-1765,"y":-620,"width":250,"height":60},
 		{"id":"6d8af9a8957d69f8","type":"text","text":"- mãnh liệt,\n- gay gắt,\n- kích động.","x":609,"y":-1120,"width":250,"height":105},
 		{"id":"58fc20e1004ee655","type":"text","text":"Dòng nước chảy mạnh, va đập dữ dội.","x":240,"y":-1089,"width":250,"height":60},
-		{"id":"6fb297cc40837cf8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」.canvas","x":-545,"y":-1035,"width":159,"height":96},
+		{"id":"6fb297cc40837cf8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kích　「敫」/Kích　「敫」.canvas","x":-545,"y":-1035,"width":159,"height":96},
 		{"id":"c85ad1c3538b334e","type":"text","text":"- Mãnh liệt, dữ dội.\n- Kích động, làm cho mạnh lên.\n- Cực kỳ mạnh, gay gắt.","x":609,"y":-975,"width":250,"height":137},
 		{"id":"2b8075eeb2dd6485","type":"text","text":"激 - Kích","x":-177,"y":-797,"width":250,"height":60},
 		{"id":"3c2058a3f3ee8ac7","type":"text","text":"淡 - Đạm","x":-1545,"y":-310,"width":250,"height":60},
@@ -64,7 +64,7 @@
 		{"id":"461968bad0e02886","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」.canvas","x":-3300,"y":1820,"width":144,"height":93},
 		{"id":"3c13fed32e852801","type":"text","text":"泣く　「なく」：khóc","x":-2637,"y":-51,"width":250,"height":60},
 		{"id":"48fe576b9dec850a","type":"text","text":"泣 - Khấp","x":-2992,"y":-60,"width":250,"height":60},
-		{"id":"ed1000bc3a61a626","x":-3312,"y":-220,"width":129,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」.canvas"}
+		{"id":"ed1000bc3a61a626","x":-3312,"y":-220,"width":129,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
 	],
 	"edges":[
 		{"id":"33cfe9df8b179901","fromNode":"365a8be1053fad2c","fromSide":"right","toNode":"c9cb37c33b36c93f","toSide":"left","label":"滑　（Hoạt)"},

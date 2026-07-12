@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6fc2c6dd535f6e9a","type":"text","text":"校 - Hiệu","x":-274,"y":-83,"width":250,"height":60},
+		{"id":"7c6eeed454d20052","type":"text","text":"trường học","x":192,"y":-83,"width":250,"height":60},
+		{"id":"74b9b5b051af54b1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-442,"y":-23,"width":96,"height":106},
+		{"id":"2f24e0ae7c88a270","x":-524,"y":-220,"width":165,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas"}
+	],
+	"edges":[
+		{"id":"20cf36782feaa04b","fromNode":"6fc2c6dd535f6e9a","fromSide":"right","toNode":"7c6eeed454d20052","toSide":"left"},
+		{"id":"4ccdf0f9d9c2c368","fromNode":"74b9b5b051af54b1","fromSide":"right","toNode":"6fc2c6dd535f6e9a","toSide":"left"},
+		{"id":"acc6dfc77b2fc9fb","fromNode":"2f24e0ae7c88a270","fromSide":"right","toNode":"6fc2c6dd535f6e9a","toSide":"left"}
+	]
+}
