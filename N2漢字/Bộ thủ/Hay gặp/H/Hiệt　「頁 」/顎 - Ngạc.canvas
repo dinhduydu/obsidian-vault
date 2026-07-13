@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1608725620e19adc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-400,"y":-90,"width":151,"height":99},
+		{"id":"ea99c6129927235d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-400,"y":100,"width":151,"height":157},
+		{"id":"7d5a2dc2e674ec6d","x":-406,"y":300,"width":157,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/丂 - Khảo/丂 - Khảo.canvas"},
+		{"id":"30efa464cdd7ad84","type":"text","text":"顎 - Ngạc","x":-20,"y":154,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"5068aa474dfaf772","fromNode":"1608725620e19adc","fromSide":"right","toNode":"30efa464cdd7ad84","toSide":"left"},
+		{"id":"f34c2fb9b926c47a","fromNode":"ea99c6129927235d","fromSide":"right","toNode":"30efa464cdd7ad84","toSide":"left"},
+		{"id":"cf16b34389f1d80b","fromNode":"7d5a2dc2e674ec6d","fromSide":"right","toNode":"30efa464cdd7ad84","toSide":"left"}
+	]
+}

@@ -1,19 +1,17 @@
 {
 	"nodes":[
 		{"id":"c2e8710b9cdb3c54","type":"text","text":"Thiệt　「舌」","x":-126,"y":4,"width":250,"height":60},
-		{"id":"d7d4bee260f48d70","type":"text","text":"辞 - Từ","x":280,"y":205,"width":130,"height":50},
-		{"id":"b0154a7402991961","type":"text","text":"辞退　「はかい」：","x":560,"y":200,"width":250,"height":60},
-		{"id":"7a959c9e47f896d2","type":"text","text":"辞める　「やめる」：","x":560,"y":360,"width":250,"height":60},
-		{"id":"0e120f0eeb895ae8","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas","x":380,"y":-200,"width":150,"height":50},
-		{"id":"d0e8475af3e2fb97","type":"text","text":"話 - Thoại","x":285,"y":4,"width":250,"height":60},
-		{"id":"e7f2bf3a99cbc10b","x":124,"y":-140,"width":76,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+		{"id":"3d8ca708a98bea87","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/活 - Hoạt.canvas","x":371,"y":-259,"width":164,"height":119},
+		{"id":"c5da7f9b86176f50","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":176,"y":-307,"width":109,"height":97},
+		{"id":"e7f2bf3a99cbc10b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":155,"y":-120,"width":76,"height":82},
+		{"id":"aab736ef9cfb11c4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/話 - Thoại.canvas","x":371,"y":-20,"width":130,"height":109},
+		{"id":"75367ddb24bea754","x":344,"y":260,"width":157,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/辞 - Từ.canvas"}
 	],
 	"edges":[
-		{"id":"6fae0b0fc63c6643","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"0e120f0eeb895ae8","toSide":"left"},
-		{"id":"7c2739258195ce37","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"d7d4bee260f48d70","toSide":"left"},
-		{"id":"f2d2c6edd1e92c9f","fromNode":"d7d4bee260f48d70","fromSide":"right","toNode":"b0154a7402991961","toSide":"left"},
-		{"id":"3acdb8afafe63c2a","fromNode":"d7d4bee260f48d70","fromSide":"right","toNode":"7a959c9e47f896d2","toSide":"left"},
-		{"id":"f0db79c4e79151f7","fromNode":"e7f2bf3a99cbc10b","fromSide":"right","toNode":"d0e8475af3e2fb97","toSide":"left"},
-		{"id":"d6c52b9c5a32c885","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"d0e8475af3e2fb97","toSide":"left"}
+		{"id":"7c2739258195ce37","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"75367ddb24bea754","toSide":"left"},
+		{"id":"f0db79c4e79151f7","fromNode":"e7f2bf3a99cbc10b","fromSide":"right","toNode":"aab736ef9cfb11c4","toSide":"left"},
+		{"id":"d6c52b9c5a32c885","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"aab736ef9cfb11c4","toSide":"left"},
+		{"id":"5687b75074305c71","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"3d8ca708a98bea87","toSide":"left"},
+		{"id":"ea0c71f4ddecd272","fromNode":"c5da7f9b86176f50","fromSide":"right","toNode":"3d8ca708a98bea87","toSide":"left"}
 	]
 }

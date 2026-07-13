@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ed8bb126b8440cd5","type":"text","text":"必ず　「かならず」：","x":291,"y":-15,"width":250,"height":60},
+		{"id":"fa0a1185508fa581","type":"text","text":"必 - Tất","x":-49,"y":-15,"width":250,"height":60},
+		{"id":"d68554da59cb2e5b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-324,"y":105,"width":200,"height":136},
+		{"id":"3e6c8a4a4a8ca8e4","x":-360,"y":-200,"width":158,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas"}
+	],
+	"edges":[
+		{"id":"d2443ecb86bc1581","fromNode":"3e6c8a4a4a8ca8e4","fromSide":"right","toNode":"fa0a1185508fa581","toSide":"left"},
+		{"id":"27a3b83f8930c4da","fromNode":"fa0a1185508fa581","fromSide":"right","toNode":"ed8bb126b8440cd5","toSide":"left"},
+		{"id":"cd01c6595a2d2b10","fromNode":"d68554da59cb2e5b","fromSide":"right","toNode":"fa0a1185508fa581","toSide":"left"}
+	]
+}

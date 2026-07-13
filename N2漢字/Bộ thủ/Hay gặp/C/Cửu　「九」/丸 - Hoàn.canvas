@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"293f2b8effc0c892","x":-72,"y":-75,"width":250,"height":60,"type":"text","text":"丸 - Hoàn"},
 		{"id":"80e9df57a01949f7","x":-320,"y":-178,"width":161,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas"},
-		{"id":"1ca3ed0c4516c482","x":-320,"y":80,"width":164,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Chủ　「丶」/Chủ　「丶」.canvas"}
+		{"id":"1ca3ed0c4516c482","x":-320,"y":80,"width":164,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
 	],
 	"edges":[
 		{"id":"ff609a2592b68fb4","fromNode":"80e9df57a01949f7","fromSide":"right","toNode":"293f2b8effc0c892","toSide":"left"},

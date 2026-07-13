@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"4a77b457c9dd91c0","type":"text","text":"Động　「動 」","x":-130,"y":-39,"width":250,"height":60},
 		{"id":"bd4a7d59e7b6ce11","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-84,"y":-300,"width":158,"height":105},
-		{"id":"13cee897bef6c53c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas","x":-440,"y":21,"width":188,"height":163},
+		{"id":"13cee897bef6c53c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-440,"y":21,"width":188,"height":163},
 		{"id":"c5af2bc3cdbaa445","x":260,"y":-180,"width":99,"height":72,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/働 - Động.canvas"}
 	],
 	"edges":[

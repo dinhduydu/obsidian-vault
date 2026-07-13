@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a08e01332cd6645c","type":"text","text":"勇 - Dũng","x":-138,"y":-46,"width":250,"height":60},
 		{"id":"9436688f6e93dc4d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/Dũng　「甬」.canvas","x":-420,"y":-200,"width":176,"height":103},
-		{"id":"6d61a2035d1cc5ba","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas","x":-397,"y":-16,"width":153,"height":135},
+		{"id":"6d61a2035d1cc5ba","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-397,"y":-16,"width":153,"height":135},
 		{"id":"96d35553c6922f78","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-8,"y":100,"width":120,"height":80},
 		{"id":"c3708e37800bcc29","x":240,"y":14,"width":156,"height":79,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/湧 - Dũng.canvas"}
 	],

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"34c2528e3e47465b","x":280,"y":-181,"width":179,"height":141,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas"},
+		{"id":"62f2a9200bf41584","x":-127,"y":-40,"width":250,"height":60,"type":"text","text":"活 - Hoạt"},
+		{"id":"3e3438327e65625f","type":"text","text":"活 - Hoạt","x":-480,"y":-360,"width":250,"height":60},
+		{"id":"e323dbdb6c95c54a","x":-680,"y":-473,"width":126,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas"},
+		{"id":"8642060e301d532e","x":-700,"y":-330,"width":146,"height":79,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b894296128fcc77e","fromNode":"62f2a9200bf41584","fromSide":"right","toNode":"34c2528e3e47465b","toSide":"left","label":"tiền tố"},
+		{"id":"08e1cc4cf4b9ebab","fromNode":"e323dbdb6c95c54a","fromSide":"right","toNode":"3e3438327e65625f","toSide":"left"},
+		{"id":"6b2ff64d53c505bc","fromNode":"8642060e301d532e","fromSide":"right","toNode":"3e3438327e65625f","toSide":"left"}
+	]
+}

@@ -183,15 +183,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/G/Giáp　「甲」/Giáp　「甲」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas",
                 "viewState": {
-                  "x": 128.50000000000003,
-                  "y": 67.75781250000003,
-                  "zoom": 1
+                  "x": 342,
+                  "y": 56.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Giáp　「甲」"
+              "title": "Thiệt　「舌」"
+            }
+          },
+          {
+            "id": "5f25e7b4da6c41ac",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/乱 - Loạn.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 279,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "乱 - Loạn"
             }
           },
           {
@@ -500,7 +517,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -649,29 +666,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "5f25e7b4da6c41ac",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/括 - Quát.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/乱 - Loạn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/辞 - Từ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/話 - Thoại.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/活 - Hoạt.canvas",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 3/活 - Hoạt.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻 - Tần.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/客 - Khách.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/丂 - Khảo",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ",
     "N2漢字/Bộ thủ/Ít gặp/G/Giáp　「甲」",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頬 - Giáp.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/G/Giáp　「甲」/Giáp　「甲」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/頭 - Đầu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/祝 - Chúc.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hiên.canvas",
     "N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」",
     "N2漢字/Bộ thủ/Ít gặp/H/Huyết　「血」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hương　「香」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hoàng　「黃 」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hào　「爻」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hắc　「黑」",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nguyên　「元」",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/亻 (Nhân đứng).md",
     "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
     "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",

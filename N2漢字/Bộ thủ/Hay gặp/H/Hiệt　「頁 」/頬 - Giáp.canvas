@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"91f53d0138a4430e","type":"text","text":"頬 - Giáp","x":-130,"y":-56,"width":250,"height":60},
-		{"id":"a1e7fdc0d22fd25b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-380,"y":-180,"width":128,"height":104}
+		{"id":"a1e7fdc0d22fd25b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-380,"y":-180,"width":128,"height":104},
+		{"id":"2a5c58fe2d7a852c","x":-390,"y":4,"width":149,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/G/Giáp　「甲」/Giáp　「甲」.canvas"}
 	],
 	"edges":[
-		{"id":"4448a8af4ad555cb","fromNode":"a1e7fdc0d22fd25b","fromSide":"right","toNode":"91f53d0138a4430e","toSide":"left"}
+		{"id":"4448a8af4ad555cb","fromNode":"a1e7fdc0d22fd25b","fromSide":"right","toNode":"91f53d0138a4430e","toSide":"left"},
+		{"id":"0a241de7dc463444","fromNode":"2a5c58fe2d7a852c","fromSide":"right","toNode":"91f53d0138a4430e","toSide":"left"}
 	]
 }

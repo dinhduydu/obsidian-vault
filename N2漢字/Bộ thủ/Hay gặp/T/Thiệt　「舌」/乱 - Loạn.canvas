@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fd88aa9f6b6153ed","x":-79,"y":-9,"width":250,"height":60,"type":"text","text":"乱 - Loạn"},
+		{"id":"6c6ac72e1e1f604d","x":-320,"y":-103,"width":107,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas"},
+		{"id":"4fcb0bd692780779","x":-354,"y":100,"width":141,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"1288bbee4099e3a6","fromNode":"6c6ac72e1e1f604d","fromSide":"right","toNode":"fd88aa9f6b6153ed","toSide":"left"},
+		{"id":"5f2757aa121e74d1","fromNode":"4fcb0bd692780779","fromSide":"right","toNode":"fd88aa9f6b6153ed","toSide":"left"}
+	]
+}

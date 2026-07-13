@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"86f27da25ffceb66","type":"text","text":"Cửu　「九」","x":-164,"y":-59,"width":250,"height":60},
-		{"id":"880c8c14062a5aa0","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phiệt　「ノ」.canvas","x":-420,"y":1,"width":140,"height":160},
+		{"id":"880c8c14062a5aa0","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas","x":-420,"y":1,"width":140,"height":160},
 		{"id":"c374dbb15e0cfd31","x":-403,"y":-160,"width":107,"height":73,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
 	],
 	"edges":[

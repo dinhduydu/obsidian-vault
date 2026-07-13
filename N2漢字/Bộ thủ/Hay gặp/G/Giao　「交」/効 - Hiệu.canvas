@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ca8ae767a30c4881","type":"text","text":"効 - Hiệu","x":2,"y":48,"width":250,"height":60},
-		{"id":"1b73e68ffecd2b7e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」.canvas","x":-252,"y":-108,"width":150,"height":111},
+		{"id":"1b73e68ffecd2b7e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-252,"y":-108,"width":150,"height":111},
 		{"id":"44e5c3e140760d55","x":-241,"y":78,"width":129,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas"}
 	],
 	"edges":[

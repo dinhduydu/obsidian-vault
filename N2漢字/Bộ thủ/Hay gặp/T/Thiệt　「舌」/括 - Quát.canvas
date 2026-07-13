@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5bad056d90672764","type":"text","text":"括 - Quát","x":-129,"y":-36,"width":250,"height":60},
+		{"id":"c13f083aab3a97bd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas","x":-340,"y":-124,"width":114,"height":88},
+		{"id":"d4a0b8ac5d34c0e3","x":-352,"y":80,"width":126,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"f821ca8624c24144","fromNode":"c13f083aab3a97bd","fromSide":"right","toNode":"5bad056d90672764","toSide":"left"},
+		{"id":"974233a4450b1c5e","fromNode":"d4a0b8ac5d34c0e3","fromSide":"right","toNode":"5bad056d90672764","toSide":"left"}
+	]
+}

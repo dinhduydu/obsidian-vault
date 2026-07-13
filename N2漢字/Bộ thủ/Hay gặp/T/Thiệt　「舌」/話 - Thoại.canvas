@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a3ca6cd57814c6e1","type":"text","text":"話 - Thoại","x":-75,"y":-25,"width":250,"height":60},
+		{"id":"3ebbadc6afc8fadb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-205,"y":-149,"width":76,"height":82},
+		{"id":"3b91a092671f3189","x":-400,"y":35,"width":171,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas"}
+	],
+	"edges":[
+		{"id":"499c7fd175197c53","fromNode":"3ebbadc6afc8fadb","fromSide":"right","toNode":"a3ca6cd57814c6e1","toSide":"left"},
+		{"id":"0b33bd069364620e","fromNode":"3b91a092671f3189","fromSide":"right","toNode":"a3ca6cd57814c6e1","toSide":"left"}
+	]
+}
