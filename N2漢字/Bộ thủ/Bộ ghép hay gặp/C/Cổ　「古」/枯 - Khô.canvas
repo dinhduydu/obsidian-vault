@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4facae5018a6091f","x":-100,"y":-73,"width":250,"height":60,"type":"text","text":"枯 - Khô"},
+		{"id":"8c47370563f28035","x":-450,"y":60,"width":139,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Cổ　「古」.canvas"},
+		{"id":"1a18a27764d4e2be","x":-441,"y":-300,"width":130,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"a0dc40af99dd529e","fromNode":"8c47370563f28035","fromSide":"right","toNode":"4facae5018a6091f","toSide":"left"},
+		{"id":"438635f84d5fe22c","fromNode":"1a18a27764d4e2be","fromSide":"right","toNode":"4facae5018a6091f","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"31afe4a87b554ff4","type":"text","text":"銀 - Ngân","x":-125,"y":-84,"width":250,"height":60},
+		{"id":"21dc052f944d8457","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-440,"y":-172,"width":137,"height":118},
+		{"id":"012e79934ac2155d","x":240,"y":-202,"width":250,"height":60,"type":"text","text":"Bạc"}
+	],
+	"edges":[
+		{"id":"0377e668798cb169","fromNode":"21dc052f944d8457","fromSide":"right","toNode":"31afe4a87b554ff4","toSide":"left"},
+		{"id":"cb23caabcc8d3e24","fromNode":"31afe4a87b554ff4","fromSide":"right","toNode":"012e79934ac2155d","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"29a96bbf369fe40b","type":"text","text":"故 - Cố","x":-104,"y":-45,"width":250,"height":60},
+		{"id":"6e43b2edfadba469","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Cổ　「古」.canvas","x":-420,"y":80,"width":150,"height":131},
+		{"id":"8be597cfa0994278","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-400,"y":-180,"width":130,"height":111},
+		{"id":"05b5c77bac15e057","type":"file","file":"Chữa đề/Learning_Profile/Kanji/事故.md","x":360,"y":109,"width":188,"height":205},
+		{"id":"354c793a6b680932","type":"file","file":"Chữa đề/Learning_Profile/Kanji/故郷.md","x":360,"y":-439,"width":323,"height":259}
+	],
+	"edges":[
+		{"id":"bfce10409e699203","fromNode":"6e43b2edfadba469","fromSide":"right","toNode":"29a96bbf369fe40b","toSide":"left"},
+		{"id":"ac9b28c8e2336259","fromNode":"8be597cfa0994278","fromSide":"right","toNode":"29a96bbf369fe40b","toSide":"left"},
+		{"id":"2f5cc59909471b4f","fromNode":"29a96bbf369fe40b","fromSide":"right","toNode":"05b5c77bac15e057","toSide":"left","label":"事故"},
+		{"id":"be13c6637f8c5f85","fromNode":"29a96bbf369fe40b","fromSide":"right","toNode":"354c793a6b680932","toSide":"left","label":"故郷"}
+	]
+}

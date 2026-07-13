@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"37128c5a2f95fe67","type":"text","text":"錫 - Tích","x":-133,"y":10,"width":250,"height":60},
+		{"id":"9f36991323449610","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-440,"y":-98,"width":150,"height":108},
+		{"id":"a3d759bfae851e8c","type":"text","text":"Thiếc","x":240,"y":-80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e6d9ce4020e7368c","fromNode":"9f36991323449610","fromSide":"right","toNode":"37128c5a2f95fe67","toSide":"left"},
+		{"id":"608841632f848d52","fromNode":"37128c5a2f95fe67","fromSide":"right","toNode":"a3d759bfae851e8c","toSide":"left"}
+	]
+}

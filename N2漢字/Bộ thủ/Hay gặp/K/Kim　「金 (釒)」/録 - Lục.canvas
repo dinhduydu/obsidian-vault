@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6d08028c5d367f21","type":"text","text":"記録　「きろく」：kỉ lục","x":166,"y":25,"width":250,"height":60},
+		{"id":"9053aec0fcf6c0a9","type":"text","text":"録 - Lục","x":-214,"y":25,"width":250,"height":60},
+		{"id":"17b728b7390ee72d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「彔」.canvas","x":-555,"y":-135,"width":151,"height":117},
+		{"id":"813f088b285c0bcc","x":-569,"y":140,"width":165,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"51886295f2fadc58","fromNode":"9053aec0fcf6c0a9","fromSide":"right","toNode":"6d08028c5d367f21","toSide":"left"},
+		{"id":"ad4e86c96e3a3511","fromNode":"17b728b7390ee72d","fromSide":"right","toNode":"9053aec0fcf6c0a9","toSide":"left"},
+		{"id":"b30110d4a015f66f","fromNode":"813f088b285c0bcc","fromSide":"right","toNode":"9053aec0fcf6c0a9","toSide":"left"}
+	]
+}

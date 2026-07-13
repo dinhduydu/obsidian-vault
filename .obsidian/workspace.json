@@ -217,15 +217,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/Phụ　「父」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas",
                 "viewState": {
-                  "x": 113,
-                  "y": -138,
-                  "zoom": 0
+                  "x": 828.3326429465619,
+                  "y": 133.92222404852885,
+                  "zoom": 0.18678466998039095
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Phụ　「父」"
+              "title": "Kim　「金 (釒)」"
+            }
+          },
+          {
+            "id": "1bde3b4a22f14b38",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/録 - Lục.canvas",
+                "viewState": {
+                  "x": -69.31662326934247,
+                  "y": 122.77243464340806,
+                  "zoom": 0.3333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "録 - Lục"
             }
           },
           {
@@ -534,7 +551,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -683,20 +700,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e267177e2911d137",
+  "active": "1bde3b4a22f14b38",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/P/Phụ　「父」/Phụ　「父」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/効 - Hiệu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/交 - Giao.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/校 - Hiệu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/効 - Hiệu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/郊 - Giao.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/録 - Lục.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm gia công kim loại/鋳 - Chú.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm tiền tệ/鈔.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm gia công kim loại/鍛 - Đoán.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/鎖 - Toả.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/銅 - Đồng.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/鋼 - Cương.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/銀 - Ngân.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm tiền tệ/鉛 - Diên.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/鉄 - Thiết.canvas",
+    "Chữa đề/Learning_Profile/Kanji/故郷.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/3. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (20).md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Untitled.base",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」",
     "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao",
-    "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/Phụ　「父」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」",
     "N2漢字/Bộ thủ/Ít gặp/L/Long　「龍」",
     "N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」",
@@ -704,8 +725,6 @@
     "N2漢字/Bộ thủ/Ít gặp/N/Ngũ　「五」",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phi　「飛」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/亻 (Nhân đứng).md",
     "Chữa đề/Learning_Profile/Vocabulary/庭掃除.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/6. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 3.md",
@@ -729,8 +748,6 @@
     "Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md",
     "Chữa đề/２０２６年/０４月２０２６年/Week5/28042026/5. Phân Tích N2_BÀI TẬP ĐIỀN SAO (10).md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1).md",
-    "Chữa đề/Learning_Profile/Kanji/顔料.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/2. Phân Tích N2_NGÀY 2_ÔN TẬP KANJI (P2).md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

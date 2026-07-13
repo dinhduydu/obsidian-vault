@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2abd311866c63e84","x":-176,"y":-21,"width":250,"height":60,"type":"text","text":"銅 - Đồng"},
+		{"id":"bc2c1f7700dfe658","x":-480,"y":-180,"width":157,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"daedbc828f1ed374","fromNode":"bc2c1f7700dfe658","fromSide":"right","toNode":"2abd311866c63e84","toSide":"left"}
+	]
+}

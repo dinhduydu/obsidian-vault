@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fee91674c01a39be","type":"text","text":"鉛 - Diên","x":-58,"y":-54,"width":250,"height":60},
+		{"id":"f3f6c9ef323eb399","type":"text","text":"Chì","x":320,"y":-140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0dac762d49ad5ddb","fromNode":"fee91674c01a39be","fromSide":"right","toNode":"f3f6c9ef323eb399","toSide":"left"}
+	]
+}

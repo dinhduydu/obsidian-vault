@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"be06f0638cd91d60","type":"text","text":"Cổ　「古」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"570cef11243d2009","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/古 - Cổ.canvas","x":-580,"y":-260,"width":219,"height":127},
+		{"id":"601263fb00886fd6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-73,"y":-313,"width":198,"height":106},
+		{"id":"ef8fd50418cc849e","x":280,"y":-183,"width":178,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/苦 - Khổ.canvas"}
+	],
+	"edges":[
+		{"id":"3dadc7eb6aa6d746","fromNode":"570cef11243d2009","fromSide":"right","toNode":"be06f0638cd91d60","toSide":"left"},
+		{"id":"2cf17c4570fb52c0","fromNode":"601263fb00886fd6","fromSide":"right","toNode":"ef8fd50418cc849e","toSide":"left"},
+		{"id":"72b00eee4aab825d","fromNode":"be06f0638cd91d60","fromSide":"right","toNode":"ef8fd50418cc849e","toSide":"left"}
+	]
+}
