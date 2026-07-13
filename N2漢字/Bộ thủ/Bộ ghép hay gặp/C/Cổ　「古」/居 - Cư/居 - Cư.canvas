@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"adced79192e0565d","type":"text","text":"居 - Cư","x":-106,"y":-19,"width":250,"height":60},
+		{"id":"e225e57eba1a04a4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-440,"y":-220,"width":207,"height":150},
+		{"id":"92228223ed290b6e","x":-397,"y":120,"width":164,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Cổ　「古」.canvas"}
+	],
+	"edges":[
+		{"id":"7cbd3c74ee3b61fa","fromNode":"e225e57eba1a04a4","fromSide":"right","toNode":"adced79192e0565d","toSide":"left"},
+		{"id":"35afde7a82660fcc","fromNode":"92228223ed290b6e","fromSide":"right","toNode":"adced79192e0565d","toSide":"left"}
+	]
+}

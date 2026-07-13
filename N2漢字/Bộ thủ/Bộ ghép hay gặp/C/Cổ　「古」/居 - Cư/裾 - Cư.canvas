@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70b7b5b5fd538c3e","x":-80,"y":-17,"width":250,"height":60,"type":"text","text":"裾 - Cư"},
+		{"id":"7e2f20c99da25567","x":-380,"y":13,"width":200,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"},
+		{"id":"d202e3b8df2ba9be","x":-385,"y":-300,"width":205,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/居 - Cư/居 - Cư.canvas"}
+	],
+	"edges":[
+		{"id":"f7744df0b62fe636","fromNode":"7e2f20c99da25567","fromSide":"right","toNode":"70b7b5b5fd538c3e","toSide":"left"},
+		{"id":"094a89b675c62a81","fromNode":"d202e3b8df2ba9be","fromSide":"right","toNode":"70b7b5b5fd538c3e","toSide":"left"}
+	]
+}

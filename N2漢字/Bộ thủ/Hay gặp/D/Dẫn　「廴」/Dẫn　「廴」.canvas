@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"517356bc3006cb87","x":-340,"y":180,"width":737,"height":440,"type":"group","label":"Phân biệt 廴 (Dẫn) và 辶/⻌ (Sước)"},
+		{"id":"305d76881f5d3f8c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/延 - Duyên.canvas","x":300,"y":-240,"width":300,"height":192},
+		{"id":"59f7d493213c8f53","x":-248,"y":240,"width":625,"height":200,"type":"text","text":"Mẹo nhớ\n廴 (Dẫn) = không có chấm.\n辶 (Sước) = có chấm.\n\nKhi học JLPT, đây là mẹo rất hữu ích vì nhiều chữ nhìn gần giống nhau:\n\n延・建 → 廴 (Dẫn).\n近・遠・道・週・進・送・運 → 辶 (Sước).\n\n"},
+		{"id":"4508930fd8397785","x":-228,"y":489,"width":417,"height":111,"type":"text","text":"Đối với hệ thống Obsidian của bạn, mình khuyên tạo hai node riêng là 廴 (Dẫn) và 辶 (Sước), vì chúng là hai bộ thủ chính thức khác nhau và xuất hiện trong các nhóm kanji rất khác nhau."},
+		{"id":"79d3f6cb273542eb","type":"text","text":"Dẫn　「廴」","x":-100,"y":-23,"width":250,"height":60},
+		{"id":"9e9b24dfa51fcd2d","x":-800,"y":37,"width":181,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"fe923d0a7a25b10b","fromNode":"79d3f6cb273542eb","fromSide":"right","toNode":"305d76881f5d3f8c","toSide":"left"},
+		{"id":"cc7719fb8216ed57","fromNode":"79d3f6cb273542eb","fromSide":"bottom","toNode":"517356bc3006cb87","toSide":"top"},
+		{"id":"0302b3fbf0f45d00","fromNode":"9e9b24dfa51fcd2d","fromSide":"right","toNode":"517356bc3006cb87","toSide":"left"}
+	]
+}

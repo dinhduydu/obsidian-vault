@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1bbe57514feb70c2","x":-127,"y":-29,"width":250,"height":60,"type":"text","text":"湖 - Hồ"},
+		{"id":"e1a5a7c166dedae8","x":-360,"y":-134,"width":142,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"aec3550fcd9a5573","x":-360,"y":100,"width":140,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」/Hồ　「胡」.canvas"}
+	],
+	"edges":[
+		{"id":"3b0a65fa579463ab","fromNode":"e1a5a7c166dedae8","fromSide":"right","toNode":"1bbe57514feb70c2","toSide":"left"},
+		{"id":"94a7848899fba1ca","fromNode":"aec3550fcd9a5573","fromSide":"right","toNode":"1bbe57514feb70c2","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ad10d6ad45dde0e9","type":"text","text":"綻 - Trán","x":-226,"y":-50,"width":250,"height":60},
+		{"id":"b05700ffafc4a798","x":-620,"y":60,"width":226,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/Định　「定」.canvas"},
+		{"id":"0625ee4afe695512","x":-656,"y":-340,"width":262,"height":232,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"614160bf3d68d9e1","x":235,"y":-215,"width":250,"height":60,"type":"text","text":"rách bục"},
+		{"id":"84098ff7eb9eeaf5","x":267,"y":-26,"width":250,"height":60,"type":"text","text":"cơ mặt giãn ra"}
+	],
+	"edges":[
+		{"id":"f9c313a3ca078f43","fromNode":"b05700ffafc4a798","fromSide":"right","toNode":"ad10d6ad45dde0e9","toSide":"left"},
+		{"id":"40e11e8dc5e23c47","fromNode":"0625ee4afe695512","fromSide":"right","toNode":"ad10d6ad45dde0e9","toSide":"left"},
+		{"id":"b0ae82d77bc87ff3","fromNode":"ad10d6ad45dde0e9","fromSide":"right","toNode":"614160bf3d68d9e1","toSide":"left"},
+		{"id":"a861a5a145fd8b4b","fromNode":"ad10d6ad45dde0e9","fromSide":"right","toNode":"84098ff7eb9eeaf5","toSide":"left"}
+	]
+}

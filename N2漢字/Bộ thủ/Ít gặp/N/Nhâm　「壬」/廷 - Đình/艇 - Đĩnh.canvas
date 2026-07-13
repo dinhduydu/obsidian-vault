@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"923d9f5813e389f9","x":-141,"y":-56,"width":250,"height":60,"type":"text","text":"艇 - Đĩnh"},
+		{"id":"77d2a5398251c5e1","x":-460,"y":-218,"width":155,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"},
+		{"id":"967717c8a56657c5","x":-505,"y":40,"width":200,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/廷 - Đình.canvas"}
+	],
+	"edges":[
+		{"id":"be63e2e02f534fa6","fromNode":"77d2a5398251c5e1","fromSide":"right","toNode":"923d9f5813e389f9","toSide":"left"},
+		{"id":"b7fa84f9fb4f9559","fromNode":"967717c8a56657c5","fromSide":"right","toNode":"923d9f5813e389f9","toSide":"left"}
+	]
+}

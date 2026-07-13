@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"3eb62db5c1d2d672","type":"group","x":-740,"y":-360,"width":480,"height":396,"label":"Cổ　「古」"},
+		{"id":"c873f8136cdc948e","type":"text","text":"Hồ　「胡」","x":-100,"y":-57,"width":250,"height":60},
+		{"id":"e092414ab8a2b0f8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-374,"y":200,"width":155,"height":141},
+		{"id":"9eef0dca0ddf4a89","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Cổ　「古」.canvas","x":-720,"y":-211,"width":130,"height":149},
+		{"id":"1dee53b58754fecb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-392,"y":-90,"width":93,"height":106},
+		{"id":"91a8678b3fba5b46","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」/蝴 - Hồ.canvas","x":340,"y":-151,"width":304,"height":248},
+		{"id":"8df4abc52bc08d06","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」/糊 - Hồ.canvas","x":340,"y":190,"width":316,"height":303},
+		{"id":"dfc41d2e62fbf731","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-420,"y":-250,"width":121,"height":83},
+		{"id":"936d24dbba7b8b8d","type":"text","text":"người Hồ, dân tộc ở phía tây/bắc Trung Hoa cổ","x":340,"y":-300,"width":260,"height":60},
+		{"id":"dfa57c53ce035ed5","type":"text","text":"dùng làm thành phần biểu âm trong nhiều kanji","x":800,"y":-460,"width":250,"height":60},
+		{"id":"4b39aa0069c8bb7d","x":340,"y":620,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」/湖 - Hồ.canvas"},
+		{"id":"444823497da98fcb","x":-140,"y":896,"width":246,"height":249,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"62c840cc2c76f034","fromNode":"e092414ab8a2b0f8","fromSide":"right","toNode":"c873f8136cdc948e","toSide":"left"},
+		{"id":"bded4d9520f29c0f","fromNode":"3eb62db5c1d2d672","fromSide":"right","toNode":"c873f8136cdc948e","toSide":"left"},
+		{"id":"185d283f71242a0b","fromNode":"c873f8136cdc948e","fromSide":"right","toNode":"936d24dbba7b8b8d","toSide":"left"},
+		{"id":"133fe631d979e8e1","fromNode":"936d24dbba7b8b8d","fromSide":"right","toNode":"dfa57c53ce035ed5","toSide":"left"},
+		{"id":"4dba7f137b814d19","fromNode":"c873f8136cdc948e","fromSide":"right","toNode":"91a8678b3fba5b46","toSide":"left"},
+		{"id":"b54b989b0d9bdff2","fromNode":"c873f8136cdc948e","fromSide":"right","toNode":"8df4abc52bc08d06","toSide":"left"},
+		{"id":"cda52bd81a535c87","fromNode":"c873f8136cdc948e","fromSide":"right","toNode":"4b39aa0069c8bb7d","toSide":"left"},
+		{"id":"bbb986334c397b4c","fromNode":"444823497da98fcb","fromSide":"right","toNode":"4b39aa0069c8bb7d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"99c49d8290ca9050","x":-249,"y":-18,"width":250,"height":60,"type":"text","text":"Định　「定」"},
+		{"id":"0e81c48a29f0ba9e","x":-600,"y":-180,"width":187,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"acd8553251d33c00","x":-620,"y":60,"width":224,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas"}
+	],
+	"edges":[
+		{"id":"c6ec5f79f703cd12","fromNode":"0e81c48a29f0ba9e","fromSide":"right","toNode":"99c49d8290ca9050","toSide":"left"},
+		{"id":"da8290d886150507","fromNode":"acd8553251d33c00","fromSide":"right","toNode":"99c49d8290ca9050","toSide":"left"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"9d84fd6ff47f9638","x":-866,"y":-322,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/庭 - Đình.canvas"},
+		{"id":"291455afa226999c","type":"text","text":"廷 - Đình","x":-166,"y":0,"width":250,"height":60},
+		{"id":"67325591ca21fad6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas","x":-540,"y":100,"width":206,"height":130},
+		{"id":"db4c49667ef0c4f7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-514,"y":-220,"width":180,"height":161}
+	],
+	"edges":[
+		{"id":"496abdd7b001055f","fromNode":"67325591ca21fad6","fromSide":"right","toNode":"291455afa226999c","toSide":"left"},
+		{"id":"fe2b1b4ba2f1c4fc","fromNode":"db4c49667ef0c4f7","fromSide":"right","toNode":"291455afa226999c","toSide":"left"}
+	]
+}

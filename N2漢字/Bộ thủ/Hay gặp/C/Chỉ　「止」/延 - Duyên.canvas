@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"babf46e7b2589edb","type":"text","text":"延 - Duyên","x":-48,"y":-67,"width":250,"height":60},
+		{"id":"5e26b14cde7f407e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas","x":-320,"y":-260,"width":161,"height":175},
+		{"id":"0910a7664d536098","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/Dẫn　「廴」.canvas","x":-680,"y":-151,"width":253,"height":228},
+		{"id":"c65027382293c1f3","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas","x":-369,"y":40,"width":210,"height":174}
+	],
+	"edges":[
+		{"id":"c53bbc2c0353e371","fromNode":"5e26b14cde7f407e","fromSide":"right","toNode":"babf46e7b2589edb","toSide":"left"},
+		{"id":"03ac7d23c6428ccb","fromNode":"c65027382293c1f3","fromSide":"right","toNode":"babf46e7b2589edb","toSide":"left"},
+		{"id":"4ebf71ae7d9590e6","fromNode":"0910a7664d536098","fromSide":"right","toNode":"babf46e7b2589edb","toSide":"left"}
+	]
+}

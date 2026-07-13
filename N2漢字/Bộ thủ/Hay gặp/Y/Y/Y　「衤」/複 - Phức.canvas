@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3ba5e5998d177bf6","x":-101,"y":-50,"width":250,"height":60,"type":"text","text":"複 - Phức"},
+		{"id":"dc8f1efb6dce52b5","x":-440,"y":-220,"width":201,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"}
+	],
+	"edges":[
+		{"id":"c012473961297a76","fromNode":"dc8f1efb6dce52b5","fromSide":"right","toNode":"3ba5e5998d177bf6","toSide":"left"}
+	]
+}

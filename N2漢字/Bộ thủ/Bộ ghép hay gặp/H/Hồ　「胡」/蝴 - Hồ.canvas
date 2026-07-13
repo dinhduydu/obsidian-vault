@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb6495db13978611","type":"text","text":"蝴 - Hồ","x":-155,"y":-115,"width":250,"height":60},
+		{"id":"71af31b91cf6577e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas","x":-440,"y":-255,"width":157,"height":140},
+		{"id":"3ba847ea1ca019ce","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」/Hồ　「胡」.canvas","x":-440,"y":0,"width":157,"height":145}
+	],
+	"edges":[
+		{"id":"aeb359dd5fbbe428","fromNode":"71af31b91cf6577e","fromSide":"right","toNode":"fb6495db13978611","toSide":"left"},
+		{"id":"16353b628b9282b0","fromNode":"3ba847ea1ca019ce","fromSide":"right","toNode":"fb6495db13978611","toSide":"left"}
+	]
+}

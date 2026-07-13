@@ -11,10 +11,6 @@
 		{"id":"06c676370b7bf14e","type":"text","text":"行楽地　「こうらくち」：","x":668,"y":-514,"width":250,"height":60},
 		{"id":"743e854252621a76","type":"text","text":"- Khu du lịch\n- Địa điểm tham quan, nghỉ dưỡng\n- Nơi mọi người đến để vui chơi, thư giãn","x":1091,"y":-659,"width":369,"height":99},
 		{"id":"501f7711d60496ef","type":"text","text":"有名な行楽地\n(Địa điểm du lịch nổi tiếng)\n秋の行楽地\n(Điểm du lịch mùa thu)","x":1091,"y":-475,"width":268,"height":125},
-		{"id":"35b702dad459ab71","type":"text","text":"役 - Dịch","x":225,"y":-590,"width":250,"height":60},
-		{"id":"a64a3953b169672e","type":"text","text":"現役　「げんえき」：","x":668,"y":-980,"width":250,"height":60},
-		{"id":"a90cfb7d8249587c","type":"text","text":"- Đang còn hoạt động\n- Đang tại chức\n- Đang thi đấu/làm việc chính thức\n- Chưa nghỉ hưu, chưa giải nghệ","x":1091,"y":-1094,"width":334,"height":144},
-		{"id":"04570e5cf05d4ec8","type":"text","text":"- 現役の選手  \n    (Vận động viên còn thi đấu)\n- 現役の医師  \n    (Bác sĩ đang hành nghề)\n- 現役を引退する  \n    (Giải nghệ/nghỉ công tác)","x":1091,"y":-940,"width":443,"height":180},
 		{"id":"cf809e9e94db73f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":2060,"y":-60,"width":400,"height":400}
 	],
 	"edges":[
@@ -28,10 +24,6 @@
 		{"id":"f4b319360bcea844","fromNode":"3b471df96980326e","fromSide":"right","toNode":"5ce42122b4599018","toSide":"left"},
 		{"id":"befea372ed5f8636","fromNode":"46094bf0b17ddfe8","fromSide":"right","toNode":"06c676370b7bf14e","toSide":"left"},
 		{"id":"dd129b25fceb4c0f","fromNode":"06c676370b7bf14e","fromSide":"right","toNode":"743e854252621a76","toSide":"left"},
-		{"id":"f0178056f82860df","fromNode":"06c676370b7bf14e","fromSide":"right","toNode":"501f7711d60496ef","toSide":"left"},
-		{"id":"1f71cf9c5f6c7e8e","fromNode":"3b471df96980326e","fromSide":"right","toNode":"35b702dad459ab71","toSide":"left"},
-		{"id":"881242b0eaf11ee5","fromNode":"35b702dad459ab71","fromSide":"right","toNode":"a64a3953b169672e","toSide":"left"},
-		{"id":"3262c9a4001c6169","fromNode":"a64a3953b169672e","fromSide":"right","toNode":"a90cfb7d8249587c","toSide":"left"},
-		{"id":"b4cbe15565290443","fromNode":"a64a3953b169672e","fromSide":"right","toNode":"04570e5cf05d4ec8","toSide":"left"}
+		{"id":"f0178056f82860df","fromNode":"06c676370b7bf14e","fromSide":"right","toNode":"501f7711d60496ef","toSide":"left"}
 	]
 }

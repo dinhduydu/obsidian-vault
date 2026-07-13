@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e7b912b53e5f345","x":-36,"y":-31,"width":250,"height":60,"type":"text","text":"箇 - Cá"},
+		{"id":"8fda5ff6cc63e922","x":-440,"y":-280,"width":134,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"c60c2eb27d921307","x":-461,"y":80,"width":177,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/固 - Cố/固 - Cố.canvas"}
+	],
+	"edges":[
+		{"id":"f61cd38a31e10d9f","fromNode":"8fda5ff6cc63e922","fromSide":"right","toNode":"2e7b912b53e5f345","toSide":"left"},
+		{"id":"2da5b7601ff84b2a","fromNode":"c60c2eb27d921307","fromSide":"right","toNode":"2e7b912b53e5f345","toSide":"left"}
+	]
+}

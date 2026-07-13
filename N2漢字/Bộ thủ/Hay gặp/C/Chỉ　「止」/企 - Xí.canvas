@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4070ff67656b9242","type":"text","text":"企画　「きかく」：","x":267,"y":-95,"width":250,"height":60},
+		{"id":"156f9b788b190f57","type":"text","text":"企業　「きぎょう」：","x":267,"y":59,"width":250,"height":60},
+		{"id":"9090df4026d4f657","type":"text","text":"企 - Xí","x":-98,"y":-35,"width":250,"height":60},
+		{"id":"df45eea4c17bffe7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-393,"y":59,"width":139,"height":98},
+		{"id":"d52f1f91a438bdd5","x":-631,"y":-340,"width":308,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"6ef9291375832583","fromNode":"d52f1f91a438bdd5","fromSide":"right","toNode":"9090df4026d4f657","toSide":"left","label":"âm đọc"},
+		{"id":"f59d299554137c3f","fromNode":"9090df4026d4f657","fromSide":"right","toNode":"4070ff67656b9242","toSide":"left"},
+		{"id":"e1ae88a9f3a0e8f7","fromNode":"9090df4026d4f657","fromSide":"right","toNode":"156f9b788b190f57","toSide":"left"},
+		{"id":"0eeb9ffbd84e244c","fromNode":"df45eea4c17bffe7","fromSide":"right","toNode":"9090df4026d4f657","toSide":"left","label":"nhiều người"}
+	]
+}
