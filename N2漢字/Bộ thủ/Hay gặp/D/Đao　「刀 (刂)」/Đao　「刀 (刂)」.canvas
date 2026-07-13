@@ -4,10 +4,12 @@
 		{"id":"b9ae4ed2510ec9d6","type":"text","text":"到る　「いたる」：đến nơi","x":520,"y":-280,"width":250,"height":60},
 		{"id":"67032cfb85118b5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-232,"y":-420,"width":195,"height":108},
 		{"id":"e09e1ebb7976454c","type":"text","text":"Đao　「刀 (刂)」","x":-357,"y":-40,"width":250,"height":60},
-		{"id":"2a375288168c8ff2","x":140,"y":150,"width":250,"height":60,"type":"text","text":"刷 - Loát"},
-		{"id":"8aa32441504d39bf","x":500,"y":150,"width":250,"height":60,"type":"text","text":"印刷　「いんさつ」："},
-		{"id":"fcc9ea85e8492d3f","x":-172,"y":260,"width":131,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
-		{"id":"12bffd7b23cda330","x":-181,"y":480,"width":140,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+		{"id":"2a375288168c8ff2","type":"text","text":"刷 - Loát","x":140,"y":150,"width":250,"height":60},
+		{"id":"8aa32441504d39bf","type":"text","text":"印刷　「いんさつ」：","x":500,"y":150,"width":250,"height":60},
+		{"id":"fcc9ea85e8492d3f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-172,"y":260,"width":131,"height":134},
+		{"id":"12bffd7b23cda330","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-181,"y":480,"width":140,"height":120},
+		{"id":"55929d9dd8a20fce","x":140,"y":660,"width":264,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/刑 - Hình.canvas"},
+		{"id":"e54283ee9b632597","x":-266,"y":840,"width":225,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/开 - Khai.canvas"}
 	],
 	"edges":[
 		{"id":"cc92790cc22f428c","fromNode":"3015003bb902d726","fromSide":"right","toNode":"b9ae4ed2510ec9d6","toSide":"left"},
@@ -16,6 +18,8 @@
 		{"id":"d5f0b90ec217a96e","fromNode":"2a375288168c8ff2","fromSide":"right","toNode":"8aa32441504d39bf","toSide":"left"},
 		{"id":"638d37fab83f11b5","fromNode":"e09e1ebb7976454c","fromSide":"right","toNode":"2a375288168c8ff2","toSide":"left"},
 		{"id":"bab0fc36f987b258","fromNode":"fcc9ea85e8492d3f","fromSide":"right","toNode":"2a375288168c8ff2","toSide":"left"},
-		{"id":"39156c4b6f164b6d","fromNode":"12bffd7b23cda330","fromSide":"right","toNode":"2a375288168c8ff2","toSide":"left"}
+		{"id":"39156c4b6f164b6d","fromNode":"12bffd7b23cda330","fromSide":"right","toNode":"2a375288168c8ff2","toSide":"left"},
+		{"id":"a224be8046783220","fromNode":"e09e1ebb7976454c","fromSide":"right","toNode":"55929d9dd8a20fce","toSide":"left"},
+		{"id":"abe054fc208c753f","fromNode":"e54283ee9b632597","fromSide":"right","toNode":"55929d9dd8a20fce","toSide":"left"}
 	]
 }

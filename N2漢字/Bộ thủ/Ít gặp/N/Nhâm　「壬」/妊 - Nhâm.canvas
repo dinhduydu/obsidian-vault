@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8386a5dc93deefeb","x":-185,"y":-12,"width":250,"height":60,"type":"text","text":"妊 - Nhâm"},
+		{"id":"7fc10eade290f026","x":-480,"y":100,"width":207,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas"},
+		{"id":"2daad152eb016018","x":-439,"y":-200,"width":166,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"b3ffdffb2cd6e133","fromNode":"7fc10eade290f026","fromSide":"right","toNode":"8386a5dc93deefeb","toSide":"left"},
+		{"id":"b09578440f765e7f","fromNode":"2daad152eb016018","fromSide":"right","toNode":"8386a5dc93deefeb","toSide":"left"}
+	]
+}

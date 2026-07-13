@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"50f71ad3c9eed435","type":"text","text":"丂 - Khảo","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"16a084291cbd2b77","x":-560,"y":-100,"width":250,"height":60,"type":"text","text":"hơi thở bị tắc"},
-		{"id":"ef36370118ef9e21","x":280,"y":-186,"width":272,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顎 - Ngạc.canvas"}
+		{"id":"16a084291cbd2b77","type":"text","text":"hơi thở bị tắc","x":-560,"y":-100,"width":250,"height":60},
+		{"id":"ef36370118ef9e21","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顎 - Ngạc.canvas","x":280,"y":-186,"width":272,"height":146},
+		{"id":"50f71ad3c9eed435","type":"text","text":"丂 - Khảo","x":-180,"y":80,"width":250,"height":60},
+		{"id":"9d43202e7ed2659e","x":270,"y":220,"width":292,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/拷 - Khảo.canvas"}
 	],
 	"edges":[
 		{"id":"fe6f1ccad20cffe7","fromNode":"16a084291cbd2b77","fromSide":"right","toNode":"50f71ad3c9eed435","toSide":"left"},
-		{"id":"00c04210a5968be4","fromNode":"50f71ad3c9eed435","fromSide":"right","toNode":"ef36370118ef9e21","toSide":"left"}
+		{"id":"00c04210a5968be4","fromNode":"50f71ad3c9eed435","fromSide":"right","toNode":"ef36370118ef9e21","toSide":"left"},
+		{"id":"82d5d57551c4be06","fromNode":"50f71ad3c9eed435","fromSide":"right","toNode":"9d43202e7ed2659e","toSide":"left"}
 	]
 }

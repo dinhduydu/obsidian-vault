@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"317de763340a047e","type":"text","text":"孝 - Hiếu","x":-237,"y":-71,"width":250,"height":60},
+		{"id":"1e82e8550937b178","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas","x":-600,"y":-240,"width":164,"height":135},
+		{"id":"56cee7c4b471a111","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-635,"y":60,"width":199,"height":147},
+		{"id":"b768ba0d9b29d9e7","x":140,"y":-280,"width":214,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/教 - Giáo.canvas"},
+		{"id":"fa69a563b305391c","x":-122,"y":-440,"width":135,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"ab5cbcd3c1837b30","fromNode":"1e82e8550937b178","fromSide":"right","toNode":"317de763340a047e","toSide":"left"},
+		{"id":"3591c3cce3ec8a77","fromNode":"56cee7c4b471a111","fromSide":"right","toNode":"317de763340a047e","toSide":"left"},
+		{"id":"d1395ab87bc60d89","fromNode":"317de763340a047e","fromSide":"right","toNode":"b768ba0d9b29d9e7","toSide":"left"},
+		{"id":"04dc8e897f1168d0","fromNode":"fa69a563b305391c","fromSide":"right","toNode":"b768ba0d9b29d9e7","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f14c53b9710b1661","type":"text","text":"弟 - Đệ","x":-182,"y":-14,"width":250,"height":60},
+		{"id":"a97b6b3d69295d66","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/Bát　「丷」.canvas","x":-133,"y":-280,"width":152,"height":115},
+		{"id":"94b48cb637b6248a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弔 - Điếu.canvas","x":-500,"y":-34,"width":206,"height":100},
+		{"id":"78a78f1c242dc59c","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":-388,"y":240,"width":188,"height":192},
+		{"id":"57deac195db017a2","x":640,"y":-50,"width":204,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/第 - Đệ.canvas"},
+		{"id":"f38185cdfcea2a6c","x":360,"y":120,"width":138,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"1be50ad545a073ad","fromNode":"94b48cb637b6248a","fromSide":"right","toNode":"f14c53b9710b1661","toSide":"left"},
+		{"id":"455753fb8037a1db","fromNode":"a97b6b3d69295d66","fromSide":"bottom","toNode":"f14c53b9710b1661","toSide":"top"},
+		{"id":"1c3c721d668c53aa","fromNode":"78a78f1c242dc59c","fromSide":"right","toNode":"f14c53b9710b1661","toSide":"bottom"},
+		{"id":"ce0a7186958515db","fromNode":"f14c53b9710b1661","fromSide":"right","toNode":"57deac195db017a2","toSide":"left"},
+		{"id":"9ace296346f0c4da","fromNode":"f38185cdfcea2a6c","fromSide":"right","toNode":"57deac195db017a2","toSide":"left"}
+	]
+}

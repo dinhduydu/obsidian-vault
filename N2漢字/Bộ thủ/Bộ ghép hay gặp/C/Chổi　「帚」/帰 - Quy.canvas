@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3306e1d7c4bb80c1","type":"text","text":"帰 - Quy","x":-56,"y":-47,"width":250,"height":60},
+		{"id":"6ff5c4ee5827be1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-360,"y":98,"width":159,"height":122},
+		{"id":"8c9cde7ca4489ffd","x":-360,"y":-64,"width":159,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"c438a5d006aee3d5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」.canvas","x":-360,"y":-250,"width":148,"height":116},
+		{"id":"3bc3c60a05845d55","x":-580,"y":-86,"width":129,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+	],
+	"edges":[
+		{"id":"4868b2421954db92","fromNode":"6ff5c4ee5827be1a","fromSide":"right","toNode":"3306e1d7c4bb80c1","toSide":"left"},
+		{"id":"0bd57d3ab92cd310","fromNode":"c438a5d006aee3d5","fromSide":"right","toNode":"3306e1d7c4bb80c1","toSide":"left"},
+		{"id":"5108aabbe4154f4e","fromNode":"8c9cde7ca4489ffd","fromSide":"right","toNode":"3306e1d7c4bb80c1","toSide":"left"},
+		{"id":"770b2c91ddff893d","fromNode":"3bc3c60a05845d55","fromSide":"right","toNode":"3306e1d7c4bb80c1","toSide":"left"}
+	]
+}

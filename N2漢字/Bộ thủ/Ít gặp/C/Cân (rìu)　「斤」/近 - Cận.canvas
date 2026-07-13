@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1a5174d07d2c16a1","x":-84,"y":-48,"width":250,"height":60,"type":"text","text":"近 - Cận"},
+		{"id":"8c2df457c4deaf68","x":-404,"y":100,"width":145,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"},
+		{"id":"73c11c8f25882787","x":-420,"y":-220,"width":161,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"}
+	],
+	"edges":[
+		{"id":"67c79d9723d3ff8f","fromNode":"73c11c8f25882787","fromSide":"right","toNode":"1a5174d07d2c16a1","toSide":"left"},
+		{"id":"8106f685525f5ae9","fromNode":"8c2df457c4deaf68","fromSide":"right","toNode":"1a5174d07d2c16a1","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7a368b2f4878d1ef","x":-93,"y":-50,"width":250,"height":60,"type":"text","text":"福 - Phúc"},
+		{"id":"74d4eebd0e5b6a33","x":-400,"y":80,"width":140,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"1c6404fa51652925","fromNode":"74d4eebd0e5b6a33","fromSide":"right","toNode":"7a368b2f4878d1ef","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5e101ef0b2bda66c","x":-183,"y":-56,"width":250,"height":60,"type":"text","text":"呪 - Chú"},
+		{"id":"1f32acc2bfa0abde","x":-480,"y":-220,"width":145,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas"},
+		{"id":"7373b5ec2afd5bba","x":-494,"y":4,"width":159,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"036bef43d7217a9b","fromNode":"1f32acc2bfa0abde","fromSide":"right","toNode":"5e101ef0b2bda66c","toSide":"left"},
+		{"id":"57be4b5c0254014e","fromNode":"7373b5ec2afd5bba","fromSide":"right","toNode":"5e101ef0b2bda66c","toSide":"left"}
+	]
+}

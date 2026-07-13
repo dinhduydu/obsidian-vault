@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a460ea7d5ad1f97c","x":-96,"y":-50,"width":250,"height":60,"type":"text","text":"翌 - Dực"},
+		{"id":"71c16e7df7544e4c","x":-360,"y":-200,"width":149,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"},
+		{"id":"f32dcf8190efbdb5","x":-324,"y":40,"width":113,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
+	],
+	"edges":[
+		{"id":"c6617528cbadd927","fromNode":"71c16e7df7544e4c","fromSide":"right","toNode":"a460ea7d5ad1f97c","toSide":"left"},
+		{"id":"bcd276cc9685f2a7","fromNode":"f32dcf8190efbdb5","fromSide":"right","toNode":"a460ea7d5ad1f97c","toSide":"left"}
+	]
+}

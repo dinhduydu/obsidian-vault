@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"937a8b77db30e9dc","type":"text","text":"記 - Kí","x":-179,"y":5,"width":250,"height":60},
+		{"id":"1791b0efcad6937b","x":-420,"y":-138,"width":151,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"5aa76f196d305f18","x":-400,"y":100,"width":131,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"}
+	],
+	"edges":[
+		{"id":"e59d85119c9eb18b","fromNode":"1791b0efcad6937b","fromSide":"right","toNode":"937a8b77db30e9dc","toSide":"left"},
+		{"id":"7638944f96abf896","fromNode":"5aa76f196d305f18","fromSide":"right","toNode":"937a8b77db30e9dc","toSide":"left"}
+	]
+}

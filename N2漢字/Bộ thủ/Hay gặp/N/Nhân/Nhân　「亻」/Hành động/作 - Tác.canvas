@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"97da5c1b522d76e2","x":-80,"y":-30,"width":250,"height":60,"type":"text","text":"作 - Tác"},
+		{"id":"d4dea82fa7aad2c8","x":-400,"y":120,"width":110,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"aaf0b951b85602f1","fromNode":"d4dea82fa7aad2c8","fromSide":"right","toNode":"97da5c1b522d76e2","toSide":"left"}
+	]
+}

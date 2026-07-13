@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cd76e6aa2ea8dbf7","type":"text","text":"弔 - Điếu","x":217,"y":63,"width":250,"height":50},
+		{"id":"9c361b18804627d5","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":249,"y":-289,"width":186,"height":143},
+		{"id":"8b3f44db369934bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas","x":142,"y":360,"width":400,"height":400},
+		{"id":"552948d73c829ad1","x":680,"y":207,"width":221,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"7269c6d7ce046bdc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弟 - Đệ.canvas","x":960,"y":53,"width":252,"height":71}
+	],
+	"edges":[
+		{"id":"581683e8e4c9c39d","fromNode":"8b3f44db369934bc","fromSide":"top","toNode":"cd76e6aa2ea8dbf7","toSide":"bottom"},
+		{"id":"da3195248cec81e6","fromNode":"9c361b18804627d5","fromSide":"bottom","toNode":"cd76e6aa2ea8dbf7","toSide":"top"},
+		{"id":"fa654efd62e5005e","fromNode":"cd76e6aa2ea8dbf7","fromSide":"right","toNode":"7269c6d7ce046bdc","toSide":"left"},
+		{"id":"49bad4d02ced6809","fromNode":"552948d73c829ad1","fromSide":"right","toNode":"7269c6d7ce046bdc","toSide":"left"}
+	]
+}

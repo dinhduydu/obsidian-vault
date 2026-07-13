@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e51880217e7386f0","type":"text","text":"河 - Hà","x":-164,"y":79,"width":250,"height":60},
+		{"id":"8b317a1083eec993","type":"text","text":"銀河","x":157,"y":-93,"width":250,"height":60},
+		{"id":"061ad10b555fb567","type":"text","text":"sông","x":176,"y":79,"width":250,"height":60},
+		{"id":"d4647ba472644b3b","x":-424,"y":109,"width":154,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas"},
+		{"id":"8c39efddfe8155f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-480,"y":-223,"width":180,"height":160}
+	],
+	"edges":[
+		{"id":"85b376d2e0bedacc","fromNode":"e51880217e7386f0","fromSide":"right","toNode":"061ad10b555fb567","toSide":"left"},
+		{"id":"5f67d59d225a38a1","fromNode":"e51880217e7386f0","fromSide":"right","toNode":"8b317a1083eec993","toSide":"left"},
+		{"id":"d69212bf95123c05","fromNode":"8c39efddfe8155f1","fromSide":"right","toNode":"e51880217e7386f0","toSide":"left"},
+		{"id":"ad6d27c98d5ea749","fromNode":"d4647ba472644b3b","fromSide":"right","toNode":"e51880217e7386f0","toSide":"left"}
+	]
+}

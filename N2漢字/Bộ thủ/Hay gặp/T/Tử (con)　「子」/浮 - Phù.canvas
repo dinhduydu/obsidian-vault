@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8f49abc91686afbc","type":"text","text":"浮 - Phù","x":-19,"y":-72,"width":250,"height":60},
+		{"id":"17efe145474e50c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":-480,"y":-240,"width":157,"height":127},
+		{"id":"eaa5c0395f8c42db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-474,"y":-12,"width":151,"height":130},
+		{"id":"4f34c26c2ecc7a92","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-542,"y":200,"width":219,"height":153},
+		{"id":"88f515c5f2da4126","type":"text","text":"浮（フ・うく・うかぶ・うかれる）\n\nNghĩa chính:\n\nNổi, trôi trên mặt nước\nHiện lên, xuất hiện\nKhông ổn định, hời hợt\nVui vẻ quá mức, phù phiếm (うかれる)","x":534,"y":-389,"width":355,"height":213},
+		{"id":"d1d9c20a2c807851","type":"text","text":"Ban đầu chỉ vật nổi trên mặt nước.\n\n⇒ Có nước (氵) và vật không chìm mà nổi lên.","x":1034,"y":-343,"width":363,"height":122},
+		{"id":"3778bf70d10d692e","type":"text","text":"浮かぶ: nổi lên\n頭に浮かぶ: hiện lên trong đầu\n名前が浮かぶ: nhớ ra tên\n浮気: lòng dạ không ổn định, thay đổi tình cảm","x":1920,"y":40,"width":449,"height":133}
+	],
+	"edges":[
+		{"id":"04a60973ae487ac2","fromNode":"17efe145474e50c3","fromSide":"right","toNode":"8f49abc91686afbc","toSide":"left"},
+		{"id":"449bbc3462be6d8d","fromNode":"eaa5c0395f8c42db","fromSide":"right","toNode":"8f49abc91686afbc","toSide":"left"},
+		{"id":"f3c360eec2cdcc17","fromNode":"4f34c26c2ecc7a92","fromSide":"right","toNode":"8f49abc91686afbc","toSide":"left"},
+		{"id":"c95ee6d1692b84c8","fromNode":"8f49abc91686afbc","fromSide":"right","toNode":"88f515c5f2da4126","toSide":"left"},
+		{"id":"90a0e428772a34ab","fromNode":"88f515c5f2da4126","fromSide":"right","toNode":"d1d9c20a2c807851","toSide":"left"},
+		{"id":"f9126066db452b78","fromNode":"d1d9c20a2c807851","fromSide":"right","toNode":"3778bf70d10d692e","toSide":"left","label":"Từ nghĩa \"nổi trên nước\" mở rộng thành:"}
+	]
+}

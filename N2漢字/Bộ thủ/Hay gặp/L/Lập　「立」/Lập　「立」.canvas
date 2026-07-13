@@ -11,7 +11,9 @@
 		{"id":"f1f1c7aef7a960a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":40,"y":-780,"width":156,"height":150},
 		{"id":"930e279fc2c4468c","type":"text","text":"泣く　「なく」：khóc","x":658,"y":-551,"width":250,"height":60},
 		{"id":"1039a95f0348926a","type":"text","text":"泣 - Khấp","x":303,"y":-560,"width":250,"height":60},
-		{"id":"3f0f50bb35d18961","x":307,"y":-269,"width":109,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/位 - Vị.canvas"}
+		{"id":"3f0f50bb35d18961","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/位 - Vị.canvas","x":307,"y":-269,"width":109,"height":74},
+		{"id":"1947a855f0047823","x":291,"y":680,"width":259,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/翌 - Dực.canvas"},
+		{"id":"527e977d96df6f47","x":-80,"y":800,"width":165,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
 	],
 	"edges":[
 		{"id":"ba115b4227328d79","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"73810d431c6e7c62","toSide":"left"},
@@ -23,6 +25,8 @@
 		{"id":"16d7d2620e10b3e3","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
 		{"id":"06afb6c9bee7f930","fromNode":"90ff0efc83a9cacf","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
 		{"id":"66bd2368d2e95538","fromNode":"1039a95f0348926a","fromSide":"right","toNode":"930e279fc2c4468c","toSide":"left"},
-		{"id":"6cca4233632a9869","fromNode":"f1f1c7aef7a960a9","fromSide":"right","toNode":"1039a95f0348926a","toSide":"left"}
+		{"id":"6cca4233632a9869","fromNode":"f1f1c7aef7a960a9","fromSide":"right","toNode":"1039a95f0348926a","toSide":"left"},
+		{"id":"acb9272a5d3467df","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"1947a855f0047823","toSide":"left"},
+		{"id":"c13e3a7107c7cbe6","fromNode":"527e977d96df6f47","fromSide":"right","toNode":"1947a855f0047823","toSide":"left"}
 	]
 }

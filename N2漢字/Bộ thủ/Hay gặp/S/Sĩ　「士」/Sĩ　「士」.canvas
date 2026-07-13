@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"fc2c0a79745218d4","x":-214,"y":-1,"width":250,"height":60,"type":"text","text":"Sĩ　「士」"}
+		{"id":"fc2c0a79745218d4","type":"text","text":"Sĩ　「士」","x":-214,"y":-1,"width":250,"height":60},
+		{"id":"4889f3733a3f0fe2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/仕 - Sĩ.canvas","x":240,"y":-240,"width":267,"height":171},
+		{"id":"b554f109061cf8bb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-173,"y":-520,"width":209,"height":190}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1e5f9b6735bd92b6","fromNode":"fc2c0a79745218d4","fromSide":"right","toNode":"4889f3733a3f0fe2","toSide":"left"},
+		{"id":"280fdbaf75fdd14a","fromNode":"b554f109061cf8bb","fromSide":"right","toNode":"4889f3733a3f0fe2","toSide":"left","label":" Hành động"}
+	]
 }

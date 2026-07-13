@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"19356b76902038bd","type":"text","text":"Khả　「可 」","x":-156,"y":0,"width":250,"height":60},
+		{"id":"cbef268559f38d13","type":"text","text":"可愛い　「かわいい」：","x":-620,"y":-177,"width":250,"height":60},
+		{"id":"d902e68f37a6caa1","type":"text","text":"可能　「かのう」：","x":-620,"y":-30,"width":250,"height":60},
+		{"id":"503c1d0aca65ecac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":140,"y":-250,"width":180,"height":160},
+		{"id":"e8b413a35cc9e402","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":31,"y":740,"width":148,"height":154},
+		{"id":"8fde75f2d7189bd2","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/河 - Hà.canvas","x":420,"y":-129,"width":172,"height":129},
+		{"id":"571c7e55492822ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":23,"y":340,"width":117,"height":105},
+		{"id":"39ead4745d46292d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/苛 - Hà.canvas","x":420,"y":120,"width":128,"height":110},
+		{"id":"bc1a230a9ebba748","x":441,"y":379,"width":214,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/何 - Hà.canvas"},
+		{"id":"a9a9c5f1a25c56a8","x":-495,"y":120,"width":170,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"},
+		{"id":"715860e8f2e07d99","x":-700,"y":120,"width":131,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"4c476e3c60dbb06b","fromNode":"19356b76902038bd","fromSide":"left","toNode":"cbef268559f38d13","toSide":"right"},
+		{"id":"1a97c9002bc3f256","fromNode":"19356b76902038bd","fromSide":"left","toNode":"d902e68f37a6caa1","toSide":"right"},
+		{"id":"1f898ebaf14ed770","fromNode":"19356b76902038bd","fromSide":"right","toNode":"8fde75f2d7189bd2","toSide":"left"},
+		{"id":"5fc624e1fb9b278c","fromNode":"503c1d0aca65ecac","fromSide":"right","toNode":"8fde75f2d7189bd2","toSide":"left"},
+		{"id":"dc5586550cc5f22d","fromNode":"19356b76902038bd","fromSide":"right","toNode":"39ead4745d46292d","toSide":"left"},
+		{"id":"a065c8da17fcdde9","fromNode":"571c7e55492822ea","fromSide":"right","toNode":"39ead4745d46292d","toSide":"left","label":"sự phát triển mạnh mẽ của cỏ dại"},
+		{"id":"7860677cda61b44e","fromNode":"19356b76902038bd","fromSide":"right","toNode":"bc1a230a9ebba748","toSide":"left"},
+		{"id":"2d98ac7ba6c26ce2","fromNode":"e8b413a35cc9e402","fromSide":"right","toNode":"bc1a230a9ebba748","toSide":"left","label":"tò mò, thắc mắc"},
+		{"id":"d1fc3ea808b920eb","fromNode":"a9a9c5f1a25c56a8","fromSide":"right","toNode":"19356b76902038bd","toSide":"left"},
+		{"id":"7ddfabf2ea799703","fromNode":"715860e8f2e07d99","fromSide":"right","toNode":"19356b76902038bd","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"63f5b025a78cd484","x":-121,"y":-15,"width":250,"height":60,"type":"text","text":"克 - Khắc"},
+		{"id":"05a690261f3d4f04","x":-340,"y":60,"width":135,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas"},
+		{"id":"3c6b44ad07623862","x":-388,"y":-180,"width":183,"height":107,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/古 - Cổ.canvas"}
+	],
+	"edges":[
+		{"id":"21f4fef2a7fa8295","fromNode":"05a690261f3d4f04","fromSide":"right","toNode":"63f5b025a78cd484","toSide":"left"},
+		{"id":"04ccafd5869d4e5e","fromNode":"3c6b44ad07623862","fromSide":"right","toNode":"63f5b025a78cd484","toSide":"left"}
+	]
+}

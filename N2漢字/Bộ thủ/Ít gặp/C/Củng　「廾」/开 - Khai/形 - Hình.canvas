@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"248648d6618dffb3","type":"text","text":"形 - Hình","x":-20,"y":-20,"width":250,"height":60},
+		{"id":"567e8030f317fd2d","x":-460,"y":-211,"width":226,"height":251,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/开 - Khai.canvas"},
+		{"id":"dc53fcbb14cc3173","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas","x":-478,"y":140,"width":244,"height":203}
+	],
+	"edges":[
+		{"id":"3574c04b9e4918d6","fromNode":"567e8030f317fd2d","fromSide":"right","toNode":"248648d6618dffb3","toSide":"left"},
+		{"id":"55eef14c4100ed09","fromNode":"dc53fcbb14cc3173","fromSide":"right","toNode":"248648d6618dffb3","toSide":"left"}
+	]
+}

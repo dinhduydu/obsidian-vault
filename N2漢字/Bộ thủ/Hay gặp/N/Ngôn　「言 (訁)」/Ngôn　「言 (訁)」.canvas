@@ -9,19 +9,24 @@
 		{"id":"67f4d1bd8b887fb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas","x":-82,"y":220,"width":138,"height":128},
 		{"id":"7dfb660c5b8ca965","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/調 - Điều.canvas","x":181,"y":140,"width":134,"height":127},
 		{"id":"1b051863fdaaa2db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/誤　「Ngộ」.canvas","x":280,"y":460,"width":115,"height":80},
-		{"id":"579d30d0e6af97df","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/説 - Thuyết.canvas","x":179,"y":-300,"width":118,"height":75},
 		{"id":"0ed3340fdb1b051a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/計 - Kế.canvas","x":181,"y":-160,"width":156,"height":101},
 		{"id":"fdd4309c2952ad00","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/試 - Thí.canvas","x":179,"y":-15,"width":132,"height":112},
 		{"id":"3df64f8363d94f35","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/語 - Ngữ.canvas","x":181,"y":-480,"width":139,"height":74},
-		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
 		{"id":"cd5ff17cda74838c","type":"text","text":"Ngôn　「言 (訁)」","x":980,"y":11,"width":250,"height":60},
-		{"id":"e9c1288cbd3e9ee9","x":1380,"y":-100,"width":126,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/許 - Hứa.canvas"},
-		{"id":"35c32c574d9d1787","x":1120,"y":-180,"width":137,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/Ngọ　「午」.canvas"}
+		{"id":"e9c1288cbd3e9ee9","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/許 - Hứa.canvas","x":1380,"y":-100,"width":126,"height":82},
+		{"id":"35c32c574d9d1787","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/Ngọ　「午」.canvas","x":1120,"y":-180,"width":137,"height":100},
+		{"id":"f58a13036f4e09f9","type":"text","text":"Ngôn　「言 (訁)」","x":-540,"y":11,"width":250,"height":60},
+		{"id":"579d30d0e6af97df","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/説 - Thuyết.canvas","x":1171,"y":-875,"width":118,"height":75},
+		{"id":"f306d96ca7e355c1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas","x":635,"y":-1080,"width":135,"height":78},
+		{"id":"a607bd9ffed83350","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-154,"y":-562,"width":154,"height":119},
+		{"id":"cfa0f2ff5e8dac59","type":"text","text":"Ngôn　「言 (訁)」","x":600,"y":-712,"width":250,"height":60},
+		{"id":"47fbe29502f6193b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":671,"y":-559,"width":179,"height":158},
+		{"id":"746adce0552a9ca5","x":1189,"y":-580,"width":223,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/信 - Tín.canvas"}
 	],
 	"edges":[
 		{"id":"5e25a62afaedebb0","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"fdd4309c2952ad00","toSide":"left"},
 		{"id":"fb6edb23970a0e20","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"7dfb660c5b8ca965","toSide":"left"},
-		{"id":"ba9be4a01f337e0b","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"579d30d0e6af97df","toSide":"left"},
+		{"id":"ba9be4a01f337e0b","fromNode":"cfa0f2ff5e8dac59","fromSide":"right","toNode":"579d30d0e6af97df","toSide":"left","label":"説 - Thuyết"},
 		{"id":"b1efa2ac12a328c9","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"1b051863fdaaa2db","toSide":"left"},
 		{"id":"a0655929eedc9386","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"201753812e5257f0","toSide":"left"},
 		{"id":"7c91a2973de97916","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"0bf8d004bfb6219f","toSide":"left"},
@@ -33,6 +38,10 @@
 		{"id":"6d0a4c8b384bc0fa","fromNode":"67f4d1bd8b887fb7","fromSide":"right","toNode":"7dfb660c5b8ca965","toSide":"left"},
 		{"id":"7b883627a57796c2","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"0ed3340fdb1b051a","toSide":"left"},
 		{"id":"210c3dbae25f6519","fromNode":"cd5ff17cda74838c","fromSide":"right","toNode":"e9c1288cbd3e9ee9","toSide":"left"},
-		{"id":"732cfea717760d34","fromNode":"35c32c574d9d1787","fromSide":"right","toNode":"e9c1288cbd3e9ee9","toSide":"left"}
+		{"id":"732cfea717760d34","fromNode":"35c32c574d9d1787","fromSide":"right","toNode":"e9c1288cbd3e9ee9","toSide":"left"},
+		{"id":"259780553184a747","fromNode":"f306d96ca7e355c1","fromSide":"right","toNode":"579d30d0e6af97df","toSide":"left"},
+		{"id":"b2f70b07ec9d9fa8","fromNode":"a607bd9ffed83350","fromSide":"right","toNode":"3df64f8363d94f35","toSide":"left"},
+		{"id":"37f932575cce4b4f","fromNode":"cfa0f2ff5e8dac59","fromSide":"right","toNode":"746adce0552a9ca5","toSide":"left"},
+		{"id":"cd6ac8cc2127447e","fromNode":"47fbe29502f6193b","fromSide":"right","toNode":"746adce0552a9ca5","toSide":"left"}
 	]
 }

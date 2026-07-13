@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cd20035d8bd719af","x":-136,"y":-8,"width":250,"height":60,"type":"text","text":"況 - Huống"},
+		{"id":"9feacb36ca490187","x":-380,"y":80,"width":181,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"1b10161bad647ed8","x":-335,"y":-160,"width":136,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas"}
+	],
+	"edges":[
+		{"id":"48ba2f2388256860","fromNode":"9feacb36ca490187","fromSide":"right","toNode":"cd20035d8bd719af","toSide":"left"},
+		{"id":"ec59c802a84f4f22","fromNode":"1b10161bad647ed8","fromSide":"right","toNode":"cd20035d8bd719af","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0e8bd8f423d20d43","x":-500,"y":-4,"width":250,"height":60,"type":"text","text":"Cổn　「丨」"},
+		{"id":"e09cdbbd26f55a40","x":-120,"y":-140,"width":215,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/引 - Dẫn.canvas"},
+		{"id":"eed2176a08de6858","x":-393,"y":-230,"width":143,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"}
+	],
+	"edges":[
+		{"id":"4ddcccadfb80b79d","fromNode":"0e8bd8f423d20d43","fromSide":"right","toNode":"e09cdbbd26f55a40","toSide":"left"},
+		{"id":"7c7e346427aeb6b8","fromNode":"eed2176a08de6858","fromSide":"right","toNode":"e09cdbbd26f55a40","toSide":"left"}
+	]
+}

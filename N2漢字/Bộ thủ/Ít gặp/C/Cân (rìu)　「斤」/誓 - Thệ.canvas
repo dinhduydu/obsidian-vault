@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f9b6b987f4aa3b94","x":-131,"y":12,"width":250,"height":60,"type":"text","text":"誓 - Thệ"},
+		{"id":"7cb98ea57480b2d9","x":-420,"y":180,"width":146,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"b8b30370e9199621","x":-420,"y":-160,"width":146,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/折 - Chiết.canvas"}
+	],
+	"edges":[
+		{"id":"99e8a914c759595b","fromNode":"b8b30370e9199621","fromSide":"right","toNode":"f9b6b987f4aa3b94","toSide":"left"},
+		{"id":"fba1d737dd9cd0ac","fromNode":"7cb98ea57480b2d9","fromSide":"right","toNode":"f9b6b987f4aa3b94","toSide":"left"}
+	]
+}

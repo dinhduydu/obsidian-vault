@@ -4,12 +4,14 @@
 		{"id":"c31cfca5be50c607","type":"text","text":"祝 - Chúc","x":-539,"y":-179,"width":250,"height":60},
 		{"id":"eebdb677f40ffa67","type":"text","text":"Thực hiện nghi lễ trước thần linh (礻) để cầu điều tốt đẹp → **chúc mừng, chúc phúc**.","x":-128,"y":-228,"width":656,"height":50},
 		{"id":"4e0c6620ca4ee310","type":"text","text":"**Nghĩa:**\n\n- Chúc mừng.\n- Chúc phúc.\n- Cầu mong điều tốt đẹp.","x":643,"y":-272,"width":325,"height":153},
-		{"id":"fc283ff88eeff14c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-883,"y":-346,"width":136,"height":104}
+		{"id":"fc283ff88eeff14c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-883,"y":-346,"width":136,"height":104},
+		{"id":"d8542cd251fcad63","type":"text","text":"祝う\tいわう\tchúc mừng\n祝日\tしゅくじつ\tngày lễ\n祝福\tしゅくふく\tchúc phúc\n祝賀\tしゅくが\tchúc mừng, mừng lễ\n祝辞\tしゅくじ\tlời chúc mừng\n祝い\tいわい\tlễ mừng, quà mừng","x":-128,"y":-40,"width":346,"height":189}
 	],
 	"edges":[
 		{"id":"455be30082350355","fromNode":"f08ec6ea40b410e6","fromSide":"right","toNode":"c31cfca5be50c607","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
 		{"id":"32fee9098a9235b4","fromNode":"c31cfca5be50c607","fromSide":"right","toNode":"eebdb677f40ffa67","toSide":"left"},
 		{"id":"f2e40c694b52a1bb","fromNode":"fc283ff88eeff14c","fromSide":"right","toNode":"c31cfca5be50c607","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
-		{"id":"98b74a8b67845a8f","fromNode":"eebdb677f40ffa67","fromSide":"right","toNode":"4e0c6620ca4ee310","toSide":"left"}
+		{"id":"98b74a8b67845a8f","fromNode":"eebdb677f40ffa67","fromSide":"right","toNode":"4e0c6620ca4ee310","toSide":"left"},
+		{"id":"c538b4ffcfdaafaf","fromNode":"c31cfca5be50c607","fromSide":"right","toNode":"d8542cd251fcad63","toSide":"left"}
 	]
 }

@@ -1,9 +1,18 @@
 {
 	"nodes":[
-		{"id":"82f001c403133215","type":"text","text":"Trảo　「爪」","x":-81,"y":-42,"width":250,"height":60},
-		{"id":"6d1c6136d2b0b652","x":309,"y":-82,"width":250,"height":60,"type":"text","text":"浮"}
+		{"id":"a936529ac72b8524","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/淫 - Dâm.canvas","x":309,"y":-320,"width":158,"height":80},
+		{"id":"e38c331b0c27148b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-320,"y":-339,"width":122,"height":118},
+		{"id":"82f001c403133215","type":"text","text":"Trảo　「爪」","x":-448,"y":-82,"width":250,"height":60},
+		{"id":"9e89148eb7b2f430","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas","x":-60,"y":-600,"width":183,"height":114},
+		{"id":"e271bcd0f43d65cd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-40,"y":80,"width":166,"height":144},
+		{"id":"dbb47f1910422a7a","x":309,"y":-95,"width":168,"height":73,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/浮 - Phù.canvas"}
 	],
 	"edges":[
-		{"id":"48de546e8ac4aa23","fromNode":"82f001c403133215","fromSide":"right","toNode":"6d1c6136d2b0b652","toSide":"left"}
+		{"id":"48de546e8ac4aa23","fromNode":"82f001c403133215","fromSide":"right","toNode":"dbb47f1910422a7a","toSide":"left"},
+		{"id":"1dafe0872eb508ac","fromNode":"82f001c403133215","fromSide":"right","toNode":"a936529ac72b8524","toSide":"left"},
+		{"id":"70d5c0b5e649e632","fromNode":"e38c331b0c27148b","fromSide":"right","toNode":"a936529ac72b8524","toSide":"left"},
+		{"id":"6bc453e62da33537","fromNode":"e38c331b0c27148b","fromSide":"right","toNode":"dbb47f1910422a7a","toSide":"left"},
+		{"id":"33944a96204843f1","fromNode":"9e89148eb7b2f430","fromSide":"right","toNode":"a936529ac72b8524","toSide":"left"},
+		{"id":"ffb290da1fd2bae3","fromNode":"e271bcd0f43d65cd","fromSide":"right","toNode":"dbb47f1910422a7a","toSide":"left"}
 	]
 }

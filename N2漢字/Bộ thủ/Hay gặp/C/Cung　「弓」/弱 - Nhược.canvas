@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2fa4283921d0e964","x":-198,"y":-26,"width":250,"height":60,"type":"text","text":"弱 - Nhược"},
+		{"id":"a0cc0bc701dd822e","x":-560,"y":-180,"width":201,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"},
+		{"id":"d35fcd685f7c31d9","x":-531,"y":80,"width":172,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"}
+	],
+	"edges":[
+		{"id":"ca7bc0214ee3b5ce","fromNode":"a0cc0bc701dd822e","fromSide":"right","toNode":"2fa4283921d0e964","toSide":"left"},
+		{"id":"a3fab674296ddf41","fromNode":"d35fcd685f7c31d9","fromSide":"right","toNode":"2fa4283921d0e964","toSide":"left"}
+	]
+}

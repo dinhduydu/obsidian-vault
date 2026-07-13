@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17053140407caf04","x":-98,"y":-33,"width":250,"height":60,"type":"text","text":"忌 - Kị"},
+		{"id":"2fac6b5983d09924","x":-320,"y":-143,"width":100,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
+		{"id":"c6fff6f164430ac1","x":-349,"y":60,"width":129,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"0548f6f791fc2683","fromNode":"2fac6b5983d09924","fromSide":"right","toNode":"17053140407caf04","toSide":"left"},
+		{"id":"c62d5a9212ff506d","fromNode":"c6fff6f164430ac1","fromSide":"right","toNode":"17053140407caf04","toSide":"left"}
+	]
+}

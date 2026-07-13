@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f9dc0afb7d3d4d8a","x":-124,"y":-49,"width":250,"height":60,"type":"text","text":"祈 - Kỳ"},
+		{"id":"65a97a9eb0d386cf","x":-580,"y":100,"width":194,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"},
+		{"id":"bd3c92fd0e036294","x":-483,"y":-200,"width":114,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"}
+	],
+	"edges":[
+		{"id":"6105694e0d76be23","fromNode":"65a97a9eb0d386cf","fromSide":"right","toNode":"f9dc0afb7d3d4d8a","toSide":"left"},
+		{"id":"03164806ae6e614c","fromNode":"bd3c92fd0e036294","fromSide":"right","toNode":"f9dc0afb7d3d4d8a","toSide":"left"}
+	]
+}

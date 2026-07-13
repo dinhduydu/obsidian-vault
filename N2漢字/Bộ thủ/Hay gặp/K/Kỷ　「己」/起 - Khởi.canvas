@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7dad9d9341889682","type":"text","text":"起 - Khởi","x":-125,"y":-40,"width":250,"height":70},
+		{"id":"bb2a0a52fc60b3a0","x":-460,"y":60,"width":184,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
+		{"id":"91058f571584d713","x":-468,"y":-280,"width":192,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas"}
+	],
+	"edges":[
+		{"id":"b31d3ba86bedd943","fromNode":"bb2a0a52fc60b3a0","fromSide":"right","toNode":"7dad9d9341889682","toSide":"left"},
+		{"id":"8cb8c7fe4a0fbbcb","fromNode":"91058f571584d713","fromSide":"right","toNode":"7dad9d9341889682","toSide":"left"}
+	]
+}

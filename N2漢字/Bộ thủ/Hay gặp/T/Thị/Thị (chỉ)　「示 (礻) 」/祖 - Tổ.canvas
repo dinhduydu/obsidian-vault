@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"49d462338702c2cc","type":"text","text":"祖 - Tổ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"52700bff19d4918a","x":-600,"y":80,"width":164,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"e324c2f89f583ada","fromNode":"52700bff19d4918a","fromSide":"right","toNode":"49d462338702c2cc","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0e0c6a8d090addf1","type":"text","text":"訴 - Tố","x":-203,"y":-15,"width":250,"height":60},
+		{"id":"eab39bf959a1806b","x":-480,"y":120,"width":148,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/斥 - Xích.canvas"},
+		{"id":"e70d9ebd3ce918e4","x":-502,"y":-200,"width":170,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"a9a8161fbc7b4e95","fromNode":"eab39bf959a1806b","fromSide":"right","toNode":"0e0c6a8d090addf1","toSide":"left"},
+		{"id":"27e6aa884448164f","fromNode":"e70d9ebd3ce918e4","fromSide":"right","toNode":"0e0c6a8d090addf1","toSide":"left"}
+	]
+}

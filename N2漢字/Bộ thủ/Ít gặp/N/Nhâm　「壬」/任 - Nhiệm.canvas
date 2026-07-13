@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"613afff1db903ba3","type":"text","text":"任 - Nhiệm","x":-167,"y":-49,"width":250,"height":60},
+		{"id":"ce5cc386ae2ec4af","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas","x":-500,"y":80,"width":174,"height":101},
+		{"id":"43b379df005bfe0e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-473,"y":-180,"width":147,"height":108},
+		{"id":"8c28c88f29ddb833","x":340,"y":-370,"width":274,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Lao động - tiền bạc/賃 - Nhẫm.canvas"},
+		{"id":"3bf7df0c9c4faa88","x":-157,"y":-580,"width":231,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"b1980f433fea37ab","fromNode":"ce5cc386ae2ec4af","fromSide":"right","toNode":"613afff1db903ba3","toSide":"left"},
+		{"id":"bbbc1898c6aa75f2","fromNode":"43b379df005bfe0e","fromSide":"right","toNode":"613afff1db903ba3","toSide":"left"},
+		{"id":"b0b237180249e901","fromNode":"613afff1db903ba3","fromSide":"right","toNode":"8c28c88f29ddb833","toSide":"left"},
+		{"id":"7fa104edfc3778d9","fromNode":"3bf7df0c9c4faa88","fromSide":"right","toNode":"8c28c88f29ddb833","toSide":"left"}
+	]
+}

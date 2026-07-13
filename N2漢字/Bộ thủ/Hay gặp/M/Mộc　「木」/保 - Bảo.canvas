@@ -6,7 +6,7 @@
 		{"id":"ffd8c6cd30c8fb14","type":"text","text":"保護　「ほご」：","x":314,"y":-1,"width":250,"height":60},
 		{"id":"55d91fe744c0ceda","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-425,"y":-380,"width":131,"height":80},
 		{"id":"069cba56a172f086","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":119,"y":-340,"width":119,"height":130},
-		{"id":"f382994ba3e3800f","x":400,"y":-275,"width":121,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/褒 - Bao.canvas"}
+		{"id":"f382994ba3e3800f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/褒 - Bao.canvas","x":400,"y":-275,"width":121,"height":81}
 	],
 	"edges":[
 		{"id":"4669451ae7116f79","fromNode":"39d2fca638f778cc","fromSide":"right","toNode":"3803c4dbec489374","toSide":"left"},

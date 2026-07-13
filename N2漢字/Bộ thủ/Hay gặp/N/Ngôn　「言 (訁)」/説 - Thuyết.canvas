@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"17d583300170f2f8","type":"text","text":"説 - Thuyết","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"b708a6f1d9faa956","x":-378,"y":60,"width":133,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas"},
-		{"id":"b19bbacbce238348","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-378,"y":-123,"width":109,"height":93}
+		{"id":"b19bbacbce238348","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-378,"y":-123,"width":109,"height":93},
+		{"id":"bd2f4fcfb97cd104","x":-440,"y":100,"width":171,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/兑 - Đoái/兑 - Đoái.canvas"}
 	],
 	"edges":[
 		{"id":"962280a998eca78b","fromNode":"b19bbacbce238348","fromSide":"right","toNode":"17d583300170f2f8","toSide":"left"},
-		{"id":"bbdc79fa89712e90","fromNode":"b708a6f1d9faa956","fromSide":"right","toNode":"17d583300170f2f8","toSide":"left"}
+		{"id":"bbdc79fa89712e90","fromNode":"bd2f4fcfb97cd104","fromSide":"right","toNode":"17d583300170f2f8","toSide":"left"}
 	]
 }

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6893ed0da68f4d6b","type":"text","text":"好 - Hảo","x":-940,"y":216,"width":250,"height":60},
+		{"id":"a2360756097f32bc","type":"text","text":"好調　「こうちょう」：","x":-552,"y":104,"width":250,"height":60},
+		{"id":"112c0021f53d22d6","type":"text","text":"- Tình trạng tốt.\n- Diễn biến thuận lợi.\n- Phong độ tốt, hoạt động hiệu quả.","x":-152,"y":29,"width":250,"height":135},
+		{"id":"043b6054537886bf","type":"text","text":"- Sức khỏe\n- Công việc\n- Kinh doanh\n- Máy móc\n- Thành tích thể thao","x":308,"y":-81,"width":279,"height":178},
+		{"id":"6e77cea24cfffeda","type":"text","text":"今年の売り上げは好調だ。\n→ Doanh số năm nay rất khả quan.\nチームは好調を維持している。\n→ Đội bóng đang duy trì phong độ tốt.\nエンジンは好調に動いている。\n→ Động cơ đang hoạt động tốt.\n景気は好調だ。\n→ Tình hình kinh tế đang thuận lợi.","x":887,"y":-275,"width":280,"height":304},
+		{"id":"7ac990cb2a4d0aff","type":"text","text":"- 好き（すき）: thích\n- 好意（こうい）: thiện ý\n- 好物（こうぶつ）: món khoái khẩu","x":-552,"y":-275,"width":370,"height":121},
+		{"id":"d50c02f3b5fbaeb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":-1166,"y":56,"width":147,"height":78},
+		{"id":"1ed8c71f4707ac38","x":-1340,"y":260,"width":265,"height":224,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"}
+	],
+	"edges":[
+		{"id":"edb7198f30871687","fromNode":"6893ed0da68f4d6b","fromSide":"right","toNode":"a2360756097f32bc","toSide":"left"},
+		{"id":"96f3395ee2e69f93","fromNode":"6893ed0da68f4d6b","fromSide":"right","toNode":"7ac990cb2a4d0aff","toSide":"left"},
+		{"id":"4577ad2af209b2ff","fromNode":"d50c02f3b5fbaeb7","fromSide":"right","toNode":"6893ed0da68f4d6b","toSide":"left"},
+		{"id":"e2a5072075f15e49","fromNode":"a2360756097f32bc","fromSide":"right","toNode":"112c0021f53d22d6","toSide":"left"},
+		{"id":"77bdb4ca62ce4932","fromNode":"112c0021f53d22d6","fromSide":"right","toNode":"043b6054537886bf","toSide":"left"},
+		{"id":"7f350e4b70485fe3","fromNode":"043b6054537886bf","fromSide":"right","toNode":"6e77cea24cfffeda","toSide":"left"},
+		{"id":"32e5e1fec04579a8","fromNode":"1ed8c71f4707ac38","fromSide":"right","toNode":"6893ed0da68f4d6b","toSide":"left"}
+	]
+}

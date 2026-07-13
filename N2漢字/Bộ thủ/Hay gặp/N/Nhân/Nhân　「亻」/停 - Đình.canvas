@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0f8bcee8a16ec446","type":"text","text":"停 - Đình","x":-70,"y":-60,"width":250,"height":60},
+		{"id":"c19961b25fd97e01","x":-380,"y":40,"width":173,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/亭 - Đình.canvas"},
+		{"id":"db37cd76c55c6ab4","x":-380,"y":-260,"width":173,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"0db5d64f8fe3f006","fromNode":"c19961b25fd97e01","fromSide":"right","toNode":"0f8bcee8a16ec446","toSide":"left"},
+		{"id":"f7a2a882aa05c162","fromNode":"db37cd76c55c6ab4","fromSide":"right","toNode":"0f8bcee8a16ec446","toSide":"left"}
+	]
+}

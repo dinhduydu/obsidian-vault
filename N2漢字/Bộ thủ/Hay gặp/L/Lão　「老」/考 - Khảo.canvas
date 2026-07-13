@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5b8f674aafb0156b","type":"text","text":"考 - Khảo","x":-126,"y":-5,"width":250,"height":60},
+		{"id":"ef0c88f42a9479d5","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/丂 - Khảo/丂 - Khảo.canvas","x":-480,"y":80,"width":163,"height":119},
+		{"id":"af846214348a4bc0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas","x":-480,"y":-200,"width":163,"height":100}
+	],
+	"edges":[
+		{"id":"b48f99a6e8ada3b0","fromNode":"ef0c88f42a9479d5","fromSide":"right","toNode":"5b8f674aafb0156b","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"d58d80d560d0788a","fromNode":"af846214348a4bc0","fromSide":"right","toNode":"5b8f674aafb0156b","toSide":"left"}
+	]
+}

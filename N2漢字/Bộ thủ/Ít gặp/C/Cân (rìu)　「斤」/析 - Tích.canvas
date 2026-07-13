@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0bd956fc5f4c7f36","x":-89,"y":-37,"width":250,"height":60,"type":"text","text":"析 - Tích"},
+		{"id":"bf3223c19f9a1a82","x":-380,"y":160,"width":127,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"},
+		{"id":"2335fe6497401841","x":-426,"y":-260,"width":173,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"7904e682c6537950","fromNode":"bf3223c19f9a1a82","fromSide":"right","toNode":"0bd956fc5f4c7f36","toSide":"left"},
+		{"id":"8cf69838bafee0f0","fromNode":"2335fe6497401841","fromSide":"right","toNode":"0bd956fc5f4c7f36","toSide":"left"}
+	]
+}

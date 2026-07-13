@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1c1611a3dd87e255","type":"text","text":"祭 - Tế/Sái","x":-200,"y":60,"width":250,"height":60},
+		{"id":"132a82e2ae74e1ad","x":-640,"y":260,"width":211,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」.canvas"}
+	],
+	"edges":[
+		{"id":"0e9d9a1cdf3d7474","fromNode":"132a82e2ae74e1ad","fromSide":"right","toNode":"1c1611a3dd87e255","toSide":"left"}
+	]
+}

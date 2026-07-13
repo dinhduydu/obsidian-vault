@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"aee8ecc455e83b55","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/任 - Nhiệm.canvas","x":280,"y":-145,"width":183,"height":125},
+		{"id":"e2db993b503c6514","type":"text","text":"Nhâm　「壬」","x":-120,"y":60,"width":250,"height":60},
+		{"id":"38286ea2c10431b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-9,"y":-320,"width":139,"height":130},
+		{"id":"aaf4e8742842b9c7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Lao động - tiền bạc/賃 - Nhẫm.canvas","x":600,"y":-415,"width":291,"height":191},
+		{"id":"d23fb43fd2e61503","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":280,"y":-560,"width":160,"height":98},
+		{"id":"246219316933180a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/淫 - Dâm.canvas","x":680,"y":300,"width":400,"height":400},
+		{"id":"c8aae00e488acafb","x":700,"y":46,"width":267,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/妊 - Nhâm.canvas"},
+		{"id":"3a9051e936b24bd4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":220,"y":180,"width":211,"height":193},
+		{"id":"24787aca9bdf9381","x":255,"y":580,"width":141,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"105a10a91cde89e4","x":200,"y":420,"width":211,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"1a66035cd39b376a","fromNode":"e2db993b503c6514","fromSide":"right","toNode":"aee8ecc455e83b55","toSide":"left"},
+		{"id":"970f48f142826f43","fromNode":"38286ea2c10431b9","fromSide":"right","toNode":"aee8ecc455e83b55","toSide":"left"},
+		{"id":"88c595ba29ab5ef2","fromNode":"aee8ecc455e83b55","fromSide":"right","toNode":"aaf4e8742842b9c7","toSide":"left"},
+		{"id":"1c80883ba33b1d6e","fromNode":"d23fb43fd2e61503","fromSide":"right","toNode":"aaf4e8742842b9c7","toSide":"left"},
+		{"id":"66e6719211a6b944","fromNode":"aee8ecc455e83b55","fromSide":"right","toNode":"246219316933180a","toSide":"left"},
+		{"id":"fd367f97db9e0749","fromNode":"3a9051e936b24bd4","fromSide":"right","toNode":"c8aae00e488acafb","toSide":"left"},
+		{"id":"d7850842ab65c914","fromNode":"aee8ecc455e83b55","fromSide":"right","toNode":"c8aae00e488acafb","toSide":"left"},
+		{"id":"efc0b2b026392ff5","fromNode":"24787aca9bdf9381","fromSide":"right","toNode":"246219316933180a","toSide":"left"},
+		{"id":"f805c375e9916a53","fromNode":"105a10a91cde89e4","fromSide":"right","toNode":"246219316933180a","toSide":"left"}
+	]
+}

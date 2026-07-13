@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c5370a8f1c6f609","x":-157,"y":-21,"width":250,"height":60,"type":"text","text":"哲 - Triết"},
+		{"id":"2432ec0d849647f1","x":-500,"y":-220,"width":136,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/折 - Chiết.canvas"},
+		{"id":"0c6f8c9ed5f792a4","x":-541,"y":100,"width":177,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"2648db75db2f0417","fromNode":"2432ec0d849647f1","fromSide":"right","toNode":"6c5370a8f1c6f609","toSide":"left"},
+		{"id":"ae478257608b325d","fromNode":"0c6f8c9ed5f792a4","fromSide":"right","toNode":"6c5370a8f1c6f609","toSide":"left"}
+	]
+}

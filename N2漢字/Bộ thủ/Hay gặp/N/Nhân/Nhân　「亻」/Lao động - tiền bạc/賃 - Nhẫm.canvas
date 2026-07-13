@@ -3,13 +3,17 @@
 		{"id":"02ff20d3f6b9aad8","type":"text","text":"賃 - Nhẫm","x":-328,"y":4,"width":250,"height":60},
 		{"id":"56c393904d29018d","type":"text","text":"家賃（やちん） = tiền thuê nhà","x":79,"y":64,"width":250,"height":60},
 		{"id":"55300a613c948d4a","type":"text","text":"Nghĩa: tiền thuê, cho thuê","x":23,"y":-123,"width":250,"height":60},
-		{"id":"ffeadbd202bb6e4f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-580,"y":-64,"width":147,"height":128},
-		{"id":"ae1a2beefcd61ed6","type":"text","text":"Lao động / tiền bạc ","x":-683,"y":180,"width":250,"height":60}
+		{"id":"1ad9b080743075e5","x":-955,"y":-33,"width":166,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"46f0c698bda3cd35","x":-960,"y":-286,"width":171,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/任 - Nhiệm.canvas"},
+		{"id":"ffeadbd202bb6e4f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-1400,"y":-560,"width":147,"height":128},
+		{"id":"fa32bacd633b5036","x":-1525,"y":-308,"width":272,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas"}
 	],
 	"edges":[
 		{"id":"033942e11444a984","fromNode":"02ff20d3f6b9aad8","fromSide":"right","toNode":"55300a613c948d4a","toSide":"left"},
 		{"id":"a65d3f3f8c98d856","fromNode":"02ff20d3f6b9aad8","fromSide":"right","toNode":"56c393904d29018d","toSide":"left"},
-		{"id":"2d645ede9d3b6587","fromNode":"ffeadbd202bb6e4f","fromSide":"right","toNode":"02ff20d3f6b9aad8","toSide":"left"},
-		{"id":"d9f8b88660cbb7aa","fromNode":"02ff20d3f6b9aad8","fromSide":"left","toNode":"ae1a2beefcd61ed6","toSide":"right"}
+		{"id":"2d645ede9d3b6587","fromNode":"ffeadbd202bb6e4f","fromSide":"right","toNode":"46f0c698bda3cd35","toSide":"left","label":"Lao động / tiền bạc "},
+		{"id":"b2a4d4000bb4b70c","fromNode":"46f0c698bda3cd35","fromSide":"right","toNode":"02ff20d3f6b9aad8","toSide":"left"},
+		{"id":"2dd53f0cceef8100","fromNode":"1ad9b080743075e5","fromSide":"right","toNode":"02ff20d3f6b9aad8","toSide":"left"},
+		{"id":"d54b0cc0be662a8f","fromNode":"fa32bacd633b5036","fromSide":"right","toNode":"46f0c698bda3cd35","toSide":"left"}
 	]
 }

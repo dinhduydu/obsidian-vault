@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"22ca62fde1af2063","type":"text","text":"斥 - Xích","x":-127,"y":-12,"width":250,"height":60},
+		{"id":"11e2284c078b926c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-420,"y":-200,"width":145,"height":119},
+		{"id":"47047b9851d39cf4","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-397,"y":140,"width":122,"height":100},
+		{"id":"8b94f2d065fe8e77","x":300,"y":-219,"width":238,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/訴 - Tố.canvas"},
+		{"id":"fba351d92f92c8e3","x":-40,"y":-400,"width":163,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"591459fb79c6abaf","fromNode":"11e2284c078b926c","fromSide":"right","toNode":"22ca62fde1af2063","toSide":"left"},
+		{"id":"5db39ae4cd84ebce","fromNode":"47047b9851d39cf4","fromSide":"right","toNode":"22ca62fde1af2063","toSide":"left"},
+		{"id":"503e11073bd31c1b","fromNode":"22ca62fde1af2063","fromSide":"right","toNode":"8b94f2d065fe8e77","toSide":"left"},
+		{"id":"2e3173583cc6c46f","fromNode":"fba351d92f92c8e3","fromSide":"right","toNode":"8b94f2d065fe8e77","toSide":"left"}
+	]
+}

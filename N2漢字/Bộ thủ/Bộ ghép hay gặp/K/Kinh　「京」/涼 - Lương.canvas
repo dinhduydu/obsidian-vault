@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"14fdd65d1ac30d5d","type":"text","text":"涼 - Lương","x":-164,"y":6,"width":250,"height":60},
+		{"id":"ca3a6ff297d13dd9","x":-380,"y":66,"width":98,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/Kinh　「京」.canvas"},
+		{"id":"2b606a8efca0bab8","x":-420,"y":-140,"width":138,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"d1df6d7935996a8f","fromNode":"ca3a6ff297d13dd9","fromSide":"right","toNode":"14fdd65d1ac30d5d","toSide":"left"},
+		{"id":"8edf784c6ebac2cd","fromNode":"2b606a8efca0bab8","fromSide":"right","toNode":"14fdd65d1ac30d5d","toSide":"left"}
+	]
+}

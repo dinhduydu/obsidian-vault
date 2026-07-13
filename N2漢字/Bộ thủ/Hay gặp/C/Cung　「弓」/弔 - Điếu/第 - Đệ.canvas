@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"23e7afeeb7504263","x":-225,"y":-41,"width":250,"height":60,"type":"text","text":"第 - Đệ"},
+		{"id":"6dc3b4442b6a8dcc","x":-520,"y":-183,"width":174,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"83ac54799aeaf825","x":-560,"y":60,"width":227,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弟 - Đệ.canvas"}
+	],
+	"edges":[
+		{"id":"c52d4dc1b2124e7c","fromNode":"6dc3b4442b6a8dcc","fromSide":"right","toNode":"23e7afeeb7504263","toSide":"left"},
+		{"id":"312ec9adb95d5f9d","fromNode":"83ac54799aeaf825","fromSide":"right","toNode":"23e7afeeb7504263","toSide":"left"}
+	]
+}

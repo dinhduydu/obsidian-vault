@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"39a3ed8002e64a7a","x":-120,"y":-40,"width":250,"height":60,"type":"text","text":"淫 - Dâm"},
+		{"id":"7e22e07489b726af","x":-460,"y":100,"width":217,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas"},
+		{"id":"c07891c2ec7eafb6","x":-674,"y":-89,"width":160,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"dc6ed67cd4edf680","x":-447,"y":-280,"width":191,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"237bc93b7752565b","fromNode":"7e22e07489b726af","fromSide":"right","toNode":"39a3ed8002e64a7a","toSide":"left"},
+		{"id":"21e9f64fa58458e1","fromNode":"dc6ed67cd4edf680","fromSide":"right","toNode":"39a3ed8002e64a7a","toSide":"left"},
+		{"id":"9da798165b4a83c0","fromNode":"c07891c2ec7eafb6","fromSide":"right","toNode":"39a3ed8002e64a7a","toSide":"left"}
+	]
+}

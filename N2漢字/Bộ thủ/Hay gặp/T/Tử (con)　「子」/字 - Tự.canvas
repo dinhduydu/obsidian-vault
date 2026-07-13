@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"df68adc248a89a6b","type":"text","text":"（じ・あざ）","x":212,"y":-30,"width":250,"height":60},
+		{"id":"6acd542f8ae76fbc","type":"text","text":"字 - Tự","x":-180,"y":-30,"width":250,"height":60},
+		{"id":"975f435913b596c6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-580,"y":80,"width":127,"height":86},
+		{"id":"a5c4f8944ecb3ac2","type":"text","text":"**名字（みょうじ / 名字）** = họ, tên họ (family name, surname)","x":212,"y":123,"width":276,"height":74}
+	],
+	"edges":[
+		{"id":"8e93ebe7d666bcd6","fromNode":"6acd542f8ae76fbc","fromSide":"right","toNode":"df68adc248a89a6b","toSide":"left"},
+		{"id":"aac3a6f8477c5487","fromNode":"975f435913b596c6","fromSide":"right","toNode":"6acd542f8ae76fbc","toSide":"left","label":"mái nhà"},
+		{"id":"7fd5f0c315c6b3c8","fromNode":"6acd542f8ae76fbc","fromSide":"right","toNode":"a5c4f8944ecb3ac2","toSide":"left"}
+	]
+}

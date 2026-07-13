@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"281eeba0b24565b2","x":-121,"y":-43,"width":250,"height":60,"type":"text","text":"亭 - Đình"},
+		{"id":"413b5c61744eb63d","x":-340,"y":17,"width":142,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"},
+		{"id":"23e8a451295e230a","x":-368,"y":-220,"width":170,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cao　「高」/Cao　「高」.canvas"}
+	],
+	"edges":[
+		{"id":"26a32e9ddca897db","fromNode":"413b5c61744eb63d","fromSide":"right","toNode":"281eeba0b24565b2","toSide":"left"},
+		{"id":"db2b2eaa08ed1f2b","fromNode":"23e8a451295e230a","fromSide":"right","toNode":"281eeba0b24565b2","toSide":"left"}
+	]
+}

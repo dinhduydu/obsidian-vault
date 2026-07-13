@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"6a9e7f3479c7ef45","type":"text","text":"教 - Giáo","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"ae1d4be57fdd68f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/孝 - Hiếu.canvas","x":-460,"y":100,"width":181,"height":111},
+		{"id":"c2c8a9a99cfe0b8e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-456,"y":-240,"width":177,"height":179},
+		{"id":"3033299fc6b8ecff","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas","x":-780,"y":-45,"width":163,"height":145},
+		{"id":"37916b174582eea2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-776,"y":240,"width":159,"height":155},
+		{"id":"9b52495fa303d67d","x":380,"y":-299,"width":248,"height":149,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/教 - Giáo.canvas"}
+	],
+	"edges":[
+		{"id":"527d0b5e28e7cc89","fromNode":"ae1d4be57fdd68f0","fromSide":"right","toNode":"6a9e7f3479c7ef45","toSide":"left"},
+		{"id":"c1309358be4ad841","fromNode":"c2c8a9a99cfe0b8e","fromSide":"right","toNode":"6a9e7f3479c7ef45","toSide":"left"},
+		{"id":"fbf1e7528999d66c","fromNode":"3033299fc6b8ecff","fromSide":"right","toNode":"ae1d4be57fdd68f0","toSide":"left"},
+		{"id":"91b85ac8d5757df4","fromNode":"37916b174582eea2","fromSide":"right","toNode":"ae1d4be57fdd68f0","toSide":"left"},
+		{"id":"14b979a4b43f9ff8","fromNode":"6a9e7f3479c7ef45","fromSide":"right","toNode":"9b52495fa303d67d","toSide":"left"}
+	]
+}

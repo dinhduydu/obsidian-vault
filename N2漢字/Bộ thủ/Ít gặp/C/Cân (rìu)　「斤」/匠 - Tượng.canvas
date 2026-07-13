@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eaa5954495c82c27","x":-48,"y":-16,"width":250,"height":60,"type":"text","text":"匠 - Tượng"},
+		{"id":"24e8f0c584f330f4","x":-460,"y":-240,"width":175,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"},
+		{"id":"d8cbea79e5c85849","x":-457,"y":120,"width":172,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「匚」/Phương　「匚」.canvas"}
+	],
+	"edges":[
+		{"id":"30daa1791218bbd8","fromNode":"24e8f0c584f330f4","fromSide":"right","toNode":"eaa5954495c82c27","toSide":"left"},
+		{"id":"b1940e12bb8da09b","fromNode":"d8cbea79e5c85849","fromSide":"right","toNode":"eaa5954495c82c27","toSide":"left"}
+	]
+}

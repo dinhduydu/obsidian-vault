@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"c209ff5d8cf14ca7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/Huynh　「兄」.canvas","x":-80,"y":380,"width":130,"height":114},
+		{"id":"7fb4176a9289dc09","type":"text","text":"Thị (chỉ)　「示 (礻) 」","x":-640,"y":-257,"width":250,"height":60},
+		{"id":"cb69bbc52327f398","type":"text","text":"chỉ thần thánh, **thần linh, tín ngưỡng, nghi lễ, cầu phúc**.","x":-1120,"y":-344,"width":250,"height":60},
+		{"id":"30b66edf3d9addf3","type":"text","text":"祭 - Tế/Sái","x":29,"y":-822,"width":250,"height":60},
+		{"id":"af380bff52fa4e41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-400,"y":-1194,"width":177,"height":121},
+		{"id":"fd0f53de7755d44d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/社 - Xã.canvas","x":29,"y":-1135,"width":148,"height":125},
+		{"id":"5ff7ca445094bbff","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祖 - Tổ.canvas","x":8,"y":-520,"width":190,"height":107},
+		{"id":"9e92b0e8c6377b22","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/祝 - Chúc.canvas","x":193,"y":28,"width":203,"height":112},
+		{"id":"81568c01dd04d041","type":"text","text":"神 - Thần","x":8,"y":-680,"width":250,"height":60},
+		{"id":"1a9104e078688146","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/礼 - Lễ.canvas","x":480,"y":-284,"width":140,"height":113},
+		{"id":"c7f9f344908233d3","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas","x":48,"y":-360,"width":170,"height":100},
+		{"id":"06d6c5535f5e7d69","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/祈 - Kỳ.canvas","x":15,"y":-1723,"width":177,"height":95},
+		{"id":"58345d7d0ee6d656","x":15,"y":-1440,"width":162,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/福 - Phúc.canvas"}
+	],
+	"edges":[
+		{"id":"7e2e5b9c4b2af2d4","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"1a9104e078688146","toSide":"left","label":"bàn thờ"},
+		{"id":"8a2012731dfccdd3","fromNode":"7fb4176a9289dc09","fromSide":"left","toNode":"cb69bbc52327f398","toSide":"right"},
+		{"id":"8cb44d6faa6ab969","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"9e92b0e8c6377b22","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
+		{"id":"0a6c6808ee787bd3","fromNode":"c209ff5d8cf14ca7","fromSide":"right","toNode":"9e92b0e8c6377b22","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
+		{"id":"f452dc5009a43c2b","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"fd0f53de7755d44d","toSide":"left","label":"cúng thần"},
+		{"id":"e908202fb0bf2a94","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"81568c01dd04d041","toSide":"left"},
+		{"id":"ec8d63afbd6f91a9","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"5ff7ca445094bbff","toSide":"left"},
+		{"id":"672328f5f43c9daa","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"30b66edf3d9addf3","toSide":"left"},
+		{"id":"c11963e78e717971","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"58345d7d0ee6d656","toSide":"left"},
+		{"id":"e0c95134fc2addc6","fromNode":"7fb4176a9289dc09","fromSide":"right","toNode":"06d6c5535f5e7d69","toSide":"left"},
+		{"id":"43e0bf285a77cade","fromNode":"af380bff52fa4e41","fromSide":"right","toNode":"fd0f53de7755d44d","toSide":"left","label":"thổ công"},
+		{"id":"a9ce5031ca74640d","fromNode":"c7f9f344908233d3","fromSide":"right","toNode":"1a9104e078688146","toSide":"left","label":"dáng người quỳ"}
+	]
+}

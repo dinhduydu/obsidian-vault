@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2c1a02f7d34de3ca","x":-122,"y":-11,"width":250,"height":60,"type":"text","text":"閲 - Duyệt"},
+		{"id":"301255efcc66f60b","x":-400,"y":100,"width":166,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/兑 - Đoái/兑 - Đoái.canvas"},
+		{"id":"cf5f1408cf7afb88","x":-372,"y":-180,"width":138,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"}
+	],
+	"edges":[
+		{"id":"2e1588e76a2c8ec1","fromNode":"301255efcc66f60b","fromSide":"right","toNode":"2c1a02f7d34de3ca","toSide":"left"},
+		{"id":"60b0974da6ddf7ff","fromNode":"cf5f1408cf7afb88","fromSide":"right","toNode":"2c1a02f7d34de3ca","toSide":"left"}
+	]
+}

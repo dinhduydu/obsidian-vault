@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"id":"d4b7ee7f8c05a741","x":-197,"y":1,"width":250,"height":60,"type":"text","text":"Lão　「老」"},
-		{"id":"495572e9ca1b6860","x":163,"y":-35,"width":250,"height":60,"type":"text","text":"考 - Khảo"}
+		{"id":"65eb297a0d16dd77","x":220,"y":80,"width":220,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/考 - Khảo.canvas"},
+		{"id":"4c4334c653b64b3a","x":660,"y":-37,"width":190,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/拷 - Khảo.canvas"},
+		{"id":"d4b7ee7f8c05a741","type":"text","text":"Lão　「老」","x":-300,"y":125,"width":250,"height":60},
+		{"id":"54a2487e7aa0a377","x":242,"y":-240,"width":198,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"e4a506aa59b6b8af","x":-120,"y":-103,"width":198,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/丂 - Khảo/丂 - Khảo.canvas"}
 	],
 	"edges":[
-		{"id":"1bf2b3cc7a228654","fromNode":"d4b7ee7f8c05a741","fromSide":"right","toNode":"495572e9ca1b6860","toSide":"left"}
+		{"id":"1bf2b3cc7a228654","fromNode":"d4b7ee7f8c05a741","fromSide":"right","toNode":"65eb297a0d16dd77","toSide":"left"},
+		{"id":"3640b6d9204aa86e","fromNode":"65eb297a0d16dd77","fromSide":"right","toNode":"4c4334c653b64b3a","toSide":"left"},
+		{"id":"088f103779dfbda7","fromNode":"54a2487e7aa0a377","fromSide":"right","toNode":"4c4334c653b64b3a","toSide":"left"},
+		{"id":"25b5fc80c266d5f3","fromNode":"e4a506aa59b6b8af","fromSide":"right","toNode":"65eb297a0d16dd77","toSide":"left"}
 	]
 }

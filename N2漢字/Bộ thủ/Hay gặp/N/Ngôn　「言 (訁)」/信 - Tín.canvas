@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c44df4e224b8242f","type":"text","text":"信 - Tín","x":-127,"y":-53,"width":250,"height":60},
+		{"id":"7fd6440426f4b052","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-400,"y":-184,"width":160,"height":131},
+		{"id":"c7fd4a7544a41bf7","x":-442,"y":40,"width":202,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"5c0b99d42fc3e37e","fromNode":"7fd6440426f4b052","fromSide":"right","toNode":"c44df4e224b8242f","toSide":"left"},
+		{"id":"bd937fd3ac0650db","fromNode":"c7fd4a7544a41bf7","fromSide":"right","toNode":"c44df4e224b8242f","toSide":"left"}
+	]
+}

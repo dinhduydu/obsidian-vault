@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"23941c2f03b353a5","x":-222,"y":-8,"width":250,"height":60,"type":"text","text":"Hộ　「户」"}
+		{"id":"23941c2f03b353a5","type":"text","text":"Hộ　「户」","x":-222,"y":-8,"width":250,"height":60},
+		{"id":"3e5a6080c1083bc7","x":240,"y":52,"width":202,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/扇 - Phiến.canvas"},
+		{"id":"952465314526e896","x":-132,"y":180,"width":160,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0d19e4be8ef3cffc","fromNode":"23941c2f03b353a5","fromSide":"right","toNode":"3e5a6080c1083bc7","toSide":"left"},
+		{"id":"c5f6f51f430948ce","fromNode":"952465314526e896","fromSide":"right","toNode":"3e5a6080c1083bc7","toSide":"left"}
+	]
 }

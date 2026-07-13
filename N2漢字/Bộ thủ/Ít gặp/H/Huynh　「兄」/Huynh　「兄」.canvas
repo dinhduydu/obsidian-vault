@@ -1,19 +1,31 @@
 {
 	"nodes":[
-		{"id":"5dcf2a6feac53e0e","type":"text","text":"Huynh　「兄」","x":-145,"y":-48,"width":250,"height":60},
-		{"id":"a3e3cc12df251eab","type":"text","text":"祝 - Chúc","x":284,"y":-513,"width":250,"height":60},
-		{"id":"6f0b3f0aa97f2114","type":"text","text":"Thực hiện nghi lễ trước thần linh (礻) để cầu điều tốt đẹp → **chúc mừng, chúc phúc**.","x":695,"y":-562,"width":656,"height":50},
-		{"id":"bbf0d79587b3551d","type":"text","text":"**Nghĩa:**\n\n- Chúc mừng.\n- Chúc phúc.\n- Cầu mong điều tốt đẹp.","x":1466,"y":-606,"width":325,"height":153},
-		{"id":"37e1b0ab3bb933eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示 (礻) 」.canvas","x":-60,"y":-680,"width":136,"height":104},
+		{"id":"37e1b0ab3bb933eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-60,"y":-680,"width":136,"height":104},
 		{"id":"cb955ee5c5d8716d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/説 - Thuyết.canvas","x":340,"y":40,"width":219,"height":127},
-		{"id":"6f5a5e60a2f630c2","x":100,"y":140,"width":133,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+		{"id":"6f5a5e60a2f630c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":100,"y":140,"width":133,"height":128},
+		{"id":"b9675db1e43d7bcd","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/祝 - Chúc.canvas","x":400,"y":-480,"width":194,"height":138},
+		{"id":"fee3d4264565ed5f","type":"text","text":"Huynh　「兄」","x":1600,"y":-48,"width":250,"height":60},
+		{"id":"2d60adfd9310ef5b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":1695,"y":316,"width":155,"height":130},
+		{"id":"ac9c10964b95d38c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/況 - Huống.canvas","x":2055,"y":-8,"width":205,"height":204},
+		{"id":"4f02222a1cf75f37","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":1767,"y":-520,"width":191,"height":177},
+		{"id":"610525f2d6a61f5a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/呪 - Chú.canvas","x":2055,"y":-377,"width":263,"height":206},
+		{"id":"5dcf2a6feac53e0e","type":"text","text":"Huynh　「兄」","x":-145,"y":-48,"width":250,"height":60},
+		{"id":"477bbbe30ef1a734","type":"text","text":"Huynh　「兄」","x":720,"y":-1080,"width":250,"height":60},
+		{"id":"d40ad40e0c10ec61","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/克 - Khắc.canvas","x":1280,"y":-1244,"width":161,"height":164},
+		{"id":"70a20acaae5174f9","x":722,"y":-1460,"width":248,"height":171,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/古 - Cổ.canvas"}
 	],
 	"edges":[
 		{"id":"a97e2219d4c79f6b","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"cb955ee5c5d8716d","toSide":"left"},
-		{"id":"6ba84c4a24f50c2a","fromNode":"37e1b0ab3bb933eb","fromSide":"right","toNode":"a3e3cc12df251eab","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
-		{"id":"994606a80ef4dab5","fromNode":"a3e3cc12df251eab","fromSide":"right","toNode":"6f0b3f0aa97f2114","toSide":"left"},
-		{"id":"d62557e9c3332537","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"a3e3cc12df251eab","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
-		{"id":"c4c2e78470bb5ef6","fromNode":"6f0b3f0aa97f2114","fromSide":"right","toNode":"bbf0d79587b3551d","toSide":"left"},
-		{"id":"89b0bf1188445ae2","fromNode":"6f5a5e60a2f630c2","fromSide":"right","toNode":"cb955ee5c5d8716d","toSide":"left"}
+		{"id":"6ba84c4a24f50c2a","fromNode":"37e1b0ab3bb933eb","fromSide":"right","toNode":"b9675db1e43d7bcd","toSide":"left","label":"thần linh, nghi lễ, cúng tế."},
+		{"id":"d62557e9c3332537","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"b9675db1e43d7bcd","toSide":"left","label":"anh trai (ở đây chủ yếu gợi âm)."},
+		{"id":"89b0bf1188445ae2","fromNode":"6f5a5e60a2f630c2","fromSide":"right","toNode":"cb955ee5c5d8716d","toSide":"left"},
+		{"id":"7f846e4d28f2cbe8","fromNode":"5dcf2a6feac53e0e","fromSide":"right","toNode":"fee3d4264565ed5f","toSide":"left"},
+		{"id":"38619bd73a5537fb","fromNode":"2d60adfd9310ef5b","fromSide":"right","toNode":"ac9c10964b95d38c","toSide":"left"},
+		{"id":"8bc14decb6c16d7e","fromNode":"4f02222a1cf75f37","fromSide":"right","toNode":"610525f2d6a61f5a","toSide":"left"},
+		{"id":"18f54e83296f3a87","fromNode":"fee3d4264565ed5f","fromSide":"right","toNode":"ac9c10964b95d38c","toSide":"left"},
+		{"id":"30ff011586b7721c","fromNode":"fee3d4264565ed5f","fromSide":"right","toNode":"610525f2d6a61f5a","toSide":"left"},
+		{"id":"ece421388cc32804","fromNode":"fee3d4264565ed5f","fromSide":"top","toNode":"477bbbe30ef1a734","toSide":"bottom"},
+		{"id":"417c9387c5d8bd51","fromNode":"477bbbe30ef1a734","fromSide":"right","toNode":"d40ad40e0c10ec61","toSide":"left"},
+		{"id":"28516a6f813aab87","fromNode":"70a20acaae5174f9","fromSide":"right","toNode":"d40ad40e0c10ec61","toSide":"left"}
 	]
 }

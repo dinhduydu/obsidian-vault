@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"04b1c44c81ecf929","x":-148,"y":-42,"width":250,"height":60,"type":"text","text":"Phiệt　「丿」"},
+		{"id":"4e8cc61dcc4eaa9c","x":280,"y":-62,"width":205,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弟 - Đệ.canvas"},
+		{"id":"4619931c340fc585","x":-66,"y":-260,"width":168,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弔 - Điếu.canvas"},
+		{"id":"ce6d517e3d87da8e","x":-60,"y":-460,"width":157,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bát　「丷」/Bát　「丷」.canvas"}
+	],
+	"edges":[
+		{"id":"75ac563b0bf9b954","fromNode":"04b1c44c81ecf929","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"},
+		{"id":"86a0e5d0ab50e3b2","fromNode":"4619931c340fc585","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"},
+		{"id":"625d0aa91cb272d0","fromNode":"ce6d517e3d87da8e","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"}
+	]
+}

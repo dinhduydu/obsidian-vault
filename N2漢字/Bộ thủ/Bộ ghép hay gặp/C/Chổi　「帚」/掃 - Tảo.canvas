@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"de58c56de8bbd564","x":309,"y":-319,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/庭掃除.md"},
+		{"id":"8ed9319afb4e7384","x":-89,"y":-37,"width":250,"height":60,"type":"text","text":"掃 - Tảo"},
+		{"id":"1a862828d9ffc66c","x":-560,"y":-62,"width":121,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"0956f52bd7f01d8f","x":-360,"y":-79,"width":166,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chổi　「帚」/Chổi　「帚」.canvas"}
+	],
+	"edges":[
+		{"id":"276c99f917310989","fromNode":"1a862828d9ffc66c","fromSide":"right","toNode":"8ed9319afb4e7384","toSide":"left"},
+		{"id":"05f49a734203a3ec","fromNode":"0956f52bd7f01d8f","fromSide":"right","toNode":"8ed9319afb4e7384","toSide":"left"},
+		{"id":"19cd1bb009e7e9dd","fromNode":"8ed9319afb4e7384","fromSide":"right","toNode":"de58c56de8bbd564","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6f24230fdf66e1bf","x":-144,"y":-39,"width":250,"height":60,"type":"text","text":"逝 - Thệ"},
+		{"id":"3248b4e7e5450f76","x":-440,"y":-180,"width":118,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/折 - Chiết.canvas"},
+		{"id":"f77ce10e47980bd2","x":-462,"y":100,"width":140,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"f50125dd0b97a91a","fromNode":"3248b4e7e5450f76","fromSide":"right","toNode":"6f24230fdf66e1bf","toSide":"left"},
+		{"id":"d455ddc04e8a94d0","fromNode":"f77ce10e47980bd2","fromSide":"right","toNode":"6f24230fdf66e1bf","toSide":"left"}
+	]
+}

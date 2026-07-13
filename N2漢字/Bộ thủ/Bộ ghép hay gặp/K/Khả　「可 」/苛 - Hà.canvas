@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8f29dafc81b3be33","type":"text","text":"苛 - Hà","x":-38,"y":-110,"width":250,"height":60},
+		{"id":"b8a2432abdbbbaff","type":"text","text":"苛々　「いらいら」：nóng vội","x":302,"y":-110,"width":250,"height":60},
+		{"id":"0d6a31b8526d4adc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-415,"y":0,"width":117,"height":105},
+		{"id":"6c0eed5af4ca1a58","x":-432,"y":-320,"width":134,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas"}
+	],
+	"edges":[
+		{"id":"9789f1585be617e4","fromNode":"8f29dafc81b3be33","fromSide":"right","toNode":"b8a2432abdbbbaff","toSide":"left"},
+		{"id":"1ab009d8b09fc582","fromNode":"0d6a31b8526d4adc","fromSide":"right","toNode":"8f29dafc81b3be33","toSide":"left","label":"sự phát triển mạnh mẽ của cỏ dại"},
+		{"id":"926e71da3b5ab913","fromNode":"6c0eed5af4ca1a58","fromSide":"right","toNode":"8f29dafc81b3be33","toSide":"left"}
+	]
+}

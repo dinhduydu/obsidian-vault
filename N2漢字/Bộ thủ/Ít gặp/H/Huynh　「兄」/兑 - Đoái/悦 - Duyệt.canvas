@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dafe039aadde9d35","x":-53,"y":-22,"width":250,"height":60,"type":"text","text":"悦 - Duyệt"},
+		{"id":"e69b190d3256b58b","x":-400,"y":-215,"width":189,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"},
+		{"id":"d47867a0e94010ab","x":-423,"y":100,"width":212,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/兑 - Đoái/兑 - Đoái.canvas"}
+	],
+	"edges":[
+		{"id":"a7af6b696186e96c","fromNode":"e69b190d3256b58b","fromSide":"right","toNode":"dafe039aadde9d35","toSide":"left"},
+		{"id":"6ef3ab05bce01615","fromNode":"d47867a0e94010ab","fromSide":"right","toNode":"dafe039aadde9d35","toSide":"left"}
+	]
+}

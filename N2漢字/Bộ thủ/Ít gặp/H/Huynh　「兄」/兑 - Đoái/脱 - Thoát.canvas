@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b6bf271722fc13f1","x":-197,"y":-40,"width":250,"height":60,"type":"text","text":"脱 - Thoát"},
+		{"id":"51dfc0cc763a2122","x":-600,"y":-130,"width":166,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/兑 - Đoái/兑 - Đoái.canvas"},
+		{"id":"e5e4ff602955eb93","x":-578,"y":100,"width":144,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"75e65e517dd23f09","fromNode":"51dfc0cc763a2122","fromSide":"right","toNode":"b6bf271722fc13f1","toSide":"left"},
+		{"id":"fdaa46cbe4545436","fromNode":"e5e4ff602955eb93","fromSide":"right","toNode":"b6bf271722fc13f1","toSide":"left"}
+	]
+}

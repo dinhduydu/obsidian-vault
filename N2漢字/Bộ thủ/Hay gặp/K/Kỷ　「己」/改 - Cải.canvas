@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"870992689b4239f0","x":-129,"y":-47,"width":250,"height":60,"type":"text","text":"改 - Cải"},
+		{"id":"71d62c9f2e59fdb3","x":-400,"y":-240,"width":176,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
+		{"id":"796af26f27559053","x":-357,"y":13,"width":133,"height":78,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"0493d4dfc206f60f","fromNode":"71d62c9f2e59fdb3","fromSide":"right","toNode":"870992689b4239f0","toSide":"left"},
+		{"id":"b419ba5d07a540b8","fromNode":"796af26f27559053","fromSide":"right","toNode":"870992689b4239f0","toSide":"left"}
+	]
+}

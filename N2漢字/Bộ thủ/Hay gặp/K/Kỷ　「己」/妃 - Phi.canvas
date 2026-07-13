@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e2b14eca2ee249fd","x":-152,"y":-36,"width":250,"height":60,"type":"text","text":"妃 - Phi"},
+		{"id":"a5315fbd3d7ac470","x":-400,"y":-158,"width":158,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
+		{"id":"ac98e60a90c3d0f7","x":-367,"y":80,"width":125,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"3d41b7ed61031fc8","fromNode":"a5315fbd3d7ac470","fromSide":"right","toNode":"e2b14eca2ee249fd","toSide":"left"},
+		{"id":"28924c34637ad46d","fromNode":"ac98e60a90c3d0f7","fromSide":"right","toNode":"e2b14eca2ee249fd","toSide":"left"}
+	]
+}

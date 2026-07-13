@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"13d858307847eba1","type":"text","text":"Trùng　「虫」","x":-183,"y":-6,"width":250,"height":60},
-		{"id":"c0eccdbf1d7994d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」.canvas","x":-55,"y":-274,"width":122,"height":88},
+		{"id":"c0eccdbf1d7994d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」/Văn　「文」.canvas","x":-55,"y":-274,"width":122,"height":88},
 		{"id":"730077fafc76726f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蚊 - Văn.canvas","x":240,"y":-129,"width":140,"height":123},
 		{"id":"7c5368ae7c62d5cb","x":240,"y":100,"width":150,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giác　「角」/触 - Xúc.canvas"},
 		{"id":"a9002d123b2409b4","x":4,"y":200,"width":127,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giác　「角」/Giác　「角」.canvas"}
