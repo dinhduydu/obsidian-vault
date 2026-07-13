@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"957c016c663dd7fd","type":"text","text":"Lục　「六」","x":-157,"y":-75,"width":250,"height":60},
+		{"id":"501e66098f69ca3e","x":180,"y":20,"width":182,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/交 - Giao.canvas"},
+		{"id":"761845499553f87d","x":-121,"y":140,"width":214,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/Phụ　「父」.canvas"}
+	],
+	"edges":[
+		{"id":"9efafcd307e5b12c","fromNode":"957c016c663dd7fd","fromSide":"right","toNode":"501e66098f69ca3e","toSide":"left"},
+		{"id":"4cd7b4316de2700c","fromNode":"761845499553f87d","fromSide":"right","toNode":"501e66098f69ca3e","toSide":"left"}
+	]
+}

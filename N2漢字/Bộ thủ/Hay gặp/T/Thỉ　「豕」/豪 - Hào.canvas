@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"e08a0ed929789a48","x":-149,"y":-22,"width":250,"height":60,"type":"text","text":"豪 - Hào"},
-		{"id":"ceb773d0be555423","x":-440,"y":-120,"width":175,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas"}
+		{"id":"e08a0ed929789a48","type":"text","text":"豪 - Hào","x":-149,"y":-22,"width":250,"height":60},
+		{"id":"ceb773d0be555423","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-440,"y":-180,"width":175,"height":98},
+		{"id":"a42fdee7f285ce25","x":-445,"y":40,"width":185,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cao　「高」/Cao　「高」.canvas"}
 	],
 	"edges":[
-		{"id":"9f1e084efed2189d","fromNode":"ceb773d0be555423","fromSide":"right","toNode":"e08a0ed929789a48","toSide":"left"}
+		{"id":"9f1e084efed2189d","fromNode":"ceb773d0be555423","fromSide":"right","toNode":"e08a0ed929789a48","toSide":"left"},
+		{"id":"b9efe930cc6c1bbf","fromNode":"a42fdee7f285ce25","fromSide":"right","toNode":"e08a0ed929789a48","toSide":"left"}
 	]
 }

@@ -5,13 +5,15 @@
 		{"id":"8211cab6b7c8418c","type":"text","text":"trường học","x":700,"y":60,"width":250,"height":60},
 		{"id":"ba45b146126518b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":66,"y":120,"width":96,"height":106},
 		{"id":"b988411f9ea1dc08","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-20,"y":-220,"width":150,"height":111},
-		{"id":"8e9ab8ef15a9825b","x":260,"y":-109,"width":133,"height":71,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/効 - Hiệu.canvas"}
+		{"id":"8e9ab8ef15a9825b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/効 - Hiệu.canvas","x":260,"y":-109,"width":133,"height":71},
+		{"id":"6aa0c82af7786974","x":-440,"y":-53,"width":171,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/交 - Giao.canvas"}
 	],
 	"edges":[
 		{"id":"d6ebb7e59fc433dd","fromNode":"be576c077b13174d","fromSide":"right","toNode":"8e9ab8ef15a9825b","toSide":"left"},
 		{"id":"37631f50ec252768","fromNode":"be576c077b13174d","fromSide":"right","toNode":"61e2c58356cfe051","toSide":"left"},
 		{"id":"f1feca2ac2efe3df","fromNode":"61e2c58356cfe051","fromSide":"right","toNode":"8211cab6b7c8418c","toSide":"left"},
 		{"id":"2212a9ea1f1626e2","fromNode":"ba45b146126518b0","fromSide":"right","toNode":"61e2c58356cfe051","toSide":"left"},
-		{"id":"330303f41093efe8","fromNode":"b988411f9ea1dc08","fromSide":"right","toNode":"8e9ab8ef15a9825b","toSide":"left"}
+		{"id":"330303f41093efe8","fromNode":"b988411f9ea1dc08","fromSide":"right","toNode":"8e9ab8ef15a9825b","toSide":"left"},
+		{"id":"fa070a1f27bb80de","fromNode":"6aa0c82af7786974","fromSide":"right","toNode":"be576c077b13174d","toSide":"left"}
 	]
 }

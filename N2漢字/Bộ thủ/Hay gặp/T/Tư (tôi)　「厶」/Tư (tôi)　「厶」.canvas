@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"bd3cd3dcbb2fafa8","x":-238,"y":-380,"width":216,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"bd3cd3dcbb2fafa8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas","x":-238,"y":-380,"width":216,"height":192},
 		{"id":"e2cb65a4e495e787","type":"text","text":"Tư (tôi)　「厶」","x":-280,"y":24,"width":250,"height":60},
-		{"id":"f784b6df91e3e93c","x":100,"y":-80,"width":250,"height":60,"type":"text","text":"弁 - Biện"},
-		{"id":"41fad910e43e562b","x":540,"y":-80,"width":250,"height":60,"type":"text","text":"弁明　「べんめい」："}
+		{"id":"f784b6df91e3e93c","type":"text","text":"弁 - Biện","x":100,"y":-80,"width":250,"height":60},
+		{"id":"41fad910e43e562b","type":"text","text":"弁明　「べんめい」：","x":540,"y":-80,"width":250,"height":60},
+		{"id":"9b82f8a1509b4356","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas","x":220,"y":220,"width":260,"height":164},
+		{"id":"1f6f3ad7eee2e86e","x":-680,"y":-105,"width":250,"height":50,"type":"text","text":"riêng tư, cá nhân"}
 	],
 	"edges":[
 		{"id":"856eec0ecbf45597","fromNode":"f784b6df91e3e93c","fromSide":"right","toNode":"41fad910e43e562b","toSide":"left"},
 		{"id":"13b13f945ca9fcab","fromNode":"e2cb65a4e495e787","fromSide":"right","toNode":"f784b6df91e3e93c","toSide":"left"},
-		{"id":"10c29cb4cb2b5040","fromNode":"bd3cd3dcbb2fafa8","fromSide":"right","toNode":"f784b6df91e3e93c","toSide":"left"}
+		{"id":"10c29cb4cb2b5040","fromNode":"bd3cd3dcbb2fafa8","fromSide":"right","toNode":"f784b6df91e3e93c","toSide":"left"},
+		{"id":"aefd21ad3bbb0cce","fromNode":"e2cb65a4e495e787","fromSide":"right","toNode":"9b82f8a1509b4356","toSide":"left"},
+		{"id":"d6d15e3322837b23","fromNode":"1f6f3ad7eee2e86e","fromSide":"right","toNode":"e2cb65a4e495e787","toSide":"left"}
 	]
 }

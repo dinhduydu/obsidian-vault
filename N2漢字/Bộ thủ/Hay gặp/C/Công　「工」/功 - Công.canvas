@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d3a137f70e95cea0","x":-121,"y":-68,"width":250,"height":60,"type":"text","text":"功 - Công"},
+		{"id":"153a8a9f25ad561c","x":-440,"y":-210,"width":181,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"},
+		{"id":"597d6741b6b2a4cc","x":-417,"y":40,"width":158,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"907a150b16cc2f2f","fromNode":"153a8a9f25ad561c","fromSide":"right","toNode":"d3a137f70e95cea0","toSide":"left"},
+		{"id":"95d75da106d5acce","fromNode":"597d6741b6b2a4cc","fromSide":"right","toNode":"d3a137f70e95cea0","toSide":"left"}
+	]
+}

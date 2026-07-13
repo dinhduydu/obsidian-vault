@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"55b83f0a5ed2a075","type":"text","text":"喉 - Hầu","x":-169,"y":-14,"width":250,"height":60},
+		{"id":"24bcd8f285f06a06","x":-480,"y":80,"width":140,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+	],
+	"edges":[
+		{"id":"0079412be80ece79","fromNode":"24bcd8f285f06a06","fromSide":"right","toNode":"55b83f0a5ed2a075","toSide":"left"}
+	]
+}

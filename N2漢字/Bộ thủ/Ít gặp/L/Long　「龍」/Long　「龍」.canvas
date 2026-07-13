@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"a2a75c2d1c1502f3","type":"text","text":"Long　「龍」","x":-105,"y":6,"width":250,"height":60},
-		{"id":"e8cd4a0b25c7abdb","x":-500,"y":-66,"width":221,"height":205,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/L/Lập　「立」.canvas"},
-		{"id":"b7bdf3f6a3ed651c","x":-500,"y":200,"width":250,"height":311,"type":"file","file":"N2漢字/Bộ chỉ ý/Hay gặp/N/Nhục　「肉 (⺼) 」.canvas"}
+		{"id":"e8cd4a0b25c7abdb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-500,"y":-66,"width":221,"height":205},
+		{"id":"b7bdf3f6a3ed651c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-500,"y":200,"width":250,"height":311}
 	],
 	"edges":[
 		{"id":"87f6c9730a35c490","fromNode":"e8cd4a0b25c7abdb","fromSide":"right","toNode":"a2a75c2d1c1502f3","toSide":"left"},

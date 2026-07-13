@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4fda132a876004c2","type":"text","text":"Kiều　「喬」","x":-179,"y":-1,"width":250,"height":60},
+		{"id":"70296c868b1788d5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-563,"y":-24,"width":132,"height":106},
+		{"id":"50b8c8464692178b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-592,"y":300,"width":161,"height":106},
+		{"id":"405150b266bff57e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas","x":-599,"y":-440,"width":168,"height":125},
+		{"id":"26fe43db6ca259f9","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/橋 - Kiều.canvas","x":220,"y":-260,"width":184,"height":128},
+		{"id":"cbffbb35ec96583c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-99,"y":-360,"width":170,"height":127},
+		{"id":"475ef78056bf78be","x":220,"y":214,"width":155,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/矯 - Kiểu.canvas"},
+		{"id":"27b69e59a6bc2ff0","x":-3,"y":406,"width":149,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+	],
+	"edges":[
+		{"id":"f04d8e877111bd62","fromNode":"50b8c8464692178b","fromSide":"right","toNode":"4fda132a876004c2","toSide":"left"},
+		{"id":"785130bce635cfbc","fromNode":"405150b266bff57e","fromSide":"right","toNode":"4fda132a876004c2","toSide":"left"},
+		{"id":"1f13d153cd165d6d","fromNode":"70296c868b1788d5","fromSide":"right","toNode":"4fda132a876004c2","toSide":"left"},
+		{"id":"0b2d77174cefb3d2","fromNode":"4fda132a876004c2","fromSide":"right","toNode":"26fe43db6ca259f9","toSide":"left"},
+		{"id":"6201e99f49bf267d","fromNode":"cbffbb35ec96583c","fromSide":"right","toNode":"26fe43db6ca259f9","toSide":"left"},
+		{"id":"f3e8db5e2c98f22d","fromNode":"4fda132a876004c2","fromSide":"right","toNode":"475ef78056bf78be","toSide":"left"},
+		{"id":"ef367a13c9d11ecd","fromNode":"27b69e59a6bc2ff0","fromSide":"right","toNode":"475ef78056bf78be","toSide":"left"}
+	]
+}

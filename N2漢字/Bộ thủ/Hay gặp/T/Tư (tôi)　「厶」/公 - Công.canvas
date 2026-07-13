@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ed41ce175bf5a056","x":-132,"y":-200,"width":250,"height":60,"type":"text","text":"thuộc về mọi người → công cộng, công bằng."},
+		{"id":"f738c5a128f89d49","type":"text","text":"公 - Công","x":240,"y":-140,"width":250,"height":60},
+		{"id":"cbbfb84ce5081628","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas","x":-480,"y":-110,"width":160,"height":116},
+		{"id":"ae7d52548b1eae84","x":-566,"y":-420,"width":246,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"}
+	],
+	"edges":[
+		{"id":"7587e8041a62a6fe","fromNode":"cbbfb84ce5081628","fromSide":"right","toNode":"ed41ce175bf5a056","toSide":"left","label":"cái riêng (厶)"},
+		{"id":"fc338be5efee0921","fromNode":"ed41ce175bf5a056","fromSide":"right","toNode":"f738c5a128f89d49","toSide":"left"},
+		{"id":"9e74588e39d82c9a","fromNode":"ae7d52548b1eae84","fromSide":"right","toNode":"ed41ce175bf5a056","toSide":"left","label":" tách khỏi "}
+	]
+}

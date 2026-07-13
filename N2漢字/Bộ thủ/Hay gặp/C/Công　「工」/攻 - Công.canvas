@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"28c403e5a8a383ee","x":8,"y":-41,"width":250,"height":60,"type":"text","text":"攻 - Công"},
+		{"id":"abb27ae4fec1d17a","x":-400,"y":-220,"width":240,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"},
+		{"id":"745b5142735859f2","x":-321,"y":80,"width":161,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"cfafe3bbc6fe3db2","fromNode":"abb27ae4fec1d17a","fromSide":"right","toNode":"28c403e5a8a383ee","toSide":"left"},
+		{"id":"f9f80c11b414b42e","fromNode":"745b5142735859f2","fromSide":"right","toNode":"28c403e5a8a383ee","toSide":"left"}
+	]
+}

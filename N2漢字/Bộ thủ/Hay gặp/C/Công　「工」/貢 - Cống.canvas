@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"067099a1f07d02bf","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"貢 - Cống"},
+		{"id":"bf8d2a854202f5b7","x":-400,"y":60,"width":148,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"28c5cab6e0d3b3d9","x":-435,"y":-240,"width":183,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+	],
+	"edges":[
+		{"id":"28b504dc402062a0","fromNode":"bf8d2a854202f5b7","fromSide":"right","toNode":"067099a1f07d02bf","toSide":"left"},
+		{"id":"9459d3d108315662","fromNode":"28c5cab6e0d3b3d9","fromSide":"right","toNode":"067099a1f07d02bf","toSide":"left"}
+	]
+}

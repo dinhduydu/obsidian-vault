@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a2e5fd52fb62291","x":-121,"y":-15,"width":250,"height":60,"type":"text","text":"突 - Đột"},
+		{"id":"31b1669075232311","x":-440,"y":60,"width":187,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"82f543216f05855c","x":-420,"y":-220,"width":167,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"}
+	],
+	"edges":[
+		{"id":"3b8ecaef83aed70e","fromNode":"31b1669075232311","fromSide":"right","toNode":"7a2e5fd52fb62291","toSide":"left"},
+		{"id":"d08fbdd3bd19ec3d","fromNode":"82f543216f05855c","fromSide":"right","toNode":"7a2e5fd52fb62291","toSide":"left"}
+	]
+}

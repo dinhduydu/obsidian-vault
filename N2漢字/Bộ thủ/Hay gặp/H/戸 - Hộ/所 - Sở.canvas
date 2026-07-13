@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"48da4429a81e1f18","x":-159,"y":-15,"width":250,"height":60,"type":"text","text":"所 - Sở"},
+		{"id":"53c8d1e66251fb43","x":-480,"y":80,"width":147,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"},
+		{"id":"e2e55bd3ee1d186d","x":-480,"y":-140,"width":146,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"}
+	],
+	"edges":[
+		{"id":"7e72e7cdf6c9b45e","fromNode":"53c8d1e66251fb43","fromSide":"right","toNode":"48da4429a81e1f18","toSide":"left"},
+		{"id":"09f6205317e0fba9","fromNode":"e2e55bd3ee1d186d","fromSide":"right","toNode":"48da4429a81e1f18","toSide":"left"}
+	]
+}

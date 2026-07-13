@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a738126ba96d8a2b","type":"text","text":"炉 - Lô","x":-80,"y":25,"width":250,"height":60},
+		{"id":"67c4f18c15963319","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas","x":-320,"y":120,"width":160,"height":190},
+		{"id":"6394d14c37aa8e3a","x":-333,"y":-160,"width":173,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"bad0c92b3c3dedc4","fromNode":"67c4f18c15963319","fromSide":"right","toNode":"a738126ba96d8a2b","toSide":"left"},
+		{"id":"85ad43ee96e8d058","fromNode":"6394d14c37aa8e3a","fromSide":"right","toNode":"a738126ba96d8a2b","toSide":"left"}
+	]
+}

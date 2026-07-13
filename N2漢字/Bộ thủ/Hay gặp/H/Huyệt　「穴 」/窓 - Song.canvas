@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e89a6e5ded64aae1","x":-128,"y":-12,"width":250,"height":60,"type":"text","text":"窓 - Song"},
+		{"id":"5419e041f3e183c4","x":-480,"y":-165,"width":158,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"},
+		{"id":"65725b5526c1e708","x":-505,"y":48,"width":183,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
+		{"id":"5dc255eca4f35564","x":-442,"y":240,"width":120,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"5bba9d4c1ec2f8f8","fromNode":"5419e041f3e183c4","fromSide":"right","toNode":"e89a6e5ded64aae1","toSide":"left"},
+		{"id":"52dc37c2af8c426a","fromNode":"65725b5526c1e708","fromSide":"right","toNode":"e89a6e5ded64aae1","toSide":"left"},
+		{"id":"993d38756fca0473","fromNode":"5dc255eca4f35564","fromSide":"right","toNode":"e89a6e5ded64aae1","toSide":"left"}
+	]
+}

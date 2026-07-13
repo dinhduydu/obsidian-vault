@@ -8,7 +8,8 @@
 		{"id":"71468b7c8705dbd8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/逐 - Trục.canvas","x":500,"y":520,"width":213,"height":107},
 		{"id":"ae5578631eff3d75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/家 - Gia.canvas","x":480,"y":-157,"width":146,"height":55},
 		{"id":"30c432f9970cfe7d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/象 - Tượng.canvas","x":474,"y":-19,"width":146,"height":113},
-		{"id":"2e48cf2e961aeae0","x":358,"y":-440,"width":122,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/豪 - Hào.canvas"}
+		{"id":"2e48cf2e961aeae0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/豪 - Hào.canvas","x":358,"y":-440,"width":122,"height":76},
+		{"id":"e86ae9b818dc3deb","x":89,"y":-563,"width":123,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cao　「高」/Cao　「高」.canvas"}
 	],
 	"edges":[
 		{"id":"53fdb99dc6d15d5d","fromNode":"46a0c9a2358bf335","fromSide":"left","toNode":"43c9ba9f5ff2e495","toSide":"right"},
@@ -19,6 +20,7 @@
 		{"id":"72ec646158e3f644","fromNode":"42cb05b3da73ed39","fromSide":"right","toNode":"ab33d9e20bdd431b","toSide":"left"},
 		{"id":"3ccd76807d240df5","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"71468b7c8705dbd8","toSide":"left"},
 		{"id":"17612a6304eb9923","fromNode":"42cb05b3da73ed39","fromSide":"right","toNode":"71468b7c8705dbd8","toSide":"left"},
-		{"id":"2a0b701b660aede8","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"30c432f9970cfe7d","toSide":"left"}
+		{"id":"2a0b701b660aede8","fromNode":"46a0c9a2358bf335","fromSide":"right","toNode":"30c432f9970cfe7d","toSide":"left"},
+		{"id":"35c087aa60ec9e7f","fromNode":"e86ae9b818dc3deb","fromSide":"right","toNode":"2e48cf2e961aeae0","toSide":"left"}
 	]
 }

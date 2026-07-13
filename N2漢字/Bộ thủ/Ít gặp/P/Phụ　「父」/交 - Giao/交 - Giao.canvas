@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"51799c5f026be92b","type":"text","text":"交 - Giao","x":-137,"y":-52,"width":250,"height":60},
+		{"id":"991a8e0234141575","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas","x":-460,"y":-240,"width":173,"height":138},
+		{"id":"e93ea810e522135e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/Phụ　「父」.canvas","x":-482,"y":40,"width":195,"height":137},
+		{"id":"0af554a298dc46c1","x":220,"y":-74,"width":208,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas"},
+		{"id":"4c003782a899b896","x":620,"y":-332,"width":239,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/校 - Hiệu.canvas"},
+		{"id":"5e111328fe9e1079","x":611,"y":8,"width":257,"height":271,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/効 - Hiệu.canvas"}
+	],
+	"edges":[
+		{"id":"81a348eadfcb2968","fromNode":"991a8e0234141575","fromSide":"right","toNode":"51799c5f026be92b","toSide":"left"},
+		{"id":"f8d6cd86eb5e9e85","fromNode":"e93ea810e522135e","fromSide":"right","toNode":"51799c5f026be92b","toSide":"left"},
+		{"id":"f7891e9bea6083be","fromNode":"51799c5f026be92b","fromSide":"right","toNode":"0af554a298dc46c1","toSide":"left"},
+		{"id":"11b2ae1b6d687072","fromNode":"0af554a298dc46c1","fromSide":"right","toNode":"4c003782a899b896","toSide":"left"}
+	]
+}

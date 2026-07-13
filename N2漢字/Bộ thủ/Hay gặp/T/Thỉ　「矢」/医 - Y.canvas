@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"951fdd3020021215","type":"text","text":"医 - Y","x":-212,"y":-55,"width":250,"height":60},
+		{"id":"da6049e7e4fe0327","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas","x":-580,"y":80,"width":211,"height":118},
+		{"id":"b3f18d93f4f96749","type":"text","text":"医師　「いし」：","x":240,"y":-55,"width":250,"height":60},
+		{"id":"b0fac25737df6f09","x":-488,"y":-260,"width":119,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「匚」/Phương　「匚」.canvas"}
+	],
+	"edges":[
+		{"id":"1d6f9c9fb553e203","fromNode":"da6049e7e4fe0327","fromSide":"right","toNode":"951fdd3020021215","toSide":"left"},
+		{"id":"41989ae135109744","fromNode":"951fdd3020021215","fromSide":"right","toNode":"b3f18d93f4f96749","toSide":"left"},
+		{"id":"47dd9741ec6bced4","fromNode":"b0fac25737df6f09","fromSide":"right","toNode":"951fdd3020021215","toSide":"left"}
+	]
+}

@@ -2,12 +2,16 @@
 	"nodes":[
 		{"id":"a1b487291b3ddb75","type":"text","text":"Phương　「匚」","x":-106,"y":1,"width":186,"height":60},
 		{"id":"3b74e5cb331405e8","type":"text","text":"|cái hộp|Gợi vật chứa kín.|\n|---|---|","x":-540,"y":-180,"width":250,"height":80},
-		{"id":"53bbab34bf02a366","x":260,"y":-208,"width":209,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/匠 - Tượng.canvas"},
-		{"id":"34d7d20f0cdb0de6","x":-106,"y":-293,"width":153,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"}
+		{"id":"53bbab34bf02a366","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/匠 - Tượng.canvas","x":260,"y":-208,"width":209,"height":137},
+		{"id":"34d7d20f0cdb0de6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-106,"y":-293,"width":153,"height":113},
+		{"id":"3b7ad39d283df1cc","x":260,"y":160,"width":328,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/医 - Y.canvas"},
+		{"id":"a52de05d92dde47b","x":-80,"y":300,"width":200,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas"}
 	],
 	"edges":[
 		{"id":"1d33843368c6cf70","fromNode":"a1b487291b3ddb75","fromSide":"left","toNode":"3b74e5cb331405e8","toSide":"right"},
 		{"id":"9f253b087de788a0","fromNode":"a1b487291b3ddb75","fromSide":"right","toNode":"53bbab34bf02a366","toSide":"left"},
-		{"id":"ae0d3616b6faecaf","fromNode":"34d7d20f0cdb0de6","fromSide":"right","toNode":"53bbab34bf02a366","toSide":"left"}
+		{"id":"ae0d3616b6faecaf","fromNode":"34d7d20f0cdb0de6","fromSide":"right","toNode":"53bbab34bf02a366","toSide":"left"},
+		{"id":"2d52b0e5f6d4190b","fromNode":"a1b487291b3ddb75","fromSide":"right","toNode":"3b7ad39d283df1cc","toSide":"left"},
+		{"id":"5a65a7ee1467a5b1","fromNode":"a52de05d92dde47b","fromSide":"right","toNode":"3b7ad39d283df1cc","toSide":"left"}
 	]
 }

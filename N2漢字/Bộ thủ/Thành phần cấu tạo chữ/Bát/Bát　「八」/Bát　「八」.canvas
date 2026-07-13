@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0bcdb602582f099b","type":"text","text":"Bát　「八」","x":-90,"y":-23,"width":250,"height":60},
+		{"id":"47b1972263fc525d","type":"text","text":"phân chia, tách ra","x":-460,"y":-111,"width":250,"height":60},
+		{"id":"ec11da982cdf3327","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas","x":0,"y":220,"width":191,"height":121},
+		{"id":"a8cc7b28a83418e4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công.canvas","x":320,"y":80,"width":228,"height":119}
+	],
+	"edges":[
+		{"id":"0d7c54df164953bc","fromNode":"0bcdb602582f099b","fromSide":"right","toNode":"a8cc7b28a83418e4","toSide":"left","label":"tách khỏi"},
+		{"id":"822c158e37d41292","fromNode":"ec11da982cdf3327","fromSide":"right","toNode":"a8cc7b28a83418e4","toSide":"left","label":"cái riêng (厶)"},
+		{"id":"896b0fc52c388c06","fromNode":"47b1972263fc525d","fromSide":"right","toNode":"0bcdb602582f099b","toSide":"left"}
+	]
+}

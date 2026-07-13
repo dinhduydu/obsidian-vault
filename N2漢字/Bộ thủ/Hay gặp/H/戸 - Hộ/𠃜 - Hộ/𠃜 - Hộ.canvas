@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2231916f50b8952a","type":"text","text":"𠃜 - Hộ","x":-90,"y":-9,"width":250,"height":60},
+		{"id":"43c4c5a4a5c12408","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas","x":-400,"y":-37,"width":147,"height":117},
+		{"id":"22b7b1dc7120cfd9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas","x":-1,"y":-180,"width":161,"height":75},
+		{"id":"a2c864784b8d04dc","x":280,"y":-105,"width":161,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/𠃜 - Hộ/声 - Thanh.canvas"}
+	],
+	"edges":[
+		{"id":"feffc69a02868836","fromNode":"43c4c5a4a5c12408","fromSide":"right","toNode":"2231916f50b8952a","toSide":"left"},
+		{"id":"d4dcf29c593f4216","fromNode":"22b7b1dc7120cfd9","fromSide":"right","toNode":"a2c864784b8d04dc","toSide":"left"},
+		{"id":"2934083e8c623da1","fromNode":"2231916f50b8952a","fromSide":"right","toNode":"a2c864784b8d04dc","toSide":"left"}
+	]
+}

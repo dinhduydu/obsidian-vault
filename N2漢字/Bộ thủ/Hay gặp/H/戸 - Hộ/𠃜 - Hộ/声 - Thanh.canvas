@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ea6aba21886c0b4f","x":-267,"y":-41,"width":250,"height":60,"type":"text","text":"声 - Thanh"},
+		{"id":"ce519b284bb767a8","x":-580,"y":80,"width":193,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/𠃜 - Hộ/𠃜 - Hộ.canvas"},
+		{"id":"be8247351d7825ee","x":-576,"y":-195,"width":189,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas"}
+	],
+	"edges":[
+		{"id":"8461af3d0b934715","fromNode":"ce519b284bb767a8","fromSide":"right","toNode":"ea6aba21886c0b4f","toSide":"left"},
+		{"id":"3107d43bc47012e8","fromNode":"be8247351d7825ee","fromSide":"right","toNode":"ea6aba21886c0b4f","toSide":"left"}
+	]
+}

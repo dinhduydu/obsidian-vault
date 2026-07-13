@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"329d43ed98f830ca","type":"text","text":"秩 - Trật","x":-108,"y":-41,"width":163,"height":50},
+		{"id":"14ce7f971cf8eaa9","type":"text","text":"秩序　「ちつじょ」：","x":212,"y":-46,"width":250,"height":60},
+		{"id":"e5597852a56fb958","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-449,"y":85,"width":129,"height":101},
+		{"id":"5631ddbd597f8718","x":-403,"y":-400,"width":132,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」/Thất　「失」.canvas"}
+	],
+	"edges":[
+		{"id":"ad34da976a32b3a9","fromNode":"5631ddbd597f8718","fromSide":"right","toNode":"329d43ed98f830ca","toSide":"left","label":"âm đọc"},
+		{"id":"03208bbdb7805a4a","fromNode":"329d43ed98f830ca","fromSide":"right","toNode":"14ce7f971cf8eaa9","toSide":"left","label":"秩 - Trật"},
+		{"id":"9e07246bc4629138","fromNode":"e5597852a56fb958","fromSide":"right","toNode":"329d43ed98f830ca","toSide":"left","label":"cánh đồng lúa thẳng tắp"}
+	]
+}

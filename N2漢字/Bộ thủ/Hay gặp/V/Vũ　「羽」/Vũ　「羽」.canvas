@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"8c62115b229309fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas","x":-110,"y":-220,"width":201,"height":146},
-		{"id":"0a2bcebfd6509796","x":200,"y":-135,"width":232,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弱 - Nhược.canvas"},
-		{"id":"33fd4fd7723b9c27","type":"text","text":"Vũ　「羽」","x":-159,"y":40,"width":250,"height":60}
+		{"id":"0a2bcebfd6509796","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弱 - Nhược.canvas","x":200,"y":-135,"width":232,"height":122},
+		{"id":"33fd4fd7723b9c27","type":"text","text":"Vũ　「羽」","x":-159,"y":40,"width":250,"height":60},
+		{"id":"50e091645d943794","x":240,"y":140,"width":272,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/翁 - Ông.canvas"},
+		{"id":"6f9b4a06b63034d9","x":-138,"y":280,"width":229,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công.canvas"}
 	],
 	"edges":[
 		{"id":"c497be3048deb9b7","fromNode":"33fd4fd7723b9c27","fromSide":"right","toNode":"0a2bcebfd6509796","toSide":"left"},
-		{"id":"56ac4d282ad25359","fromNode":"8c62115b229309fc","fromSide":"right","toNode":"0a2bcebfd6509796","toSide":"left"}
+		{"id":"56ac4d282ad25359","fromNode":"8c62115b229309fc","fromSide":"right","toNode":"0a2bcebfd6509796","toSide":"left"},
+		{"id":"80fd04ae3a7e445b","fromNode":"33fd4fd7723b9c27","fromSide":"right","toNode":"50e091645d943794","toSide":"left"},
+		{"id":"c96939a076647dcb","fromNode":"6f9b4a06b63034d9","fromSide":"right","toNode":"50e091645d943794","toSide":"left"}
 	]
 }

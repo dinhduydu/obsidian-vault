@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"3c3a4ae25b161f1e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":390,"y":-740,"width":233,"height":140},
-		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火」","x":-198,"y":-26,"width":250,"height":60},
 		{"id":"3177bbfd9d0792f6","type":"text","text":"Hoả　「火」","x":-228,"y":-700,"width":250,"height":60},
 		{"id":"56f1ce7149f8dbcf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-205,"y":-1240,"width":265,"height":158},
 		{"id":"e6b364eba66882b4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-120,"y":200,"width":172,"height":148},
@@ -10,7 +9,11 @@
 		{"id":"b25f8f93fdd99c80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/愁 - Sầu.canvas","x":875,"y":-940,"width":120,"height":105},
 		{"id":"be3497f15935879f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/災 - Tai.canvas","x":261,"y":-273,"width":171,"height":109},
 		{"id":"53532e7dedb3fb31","type":"text","text":"淡 - D","x":261,"y":-86,"width":250,"height":60},
-		{"id":"aec0f8a3ee31fcc0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/畑 - Điền.canvas","x":264,"y":120,"width":166,"height":114}
+		{"id":"aec0f8a3ee31fcc0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/畑 - Điền.canvas","x":264,"y":120,"width":166,"height":114},
+		{"id":"53665bd7ccb69299","type":"text","text":"Hoả　「火」","x":-198,"y":-26,"width":250,"height":60},
+		{"id":"9c9441e9074c9308","type":"text","text":"Hoả　「火」","x":1240,"y":-26,"width":250,"height":60},
+		{"id":"2dac619d163a1489","x":1740,"y":-300,"width":276,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/炉 - Lô.canvas"},
+		{"id":"29155eecbde885d5","x":1264,"y":-397,"width":226,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
 	],
 	"edges":[
 		{"id":"5ddc7b2bc725bd10","fromNode":"53665bd7ccb69299","fromSide":"right","toNode":"53532e7dedb3fb31","toSide":"left"},
@@ -21,6 +24,8 @@
 		{"id":"5c4dc8c0bd5480e3","fromNode":"56f1ce7149f8dbcf","fromSide":"right","toNode":"fd52931093e053bf","toSide":"left","label":"lúa"},
 		{"id":"c7462a751c0f8b93","fromNode":"3c3a4ae25b161f1e","fromSide":"right","toNode":"b25f8f93fdd99c80","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"},
 		{"id":"a7620c0c68a7f425","fromNode":"2632dd9d77318c1f","fromSide":"right","toNode":"53532e7dedb3fb31","toSide":"left"},
-		{"id":"755eb6bd49f2778c","fromNode":"fd52931093e053bf","fromSide":"right","toNode":"b25f8f93fdd99c80","toSide":"left","label":"mùa thu"}
+		{"id":"755eb6bd49f2778c","fromNode":"fd52931093e053bf","fromSide":"right","toNode":"b25f8f93fdd99c80","toSide":"left","label":"mùa thu"},
+		{"id":"ffd069fbfe2b05e8","fromNode":"9c9441e9074c9308","fromSide":"right","toNode":"2dac619d163a1489","toSide":"left"},
+		{"id":"e16d778c44823e97","fromNode":"29155eecbde885d5","fromSide":"right","toNode":"2dac619d163a1489","toSide":"left"}
 	]
 }

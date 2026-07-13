@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"14d7719f50856bc7","x":-76,"y":-54,"width":250,"height":60,"type":"text","text":"鉱 - Khoáng"},
+		{"id":"85e59b668326e497","x":-400,"y":60,"width":169,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/広 - Quảng.canvas"},
+		{"id":"94adc6c9d54feb36","x":-392,"y":-220,"width":161,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"0e7ad2ee7ef203a3","fromNode":"85e59b668326e497","fromSide":"right","toNode":"14d7719f50856bc7","toSide":"left"},
+		{"id":"cf31972aa7671e28","fromNode":"94adc6c9d54feb36","fromSide":"right","toNode":"14d7719f50856bc7","toSide":"left"}
+	]
+}

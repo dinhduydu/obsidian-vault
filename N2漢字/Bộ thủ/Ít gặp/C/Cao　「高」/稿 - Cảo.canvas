@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"89360da79476e277","type":"text","text":"稿 - Cảo","x":-221,"y":-50,"width":250,"height":60},
+		{"id":"d69a402c26f27873","x":-480,"y":60,"width":158,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cao　「高」/Cao　「高」.canvas"},
+		{"id":"41bf41758e5db24e","x":-479,"y":-200,"width":157,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"0ba550b70fe8fec9","fromNode":"d69a402c26f27873","fromSide":"right","toNode":"89360da79476e277","toSide":"left"},
+		{"id":"d84e9865964cdd98","fromNode":"41bf41758e5db24e","fromSide":"right","toNode":"89360da79476e277","toSide":"left"}
+	]
+}

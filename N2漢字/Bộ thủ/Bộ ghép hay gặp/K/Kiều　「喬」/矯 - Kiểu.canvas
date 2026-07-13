@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0510efca158e4a2d","type":"text","text":"矯 - Kiểu","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7e754fffcf3feee1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas","x":-400,"y":140,"width":145,"height":127},
+		{"id":"003e7d9959ee787e","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/Kiều　「喬」.canvas","x":-427,"y":-260,"width":200,"height":151},
+		{"id":"3cfc62dec256a826","type":"text","text":"uốn nắn","x":-552,"y":-60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"bf459f0a3572c66f","fromNode":"003e7d9959ee787e","fromSide":"right","toNode":"0510efca158e4a2d","toSide":"left"},
+		{"id":"511a0c34222276c6","fromNode":"7e754fffcf3feee1","fromSide":"right","toNode":"0510efca158e4a2d","toSide":"left","label":"mũi tên phải được nắn thẳng"},
+		{"id":"ba018c95b93d2acf","fromNode":"3cfc62dec256a826","fromSide":"right","toNode":"0510efca158e4a2d","toSide":"left"}
+	]
+}

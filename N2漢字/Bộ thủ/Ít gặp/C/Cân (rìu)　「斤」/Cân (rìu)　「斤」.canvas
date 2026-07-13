@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"74e7034a94ce5911","type":"text","text":"Cân (rìu)　「斤」","x":-138,"y":-21,"width":218,"height":60},
 		{"id":"7fc4de8c14403193","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/祈 - Kỳ.canvas","x":239,"y":60,"width":198,"height":160},
 		{"id":"235ce0aaba46ae7c","type":"text","text":"rìu, đo khối lượng","x":-600,"y":-220,"width":250,"height":60},
 		{"id":"64f7e7defc7551cf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-39,"y":200,"width":151,"height":138},
@@ -17,9 +16,13 @@
 		{"id":"ad50e39f2e1b8cad","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-100,"y":606,"width":212,"height":146},
 		{"id":"dc176332af6f7a73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":830,"y":-367,"width":174,"height":133},
 		{"id":"93a27fdac5a7975c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/近 - Cận.canvas","x":1220,"y":-85,"width":275,"height":184},
-		{"id":"0beaea9007c91c25","x":820,"y":-1701,"width":213,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/斥 - Xích.canvas"},
-		{"id":"d7c37b34b65226fa","x":440,"y":-1880,"width":201,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
-		{"id":"66af63849d6e04b2","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/訴 - Tố.canvas","x":1358,"y":-1460,"width":222,"height":179}
+		{"id":"0beaea9007c91c25","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/斥 - Xích.canvas","x":820,"y":-1701,"width":213,"height":180},
+		{"id":"d7c37b34b65226fa","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":440,"y":-1880,"width":201,"height":152},
+		{"id":"66af63849d6e04b2","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/訴 - Tố.canvas","x":1358,"y":-1460,"width":222,"height":179},
+		{"id":"74e7034a94ce5911","type":"text","text":"Cân (rìu)　「斤」","x":-138,"y":-21,"width":218,"height":60},
+		{"id":"1131e602a30afa0a","type":"text","text":"Cân (rìu)　「斤」","x":1580,"y":463,"width":218,"height":60},
+		{"id":"34eabbe9db2ddb29","x":2040,"y":338,"width":232,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/所 - Sở.canvas"},
+		{"id":"ef345ea1f2573e1b","x":1649,"y":193,"width":149,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
 	],
 	"edges":[
 		{"id":"a240cceba059568d","fromNode":"74e7034a94ce5911","fromSide":"left","toNode":"235ce0aaba46ae7c","toSide":"right"},
@@ -42,6 +45,8 @@
 		{"id":"2281b05c2be56dcf","fromNode":"74e7034a94ce5911","fromSide":"right","toNode":"0beaea9007c91c25","toSide":"left"},
 		{"id":"c83619788509212b","fromNode":"d7c37b34b65226fa","fromSide":"right","toNode":"0beaea9007c91c25","toSide":"left"},
 		{"id":"50be07490db7bdce","fromNode":"50c6b7f6cfeb285f","fromSide":"right","toNode":"66af63849d6e04b2","toSide":"left"},
-		{"id":"fddb0469e32a7517","fromNode":"0beaea9007c91c25","fromSide":"right","toNode":"66af63849d6e04b2","toSide":"left"}
+		{"id":"fddb0469e32a7517","fromNode":"0beaea9007c91c25","fromSide":"right","toNode":"66af63849d6e04b2","toSide":"left"},
+		{"id":"8503d6fbf68662c0","fromNode":"1131e602a30afa0a","fromSide":"right","toNode":"34eabbe9db2ddb29","toSide":"left"},
+		{"id":"00f97f37ba940548","fromNode":"ef345ea1f2573e1b","fromSide":"right","toNode":"34eabbe9db2ddb29","toSide":"left"}
 	]
 }

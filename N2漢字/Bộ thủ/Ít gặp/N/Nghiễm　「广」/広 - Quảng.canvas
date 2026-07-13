@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2210051670c7adb0","type":"text","text":"広 - Quảng","x":-160,"y":-7,"width":250,"height":60},
+		{"id":"63ab273aadc272cf","x":-460,"y":160,"width":188,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
+		{"id":"1c64bb9402920d83","x":-620,"y":-224,"width":279,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"44df0c75dbe8a6c9","fromNode":"63ab273aadc272cf","fromSide":"right","toNode":"2210051670c7adb0","toSide":"left"},
+		{"id":"3f64c65cd124f6ee","fromNode":"1c64bb9402920d83","fromSide":"right","toNode":"2210051670c7adb0","toSide":"left"}
+	]
+}

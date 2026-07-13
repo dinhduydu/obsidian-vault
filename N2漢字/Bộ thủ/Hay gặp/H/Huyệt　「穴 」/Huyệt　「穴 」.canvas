@@ -2,10 +2,16 @@
 	"nodes":[
 		{"id":"44915436409374aa","type":"text","text":"Huyệt　「穴 」","x":-149,"y":-27,"width":250,"height":60},
 		{"id":"990e00ecd6de6ba6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas","x":-57,"y":220,"width":158,"height":91},
-		{"id":"af575f26e6c75373","x":220,"y":60,"width":166,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/究 - Cứu.canvas"}
+		{"id":"af575f26e6c75373","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/究 - Cứu.canvas","x":220,"y":60,"width":166,"height":109},
+		{"id":"136f717e2564e71e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/空 - Không.canvas","x":303,"y":-159,"width":197,"height":162},
+		{"id":"4f39245382a8a9d2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/突 - Đột.canvas","x":303,"y":-440,"width":157,"height":140},
+		{"id":"906ddec8d129f598","x":320,"y":266,"width":269,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas"}
 	],
 	"edges":[
 		{"id":"5407b9b9682bb303","fromNode":"44915436409374aa","fromSide":"right","toNode":"af575f26e6c75373","toSide":"left"},
-		{"id":"ef087f14cc75f89f","fromNode":"990e00ecd6de6ba6","fromSide":"right","toNode":"af575f26e6c75373","toSide":"left"}
+		{"id":"ef087f14cc75f89f","fromNode":"990e00ecd6de6ba6","fromSide":"right","toNode":"af575f26e6c75373","toSide":"left"},
+		{"id":"1daacb25fca505bc","fromNode":"44915436409374aa","fromSide":"right","toNode":"136f717e2564e71e","toSide":"left"},
+		{"id":"bf8c127e32f0dd46","fromNode":"44915436409374aa","fromSide":"right","toNode":"4f39245382a8a9d2","toSide":"left"},
+		{"id":"3cf031c82ca30fe6","fromNode":"44915436409374aa","fromSide":"right","toNode":"906ddec8d129f598","toSide":"left"}
 	]
 }

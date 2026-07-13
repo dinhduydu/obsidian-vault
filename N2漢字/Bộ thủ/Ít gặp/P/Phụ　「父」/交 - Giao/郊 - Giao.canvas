@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3d7c25fe6d610f47","x":-224,"y":-48,"width":250,"height":60,"type":"text","text":"郊 - Giao"},
+		{"id":"d4cda57bbc94fd9e","x":-520,"y":-200,"width":170,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/P/Phụ　「父」/交 - Giao/交 - Giao.canvas"},
+		{"id":"2fc1a02af508baef","x":-520,"y":80,"width":170,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"6222f585e3b0ca06","fromNode":"d4cda57bbc94fd9e","fromSide":"right","toNode":"3d7c25fe6d610f47","toSide":"left"},
+		{"id":"1ee720b594ec668e","fromNode":"2fc1a02af508baef","fromSide":"right","toNode":"3d7c25fe6d610f47","toSide":"left"}
+	]
+}

@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"fc2c0a79745218d4","type":"text","text":"Sĩ　「士」","x":-214,"y":-1,"width":250,"height":60},
 		{"id":"4889f3733a3f0fe2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/仕 - Sĩ.canvas","x":240,"y":-240,"width":267,"height":171},
-		{"id":"b554f109061cf8bb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-173,"y":-520,"width":209,"height":190}
+		{"id":"b554f109061cf8bb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-173,"y":-520,"width":209,"height":190},
+		{"id":"d2a7be45a55505b1","x":-173,"y":220,"width":228,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/𠃜 - Hộ/𠃜 - Hộ.canvas"}
 	],
 	"edges":[
 		{"id":"1e5f9b6735bd92b6","fromNode":"fc2c0a79745218d4","fromSide":"right","toNode":"4889f3733a3f0fe2","toSide":"left"},

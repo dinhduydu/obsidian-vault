@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"89187cafa2ad8b8c","type":"text","text":"空 - Không","x":-206,"y":-93,"width":250,"height":60},
+		{"id":"601e81d3e6441563","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 1/空 - Không.canvas","x":200,"y":-238,"width":223,"height":175},
+		{"id":"d30788706e05c139","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas","x":-580,"y":-220,"width":151,"height":101},
+		{"id":"7f3c1ba9279dbf6f","x":220,"y":60,"width":236,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/控 - Khống.canvas"}
+	],
+	"edges":[
+		{"id":"464310ad673c3c33","fromNode":"89187cafa2ad8b8c","fromSide":"right","toNode":"601e81d3e6441563","toSide":"left"},
+		{"id":"448b4f23a6ca3395","fromNode":"d30788706e05c139","fromSide":"right","toNode":"89187cafa2ad8b8c","toSide":"left"},
+		{"id":"83c7c5129179683f","fromNode":"89187cafa2ad8b8c","fromSide":"right","toNode":"7f3c1ba9279dbf6f","toSide":"left"}
+	]
+}
