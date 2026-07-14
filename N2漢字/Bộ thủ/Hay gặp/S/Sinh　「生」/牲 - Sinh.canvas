@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e07a1e740c10b724","x":-139,"y":-57,"width":250,"height":60,"type":"text","text":"牲 - Sinh"},
+		{"id":"34fd2a790b290996","x":-420,"y":100,"width":140,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"541967debef17909","x":-420,"y":-300,"width":138,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"6b451a29c5a3b3f5","fromNode":"34fd2a790b290996","fromSide":"right","toNode":"e07a1e740c10b724","toSide":"left"},
+		{"id":"b863eb6e8c01519e","fromNode":"541967debef17909","fromSide":"right","toNode":"e07a1e740c10b724","toSide":"left"}
+	]
+}

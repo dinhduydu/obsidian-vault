@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"b0b299da40fac9e4","x":-215,"y":-6,"width":250,"height":60,"type":"text","text":"昨 - Tạc"},
-		{"id":"d18ad6d87dd1eed0","x":-540,"y":140,"width":195,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sạ　「乍」/Sạ　「乍」.canvas"},
-		{"id":"14c278dcf5046526","x":-495,"y":-220,"width":150,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+		{"id":"b0b299da40fac9e4","type":"text","text":"昨 - Tạc","x":-215,"y":-6,"width":250,"height":60},
+		{"id":"bf26373cf1a882f2","x":-720,"y":-17,"width":154,"height":83,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 7/昨 - Tạc.canvas"},
+		{"id":"14c278dcf5046526","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-1120,"y":-228,"width":150,"height":150},
+		{"id":"d18ad6d87dd1eed0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sạ　「乍」/Sạ　「乍」.canvas","x":-1067,"y":112,"width":195,"height":152}
 	],
 	"edges":[
-		{"id":"bf966c63218a0a2a","fromNode":"d18ad6d87dd1eed0","fromSide":"right","toNode":"b0b299da40fac9e4","toSide":"left"},
-		{"id":"8e75bc44b9dba886","fromNode":"14c278dcf5046526","fromSide":"right","toNode":"b0b299da40fac9e4","toSide":"left"}
+		{"id":"bf966c63218a0a2a","fromNode":"d18ad6d87dd1eed0","fromSide":"right","toNode":"bf26373cf1a882f2","toSide":"left"},
+		{"id":"8e75bc44b9dba886","fromNode":"14c278dcf5046526","fromSide":"right","toNode":"bf26373cf1a882f2","toSide":"left"},
+		{"id":"650914d124d22353","fromNode":"bf26373cf1a882f2","fromSide":"right","toNode":"b0b299da40fac9e4","toSide":"left"}
 	]
 }

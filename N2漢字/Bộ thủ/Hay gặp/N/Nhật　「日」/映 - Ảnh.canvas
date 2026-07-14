@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"03cb80aca03f6457","type":"text","text":"映 - Ảnh","x":94,"y":-30,"width":250,"height":60},
+		{"id":"e6e90e3811cc9bea","x":-380,"y":-59,"width":175,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"3a792250f375afbe","fromNode":"e6e90e3811cc9bea","fromSide":"right","toNode":"03cb80aca03f6457","toSide":"left","label":"映 - Ảnh"}
+	]
+}

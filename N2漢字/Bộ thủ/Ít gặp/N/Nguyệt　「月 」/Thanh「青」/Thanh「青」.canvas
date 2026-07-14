@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6c1dc5e34ece8053","type":"text","text":"Thanh「青」","x":-224,"y":-72,"width":250,"height":60},
+		{"id":"02c75fa851294f33","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas","x":-660,"y":-121,"width":169,"height":158},
+		{"id":"5e014395aee13e14","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-131,"y":-620,"width":157,"height":147},
+		{"id":"53c5e09e702b9c17","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/晴 - Tình.canvas","x":200,"y":-340,"width":147,"height":122},
+		{"id":"25f8f33e7501b918","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas","x":400,"y":-195,"width":124,"height":108},
+		{"id":"4bd687dfecd880b6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/情 - Tình.canvas","x":660,"y":-87,"width":160,"height":90},
+		{"id":"03768aa7cba5354d","x":462,"y":280,"width":280,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/精 - Tinh.canvas"},
+		{"id":"9e97f17563e4a992","x":20,"y":400,"width":245,"height":231,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"14552a290763e4f9","fromNode":"02c75fa851294f33","fromSide":"right","toNode":"6c1dc5e34ece8053","toSide":"left"},
+		{"id":"3cf1ae02632bbb4f","fromNode":"5e014395aee13e14","fromSide":"right","toNode":"53c5e09e702b9c17","toSide":"left"},
+		{"id":"aea70d97a0ed6339","fromNode":"6c1dc5e34ece8053","fromSide":"right","toNode":"53c5e09e702b9c17","toSide":"left"},
+		{"id":"9cc3cd199ba0828c","fromNode":"6c1dc5e34ece8053","fromSide":"right","toNode":"4bd687dfecd880b6","toSide":"left"},
+		{"id":"bd06ad8a75fbbc33","fromNode":"25f8f33e7501b918","fromSide":"right","toNode":"4bd687dfecd880b6","toSide":"left"},
+		{"id":"5ead64f18e4eee2a","fromNode":"6c1dc5e34ece8053","fromSide":"right","toNode":"03768aa7cba5354d","toSide":"left"},
+		{"id":"3e397d2566b5e37d","fromNode":"9e97f17563e4a992","fromSide":"right","toNode":"03768aa7cba5354d","toSide":"left"}
+	]
+}

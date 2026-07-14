@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9e5cf40c48f7015f","x":-141,"y":-31,"width":250,"height":60,"type":"text","text":"情 - Tình"},
+		{"id":"e08a750f603196dd","x":-460,"y":-220,"width":145,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"},
+		{"id":"cf914c643f04a398","x":-480,"y":100,"width":149,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"5b55c70c6cc9d7c8","fromNode":"e08a750f603196dd","fromSide":"right","toNode":"9e5cf40c48f7015f","toSide":"left"},
+		{"id":"9442ff55ad76f3b9","fromNode":"cf914c643f04a398","fromSide":"right","toNode":"9e5cf40c48f7015f","toSide":"left"}
+	]
+}

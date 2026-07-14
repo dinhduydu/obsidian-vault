@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"e3ed6d9c947cebbd","x":-178,"y":-59,"width":250,"height":60,"type":"text","text":"Nguyệt　「月 」"}
+		{"id":"e3ed6d9c947cebbd","type":"text","text":"Nguyệt　「月 」","x":-178,"y":-59,"width":218,"height":60},
+		{"id":"6b525e2834d23572","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":280,"y":60,"width":169,"height":156}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e770c67ebc287653","fromNode":"e3ed6d9c947cebbd","fromSide":"right","toNode":"6b525e2834d23572","toSide":"left"}
+	]
 }

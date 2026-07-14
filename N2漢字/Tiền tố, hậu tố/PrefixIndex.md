@@ -28,7 +28,7 @@ Tiền tố
  猛　猛烈 Mãnh liệt
 ### Thời gian
  │   ├─ 新 (Tân): Mới (Vd: 新商品 - sản phẩm mới, 新生活 - cuộc sống mới)
- │   │   [[新 - Tân.canvas]]
+ │   │   [[N2漢字/Tiền tố, hậu tố/接頭辞/Page 8/新 - Tân.canvas]]
  │   ├─ 旧 (Cựu): Cũ, cựu (Vd: 旧正月 - Tết âm lịch, 旧制度 - chế độ cũ)
  │   ├─ 元 (Nguyên): Trước đây, cựu (Vd: 元首相 - cựu thủ tướng)
  │   ├─ 現 (Hiện): Hiện tại (Vd: 現時点 - thời điểm hiện tại, 現住所 - chỗ ở hiện tại)

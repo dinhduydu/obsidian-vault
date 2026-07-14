@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a4975865e5ebd627","type":"text","text":"星 - Tinh","x":-148,"y":-70,"width":250,"height":60},
+		{"id":"687dabd9d4140335","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas","x":-440,"y":120,"width":131,"height":106},
+		{"id":"987bae4f041544d9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-490,"y":-240,"width":181,"height":150}
+	],
+	"edges":[
+		{"id":"840dbb7b50b48d9a","fromNode":"687dabd9d4140335","fromSide":"right","toNode":"a4975865e5ebd627","toSide":"left"},
+		{"id":"38ad0b4f053cd02b","fromNode":"987bae4f041544d9","fromSide":"right","toNode":"a4975865e5ebd627","toSide":"left"}
+	]
+}

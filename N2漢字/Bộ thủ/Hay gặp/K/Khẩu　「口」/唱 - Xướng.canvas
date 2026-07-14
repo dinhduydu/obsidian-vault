@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"53c7fe3d1167a6b0","x":-172,"y":-37,"width":250,"height":60,"type":"text","text":"唱 - Xướng"},
+		{"id":"193f290a2567f7ad","x":-480,"y":-75,"width":170,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"6362cf06b71aba84","fromNode":"193f290a2567f7ad","fromSide":"right","toNode":"53c7fe3d1167a6b0","toSide":"left"}
+	]
+}

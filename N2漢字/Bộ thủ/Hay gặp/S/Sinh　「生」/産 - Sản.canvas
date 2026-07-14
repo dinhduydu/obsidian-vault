@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0791ed5433cdd5d2","x":-162,"y":-18,"width":250,"height":60,"type":"text","text":"産 - Sản"},
+		{"id":"4cc16515100d3ac4","x":-400,"y":-220,"width":111,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"d5bf8b7e8b86168a","x":-400,"y":160,"width":106,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"0423d9c41042ebe7","x":-620,"y":-68,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"03c7ff07ca917e15","fromNode":"d5bf8b7e8b86168a","fromSide":"right","toNode":"0791ed5433cdd5d2","toSide":"left"},
+		{"id":"88f14cf035b36dc4","fromNode":"4cc16515100d3ac4","fromSide":"right","toNode":"0791ed5433cdd5d2","toSide":"left"},
+		{"id":"15c4d09da8f46d1b","fromNode":"0423d9c41042ebe7","fromSide":"right","toNode":"0791ed5433cdd5d2","toSide":"left"}
+	]
+}

@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"b3aa2b1627fc0994","type":"text","text":"Tân　「辛」","x":-209,"y":-29,"width":250,"height":60}
+		{"id":"b3aa2b1627fc0994","type":"text","text":"Tân　「辛」","x":-209,"y":-29,"width":250,"height":60},
+		{"id":"947e50b86793a9de","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-520,"y":-140,"width":151,"height":120}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e7458b8529f3e811","fromNode":"947e50b86793a9de","fromSide":"right","toNode":"b3aa2b1627fc0994","toSide":"left"}
+	]
 }

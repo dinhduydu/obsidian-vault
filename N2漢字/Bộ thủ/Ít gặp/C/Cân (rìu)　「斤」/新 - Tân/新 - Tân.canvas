@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"227f511cc38d0ed3","type":"text","text":"新 - Tân","x":-57,"y":-45,"width":250,"height":60},
+		{"id":"7de82bf0e25e8c37","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-380,"y":-240,"width":128,"height":123},
+		{"id":"ddf1cd0a237b1c95","x":-580,"y":-80,"width":120,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"3086200e98225eae","x":-408,"y":80,"width":156,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"9a5c8f51203e0e89","fromNode":"7de82bf0e25e8c37","fromSide":"right","toNode":"227f511cc38d0ed3","toSide":"left"},
+		{"id":"0d2132b29d0148b1","fromNode":"ddf1cd0a237b1c95","fromSide":"right","toNode":"227f511cc38d0ed3","toSide":"left"},
+		{"id":"3a1f298328110873","fromNode":"3086200e98225eae","fromSide":"right","toNode":"227f511cc38d0ed3","toSide":"left"}
+	]
+}

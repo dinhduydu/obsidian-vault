@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0c2facce8a0e3ed4","x":-185,"y":-25,"width":250,"height":60,"type":"text","text":"晴 - Tình"},
+		{"id":"d2fae702c80edeb4","x":-440,"y":100,"width":134,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"},
+		{"id":"101eaeb258db4b1a","x":-449,"y":-200,"width":143,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"32db62dee8156475","fromNode":"d2fae702c80edeb4","fromSide":"right","toNode":"0c2facce8a0e3ed4","toSide":"left"},
+		{"id":"d14c6a6a0d0565c2","fromNode":"101eaeb258db4b1a","fromSide":"right","toNode":"0c2facce8a0e3ed4","toSide":"left"}
+	]
+}

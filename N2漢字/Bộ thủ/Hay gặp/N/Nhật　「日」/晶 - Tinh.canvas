@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ac8137a24e945a1d","x":-139,"y":-71,"width":250,"height":60,"type":"text","text":"晶 - Tinh"},
+		{"id":"164cfa767adfe66e","x":-460,"y":-120,"width":161,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"3b510238f317b5ed","fromNode":"164cfa767adfe66e","fromSide":"right","toNode":"ac8137a24e945a1d","toSide":"left"}
+	]
+}

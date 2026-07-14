@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"60d4841267b6da91","type":"text","text":"曜 - Diệu","x":-145,"y":-25,"width":250,"height":60},
+		{"id":"839896f9a748cde0","x":-580,"y":-64,"width":181,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"2481b9b587585923","fromNode":"839896f9a748cde0","fromSide":"right","toNode":"60d4841267b6da91","toSide":"left"}
+	]
+}

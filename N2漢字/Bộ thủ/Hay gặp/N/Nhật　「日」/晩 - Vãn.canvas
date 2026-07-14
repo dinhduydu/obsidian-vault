@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d16ca6eaf0889e15","x":-141,"y":-29,"width":250,"height":60,"type":"text","text":"晩 - Vãn"},
+		{"id":"4fbbe3f1a0728a16","x":-500,"y":-148,"width":165,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"2273f087f96487d2","fromNode":"4fbbe3f1a0728a16","fromSide":"right","toNode":"d16ca6eaf0889e15","toSide":"left"}
+	]
+}

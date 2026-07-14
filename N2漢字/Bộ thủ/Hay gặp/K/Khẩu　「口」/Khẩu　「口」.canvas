@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"68a738dca89dd93d","type":"text","text":"Khẩu　「口」","x":-198,"y":-6,"width":250,"height":60},
 		{"id":"21f40ef35e21fa92","type":"text","text":"### 呑\n\n- Bộ thủ: **口（くち）**\n- Nghĩa gốc: nuốt","x":269,"y":255,"width":250,"height":125},
 		{"id":"b7eec87a5e2f5ed9","type":"text","text":"- **呑気**\n- hoặc hiragana: のんき","x":705,"y":249,"width":250,"height":91},
 		{"id":"5e9496d0862d0374","type":"text","text":"Tùy ngữ cảnh có thể:\n\n- tích cực: thoải mái, không stress\n- tiêu cực: quá vô tư, thiếu cảnh giác","x":1081,"y":202,"width":339,"height":158},
@@ -14,7 +13,10 @@
 		{"id":"2c83dde34aab2cb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tập　「亼」/Tập　「亼」.canvas","x":20,"y":-560,"width":150,"height":147},
 		{"id":"a4fe25d41f50b333","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas","x":52,"y":-806,"width":137,"height":146},
 		{"id":"35ffbe2e746afeda","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-19,"y":-316,"width":114,"height":115},
-		{"id":"506b7a4586a0cb34","x":347,"y":0,"width":148,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/喉 - Hầu.canvas"}
+		{"id":"506b7a4586a0cb34","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/喉 - Hầu.canvas","x":347,"y":0,"width":148,"height":131},
+		{"id":"68a738dca89dd93d","type":"text","text":"Khẩu　「口」","x":-198,"y":-6,"width":250,"height":60},
+		{"id":"c84ecdb0c0810c0d","type":"text","text":"Khẩu　「口」","x":2400,"y":-390,"width":250,"height":60},
+		{"id":"69ae1997ae7e2a98","x":2880,"y":-660,"width":163,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/唱 - Xướng.canvas"}
 	],
 	"edges":[
 		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},
@@ -30,6 +32,7 @@
 		{"id":"b4980b82b4f37dd0","fromNode":"2c83dde34aab2cb7","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},
 		{"id":"ce5def701bce9d42","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"42d5859435beefe8","toSide":"left"},
 		{"id":"5c28404da6521592","fromNode":"a4fe25d41f50b333","fromSide":"right","toNode":"42d5859435beefe8","toSide":"left"},
-		{"id":"8e4ffb483469cafb","fromNode":"35ffbe2e746afeda","fromSide":"right","toNode":"bad225027e790395","toSide":"left"}
+		{"id":"8e4ffb483469cafb","fromNode":"35ffbe2e746afeda","fromSide":"right","toNode":"bad225027e790395","toSide":"left"},
+		{"id":"b84b552f29ad4c6e","fromNode":"c84ecdb0c0810c0d","fromSide":"right","toNode":"69ae1997ae7e2a98","toSide":"left"}
 	]
 }

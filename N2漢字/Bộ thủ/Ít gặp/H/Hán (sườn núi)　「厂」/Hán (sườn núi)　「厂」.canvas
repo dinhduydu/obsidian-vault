@@ -7,7 +7,10 @@
 		{"id":"5928c4df2d1c4cd4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn.canvas","x":-97,"y":-280,"width":183,"height":116},
 		{"id":"c97e4b1dfb4fe51f","type":"text","text":"Hán (sườn núi)　「厂」","x":-1060,"y":-21,"width":250,"height":60},
 		{"id":"3c9266a24f59f291","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-740,"y":-300,"width":103,"height":95},
-		{"id":"92b949e839d78fa9","x":-520,"y":-245,"width":260,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灰 - Hôi.canvas"}
+		{"id":"92b949e839d78fa9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/灰 - Hôi.canvas","x":-520,"y":-245,"width":260,"height":162},
+		{"id":"09938123f86f9471","x":-504,"y":500,"width":244,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/産 - Sản.canvas"},
+		{"id":"4d8bc90a2128ce99","x":-860,"y":515,"width":170,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"63a3816a95579df9","x":-740,"y":700,"width":137,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"}
 	],
 	"edges":[
 		{"id":"6b7cec61dd887cd2","fromNode":"11bfadf962cc7aae","fromSide":"right","toNode":"0482f7abbdc6dac4","toSide":"left"},
@@ -16,6 +19,9 @@
 		{"id":"1f85d5f310a526b5","fromNode":"7d68cfc6ee47f1e3","fromSide":"right","toNode":"11bfadf962cc7aae","toSide":"left"},
 		{"id":"7561aa98f0521664","fromNode":"5928c4df2d1c4cd4","fromSide":"right","toNode":"11bfadf962cc7aae","toSide":"left"},
 		{"id":"729d2a73e4047bf6","fromNode":"3c9266a24f59f291","fromSide":"right","toNode":"92b949e839d78fa9","toSide":"left"},
-		{"id":"302be8948f1f6d20","fromNode":"c97e4b1dfb4fe51f","fromSide":"right","toNode":"92b949e839d78fa9","toSide":"left"}
+		{"id":"302be8948f1f6d20","fromNode":"c97e4b1dfb4fe51f","fromSide":"right","toNode":"92b949e839d78fa9","toSide":"left"},
+		{"id":"0a710796a890f935","fromNode":"c97e4b1dfb4fe51f","fromSide":"right","toNode":"09938123f86f9471","toSide":"left"},
+		{"id":"c2ef4743c66297ed","fromNode":"4d8bc90a2128ce99","fromSide":"right","toNode":"09938123f86f9471","toSide":"left"},
+		{"id":"774205875a4a2ece","fromNode":"63a3816a95579df9","fromSide":"right","toNode":"09938123f86f9471","toSide":"left"}
 	]
 }
