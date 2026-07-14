@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b0c1dca594534084","type":"text","text":"導 - Đạo","x":-180,"y":-49,"width":250,"height":60},
+		{"id":"8f7283d8e720207c","x":-580,"y":-218,"width":213,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「首」/道 - Đạo.canvas"},
+		{"id":"3f60baeb8f17e43f","x":-580,"y":120,"width":208,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"06e7122e9cae5d95","fromNode":"8f7283d8e720207c","fromSide":"right","toNode":"b0c1dca594534084","toSide":"left"},
+		{"id":"53b11db74998fc6e","fromNode":"3f60baeb8f17e43f","fromSide":"right","toNode":"b0c1dca594534084","toSide":"left"}
+	]
+}

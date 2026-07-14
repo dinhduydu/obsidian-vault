@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb72af8e9d423350","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"治 - Trị"},
+		{"id":"9309fde8632ac5c1","x":-500,"y":-200,"width":118,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"c0c59dda5d5722e9","x":-567,"y":80,"width":185,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/Đài　「台」.canvas"}
+	],
+	"edges":[
+		{"id":"49bec6d83d40132b","fromNode":"9309fde8632ac5c1","fromSide":"right","toNode":"eb72af8e9d423350","toSide":"left"},
+		{"id":"fbf5bc0a9fed8cdb","fromNode":"c0c59dda5d5722e9","fromSide":"right","toNode":"eb72af8e9d423350","toSide":"left"}
+	]
+}

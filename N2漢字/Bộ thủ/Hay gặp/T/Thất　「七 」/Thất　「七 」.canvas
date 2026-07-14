@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"d1b69e9c0461cc86","x":-216,"y":-21,"width":250,"height":60,"type":"text","text":"Thất　「七 」"}
+		{"id":"d1b69e9c0461cc86","type":"text","text":"Thất　「七 」","x":-216,"y":-21,"width":250,"height":60},
+		{"id":"1ac005ecd4e0b30b","x":180,"y":80,"width":204,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/切 - Thiết/切 - Thiết.canvas"},
+		{"id":"6791f48ddb3d4d1e","x":-157,"y":220,"width":191,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fa0d4d64cff05f82","fromNode":"d1b69e9c0461cc86","fromSide":"right","toNode":"1ac005ecd4e0b30b","toSide":"left"},
+		{"id":"733ce0bdc1d66548","fromNode":"6791f48ddb3d4d1e","fromSide":"right","toNode":"1ac005ecd4e0b30b","toSide":"left"}
+	]
 }

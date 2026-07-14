@@ -4,7 +4,7 @@
 		{"id":"ff2f1f47665de1de","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-580,"y":-284,"width":244,"height":249},
 		{"id":"64e9cf414028bfd6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas","x":-559,"y":56,"width":223,"height":219},
 		{"id":"6e287ffdd5cbfc23","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/形 - Hình.canvas","x":260,"y":-240,"width":164,"height":104},
-		{"id":"31fddbc8623b999b","x":-23,"y":-400,"width":134,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas"}
+		{"id":"31fddbc8623b999b","x":-23,"y":-400,"width":134,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
 	],
 	"edges":[
 		{"id":"d9770c431fe899cf","fromNode":"45299ed83c5db762","fromSide":"right","toNode":"6e287ffdd5cbfc23","toSide":"left"},

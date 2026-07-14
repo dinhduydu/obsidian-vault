@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"dcf54c846edc4cbe","type":"text","text":"傷　「きず」： vết thương","x":45,"y":-30,"width":250,"height":60},
+		{"id":"fefb9cb5ca50c153","type":"text","text":"傷 - Thương","x":-295,"y":-30,"width":250,"height":60},
+		{"id":"9c28c4f16da44899","x":-700,"y":-200,"width":209,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"abdfbdf8f6328a40","x":-689,"y":60,"width":198,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+	],
+	"edges":[
+		{"id":"2099b274d0230d64","fromNode":"fefb9cb5ca50c153","fromSide":"right","toNode":"dcf54c846edc4cbe","toSide":"left"},
+		{"id":"00e25fc87cf634d7","fromNode":"9c28c4f16da44899","fromSide":"right","toNode":"fefb9cb5ca50c153","toSide":"left"},
+		{"id":"00984b5e52c6cb7d","fromNode":"abdfbdf8f6328a40","fromSide":"right","toNode":"fefb9cb5ca50c153","toSide":"left"}
+	]
+}

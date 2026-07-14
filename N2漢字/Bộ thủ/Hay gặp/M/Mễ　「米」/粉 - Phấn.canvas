@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db024b085cf50a2a","type":"text","text":"粉 - Phấn","x":340,"y":-131,"width":250,"height":60},
+		{"id":"4fe0bd51c3047f68","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":60,"y":-13,"width":171,"height":144},
+		{"id":"96416f751fd1250c","x":-400,"y":-177,"width":197,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"5481eeb4ea161564","fromNode":"96416f751fd1250c","fromSide":"right","toNode":"db024b085cf50a2a","toSide":"left"},
+		{"id":"1e2aaa5b894b6f81","fromNode":"4fe0bd51c3047f68","fromSide":"right","toNode":"db024b085cf50a2a","toSide":"left"}
+	]
+}

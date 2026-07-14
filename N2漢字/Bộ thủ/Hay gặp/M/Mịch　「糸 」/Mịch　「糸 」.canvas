@@ -7,7 +7,6 @@
 		{"id":"5e10d6d067c583fa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/維 - Duy.canvas","x":-28,"y":605,"width":168,"height":145},
 		{"id":"5f5afbc2e8f3f413","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/縁 - Duyên.canvas","x":-100,"y":1207,"width":145,"height":72},
 		{"id":"0956c5f77202d9ec","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/納 - Nạp.canvas","x":-10,"y":300,"width":129,"height":97},
-		{"id":"9b3a7529cc4ebf42","type":"text","text":"Mịch　「糸 」","x":-520,"y":1540,"width":250,"height":60},
 		{"id":"e58e190cdd3419fe","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「彔」.canvas","x":-403,"y":1700,"width":133,"height":110},
 		{"id":"90ab5afed9fb4a7f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」/Văn　「文」.canvas","x":-403,"y":2066,"width":178,"height":186},
 		{"id":"eff5264bcd48b5af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/緑 - Lục.canvas","x":-90,"y":1600,"width":157,"height":134},
@@ -26,7 +25,13 @@
 		{"id":"31f06b71e69d7cbb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/績 - Tích.canvas","x":-10,"y":-73,"width":147,"height":122},
 		{"id":"c1c596d6238352d2","type":"text","text":"**Bộ thủ:** 糸（いと）– bộ Mịch  \nLiên quan đến sợi chỉ, sự nối kết.","x":-815,"y":-340,"width":250,"height":142},
 		{"id":"bd0238be7da0d587","type":"text","text":"Bộ thủ: 糸（いと） — bộ Mịch (sợi tơ)\nNghĩa gốc: nối, giữ liên kết, duy trì","x":-980,"y":-60,"width":329,"height":82},
-		{"id":"f00bfc431532c071","type":"text","text":"廛","x":-480,"y":-1680,"width":80,"height":60}
+		{"id":"f00bfc431532c071","type":"text","text":"廛","x":-480,"y":-1680,"width":80,"height":60},
+		{"id":"9b3a7529cc4ebf42","type":"text","text":"Mịch　「糸 」","x":-520,"y":1540,"width":250,"height":60},
+		{"id":"5c5f93c705ec21e0","type":"text","text":"Mịch　「糸 」","x":-1900,"y":1540,"width":250,"height":60},
+		{"id":"1642765453e0280e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/絶 - Tuyệt.canvas","x":-1420,"y":1800,"width":220,"height":166},
+		{"id":"4f1f719b7bbed55d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas","x":-1740,"y":1920,"width":209,"height":146},
+		{"id":"5213c6aa6b347040","x":-1380,"y":1200,"width":226,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/継　「Kế」.canvas"},
+		{"id":"0c90f1f0f925027c","x":-1700,"y":1080,"width":165,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
 	],
 	"edges":[
 		{"id":"9b9f078448643fc5","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"a368f7755541235e","toSide":"left"},
@@ -54,6 +59,11 @@
 		{"id":"3584781cb6e63e8e","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"29afa05e4c3a7778","toSide":"left"},
 		{"id":"bbc6051fd5f25986","fromNode":"9b3a7529cc4ebf42","fromSide":"right","toNode":"d015d66bb8422773","toSide":"left"},
 		{"id":"c02f1f86505c64a7","fromNode":"90ab5afed9fb4a7f","fromSide":"right","toNode":"d015d66bb8422773","toSide":"left"},
-		{"id":"ae89a56989a22215","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"1cb6012fb971a16e","toSide":"left"}
+		{"id":"ae89a56989a22215","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"1cb6012fb971a16e","toSide":"left"},
+		{"id":"790d905219049d2b","fromNode":"5c5f93c705ec21e0","fromSide":"right","toNode":"9b3a7529cc4ebf42","toSide":"left"},
+		{"id":"cf43adc1e8f9c559","fromNode":"5c5f93c705ec21e0","fromSide":"right","toNode":"1642765453e0280e","toSide":"left"},
+		{"id":"53006aff7bf8860c","fromNode":"4f1f719b7bbed55d","fromSide":"right","toNode":"1642765453e0280e","toSide":"left"},
+		{"id":"48d66ec5d229cde0","fromNode":"5c5f93c705ec21e0","fromSide":"right","toNode":"5213c6aa6b347040","toSide":"left"},
+		{"id":"c1d337980d14b491","fromNode":"0c90f1f0f925027c","fromSide":"right","toNode":"5213c6aa6b347040","toSide":"left"}
 	]
 }

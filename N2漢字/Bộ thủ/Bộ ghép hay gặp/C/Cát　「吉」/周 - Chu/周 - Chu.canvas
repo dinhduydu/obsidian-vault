@@ -8,7 +8,7 @@
 		{"id":"ce8ce95cc85ab6e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/調 - Điều.canvas","x":960,"y":-153,"width":221,"height":220},
 		{"id":"aef7585db6bac1ae","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":620,"y":-320,"width":181,"height":145},
 		{"id":"005bad0397988237","x":280,"y":240,"width":263,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/彫 - Điêu.canvas"},
-		{"id":"20094054b9e650fa","x":-171,"y":520,"width":217,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas"}
+		{"id":"20094054b9e650fa","x":-171,"y":520,"width":217,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
 	],
 	"edges":[
 		{"id":"0cc1d6fb06535a69","fromNode":"33c8f213ff8026d3","fromSide":"right","toNode":"84ce00f465afd1ee","toSide":"left"},

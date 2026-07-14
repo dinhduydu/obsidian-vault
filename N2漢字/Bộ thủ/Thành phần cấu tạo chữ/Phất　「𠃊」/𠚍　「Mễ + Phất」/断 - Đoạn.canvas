@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"faf526ee14d5085d","type":"text","text":"断 - Đoạn","x":-96,"y":-44,"width":250,"height":60},
+		{"id":"ed603011a1286b06","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-500,"y":16,"width":179,"height":125},
+		{"id":"b905552ad3de148c","x":-451,"y":-224,"width":130,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/𠚍　「Mễ + Phất」.canvas"},
+		{"id":"8cd4adeedb7f27c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-820,"y":-380,"width":139,"height":135},
+		{"id":"12154683f8f20750","x":-824,"y":-115,"width":143,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/Phất　「𠃊」.canvas"}
+	],
+	"edges":[
+		{"id":"fc2e8880735c1d5a","fromNode":"8cd4adeedb7f27c2","fromSide":"right","toNode":"b905552ad3de148c","toSide":"left"},
+		{"id":"2719c92d67a71aba","fromNode":"ed603011a1286b06","fromSide":"right","toNode":"faf526ee14d5085d","toSide":"left"},
+		{"id":"979468bb6f5a125d","fromNode":"b905552ad3de148c","fromSide":"right","toNode":"faf526ee14d5085d","toSide":"left"},
+		{"id":"72c285b6f137127a","fromNode":"12154683f8f20750","fromSide":"right","toNode":"b905552ad3de148c","toSide":"left"}
+	]
+}

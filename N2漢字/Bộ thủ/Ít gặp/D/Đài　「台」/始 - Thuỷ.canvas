@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"620f5fdfa4779e5c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"始 - Thuỷ"},
+		{"id":"3c642a1f2d7f455a","x":-520,"y":120,"width":196,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/Đài　「台」.canvas"},
+		{"id":"859cbd665c3f5db6","x":-492,"y":-207,"width":168,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"4a487e173fd6670a","fromNode":"3c642a1f2d7f455a","fromSide":"right","toNode":"620f5fdfa4779e5c","toSide":"left"},
+		{"id":"6f29b0aea37764f8","fromNode":"859cbd665c3f5db6","fromSide":"right","toNode":"620f5fdfa4779e5c","toSide":"left"}
+	]
+}

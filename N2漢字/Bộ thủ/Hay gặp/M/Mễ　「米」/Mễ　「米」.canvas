@@ -1,23 +1,23 @@
 {
 	"nodes":[
-		{"id":"ed4d1b85255fd6df","type":"text","text":"Mễ　「米」","x":-211,"y":-34,"width":250,"height":60},
-		{"id":"444c05a5ae85352d","type":"text","text":"継　「Kế」：","x":331,"y":-183,"width":250,"height":60},
-		{"id":"ad9b47a48e94fb86","type":"text","text":"**Nghĩa:**\n\n- kế thừa\n- tiếp nối\n- tiếp tục","x":811,"y":-303,"width":250,"height":143},
-		{"id":"6ef8679af449faeb","type":"text","text":"- 継続（けいぞく）: tiếp tục\n- 事業を継ぐ（じぎょう を つぐ）: kế thừa sự nghiệp\n- 王位継承（おうい けいしょう）: kế vị ngai vàng","x":1196,"y":-400,"width":484,"height":100},
-		{"id":"3ad42a42a7273186","type":"text","text":"Cấu tạo:\n\n- Bên trái: 糸 (sợi chỉ → nối)\n- Bên phải: 米 + phần biến thể khác tạo âm","x":766,"y":-760,"width":295,"height":163},
-		{"id":"558a6d7b7c2cdb90","type":"text","text":"粉 - Phấn","x":360,"y":122,"width":250,"height":60},
-		{"id":"461ed4daf8662c64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":80,"y":240,"width":171,"height":144},
-		{"id":"3579695dd0295684","type":"text","text":"料 - Khoa","x":360,"y":420,"width":250,"height":60},
-		{"id":"41a0a9c7bad62ce1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":20,"y":600,"width":192,"height":164}
+		{"id":"ed4d1b85255fd6df","type":"text","text":"Mễ　「米」","x":-600,"y":240,"width":250,"height":60},
+		{"id":"47346f2f11d7eb4f","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/継　「Kế」.canvas","x":245,"y":-430,"width":172,"height":127},
+		{"id":"d70a3243c71a3624","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-137,"y":-597,"width":217,"height":158},
+		{"id":"7f97f4796d3b286e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/𠚍　「Mễ + Phất」.canvas","x":-200,"y":-171,"width":189,"height":141},
+		{"id":"41a0a9c7bad62ce1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-281,"y":856,"width":192,"height":164},
+		{"id":"724197e6355d8b19","x":65,"y":640,"width":155,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/料 - Khoa.canvas"},
+		{"id":"c7624d0c118225da","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/粉 - Phấn.canvas","x":440,"y":217,"width":161,"height":106},
+		{"id":"461ed4daf8662c64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":160,"y":323,"width":171,"height":144},
+		{"id":"323c12f42f691f0a","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/Phất　「𠃊」.canvas","x":-475,"y":-270,"width":172,"height":99}
 	],
 	"edges":[
-		{"id":"40b32d92b852173c","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"444c05a5ae85352d","toSide":"left"},
-		{"id":"776a7b9799dd4dd6","fromNode":"444c05a5ae85352d","fromSide":"right","toNode":"ad9b47a48e94fb86","toSide":"left"},
-		{"id":"ca0914758513b353","fromNode":"ad9b47a48e94fb86","fromSide":"right","toNode":"6ef8679af449faeb","toSide":"left"},
-		{"id":"c5e64b03aec81b69","fromNode":"444c05a5ae85352d","fromSide":"right","toNode":"3ad42a42a7273186","toSide":"left"},
-		{"id":"f8202568c0f5c410","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"558a6d7b7c2cdb90","toSide":"left"},
-		{"id":"b26b2333bf7aba86","fromNode":"461ed4daf8662c64","fromSide":"right","toNode":"558a6d7b7c2cdb90","toSide":"left"},
-		{"id":"ac3d001b88fc8f3f","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"3579695dd0295684","toSide":"left"},
-		{"id":"b645c65d73cf7d99","fromNode":"41a0a9c7bad62ce1","fromSide":"right","toNode":"3579695dd0295684","toSide":"left"}
+		{"id":"40b32d92b852173c","fromNode":"7f97f4796d3b286e","fromSide":"right","toNode":"47346f2f11d7eb4f","toSide":"left"},
+		{"id":"f8202568c0f5c410","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"c7624d0c118225da","toSide":"left"},
+		{"id":"ac3d001b88fc8f3f","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"724197e6355d8b19","toSide":"left"},
+		{"id":"b645c65d73cf7d99","fromNode":"41a0a9c7bad62ce1","fromSide":"right","toNode":"724197e6355d8b19","toSide":"left"},
+		{"id":"efb4cbf337d3d36a","fromNode":"ed4d1b85255fd6df","fromSide":"right","toNode":"7f97f4796d3b286e","toSide":"left"},
+		{"id":"da5bd422560294dd","fromNode":"323c12f42f691f0a","fromSide":"right","toNode":"7f97f4796d3b286e","toSide":"left"},
+		{"id":"bda4ca4d4ee7b0c7","fromNode":"d70a3243c71a3624","fromSide":"right","toNode":"47346f2f11d7eb4f","toSide":"left"},
+		{"id":"efc82a91fa4f059a","fromNode":"461ed4daf8662c64","fromSide":"right","toNode":"c7624d0c118225da","toSide":"left"}
 	]
 }

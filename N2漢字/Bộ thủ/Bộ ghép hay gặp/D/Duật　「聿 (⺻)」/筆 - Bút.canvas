@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8985e572043168a5","type":"text","text":"筆　「ふで」","x":188,"y":-73,"width":250,"height":60},
+		{"id":"2436df1b53cf1fd1","type":"text","text":"筆 - Bút","x":-212,"y":-73,"width":160,"height":60},
+		{"id":"7ab91e3aef058c3e","x":-611,"y":-340,"width":213,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"},
+		{"id":"fe1f83fd80d39d80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-522,"y":80,"width":124,"height":66}
+	],
+	"edges":[
+		{"id":"fc40dd1c192be476","fromNode":"2436df1b53cf1fd1","fromSide":"right","toNode":"8985e572043168a5","toSide":"left"},
+		{"id":"f99a0463498ed462","fromNode":"fe1f83fd80d39d80","fromSide":"right","toNode":"2436df1b53cf1fd1","toSide":"left"},
+		{"id":"ac903b5659112f1e","fromNode":"7ab91e3aef058c3e","fromSide":"right","toNode":"2436df1b53cf1fd1","toSide":"left"}
+	]
+}

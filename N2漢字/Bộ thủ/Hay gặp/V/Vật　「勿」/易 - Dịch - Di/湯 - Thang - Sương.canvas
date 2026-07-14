@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fd0c697fc37425d4","type":"text","text":"湯 - Thang - Sương","x":-192,"y":-25,"width":250,"height":60},
+		{"id":"74bb9f7e267455ed","x":-640,"y":-220,"width":208,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"73c5a30050485191","x":-615,"y":100,"width":183,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+	],
+	"edges":[
+		{"id":"173f8ebd63267edd","fromNode":"74bb9f7e267455ed","fromSide":"right","toNode":"fd0c697fc37425d4","toSide":"left"},
+		{"id":"2e41a9c62a0ab982","fromNode":"73c5a30050485191","fromSide":"right","toNode":"fd0c697fc37425d4","toSide":"left"}
+	]
+}

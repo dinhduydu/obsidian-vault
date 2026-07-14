@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3fbdcd8fa4d4f7fc","type":"text","text":"絶 - Tuyệt","x":-177,"y":8,"width":250,"height":60},
+		{"id":"9200fae91df815da","x":-500,"y":200,"width":187,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas"},
+		{"id":"714785cf395b779b","x":-493,"y":-240,"width":173,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"1cf01b7860d560cf","fromNode":"9200fae91df815da","fromSide":"right","toNode":"3fbdcd8fa4d4f7fc","toSide":"left"},
+		{"id":"29547d939c4a9188","fromNode":"714785cf395b779b","fromSide":"right","toNode":"3fbdcd8fa4d4f7fc","toSide":"left"}
+	]
+}

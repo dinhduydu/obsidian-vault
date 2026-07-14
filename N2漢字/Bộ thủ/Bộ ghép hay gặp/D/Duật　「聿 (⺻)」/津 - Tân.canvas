@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ed9891149777bba7","type":"text","text":"Bến cảng","x":-71,"y":26,"width":250,"height":60},
+		{"id":"562c87ec453690d6","type":"text","text":"港","x":346,"y":20,"width":250,"height":60},
+		{"id":"c33090355acb2613","type":"text","text":"津 - Tân","x":-374,"y":80,"width":250,"height":60},
+		{"id":"977eb1f593b90b0d","type":"text","text":"津波","x":-29,"y":180,"width":250,"height":60},
+		{"id":"ce52d6c2eb0737f8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-595,"y":-240,"width":166,"height":114},
+		{"id":"e65559d1bb23fff1","x":-800,"y":240,"width":231,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"}
+	],
+	"edges":[
+		{"id":"c808de4c8d62c218","fromNode":"ed9891149777bba7","fromSide":"right","toNode":"562c87ec453690d6","toSide":"left"},
+		{"id":"49669220e01ec863","fromNode":"c33090355acb2613","fromSide":"right","toNode":"ed9891149777bba7","toSide":"left"},
+		{"id":"cd1c40a608234d38","fromNode":"c33090355acb2613","fromSide":"right","toNode":"977eb1f593b90b0d","toSide":"left"},
+		{"id":"2deb4d5edf2ab3ca","fromNode":"ce52d6c2eb0737f8","fromSide":"bottom","toNode":"c33090355acb2613","toSide":"left","label":"vượt qua vùng nước"},
+		{"id":"b19c58e2fd14e597","fromNode":"e65559d1bb23fff1","fromSide":"right","toNode":"c33090355acb2613","toSide":"left"}
+	]
+}

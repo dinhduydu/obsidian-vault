@@ -7,7 +7,7 @@
 		{"id":"6b61e0b1672d6f29","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-520,"y":-300,"width":170,"height":150},
 		{"id":"1b5ab83b156f4c36","x":-503,"y":-73,"width":136,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
 		{"id":"48e7268f75d45c4d","x":-520,"y":140,"width":156,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
-		{"id":"edc40277862153bc","x":-590,"y":360,"width":226,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas"}
+		{"id":"edc40277862153bc","x":-590,"y":360,"width":226,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
 	],
 	"edges":[
 		{"id":"8b0756febd746aa7","fromNode":"6b61e0b1672d6f29","fromSide":"right","toNode":"ad2674b75a84073c","toSide":"left"},

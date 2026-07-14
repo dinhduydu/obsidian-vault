@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"efa998ca304b489e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"道 - Đạo"},
+		{"id":"cf1c191a114faedf","x":-460,"y":220,"width":180,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"},
+		{"id":"56aa5d46370cec79","x":-515,"y":-260,"width":235,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「首」/Thủ　「首」.canvas"}
+	],
+	"edges":[
+		{"id":"56d58d34e319ad84","fromNode":"cf1c191a114faedf","fromSide":"right","toNode":"efa998ca304b489e","toSide":"left"},
+		{"id":"a5b3d6a6aa869714","fromNode":"56aa5d46370cec79","fromSide":"right","toNode":"efa998ca304b489e","toSide":"left"}
+	]
+}

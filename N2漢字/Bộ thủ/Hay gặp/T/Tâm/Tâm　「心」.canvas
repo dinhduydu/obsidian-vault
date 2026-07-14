@@ -6,10 +6,14 @@
 		{"id":"bfa357e05f608211","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":1010,"y":-458,"width":250,"height":60},
 		{"id":"75f8f7137315f89a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-69,"y":-681,"width":123,"height":101},
 		{"id":"490b4a4b9e704c6e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất.canvas","x":420,"y":56,"width":213,"height":123},
-		{"id":"a48af738b0d3413d","x":181,"y":-630,"width":179,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas"},
-		{"id":"d5bbb2044cf96ed5","x":912,"y":-42,"width":196,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas"},
-		{"id":"cc56288fef5692b8","x":628,"y":-175,"width":135,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
-		{"id":"58ab777374c8e9af","x":636,"y":-340,"width":127,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"}
+		{"id":"a48af738b0d3413d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas","x":181,"y":-630,"width":179,"height":124},
+		{"id":"d5bbb2044cf96ed5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas","x":912,"y":-42,"width":196,"height":136},
+		{"id":"cc56288fef5692b8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas","x":628,"y":-175,"width":135,"height":133},
+		{"id":"58ab777374c8e9af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas","x":636,"y":-340,"width":127,"height":113},
+		{"id":"0f8265dfac98a239","x":420,"y":380,"width":277,"height":222,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/刃 - Nhẫn/忍 - Nhẫn.canvas"},
+		{"id":"1908bb4d5c667f95","x":-54,"y":540,"width":237,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/刃 - Nhẫn/刃 - Nhẫn.canvas"},
+		{"id":"fe137e6670dab25f","x":-460,"y":301,"width":213,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"},
+		{"id":"5ff11a15bb37a480","x":-419,"y":680,"width":172,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
 	],
 	"edges":[
 		{"id":"bbd357027e84cba5","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"490b4a4b9e704c6e","toSide":"left"},
@@ -20,6 +24,10 @@
 		{"id":"b15c9c7aa647d519","fromNode":"75f8f7137315f89a","fromSide":"right","toNode":"a48af738b0d3413d","toSide":"left"},
 		{"id":"11677cc0530a8114","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"d5bbb2044cf96ed5","toSide":"left"},
 		{"id":"b6dabef91dd2b8b2","fromNode":"cc56288fef5692b8","fromSide":"right","toNode":"d5bbb2044cf96ed5","toSide":"left"},
-		{"id":"f6a75105c3be6d8a","fromNode":"58ab777374c8e9af","fromSide":"right","toNode":"d5bbb2044cf96ed5","toSide":"left"}
+		{"id":"f6a75105c3be6d8a","fromNode":"58ab777374c8e9af","fromSide":"right","toNode":"d5bbb2044cf96ed5","toSide":"left"},
+		{"id":"eb0248decc82e131","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"0f8265dfac98a239","toSide":"left"},
+		{"id":"6866d42b7cc6fc83","fromNode":"1908bb4d5c667f95","fromSide":"right","toNode":"0f8265dfac98a239","toSide":"left"},
+		{"id":"8b58774234447b26","fromNode":"fe137e6670dab25f","fromSide":"right","toNode":"1908bb4d5c667f95","toSide":"left"},
+		{"id":"15b98f6f7a9ceb5e","fromNode":"5ff11a15bb37a480","fromSide":"right","toNode":"1908bb4d5c667f95","toSide":"left"}
 	]
 }

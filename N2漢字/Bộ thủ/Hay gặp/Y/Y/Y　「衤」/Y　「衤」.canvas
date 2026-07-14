@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"cf0b41b2da0e3950","type":"text","text":"Y　「衤」","x":-154,"y":-41,"width":250,"height":60},
-		{"id":"33aca997db74cd59","x":240,"y":-235,"width":169,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/複 - Phức.canvas"}
+		{"id":"33aca997db74cd59","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/複 - Phức.canvas","x":240,"y":-235,"width":169,"height":103},
+		{"id":"b62c62ae8b147dae","x":240,"y":60,"width":194,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/初 - Sơ.canvas"},
+		{"id":"e4cca01a0ab64946","x":-70,"y":180,"width":166,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
 	],
 	"edges":[
-		{"id":"a77fb82208a1ed6e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"33aca997db74cd59","toSide":"left"}
+		{"id":"a77fb82208a1ed6e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"33aca997db74cd59","toSide":"left"},
+		{"id":"3880a6b1e241298e","fromNode":"cf0b41b2da0e3950","fromSide":"right","toNode":"b62c62ae8b147dae","toSide":"left"},
+		{"id":"bc9a9dca24a0600e","fromNode":"e4cca01a0ab64946","fromSide":"right","toNode":"b62c62ae8b147dae","toSide":"left"}
 	]
 }

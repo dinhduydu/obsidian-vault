@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1966b8ded43e75b2","type":"text","text":"図書館","x":70,"y":4,"width":250,"height":60},
+		{"id":"b1d2904473fa6d49","type":"text","text":"書 - Thư","x":-206,"y":9,"width":250,"height":60},
+		{"id":"30da2ca5889b2ec4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-480,"y":-160,"width":56,"height":73},
+		{"id":"22cf0cc70ab589bd","x":-600,"y":160,"width":176,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"}
+	],
+	"edges":[
+		{"id":"975bf1811fc01e92","fromNode":"30da2ca5889b2ec4","fromSide":"right","toNode":"b1d2904473fa6d49","toSide":"left"},
+		{"id":"f3b3ccdfa2f7cd83","fromNode":"22cf0cc70ab589bd","fromSide":"right","toNode":"b1d2904473fa6d49","toSide":"left"}
+	]
+}

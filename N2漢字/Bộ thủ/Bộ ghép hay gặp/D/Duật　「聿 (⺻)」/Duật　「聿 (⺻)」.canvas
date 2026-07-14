@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"c2e074d89e923f70","type":"text","text":"Duật　「聿 (⺻)」","x":-280,"y":0,"width":250,"height":60},
+		{"id":"c8e1b765e7649e72","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/S/事 - Sự/事 - Sự.canvas","x":243,"y":-520,"width":191,"height":110},
+		{"id":"5623295ada4292ed","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":160,"y":-320,"width":56,"height":73},
+		{"id":"db999ce619db1d96","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/書 - Thư.canvas","x":360,"y":-247,"width":190,"height":168},
+		{"id":"b2c33c8e2ee67124","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」.canvas","x":-640,"y":-53,"width":194,"height":166},
+		{"id":"4fc5064d0fa70cda","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-1080,"y":-100,"width":285,"height":261},
+		{"id":"4cacaa7ee4699c6b","x":243,"y":-880,"width":222,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/津 - Tân.canvas"},
+		{"id":"7b09ca38a70c02ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-80,"y":-1080,"width":166,"height":114},
+		{"id":"d0b14e48db2f59c0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":780,"y":-150,"width":62,"height":59},
+		{"id":"68f8fdd501b41bf9","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/律 - Luật.canvas","x":947,"y":-30,"width":137,"height":120},
+		{"id":"42b159753a46b0cb","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/筆 - Bút.canvas","x":367,"y":200,"width":195,"height":151},
+		{"id":"49beee5eb59bf4d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":98,"y":378,"width":124,"height":66}
+	],
+	"edges":[
+		{"id":"9a41adfb3b7d0b71","fromNode":"c2e074d89e923f70","fromSide":"right","toNode":"c8e1b765e7649e72","toSide":"left"},
+		{"id":"3bd7df6052c5c831","fromNode":"c2e074d89e923f70","fromSide":"right","toNode":"68f8fdd501b41bf9","toSide":"left"},
+		{"id":"71f25171c79c8a3b","fromNode":"c2e074d89e923f70","fromSide":"right","toNode":"42b159753a46b0cb","toSide":"left"},
+		{"id":"6008277dc7f88012","fromNode":"c2e074d89e923f70","fromSide":"right","toNode":"db999ce619db1d96","toSide":"left"},
+		{"id":"4058ae1e554848bd","fromNode":"d0b14e48db2f59c0","fromSide":"right","toNode":"68f8fdd501b41bf9","toSide":"left"},
+		{"id":"fdd3142177d75e7f","fromNode":"5623295ada4292ed","fromSide":"right","toNode":"db999ce619db1d96","toSide":"left"},
+		{"id":"40101c93157ee297","fromNode":"c2e074d89e923f70","fromSide":"top","toNode":"4cacaa7ee4699c6b","toSide":"left","label":" Mang hàm nghĩa tiến lên do sự tương đồng về cử động tay khi viết là tiến lên"},
+		{"id":"6fa7b8b569cecea1","fromNode":"7b09ca38a70c02ea","fromSide":"bottom","toNode":"4cacaa7ee4699c6b","toSide":"left","label":"vượt qua vùng nước"},
+		{"id":"a172306bc81e18bb","fromNode":"49beee5eb59bf4d4","fromSide":"right","toNode":"42b159753a46b0cb","toSide":"left"},
+		{"id":"3669402cf6e905ed","fromNode":"b2c33c8e2ee67124","fromSide":"right","toNode":"c2e074d89e923f70","toSide":"left"},
+		{"id":"149ee34537f217e8","fromNode":"4fc5064d0fa70cda","fromSide":"right","toNode":"c2e074d89e923f70","toSide":"left"}
+	]
+}

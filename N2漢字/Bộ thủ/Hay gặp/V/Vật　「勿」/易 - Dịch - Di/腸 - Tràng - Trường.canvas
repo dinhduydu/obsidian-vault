@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2d94e052107d7ff5","type":"text","text":"腸 - Tràng - Trường","x":-114,"y":-52,"width":250,"height":60},
+		{"id":"61a7ea68d4b11e43","type":"text","text":"ruột","x":340,"y":-52,"width":250,"height":60},
+		{"id":"d1f3db44df4a49ee","x":-520,"y":-220,"width":131,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"5d8f80c451a9bb96","x":-576,"y":80,"width":187,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+	],
+	"edges":[
+		{"id":"0bf78c2774d47148","fromNode":"2d94e052107d7ff5","fromSide":"right","toNode":"61a7ea68d4b11e43","toSide":"left"},
+		{"id":"14728b4e9b39f3f2","fromNode":"d1f3db44df4a49ee","fromSide":"right","toNode":"2d94e052107d7ff5","toSide":"left"},
+		{"id":"8ace0e5bb1fb403f","fromNode":"5d8f80c451a9bb96","fromSide":"right","toNode":"2d94e052107d7ff5","toSide":"left"}
+	]
+}

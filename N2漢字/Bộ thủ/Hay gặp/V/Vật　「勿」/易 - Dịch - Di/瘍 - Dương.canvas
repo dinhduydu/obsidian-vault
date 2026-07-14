@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"88b43be12e3fb984","type":"text","text":"腫瘍　「しゅよう」：khối u","x":233,"y":-32,"width":250,"height":60},
+		{"id":"4a5e4573152e3de2","type":"text","text":"瘍 - Dương","x":-483,"y":-22,"width":250,"height":50},
+		{"id":"3f22f4f0b0a42d05","type":"text","text":"lở loét","x":-143,"y":-27,"width":250,"height":60},
+		{"id":"5520f65981aece71","x":-940,"y":-128,"width":211,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"81b813d48158f719","fromNode":"3f22f4f0b0a42d05","fromSide":"right","toNode":"88b43be12e3fb984","toSide":"left"},
+		{"id":"8e545e0cb0bdea18","fromNode":"4a5e4573152e3de2","fromSide":"right","toNode":"3f22f4f0b0a42d05","toSide":"left"},
+		{"id":"9e22e940d8e644bd","fromNode":"5520f65981aece71","fromSide":"right","toNode":"4a5e4573152e3de2","toSide":"left"}
+	]
+}

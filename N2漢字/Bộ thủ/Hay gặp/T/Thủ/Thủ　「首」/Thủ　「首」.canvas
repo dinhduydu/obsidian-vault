@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"6c3c5ebc86bf3979","x":-174,"y":-28,"width":250,"height":60,"type":"text","text":"Thủ　「首」"}
+		{"id":"6c3c5ebc86bf3979","type":"text","text":"Thủ　「首」","x":-174,"y":-28,"width":250,"height":60},
+		{"id":"a852594d2f98d86d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/Tự　「自 」.canvas","x":-660,"y":160,"width":199,"height":208},
+		{"id":"88a8af2b1e28a927","x":240,"y":-212,"width":220,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「首」/道 - Đạo.canvas"},
+		{"id":"99f50b6f610b6cc7","x":-159,"y":-429,"width":220,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"557ce5bee94e1f78","fromNode":"a852594d2f98d86d","fromSide":"right","toNode":"6c3c5ebc86bf3979","toSide":"left"},
+		{"id":"3a304993abd71f7d","fromNode":"6c3c5ebc86bf3979","fromSide":"right","toNode":"88a8af2b1e28a927","toSide":"left"},
+		{"id":"bd974d2d91fa59ba","fromNode":"99f50b6f610b6cc7","fromSide":"right","toNode":"88a8af2b1e28a927","toSide":"left"}
+	]
 }

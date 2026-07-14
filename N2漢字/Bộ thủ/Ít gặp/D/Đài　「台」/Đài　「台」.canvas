@@ -1,21 +1,19 @@
 {
 	"nodes":[
-		{"id":"4d8dad500ae598ea","x":-119,"y":-52,"width":250,"height":60,"type":"text","text":"Đài　「台」"},
-		{"id":"becef37b70713e1d","x":327,"y":-243,"width":250,"height":60,"type":"text","text":"台 - Đài"},
-		{"id":"8b7d4856f2bdd9e7","x":316,"y":9,"width":250,"height":60,"type":"text","text":"治 - Trị"},
-		{"id":"ccfc79b29c2447c8","x":333,"y":156,"width":250,"height":60,"type":"text","text":"始 - Thuỷ"},
-		{"id":"804e74f338e1a801","x":755,"y":340,"width":250,"height":60,"type":"text","text":"鍛冶屋"},
-		{"id":"5d6f7e6b649e445f","x":333,"y":370,"width":250,"height":60,"type":"text","text":"冶 - Dã"},
-		{"id":"46cf626524749f83","x":719,"y":523,"width":250,"height":60,"type":"text","text":"nấu chảy (thành nước)"},
-		{"id":"de0b56176a2e8805","x":80,"y":490,"width":160,"height":127,"type":"file","file":"N2漢字/Bộ chỉ ý/Ít gặp/B/Băng　「冫」.canvas"}
+		{"id":"4d8dad500ae598ea","type":"text","text":"Đài　「台」","x":-119,"y":-52,"width":250,"height":60},
+		{"id":"3e62ccd6721a24c0","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/始 - Thuỷ.canvas","x":720,"y":135,"width":160,"height":162},
+		{"id":"de0b56176a2e8805","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-49,"y":645,"width":180,"height":137},
+		{"id":"b4f913a4415ab9b7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/冶 - Dã.canvas","x":316,"y":500,"width":203,"height":166},
+		{"id":"948ae208a2365025","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":452,"y":260,"width":114,"height":132},
+		{"id":"c94bbc5e971a2066","x":606,"y":-98,"width":229,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/治 - Trị.canvas"},
+		{"id":"7274d851cd0385c8","x":371,"y":-240,"width":161,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
 	],
 	"edges":[
-		{"id":"96915f596d65bebc","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"becef37b70713e1d","toSide":"left"},
-		{"id":"9de5873cafa40ce5","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"8b7d4856f2bdd9e7","toSide":"left"},
-		{"id":"216b2be4f8ba2a85","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"ccfc79b29c2447c8","toSide":"left"},
-		{"id":"a755a646e92792de","fromNode":"5d6f7e6b649e445f","fromSide":"right","toNode":"804e74f338e1a801","toSide":"left"},
-		{"id":"a87b7101e9b13a49","fromNode":"5d6f7e6b649e445f","fromSide":"right","toNode":"46cf626524749f83","toSide":"left"},
-		{"id":"3f1b16c4e7ceba05","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"5d6f7e6b649e445f","toSide":"left"},
-		{"id":"4fc6092d3be38ab3","fromNode":"de0b56176a2e8805","fromSide":"right","toNode":"5d6f7e6b649e445f","toSide":"left"}
+		{"id":"3f1b16c4e7ceba05","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"b4f913a4415ab9b7","toSide":"left"},
+		{"id":"4fc6092d3be38ab3","fromNode":"de0b56176a2e8805","fromSide":"right","toNode":"b4f913a4415ab9b7","toSide":"left"},
+		{"id":"a41c525bb42f219d","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"3e62ccd6721a24c0","toSide":"left"},
+		{"id":"b8eff005259e2075","fromNode":"948ae208a2365025","fromSide":"right","toNode":"3e62ccd6721a24c0","toSide":"left"},
+		{"id":"09627277711c4da3","fromNode":"4d8dad500ae598ea","fromSide":"right","toNode":"c94bbc5e971a2066","toSide":"left"},
+		{"id":"c67036be75aafaf9","fromNode":"7274d851cd0385c8","fromSide":"right","toNode":"c94bbc5e971a2066","toSide":"left"}
 	]
 }

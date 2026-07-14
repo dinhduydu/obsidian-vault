@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"2f98f3b3ac4084aa","type":"text","text":"粉 - Phấn","x":187,"y":-87,"width":250,"height":60},
 		{"id":"2b0eeb39af2c2cbb","type":"text","text":"Phân　「分」","x":-220,"y":0,"width":250,"height":60},
-		{"id":"12e663063a011e31","type":"text","text":"頒 - Ban","x":187,"y":73,"width":250,"height":60},
-		{"id":"d0f2305a2197a04e","type":"text","text":"ban bố, ban hành","x":520,"y":60,"width":250,"height":60},
-		{"id":"8b8ed59b1e447a3d","x":-165,"y":200,"width":195,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+		{"id":"8b8ed59b1e447a3d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-165,"y":200,"width":195,"height":161},
+		{"id":"46767fa7f005b8ab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/粉 - Phấn.canvas","x":255,"y":-220,"width":182,"height":102},
+		{"id":"87f4f3207186a7c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-120,"y":-422,"width":205,"height":202},
+		{"id":"4cfa300d0ae8784a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頒 - Ban.canvas","x":255,"y":30,"width":165,"height":153}
 	],
 	"edges":[
-		{"id":"6c4d2cce04ddbceb","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"2f98f3b3ac4084aa","toSide":"left"},
-		{"id":"83521500ba049d46","fromNode":"12e663063a011e31","fromSide":"right","toNode":"d0f2305a2197a04e","toSide":"left"},
-		{"id":"3acd266dab0bd41b","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"12e663063a011e31","toSide":"left"},
-		{"id":"bb766fbbc040e415","fromNode":"8b8ed59b1e447a3d","fromSide":"right","toNode":"12e663063a011e31","toSide":"left"}
+		{"id":"6c4d2cce04ddbceb","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"46767fa7f005b8ab","toSide":"left"},
+		{"id":"3acd266dab0bd41b","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"4cfa300d0ae8784a","toSide":"left"},
+		{"id":"bb766fbbc040e415","fromNode":"8b8ed59b1e447a3d","fromSide":"right","toNode":"4cfa300d0ae8784a","toSide":"left"},
+		{"id":"dc81e08f242be50a","fromNode":"87f4f3207186a7c3","fromSide":"right","toNode":"46767fa7f005b8ab","toSide":"left"}
 	]
 }

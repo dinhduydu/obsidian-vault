@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e31a688a43a3a344","x":-102,"y":-1,"width":250,"height":60,"type":"text","text":"窃 - Thiết"},
+		{"id":"a44eacbe1f41990c","x":-460,"y":140,"width":175,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/切 - Thiết/切 - Thiết.canvas"},
+		{"id":"96d485d23cb45931","x":-451,"y":-220,"width":166,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"},
+		{"id":"10a2c546ae7bb75a","x":-780,"y":-1,"width":250,"height":60,"type":"text","text":"trộm cắp"}
+	],
+	"edges":[
+		{"id":"453b26f7f123942a","fromNode":"a44eacbe1f41990c","fromSide":"right","toNode":"e31a688a43a3a344","toSide":"left"},
+		{"id":"d0b8b36c22d85742","fromNode":"96d485d23cb45931","fromSide":"right","toNode":"e31a688a43a3a344","toSide":"left"},
+		{"id":"155ffd3262f79482","fromNode":"10a2c546ae7bb75a","fromSide":"right","toNode":"e31a688a43a3a344","toSide":"left"}
+	]
+}

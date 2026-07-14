@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c3cdc4f585640232","type":"text","text":"継　「Kế」","x":-674,"y":259,"width":250,"height":60},
+		{"id":"5820aaa5b2fd99fb","type":"text","text":"**Nghĩa:**\n\n- kế thừa\n- tiếp nối\n- tiếp tục","x":-194,"y":139,"width":250,"height":143},
+		{"id":"e36790f3db56f6c6","type":"text","text":"- 継続（けいぞく）: tiếp tục\n- 事業を継ぐ（じぎょう を つぐ）: kế thừa sự nghiệp\n- 王位継承（おうい けいしょう）: kế vị ngai vàng","x":191,"y":42,"width":484,"height":100},
+		{"id":"0443e146f09288dd","type":"text","text":"Cấu tạo:\n\n- Bên trái: 糸 (sợi chỉ → nối)\n- Bên phải: 米 + phần biến thể khác tạo âm","x":-239,"y":-318,"width":295,"height":163},
+		{"id":"8da9d762454e3133","x":-980,"y":340,"width":187,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/𠚍　「Mễ + Phất」.canvas"},
+		{"id":"7899fc03d92339b3","x":-1180,"y":231,"width":142,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"233303857358070b","fromNode":"c3cdc4f585640232","fromSide":"right","toNode":"5820aaa5b2fd99fb","toSide":"left"},
+		{"id":"f92c0ea6c064e07c","fromNode":"c3cdc4f585640232","fromSide":"right","toNode":"0443e146f09288dd","toSide":"left"},
+		{"id":"a7961b3cdc579f91","fromNode":"5820aaa5b2fd99fb","fromSide":"right","toNode":"e36790f3db56f6c6","toSide":"left"},
+		{"id":"c6213f737958eb1e","fromNode":"8da9d762454e3133","fromSide":"right","toNode":"c3cdc4f585640232","toSide":"left"},
+		{"id":"0335ef48f295dc9b","fromNode":"7899fc03d92339b3","fromSide":"right","toNode":"c3cdc4f585640232","toSide":"left"}
+	]
+}

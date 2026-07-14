@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"3876479cf185631c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"物 - Vật"},
-		{"id":"df6e49247357e054","x":-420,"y":-123,"width":115,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+		{"id":"3876479cf185631c","type":"text","text":"物 - Vật","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"df6e49247357e054","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":-540,"y":-220,"width":195,"height":143},
+		{"id":"60eea5dc6e6ffa1a","x":-645,"y":140,"width":300,"height":267,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/Vật　「勿」.canvas"}
 	],
 	"edges":[
-		{"id":"d874e5580798d033","fromNode":"df6e49247357e054","fromSide":"right","toNode":"3876479cf185631c","toSide":"left"}
+		{"id":"d874e5580798d033","fromNode":"df6e49247357e054","fromSide":"right","toNode":"3876479cf185631c","toSide":"left"},
+		{"id":"627b00d87b6c2f0d","fromNode":"60eea5dc6e6ffa1a","fromSide":"right","toNode":"3876479cf185631c","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf9311f5f7b609c8","x":-129,"y":-6,"width":250,"height":60,"type":"text","text":"刃 - Nhẫn"},
+		{"id":"b707c1618a7dd908","x":-580,"y":80,"width":120,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"},
+		{"id":"d3d68dc57c2dbe58","x":-648,"y":-260,"width":188,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"ef689f9a70ec2110","fromNode":"b707c1618a7dd908","fromSide":"right","toNode":"bf9311f5f7b609c8","toSide":"left"},
+		{"id":"2a2bd0d377a913e3","fromNode":"d3d68dc57c2dbe58","fromSide":"right","toNode":"bf9311f5f7b609c8","toSide":"left"}
+	]
+}
