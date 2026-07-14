@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1675ec2c1d0b8ebc","type":"text","text":"握 - Ác","x":-151,"y":-49,"width":124,"height":50},
+		{"id":"dbd82f2a677657ab","type":"text","text":"握る　「にぎる」：cầm, nắm","x":101,"y":-59,"width":250,"height":60},
+		{"id":"a7efd5f40029820e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/屋 - Ốc/屋 - Ốc.canvas","x":-482,"y":-300,"width":165,"height":154},
+		{"id":"7b3bf80ebd95d969","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas","x":-439,"y":80,"width":122,"height":83},
+		{"id":"f9860245de3fc738","x":-840,"y":-178,"width":164,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas"},
+		{"id":"811564a14212c608","x":-854,"y":-500,"width":178,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"e6935ba3a8095756","fromNode":"1675ec2c1d0b8ebc","fromSide":"right","toNode":"dbd82f2a677657ab","toSide":"left"},
+		{"id":"a8a732b069956c0e","fromNode":"7b3bf80ebd95d969","fromSide":"right","toNode":"1675ec2c1d0b8ebc","toSide":"left"},
+		{"id":"5965d40689e8dc53","fromNode":"a7efd5f40029820e","fromSide":"right","toNode":"1675ec2c1d0b8ebc","toSide":"left"},
+		{"id":"4c1f5ac16882bb5e","fromNode":"f9860245de3fc738","fromSide":"right","toNode":"a7efd5f40029820e","toSide":"left"},
+		{"id":"34ef4dbe01b8aef4","fromNode":"811564a14212c608","fromSide":"right","toNode":"a7efd5f40029820e","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"b17fa64c10ba8cbf","x":-153,"y":-38,"width":250,"height":60,"type":"text","text":"岩 - Nham"},
 		{"id":"098a15e81a108af8","x":-360,"y":-8,"width":94,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thạch　「石 」/Thạch　「石 」.canvas"},
-		{"id":"062b8c30edffab2d","x":-420,"y":-200,"width":154,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」.canvas"}
+		{"id":"062b8c30edffab2d","x":-420,"y":-200,"width":154,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
 	],
 	"edges":[
 		{"id":"1ff85596ed321e7c","fromNode":"098a15e81a108af8","fromSide":"right","toNode":"b17fa64c10ba8cbf","toSide":"left"},

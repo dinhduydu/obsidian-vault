@@ -1,25 +1,25 @@
 {
 	"nodes":[
 		{"id":"1c78d2c5bec4271b","type":"text","text":"Trung　「中」","x":-180,"y":-59,"width":250,"height":60},
-		{"id":"0e752e27ad138071","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-500,"y":-133,"width":153,"height":74},
-		{"id":"0a331ed35d8d8e3f","type":"text","text":"Cổn","x":-597,"y":100,"width":250,"height":60},
 		{"id":"cb468f3261076ab9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-58,"y":200,"width":128,"height":116},
 		{"id":"9c84f48668dc9a86","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-113,"y":500,"width":183,"height":185},
-		{"id":"48beef92ecce21ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/中 - Trung.canvas","x":-507,"y":-386,"width":168,"height":139},
 		{"id":"487f11ac8b426d6b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-131,"y":-552,"width":201,"height":113},
 		{"id":"1288840cd3434155","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/仲 - Trọng.canvas","x":280,"y":-300,"width":180,"height":107},
 		{"id":"3a021249b3f28c84","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/忠 - Trung.canvas","x":305,"y":55,"width":155,"height":91},
-		{"id":"b1afcafb7298aad0","x":305,"y":258,"width":138,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/沖 - Trùng.canvas"}
+		{"id":"b1afcafb7298aad0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/沖 - Trùng.canvas","x":305,"y":258,"width":138,"height":135},
+		{"id":"0e752e27ad138071","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-1053,"y":-230,"width":153,"height":74},
+		{"id":"46e15df99f377726","x":-1060,"y":-42,"width":180,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"},
+		{"id":"48beef92ecce21ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/中 - Trung.canvas","x":-580,"y":-98,"width":168,"height":139}
 	],
 	"edges":[
-		{"id":"928a4bc918901c6f","fromNode":"0e752e27ad138071","fromSide":"right","toNode":"1c78d2c5bec4271b","toSide":"left"},
-		{"id":"c0f73b63d4f0af3f","fromNode":"0a331ed35d8d8e3f","fromSide":"right","toNode":"1c78d2c5bec4271b","toSide":"left"},
+		{"id":"928a4bc918901c6f","fromNode":"0e752e27ad138071","fromSide":"right","toNode":"48beef92ecce21ef","toSide":"left"},
 		{"id":"d7fe9292df15bf63","fromNode":"1c78d2c5bec4271b","fromSide":"right","toNode":"1288840cd3434155","toSide":"left","label":"trong xã hội -> xây dựng mối quan hệ"},
 		{"id":"18f855b5bb919002","fromNode":"487f11ac8b426d6b","fromSide":"right","toNode":"1288840cd3434155","toSide":"left","label":"con người"},
 		{"id":"45bb7be9d6e42d1d","fromNode":"cb468f3261076ab9","fromSide":"right","toNode":"3a021249b3f28c84","toSide":"left","label":"trung thực là 1 tính cách"},
 		{"id":"3e96ca01966c8ea6","fromNode":"9c84f48668dc9a86","fromSide":"right","toNode":"b1afcafb7298aad0","toSide":"left","label":"biển khơi"},
 		{"id":"4968fe0b236d3dd1","fromNode":"1c78d2c5bec4271b","fromSide":"right","toNode":"b1afcafb7298aad0","toSide":"left"},
 		{"id":"8f57a5621ad63095","fromNode":"48beef92ecce21ef","fromSide":"right","toNode":"1c78d2c5bec4271b","toSide":"left"},
-		{"id":"a2e21a4400c595fb","fromNode":"1c78d2c5bec4271b","fromSide":"right","toNode":"3a021249b3f28c84","toSide":"left"}
+		{"id":"a2e21a4400c595fb","fromNode":"1c78d2c5bec4271b","fromSide":"right","toNode":"3a021249b3f28c84","toSide":"left"},
+		{"id":"bcf9a9d1ed343b1c","fromNode":"46e15df99f377726","fromSide":"right","toNode":"48beef92ecce21ef","toSide":"left"}
 	]
 }

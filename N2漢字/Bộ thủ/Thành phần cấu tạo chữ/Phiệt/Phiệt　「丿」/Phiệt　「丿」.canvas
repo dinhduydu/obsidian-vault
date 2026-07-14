@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"04b1c44c81ecf929","x":-148,"y":-42,"width":250,"height":60,"type":"text","text":"Phiệt　「丿」"},
-		{"id":"4e8cc61dcc4eaa9c","x":280,"y":-62,"width":205,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弟 - Đệ.canvas"},
-		{"id":"4619931c340fc585","x":-66,"y":-260,"width":168,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弔 - Điếu.canvas"},
-		{"id":"ce6d517e3d87da8e","x":-60,"y":-460,"width":157,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas"}
+		{"id":"04b1c44c81ecf929","type":"text","text":"Phiệt　「丿」","x":-148,"y":-42,"width":250,"height":60},
+		{"id":"4e8cc61dcc4eaa9c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弟 - Đệ.canvas","x":280,"y":-62,"width":205,"height":100},
+		{"id":"4619931c340fc585","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弔 - Điếu/弔 - Điếu.canvas","x":-66,"y":-260,"width":168,"height":124},
+		{"id":"ce6d517e3d87da8e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas","x":-60,"y":-460,"width":157,"height":119},
+		{"id":"33fec71be4cecbe9","x":280,"y":220,"width":212,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/延 - Duyên.canvas"}
 	],
 	"edges":[
 		{"id":"75ac563b0bf9b954","fromNode":"04b1c44c81ecf929","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"},
 		{"id":"86a0e5d0ab50e3b2","fromNode":"4619931c340fc585","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"},
-		{"id":"625d0aa91cb272d0","fromNode":"ce6d517e3d87da8e","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"}
+		{"id":"625d0aa91cb272d0","fromNode":"ce6d517e3d87da8e","fromSide":"right","toNode":"4e8cc61dcc4eaa9c","toSide":"left"},
+		{"id":"eb9888e22070009c","fromNode":"04b1c44c81ecf929","fromSide":"right","toNode":"33fec71be4cecbe9","toSide":"left"}
 	]
 }

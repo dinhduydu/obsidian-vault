@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"349962818cb62177","type":"text","text":"窒 - Trất","x":162,"y":-10,"width":250,"height":60},
+		{"id":"fc224b49f75e02df","type":"text","text":"窒息　「ちっそく」：nghẹt thở","x":600,"y":-160,"width":250,"height":60},
+		{"id":"86227b33ee8f9258","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas","x":-260,"y":140,"width":185,"height":140},
+		{"id":"c02e763c6954182e","type":"text","text":"至 - Chí (chuyển chú)","x":-360,"y":-220,"width":250,"height":60},
+		{"id":"7a2f52632f5ad2e9","x":-780,"y":-379,"width":185,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas"}
+	],
+	"edges":[
+		{"id":"de013f31741d8eba","fromNode":"349962818cb62177","fromSide":"right","toNode":"fc224b49f75e02df","toSide":"left"},
+		{"id":"81aa42a5a65d2fde","fromNode":"c02e763c6954182e","fromSide":"right","toNode":"349962818cb62177","toSide":"left","label":"âm đọc"},
+		{"id":"1be6d85e3744a303","fromNode":"86227b33ee8f9258","fromSide":"right","toNode":"349962818cb62177","toSide":"left","label":"rơi vào hố dẫn đến nghẹt thở"},
+		{"id":"17e84e818ae7d1b3","fromNode":"7a2f52632f5ad2e9","fromSide":"right","toNode":"c02e763c6954182e","toSide":"left","label":"chuyển chú"}
+	]
+}

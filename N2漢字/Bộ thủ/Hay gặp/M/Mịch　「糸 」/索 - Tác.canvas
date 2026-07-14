@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ad9e3f36e78672de","x":-83,"y":-21,"width":250,"height":60,"type":"text","text":"索 - Tác"},
+		{"id":"0ce6bcd278a47c25","x":-360,"y":120,"width":119,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"5eaf980dedef7593","x":-352,"y":-56,"width":111,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"682fcaa01a9e85f8","x":-351,"y":-220,"width":102,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"a7a1dd13fa01f1f8","fromNode":"0ce6bcd278a47c25","fromSide":"right","toNode":"ad9e3f36e78672de","toSide":"left"},
+		{"id":"7aada3452f27f515","fromNode":"5eaf980dedef7593","fromSide":"right","toNode":"ad9e3f36e78672de","toSide":"left"},
+		{"id":"9005ab7ca69e1408","fromNode":"682fcaa01a9e85f8","fromSide":"right","toNode":"ad9e3f36e78672de","toSide":"left"}
+	]
+}

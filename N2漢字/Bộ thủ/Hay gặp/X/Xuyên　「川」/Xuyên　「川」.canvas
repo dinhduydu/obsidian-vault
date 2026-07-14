@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c2f12382a5fb6236","type":"text","text":"Xuyên　「川」","x":-360,"y":260,"width":250,"height":60},
+		{"id":"800e923f7b4fb9b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-180,"y":837,"width":155,"height":140},
+		{"id":"14d86e13f7f83758","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/順 - Thuận.canvas","x":196,"y":235,"width":174,"height":111},
+		{"id":"fb3f3301efe2be8b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-187,"y":420,"width":170,"height":169},
+		{"id":"76a2a6487408314d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/訓 - Huấn.canvas","x":196,"y":660,"width":156,"height":147},
+		{"id":"fcb95682be0e0414","x":196,"y":-60,"width":224,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/州 - Châu.canvas"},
+		{"id":"71d43bfdbb5166af","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-235,"y":-280,"width":175,"height":116}
+	],
+	"edges":[
+		{"id":"fd2098f736cc5660","fromNode":"71d43bfdbb5166af","fromSide":"right","toNode":"fcb95682be0e0414","toSide":"left","label":"con thuyền trên sông"},
+		{"id":"863dd8d3695887ae","fromNode":"c2f12382a5fb6236","fromSide":"right","toNode":"fcb95682be0e0414","toSide":"left","label":"nhiều sông"},
+		{"id":"7250149c01f6f394","fromNode":"c2f12382a5fb6236","fromSide":"right","toNode":"14d86e13f7f83758","toSide":"left"},
+		{"id":"72015bbe9e706cfe","fromNode":"fb3f3301efe2be8b","fromSide":"right","toNode":"14d86e13f7f83758","toSide":"left"},
+		{"id":"1cc13f2ff4e9e59b","fromNode":"c2f12382a5fb6236","fromSide":"right","toNode":"76a2a6487408314d","toSide":"left"},
+		{"id":"8c7280d132cd892d","fromNode":"800e923f7b4fb9b9","fromSide":"right","toNode":"76a2a6487408314d","toSide":"left"}
+	]
+}

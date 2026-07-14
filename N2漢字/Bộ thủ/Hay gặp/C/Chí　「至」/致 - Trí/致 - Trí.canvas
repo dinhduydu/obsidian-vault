@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"cb217a9065d0a855","type":"text","text":"致 - Trí","x":-286,"y":119,"width":250,"height":60},
+		{"id":"bc7e0a8c6ecb4bd7","type":"text","text":"致す","x":79,"y":219,"width":250,"height":60},
+		{"id":"e4c2fc78d64a764b","type":"text","text":"精緻　「せいち」：cực kỳ chi tiết","x":474,"y":-57,"width":283,"height":50},
+		{"id":"e4e87b47a494f392","type":"text","text":"緻 - Trí","x":146,"y":-161,"width":250,"height":60},
+		{"id":"d780975265c510b2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-286,"y":-421,"width":193,"height":133},
+		{"id":"30451fbe4b0c9655","x":-780,"y":420,"width":253,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas"},
+		{"id":"44ddec43e1091af8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-732,"y":-101,"width":158,"height":140}
+	],
+	"edges":[
+		{"id":"8590ce74c029682f","fromNode":"cb217a9065d0a855","fromSide":"right","toNode":"bc7e0a8c6ecb4bd7","toSide":"left"},
+		{"id":"d532c5313b37a09c","fromNode":"cb217a9065d0a855","fromSide":"right","toNode":"e4e87b47a494f392","toSide":"left","label":"âm đọc"},
+		{"id":"ab27bc4077cd9c3e","fromNode":"30451fbe4b0c9655","fromSide":"right","toNode":"cb217a9065d0a855","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"3d0f926cec278063","fromNode":"44ddec43e1091af8","fromSide":"right","toNode":"cb217a9065d0a855","toSide":"left","label":"bạo lực để thống nhất"},
+		{"id":"28a2dc84969d5e40","fromNode":"e4e87b47a494f392","fromSide":"right","toNode":"e4c2fc78d64a764b","toSide":"left"},
+		{"id":"0477e63bcc03c537","fromNode":"d780975265c510b2","fromSide":"right","toNode":"e4e87b47a494f392","toSide":"left","label":"sự tỉ mỉ trong công việc đan tơ"}
+	]
+}

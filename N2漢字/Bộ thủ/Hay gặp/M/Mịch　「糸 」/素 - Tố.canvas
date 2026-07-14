@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"818d742544ffc6f3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"素 - Tố"},
+		{"id":"90c4f8c7f7920539","x":-360,"y":60,"width":133,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"d14d4ac865ae843a","x":-361,"y":-160,"width":134,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"}
+	],
+	"edges":[
+		{"id":"e21a488c53934832","fromNode":"90c4f8c7f7920539","fromSide":"right","toNode":"818d742544ffc6f3","toSide":"left"},
+		{"id":"cc202fced156a622","fromNode":"d14d4ac865ae843a","fromSide":"right","toNode":"818d742544ffc6f3","toSide":"left","label":"biến thể"}
+	]
+}

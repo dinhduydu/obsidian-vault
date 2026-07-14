@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6e079f568b332109","x":-145,"y":-7,"width":250,"height":60,"type":"text","text":"算 - Toán"},
+		{"id":"c3a92fbd25099ef6","x":-440,"y":-240,"width":137,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"d0c8075ba10c683e","x":-440,"y":-43,"width":144,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
+		{"id":"b32441fdd05c64c9","x":-504,"y":180,"width":208,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"}
+	],
+	"edges":[
+		{"id":"bbd385617c823cb2","fromNode":"c3a92fbd25099ef6","fromSide":"right","toNode":"6e079f568b332109","toSide":"left"},
+		{"id":"c69af9010cdd3202","fromNode":"d0c8075ba10c683e","fromSide":"right","toNode":"6e079f568b332109","toSide":"left"},
+		{"id":"a4e06fe781f6f508","fromNode":"b32441fdd05c64c9","fromSide":"right","toNode":"6e079f568b332109","toSide":"left"}
+	]
+}

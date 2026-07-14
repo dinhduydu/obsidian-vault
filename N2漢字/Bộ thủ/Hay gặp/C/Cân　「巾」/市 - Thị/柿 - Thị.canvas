@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e61eb0a3811bf15d","x":-71,"y":24,"width":250,"height":60,"type":"text","text":"柿 - Thị"},
+		{"id":"a44548d9d7d745ba","x":-366,"y":180,"width":168,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/市 - Thị/市 - Thị.canvas"},
+		{"id":"0a42f75bb99ff156","x":-700,"y":307,"width":191,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"c51c2b7284bf0ac2","x":-448,"y":-280,"width":250,"height":60,"type":"text","text":"cây hồng"},
+		{"id":"2bbf0107a18dee24","x":-393,"y":-140,"width":141,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"418ea1a10f77690c","x":-725,"y":24,"width":216,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"}
+	],
+	"edges":[
+		{"id":"865b478cca74a1d5","fromNode":"c51c2b7284bf0ac2","fromSide":"right","toNode":"e61eb0a3811bf15d","toSide":"left"},
+		{"id":"fff0b126796c2a9d","fromNode":"a44548d9d7d745ba","fromSide":"right","toNode":"e61eb0a3811bf15d","toSide":"left"},
+		{"id":"956f7d6061a73e99","fromNode":"0a42f75bb99ff156","fromSide":"right","toNode":"a44548d9d7d745ba","toSide":"left"},
+		{"id":"7fa6f4e6d53b4bad","fromNode":"2bbf0107a18dee24","fromSide":"right","toNode":"e61eb0a3811bf15d","toSide":"left"},
+		{"id":"4f34febbe11c354d","fromNode":"418ea1a10f77690c","fromSide":"right","toNode":"a44548d9d7d745ba","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"218a1f6d7c4a0c77","type":"text","text":"州 - Châu","x":-83,"y":-81,"width":250,"height":60},
+		{"id":"34ef052e58a61941","type":"text","text":"欧州　「おうしゅう」：Châu Âu","x":314,"y":-83,"width":250,"height":60},
+		{"id":"a24a6f07a007c9ed","x":-480,"y":-138,"width":188,"height":175,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 7/州 - Châu.canvas"},
+		{"id":"f1016b34ca4d84e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas","x":-880,"y":60,"width":164,"height":163},
+		{"id":"adce53bcfe8dcf06","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-891,"y":-300,"width":175,"height":116}
+	],
+	"edges":[
+		{"id":"a91f14b7aab06814","fromNode":"f1016b34ca4d84e2","fromSide":"right","toNode":"a24a6f07a007c9ed","toSide":"left","label":"nhiều sông"},
+		{"id":"a432150ddaf61ef4","fromNode":"adce53bcfe8dcf06","fromSide":"right","toNode":"a24a6f07a007c9ed","toSide":"left","label":"con thuyền trên sông"},
+		{"id":"e94af7fd76f2a6a2","fromNode":"218a1f6d7c4a0c77","fromSide":"right","toNode":"34ef052e58a61941","toSide":"left"},
+		{"id":"dd5852e9d476d66b","fromNode":"a24a6f07a007c9ed","fromSide":"right","toNode":"218a1f6d7c4a0c77","toSide":"left"}
+	]
+}

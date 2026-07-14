@@ -4,12 +4,16 @@
 		{"id":"2fea870ee4a07f3b","type":"text","text":"Thường nằm phía trên, giống hình người dang chân che bên dưới.\n\nÝ nghĩa thường thiên về:\n\n- tụ hợp\n- bao phủ\n- tập trung\n- liên quan con người ở mức khái niệm hơn là hành động trực tiếp","x":-680,"y":-480,"width":376,"height":286},
 		{"id":"40515b0f93e4c811","type":"text","text":"今（いま）: bây giờ\n会（あう）: gặp\n全（ぜん）: toàn bộ\n合（あう・ごう）: hợp, ghép","x":-800,"y":200,"width":323,"height":139},
 		{"id":"d73eff292dff3a7b","type":"text","text":"Ví dụ:\n\n- 会：người tụ lại → gặp gỡ\n- 合：gom lại → hợp\n- 全：bao trọn → toàn bộ\n- 今：hình người + vật bên dưới → thời điểm hiện tại","x":-1320,"y":411,"width":375,"height":189},
-		{"id":"8ac0de2fd9e963b8","x":200,"y":-80,"width":250,"height":60,"type":"text","text":"食 - Thực"}
+		{"id":"38e3744ad492b70a","x":200,"y":-360,"width":218,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"},
+		{"id":"46e33a8f685b7819","x":200,"y":100,"width":243,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/全 - Toàn.canvas"},
+		{"id":"53d7b20a3cfb0574","x":-200,"y":340,"width":229,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
 	],
 	"edges":[
 		{"id":"7e783cd3d90f49c7","fromNode":"b04dded07785bfc8","fromSide":"left","toNode":"40515b0f93e4c811","toSide":"top"},
 		{"id":"7ddb43b77017dd30","fromNode":"b04dded07785bfc8","fromSide":"top","toNode":"2fea870ee4a07f3b","toSide":"bottom"},
 		{"id":"dad37fdc55e98920","fromNode":"40515b0f93e4c811","fromSide":"left","toNode":"d73eff292dff3a7b","toSide":"right"},
-		{"id":"cdfa4dcb74e1c866","fromNode":"b04dded07785bfc8","fromSide":"right","toNode":"8ac0de2fd9e963b8","toSide":"left"}
+		{"id":"ebf576cdc1d2031f","fromNode":"b04dded07785bfc8","fromSide":"right","toNode":"38e3744ad492b70a","toSide":"left"},
+		{"id":"0026da4a560761c9","fromNode":"b04dded07785bfc8","fromSide":"right","toNode":"46e33a8f685b7819","toSide":"left"},
+		{"id":"918a6c9a21d74ff2","fromNode":"53d7b20a3cfb0574","fromSide":"right","toNode":"46e33a8f685b7819","toSide":"left"}
 	]
 }

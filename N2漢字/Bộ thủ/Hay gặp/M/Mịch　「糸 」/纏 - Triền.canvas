@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"b6a336576976eaaa","type":"group","x":-575,"y":-280,"width":1362,"height":561,"label":"纏まる　「まとまる」："},
+		{"id":"41a0ec4f979722b3","type":"text","text":"纏まる　「まとまる」：","x":-555,"y":1,"width":250,"height":60},
+		{"id":"5aac1eb726622b8b","type":"text","text":"纏 - Triền","x":-915,"y":89,"width":250,"height":60},
+		{"id":"4479879b51b60b3a","type":"text","text":"1. Được sắp xếp gọn gàng, có tổ chức\nÝ kiến, tài liệu, nội dung được hệ thống hóa.","x":-235,"y":-171,"width":398,"height":79},
+		{"id":"6057c6b1a2ccbfe6","type":"text","text":"2. Đi đến thống nhất, đạt được thỏa thuận\nThường dùng trong đàm phán, họp hành.","x":-235,"y":-4,"width":373,"height":70},
+		{"id":"e704016566619d11","type":"text","text":"3. Gom lại thành một khối, một lượng lớn","x":-235,"y":129,"width":398,"height":50},
+		{"id":"dd5add142030383b","type":"text","text":"- 交渉がまとまった。  \n    → Cuộc đàm phán đã đi đến thống nhất.\n- 契約がまとまった。  \n    → Hợp đồng đã được chốt.","x":325,"y":-43,"width":442,"height":148},
+		{"id":"69ff7c6760aa5baa","type":"text","text":"まとまったお金\n→ Một khoản tiền lớn.\nまとまった休み\n→ Một kỳ nghỉ dài liên tục.","x":325,"y":129,"width":243,"height":132},
+		{"id":"3398a3358f5da1af","type":"text","text":"話がまとまった。\n→ Câu chuyện/vấn đề đã được sắp xếp rõ ràng.\n考えがまとまらない。\n→ Chưa sắp xếp được suy nghĩ.","x":325,"y":-260,"width":401,"height":129},
+		{"id":"e0d14a27ef0cc0a6","type":"text","text":"廛","x":-1085,"y":-71,"width":80,"height":60},
+		{"id":"957c3a8fe341e848","type":"text","text":"整う\nTrạng thái trở nên ngăn nắp, chuẩn bị đầy đủ.\n\n準備が整った。\n→ Công tác chuẩn bị đã hoàn tất.","x":1025,"y":-92,"width":310,"height":171},
+		{"id":"b46c808779bd0fd1","x":-1180,"y":260,"width":111,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"97f79d7b4e3406ca","fromNode":"b6a336576976eaaa","fromSide":"right","toNode":"957c3a8fe341e848","toSide":"left","label":"phân biệt với"},
+		{"id":"ee84e5c342c73782","fromNode":"e0d14a27ef0cc0a6","fromSide":"right","toNode":"5aac1eb726622b8b","toSide":"left","label":"biểu âm"},
+		{"id":"54f199cc2525a04f","fromNode":"41a0ec4f979722b3","fromSide":"right","toNode":"4479879b51b60b3a","toSide":"left"},
+		{"id":"1ae33c697fe61a19","fromNode":"41a0ec4f979722b3","fromSide":"right","toNode":"6057c6b1a2ccbfe6","toSide":"left"},
+		{"id":"17d3e8d3ec405f9f","fromNode":"41a0ec4f979722b3","fromSide":"right","toNode":"e704016566619d11","toSide":"left"},
+		{"id":"d6056f2af11ded56","fromNode":"5aac1eb726622b8b","fromSide":"right","toNode":"41a0ec4f979722b3","toSide":"left"},
+		{"id":"4a92f96897975835","fromNode":"b46c808779bd0fd1","fromSide":"right","toNode":"5aac1eb726622b8b","toSide":"left"},
+		{"id":"270db88d7d0b47f1","fromNode":"4479879b51b60b3a","fromSide":"right","toNode":"3398a3358f5da1af","toSide":"left"},
+		{"id":"1abe31f92ac1d5fe","fromNode":"6057c6b1a2ccbfe6","fromSide":"right","toNode":"dd5add142030383b","toSide":"left"},
+		{"id":"c7e3fc6c6dffbccc","fromNode":"e704016566619d11","fromSide":"right","toNode":"69ff7c6760aa5baa","toSide":"left"}
+	]
+}

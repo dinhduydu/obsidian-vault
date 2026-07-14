@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e05908b4c85d748","type":"text","text":"詩 - Thi","x":0,"y":-20,"width":250,"height":60},
+		{"id":"799b600a5c0d8d84","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-280,"y":140,"width":126,"height":112},
+		{"id":"08673e683fbad8a2","x":-298,"y":-200,"width":144,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"}
+	],
+	"edges":[
+		{"id":"ab4676dfe90c5bb5","fromNode":"799b600a5c0d8d84","fromSide":"right","toNode":"7e05908b4c85d748","toSide":"left"},
+		{"id":"1f816e1662924ffd","fromNode":"08673e683fbad8a2","fromSide":"right","toNode":"7e05908b4c85d748","toSide":"left"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9978523b5259f8b0","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kê　「彐」/Kê　「彐」.canvas","x":-314,"y":-170,"width":106,"height":93},
+		{"id":"d728f73d7054a29a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-314,"y":-30,"width":106,"height":89},
+		{"id":"1bdba444f47fa916","type":"text","text":"縁 - Duyên","x":-86,"y":29,"width":250,"height":60},
+		{"id":"710d02a1ff4aa730","type":"text","text":"縁　「ふち」：mép viền","x":279,"y":-9,"width":250,"height":60},
+		{"id":"4c3539e82e127e49","type":"text","text":"縁　「えん」：duyên","x":271,"y":-137,"width":250,"height":60},
+		{"id":"2ca81e2fed45b28b","type":"text","text":"縁　「ゆかり」：","x":271,"y":-270,"width":250,"height":60},
+		{"id":"adf26313feae6173","type":"text","text":"縁起　「えんぎ」：điềm gở","x":279,"y":150,"width":250,"height":60},
+		{"id":"f13869ded2b70b51","x":-439,"y":300,"width":160,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"7ac5385a650146a0","fromNode":"f13869ded2b70b51","fromSide":"right","toNode":"1bdba444f47fa916","toSide":"left","label":"kết duyên"},
+		{"id":"c0060912821dba4d","fromNode":"9978523b5259f8b0","fromSide":"right","toNode":"1bdba444f47fa916","toSide":"left","label":"nhím"},
+		{"id":"752f97e0d4769865","fromNode":"d728f73d7054a29a","fromSide":"right","toNode":"1bdba444f47fa916","toSide":"left","label":"lợn"},
+		{"id":"2fb36af832f074ba","fromNode":"1bdba444f47fa916","fromSide":"right","toNode":"710d02a1ff4aa730","toSide":"left"},
+		{"id":"24bd2d080be47019","fromNode":"1bdba444f47fa916","fromSide":"right","toNode":"adf26313feae6173","toSide":"left"},
+		{"id":"adaa72776a26c2a7","fromNode":"1bdba444f47fa916","fromSide":"right","toNode":"4c3539e82e127e49","toSide":"left"},
+		{"id":"e262dadb9e539fe5","fromNode":"1bdba444f47fa916","fromSide":"right","toNode":"2ca81e2fed45b28b","toSide":"left"}
+	]
+}

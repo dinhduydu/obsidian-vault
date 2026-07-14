@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"ee26808d98e13b2d","x":-21,"y":-48,"width":250,"height":60,"type":"text","text":"崩 - Băng"},
 		{"id":"4a7da46cd3041160","x":-300,"y":60,"width":144,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/Bằng　「朋」.canvas"},
-		{"id":"a097e385d2400d25","x":-307,"y":-201,"width":151,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」.canvas"}
+		{"id":"a097e385d2400d25","x":-307,"y":-201,"width":151,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
 	],
 	"edges":[
 		{"id":"2cb7f7a2e5ac657d","fromNode":"4a7da46cd3041160","fromSide":"right","toNode":"ee26808d98e13b2d","toSide":"left"},

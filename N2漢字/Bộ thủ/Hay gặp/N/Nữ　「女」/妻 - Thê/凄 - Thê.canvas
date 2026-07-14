@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1ceed58c3bba0bc2","x":-248,"y":-43,"width":250,"height":60,"type":"text","text":"凄 - Thê"},
+		{"id":"0aa02a141c4fb4dc","x":-560,"y":-260,"width":175,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/妻 - Thê.canvas"},
+		{"id":"ee4e12d4cd64d094","x":-561,"y":40,"width":176,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"a15f756155b85bd3","fromNode":"0aa02a141c4fb4dc","fromSide":"right","toNode":"1ceed58c3bba0bc2","toSide":"left"},
+		{"id":"01cd4b9ba84b8b18","fromNode":"ee4e12d4cd64d094","fromSide":"right","toNode":"1ceed58c3bba0bc2","toSide":"left"}
+	]
+}

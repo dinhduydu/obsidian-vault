@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"90cb3c9d18bfa9f4","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"容 - Dung"},
+		{"id":"7baeb4e8c3483fb6","x":-400,"y":160,"width":133,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/Cốc 「谷」.canvas"},
+		{"id":"362f8cac6aa3d608","x":-396,"y":-260,"width":129,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"b73421ead782ad6e","fromNode":"7baeb4e8c3483fb6","fromSide":"right","toNode":"90cb3c9d18bfa9f4","toSide":"left"},
+		{"id":"745286f047ccd988","fromNode":"362f8cac6aa3d608","fromSide":"right","toNode":"90cb3c9d18bfa9f4","toSide":"left"}
+	]
+}

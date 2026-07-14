@@ -1,113 +1,21 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 860,
-      "height": 420,
-      "text": "# 全～（ぜん～）\n\n📚 Hán Việt: TOÀN（全）\n\n🌍 Ý nghĩa trung tâm:\nTất cả • Toàn bộ • Hoàn toàn\n\n📌 Thường dùng để:\n- bao quát toàn bộ đối tượng\n- mức độ 100%\n- không loại trừ phần nào"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 760,
-      "height": 760,
-      "text": "# Ý nghĩa\n\n🧠 全 mang sắc thái:\n- toàn bộ\n- không sót phần nào\n- tất cả mọi thứ\n\n➡️ Gần giống:\n- all\n- entire\n- whole\n\n📌 Hay gặp trong:\n- thống kê\n- xã hội\n- công nghệ\n- tổ chức"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 80,
-      "width": 920,
-      "height": 620,
-      "text": "# 全学生（ぜんがくせい）\n\n🎓 Tất cả học sinh\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 学生 = học sinh\n\n## Nuance\n- bao gồm tất cả học sinh\n- không loại trừ ai\n\n💡 Dùng trong:\n- thông báo\n- trường học"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 860,
-      "width": 920,
-      "height": 620,
-      "text": "# 全画面（ぜんがめん）\n\n🖥️ Toàn màn hình\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 画面 = màn hình\n\n## Nuance\n- hiển thị full screen\n- không có giao diện khác\n\n💡 Dùng trong:\n- máy tính\n- video / app"
-    },
-    {
-      "id": "word3",
-      "type": "text",
-      "x": 1940,
-      "y": 1640,
-      "width": 920,
-      "height": 720,
-      "text": "# 全人口（ぜんじんこう）\n\n👥 Toàn bộ dân số\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 人口 = dân số\n\n## Nuance\n- tổng số người của một quốc gia/khu vực\n- số liệu thống kê chính thức\n\n💡 Dùng trong:\n- báo cáo\n- thống kê quốc gia"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1180,
-      "height": 620,
-      "text": "# Pattern N2\n\n🧩 全 + Danh từ\n→ Mang nghĩa:\n『toàn bộ / tất cả / 100%』\n\nVí dụ:\n- 全員 = toàn bộ thành viên\n- 全世界 = toàn thế giới\n- 全力 = toàn lực\n\n📌 Prefix này rất phổ biến trong:\n- đời sống\n- công nghệ\n- hành chính\n- thống kê"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 1540,
-      "width": 860,
-      "height": 920,
-      "text": "# So sánh nuance\n\n🌍 全 = tất cả / toàn bộ\n\n📌 Không có ngoại lệ\n→ bao phủ 100%\n\nVí dụ:\n- 全人口 = toàn bộ dân số\n- 一部 = một phần (đối lập)\n\n⚡ Cảm giác:\n『bao trùm toàn diện, không sót cái gì』\n\n📌 JLPT hay gặp:\n- 全員\n- 全体\n- 全国"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2620,
-      "width": 1180,
-      "height": 700,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 全 bằng hình ảnh:\n\n🌍 cả thế giới\n👥 toàn bộ dân số\n🖥️ màn hình full screen\n\n➡️ Điểm chung:\n『không còn phần nào bị thiếu』\n\n📌 Liên tưởng nhanh:\n全 = all / entire / 100%"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "center",
-      "toNode": "word2"
-    },
-    {
-      "id": "e4",
-      "fromNode": "center",
-      "toNode": "word3"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "pattern"
-    },
-    {
-      "id": "e6",
-      "fromNode": "center",
-      "toNode": "compare"
-    },
-    {
-      "id": "e7",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":860,"height":420,"text":"# 全～（ぜん～）\n\n📚 Hán Việt: TOÀN（全）\n\n🌍 Ý nghĩa trung tâm:\nTất cả • Toàn bộ • Hoàn toàn\n\n📌 Thường dùng để:\n- bao quát toàn bộ đối tượng\n- mức độ 100%\n- không loại trừ phần nào"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 全 mang sắc thái:\n- toàn bộ\n- không sót phần nào\n- tất cả mọi thứ\n\n➡️ Gần giống:\n- all\n- entire\n- whole\n\n📌 Hay gặp trong:\n- thống kê\n- xã hội\n- công nghệ\n- tổ chức"},
+		{"id":"word1","type":"text","x":1940,"y":80,"width":920,"height":620,"text":"# 全学生（ぜんがくせい）\n\n🎓 Tất cả học sinh\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 学生 = học sinh\n\n## Nuance\n- bao gồm tất cả học sinh\n- không loại trừ ai\n\n💡 Dùng trong:\n- thông báo\n- trường học"},
+		{"id":"word2","type":"text","x":1940,"y":860,"width":920,"height":620,"text":"# 全画面（ぜんがめん）\n\n🖥️ Toàn màn hình\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 画面 = màn hình\n\n## Nuance\n- hiển thị full screen\n- không có giao diện khác\n\n💡 Dùng trong:\n- máy tính\n- video / app"},
+		{"id":"word3","type":"text","x":1940,"y":1640,"width":920,"height":720,"text":"# 全人口（ぜんじんこう）\n\n👥 Toàn bộ dân số\n\n📚 Hán Việt:\n- 全 = toàn bộ\n- 人口 = dân số\n\n## Nuance\n- tổng số người của một quốc gia/khu vực\n- số liệu thống kê chính thức\n\n💡 Dùng trong:\n- báo cáo\n- thống kê quốc gia"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 全 + Danh từ\n→ Mang nghĩa:\n『toàn bộ / tất cả / 100%』\n\nVí dụ:\n- 全員 = toàn bộ thành viên\n- 全世界 = toàn thế giới\n- 全力 = toàn lực\n\n📌 Prefix này rất phổ biến trong:\n- đời sống\n- công nghệ\n- hành chính\n- thống kê"},
+		{"id":"compare","type":"text","x":120,"y":1540,"width":860,"height":920,"text":"# So sánh nuance\n\n🌍 全 = tất cả / toàn bộ\n\n📌 Không có ngoại lệ\n→ bao phủ 100%\n\nVí dụ:\n- 全人口 = toàn bộ dân số\n- 一部 = một phần (đối lập)\n\n⚡ Cảm giác:\n『bao trùm toàn diện, không sót cái gì』\n\n📌 JLPT hay gặp:\n- 全員\n- 全体\n- 全国"},
+		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 全 bằng hình ảnh:\n\n🌍 cả thế giới\n👥 toàn bộ dân số\n🖥️ màn hình full screen\n\n➡️ Điểm chung:\n『không còn phần nào bị thiếu』\n\n📌 Liên tưởng nhanh:\n全 = all / entire / 100%"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"compare","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"37aafe9c58e0f0b3","type":"text","text":"納 - Nạp","x":-350,"y":-30,"width":250,"height":60},
+		{"id":"8a58b57a700c521c","type":"text","text":"納得　「なっとく」：","x":100,"y":-30,"width":250,"height":60},
+		{"id":"227593a190b67689","x":-700,"y":180,"width":142,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"d71be57f13e99fa5","fromNode":"37aafe9c58e0f0b3","fromSide":"right","toNode":"8a58b57a700c521c","toSide":"left"},
+		{"id":"8466bec6574acd88","fromNode":"227593a190b67689","fromSide":"right","toNode":"37aafe9c58e0f0b3","toSide":"left"}
+	]
+}

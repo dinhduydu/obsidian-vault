@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b10fc06310722307","x":-221,"y":-29,"width":250,"height":60,"type":"text","text":"時 - Thì - Thời"},
+		{"id":"0bdbc23e6889e702","x":-600,"y":160,"width":218,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"},
+		{"id":"84970e60c51f8e74","x":-548,"y":-320,"width":166,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"a34d54d63739774d","fromNode":"0bdbc23e6889e702","fromSide":"right","toNode":"b10fc06310722307","toSide":"left"},
+		{"id":"d286db8a89865d4c","fromNode":"84970e60c51f8e74","fromSide":"right","toNode":"b10fc06310722307","toSide":"left"}
+	]
+}

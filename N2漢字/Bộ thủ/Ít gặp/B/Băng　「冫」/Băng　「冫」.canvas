@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"1442dbf1a61915b1","type":"text","text":"Băng　「冫」","x":-171,"y":-23,"width":250,"height":60},
 		{"id":"2e64b790af8b86d5","type":"text","text":"Có yếu tố “đang chuyển tiếp” (冫 biểu thị trạng thái dòng chảy/biến đổi nhẹ trong nhiều chữ)","x":-171,"y":-500,"width":250,"height":132},
 		{"id":"db5af7ee63830e10","type":"text","text":"Liên quan đến lạnh, đóng băng (trong nhiều chữ Hán)","x":-171,"y":360,"width":250,"height":60},
 		{"id":"d755b7d294f581bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas","x":6,"y":-840,"width":146,"height":83},
@@ -8,7 +7,10 @@
 		{"id":"1d36250c9b79d953","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/准 - Chuẩn.canvas","x":308,"y":-490,"width":146,"height":122},
 		{"id":"03868a6df73f7f3c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/冶 - Dã.canvas","x":317,"y":-300,"width":232,"height":229},
 		{"id":"a78c93ee844b82f9","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/凍 - Đông.canvas","x":315,"y":100,"width":181,"height":163},
-		{"id":"fcd02d17a6942494","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/冷 - Hàn.canvas","x":308,"y":365,"width":125,"height":111}
+		{"id":"fcd02d17a6942494","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/冷 - Hàn.canvas","x":308,"y":365,"width":125,"height":111},
+		{"id":"1442dbf1a61915b1","type":"text","text":"Băng　「冫」","x":-171,"y":-40,"width":250,"height":60},
+		{"id":"12ab724a05a182b4","x":1160,"y":-160,"width":311,"height":301,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/凄 - Thê.canvas"},
+		{"id":"7f6b3f2855d8c67f","x":840,"y":-331,"width":197,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/妻 - Thê.canvas"}
 	],
 	"edges":[
 		{"id":"c821519fd777e626","fromNode":"1442dbf1a61915b1","fromSide":"right","toNode":"03868a6df73f7f3c","toSide":"left"},
@@ -21,6 +23,8 @@
 		{"id":"148110422e559afe","fromNode":"db5af7ee63830e10","fromSide":"right","toNode":"fcd02d17a6942494","toSide":"left","color":"5"},
 		{"id":"699830e66b2f3299","fromNode":"db5af7ee63830e10","fromSide":"right","toNode":"a78c93ee844b82f9","toSide":"left","color":"5"},
 		{"id":"c81c509fd44e8e9a","fromNode":"d755b7d294f581bc","fromSide":"right","toNode":"9ca9956728f9d3f1","toSide":"left","label":"Thiếu (欠) → luôn muốn cái tiếp theo"},
-		{"id":"b7e39e250ccfc496","fromNode":"2e64b790af8b86d5","fromSide":"right","toNode":"9ca9956728f9d3f1","toSide":"left","color":"1"}
+		{"id":"b7e39e250ccfc496","fromNode":"2e64b790af8b86d5","fromSide":"right","toNode":"9ca9956728f9d3f1","toSide":"left","color":"1"},
+		{"id":"2fd5a77ee8a36487","fromNode":"1442dbf1a61915b1","fromSide":"right","toNode":"12ab724a05a182b4","toSide":"left"},
+		{"id":"5f1105cd179e6c2b","fromNode":"7f6b3f2855d8c67f","fromSide":"right","toNode":"12ab724a05a182b4","toSide":"left"}
 	]
 }

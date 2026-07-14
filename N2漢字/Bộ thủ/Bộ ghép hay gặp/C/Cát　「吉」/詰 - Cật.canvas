@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a65e3fa6bbfa9395","type":"text","text":"詰 - Cật","x":-162,"y":-70,"width":250,"height":60},
+		{"id":"8c8bc49f74578b30","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":-540,"y":160,"width":197,"height":144},
+		{"id":"313dd38302f16822","type":"text","text":"詰める","x":380,"y":130,"width":250,"height":60},
+		{"id":"008316c08b28a285","x":-541,"y":-360,"width":200,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"d3345dd86d79ac4e","fromNode":"8c8bc49f74578b30","fromSide":"right","toNode":"a65e3fa6bbfa9395","toSide":"left"},
+		{"id":"e85876b0a89225ba","fromNode":"a65e3fa6bbfa9395","fromSide":"right","toNode":"313dd38302f16822","toSide":"left"},
+		{"id":"487208ba8cdfe87d","fromNode":"008316c08b28a285","fromSide":"right","toNode":"a65e3fa6bbfa9395","toSide":"left"}
+	]
+}

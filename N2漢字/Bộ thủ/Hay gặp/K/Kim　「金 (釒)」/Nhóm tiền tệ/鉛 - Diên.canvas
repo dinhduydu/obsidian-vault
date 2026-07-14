@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"fee91674c01a39be","type":"text","text":"鉛 - Diên","x":-58,"y":-54,"width":250,"height":60},
-		{"id":"f3f6c9ef323eb399","type":"text","text":"Chì","x":320,"y":-140,"width":250,"height":60}
+		{"id":"f3f6c9ef323eb399","type":"text","text":"Chì","x":320,"y":-140,"width":250,"height":60},
+		{"id":"d30d277d06e29e59","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-400,"y":-241,"width":153,"height":101},
+		{"id":"8f9df2cb4dc019ce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/㕣 - Diên/㕣 - Diên.canvas","x":-460,"y":100,"width":193,"height":180}
 	],
 	"edges":[
-		{"id":"0dac762d49ad5ddb","fromNode":"fee91674c01a39be","fromSide":"right","toNode":"f3f6c9ef323eb399","toSide":"left"}
+		{"id":"0dac762d49ad5ddb","fromNode":"fee91674c01a39be","fromSide":"right","toNode":"f3f6c9ef323eb399","toSide":"left"},
+		{"id":"ec44d55f332a52ca","fromNode":"d30d277d06e29e59","fromSide":"right","toNode":"fee91674c01a39be","toSide":"left"},
+		{"id":"271d53f5543605f7","fromNode":"8f9df2cb4dc019ce","fromSide":"right","toNode":"fee91674c01a39be","toSide":"left"}
 	]
 }

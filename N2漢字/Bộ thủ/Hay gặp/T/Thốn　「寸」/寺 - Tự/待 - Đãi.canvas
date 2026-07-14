@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c675c514babdb775","x":-143,"y":-38,"width":250,"height":60,"type":"text","text":"待 - Đãi"},
+		{"id":"2f786fbdd7d3eff5","x":-480,"y":140,"width":188,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"},
+		{"id":"37ed555b5dd4cefe","x":-680,"y":-82,"width":183,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"64bd82015b9a3351","fromNode":"2f786fbdd7d3eff5","fromSide":"right","toNode":"c675c514babdb775","toSide":"left"},
+		{"id":"85bdcc43e4e164b8","fromNode":"37ed555b5dd4cefe","fromSide":"right","toNode":"c675c514babdb775","toSide":"left"}
+	]
+}

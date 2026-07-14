@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"6028ee2a9ebbeee4","x":-211,"y":-8,"width":250,"height":60,"type":"text","text":"特 - Đặc"},
-		{"id":"191e39111b9dde0f","x":-480,"y":-92,"width":124,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+		{"id":"87f375d69ba63b51","x":-385,"y":22,"width":174,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/特 - Đặc.canvas"},
+		{"id":"191e39111b9dde0f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":-691,"y":-122,"width":124,"height":114},
+		{"id":"3a792bb4b1bd4839","x":-741,"y":172,"width":174,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"},
+		{"id":"6028ee2a9ebbeee4","type":"text","text":"特 - Đặc","x":-60,"y":67,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"d972ca235223c97d","fromNode":"191e39111b9dde0f","fromSide":"right","toNode":"6028ee2a9ebbeee4","toSide":"left"}
+		{"id":"d972ca235223c97d","fromNode":"191e39111b9dde0f","fromSide":"right","toNode":"87f375d69ba63b51","toSide":"left"},
+		{"id":"ac4fb167b6042cdb","fromNode":"3a792bb4b1bd4839","fromSide":"right","toNode":"87f375d69ba63b51","toSide":"left"},
+		{"id":"3154ab6f6e192634","fromNode":"87f375d69ba63b51","fromSide":"right","toNode":"6028ee2a9ebbeee4","toSide":"left"}
 	]
 }

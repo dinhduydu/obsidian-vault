@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"860f5639706e74e0","type":"text","text":"緑 - Lục","x":8,"y":-85,"width":250,"height":60},
+		{"id":"c3e390150f44e337","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「彔」.canvas","x":-260,"y":120,"width":133,"height":110},
+		{"id":"790b47c01aae34b2","x":-284,"y":-240,"width":157,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"874a8be6dda549c0","fromNode":"c3e390150f44e337","fromSide":"right","toNode":"860f5639706e74e0","toSide":"left"},
+		{"id":"c099cb1da7247ab3","fromNode":"790b47c01aae34b2","fromSide":"right","toNode":"860f5639706e74e0","toSide":"left"}
+	]
+}

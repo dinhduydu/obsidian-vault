@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8b5532fc4e31744a","x":-104,"y":-28,"width":250,"height":60,"type":"text","text":"搾 - Trá"},
+		{"id":"1df49e69d9fd1e71","x":-500,"y":-48,"width":99,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"cc95667f1ae5e366","x":-360,"y":-260,"width":177,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"},
+		{"id":"bb1ae3431105e07b","x":-370,"y":180,"width":187,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sạ　「乍」/Sạ　「乍」.canvas"}
+	],
+	"edges":[
+		{"id":"872bd7d091f56de1","fromNode":"1df49e69d9fd1e71","fromSide":"right","toNode":"8b5532fc4e31744a","toSide":"left"},
+		{"id":"e7ecc4c902886b11","fromNode":"cc95667f1ae5e366","fromSide":"right","toNode":"8b5532fc4e31744a","toSide":"left"},
+		{"id":"72820a0b2e0d2d54","fromNode":"bb1ae3431105e07b","fromSide":"right","toNode":"8b5532fc4e31744a","toSide":"left"}
+	]
+}

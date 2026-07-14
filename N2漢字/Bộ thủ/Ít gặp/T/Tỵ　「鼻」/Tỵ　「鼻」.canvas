@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"a17a012ac79d3829","x":-189,"y":18,"width":250,"height":60,"type":"text","text":"Tỵ　「鼻」"}
+		{"id":"a17a012ac79d3829","type":"text","text":"Tỵ　「鼻」","x":-189,"y":18,"width":250,"height":60},
+		{"id":"d621c11ab6aee13f","x":-468,"y":280,"width":119,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"87d99fd2e39b2366","x":-540,"y":-8,"width":141,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"13280ef222a438c1","x":-561,"y":-220,"width":162,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/Tự　「自 」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8f3c6c7396062930","fromNode":"13280ef222a438c1","fromSide":"right","toNode":"a17a012ac79d3829","toSide":"left"},
+		{"id":"4ce7f2f6b986c990","fromNode":"d621c11ab6aee13f","fromSide":"right","toNode":"a17a012ac79d3829","toSide":"left"},
+		{"id":"4f343d92735edc9b","fromNode":"87d99fd2e39b2366","fromSide":"right","toNode":"a17a012ac79d3829","toSide":"left"}
+	]
 }

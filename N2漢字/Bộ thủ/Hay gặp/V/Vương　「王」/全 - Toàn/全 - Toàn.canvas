@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"926d826aa3570375","type":"text","text":"全 - Toàn","x":-171,"y":-65,"width":250,"height":60},
+		{"id":"3a7140394a25f9ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas","x":-1200,"y":169,"width":220,"height":137},
+		{"id":"8acc019b6984b67a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-1180,"y":-400,"width":180,"height":125},
+		{"id":"83d111c761583e63","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 9/全 - Toàn.canvas","x":-580,"y":-126,"width":221,"height":182},
+		{"id":"e80b732f1b9c8f21","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/栓 - Xuyên.canvas","x":360,"y":361,"width":276,"height":204},
+		{"id":"77c58064a9b9c809","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-25,"y":565,"width":208,"height":145},
+		{"id":"92b708ada1b0e2ca","x":740,"y":-139,"width":240,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/詮 - Thuyên.canvas"},
+		{"id":"9655e439a93a7892","x":360,"y":-350,"width":165,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"71752294fccd6d5e","fromNode":"3a7140394a25f9ea","fromSide":"right","toNode":"83d111c761583e63","toSide":"left"},
+		{"id":"8eae4bc8782eb63a","fromNode":"926d826aa3570375","fromSide":"right","toNode":"e80b732f1b9c8f21","toSide":"left"},
+		{"id":"f1cbbd0edb48f4a9","fromNode":"77c58064a9b9c809","fromSide":"right","toNode":"e80b732f1b9c8f21","toSide":"left"},
+		{"id":"f9faddee38b3647e","fromNode":"83d111c761583e63","fromSide":"right","toNode":"926d826aa3570375","toSide":"left"},
+		{"id":"35a1fc56f6a94396","fromNode":"8acc019b6984b67a","fromSide":"right","toNode":"83d111c761583e63","toSide":"left"},
+		{"id":"f85306e0725aebd1","fromNode":"926d826aa3570375","fromSide":"right","toNode":"92b708ada1b0e2ca","toSide":"left"},
+		{"id":"bdc4a468e5c9688c","fromNode":"9655e439a93a7892","fromSide":"right","toNode":"92b708ada1b0e2ca","toSide":"left"}
+	]
+}

@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"df3336257d2f9399","type":"text","text":"Điền　「田」","x":-145,"y":-39,"width":250,"height":60},
 		{"id":"6b739ab0c035c26b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-120,"y":-320,"width":166,"height":138},
-		{"id":"2db62deb1bbffc5e","x":260,"y":-160,"width":133,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/畑 - Điền.canvas"}
+		{"id":"2db62deb1bbffc5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/畑 - Điền.canvas","x":260,"y":-160,"width":133,"height":83},
+		{"id":"528c5e2cc88cc68f","x":260,"y":120,"width":210,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/理 - Lý/理 - Lý.canvas"},
+		{"id":"fe403115a71242ef","x":-120,"y":300,"width":207,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
 	],
 	"edges":[
 		{"id":"862d8509aa9ae391","fromNode":"df3336257d2f9399","fromSide":"right","toNode":"2db62deb1bbffc5e","toSide":"left"},
-		{"id":"e0b7077d41e2049b","fromNode":"6b739ab0c035c26b","fromSide":"right","toNode":"2db62deb1bbffc5e","toSide":"left"}
+		{"id":"e0b7077d41e2049b","fromNode":"6b739ab0c035c26b","fromSide":"right","toNode":"2db62deb1bbffc5e","toSide":"left"},
+		{"id":"68930b9ebadf0da8","fromNode":"df3336257d2f9399","fromSide":"right","toNode":"528c5e2cc88cc68f","toSide":"left"},
+		{"id":"a4a247426dc30e06","fromNode":"fe403115a71242ef","fromSide":"right","toNode":"528c5e2cc88cc68f","toSide":"left"}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4e57d11c3491145f","type":"text","text":"合 - Hợp","x":-660,"y":15,"width":250,"height":60},
+		{"id":"b17411be26504a6f","type":"text","text":"合図「あいず」：Hiệu lệnh","x":-204,"y":-74,"width":250,"height":60},
+		{"id":"d2ada15ce4ce8a59","type":"text","text":" 彼は指を唇に立てて、「静かに」と仲間に**合図**を送った。\n","x":193,"y":-69,"width":468,"height":50},
+		{"id":"c1724cef999de612","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-940,"y":180,"width":131,"height":78},
+		{"id":"e8c7b1ad5e4b4ecc","x":-987,"y":-206,"width":178,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tập　「亼」/Tập　「亼」.canvas"}
+	],
+	"edges":[
+		{"id":"e590101f5977e8f8","fromNode":"4e57d11c3491145f","fromSide":"right","toNode":"b17411be26504a6f","toSide":"left"},
+		{"id":"396dbd60db374ad8","fromNode":"b17411be26504a6f","fromSide":"right","toNode":"d2ada15ce4ce8a59","toSide":"left"},
+		{"id":"e61a52be8f545314","fromNode":"c1724cef999de612","fromSide":"right","toNode":"4e57d11c3491145f","toSide":"left"},
+		{"id":"812e86ec13202f93","fromNode":"e8c7b1ad5e4b4ecc","fromSide":"right","toNode":"4e57d11c3491145f","toSide":"left"}
+	]
+}

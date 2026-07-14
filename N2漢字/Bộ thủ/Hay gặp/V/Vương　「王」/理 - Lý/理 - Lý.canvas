@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"caa8933e454f706d","type":"text","text":"理 - Lý","x":-306,"y":-27,"width":250,"height":60},
+		{"id":"41137f090e683a20","type":"text","text":"lí do, lí luận, nguyên lí","x":57,"y":-32,"width":250,"height":60},
+		{"id":"3950ee0fe9286586","x":-640,"y":100,"width":148,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"f998dd498e696ca2","fromNode":"caa8933e454f706d","fromSide":"right","toNode":"41137f090e683a20","toSide":"left"},
+		{"id":"804a98b09d30ed12","fromNode":"3950ee0fe9286586","fromSide":"right","toNode":"caa8933e454f706d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ebc53cfc5ebd9bd9","x":-152,"y":-51,"width":250,"height":60,"type":"text","text":"俗 - Tục"},
+		{"id":"5359ed8c3220836e","x":-560,"y":-280,"width":189,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/Cốc 「谷」.canvas"},
+		{"id":"fd273297731bb9e1","x":-543,"y":80,"width":172,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"e25dd0996ec31076","fromNode":"5359ed8c3220836e","fromSide":"right","toNode":"ebc53cfc5ebd9bd9","toSide":"left"},
+		{"id":"a9e4a11d6721dbfe","fromNode":"fd273297731bb9e1","fromSide":"right","toNode":"ebc53cfc5ebd9bd9","toSide":"left"}
+	]
+}

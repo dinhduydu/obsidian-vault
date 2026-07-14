@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"70aeaee16d34a2c5","x":-128,"y":-47,"width":250,"height":60,"type":"text","text":"Các　「各」"}
+		{"id":"70aeaee16d34a2c5","type":"text","text":"Các　「各」","x":-128,"y":-47,"width":250,"height":60},
+		{"id":"83854bf3e7b38511","x":-480,"y":-260,"width":144,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"},
+		{"id":"7c10a4c9e088b078","x":-492,"y":120,"width":169,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f1f34edfed2355e4","fromNode":"83854bf3e7b38511","fromSide":"right","toNode":"70aeaee16d34a2c5","toSide":"left"},
+		{"id":"1404f36042d7e11a","fromNode":"7c10a4c9e088b078","fromSide":"right","toNode":"70aeaee16d34a2c5","toSide":"left"}
+	]
 }

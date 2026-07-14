@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"84ce00f465afd1ee","type":"text","text":"周 - Chu","x":-188,"y":-73,"width":250,"height":60},
+		{"id":"33c8f213ff8026d3","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":-540,"y":80,"width":146,"height":109},
+		{"id":"ff1ff0843f87f716","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-620,"y":-320,"width":205,"height":183},
+		{"id":"9bbde6696e973dec","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/週 - Chu.canvas","x":280,"y":-443,"width":202,"height":123},
+		{"id":"6815301f7d479b0b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-97,"y":-660,"width":159,"height":140},
+		{"id":"ce8ce95cc85ab6e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/調 - Điều.canvas","x":960,"y":-153,"width":221,"height":220},
+		{"id":"aef7585db6bac1ae","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":620,"y":-320,"width":181,"height":145},
+		{"id":"005bad0397988237","x":280,"y":240,"width":263,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/彫 - Điêu.canvas"},
+		{"id":"20094054b9e650fa","x":-171,"y":520,"width":217,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas"}
+	],
+	"edges":[
+		{"id":"0cc1d6fb06535a69","fromNode":"33c8f213ff8026d3","fromSide":"right","toNode":"84ce00f465afd1ee","toSide":"left"},
+		{"id":"ac0f02e113f36e70","fromNode":"ff1ff0843f87f716","fromSide":"right","toNode":"84ce00f465afd1ee","toSide":"left"},
+		{"id":"f9ee63154ce90e30","fromNode":"84ce00f465afd1ee","fromSide":"right","toNode":"9bbde6696e973dec","toSide":"left"},
+		{"id":"f77b3e67f6a7ce45","fromNode":"6815301f7d479b0b","fromSide":"right","toNode":"9bbde6696e973dec","toSide":"left"},
+		{"id":"d6803c5a32398cce","fromNode":"84ce00f465afd1ee","fromSide":"right","toNode":"ce8ce95cc85ab6e2","toSide":"left"},
+		{"id":"9b66ec36cbf73a96","fromNode":"aef7585db6bac1ae","fromSide":"right","toNode":"ce8ce95cc85ab6e2","toSide":"left"},
+		{"id":"eb839a76b74bb98c","fromNode":"84ce00f465afd1ee","fromSide":"right","toNode":"005bad0397988237","toSide":"left"},
+		{"id":"295b634360069cca","fromNode":"20094054b9e650fa","fromSide":"right","toNode":"005bad0397988237","toSide":"left"}
+	]
+}

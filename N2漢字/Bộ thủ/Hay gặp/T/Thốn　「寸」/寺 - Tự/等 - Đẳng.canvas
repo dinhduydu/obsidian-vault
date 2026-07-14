@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"39de6177f704fff3","x":-219,"y":-34,"width":250,"height":60,"type":"text","text":"等 - Đẳng"},
+		{"id":"a33338b5c3929ace","x":-460,"y":140,"width":129,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"},
+		{"id":"2c5a8e148d0095ac","x":-447,"y":-140,"width":104,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"0d25a1e0ca003f1a","fromNode":"a33338b5c3929ace","fromSide":"right","toNode":"39de6177f704fff3","toSide":"left"},
+		{"id":"5835bc89a4123f71","fromNode":"2c5a8e148d0095ac","fromSide":"right","toNode":"39de6177f704fff3","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6a2c4058113fda40","type":"text","text":"Cát　「吉」","x":-88,"y":-29,"width":250,"height":60},
+		{"id":"4ec4198df7c74872","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/詰 - Cật.canvas","x":400,"y":-229,"width":192,"height":101},
+		{"id":"3798e476434c2818","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":0,"y":-460,"width":183,"height":181},
+		{"id":"9d3f2540775c9be4","x":400,"y":60,"width":211,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/周 - Chu.canvas"},
+		{"id":"078a5ae199caece3","x":100,"y":280,"width":166,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"}
+	],
+	"edges":[
+		{"id":"d8c064f2d7c3aafb","fromNode":"6a2c4058113fda40","fromSide":"right","toNode":"4ec4198df7c74872","toSide":"left"},
+		{"id":"64840051a7d74d02","fromNode":"3798e476434c2818","fromSide":"right","toNode":"4ec4198df7c74872","toSide":"left"},
+		{"id":"3807510db4645499","fromNode":"6a2c4058113fda40","fromSide":"right","toNode":"9d3f2540775c9be4","toSide":"left"},
+		{"id":"a446e7c37e4ddb90","fromNode":"078a5ae199caece3","fromSide":"right","toNode":"9d3f2540775c9be4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"03543f5648e0662f","type":"text","text":"誕 - Đản","x":-55,"y":-85,"width":250,"height":60},
+		{"id":"927652ec79407b11","x":-356,"y":60,"width":189,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"9da5a15db1016981","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/延 - Duyên.canvas","x":-300,"y":-280,"width":133,"height":125}
+	],
+	"edges":[
+		{"id":"e2b98d387f2bd901","fromNode":"9da5a15db1016981","fromSide":"right","toNode":"03543f5648e0662f","toSide":"left"},
+		{"id":"82406424a8a713c1","fromNode":"927652ec79407b11","fromSide":"right","toNode":"03543f5648e0662f","toSide":"left"}
+	]
+}

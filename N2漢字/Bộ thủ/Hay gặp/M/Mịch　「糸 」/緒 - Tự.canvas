@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd15bb0d479a0ef1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"緒 - Tự"},
+		{"id":"f52fa4612529d242","x":-460,"y":160,"width":127,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"897edb8153f1fca7","fromNode":"f52fa4612529d242","fromSide":"right","toNode":"fd15bb0d479a0ef1","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"16648223fe3175ec","type":"text","text":"詮 - Thuyên","x":-64,"y":-6,"width":250,"height":60},
+		{"id":"23b9c721bf8ec28b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/全 - Toàn.canvas","x":-540,"y":260,"width":241,"height":200},
+		{"id":"8aa368edef4679f5","x":-562,"y":-320,"width":263,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"4b68aa35f36c7025","fromNode":"23b9c721bf8ec28b","fromSide":"right","toNode":"16648223fe3175ec","toSide":"left"},
+		{"id":"94490fc146e4e4fa","fromNode":"8aa368edef4679f5","fromSide":"right","toNode":"16648223fe3175ec","toSide":"left"}
+	]
+}

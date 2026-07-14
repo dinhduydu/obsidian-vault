@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"55e14f3231957a6b","x":-212,"y":-11,"width":250,"height":60,"type":"text","text":"復 - Phục"},
 		{"id":"4dde3878b017b2b0","x":-560,"y":120,"width":177,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/Phục　「复」.canvas"},
-		{"id":"640ec1070fe60006","x":-640,"y":-280,"width":190,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas"}
+		{"id":"640ec1070fe60006","x":-640,"y":-280,"width":190,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
 	],
 	"edges":[
 		{"id":"f65db1bcc8258d88","fromNode":"4dde3878b017b2b0","fromSide":"right","toNode":"55e14f3231957a6b","toSide":"left"},

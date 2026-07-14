@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4262b3c0f659391e","type":"text","text":"痴 - Si","x":-21,"y":-47,"width":250,"height":60},
+		{"id":"d26f7886111c2e01","x":-360,"y":-240,"width":162,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/知 - Tri/知 - Tri.canvas"},
+		{"id":"54c739dc037637ce","x":-349,"y":13,"width":151,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"442af31bd45ea054","fromNode":"d26f7886111c2e01","fromSide":"right","toNode":"4262b3c0f659391e","toSide":"left"},
+		{"id":"5b6f6c1dfc84c67d","fromNode":"54c739dc037637ce","fromSide":"right","toNode":"4262b3c0f659391e","toSide":"left"}
+	]
+}

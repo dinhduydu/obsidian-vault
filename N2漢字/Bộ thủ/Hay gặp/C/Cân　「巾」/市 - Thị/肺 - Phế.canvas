@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"47e33985ed351732","type":"text","text":"肺 - Phế","x":-151,"y":-23,"width":250,"height":60},
+		{"id":"48f7cc4970220d92","type":"text","text":"Phổi","x":-505,"y":-320,"width":250,"height":60},
+		{"id":"3b84dac6609322ab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-432,"y":-115,"width":104,"height":92},
+		{"id":"bd02aee83526bfca","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/市 - Thị/市 - Thị.canvas","x":-455,"y":60,"width":150,"height":135}
+	],
+	"edges":[
+		{"id":"3d4480faf937f133","fromNode":"bd02aee83526bfca","fromSide":"right","toNode":"47e33985ed351732","toSide":"left"},
+		{"id":"8c8a51e899dbff29","fromNode":"3b84dac6609322ab","fromSide":"right","toNode":"47e33985ed351732","toSide":"left"},
+		{"id":"1028b3e2df8bbdfe","fromNode":"48f7cc4970220d92","fromSide":"right","toNode":"47e33985ed351732","toSide":"left"}
+	]
+}

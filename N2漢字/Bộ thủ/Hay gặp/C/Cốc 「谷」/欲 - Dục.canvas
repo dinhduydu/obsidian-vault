@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1e81c986ede43754","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"欲 - Dục"},
+		{"id":"08bde8831c574c36","x":-460,"y":-200,"width":161,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/Cốc 「谷」.canvas"},
+		{"id":"a911d752df67ee2e","x":-458,"y":60,"width":159,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"}
+	],
+	"edges":[
+		{"id":"34effbf4b2f06615","fromNode":"08bde8831c574c36","fromSide":"right","toNode":"1e81c986ede43754","toSide":"left"},
+		{"id":"3641884b3735aa1f","fromNode":"a911d752df67ee2e","fromSide":"right","toNode":"1e81c986ede43754","toSide":"left"}
+	]
+}

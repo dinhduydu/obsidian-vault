@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ddd0894e72e153ed","type":"group","x":260,"y":-300,"width":301,"height":313,"label":"Đầu"},
-		{"id":"9f5a36196d4035b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」.canvas","x":-100,"y":499,"width":145,"height":133},
+		{"id":"9f5a36196d4035b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas","x":-100,"y":499,"width":145,"height":133},
 		{"id":"6259a8f1917ac5cf","type":"text","text":"頻","x":220,"y":700,"width":250,"height":60},
 		{"id":"d3c7e5e0d5a93475","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/順 - Thuận.canvas","x":274,"y":404,"width":146,"height":95},
 		{"id":"470e46df3af5cf5a","type":"text","text":"客 - Khách","x":37,"y":-620,"width":130,"height":60},

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"738cf93b563b3cbd","type":"text","text":"教訓　「きょうくん」：giáo huấn","x":312,"y":-128,"width":250,"height":60},
+		{"id":"7d2d941a0ece1977","type":"text","text":"訓 - Huấn","x":-181,"y":-71,"width":250,"height":60},
+		{"id":"1b7a0b5f471b199d","x":-623,"y":-400,"width":217,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas"},
+		{"id":"1a2c5214277be105","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-561,"y":60,"width":155,"height":140}
+	],
+	"edges":[
+		{"id":"93eaff17959d319a","fromNode":"7d2d941a0ece1977","fromSide":"right","toNode":"738cf93b563b3cbd","toSide":"left"},
+		{"id":"2f12d8e2e91a62b5","fromNode":"1a2c5214277be105","fromSide":"right","toNode":"7d2d941a0ece1977","toSide":"left"},
+		{"id":"0c1fc39b99c13668","fromNode":"1b7a0b5f471b199d","fromSide":"right","toNode":"7d2d941a0ece1977","toSide":"left"}
+	]
+}

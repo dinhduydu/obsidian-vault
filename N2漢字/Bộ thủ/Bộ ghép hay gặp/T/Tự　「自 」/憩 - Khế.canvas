@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8407f6c4a153195a","type":"text","text":"憩 - Khế","x":-229,"y":-43,"width":250,"height":60},
+		{"id":"fcb8d1b2b55efd73","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/息 - Tức.canvas","x":-440,"y":80,"width":100,"height":123},
+		{"id":"1e1cda2a1ff84873","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas","x":-526,"y":-220,"width":172,"height":140},
+		{"id":"0e57aac51728f32f","x":-820,"y":-43,"width":250,"height":60,"type":"text","text":"nghỉ ngơi"}
+	],
+	"edges":[
+		{"id":"06fa817ba3a302ad","fromNode":"fcb8d1b2b55efd73","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"},
+		{"id":"8d8cf79bbefc92d5","fromNode":"1e1cda2a1ff84873","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"},
+		{"id":"2fb283410dcccc39","fromNode":"0e57aac51728f32f","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"}
+	]
+}

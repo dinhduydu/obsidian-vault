@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6ef8169a36de03fb","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"侍 - Thị"},
+		{"id":"7c9249ac24da794d","x":-460,"y":160,"width":204,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/寺 - Tự/寺 - Tự.canvas"},
+		{"id":"accea952169aadac","x":-780,"y":-98,"width":261,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"9de89707ab590275","x":319,"y":-206,"width":250,"height":60,"type":"text","text":"侍　「さむらい」：samurai"}
+	],
+	"edges":[
+		{"id":"88f8d7901fd3cb3e","fromNode":"7c9249ac24da794d","fromSide":"right","toNode":"6ef8169a36de03fb","toSide":"left"},
+		{"id":"2e350ae3a32b378a","fromNode":"accea952169aadac","fromSide":"right","toNode":"6ef8169a36de03fb","toSide":"left"},
+		{"id":"c322bd979346fe72","fromNode":"6ef8169a36de03fb","fromSide":"right","toNode":"9de89707ab590275","toSide":"left"}
+	]
+}

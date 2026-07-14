@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ccce0e868158bf06","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-44,"y":100,"width":169,"height":106},
+		{"id":"6280ab3ab6b36929","type":"text","text":"Sạ　「乍」","x":-125,"y":-200,"width":250,"height":60},
+		{"id":"f98b6fea4b526aab","x":280,"y":-60,"width":171,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sạ　「乍」/作 - Tác.canvas"}
+	],
+	"edges":[
+		{"id":"6c0b8c348055f95d","fromNode":"6280ab3ab6b36929","fromSide":"right","toNode":"f98b6fea4b526aab","toSide":"left"},
+		{"id":"d55b9bd8951730c5","fromNode":"ccce0e868158bf06","fromSide":"right","toNode":"f98b6fea4b526aab","toSide":"left"}
+	]
+}

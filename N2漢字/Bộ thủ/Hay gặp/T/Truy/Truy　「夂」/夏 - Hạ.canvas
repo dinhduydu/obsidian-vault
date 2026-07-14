@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"289c266caa17361f","x":-153,"y":-48,"width":250,"height":60,"type":"text","text":"夏 - Hạ"},
+		{"id":"6a3f38436d879449","x":-460,"y":160,"width":139,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"26994d5061976f8c","fromNode":"6a3f38436d879449","fromSide":"right","toNode":"289c266caa17361f","toSide":"left"}
+	]
+}

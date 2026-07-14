@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2ae02140dad8f009","type":"text","text":"績 - Tích","x":-210,"y":-25,"width":250,"height":60},
+		{"id":"b2a519048a2d8791","type":"text","text":"成績：thành tích","x":247,"y":-25,"width":250,"height":60},
+		{"id":"7b5d60cda60627d0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-480,"y":-160,"width":91,"height":70},
+		{"id":"f30b407531f3fa3d","x":-513,"y":100,"width":124,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"6128bd1f6229af8c","fromNode":"7b5d60cda60627d0","fromSide":"right","toNode":"2ae02140dad8f009","toSide":"left"},
+		{"id":"3253ddc176f1ceee","fromNode":"2ae02140dad8f009","fromSide":"right","toNode":"b2a519048a2d8791","toSide":"left"},
+		{"id":"299d47174e9cf17f","fromNode":"f30b407531f3fa3d","fromSide":"right","toNode":"2ae02140dad8f009","toSide":"left"}
+	]
+}

@@ -5,13 +5,17 @@
 		{"id":"c5da7f9b86176f50","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":176,"y":-307,"width":109,"height":97},
 		{"id":"e7f2bf3a99cbc10b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":155,"y":-120,"width":76,"height":82},
 		{"id":"aab736ef9cfb11c4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/話 - Thoại.canvas","x":371,"y":-20,"width":130,"height":109},
-		{"id":"75367ddb24bea754","x":344,"y":260,"width":157,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/辞 - Từ.canvas"}
+		{"id":"75367ddb24bea754","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/辞 - Từ.canvas","x":344,"y":260,"width":157,"height":128},
+		{"id":"7dbf744816cafe3e","x":344,"y":580,"width":300,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/憩 - Khế.canvas"},
+		{"id":"e6e6b66250772fa1","x":-40,"y":784,"width":209,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/息 - Tức.canvas"}
 	],
 	"edges":[
 		{"id":"7c2739258195ce37","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"75367ddb24bea754","toSide":"left"},
 		{"id":"f0db79c4e79151f7","fromNode":"e7f2bf3a99cbc10b","fromSide":"right","toNode":"aab736ef9cfb11c4","toSide":"left"},
 		{"id":"d6c52b9c5a32c885","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"aab736ef9cfb11c4","toSide":"left"},
 		{"id":"5687b75074305c71","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"3d8ca708a98bea87","toSide":"left"},
-		{"id":"ea0c71f4ddecd272","fromNode":"c5da7f9b86176f50","fromSide":"right","toNode":"3d8ca708a98bea87","toSide":"left"}
+		{"id":"ea0c71f4ddecd272","fromNode":"c5da7f9b86176f50","fromSide":"right","toNode":"3d8ca708a98bea87","toSide":"left"},
+		{"id":"3a9785f946e8e924","fromNode":"c2e8710b9cdb3c54","fromSide":"right","toNode":"7dbf744816cafe3e","toSide":"left"},
+		{"id":"db1e4ceb0c74c95b","fromNode":"e6e6b66250772fa1","fromSide":"right","toNode":"7dbf744816cafe3e","toSide":"left"}
 	]
 }

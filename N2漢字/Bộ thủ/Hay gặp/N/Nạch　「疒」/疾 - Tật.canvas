@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9d3d9745f4dffb1f","x":-79,"y":-17,"width":250,"height":60,"type":"text","text":"疾 - Tật"},
+		{"id":"a675af14140fac78","x":-480,"y":-280,"width":195,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"},
+		{"id":"865b3832a331ef96","x":-464,"y":140,"width":179,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+	],
+	"edges":[
+		{"id":"9dbc4fc0bb4bacca","fromNode":"a675af14140fac78","fromSide":"right","toNode":"9d3d9745f4dffb1f","toSide":"left"},
+		{"id":"2fc29f470ccb8d6a","fromNode":"865b3832a331ef96","fromSide":"right","toNode":"9d3d9745f4dffb1f","toSide":"left"}
+	]
+}

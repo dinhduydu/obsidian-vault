@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b4f758d7197a9655","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-480,"y":120,"width":175,"height":148},
+		{"id":"26e43af5a5333372","type":"text","text":"続出　「ぞくしゅつ」： liên tiếp xuất hiện","x":240,"y":-54,"width":373,"height":50},
+		{"id":"feb3ee5e0f7138e0","type":"text","text":"気分が悪くなる人が続出した。\n= liên tiếp có người thấy khó chịu","x":736,"y":-74,"width":458,"height":90},
+		{"id":"4f9d1652201da839","type":"text","text":"続 - Tục","x":-180,"y":-59,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"68b41b5a7211085f","fromNode":"b4f758d7197a9655","fromSide":"right","toNode":"4f9d1652201da839","toSide":"left"},
+		{"id":"d6d564a8a3c6d3c5","fromNode":"26e43af5a5333372","fromSide":"right","toNode":"feb3ee5e0f7138e0","toSide":"left"},
+		{"id":"526b48165ec7f4fa","fromNode":"4f9d1652201da839","fromSide":"right","toNode":"26e43af5a5333372","toSide":"left"}
+	]
+}

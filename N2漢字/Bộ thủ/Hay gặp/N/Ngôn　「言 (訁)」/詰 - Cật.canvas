@@ -5,7 +5,7 @@
 		{"id":"d4bdd563ad353dfb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-518,"y":-300,"width":164,"height":129},
 		{"id":"eb1f6e5a1dbf4dfb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/込む.canvas","x":-70,"y":149,"width":93,"height":142},
 		{"id":"89622f4e03e4a0b3","type":"text","text":"詰める","x":239,"y":-235,"width":250,"height":60},
-		{"id":"03a12cefffa5f709","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":-488,"y":0,"width":134,"height":94}
+		{"id":"03a12cefffa5f709","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":-488,"y":0,"width":134,"height":94}
 	],
 	"edges":[
 		{"id":"931f752f69a7e7ed","fromNode":"8f19ff9af6deac79","fromSide":"right","toNode":"89622f4e03e4a0b3","toSide":"left"},

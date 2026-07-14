@@ -6,8 +6,10 @@
 		{"id":"c331187717f6ab61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-208,"y":280,"width":181,"height":105},
 		{"id":"6730d0327414a339","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-255,"y":80,"width":170,"height":114},
 		{"id":"850517af3d2facd7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/刷 - Loát.canvas","x":268,"y":220,"width":146,"height":75},
-		{"id":"c15598ef85aefb73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/届 - Giới.canvas","x":195,"y":-160,"width":200,"height":82},
-		{"id":"6b5f0ee7394e3fb8","x":203,"y":-460,"width":138,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/屋 - Ốc.canvas"}
+		{"id":"40f97068aac86569","x":600,"y":-660,"width":212,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/屋 - Ốc/握 - Ác.canvas"},
+		{"id":"92f862f67cbacad9","x":272,"y":-800,"width":154,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"6b5f0ee7394e3fb8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/屋 - Ốc.canvas","x":288,"y":-460,"width":138,"height":83},
+		{"id":"c15598ef85aefb73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/届 - Giới.canvas","x":326,"y":-160,"width":200,"height":82}
 	],
 	"edges":[
 		{"id":"81fc85f354e3f5d1","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"c15598ef85aefb73","toSide":"left"},
@@ -16,6 +18,8 @@
 		{"id":"ea65db377a6b3150","fromNode":"dc2ec6c29f190808","fromSide":"right","toNode":"6b5f0ee7394e3fb8","toSide":"left"},
 		{"id":"b358d961e73ef21b","fromNode":"6730d0327414a339","fromSide":"right","toNode":"850517af3d2facd7","toSide":"left"},
 		{"id":"951de79ed446f9fb","fromNode":"c331187717f6ab61","fromSide":"right","toNode":"850517af3d2facd7","toSide":"left"},
-		{"id":"1ca943f84cdcf512","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"850517af3d2facd7","toSide":"left"}
+		{"id":"1ca943f84cdcf512","fromNode":"f7c853bfd4890cba","fromSide":"right","toNode":"850517af3d2facd7","toSide":"left"},
+		{"id":"3d667709dce26dbb","fromNode":"6b5f0ee7394e3fb8","fromSide":"right","toNode":"40f97068aac86569","toSide":"left"},
+		{"id":"528fc3e3ee904f33","fromNode":"92f862f67cbacad9","fromSide":"right","toNode":"40f97068aac86569","toSide":"left"}
 	]
 }

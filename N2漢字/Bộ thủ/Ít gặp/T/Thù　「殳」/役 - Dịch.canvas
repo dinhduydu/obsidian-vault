@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"3edb4d0d69b4856e","type":"text","text":"役 - Dịch","x":-82,"y":-13,"width":250,"height":60},
-		{"id":"4d8b60b84acfd298","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-380,"y":-140,"width":148,"height":98},
+		{"id":"4d8b60b84acfd298","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-380,"y":-140,"width":148,"height":98},
 		{"id":"56da8b78d08d37c3","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas","x":-366,"y":47,"width":120,"height":128},
 		{"id":"3614c9488e780470","type":"text","text":"現役　「げんえき」：","x":280,"y":-200,"width":250,"height":60},
 		{"id":"5664b4f788760291","type":"text","text":"- Đang còn hoạt động\n- Đang tại chức\n- Đang thi đấu/làm việc chính thức\n- Chưa nghỉ hưu, chưa giải nghệ","x":703,"y":-314,"width":334,"height":144},

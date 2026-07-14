@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"840481e853e0bbc8","type":"text","text":"抱 - Bão","x":-206,"y":-41,"width":250,"height":60},
+		{"id":"5cd39ca6f9324e7d","type":"text","text":"抱える　「かかえる」： Ôm vấn đề nào đó","x":260,"y":-41,"width":344,"height":60},
+		{"id":"e7e59ff05e7b6907","x":-580,"y":100,"width":175,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"f4e11afa3accb3d6","fromNode":"840481e853e0bbc8","fromSide":"right","toNode":"5cd39ca6f9324e7d","toSide":"left"},
+		{"id":"4a37f8bb2282c33c","fromNode":"e7e59ff05e7b6907","fromSide":"right","toNode":"840481e853e0bbc8","toSide":"left"}
+	]
+}

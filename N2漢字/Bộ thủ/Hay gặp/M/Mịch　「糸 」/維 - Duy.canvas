@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d4fc0f82a4bb35a6","type":"text","text":"維 - Duy","x":-710,"y":-146,"width":250,"height":60},
+		{"id":"ba7205e3c260686b","type":"text","text":"維持　「**いじ**.」：","x":-260,"y":-146,"width":250,"height":60},
+		{"id":"9bd09a1fee81edd1","type":"text","text":"- duy trì\n- giữ gìn\n- maintain","x":110,"y":-172,"width":288,"height":96},
+		{"id":"597153fd4279718b","type":"text","text":" 夫一人の収入で、この五人家族の生計を**維持**している。","x":110,"y":163,"width":466,"height":60},
+		{"id":"a3fde746328ece91","type":"text","text":"現状を維持する。\n（げんじょう を いじ する。）\nDuy trì hiện trạng.","x":578,"y":-223,"width":284,"height":123},
+		{"id":"ccbf49614314c2da","type":"text","text":"健康を維持する。\n（けんこう を いじ する。）\nDuy trì sức khỏe.\n","x":578,"y":-17,"width":244,"height":123},
+		{"id":"a9168e356ec45ddf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas","x":-900,"y":0,"width":92,"height":67},
+		{"id":"3c7b446c8b416319","x":-921,"y":-320,"width":113,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"1b65426eac39d76a","fromNode":"a9168e356ec45ddf","fromSide":"right","toNode":"d4fc0f82a4bb35a6","toSide":"left"},
+		{"id":"cb612180cd217e53","fromNode":"d4fc0f82a4bb35a6","fromSide":"right","toNode":"ba7205e3c260686b","toSide":"left"},
+		{"id":"00194ca0ce7f0553","fromNode":"ba7205e3c260686b","fromSide":"right","toNode":"9bd09a1fee81edd1","toSide":"left"},
+		{"id":"6537d4d8a30a5b39","fromNode":"ba7205e3c260686b","fromSide":"right","toNode":"597153fd4279718b","toSide":"left"},
+		{"id":"d140777bc26f0c59","fromNode":"9bd09a1fee81edd1","fromSide":"right","toNode":"a3fde746328ece91","toSide":"left"},
+		{"id":"5ea8a59a4b94f893","fromNode":"9bd09a1fee81edd1","fromSide":"right","toNode":"ccbf49614314c2da","toSide":"left"},
+		{"id":"3b8fe514aeddf7ba","fromNode":"3c7b446c8b416319","fromSide":"right","toNode":"d4fc0f82a4bb35a6","toSide":"left"}
+	]
+}

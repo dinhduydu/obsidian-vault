@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"000f81a5747d157b","x":-192,"y":-51,"width":250,"height":60,"type":"text","text":"縦 - Tung"},
+		{"id":"e27fa19977f47fac","x":-420,"y":9,"width":166,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/従 - Tùng.canvas"},
+		{"id":"cf1794f891a23223","x":-396,"y":-220,"width":142,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"071b8f9cd507e6c6","fromNode":"e27fa19977f47fac","fromSide":"right","toNode":"000f81a5747d157b","toSide":"left"},
+		{"id":"43241bb75d77b20d","fromNode":"cf1794f891a23223","fromSide":"right","toNode":"000f81a5747d157b","toSide":"left"}
+	]
+}

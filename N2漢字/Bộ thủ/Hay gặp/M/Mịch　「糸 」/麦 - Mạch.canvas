@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0814ce1d2b28bdba","x":-153,"y":-92,"width":250,"height":60,"type":"text","text":"麦 - Mạch"},
+		{"id":"0f32ba9176bb3254","x":-458,"y":-360,"width":178,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"9501282abece973a","x":-400,"y":40,"width":120,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"1476dbb8a3b8eced","fromNode":"9501282abece973a","fromSide":"right","toNode":"0814ce1d2b28bdba","toSide":"left"},
+		{"id":"7aaad894700993d0","fromNode":"0f32ba9176bb3254","fromSide":"right","toNode":"0814ce1d2b28bdba","toSide":"left"}
+	]
+}

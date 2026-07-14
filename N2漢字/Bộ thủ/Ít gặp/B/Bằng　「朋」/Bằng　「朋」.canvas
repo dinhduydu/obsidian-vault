@@ -4,7 +4,7 @@
 		{"id":"ee06426fbaf4f526","x":180,"y":-340,"width":243,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/崩 - Băng.canvas"},
 		{"id":"2b1ef0df90d50c26","x":180,"y":80,"width":245,"height":230,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/棚 - Bằng.canvas"},
 		{"id":"a6d8f3c87dd8595d","x":-160,"y":280,"width":218,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
-		{"id":"e1774df0147ca1f5","x":-160,"y":-420,"width":201,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」.canvas"}
+		{"id":"e1774df0147ca1f5","x":-160,"y":-420,"width":201,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
 	],
 	"edges":[
 		{"id":"0bb0f4e2dfa4868a","fromNode":"9b16365349a53e5a","fromSide":"right","toNode":"ee06426fbaf4f526","toSide":"left"},

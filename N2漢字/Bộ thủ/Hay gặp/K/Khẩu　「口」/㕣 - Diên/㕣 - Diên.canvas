@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db1e8dfd5115be77","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm tiền tệ/鉛 - Diên.canvas","x":80,"y":-160,"width":197,"height":135},
+		{"id":"1e0b2c0ccdce3e78","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-340,"y":-260,"width":164,"height":126},
+		{"id":"9e4b3994cb8119ad","x":-507,"y":-7,"width":250,"height":60,"type":"text","text":"㕣 - Diên"}
+	],
+	"edges":[
+		{"id":"fd780ffacfac4603","fromNode":"1e0b2c0ccdce3e78","fromSide":"right","toNode":"db1e8dfd5115be77","toSide":"left"},
+		{"id":"c0cf9fe99c9df520","fromNode":"9e4b3994cb8119ad","fromSide":"right","toNode":"db1e8dfd5115be77","toSide":"left"}
+	]
+}

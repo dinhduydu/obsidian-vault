@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0440e099e7827068","type":"text","text":"経 - Kinh","x":-309,"y":-30,"width":250,"height":60},
+		{"id":"80ffdd925795eb4a","type":"text","text":"神経","x":59,"y":-30,"width":250,"height":60},
+		{"id":"c5e81851a0c1e5d3","x":-640,"y":160,"width":135,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"fb9369cd278820c2","fromNode":"0440e099e7827068","fromSide":"right","toNode":"80ffdd925795eb4a","toSide":"left"},
+		{"id":"bae4a626470f50ed","fromNode":"c5e81851a0c1e5d3","fromSide":"right","toNode":"0440e099e7827068","toSide":"left"}
+	]
+}

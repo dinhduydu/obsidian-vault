@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8a343e406ce5122f","type":"text","text":"順 - Thuận","x":52,"y":-30,"width":250,"height":60},
-		{"id":"f2285173915273f3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」.canvas","x":-260,"y":60,"width":145,"height":133},
+		{"id":"f2285173915273f3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas","x":-260,"y":60,"width":145,"height":133},
 		{"id":"360f49eb8241f85c","x":-274,"y":-204,"width":173,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
 	],
 	"edges":[

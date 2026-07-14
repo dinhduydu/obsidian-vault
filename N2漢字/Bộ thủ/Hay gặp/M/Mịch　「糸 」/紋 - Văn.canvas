@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"34b9a2641289e40c","type":"text","text":"紋 - Văn","x":-167,"y":-70,"width":250,"height":60},
+		{"id":"c00068536e1d0834","type":"text","text":"指紋　「しもん」：","x":162,"y":-70,"width":250,"height":60},
+		{"id":"3dd2d46b14169b9d","type":"text","text":"hoa văn","x":183,"y":-176,"width":250,"height":60},
+		{"id":"15997fb313aafc34","x":-480,"y":-340,"width":177,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"2ff549ee972793a4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」/Văn　「文」.canvas","x":-480,"y":60,"width":178,"height":186}
+	],
+	"edges":[
+		{"id":"d990b7af9af34ed7","fromNode":"2ff549ee972793a4","fromSide":"right","toNode":"34b9a2641289e40c","toSide":"left"},
+		{"id":"d1cc192577a2f9ca","fromNode":"34b9a2641289e40c","fromSide":"right","toNode":"c00068536e1d0834","toSide":"left"},
+		{"id":"0b7c342036b33827","fromNode":"34b9a2641289e40c","fromSide":"right","toNode":"3dd2d46b14169b9d","toSide":"left"},
+		{"id":"ea5779c728d8d2e3","fromNode":"15997fb313aafc34","fromSide":"right","toNode":"34b9a2641289e40c","toSide":"left"}
+	]
+}

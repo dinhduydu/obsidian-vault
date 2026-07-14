@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"acb8ba8586cb93bf","x":-120,"y":-40,"width":250,"height":60,"type":"text","text":"溶 - Dung"},
+		{"id":"10feb479d553e613","x":-534,"y":220,"width":203,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"b3f3b53bf330b5f4","x":-509,"y":-300,"width":178,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/容 - Dung.canvas"}
+	],
+	"edges":[
+		{"id":"9d678ec4d8449134","fromNode":"b3f3b53bf330b5f4","fromSide":"right","toNode":"acb8ba8586cb93bf","toSide":"left"},
+		{"id":"04cb6a20ecfca5b0","fromNode":"10feb479d553e613","fromSide":"right","toNode":"acb8ba8586cb93bf","toSide":"left"}
+	]
+}

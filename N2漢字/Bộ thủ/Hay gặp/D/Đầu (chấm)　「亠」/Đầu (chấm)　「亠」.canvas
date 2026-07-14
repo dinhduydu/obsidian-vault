@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"db531b1a5d3d9df0","x":-218,"y":1,"width":250,"height":60,"type":"text","text":"Đầu (chấm)　「亠」"}
+		{"id":"db531b1a5d3d9df0","type":"text","text":"Đầu (chấm)　「亠」","x":-218,"y":1,"width":250,"height":60},
+		{"id":"6bee4d2a57c76b23","x":300,"y":180,"width":190,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/夜 - Dạ.canvas"},
+		{"id":"de58bbf1a5057707","x":-347,"y":187,"width":129,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"08cf111de60bc38a","x":-121,"y":340,"width":153,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4f367988f167fa4f","fromNode":"db531b1a5d3d9df0","fromSide":"right","toNode":"6bee4d2a57c76b23","toSide":"left"},
+		{"id":"b93ea0174e13b064","fromNode":"08cf111de60bc38a","fromSide":"right","toNode":"6bee4d2a57c76b23","toSide":"left"},
+		{"id":"596d6daabce77aac","fromNode":"de58bbf1a5057707","fromSide":"right","toNode":"6bee4d2a57c76b23","toSide":"left"}
+	]
 }

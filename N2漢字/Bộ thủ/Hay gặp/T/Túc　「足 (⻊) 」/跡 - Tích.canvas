@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ba467b5c03f75ec9","type":"text","text":"跡 - Tích","x":-616,"y":-57,"width":250,"height":60},
-		{"id":"eef223881692405e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「赤」.canvas","x":-858,"y":-249,"width":114,"height":65},
+		{"id":"eef223881692405e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「赤」.canvas","x":-858,"y":-249,"width":114,"height":65},
 		{"id":"2e14635863a67896","type":"text","text":"di tích = 旧跡（きゅうせき）\ndấu vết = 跡","x":459,"y":326,"width":260,"height":98},
 		{"id":"444ca365e6fa3907","type":"text","text":"足跡（そくせき／あしあと）: dấu chân\n旧跡（きゅうせき）: di tích cũ\n跡地（あとち）: khu đất còn lại sau khi bị phá/dỡ\n面影の跡（おもかげのあと）: dấu vết còn lại của hình ảnh","x":-219,"y":171,"width":469,"height":124},
 		{"id":"6761e9fdf41db445","type":"text","text":"筆跡　「ひっせき」：","x":-208,"y":-88,"width":250,"height":60},

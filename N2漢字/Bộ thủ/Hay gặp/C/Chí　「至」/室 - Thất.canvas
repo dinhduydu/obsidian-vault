@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c58635a51743b1d5","type":"text","text":"室 - Thất","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2c6543e2ee7d8c03","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-500,"y":-260,"width":146,"height":143},
+		{"id":"4ae9610ed92c3afe","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-554,"y":140,"width":200,"height":160},
+		{"id":"0c6222d6e245419a","type":"text","text":"教室　「きょうしつ」：phòng học","x":400,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"913e3d61f74cdad5","fromNode":"4ae9610ed92c3afe","fromSide":"right","toNode":"c58635a51743b1d5","toSide":"left","label":"âm đọc"},
+		{"id":"df72bb0c80836f3c","fromNode":"2c6543e2ee7d8c03","fromSide":"right","toNode":"c58635a51743b1d5","toSide":"left"},
+		{"id":"4caaaf7a13b3a868","fromNode":"c58635a51743b1d5","fromSide":"right","toNode":"0c6222d6e245419a","toSide":"left"}
+	]
+}

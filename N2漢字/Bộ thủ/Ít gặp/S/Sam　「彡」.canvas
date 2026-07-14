@@ -5,13 +5,17 @@
 		{"id":"9ffddbd418dd6cb4","type":"text","text":"髪 - Phát","x":343,"y":-284,"width":250,"height":60},
 		{"id":"fa57b9021213e1c1","type":"text","text":"Người xưa dùng bộ 髟 để chỉ mọi thứ liên quan đến tóc.","x":714,"y":-249,"width":446,"height":50},
 		{"id":"0f047356c086d0cf","type":"text","text":"白髪　「しらが」：tóc bạc, tóc trắng","x":714,"y":-420,"width":326,"height":60},
-		{"id":"438ae2f9d843ac1f","x":343,"y":-10,"width":202,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas"}
+		{"id":"a2f39f36419a831a","x":358,"y":300,"width":221,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/彫 - Điêu.canvas"},
+		{"id":"438ae2f9d843ac1f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顔 - Nhan.canvas","x":900,"y":120,"width":202,"height":83},
+		{"id":"5d59d7b137d614c6","x":440,"y":-80,"width":201,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
 	],
 	"edges":[
 		{"id":"585e97da9b1ccd1a","fromNode":"bc2f17d7427b017b","fromSide":"left","toNode":"e7f1bd7132486f4f","toSide":"right"},
 		{"id":"0d0958fb086f8d5b","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"9ffddbd418dd6cb4","toSide":"left"},
 		{"id":"6e2f8390996813b8","fromNode":"9ffddbd418dd6cb4","fromSide":"right","toNode":"0f047356c086d0cf","toSide":"left"},
 		{"id":"a679886b506984b2","fromNode":"9ffddbd418dd6cb4","fromSide":"right","toNode":"fa57b9021213e1c1","toSide":"left"},
-		{"id":"fd332a71ffb919b6","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"438ae2f9d843ac1f","toSide":"left"}
+		{"id":"fd332a71ffb919b6","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"438ae2f9d843ac1f","toSide":"left"},
+		{"id":"f39d255016cf4e96","fromNode":"bc2f17d7427b017b","fromSide":"right","toNode":"a2f39f36419a831a","toSide":"left"},
+		{"id":"5f51912f301c308d","fromNode":"5d59d7b137d614c6","fromSide":"right","toNode":"438ae2f9d843ac1f","toSide":"left"}
 	]
 }

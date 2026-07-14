@@ -234,15 +234,117 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/延 - Duyên.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」.canvas",
                 "viewState": {
-                  "x": -156.44083058649528,
-                  "y": 63.0399458263679,
-                  "zoom": 0.3333333333333334
+                  "x": 250,
+                  "y": -173.5,
+                  "zoom": -0.3964218211114971
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "延 - Duyên"
+              "title": "Sam　「彡」"
+            }
+          },
+          {
+            "id": "0c74edbb44468a14",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas",
+                "viewState": {
+                  "x": 334.5385551651491,
+                  "y": -606.0983607057221,
+                  "zoom": -0.3301013428260297
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mịch　「糸 」"
+            }
+          },
+          {
+            "id": "a86a4c5dba027fb7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas",
+                "viewState": {
+                  "x": -89.31961317490291,
+                  "y": 1582.7500983174243,
+                  "zoom": 0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mịch　「糸 」"
+            }
+          },
+          {
+            "id": "5b5a27aecc547ed4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/到 - Đáo.canvas",
+                "viewState": {
+                  "x": 118,
+                  "y": -86,
+                  "zoom": -0.47058093176161864
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "到 - Đáo"
+            }
+          },
+          {
+            "id": "4682c896ea2e2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
+                "viewState": {
+                  "x": 535.5486144083947,
+                  "y": 261.05520932770895,
+                  "zoom": 0.5879144236100937
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thủ　「手 (扌) 」"
+            }
+          },
+          {
+            "id": "f2aecca184fd3ccc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
+                "viewState": {
+                  "x": 427.2611795465818,
+                  "y": 852.7773327294809,
+                  "zoom": -0.24394663640359798
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thủ　「手 (扌) 」"
+            }
+          },
+          {
+            "id": "b724ac2e94eafdb9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas",
+                "viewState": {
+                  "x": 200.5,
+                  "y": -211,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sơn　「山」"
             }
           },
           {
@@ -551,7 +653,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -583,7 +685,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "何 - Hà",
+                "query": "寺",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -700,31 +802,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bde3b4a22f14b38",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/Dẫn　「廴」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/延 - Duyên.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/企 - Xí.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/艇 - Đĩnh.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/庭 - Đình.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/廷 - Đình.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/綻 - Trán.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/錠 - Đĩnh.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/固 - Cố",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/居 - Cư",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồ　「胡」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hoàng　「黄」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hệ　「系」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hành　「行」",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/州 - Châu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 7/州 - Châu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/訓 - Huấn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「赤」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「赤」",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xỉ　「齒」/Xỉ　「齒」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xỉ　「齒」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/掲 - Yết.canvas",
+    "Chữa đề/Learning_Profile/CompoundVerb/押し付ける.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/21012026/1. Phân Tích BỊ ĐỘNG - SAI KHIẾN_TEST 1.md",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/屋 - Ốc",
+    "N2漢字/Hay gặp/M",
+    "N2漢字/Hay gặp",
     "Chữa đề/Learning_Profile/Kanji/故郷.md",
     "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/3. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (20).md",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Untitled.base",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/亻 (Nhân đứng).md",
     "Chữa đề/Learning_Profile/Vocabulary/庭掃除.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/6. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 3.md",
@@ -746,8 +850,6 @@
     "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 17.md",
     "Chữa đề/Learning_Profile/Vocabulary/顔合わせ.md",
     "Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week5/28042026/5. Phân Tích N2_BÀI TẬP ĐIỀN SAO (10).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/13062026/5. Phân Tích N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.1).md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"93c29bd2d6213cc1","type":"text","text":"世 - Thế","x":-78,"y":8,"width":250,"height":60},
+		{"id":"cc3d38e6444b292f","type":"file","file":"Pasted image 20260527192748.png","x":400,"y":-186,"width":400,"height":388},
+		{"id":"8c6b14ca14bd41ec","type":"text","text":"世代　「せだい」：Thế hệ","x":1240,"y":-646,"width":250,"height":60},
+		{"id":"c86effa4b7318163","type":"text","text":"世紀　「せいき」： Thế kỷ","x":1245,"y":-435,"width":250,"height":60},
+		{"id":"9a3053fcbca07176","type":"text","text":"世界　「せかい」：Thế giới","x":1268,"y":-281,"width":250,"height":60},
+		{"id":"f3d10d4cc071b796","type":"text","text":"世間　「せけん」：Nhân gian, thế gian","x":1255,"y":-86,"width":250,"height":60},
+		{"id":"d8467f79ff01e7ea","type":"text","text":"世の中　「よのなか」","x":1241,"y":108,"width":250,"height":60},
+		{"id":"9a7b906a28093761","type":"text","text":"出世　「しゅっせ」：thăng tiến, thành đạt","x":1080,"y":429,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b8086bbc2f620af7","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"8c6b14ca14bd41ec","toSide":"left"},
+		{"id":"a46a2326264e0262","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"c86effa4b7318163","toSide":"left"},
+		{"id":"79e9a348f3db5469","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"9a3053fcbca07176","toSide":"left"},
+		{"id":"c3c60647a2b8cd2f","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"f3d10d4cc071b796","toSide":"left"},
+		{"id":"7b9a7c148618f726","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"d8467f79ff01e7ea","toSide":"left"},
+		{"id":"549480681614f7a9","fromNode":"cc3d38e6444b292f","fromSide":"right","toNode":"9a7b906a28093761","toSide":"left"},
+		{"id":"21eb345211d31434","fromNode":"93c29bd2d6213cc1","fromSide":"right","toNode":"cc3d38e6444b292f","toSide":"left"}
+	]
+}

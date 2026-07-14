@@ -6,9 +6,11 @@
 		{"id":"abdb2f20f6a2d9c2","type":"text","text":"円周 đọc là えんしゅう.","x":-940,"y":-110,"width":250,"height":60},
 		{"id":"75eedd3e6a5fef34","type":"text","text":"- chu vi hình tròn\n- circumference of a circle","x":-1302,"y":-133,"width":250,"height":60},
 		{"id":"2861200c6824088e","type":"text","text":"あの人は**円周**率の小数点以後の数字を1000位以上も暗誦できたそうだ。","x":-1651,"y":0,"width":599,"height":50},
-		{"id":"107e837d9b874847","x":360,"y":-251,"width":236,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/Kiều　「喬」.canvas"},
-		{"id":"640c6266a85aa77a","x":-78,"y":-620,"width":243,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas"},
-		{"id":"d1270d9db733f1f1","x":8,"y":-309,"width":157,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+		{"id":"107e837d9b874847","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/Kiều　「喬」.canvas","x":360,"y":-251,"width":236,"height":173},
+		{"id":"640c6266a85aa77a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas","x":-78,"y":-620,"width":243,"height":201},
+		{"id":"d1270d9db733f1f1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":8,"y":-309,"width":157,"height":116},
+		{"id":"07ca0846a6708df3","x":344,"y":160,"width":269,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/周 - Chu.canvas"},
+		{"id":"e20a781ce314af80","x":0,"y":320,"width":192,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"}
 	],
 	"edges":[
 		{"id":"b4c02ecaee1899f6","fromNode":"5217732c97865ca2","fromSide":"left","toNode":"b4810612129cc7da","toSide":"right"},
@@ -18,6 +20,8 @@
 		{"id":"5b0acc32fa6847bd","fromNode":"abdb2f20f6a2d9c2","fromSide":"left","toNode":"2861200c6824088e","toSide":"right"},
 		{"id":"7610318960f69adc","fromNode":"5217732c97865ca2","fromSide":"right","toNode":"107e837d9b874847","toSide":"left"},
 		{"id":"7d00c74af2fd3cff","fromNode":"640c6266a85aa77a","fromSide":"right","toNode":"107e837d9b874847","toSide":"left"},
-		{"id":"501f354f6134ad5d","fromNode":"d1270d9db733f1f1","fromSide":"right","toNode":"107e837d9b874847","toSide":"left"}
+		{"id":"501f354f6134ad5d","fromNode":"d1270d9db733f1f1","fromSide":"right","toNode":"107e837d9b874847","toSide":"left"},
+		{"id":"148e98fb9cf7d01e","fromNode":"5217732c97865ca2","fromSide":"right","toNode":"07ca0846a6708df3","toSide":"left"},
+		{"id":"4d1d0d671ee17b7d","fromNode":"e20a781ce314af80","fromSide":"right","toNode":"07ca0846a6708df3","toSide":"left"}
 	]
 }

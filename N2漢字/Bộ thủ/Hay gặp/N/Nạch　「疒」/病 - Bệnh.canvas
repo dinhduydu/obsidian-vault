@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a31a135bcd71fdf0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"病 - Bệnh"},
+		{"id":"dd04955d1e64a0e3","x":-600,"y":120,"width":191,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"94c4d2c4c3f90ddc","fromNode":"dd04955d1e64a0e3","fromSide":"right","toNode":"a31a135bcd71fdf0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b29f360150b4ff5d","x":-122,"y":-23,"width":250,"height":60,"type":"text","text":"浴 - Dục"},
+		{"id":"80bc01806107ec89","x":-500,"y":-220,"width":174,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/Cốc 「谷」.canvas"},
+		{"id":"962c3e773680ef2a","x":-500,"y":140,"width":174,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"416d15a715eabd29","fromNode":"80bc01806107ec89","fromSide":"right","toNode":"b29f360150b4ff5d","toSide":"left"},
+		{"id":"e52a7e3bcdfebbfb","fromNode":"962c3e773680ef2a","fromSide":"right","toNode":"b29f360150b4ff5d","toSide":"left"}
+	]
+}

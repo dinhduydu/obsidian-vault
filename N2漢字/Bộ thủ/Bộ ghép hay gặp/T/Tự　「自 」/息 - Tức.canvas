@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c42c06c6599a233","x":-60,"y":-20,"width":250,"height":60,"type":"text","text":"息 - Tức"},
+		{"id":"e71f52c74cff1e03","x":-400,"y":-180,"width":144,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/Tự　「自 」.canvas"},
+		{"id":"88a3996e642328f4","x":-416,"y":140,"width":160,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"4bc9265de32a7023","fromNode":"e71f52c74cff1e03","fromSide":"right","toNode":"6c42c06c6599a233","toSide":"left"},
+		{"id":"a94e2aaf18c1e1a7","fromNode":"88a3996e642328f4","fromSide":"right","toNode":"6c42c06c6599a233","toSide":"left"}
+	]
+}

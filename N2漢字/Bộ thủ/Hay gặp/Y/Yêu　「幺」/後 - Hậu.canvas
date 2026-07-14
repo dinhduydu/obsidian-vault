@@ -4,7 +4,7 @@
 		{"id":"5d141f12a579c15e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas","x":-420,"y":40,"width":99,"height":85},
 		{"id":"aaecf9ee0efa8b69","type":"text","text":"最後　「さいご」：","x":160,"y":-44,"width":250,"height":60},
 		{"id":"559a6cfe303eac15","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-468,"y":-177,"width":147,"height":133},
-		{"id":"75e72bc21c74a1e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」.canvas","x":-468,"y":-420,"width":148,"height":147}
+		{"id":"75e72bc21c74a1e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-468,"y":-420,"width":148,"height":147}
 	],
 	"edges":[
 		{"id":"ce1950d589c20ad3","fromNode":"5d141f12a579c15e","fromSide":"right","toNode":"1b0197bad96c0adf","toSide":"left"},

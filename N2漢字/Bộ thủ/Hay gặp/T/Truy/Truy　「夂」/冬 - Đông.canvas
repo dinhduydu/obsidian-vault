@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"116affc145edf514","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-440,"y":100,"width":121,"height":100},
+		{"id":"305ff2a2a000a5f7","type":"text","text":"冬 - Đông","x":57,"y":-300,"width":250,"height":60},
+		{"id":"30495b96d9840ffb","type":"text","text":"冬　「ふゆ」：mùa đông","x":476,"y":-300,"width":250,"height":60},
+		{"id":"f4b86380282a0f55","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-259,"y":-440,"width":154,"height":90}
+	],
+	"edges":[
+		{"id":"7e95b0886837a774","fromNode":"116affc145edf514","fromSide":"right","toNode":"305ff2a2a000a5f7","toSide":"left","label":"đuổi bắt nhau dưới trời tuyết rơi"},
+		{"id":"da15b866a738202e","fromNode":"305ff2a2a000a5f7","fromSide":"right","toNode":"30495b96d9840ffb","toSide":"left"},
+		{"id":"8d9c3635696170a6","fromNode":"f4b86380282a0f55","fromSide":"right","toNode":"305ff2a2a000a5f7","toSide":"left","label":"tả hình ảnh tuyết rơi"}
+	]
+}

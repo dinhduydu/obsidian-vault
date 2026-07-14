@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"200fced2f1c91a3c","x":-152,"y":-21,"width":250,"height":60,"type":"text","text":"給 - Cấp"},
+		{"id":"726a855f8fa45a2c","x":-460,"y":120,"width":138,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"dadede80f2f32689","x":-480,"y":-200,"width":158,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/合 - Hợp/合 - Hợp.canvas"}
+	],
+	"edges":[
+		{"id":"77bd47ec5cac58d7","fromNode":"726a855f8fa45a2c","fromSide":"right","toNode":"200fced2f1c91a3c","toSide":"left"},
+		{"id":"1b59602923eabd98","fromNode":"dadede80f2f32689","fromSide":"right","toNode":"200fced2f1c91a3c","toSide":"left"}
+	]
+}

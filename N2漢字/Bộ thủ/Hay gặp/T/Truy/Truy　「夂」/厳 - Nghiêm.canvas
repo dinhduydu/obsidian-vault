@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a46ce8d110876e0","type":"text","text":"厳 - Nghiêm","x":-326,"y":-30,"width":250,"height":60},
+		{"id":"12c18d60a4f0156d","type":"text","text":"厳重","x":77,"y":-30,"width":250,"height":60},
+		{"id":"bb300e6c51f58c9b","x":-680,"y":200,"width":166,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"2d7636aa6e51e5e3","fromNode":"4a46ce8d110876e0","fromSide":"right","toNode":"12c18d60a4f0156d","toSide":"left"},
+		{"id":"fc1a056349e17d6e","fromNode":"bb300e6c51f58c9b","fromSide":"right","toNode":"4a46ce8d110876e0","toSide":"left"}
+	]
+}

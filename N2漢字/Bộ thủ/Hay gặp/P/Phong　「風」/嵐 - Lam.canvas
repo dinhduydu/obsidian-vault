@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4a033eb4e6f0a231","x":-174,"y":-12,"width":250,"height":60,"type":"text","text":"嵐 - Lam"},
-		{"id":"f8b4f2413e685160","x":-460,"y":-140,"width":149,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」.canvas"},
+		{"id":"f8b4f2413e685160","x":-460,"y":-140,"width":149,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
 		{"id":"160c0e3e2524e228","x":-484,"y":80,"width":173,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/Phong　「風」.canvas"}
 	],
 	"edges":[
