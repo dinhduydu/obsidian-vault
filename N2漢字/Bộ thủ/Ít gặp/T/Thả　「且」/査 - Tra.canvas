@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"26283fbf60547411","x":-95,"y":-23,"width":250,"height":60,"type":"text","text":"査 - Tra"},
+		{"id":"2659d18cad90ae8e","x":-440,"y":-180,"width":143,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"85038b12729a79cd","x":-463,"y":60,"width":166,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+	],
+	"edges":[
+		{"id":"d79a4584331562cb","fromNode":"2659d18cad90ae8e","fromSide":"right","toNode":"26283fbf60547411","toSide":"left"},
+		{"id":"57e156a469a45292","fromNode":"85038b12729a79cd","fromSide":"right","toNode":"26283fbf60547411","toSide":"left"}
+	]
+}

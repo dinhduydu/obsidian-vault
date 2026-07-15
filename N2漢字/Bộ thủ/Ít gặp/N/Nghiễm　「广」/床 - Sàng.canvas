@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fca7e7cd6baa512b","x":-137,"y":-11,"width":250,"height":60,"type":"text","text":"床 - Sàng"},
+		{"id":"dd6af267d12c1cf2","x":-560,"y":-280,"width":250,"height":60,"type":"text","text":"Cái giường"},
+		{"id":"88d0a9c248ffe8ba","x":-540,"y":-117,"width":162,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"1d427557efb25a69","x":-840,"y":-106,"width":172,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"0d4219a3c0c48c42","fromNode":"dd6af267d12c1cf2","fromSide":"right","toNode":"fca7e7cd6baa512b","toSide":"left"},
+		{"id":"591b2225ba11a668","fromNode":"88d0a9c248ffe8ba","fromSide":"right","toNode":"fca7e7cd6baa512b","toSide":"left"},
+		{"id":"7bc545763948fae9","fromNode":"1d427557efb25a69","fromSide":"right","toNode":"fca7e7cd6baa512b","toSide":"left"}
+	]
+}

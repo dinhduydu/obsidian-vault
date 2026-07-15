@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fa0b45ad708d5ead","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"租 - Tô"},
+		{"id":"6a8b07e230f4a552","x":-560,"y":-260,"width":238,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"},
+		{"id":"6929a53e13afeba9","x":-470,"y":120,"width":148,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"b0ea2a7de2818d23","fromNode":"6a8b07e230f4a552","fromSide":"right","toNode":"fa0b45ad708d5ead","toSide":"left"},
+		{"id":"ff599b2a1173c6d2","fromNode":"6929a53e13afeba9","fromSide":"right","toNode":"fa0b45ad708d5ead","toSide":"left"}
+	]
+}

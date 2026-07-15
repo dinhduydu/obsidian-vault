@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"520b77b872afaf18","x":-147,"y":-16,"width":250,"height":60,"type":"text","text":"組 - Tổ"},
+		{"id":"8ef6b8243be7bab3","x":-420,"y":44,"width":187,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"},
+		{"id":"dd899bc424f51984","x":-391,"y":-200,"width":158,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"b7b0c88d607ca711","fromNode":"8ef6b8243be7bab3","fromSide":"right","toNode":"520b77b872afaf18","toSide":"left"},
+		{"id":"e88c957b97774d97","fromNode":"dd899bc424f51984","fromSide":"right","toNode":"520b77b872afaf18","toSide":"left"}
+	]
+}

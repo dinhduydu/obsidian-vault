@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a83983ff837f0b30","type":"text","text":"Thả　「且」","x":-185,"y":-46,"width":250,"height":60},
+		{"id":"9b11911ee182e0e4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/祖 - Tổ.canvas","x":200,"y":-240,"width":176,"height":154},
+		{"id":"4d536ed232aad3eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-99,"y":-359,"width":164,"height":119},
+		{"id":"f2ca2f2bd8c34443","x":200,"y":100,"width":285,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/組 - Tổ.canvas"},
+		{"id":"073a7d03c4a43a6f","x":-99,"y":270,"width":171,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"90629ef61b1f083d","fromNode":"a83983ff837f0b30","fromSide":"right","toNode":"9b11911ee182e0e4","toSide":"left"},
+		{"id":"21452140cf6b0c4f","fromNode":"4d536ed232aad3eb","fromSide":"right","toNode":"9b11911ee182e0e4","toSide":"left"},
+		{"id":"fa109f3f9759d52c","fromNode":"a83983ff837f0b30","fromSide":"right","toNode":"f2ca2f2bd8c34443","toSide":"left"},
+		{"id":"2cc80596a7de8cc0","fromNode":"073a7d03c4a43a6f","fromSide":"right","toNode":"f2ca2f2bd8c34443","toSide":"left"}
+	]
+}

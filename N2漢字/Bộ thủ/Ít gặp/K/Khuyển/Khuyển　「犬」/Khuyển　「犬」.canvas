@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"aadfd07b9299fc22","type":"text","text":"Khuyển　「犬」","x":-117,"y":-69,"width":250,"height":60},
+		{"id":"f55d2559a801bdd2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-400,"y":-9,"width":116,"height":104},
+		{"id":"c3c4b19c397e0d2c","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-426,"y":-280,"width":142,"height":92},
+		{"id":"e67bea6f8114ea65","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":8,"y":95,"width":169,"height":107},
+		{"id":"6c987e973c3f8363","type":"text","text":"南 - Nam","x":-100,"y":-460,"width":250,"height":60},
+		{"id":"bac961d7e6509431","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/伏 - Phục.canvas","x":320,"y":-22,"width":240,"height":171},
+		{"id":"895ea6a0d0440f1f","x":320,"y":-321,"width":179,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/献 - Hiến.canvas"}
+	],
+	"edges":[
+		{"id":"ee3e27d49e1b1038","fromNode":"f55d2559a801bdd2","fromSide":"right","toNode":"aadfd07b9299fc22","toSide":"left"},
+		{"id":"f0114648d38504a2","fromNode":"c3c4b19c397e0d2c","fromSide":"right","toNode":"aadfd07b9299fc22","toSide":"left"},
+		{"id":"52a5c38bcb09289a","fromNode":"aadfd07b9299fc22","fromSide":"right","toNode":"bac961d7e6509431","toSide":"left"},
+		{"id":"6b48a233f02cda8f","fromNode":"e67bea6f8114ea65","fromSide":"right","toNode":"bac961d7e6509431","toSide":"left"},
+		{"id":"a25045527c026078","fromNode":"aadfd07b9299fc22","fromSide":"right","toNode":"895ea6a0d0440f1f","toSide":"left"},
+		{"id":"c15a98fa549933cf","fromNode":"6c987e973c3f8363","fromSide":"right","toNode":"895ea6a0d0440f1f","toSide":"left"}
+	]
+}

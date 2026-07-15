@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cb7b6ec25ae2c6ec","x":-180,"y":-47,"width":250,"height":60,"type":"text","text":"粗 - Thô"},
+		{"id":"63d147c22bccd51a","x":-420,"y":-240,"width":100,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"4cec59b496c77370","x":-488,"y":40,"width":168,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+	],
+	"edges":[
+		{"id":"fab079920b012cea","fromNode":"63d147c22bccd51a","fromSide":"right","toNode":"cb7b6ec25ae2c6ec","toSide":"left"},
+		{"id":"296cb80a9c801f61","fromNode":"4cec59b496c77370","fromSide":"right","toNode":"cb7b6ec25ae2c6ec","toSide":"left"}
+	]
+}

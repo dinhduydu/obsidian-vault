@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9bfc8b0c02a8f6bb","x":-251,"y":-52,"width":250,"height":60,"type":"text","text":"畳 - Điệp"},
+		{"id":"e8b38bcb5c4c123a","x":-720,"y":-80,"width":248,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"8b59ecd514045d85","x":-673,"y":-260,"width":154,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"9ab5294bcd6f9ca8","x":-667,"y":80,"width":143,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+	],
+	"edges":[
+		{"id":"527c2385b39af84a","fromNode":"9ab5294bcd6f9ca8","fromSide":"right","toNode":"9bfc8b0c02a8f6bb","toSide":"left"},
+		{"id":"f074cb4c155f88bb","fromNode":"e8b38bcb5c4c123a","fromSide":"right","toNode":"9bfc8b0c02a8f6bb","toSide":"left"},
+		{"id":"05505ccc7d227280","fromNode":"8b59ecd514045d85","fromSide":"right","toNode":"9bfc8b0c02a8f6bb","toSide":"left"}
+	]
+}

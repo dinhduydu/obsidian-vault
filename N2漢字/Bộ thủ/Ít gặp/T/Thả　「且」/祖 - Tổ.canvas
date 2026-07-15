@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"135b88559f188b17","x":-73,"y":-66,"width":250,"height":60,"type":"text","text":"祖 - Tổ"},
+		{"id":"aadd36ef23f0bb19","x":-420,"y":0,"width":167,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"},
+		{"id":"9738ac997002c4c8","x":-387,"y":-220,"width":134,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"f0cf820814ca6503","fromNode":"aadd36ef23f0bb19","fromSide":"right","toNode":"135b88559f188b17","toSide":"left"},
+		{"id":"1f1829013c12301b","fromNode":"9738ac997002c4c8","fromSide":"right","toNode":"135b88559f188b17","toSide":"left"}
+	]
+}

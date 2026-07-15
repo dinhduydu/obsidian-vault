@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"212069823dbffac8","x":-172,"y":-54,"width":250,"height":60,"type":"text","text":"Ma　「麻」"},
+		{"id":"745fc09cb4603ade","x":-500,"y":120,"width":147,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"1d4d1995eb1aeebc","x":-585,"y":-104,"width":170,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"43088ef35be72d06","fromNode":"745fc09cb4603ade","fromSide":"right","toNode":"212069823dbffac8","toSide":"left","label":"x2"},
+		{"id":"556def628a558ba3","fromNode":"1d4d1995eb1aeebc","fromSide":"right","toNode":"212069823dbffac8","toSide":"left"}
+	]
+}

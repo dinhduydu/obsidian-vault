@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0c50d9d39a71acdb","x":-102,"y":-50,"width":250,"height":60,"type":"text","text":"応 - Ứng"},
+		{"id":"20cf0b0ca45ca4e4","x":-400,"y":-180,"width":159,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"f1d6e1173dfea42b","x":-406,"y":80,"width":165,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"7bf7f572c1818894","fromNode":"20cf0b0ca45ca4e4","fromSide":"right","toNode":"0c50d9d39a71acdb","toSide":"left"},
+		{"id":"e72d12defe5d446c","fromNode":"f1d6e1173dfea42b","fromSide":"right","toNode":"0c50d9d39a71acdb","toSide":"left"}
+	]
+}

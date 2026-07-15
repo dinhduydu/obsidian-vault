@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1b18e71f964129df","x":-145,"y":-54,"width":250,"height":60,"type":"text","text":"宜 - Nghi"},
+		{"id":"ed51afdc3650c72a","x":-440,"y":40,"width":169,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"},
+		{"id":"3af97e43456908d5","x":-470,"y":-240,"width":199,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"cb9145b8557e8dd0","fromNode":"ed51afdc3650c72a","fromSide":"right","toNode":"1b18e71f964129df","toSide":"left"},
+		{"id":"c5186b9ad79d49eb","fromNode":"3af97e43456908d5","fromSide":"right","toNode":"1b18e71f964129df","toSide":"left"}
+	]
+}

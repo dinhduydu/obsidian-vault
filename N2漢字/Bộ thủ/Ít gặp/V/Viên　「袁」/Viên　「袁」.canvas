@@ -8,9 +8,9 @@
 		{"id":"b565555e1829433a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-620,"y":380,"width":164,"height":86},
 		{"id":"a7c954c3f8d48fe1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/園 - Viên.canvas","x":-367,"y":-34,"width":123,"height":103},
 		{"id":"e990a5535e59af5a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/猿 - Viên.canvas","x":-345,"y":-280,"width":202,"height":151},
-		{"id":"25203a880dde641b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển　「犬」/Khuyển　「犬」.canvas","x":-775,"y":-440,"width":160,"height":166},
 		{"id":"848d54334364992e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas","x":-720,"y":-129,"width":118,"height":117},
-		{"id":"4dafea91f54947cd","x":-340,"y":240,"width":146,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/遠 - Viễn.canvas"}
+		{"id":"4dafea91f54947cd","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Viên　「袁」/遠 - Viễn.canvas","x":-340,"y":240,"width":146,"height":97},
+		{"id":"20ac4cf84d9c7dad","x":-860,"y":-500,"width":212,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
 	],
 	"edges":[
 		{"id":"e01a28e0850baf28","fromNode":"981a99bebf528fde","fromSide":"right","toNode":"5b98fc54850065c9","toSide":"left"},
@@ -20,7 +20,7 @@
 		{"id":"4989dd2d5d7f36c2","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"4dafea91f54947cd","toSide":"left"},
 		{"id":"89820e22b69ac232","fromNode":"b565555e1829433a","fromSide":"right","toNode":"4dafea91f54947cd","toSide":"left","label":"đường xa"},
 		{"id":"5f06d1fa5cae4db5","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"e990a5535e59af5a","toSide":"left"},
-		{"id":"6f66216e8f4057e0","fromNode":"25203a880dde641b","fromSide":"right","toNode":"e990a5535e59af5a","toSide":"left","label":"thú có lông"},
+		{"id":"6f66216e8f4057e0","fromNode":"20ac4cf84d9c7dad","fromSide":"right","toNode":"e990a5535e59af5a","toSide":"left","label":"thú có lông"},
 		{"id":"7d549cce66bdf4eb","fromNode":"848d54334364992e","fromSide":"right","toNode":"a7c954c3f8d48fe1","toSide":"left","label":"nơi được bao quanh"},
 		{"id":"d0855231ead6be98","fromNode":"5b98fc54850065c9","fromSide":"right","toNode":"a7c954c3f8d48fe1","toSide":"left"}
 	]

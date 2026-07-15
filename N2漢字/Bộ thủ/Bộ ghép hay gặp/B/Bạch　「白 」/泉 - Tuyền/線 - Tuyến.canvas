@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cbe4dfc7f3a2f848","x":-135,"y":-17,"width":250,"height":60,"type":"text","text":"線 - Tuyến"},
+		{"id":"aacc7b13b5937538","x":-520,"y":80,"width":122,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/泉 - Tuyền/泉 - Tuyền.canvas"},
+		{"id":"1ad53561ce378e2c","x":-522,"y":-220,"width":124,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"dc68c2423221ad8f","fromNode":"aacc7b13b5937538","fromSide":"right","toNode":"cbe4dfc7f3a2f848","toSide":"left"},
+		{"id":"4cebdf6f97b36d4f","fromNode":"1ad53561ce378e2c","fromSide":"right","toNode":"cbe4dfc7f3a2f848","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"293237de62d5ebae","type":"text","text":"献 - Hiến","x":-115,"y":120,"width":250,"height":60},
+		{"id":"d997792ea250b5cb","type":"text","text":"南 - Nam","x":-515,"y":-80,"width":250,"height":60},
+		{"id":"258eb5c7d666e21e","type":"text","text":"献納　「けんのう」：biếu","x":265,"y":120,"width":250,"height":60},
+		{"id":"234fa59b1987c202","type":"text","text":"捧げる　「ささげる」","x":265,"y":-180,"width":250,"height":60},
+		{"id":"9faefa6d23890308","x":-508,"y":220,"width":243,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"}
+	],
+	"edges":[
+		{"id":"e1b0c9ad4bfc696d","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"258eb5c7d666e21e","toSide":"left"},
+		{"id":"a7a0bbaab5ab0657","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"234fa59b1987c202","toSide":"left"},
+		{"id":"a2fa3a52808e909e","fromNode":"d997792ea250b5cb","fromSide":"right","toNode":"293237de62d5ebae","toSide":"left"},
+		{"id":"b02d30fcfc1b2ab0","fromNode":"9faefa6d23890308","fromSide":"right","toNode":"293237de62d5ebae","toSide":"left"}
+	]
+}

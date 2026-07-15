@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1beff53f49df4c78","x":-213,"y":-49,"width":250,"height":60,"type":"text","text":"狙 - Thư"},
+		{"id":"f68909f5c94ddb7a","x":-520,"y":80,"width":173,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+	],
+	"edges":[
+		{"id":"c3014a53b9d26aa0","fromNode":"f68909f5c94ddb7a","fromSide":"right","toNode":"1beff53f49df4c78","toSide":"left"}
+	]
+}

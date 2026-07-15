@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c848346f61c634e1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"助 - Trợ"},
+		{"id":"8a7811c91cdf9325","x":-480,"y":-150,"width":153,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"},
+		{"id":"34a6bee80fd10be7","x":-480,"y":120,"width":153,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"86695cdf6a512475","fromNode":"8a7811c91cdf9325","fromSide":"right","toNode":"c848346f61c634e1","toSide":"left"},
+		{"id":"2a89f5ddd21e3e65","fromNode":"34a6bee80fd10be7","fromSide":"right","toNode":"c848346f61c634e1","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4ac2b2d29c9f9677","type":"text","text":"阻 - Trở","x":-202,"y":-17,"width":250,"height":60},
+		{"id":"9953aa2d154cd3b3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas","x":-580,"y":-220,"width":153,"height":124},
+		{"id":"1e3d33c8a6e92eee","x":-641,"y":160,"width":214,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+	],
+	"edges":[
+		{"id":"a3e002ad8933dd2f","fromNode":"9953aa2d154cd3b3","fromSide":"right","toNode":"4ac2b2d29c9f9677","toSide":"left"},
+		{"id":"99b207800fff90df","fromNode":"1e3d33c8a6e92eee","fromSide":"right","toNode":"4ac2b2d29c9f9677","toSide":"left"}
+	]
+}

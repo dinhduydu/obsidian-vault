@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"65a2abe4b0049d13","x":-107,"y":-19,"width":250,"height":60,"type":"text","text":"拡 - Khuếch"},
-		{"id":"ec6b929cc6100189","x":-400,"y":80,"width":194,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/広 - Quảng.canvas"},
+		{"id":"ec6b929cc6100189","x":-400,"y":80,"width":194,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/広 - Quảng/広 - Quảng.canvas"},
 		{"id":"5977db84c97460ab","x":-339,"y":-180,"width":133,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
 	],
 	"edges":[
