@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"c769e89e679c22ae","x":-206,"y":-63,"width":250,"height":60,"type":"text","text":"習 - Tập"},
 		{"id":"50a635352eee7e73","x":-440,"y":-200,"width":159,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"},
-		{"id":"0c0382a6ebf5daff","x":-417,"y":0,"width":136,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+		{"id":"0c0382a6ebf5daff","x":-417,"y":0,"width":136,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
 	],
 	"edges":[
 		{"id":"b38896a32231b45c","fromNode":"50a635352eee7e73","fromSide":"right","toNode":"c769e89e679c22ae","toSide":"left"},

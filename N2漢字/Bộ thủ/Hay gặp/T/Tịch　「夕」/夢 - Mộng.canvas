@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"5ef22ea198d33385","type":"text","text":"夢 - Mộng","x":-474,"y":40,"width":250,"height":60},
+		{"id":"2d71476270f94988","type":"text","text":"夢見る","x":-115,"y":-53,"width":250,"height":60},
+		{"id":"750c1de92fb11fd1","type":"text","text":"ゆめみる","x":256,"y":-96,"width":250,"height":60},
+		{"id":"a527d678e0391d34","type":"text","text":"mơ mộng việc gì đó","x":629,"y":-142,"width":250,"height":60},
+		{"id":"05c3aacad8c9847f","x":-900,"y":-214,"width":190,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"}
+	],
+	"edges":[
+		{"id":"faf96be82e978fc4","fromNode":"05c3aacad8c9847f","fromSide":"right","toNode":"5ef22ea198d33385","toSide":"left"},
+		{"id":"d5b292158e5e33c4","fromNode":"5ef22ea198d33385","fromSide":"right","toNode":"2d71476270f94988","toSide":"left"},
+		{"id":"32925ba6eaebd628","fromNode":"2d71476270f94988","fromSide":"right","toNode":"750c1de92fb11fd1","toSide":"left"},
+		{"id":"f0c2820ed0b0e256","fromNode":"750c1de92fb11fd1","fromSide":"right","toNode":"a527d678e0391d34","toSide":"left"}
+	]
+}

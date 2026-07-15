@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a5c0c9087010b852","x":-45,"y":-33,"width":250,"height":60,"type":"text","text":"張 - Trương"},
+		{"id":"258c2d73272d9a55","x":-443,"y":-220,"width":129,"height":70,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"},
+		{"id":"8a36b290c037a4d4","x":-482,"y":100,"width":168,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas"}
+	],
+	"edges":[
+		{"id":"4039873a7271d036","fromNode":"258c2d73272d9a55","fromSide":"right","toNode":"a5c0c9087010b852","toSide":"left","label":"kéo căng ra"},
+		{"id":"8180dd711457d938","fromNode":"8a36b290c037a4d4","fromSide":"right","toNode":"a5c0c9087010b852","toSide":"left","label":"chỉ âm đọc"}
+	]
+}

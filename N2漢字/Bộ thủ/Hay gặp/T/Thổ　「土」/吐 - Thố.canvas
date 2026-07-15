@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c375b8d6fdd55e72","x":-227,"y":-27,"width":250,"height":60,"type":"text","text":"吐 - Thố"},
+		{"id":"c82cbaf18c1eed0a","x":320,"y":-280,"width":256,"height":181,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/吐き気.md"},
+		{"id":"c1aa047477f911a5","x":-540,"y":80,"width":154,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"f73a3bc6c398753e","x":-880,"y":-248,"width":266,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"4f2881293d793504","fromNode":"c375b8d6fdd55e72","fromSide":"right","toNode":"c82cbaf18c1eed0a","toSide":"left"},
+		{"id":"6db72cfb67c37d64","fromNode":"c1aa047477f911a5","fromSide":"right","toNode":"c375b8d6fdd55e72","toSide":"left","label":"đất"},
+		{"id":"552c30b8295e8b81","fromNode":"f73a3bc6c398753e","fromSide":"right","toNode":"c375b8d6fdd55e72","toSide":"left","label":"nôn từ miệng ra"}
+	]
+}

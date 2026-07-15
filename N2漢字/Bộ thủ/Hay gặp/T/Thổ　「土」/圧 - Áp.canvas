@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"66d492f607f4ddb0","x":-152,"y":-9,"width":250,"height":60,"type":"text","text":"圧 - Áp"},
+		{"id":"1b61f3935236fb16","x":-474,"y":-380,"width":153,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"c2b21556b5593ab4","x":-618,"y":-158,"width":221,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"03832362a9fdafca","x":-592,"y":120,"width":250,"height":60,"type":"text","text":"chịu áp lực"}
+	],
+	"edges":[
+		{"id":"266527e56135c92a","fromNode":"1b61f3935236fb16","fromSide":"right","toNode":"66d492f607f4ddb0","toSide":"left","label":"đất"},
+		{"id":"2bbd90f13ccec320","fromNode":"c2b21556b5593ab4","fromSide":"right","toNode":"66d492f607f4ddb0","toSide":"left","label":"dưới vách núi"},
+		{"id":"2383c5e253ca2ef9","fromNode":"03832362a9fdafca","fromSide":"right","toNode":"66d492f607f4ddb0","toSide":"left"}
+	]
+}

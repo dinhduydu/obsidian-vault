@@ -7,7 +7,7 @@
 		{"id":"53399283750df543","type":"text","text":"百","x":-125,"y":-400,"width":250,"height":60},
 		{"id":"ea4b2fd717fc709a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":28,"y":-170,"width":195,"height":139},
 		{"id":"0ce108dbee0fa995","x":-467,"y":-820,"width":173,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
-		{"id":"1ea201636a1ec8b7","x":-460,"y":-560,"width":166,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+		{"id":"1ea201636a1ec8b7","x":-460,"y":-560,"width":166,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
 	],
 	"edges":[
 		{"id":"d125e214b0a84c07","fromNode":"53399283750df543","fromSide":"left","toNode":"2a7ad0f1c33aa78c","toSide":"right"},

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d5d029d22ea0460c","x":-173,"y":-49,"width":250,"height":60,"type":"text","text":"帳 - Trướng"},
+		{"id":"6cda83359b6cbf84","x":-560,"y":-260,"width":161,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"bd291e018c23c29c","x":-576,"y":120,"width":177,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas"}
+	],
+	"edges":[
+		{"id":"3e0954c7d2f7564c","fromNode":"6cda83359b6cbf84","fromSide":"right","toNode":"d5d029d22ea0460c","toSide":"left"}
+	]
+}

@@ -1,15 +1,28 @@
 {
 	"nodes":[
 		{"id":"e1a59f8e30776934","type":"text","text":"場 - Trường","x":-319,"y":14,"width":250,"height":60},
-		{"id":"cb277166c1f16942","type":"text","text":"nơi chốn","x":59,"y":-73,"width":250,"height":60},
-		{"id":"ad1758a4f8937e3e","type":"text","text":"場合　「ばあい」：trường hợp","x":70,"y":13,"width":250,"height":60},
-		{"id":"6dbc3e18ae7b5e71","x":-720,"y":-260,"width":122,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
-		{"id":"86984da60010a4be","x":-776,"y":100,"width":178,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+		{"id":"6dbc3e18ae7b5e71","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-720,"y":-260,"width":122,"height":123},
+		{"id":"86984da60010a4be","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas","x":-776,"y":100,"width":178,"height":142},
+		{"id":"fb36811ab1ddfe83","type":"text","text":"hội trường, quảng trường","x":59,"y":-258,"width":250,"height":60},
+		{"id":"34864a23bed7cb7f","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/立場.md","x":860,"y":-353,"width":169,"height":125},
+		{"id":"87805bb834bce33e","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/相場.md","x":860,"y":-132,"width":216,"height":206},
+		{"id":"a50d1854fa13ac35","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/登場.md","x":860,"y":360,"width":253,"height":250},
+		{"id":"9ff69c310ccffc51","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/現場.md","x":860,"y":720,"width":286,"height":235},
+		{"id":"c4d50814bb8d8ffb","type":"file","file":"Chữa đề/Learning_Profile/Reading/劇場効果.md","x":1340,"y":-440,"width":260,"height":228},
+		{"id":"f06adfd76f9c4888","type":"file","file":"Chữa đề/Learning_Profile/Kanji/市場 (いちば).md","x":1340,"y":-132,"width":196,"height":209},
+		{"id":"8910367f01100678","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/売り場.md","x":1389,"y":286,"width":400,"height":400},
+		{"id":"63c827efeaac1e18","type":"file","file":"Chữa đề/Learning_Profile/Kanji/駐輪場.md","x":1486,"y":849,"width":400,"height":400},
+		{"id":"69f32ad8635ea040","type":"file","file":"Chữa đề/Learning_Profile/Katakana/ゴミ処理場.md","x":1460,"y":1380,"width":315,"height":277},
+		{"id":"ad1758a4f8937e3e","type":"text","text":"場合　「ばあい」：trường hợp","x":59,"y":140,"width":250,"height":60},
+		{"id":"096d6514cc863bb6","type":"text","text":"本部の人々が考えているより**現場**は大変な状況だった。","x":460,"y":140,"width":445,"height":50},
+		{"id":"cb277166c1f16942","type":"text","text":"nơi chốn","x":120,"y":-89,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e2334c4f2068554f","fromNode":"e1a59f8e30776934","fromSide":"right","toNode":"cb277166c1f16942","toSide":"left"},
 		{"id":"6fb5dbfb4d7290b1","fromNode":"e1a59f8e30776934","fromSide":"right","toNode":"ad1758a4f8937e3e","toSide":"left"},
 		{"id":"981091890cf41e8a","fromNode":"6dbc3e18ae7b5e71","fromSide":"right","toNode":"e1a59f8e30776934","toSide":"left"},
-		{"id":"c123f4dae563e724","fromNode":"86984da60010a4be","fromSide":"right","toNode":"e1a59f8e30776934","toSide":"left"}
+		{"id":"c123f4dae563e724","fromNode":"86984da60010a4be","fromSide":"right","toNode":"e1a59f8e30776934","toSide":"left"},
+		{"id":"eb73f01f258e9a74","fromNode":"e1a59f8e30776934","fromSide":"right","toNode":"fb36811ab1ddfe83","toSide":"left"},
+		{"id":"85ea04a9ed33a9d1","fromNode":"ad1758a4f8937e3e","fromSide":"right","toNode":"096d6514cc863bb6","toSide":"left"}
 	]
 }

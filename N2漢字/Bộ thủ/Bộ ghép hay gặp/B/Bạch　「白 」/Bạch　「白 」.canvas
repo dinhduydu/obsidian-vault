@@ -5,8 +5,9 @@
 		{"id":"c20695dd6a6d85b9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-420,"y":-240,"width":180,"height":104},
 		{"id":"6979ef8d81b6bd1c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":120,"y":-317,"width":184,"height":154},
 		{"id":"f743d6a948f24e93","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bách　「百」/Bách　「百」.canvas","x":420,"y":-174,"width":254,"height":194},
-		{"id":"01464c1976aab1fe","x":420,"y":120,"width":286,"height":245,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/習 - Tập.canvas"},
-		{"id":"e7615d78e3bfbb55","x":20,"y":260,"width":212,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"}
+		{"id":"01464c1976aab1fe","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/習 - Tập.canvas","x":420,"y":120,"width":286,"height":245},
+		{"id":"e7615d78e3bfbb55","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas","x":20,"y":260,"width":212,"height":169},
+		{"id":"cfa7b1359213fa71","x":840,"y":-16,"width":190,"height":136,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/面白かったです.md"}
 	],
 	"edges":[
 		{"id":"6e5df8f547ce0aef","fromNode":"64a61fb71ed7d4cd","fromSide":"right","toNode":"2461b0c8b8f7428c","toSide":"left"},
@@ -14,6 +15,7 @@
 		{"id":"9378410da2efd423","fromNode":"2461b0c8b8f7428c","fromSide":"right","toNode":"f743d6a948f24e93","toSide":"left"},
 		{"id":"77f613470b342d0d","fromNode":"6979ef8d81b6bd1c","fromSide":"right","toNode":"f743d6a948f24e93","toSide":"left"},
 		{"id":"a2d85b246fdde501","fromNode":"2461b0c8b8f7428c","fromSide":"right","toNode":"01464c1976aab1fe","toSide":"left"},
-		{"id":"2f773ee149a96829","fromNode":"e7615d78e3bfbb55","fromSide":"right","toNode":"01464c1976aab1fe","toSide":"left"}
+		{"id":"2f773ee149a96829","fromNode":"e7615d78e3bfbb55","fromSide":"right","toNode":"01464c1976aab1fe","toSide":"left"},
+		{"id":"b53f6ca563554b7c","fromNode":"2461b0c8b8f7428c","fromSide":"right","toNode":"cfa7b1359213fa71","toSide":"left"}
 	]
 }

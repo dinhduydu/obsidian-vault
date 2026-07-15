@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"035e03d9c1f2f868","type":"text","text":"脹 - Trướng","x":-219,"y":30,"width":250,"height":60},
+		{"id":"8dfec5134d1fb118","type":"text","text":"nở ra, bành trướng","x":181,"y":30,"width":250,"height":60},
+		{"id":"66411631e8cccc79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-431,"y":-90,"width":117,"height":50},
+		{"id":"4aa808521b1c051c","x":-521,"y":90,"width":149,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas"}
+	],
+	"edges":[
+		{"id":"176e99465de3aa6f","fromNode":"035e03d9c1f2f868","fromSide":"right","toNode":"8dfec5134d1fb118","toSide":"left"},
+		{"id":"cc43ce9de038abdf","fromNode":"66411631e8cccc79","fromSide":"right","toNode":"035e03d9c1f2f868","toSide":"left"},
+		{"id":"9df42ba66f8ac890","fromNode":"4aa808521b1c051c","fromSide":"right","toNode":"035e03d9c1f2f868","toSide":"left"}
+	]
+}

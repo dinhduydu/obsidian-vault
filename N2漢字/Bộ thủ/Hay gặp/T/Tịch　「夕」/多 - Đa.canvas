@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f7cfc23dd0bc7eac","x":-194,"y":-61,"width":250,"height":60,"type":"text","text":"多 - Đa"},
+		{"id":"72f99aa37eaf9636","x":-560,"y":-80,"width":153,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"}
+	],
+	"edges":[
+		{"id":"2835b91bd94a3d02","fromNode":"72f99aa37eaf9636","fromSide":"right","toNode":"f7cfc23dd0bc7eac","toSide":"left","label":"x2"}
+	]
+}

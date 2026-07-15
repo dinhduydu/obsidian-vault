@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"674e31c6e2faf64d","type":"text","text":"賜 - Tứ","x":-308,"y":-30,"width":250,"height":60},
 		{"id":"dcaedda71dad959f","type":"text","text":"賜る　「たまわる」：ban cho, ban tặng","x":59,"y":-30,"width":250,"height":60},
-		{"id":"1a2eaa2bdbed351a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-560,"y":-139,"width":115,"height":109},
-		{"id":"ab51f50e6a39320c","x":-608,"y":80,"width":163,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+		{"id":"ab51f50e6a39320c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas","x":-608,"y":80,"width":163,"height":174},
+		{"id":"1a2eaa2bdbed351a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-560,"y":-160,"width":115,"height":109}
 	],
 	"edges":[
 		{"id":"96e9c3d9746796b2","fromNode":"674e31c6e2faf64d","fromSide":"right","toNode":"dcaedda71dad959f","toSide":"left"},

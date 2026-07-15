@@ -9,8 +9,10 @@
 		{"id":"3d8461d566c05419","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":137,"y":274,"width":164,"height":127},
 		{"id":"19aa1e907a00378f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/希 - Hy.canvas","x":900,"y":260,"width":169,"height":129},
 		{"id":"e4c80687e1dcb5d7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas","x":680,"y":440,"width":110,"height":68},
-		{"id":"b65691b746dc1efd","x":640,"y":-92,"width":216,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/市 - Thị/市 - Thị.canvas"},
-		{"id":"eded119ba4c599ca","x":365,"y":-260,"width":124,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"}
+		{"id":"b65691b746dc1efd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/市 - Thị/市 - Thị.canvas","x":640,"y":-92,"width":216,"height":162},
+		{"id":"eded119ba4c599ca","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas","x":365,"y":-260,"width":124,"height":123},
+		{"id":"e3b3efe7feeb7f0b","x":380,"y":580,"width":255,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/帳 - Trướng.canvas"},
+		{"id":"a3827f9669aaedd0","x":0,"y":775,"width":197,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas"}
 	],
 	"edges":[
 		{"id":"5976bdc5e6721bcd","fromNode":"7321627095e52fd2","fromSide":"right","toNode":"19aa1e907a00378f","toSide":"left"},
@@ -22,6 +24,8 @@
 		{"id":"45b6c148676fdad8","fromNode":"3d8461d566c05419","fromSide":"right","toNode":"7321627095e52fd2","toSide":"left"},
 		{"id":"69412e4f7234e1fa","fromNode":"e4c80687e1dcb5d7","fromSide":"right","toNode":"19aa1e907a00378f","toSide":"left"},
 		{"id":"efbfdc47b6d276be","fromNode":"a8a8377ae13afc8f","fromSide":"right","toNode":"b65691b746dc1efd","toSide":"left"},
-		{"id":"c8a1bb8030c4635c","fromNode":"eded119ba4c599ca","fromSide":"right","toNode":"b65691b746dc1efd","toSide":"left"}
+		{"id":"c8a1bb8030c4635c","fromNode":"eded119ba4c599ca","fromSide":"right","toNode":"b65691b746dc1efd","toSide":"left"},
+		{"id":"451331d898b7c375","fromNode":"a8a8377ae13afc8f","fromSide":"right","toNode":"e3b3efe7feeb7f0b","toSide":"left"},
+		{"id":"2ac0e7ab69194f8a","fromNode":"a3827f9669aaedd0","fromSide":"right","toNode":"e3b3efe7feeb7f0b","toSide":"left"}
 	]
 }
