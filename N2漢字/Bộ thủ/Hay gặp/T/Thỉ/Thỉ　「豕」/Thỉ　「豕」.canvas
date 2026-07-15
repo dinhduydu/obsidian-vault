@@ -4,11 +4,11 @@
 		{"id":"ab1e6cc24306b82b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":260,"y":-220,"width":128,"height":76},
 		{"id":"43c9ba9f5ff2e495","type":"text","text":"豕　「ぶた」：heo","x":-580,"y":-480,"width":250,"height":60},
 		{"id":"42cb05b3da73ed39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":114,"y":362,"width":129,"height":111},
-		{"id":"ab33d9e20bdd431b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/遂 - Toại.canvas","x":474,"y":180,"width":256,"height":192},
-		{"id":"71468b7c8705dbd8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/逐 - Trục.canvas","x":500,"y":520,"width":213,"height":107},
-		{"id":"ae5578631eff3d75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/家 - Gia.canvas","x":480,"y":-157,"width":146,"height":55},
-		{"id":"30c432f9970cfe7d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/象 - Tượng.canvas","x":474,"y":-19,"width":146,"height":113},
-		{"id":"2e48cf2e961aeae0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/豪 - Hào.canvas","x":358,"y":-440,"width":122,"height":76},
+		{"id":"ab33d9e20bdd431b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/遂 - Toại.canvas","x":474,"y":180,"width":256,"height":192},
+		{"id":"71468b7c8705dbd8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/逐 - Trục.canvas","x":500,"y":520,"width":213,"height":107},
+		{"id":"ae5578631eff3d75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/家 - Gia.canvas","x":480,"y":-157,"width":146,"height":55},
+		{"id":"30c432f9970cfe7d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng.canvas","x":474,"y":-19,"width":146,"height":113},
+		{"id":"2e48cf2e961aeae0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/豪 - Hào.canvas","x":358,"y":-440,"width":122,"height":76},
 		{"id":"e86ae9b818dc3deb","x":89,"y":-563,"width":123,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cao　「高」/Cao　「高」.canvas"}
 	],
 	"edges":[

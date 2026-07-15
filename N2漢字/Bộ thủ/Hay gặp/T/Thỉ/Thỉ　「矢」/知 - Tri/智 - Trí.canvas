@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a90d432ffccf9a43","x":-120,"y":-21,"width":250,"height":60,"type":"text","text":"智 - Trí"},
-		{"id":"551f85348900e50d","x":-460,"y":-184,"width":211,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/知 - Tri/知 - Tri.canvas"},
+		{"id":"551f85348900e50d","x":-460,"y":-184,"width":211,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/知 - Tri/知 - Tri.canvas"},
 		{"id":"62ed2af234180321","x":-460,"y":100,"width":209,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
 	],
 	"edges":[

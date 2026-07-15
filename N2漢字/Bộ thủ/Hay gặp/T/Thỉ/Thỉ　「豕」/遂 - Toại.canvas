@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a2f9cd6738da37f4","type":"text","text":"遂 - Toại","x":58,"y":-116,"width":250,"height":60},
 		{"id":"cb4f423ce56aad61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-308,"y":5,"width":129,"height":111},
-		{"id":"2b07275718893e24","x":-345,"y":-280,"width":204,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas"}
+		{"id":"2b07275718893e24","x":-345,"y":-280,"width":204,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas"}
 	],
 	"edges":[
 		{"id":"f3a408ca84a66ffb","fromNode":"cb4f423ce56aad61","fromSide":"right","toNode":"a2f9cd6738da37f4","toSide":"left"},

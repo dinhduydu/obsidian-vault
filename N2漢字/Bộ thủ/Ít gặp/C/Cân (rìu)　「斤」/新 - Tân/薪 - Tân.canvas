@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5fa651a5df105ef7","type":"text","text":"薪 - Tân","x":-32,"y":1,"width":250,"height":60},
+		{"id":"31160b208e87b6f2","x":-360,"y":-200,"width":152,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"50fbe20b63cfec41","x":-360,"y":120,"width":152,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/新 - Tân/新 - Tân.canvas"}
+	],
+	"edges":[
+		{"id":"5614802c86eff647","fromNode":"5fa651a5df105ef7","fromSide":"left","toNode":"50fbe20b63cfec41","toSide":"right"},
+		{"id":"095bbcaef4c6aa38","fromNode":"5fa651a5df105ef7","fromSide":"left","toNode":"31160b208e87b6f2","toSide":"right"}
+	]
+}

@@ -7,7 +7,7 @@
 		{"id":"f4116ff497a7d166","type":"text","text":"象 - Tượng","x":-860,"y":-164,"width":250,"height":60},
 		{"id":"bd33d4aec20aef73","type":"text","text":"像 - Tượng","x":211,"y":141,"width":250,"height":60},
 		{"id":"1f3bb990a1d6913b","type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng.","x":611,"y":115,"width":250,"height":112},
-		{"id":"fcf7d5c7762393d6","x":-1180,"y":-220,"width":162,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas"}
+		{"id":"fcf7d5c7762393d6","x":-1180,"y":-220,"width":162,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas"}
 	],
 	"edges":[
 		{"id":"c71ee3bdaf48f3fc","fromNode":"f4116ff497a7d166","fromSide":"right","toNode":"e8c0fe2aaa0cb98a","toSide":"left"},

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d80e9473273772a1","x":-116,"y":-63,"width":250,"height":60,"type":"text","text":"親 - Thân"},
+		{"id":"e174434c5dcd6c7f","x":-400,"y":-240,"width":127,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"cd610d6c739c7bc3","x":-444,"y":-65,"width":171,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"794663048d0a21bf","x":-426,"y":140,"width":153,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"7c00aa77f260bee5","fromNode":"e174434c5dcd6c7f","fromSide":"right","toNode":"d80e9473273772a1","toSide":"left"},
+		{"id":"f17ba81ebc352f07","fromNode":"cd610d6c739c7bc3","fromSide":"right","toNode":"d80e9473273772a1","toSide":"left"},
+		{"id":"6baa4164f4530733","fromNode":"794663048d0a21bf","fromSide":"right","toNode":"d80e9473273772a1","toSide":"left"}
+	]
+}

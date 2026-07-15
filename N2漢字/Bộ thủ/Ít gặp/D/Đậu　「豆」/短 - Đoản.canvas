@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"c059d596ad2630a9","x":-89,"y":-27,"width":250,"height":60,"type":"text","text":"短 - Đoản"},
 		{"id":"8f6b9498c1e348d1","x":-300,"y":-130,"width":102,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"},
-		{"id":"5b882293798d46de","x":-326,"y":60,"width":128,"height":75,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+		{"id":"5b882293798d46de","x":-326,"y":60,"width":128,"height":75,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas"}
 	],
 	"edges":[
 		{"id":"b1470d8769a7edc5","fromNode":"8f6b9498c1e348d1","fromSide":"right","toNode":"c059d596ad2630a9","toSide":"left"},

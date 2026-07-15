@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"9978523b5259f8b0","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kê　「彐」/Kê　「彐」.canvas","x":-314,"y":-170,"width":106,"height":93},
-		{"id":"d728f73d7054a29a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-314,"y":-30,"width":106,"height":89},
+		{"id":"d728f73d7054a29a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-314,"y":-30,"width":106,"height":89},
 		{"id":"1bdba444f47fa916","type":"text","text":"縁 - Duyên","x":-86,"y":29,"width":250,"height":60},
 		{"id":"710d02a1ff4aa730","type":"text","text":"縁　「ふち」：mép viền","x":279,"y":-9,"width":250,"height":60},
 		{"id":"4c3539e82e127e49","type":"text","text":"縁　「えん」：duyên","x":271,"y":-137,"width":250,"height":60},

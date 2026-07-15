@@ -14,7 +14,7 @@
 		{"id":"9ff83659e1c8139f","type":"text","text":"視 - Thị","x":215,"y":500,"width":250,"height":60},
 		{"id":"6c3f57f7b5d20772","type":"text","text":"観 - Quan","x":233,"y":1080,"width":250,"height":60},
 		{"id":"7318790af57ffead","type":"text","text":"観す　「しめす」：","x":715,"y":1080,"width":250,"height":60},
-		{"id":"71d0c2b8c4c0ffd5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ　「矢」/Thỉ　「矢」.canvas","x":-167,"y":960,"width":152,"height":97}
+		{"id":"71d0c2b8c4c0ffd5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas","x":-167,"y":960,"width":152,"height":97}
 	],
 	"edges":[
 		{"id":"e105f433d40935e8","fromNode":"57d821fe68053440","fromSide":"right","toNode":"8b95925f92286b96","toSide":"left"},

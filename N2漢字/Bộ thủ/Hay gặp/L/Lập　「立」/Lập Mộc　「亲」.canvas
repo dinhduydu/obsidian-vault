@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b657db803dc34410","type":"text","text":"Lập Mộc　「亲」","x":-104,"y":-57,"width":250,"height":60},
+		{"id":"5f9a48f107264884","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/親 - Thân.canvas","x":380,"y":-340,"width":154,"height":118},
+		{"id":"f8223d6ba1d2a792","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/新 - Tân/新 - Tân.canvas","x":380,"y":-113,"width":212,"height":172},
+		{"id":"d3223825efd472d6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/新 - Tân/薪 - Tân.canvas","x":960,"y":-130,"width":257,"height":207},
+		{"id":"45b68fa1d6521326","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":740,"y":-275,"width":155,"height":145},
+		{"id":"b45f3c0d9f3d690b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":100,"y":100,"width":153,"height":117},
+		{"id":"3cb7a1419f929828","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas","x":60,"y":-420,"width":142,"height":105},
+		{"id":"bd107054c990ee5e","x":-760,"y":-107,"width":186,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"}
+	],
+	"edges":[
+		{"id":"139f7ad5dd5e8326","fromNode":"b657db803dc34410","fromSide":"right","toNode":"5f9a48f107264884","toSide":"left"},
+		{"id":"03294950e1526a1b","fromNode":"b657db803dc34410","fromSide":"right","toNode":"f8223d6ba1d2a792","toSide":"left"},
+		{"id":"1a16e4c525518037","fromNode":"f8223d6ba1d2a792","fromSide":"right","toNode":"d3223825efd472d6","toSide":"left"},
+		{"id":"3cfb596088c7be3e","fromNode":"45b68fa1d6521326","fromSide":"right","toNode":"d3223825efd472d6","toSide":"left"},
+		{"id":"75853356d32c1cd4","fromNode":"b45f3c0d9f3d690b","fromSide":"right","toNode":"f8223d6ba1d2a792","toSide":"left"},
+		{"id":"15f88591bbd6785e","fromNode":"3cb7a1419f929828","fromSide":"right","toNode":"5f9a48f107264884","toSide":"left"},
+		{"id":"1979ad54ebfc7d7a","fromNode":"bd107054c990ee5e","fromSide":"right","toNode":"b657db803dc34410","toSide":"left","color":"1","label":"khác"}
+	]
+}
