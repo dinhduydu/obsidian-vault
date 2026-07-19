@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"532c3a6ef31b5020","type":"group","x":-5,"y":-170,"width":290,"height":340,"label":"返 - Phản"},
+		{"id":"54ab6d484b10221d","type":"text","text":"返却　「へんきゃく」：","x":15,"y":-150,"width":250,"height":60},
+		{"id":"5e489dff6a812dbe","type":"text","text":"返事　「へんじ」：","x":15,"y":-90,"width":250,"height":60},
+		{"id":"92f940b076a20343","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-285,"y":-49,"width":136,"height":98},
+		{"id":"c9a9b6a4fe2a6e7f","type":"text","text":"返す　「かえす」：","x":15,"y":-30,"width":250,"height":60},
+		{"id":"1bb50c3692ec34cf","type":"text","text":"返る　「かえる」：","x":15,"y":30,"width":250,"height":60},
+		{"id":"14b747e8d369f348","type":"text","text":"返品　「へんぴん」：","x":15,"y":90,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a72c94858ffa033a","fromNode":"92f940b076a20343","fromSide":"right","toNode":"532c3a6ef31b5020","toSide":"left"}
+	]
+}

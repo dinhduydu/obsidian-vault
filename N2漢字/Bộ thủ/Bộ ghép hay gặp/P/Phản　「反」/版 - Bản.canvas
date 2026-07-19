@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"388ba8a491d2d057","type":"group","x":31,"y":-140,"width":290,"height":280,"label":"版 - Bản"},
+		{"id":"a842bcbf0896170a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phiến　「片 」/Phiến　「片 」.canvas","x":-320,"y":-71,"width":182,"height":142},
+		{"id":"66fbaf8e6b483987","type":"text","text":"原板　「げんばん」：","x":51,"y":0,"width":250,"height":60},
+		{"id":"07f380e6ab624d5f","type":"text","text":"出版　「しゅっぱん」：","x":51,"y":-60,"width":250,"height":60},
+		{"id":"105bc748db76b776","type":"text","text":"版元　「はんもと」：","x":51,"y":-120,"width":250,"height":60},
+		{"id":"3c5ed401be733d84","type":"text","text":"版権　「はんけん」：","x":51,"y":60,"width":250,"height":60},
+		{"id":"8ad3577d7c77146c","x":-294,"y":-300,"width":156,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」/Phản　「反」.canvas"}
+	],
+	"edges":[
+		{"id":"b45e40c56ad16dab","fromNode":"a842bcbf0896170a","fromSide":"right","toNode":"388ba8a491d2d057","toSide":"left"},
+		{"id":"b9b099be6ab55245","fromNode":"8ad3577d7c77146c","fromSide":"right","toNode":"66fbaf8e6b483987","toSide":"left"}
+	]
+}

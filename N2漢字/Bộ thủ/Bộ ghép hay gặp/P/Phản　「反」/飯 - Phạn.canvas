@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"40920a849eb72bad","type":"group","x":-169,"y":-114,"width":658,"height":228,"label":"飯 - Phạn"},
+		{"id":"8a46e0b954690255","type":"text","text":"ご飯　「ごはん」：","x":-149,"y":-66,"width":250,"height":60},
+		{"id":"b071e25f0e934f93","type":"text","text":"ご飯をよそる：","x":219,"y":-66,"width":250,"height":60},
+		{"id":"b05da5d633397414","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas","x":-488,"y":-64,"width":162,"height":128},
+		{"id":"80d1544eddc6b8c1","type":"text","text":"ご飯を炊く：","x":219,"y":34,"width":250,"height":60},
+		{"id":"3c17db0162ea6910","x":-519,"y":-320,"width":193,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」/Phản　「反」.canvas"}
+	],
+	"edges":[
+		{"id":"c580c3fdb04e4693","fromNode":"b05da5d633397414","fromSide":"right","toNode":"40920a849eb72bad","toSide":"left"},
+		{"id":"431722277f36be01","fromNode":"8a46e0b954690255","fromSide":"right","toNode":"b071e25f0e934f93","toSide":"left"},
+		{"id":"9f5ed1cc5119c25a","fromNode":"8a46e0b954690255","fromSide":"right","toNode":"80d1544eddc6b8c1","toSide":"left"},
+		{"id":"a07ab97926da6985","fromNode":"3c17db0162ea6910","fromSide":"right","toNode":"40920a849eb72bad","toSide":"left"}
+	]
+}

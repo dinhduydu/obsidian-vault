@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b16d467b4af2b4a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas","x":-392,"y":-47,"width":114,"height":95},
+		{"id":"27f303dac214d845","type":"text","text":"阪 - Phản","x":-198,"y":-30,"width":250,"height":60},
+		{"id":"7108fc70fe0ee946","type":"text","text":"大阪　「おおさか」：","x":142,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"28a26ceb873f1eca","fromNode":"b16d467b4af2b4a5","fromSide":"right","toNode":"27f303dac214d845","toSide":"left"},
+		{"id":"c48518c4532a6d29","fromNode":"27f303dac214d845","fromSide":"right","toNode":"7108fc70fe0ee946","toSide":"left"}
+	]
+}

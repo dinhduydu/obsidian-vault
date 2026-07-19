@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"00f4fbe415b05f48","x":-134,"y":-19,"width":250,"height":60,"type":"text","text":"腰 - Yêu"},
+		{"id":"c8669ec8bbe2813c","x":-380,"y":60,"width":140,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/A/亜 - Á/要 - Yếu/要 - Yếu.canvas"},
+		{"id":"7d232f7ffc7e5d0d","x":-640,"y":-53,"width":119,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"d38f797126284d0b","fromNode":"c8669ec8bbe2813c","fromSide":"right","toNode":"00f4fbe415b05f48","toSide":"left"},
+		{"id":"44868c1c3fca4425","fromNode":"7d232f7ffc7e5d0d","fromSide":"right","toNode":"00f4fbe415b05f48","toSide":"left"}
+	]
+}
