@@ -3,11 +3,13 @@
 		{"id":"4f572fe414340651","type":"text","text":"但 - Đãn","x":-309,"y":-103,"width":250,"height":60},
 		{"id":"9114b05a0e9d8b40","type":"text","text":"tuy vậy, tuy nhiên","x":60,"y":-103,"width":250,"height":60},
 		{"id":"cf54a4eec17bbf8e","type":"text","text":"ただ","x":60,"y":44,"width":250,"height":60},
-		{"id":"93cff442740e0299","x":-600,"y":-200,"width":123,"height":50,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+		{"id":"93cff442740e0299","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-600,"y":-200,"width":123,"height":50},
+		{"id":"a914fa4832e47a73","x":-711,"y":-19,"width":234,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas"}
 	],
 	"edges":[
 		{"id":"092bb703d873841a","fromNode":"4f572fe414340651","fromSide":"right","toNode":"9114b05a0e9d8b40","toSide":"left"},
 		{"id":"c7da14bd11561ff7","fromNode":"4f572fe414340651","fromSide":"right","toNode":"cf54a4eec17bbf8e","toSide":"left"},
-		{"id":"4cf67d397cd55a33","fromNode":"93cff442740e0299","fromSide":"right","toNode":"4f572fe414340651","toSide":"left"}
+		{"id":"4cf67d397cd55a33","fromNode":"93cff442740e0299","fromSide":"right","toNode":"4f572fe414340651","toSide":"left"},
+		{"id":"c0758510fe1b352d","fromNode":"a914fa4832e47a73","fromSide":"right","toNode":"4f572fe414340651","toSide":"left"}
 	]
 }

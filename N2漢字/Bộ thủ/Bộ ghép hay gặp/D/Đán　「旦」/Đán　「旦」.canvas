@@ -1,15 +1,19 @@
 {
 	"nodes":[
-		{"id":"15437060307f4078","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Đán　「旦」"},
-		{"id":"13e64a74a6615d89","x":-440,"y":-162,"width":178,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
-		{"id":"faefe1ca9d342774","x":-451,"y":160,"width":189,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
-		{"id":"bc0b9e8405566ca1","x":380,"y":71,"width":200,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/量 - Lượng/量 - Lượng.canvas"},
-		{"id":"455219f86c7d1721","x":80,"y":280,"width":180,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"}
+		{"id":"15437060307f4078","type":"text","text":"Đán　「旦」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"13e64a74a6615d89","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-440,"y":-162,"width":178,"height":132},
+		{"id":"faefe1ca9d342774","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-451,"y":160,"width":189,"height":155},
+		{"id":"bc0b9e8405566ca1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/量 - Lượng/量 - Lượng.canvas","x":380,"y":71,"width":200,"height":178},
+		{"id":"455219f86c7d1721","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas","x":80,"y":280,"width":180,"height":197},
+		{"id":"1ebe6da8405b5e99","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/但 - Đãn.canvas","x":380,"y":-280,"width":154,"height":107},
+		{"id":"e3b3b928cebe1619","x":80,"y":-382,"width":124,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
 	],
 	"edges":[
 		{"id":"136df2e843d82213","fromNode":"13e64a74a6615d89","fromSide":"right","toNode":"15437060307f4078","toSide":"left"},
 		{"id":"1f2f5770b71b9ae5","fromNode":"faefe1ca9d342774","fromSide":"right","toNode":"15437060307f4078","toSide":"left"},
 		{"id":"56a3467a511af810","fromNode":"15437060307f4078","fromSide":"right","toNode":"bc0b9e8405566ca1","toSide":"left"},
-		{"id":"76c6b58f40e9f58f","fromNode":"455219f86c7d1721","fromSide":"right","toNode":"bc0b9e8405566ca1","toSide":"left"}
+		{"id":"76c6b58f40e9f58f","fromNode":"455219f86c7d1721","fromSide":"right","toNode":"bc0b9e8405566ca1","toSide":"left"},
+		{"id":"0d13267e1cf1e2bd","fromNode":"15437060307f4078","fromSide":"right","toNode":"1ebe6da8405b5e99","toSide":"left"},
+		{"id":"44ee3fbbc8d6b4ce","fromNode":"e3b3b928cebe1619","fromSide":"right","toNode":"1ebe6da8405b5e99","toSide":"left"}
 	]
 }
