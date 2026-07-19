@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c470898f59e91d94","type":"text","text":"好 - Hảo","x":-906,"y":216,"width":250,"height":60},
+		{"id":"b2ff0f275ff86647","type":"text","text":"好調　「こうちょう」：","x":-518,"y":104,"width":250,"height":60},
+		{"id":"ee16b422d3267d1d","type":"text","text":"- Tình trạng tốt.\n- Diễn biến thuận lợi.\n- Phong độ tốt, hoạt động hiệu quả.","x":-118,"y":29,"width":250,"height":135},
+		{"id":"e509f9f5c708a5a3","type":"text","text":"- Sức khỏe\n- Công việc\n- Kinh doanh\n- Máy móc\n- Thành tích thể thao","x":342,"y":-81,"width":279,"height":178},
+		{"id":"7ad61999d34dd695","type":"text","text":"今年の売り上げは好調だ。\n→ Doanh số năm nay rất khả quan.\nチームは好調を維持している。\n→ Đội bóng đang duy trì phong độ tốt.\nエンジンは好調に動いている。\n→ Động cơ đang hoạt động tốt.\n景気は好調だ。\n→ Tình hình kinh tế đang thuận lợi.","x":921,"y":-275,"width":280,"height":304},
+		{"id":"9c980a41c02e1b9a","type":"text","text":"- 好き（すき）: thích\n- 好意（こうい）: thiện ý\n- 好物（こうぶつ）: món khoái khẩu","x":-518,"y":-275,"width":370,"height":121},
+		{"id":"46265f9ad7986347","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-1200,"y":46,"width":118,"height":101},
+		{"id":"c202ac2d05f79ef0","x":-1268,"y":320,"width":186,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"baeed59ed7e36591","fromNode":"c470898f59e91d94","fromSide":"right","toNode":"b2ff0f275ff86647","toSide":"left"},
+		{"id":"218cbca03f55f256","fromNode":"c470898f59e91d94","fromSide":"right","toNode":"9c980a41c02e1b9a","toSide":"left"},
+		{"id":"c73ed4b99696ad18","fromNode":"46265f9ad7986347","fromSide":"right","toNode":"c470898f59e91d94","toSide":"left"},
+		{"id":"7d358d0772285a8a","fromNode":"b2ff0f275ff86647","fromSide":"right","toNode":"ee16b422d3267d1d","toSide":"left"},
+		{"id":"2b293213f1c7dc00","fromNode":"ee16b422d3267d1d","fromSide":"right","toNode":"e509f9f5c708a5a3","toSide":"left"},
+		{"id":"73100a84d5911abf","fromNode":"e509f9f5c708a5a3","fromSide":"right","toNode":"7ad61999d34dd695","toSide":"left"},
+		{"id":"d886c94016521589","fromNode":"c202ac2d05f79ef0","fromSide":"right","toNode":"c470898f59e91d94","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"000726a92f896468","x":-148,"y":-25,"width":250,"height":60,"type":"text","text":"理 - Lý"},
+		{"id":"1fd0151891664e05","x":-420,"y":80,"width":183,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"},
+		{"id":"2b78694ab756f0f9","x":-700,"y":-69,"width":191,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"e0c07b30ed7cbd27","fromNode":"1fd0151891664e05","fromSide":"right","toNode":"000726a92f896468","toSide":"left"},
+		{"id":"b6b83f6e7e502072","fromNode":"2b78694ab756f0f9","fromSide":"right","toNode":"000726a92f896468","toSide":"left"}
+	]
+}

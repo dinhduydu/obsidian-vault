@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"56c6023505b5724b","type":"text","text":"量 - Lượng","x":-106,"y":-46,"width":250,"height":60},
+		{"id":"516cbfd513649330","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/交通量.md","x":380,"y":-340,"width":290,"height":217},
+		{"id":"225c3db5f781b94f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas","x":-460,"y":-280,"width":155,"height":165},
+		{"id":"a752aadb7bd98f6d","x":-546,"y":80,"width":241,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas"}
+	],
+	"edges":[
+		{"id":"119c97b796b93ac2","fromNode":"56c6023505b5724b","fromSide":"right","toNode":"516cbfd513649330","toSide":"left"},
+		{"id":"48ac77c9d601d08a","fromNode":"225c3db5f781b94f","fromSide":"right","toNode":"56c6023505b5724b","toSide":"left"},
+		{"id":"618ca3674b769537","fromNode":"a752aadb7bd98f6d","fromSide":"right","toNode":"56c6023505b5724b","toSide":"left"}
+	]
+}

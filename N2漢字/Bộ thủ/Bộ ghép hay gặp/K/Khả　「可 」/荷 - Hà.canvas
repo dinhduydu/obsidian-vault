@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9cd992746d7dcb9f","type":"text","text":"荷 - Hà","x":-312,"y":-30,"width":250,"height":60},
+		{"id":"4dd1e079d6162fda","type":"text","text":"荷物　「にもつ」：hành lý","x":63,"y":-30,"width":250,"height":60},
+		{"id":"3a09a6d22d18a16b","x":-560,"y":-191,"width":148,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"04bf551f0901d2b8","x":-560,"y":60,"width":153,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/何 - Hà.canvas"}
+	],
+	"edges":[
+		{"id":"a72070a544c501eb","fromNode":"9cd992746d7dcb9f","fromSide":"right","toNode":"4dd1e079d6162fda","toSide":"left"},
+		{"id":"f196f6de0cda3479","fromNode":"3a09a6d22d18a16b","fromSide":"right","toNode":"9cd992746d7dcb9f","toSide":"left"},
+		{"id":"a6d15e8097b2fda7","fromNode":"04bf551f0901d2b8","fromSide":"right","toNode":"9cd992746d7dcb9f","toSide":"left"}
+	]
+}

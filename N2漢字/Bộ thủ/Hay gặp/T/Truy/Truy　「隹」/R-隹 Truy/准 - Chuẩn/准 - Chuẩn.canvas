@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d25ab3f35534afde","type":"text","text":"准 - Chuẩn","x":-133,"y":-12,"width":250,"height":60},
+		{"id":"5f504655bbadbb47","x":-640,"y":-71,"width":180,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/准 - Chuẩn.canvas"},
+		{"id":"e3a23bb5376cba7a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-860,"y":-240,"width":109,"height":92},
+		{"id":"a7da646690cc28e9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas","x":-957,"y":160,"width":152,"height":95}
+	],
+	"edges":[
+		{"id":"39447f189c6faa57","fromNode":"a7da646690cc28e9","fromSide":"right","toNode":"5f504655bbadbb47","toSide":"left"},
+		{"id":"a306fe185227f1de","fromNode":"e3a23bb5376cba7a","fromSide":"right","toNode":"5f504655bbadbb47","toSide":"left"},
+		{"id":"71dc2607e153e73b","fromNode":"5f504655bbadbb47","fromSide":"right","toNode":"d25ab3f35534afde","toSide":"left"}
+	]
+}

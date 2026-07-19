@@ -3,13 +3,17 @@
 		{"id":"9c399f6f92a5f066","type":"text","text":"Võng　「网 (罒)」","x":-160,"y":-40,"width":250,"height":60},
 		{"id":"869e1fd027497d5d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/罵 - Mạ.canvas","x":280,"y":40,"width":181,"height":138},
 		{"id":"f19c1c0e84a13618","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas","x":-115,"y":178,"width":205,"height":214},
-		{"id":"a67d9cb6ddd39b40","x":282,"y":-220,"width":179,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/置 - Trí.canvas"},
-		{"id":"cd7370cfe30d511b","x":-50,"y":-380,"width":140,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas"}
+		{"id":"a67d9cb6ddd39b40","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/置 - Trí.canvas","x":282,"y":-220,"width":179,"height":131},
+		{"id":"cd7370cfe30d511b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas","x":-50,"y":-380,"width":140,"height":138},
+		{"id":"3e82e5a8d9e0316d","x":1040,"y":-53,"width":159,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/維 - Duy/羅 - La.canvas"},
+		{"id":"1aefd83c113864c6","x":760,"y":-271,"width":175,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/維 - Duy/維 - Duy.canvas"}
 	],
 	"edges":[
 		{"id":"78db25c267e4d375","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"869e1fd027497d5d","toSide":"left"},
 		{"id":"4055dca0c5646dfc","fromNode":"f19c1c0e84a13618","fromSide":"right","toNode":"869e1fd027497d5d","toSide":"left"},
 		{"id":"1fc18ad150564335","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"a67d9cb6ddd39b40","toSide":"left"},
-		{"id":"400b44c9a2853972","fromNode":"cd7370cfe30d511b","fromSide":"right","toNode":"a67d9cb6ddd39b40","toSide":"left"}
+		{"id":"400b44c9a2853972","fromNode":"cd7370cfe30d511b","fromSide":"right","toNode":"a67d9cb6ddd39b40","toSide":"left"},
+		{"id":"2502ca659ce174a9","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"3e82e5a8d9e0316d","toSide":"left"},
+		{"id":"37f636037d560356","fromNode":"1aefd83c113864c6","fromSide":"right","toNode":"3e82e5a8d9e0316d","toSide":"left"}
 	]
 }

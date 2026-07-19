@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5c3157fc2bf6b46e","type":"text","text":"安易","x":559,"y":-128,"width":250,"height":60},
+		{"id":"f1d3e2ca62eedffd","type":"text","text":"“quá dễ và quá thoải mái”\n→ làm mà không suy nghĩ sâu.","x":1089,"y":-128,"width":309,"height":65},
+		{"id":"7dd18ee10f498c21","type":"text","text":"**安易**に信じてはいけない。\n（あんい に しんじて は いけない。）\nKhông nên dễ dàng tin như vậy.","x":1089,"y":-3,"width":360,"height":100},
+		{"id":"30768a399680705e","type":"text","text":"**安易**な考え\n（あんい な かんがえ）\nSuy nghĩ quá đơn giản / hời hợt.","x":1089,"y":137,"width":302,"height":94},
+		{"id":"c7fa700490f7a277","type":"text","text":"2級能力試験を**安易**に考えて臨んだら、落第する恐れがあるよ。","x":1091,"y":351,"width":528,"height":50},
+		{"id":"8db751e3b55f3fb6","type":"text","text":"安（あん）\nBộ thủ: 宀（うかんむり）\nNghĩa: yên ổn, dễ chịu","x":559,"y":-283,"width":250,"height":103},
+		{"id":"2b5eb658b80ce953","type":"text","text":"安 - An","x":180,"y":-180,"width":250,"height":60},
+		{"id":"3aacc1e3229986e8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-389,"y":-317,"width":149,"height":68},
+		{"id":"d7ad907d71c1ec0d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":-397,"y":-20,"width":157,"height":118}
+	],
+	"edges":[
+		{"id":"959995a4117982a2","fromNode":"3aacc1e3229986e8","fromSide":"right","toNode":"2b5eb658b80ce953","toSide":"left"},
+		{"id":"e59edc2ed39dfbfb","fromNode":"d7ad907d71c1ec0d","fromSide":"right","toNode":"2b5eb658b80ce953","toSide":"left"},
+		{"id":"042a76a1aee1db08","fromNode":"5c3157fc2bf6b46e","fromSide":"right","toNode":"f1d3e2ca62eedffd","toSide":"left"},
+		{"id":"bed48976c5a627c1","fromNode":"5c3157fc2bf6b46e","fromSide":"right","toNode":"7dd18ee10f498c21","toSide":"left"},
+		{"id":"1b0d4c63f0765be2","fromNode":"5c3157fc2bf6b46e","fromSide":"right","toNode":"30768a399680705e","toSide":"left"},
+		{"id":"9d189e2f757ab08b","fromNode":"5c3157fc2bf6b46e","fromSide":"right","toNode":"c7fa700490f7a277","toSide":"left"},
+		{"id":"dc1f52c7f85fce23","fromNode":"2b5eb658b80ce953","fromSide":"right","toNode":"5c3157fc2bf6b46e","toSide":"left"},
+		{"id":"90df0d2c42786db5","fromNode":"2b5eb658b80ce953","fromSide":"right","toNode":"8db751e3b55f3fb6","toSide":"left"}
+	]
+}

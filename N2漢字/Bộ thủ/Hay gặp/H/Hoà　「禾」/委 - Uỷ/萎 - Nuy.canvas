@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c42e1464fd0aba03","x":-151,"y":-25,"width":250,"height":60,"type":"text","text":"萎 - Nuy"},
+		{"id":"181855dd8d900757","x":-500,"y":-220,"width":183,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/委 - Uỷ/委 - Uỷ.canvas"},
+		{"id":"386599dbd655391a","x":-512,"y":60,"width":195,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"7f1a3031331eaaa3","x":-780,"y":-25,"width":250,"height":60,"type":"text","text":"héo khô"}
+	],
+	"edges":[
+		{"id":"39c021782a473479","fromNode":"181855dd8d900757","fromSide":"right","toNode":"c42e1464fd0aba03","toSide":"left"},
+		{"id":"a5c9966a4b6d4503","fromNode":"386599dbd655391a","fromSide":"right","toNode":"c42e1464fd0aba03","toSide":"left"},
+		{"id":"353507196c315816","fromNode":"7f1a3031331eaaa3","fromSide":"right","toNode":"c42e1464fd0aba03","toSide":"left"}
+	]
+}

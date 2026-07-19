@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f12d4c7744dd8291","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/備 - Bị.canvas","x":-267,"y":-70,"width":163,"height":160},
+		{"id":"2c7db2cf1d77235f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-596,"y":-300,"width":181,"height":127},
+		{"id":"6f22e796c8b03fb7","type":"text","text":"備 - Bị","x":20,"y":-20,"width":250,"height":60},
+		{"id":"86f0a5bb87f4e408","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-880,"y":-70,"width":131,"height":146},
+		{"id":"9fbdcfabb0c19696","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-691,"y":40,"width":183,"height":142},
+		{"id":"81788c4b35b2bc46","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dụng　「用」/Dụng　「用」.canvas","x":-596,"y":280,"width":185,"height":165}
+	],
+	"edges":[
+		{"id":"c841035b600a7f4d","fromNode":"81788c4b35b2bc46","fromSide":"right","toNode":"f12d4c7744dd8291","toSide":"left"},
+		{"id":"179f788b46ff5432","fromNode":"2c7db2cf1d77235f","fromSide":"right","toNode":"f12d4c7744dd8291","toSide":"left"},
+		{"id":"7cd126f659258f1b","fromNode":"f12d4c7744dd8291","fromSide":"right","toNode":"6f22e796c8b03fb7","toSide":"left"},
+		{"id":"58525c820be214c4","fromNode":"86f0a5bb87f4e408","fromSide":"right","toNode":"f12d4c7744dd8291","toSide":"left"},
+		{"id":"23825afc9d17b141","fromNode":"9fbdcfabb0c19696","fromSide":"right","toNode":"f12d4c7744dd8291","toSide":"left"}
+	]
+}

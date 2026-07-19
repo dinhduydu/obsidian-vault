@@ -11,8 +11,9 @@
 		{"id":"8e4c542b95c9745f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":62,"y":-277,"width":123,"height":74},
 		{"id":"940ee52458e85208","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/移 - Di.canvas","x":185,"y":120,"width":161,"height":85},
 		{"id":"aa04abe4ed45d60c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秩 - Trật.canvas","x":139,"y":320,"width":236,"height":144},
-		{"id":"845699139a43b0a4","x":210,"y":1286,"width":152,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas"},
-		{"id":"b418eebb07bc42bf","x":680,"y":1400,"width":189,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/愁 - Sầu.canvas"}
+		{"id":"845699139a43b0a4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas","x":210,"y":1286,"width":152,"height":104},
+		{"id":"b418eebb07bc42bf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/愁 - Sầu.canvas","x":680,"y":1400,"width":189,"height":134},
+		{"id":"28ff4a1d9b584b70","x":240,"y":920,"width":201,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hương　「香」.canvas"}
 	],
 	"edges":[
 		{"id":"de45bcd3d947d5ae","fromNode":"b363cdf76a4c397d","fromSide":"right","toNode":"05d4962139a72def","toSide":"left"},
@@ -25,6 +26,7 @@
 		{"id":"81cc97521fe8b841","fromNode":"04e1b0167c92bdb7","fromSide":"right","toNode":"845699139a43b0a4","toSide":"left","label":"vàng như lửa"},
 		{"id":"45b69da216a5baa6","fromNode":"8cb882128fe73db5","fromSide":"right","toNode":"845699139a43b0a4","toSide":"left","label":"lúa"},
 		{"id":"f0df74fa579cecc3","fromNode":"845699139a43b0a4","fromSide":"right","toNode":"b418eebb07bc42bf","toSide":"left","label":"mùa thu"},
-		{"id":"f512ceba6c2b2d65","fromNode":"0d7df1ebe127b904","fromSide":"right","toNode":"b418eebb07bc42bf","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"}
+		{"id":"f512ceba6c2b2d65","fromNode":"0d7df1ebe127b904","fromSide":"right","toNode":"b418eebb07bc42bf","toSide":"left","label":"buồn bã là 1 cảm xúc của con người"},
+		{"id":"0dbd0b4d6b9cceca","fromNode":"8cb882128fe73db5","fromSide":"right","toNode":"28ff4a1d9b584b70","toSide":"left"}
 	]
 }

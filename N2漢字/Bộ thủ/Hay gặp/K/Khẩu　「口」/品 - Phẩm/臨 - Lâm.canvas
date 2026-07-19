@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"419d4e739017ec81","type":"text","text":"臨 - Lâm","x":-107,"y":-14,"width":250,"height":60},
+		{"id":"4b1e33d8a6a9db74","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/品 - Phẩm.canvas","x":-380,"y":-58,"width":166,"height":148},
+		{"id":"6b98c3cf52d0f410","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-378,"y":-280,"width":164,"height":118},
+		{"id":"fc8756b52de3294b","x":-760,"y":-89,"width":262,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」.canvas"}
+	],
+	"edges":[
+		{"id":"f9f71a4ead5c5783","fromNode":"4b1e33d8a6a9db74","fromSide":"right","toNode":"419d4e739017ec81","toSide":"left"},
+		{"id":"383a12d14d67978f","fromNode":"6b98c3cf52d0f410","fromSide":"right","toNode":"419d4e739017ec81","toSide":"left"},
+		{"id":"31698afcd0f33467","fromNode":"fc8756b52de3294b","fromSide":"right","toNode":"419d4e739017ec81","toSide":"left"}
+	]
+}

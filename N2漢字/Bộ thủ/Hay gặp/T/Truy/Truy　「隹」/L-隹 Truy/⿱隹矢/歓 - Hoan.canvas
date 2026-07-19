@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1d04a14b621da32a","x":-125,"y":5,"width":250,"height":60,"type":"text","text":"歓 - Hoan"},
+		{"id":"168034100e4f9dfb","x":-460,"y":-220,"width":147,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"},
+		{"id":"42c4f430168557a7","x":-573,"y":5,"width":260,"height":220,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/⿱隹矢.canvas"}
+	],
+	"edges":[
+		{"id":"a9b06ae32a562b73","fromNode":"168034100e4f9dfb","fromSide":"right","toNode":"1d04a14b621da32a","toSide":"left"},
+		{"id":"070068de1f3a0416","fromNode":"42c4f430168557a7","fromSide":"right","toNode":"1d04a14b621da32a","toSide":"left"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4e543d24be320730","type":"text","text":"","x":-141,"y":-56,"width":250,"height":60},
+		{"id":"1ad97fd3e47cb694","type":"text","text":"妄 - Vọng","x":-320,"y":-56,"width":250,"height":60},
+		{"id":"b0bc4af3226cca5d","type":"text","text":"hoang tưởng","x":39,"y":-56,"width":250,"height":60},
+		{"id":"c8d0f0c44076641c","x":-700,"y":40,"width":205,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"ef011331994e1e29","fromNode":"1ad97fd3e47cb694","fromSide":"right","toNode":"b0bc4af3226cca5d","toSide":"left"},
+		{"id":"abb62196de0b6894","fromNode":"c8d0f0c44076641c","fromSide":"right","toNode":"1ad97fd3e47cb694","toSide":"left"}
+	]
+}

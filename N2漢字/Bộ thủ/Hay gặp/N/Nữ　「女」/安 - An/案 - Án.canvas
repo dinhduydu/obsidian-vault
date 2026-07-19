@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"81a1b31b71a0c640","type":"text","text":"案 - Án","x":-106,"y":-61,"width":250,"height":60},
+		{"id":"be8df87a42cf329d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/安 - An/安 - An.canvas","x":-449,"y":-164,"width":155,"height":133},
+		{"id":"88cb055f4dde50e3","x":-466,"y":80,"width":172,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"3aa064bcdac3ce74","fromNode":"be8df87a42cf329d","fromSide":"right","toNode":"81a1b31b71a0c640","toSide":"left"},
+		{"id":"0fd65b00de96cf4c","fromNode":"88cb055f4dde50e3","fromSide":"right","toNode":"81a1b31b71a0c640","toSide":"left"}
+	]
+}

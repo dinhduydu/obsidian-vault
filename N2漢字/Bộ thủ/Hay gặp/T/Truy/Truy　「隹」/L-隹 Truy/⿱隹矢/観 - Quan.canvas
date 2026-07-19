@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a6d44647ae521282","x":-17,"y":-25,"width":250,"height":60,"type":"text","text":"観 - Quan"},
+		{"id":"5091eff6de6e23d1","x":-440,"y":80,"width":165,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"e5c985b10fa2865a","x":-408,"y":-200,"width":133,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"569d8e03c3488504","fromNode":"5091eff6de6e23d1","fromSide":"right","toNode":"a6d44647ae521282","toSide":"left"},
+		{"id":"1628d4f01fe7054a","fromNode":"e5c985b10fa2865a","fromSide":"right","toNode":"a6d44647ae521282","toSide":"left"}
+	]
+}

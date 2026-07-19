@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86a893010ba9ee3d","x":-145,"y":-52,"width":250,"height":60,"type":"text","text":"進 - Tiến"},
+		{"id":"8bec7314bef7db3d","x":-480,"y":-80,"width":120,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"fcacff6a602d9c00","x":-620,"y":140,"width":147,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"ca02449aa5610275","fromNode":"8bec7314bef7db3d","fromSide":"right","toNode":"86a893010ba9ee3d","toSide":"left"},
+		{"id":"96a694f8fe2eeac3","fromNode":"fcacff6a602d9c00","fromSide":"right","toNode":"86a893010ba9ee3d","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cbfc19457f4db6f5","x":-164,"y":-4,"width":250,"height":60,"type":"text","text":"擁 - Ủng"},
+		{"id":"7e50d968166821e3","x":-340,"y":160,"width":96,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"59118d7513341d0e","x":-520,"y":-30,"width":119,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"53a20faa6c93735e","x":-388,"y":-160,"width":144,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"},
+		{"id":"039f8e94b21464c4","x":-401,"y":-340,"width":140,"height":71,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"}
+	],
+	"edges":[
+		{"id":"c760ffabe9bc152a","fromNode":"59118d7513341d0e","fromSide":"right","toNode":"cbfc19457f4db6f5","toSide":"left"},
+		{"id":"13899a2fcf798db4","fromNode":"7e50d968166821e3","fromSide":"right","toNode":"cbfc19457f4db6f5","toSide":"left"},
+		{"id":"5139606caf7fa966","fromNode":"53a20faa6c93735e","fromSide":"right","toNode":"cbfc19457f4db6f5","toSide":"left"},
+		{"id":"efbd415480e42e99","fromNode":"039f8e94b21464c4","fromSide":"right","toNode":"cbfc19457f4db6f5","toSide":"left"}
+	]
+}

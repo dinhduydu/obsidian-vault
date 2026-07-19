@@ -1,40 +1,24 @@
 {
 	"nodes":[
 		{"id":"41854e15f1aef991","type":"text","text":"Thảo　「艸 (艹)」","x":-216,"y":-57,"width":250,"height":60},
-		{"id":"ea4a93220bf60e7d","type":"text","text":"苛まる　「さいなまる」","x":735,"y":-206,"width":250,"height":60},
-		{"id":"0066e46606ec6886","type":"text","text":"Kanji **苛** mang nghĩa:\n\n- hà khắc\n- khắt khe\n- nghiêm ngặt quá mức\n- làm khó người khác","x":761,"y":82,"width":319,"height":198},
-		{"id":"d1ecc82cfa385a66","type":"text","text":"- **苛立つ（いらだつ）**: bực bội, cáu gắt\n- **苛烈（かれつ）**: khốc liệt, hà khắc\n- **苛政（かせい）**: chính sách hà khắc\n- **苛酷（かこく）**: khắc nghiệt","x":761,"y":-500,"width":357,"height":222},
-		{"id":"f27638e8ac7b3da1","type":"text","text":"苛 - Hà","x":326,"y":-206,"width":250,"height":60},
-		{"id":"b7244b8921fff235","type":"text","text":"![[Pasted image 20260522005509.png]]","x":860,"y":-80,"width":100,"height":81},
-		{"id":"4cbe95740a3687cf","type":"text","text":"苦い　「にがい」：đắng","x":690,"y":400,"width":250,"height":60},
-		{"id":"b087ac2ca100350b","type":"text","text":"苦 - Khổ","x":260,"y":250,"width":250,"height":60},
-		{"id":"0bde74492d253c3b","type":"text","text":"Bị dày vò, hành hạ, giày vò về thể xác hoặc tinh thần.\nThường dùng khi nói đến sự đau khổ kéo dài do bệnh tật, lo âu, áp lực, ký ức, cảm giác tội lỗi...","x":1140,"y":-206,"width":337,"height":146},
 		{"id":"86e7d892d2d677ff","type":"text","text":"落","x":260,"y":600,"width":250,"height":60},
-		{"id":"b77739033f683ce4","type":"text","text":"何 - Hà","x":315,"y":-944,"width":250,"height":60},
-		{"id":"10318c9c5732b86a","type":"text","text":"cái gì","x":678,"y":-1040,"width":250,"height":60},
-		{"id":"ff5c19cedd8602f2","type":"text","text":"荷 - Hà","x":690,"y":-817,"width":250,"height":60},
-		{"id":"47d52c0e095c21b7","type":"text","text":"荷物　「にもつ」：hành lý","x":1065,"y":-817,"width":250,"height":60},
 		{"id":"9a280b1203b9fdc3","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas","x":-41,"y":-700,"width":150,"height":145},
-		{"id":"59d81de2a645b969","x":56,"y":880,"width":180,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/Nha　「牙」.canvas"},
-		{"id":"ab87891c354077e1","x":325,"y":730,"width":161,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/芽 - Nha.canvas"}
+		{"id":"59d81de2a645b969","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/Nha　「牙」.canvas","x":56,"y":880,"width":180,"height":180},
+		{"id":"ab87891c354077e1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/芽 - Nha.canvas","x":325,"y":730,"width":161,"height":221},
+		{"id":"c322d631c241b68f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/苛 - Hà.canvas","x":355,"y":-76,"width":171,"height":99},
+		{"id":"2de7a51fea26e854","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/苦 - Khổ.canvas","x":355,"y":180,"width":180,"height":171},
+		{"id":"70fcad970c82334f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/荷 - Hà.canvas","x":700,"y":-700,"width":195,"height":167},
+		{"id":"c18b998d2de078f4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/何 - Hà.canvas","x":260,"y":-900,"width":234,"height":200}
 	],
 	"edges":[
-		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
-		{"id":"71f3e804785c3acf","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"ea4a93220bf60e7d","toSide":"left"},
-		{"id":"585a4faa37ce6906","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"0066e46606ec6886","toSide":"left"},
-		{"id":"324fb05c6c7ffdb7","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"d1ecc82cfa385a66","toSide":"left"},
-		{"id":"dd88769bcddba2f3","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"b087ac2ca100350b","toSide":"left"},
-		{"id":"ec7594a7759f0c1a","fromNode":"f27638e8ac7b3da1","fromSide":"right","toNode":"b7244b8921fff235","toSide":"left"},
-		{"id":"6e044697ddd16fd7","fromNode":"b087ac2ca100350b","fromSide":"right","toNode":"4cbe95740a3687cf","toSide":"left"},
-		{"id":"573b6fdc33dc57ef","fromNode":"ea4a93220bf60e7d","fromSide":"right","toNode":"0bde74492d253c3b","toSide":"left"},
+		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"c322d631c241b68f","toSide":"left"},
 		{"id":"156a56a73d87e145","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"86e7d892d2d677ff","toSide":"left"},
 		{"id":"4c2b2845fcc94a84","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"ab87891c354077e1","toSide":"left"},
-		{"id":"8c1d36dea5d0bbf5","fromNode":"b77739033f683ce4","fromSide":"right","toNode":"10318c9c5732b86a","toSide":"left"},
-		{"id":"beb9a83d90f1022b","fromNode":"b77739033f683ce4","fromSide":"right","toNode":"ff5c19cedd8602f2","toSide":"left"},
-		{"id":"e743345515841fa0","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"ff5c19cedd8602f2","toSide":"left"},
-		{"id":"b78a1a0f348dcd82","fromNode":"ff5c19cedd8602f2","fromSide":"right","toNode":"47d52c0e095c21b7","toSide":"left"},
-		{"id":"4c447106d2778546","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"f27638e8ac7b3da1","toSide":"left"},
-		{"id":"cae3b0a363d34e85","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"b77739033f683ce4","toSide":"left"},
-		{"id":"fdfe6b65bdcd3b7f","fromNode":"59d81de2a645b969","fromSide":"right","toNode":"ab87891c354077e1","toSide":"left"}
+		{"id":"beb9a83d90f1022b","fromNode":"c18b998d2de078f4","fromSide":"right","toNode":"70fcad970c82334f","toSide":"left"},
+		{"id":"e743345515841fa0","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"70fcad970c82334f","toSide":"left"},
+		{"id":"4c447106d2778546","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"c322d631c241b68f","toSide":"left"},
+		{"id":"cae3b0a363d34e85","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"c18b998d2de078f4","toSide":"left"},
+		{"id":"fdfe6b65bdcd3b7f","fromNode":"59d81de2a645b969","fromSide":"right","toNode":"ab87891c354077e1","toSide":"left"},
+		{"id":"af3b5f2ff85eb00a","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"2de7a51fea26e854","toSide":"left"}
 	]
 }

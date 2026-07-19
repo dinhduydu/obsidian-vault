@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"534e97c87e8c65e1","x":-143,"y":-40,"width":250,"height":60,"type":"text","text":"躍 - Dược"},
+		{"id":"d76e0b1420715cd9","x":-572,"y":-320,"width":185,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"},
+		{"id":"192878c738b173bb","x":-564,"y":140,"width":170,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/翟 - Địch/翟 - Địch.canvas"}
+	],
+	"edges":[
+		{"id":"387eff53ef05383d","fromNode":"192878c738b173bb","fromSide":"right","toNode":"534e97c87e8c65e1","toSide":"left"},
+		{"id":"b4210b6926715a4c","fromNode":"d76e0b1420715cd9","fromSide":"right","toNode":"534e97c87e8c65e1","toSide":"left"}
+	]
+}

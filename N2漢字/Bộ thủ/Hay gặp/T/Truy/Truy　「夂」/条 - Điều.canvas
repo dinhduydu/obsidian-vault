@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"da9ffa732256bfce","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"条 - Điều"},
-		{"id":"75f193df6b9fe812","x":-460,"y":-113,"width":140,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+		{"id":"da9ffa732256bfce","type":"text","text":"条 - Điều","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"75f193df6b9fe812","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-460,"y":-113,"width":140,"height":83},
+		{"id":"6115a96fad3153f0","x":-481,"y":80,"width":161,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
 	],
 	"edges":[
-		{"id":"b6602750f2f4d508","fromNode":"75f193df6b9fe812","fromSide":"right","toNode":"da9ffa732256bfce","toSide":"left"}
+		{"id":"b6602750f2f4d508","fromNode":"75f193df6b9fe812","fromSide":"right","toNode":"da9ffa732256bfce","toSide":"left"},
+		{"id":"fe7de83e71d48553","fromNode":"6115a96fad3153f0","fromSide":"right","toNode":"da9ffa732256bfce","toSide":"left"}
 	]
 }

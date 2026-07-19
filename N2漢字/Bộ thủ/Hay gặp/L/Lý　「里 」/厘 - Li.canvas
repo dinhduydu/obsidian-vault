@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"567d7ed7e9621b91","x":173,"y":0,"width":407,"height":60,"type":"text","text":"一分一厘　「いちぶいちりん」: từng li từng tí\n"},
+		{"id":"9c01def8160cb2ab","x":-260,"y":0,"width":250,"height":60,"type":"text","text":"厘 - Li"},
+		{"id":"8c3d0b461c0b92f5","x":-580,"y":140,"width":167,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"},
+		{"id":"66fd7ced4f6d7756","x":-597,"y":-171,"width":202,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"2245c76c34723512","fromNode":"9c01def8160cb2ab","fromSide":"right","toNode":"567d7ed7e9621b91","toSide":"left"},
+		{"id":"8653fba7e76de7d9","fromNode":"8c3d0b461c0b92f5","fromSide":"right","toNode":"9c01def8160cb2ab","toSide":"left"},
+		{"id":"08d3f176b703d6b9","fromNode":"66fd7ced4f6d7756","fromSide":"right","toNode":"9c01def8160cb2ab","toSide":"left"}
+	]
+}

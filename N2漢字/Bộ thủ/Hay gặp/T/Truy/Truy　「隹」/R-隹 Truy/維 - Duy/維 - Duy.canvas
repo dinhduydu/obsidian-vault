@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ae901dd64b0ff4e0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"維 - Duy"},
+		{"id":"7318d01a8c88c3cf","x":-484,"y":-220,"width":168,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"fd3c07a358b01b86","x":-476,"y":120,"width":160,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"}
+	],
+	"edges":[
+		{"id":"89f2886084be462c","fromNode":"fd3c07a358b01b86","fromSide":"right","toNode":"ae901dd64b0ff4e0","toSide":"left"},
+		{"id":"5cbcc726eb36bbc3","fromNode":"7318d01a8c88c3cf","fromSide":"right","toNode":"ae901dd64b0ff4e0","toSide":"left"}
+	]
+}

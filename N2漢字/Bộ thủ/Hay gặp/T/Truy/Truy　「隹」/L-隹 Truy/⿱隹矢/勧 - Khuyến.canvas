@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"297a4ee94e3da888","x":-86,"y":-9,"width":250,"height":60,"type":"text","text":"勧 - Khuyến"},
+		{"id":"8897eba5bb467d9b","x":-460,"y":-50,"width":198,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"e483b50f78295eea","fromNode":"8897eba5bb467d9b","fromSide":"right","toNode":"297a4ee94e3da888","toSide":"left"}
+	]
+}

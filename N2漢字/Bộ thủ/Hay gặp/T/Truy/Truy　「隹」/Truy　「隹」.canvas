@@ -1,13 +1,25 @@
 {
 	"nodes":[
-		{"id":"476b89888b3c3329","type":"text","text":"Truy　「隹」","x":-102,"y":-22,"width":250,"height":60},
-		{"id":"2ea2929e583024fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-21,"y":160,"width":169,"height":143},
-		{"id":"84669a2bc6160d95","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/鶴 - Hạc.canvas","x":320,"y":-200,"width":204,"height":99},
-		{"id":"eb9794a84aca2bf3","x":320,"y":38,"width":160,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/焦 - Tiêu.canvas"}
+		{"id":"476b89888b3c3329","type":"text","text":"Truy　「隹」","x":-820,"y":76,"width":250,"height":60},
+		{"id":"c0279fb286763e0e","type":"text","text":"T-隹 Truy","x":-296,"y":-480,"width":250,"height":60},
+		{"id":"eb9794a84aca2bf3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/T-隹 Truy/焦 - Tiêu/焦 - Tiêu.canvas","x":380,"y":-518,"width":160,"height":136},
+		{"id":"2ea2929e583024fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":120,"y":-720,"width":169,"height":143},
+		{"id":"3725f6a1b95b2af8","type":"text","text":"B-隹 Truy","x":-296,"y":76,"width":250,"height":60},
+		{"id":"07c5085bdc3ccf56","type":"text","text":"L-隹 Truy","x":-280,"y":860,"width":250,"height":60},
+		{"id":"379ea34025fd7209","x":156,"y":1120,"width":265,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/観 - Quan.canvas"},
+		{"id":"024477efc0474d7f","x":-179,"y":1420,"width":241,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"},
+		{"id":"31fee48491caca32","type":"text","text":"R-隹 Truy","x":-296,"y":460,"width":250,"height":60},
+		{"id":"84669a2bc6160d95","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/鶴 - Hạc.canvas","x":156,"y":841,"width":204,"height":99}
 	],
 	"edges":[
-		{"id":"5442fd3957844600","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"eb9794a84aca2bf3","toSide":"left"},
+		{"id":"5442fd3957844600","fromNode":"c0279fb286763e0e","fromSide":"right","toNode":"eb9794a84aca2bf3","toSide":"left"},
 		{"id":"f96dd767e75d9e57","fromNode":"2ea2929e583024fc","fromSide":"right","toNode":"eb9794a84aca2bf3","toSide":"left"},
-		{"id":"618db3973a8859cd","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"84669a2bc6160d95","toSide":"left"}
+		{"id":"618db3973a8859cd","fromNode":"07c5085bdc3ccf56","fromSide":"right","toNode":"84669a2bc6160d95","toSide":"left"},
+		{"id":"a6c6ec2f51205df0","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"3725f6a1b95b2af8","toSide":"left"},
+		{"id":"3ff395a24a9e8a55","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"c0279fb286763e0e","toSide":"left"},
+		{"id":"ee62a554cfddd84b","fromNode":"07c5085bdc3ccf56","fromSide":"right","toNode":"379ea34025fd7209","toSide":"left"},
+		{"id":"0029a907b77aab74","fromNode":"024477efc0474d7f","fromSide":"right","toNode":"379ea34025fd7209","toSide":"left"},
+		{"id":"ea4c745ffce6899b","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"31fee48491caca32","toSide":"left"},
+		{"id":"623b68c550844439","fromNode":"476b89888b3c3329","fromSide":"right","toNode":"07c5085bdc3ccf56","toSide":"left"}
 	]
 }

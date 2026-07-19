@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8c6b10f4192c09d4","type":"text","text":"- **呑気**\n- hoặc hiragana: のんき","x":96,"y":227,"width":250,"height":91},
+		{"id":"5641f0c5f0a852fd","type":"text","text":"Tùy ngữ cảnh có thể:\n\n- tích cực: thoải mái, không stress\n- tiêu cực: quá vô tư, thiếu cảnh giác","x":472,"y":180,"width":339,"height":158},
+		{"id":"d92ca5fbc88de05c","type":"text","text":"- vô tư\n- thong thả\n- không lo nghĩ nhiều\n- carefree / easygoing","x":476,"y":451,"width":335,"height":127},
+		{"id":"afe9166f51e9bbcb","type":"text","text":"**のんき**な人  \n（のんき な ひと）  \nNgười vô tư.","x":998,"y":412,"width":250,"height":103},
+		{"id":"9bf9f8c42048f86c","type":"text","text":"そんな**のんき**なことを言っている場合じゃない。\n（そんな のんき な こと を いって いる ばあい じゃ ない。）\nKhông phải lúc để nói mấy điều vô tư như vậy.","x":998,"y":578,"width":566,"height":102},
+		{"id":"978468a78310c6a7","type":"text","text":"### 呑\n\n- Bộ thủ: **口（くち）**\n- Nghĩa gốc: nuốt","x":-305,"y":165,"width":250,"height":125},
+		{"id":"158f13371019a2e8","type":"text","text":"呑 - Thôn","x":-1160,"y":197,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1fb27f7df47e8722","fromNode":"978468a78310c6a7","fromSide":"right","toNode":"8c6b10f4192c09d4","toSide":"left"},
+		{"id":"c437cea6f63bb506","fromNode":"8c6b10f4192c09d4","fromSide":"right","toNode":"5641f0c5f0a852fd","toSide":"left"},
+		{"id":"f93839670505db43","fromNode":"8c6b10f4192c09d4","fromSide":"right","toNode":"d92ca5fbc88de05c","toSide":"left"},
+		{"id":"37edf67e829c3b56","fromNode":"d92ca5fbc88de05c","fromSide":"right","toNode":"afe9166f51e9bbcb","toSide":"left"},
+		{"id":"169dfd3e7a07d549","fromNode":"d92ca5fbc88de05c","fromSide":"right","toNode":"9bf9f8c42048f86c","toSide":"left"},
+		{"id":"7592c659edb2e5bb","fromNode":"158f13371019a2e8","fromSide":"right","toNode":"978468a78310c6a7","toSide":"left"}
+	]
+}

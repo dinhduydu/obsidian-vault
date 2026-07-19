@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5281a34a86e21d87","x":-195,"y":-64,"width":250,"height":60,"type":"text","text":"育 - Dục"},
+		{"id":"1dcb9cf88794cb5e","x":-469,"y":-300,"width":118,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"},
+		{"id":"77f32cdcf13f7508","x":-543,"y":-107,"width":192,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
+		{"id":"c1e4cde275b3b29f","x":-500,"y":100,"width":149,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"bade8dc06d9733ed","fromNode":"c1e4cde275b3b29f","fromSide":"right","toNode":"5281a34a86e21d87","toSide":"left"},
+		{"id":"a2033cba86e824da","fromNode":"1dcb9cf88794cb5e","fromSide":"right","toNode":"5281a34a86e21d87","toSide":"left"},
+		{"id":"e9eeb7890a8f343d","fromNode":"77f32cdcf13f7508","fromSide":"right","toNode":"5281a34a86e21d87","toSide":"left"}
+	]
+}

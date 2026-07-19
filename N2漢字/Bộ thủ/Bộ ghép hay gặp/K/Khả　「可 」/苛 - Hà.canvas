@@ -1,13 +1,23 @@
 {
 	"nodes":[
-		{"id":"8f29dafc81b3be33","type":"text","text":"苛 - Hà","x":-38,"y":-110,"width":250,"height":60},
-		{"id":"b8a2432abdbbbaff","type":"text","text":"苛々　「いらいら」：nóng vội","x":302,"y":-110,"width":250,"height":60},
 		{"id":"0d6a31b8526d4adc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-415,"y":0,"width":117,"height":105},
-		{"id":"6c0eed5af4ca1a58","x":-432,"y":-320,"width":134,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas"}
+		{"id":"6c0eed5af4ca1a58","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas","x":-432,"y":-320,"width":134,"height":143},
+		{"id":"a1b827da89bd920d","type":"text","text":"苛まる　「さいなまる」","x":629,"y":-350,"width":250,"height":60},
+		{"id":"423b81e8e735f8da","type":"text","text":"Kanji **苛** mang nghĩa:\n\n- hà khắc\n- khắt khe\n- nghiêm ngặt quá mức\n- làm khó người khác","x":655,"y":-62,"width":319,"height":198},
+		{"id":"c2189584fbaeb8ce","type":"text","text":"- **苛立つ（いらだつ）**: bực bội, cáu gắt\n- **苛烈（かれつ）**: khốc liệt, hà khắc\n- **苛政（かせい）**: chính sách hà khắc\n- **苛酷（かこく）**: khắc nghiệt","x":655,"y":-644,"width":357,"height":222},
+		{"id":"a59ce227b602171b","type":"text","text":"![[Pasted image 20260522005509.png]]","x":754,"y":-224,"width":100,"height":81},
+		{"id":"5050089931ae7eba","type":"text","text":"Bị dày vò, hành hạ, giày vò về thể xác hoặc tinh thần.\nThường dùng khi nói đến sự đau khổ kéo dài do bệnh tật, lo âu, áp lực, ký ức, cảm giác tội lỗi...","x":1034,"y":-350,"width":337,"height":146},
+		{"id":"6a60f127f93f5011","type":"text","text":"苛 - Hà","x":-38,"y":-213,"width":250,"height":60},
+		{"id":"b8a2432abdbbbaff","type":"text","text":"苛々　「いらいら」：nóng vội","x":530,"y":220,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"9789f1585be617e4","fromNode":"8f29dafc81b3be33","fromSide":"right","toNode":"b8a2432abdbbbaff","toSide":"left"},
-		{"id":"1ab009d8b09fc582","fromNode":"0d6a31b8526d4adc","fromSide":"right","toNode":"8f29dafc81b3be33","toSide":"left","label":"sự phát triển mạnh mẽ của cỏ dại"},
-		{"id":"926e71da3b5ab913","fromNode":"6c0eed5af4ca1a58","fromSide":"right","toNode":"8f29dafc81b3be33","toSide":"left"}
+		{"id":"9789f1585be617e4","fromNode":"6a60f127f93f5011","fromSide":"right","toNode":"b8a2432abdbbbaff","toSide":"left"},
+		{"id":"1ab009d8b09fc582","fromNode":"0d6a31b8526d4adc","fromSide":"right","toNode":"6a60f127f93f5011","toSide":"left","label":"sự phát triển mạnh mẽ của cỏ dại"},
+		{"id":"926e71da3b5ab913","fromNode":"6c0eed5af4ca1a58","fromSide":"right","toNode":"6a60f127f93f5011","toSide":"left"},
+		{"id":"917d789e9eeb653c","fromNode":"a1b827da89bd920d","fromSide":"right","toNode":"5050089931ae7eba","toSide":"left"},
+		{"id":"17f93966bed63511","fromNode":"6a60f127f93f5011","fromSide":"right","toNode":"a1b827da89bd920d","toSide":"left"},
+		{"id":"e92935b5ab9dd2bc","fromNode":"6a60f127f93f5011","fromSide":"right","toNode":"423b81e8e735f8da","toSide":"left"},
+		{"id":"c8653ddcb6dc9804","fromNode":"6a60f127f93f5011","fromSide":"right","toNode":"c2189584fbaeb8ce","toSide":"left"},
+		{"id":"b219d568b7212480","fromNode":"6a60f127f93f5011","fromSide":"right","toNode":"a59ce227b602171b","toSide":"left"}
 	]
 }

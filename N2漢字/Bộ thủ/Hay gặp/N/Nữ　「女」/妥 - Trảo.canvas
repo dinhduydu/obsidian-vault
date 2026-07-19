@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e122a526bb4b8be3","type":"text","text":"- Hợp lý\n- Xác đáng\n- Phù hợp với tình hình hoặc tiêu chuẩn","x":264,"y":-69,"width":272,"height":138},
+		{"id":"ce39b7e063651133","type":"text","text":"妥当　「だとう」：Thỏa đáng","x":-184,"y":-30,"width":288,"height":60},
+		{"id":"72049ffbd42920ac","type":"text","text":"妥 - Trảo","x":-535,"y":-30,"width":250,"height":60},
+		{"id":"b4018bf02d67a271","x":-920,"y":69,"width":158,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"7a78718d2fb2b672","x":-920,"y":-224,"width":203,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"84238826a1b5e99f","fromNode":"ce39b7e063651133","fromSide":"right","toNode":"e122a526bb4b8be3","toSide":"left"},
+		{"id":"f204556cd9bc3e6c","fromNode":"72049ffbd42920ac","fromSide":"right","toNode":"ce39b7e063651133","toSide":"left"},
+		{"id":"a4296e1e65082125","fromNode":"b4018bf02d67a271","fromSide":"right","toNode":"72049ffbd42920ac","toSide":"left"},
+		{"id":"8de8e5a69a3ae724","fromNode":"7a78718d2fb2b672","fromSide":"right","toNode":"72049ffbd42920ac","toSide":"left"}
+	]
+}

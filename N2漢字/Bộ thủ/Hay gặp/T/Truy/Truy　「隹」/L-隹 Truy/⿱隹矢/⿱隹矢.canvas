@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"7da87c6b1c2e046b","type":"text","text":"⿱隹矢","x":-360,"y":-20,"width":220,"height":60},
+		{"id":"8ce3ad98f3df66f9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/観 - Quan.canvas","x":100,"y":-320,"width":307,"height":222},
+		{"id":"56de3b8c25d9cb55","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/勧 - Khuyến.canvas","x":100,"y":10,"width":249,"height":177},
+		{"id":"70243f9dce9e71fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas","x":-620,"y":-209,"width":163,"height":146},
+		{"id":"97a1ecab522cc91c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas","x":-620,"y":40,"width":163,"height":153},
+		{"id":"17068b58b1a13d2d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/歓 - Hoan.canvas","x":100,"y":300,"width":272,"height":235},
+		{"id":"e040af09e0ecbb7a","x":840,"y":-107,"width":305,"height":235,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/権 - Quyền.canvas"},
+		{"id":"123ce897fb32535f","x":560,"y":99,"width":147,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"5559dad5e8d83825","fromNode":"7da87c6b1c2e046b","fromSide":"right","toNode":"8ce3ad98f3df66f9","toSide":"left"},
+		{"id":"4c6db54be63b8d54","fromNode":"7da87c6b1c2e046b","fromSide":"right","toNode":"56de3b8c25d9cb55","toSide":"left"},
+		{"id":"9950256212d3255e","fromNode":"70243f9dce9e71fc","fromSide":"right","toNode":"7da87c6b1c2e046b","toSide":"left"},
+		{"id":"33adb953ec44812c","fromNode":"97a1ecab522cc91c","fromSide":"right","toNode":"7da87c6b1c2e046b","toSide":"left"},
+		{"id":"01adf834fe1dfc86","fromNode":"7da87c6b1c2e046b","fromSide":"right","toNode":"17068b58b1a13d2d","toSide":"left"},
+		{"id":"4026130f097de166","fromNode":"7da87c6b1c2e046b","fromSide":"right","toNode":"e040af09e0ecbb7a","toSide":"left"},
+		{"id":"7f2cdf292e557af9","fromNode":"123ce897fb32535f","fromSide":"right","toNode":"e040af09e0ecbb7a","toSide":"left"}
+	]
+}

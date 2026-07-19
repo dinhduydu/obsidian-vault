@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b4abd7a6b1fd7cc7","x":-129,"y":-38,"width":250,"height":60,"type":"text","text":"誰 - Thuỳ"},
+		{"id":"6969a047cbd76e51","x":-480,"y":180,"width":132,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"eb3f23099c4dd903","x":-508,"y":-220,"width":160,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"638e1e26fe5a7fc5","fromNode":"6969a047cbd76e51","fromSide":"right","toNode":"b4abd7a6b1fd7cc7","toSide":"left"},
+		{"id":"ed9bae151053fcaf","fromNode":"eb3f23099c4dd903","fromSide":"right","toNode":"b4abd7a6b1fd7cc7","toSide":"left"}
+	]
+}

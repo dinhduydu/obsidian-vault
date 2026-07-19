@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"07d41395b98be7eb","x":-158,"y":-56,"width":250,"height":60,"type":"text","text":"憧 - Sung"},
+		{"id":"f9c8075816af8b98","x":-380,"y":40,"width":160,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/童 - Đồng/童 - Đồng.canvas"},
+		{"id":"6f2dce67bfb2f32e","x":-620,"y":-87,"width":180,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"e0b61188f1e271ce","fromNode":"f9c8075816af8b98","fromSide":"right","toNode":"07d41395b98be7eb","toSide":"left"},
+		{"id":"2c8493679fee2239","fromNode":"6f2dce67bfb2f32e","fromSide":"right","toNode":"07d41395b98be7eb","toSide":"left"}
+	]
+}

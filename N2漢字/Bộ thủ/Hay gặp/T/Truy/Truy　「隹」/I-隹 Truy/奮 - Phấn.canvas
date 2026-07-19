@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"076f05eef9a19d1d","x":-82,"y":-32,"width":250,"height":60,"type":"text","text":"奮 - Phấn"},
+		{"id":"66a7db92f797f9ff","x":-300,"y":-72,"width":143,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"519240e8481eebfc","x":-261,"y":-240,"width":104,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"63910ffef2cb12ac","x":-321,"y":160,"width":164,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+	],
+	"edges":[
+		{"id":"2bc83141b01ade38","fromNode":"66a7db92f797f9ff","fromSide":"right","toNode":"076f05eef9a19d1d","toSide":"left"},
+		{"id":"3b2f75a1484981e1","fromNode":"519240e8481eebfc","fromSide":"right","toNode":"076f05eef9a19d1d","toSide":"left"},
+		{"id":"539a02925ff2b09d","fromNode":"63910ffef2cb12ac","fromSide":"right","toNode":"076f05eef9a19d1d","toSide":"left"}
+	]
+}

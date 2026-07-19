@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"028a1559c17b474a","x":-580,"y":-17,"width":172,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/I-隹 Truy/大隹/大隹.canvas"},
+		{"id":"6a83f533a61ddcbd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-940,"y":-240,"width":169,"height":112},
+		{"id":"1fbcccb0c2eebbf1","type":"text","text":"奪 - Đoạt","x":-200,"y":0,"width":250,"height":60},
+		{"id":"a3d511a6d111253a","x":-940,"y":-41,"width":169,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"19fad1a6e15fbed1","x":-978,"y":220,"width":207,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"7dc0adaa61d7ef4b","fromNode":"6a83f533a61ddcbd","fromSide":"right","toNode":"028a1559c17b474a","toSide":"left"},
+		{"id":"241a0729b8db90ad","fromNode":"028a1559c17b474a","fromSide":"right","toNode":"1fbcccb0c2eebbf1","toSide":"left"},
+		{"id":"f2738bc8e97fc0ee","fromNode":"a3d511a6d111253a","fromSide":"right","toNode":"028a1559c17b474a","toSide":"left"},
+		{"id":"7f9cc826e89d7daf","fromNode":"19fad1a6e15fbed1","fromSide":"right","toNode":"028a1559c17b474a","toSide":"left"}
+	]
+}

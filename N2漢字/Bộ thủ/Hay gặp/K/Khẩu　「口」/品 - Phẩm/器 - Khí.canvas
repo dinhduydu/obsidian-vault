@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9597a414bba83691","x":-96,"y":-23,"width":250,"height":60,"type":"text","text":"器 - Khí"},
+		{"id":"9a652312afff9462","x":-420,"y":120,"width":180,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/品 - Phẩm.canvas"},
+		{"id":"5a991eb0a13d0cbf","x":-415,"y":-181,"width":175,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"}
+	],
+	"edges":[
+		{"id":"1dfc1facc25ae55e","fromNode":"9a652312afff9462","fromSide":"right","toNode":"9597a414bba83691","toSide":"left"},
+		{"id":"d72c8484e538f085","fromNode":"5a991eb0a13d0cbf","fromSide":"right","toNode":"9597a414bba83691","toSide":"left"}
+	]
+}

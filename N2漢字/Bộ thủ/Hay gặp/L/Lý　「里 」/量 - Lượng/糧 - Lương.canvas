@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5be574f08a39099","x":-39,"y":-67,"width":250,"height":60,"type":"text","text":"糧 - Lương"},
+		{"id":"eecfd7f0f6dc78eb","x":-400,"y":80,"width":201,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/量 - Lượng/量 - Lượng.canvas"},
+		{"id":"e751692231ac214e","x":-680,"y":-111,"width":197,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"4ac1374c4dcc2f4e","fromNode":"eecfd7f0f6dc78eb","fromSide":"right","toNode":"e5be574f08a39099","toSide":"left"},
+		{"id":"f8e848145b0a5b65","fromNode":"e751692231ac214e","fromSide":"right","toNode":"e5be574f08a39099","toSide":"left"}
+	]
+}

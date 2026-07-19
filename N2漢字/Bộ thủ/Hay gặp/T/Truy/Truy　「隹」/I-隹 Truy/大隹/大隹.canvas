@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"488d28a037484cf7","x":-360,"y":-40,"width":250,"height":60,"type":"text","text":"大隹"},
+		{"id":"1eda5a62cac57098","x":20,"y":-280,"width":229,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/I-隹 Truy/奪 - Đoạt.canvas"},
+		{"id":"d6a3a24061183e5f","x":21,"y":60,"width":228,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/I-隹 Truy/奮 - Phấn.canvas"}
+	],
+	"edges":[
+		{"id":"60dd12e43f7f2d08","fromNode":"488d28a037484cf7","fromSide":"right","toNode":"1eda5a62cac57098","toSide":"left"},
+		{"id":"c4962baa59fb0771","fromNode":"488d28a037484cf7","fromSide":"right","toNode":"d6a3a24061183e5f","toSide":"left"}
+	]
+}

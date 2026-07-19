@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"39887baeac8c2d77","x":-120,"y":-20,"width":250,"height":60,"type":"text","text":"権 - Quyền"},
+		{"id":"9f228582f6635fe7","x":-400,"y":40,"width":152,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/⿱隹矢.canvas"},
+		{"id":"698bc6c2b6d9b324","x":-388,"y":-220,"width":140,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"9c69a5e577414c67","fromNode":"9f228582f6635fe7","fromSide":"right","toNode":"39887baeac8c2d77","toSide":"left"},
+		{"id":"aaeb97e5b0feebf2","fromNode":"698bc6c2b6d9b324","fromSide":"right","toNode":"39887baeac8c2d77","toSide":"left"}
+	]
+}

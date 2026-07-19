@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bafc7bc162798b6e","x":-27,"y":9,"width":250,"height":60,"type":"text","text":"唯 - Duy"},
+		{"id":"3049cc0b80439752","x":-300,"y":140,"width":133,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"9b0aa1a7f04f1956","x":-520,"y":-33,"width":143,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"52e79b4b5cc73bc6","fromNode":"3049cc0b80439752","fromSide":"right","toNode":"bafc7bc162798b6e","toSide":"left"},
+		{"id":"90688797dd5a5f7d","fromNode":"9b0aa1a7f04f1956","fromSide":"right","toNode":"bafc7bc162798b6e","toSide":"left"}
+	]
+}

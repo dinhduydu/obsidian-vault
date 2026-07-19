@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7b1fb518fa706137","x":-102,"y":-21,"width":250,"height":60,"type":"text","text":"雑 - Tạp"},
+		{"id":"2b48a248b5469e60","x":-543,"y":-48,"width":166,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"b8cdf6fe369203ae","x":-800,"y":-260,"width":166,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas"},
+		{"id":"a534bf93ff4d0987","x":-817,"y":100,"width":183,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"1d6fe2b4d6db700d","fromNode":"2b48a248b5469e60","fromSide":"right","toNode":"7b1fb518fa706137","toSide":"left"},
+		{"id":"4bb5cb74660c996c","fromNode":"b8cdf6fe369203ae","fromSide":"right","toNode":"7b1fb518fa706137","toSide":"left"},
+		{"id":"4656898429fcd0c0","fromNode":"a534bf93ff4d0987","fromSide":"right","toNode":"7b1fb518fa706137","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"11bd5c506b3de8ba","type":"text","text":"童 - Đồng","x":-84,"y":-6,"width":250,"height":60},
+		{"id":"2d8780e180dc9f30","x":-460,"y":-154,"width":218,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"a8d291d4c4ca19fc","x":-431,"y":100,"width":189,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"}
+	],
+	"edges":[
+		{"id":"4483ed20426bebde","fromNode":"2d8780e180dc9f30","fromSide":"right","toNode":"11bd5c506b3de8ba","toSide":"left"},
+		{"id":"9de7fec9ef64f2da","fromNode":"a8d291d4c4ca19fc","fromSide":"right","toNode":"11bd5c506b3de8ba","toSide":"left"}
+	]
+}

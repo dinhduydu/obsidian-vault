@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ab95fdf15db360d4","x":-172,"y":-66,"width":250,"height":60,"type":"text","text":"稚 - Trĩ"},
+		{"id":"3a39c8b1284439cc","x":-500,"y":-207,"width":155,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"2350a9ee03b151b5","x":-495,"y":60,"width":150,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"91f75517f731b330","fromNode":"3a39c8b1284439cc","fromSide":"right","toNode":"ab95fdf15db360d4","toSide":"left"},
+		{"id":"b09c951593a1510e","fromNode":"2350a9ee03b151b5","fromSide":"right","toNode":"ab95fdf15db360d4","toSide":"left"}
+	]
+}

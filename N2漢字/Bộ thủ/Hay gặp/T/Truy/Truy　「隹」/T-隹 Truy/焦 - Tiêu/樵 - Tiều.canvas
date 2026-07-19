@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3958279fcd602a74","x":-137,"y":-42,"width":250,"height":60,"type":"text","text":"樵 - Tiều"},
+		{"id":"4e8bfc351db6969e","x":-471,"y":-300,"width":129,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/T-隹 Truy/焦 - Tiêu/焦 - Tiêu.canvas"},
+		{"id":"f61914480467bbfd","x":-520,"y":60,"width":178,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"edc6c8194bf3eea6","fromNode":"f61914480467bbfd","fromSide":"right","toNode":"3958279fcd602a74","toSide":"left"},
+		{"id":"b7370fd059e598ae","fromNode":"4e8bfc351db6969e","fromSide":"right","toNode":"3958279fcd602a74","toSide":"left"}
+	]
+}

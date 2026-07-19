@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5cc06e1ec8acc1bc","x":-79,"y":-68,"width":250,"height":60,"type":"text","text":"顧 - Cố"},
+		{"id":"9bb31ccbafa63e10","x":-400,"y":-240,"width":166,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/B-隹 Truy/雇 - Cố.canvas"},
+		{"id":"4987f8a1dfd73343","x":-364,"y":60,"width":130,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"48ed553cfe3c8fd3","fromNode":"9bb31ccbafa63e10","fromSide":"right","toNode":"5cc06e1ec8acc1bc","toSide":"left"},
+		{"id":"fd4052bae656afc0","fromNode":"4987f8a1dfd73343","fromSide":"right","toNode":"5cc06e1ec8acc1bc","toSide":"left"}
+	]
+}

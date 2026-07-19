@@ -3,11 +3,13 @@
 		{"id":"d9a1d3414f98941d","type":"text","text":"何 - Hà","x":-97,"y":-100,"width":250,"height":60},
 		{"id":"958e4632cba69657","type":"text","text":"cái gì","x":265,"y":-196,"width":250,"height":60},
 		{"id":"bc68cee0d8fd57b3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-514,"y":42,"width":148,"height":154},
-		{"id":"50fba04498ea750f","x":-565,"y":-320,"width":199,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas"}
+		{"id":"50fba04498ea750f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas","x":-565,"y":-320,"width":199,"height":154},
+		{"id":"b319939da51adb16","x":367,"y":119,"width":297,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/荷 - Hà.canvas"}
 	],
 	"edges":[
 		{"id":"e8b88a88f90de1ef","fromNode":"d9a1d3414f98941d","fromSide":"right","toNode":"958e4632cba69657","toSide":"left"},
 		{"id":"697d65bcb68e9d1f","fromNode":"bc68cee0d8fd57b3","fromSide":"right","toNode":"d9a1d3414f98941d","toSide":"left","label":"tò mò, thắc mắc"},
-		{"id":"fca0bcc34fa7b928","fromNode":"50fba04498ea750f","fromSide":"right","toNode":"d9a1d3414f98941d","toSide":"left"}
+		{"id":"fca0bcc34fa7b928","fromNode":"50fba04498ea750f","fromSide":"right","toNode":"d9a1d3414f98941d","toSide":"left"},
+		{"id":"b991356342210bee","fromNode":"d9a1d3414f98941d","fromSide":"right","toNode":"b319939da51adb16","toSide":"left"}
 	]
 }

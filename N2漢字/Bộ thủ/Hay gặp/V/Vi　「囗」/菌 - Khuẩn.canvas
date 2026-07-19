@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ca0931076adb7ee7","x":-117,"y":-62,"width":250,"height":60,"type":"text","text":"菌 - Khuẩn"},
+		{"id":"348792cc11d5aa7b","x":-460,"y":-99,"width":184,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas"},
+		{"id":"46cc63986a51306c","x":-406,"y":-360,"width":130,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"827ac035f03ba83a","x":-452,"y":140,"width":176,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"7f73d650d08106f4","fromNode":"348792cc11d5aa7b","fromSide":"right","toNode":"ca0931076adb7ee7","toSide":"left"},
+		{"id":"266a3dab998c4593","fromNode":"46cc63986a51306c","fromSide":"right","toNode":"ca0931076adb7ee7","toSide":"left"},
+		{"id":"a99987bca7017811","fromNode":"827ac035f03ba83a","fromSide":"right","toNode":"ca0931076adb7ee7","toSide":"left"}
+	]
+}

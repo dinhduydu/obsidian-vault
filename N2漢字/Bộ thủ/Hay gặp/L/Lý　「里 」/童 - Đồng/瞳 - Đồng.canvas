@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"870c2a847de6cb41","x":-63,"y":-15,"width":250,"height":60,"type":"text","text":"瞳 - Đồng"},
+		{"id":"33e7999c10208f3b","x":-360,"y":80,"width":192,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/童 - Đồng/童 - Đồng.canvas"},
+		{"id":"ca29116bd93b7ecf","x":-352,"y":-240,"width":184,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"cae62a516c4d9efe","fromNode":"33e7999c10208f3b","fromSide":"right","toNode":"870c2a847de6cb41","toSide":"left"},
+		{"id":"cb3bda376e618491","fromNode":"ca29116bd93b7ecf","fromSide":"right","toNode":"870c2a847de6cb41","toSide":"left"}
+	]
+}

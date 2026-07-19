@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"ee762cd8390ecbe7","x":-165,"y":-39,"width":250,"height":60,"type":"text","text":"Nhân　「𠂉」"},
-		{"id":"98c683fc5f9e076a","x":160,"y":-120,"width":250,"height":60,"type":"text","text":"毎 - Mỗi"}
+		{"id":"98c683fc5f9e076a","type":"text","text":"毎 - Mỗi","x":160,"y":-120,"width":250,"height":60},
+		{"id":"ee762cd8390ecbe7","type":"text","text":"Nhân　「𠂉」","x":-320,"y":-20,"width":250,"height":60},
+		{"id":"27e3a0f37caa0c2c","x":160,"y":40,"width":277,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/臨 - Lâm.canvas"},
+		{"id":"b0140067bc3191b7","x":-240,"y":320,"width":214,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」.canvas"}
 	],
 	"edges":[
-		{"id":"52ea15ba56e8fb11","fromNode":"ee762cd8390ecbe7","fromSide":"right","toNode":"98c683fc5f9e076a","toSide":"left"}
+		{"id":"52ea15ba56e8fb11","fromNode":"ee762cd8390ecbe7","fromSide":"right","toNode":"98c683fc5f9e076a","toSide":"left"},
+		{"id":"4d76245c4ca5f898","fromNode":"ee762cd8390ecbe7","fromSide":"right","toNode":"27e3a0f37caa0c2c","toSide":"left"},
+		{"id":"12257d9ec5682364","fromNode":"b0140067bc3191b7","fromSide":"right","toNode":"27e3a0f37caa0c2c","toSide":"left"}
 	]
 }

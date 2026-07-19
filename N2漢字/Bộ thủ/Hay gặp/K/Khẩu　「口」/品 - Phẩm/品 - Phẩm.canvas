@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f6e14dab6c8cfa80","x":-85,"y":-40,"width":250,"height":60,"type":"text","text":"品 - Phẩm"},
+		{"id":"a09ddc3219275a73","x":-420,"y":-54,"width":110,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"39218742adc82a8c","fromNode":"a09ddc3219275a73","fromSide":"right","toNode":"f6e14dab6c8cfa80","toSide":"left","label":"x3"}
+	]
+}

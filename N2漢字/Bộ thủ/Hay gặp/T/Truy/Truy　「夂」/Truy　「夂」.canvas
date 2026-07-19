@@ -1,14 +1,17 @@
 {
 	"nodes":[
 		{"id":"b29204a562f16888","type":"text","text":"Ý nghĩa gốc:\n\nĐi từ phía sau\nTheo sau","x":-760,"y":-238,"width":265,"height":141},
-		{"id":"7046bd8c72b51adb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-760,"y":99,"width":190,"height":202},
 		{"id":"297d2ba2ef978681","type":"text","text":"Truy　「夂」","x":-360,"y":-20,"width":235,"height":60},
 		{"id":"5a6a3b58b3666037","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-339,"y":-880,"width":154,"height":90},
 		{"id":"9e63b24770f629fb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/冬 - Đông.canvas","x":40,"y":-660,"width":216,"height":106},
 		{"id":"75fb88b8b4bf2f72","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/厳 - Nghiêm.canvas","x":290,"y":-343,"width":167,"height":105},
 		{"id":"7566038db65b0161","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/Các　「各」.canvas","x":290,"y":-57,"width":212,"height":135},
 		{"id":"8f25b961b0bb017b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/条 - Điều.canvas","x":360,"y":230,"width":169,"height":110},
-		{"id":"7e84025f3167aa9d","x":122,"y":540,"width":252,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/夏 - Hạ.canvas"}
+		{"id":"7e84025f3167aa9d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/夏 - Hạ.canvas","x":122,"y":540,"width":252,"height":197},
+		{"id":"7046bd8c72b51adb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-950,"y":184,"width":190,"height":202},
+		{"id":"27062b205c133f7a","x":122,"y":340,"width":143,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"a5b559154c1e53cf","x":600,"y":-739,"width":267,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/世 - Thế/世 - Thế.canvas"},
+		{"id":"f685451d392fc579","x":308,"y":-835,"width":149,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
 	],
 	"edges":[
 		{"id":"e2265ce712a03cd0","fromNode":"297d2ba2ef978681","fromSide":"left","toNode":"b29204a562f16888","toSide":"right"},
@@ -18,6 +21,9 @@
 		{"id":"51b600eedf2f8ce8","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"7566038db65b0161","toSide":"left"},
 		{"id":"10ff92e44b8b9d96","fromNode":"5a6a3b58b3666037","fromSide":"right","toNode":"9e63b24770f629fb","toSide":"left","label":"tả hình ảnh tuyết rơi"},
 		{"id":"f0c28da3d0dc1bff","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"9e63b24770f629fb","toSide":"left","label":"đuổi bắt nhau dưới trời tuyết rơi"},
-		{"id":"67052221fe193811","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"75fb88b8b4bf2f72","toSide":"left"}
+		{"id":"67052221fe193811","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"75fb88b8b4bf2f72","toSide":"left"},
+		{"id":"199525cdb3503ca5","fromNode":"27062b205c133f7a","fromSide":"right","toNode":"8f25b961b0bb017b","toSide":"left"},
+		{"id":"c4873f28bb57f003","fromNode":"297d2ba2ef978681","fromSide":"right","toNode":"a5b559154c1e53cf","toSide":"left"},
+		{"id":"5a413b65eb0030cb","fromNode":"f685451d392fc579","fromSide":"right","toNode":"a5b559154c1e53cf","toSide":"left"}
 	]
 }

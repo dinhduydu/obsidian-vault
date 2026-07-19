@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"418a5e02541f33fa","x":-170,"y":-74,"width":250,"height":60,"type":"text","text":"羅 - La"},
+		{"id":"63902ca4cb9340fa","x":-540,"y":-240,"width":149,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/維 - Duy/維 - Duy.canvas"},
+		{"id":"1c209d45b2610299","x":-530,"y":-14,"width":139,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"}
+	],
+	"edges":[
+		{"id":"668114afc4265dc5","fromNode":"63902ca4cb9340fa","fromSide":"right","toNode":"418a5e02541f33fa","toSide":"left"},
+		{"id":"852222b762164c0f","fromNode":"1c209d45b2610299","fromSide":"right","toNode":"418a5e02541f33fa","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"13360eb380c95a12","x":-87,"y":-19,"width":250,"height":60,"type":"text","text":"濯 - Trạc"},
+		{"id":"a5a99f15b7af33f5","x":-480,"y":60,"width":179,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/翟 - Địch/翟 - Địch.canvas"},
+		{"id":"3422d024952fa8c4","x":-462,"y":-280,"width":161,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"688c087e3850b538","fromNode":"a5a99f15b7af33f5","fromSide":"right","toNode":"13360eb380c95a12","toSide":"left"},
+		{"id":"deeb232aa9333bf0","fromNode":"3422d024952fa8c4","fromSide":"right","toNode":"13360eb380c95a12","toSide":"left"}
+	]
+}

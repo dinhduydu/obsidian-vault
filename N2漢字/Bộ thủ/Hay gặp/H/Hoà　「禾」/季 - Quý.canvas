@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"084089770f7f3347","x":-175,"y":-43,"width":250,"height":60,"type":"text","text":"季 - Quý"},
+		{"id":"34fd0007df50a757","x":-520,"y":140,"width":180,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"},
+		{"id":"da1dd5a730b93890","x":-540,"y":-320,"width":200,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"71bfa43ade17130f","fromNode":"34fd0007df50a757","fromSide":"right","toNode":"084089770f7f3347","toSide":"left"},
+		{"id":"18301f8bf829d490","fromNode":"da1dd5a730b93890","fromSide":"right","toNode":"084089770f7f3347","toSide":"left"}
+	]
+}

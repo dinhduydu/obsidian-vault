@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9ba07e11bbca321c","x":-164,"y":-28,"width":250,"height":60,"type":"text","text":"曜 - Diệu"},
+		{"id":"fb5092fe1508d11b","x":-580,"y":140,"width":163,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/翟 - Địch/翟 - Địch.canvas"},
+		{"id":"d4840479b6e1083d","x":-613,"y":-300,"width":196,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"41e3bdb7729059ae","fromNode":"fb5092fe1508d11b","fromSide":"right","toNode":"9ba07e11bbca321c","toSide":"left"},
+		{"id":"509d78105a8d237d","fromNode":"d4840479b6e1083d","fromSide":"right","toNode":"9ba07e11bbca321c","toSide":"left"}
+	]
+}

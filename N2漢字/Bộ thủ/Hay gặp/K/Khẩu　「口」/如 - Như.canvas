@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e593209b48f25d55","x":-85,"y":-41,"width":250,"height":60,"type":"text","text":"如 - Như"},
+		{"id":"14011f740938c7bc","x":-300,"y":120,"width":113,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"1481230ec2b13e3a","x":-600,"y":-67,"width":166,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"74ddda87cd6abeb7","fromNode":"14011f740938c7bc","fromSide":"right","toNode":"e593209b48f25d55","toSide":"left"},
+		{"id":"86bc34c71dfcdd39","fromNode":"1481230ec2b13e3a","fromSide":"right","toNode":"e593209b48f25d55","toSide":"left"}
+	]
+}

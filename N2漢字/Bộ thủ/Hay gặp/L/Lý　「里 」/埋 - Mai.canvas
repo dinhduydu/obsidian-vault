@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5036966c6af510e2","x":-84,"y":-35,"width":250,"height":60,"type":"text","text":"埋 - Mai"},
+		{"id":"34067cfb6c8f93e3","x":-400,"y":25,"width":120,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"},
+		{"id":"8168247070103c84","x":-680,"y":-71,"width":148,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"e9d12455137fd7a4","fromNode":"34067cfb6c8f93e3","fromSide":"right","toNode":"5036966c6af510e2","toSide":"left"},
+		{"id":"2bc4f03daea6b32e","fromNode":"8168247070103c84","fromSide":"right","toNode":"5036966c6af510e2","toSide":"left"}
+	]
+}
