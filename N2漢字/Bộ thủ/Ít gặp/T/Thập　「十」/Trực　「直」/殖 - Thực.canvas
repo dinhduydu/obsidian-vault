@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24a556bbb56fed3d","x":-239,"y":-52,"width":250,"height":60,"type":"text","text":"殖 - Thực"},
+		{"id":"53cfd72a35334731","x":-520,"y":160,"width":129,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas"},
+		{"id":"25bdd0d5d36eb75c","x":-591,"y":-222,"width":200,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngạt　「歹」/Ngạt　「歹」.canvas"}
+	],
+	"edges":[
+		{"id":"aa4dd2c72e970289","fromNode":"53cfd72a35334731","fromSide":"right","toNode":"24a556bbb56fed3d","toSide":"left"},
+		{"id":"7cedcc399104ea9d","fromNode":"25bdd0d5d36eb75c","fromSide":"right","toNode":"24a556bbb56fed3d","toSide":"left"}
+	]
+}

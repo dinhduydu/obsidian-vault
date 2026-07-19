@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fff71df24a092496","x":-163,"y":-31,"width":250,"height":60,"type":"text","text":"点 - Điểm"},
+		{"id":"6bca162732cec70e","x":-420,"y":-180,"width":113,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/占 - Chiếm.canvas"},
+		{"id":"4bc3f8e4ab93a6e5","x":-460,"y":100,"width":153,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"1ed80b89661f0210","fromNode":"6bca162732cec70e","fromSide":"right","toNode":"fff71df24a092496","toSide":"left"},
+		{"id":"f30ea12125ebc9a8","fromNode":"4bc3f8e4ab93a6e5","fromSide":"right","toNode":"fff71df24a092496","toSide":"left"}
+	]
+}

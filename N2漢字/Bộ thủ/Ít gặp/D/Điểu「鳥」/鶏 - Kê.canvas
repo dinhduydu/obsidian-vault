@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bc2f146f4552ad45","x":-155,"y":-36,"width":250,"height":60,"type":"text","text":"鶏 - Kê"},
+		{"id":"add4558d3ac7f148","x":-360,"y":24,"width":124,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/Điểu「鳥」.canvas"},
+		{"id":"6865a7a09087897e","x":-386,"y":-240,"width":150,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"e6e62cccf25c280b","fromNode":"add4558d3ac7f148","fromSide":"right","toNode":"bc2f146f4552ad45","toSide":"left"},
+		{"id":"7632a4e2e1f5c5b1","fromNode":"6865a7a09087897e","fromSide":"right","toNode":"bc2f146f4552ad45","toSide":"left"}
+	]
+}

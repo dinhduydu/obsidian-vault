@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6ef049ef3b8215cc","x":-160,"y":-30,"width":250,"height":60,"type":"text","text":"慎 - Thận"},
+		{"id":"aae2982eabfa3a44","x":-500,"y":-260,"width":150,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân.canvas"},
+		{"id":"6a3473c013d64a1b","x":-533,"y":80,"width":183,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"31fe896f39db0c07","fromNode":"aae2982eabfa3a44","fromSide":"right","toNode":"6ef049ef3b8215cc","toSide":"left"},
+		{"id":"88bfdc828d66f7c1","fromNode":"6a3473c013d64a1b","fromSide":"right","toNode":"6ef049ef3b8215cc","toSide":"left"}
+	]
+}

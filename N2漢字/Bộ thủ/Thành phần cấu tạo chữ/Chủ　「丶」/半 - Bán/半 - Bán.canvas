@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"073a759d6b56070b","x":-196,"y":-13,"width":250,"height":60,"type":"text","text":"半 - Bán"},
+		{"id":"2ec174db79e44414","x":-520,"y":-160,"width":114,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
+		{"id":"bd08555cbb260d20","x":-516,"y":47,"width":110,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"58092981095a3fb8","x":-603,"y":280,"width":197,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"43b9f3a5b4f59141","fromNode":"2ec174db79e44414","fromSide":"right","toNode":"073a759d6b56070b","toSide":"left"},
+		{"id":"b8bb8961370ffa72","fromNode":"bd08555cbb260d20","fromSide":"right","toNode":"073a759d6b56070b","toSide":"left"},
+		{"id":"6ffb8b538fe4444c","fromNode":"58092981095a3fb8","fromSide":"right","toNode":"073a759d6b56070b","toSide":"left"}
+	]
+}

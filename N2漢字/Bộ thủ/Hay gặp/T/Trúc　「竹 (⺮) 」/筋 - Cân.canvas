@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a01719285521404f","type":"text","text":"筋 - Cân","x":-297,"y":-10,"width":250,"height":60},
+		{"id":"3c8b64debaf24a8f","type":"text","text":"筋　「すじ」：cốt truyện, gân","x":43,"y":-110,"width":250,"height":60},
+		{"id":"588a1eb1f5558720","type":"text","text":"筋肉　「きんにく」：cơ bắp","x":47,"y":51,"width":250,"height":60},
+		{"id":"d8c0d6803ea8cdf8","x":-540,"y":111,"width":162,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"2d1077ce79457896","fromNode":"a01719285521404f","fromSide":"right","toNode":"3c8b64debaf24a8f","toSide":"left"},
+		{"id":"a6db56cc00712587","fromNode":"a01719285521404f","fromSide":"right","toNode":"588a1eb1f5558720","toSide":"left"},
+		{"id":"27339cc0af6ab69f","fromNode":"d8c0d6803ea8cdf8","fromSide":"right","toNode":"a01719285521404f","toSide":"left"}
+	]
+}

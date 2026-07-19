@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a4708602786fafb","type":"text","text":"Hề　「奚」","x":-167,"y":-53,"width":250,"height":60},
+		{"id":"ca78eb801e670bd8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/鶏 - Kê.canvas","x":180,"y":-200,"width":190,"height":124},
+		{"id":"202d114e500ac6c6","x":-73,"y":-380,"width":156,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/Điểu「鳥」.canvas"}
+	],
+	"edges":[
+		{"id":"6c76d963ad308b73","fromNode":"6a4708602786fafb","fromSide":"right","toNode":"ca78eb801e670bd8","toSide":"left"},
+		{"id":"71b11dea141cb168","fromNode":"202d114e500ac6c6","fromSide":"right","toNode":"ca78eb801e670bd8","toSide":"left"}
+	]
+}

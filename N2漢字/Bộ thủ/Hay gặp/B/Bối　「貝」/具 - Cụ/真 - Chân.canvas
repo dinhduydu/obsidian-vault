@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"65fdda3db9bc2d8f","x":-154,"y":-56,"width":250,"height":60,"type":"text","text":"真 - Chân"},
+		{"id":"773f506195000aa5","x":-480,"y":60,"width":170,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/具 - Cụ.canvas"},
+		{"id":"5968c34ee11211f3","x":-485,"y":-222,"width":175,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"328e32dda9192623","fromNode":"773f506195000aa5","fromSide":"right","toNode":"65fdda3db9bc2d8f","toSide":"left"},
+		{"id":"40616981d3816566","fromNode":"5968c34ee11211f3","fromSide":"right","toNode":"65fdda3db9bc2d8f","toSide":"left"}
+	]
+}

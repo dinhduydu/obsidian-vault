@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6d908548c79aef86","x":-61,"y":-28,"width":250,"height":60,"type":"text","text":"鶴 - Hạc"},
+		{"id":"ee7c0f230c31ae20","x":-340,"y":100,"width":171,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/Điểu「鳥」.canvas"},
+		{"id":"b59ec0d26fbae86c","x":-340,"y":-260,"width":139,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"75a52625dfa3d938","x":-353,"y":-99,"width":152,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"}
+	],
+	"edges":[
+		{"id":"6925653d303e6f5a","fromNode":"ee7c0f230c31ae20","fromSide":"right","toNode":"6d908548c79aef86","toSide":"left"},
+		{"id":"e761e38ebb560e92","fromNode":"b59ec0d26fbae86c","fromSide":"right","toNode":"6d908548c79aef86","toSide":"left"},
+		{"id":"b48142cbde08a99a","fromNode":"75a52625dfa3d938","fromSide":"right","toNode":"6d908548c79aef86","toSide":"left"}
+	]
+}

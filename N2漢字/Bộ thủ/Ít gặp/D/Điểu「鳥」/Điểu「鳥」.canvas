@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"d2d1c370b6219723","x":-164,"y":-45,"width":250,"height":60,"type":"text","text":"Điểu「鳥」"}
+		{"id":"d2d1c370b6219723","type":"text","text":"Điểu「鳥」","x":-164,"y":-45,"width":250,"height":60},
+		{"id":"7e86d4be9035d5da","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/鳴 - Minh.canvas","x":240,"y":-220,"width":175,"height":142},
+		{"id":"be57d919f2577713","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-102,"y":-340,"width":188,"height":183},
+		{"id":"1354158acf9d9af9","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/島 - Đảo.canvas","x":240,"y":60,"width":208,"height":175},
+		{"id":"e374aa1f69febf58","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-117,"y":200,"width":203,"height":186},
+		{"id":"054ccfaa83384cf8","x":240,"y":540,"width":242,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/鶏 - Kê.canvas"},
+		{"id":"d0803e11ffc56ed6","x":-100,"y":680,"width":160,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hề　「奚」/Hề　「奚」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8458d70c2a9a75d2","fromNode":"d2d1c370b6219723","fromSide":"right","toNode":"7e86d4be9035d5da","toSide":"left"},
+		{"id":"1588c675d599f470","fromNode":"be57d919f2577713","fromSide":"right","toNode":"7e86d4be9035d5da","toSide":"left"},
+		{"id":"223c8bac0fafe64e","fromNode":"d2d1c370b6219723","fromSide":"right","toNode":"1354158acf9d9af9","toSide":"left"},
+		{"id":"f2fd6cd6931bc123","fromNode":"e374aa1f69febf58","fromSide":"right","toNode":"1354158acf9d9af9","toSide":"left"},
+		{"id":"bac9306a8094eb68","fromNode":"d2d1c370b6219723","fromSide":"right","toNode":"054ccfaa83384cf8","toSide":"left"},
+		{"id":"a04a1ad15e815403","fromNode":"d0803e11ffc56ed6","fromSide":"right","toNode":"054ccfaa83384cf8","toSide":"left"}
+	]
 }

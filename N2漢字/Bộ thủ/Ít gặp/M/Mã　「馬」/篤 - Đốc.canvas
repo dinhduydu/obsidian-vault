@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2b9cd2da29b35bd6","type":"text","text":"篤 - Đốc","x":-193,"y":18,"width":250,"height":60},
+		{"id":"9e1ccd1a7d744cb9","x":-560,"y":200,"width":151,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"},
+		{"id":"a277d3837e23eeee","x":-560,"y":-140,"width":151,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"58f2f0762f391612","fromNode":"9e1ccd1a7d744cb9","fromSide":"right","toNode":"2b9cd2da29b35bd6","toSide":"left"},
+		{"id":"78a4ba43d51b3e57","fromNode":"a277d3837e23eeee","fromSide":"right","toNode":"2b9cd2da29b35bd6","toSide":"left"}
+	]
+}

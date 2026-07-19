@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1600da2cb081474a","x":-184,"y":-18,"width":250,"height":60,"type":"text","text":"渓 - Khê"},
+		{"id":"60aa757846c6a366","x":-440,"y":60,"width":157,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hề　「奚」/Hề　「奚」.canvas"},
+		{"id":"2ccf02e17196b0c3","x":-428,"y":-200,"width":145,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"e9e2a09b00a872e6","fromNode":"60aa757846c6a366","fromSide":"right","toNode":"1600da2cb081474a","toSide":"left"},
+		{"id":"82e26cc558c6961b","fromNode":"2ccf02e17196b0c3","fromSide":"right","toNode":"1600da2cb081474a","toSide":"left"}
+	]
+}

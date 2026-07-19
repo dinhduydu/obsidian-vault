@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e6ed17a9bb5e95a5","x":-47,"y":-65,"width":250,"height":60,"type":"text","text":"恐 - Khủng"},
+		{"id":"faf1c872e07d241d","x":-340,"y":40,"width":130,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"},
+		{"id":"866bf35bb3f8ba53","x":1,"y":180,"width":155,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"93aae02408455c6a","x":-600,"y":-120,"width":194,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+	],
+	"edges":[
+		{"id":"0840bff9fe3b23f3","fromNode":"faf1c872e07d241d","fromSide":"right","toNode":"e6ed17a9bb5e95a5","toSide":"left"},
+		{"id":"2fe6d04a48af161a","fromNode":"866bf35bb3f8ba53","fromSide":"top","toNode":"e6ed17a9bb5e95a5","toSide":"bottom"},
+		{"id":"95065b323974424a","fromNode":"93aae02408455c6a","fromSide":"right","toNode":"e6ed17a9bb5e95a5","toSide":"left"}
+	]
+}

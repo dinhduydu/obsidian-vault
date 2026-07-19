@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e1389d2c1037b8d0","x":-108,"y":-30,"width":250,"height":60,"type":"text","text":"罵 - Mạ"},
+		{"id":"efa5b5fe617510a4","x":-440,"y":100,"width":155,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"},
+		{"id":"458c8fef7b753749","x":-438,"y":-220,"width":151,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"}
+	],
+	"edges":[
+		{"id":"342b24f7f22302be","fromNode":"efa5b5fe617510a4","fromSide":"right","toNode":"e1389d2c1037b8d0","toSide":"left"},
+		{"id":"188cae086818828a","fromNode":"458c8fef7b753749","fromSide":"right","toNode":"e1389d2c1037b8d0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f3dd9acf953943e9","x":-123,"y":-74,"width":250,"height":60,"type":"text","text":"伴 - Bạn"},
+		{"id":"1463f4342f10f9c7","x":-420,"y":20,"width":162,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/半 - Bán.canvas"},
+		{"id":"e5d3602584bc8224","x":-409,"y":-240,"width":141,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"aeed522644e025e2","fromNode":"1463f4342f10f9c7","fromSide":"right","toNode":"f3dd9acf953943e9","toSide":"left"},
+		{"id":"b46955a34714b97b","fromNode":"e5d3602584bc8224","fromSide":"right","toNode":"f3dd9acf953943e9","toSide":"left"}
+	]
+}

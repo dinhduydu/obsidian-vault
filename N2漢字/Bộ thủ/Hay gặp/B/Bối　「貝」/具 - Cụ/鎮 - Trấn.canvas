@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ae5e224ffaac546e","x":-241,"y":-20,"width":250,"height":60,"type":"text","text":"鎮 - Trấn"},
+		{"id":"2c5cfaeeac0a1c8f","x":-600,"y":-280,"width":187,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân.canvas"},
+		{"id":"4831927782c20607","x":-566,"y":60,"width":153,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"8a318d74e5b4eec0","fromNode":"2c5cfaeeac0a1c8f","fromSide":"right","toNode":"ae5e224ffaac546e","toSide":"left"},
+		{"id":"d49d56dd360a459a","fromNode":"4831927782c20607","fromSide":"right","toNode":"ae5e224ffaac546e","toSide":"left"}
+	]
+}

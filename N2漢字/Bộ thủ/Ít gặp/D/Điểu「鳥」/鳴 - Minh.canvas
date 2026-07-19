@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a95b787ee3a7f63f","x":-133,"y":-29,"width":250,"height":60,"type":"text","text":"鳴 - Minh"},
+		{"id":"130a5e253632b5d2","x":-440,"y":-160,"width":119,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/Điểu「鳥」.canvas"},
+		{"id":"3d54b4efd14e498d","x":-459,"y":100,"width":138,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a4998b99bdaf477d","fromNode":"130a5e253632b5d2","fromSide":"right","toNode":"a95b787ee3a7f63f","toSide":"left"},
+		{"id":"7682899b790a312f","fromNode":"3d54b4efd14e498d","fromSide":"right","toNode":"a95b787ee3a7f63f","toSide":"left"}
+	]
+}

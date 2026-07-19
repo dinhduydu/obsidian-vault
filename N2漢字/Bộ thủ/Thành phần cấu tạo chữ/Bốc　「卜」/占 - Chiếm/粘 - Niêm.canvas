@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"43c6e31a03216343","x":-194,"y":-5,"width":250,"height":60,"type":"text","text":"粘 - Niêm"},
+		{"id":"98290d4658f8c759","x":-480,"y":120,"width":151,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/占 - Chiếm.canvas"},
+		{"id":"54dd54707dda7389","x":-500,"y":-200,"width":150,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"ec5cb3d08143a378","fromNode":"98290d4658f8c759","fromSide":"right","toNode":"43c6e31a03216343","toSide":"left"},
+		{"id":"e40dbba97de2d9bc","fromNode":"54dd54707dda7389","fromSide":"right","toNode":"43c6e31a03216343","toSide":"left"}
+	]
+}

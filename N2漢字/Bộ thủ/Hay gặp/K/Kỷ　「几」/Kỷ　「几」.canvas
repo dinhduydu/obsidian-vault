@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e210c976f6230ce6","x":2,"y":-13,"width":250,"height":60,"type":"text","text":"Kỷ　「几」"},
+		{"id":"9cf84bf9bf16fd14","x":360,"y":-157,"width":173,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"},
+		{"id":"c2f090f5708f5078","x":116,"y":-280,"width":136,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"824229c1d26e6e4a","fromNode":"e210c976f6230ce6","fromSide":"right","toNode":"9cf84bf9bf16fd14","toSide":"left"},
+		{"id":"5154193d752d7ce2","fromNode":"c2f090f5708f5078","fromSide":"right","toNode":"9cf84bf9bf16fd14","toSide":"left"}
+	]
+}

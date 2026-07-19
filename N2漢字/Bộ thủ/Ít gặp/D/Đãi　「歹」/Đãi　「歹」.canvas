@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4851401a4e3fac25","type":"text","text":"Đãi　「歹」","x":-117,"y":28,"width":250,"height":60},
+		{"id":"f865c82ca4fec6f3","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngạt　「歹」/Ngạt　「歹」.canvas","x":-640,"y":180,"width":101,"height":88},
+		{"id":"679c81cca986920c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/殖 - Thực.canvas","x":280,"y":-120,"width":126,"height":103},
+		{"id":"a158430039f8bb20","x":-66,"y":-259,"width":149,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas"}
+	],
+	"edges":[
+		{"id":"1e532e09a91ba416","fromNode":"f865c82ca4fec6f3","fromSide":"right","toNode":"4851401a4e3fac25","toSide":"left","label":"Ngạt là tên gọi khác của cùng bộ, không sai nhưng ít phổ biến hơn."},
+		{"id":"dfadcc7b3e56e979","fromNode":"4851401a4e3fac25","fromSide":"right","toNode":"679c81cca986920c","toSide":"left"},
+		{"id":"5859b2a01120d2f9","fromNode":"a158430039f8bb20","fromSide":"right","toNode":"679c81cca986920c","toSide":"left"}
+	]
+}

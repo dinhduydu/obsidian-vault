@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfbdc156dcb6b388","type":"text","text":"平 - Bình","x":-100,"y":-14,"width":250,"height":60},
+		{"id":"1182bbcd232a5b02","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas","x":-440,"y":80,"width":176,"height":129},
+		{"id":"75baef277bc70c78","x":-415,"y":-200,"width":126,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"921e4d3a7539856b","fromNode":"1182bbcd232a5b02","fromSide":"right","toNode":"bfbdc156dcb6b388","toSide":"left"},
+		{"id":"30946c94d784385b","fromNode":"75baef277bc70c78","fromSide":"right","toNode":"bfbdc156dcb6b388","toSide":"left"}
+	]
+}

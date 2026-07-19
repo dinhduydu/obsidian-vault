@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"423a69731dedda19","x":-100,"y":-60,"width":250,"height":60,"type":"text","text":"店 - Điểm"},
+		{"id":"b76e4f172e9e37dc","x":-360,"y":-171,"width":123,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"6bea46e228b38773","x":-431,"y":80,"width":194,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/占 - Chiếm.canvas"}
+	],
+	"edges":[
+		{"id":"8dafb8a144470ea4","fromNode":"b76e4f172e9e37dc","fromSide":"right","toNode":"423a69731dedda19","toSide":"left"},
+		{"id":"20abc40354256a38","fromNode":"6bea46e228b38773","fromSide":"right","toNode":"423a69731dedda19","toSide":"left"}
+	]
+}

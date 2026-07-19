@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9640022ee703aab2","x":-192,"y":3,"width":250,"height":60,"type":"text","text":"値 - Trị"},
+		{"id":"b1fdbc495c127cdc","x":-480,"y":-140,"width":116,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas"},
+		{"id":"d7f313f9b6ece946","x":-504,"y":63,"width":140,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"d82366427b88ee3b","fromNode":"b1fdbc495c127cdc","fromSide":"right","toNode":"9640022ee703aab2","toSide":"left"},
+		{"id":"e66c3f848f6bd7d3","fromNode":"d7f313f9b6ece946","fromSide":"right","toNode":"9640022ee703aab2","toSide":"left"}
+	]
+}

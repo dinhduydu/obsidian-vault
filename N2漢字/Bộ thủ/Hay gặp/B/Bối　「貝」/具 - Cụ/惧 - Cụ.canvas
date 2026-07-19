@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"989a824b74173e19","x":-83,"y":-18,"width":250,"height":60,"type":"text","text":"惧 - Cụ"},
+		{"id":"3df15532574cd39b","x":-380,"y":-120,"width":85,"height":66,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/具 - Cụ.canvas"},
+		{"id":"35176e7ee0022519","x":-445,"y":100,"width":150,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"5169fbc781b8d8fd","fromNode":"3df15532574cd39b","fromSide":"right","toNode":"989a824b74173e19","toSide":"left"},
+		{"id":"dc3de188fe7b68f9","fromNode":"35176e7ee0022519","fromSide":"right","toNode":"989a824b74173e19","toSide":"left"}
+	]
+}

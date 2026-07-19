@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15d0d65a8afd8f35","x":-178,"y":-38,"width":250,"height":60,"type":"text","text":"島 - Đảo"},
+		{"id":"dde5c5ce5f60f6f7","x":-500,"y":-220,"width":168,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Điểu「鳥」/Điểu「鳥」.canvas"},
+		{"id":"763ee9b343ca17c9","x":-477,"y":60,"width":145,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"cfcbd523b08fe6ac","fromNode":"dde5c5ce5f60f6f7","fromSide":"right","toNode":"15d0d65a8afd8f35","toSide":"left"},
+		{"id":"6b12542c710716ba","fromNode":"763ee9b343ca17c9","fromSide":"right","toNode":"15d0d65a8afd8f35","toSide":"left"}
+	]
+}

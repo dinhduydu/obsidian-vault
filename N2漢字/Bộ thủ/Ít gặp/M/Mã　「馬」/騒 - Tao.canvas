@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f7247805a864f2b","type":"file","file":"Pasted image 20260527193714.png","x":-20,"y":-108,"width":400,"height":187},
+		{"id":"6a4377e19a0045ef","type":"text","text":"騒 - Tao","x":-380,"y":49,"width":250,"height":60},
+		{"id":"5375b38eddec0089","x":-640,"y":200,"width":158,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"925d45df619ff43e","fromNode":"6a4377e19a0045ef","fromSide":"right","toNode":"7f7247805a864f2b","toSide":"left"},
+		{"id":"6ac8f6ede76e5702","fromNode":"5375b38eddec0089","fromSide":"right","toNode":"6a4377e19a0045ef","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"34d82e8ff4259cf3","type":"text","text":"植 - Thực","x":-159,"y":-56,"width":250,"height":60},
+		{"id":"016fc262e6432231","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas","x":-540,"y":40,"width":111,"height":117},
+		{"id":"55c058885526d9d3","x":-563,"y":-180,"width":134,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"b002586cbbc2185e","fromNode":"016fc262e6432231","fromSide":"right","toNode":"34d82e8ff4259cf3","toSide":"left"},
+		{"id":"235f4158b76549a5","fromNode":"55c058885526d9d3","fromSide":"right","toNode":"34d82e8ff4259cf3","toSide":"left"}
+	]
+}

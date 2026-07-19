@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5e0b80b0d39d41a7","type":"text","text":"Trực　「直」","x":-165,"y":-19,"width":250,"height":60},
+		{"id":"a71a10a2be751054","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-580,"y":-157,"width":161,"height":138},
+		{"id":"406813f00cd3b3e5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas","x":-601,"y":200,"width":182,"height":165},
+		{"id":"b8babcc3cf995c8c","x":240,"y":-271,"width":166,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/殖 - Thực.canvas"},
+		{"id":"2f5757a7f35f75c9","x":-80,"y":-420,"width":135,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/Đãi　「歹」.canvas"},
+		{"id":"c2363f360bd4c740","x":240,"y":100,"width":195,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/植 - Thực.canvas"},
+		{"id":"54e92dfe10ee6fb8","x":-60,"y":253,"width":107,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"96c573d0200821ad","fromNode":"a71a10a2be751054","fromSide":"right","toNode":"5e0b80b0d39d41a7","toSide":"left"},
+		{"id":"a796e4548c26d087","fromNode":"406813f00cd3b3e5","fromSide":"right","toNode":"5e0b80b0d39d41a7","toSide":"left"},
+		{"id":"178f535e5c1ebd08","fromNode":"5e0b80b0d39d41a7","fromSide":"right","toNode":"b8babcc3cf995c8c","toSide":"left"},
+		{"id":"efe777cbe0558d20","fromNode":"2f5757a7f35f75c9","fromSide":"right","toNode":"b8babcc3cf995c8c","toSide":"left"},
+		{"id":"067a60246b8948d5","fromNode":"5e0b80b0d39d41a7","fromSide":"right","toNode":"c2363f360bd4c740","toSide":"left"},
+		{"id":"be638c1a4f037a87","fromNode":"54e92dfe10ee6fb8","fromSide":"right","toNode":"c2363f360bd4c740","toSide":"left"}
+	]
+}

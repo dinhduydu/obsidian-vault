@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"675fce279bb23e4d","x":-94,"y":-26,"width":250,"height":60,"type":"text","text":"貼 - Thiếp"},
+		{"id":"472490413f08afd0","x":-340,"y":-180,"width":129,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/店 - Điểm.canvas"},
+		{"id":"52cc939948eb2fa1","x":-380,"y":60,"width":169,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"9c89fe64ba23809e","fromNode":"472490413f08afd0","fromSide":"right","toNode":"675fce279bb23e4d","toSide":"left"},
+		{"id":"f08dc0b27cdb2740","fromNode":"52cc939948eb2fa1","fromSide":"right","toNode":"675fce279bb23e4d","toSide":"left"}
+	]
+}
