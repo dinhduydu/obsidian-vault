@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"20150be41ca7c636","type":"text","text":"存 - Tồn","x":-202,"y":-37,"width":250,"height":60},
+		{"id":"a65534febc5b2826","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-560,"y":-83,"width":149,"height":152},
+		{"id":"da70b187215cc782","x":-555,"y":-340,"width":140,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"}
+	],
+	"edges":[
+		{"id":"5b4c83f02e3e3af3","fromNode":"a65534febc5b2826","fromSide":"right","toNode":"20150be41ca7c636","toSide":"left"},
+		{"id":"c2ea4f5b9e87a383","fromNode":"da70b187215cc782","fromSide":"right","toNode":"20150be41ca7c636","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fcb3cec47a973bd0","type":"text","text":"盆 - Bồn","x":-8,"y":-65,"width":250,"height":60},
+		{"id":"6f405ea744f269e0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":-290,"y":-160,"width":132,"height":81},
+		{"id":"b7bc06ae6ee79f57","x":-290,"y":40,"width":132,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"13d86c8e6f9e11a4","fromNode":"6f405ea744f269e0","fromSide":"right","toNode":"fcb3cec47a973bd0","toSide":"left"},
+		{"id":"abfd78e5ab2a477e","fromNode":"b7bc06ae6ee79f57","fromSide":"right","toNode":"fcb3cec47a973bd0","toSide":"left"}
+	]
+}

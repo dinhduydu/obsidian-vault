@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"45c998790c6ee855","type":"text","text":"盟 - Minh","x":-121,"y":-59,"width":250,"height":60},
+		{"id":"bcf744e49ffa917c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/明 - Minh/明 - Minh.canvas","x":-400,"y":-220,"width":134,"height":110},
+		{"id":"4ec4e3537ed9ad32","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-421,"y":60,"width":155,"height":176},
+		{"id":"1b6bcac133244ff2","type":"text","text":"thề ước, liên minh","x":280,"y":-195,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d7fb9756cffe9e69","fromNode":"bcf744e49ffa917c","fromSide":"right","toNode":"45c998790c6ee855","toSide":"left"},
+		{"id":"a9537f8659d2afbe","fromNode":"4ec4e3537ed9ad32","fromSide":"right","toNode":"45c998790c6ee855","toSide":"left"},
+		{"id":"3896208549046c5d","fromNode":"45c998790c6ee855","fromSide":"right","toNode":"1b6bcac133244ff2","toSide":"left"}
+	]
+}

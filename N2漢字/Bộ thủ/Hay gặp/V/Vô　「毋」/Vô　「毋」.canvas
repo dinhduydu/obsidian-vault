@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"eebaf84188ac105b","x":-220,"y":-60,"width":250,"height":60,"type":"text","text":"Vô　「毋」"},
-		{"id":"063f0ef192fb6714","x":154,"y":-123,"width":250,"height":60,"type":"text","text":"đừng, cấm"}
+		{"id":"eebaf84188ac105b","type":"text","text":"Vô　「毋」","x":-220,"y":-60,"width":250,"height":60},
+		{"id":"063f0ef192fb6714","type":"text","text":"đừng, cấm","x":-580,"y":-220,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"123e6240871e33e5","fromNode":"eebaf84188ac105b","fromSide":"right","toNode":"063f0ef192fb6714","toSide":"left"}
+		{"id":"2b48871481c58873","fromNode":"063f0ef192fb6714","fromSide":"right","toNode":"eebaf84188ac105b","toSide":"left"}
 	]
 }

@@ -6,8 +6,8 @@
 		{"id":"2277532930ca22b6","type":"text","text":"昇華する　「しょうかする」：","x":1209,"y":-295,"width":250,"height":60},
 		{"id":"2c8985759463ff38","type":"text","text":"昇進　「しょうしん」：","x":1219,"y":-162,"width":250,"height":60},
 		{"id":"beece8f2e3412c32","type":"text","text":"dùng cốc đựng gạo để múc nước lên, xúc gì đó lên","x":860,"y":5,"width":250,"height":60},
-		{"id":"e28223d86f9a0d69","x":-520,"y":-162,"width":202,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/升 - Thăng.canvas"},
-		{"id":"3514f806632b3642","x":-488,"y":65,"width":170,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+		{"id":"e28223d86f9a0d69","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/升 - Thăng.canvas","x":-520,"y":-162,"width":202,"height":135},
+		{"id":"3514f806632b3642","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-488,"y":65,"width":170,"height":103}
 	],
 	"edges":[
 		{"id":"3656082496addad9","fromNode":"3d6b42debbe94bc1","fromSide":"right","toNode":"4d40a03afeffc048","toSide":"left"},

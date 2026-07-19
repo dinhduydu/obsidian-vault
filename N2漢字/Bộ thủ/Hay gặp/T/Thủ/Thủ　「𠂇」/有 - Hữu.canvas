@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f016b04c794e5de0","type":"text","text":"有 - Hữu","x":-129,"y":-13,"width":250,"height":60},
+		{"id":"7c4c6cef267c0711","x":-400,"y":-200,"width":160,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"},
+		{"id":"851bc2f0b1a22723","x":-424,"y":140,"width":184,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"b33d66232a1f2f0e","fromNode":"7c4c6cef267c0711","fromSide":"right","toNode":"f016b04c794e5de0","toSide":"left"},
+		{"id":"4e7ae8213c4cd9df","fromNode":"851bc2f0b1a22723","fromSide":"right","toNode":"f016b04c794e5de0","toSide":"left"}
+	]
+}

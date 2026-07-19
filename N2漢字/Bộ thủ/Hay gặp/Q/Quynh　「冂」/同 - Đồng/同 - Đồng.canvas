@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"058e0ed71a47071f","x":-24,"y":-46,"width":250,"height":60,"type":"text","text":"同 - Đồng"},
+		{"id":"009f496de8bc1d99","x":-380,"y":-280,"width":162,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"32ab4f755de3e912","x":-334,"y":-57,"width":116,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"fb900bbf16d1021f","x":-390,"y":120,"width":172,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a2cd0337995c8fbd","fromNode":"32ab4f755de3e912","fromSide":"right","toNode":"058e0ed71a47071f","toSide":"left"},
+		{"id":"51e4842fa69d3748","fromNode":"009f496de8bc1d99","fromSide":"right","toNode":"058e0ed71a47071f","toSide":"left"},
+		{"id":"2693d2ed1d0373b7","fromNode":"fb900bbf16d1021f","fromSide":"right","toNode":"058e0ed71a47071f","toSide":"left"}
+	]
+}

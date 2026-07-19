@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"42e8e18a031103e0","x":-164,"y":-28,"width":250,"height":60,"type":"text","text":"海 - Hải"},
+		{"id":"eafb4224e47dd8ed","x":-480,"y":120,"width":160,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas"},
+		{"id":"92bd74152663608e","x":-483,"y":-260,"width":163,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"7ad88bccd04c1f3e","fromNode":"eafb4224e47dd8ed","fromSide":"right","toNode":"42e8e18a031103e0","toSide":"left"},
+		{"id":"0cc52203f6729371","fromNode":"92bd74152663608e","fromSide":"right","toNode":"42e8e18a031103e0","toSide":"left"}
+	]
+}

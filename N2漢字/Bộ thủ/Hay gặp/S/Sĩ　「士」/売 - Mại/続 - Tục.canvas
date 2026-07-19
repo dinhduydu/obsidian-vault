@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"99434f97b13bb018","type":"text","text":"続 - Tục","x":-82,"y":0,"width":250,"height":60},
+		{"id":"5f32680522c552e6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/続 - Tục.canvas","x":-300,"y":-29,"width":137,"height":119},
+		{"id":"6488081965887a62","x":-522,"y":-200,"width":149,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/売 - Mại/売 - Mại.canvas"},
+		{"id":"0d2d48c4c00501bc","x":-522,"y":120,"width":107,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"1abab32fdc41d509","fromNode":"5f32680522c552e6","fromSide":"right","toNode":"99434f97b13bb018","toSide":"left"},
+		{"id":"d18c9f6caaf89aab","fromNode":"0d2d48c4c00501bc","fromSide":"right","toNode":"5f32680522c552e6","toSide":"left"},
+		{"id":"8758972f3eb1201a","fromNode":"6488081965887a62","fromSide":"right","toNode":"5f32680522c552e6","toSide":"left"}
+	]
+}

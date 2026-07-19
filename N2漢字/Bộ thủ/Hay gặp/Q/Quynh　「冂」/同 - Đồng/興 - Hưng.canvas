@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d2408cc15ddf77de","x":-266,"y":-29,"width":250,"height":60,"type":"text","text":"興 - Hưng"},
+		{"id":"c8a5333b225ff19e","x":-540,"y":-44,"width":137,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/同 - Đồng.canvas"},
+		{"id":"d5410d405a85c3aa","x":-556,"y":-280,"width":153,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cữu　「臼」/Cữu　「臼」.canvas"},
+		{"id":"67c10b61ffeba42f","x":-549,"y":120,"width":140,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"7f7f553f5b015c81","x":-547,"y":340,"width":136,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"}
+	],
+	"edges":[
+		{"id":"afa53ae40e78edd5","fromNode":"c8a5333b225ff19e","fromSide":"right","toNode":"d2408cc15ddf77de","toSide":"left"},
+		{"id":"2534526454daa230","fromNode":"d5410d405a85c3aa","fromSide":"right","toNode":"d2408cc15ddf77de","toSide":"left"},
+		{"id":"e1657ad60c2accae","fromNode":"67c10b61ffeba42f","fromSide":"right","toNode":"d2408cc15ddf77de","toSide":"left"},
+		{"id":"087516f8cfb5b2f1","fromNode":"7f7f553f5b015c81","fromSide":"right","toNode":"d2408cc15ddf77de","toSide":"left"}
+	]
+}

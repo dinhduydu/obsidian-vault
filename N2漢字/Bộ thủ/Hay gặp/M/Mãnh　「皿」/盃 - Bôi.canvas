@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cb095d9f0dcf4cee","type":"text","text":"盃 - Bôi","x":-94,"y":-46,"width":250,"height":60},
+		{"id":"c4cd6b50e5e607aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-380,"y":40,"width":140,"height":112},
+		{"id":"6c4b314b9fb2b215","type":"text","text":"chén rượu","x":-680,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2f46519de75bff7c","fromNode":"c4cd6b50e5e607aa","fromSide":"right","toNode":"cb095d9f0dcf4cee","toSide":"left"},
+		{"id":"d32e7353a854f9f2","fromNode":"6c4b314b9fb2b215","fromSide":"right","toNode":"cb095d9f0dcf4cee","toSide":"left"}
+	]
+}

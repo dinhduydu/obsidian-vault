@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"45ce380e21b99aab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":20,"y":-429,"width":147,"height":78},
 		{"id":"ba7f7436105b967a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas","x":-17,"y":89,"width":111,"height":65},
-		{"id":"5c7078c152910506","type":"text","text":"Tử (con)　「子」","x":-200,"y":-18,"width":250,"height":60},
 		{"id":"f770ae44006640c1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/浮 - Phù.canvas","x":943,"y":-34,"width":166,"height":93},
 		{"id":"1affecf00aa19fc8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":660,"y":59,"width":127,"height":74},
 		{"id":"e960f60bcc3530fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":646,"y":-146,"width":141,"height":112},
@@ -10,10 +9,14 @@
 		{"id":"4eaca94503c42f59","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/孔 - Khổng.canvas","x":360,"y":68,"width":114,"height":107},
 		{"id":"b547db1bdad74476","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/字 - Tự.canvas","x":355,"y":265,"width":143,"height":95},
 		{"id":"87848a9ed3868e5f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-200,"y":265,"width":127,"height":86},
-		{"id":"481e609459d8d3aa","x":339,"y":460,"width":176,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/孝 - Hiếu.canvas"},
+		{"id":"481e609459d8d3aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/孝 - Hiếu.canvas","x":339,"y":460,"width":176,"height":176},
 		{"id":"ad4de03fb4f6d02a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":778,"y":610,"width":165,"height":173},
 		{"id":"ea9659722bbf84a0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/教 - Giáo.canvas","x":1079,"y":460,"width":256,"height":175},
-		{"id":"6846503f1b39bc6a","x":-73,"y":697,"width":204,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas"}
+		{"id":"6846503f1b39bc6a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas","x":-73,"y":697,"width":204,"height":167},
+		{"id":"5c7078c152910506","type":"text","text":"Tử (con)　「子」","x":-200,"y":-18,"width":250,"height":60},
+		{"id":"29dda7e2552d19d1","type":"text","text":"Tử (con)　「子」","x":2360,"y":-18,"width":250,"height":60},
+		{"id":"311405a6f0d32031","x":2798,"y":-389,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/存 - Tồn.canvas"},
+		{"id":"eefc2b8b421ee839","x":2360,"y":-500,"width":230,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"}
 	],
 	"edges":[
 		{"id":"8cabb84a27cb7ca3","fromNode":"5c7078c152910506","fromSide":"right","toNode":"f770ae44006640c1","toSide":"left"},
@@ -28,6 +31,8 @@
 		{"id":"ea7bd85c48f87316","fromNode":"ba7f7436105b967a","fromSide":"right","toNode":"4eaca94503c42f59","toSide":"left"},
 		{"id":"e2a8913a6e357f83","fromNode":"e960f60bcc3530fc","fromSide":"right","toNode":"f770ae44006640c1","toSide":"left"},
 		{"id":"16cd08bb5a1b24f6","fromNode":"6846503f1b39bc6a","fromSide":"right","toNode":"481e609459d8d3aa","toSide":"left","label":"người già"},
-		{"id":"5b5701fd92a51a7f","fromNode":"481e609459d8d3aa","fromSide":"right","toNode":"ea9659722bbf84a0","toSide":"left"}
+		{"id":"5b5701fd92a51a7f","fromNode":"481e609459d8d3aa","fromSide":"right","toNode":"ea9659722bbf84a0","toSide":"left"},
+		{"id":"4d574a7234e5e0f0","fromNode":"29dda7e2552d19d1","fromSide":"right","toNode":"311405a6f0d32031","toSide":"left"},
+		{"id":"55a0a33d9785eca0","fromNode":"eefc2b8b421ee839","fromSide":"right","toNode":"311405a6f0d32031","toSide":"left"}
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"748ccd5e950a3827","x":-72,"y":-44,"width":250,"height":60,"type":"text","text":"藩 - Phiên"},
+		{"id":"ada31e404290f792","x":-560,"y":-76,"width":103,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"48e060ec60c09244","x":-380,"y":58,"width":146,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas"},
+		{"id":"2ef5f62c30859175","x":-385,"y":-280,"width":151,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"f4a5c4890c224139","fromNode":"48e060ec60c09244","fromSide":"right","toNode":"748ccd5e950a3827","toSide":"left"},
+		{"id":"ec0ec2452606cb01","fromNode":"ada31e404290f792","fromSide":"right","toNode":"748ccd5e950a3827","toSide":"left"},
+		{"id":"fd7f8b9ab1be722c","fromNode":"2ef5f62c30859175","fromSide":"right","toNode":"748ccd5e950a3827","toSide":"left"}
+	]
+}

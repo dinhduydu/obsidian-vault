@@ -540,15 +540,49 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình/平 - Bình.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/H/Hô　「乎」/Hô　「乎」.canvas",
                 "viewState": {
-                  "x": -145,
-                  "y": 97.5,
+                  "x": 287.5,
+                  "y": 213.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "平 - Bình"
+              "title": "Hô　「乎」"
+            }
+          },
+          {
+            "id": "e10d26fcb6cb45a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas",
+                "viewState": {
+                  "x": 719.0711226782366,
+                  "y": -560.2188114878205,
+                  "zoom": 0.05903547029695211
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Thủ　「𠂇」"
+            }
+          },
+          {
+            "id": "cbaf0b70539d2367",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "歩 - Bộ"
             }
           },
           {
@@ -857,7 +891,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -889,7 +923,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "寺",
+                "query": "Hô",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -1006,29 +1040,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "cbaf0b70539d2367",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/畔 - Bạn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình/平 - Bình.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/伴 - Bạn.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/判 - Phán.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/半 - Bán.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/貼 - Thiếp.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/店 - Điểm.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/粘 - Niêm.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm/点 - Điểm.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/占 - Chiếm",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」",
-    "N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hề　「奚」",
-    "N2漢字/Bộ thủ/Ít gặp/M/Ma　「麻」",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/広 - Quảng",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毒 - Độc.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn/繁 - Phồn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn/敏 - Mẫn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/侮 - Vũ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/悔 - Hối.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/海 - Hải.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/梅 - Mai.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/Vô　「毋」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/迷 - Mê",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/明 - Minh",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội/丙 - Bính",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Untitled",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng",
+    "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/1. Phân Tích N3_BỊ ĐỘNG, SAI KHIẾN (P2).md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/Untitled/Cách kết nối câu.md",
     "Chữa đề/Learning_Profile/CompoundVerb/押し付ける.md",
     "Chữa đề/２０２６年/０１月２０２６年/Week4/21012026/1. Phân Tích BỊ ĐỘNG - SAI KHIẾN_TEST 1.md",
     "Chữa đề/Learning_Profile/Kanji/故郷.md",
@@ -1052,8 +1088,6 @@
     "Chữa đề/Learning_Profile/Adverb/ひょっこり.md",
     "Chữa đề/Learning_Profile/Vocabulary/煩悩.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 17.md",
-    "Chữa đề/Learning_Profile/Vocabulary/顔合わせ.md",
-    "Chữa đề/Learning_Profile/Collocation/笑顔を見せる.md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ee47636f42dab6aa","x":-102,"y":-13,"width":250,"height":60,"type":"text","text":"謎 - Mê"},
+		{"id":"2c552842433ff023","x":-440,"y":100,"width":166,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/迷 - Mê/迷 - Mê.canvas"},
+		{"id":"658367a2311c75d4","x":-448,"y":-180,"width":174,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"8cb07e8e6be43f73","fromNode":"2c552842433ff023","fromSide":"right","toNode":"ee47636f42dab6aa","toSide":"left"},
+		{"id":"6e92555dfe0b7a64","fromNode":"658367a2311c75d4","fromSide":"right","toNode":"ee47636f42dab6aa","toSide":"left"}
+	]
+}

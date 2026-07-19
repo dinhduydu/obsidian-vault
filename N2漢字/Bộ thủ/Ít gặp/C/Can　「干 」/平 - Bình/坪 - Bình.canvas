@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d1ebe433c0e7019c","x":-111,"y":-26,"width":250,"height":60,"type":"text","text":"坪 - Bình"},
+		{"id":"397ea5ad4b43606d","x":-480,"y":120,"width":191,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình/平 - Bình.canvas"},
+		{"id":"a99913c3cb5d8b8a","x":-480,"y":-180,"width":191,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"db15e4a286640eb9","fromNode":"397ea5ad4b43606d","fromSide":"right","toNode":"d1ebe433c0e7019c","toSide":"left"},
+		{"id":"86a04a7ef01b2b72","fromNode":"a99913c3cb5d8b8a","fromSide":"right","toNode":"d1ebe433c0e7019c","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9ba999019ffd8d3b","type":"text","text":"盛 - Thịnh","x":-322,"y":5,"width":250,"height":60},
+		{"id":"73e9e8ce79065f48","type":"text","text":"đầy, hưng thịnh","x":73,"y":-65,"width":250,"height":60},
+		{"id":"18221db52c4a2032","x":-640,"y":65,"width":163,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"e86da6641991ebd4","fromNode":"9ba999019ffd8d3b","fromSide":"right","toNode":"73e9e8ce79065f48","toSide":"left"},
+		{"id":"6b8cccdbbd66f3da","fromNode":"18221db52c4a2032","fromSide":"right","toNode":"9ba999019ffd8d3b","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cbd049ae8c106386","x":-69,"y":-42,"width":250,"height":60,"type":"text","text":"翻 - Phiên"},
+		{"id":"a8d07a87d737bab7","x":-360,"y":-200,"width":140,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas"},
+		{"id":"9d3384a6659c0366","x":-388,"y":60,"width":148,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"}
+	],
+	"edges":[
+		{"id":"bfe1a7196a8e9854","fromNode":"a8d07a87d737bab7","fromSide":"right","toNode":"cbd049ae8c106386","toSide":"left"},
+		{"id":"416e0f992214e18d","fromNode":"9d3384a6659c0366","fromSide":"right","toNode":"cbd049ae8c106386","toSide":"left"}
+	]
+}

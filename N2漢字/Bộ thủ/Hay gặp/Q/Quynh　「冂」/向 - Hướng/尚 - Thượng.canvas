@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"926206906ee7aa79","x":-116,"y":-18,"width":250,"height":60,"type":"text","text":"尚 - Thượng"},
+		{"id":"f780b85680fb8c12","x":-520,"y":-60,"width":152,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/向 - Hướng/向 - Hướng.canvas"}
+	],
+	"edges":[
+		{"id":"04265b4d2d8d1ad8","fromNode":"f780b85680fb8c12","fromSide":"right","toNode":"926206906ee7aa79","toSide":"left"}
+	]
+}

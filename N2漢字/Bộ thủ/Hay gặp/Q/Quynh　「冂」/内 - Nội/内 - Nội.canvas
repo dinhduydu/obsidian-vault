@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d9df2e4e6dd0858a","type":"text","text":"内 - Nội","x":-177,"y":-32,"width":250,"height":60},
+		{"id":"46edd7fda10cbe5f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-520,"y":-171,"width":184,"height":139},
+		{"id":"2b3ae7504e34afef","x":-558,"y":100,"width":222,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"}
+	],
+	"edges":[
+		{"id":"7edc1f54bfb13a05","fromNode":"46edd7fda10cbe5f","fromSide":"right","toNode":"d9df2e4e6dd0858a","toSide":"left"},
+		{"id":"0c18693f37499120","fromNode":"2b3ae7504e34afef","fromSide":"right","toNode":"d9df2e4e6dd0858a","toSide":"left"}
+	]
+}

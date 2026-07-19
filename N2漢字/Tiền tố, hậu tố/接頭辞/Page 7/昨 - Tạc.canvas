@@ -1,85 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 860,
-      "y": 340,
-      "width": 640,
-      "height": 320,
-      "text": "# 昨～（さく～）\n\n📚 Hán Việt: TẠC（昨）\n\n🕰️ Ý nghĩa trung tâm:\nTrước đây • Hôm trước • Kỳ trước\n\n📌 Thường dùng để:\n- chỉ thời gian đã qua\n- nhấn mạnh quá khứ gần\n- cách nói trang trọng/báo chí"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 260,
-      "width": 560,
-      "height": 460,
-      "text": "# Ý nghĩa\n\n🧠 昨 mang sắc thái:\n- trước đây\n- hôm trước\n- thời gian trước đó\n\n➡️ Gần giống:\n- previous\n- last\n- before\n\n📌 Prefix này thường gặp trong:\n- báo chí\n- văn viết\n- thời gian lịch sự/trang trọng"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1640,
-      "y": 260,
-      "width": 700,
-      "height": 520,
-      "text": "# 昨十五日（さくじゅうごにち）\n\n📅 15 ngày trước\n\n📚 Hán Việt:\n- 昨 = tác\n- 十五日 = thập ngũ nhật\n\n## Tách nghĩa\n- 昨 = trước đây\n- 十五日 = 15 ngày\n\n💡 Nuance:\nCách nói mang sắc thái văn viết\nhoặc kiểu báo chí/trang trọng\n\n📌 昨 thường xuất hiện trong:\n- 昨年 = năm ngoái\n- 昨今 = hiện nay/gần đây\n- 昨夜 = đêm qua"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 700,
-      "y": -220,
-      "width": 900,
-      "height": 420,
-      "text": "# Pattern N2\n\n🧩 昨 + Mốc thời gian\n→ Mang nghĩa:\n『trước đó / kỳ trước / hôm trước』\n\nVí dụ:\n- 昨年 = năm ngoái\n- 昨夜 = tối qua\n- 昨日 = hôm qua\n\n📌 Prefix này thường mang:\n- sắc thái formal\n- cách diễn đạt kiểu báo chí"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 860,
-      "width": 700,
-      "height": 560,
-      "text": "# So sánh nuance\n\n🕰️ 昨\n→ thời gian trước đó\n\n➡️ 今\n→ hiện tại/lần này\n\n➡️ 来\n→ lần tới/tương lai\n\n📌 Ví dụ:\n- 昨年 = năm ngoái\n- 今年 = năm nay\n- 来年 = năm sau\n\n⚡ Đây là bộ ba thời gian cực hay gặp trong JLPT"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 760,
-      "y": 1540,
-      "width": 960,
-      "height": 460,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 昨 bằng hình ảnh:\n\n📰 bài báo nhắc chuyện hôm qua\n📅 nhìn lại thời gian trước đó\n🌙 đêm qua / năm ngoái\n\n➡️ Điểm chung:\n『đều nói về quá khứ gần』\n\n📌 JLPT hay gặp:\n- 昨日\n- 昨年\n- 昨夜\n- 昨今"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e4",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":860,"y":340,"width":640,"height":320,"text":"# 昨～（さく～）\n\n📚 Hán Việt: TẠC（昨）\n\n🕰️ Ý nghĩa trung tâm:\nTrước đây • Hôm trước • Kỳ trước\n\n📌 Thường dùng để:\n- chỉ thời gian đã qua\n- nhấn mạnh quá khứ gần\n- cách nói trang trọng/báo chí"},
+		{"id":"meaning","type":"text","x":120,"y":260,"width":560,"height":460,"text":"# Ý nghĩa\n\n🧠 昨 mang sắc thái:\n- trước đây\n- hôm trước\n- thời gian trước đó\n\n➡️ Gần giống:\n- previous\n- last\n- before\n\n📌 Prefix này thường gặp trong:\n- báo chí\n- văn viết\n- thời gian lịch sự/trang trọng"},
+		{"id":"word1","type":"text","x":1640,"y":260,"width":700,"height":520,"text":"# 昨十五日（さくじゅうごにち）\n\n📅 15 ngày trước\n\n📚 Hán Việt:\n- 昨 = tác\n- 十五日 = thập ngũ nhật\n\n## Tách nghĩa\n- 昨 = trước đây\n- 十五日 = 15 ngày\n\n💡 Nuance:\nCách nói mang sắc thái văn viết\nhoặc kiểu báo chí/trang trọng\n\n📌 昨 thường xuất hiện trong:\n- 昨年 = năm ngoái\n- 昨今 = hiện nay/gần đây\n- 昨夜 = đêm qua"},
+		{"id":"pattern","type":"text","x":700,"y":-220,"width":900,"height":420,"text":"# Pattern N2\n\n🧩 昨 + Mốc thời gian\n→ Mang nghĩa:\n『trước đó / kỳ trước / hôm trước』\n\nVí dụ:\n- 昨年 = năm ngoái\n- 昨夜 = tối qua\n- 昨日 = hôm qua\n\n📌 Prefix này thường mang:\n- sắc thái formal\n- cách diễn đạt kiểu báo chí"},
+		{"id":"compare","type":"text","x":120,"y":860,"width":700,"height":560,"text":"# So sánh nuance\n\n🕰️ 昨\n→ thời gian trước đó\n\n➡️ 今\n→ hiện tại/lần này\n\n➡️ 来\n→ lần tới/tương lai\n\n📌 Ví dụ:\n- 昨年 = năm ngoái\n- 今年 = năm nay\n- 来年 = năm sau\n\n⚡ Đây là bộ ba thời gian cực hay gặp trong JLPT"},
+		{"id":"memory","type":"text","x":760,"y":1540,"width":960,"height":460,"text":"# Memory Hint\n\n🧠 Hãy nhớ 昨 bằng hình ảnh:\n\n📰 bài báo nhắc chuyện hôm qua\n📅 nhìn lại thời gian trước đó\n🌙 đêm qua / năm ngoái\n\n➡️ Điểm chung:\n『đều nói về quá khứ gần』\n\n📌 JLPT hay gặp:\n- 昨日\n- 昨年\n- 昨夜\n- 昨今"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

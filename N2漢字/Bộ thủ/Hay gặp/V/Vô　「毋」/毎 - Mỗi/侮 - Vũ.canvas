@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"086d57a849e4722b","x":-143,"y":-36,"width":250,"height":60,"type":"text","text":"侮 - Vũ"},
+		{"id":"aba81cb246442899","x":-560,"y":-200,"width":142,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"2898d91ea69707db","x":-489,"y":140,"width":180,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas"}
+	],
+	"edges":[
+		{"id":"aed4d7b3522fd2ec","fromNode":"aba81cb246442899","fromSide":"right","toNode":"086d57a849e4722b","toSide":"left"},
+		{"id":"d36565f1736376bf","fromNode":"2898d91ea69707db","fromSide":"right","toNode":"086d57a849e4722b","toSide":"left"}
+	]
+}

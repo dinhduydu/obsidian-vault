@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f0323cd4ab6659c6","x":-228,"y":-8,"width":250,"height":60,"type":"text","text":"審 - Thẩm"},
+		{"id":"05a308a82e44a890","x":-520,"y":140,"width":147,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas"},
+		{"id":"b4873113f5594baa","x":-480,"y":-80,"width":107,"height":132,"type":"file","file":"N2漢字/Hay gặp/M/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"b5dbd0fd86a9b41d","fromNode":"05a308a82e44a890","fromSide":"right","toNode":"f0323cd4ab6659c6","toSide":"left"},
+		{"id":"d498da9e98e05a90","fromNode":"b4873113f5594baa","fromSide":"right","toNode":"f0323cd4ab6659c6","toSide":"left"}
+	]
+}

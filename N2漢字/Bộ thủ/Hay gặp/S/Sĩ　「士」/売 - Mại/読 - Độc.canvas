@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ba4d3d4aa5a47a7","x":-154,"y":-81,"width":250,"height":60,"type":"text","text":"読 - Độc"},
+		{"id":"e9fb742c34fc4bcb","x":-400,"y":-300,"width":161,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/売 - Mại/売 - Mại.canvas"},
+		{"id":"653f760b59029a12","x":-560,"y":20,"width":169,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"5760aab711da2574","fromNode":"e9fb742c34fc4bcb","fromSide":"right","toNode":"2ba4d3d4aa5a47a7","toSide":"left"},
+		{"id":"decfe551153dc768","fromNode":"653f760b59029a12","fromSide":"right","toNode":"2ba4d3d4aa5a47a7","toSide":"left"}
+	]
+}

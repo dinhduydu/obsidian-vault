@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2cea217fc60c6aa3","type":"text","text":"明 - Minh","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1a79ddd5d819d5f4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-620,"y":300,"width":200,"height":130},
+		{"id":"0c022abaa00f5b1d","x":-620,"y":-200,"width":193,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"2d9b647e6d83a10a","fromNode":"1a79ddd5d819d5f4","fromSide":"right","toNode":"2cea217fc60c6aa3","toSide":"left","label":"明 - Minh"},
+		{"id":"fd63fd8e2c8a2973","fromNode":"0c022abaa00f5b1d","fromSide":"right","toNode":"2cea217fc60c6aa3","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e12ab7ee856ad837","type":"text","text":"毎 - Mỗi","x":-129,"y":-50,"width":250,"height":60},
+		{"id":"08f4d296bd73b3b3","x":-520,"y":10,"width":116,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/Vô　「毋」.canvas"},
+		{"id":"84e3baf5f3353f66","x":-555,"y":-240,"width":151,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"}
+	],
+	"edges":[
+		{"id":"027dce859a5133ad","fromNode":"08f4d296bd73b3b3","fromSide":"right","toNode":"e12ab7ee856ad837","toSide":"left"},
+		{"id":"c3bbfe5559da8880","fromNode":"84e3baf5f3353f66","fromSide":"right","toNode":"e12ab7ee856ad837","toSide":"left"}
+	]
+}

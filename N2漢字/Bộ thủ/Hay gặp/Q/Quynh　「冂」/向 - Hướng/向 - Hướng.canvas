@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b963b38c096ed58c","x":-130,"y":-9,"width":250,"height":60,"type":"text","text":"向 - Hướng"},
+		{"id":"6c6a523c3e194e8f","x":-540,"y":-42,"width":175,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"f1c8c8afbc5a1644","x":-495,"y":-280,"width":130,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"1fecc10346369e06","x":-525,"y":180,"width":160,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"e5efd86733ec1111","fromNode":"6c6a523c3e194e8f","fromSide":"right","toNode":"b963b38c096ed58c","toSide":"left"},
+		{"id":"f48f494f62cf3f08","fromNode":"f1c8c8afbc5a1644","fromSide":"right","toNode":"b963b38c096ed58c","toSide":"left"},
+		{"id":"c41bc8191195453d","fromNode":"1fecc10346369e06","fromSide":"right","toNode":"b963b38c096ed58c","toSide":"left"}
+	]
+}

@@ -4,8 +4,6 @@
 		{"id":"2f15987eb8541b37","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/Cốt　「骨」.canvas","x":-760,"y":-641,"width":86,"height":50},
 		{"id":"4f30db9fe0b4f5a2","type":"text","text":"過ち　「あやまち」：sai lầm","x":-187,"y":-591,"width":250,"height":60},
 		{"id":"2779e710d24e5b84","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-560,"y":-440,"width":125,"height":77},
-		{"id":"42f99c05d24edb04","type":"text","text":"遂 - Toại","x":-340,"y":-340,"width":250,"height":60},
-		{"id":"8441463ed7c29c82","type":"text","text":"近 - Cận","x":44,"y":-40,"width":250,"height":60},
 		{"id":"3dad924ef56cf399","type":"text","text":"Sước Dẫn　「廴」「辵 (⻌⻍) 」","x":-960,"y":70,"width":250,"height":80},
 		{"id":"52bb8c0d6fe71757","type":"text","text":"đi, tiến","x":-1340,"y":-20,"width":250,"height":60},
 		{"id":"ed697e996021c14f","type":"text","text":"進 - Tiến","x":31,"y":120,"width":250,"height":60},
@@ -27,11 +25,15 @@
 		{"id":"80c1700e1b67771e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-855,"y":-99,"width":145,"height":104},
 		{"id":"8f3059821e4166b2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-902,"y":-346,"width":128,"height":72},
 		{"id":"01f8a5fc369b3978","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas","x":-846,"y":-213,"width":128,"height":61},
-		{"id":"8276fa0ecb0205ed","x":-40,"y":540,"width":103,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/通 - Thông.canvas"}
+		{"id":"8276fa0ecb0205ed","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/通 - Thông.canvas","x":-40,"y":540,"width":103,"height":87},
+		{"id":"3bc1dd1faf2e0ac0","x":60,"y":-57,"width":193,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/近 - Cận.canvas"},
+		{"id":"5074f8f97d5123fb","x":-367,"y":-359,"width":157,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/遂 - Toại.canvas"},
+		{"id":"5dc1ebd72fdc7cf1","x":-516,"y":-800,"width":231,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/迷 - Mê/迷 - Mê.canvas"},
+		{"id":"03e6fa909c59092b","x":-864,"y":-897,"width":146,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
 	],
 	"edges":[
 		{"id":"8bd72771567ff646","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"89cfa5ee3720f949","toSide":"left"},
-		{"id":"1628f19db7ad5a4a","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"8441463ed7c29c82","toSide":"left"},
+		{"id":"1628f19db7ad5a4a","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"3bc1dd1faf2e0ac0","toSide":"left"},
 		{"id":"18a2bc08969679cf","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"ed697e996021c14f","toSide":"left"},
 		{"id":"892bf056d61887fa","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"556ca3bb8d75800b","toSide":"left"},
 		{"id":"e811d8b5558ee5d5","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"0da8e2e6928c6e4a","toSide":"left"},
@@ -47,8 +49,8 @@
 		{"id":"163491f4d6d3bdc3","fromNode":"52bb8c0d6fe71757","fromSide":"left","toNode":"68095ba08be0474a","toSide":"right"},
 		{"id":"561220c16da17d21","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"36432d9d3fc35ac2","toSide":"left"},
 		{"id":"1ab0a801e6a4b8ce","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"24560422fa12c015","toSide":"left"},
-		{"id":"41f5e8ababb2072e","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"42f99c05d24edb04","toSide":"left"},
-		{"id":"e67f79e36b007bb2","fromNode":"2779e710d24e5b84","fromSide":"right","toNode":"42f99c05d24edb04","toSide":"left"},
+		{"id":"41f5e8ababb2072e","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"5074f8f97d5123fb","toSide":"left"},
+		{"id":"e67f79e36b007bb2","fromNode":"2779e710d24e5b84","fromSide":"right","toNode":"5074f8f97d5123fb","toSide":"left"},
 		{"id":"65765106a7e8c2e3","fromNode":"2f15987eb8541b37","fromSide":"right","toNode":"236747d70483f3df","toSide":"left"},
 		{"id":"c5785783df572f41","fromNode":"3dad924ef56cf399","fromSide":"bottom","toNode":"4270b5b91d286dc8","toSide":"top"},
 		{"id":"54b6aeb9d39838ba","fromNode":"1aea0abe225ee4a4","fromSide":"right","toNode":"4270b5b91d286dc8","toSide":"top"},
@@ -56,6 +58,8 @@
 		{"id":"58c15b7afdb02104","fromNode":"ad8b1c20b5c402a7","fromSide":"right","toNode":"556ca3bb8d75800b","toSide":"left"},
 		{"id":"baa7748480ac6555","fromNode":"01f8a5fc369b3978","fromSide":"right","toNode":"8ad8e5ecab8410cd","toSide":"left"},
 		{"id":"9f24755a6e8ee5d1","fromNode":"80c1700e1b67771e","fromSide":"right","toNode":"8ad8e5ecab8410cd","toSide":"left"},
-		{"id":"8f7d4fe4547a4d55","fromNode":"8f3059821e4166b2","fromSide":"right","toNode":"8ad8e5ecab8410cd","toSide":"left"}
+		{"id":"8f7d4fe4547a4d55","fromNode":"8f3059821e4166b2","fromSide":"right","toNode":"8ad8e5ecab8410cd","toSide":"left"},
+		{"id":"e436e87dd20896e9","fromNode":"3dad924ef56cf399","fromSide":"right","toNode":"5dc1ebd72fdc7cf1","toSide":"left"},
+		{"id":"4aedfe54dc37ae27","fromNode":"03e6fa909c59092b","fromSide":"right","toNode":"5dc1ebd72fdc7cf1","toSide":"left"}
 	]
 }

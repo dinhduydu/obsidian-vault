@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0c29d95010420569","type":"text","text":"評 - Bình","x":-78,"y":-44,"width":250,"height":60},
+		{"id":"80cbdec925987f62","x":-420,"y":-200,"width":129,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình/平 - Bình.canvas"},
+		{"id":"7a3b0693117506d0","x":-520,"y":100,"width":148,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"ef97f0f2cb555b75","fromNode":"80cbdec925987f62","fromSide":"right","toNode":"0c29d95010420569","toSide":"left"},
+		{"id":"51e2425bfe148792","fromNode":"7a3b0693117506d0","fromSide":"right","toNode":"0c29d95010420569","toSide":"left"}
+	]
+}

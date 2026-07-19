@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7d9fcf69152e25df","type":"text","text":"監 - Giám","x":-346,"y":33,"width":250,"height":60},
+		{"id":"c56857a53be6ceef","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」.canvas","x":-580,"y":-93,"width":111,"height":58},
+		{"id":"eeec19b1a3b3a9a5","type":"text","text":"Giám sát","x":62,"y":-91,"width":250,"height":60},
+		{"id":"2de6074c7187574a","type":"text","text":"Một người cúi xuống nhìn vào vật chứa để kiểm tra / quan sát","x":84,"y":-2,"width":496,"height":50},
+		{"id":"1fcdd372f356106f","x":-669,"y":93,"width":200,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"607d48a0708a0f52","fromNode":"7d9fcf69152e25df","fromSide":"right","toNode":"eeec19b1a3b3a9a5","toSide":"left"},
+		{"id":"7ac7e34899c021f5","fromNode":"7d9fcf69152e25df","fromSide":"right","toNode":"2de6074c7187574a","toSide":"left"},
+		{"id":"81cfe981b9fc02c2","fromNode":"c56857a53be6ceef","fromSide":"right","toNode":"7d9fcf69152e25df","toSide":"left","label":"giám sát, trông coi"},
+		{"id":"2a582aa67038cdc4","fromNode":"1fcdd372f356106f","fromSide":"right","toNode":"7d9fcf69152e25df","toSide":"left"}
+	]
+}

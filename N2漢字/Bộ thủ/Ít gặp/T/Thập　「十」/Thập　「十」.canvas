@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"65df59d7aa37f71d","type":"text","text":"Thập　「十」","x":-7,"y":-22,"width":250,"height":60},
 		{"id":"62946770764c9905","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/妻 - Thê.canvas","x":468,"y":295,"width":212,"height":140},
-		{"id":"f8afbe03f5d3320f","x":440,"y":-240,"width":220,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/世 - Thế.canvas"}
+		{"id":"f8afbe03f5d3320f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/世 - Thế.canvas","x":440,"y":-240,"width":220,"height":136},
+		{"id":"2f6863d757193d92","x":502,"y":-56,"width":145,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/来 - Lai.canvas"},
+		{"id":"65df59d7aa37f71d","type":"text","text":"Thập　「十」","x":-200,"y":-21,"width":250,"height":60},
+		{"id":"df46df813cd9b778","x":260,"y":39,"width":138,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
 	],
 	"edges":[
 		{"id":"357847f027db1796","fromNode":"65df59d7aa37f71d","fromSide":"right","toNode":"62946770764c9905","toSide":"left"},
-		{"id":"70ba100dc9d1e865","fromNode":"65df59d7aa37f71d","fromSide":"right","toNode":"f8afbe03f5d3320f","toSide":"left"}
+		{"id":"70ba100dc9d1e865","fromNode":"65df59d7aa37f71d","fromSide":"right","toNode":"f8afbe03f5d3320f","toSide":"left"},
+		{"id":"1c5cf27d0a69f79e","fromNode":"65df59d7aa37f71d","fromSide":"right","toNode":"2f6863d757193d92","toSide":"left"},
+		{"id":"22f5d936348bc7b6","fromNode":"df46df813cd9b778","fromSide":"right","toNode":"2f6863d757193d92","toSide":"left"}
 	]
 }

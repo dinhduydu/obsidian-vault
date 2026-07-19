@@ -11,8 +11,10 @@
 		{"id":"5f40f7cee71573ce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/知 - Tri/痴 - Si.canvas","x":1420,"y":-1160,"width":196,"height":172},
 		{"id":"5fce7a5a6402c145","type":"text","text":"Nạch　「疒」","x":940,"y":-1280,"width":250,"height":60},
 		{"id":"0e1e76c62b6753ac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/知 - Tri/知 - Tri.canvas","x":1042,"y":-988,"width":148,"height":140},
-		{"id":"ab1e752ee04c281e","x":1420,"y":-1500,"width":221,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/瘍 - Dương.canvas"},
-		{"id":"2d6112f2e72be430","x":1065,"y":-1577,"width":172,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas"}
+		{"id":"ab1e752ee04c281e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/瘍 - Dương.canvas","x":1420,"y":-1500,"width":221,"height":135},
+		{"id":"2d6112f2e72be430","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/易 - Dịch - Di.canvas","x":1065,"y":-1577,"width":172,"height":154},
+		{"id":"ea78ba2aa522da43","x":2140,"y":-1365,"width":255,"height":236,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội/丙 - Bính/病 - Bệnh.canvas"},
+		{"id":"03639a549110f86a","x":1840,"y":-1496,"width":170,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội/丙 - Bính/丙 - Bính.canvas"}
 	],
 	"edges":[
 		{"id":"35dc2d7ede42f0ee","fromNode":"fd6e881b24265a43","fromSide":"right","toNode":"a0a614d80556819f","toSide":"left"},
@@ -25,6 +27,8 @@
 		{"id":"f4c7f71e70bb7095","fromNode":"5fce7a5a6402c145","fromSide":"right","toNode":"5f40f7cee71573ce","toSide":"left"},
 		{"id":"a09732293487c17b","fromNode":"0e1e76c62b6753ac","fromSide":"right","toNode":"5f40f7cee71573ce","toSide":"left"},
 		{"id":"58d620d253c166bd","fromNode":"5fce7a5a6402c145","fromSide":"right","toNode":"ab1e752ee04c281e","toSide":"left"},
-		{"id":"089007462d39e906","fromNode":"2d6112f2e72be430","fromSide":"right","toNode":"ab1e752ee04c281e","toSide":"left"}
+		{"id":"089007462d39e906","fromNode":"2d6112f2e72be430","fromSide":"right","toNode":"ab1e752ee04c281e","toSide":"left"},
+		{"id":"f30f80b02a3d1222","fromNode":"5fce7a5a6402c145","fromSide":"right","toNode":"ea78ba2aa522da43","toSide":"left"},
+		{"id":"42e3377119422300","fromNode":"03639a549110f86a","fromSide":"right","toNode":"ea78ba2aa522da43","toSide":"left"}
 	]
 }

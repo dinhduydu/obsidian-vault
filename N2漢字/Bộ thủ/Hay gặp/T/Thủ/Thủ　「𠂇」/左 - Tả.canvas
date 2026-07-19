@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"84cd52f1771a68fe","type":"text","text":"左（ひだり）- Tả","x":-347,"y":-107,"width":250,"height":60},
+		{"id":"62bbc0758496102d","type":"text","text":"右（みぎ）- Hữu","x":-347,"y":48,"width":250,"height":60},
+		{"id":"5295ba16a2c40847","type":"text","text":"左右　「さゆう」：","x":97,"y":11,"width":250,"height":60},
+		{"id":"0645d24011e81ab7","x":-620,"y":-234,"width":165,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"}
+	],
+	"edges":[
+		{"id":"db5be8ee16bf502b","fromNode":"84cd52f1771a68fe","fromSide":"right","toNode":"5295ba16a2c40847","toSide":"left"},
+		{"id":"2d21de0248963c75","fromNode":"62bbc0758496102d","fromSide":"right","toNode":"5295ba16a2c40847","toSide":"left"},
+		{"id":"585309054871deca","fromNode":"0645d24011e81ab7","fromSide":"right","toNode":"84cd52f1771a68fe","toSide":"left"}
+	]
+}

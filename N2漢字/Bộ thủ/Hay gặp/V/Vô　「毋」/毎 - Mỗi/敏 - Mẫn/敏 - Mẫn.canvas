@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"23dfcd0beac19fcf","x":-94,"y":-19,"width":250,"height":60,"type":"text","text":"敏 - Mẫn"},
+		{"id":"ed1cb28a592d5137","x":-440,"y":120,"width":123,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas"},
+		{"id":"44b0d8392a6f5b7d","x":-456,"y":-140,"width":139,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"7d1fd6ae5cc3c961","fromNode":"ed1cb28a592d5137","fromSide":"right","toNode":"23dfcd0beac19fcf","toSide":"left"},
+		{"id":"7110f5719df8406d","fromNode":"44b0d8392a6f5b7d","fromSide":"right","toNode":"23dfcd0beac19fcf","toSide":"left"}
+	]
+}

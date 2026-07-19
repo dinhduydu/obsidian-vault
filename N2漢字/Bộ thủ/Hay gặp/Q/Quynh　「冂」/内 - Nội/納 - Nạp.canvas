@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0d5062d5963574c2","type":"text","text":"納 - Nạp","x":-185,"y":-94,"width":250,"height":60},
+		{"id":"194b4fcfe42e4431","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội/内 - Nội.canvas","x":-500,"y":-240,"width":142,"height":103},
+		{"id":"59ab18ba09932720","x":-525,"y":40,"width":167,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"10ed2676146c0ad3","fromNode":"194b4fcfe42e4431","fromSide":"right","toNode":"0d5062d5963574c2","toSide":"left"},
+		{"id":"11a545b1004f95a0","fromNode":"59ab18ba09932720","fromSide":"right","toNode":"0d5062d5963574c2","toSide":"left"}
+	]
+}

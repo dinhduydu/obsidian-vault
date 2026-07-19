@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"e3ed6d9c947cebbd","type":"text","text":"Nguyệt　「月 」","x":-178,"y":-59,"width":218,"height":60},
-		{"id":"6b525e2834d23572","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":280,"y":60,"width":169,"height":156}
+		{"id":"6b525e2834d23572","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":280,"y":60,"width":169,"height":156},
+		{"id":"c49d74257facf0da","x":280,"y":-300,"width":231,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/明 - Minh/明 - Minh.canvas"},
+		{"id":"7dbb93f5ed70a8a9","x":-69,"y":-406,"width":129,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
 	],
 	"edges":[
-		{"id":"e770c67ebc287653","fromNode":"e3ed6d9c947cebbd","fromSide":"right","toNode":"6b525e2834d23572","toSide":"left"}
+		{"id":"e770c67ebc287653","fromNode":"e3ed6d9c947cebbd","fromSide":"right","toNode":"6b525e2834d23572","toSide":"left"},
+		{"id":"f6fa104db38282fa","fromNode":"e3ed6d9c947cebbd","fromSide":"right","toNode":"c49d74257facf0da","toSide":"left"},
+		{"id":"b03139c0beda169f","fromNode":"7dbb93f5ed70a8a9","fromSide":"right","toNode":"c49d74257facf0da","toSide":"left"}
 	]
 }

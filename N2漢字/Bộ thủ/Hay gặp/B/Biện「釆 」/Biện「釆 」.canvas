@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ebb8df6c6524d0f8","type":"text","text":"Biện「釆 」","x":-226,"y":-32,"width":250,"height":60},
+		{"id":"fc2caa4df5457264","x":180,"y":-300,"width":190,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas"},
+		{"id":"35c2743cf74dd4ef","x":180,"y":80,"width":216,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+	],
+	"edges":[
+		{"id":"17c42b80ef59ce81","fromNode":"ebb8df6c6524d0f8","fromSide":"right","toNode":"fc2caa4df5457264","toSide":"left"},
+		{"id":"92b26372139c3bc0","fromNode":"ebb8df6c6524d0f8","fromSide":"right","toNode":"35c2743cf74dd4ef","toSide":"left"}
+	]
+}

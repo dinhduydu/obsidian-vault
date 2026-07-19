@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7bf88c6109c27f2d","x":-78,"y":-47,"width":250,"height":60,"type":"text","text":"Nhân　「儿」"},
+		{"id":"64ab9dbf36cddcda","x":380,"y":-260,"width":227,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/売 - Mại/売 - Mại.canvas"}
+	],
+	"edges":[
+		{"id":"f2064ae3f5dcd538","fromNode":"7bf88c6109c27f2d","fromSide":"right","toNode":"64ab9dbf36cddcda","toSide":"left"}
+	]
+}

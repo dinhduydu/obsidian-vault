@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6fffe39a35965a2a","x":-182,"y":-13,"width":250,"height":60,"type":"text","text":"柄 - Bính"},
+		{"id":"4ad1be36fc9e3e00","x":-520,"y":80,"width":142,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/内 - Nội/丙 - Bính/丙 - Bính.canvas"},
+		{"id":"55bfea57679b571e","x":-640,"y":-180,"width":144,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"378b9580a9e8aa8e","fromNode":"4ad1be36fc9e3e00","fromSide":"right","toNode":"6fffe39a35965a2a","toSide":"left"},
+		{"id":"1b040cc5ee928cf3","fromNode":"55bfea57679b571e","fromSide":"right","toNode":"6fffe39a35965a2a","toSide":"left"}
+	]
+}

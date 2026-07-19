@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ccb0329a2331e23f","x":-145,"y":-16,"width":250,"height":60,"type":"text","text":"呼 - Hô"},
+		{"id":"926caeb72da79f2d","x":-460,"y":-280,"width":162,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「乎」/Hô　「乎」.canvas"},
+		{"id":"d14334b68b59270a","x":-463,"y":100,"width":165,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"ff3a8adb50ef8094","fromNode":"d14334b68b59270a","fromSide":"right","toNode":"ccb0329a2331e23f","toSide":"left"},
+		{"id":"2275462c937368dd","fromNode":"926caeb72da79f2d","fromSide":"right","toNode":"ccb0329a2331e23f","toSide":"left"}
+	]
+}

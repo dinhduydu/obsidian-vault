@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a6e479dba18a7199","x":-197,"y":-30,"width":250,"height":60,"type":"text","text":"迷 - Mê"},
+		{"id":"b9679fb347a305e3","x":-440,"y":-133,"width":129,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"f9d4924176f8d0c3","x":-443,"y":100,"width":132,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"d20ef3af5a08d864","fromNode":"b9679fb347a305e3","fromSide":"right","toNode":"a6e479dba18a7199","toSide":"left"},
+		{"id":"12ba9e12f3051f95","fromNode":"f9d4924176f8d0c3","fromSide":"right","toNode":"a6e479dba18a7199","toSide":"left"}
+	]
+}

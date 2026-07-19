@@ -6,7 +6,9 @@
 		{"id":"c3a13ed010dd17a2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/牲 - Sinh.canvas","x":680,"y":-13,"width":181,"height":127},
 		{"id":"8282e16140f7375e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":380,"y":114,"width":173,"height":128},
 		{"id":"b9c819495b11a5db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/星 - Tinh/星 - Tinh.canvas","x":368,"y":420,"width":264,"height":240},
-		{"id":"ce8feeeac2a0c898","x":-20,"y":640,"width":189,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+		{"id":"ce8feeeac2a0c898","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-20,"y":640,"width":189,"height":161},
+		{"id":"10a928e684fe0818","x":940,"y":-354,"width":224,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毒 - Độc.canvas"},
+		{"id":"8ad3e9b51418a46e","x":640,"y":-520,"width":149,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"}
 	],
 	"edges":[
 		{"id":"026ef3268e81bf2f","fromNode":"991aa9868b6d00f2","fromSide":"right","toNode":"e5ee2aba92ae9d60","toSide":"left"},
@@ -14,6 +16,8 @@
 		{"id":"009a9571a9cfbe25","fromNode":"991aa9868b6d00f2","fromSide":"right","toNode":"c3a13ed010dd17a2","toSide":"left"},
 		{"id":"d60bc238fb96b637","fromNode":"8282e16140f7375e","fromSide":"right","toNode":"c3a13ed010dd17a2","toSide":"left"},
 		{"id":"7288bc72d69a8338","fromNode":"991aa9868b6d00f2","fromSide":"right","toNode":"b9c819495b11a5db","toSide":"left"},
-		{"id":"48b792c35902d20c","fromNode":"ce8feeeac2a0c898","fromSide":"right","toNode":"b9c819495b11a5db","toSide":"left"}
+		{"id":"48b792c35902d20c","fromNode":"ce8feeeac2a0c898","fromSide":"right","toNode":"b9c819495b11a5db","toSide":"left"},
+		{"id":"88ba83f5fb622da1","fromNode":"991aa9868b6d00f2","fromSide":"right","toNode":"10a928e684fe0818","toSide":"left"},
+		{"id":"ed60062f893802b3","fromNode":"8ad3e9b51418a46e","fromSide":"right","toNode":"10a928e684fe0818","toSide":"left"}
 	]
 }

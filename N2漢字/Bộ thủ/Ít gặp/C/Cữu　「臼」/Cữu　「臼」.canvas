@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"5022cf9e5a5e450f","x":-191,"y":-76,"width":250,"height":60,"type":"text","text":"Cữu　「臼」"},
-		{"id":"327fafcc5d25b95f","x":214,"y":-129,"width":250,"height":60,"type":"text","text":"cái cối giã"}
+		{"id":"5022cf9e5a5e450f","type":"text","text":"Cữu　「臼」","x":-191,"y":-76,"width":250,"height":60},
+		{"id":"327fafcc5d25b95f","type":"text","text":"cái cối giã","x":-480,"y":-320,"width":200,"height":60},
+		{"id":"cc8fa19956038083","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/興 - Hưng.canvas","x":240,"y":-260,"width":222,"height":136},
+		{"id":"eda5421a33cf54ad","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/同 - Đồng.canvas","x":-122,"y":-462,"width":181,"height":142},
+		{"id":"97cd88fbfd65818c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-98,"y":-720,"width":157,"height":143},
+		{"id":"c9918c44ec403180","x":-108,"y":-267,"width":167,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"}
 	],
 	"edges":[
-		{"id":"8b647766e4661f7c","fromNode":"5022cf9e5a5e450f","fromSide":"right","toNode":"327fafcc5d25b95f","toSide":"left"}
+		{"id":"f7e0ba1ac64f5c7f","fromNode":"327fafcc5d25b95f","fromSide":"right","toNode":"5022cf9e5a5e450f","toSide":"left"},
+		{"id":"8960328fd1aced0e","fromNode":"5022cf9e5a5e450f","fromSide":"right","toNode":"cc8fa19956038083","toSide":"left"},
+		{"id":"47002a6654d1cf58","fromNode":"eda5421a33cf54ad","fromSide":"right","toNode":"cc8fa19956038083","toSide":"left"},
+		{"id":"0698dbe310ca8dec","fromNode":"97cd88fbfd65818c","fromSide":"right","toNode":"cc8fa19956038083","toSide":"left"},
+		{"id":"89ff83809b89bca4","fromNode":"c9918c44ec403180","fromSide":"right","toNode":"cc8fa19956038083","toSide":"left"}
 	]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7e762d4a481f2932","x":-60,"y":-40,"width":250,"height":60,"type":"text","text":"歩 - Bộ"},
+		{"id":"f95f2baf0d5e49e5","x":-440,"y":-200,"width":136,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"7f8a2f7177e3517a","fromNode":"f95f2baf0d5e49e5","fromSide":"right","toNode":"7e762d4a481f2932","toSide":"left"}
+	]
+}

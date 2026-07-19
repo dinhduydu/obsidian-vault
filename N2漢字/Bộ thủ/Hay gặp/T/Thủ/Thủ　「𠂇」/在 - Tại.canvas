@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5a708d62b3a83a63","x":-168,"y":-43,"width":250,"height":60,"type":"text","text":"在 - Tại"},
+		{"id":"f4f6ef7e297c6ca0","x":-380,"y":-200,"width":141,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"},
+		{"id":"cbdea93ec0d52ed8","x":-440,"y":40,"width":182,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"28adc1b3fcddd2ba","fromNode":"f4f6ef7e297c6ca0","fromSide":"right","toNode":"5a708d62b3a83a63","toSide":"left"},
+		{"id":"d8c5f69d3c5284dc","fromNode":"cbdea93ec0d52ed8","fromSide":"right","toNode":"5a708d62b3a83a63","toSide":"left"}
+	]
+}

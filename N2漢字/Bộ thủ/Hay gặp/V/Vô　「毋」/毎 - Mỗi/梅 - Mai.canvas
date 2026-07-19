@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"910b39dd8ee974f9","x":-162,"y":-44,"width":250,"height":60,"type":"text","text":"梅 - Mai"},
+		{"id":"08bbebfc441020ee","x":-540,"y":80,"width":179,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas"},
+		{"id":"55f412915e13bbe2","x":-532,"y":-180,"width":171,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6969ff4519b1e6f9","fromNode":"08bbebfc441020ee","fromSide":"right","toNode":"910b39dd8ee974f9","toSide":"left"},
+		{"id":"eae6bb5f5c1ce43a","fromNode":"55f412915e13bbe2","fromSide":"right","toNode":"910b39dd8ee974f9","toSide":"left"}
+	]
+}
