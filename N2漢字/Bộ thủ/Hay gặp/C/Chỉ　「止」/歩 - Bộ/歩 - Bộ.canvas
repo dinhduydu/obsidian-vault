@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"7e762d4a481f2932","x":-60,"y":-40,"width":250,"height":60,"type":"text","text":"歩 - Bộ"},
-		{"id":"f95f2baf0d5e49e5","x":-440,"y":-200,"width":136,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+		{"id":"7e762d4a481f2932","type":"text","text":"歩 - Bộ","x":-60,"y":-40,"width":250,"height":60},
+		{"id":"f95f2baf0d5e49e5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas","x":-440,"y":-200,"width":136,"height":123},
+		{"id":"b3811efb983f00a4","x":-437,"y":100,"width":133,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiểu　「少」/Thiểu　「少」.canvas"}
 	],
 	"edges":[
-		{"id":"7f8a2f7177e3517a","fromNode":"f95f2baf0d5e49e5","fromSide":"right","toNode":"7e762d4a481f2932","toSide":"left"}
+		{"id":"7f8a2f7177e3517a","fromNode":"f95f2baf0d5e49e5","fromSide":"right","toNode":"7e762d4a481f2932","toSide":"left"},
+		{"id":"27b6fef78bc271be","fromNode":"b3811efb983f00a4","fromSide":"right","toNode":"7e762d4a481f2932","toSide":"left"}
 	]
 }

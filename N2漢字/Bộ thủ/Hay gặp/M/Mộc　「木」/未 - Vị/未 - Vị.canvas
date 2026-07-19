@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8d20ca12664ebe88","type":"text","text":"未 - Vị","x":-81,"y":-51,"width":250,"height":60},
+		{"id":"815afb4166b3acd4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-460,"y":-240,"width":165,"height":134},
+		{"id":"253afdc4adefb05c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-436,"y":80,"width":141,"height":154},
+		{"id":"38bed9e8cd302f43","x":-700,"y":-95,"width":173,"height":149,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/未 - Vị.canvas"}
+	],
+	"edges":[
+		{"id":"2fd628b2b368f205","fromNode":"815afb4166b3acd4","fromSide":"right","toNode":"8d20ca12664ebe88","toSide":"left"},
+		{"id":"cb90abf9340809e1","fromNode":"253afdc4adefb05c","fromSide":"right","toNode":"8d20ca12664ebe88","toSide":"left"},
+		{"id":"6eacc33284d7f1bc","fromNode":"38bed9e8cd302f43","fromSide":"right","toNode":"8d20ca12664ebe88","toSide":"left"}
+	]
+}

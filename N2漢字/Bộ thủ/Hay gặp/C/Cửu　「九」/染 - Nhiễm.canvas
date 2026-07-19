@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"380d133c78c46ce0","type":"text","text":"染 - Nhiễm","x":-117,"y":-24,"width":250,"height":60},
+		{"id":"9a6b25f774dd7e65","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-660,"y":-61,"width":150,"height":134},
+		{"id":"fdcff7c2814db3c6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas","x":-420,"y":-178,"width":153,"height":117},
+		{"id":"bffe1ce14fcc2365","x":-446,"y":160,"width":179,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"b554de8837e125d9","fromNode":"fdcff7c2814db3c6","fromSide":"right","toNode":"380d133c78c46ce0","toSide":"left"},
+		{"id":"ce7486b3284d266d","fromNode":"9a6b25f774dd7e65","fromSide":"right","toNode":"380d133c78c46ce0","toSide":"left"},
+		{"id":"2f31a9d3e7440dce","fromNode":"bffe1ce14fcc2365","fromSide":"right","toNode":"380d133c78c46ce0","toSide":"left"}
+	]
+}

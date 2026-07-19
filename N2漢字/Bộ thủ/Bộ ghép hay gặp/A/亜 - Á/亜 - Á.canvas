@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e001b6c1a8d1fc48","x":-110,"y":-27,"width":250,"height":60,"type":"text","text":"亜 - Á"},
+		{"id":"75aef82c7be25b1c","x":-660,"y":-81,"width":173,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"6640448a6c1e6a9b","x":-460,"y":87,"width":140,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"9f47f0df9e137474","x":-470,"y":-240,"width":150,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"1de61d393667c549","fromNode":"6640448a6c1e6a9b","fromSide":"right","toNode":"e001b6c1a8d1fc48","toSide":"left"},
+		{"id":"bff6adb7bdbb9ec7","fromNode":"75aef82c7be25b1c","fromSide":"right","toNode":"e001b6c1a8d1fc48","toSide":"left"},
+		{"id":"45d5582d65de61a2","fromNode":"9f47f0df9e137474","fromSide":"right","toNode":"e001b6c1a8d1fc48","toSide":"left","label":"x2"}
+	]
+}

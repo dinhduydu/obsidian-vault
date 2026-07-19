@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5c0ac704274c5dad","x":-60,"y":-28,"width":250,"height":60,"type":"text","text":"味 - Vi"},
+		{"id":"a6f319e7dcc11cf8","x":-380,"y":-280,"width":144,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/未 - Vị.canvas"},
+		{"id":"6132b8ad31fb12fb","x":-404,"y":60,"width":168,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"b0b4672ce03606fa","fromNode":"a6f319e7dcc11cf8","fromSide":"right","toNode":"5c0ac704274c5dad","toSide":"left"},
+		{"id":"7580df44f1db5682","fromNode":"6132b8ad31fb12fb","fromSide":"right","toNode":"5c0ac704274c5dad","toSide":"left"}
+	]
+}

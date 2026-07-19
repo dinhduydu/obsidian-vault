@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"98cddfc3fea6666c","x":-139,"y":-52,"width":250,"height":60,"type":"text","text":"牧 - Mục"},
+		{"id":"22728f4d81ca818e","x":-360,"y":80,"width":127,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"},
+		{"id":"8e1e9d2cbefe9f3a","x":-540,"y":-83,"width":130,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"0ae9bccd412afc43","fromNode":"22728f4d81ca818e","fromSide":"right","toNode":"98cddfc3fea6666c","toSide":"left"},
+		{"id":"7657265a0a627d34","fromNode":"8e1e9d2cbefe9f3a","fromSide":"right","toNode":"98cddfc3fea6666c","toSide":"left"}
+	]
+}

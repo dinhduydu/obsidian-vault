@@ -5,7 +5,7 @@
 		{"id":"ac39402fb59d8023","type":"text","text":"mô phỏng","x":343,"y":-42,"width":250,"height":60},
 		{"id":"091bc47f327ac828","type":"text","text":"放 - Phóng","x":-367,"y":-138,"width":250,"height":60},
 		{"id":"288f8f815436e644","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-232,"y":42,"width":91,"height":96},
-		{"id":"0bc8e260f1113c42","x":-700,"y":-300,"width":137,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas"}
+		{"id":"0bc8e260f1113c42","x":-700,"y":-300,"width":137,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
 	],
 	"edges":[
 		{"id":"bc2b125921d280ec","fromNode":"861f08b76179bf25","fromSide":"right","toNode":"091bc47f327ac828","toSide":"left"},

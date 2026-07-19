@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fde7da2908c949e9","x":-102,"y":-58,"width":250,"height":60,"type":"text","text":"昧 - Muội"},
+		{"id":"d16b7c8691d126b0","x":-420,"y":60,"width":180,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"4e15a8f7a18a9e2d","x":-391,"y":-260,"width":151,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/未 - Vị.canvas"}
+	],
+	"edges":[
+		{"id":"8c3ddb34652d051f","fromNode":"4e15a8f7a18a9e2d","fromSide":"right","toNode":"fde7da2908c949e9","toSide":"left"},
+		{"id":"8843525595a9e561","fromNode":"d16b7c8691d126b0","fromSide":"right","toNode":"fde7da2908c949e9","toSide":"left"}
+	]
+}

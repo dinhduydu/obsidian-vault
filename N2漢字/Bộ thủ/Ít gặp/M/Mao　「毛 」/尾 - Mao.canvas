@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5acb2b7f4f63e3f8","x":-143,"y":-30,"width":250,"height":60,"type":"text","text":"尾 - Mao"},
+		{"id":"3d5fe7da1a9bdb4b","x":-440,"y":60,"width":113,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mao　「毛 」/Mao　「毛 」.canvas"},
+		{"id":"d6c6cdaf498e417a","x":-461,"y":-220,"width":134,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"a630d9346d76a08e","fromNode":"3d5fe7da1a9bdb4b","fromSide":"right","toNode":"5acb2b7f4f63e3f8","toSide":"left"},
+		{"id":"cee5c270c2245949","fromNode":"d6c6cdaf498e417a","fromSide":"right","toNode":"5acb2b7f4f63e3f8","toSide":"left"}
+	]
+}

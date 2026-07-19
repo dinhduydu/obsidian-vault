@@ -5,13 +5,15 @@
 		{"id":"e6c82ca32ad07490","type":"text","text":"工夫　「くふう」：","x":-1500,"y":479,"width":250,"height":60},
 		{"id":"5f652e4c898b8e33","type":"text","text":"夫　「おっと」：","x":-1500,"y":76,"width":250,"height":60},
 		{"id":"f9e1d71184934936","type":"text","text":"Phu　「夫」","x":-240,"y":244,"width":250,"height":60},
-		{"id":"cc27701aa4046bd8","type":"text","text":"Phu　「夫」","x":-880,"y":244,"width":250,"height":60}
+		{"id":"cc27701aa4046bd8","type":"text","text":"Phu　「夫」","x":-880,"y":244,"width":250,"height":60},
+		{"id":"4acb750821f34aff","x":200,"y":58,"width":162,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thất　「失」/Thất　「失」.canvas"}
 	],
 	"edges":[
 		{"id":"7a737a248213f159","fromNode":"f9e1d71184934936","fromSide":"left","toNode":"cc27701aa4046bd8","toSide":"right"},
 		{"id":"1e1cfb884f402218","fromNode":"cc27701aa4046bd8","fromSide":"left","toNode":"5f652e4c898b8e33","toSide":"right"},
 		{"id":"257ecf2aeb8bfcbd","fromNode":"cc27701aa4046bd8","fromSide":"left","toNode":"c7dc17d1c6ad59a0","toSide":"right"},
 		{"id":"1fdd0ab2cf7001e0","fromNode":"cc27701aa4046bd8","fromSide":"left","toNode":"004e7934c4ab5252","toSide":"right"},
-		{"id":"b2c0b16b67bc12df","fromNode":"cc27701aa4046bd8","fromSide":"left","toNode":"e6c82ca32ad07490","toSide":"right"}
+		{"id":"b2c0b16b67bc12df","fromNode":"cc27701aa4046bd8","fromSide":"left","toNode":"e6c82ca32ad07490","toSide":"right"},
+		{"id":"0e613ba8cc28f981","fromNode":"f9e1d71184934936","fromSide":"right","toNode":"4acb750821f34aff","toSide":"left"}
 	]
 }

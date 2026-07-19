@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9b78959b306eb834","x":-170,"y":-71,"width":250,"height":60,"type":"text","text":"株 - Chu"},
+		{"id":"fc53d21305d85827","x":-440,"y":100,"width":147,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/朱 - Chu/朱 - Chu.canvas"},
+		{"id":"e7f28cfa886e2192","x":-640,"y":-100,"width":99,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"61a2ed80d84f1533","fromNode":"fc53d21305d85827","fromSide":"right","toNode":"9b78959b306eb834","toSide":"left"},
+		{"id":"998e5d2a9ad59d2f","fromNode":"e7f28cfa886e2192","fromSide":"right","toNode":"9b78959b306eb834","toSide":"left"}
+	]
+}

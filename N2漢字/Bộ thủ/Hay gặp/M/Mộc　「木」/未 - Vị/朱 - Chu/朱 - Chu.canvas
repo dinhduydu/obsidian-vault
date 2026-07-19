@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d9aece00eef08d93","type":"text","text":"朱 - Chu","x":-177,"y":-16,"width":250,"height":60},
+		{"id":"a9448d0b6b62afda","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":-460,"y":-68,"width":158,"height":82},
+		{"id":"981c5f4e17fd557d","x":-518,"y":80,"width":216,"height":239,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/未 - Vị.canvas"}
+	],
+	"edges":[
+		{"id":"b0377bdaf5213777","fromNode":"a9448d0b6b62afda","fromSide":"right","toNode":"d9aece00eef08d93","toSide":"left"},
+		{"id":"457569cda1b62c90","fromNode":"981c5f4e17fd557d","fromSide":"right","toNode":"d9aece00eef08d93","toSide":"left"}
+	]
+}

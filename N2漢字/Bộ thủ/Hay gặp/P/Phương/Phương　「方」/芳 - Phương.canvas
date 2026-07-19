@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9bb336f68bd68052","type":"text","text":"芳 - Phương","x":-157,"y":-63,"width":250,"height":60},
+		{"id":"9c2e53e3efa397ce","x":-400,"y":-240,"width":145,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"6810f90b3d6b046a","x":-434,"y":40,"width":179,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
+	],
+	"edges":[
+		{"id":"5633b25c39a0b34c","fromNode":"9c2e53e3efa397ce","fromSide":"right","toNode":"9bb336f68bd68052","toSide":"left"},
+		{"id":"ab7563e9fdcf45eb","fromNode":"6810f90b3d6b046a","fromSide":"right","toNode":"9bb336f68bd68052","toSide":"left"}
+	]
+}

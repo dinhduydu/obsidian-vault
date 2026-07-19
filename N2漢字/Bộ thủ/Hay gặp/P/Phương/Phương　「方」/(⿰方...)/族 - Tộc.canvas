@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"eaa2e978fc7761e9","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"族 - Tộc"},
-		{"id":"bd666556cb7a49d5","x":-380,"y":-160,"width":124,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/Phương　「方」.canvas"}
+		{"id":"bd666556cb7a49d5","x":-380,"y":-160,"width":124,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
 	],
 	"edges":[
 		{"id":"f7f582c32ba0e044","fromNode":"bd666556cb7a49d5","fromSide":"right","toNode":"eaa2e978fc7761e9","toSide":"left"}

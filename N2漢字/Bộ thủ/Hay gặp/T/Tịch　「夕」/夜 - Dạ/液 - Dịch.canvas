@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"78a4b842ff5f3ff7","x":-176,"y":-54,"width":250,"height":60,"type":"text","text":"液 - Dịch"},
+		{"id":"4dd632cd140c7ad4","x":-480,"y":80,"width":137,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/夜 - Dạ/夜 - Dạ.canvas"},
+		{"id":"a5280c6c10b14638","x":-700,"y":-116,"width":170,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b30caa8b412badcb","fromNode":"4dd632cd140c7ad4","fromSide":"right","toNode":"78a4b842ff5f3ff7","toSide":"left"},
+		{"id":"6ea84a6d181bc1b7","fromNode":"a5280c6c10b14638","fromSide":"right","toNode":"78a4b842ff5f3ff7","toSide":"left"}
+	]
+}

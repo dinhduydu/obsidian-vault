@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2a907f66d0f7fd6e","x":-45,"y":-61,"width":250,"height":60,"type":"text","text":"悪 - Ác"},
+		{"id":"fc62bbeca18302b6","x":-460,"y":-185,"width":148,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/A/亜 - Á/亜 - Á.canvas"},
+		{"id":"d2f3bb51ac32a63f","x":-464,"y":60,"width":152,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"55d21769759fc7b8","fromNode":"fc62bbeca18302b6","fromSide":"right","toNode":"2a907f66d0f7fd6e","toSide":"left"},
+		{"id":"9efb42fa4cd51f60","fromNode":"d2f3bb51ac32a63f","fromSide":"right","toNode":"2a907f66d0f7fd6e","toSide":"left"}
+	]
+}

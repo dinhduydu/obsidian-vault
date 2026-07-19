@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"39d2fca638f778cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-564,"y":-162,"width":278,"height":210},
 		{"id":"d7c2218ddbb6494f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-411,"y":82,"width":144,"height":81},
 		{"id":"3803c4dbec489374","type":"text","text":"保 - Bảo","x":-131,"y":-31,"width":250,"height":60},
 		{"id":"ffd8c6cd30c8fb14","type":"text","text":"保護　「ほご」：","x":314,"y":-1,"width":250,"height":60},
 		{"id":"55d91fe744c0ceda","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-425,"y":-380,"width":131,"height":80},
 		{"id":"069cba56a172f086","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":119,"y":-340,"width":119,"height":130},
-		{"id":"f382994ba3e3800f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/褒 - Bao.canvas","x":400,"y":-275,"width":121,"height":81}
+		{"id":"f382994ba3e3800f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/褒 - Bao.canvas","x":400,"y":-275,"width":121,"height":81},
+		{"id":"39d2fca638f778cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-508,"y":-179,"width":214,"height":148}
 	],
 	"edges":[
 		{"id":"4669451ae7116f79","fromNode":"39d2fca638f778cc","fromSide":"right","toNode":"3803c4dbec489374","toSide":"left"},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7b668ba3e1cffce8","x":-121,"y":-27,"width":250,"height":60,"type":"text","text":"渉 - Thiệp"},
+		{"id":"479e0cf357ca0952","x":-540,"y":120,"width":155,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas"},
+		{"id":"f88eacd5fc66b28e","x":-526,"y":-240,"width":141,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b3337765540e3c09","fromNode":"479e0cf357ca0952","fromSide":"right","toNode":"7b668ba3e1cffce8","toSide":"left"},
+		{"id":"f5e3aba6fa2d8d03","fromNode":"f88eacd5fc66b28e","fromSide":"right","toNode":"7b668ba3e1cffce8","toSide":"left"}
+	]
+}

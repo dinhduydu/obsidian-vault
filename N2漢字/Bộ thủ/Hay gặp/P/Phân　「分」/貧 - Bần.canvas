@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e6c433f96d960e18","x":-147,"y":-55,"width":250,"height":60,"type":"text","text":"貧 - Bần"},
+		{"id":"5f653f98d0be10f4","x":-480,"y":-240,"width":144,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas"},
+		{"id":"42901f1836fea772","x":-492,"y":100,"width":156,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"8eab600e6bc02c13","fromNode":"5f653f98d0be10f4","fromSide":"right","toNode":"e6c433f96d960e18","toSide":"left"},
+		{"id":"a44eb85507c142c0","fromNode":"42901f1836fea772","fromSide":"right","toNode":"e6c433f96d960e18","toSide":"left"}
+	]
+}

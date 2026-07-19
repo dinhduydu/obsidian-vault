@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d6f253eb5567e331","x":-266,"y":-28,"width":250,"height":60,"type":"text","text":"枚 - Mai"},
+		{"id":"ee52b178d04bc4e6","x":-620,"y":-240,"width":148,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"dd636e765cf94d59","x":-612,"y":2,"width":140,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"497d75a9669791de","fromNode":"ee52b178d04bc4e6","fromSide":"right","toNode":"d6f253eb5567e331","toSide":"left"},
+		{"id":"41d3d024267d73a4","fromNode":"dd636e765cf94d59","fromSide":"right","toNode":"d6f253eb5567e331","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b0c2ee558d3592a4","x":-99,"y":-33,"width":250,"height":60,"type":"text","text":"殊 - Thù"},
+		{"id":"bc7451efcfbd763c","x":-380,"y":60,"width":132,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/朱 - Chu/朱 - Chu.canvas"},
+		{"id":"cdfae95c27aca237","x":-388,"y":-220,"width":140,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/Đãi　「歹」.canvas"}
+	],
+	"edges":[
+		{"id":"da369bb69e6e9999","fromNode":"bc7451efcfbd763c","fromSide":"right","toNode":"b0c2ee558d3592a4","toSide":"left"},
+		{"id":"d8fba8e83ca65c8a","fromNode":"cdfae95c27aca237","fromSide":"right","toNode":"b0c2ee558d3592a4","toSide":"left"}
+	]
+}

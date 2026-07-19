@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"418ff184d7ca5ece","x":-35,"y":-56,"width":250,"height":60,"type":"text","text":"妹 - Muội"},
+		{"id":"b0eab65af847a04b","x":-360,"y":80,"width":140,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/未 - Vị.canvas"},
+		{"id":"e0050cb183841112","x":-370,"y":-260,"width":150,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"8fc6c4bf58e5c096","fromNode":"b0eab65af847a04b","fromSide":"right","toNode":"418ff184d7ca5ece","toSide":"left"},
+		{"id":"9bc6559e6159f58a","fromNode":"e0050cb183841112","fromSide":"right","toNode":"418ff184d7ca5ece","toSide":"left"}
+	]
+}

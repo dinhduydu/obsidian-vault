@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b2f437aca9d61958","x":-81,"y":-36,"width":250,"height":60,"type":"text","text":"坊 - Phường"},
+		{"id":"edcbd655f4f68d0a","x":-400,"y":140,"width":131,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"},
+		{"id":"75fba4fed5ba97fa","x":-389,"y":-240,"width":120,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"71aa2ff0d88080ca","fromNode":"edcbd655f4f68d0a","fromSide":"right","toNode":"b2f437aca9d61958","toSide":"left"},
+		{"id":"1e4e05d83ceef0a7","fromNode":"75fba4fed5ba97fa","fromSide":"right","toNode":"b2f437aca9d61958","toSide":"left"}
+	]
+}

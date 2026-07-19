@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d98e5647689d3f7a","x":-112,"y":-74,"width":250,"height":60,"type":"text","text":"Thiểu　「少」"},
+		{"id":"a07eb3ee54fa2d49","x":280,"y":-220,"width":200,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas"},
+		{"id":"fb58be78d3d00220","x":1,"y":-352,"width":137,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"50c7c9212b82fe61","fromNode":"d98e5647689d3f7a","fromSide":"right","toNode":"a07eb3ee54fa2d49","toSide":"left"},
+		{"id":"52e0275388879900","fromNode":"fb58be78d3d00220","fromSide":"right","toNode":"a07eb3ee54fa2d49","toSide":"left"}
+	]
+}

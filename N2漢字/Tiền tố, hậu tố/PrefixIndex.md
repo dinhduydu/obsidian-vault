@@ -3,7 +3,7 @@ Tiền tố
  │   ├─ 無 (Vô): Thiếu, không (Vd: 無意識 - vô thức, 無責任 - vô trách nhiệm)
  │   ├─ 非 (Phi): Không, phi (Vd: 非公開 - không công khai, 非合法 - phi pháp)
  │   │   [[非 - Phi.canvas]]
- │   ├─ 未 (Vị): Chưa hành động (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)　[[未 - Vị.canvas]]
+ │   ├─ 未 (Vị): Chưa hành động (Vd: 未解決 - chưa giải quyết, 未完成 - chưa hoàn thành)　[[N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/未 - Vị.canvas]]
  │   ├─ 反 (Phản): Phản đối, đối lập (Vd: 反政府 - phản chính phủ, 反作用 - phản tác dụng)　[[反 - Phản.canvas]]　[[Phản　「反」.canvas]]
  │   └─ 逆 (Nghịch): Phản, ngược (Vd: 逆効果 - tác dụng ngược, 逆回転 - quay ngược chiều)
  │

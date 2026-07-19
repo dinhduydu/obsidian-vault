@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9b5881d15fc4afc9","type":"text","text":"旋 - Toàn","x":-197,"y":14,"width":250,"height":60},
+		{"id":"f9a271e2cbcfb4e2","x":-460,"y":-27,"width":154,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
+	],
+	"edges":[
+		{"id":"3d9b512a3fd104c3","fromNode":"f9a271e2cbcfb4e2","fromSide":"right","toNode":"9b5881d15fc4afc9","toSide":"left"}
+	]
+}

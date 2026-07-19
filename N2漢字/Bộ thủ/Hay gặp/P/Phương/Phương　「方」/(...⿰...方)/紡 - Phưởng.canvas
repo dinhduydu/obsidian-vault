@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ed7681e088ed4d3c","x":-76,"y":-65,"width":250,"height":60,"type":"text","text":"紡 - Phưởng"},
+		{"id":"6e225d2c81b7e4d9","x":-380,"y":100,"width":148,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"},
+		{"id":"e62c5c2ac2cc6bf5","x":-386,"y":-220,"width":154,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"244735ac0b6c603f","fromNode":"6e225d2c81b7e4d9","fromSide":"right","toNode":"ed7681e088ed4d3c","toSide":"left"},
+		{"id":"511bddeafe524939","fromNode":"e62c5c2ac2cc6bf5","fromSide":"right","toNode":"ed7681e088ed4d3c","toSide":"left"}
+	]
+}

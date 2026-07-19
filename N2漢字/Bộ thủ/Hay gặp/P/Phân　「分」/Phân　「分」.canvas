@@ -4,12 +4,20 @@
 		{"id":"8b8ed59b1e447a3d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-165,"y":200,"width":195,"height":161},
 		{"id":"46767fa7f005b8ab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/粉 - Phấn.canvas","x":255,"y":-220,"width":182,"height":102},
 		{"id":"87f4f3207186a7c3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-120,"y":-422,"width":205,"height":202},
-		{"id":"4cfa300d0ae8784a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頒 - Ban.canvas","x":255,"y":30,"width":165,"height":153}
+		{"id":"4cfa300d0ae8784a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頒 - Ban.canvas","x":255,"y":30,"width":165,"height":153},
+		{"id":"6fd513d2f6fca473","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":20,"y":540,"width":201,"height":81},
+		{"id":"747a7bde5e7dfa7e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/雰 - Phân.canvas","x":360,"y":281,"width":268,"height":196},
+		{"id":"7cd1a9d8dd536d28","x":1100,"y":-55,"width":238,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盆 - Bồn.canvas"},
+		{"id":"a5f6b86cab507cc4","x":800,"y":-220,"width":144,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
 	],
 	"edges":[
 		{"id":"6c4d2cce04ddbceb","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"46767fa7f005b8ab","toSide":"left"},
 		{"id":"3acd266dab0bd41b","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"4cfa300d0ae8784a","toSide":"left"},
 		{"id":"bb766fbbc040e415","fromNode":"8b8ed59b1e447a3d","fromSide":"right","toNode":"4cfa300d0ae8784a","toSide":"left"},
-		{"id":"dc81e08f242be50a","fromNode":"87f4f3207186a7c3","fromSide":"right","toNode":"46767fa7f005b8ab","toSide":"left"}
+		{"id":"dc81e08f242be50a","fromNode":"87f4f3207186a7c3","fromSide":"right","toNode":"46767fa7f005b8ab","toSide":"left"},
+		{"id":"49a4219f183c94a1","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"747a7bde5e7dfa7e","toSide":"left"},
+		{"id":"5f4c28413cb95760","fromNode":"6fd513d2f6fca473","fromSide":"right","toNode":"747a7bde5e7dfa7e","toSide":"left"},
+		{"id":"b4f904e3bd71669d","fromNode":"2b0eeb39af2c2cbb","fromSide":"right","toNode":"7cd1a9d8dd536d28","toSide":"left"},
+		{"id":"b0e4b2bb37f154c4","fromNode":"a5f6b86cab507cc4","fromSide":"right","toNode":"7cd1a9d8dd536d28","toSide":"left"}
 	]
 }

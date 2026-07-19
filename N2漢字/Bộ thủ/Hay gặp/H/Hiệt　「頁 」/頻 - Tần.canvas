@@ -3,11 +3,11 @@
 		{"id":"522cd87cc1a988a2","type":"text","text":"頻 - Tần","x":-480,"y":-30,"width":250,"height":60},
 		{"id":"a0bf8d8528055933","type":"file","file":"Chữa đề/Learning_Profile/Adverb/頻繁.md","x":-140,"y":-240,"width":198,"height":121},
 		{"id":"ee1563f4c5a52e78","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-780,"y":30,"width":180,"height":200},
-		{"id":"ffec38fee8f0d87c","x":-840,"y":-240,"width":186,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas"}
+		{"id":"adc41bb0e1434673","x":-753,"y":-255,"width":153,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas"}
 	],
 	"edges":[
 		{"id":"8ccb61a399f375ed","fromNode":"522cd87cc1a988a2","fromSide":"right","toNode":"a0bf8d8528055933","toSide":"left"},
 		{"id":"2a3fe02a3f7892af","fromNode":"ee1563f4c5a52e78","fromSide":"right","toNode":"522cd87cc1a988a2","toSide":"left"},
-		{"id":"54474c2af2087206","fromNode":"ffec38fee8f0d87c","fromSide":"right","toNode":"522cd87cc1a988a2","toSide":"left"}
+		{"id":"c283581e4746cfc4","fromNode":"adc41bb0e1434673","fromSide":"right","toNode":"522cd87cc1a988a2","toSide":"left"}
 	]
 }

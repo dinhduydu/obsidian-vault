@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f03407db1ba7b43b","x":-141,"y":-19,"width":250,"height":60,"type":"text","text":"夜 - Dạ"},
+		{"id":"1e766f138dec110c","x":-520,"y":80,"width":140,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"},
+		{"id":"48f40771dba69384","x":-820,"y":-49,"width":162,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"54cc455022dfacd8","x":-525,"y":-280,"width":145,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"}
+	],
+	"edges":[
+		{"id":"f45eea6de8542787","fromNode":"1e766f138dec110c","fromSide":"right","toNode":"f03407db1ba7b43b","toSide":"left"},
+		{"id":"06dcae1aed8b9c5a","fromNode":"48f40771dba69384","fromSide":"right","toNode":"f03407db1ba7b43b","toSide":"left"},
+		{"id":"be403e4becff63a5","fromNode":"54cc455022dfacd8","fromSide":"right","toNode":"f03407db1ba7b43b","toSide":"left"}
+	]
+}

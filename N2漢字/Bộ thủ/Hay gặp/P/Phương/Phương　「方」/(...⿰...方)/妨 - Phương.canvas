@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"62488c75cd923602","x":-68,"y":-20,"width":250,"height":60,"type":"text","text":"妨 - Phương"},
+		{"id":"afa6982551543cb1","x":-360,"y":120,"width":152,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"},
+		{"id":"77a2a235fb1be8dc","x":-337,"y":-160,"width":129,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"449bcfcec1331806","fromNode":"afa6982551543cb1","fromSide":"right","toNode":"62488c75cd923602","toSide":"left"},
+		{"id":"defd12f38e6cc3c3","fromNode":"77a2a235fb1be8dc","fromSide":"right","toNode":"62488c75cd923602","toSide":"left"}
+	]
+}

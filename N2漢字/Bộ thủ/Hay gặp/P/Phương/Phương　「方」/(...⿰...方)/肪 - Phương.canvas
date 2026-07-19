@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"710519357e935550","type":"text","text":"肪 - Phương","x":-188,"y":11,"width":250,"height":60},
+		{"id":"7d3ecd4e2961915b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-480,"y":180,"width":140,"height":108},
+		{"id":"551ccb4a9d71bf8d","x":-500,"y":-200,"width":144,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"df3181d363ee7835","fromNode":"7d3ecd4e2961915b","fromSide":"right","toNode":"710519357e935550","toSide":"left"},
+		{"id":"05a89a3ad0881ead","fromNode":"551ccb4a9d71bf8d","fromSide":"right","toNode":"710519357e935550","toSide":"left","label":"Mỡ"}
+	]
+}

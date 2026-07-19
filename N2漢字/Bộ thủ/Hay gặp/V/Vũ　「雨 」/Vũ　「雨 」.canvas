@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"8b359d1debb8ef47","x":-116,"y":-4,"width":250,"height":60,"type":"text","text":"Vũ　「雨 」"}
+		{"id":"8b359d1debb8ef47","type":"text","text":"Vũ　「雨 」","x":-116,"y":-4,"width":250,"height":60},
+		{"id":"b7254b080725241b","x":280,"y":-160,"width":181,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/雰 - Phân.canvas"},
+		{"id":"8fcc55aefe4b1ddd","x":-21,"y":-300,"width":155,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"635d120c36dc268c","fromNode":"8b359d1debb8ef47","fromSide":"right","toNode":"b7254b080725241b","toSide":"left"},
+		{"id":"e580e1453dcf4c44","fromNode":"8fcc55aefe4b1ddd","fromSide":"right","toNode":"b7254b080725241b","toSide":"left"}
+	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e68b420b955f1a46","x":-131,"y":-3,"width":250,"height":60,"type":"text","text":"末 - Mạt"},
+		{"id":"b89632afa14241f3","x":-380,"y":140,"width":145,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"740299c4e93a7095","x":-422,"y":-220,"width":187,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"ed4a0aa09061aff3","fromNode":"b89632afa14241f3","fromSide":"right","toNode":"e68b420b955f1a46","toSide":"left"},
+		{"id":"f9c85964f542d02f","fromNode":"740299c4e93a7095","fromSide":"right","toNode":"e68b420b955f1a46","toSide":"left"}
+	]
+}
