@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a310ea591f045f4c","type":"text","text":"営 - Doanh","x":-161,"y":-25,"width":250,"height":60},
+		{"id":"04bacb04f46d2652","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-494,"y":-49,"width":193,"height":108},
+		{"id":"6f17c73b9bc91a4b","x":-551,"y":-360,"width":250,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"},
+		{"id":"c2074cd4470b41c7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呂 - Lữ/呂 - Lữ.canvas","x":-505,"y":140,"width":204,"height":193}
+	],
+	"edges":[
+		{"id":"0884f1b5c350ce5c","fromNode":"c2074cd4470b41c7","fromSide":"right","toNode":"a310ea591f045f4c","toSide":"left"},
+		{"id":"5ee0b1e239cdc5e0","fromNode":"04bacb04f46d2652","fromSide":"right","toNode":"a310ea591f045f4c","toSide":"left"},
+		{"id":"0fb4307ef0f05eea","fromNode":"6f17c73b9bc91a4b","fromSide":"right","toNode":"a310ea591f045f4c","toSide":"left"}
+	]
+}

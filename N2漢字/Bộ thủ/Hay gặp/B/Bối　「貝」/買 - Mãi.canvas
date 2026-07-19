@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"32494d760a993290","x":-90,"y":-25,"width":250,"height":60,"type":"text","text":"買 - Mãi"},
+		{"id":"3b8dabcab141a631","x":-500,"y":60,"width":200,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"b2633f6a036eadf8","x":-540,"y":-240,"width":221,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"}
+	],
+	"edges":[
+		{"id":"4a21bb5e1985f33b","fromNode":"3b8dabcab141a631","fromSide":"right","toNode":"32494d760a993290","toSide":"left"},
+		{"id":"5f5dce91a4e74514","fromNode":"b2633f6a036eadf8","fromSide":"right","toNode":"32494d760a993290","toSide":"left"}
+	]
+}

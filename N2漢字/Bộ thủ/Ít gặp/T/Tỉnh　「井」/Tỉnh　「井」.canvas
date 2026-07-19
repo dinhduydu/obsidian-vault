@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"390f3b94781368a4","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Tỉnh　「井」"},
+		{"id":"396a6094cd72b9b6","x":320,"y":-200,"width":236,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/寒 - Hàn.canvas"}
+	],
+	"edges":[
+		{"id":"c072156808b9cddf","fromNode":"390f3b94781368a4","fromSide":"right","toNode":"396a6094cd72b9b6","toSide":"left"}
+	]
+}

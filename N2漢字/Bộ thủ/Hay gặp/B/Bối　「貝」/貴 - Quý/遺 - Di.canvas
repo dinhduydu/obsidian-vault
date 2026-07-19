@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f2ea00724b378c52","x":-138,"y":-42,"width":250,"height":60,"type":"text","text":"遺 - Di"},
+		{"id":"1cd9855bba7a94cc","x":-460,"y":-240,"width":202,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/貴 - Quý/貴 - Quý.canvas"},
+		{"id":"11d726a9c2de312b","x":-460,"y":100,"width":200,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"46f69dbaa4ce9714","fromNode":"1cd9855bba7a94cc","fromSide":"right","toNode":"f2ea00724b378c52","toSide":"left"},
+		{"id":"358b752b739a466f","fromNode":"11d726a9c2de312b","fromSide":"right","toNode":"f2ea00724b378c52","toSide":"left"}
+	]
+}

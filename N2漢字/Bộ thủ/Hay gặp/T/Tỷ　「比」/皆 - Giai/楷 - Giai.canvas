@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0283c3e6a5431e5f","x":-62,"y":-39,"width":250,"height":60,"type":"text","text":"楷 - Giai"},
+		{"id":"8077eea078799357","x":-360,"y":-240,"width":108,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/皆 - Giai.canvas"},
+		{"id":"f45b2a259a656f97","x":-399,"y":21,"width":147,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"cc51e3ef8ef349c5","fromNode":"8077eea078799357","fromSide":"right","toNode":"0283c3e6a5431e5f","toSide":"left"},
+		{"id":"b9af0397a4d57020","fromNode":"f45b2a259a656f97","fromSide":"right","toNode":"0283c3e6a5431e5f","toSide":"left"}
+	]
+}

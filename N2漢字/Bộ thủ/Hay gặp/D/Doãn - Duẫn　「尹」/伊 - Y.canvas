@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dfbf21a4820ae446","x":-93,"y":-50,"width":250,"height":60,"type":"text","text":"伊 - Y"},
+		{"id":"9860516e01817b88","x":-400,"y":-200,"width":150,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"972cdb638628f64b","fromNode":"9860516e01817b88","fromSide":"right","toNode":"dfbf21a4820ae446","toSide":"left"}
+	]
+}

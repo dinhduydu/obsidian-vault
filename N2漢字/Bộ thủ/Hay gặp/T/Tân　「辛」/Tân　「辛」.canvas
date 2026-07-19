@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"b3aa2b1627fc0994","type":"text","text":"Tân　「辛」","x":-209,"y":-29,"width":250,"height":60},
-		{"id":"8896eac4ea91aa69","x":-800,"y":-112,"width":194,"height":227,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập Mộc　「亲」.canvas"}
+		{"id":"8896eac4ea91aa69","x":-800,"y":-112,"width":194,"height":227,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập Mộc　「亲」/Lập Mộc　「亲」.canvas"}
 	],
 	"edges":[
 		{"id":"7a7f15bac1b555e6","fromNode":"8896eac4ea91aa69","fromSide":"right","toNode":"b3aa2b1627fc0994","toSide":"left","color":"1","label":"khác"}

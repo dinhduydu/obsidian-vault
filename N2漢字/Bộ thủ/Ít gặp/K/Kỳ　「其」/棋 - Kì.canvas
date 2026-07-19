@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a5a628a13c6ff79","x":-129,"y":-11,"width":250,"height":60,"type":"text","text":"棋 - Kì"},
+		{"id":"3688b90be2ea928d","x":-480,"y":160,"width":178,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/Kỳ　「其」.canvas"},
+		{"id":"494d7d1c61453efb","x":-684,"y":-49,"width":204,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"7ee0844884a5561c","fromNode":"3688b90be2ea928d","fromSide":"right","toNode":"6a5a628a13c6ff79","toSide":"left"},
+		{"id":"e92f524bde56f65d","fromNode":"494d7d1c61453efb","fromSide":"right","toNode":"6a5a628a13c6ff79","toSide":"left"}
+	]
+}

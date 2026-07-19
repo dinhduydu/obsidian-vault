@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a25001eb533e511c","x":-148,"y":-53,"width":250,"height":60,"type":"text","text":"丰 - Bái"},
+		{"id":"a3b76f83a769148a","x":-520,"y":-180,"width":155,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"a5f345320b2a765d","x":-522,"y":100,"width":157,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"caa0a09bad10ba42","fromNode":"a3b76f83a769148a","fromSide":"right","toNode":"a25001eb533e511c","toSide":"left","label":"x2"},
+		{"id":"ee34a01784255d88","fromNode":"a5f345320b2a765d","fromSide":"right","toNode":"a25001eb533e511c","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"39e375a413b3d8b1","x":-60,"y":-35,"width":250,"height":60,"type":"text","text":"館 - Quán"},
+		{"id":"90a01b17710bbecc","x":-420,"y":80,"width":146,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dĩ　「㠯」/官 - Quan/官 - Quan.canvas"},
+		{"id":"6ab4fdf11d363a30","x":-408,"y":-180,"width":134,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thực　「食 (飠)」/Thực　「食 (飠)」.canvas"}
+	],
+	"edges":[
+		{"id":"51306218624dcd62","fromNode":"90a01b17710bbecc","fromSide":"right","toNode":"39e375a413b3d8b1","toSide":"left"},
+		{"id":"8c47c46e83879c6d","fromNode":"6ab4fdf11d363a30","fromSide":"right","toNode":"39e375a413b3d8b1","toSide":"left"}
+	]
+}

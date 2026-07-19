@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8159c671b2440817","x":-112,"y":-39,"width":250,"height":60,"type":"text","text":"械 - Giới"},
+		{"id":"5e4567fc47f3ee17","x":-420,"y":60,"width":169,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戒 - Giới/戒 - Giới.canvas"},
+		{"id":"b03b22c43c793c2e","x":-403,"y":-240,"width":152,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"f05b8007ed771590","fromNode":"5e4567fc47f3ee17","fromSide":"right","toNode":"8159c671b2440817","toSide":"left"},
+		{"id":"7106a9b4a9c8b7b0","fromNode":"b03b22c43c793c2e","fromSide":"right","toNode":"8159c671b2440817","toSide":"left"}
+	]
+}

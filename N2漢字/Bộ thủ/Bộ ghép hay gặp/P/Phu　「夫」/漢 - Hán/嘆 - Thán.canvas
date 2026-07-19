@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"309ffed48180884d","x":-142,"y":-32,"width":250,"height":60,"type":"text","text":"嘆 - Thán"},
+		{"id":"7aa77eba54fb0f12","x":-440,"y":-200,"width":143,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/漢 - Hán.canvas"},
+		{"id":"8cfc9569d1099b14","x":-414,"y":60,"width":117,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"4fe0c4a9cd6e315e","fromNode":"7aa77eba54fb0f12","fromSide":"right","toNode":"309ffed48180884d","toSide":"left"},
+		{"id":"25dcaa2d828eb72c","fromNode":"8cfc9569d1099b14","fromSide":"right","toNode":"309ffed48180884d","toSide":"left"}
+	]
+}

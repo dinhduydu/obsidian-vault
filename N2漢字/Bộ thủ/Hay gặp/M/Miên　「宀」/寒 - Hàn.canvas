@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4a3931c1c2f9bd31","type":"text","text":"寒 - Hàn","x":-135,"y":-30,"width":250,"height":60},
+		{"id":"31a7b10e4ee873b2","type":"file","file":"N2漢字/Hay gặp/M/Miên　「宀」.canvas","x":-500,"y":120,"width":157,"height":139},
+		{"id":"8a80353d8f2ee730","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas","x":-512,"y":-97,"width":169,"height":135},
+		{"id":"102955f2da0097d0","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-489,"y":-360,"width":146,"height":153},
+		{"id":"fde9ffbd6ba54318","x":-500,"y":400,"width":157,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tỉnh　「井」/Tỉnh　「井」.canvas"}
+	],
+	"edges":[
+		{"id":"51f17c75a609a269","fromNode":"31a7b10e4ee873b2","fromSide":"right","toNode":"4a3931c1c2f9bd31","toSide":"left"},
+		{"id":"743ad6177b5cafa6","fromNode":"8a80353d8f2ee730","fromSide":"right","toNode":"4a3931c1c2f9bd31","toSide":"left"},
+		{"id":"c308071211295ee9","fromNode":"102955f2da0097d0","fromSide":"right","toNode":"4a3931c1c2f9bd31","toSide":"left"},
+		{"id":"83b9ec9c5f98b698","fromNode":"fde9ffbd6ba54318","fromSide":"right","toNode":"4a3931c1c2f9bd31","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f6ceef4f9986f6ce","x":-180,"y":-40,"width":258,"height":62,"type":"text","text":"Hàm 「咸」"},
+		{"id":"7581067d1f57de44","x":-560,"y":180,"width":215,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tuất　「戌」/Tuất　「戌」.canvas"},
+		{"id":"d0f498339213f1c0","x":-501,"y":-260,"width":156,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"14b3d3b0006115f0","fromNode":"7581067d1f57de44","fromSide":"right","toNode":"f6ceef4f9986f6ce","toSide":"left"},
+		{"id":"5be52f3d70476964","fromNode":"d0f498339213f1c0","fromSide":"right","toNode":"f6ceef4f9986f6ce","toSide":"left"}
+	]
+}

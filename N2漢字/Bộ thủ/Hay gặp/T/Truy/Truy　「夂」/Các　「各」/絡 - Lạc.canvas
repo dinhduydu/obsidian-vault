@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2e7e62d15faf12c7","x":-68,"y":-51,"width":250,"height":60,"type":"text","text":"絡 - Lạc"},
+		{"id":"772e4119d038ab33","x":-780,"y":-94,"width":210,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"9deae3bbf7d62c72","x":-420,"y":-288,"width":225,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas"},
+		{"id":"253f35b0f0ebef1e","x":-421,"y":113,"width":250,"height":60,"type":"text","text":"Buộc"}
+	],
+	"edges":[
+		{"id":"11cc83267f48f6e6","fromNode":"9deae3bbf7d62c72","fromSide":"right","toNode":"2e7e62d15faf12c7","toSide":"left"},
+		{"id":"21d02c561630dbda","fromNode":"772e4119d038ab33","fromSide":"right","toNode":"2e7e62d15faf12c7","toSide":"left"},
+		{"id":"0b8b476e96a7a6f6","fromNode":"253f35b0f0ebef1e","fromSide":"right","toNode":"2e7e62d15faf12c7","toSide":"left"}
+	]
+}

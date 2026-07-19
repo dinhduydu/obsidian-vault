@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2e2bc916a4163847","type":"text","text":"陛 - Bệ","x":-63,"y":-81,"width":250,"height":60},
+		{"id":"f00d5691bd2fe472","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas","x":-420,"y":-250,"width":168,"height":169},
+		{"id":"2bfbecbc9a5cbde9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-459,"y":60,"width":207,"height":130},
+		{"id":"2f717b10bfa0d7e3","x":-660,"y":-117,"width":172,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"e88b6174b7c000ae","fromNode":"f00d5691bd2fe472","fromSide":"right","toNode":"2e2bc916a4163847","toSide":"left"},
+		{"id":"d6a487cf7810b6dc","fromNode":"2bfbecbc9a5cbde9","fromSide":"right","toNode":"2e2bc916a4163847","toSide":"left"},
+		{"id":"d553a9202f0c30a0","fromNode":"2f717b10bfa0d7e3","fromSide":"right","toNode":"2e2bc916a4163847","toSide":"left"}
+	]
+}

@@ -42,8 +42,9 @@
 		{"id":"38972cf3532d31a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/敗 - Bại.canvas","x":361,"y":-980,"width":206,"height":115},
 		{"id":"2cc2b42eae5d72a8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas","x":-140,"y":-720,"width":185,"height":144},
 		{"id":"51b5fa006336e255","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":20,"y":-1080,"width":116,"height":100},
-		{"id":"8a6991024575475e","x":380,"y":-648,"width":126,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賜 - Tứ.canvas"},
-		{"id":"3642399c12c97d15","x":236,"y":-340,"width":155,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/敗 - Bại.canvas"}
+		{"id":"8a6991024575475e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賜 - Tứ.canvas","x":380,"y":-648,"width":126,"height":82},
+		{"id":"3642399c12c97d15","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/敗 - Bại.canvas","x":236,"y":-340,"width":155,"height":108},
+		{"id":"ae0716206c82d0c4","x":-3077,"y":-38,"width":167,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
 	],
 	"edges":[
 		{"id":"d7e636c8b362f77c","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"b2f39534e38e6847","toSide":"left","label":"賃 - Nhẫm"},
@@ -88,6 +89,7 @@
 		{"id":"ab039cbec223c599","fromNode":"5fee45fe28b1b661","fromSide":"right","toNode":"8bd81a648a4376b8","toSide":"left"},
 		{"id":"6451c44d657c5319","fromNode":"51b5fa006336e255","fromSide":"right","toNode":"38972cf3532d31a5","toSide":"left"},
 		{"id":"32000ae2e203cdec","fromNode":"2cc2b42eae5d72a8","fromSide":"right","toNode":"8a6991024575475e","toSide":"left"},
-		{"id":"8d44077ef1ed14e5","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"8a6991024575475e","toSide":"left","label":"賜 - Tứ"}
+		{"id":"8d44077ef1ed14e5","fromNode":"0d94e6913c928905","fromSide":"right","toNode":"8a6991024575475e","toSide":"left","label":"賜 - Tứ"},
+		{"id":"cfcd0879209ce00c","fromNode":"ae0716206c82d0c4","fromSide":"right","toNode":"f1688eaef147ace1","toSide":"left"}
 	]
 }

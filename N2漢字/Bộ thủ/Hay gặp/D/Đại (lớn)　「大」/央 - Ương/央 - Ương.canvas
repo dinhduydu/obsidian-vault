@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a3045e710286a9f7","type":"text","text":"央 - Ương","x":-157,"y":-37,"width":250,"height":60},
+		{"id":"6182bb013aa56cf4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-460,"y":180,"width":131,"height":106},
+		{"id":"e26f4d944e1dfb45","x":-500,"y":-53,"width":129,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"7275f2cf022ac23f","fromNode":"6182bb013aa56cf4","fromSide":"right","toNode":"a3045e710286a9f7","toSide":"left"},
+		{"id":"96161c06af6ad365","fromNode":"e26f4d944e1dfb45","fromSide":"right","toNode":"a3045e710286a9f7","toSide":"left"}
+	]
+}

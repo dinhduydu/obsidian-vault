@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ce5d7d8f9b313d4b","x":-186,"y":-46,"width":250,"height":60,"type":"text","text":"英 - Anh"},
+		{"id":"defd903144292686","x":-520,"y":60,"width":142,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/央 - Ương/央 - Ương.canvas"},
+		{"id":"accb614bb7b87757","x":-513,"y":-280,"width":135,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"039c5b1a94523f3d","fromNode":"defd903144292686","fromSide":"right","toNode":"ce5d7d8f9b313d4b","toSide":"left"},
+		{"id":"c982c0d3893ce8b1","fromNode":"accb614bb7b87757","fromSide":"right","toNode":"ce5d7d8f9b313d4b","toSide":"left"}
+	]
+}

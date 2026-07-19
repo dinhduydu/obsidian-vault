@@ -9,11 +9,12 @@
 		{"id":"35ffbe2e746afeda","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-19,"y":-316,"width":114,"height":115},
 		{"id":"506b7a4586a0cb34","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/喉 - Hầu.canvas","x":347,"y":0,"width":148,"height":131},
 		{"id":"68a738dca89dd93d","type":"text","text":"Khẩu　「口」","x":-198,"y":-6,"width":250,"height":60},
-		{"id":"c84ecdb0c0810c0d","type":"text","text":"Khẩu　「口」","x":2400,"y":-390,"width":250,"height":60},
 		{"id":"69ae1997ae7e2a98","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/唱 - Xướng.canvas","x":2880,"y":-660,"width":163,"height":151},
 		{"id":"96f842afcf2a7b8b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/和 - Hoà.canvas","x":2880,"y":-360,"width":281,"height":209},
 		{"id":"1e407d7dc3ffc528","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":2583,"y":-196,"width":135,"height":91},
-		{"id":"c2b06b94968a0abd","x":347,"y":300,"width":192,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呑 - Thôn.canvas"}
+		{"id":"c2b06b94968a0abd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呑 - Thôn.canvas","x":347,"y":300,"width":192,"height":74},
+		{"id":"c84ecdb0c0810c0d","type":"text","text":"Khẩu　「口」","x":1960,"y":-614,"width":250,"height":60},
+		{"id":"1ab3273237e1e81b","x":2054,"y":-1140,"width":156,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas"}
 	],
 	"edges":[
 		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},

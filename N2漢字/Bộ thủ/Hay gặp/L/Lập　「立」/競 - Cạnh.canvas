@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17f5585051052aed","type":"text","text":"競 - Cạnh","x":-175,"y":-57,"width":250,"height":60},
+		{"id":"ac32a0354aeb310d","type":"file","file":"Pasted image 20260527193540.png","x":180,"y":-266,"width":400,"height":209},
+		{"id":"08f9fec8036422a7","type":"text","text":"競う　「きそう」：","x":709,"y":-191,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"308ad752737ae88f","fromNode":"ac32a0354aeb310d","fromSide":"right","toNode":"08f9fec8036422a7","toSide":"left"},
+		{"id":"b386f4fcd18c5b88","fromNode":"17f5585051052aed","fromSide":"right","toNode":"ac32a0354aeb310d","toSide":"left"}
+	]
+}

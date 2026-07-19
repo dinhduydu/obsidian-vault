@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"14677a5e4da05e7f","x":-85,"y":-49,"width":250,"height":60,"type":"text","text":"　惑 - Hoặc"},
+		{"id":"cb9fccb7b0736f5e","x":-400,"y":-200,"width":164,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/或 - Hoặc/或 - Hoặc.canvas"},
+		{"id":"ccaa4ee446a00041","x":-418,"y":80,"width":182,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"9e3c3fd06aa2d078","fromNode":"cb9fccb7b0736f5e","fromSide":"right","toNode":"14677a5e4da05e7f","toSide":"left"},
+		{"id":"e509b243716ab114","fromNode":"ccaa4ee446a00041","fromSide":"right","toNode":"14677a5e4da05e7f","toSide":"left"}
+	]
+}

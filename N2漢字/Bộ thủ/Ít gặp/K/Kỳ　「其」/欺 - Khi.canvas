@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"388827c9ff2fb68a","x":-183,"y":-45,"width":250,"height":60,"type":"text","text":"欺 - Khi"},
+		{"id":"cb793097b4fbaae8","x":-680,"y":-240,"width":195,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/Kỳ　「其」.canvas"},
+		{"id":"5288d53b0c3444c2","x":-633,"y":60,"width":148,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"}
+	],
+	"edges":[
+		{"id":"41da6eb4c8e4f669","fromNode":"cb793097b4fbaae8","fromSide":"right","toNode":"388827c9ff2fb68a","toSide":"left"},
+		{"id":"5006ac9377e81bbc","fromNode":"5288d53b0c3444c2","fromSide":"right","toNode":"388827c9ff2fb68a","toSide":"left"}
+	]
+}

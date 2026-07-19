@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4702a83f94708b84","x":-132,"y":-27,"width":250,"height":60,"type":"text","text":"諧 - Hài"},
+		{"id":"251c557066fe6535","x":-520,"y":180,"width":180,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/皆 - Giai.canvas"},
+		{"id":"135d37fef289a489","x":-690,"y":-57,"width":170,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"04eb4da12fc3e906","fromNode":"251c557066fe6535","fromSide":"right","toNode":"4702a83f94708b84","toSide":"left"},
+		{"id":"9357037e47896b3a","fromNode":"135d37fef289a489","fromSide":"right","toNode":"4702a83f94708b84","toSide":"left"}
+	]
+}

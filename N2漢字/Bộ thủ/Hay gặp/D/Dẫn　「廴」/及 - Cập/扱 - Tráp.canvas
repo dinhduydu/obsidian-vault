@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f5cf4951e2e5be11","x":-160,"y":-42,"width":250,"height":60,"type":"text","text":"扱 - Tráp"},
+		{"id":"32f5cceac2de877b","x":-460,"y":-167,"width":146,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/及 - Cập/及 - Cập.canvas"},
+		{"id":"96a4b74c1b7870d0","x":-455,"y":80,"width":141,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"44eff588e5bda1c3","fromNode":"32f5cceac2de877b","fromSide":"right","toNode":"f5cf4951e2e5be11","toSide":"left"},
+		{"id":"040bdd2ce6ae2f49","fromNode":"96a4b74c1b7870d0","fromSide":"right","toNode":"f5cf4951e2e5be11","toSide":"left"}
+	]
+}

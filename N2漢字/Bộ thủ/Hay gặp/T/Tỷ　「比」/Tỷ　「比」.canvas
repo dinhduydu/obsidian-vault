@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"268daed57c3ff0dc","x":-209,"y":-71,"width":250,"height":60,"type":"text","text":"Tỷ　「比」"}
+		{"id":"268daed57c3ff0dc","type":"text","text":"Tỷ　「比」","x":-209,"y":-71,"width":250,"height":60},
+		{"id":"84b357bed5885e70","x":180,"y":-260,"width":202,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/皆 - Giai.canvas"},
+		{"id":"7fa00cb156d844ca","x":-104,"y":-460,"width":145,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"eff6961e49cc5ad0","fromNode":"268daed57c3ff0dc","fromSide":"right","toNode":"84b357bed5885e70","toSide":"left"},
+		{"id":"643d3afef67875b0","fromNode":"7fa00cb156d844ca","fromSide":"right","toNode":"84b357bed5885e70","toSide":"left"}
+	]
 }

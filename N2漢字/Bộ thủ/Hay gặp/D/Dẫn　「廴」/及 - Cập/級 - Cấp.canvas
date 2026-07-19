@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70e4be058298032a","x":-41,"y":4,"width":250,"height":60,"type":"text","text":"級 - Cấp"},
+		{"id":"e7091c4f3cfc63ef","x":-480,"y":-21,"width":128,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"dff96d00f1225864","x":-280,"y":-180,"width":169,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/及 - Cập/及 - Cập.canvas"}
+	],
+	"edges":[
+		{"id":"2230394a845f86ac","fromNode":"e7091c4f3cfc63ef","fromSide":"right","toNode":"70e4be058298032a","toSide":"left"},
+		{"id":"7291ed702f7b159e","fromNode":"dff96d00f1225864","fromSide":"right","toNode":"70e4be058298032a","toSide":"left"}
+	]
+}

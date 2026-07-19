@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"69e9665cf2c70171","type":"text","text":"官 - Quan","x":-83,"y":-19,"width":250,"height":60},
+		{"id":"6990cd8a53c08eae","x":-380,"y":-152,"width":147,"height":163,"type":"file","file":"N2漢字/Hay gặp/M/Miên　「宀」.canvas"},
+		{"id":"6f4c1e426cd6bbd5","x":-440,"y":80,"width":207,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dĩ　「㠯」/Dĩ　「㠯」.canvas"}
+	],
+	"edges":[
+		{"id":"dde754a21f7997a6","fromNode":"6990cd8a53c08eae","fromSide":"right","toNode":"69e9665cf2c70171","toSide":"left"},
+		{"id":"904b6a0b38311e73","fromNode":"6f4c1e426cd6bbd5","fromSide":"right","toNode":"69e9665cf2c70171","toSide":"left"}
+	]
+}

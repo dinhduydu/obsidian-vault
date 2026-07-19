@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ad1d65e026bc9a0a","x":-133,"y":-29,"width":250,"height":60,"type":"text","text":"階 - Giai"},
+		{"id":"fe029b74b7056de5","x":-540,"y":160,"width":183,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/皆 - Giai.canvas"},
+		{"id":"4c601e39ae7d4af7","x":-527,"y":-240,"width":170,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"34a59e21c4de56b6","fromNode":"fe029b74b7056de5","fromSide":"right","toNode":"ad1d65e026bc9a0a","toSide":"left"},
+		{"id":"8f96d34e13903d05","fromNode":"4c601e39ae7d4af7","fromSide":"right","toNode":"ad1d65e026bc9a0a","toSide":"left"}
+	]
+}

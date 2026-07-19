@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"51f0ca5887120841","x":-162,"y":-28,"width":250,"height":60,"type":"text","text":"猛 - Mãnh"},
+		{"id":"5ada4c10102a55c7","x":-540,"y":-68,"width":183,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"},
+		{"id":"c21370d564a41f24","x":-448,"y":-340,"width":201,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"},
+		{"id":"c94f2e9aa3d8bc49","x":-480,"y":180,"width":201,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"b6d7e4a1b9306445","fromNode":"5ada4c10102a55c7","fromSide":"right","toNode":"51f0ca5887120841","toSide":"left"},
+		{"id":"9eb99c9ef27b5685","fromNode":"c21370d564a41f24","fromSide":"right","toNode":"51f0ca5887120841","toSide":"left"},
+		{"id":"50e975538f76991e","fromNode":"c94f2e9aa3d8bc49","fromSide":"right","toNode":"51f0ca5887120841","toSide":"left"}
+	]
+}

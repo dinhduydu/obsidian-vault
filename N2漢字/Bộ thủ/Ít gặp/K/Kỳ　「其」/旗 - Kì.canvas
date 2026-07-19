@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0979ab5f45328710","type":"text","text":"旗 - Kì","x":-107,"y":-43,"width":250,"height":60},
+		{"id":"729b4667ca4de56b","x":-640,"y":-82,"width":159,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"},
+		{"id":"1b64ac9ffea38972","x":-380,"y":80,"width":172,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/Kỳ　「其」.canvas"},
+		{"id":"b0d2976456a793a3","x":-352,"y":-220,"width":144,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"}
+	],
+	"edges":[
+		{"id":"a4af5507670bc0ef","fromNode":"1b64ac9ffea38972","fromSide":"right","toNode":"0979ab5f45328710","toSide":"left"},
+		{"id":"af88a58afac70c89","fromNode":"729b4667ca4de56b","fromSide":"right","toNode":"0979ab5f45328710","toSide":"left"},
+		{"id":"fe552dc144134ae6","fromNode":"b0d2976456a793a3","fromSide":"right","toNode":"0979ab5f45328710","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7fa954d1f2d2010b","type":"text","text":"却 - Khước","x":-72,"y":-40,"width":250,"height":53},
+		{"id":"b2bbf2751e8a420d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas","x":-500,"y":180,"width":217,"height":192},
+		{"id":"c7aad3239b381d3d","x":-532,"y":-216,"width":249,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"}
+	],
+	"edges":[
+		{"id":"8f3c2b68fe9cdd01","fromNode":"b2bbf2751e8a420d","fromSide":"right","toNode":"7fa954d1f2d2010b","toSide":"left"},
+		{"id":"1c3f2b0bc0c2cb65","fromNode":"c7aad3239b381d3d","fromSide":"right","toNode":"7fa954d1f2d2010b","toSide":"left"}
+	]
+}

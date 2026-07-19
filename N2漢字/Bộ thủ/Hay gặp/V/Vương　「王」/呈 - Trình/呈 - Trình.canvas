@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c7623d91b5a771e3","x":-152,"y":-33,"width":250,"height":60,"type":"text","text":"呈 - Trình"},
+		{"id":"a157f75bd817dd55","x":-400,"y":-180,"width":106,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"44862bec3a1f2ec7","x":-458,"y":100,"width":164,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"522c74628bf84e7a","fromNode":"a157f75bd817dd55","fromSide":"right","toNode":"c7623d91b5a771e3","toSide":"left"},
+		{"id":"6f2c04255f6f96af","fromNode":"44862bec3a1f2ec7","fromSide":"right","toNode":"c7623d91b5a771e3","toSide":"left"}
+	]
+}

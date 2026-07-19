@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e4913d6c27866861","x":-76,"y":-38,"width":250,"height":60,"type":"text","text":"吸 - Hấp"},
+		{"id":"fbf90414485ce704","x":-340,"y":80,"width":148,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/及 - Cập/及 - Cập.canvas"},
+		{"id":"987fe30c988ef7f7","x":-500,"y":-67,"width":105,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"81209d58724e246d","fromNode":"fbf90414485ce704","fromSide":"right","toNode":"e4913d6c27866861","toSide":"left"},
+		{"id":"30412fb1eb982ecd","fromNode":"987fe30c988ef7f7","fromSide":"right","toNode":"e4913d6c27866861","toSide":"left"}
+	]
+}

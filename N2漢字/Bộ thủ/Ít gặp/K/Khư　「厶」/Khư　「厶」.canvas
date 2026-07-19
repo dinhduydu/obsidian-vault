@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"514d31fa98d9ded5","type":"text","text":"Khư　「厶」","x":-118,"y":-20,"width":250,"height":60},
-		{"id":"023228d5e67d19ec","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/去 - Khứ.canvas","x":360,"y":-340,"width":194,"height":153},
+		{"id":"023228d5e67d19ec","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas","x":360,"y":-340,"width":194,"height":153},
 		{"id":"dea8ccfc162acc62","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-50,"y":-580,"width":190,"height":159},
 		{"id":"25d4e296ec930d5c","x":-920,"y":-443,"width":527,"height":360,"type":"text","text":"Nhiều người học tiếng Nhật cũng hay nhầm:\n\n厶   ム\n厶: bộ Khư, là chữ Hán.\nム: katakana Mu, không phải bộ thủ.\n\nTrong nhiều font Nhật, chúng gần như giống hệt nhau, nhưng về mặt Unicode và chức năng là hoàn toàn khác.\n\nKết luận\n厶 = bộ Khư (214 bộ thủ).\n厸 = chữ Tư, không phải bộ thủ.\nム = chữ Katakana, không liên quan đến bộ thủ."},
 		{"id":"b7cdf91e502c8754","x":-1320,"y":-76,"width":214,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71fce0a0cb31976e","x":-78,"y":-72,"width":250,"height":60,"type":"text","text":"戒 - Giới"},
+		{"id":"4bd9d9d707fd0bbd","x":-340,"y":-220,"width":108,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"a4bce09ccb2eb65c","x":-406,"y":0,"width":174,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"}
+	],
+	"edges":[
+		{"id":"78059b9f559b8be8","fromNode":"4bd9d9d707fd0bbd","fromSide":"right","toNode":"71fce0a0cb31976e","toSide":"left"},
+		{"id":"794e357fd1cc43de","fromNode":"a4bce09ccb2eb65c","fromSide":"right","toNode":"71fce0a0cb31976e","toSide":"left"}
+	]
+}

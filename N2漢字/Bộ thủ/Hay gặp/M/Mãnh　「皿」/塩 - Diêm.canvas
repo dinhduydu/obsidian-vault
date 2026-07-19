@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a4f107a58bc0f3d0","x":-103,"y":-65,"width":250,"height":60,"type":"text","text":"塩 - Diêm"},
+		{"id":"0c42f65276f3b0d0","x":-360,"y":100,"width":141,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"33dc83d9af48890e","fromNode":"0c42f65276f3b0d0","fromSide":"right","toNode":"a4f107a58bc0f3d0","toSide":"left"}
+	]
+}

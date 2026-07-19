@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0f646a98f6bb71c8","type":"text","text":"Vĩnh　「永」","x":-146,"y":-64,"width":250,"height":60},
+		{"id":"e8ea55d08e3d42eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas","x":-500,"y":-103,"width":158,"height":138},
+		{"id":"c25ad6ffb3d3aade","x":-496,"y":-360,"width":154,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"7620e6e150b96a7f","fromNode":"e8ea55d08e3d42eb","fromSide":"right","toNode":"0f646a98f6bb71c8","toSide":"left"},
+		{"id":"691d1079c5a3e337","fromNode":"c25ad6ffb3d3aade","fromSide":"right","toNode":"0f646a98f6bb71c8","toSide":"left"}
+	]
+}

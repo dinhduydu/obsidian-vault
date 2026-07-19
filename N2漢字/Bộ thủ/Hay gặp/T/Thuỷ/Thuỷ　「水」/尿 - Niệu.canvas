@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f5f255931827eea4","x":-90,"y":-50,"width":250,"height":60,"type":"text","text":"尿 - Niệu"},
+		{"id":"67bc76087726588f","x":-440,"y":80,"width":215,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"ce6e062c2fcafca1","x":-415,"y":-300,"width":166,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"d4acffff66e29d2b","fromNode":"67bc76087726588f","fromSide":"right","toNode":"f5f255931827eea4","toSide":"left"},
+		{"id":"8c5bc4e141d79286","fromNode":"ce6e062c2fcafca1","fromSide":"right","toNode":"f5f255931827eea4","toSide":"left"}
+	]
+}

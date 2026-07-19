@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f69e702a2a0562c0","x":-146,"y":-15,"width":250,"height":60,"type":"text","text":"管 - Quản"},
+		{"id":"63cd22262811226e","x":-500,"y":160,"width":192,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dĩ　「㠯」/官 - Quan/官 - Quan.canvas"},
+		{"id":"1401e7a3c0e304a0","x":-517,"y":-280,"width":209,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"ccbc99fb303c6c54","fromNode":"63cd22262811226e","fromSide":"right","toNode":"f69e702a2a0562c0","toSide":"left"},
+		{"id":"82fbacd032073353","fromNode":"1401e7a3c0e304a0","fromSide":"right","toNode":"f69e702a2a0562c0","toSide":"left"}
+	]
+}

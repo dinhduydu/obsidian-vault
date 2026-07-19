@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4080d3e40f001430","type":"text","text":"旁 - Bàng","x":241,"y":70,"width":250,"height":60},
+		{"id":"fc1020723096096e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-171,"y":332,"width":181,"height":157},
+		{"id":"8ff940342ba1ff1e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-111,"y":-488,"width":213,"height":143},
+		{"id":"9197408adcba4ab2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-202,"y":-160,"width":183,"height":167},
+		{"id":"b83dda6f8115fe8e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":310,"y":-287,"width":181,"height":127},
+		{"id":"7036ea0656cfd2db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Bàng　「旁」/傍 - Bàng.canvas","x":660,"y":-160,"width":245,"height":110},
+		{"id":"7b54a6026f5f58ae","x":660,"y":159,"width":296,"height":251,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Bàng　「旁」/接 - Tiếp.canvas"},
+		{"id":"b6359865eaf9ce69","x":366,"y":380,"width":158,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"11261167376915db","fromNode":"fc1020723096096e","fromSide":"right","toNode":"4080d3e40f001430","toSide":"left"},
+		{"id":"941b334c8462c4dc","fromNode":"9197408adcba4ab2","fromSide":"right","toNode":"4080d3e40f001430","toSide":"left"},
+		{"id":"480e01f7da9b5555","fromNode":"8ff940342ba1ff1e","fromSide":"right","toNode":"4080d3e40f001430","toSide":"left"},
+		{"id":"c7e8559e37a7491d","fromNode":"b83dda6f8115fe8e","fromSide":"right","toNode":"7036ea0656cfd2db","toSide":"left"},
+		{"id":"7797a2083e4bbfeb","fromNode":"4080d3e40f001430","fromSide":"right","toNode":"7036ea0656cfd2db","toSide":"left"},
+		{"id":"55d263bd4b16950e","fromNode":"4080d3e40f001430","fromSide":"right","toNode":"7b54a6026f5f58ae","toSide":"left"},
+		{"id":"b8a9ae832f0f795e","fromNode":"b6359865eaf9ce69","fromSide":"right","toNode":"7b54a6026f5f58ae","toSide":"left"}
+	]
+}

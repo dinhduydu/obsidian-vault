@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"375c77249cc9ce7d","x":-95,"y":-53,"width":250,"height":60,"type":"text","text":"法 - Pháp"},
+		{"id":"2b4cced3f5f04ce6","x":-440,"y":140,"width":182,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas"},
+		{"id":"9c6794c0522d840c","x":-499,"y":-243,"width":241,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"8544d6109f27b994","fromNode":"2b4cced3f5f04ce6","fromSide":"right","toNode":"375c77249cc9ce7d","toSide":"left"},
+		{"id":"f8e7ca4ac5ca30ec","fromNode":"9c6794c0522d840c","fromSide":"right","toNode":"375c77249cc9ce7d","toSide":"left"}
+	]
+}

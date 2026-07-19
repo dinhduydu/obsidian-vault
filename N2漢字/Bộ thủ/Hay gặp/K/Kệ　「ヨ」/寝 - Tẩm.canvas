@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"94e702fd46f5bf70","x":-165,"y":-31,"width":250,"height":60,"type":"text","text":"寝 - Tẩm"},
+		{"id":"3dbfb6b562b13be4","x":-480,"y":60,"width":166,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"}
+	],
+	"edges":[
+		{"id":"f477e2c338fce931","fromNode":"3dbfb6b562b13be4","fromSide":"right","toNode":"94e702fd46f5bf70","toSide":"left"}
+	]
+}

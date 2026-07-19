@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5256700d104f5d6e","x":-90,"y":-17,"width":250,"height":60,"type":"text","text":"院 - Viện"},
+		{"id":"e0535e9726b9e27e","x":-420,"y":120,"width":183,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyên　「元」/完 - Hoàn/完 - Hoàn.canvas"},
+		{"id":"6915466721ed4d58","x":-660,"y":-55,"width":174,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"da1743b145c2c124","fromNode":"e0535e9726b9e27e","fromSide":"right","toNode":"5256700d104f5d6e","toSide":"left"},
+		{"id":"602859f934fb74a1","fromNode":"6915466721ed4d58","fromSide":"right","toNode":"5256700d104f5d6e","toSide":"left"}
+	]
+}

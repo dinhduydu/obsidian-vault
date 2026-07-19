@@ -5,7 +5,6 @@
 		{"id":"8e0a487ce4cfda1f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas","x":-420,"y":347,"width":146,"height":83},
 		{"id":"3907742a72991f00","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":-240,"y":520,"width":240,"height":140},
 		{"id":"7188640c043a0d5c","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":104,"y":581,"width":336,"height":139},
-		{"id":"f1e49efd2a965e99","type":"text","text":"盆 - Bồn","x":294,"y":389,"width":250,"height":60},
 		{"id":"5fce259f496d8bd3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":60,"y":439,"width":132,"height":81},
 		{"id":"27e8b679d64087a5","type":"text","text":"Cái đĩa, vật chứa\nỞ phần dưới","x":-539,"y":-109,"width":250,"height":76},
 		{"id":"d6a6fefaa378eb34","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」.canvas","x":40,"y":-900,"width":111,"height":58},
@@ -14,7 +13,9 @@
 		{"id":"f75f7e563ae92380","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盛 - Thịnh.canvas","x":350,"y":-260,"width":194,"height":136},
 		{"id":"b500be2bdaaedf4b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盗 - Đạo.canvas","x":350,"y":-35,"width":216,"height":124},
 		{"id":"ce95c34db2891818","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/Thứ　「次」.canvas","x":-143,"y":157,"width":120,"height":81},
-		{"id":"7b4b412e96547e7b","x":351,"y":157,"width":179,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盃 - Bôi.canvas"}
+		{"id":"7b4b412e96547e7b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盃 - Bôi.canvas","x":351,"y":157,"width":179,"height":159},
+		{"id":"bdd74e97f0b65b13","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盆 - Bồn.canvas","x":351,"y":360,"width":219,"height":188},
+		{"id":"991b66687980367b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Huyết　「血」/Huyết　「血」.canvas","x":1660,"y":-120,"width":281,"height":213}
 	],
 	"edges":[
 		{"id":"ba235642fb5c8255","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"f75f7e563ae92380","toSide":"left"},
@@ -25,11 +26,12 @@
 		{"id":"48232d61bcf16ae7","fromNode":"ce95c34db2891818","fromSide":"bottom","toNode":"3907742a72991f00","toSide":"top"},
 		{"id":"45f2d51b82cb13a5","fromNode":"3907742a72991f00","fromSide":"right","toNode":"7188640c043a0d5c","toSide":"left"},
 		{"id":"b5c4c4465ee74478","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"7b4b412e96547e7b","toSide":"left"},
-		{"id":"0d8c0121b3135902","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"f1e49efd2a965e99","toSide":"left"},
-		{"id":"deb6631ccb0a7cc1","fromNode":"5fce259f496d8bd3","fromSide":"right","toNode":"f1e49efd2a965e99","toSide":"left"},
+		{"id":"0d8c0121b3135902","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"bdd74e97f0b65b13","toSide":"left"},
+		{"id":"deb6631ccb0a7cc1","fromNode":"5fce259f496d8bd3","fromSide":"right","toNode":"bdd74e97f0b65b13","toSide":"left"},
 		{"id":"61db479745675c37","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"2ff84ce5cac87059","toSide":"left"},
 		{"id":"2648f5087e813e92","fromNode":"d6a6fefaa378eb34","fromSide":"right","toNode":"2ff84ce5cac87059","toSide":"left","label":"giám sát, trông coi"},
 		{"id":"bdf2fc01ae3ff208","fromNode":"ab427f18627e8f25","fromSide":"left","toNode":"27e8b679d64087a5","toSide":"right"},
-		{"id":"7b02ca14f7880ac7","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"661caab78fa4c751","toSide":"left"}
+		{"id":"7b02ca14f7880ac7","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"661caab78fa4c751","toSide":"left"},
+		{"id":"6e9a3880c69f174d","fromNode":"ab427f18627e8f25","fromSide":"right","toNode":"991b66687980367b","toSide":"left"}
 	]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9440d8823147612b","x":-118,"y":-15,"width":250,"height":60,"type":"text","text":"Doãn - Duẫn　「尹」"},
+		{"id":"c0879b605e4dedb7","x":300,"y":-180,"width":132,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/伊 - Y.canvas"}
+	],
+	"edges":[
+		{"id":"be3a64dbb7b9a1d7","fromNode":"9440d8823147612b","fromSide":"right","toNode":"c0879b605e4dedb7","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"da6ce9e7879cb515","x":-100,"y":-8,"width":250,"height":60,"type":"text","text":"宮 - Cung"},
+		{"id":"35beb65d5e7d2451","x":-360,"y":-46,"width":142,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呂 - Lữ/呂 - Lữ.canvas"},
+		{"id":"0f8a9144690a8c84","x":-394,"y":-320,"width":176,"height":171,"type":"file","file":"N2漢字/Hay gặp/M/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"8c57b62444139782","fromNode":"35beb65d5e7d2451","fromSide":"right","toNode":"da6ce9e7879cb515","toSide":"left"},
+		{"id":"1e9a72742185c551","fromNode":"0f8a9144690a8c84","fromSide":"right","toNode":"da6ce9e7879cb515","toSide":"left"}
+	]
+}

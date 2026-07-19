@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4825352cee491432","type":"text","text":"涙 - Lệ","x":-125,"y":71,"width":250,"height":60},
+		{"id":"f9494e42dee03b06","type":"text","text":"涙  「なみだ」(nước mắt)","x":258,"y":71,"width":250,"height":60},
+		{"id":"35f6a05ebbdf569e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-405,"y":-100,"width":119,"height":79},
+		{"id":"d92e078d8f719549","x":-420,"y":169,"width":126,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"ffedbc8918eb7dcf","x":-640,"y":48,"width":178,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"165e5dc641731ca2","x":-606,"y":-146,"width":144,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"bc57e199540bd284","fromNode":"4825352cee491432","fromSide":"right","toNode":"f9494e42dee03b06","toSide":"left"},
+		{"id":"6c1c8df21536fc9c","fromNode":"35f6a05ebbdf569e","fromSide":"right","toNode":"4825352cee491432","toSide":"left"},
+		{"id":"314d23ad1d58eee7","fromNode":"d92e078d8f719549","fromSide":"right","toNode":"4825352cee491432","toSide":"left"},
+		{"id":"9f544498b480335d","fromNode":"ffedbc8918eb7dcf","fromSide":"right","toNode":"4825352cee491432","toSide":"left"},
+		{"id":"051bc754cd948f58","fromNode":"165e5dc641731ca2","fromSide":"right","toNode":"4825352cee491432","toSide":"left"}
+	]
+}

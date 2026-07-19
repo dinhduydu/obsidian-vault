@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"88b9ba921b40744e","x":-94,"y":-34,"width":250,"height":60,"type":"text","text":"感 - Cảm"},
+		{"id":"6547e3831fad6149","x":-420,"y":-180,"width":140,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hàm 「咸」/Hàm 「咸」.canvas"},
+		{"id":"735627b73f35ebd0","x":-449,"y":100,"width":169,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"2cacea2762cce3fb","fromNode":"6547e3831fad6149","fromSide":"right","toNode":"88b9ba921b40744e","toSide":"left"},
+		{"id":"873b071ff97f2951","fromNode":"735627b73f35ebd0","fromSide":"right","toNode":"88b9ba921b40744e","toSide":"left"}
+	]
+}

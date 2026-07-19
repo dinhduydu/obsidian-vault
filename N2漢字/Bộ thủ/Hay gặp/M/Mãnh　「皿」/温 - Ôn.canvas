@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8912f05ba73217c1","x":-134,"y":-35,"width":250,"height":60,"type":"text","text":"温 - Ôn"},
+		{"id":"dcec07c5667901f5","x":-612,"y":-68,"width":172,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"5eb4a1ff311e95b2","x":-400,"y":-300,"width":142,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"953636b7f80a1ed7","x":-415,"y":140,"width":157,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"299b3599ca068ab0","fromNode":"953636b7f80a1ed7","fromSide":"right","toNode":"8912f05ba73217c1","toSide":"left"},
+		{"id":"f6156e219efff6d8","fromNode":"dcec07c5667901f5","fromSide":"right","toNode":"8912f05ba73217c1","toSide":"left"},
+		{"id":"225de2d4bd7d7c73","fromNode":"5eb4a1ff311e95b2","fromSide":"right","toNode":"8912f05ba73217c1","toSide":"left"}
+	]
+}

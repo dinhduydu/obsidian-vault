@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"efb1ec3760661d5c","x":-134,"y":-59,"width":250,"height":60,"type":"text","text":"急 - Cấp"},
+		{"id":"781b563cee8dad5b","x":-480,"y":-105,"width":188,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"92d0f263ea28dd9e","x":-506,"y":160,"width":214,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"28befd7480483491","fromNode":"781b563cee8dad5b","fromSide":"right","toNode":"efb1ec3760661d5c","toSide":"left"},
+		{"id":"a695971e068effa2","fromNode":"92d0f263ea28dd9e","fromSide":"right","toNode":"efb1ec3760661d5c","toSide":"left"}
+	]
+}

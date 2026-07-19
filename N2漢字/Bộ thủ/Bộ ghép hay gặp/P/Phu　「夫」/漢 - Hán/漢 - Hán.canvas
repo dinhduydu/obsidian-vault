@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0fa1977bf5c98ffe","x":-120,"y":-38,"width":250,"height":60,"type":"text","text":"漢 - Hán"},
+		{"id":"2b56acbcb8f26658","x":-400,"y":-83,"width":143,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"96198be1572b4b6d","x":-425,"y":-320,"width":168,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"0e370400fdb5b8e7","x":-720,"y":-80,"width":193,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"d06e6ec0faf9b668","x":-451,"y":160,"width":194,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas"}
+	],
+	"edges":[
+		{"id":"4d8db01e6aa8df8c","fromNode":"2b56acbcb8f26658","fromSide":"right","toNode":"0fa1977bf5c98ffe","toSide":"left"},
+		{"id":"be7eef3d9fdce377","fromNode":"96198be1572b4b6d","fromSide":"right","toNode":"0fa1977bf5c98ffe","toSide":"left"},
+		{"id":"e2e0b556f642ed18","fromNode":"0e370400fdb5b8e7","fromSide":"right","toNode":"0fa1977bf5c98ffe","toSide":"left"},
+		{"id":"44410434c5a80de0","fromNode":"d06e6ec0faf9b668","fromSide":"right","toNode":"0fa1977bf5c98ffe","toSide":"left"}
+	]
+}

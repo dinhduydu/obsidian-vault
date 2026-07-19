@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1063a8c31a704555","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"呂 - Lữ"},
+		{"id":"8d2841b0851ca9e8","x":-460,"y":-72,"width":151,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"38b8e7fe5ff75632","fromNode":"8d2841b0851ca9e8","fromSide":"right","toNode":"1063a8c31a704555","toSide":"left"}
+	]
+}

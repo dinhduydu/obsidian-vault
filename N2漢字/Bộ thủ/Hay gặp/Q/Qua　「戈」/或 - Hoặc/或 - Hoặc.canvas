@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0fef117d08b19c46","x":-60,"y":-38,"width":250,"height":60,"type":"text","text":"或 - Hoặc"},
+		{"id":"b1d0bd4001fadcaf","x":-363,"y":118,"width":115,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"36a79508dab9508e","x":-380,"y":-65,"width":132,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"67add1d069f131db","x":-423,"y":-320,"width":175,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"e6575a09793fa3af","fromNode":"b1d0bd4001fadcaf","fromSide":"right","toNode":"0fef117d08b19c46","toSide":"left"},
+		{"id":"50b9c36000cb15c0","fromNode":"36a79508dab9508e","fromSide":"right","toNode":"0fef117d08b19c46","toSide":"left"},
+		{"id":"ac700180fbf69c16","fromNode":"67add1d069f131db","fromSide":"right","toNode":"0fef117d08b19c46","toSide":"left"}
+	]
+}

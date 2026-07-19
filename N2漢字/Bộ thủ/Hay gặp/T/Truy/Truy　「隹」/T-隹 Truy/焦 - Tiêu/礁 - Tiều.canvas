@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"afb1e1545faee15f","x":-15,"y":-38,"width":250,"height":60,"type":"text","text":"礁 - Tiều"},
 		{"id":"c510b0b56a46a8f2","x":-340,"y":80,"width":144,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/T-隹 Truy/焦 - Tiêu/焦 - Tiêu.canvas"},
-		{"id":"dc92a5a20ed01e44","x":-365,"y":-190,"width":169,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thạch　「石 」/Thạch　「石 」.canvas"}
+		{"id":"dc92a5a20ed01e44","x":-365,"y":-190,"width":169,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
 	],
 	"edges":[
 		{"id":"d2c55a5abcf0bb5f","fromNode":"c510b0b56a46a8f2","fromSide":"right","toNode":"afb1e1545faee15f","toSide":"left"},

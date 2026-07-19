@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bb2336f4f5dba8f","x":-78,"y":-44,"width":250,"height":60,"type":"text","text":"唄 - Bái"},
+		{"id":"c10487a037150200","x":-400,"y":-77,"width":146,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"e6cb590220f3aa63","x":-360,"y":-300,"width":139,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"90400e897d78d40f","fromNode":"c10487a037150200","fromSide":"right","toNode":"3bb2336f4f5dba8f","toSide":"left"},
+		{"id":"b5c70fe40ee4d49a","fromNode":"e6cb590220f3aa63","fromSide":"right","toNode":"3bb2336f4f5dba8f","toSide":"left"}
+	]
+}

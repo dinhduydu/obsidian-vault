@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"31dc2282377d438a","x":-80,"y":-33,"width":250,"height":60,"type":"text","text":"格 - Cách"},
+		{"id":"95f0d91763c96050","x":-560,"y":-189,"width":168,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"6ebf3546e301972e","x":-300,"y":-240,"width":136,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas"}
+	],
+	"edges":[
+		{"id":"6640387382217899","fromNode":"6ebf3546e301972e","fromSide":"right","toNode":"31dc2282377d438a","toSide":"left"},
+		{"id":"c0885308622dec25","fromNode":"95f0d91763c96050","fromSide":"right","toNode":"31dc2282377d438a","toSide":"left"}
+	]
+}

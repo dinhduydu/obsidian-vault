@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7848961970518aec","x":-41,"y":-76,"width":250,"height":60,"type":"text","text":"様 - Dạng"},
+		{"id":"0ff1afd4b42efbd1","x":-660,"y":-122,"width":159,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"20a12e20fae939e6","x":-394,"y":-300,"width":154,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"4c799df1b6f989bf","x":-449,"y":120,"width":209,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"}
+	],
+	"edges":[
+		{"id":"b24117bfa0741a16","fromNode":"20a12e20fae939e6","fromSide":"right","toNode":"7848961970518aec","toSide":"left"},
+		{"id":"c69a630c1465a8b1","fromNode":"0ff1afd4b42efbd1","fromSide":"right","toNode":"7848961970518aec","toSide":"left"},
+		{"id":"e23866d7ff4fc42d","fromNode":"4c799df1b6f989bf","fromSide":"right","toNode":"7848961970518aec","toSide":"left"}
+	]
+}

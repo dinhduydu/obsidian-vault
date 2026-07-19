@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"055bdc90eef0181b","type":"text","text":"期 - Kỳ","x":-148,"y":-25,"width":250,"height":60},
+		{"id":"ad492f2b0b5be11b","x":-560,"y":-240,"width":175,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/Kỳ　「其」.canvas"},
+		{"id":"4d01cb33a222bddf","x":-572,"y":100,"width":187,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"eb752acb4c4387ea","fromNode":"ad492f2b0b5be11b","fromSide":"right","toNode":"055bdc90eef0181b","toSide":"left"},
+		{"id":"61ced8191a639725","fromNode":"4d01cb33a222bddf","fromSide":"right","toNode":"055bdc90eef0181b","toSide":"left"}
+	]
+}

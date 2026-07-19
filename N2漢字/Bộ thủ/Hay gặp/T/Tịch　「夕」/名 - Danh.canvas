@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b79bb31e796e3801","x":-99,"y":-34,"width":250,"height":60,"type":"text","text":"名 - Danh"},
+		{"id":"b35b20838af25d80","x":-380,"y":-220,"width":130,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"},
+		{"id":"f692dd2184f212a2","x":-400,"y":80,"width":150,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"81ffac581101db84","fromNode":"b35b20838af25d80","fromSide":"right","toNode":"b79bb31e796e3801","toSide":"left"},
+		{"id":"461f96af8688cbc3","fromNode":"f692dd2184f212a2","fromSide":"right","toNode":"b79bb31e796e3801","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c99a8ddd8dd6d11b","x":-102,"y":16,"width":250,"height":60,"type":"text","text":"昆 - Côn"},
+		{"id":"ba7f5e898fd6a4dd","x":-400,"y":160,"width":166,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas"},
+		{"id":"9ce68237663b2bfc","x":-433,"y":-220,"width":199,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"a8e8c2f65c6fd2c8","fromNode":"ba7f5e898fd6a4dd","fromSide":"right","toNode":"c99a8ddd8dd6d11b","toSide":"left"},
+		{"id":"871632aab3b66b15","fromNode":"9ce68237663b2bfc","fromSide":"right","toNode":"c99a8ddd8dd6d11b","toSide":"left"}
+	]
+}

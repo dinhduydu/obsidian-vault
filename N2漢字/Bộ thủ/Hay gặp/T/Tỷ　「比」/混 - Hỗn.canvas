@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a65201af65c7558b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"混 - Hỗn"},
+		{"id":"31d4051e076a513c","x":-420,"y":120,"width":183,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/昆 - Côn.canvas"},
+		{"id":"234bb4b0eb384d8c","x":-640,"y":-79,"width":182,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"d33efc6a191965a7","fromNode":"31d4051e076a513c","fromSide":"right","toNode":"a65201af65c7558b","toSide":"left"},
+		{"id":"5881f59197e0f50f","fromNode":"234bb4b0eb384d8c","fromSide":"right","toNode":"a65201af65c7558b","toSide":"left"}
+	]
+}

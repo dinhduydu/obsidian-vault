@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"6c33ac5c577aefcc","type":"text","text":"Thủ　「𠂇」","x":-167,"y":-12,"width":127,"height":50},
 		{"id":"f4f5d85fe36cddef","type":"text","text":"左右　「さゆう」：","x":561,"y":-240,"width":250,"height":60},
 		{"id":"93298fe14e758084","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-103,"y":120,"width":147,"height":91},
 		{"id":"035525d72d5a341f","type":"text","text":"Là hình tay cổ xưa hơn, thường xuất hiện trong chữ tượng hình cổ.","x":-500,"y":-173,"width":250,"height":110},
@@ -14,8 +13,11 @@
 		{"id":"543ccb71e0d36022","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu.canvas","x":205,"y":13,"width":225,"height":160},
 		{"id":"626676d0e763a72b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/存 - Tồn.canvas","x":260,"y":660,"width":254,"height":223},
 		{"id":"5b62e5b664951004","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-84,"y":860,"width":128,"height":116},
-		{"id":"47be92eabc2793fb","x":739,"y":-560,"width":145,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/在 - Tại.canvas"},
-		{"id":"742a110729653648","x":488,"y":-689,"width":146,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+		{"id":"6c33ac5c577aefcc","type":"text","text":"Thủ　「𠂇」","x":-167,"y":-12,"width":127,"height":50},
+		{"id":"08f1858e2331517c","type":"text","text":"Thủ　「𠂇」","x":920,"y":-1160,"width":127,"height":50},
+		{"id":"47be92eabc2793fb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/在 - Tại.canvas","x":1321,"y":-1591,"width":145,"height":107},
+		{"id":"742a110729653648","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":1070,"y":-1720,"width":146,"height":112},
+		{"id":"833756a7b324d3b1","x":1288,"y":-1060,"width":211,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
 	],
 	"edges":[
 		{"id":"754977061bde4a7a","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"0191ae3c2fae0d0c","toSide":"left"},
@@ -32,7 +34,8 @@
 		{"id":"df3d498e84050682","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"223f9654f66912e2","toSide":"left"},
 		{"id":"662d8dac4f9e07ca","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"626676d0e763a72b","toSide":"left"},
 		{"id":"9c74001f175a5ee3","fromNode":"5b62e5b664951004","fromSide":"right","toNode":"626676d0e763a72b","toSide":"left"},
-		{"id":"3c6c41e92742685e","fromNode":"6c33ac5c577aefcc","fromSide":"right","toNode":"47be92eabc2793fb","toSide":"left"},
-		{"id":"d431b610a1e3a861","fromNode":"742a110729653648","fromSide":"right","toNode":"47be92eabc2793fb","toSide":"left"}
+		{"id":"3c6c41e92742685e","fromNode":"08f1858e2331517c","fromSide":"right","toNode":"47be92eabc2793fb","toSide":"left"},
+		{"id":"d431b610a1e3a861","fromNode":"742a110729653648","fromSide":"right","toNode":"47be92eabc2793fb","toSide":"left"},
+		{"id":"f6744d2b6d2b2b9c","fromNode":"08f1858e2331517c","fromSide":"right","toNode":"833756a7b324d3b1","toSide":"left"}
 	]
 }

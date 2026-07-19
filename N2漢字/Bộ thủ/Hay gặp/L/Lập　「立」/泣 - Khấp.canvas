@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"e661b265cf08b93c","x":-144,"y":-14,"width":250,"height":60,"type":"text","text":"泣 - Khấp"},
-		{"id":"8cf1b80fd5573142","x":-360,"y":-103,"width":130,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
-		{"id":"24f150478d3df4e1","x":-306,"y":100,"width":76,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"e661b265cf08b93c","type":"text","text":"泣 - Khấp","x":-144,"y":-14,"width":250,"height":60},
+		{"id":"8cf1b80fd5573142","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-360,"y":-103,"width":130,"height":89},
+		{"id":"24f150478d3df4e1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-306,"y":100,"width":76,"height":96},
+		{"id":"cf648682932b6c47","type":"text","text":"泣く　「なく」：khóc","x":300,"y":136,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2f01fe65f297f2ca","fromNode":"8cf1b80fd5573142","fromSide":"right","toNode":"e661b265cf08b93c","toSide":"left"},
-		{"id":"0e9721034fe8cec3","fromNode":"24f150478d3df4e1","fromSide":"right","toNode":"e661b265cf08b93c","toSide":"left"}
+		{"id":"0e9721034fe8cec3","fromNode":"24f150478d3df4e1","fromSide":"right","toNode":"e661b265cf08b93c","toSide":"left"},
+		{"id":"9ccc8443848765a8","fromNode":"e661b265cf08b93c","fromSide":"right","toNode":"cf648682932b6c47","toSide":"left"}
 	]
 }

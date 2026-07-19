@@ -1,95 +1,23 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 940,
-      "height": 560,
-      "text": "# ～官（かん）\n\n📚 Hán Việt: QUAN（官）\n\n👮 Ý nghĩa trung tâm:\n👉 quan chức • người làm trong cơ quan nhà nước • người có chức trách\n\n📌 Sắc thái:\n- mang tính chính thức / hành chính\n- thường là nghề nghiệp trong hệ thống nhà nước\n- liên quan đến luật pháp, quản lý, kiểm tra"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 520,
-      "width": 780,
-      "height": 920,
-      "text": "# Ý nghĩa\n\n🧠 官 = người có chức vụ / công chức\n\n➡️ Dùng để chỉ:\n- người làm trong nhà nước\n- người có quyền hạn chuyên môn\n- chức danh nghề nghiệp chính thức\n\n📌 Gần nghĩa:\n- officer\n- official\n- civil servant"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 200,
-      "width": 980,
-      "height": 760,
-      "text": "# 外交官（がいこうかん）\n\n🌍 Nhà ngoại giao\n\n📚 Hán Việt:\n- 外交 = ngoại giao\n- 官 = quan chức\n\n💡 Nghĩa:\n- người đại diện quốc gia ở nước ngoài"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1940,
-      "y": 980,
-      "width": 980,
-      "height": 760,
-      "text": "# 警察官（けいさつかん）\n\n🚓 Cảnh sát\n\n📚 Hán Việt:\n- 警察 = cảnh sát\n- 官 = quan chức\n\n💡 Nghĩa:\n- người làm nhiệm vụ giữ gìn trật tự"
-    },
-    {
-      "id": "word3",
-      "type": "text",
-      "x": 1940,
-      "y": 1760,
-      "width": 980,
-      "height": 760,
-      "text": "# 裁判官（さいばんかん）\n\n⚖️ Thẩm phán\n\n📚 Hán Việt:\n- 裁判 = xét xử\n- 官 = quan chức\n\n💡 Nghĩa:\n- người đưa ra phán quyết trong tòa án"
-    },
-    {
-      "id": "word4",
-      "type": "text",
-      "x": 1940,
-      "y": 2540,
-      "width": 980,
-      "height": 760,
-      "text": "# 試験官（しけんかん）\n\n📝 Giám thị / giám khảo\n\n📚 Hán Việt:\n- 試験 = kỳ thi\n- 官 = người phụ trách\n\n💡 Nghĩa:\n- người coi thi hoặc đánh giá bài thi"
-    },
-    {
-      "id": "word5",
-      "type": "text",
-      "x": 1940,
-      "y": 3320,
-      "width": 980,
-      "height": 760,
-      "text": "# 事務官（じむかん）\n\n🏢 Nhân viên hành chính\n\n📚 Hán Việt:\n- 事務 = công việc văn phòng\n- 官 = công chức\n\n💡 Nghĩa:\n- người làm việc hành chính trong cơ quan nhà nước"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -340,
-      "width": 1200,
-      "height": 780,
-      "text": "# Pattern N3–N1\n\n🧩 [Lĩnh vực công việc] + 官\n→ nghĩa: người có chức trách trong lĩnh vực đó\n\nVí dụ:\n- 税務官 = nhân viên thuế\n- 検査官 = thanh tra\n- 入国管理官 = cán bộ xuất nhập cảnh\n\n📌 Dùng trong:\n- hành chính nhà nước\n- pháp luật\n- quân sự / kiểm tra\n- tổ chức công quyền"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2700,
-      "width": 1200,
-      "height": 860,
-      "text": "# Memory Hint\n\n🧠 Nhớ 官 = “người có quyền trong hệ thống nhà nước” 🏛️\n\n➡️ Hình ảnh:\n- văn phòng chính phủ\n- cảnh sát, tòa án\n- người mặc đồng phục công vụ\n\n📌 Keyword:\n官 = OFFICIAL / GOVERNMENT OFFICER"
-    }
-  ],
-  "edges": [
-    { "id": "e1", "fromNode": "center", "toNode": "meaning" },
-    { "id": "e2", "fromNode": "center", "toNode": "word1" },
-    { "id": "e3", "fromNode": "center", "toNode": "word2" },
-    { "id": "e4", "fromNode": "center", "toNode": "word3" },
-    { "id": "e5", "fromNode": "center", "toNode": "word4" },
-    { "id": "e6", "fromNode": "center", "toNode": "word5" },
-    { "id": "e7", "fromNode": "center", "toNode": "pattern" },
-    { "id": "e8", "fromNode": "center", "toNode": "memory" }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":940,"height":560,"text":"# ～官（かん）\n\n📚 Hán Việt: QUAN（官）\n\n👮 Ý nghĩa trung tâm:\n👉 quan chức • người làm trong cơ quan nhà nước • người có chức trách\n\n📌 Sắc thái:\n- mang tính chính thức / hành chính\n- thường là nghề nghiệp trong hệ thống nhà nước\n- liên quan đến luật pháp, quản lý, kiểm tra"},
+		{"id":"meaning","type":"text","x":120,"y":520,"width":780,"height":920,"text":"# Ý nghĩa\n\n🧠 官 = người có chức vụ / công chức\n\n➡️ Dùng để chỉ:\n- người làm trong nhà nước\n- người có quyền hạn chuyên môn\n- chức danh nghề nghiệp chính thức\n\n📌 Gần nghĩa:\n- officer\n- official\n- civil servant"},
+		{"id":"word1","type":"text","x":1940,"y":200,"width":980,"height":760,"text":"# 外交官（がいこうかん）\n\n🌍 Nhà ngoại giao\n\n📚 Hán Việt:\n- 外交 = ngoại giao\n- 官 = quan chức\n\n💡 Nghĩa:\n- người đại diện quốc gia ở nước ngoài"},
+		{"id":"word2","type":"text","x":1940,"y":980,"width":980,"height":760,"text":"# 警察官（けいさつかん）\n\n🚓 Cảnh sát\n\n📚 Hán Việt:\n- 警察 = cảnh sát\n- 官 = quan chức\n\n💡 Nghĩa:\n- người làm nhiệm vụ giữ gìn trật tự"},
+		{"id":"word3","type":"text","x":1940,"y":1760,"width":980,"height":760,"text":"# 裁判官（さいばんかん）\n\n⚖️ Thẩm phán\n\n📚 Hán Việt:\n- 裁判 = xét xử\n- 官 = quan chức\n\n💡 Nghĩa:\n- người đưa ra phán quyết trong tòa án"},
+		{"id":"word4","type":"text","x":1940,"y":2540,"width":980,"height":760,"text":"# 試験官（しけんかん）\n\n📝 Giám thị / giám khảo\n\n📚 Hán Việt:\n- 試験 = kỳ thi\n- 官 = người phụ trách\n\n💡 Nghĩa:\n- người coi thi hoặc đánh giá bài thi"},
+		{"id":"word5","type":"text","x":1940,"y":3320,"width":980,"height":760,"text":"# 事務官（じむかん）\n\n🏢 Nhân viên hành chính\n\n📚 Hán Việt:\n- 事務 = công việc văn phòng\n- 官 = công chức\n\n💡 Nghĩa:\n- người làm việc hành chính trong cơ quan nhà nước"},
+		{"id":"pattern","type":"text","x":820,"y":-340,"width":1200,"height":780,"text":"# Pattern N3–N1\n\n🧩 [Lĩnh vực công việc] + 官\n→ nghĩa: người có chức trách trong lĩnh vực đó\n\nVí dụ:\n- 税務官 = nhân viên thuế\n- 検査官 = thanh tra\n- 入国管理官 = cán bộ xuất nhập cảnh\n\n📌 Dùng trong:\n- hành chính nhà nước\n- pháp luật\n- quân sự / kiểm tra\n- tổ chức công quyền"},
+		{"id":"memory","type":"text","x":980,"y":2700,"width":1200,"height":860,"text":"# Memory Hint\n\n🧠 Nhớ 官 = “người có quyền trong hệ thống nhà nước” 🏛️\n\n➡️ Hình ảnh:\n- văn phòng chính phủ\n- cảnh sát, tòa án\n- người mặc đồng phục công vụ\n\n📌 Keyword:\n官 = OFFICIAL / GOVERNMENT OFFICER"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"right","toSide":"left"},
+		{"id":"e4","fromNode":"center","toNode":"word3","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"center","toNode":"word4","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"center","toNode":"word5","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"center","toNode":"pattern","fromSide":"top","toSide":"bottom"},
+		{"id":"e8","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

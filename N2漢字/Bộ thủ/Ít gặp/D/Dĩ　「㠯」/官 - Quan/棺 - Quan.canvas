@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5c74cef0f3b308d9","x":-90,"y":-48,"width":250,"height":60,"type":"text","text":"棺 - Quan"},
+		{"id":"9d050802a0401790","x":-400,"y":140,"width":165,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"0050ec97e147f093","x":-467,"y":-227,"width":232,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dĩ　「㠯」/官 - Quan/官 - Quan.canvas"}
+	],
+	"edges":[
+		{"id":"3d6885e9c3d12c7d","fromNode":"9d050802a0401790","fromSide":"right","toNode":"5c74cef0f3b308d9","toSide":"left"},
+		{"id":"8d5808cda0098b8e","fromNode":"0050ec97e147f093","fromSide":"right","toNode":"5c74cef0f3b308d9","toSide":"left"}
+	]
+}

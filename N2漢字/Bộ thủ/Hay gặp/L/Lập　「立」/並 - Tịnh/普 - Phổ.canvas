@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"57652342b9eea586","type":"text","text":"普 - Phổ","x":-673,"y":3,"width":250,"height":60},
+		{"id":"ccb8d1dfdc44640f","type":"text","text":"普及　「」：phổ cập","x":-162,"y":-62,"width":250,"height":60},
+		{"id":"5102298a32585491","type":"text","text":"電気自動車が**普及**するのにはまだ時間がかかる。","x":236,"y":-57,"width":437,"height":50},
+		{"id":"71b8d396d7b2f8ea","x":-920,"y":-135,"width":153,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"},
+		{"id":"dbf0b2143f00c5f8","x":-920,"y":160,"width":153,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"49939a16bf83ed36","fromNode":"57652342b9eea586","fromSide":"right","toNode":"ccb8d1dfdc44640f","toSide":"left"},
+		{"id":"9a62868913c2e199","fromNode":"ccb8d1dfdc44640f","fromSide":"right","toNode":"5102298a32585491","toSide":"left"},
+		{"id":"4576e6ede19f4d2f","fromNode":"71b8d396d7b2f8ea","fromSide":"right","toNode":"57652342b9eea586","toSide":"left"},
+		{"id":"ddc0f7eb4851b18e","fromNode":"dbf0b2143f00c5f8","fromSide":"right","toNode":"57652342b9eea586","toSide":"left"}
+	]
+}

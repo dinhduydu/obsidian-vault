@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"506deb69d92864e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/額 - Ngạch.canvas","x":393,"y":-160,"width":101,"height":95},
+		{"id":"2b3fd13c28efc56e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-16,"y":-320,"width":161,"height":122},
+		{"id":"0af45b5575fbb6dc","type":"text","text":"客 - Khách","x":-141,"y":-19,"width":250,"height":60},
+		{"id":"fda9df2e2130dee6","type":"text","text":"客 - Khách","x":-141,"y":620,"width":250,"height":60},
+		{"id":"568bd3aee0e7690b","type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 8/~客 - Khách.canvas","x":300,"y":700,"width":143,"height":94},
+		{"id":"c5d46c9c01d72535","x":-440,"y":60,"width":120,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas"},
+		{"id":"86b7f68aa21e4338","x":-480,"y":-198,"width":223,"height":167,"type":"file","file":"N2漢字/Hay gặp/M/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"7fa2bed9f2ef513d","fromNode":"0af45b5575fbb6dc","fromSide":"right","toNode":"506deb69d92864e3","toSide":"left"},
+		{"id":"c96bbc68b7934d1e","fromNode":"fda9df2e2130dee6","fromSide":"right","toNode":"568bd3aee0e7690b","toSide":"left","label":"Hậu tố"},
+		{"id":"df43e6c22958d927","fromNode":"2b3fd13c28efc56e","fromSide":"right","toNode":"506deb69d92864e3","toSide":"left"},
+		{"id":"9bb169c39f7e293b","fromNode":"c5d46c9c01d72535","fromSide":"right","toNode":"0af45b5575fbb6dc","toSide":"left"},
+		{"id":"17c9d816429a71cb","fromNode":"86b7f68aa21e4338","fromSide":"right","toNode":"0af45b5575fbb6dc","toSide":"left"}
+	]
+}

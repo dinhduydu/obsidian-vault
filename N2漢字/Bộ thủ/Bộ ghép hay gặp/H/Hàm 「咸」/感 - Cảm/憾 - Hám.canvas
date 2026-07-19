@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7eba6efea6f63288","x":-137,"y":-47,"width":250,"height":60,"type":"text","text":"憾 - Hám"},
+		{"id":"740ee53e270acb67","x":-440,"y":120,"width":148,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hàm 「咸」/感 - Cảm/感 - Cảm.canvas"},
+		{"id":"11b06844ef6a7c98","x":-448,"y":-200,"width":156,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"be9ae81c0750c50f","fromNode":"740ee53e270acb67","fromSide":"right","toNode":"7eba6efea6f63288","toSide":"left"},
+		{"id":"1c1f33b41fb84fe1","fromNode":"11b06844ef6a7c98","fromSide":"right","toNode":"7eba6efea6f63288","toSide":"left"}
+	]
+}

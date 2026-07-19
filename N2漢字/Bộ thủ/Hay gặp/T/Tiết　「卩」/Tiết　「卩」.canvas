@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"b4eeb20ac346ce79","x":-32,"y":-54,"width":250,"height":60,"type":"text","text":"Tiết　「卩」"},
-		{"id":"e4258e093229bc97","x":320,"y":-121,"width":340,"height":81,"type":"text","text":"|khớp, quỳ gối|Thường chỉ nghi lễ, tôn trọng.|\n|---|---|"}
+		{"id":"b4eeb20ac346ce79","type":"text","text":"Tiết　「卩」","x":-32,"y":-54,"width":250,"height":60},
+		{"id":"e4258e093229bc97","type":"text","text":"|khớp, quỳ gối|Thường chỉ nghi lễ, tôn trọng.|\n|---|---|","x":-500,"y":-260,"width":340,"height":81},
+		{"id":"0a6c9f178e58bedc","x":380,"y":-316,"width":262,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/却 - Khước/却 - Khước.canvas"},
+		{"id":"3f21089ea8baf841","x":-18,"y":-500,"width":236,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas"}
 	],
 	"edges":[
-		{"id":"54812b0dbf9d287c","fromNode":"b4eeb20ac346ce79","fromSide":"right","toNode":"e4258e093229bc97","toSide":"left"}
+		{"id":"7d886726e111a77c","fromNode":"e4258e093229bc97","fromSide":"right","toNode":"b4eeb20ac346ce79","toSide":"left"},
+		{"id":"b0c4003ed604f881","fromNode":"b4eeb20ac346ce79","fromSide":"right","toNode":"0a6c9f178e58bedc","toSide":"left"},
+		{"id":"8d6d3901b30c69df","fromNode":"3f21089ea8baf841","fromSide":"right","toNode":"0a6c9f178e58bedc","toSide":"left"}
 	]
 }

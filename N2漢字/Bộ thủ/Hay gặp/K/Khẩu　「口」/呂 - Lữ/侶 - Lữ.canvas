@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5fd29df8b5e0c5c3","x":-116,"y":-50,"width":250,"height":60,"type":"text","text":"侶 - Lữ"},
+		{"id":"74ce0f58eb8c4a0f","x":-400,"y":60,"width":178,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呂 - Lữ/呂 - Lữ.canvas"},
+		{"id":"e1152747446f5e86","x":-600,"y":-76,"width":148,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"a9be1804ee61015e","fromNode":"74ce0f58eb8c4a0f","fromSide":"right","toNode":"5fd29df8b5e0c5c3","toSide":"left"},
+		{"id":"09a33358ee39b04f","fromNode":"e1152747446f5e86","fromSide":"right","toNode":"5fd29df8b5e0c5c3","toSide":"left"}
+	]
+}

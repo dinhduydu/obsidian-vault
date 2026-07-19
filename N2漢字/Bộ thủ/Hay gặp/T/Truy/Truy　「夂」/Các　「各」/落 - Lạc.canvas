@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"61bc23efd420c671","x":-132,"y":-13,"width":250,"height":60,"type":"text","text":"落 - Lạc"},
+		{"id":"147a179141772477","x":-727,"y":-189,"width":250,"height":60,"type":"text","text":"rơi xuống"},
+		{"id":"9e118de1de93273b","x":-633,"y":47,"width":156,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas"},
+		{"id":"4903d11215c0ccca","x":-380,"y":-245,"width":144,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"d5727b07aab37d25","x":-860,"y":-48,"width":161,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"e60482e971069d70","fromNode":"147a179141772477","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
+		{"id":"9e623f5004961d04","fromNode":"9e118de1de93273b","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
+		{"id":"6c55396b8d6c842a","fromNode":"4903d11215c0ccca","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
+		{"id":"b3b3206ac82b20f4","fromNode":"d5727b07aab37d25","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"}
+	]
+}

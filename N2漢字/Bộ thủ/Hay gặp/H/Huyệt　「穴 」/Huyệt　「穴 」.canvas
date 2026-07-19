@@ -5,7 +5,7 @@
 		{"id":"af575f26e6c75373","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/究 - Cứu.canvas","x":220,"y":60,"width":166,"height":109},
 		{"id":"136f717e2564e71e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/空 - Không.canvas","x":303,"y":-159,"width":197,"height":162},
 		{"id":"4f39245382a8a9d2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/突 - Đột.canvas","x":303,"y":-440,"width":157,"height":140},
-		{"id":"906ddec8d129f598","x":320,"y":266,"width":269,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas"}
+		{"id":"906ddec8d129f598","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/窓 - Song.canvas","x":320,"y":266,"width":269,"height":197}
 	],
 	"edges":[
 		{"id":"5407b9b9682bb303","fromNode":"44915436409374aa","fromSide":"right","toNode":"af575f26e6c75373","toSide":"left"},

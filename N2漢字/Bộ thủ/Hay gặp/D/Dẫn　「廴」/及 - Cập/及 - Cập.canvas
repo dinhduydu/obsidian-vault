@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfdcf8b0257e704c","x":-130,"y":-28,"width":250,"height":60,"type":"text","text":"及 - Cập"},
+		{"id":"797931e888391c5d","x":-460,"y":120,"width":200,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/Dẫn　「廴」.canvas"},
+		{"id":"ce1040c339f2f4be","x":-417,"y":-200,"width":157,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"}
+	],
+	"edges":[
+		{"id":"8f73b7e9f92c4cc3","fromNode":"797931e888391c5d","fromSide":"right","toNode":"bfdcf8b0257e704c","toSide":"left"},
+		{"id":"f89ec89d75f1c3de","fromNode":"ce1040c339f2f4be","fromSide":"right","toNode":"bfdcf8b0257e704c","toSide":"left"}
+	]
+}

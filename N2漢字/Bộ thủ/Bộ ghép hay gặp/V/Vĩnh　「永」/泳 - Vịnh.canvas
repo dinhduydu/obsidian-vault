@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a1f71b95af8a74e","x":-122,"y":-27,"width":250,"height":60,"type":"text","text":"泳 - Vịnh"},
+		{"id":"7b1eb2cc1961d7f7","x":-500,"y":-260,"width":226,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vĩnh　「永」/Vĩnh　「永」.canvas"},
+		{"id":"e7c8e28abc9df194","x":-439,"y":120,"width":165,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"a4ba5dfb355983c5","fromNode":"7b1eb2cc1961d7f7","fromSide":"right","toNode":"7a1f71b95af8a74e","toSide":"left"},
+		{"id":"ad7b64b64a2ed281","fromNode":"e7c8e28abc9df194","fromSide":"right","toNode":"7a1f71b95af8a74e","toSide":"left"}
+	]
+}

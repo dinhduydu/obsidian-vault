@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"91dd4b8f4cfea75d","x":-176,"y":-37,"width":250,"height":60,"type":"text","text":"難 - Nan"},
+		{"id":"8138e7eb04b5350d","x":-500,"y":-220,"width":186,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/漢 - Hán.canvas"},
+		{"id":"77a68381c7182341","x":-464,"y":120,"width":150,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"}
+	],
+	"edges":[
+		{"id":"e02cfb556de3dfcf","fromNode":"8138e7eb04b5350d","fromSide":"right","toNode":"91dd4b8f4cfea75d","toSide":"left"},
+		{"id":"39a464294717373d","fromNode":"77a68381c7182341","fromSide":"right","toNode":"91dd4b8f4cfea75d","toSide":"left"}
+	]
+}

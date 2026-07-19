@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b6038aaeb662c409","x":-400,"y":180,"width":253,"height":211,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"9ab2d84b8b7e3444","x":80,"y":0,"width":250,"height":60,"type":"text","text":"桜 - Anh"},
+		{"id":"7967c97b69f4af86","x":-580,"y":-64,"width":246,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"f27c87d25d26ec7d","x":-288,"y":-280,"width":141,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"41a9e8856ced0c5d","fromNode":"b6038aaeb662c409","fromSide":"right","toNode":"9ab2d84b8b7e3444","toSide":"left"},
+		{"id":"a2ccd376f5f052a8","fromNode":"7967c97b69f4af86","fromSide":"right","toNode":"9ab2d84b8b7e3444","toSide":"left"},
+		{"id":"4babc94216c7f3a5","fromNode":"f27c87d25d26ec7d","fromSide":"right","toNode":"9ab2d84b8b7e3444","toSide":"left"}
+	]
+}

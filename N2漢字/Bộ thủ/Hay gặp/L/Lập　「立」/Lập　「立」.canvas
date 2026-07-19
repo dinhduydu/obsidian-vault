@@ -1,32 +1,26 @@
 {
 	"nodes":[
-		{"id":"b1b5bf77c24e28b0","type":"text","text":"Lập　「立」","x":-117,"y":-1,"width":250,"height":60},
-		{"id":"73810d431c6e7c62","type":"text","text":"並 - Tịnh","x":303,"y":-59,"width":250,"height":60},
-		{"id":"cd36f3556a91b66e","type":"text","text":"普 - Phổ","x":291,"y":92,"width":250,"height":60},
-		{"id":"6c464b1f97ff15fb","type":"file","file":"Pasted image 20260527193540.png","x":291,"y":300,"width":400,"height":209},
-		{"id":"7037518e3957fa4e","type":"text","text":"競う　「きそう」：","x":820,"y":375,"width":250,"height":60},
-		{"id":"eaf3f038c349f321","type":"text","text":"普及　「」：phổ cập","x":802,"y":27,"width":250,"height":60},
-		{"id":"2ffd7a2438a99a38","type":"text","text":"電気自動車が**普及**するのにはまだ時間がかかる。","x":1200,"y":32,"width":437,"height":50},
 		{"id":"90ff0efc83a9cacf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":8,"y":-380,"width":175,"height":111},
-		{"id":"f1f1c7aef7a960a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":40,"y":-780,"width":156,"height":150},
-		{"id":"930e279fc2c4468c","type":"text","text":"泣く　「なく」：khóc","x":658,"y":-551,"width":250,"height":60},
-		{"id":"1039a95f0348926a","type":"text","text":"泣 - Khấp","x":303,"y":-560,"width":250,"height":60},
 		{"id":"3f0f50bb35d18961","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/位 - Vị.canvas","x":307,"y":-269,"width":109,"height":74},
-		{"id":"1947a855f0047823","x":291,"y":680,"width":259,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/翌 - Dực.canvas"},
-		{"id":"527e977d96df6f47","x":-80,"y":800,"width":165,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
+		{"id":"1947a855f0047823","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/翌 - Dực.canvas","x":291,"y":680,"width":259,"height":191},
+		{"id":"527e977d96df6f47","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-80,"y":800,"width":165,"height":127},
+		{"id":"784f60efee21bd52","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/普 - Phổ.canvas","x":563,"y":-55,"width":256,"height":168},
+		{"id":"27e0653d7a2a7595","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":283,"y":80,"width":157,"height":156},
+		{"id":"5c990f452a763bfc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/競 - Cạnh.canvas","x":327,"y":320,"width":188,"height":145},
+		{"id":"b1b5bf77c24e28b0","type":"text","text":"Lập　「立」","x":-117,"y":-1,"width":250,"height":60},
+		{"id":"14c2a689495631e4","type":"text","text":"Lập　「立」","x":-85,"y":-1060,"width":250,"height":60},
+		{"id":"f1f1c7aef7a960a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":9,"y":-1300,"width":156,"height":150},
+		{"id":"de123f98b44c091f","x":320,"y":-1210,"width":219,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/泣 - Khấp.canvas"}
 	],
 	"edges":[
-		{"id":"ba115b4227328d79","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"73810d431c6e7c62","toSide":"left"},
-		{"id":"deb79bd8c4058918","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"cd36f3556a91b66e","toSide":"left"},
-		{"id":"a76010abcfd9a991","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"6c464b1f97ff15fb","toSide":"left"},
-		{"id":"666a020f46eac4ee","fromNode":"6c464b1f97ff15fb","fromSide":"right","toNode":"7037518e3957fa4e","toSide":"left"},
-		{"id":"72e32fc3cf9fe5ad","fromNode":"cd36f3556a91b66e","fromSide":"right","toNode":"eaf3f038c349f321","toSide":"left"},
-		{"id":"13038a575a1485e7","fromNode":"eaf3f038c349f321","fromSide":"right","toNode":"2ffd7a2438a99a38","toSide":"left"},
+		{"id":"deb79bd8c4058918","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"784f60efee21bd52","toSide":"left"},
+		{"id":"a76010abcfd9a991","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"5c990f452a763bfc","toSide":"left"},
 		{"id":"16d7d2620e10b3e3","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
 		{"id":"06afb6c9bee7f930","fromNode":"90ff0efc83a9cacf","fromSide":"right","toNode":"3f0f50bb35d18961","toSide":"left"},
-		{"id":"66bd2368d2e95538","fromNode":"1039a95f0348926a","fromSide":"right","toNode":"930e279fc2c4468c","toSide":"left"},
-		{"id":"6cca4233632a9869","fromNode":"f1f1c7aef7a960a9","fromSide":"right","toNode":"1039a95f0348926a","toSide":"left"},
+		{"id":"6cca4233632a9869","fromNode":"f1f1c7aef7a960a9","fromSide":"right","toNode":"de123f98b44c091f","toSide":"left"},
 		{"id":"acb9272a5d3467df","fromNode":"b1b5bf77c24e28b0","fromSide":"right","toNode":"1947a855f0047823","toSide":"left"},
-		{"id":"c13e3a7107c7cbe6","fromNode":"527e977d96df6f47","fromSide":"right","toNode":"1947a855f0047823","toSide":"left"}
+		{"id":"c13e3a7107c7cbe6","fromNode":"527e977d96df6f47","fromSide":"right","toNode":"1947a855f0047823","toSide":"left"},
+		{"id":"4480f11c5809abd6","fromNode":"27e0653d7a2a7595","fromSide":"right","toNode":"784f60efee21bd52","toSide":"left"},
+		{"id":"1752d3857c018f4b","fromNode":"14c2a689495631e4","fromSide":"right","toNode":"de123f98b44c091f","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9997142574864a47","x":-85,"y":-45,"width":250,"height":60,"type":"text","text":"皆 - Giai"},
+		{"id":"27501a0021528b2e","x":-400,"y":-240,"width":182,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas"},
+		{"id":"0af83e27a754ce52","x":-388,"y":60,"width":170,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+	],
+	"edges":[
+		{"id":"7ceaecf7c4e38a97","fromNode":"27501a0021528b2e","fromSide":"right","toNode":"9997142574864a47","toSide":"left"},
+		{"id":"4667a855b76bf7bd","fromNode":"0af83e27a754ce52","fromSide":"right","toNode":"9997142574864a47","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"00d3b586a3def378","type":"group","x":260,"y":-580,"width":899,"height":1130,"label":"Bộ phận cơ thể người"},
 		{"id":"9a0cbdd0c41e28aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":40,"y":-1100,"width":123,"height":83},
-		{"id":"fe8ffa81065bcec2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「永」/Thuỷ　「永」.canvas","x":-860,"y":252,"width":211,"height":177},
+		{"id":"fe8ffa81065bcec2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas","x":-860,"y":252,"width":211,"height":177},
 		{"id":"d9ad1dcb0d6e81bd","type":"text","text":"永 → dòng nước chảy\n𠂢 (phần nét xiên phía trên)","x":-600,"y":310,"width":250,"height":60},
 		{"id":"09c34599b9ea29af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-580,"y":100,"width":144,"height":141},
 		{"id":"9968fc95be3d0be8","type":"text","text":"Lliên quan đến cơ thể, bộ Nhục viết biến dạng thành **月** ở bên trái.","x":-730,"y":-482,"width":260,"height":101},

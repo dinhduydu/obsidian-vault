@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c358c5bd109e0144","type":"text","text":"傍 - Bàng","x":-108,"y":-42,"width":250,"height":60},
+		{"id":"738760eaa6dafeef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-520,"y":-280,"width":181,"height":127},
+		{"id":"f915cf30efae1286","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Bàng　「旁」/Bàng　「旁」.canvas","x":-520,"y":-86,"width":178,"height":149}
+	],
+	"edges":[
+		{"id":"77c72ae5ebd1c4c9","fromNode":"738760eaa6dafeef","fromSide":"right","toNode":"c358c5bd109e0144","toSide":"left"},
+		{"id":"341e09536d25d5a4","fromNode":"f915cf30efae1286","fromSide":"right","toNode":"c358c5bd109e0144","toSide":"left"}
+	]
+}
