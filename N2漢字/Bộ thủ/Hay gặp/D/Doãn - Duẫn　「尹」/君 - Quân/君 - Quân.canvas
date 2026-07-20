@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb5a39ff1aba7d46","x":-106,"y":-33,"width":250,"height":60,"type":"text","text":"君 - Quân"},
+		{"id":"7761c24b481f4a0d","x":-360,"y":-151,"width":128,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/Doãn - Duẫn　「尹」.canvas"},
+		{"id":"5e477141ead61ab7","x":-411,"y":80,"width":179,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"aeb1dfbaf7a02669","fromNode":"7761c24b481f4a0d","fromSide":"right","toNode":"fb5a39ff1aba7d46","toSide":"left"},
+		{"id":"b46c372927220f4d","fromNode":"5e477141ead61ab7","fromSide":"right","toNode":"fb5a39ff1aba7d46","toSide":"left"}
+	]
+}

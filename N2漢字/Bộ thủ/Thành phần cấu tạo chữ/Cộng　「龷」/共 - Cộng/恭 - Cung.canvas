@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f029962dfa783d53","x":-103,"y":-54,"width":250,"height":60,"type":"text","text":"恭 - Cung"},
+		{"id":"d0c2c4d404f9b3bf","x":-380,"y":-147,"width":147,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"},
+		{"id":"02536cf488a596db","x":-397,"y":80,"width":164,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"15b9cbcf09cd834e","fromNode":"d0c2c4d404f9b3bf","fromSide":"right","toNode":"f029962dfa783d53","toSide":"left"},
+		{"id":"310bc0fcc1bb05df","fromNode":"02536cf488a596db","fromSide":"right","toNode":"f029962dfa783d53","toSide":"left"}
+	]
+}

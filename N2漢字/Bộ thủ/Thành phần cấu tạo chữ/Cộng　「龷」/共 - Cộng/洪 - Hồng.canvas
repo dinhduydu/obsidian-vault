@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"074c8ee27bbcf894","type":"text","text":"洪 - Hồng","x":-138,"y":-41,"width":250,"height":60},
+		{"id":"e4ea0363d42e00f6","x":-560,"y":-260,"width":222,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"24a162c9e45b4eae","x":-552,"y":80,"width":214,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"}
+	],
+	"edges":[
+		{"id":"961bf2fca8a18a00","fromNode":"e4ea0363d42e00f6","fromSide":"right","toNode":"074c8ee27bbcf894","toSide":"left"},
+		{"id":"bed56be02a204524","fromNode":"24a162c9e45b4eae","fromSide":"right","toNode":"074c8ee27bbcf894","toSide":"left"}
+	]
+}

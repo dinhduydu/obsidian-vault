@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"id":"9440d8823147612b","x":-118,"y":-15,"width":250,"height":60,"type":"text","text":"Doãn - Duẫn　「尹」"},
-		{"id":"c0879b605e4dedb7","x":300,"y":-180,"width":132,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/伊 - Y.canvas"}
+		{"id":"9440d8823147612b","type":"text","text":"Doãn - Duẫn　「尹」","x":-118,"y":-15,"width":250,"height":60},
+		{"id":"c0879b605e4dedb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/伊 - Y.canvas","x":300,"y":-180,"width":132,"height":140},
+		{"id":"074d9147b01a4855","x":300,"y":80,"width":238,"height":258,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/君 - Quân/君 - Quân.canvas"},
+		{"id":"a03f165d20432600","x":83,"y":242,"width":99,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"7328122bf18323e0","x":5,"y":-300,"width":157,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
 	],
 	"edges":[
-		{"id":"be3a64dbb7b9a1d7","fromNode":"9440d8823147612b","fromSide":"right","toNode":"c0879b605e4dedb7","toSide":"left"}
+		{"id":"be3a64dbb7b9a1d7","fromNode":"9440d8823147612b","fromSide":"right","toNode":"c0879b605e4dedb7","toSide":"left"},
+		{"id":"c17ceffd9c9c936c","fromNode":"9440d8823147612b","fromSide":"right","toNode":"074d9147b01a4855","toSide":"left"},
+		{"id":"256ce0ee898ba3ce","fromNode":"a03f165d20432600","fromSide":"right","toNode":"074d9147b01a4855","toSide":"left"},
+		{"id":"ddfd77bb44445b72","fromNode":"7328122bf18323e0","fromSide":"right","toNode":"c0879b605e4dedb7","toSide":"left"}
 	]
 }

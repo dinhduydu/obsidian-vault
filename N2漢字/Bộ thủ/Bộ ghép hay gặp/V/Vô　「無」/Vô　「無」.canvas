@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fd69cce849759932","x":-132,"y":-28,"width":250,"height":60,"type":"text","text":"Vô　「無」"},
+		{"id":"b02e85ac420847e1","x":-460,"y":220,"width":151,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"},
+		{"id":"27c581065e9cde58","x":-460,"y":-200,"width":138,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"},
+		{"id":"3482b968cc891121","x":-488,"y":-28,"width":166,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"7b14869108951786","fromNode":"b02e85ac420847e1","fromSide":"right","toNode":"fd69cce849759932","toSide":"left"},
+		{"id":"e27c9ae340136079","fromNode":"27c581065e9cde58","fromSide":"right","toNode":"fd69cce849759932","toSide":"left"},
+		{"id":"eccb65b61506cabb","fromNode":"3482b968cc891121","fromSide":"right","toNode":"fd69cce849759932","toSide":"left","label":"x2"}
+	]
+}

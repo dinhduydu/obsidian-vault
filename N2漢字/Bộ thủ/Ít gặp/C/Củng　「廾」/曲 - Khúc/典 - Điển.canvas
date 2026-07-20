@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6249a679a09393dc","x":-121,"y":-28,"width":250,"height":60,"type":"text","text":"典 - Điển"},
+		{"id":"04992e66dec0407b","x":-500,"y":-280,"width":119,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曲 - Khúc.canvas"},
+		{"id":"ba2ca234f21be534","x":-525,"y":100,"width":144,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas"}
+	],
+	"edges":[
+		{"id":"7e14605be7fa5f17","fromNode":"04992e66dec0407b","fromSide":"right","toNode":"6249a679a09393dc","toSide":"left"},
+		{"id":"82fe6a495c037979","fromNode":"ba2ca234f21be534","fromSide":"right","toNode":"6249a679a09393dc","toSide":"left"}
+	]
+}

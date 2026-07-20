@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aa668c5369668075","x":-155,"y":-18,"width":250,"height":60,"type":"text","text":"艶 - Diễm"},
+		{"id":"c52b7c038f6a656b","x":-540,"y":-187,"width":198,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/豊 - Phong.canvas"},
+		{"id":"9a3dc9350868d06e","x":-549,"y":140,"width":207,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas"}
+	],
+	"edges":[
+		{"id":"a9d97781564b34ac","fromNode":"c52b7c038f6a656b","fromSide":"right","toNode":"aa668c5369668075","toSide":"left"},
+		{"id":"fbdc3e4f202331ea","fromNode":"9a3dc9350868d06e","fromSide":"right","toNode":"aa668c5369668075","toSide":"left"}
+	]
+}

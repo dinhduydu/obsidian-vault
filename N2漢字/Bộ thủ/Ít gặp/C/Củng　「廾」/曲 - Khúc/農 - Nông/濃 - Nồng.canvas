@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ebf5b0986855989c","x":-116,"y":-36,"width":250,"height":60,"type":"text","text":"濃 - Nồng"},
+		{"id":"35ba37b9ab59aaf2","x":-500,"y":-200,"width":182,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/農 - Nông/農 - Nông.canvas"},
+		{"id":"be055a73069e15d5","x":-500,"y":60,"width":169,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"58a1766c64b9da93","fromNode":"35ba37b9ab59aaf2","fromSide":"right","toNode":"ebf5b0986855989c","toSide":"left"},
+		{"id":"735b09b402d5dfbd","fromNode":"be055a73069e15d5","fromSide":"right","toNode":"ebf5b0986855989c","toSide":"left"}
+	]
+}

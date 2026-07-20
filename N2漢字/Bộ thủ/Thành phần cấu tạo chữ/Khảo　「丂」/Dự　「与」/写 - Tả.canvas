@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dbf5bd310d97108b","x":-101,"y":-68,"width":250,"height":60,"type":"text","text":"写 - Tả"},
+		{"id":"51ed7fa827b904d0","x":-500,"y":60,"width":178,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/Dự　「与」/Dự　「与」.canvas"},
+		{"id":"ecbcdef908eb2f25","x":-490,"y":-240,"width":168,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"44c36c5cd65b5a45","fromNode":"51ed7fa827b904d0","fromSide":"right","toNode":"dbf5bd310d97108b","toSide":"left"},
+		{"id":"c84b9f465108e605","fromNode":"ecbcdef908eb2f25","fromSide":"right","toNode":"dbf5bd310d97108b","toSide":"left"}
+	]
+}

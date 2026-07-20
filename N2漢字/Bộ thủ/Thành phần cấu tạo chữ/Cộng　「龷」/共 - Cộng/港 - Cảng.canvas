@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"84259aa055590eda","x":-400,"y":-189,"width":166,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"},
+		{"id":"a82b1916531a0dcf","x":-560,"y":4,"width":186,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"88a26a6c4687bc2d","x":-401,"y":240,"width":167,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
+		{"id":"f841c107422f5c9f","type":"text","text":"港 - Cảng","x":-120,"y":58,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e91352b449e62e4f","fromNode":"84259aa055590eda","fromSide":"right","toNode":"f841c107422f5c9f","toSide":"left"},
+		{"id":"f2a976059e57ce2f","fromNode":"a82b1916531a0dcf","fromSide":"right","toNode":"f841c107422f5c9f","toSide":"left"},
+		{"id":"dcdd07e6719fd40c","fromNode":"88a26a6c4687bc2d","fromSide":"right","toNode":"f841c107422f5c9f","toSide":"left"}
+	]
+}

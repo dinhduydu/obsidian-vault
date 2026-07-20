@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6b40e4eb25e492ea","x":-95,"y":-83,"width":250,"height":60,"type":"text","text":"曲 - Khúc"},
+		{"id":"b780ad49d09c67b9","x":-360,"y":-200,"width":87,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"165e01b7075f36d8","x":-453,"y":40,"width":180,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"1b1673ac939b621a","x":-640,"y":-83,"width":250,"height":60,"type":"text","text":"bẻ, uốn cong"}
+	],
+	"edges":[
+		{"id":"fd7979d52e70544d","fromNode":"b780ad49d09c67b9","fromSide":"right","toNode":"6b40e4eb25e492ea","toSide":"left"},
+		{"id":"830050f49fc43706","fromNode":"165e01b7075f36d8","fromSide":"right","toNode":"6b40e4eb25e492ea","toSide":"left"},
+		{"id":"0c70929e9c9c17df","fromNode":"1b1673ac939b621a","fromSide":"right","toNode":"6b40e4eb25e492ea","toSide":"left"}
+	]
+}

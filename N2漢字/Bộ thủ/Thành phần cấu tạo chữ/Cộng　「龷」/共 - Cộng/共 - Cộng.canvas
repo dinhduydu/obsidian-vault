@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"32fbd5dd33d41ee9","type":"text","text":"共 - Cộng","x":-186,"y":-12,"width":250,"height":60},
+		{"id":"53a93a9f3b748061","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas","x":-443,"y":100,"width":162,"height":159},
+		{"id":"1c5c6f20df4888d8","x":-431,"y":-138,"width":150,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/Cộng　「龷」.canvas"},
+		{"id":"1d28753b01440e12","x":-840,"y":-267,"width":158,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"7f82997a4199e613","x":-861,"y":-12,"width":179,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"689c4c9226c1204b","fromNode":"1c5c6f20df4888d8","fromSide":"right","toNode":"32fbd5dd33d41ee9","toSide":"left"},
+		{"id":"43aa56245815501a","fromNode":"53a93a9f3b748061","fromSide":"right","toNode":"32fbd5dd33d41ee9","toSide":"left"},
+		{"id":"f1a4db9e7126d3f7","fromNode":"1d28753b01440e12","fromSide":"right","toNode":"1c5c6f20df4888d8","toSide":"left"},
+		{"id":"c71b68224a07f180","fromNode":"7f82997a4199e613","fromSide":"right","toNode":"1c5c6f20df4888d8","toSide":"left"}
+	]
+}

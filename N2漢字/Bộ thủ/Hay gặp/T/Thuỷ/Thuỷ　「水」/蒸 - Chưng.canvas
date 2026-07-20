@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ca60d41385895d39","x":-132,"y":-45,"width":250,"height":60,"type":"text","text":"蒸 - Chưng"},
+		{"id":"7f6112235b847b63","x":-560,"y":-240,"width":210,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"0235ccb6febcbf46","x":-516,"y":-82,"width":166,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"},
+		{"id":"b02e5783d4eddfac","x":-583,"y":140,"width":233,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"393374f6ffc55521","x":-542,"y":420,"width":192,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"c534b7181b55e147","fromNode":"7f6112235b847b63","fromSide":"right","toNode":"ca60d41385895d39","toSide":"left"},
+		{"id":"4724128760ca32e7","fromNode":"0235ccb6febcbf46","fromSide":"right","toNode":"ca60d41385895d39","toSide":"left"},
+		{"id":"7cc8ac80b0ad6777","fromNode":"b02e5783d4eddfac","fromSide":"right","toNode":"ca60d41385895d39","toSide":"left"},
+		{"id":"f70275c8fc0a40d4","fromNode":"393374f6ffc55521","fromSide":"right","toNode":"ca60d41385895d39","toSide":"left"}
+	]
+}

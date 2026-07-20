@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"07ec007190d29f46","x":-82,"y":-27,"width":250,"height":60,"type":"text","text":"Thần「辰」"},
-		{"id":"1f597eba4f2e57d9","x":299,"y":-79,"width":250,"height":60,"type":"text","text":"Thìn"}
+		{"id":"07ec007190d29f46","type":"text","text":"Thần「辰」","x":-82,"y":-27,"width":250,"height":60},
+		{"id":"1f597eba4f2e57d9","type":"text","text":"Thìn","x":-400,"y":-220,"width":250,"height":60},
+		{"id":"efe1e4a29c7203ba","x":340,"y":-243,"width":191,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/農 - Nông/農 - Nông.canvas"}
 	],
 	"edges":[
-		{"id":"c63911d043619d5b","fromNode":"07ec007190d29f46","fromSide":"right","toNode":"1f597eba4f2e57d9","toSide":"left"}
+		{"id":"e976c4ec842bd973","fromNode":"1f597eba4f2e57d9","fromSide":"right","toNode":"07ec007190d29f46","toSide":"left"},
+		{"id":"da7c46af28e8dfd5","fromNode":"07ec007190d29f46","fromSide":"right","toNode":"efe1e4a29c7203ba","toSide":"left"}
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a7c9e45f09f4ae28","type":"text","text":"展 - Triển","x":-130,"y":-22,"width":250,"height":60},
+		{"id":"56d9092baabc4200","x":-500,"y":-300,"width":151,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"a3180a43cb7f4da7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":-460,"y":85,"width":127,"height":94},
+		{"id":"148ec1efc3dd9b6e","x":-743,"y":-100,"width":243,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"2d05cfbe57531e36","fromNode":"a3180a43cb7f4da7","fromSide":"right","toNode":"a7c9e45f09f4ae28","toSide":"left"},
+		{"id":"87f6d977ef0caa36","fromNode":"56d9092baabc4200","fromSide":"right","toNode":"a7c9e45f09f4ae28","toSide":"left"},
+		{"id":"6523200a0fcabb43","fromNode":"148ec1efc3dd9b6e","fromSide":"right","toNode":"a7c9e45f09f4ae28","toSide":"left"}
+	]
+}

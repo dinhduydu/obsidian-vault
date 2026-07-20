@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"913dbb6f9891be34","type":"text","text":"Sắc　「色」","x":-252,"y":8,"width":250,"height":60},
-		{"id":"f63666f504a9c25b","x":180,"y":-260,"width":258,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/絶 - Tuyệt.canvas"},
-		{"id":"35c4128e675c74ef","x":-184,"y":-400,"width":182,"height":222,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"f63666f504a9c25b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/絶 - Tuyệt.canvas","x":180,"y":-260,"width":258,"height":179},
+		{"id":"35c4128e675c74ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-184,"y":-400,"width":182,"height":222},
+		{"id":"bdfc39a6b4720328","x":184,"y":160,"width":254,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/艶 - Diễm.canvas"},
+		{"id":"b958799e35506099","x":-182,"y":267,"width":180,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/豊 - Phong.canvas"}
 	],
 	"edges":[
 		{"id":"e0e86c7ae49b4130","fromNode":"913dbb6f9891be34","fromSide":"right","toNode":"f63666f504a9c25b","toSide":"left"},
-		{"id":"8ea480f3c117aa6a","fromNode":"35c4128e675c74ef","fromSide":"right","toNode":"f63666f504a9c25b","toSide":"left"}
+		{"id":"8ea480f3c117aa6a","fromNode":"35c4128e675c74ef","fromSide":"right","toNode":"f63666f504a9c25b","toSide":"left"},
+		{"id":"ec47e5d1b0b4b8f2","fromNode":"913dbb6f9891be34","fromSide":"right","toNode":"bdfc39a6b4720328","toSide":"left"},
+		{"id":"963137fc6dddeefa","fromNode":"b958799e35506099","fromSide":"right","toNode":"bdfc39a6b4720328","toSide":"left"}
 	]
 }

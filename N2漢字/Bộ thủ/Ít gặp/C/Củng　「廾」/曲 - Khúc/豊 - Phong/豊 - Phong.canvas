@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b80607c218ad79d7","type":"text","text":"豊 - Phong","x":-124,"y":-66,"width":250,"height":60},
+		{"id":"4a09a504b82ed303","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曲 - Khúc.canvas","x":-440,"y":-220,"width":181,"height":138},
+		{"id":"c6ff3e3872001614","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas","x":-406,"y":40,"width":147,"height":132},
+		{"id":"a6da6f65c96b4f77","x":280,"y":-335,"width":261,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/艶 - Diễm.canvas"},
+		{"id":"0997efaeea6b953d","x":-78,"y":-411,"width":204,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas"}
+	],
+	"edges":[
+		{"id":"366d885a0c684a65","fromNode":"4a09a504b82ed303","fromSide":"right","toNode":"b80607c218ad79d7","toSide":"left"},
+		{"id":"3f2755ddb2d7ca50","fromNode":"c6ff3e3872001614","fromSide":"right","toNode":"b80607c218ad79d7","toSide":"left"},
+		{"id":"431333ba743692f7","fromNode":"b80607c218ad79d7","fromSide":"right","toNode":"a6da6f65c96b4f77","toSide":"left"},
+		{"id":"fcdf10dc3bbb21c4","fromNode":"0997efaeea6b953d","fromSide":"right","toNode":"a6da6f65c96b4f77","toSide":"left"}
+	]
+}

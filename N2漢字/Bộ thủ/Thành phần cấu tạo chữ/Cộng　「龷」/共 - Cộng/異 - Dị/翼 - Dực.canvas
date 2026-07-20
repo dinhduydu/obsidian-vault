@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"62040598b4c8530c","type":"text","text":"翼 - Dực","x":-85,"y":-32,"width":250,"height":60},
+		{"id":"918d4374c2008fd9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị/異 - Dị.canvas","x":-420,"y":140,"width":154,"height":136},
+		{"id":"f4d05b522a610ead","x":-505,"y":-280,"width":239,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「羽」/Vũ　「羽」.canvas"}
+	],
+	"edges":[
+		{"id":"34be3f68ca866f1b","fromNode":"918d4374c2008fd9","fromSide":"right","toNode":"62040598b4c8530c","toSide":"left"},
+		{"id":"efb80eb6f41c2885","fromNode":"f4d05b522a610ead","fromSide":"right","toNode":"62040598b4c8530c","toSide":"left"}
+	]
+}

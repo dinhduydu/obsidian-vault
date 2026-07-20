@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"365e94534bf9375e","x":-87,"y":-27,"width":250,"height":60,"type":"text","text":"舞 - Vũ"},
+		{"id":"05a28cd22cc2ff8c","x":-400,"y":-180,"width":164,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vô　「無」/Vô　「無」.canvas"},
+		{"id":"00bc42313a3b6eb6","x":-406,"y":33,"width":170,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"},
+		{"id":"cf3534c8c4d282b1","x":-391,"y":300,"width":155,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"50bf693acaad32a6","fromNode":"05a28cd22cc2ff8c","fromSide":"right","toNode":"365e94534bf9375e","toSide":"left"},
+		{"id":"4c49a2859f7f2898","fromNode":"00bc42313a3b6eb6","fromSide":"right","toNode":"365e94534bf9375e","toSide":"left"},
+		{"id":"ff91fd05ceba768d","fromNode":"cf3534c8c4d282b1","fromSide":"right","toNode":"365e94534bf9375e","toSide":"left"}
+	]
+}

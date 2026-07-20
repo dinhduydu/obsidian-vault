@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bbf650f1ccd379a6","type":"text","text":"Dự　「与」","x":-166,"y":-61,"width":250,"height":60},
+		{"id":"1bdecdda980f94c4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-534,"y":40,"width":188,"height":185},
+		{"id":"f2530517613299fc","x":-537,"y":-220,"width":191,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"}
+	],
+	"edges":[
+		{"id":"e7dd2c69ad58fda6","fromNode":"1bdecdda980f94c4","fromSide":"right","toNode":"bbf650f1ccd379a6","toSide":"left"},
+		{"id":"dfbd340a79d6f877","fromNode":"f2530517613299fc","fromSide":"right","toNode":"bbf650f1ccd379a6","toSide":"left"}
+	]
+}

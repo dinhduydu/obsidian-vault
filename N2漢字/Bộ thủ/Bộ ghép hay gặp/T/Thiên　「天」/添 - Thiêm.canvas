@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cac100b4016b099e","x":-135,"y":-37,"width":250,"height":60,"type":"text","text":"添 - Thiêm"},
+		{"id":"839de2e304999e84","x":-520,"y":-177,"width":196,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"dadce789beee4bf2","x":-509,"y":80,"width":185,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」/Thiên　「天」.canvas"},
+		{"id":"6bfab3a9b51047e5","x":-598,"y":320,"width":274,"height":253,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"bb0b73b8d2bfd468","fromNode":"839de2e304999e84","fromSide":"right","toNode":"cac100b4016b099e","toSide":"left"},
+		{"id":"f47fe77f513315ca","fromNode":"6bfab3a9b51047e5","fromSide":"right","toNode":"cac100b4016b099e","toSide":"left"},
+		{"id":"6b6967fc558c0913","fromNode":"dadce789beee4bf2","fromSide":"right","toNode":"cac100b4016b099e","toSide":"left"}
+	]
+}

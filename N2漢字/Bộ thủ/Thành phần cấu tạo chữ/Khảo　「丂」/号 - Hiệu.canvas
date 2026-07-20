@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1ac00cc8f3c31bdb","x":-160,"y":-39,"width":250,"height":60,"type":"text","text":"号 - Hiệu"},
+		{"id":"822d757b351a899d","x":-480,"y":60,"width":143,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"},
+		{"id":"46f3ec851ba0a36c","x":-482,"y":-220,"width":145,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a1726f0507547681","fromNode":"822d757b351a899d","fromSide":"right","toNode":"1ac00cc8f3c31bdb","toSide":"left"},
+		{"id":"61debad8e03de24c","fromNode":"46f3ec851ba0a36c","fromSide":"right","toNode":"1ac00cc8f3c31bdb","toSide":"left"}
+	]
+}

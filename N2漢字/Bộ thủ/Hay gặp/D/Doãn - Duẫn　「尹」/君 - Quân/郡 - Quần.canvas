@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"114369240b70d7fc","x":-129,"y":-66,"width":250,"height":60,"type":"text","text":"郡 - Quần"},
+		{"id":"a625425ac614c433","x":-500,"y":-240,"width":188,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/君 - Quân/君 - Quân.canvas"},
+		{"id":"8074425a45a3b909","x":-459,"y":40,"width":147,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"3d703955dba97ddf","fromNode":"a625425ac614c433","fromSide":"right","toNode":"114369240b70d7fc","toSide":"left"},
+		{"id":"317313f503a72068","fromNode":"8074425a45a3b909","fromSide":"right","toNode":"114369240b70d7fc","toSide":"left"}
+	]
+}
