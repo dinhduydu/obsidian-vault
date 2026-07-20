@@ -2,18 +2,20 @@
 	"nodes":[
 		{"id":"d1fc6a11ca2b79b9","type":"text","text":"Chính　「正」","x":-110,"y":-54,"width":250,"height":60},
 		{"id":"05381bed7bc4e644","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-500,"y":-280,"width":182,"height":159},
-		{"id":"aa1e84cfea58db4c","x":-532,"y":80,"width":214,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
-		{"id":"3a3229f160dd52c2","x":340,"y":-181,"width":250,"height":60,"type":"text","text":"正す　「ただす」：chính xác"},
-		{"id":"b769ca2c0044fd5f","x":-29,"y":140,"width":169,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"},
-		{"id":"9c92c6cc020e618d","x":320,"y":110,"width":250,"height":60,"type":"text","text":"政 - Chính"},
-		{"id":"15344af9731ae9c4","x":722,"y":76,"width":250,"height":60,"type":"text","text":"政治　「せいじ」：chính trị"}
+		{"id":"aa1e84cfea58db4c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas","x":-532,"y":80,"width":214,"height":177},
+		{"id":"3a3229f160dd52c2","type":"text","text":"正す　「ただす」：chính xác","x":340,"y":-181,"width":250,"height":60},
+		{"id":"b769ca2c0044fd5f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-29,"y":140,"width":169,"height":137},
+		{"id":"6fb544d4a0ab0c87","x":320,"y":31,"width":178,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/政 - Chính.canvas"},
+		{"id":"996ea7e0ddab4418","x":340,"y":-520,"width":186,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/勅 - Sắc/整 - Chỉnh.canvas"},
+		{"id":"a7c69368b6f72bf4","x":-45,"y":-623,"width":202,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/勅 - Sắc/勅 - Sắc.canvas"}
 	],
 	"edges":[
 		{"id":"62dfd65df5cb21f3","fromNode":"05381bed7bc4e644","fromSide":"right","toNode":"d1fc6a11ca2b79b9","toSide":"left"},
 		{"id":"0e09ecedca93a35f","fromNode":"aa1e84cfea58db4c","fromSide":"right","toNode":"d1fc6a11ca2b79b9","toSide":"left"},
 		{"id":"ef937b04a421cd32","fromNode":"d1fc6a11ca2b79b9","fromSide":"right","toNode":"3a3229f160dd52c2","toSide":"left"},
-		{"id":"c27e00b626ab8ce8","fromNode":"d1fc6a11ca2b79b9","fromSide":"right","toNode":"9c92c6cc020e618d","toSide":"left","label":"âm đọc"},
-		{"id":"4c2c8e2a14e3c313","fromNode":"b769ca2c0044fd5f","fromSide":"right","toNode":"9c92c6cc020e618d","toSide":"left","label":"đấu tranh"},
-		{"id":"cb070affdbfca23b","fromNode":"9c92c6cc020e618d","fromSide":"right","toNode":"15344af9731ae9c4","toSide":"left"}
+		{"id":"c27e00b626ab8ce8","fromNode":"d1fc6a11ca2b79b9","fromSide":"right","toNode":"6fb544d4a0ab0c87","toSide":"left","label":"âm đọc"},
+		{"id":"4c2c8e2a14e3c313","fromNode":"b769ca2c0044fd5f","fromSide":"right","toNode":"6fb544d4a0ab0c87","toSide":"left","label":"đấu tranh"},
+		{"id":"98b64763a01558de","fromNode":"d1fc6a11ca2b79b9","fromSide":"right","toNode":"996ea7e0ddab4418","toSide":"left"},
+		{"id":"34468e94c67eca8e","fromNode":"a7c69368b6f72bf4","fromSide":"right","toNode":"996ea7e0ddab4418","toSide":"left"}
 	]
 }

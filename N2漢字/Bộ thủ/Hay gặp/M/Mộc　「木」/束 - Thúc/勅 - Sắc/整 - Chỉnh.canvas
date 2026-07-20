@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9669a37d3427c23f","x":-99,"y":-42,"width":250,"height":60,"type":"text","text":"整 - Chỉnh"},
+		{"id":"b081c797ee801f9b","x":-480,"y":-320,"width":232,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/勅 - Sắc/勅 - Sắc.canvas"},
+		{"id":"6593533523425472","x":-418,"y":100,"width":170,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas"}
+	],
+	"edges":[
+		{"id":"d9f3a1c647d2dbce","fromNode":"b081c797ee801f9b","fromSide":"right","toNode":"9669a37d3427c23f","toSide":"left"},
+		{"id":"68e8cb8f22ccc7de","fromNode":"6593533523425472","fromSide":"right","toNode":"9669a37d3427c23f","toSide":"left"}
+	]
+}

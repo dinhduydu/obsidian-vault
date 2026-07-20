@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bac2d7bc19d7e7a","x":-138,"y":-45,"width":250,"height":60,"type":"text","text":"症 - Chứng"},
+		{"id":"19db8151ee28447e","x":-420,"y":100,"width":146,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas"},
+		{"id":"e80b76b9db5c40c2","x":-449,"y":-220,"width":175,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"06e92dbd9fea0e40","fromNode":"19db8151ee28447e","fromSide":"right","toNode":"3bac2d7bc19d7e7a","toSide":"left"},
+		{"id":"d82c966d1afc83ae","fromNode":"e80b76b9db5c40c2","fromSide":"right","toNode":"3bac2d7bc19d7e7a","toSide":"left"}
+	]
+}

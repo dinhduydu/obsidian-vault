@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b0648d34d25f05f1","x":-169,"y":-22,"width":250,"height":60,"type":"text","text":"勅 - Sắc"},
+		{"id":"f2ab4f8754a6518c","x":-540,"y":-66,"width":119,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas"},
+		{"id":"af2bd5f2cf88974f","x":-654,"y":200,"width":233,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"e38365bc2ae0725d","fromNode":"f2ab4f8754a6518c","fromSide":"right","toNode":"b0648d34d25f05f1","toSide":"left"},
+		{"id":"92698c13073e578c","fromNode":"af2bd5f2cf88974f","fromSide":"right","toNode":"b0648d34d25f05f1","toSide":"left"}
+	]
+}
