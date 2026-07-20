@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a0ce73e703483d00","x":-152,"y":-3,"width":250,"height":60,"type":"text","text":"奈 - Nại"},
+		{"id":"f4fe728b7460db1c","x":-460,"y":120,"width":185,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」.canvas"},
+		{"id":"66fa39d5b893d9b4","x":-409,"y":-240,"width":134,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"}
+	],
+	"edges":[
+		{"id":"db3fef0a510374ac","fromNode":"f4fe728b7460db1c","fromSide":"right","toNode":"a0ce73e703483d00","toSide":"left"},
+		{"id":"28a92a1e9b7ed88e","fromNode":"66fa39d5b893d9b4","fromSide":"right","toNode":"a0ce73e703483d00","toSide":"left"}
+	]
+}

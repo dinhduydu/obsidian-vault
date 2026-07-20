@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"809dfaadf2ab31fa","type":"text","text":"求 - Cầu","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d5eb27ec4e1153aa","x":-480,"y":-66,"width":138,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"ff7f87208c2a34c2","x":-541,"y":-280,"width":199,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
+		{"id":"917dccc6a2484b41","x":-526,"y":140,"width":184,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"d8c0080095f72580","fromNode":"d5eb27ec4e1153aa","fromSide":"right","toNode":"809dfaadf2ab31fa","toSide":"left"},
+		{"id":"48c16b69612a4b80","fromNode":"ff7f87208c2a34c2","fromSide":"right","toNode":"809dfaadf2ab31fa","toSide":"left"},
+		{"id":"87dcef71859d4b91","fromNode":"917dccc6a2484b41","fromSide":"right","toNode":"809dfaadf2ab31fa","toSide":"left"}
+	]
+}

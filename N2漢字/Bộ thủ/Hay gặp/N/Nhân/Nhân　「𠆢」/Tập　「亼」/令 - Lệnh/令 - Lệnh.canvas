@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9fca239eea10e2d2","x":-121,"y":-51,"width":250,"height":60,"type":"text","text":"令 - Lệnh"},
+		{"id":"91d3771666219ce1","x":-580,"y":-320,"width":201,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas"},
+		{"id":"847b3c997188724a","x":-540,"y":-21,"width":161,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"}
+	],
+	"edges":[
+		{"id":"865afe5e7b4849e0","fromNode":"91d3771666219ce1","fromSide":"right","toNode":"9fca239eea10e2d2","toSide":"left"},
+		{"id":"d99a0d5daf22fca0","fromNode":"847b3c997188724a","fromSide":"right","toNode":"9fca239eea10e2d2","toSide":"left"}
+	]
+}

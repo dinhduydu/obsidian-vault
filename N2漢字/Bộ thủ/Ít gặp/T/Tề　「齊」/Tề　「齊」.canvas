@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"6dc15604a96b3139","x":-177,"y":-39,"width":250,"height":60,"type":"text","text":"Tề　「齊」"}
+		{"id":"6dc15604a96b3139","type":"text","text":"Tề　「齊」","x":-177,"y":-39,"width":250,"height":60},
+		{"id":"e390e0c685f5e15e","x":240,"y":-280,"width":236,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/斉 - Tề.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"28922021e7b8646d","fromNode":"6dc15604a96b3139","fromSide":"right","toNode":"e390e0c685f5e15e","toSide":"left"}
+	]
 }

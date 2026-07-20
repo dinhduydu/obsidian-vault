@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"86f27da25ffceb66","type":"text","text":"Cửu　「九」","x":-164,"y":-59,"width":250,"height":60},
 		{"id":"880c8c14062a5aa0","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas","x":-420,"y":1,"width":140,"height":160},
-		{"id":"c374dbb15e0cfd31","x":-403,"y":-160,"width":107,"height":73,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+		{"id":"c374dbb15e0cfd31","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas","x":-403,"y":-160,"width":107,"height":73},
+		{"id":"9cc6d100b0680055","x":280,"y":-400,"width":248,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/軌 - Quỹ.canvas"},
+		{"id":"22d768f741342200","x":-135,"y":-600,"width":221,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
 	],
 	"edges":[
 		{"id":"cb82f4375afee01f","fromNode":"880c8c14062a5aa0","fromSide":"right","toNode":"86f27da25ffceb66","toSide":"left"},
-		{"id":"9cde7b72f68e8b7a","fromNode":"c374dbb15e0cfd31","fromSide":"right","toNode":"86f27da25ffceb66","toSide":"left"}
+		{"id":"9cde7b72f68e8b7a","fromNode":"c374dbb15e0cfd31","fromSide":"right","toNode":"86f27da25ffceb66","toSide":"left"},
+		{"id":"c6a155ffff3cbe8d","fromNode":"86f27da25ffceb66","fromSide":"right","toNode":"9cc6d100b0680055","toSide":"left"},
+		{"id":"d5db817efb669f45","fromNode":"22d768f741342200","fromSide":"right","toNode":"9cc6d100b0680055","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a4a11032c056e6e7","x":-161,"y":-51,"width":250,"height":60,"type":"text","text":"痢 - Lị"},
+		{"id":"c63d8bcf083c4fad","x":-480,"y":80,"width":203,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/利 - Lợi/利 - Lợi.canvas"},
+		{"id":"2dde6a1f77b40784","x":-418,"y":-181,"width":141,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"0c5410f5926ca0e4","fromNode":"c63d8bcf083c4fad","fromSide":"right","toNode":"a4a11032c056e6e7","toSide":"left"},
+		{"id":"8051a5c33dfa575f","fromNode":"2dde6a1f77b40784","fromSide":"right","toNode":"a4a11032c056e6e7","toSide":"left"}
+	]
+}

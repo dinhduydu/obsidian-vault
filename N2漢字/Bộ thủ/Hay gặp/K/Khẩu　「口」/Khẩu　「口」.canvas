@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"a1bed289ff68db26","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/合 - Hợp/合 - Hợp.canvas","x":347,"y":-360,"width":133,"height":63},
+		{"id":"a1bed289ff68db26","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合 - Hợp.canvas","x":347,"y":-360,"width":133,"height":63},
 		{"id":"bad225027e790395","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/Trung　「中」.canvas","x":347,"y":-220,"width":135,"height":109},
 		{"id":"c0dd345ebea90f30","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/仲 - Trọng.canvas","x":640,"y":-328,"width":174,"height":127},
 		{"id":"42d5859435beefe8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/知 - Tri/知 - Tri.canvas","x":332,"y":-660,"width":166,"height":124},
-		{"id":"2c83dde34aab2cb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tập　「亼」/Tập　「亼」.canvas","x":20,"y":-560,"width":150,"height":147},
+		{"id":"2c83dde34aab2cb7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas","x":20,"y":-560,"width":150,"height":147},
 		{"id":"a4fe25d41f50b333","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas","x":52,"y":-806,"width":137,"height":146},
 		{"id":"35ffbe2e746afeda","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-19,"y":-316,"width":114,"height":115},
 		{"id":"506b7a4586a0cb34","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/喉 - Hầu.canvas","x":347,"y":0,"width":148,"height":131},
@@ -14,7 +14,7 @@
 		{"id":"1e407d7dc3ffc528","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":2583,"y":-196,"width":135,"height":91},
 		{"id":"c2b06b94968a0abd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/呑 - Thôn.canvas","x":347,"y":300,"width":192,"height":74},
 		{"id":"c84ecdb0c0810c0d","type":"text","text":"Khẩu　「口」","x":1960,"y":-614,"width":250,"height":60},
-		{"id":"1ab3273237e1e81b","x":2054,"y":-1140,"width":156,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas"}
+		{"id":"1ab3273237e1e81b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas","x":1929,"y":-1200,"width":156,"height":126}
 	],
 	"edges":[
 		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},

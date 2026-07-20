@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"123c7ee769c493f7","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"脳 - Não"},
+		{"id":"933f6ef9c1b3ac20","x":-400,"y":-220,"width":122,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"8b5935c747f86e03","fromNode":"933f6ef9c1b3ac20","fromSide":"right","toNode":"123c7ee769c493f7","toSide":"left"}
+	]
+}

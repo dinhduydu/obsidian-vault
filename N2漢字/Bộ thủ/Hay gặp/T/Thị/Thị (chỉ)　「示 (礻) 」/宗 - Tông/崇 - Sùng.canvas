@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2890ee2263a495e6","x":-148,"y":-40,"width":250,"height":60,"type":"text","text":"崇 - Sùng"},
+		{"id":"00f8dc6adb125acc","x":-520,"y":160,"width":184,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/宗 - Tông/宗 - Tông.canvas"},
+		{"id":"1e085e6d96baefec","x":-488,"y":-240,"width":152,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"ed744e1e0bb31aba","fromNode":"00f8dc6adb125acc","fromSide":"right","toNode":"2890ee2263a495e6","toSide":"left"},
+		{"id":"6b43e3180e7e2964","fromNode":"1e085e6d96baefec","fromSide":"right","toNode":"2890ee2263a495e6","toSide":"left"}
+	]
+}

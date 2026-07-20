@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca3fa96ade74c6c0","x":-112,"y":-24,"width":250,"height":60,"type":"text","text":"詣 - Nghệ"},
+		{"id":"6f142233d85bc86b","x":-400,"y":100,"width":126,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas"},
+		{"id":"58e932fb2fb2f4f6","x":-532,"y":-240,"width":195,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"3f42c4fb210c0711","fromNode":"6f142233d85bc86b","fromSide":"right","toNode":"ca3fa96ade74c6c0","toSide":"left"},
+		{"id":"bf6d8c74ecdcd4fb","fromNode":"58e932fb2fb2f4f6","fromSide":"right","toNode":"ca3fa96ade74c6c0","toSide":"left"}
+	]
+}

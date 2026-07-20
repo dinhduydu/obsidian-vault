@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"491081a3b7d16562","x":-122,"y":-41,"width":250,"height":60,"type":"text","text":"者 - Giả"},
+		{"id":"735cc0eba8b34ede","x":-578,"y":200,"width":189,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"d9619d064e5149d0","x":-540,"y":-360,"width":151,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/Lão　「老」.canvas"}
+	],
+	"edges":[
+		{"id":"383600c6e6825aa6","fromNode":"d9619d064e5149d0","fromSide":"right","toNode":"491081a3b7d16562","toSide":"left"},
+		{"id":"74c9dfd4fd291583","fromNode":"735cc0eba8b34ede","fromSide":"right","toNode":"491081a3b7d16562","toSide":"left"}
+	]
+}

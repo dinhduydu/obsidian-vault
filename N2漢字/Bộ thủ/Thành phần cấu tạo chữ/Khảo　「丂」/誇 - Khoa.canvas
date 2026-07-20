@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0526a0c593ead06d","x":-70,"y":-29,"width":250,"height":60,"type":"text","text":"誇 - Khoa"},
+		{"id":"3e50042810218775","x":-360,"y":120,"width":152,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"},
+		{"id":"3d5dfc31ebbc0adc","x":-372,"y":-300,"width":164,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"f4d897674b6635fe","x":-370,"y":-70,"width":173,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"10094d77d0166c9e","x":-640,"y":-77,"width":180,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"be4bc9aa6eb7f6d7","fromNode":"3e50042810218775","fromSide":"right","toNode":"0526a0c593ead06d","toSide":"left"},
+		{"id":"49fc220b4c0201b7","fromNode":"f4d897674b6635fe","fromSide":"right","toNode":"0526a0c593ead06d","toSide":"left"},
+		{"id":"e333cd0b75bcb780","fromNode":"3d5dfc31ebbc0adc","fromSide":"right","toNode":"0526a0c593ead06d","toSide":"left"},
+		{"id":"e1a8fd8badfb1e10","fromNode":"10094d77d0166c9e","fromSide":"right","toNode":"0526a0c593ead06d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a99d4a403965bd74","x":-118,"y":-40,"width":250,"height":60,"type":"text","text":"著 - Trứ"},
+		{"id":"8fcee66355f39f27","x":-460,"y":140,"width":194,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"},
+		{"id":"b65a7c3e755dd88d","x":-416,"y":-260,"width":150,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"56df08c6d90d5dd4","fromNode":"8fcee66355f39f27","fromSide":"right","toNode":"a99d4a403965bd74","toSide":"left"},
+		{"id":"535e45f076147ff2","fromNode":"b65a7c3e755dd88d","fromSide":"right","toNode":"a99d4a403965bd74","toSide":"left"}
+	]
+}

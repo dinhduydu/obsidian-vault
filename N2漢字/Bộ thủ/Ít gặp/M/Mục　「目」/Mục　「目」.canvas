@@ -1,14 +1,12 @@
 {
 	"nodes":[
 		{"id":"dfaa480d9dab1e5f","type":"text","text":"Mục　「目」","x":-111,"y":-69,"width":250,"height":60},
-		{"id":"508f5e829cf8fbf8","type":"text","text":"相 = tương","x":240,"y":-140,"width":250,"height":60},
-		{"id":"3e92805bbcf523a6","type":"text","text":"hướng đến đối tượng mà mắt mình nhìn đến","x":645,"y":-236,"width":250,"height":60},
-		{"id":"26fc090e5898d93c","x":295,"y":40,"width":99,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/眠 - Miên.canvas"},
-		{"id":"7053bfa1ce80b12e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/民 - Dân.canvas","x":84,"y":144,"width":110,"height":118}
+		{"id":"26fc090e5898d93c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/眠 - Miên.canvas","x":295,"y":40,"width":99,"height":83},
+		{"id":"7053bfa1ce80b12e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/民 - Dân.canvas","x":84,"y":144,"width":110,"height":118},
+		{"id":"014757853a4b3b3c","x":295,"y":-287,"width":174,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương.canvas"}
 	],
 	"edges":[
-		{"id":"378d584e1b086af6","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"508f5e829cf8fbf8","toSide":"left"},
-		{"id":"5ca6fe2e242bc1eb","fromNode":"508f5e829cf8fbf8","fromSide":"right","toNode":"3e92805bbcf523a6","toSide":"left"},
+		{"id":"378d584e1b086af6","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"014757853a4b3b3c","toSide":"left"},
 		{"id":"3f4844ae67df93c7","fromNode":"7053bfa1ce80b12e","fromSide":"right","toNode":"26fc090e5898d93c","toSide":"left"},
 		{"id":"c854dd0c246ed30b","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"26fc090e5898d93c","toSide":"left"}
 	]

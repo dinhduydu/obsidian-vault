@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"6db2a5a3d9614bad","type":"text","text":"連 - Liên","x":-226,"y":-166,"width":250,"height":60},
+		{"id":"d879b4e4a8169e1b","type":"text","text":"運賃","x":194,"y":-226,"width":250,"height":60},
+		{"id":"ebef14091d268025","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-101,"y":91,"width":185,"height":136},
+		{"id":"526997fa5476cf31","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-501,"y":-106,"width":177,"height":167},
+		{"id":"9b1058bd7fa6cb40","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas","x":-601,"y":-358,"width":201,"height":132},
+		{"id":"f3ac67f8bbbeb2fe","x":252,"y":-67,"width":251,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/連 - Liên/運 - Vận.canvas"}
+	],
+	"edges":[
+		{"id":"d700f0c81d25cedd","fromNode":"6db2a5a3d9614bad","fromSide":"right","toNode":"d879b4e4a8169e1b","toSide":"left"},
+		{"id":"7f283207c0b1e31d","fromNode":"6db2a5a3d9614bad","fromSide":"right","toNode":"f3ac67f8bbbeb2fe","toSide":"left"},
+		{"id":"5acbb335f68ef4bc","fromNode":"526997fa5476cf31","fromSide":"right","toNode":"6db2a5a3d9614bad","toSide":"left"},
+		{"id":"45cf89fc82ba38fa","fromNode":"ebef14091d268025","fromSide":"right","toNode":"f3ac67f8bbbeb2fe","toSide":"left"},
+		{"id":"e03f8cb5acc03a39","fromNode":"9b1058bd7fa6cb40","fromSide":"right","toNode":"6db2a5a3d9614bad","toSide":"left"}
+	]
+}

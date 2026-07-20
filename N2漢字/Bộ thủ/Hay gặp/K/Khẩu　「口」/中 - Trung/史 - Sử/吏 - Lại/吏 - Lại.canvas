@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d1176972b8a54c3f","x":-106,"y":-62,"width":250,"height":60,"type":"text","text":"吏 - Lại"},
+		{"id":"04bdf3c43afa7740","x":-440,"y":80,"width":186,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử/史 - Sử.canvas"},
+		{"id":"5fd9e4c8fc25049a","x":-456,"y":-250,"width":202,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"286aa905e3707d62","fromNode":"04bdf3c43afa7740","fromSide":"right","toNode":"d1176972b8a54c3f","toSide":"left"},
+		{"id":"6db167b3b19c5c38","fromNode":"5fd9e4c8fc25049a","fromSide":"right","toNode":"d1176972b8a54c3f","toSide":"left"}
+	]
+}

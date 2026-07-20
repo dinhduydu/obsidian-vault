@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e52de9691cca9cb1","x":-122,"y":-51,"width":250,"height":60,"type":"text","text":"粛 - Túc"},
+		{"id":"98e9c383cbf96435","x":-480,"y":-87,"width":169,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"5dc81d20d5d04fc1","x":-452,"y":-300,"width":141,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"},
+		{"id":"2d47c644f0b8ce03","x":-422,"y":100,"width":111,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"854b9c1bd094e01d","fromNode":"98e9c383cbf96435","fromSide":"right","toNode":"e52de9691cca9cb1","toSide":"left"},
+		{"id":"84b87898c0407772","fromNode":"5dc81d20d5d04fc1","fromSide":"right","toNode":"e52de9691cca9cb1","toSide":"left"},
+		{"id":"5b16f97f0a8ebfe4","fromNode":"2d47c644f0b8ce03","fromSide":"right","toNode":"e52de9691cca9cb1","toSide":"left"}
+	]
+}

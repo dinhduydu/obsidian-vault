@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5d4971180bfea165","type":"text","text":"謄 - Đằng","x":-325,"y":-28,"width":250,"height":60},
+		{"id":"4762fc6e8345f2c0","type":"text","text":"bản sao","x":75,"y":-32,"width":250,"height":60},
+		{"id":"e59d44ecf66f61f0","x":-620,"y":80,"width":132,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"b9bf91b009f8062f","fromNode":"5d4971180bfea165","fromSide":"right","toNode":"4762fc6e8345f2c0","toSide":"left"},
+		{"id":"b686daeb406c0110","fromNode":"e59d44ecf66f61f0","fromSide":"right","toNode":"5d4971180bfea165","toSide":"left"}
+	]
+}

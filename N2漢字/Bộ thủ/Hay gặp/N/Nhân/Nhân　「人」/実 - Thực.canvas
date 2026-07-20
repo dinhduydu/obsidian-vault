@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8061777dd4805861","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"実 - Thực"},
+		{"id":"47b75735e0e0282a","x":-560,"y":-320,"width":223,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"46001ca715c92e23","x":-531,"y":-71,"width":165,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"}
+	],
+	"edges":[
+		{"id":"0f64e0207e4e9939","fromNode":"47b75735e0e0282a","fromSide":"right","toNode":"8061777dd4805861","toSide":"left"},
+		{"id":"7a7cba7620403a20","fromNode":"46001ca715c92e23","fromSide":"right","toNode":"8061777dd4805861","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d5d99c1d13465da4","x":-129,"y":-45,"width":250,"height":60,"type":"text","text":"梗 - Ngạnh"},
+		{"id":"94d5427981a0b866","x":-520,"y":-220,"width":121,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"ce58514b8afc8127","x":-480,"y":80,"width":189,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh/更 - Canh.canvas"}
+	],
+	"edges":[
+		{"id":"23114bb2d866d53b","fromNode":"94d5427981a0b866","fromSide":"right","toNode":"d5d99c1d13465da4","toSide":"left"},
+		{"id":"7ace93b966e6d628","fromNode":"ce58514b8afc8127","fromSide":"right","toNode":"d5d99c1d13465da4","toSide":"left"}
+	]
+}

@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2bdc25bd6cb7795",
+            "id": "49e72232acc7555c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/号 - Hiệu.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/賭 - Đổ.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -35.85784023508026,
+                  "y": 27.562513087839804,
+                  "zoom": 0.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "号 - Hiệu"
+              "title": "賭 - Đổ"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hữu",
+                "query": "Trượng",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 327.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -173,29 +173,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2bdc25bd6cb7795",
+  "active": "49e72232acc7555c",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/号 - Hiệu.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/Dự　「与」/Dự　「与」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/Dự　「与」/写 - Tả.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/蒸 - Chưng.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/Dự　「与」",
-    "N2漢字/Bộ thủ/Hay gặp/D/Dự",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」/添 - Thiêm.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/展 - Triển.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị/翼 - Dực.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Untitled",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Y/Untitled",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị/異 - Dị.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/供 - Cung.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/恭 - Cung.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vô/Untitled",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vô　「無」",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/都 - Đô.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/賭 - Đổ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/緒 - Tự.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/諸 - Chư.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/煮 - Chử.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/署 - Thự.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/暑 - Thử.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/箸 - Trứ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/著 - Trứ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/取 - Thủ/最 - Tối",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/取 - Thủ",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thân　「身」/射 - Xạ",
+    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh",
+    "N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử/吏 - Lại",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/丈 - Trượng",
+    "N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử/史 - Sử",
+    "N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/察 - Sát",
     "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/1. Phân Tích N3_BỊ ĐỘNG, SAI KHIẾN (P2).md",
     "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/Untitled/Cách kết nối câu.md",
     "Chữa đề/Learning_Profile/CompoundVerb/押し付ける.md",

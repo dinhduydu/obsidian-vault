@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9513f3094bf9ed27","type":"text","text":"業 - Nghiệp","x":-115,"y":-38,"width":250,"height":60},
+		{"id":"41cf5a9e1637c719","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-420,"y":-92,"width":130,"height":168},
+		{"id":"dffe8a74afe6bfee","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-463,"y":140,"width":173,"height":172},
+		{"id":"1eb6bb351649e72b","x":-523,"y":-340,"width":206,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nghiệp　「业」/Nghiệp　「业」.canvas"}
+	],
+	"edges":[
+		{"id":"5aadf85b7e2db683","fromNode":"41cf5a9e1637c719","fromSide":"right","toNode":"9513f3094bf9ed27","toSide":"left"},
+		{"id":"a9a9176bd6f8a185","fromNode":"dffe8a74afe6bfee","fromSide":"right","toNode":"9513f3094bf9ed27","toSide":"left"},
+		{"id":"781e6d47e5080243","fromNode":"1eb6bb351649e72b","fromSide":"right","toNode":"9513f3094bf9ed27","toSide":"left"}
+	]
+}

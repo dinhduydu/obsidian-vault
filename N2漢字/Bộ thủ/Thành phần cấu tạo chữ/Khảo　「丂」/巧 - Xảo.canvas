@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1a53473a569658e4","x":-71,"y":-22,"width":250,"height":60,"type":"text","text":"巧 - Xảo"},
+		{"id":"dfef5ae038bb04a7","x":-460,"y":100,"width":157,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"},
+		{"id":"1e9a536c610e5614","x":-720,"y":-77,"width":169,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+	],
+	"edges":[
+		{"id":"60f3fbc3f6a693a1","fromNode":"dfef5ae038bb04a7","fromSide":"right","toNode":"1a53473a569658e4","toSide":"left"},
+		{"id":"15cf5df49bb2e188","fromNode":"1e9a536c610e5614","fromSide":"right","toNode":"1a53473a569658e4","toSide":"left"}
+	]
+}

@@ -1,14 +1,17 @@
 {
 	"nodes":[
-		{"id":"9c399f6f92a5f066","type":"text","text":"Võng　「网 (罒)」","x":-160,"y":-40,"width":250,"height":60},
 		{"id":"869e1fd027497d5d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/罵 - Mạ.canvas","x":280,"y":40,"width":181,"height":138},
 		{"id":"f19c1c0e84a13618","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas","x":-115,"y":178,"width":205,"height":214},
 		{"id":"a67d9cb6ddd39b40","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/置 - Trí.canvas","x":282,"y":-220,"width":179,"height":131},
 		{"id":"cd7370cfe30d511b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Trực　「直」/Trực　「直」.canvas","x":-50,"y":-380,"width":140,"height":138},
 		{"id":"3e82e5a8d9e0316d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/維 - Duy/羅 - La.canvas","x":1040,"y":-53,"width":159,"height":87},
 		{"id":"1aefd83c113864c6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/維 - Duy/維 - Duy.canvas","x":760,"y":-271,"width":175,"height":117},
-		{"id":"1d7e52ec0124eb85","x":540,"y":285,"width":264,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/買 - Mãi.canvas"},
-		{"id":"86e745253e395ba8","x":228,"y":540,"width":144,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+		{"id":"1d7e52ec0124eb85","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/買 - Mãi.canvas","x":540,"y":285,"width":264,"height":219},
+		{"id":"86e745253e395ba8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":228,"y":540,"width":144,"height":117},
+		{"id":"9c399f6f92a5f066","type":"text","text":"Võng　「网 (罒)」","x":-160,"y":-40,"width":250,"height":60},
+		{"id":"67c4de7cc23c8194","x":457,"y":968,"width":248,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/署 - Thự.canvas"},
+		{"id":"069c298565aa0390","type":"text","text":"Võng　「网 (罒)」","x":-141,"y":1208,"width":250,"height":60},
+		{"id":"4aa295e95e53ec2b","x":131,"y":780,"width":194,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"}
 	],
 	"edges":[
 		{"id":"78db25c267e4d375","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"869e1fd027497d5d","toSide":"left"},
@@ -18,6 +21,8 @@
 		{"id":"2502ca659ce174a9","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"3e82e5a8d9e0316d","toSide":"left"},
 		{"id":"37f636037d560356","fromNode":"1aefd83c113864c6","fromSide":"right","toNode":"3e82e5a8d9e0316d","toSide":"left"},
 		{"id":"0c6bb8ce48cefdac","fromNode":"9c399f6f92a5f066","fromSide":"right","toNode":"1d7e52ec0124eb85","toSide":"left"},
-		{"id":"36c23ebc1adb7124","fromNode":"86e745253e395ba8","fromSide":"right","toNode":"1d7e52ec0124eb85","toSide":"left"}
+		{"id":"36c23ebc1adb7124","fromNode":"86e745253e395ba8","fromSide":"right","toNode":"1d7e52ec0124eb85","toSide":"left"},
+		{"id":"eee8eea8c96ea13f","fromNode":"069c298565aa0390","fromSide":"right","toNode":"67c4de7cc23c8194","toSide":"left"},
+		{"id":"ab762b2cb1219106","fromNode":"4aa295e95e53ec2b","fromSide":"right","toNode":"67c4de7cc23c8194","toSide":"left"}
 	]
 }

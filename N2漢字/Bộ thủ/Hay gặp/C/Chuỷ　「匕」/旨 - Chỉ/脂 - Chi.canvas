@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"74f0d233b813d70e","x":-101,"y":-22,"width":250,"height":60,"type":"text","text":"脂 - Chi"},
+		{"id":"24e48845a201a386","x":-500,"y":-260,"width":166,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas"},
+		{"id":"6f816349c3fd0b11","x":-520,"y":80,"width":186,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"67315fb41a486dc4","fromNode":"24e48845a201a386","fromSide":"right","toNode":"74f0d233b813d70e","toSide":"left"},
+		{"id":"019149a4d86fab4e","fromNode":"6f816349c3fd0b11","fromSide":"right","toNode":"74f0d233b813d70e","toSide":"left"}
+	]
+}

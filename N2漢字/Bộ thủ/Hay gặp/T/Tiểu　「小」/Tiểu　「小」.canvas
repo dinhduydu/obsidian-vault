@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"39be37c2d82ac886","x":-160,"y":-44,"width":250,"height":60,"type":"text","text":"Tiểu　「小」"}
+		{"id":"39be37c2d82ac886","type":"text","text":"Tiểu　「小」","x":-160,"y":-44,"width":180,"height":60},
+		{"id":"a769e0d26d5ac737","x":240,"y":-340,"width":163,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/県 - Huyện/県 - Huyện.canvas"},
+		{"id":"3d852cbde747bfac","x":-160,"y":-520,"width":180,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b30714a4639e0a84","fromNode":"39be37c2d82ac886","fromSide":"right","toNode":"a769e0d26d5ac737","toSide":"left"},
+		{"id":"3d0a3d421c0f6238","fromNode":"3d852cbde747bfac","fromSide":"right","toNode":"a769e0d26d5ac737","toSide":"left"}
+	]
 }

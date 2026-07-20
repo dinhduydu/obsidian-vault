@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"08775c1158604e70","x":-121,"y":-32,"width":250,"height":60,"type":"text","text":"美 - Mỹ"},
+		{"id":"cef8b390676df081","x":-480,"y":-223,"width":181,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"0e2c538e7e17d175","x":-502,"y":120,"width":203,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"}
+	],
+	"edges":[
+		{"id":"0d28c897882a32e1","fromNode":"cef8b390676df081","fromSide":"right","toNode":"08775c1158604e70","toSide":"left"},
+		{"id":"4f2110657eceb98c","fromNode":"0e2c538e7e17d175","fromSide":"right","toNode":"08775c1158604e70","toSide":"left"}
+	]
+}

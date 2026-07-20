@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b79d5d9ff43c91d1","x":-62,"y":-48,"width":250,"height":60,"type":"text","text":"枢 - Trục"},
+		{"id":"64228e40727f160a","x":-440,"y":100,"width":234,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas"},
+		{"id":"f79da3b0f3781737","x":-700,"y":-85,"width":172,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"de92a4a05b3eb5a5","fromNode":"64228e40727f160a","fromSide":"right","toNode":"b79d5d9ff43c91d1","toSide":"left"},
+		{"id":"f23797f9b0225fd2","fromNode":"f79da3b0f3781737","fromSide":"right","toNode":"b79d5d9ff43c91d1","toSide":"left"}
+	]
+}

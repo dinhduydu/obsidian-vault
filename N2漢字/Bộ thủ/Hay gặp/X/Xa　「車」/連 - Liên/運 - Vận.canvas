@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f7b2fbc260c254a","type":"text","text":"運 - Vận","x":52,"y":-83,"width":250,"height":60},
+		{"id":"45d0350ef0cf8dcc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-260,"y":-480,"width":185,"height":136},
+		{"id":"5a0fadeec5587c89","x":-360,"y":-142,"width":256,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/連 - Liên/連 - Liên.canvas"}
+	],
+	"edges":[
+		{"id":"6f7c5dbdcf811c90","fromNode":"45d0350ef0cf8dcc","fromSide":"right","toNode":"7f7b2fbc260c254a","toSide":"left"},
+		{"id":"535c77b996152dda","fromNode":"5a0fadeec5587c89","fromSide":"right","toNode":"7f7b2fbc260c254a","toSide":"left"}
+	]
+}

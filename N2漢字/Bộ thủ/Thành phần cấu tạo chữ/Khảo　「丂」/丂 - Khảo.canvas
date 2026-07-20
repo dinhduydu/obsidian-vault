@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"13f0c209576c0f9c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"丂 - Khảo"}
+		{"id":"13f0c209576c0f9c","type":"text","text":"丂 - Khảo","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"c832c96efaabe6b1","x":300,"y":-340,"width":199,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/顎 - Ngạc.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c6a4636c6c67ecc2","fromNode":"13f0c209576c0f9c","fromSide":"right","toNode":"c832c96efaabe6b1","toSide":"left"}
+	]
 }

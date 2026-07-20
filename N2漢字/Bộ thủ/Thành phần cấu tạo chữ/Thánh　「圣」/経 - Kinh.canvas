@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9e14b1a7f4a0f73d","x":-127,"y":-45,"width":250,"height":60,"type":"text","text":"経 - Kinh"},
+		{"id":"2f2ed28c47af1478","x":-400,"y":-220,"width":133,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas"},
+		{"id":"b67688e56224577e","x":-411,"y":40,"width":144,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"4b35c05f4f861033","fromNode":"2f2ed28c47af1478","fromSide":"right","toNode":"9e14b1a7f4a0f73d","toSide":"left"},
+		{"id":"1c6f40a02fe53976","fromNode":"b67688e56224577e","fromSide":"right","toNode":"9e14b1a7f4a0f73d","toSide":"left"}
+	]
+}

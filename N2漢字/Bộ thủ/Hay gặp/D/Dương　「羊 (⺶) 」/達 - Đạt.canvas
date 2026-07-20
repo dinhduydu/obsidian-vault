@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"df57e1d07d7a0fa4","x":-74,"y":-43,"width":250,"height":60,"type":"text","text":"達 - Đạt"},
+		{"id":"5c924dc3593313d4","x":-360,"y":-260,"width":124,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"e6e424e61bd1e525","x":-459,"y":17,"width":199,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"},
+		{"id":"d3bfb4662821a81d","x":-390,"y":-520,"width":154,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"4b606460ea140866","fromNode":"5c924dc3593313d4","fromSide":"right","toNode":"df57e1d07d7a0fa4","toSide":"left"},
+		{"id":"23e294d8029ab089","fromNode":"e6e424e61bd1e525","fromSide":"right","toNode":"df57e1d07d7a0fa4","toSide":"left"},
+		{"id":"b3c9b16bfbc35717","fromNode":"d3bfb4662821a81d","fromSide":"right","toNode":"df57e1d07d7a0fa4","toSide":"left"}
+	]
+}

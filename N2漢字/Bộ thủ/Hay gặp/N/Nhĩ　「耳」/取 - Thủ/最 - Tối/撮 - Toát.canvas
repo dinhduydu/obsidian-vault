@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"83a722c00dd07a4e","x":-126,"y":-34,"width":250,"height":60,"type":"text","text":"撮 - Toát"},
+		{"id":"46e85a1cd7f9f8bc","x":-460,"y":-280,"width":186,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/取 - Thủ/最 - Tối/最 - Tối.canvas"},
+		{"id":"854099d6d01aab8c","x":-663,"y":-61,"width":203,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"edcb22883ab4a8a4","fromNode":"46e85a1cd7f9f8bc","fromSide":"right","toNode":"83a722c00dd07a4e","toSide":"left"},
+		{"id":"0d2d16407b4f52e4","fromNode":"854099d6d01aab8c","fromSide":"right","toNode":"83a722c00dd07a4e","toSide":"left"}
+	]
+}

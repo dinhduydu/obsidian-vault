@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4f740ef0dee87c22","x":-101,"y":-44,"width":250,"height":60,"type":"text","text":"取 - Thủ"},
+		{"id":"7426aadd532b69e9","x":-480,"y":-240,"width":175,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas"},
+		{"id":"9e7637d5ad213358","x":-464,"y":40,"width":159,"height":213,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"a4cd8877e6403f81","fromNode":"7426aadd532b69e9","fromSide":"right","toNode":"4f740ef0dee87c22","toSide":"left"},
+		{"id":"4f279d311ff0cad1","fromNode":"9e7637d5ad213358","fromSide":"right","toNode":"4f740ef0dee87c22","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a9df9ffb8cf5ea1e","type":"text","text":"Tam　「三」","x":-68,"y":-17,"width":250,"height":60},
+		{"id":"67e480deba935601","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/実 - Thực.canvas","x":300,"y":-180,"width":203,"height":131},
+		{"id":"12b6d7bf95055461","x":0,"y":-420,"width":156,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"9db3e35e2e311186","x":2,"y":-171,"width":153,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"}
+	],
+	"edges":[
+		{"id":"02336cd50cf5d619","fromNode":"a9df9ffb8cf5ea1e","fromSide":"right","toNode":"67e480deba935601","toSide":"left"},
+		{"id":"8ac8bd6d3c602ef8","fromNode":"12b6d7bf95055461","fromSide":"right","toNode":"67e480deba935601","toSide":"left"},
+		{"id":"859d9dbadea5f9f4","fromNode":"9db3e35e2e311186","fromSide":"right","toNode":"67e480deba935601","toSide":"left"}
+	]
+}

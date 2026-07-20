@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cd5f86cd01630004","x":-156,"y":-7,"width":250,"height":60,"type":"text","text":"宰 - Tể"},
+		{"id":"35871d3970122259","x":-480,"y":-260,"width":202,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"9f4ea570bf462ca7","x":-473,"y":120,"width":188,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"}
+	],
+	"edges":[
+		{"id":"6e43350a26dfa17b","fromNode":"9f4ea570bf462ca7","fromSide":"right","toNode":"cd5f86cd01630004","toSide":"left"},
+		{"id":"db0ec0381425bd20","fromNode":"35871d3970122259","fromSide":"right","toNode":"cd5f86cd01630004","toSide":"left"}
+	]
+}

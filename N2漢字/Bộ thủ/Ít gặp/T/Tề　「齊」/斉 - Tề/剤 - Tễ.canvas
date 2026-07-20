@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b53757f1f89ebbb3","x":-152,"y":-32,"width":250,"height":60,"type":"text","text":"剤 - Tễ"},
+		{"id":"a97d2dd2b8cd5210","x":-460,"y":60,"width":150,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/斉 - Tề.canvas"},
+		{"id":"1431a445ef3bd422","x":-470,"y":-200,"width":160,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+	],
+	"edges":[
+		{"id":"409749b74bee0902","fromNode":"a97d2dd2b8cd5210","fromSide":"right","toNode":"b53757f1f89ebbb3","toSide":"left"},
+		{"id":"30a6a43d92263f15","fromNode":"1431a445ef3bd422","fromSide":"right","toNode":"b53757f1f89ebbb3","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d8025d6bcb036dfd","type":"text","text":"能 - Năng","x":-889,"y":127,"width":250,"height":60},
+		{"id":"f80b6c3334b80922","type":"link","url":"https://www.notion.so/1b9ae4aff2f2806eb446e1806cb7dd5f?v=1b9ae4aff2f281858abf000c70af089b&source=copy_link","x":-490,"y":-270,"width":1380,"height":540},
+		{"id":"14d37481c4e2c24d","x":-1220,"y":240,"width":160,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas"}
+	],
+	"edges":[
+		{"id":"1545ad5b1f400600","fromNode":"d8025d6bcb036dfd","fromSide":"right","toNode":"f80b6c3334b80922","toSide":"left"},
+		{"id":"96a1c8946960d01f","fromNode":"14d37481c4e2c24d","fromSide":"right","toNode":"d8025d6bcb036dfd","toSide":"left","label":"x2"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b868f5247a034e3","x":-116,"y":-48,"width":250,"height":60,"type":"text","text":"趣 - Thú"},
+		{"id":"969bc0b8f043a926","x":-440,"y":-280,"width":182,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/取 - Thủ/取 - Thủ.canvas"},
+		{"id":"391ee560f16c724f","x":-449,"y":40,"width":191,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas"}
+	],
+	"edges":[
+		{"id":"352b0b00ffa7f854","fromNode":"969bc0b8f043a926","fromSide":"right","toNode":"3b868f5247a034e3","toSide":"left"},
+		{"id":"47a2dab2aef32a01","fromNode":"391ee560f16c724f","fromSide":"right","toNode":"3b868f5247a034e3","toSide":"left"}
+	]
+}

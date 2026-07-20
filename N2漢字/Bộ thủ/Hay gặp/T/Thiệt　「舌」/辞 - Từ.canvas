@@ -3,11 +3,13 @@
 		{"id":"28c7541cea028d59","type":"text","text":"辞 - Từ","x":-265,"y":-105,"width":130,"height":50},
 		{"id":"7052816f9a9cb6aa","type":"text","text":"辞退　「はかい」：","x":15,"y":-110,"width":250,"height":60},
 		{"id":"750481db452dcfdf","type":"text","text":"辞める　「やめる」：","x":15,"y":50,"width":250,"height":60},
-		{"id":"a473cdde903ae554","x":-520,"y":-212,"width":142,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas"}
+		{"id":"a473cdde903ae554","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas","x":-520,"y":-212,"width":142,"height":132},
+		{"id":"e6e249e85b0648e0","x":-660,"y":30,"width":212,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"}
 	],
 	"edges":[
 		{"id":"785e08521212fbfb","fromNode":"28c7541cea028d59","fromSide":"right","toNode":"7052816f9a9cb6aa","toSide":"left"},
 		{"id":"e14da86bc42ae66e","fromNode":"28c7541cea028d59","fromSide":"right","toNode":"750481db452dcfdf","toSide":"left"},
-		{"id":"eec55864539372a0","fromNode":"a473cdde903ae554","fromSide":"right","toNode":"28c7541cea028d59","toSide":"left"}
+		{"id":"eec55864539372a0","fromNode":"a473cdde903ae554","fromSide":"right","toNode":"28c7541cea028d59","toSide":"left"},
+		{"id":"7f07466faee9999f","fromNode":"e6e249e85b0648e0","fromSide":"right","toNode":"28c7541cea028d59","toSide":"left"}
 	]
 }

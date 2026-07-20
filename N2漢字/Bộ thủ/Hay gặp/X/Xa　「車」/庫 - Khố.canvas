@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"075fa876e9e2da03","type":"text","text":"庫 - Khố","x":-104,"y":-37,"width":250,"height":60},
+		{"id":"860186dd88b550b3","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/金庫.md","x":260,"y":-280,"width":202,"height":155},
+		{"id":"3a93a2bcccd08095","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas","x":-440,"y":120,"width":177,"height":111},
+		{"id":"34cc5f71d3480e96","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas","x":-425,"y":-240,"width":148,"height":142},
+		{"id":"cb223e08a415cef8","type":"text","text":"宝庫　「ほうこ」：bảo tàng","x":260,"y":23,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"21a69e550090fe61","fromNode":"075fa876e9e2da03","fromSide":"right","toNode":"860186dd88b550b3","toSide":"left"},
+		{"id":"7187d12030534161","fromNode":"3a93a2bcccd08095","fromSide":"right","toNode":"075fa876e9e2da03","toSide":"left"},
+		{"id":"6eba41c16528841e","fromNode":"34cc5f71d3480e96","fromSide":"right","toNode":"075fa876e9e2da03","toSide":"left"},
+		{"id":"96b122d8a8c22af0","fromNode":"075fa876e9e2da03","fromSide":"right","toNode":"cb223e08a415cef8","toSide":"left"}
+	]
+}

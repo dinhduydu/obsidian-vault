@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9a13ea7a9698a7e1","x":-51,"y":-24,"width":250,"height":60,"type":"text","text":"欧 - Âu"},
+		{"id":"6fd3b50d3411a1af","x":-360,"y":140,"width":150,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas"},
+		{"id":"618d9b7ca0c9bec8","x":-389,"y":-194,"width":179,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"}
+	],
+	"edges":[
+		{"id":"c6769d382ebffead","fromNode":"6fd3b50d3411a1af","fromSide":"right","toNode":"9a13ea7a9698a7e1","toSide":"left"},
+		{"id":"2fa1df2b796683f2","fromNode":"618d9b7ca0c9bec8","fromSide":"right","toNode":"9a13ea7a9698a7e1","toSide":"left"}
+	]
+}

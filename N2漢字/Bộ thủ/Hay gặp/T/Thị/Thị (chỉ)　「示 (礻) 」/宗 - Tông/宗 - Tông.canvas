@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7863407df864c60d","x":-98,"y":-77,"width":250,"height":60,"type":"text","text":"宗 - Tông"},
+		{"id":"942b7e883600f90c","x":-500,"y":40,"width":220,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」.canvas"},
+		{"id":"ad57b120b6a90db7","x":-438,"y":-280,"width":158,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"566a134adda3e852","fromNode":"942b7e883600f90c","fromSide":"right","toNode":"7863407df864c60d","toSide":"left"},
+		{"id":"1f0eff3a2489f36d","fromNode":"ad57b120b6a90db7","fromSide":"right","toNode":"7863407df864c60d","toSide":"left"}
+	]
+}

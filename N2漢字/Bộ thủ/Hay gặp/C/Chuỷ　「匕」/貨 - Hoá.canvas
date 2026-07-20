@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"9ba32ba953569c22","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-647,"y":-112,"width":101,"height":76},
+		{"id":"6c22d4cb49a6e36a","type":"text","text":"貨 - Hoá","x":-465,"y":-182,"width":250,"height":60},
+		{"id":"54bd7104ce6700a3","type":"text","text":"**貨物（かもつ）** = hàng hóa, hàng vận chuyển","x":-77,"y":-182,"width":250,"height":60},
+		{"id":"644f658100eff90d","type":"text","text":"**貨 = 化 + 貝**\n\n- **化（か）**: biến đổi\n    - 亻 (nhân đứng)\n    - 匕\n- **貝（かい）**: vỏ sò, tiền bạc, tài sản","x":-70,"y":-1,"width":368,"height":183},
+		{"id":"521a8365e7fba06e","type":"text","text":"貨車　「かしゃ」：xe chở hàng","x":-70,"y":-92,"width":250,"height":60},
+		{"id":"4b5b551c41783002","type":"text","text":"=> Hàng hóa là thứ được đem ra trao đổi, chuyển đổi thành tiền.","x":398,"y":39,"width":250,"height":103},
+		{"id":"b4b376a784381585","x":-680,"y":-340,"width":134,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/化 - Hoá/化 - Hoá.canvas"}
+	],
+	"edges":[
+		{"id":"bdd4dc774d83a4f4","fromNode":"9ba32ba953569c22","fromSide":"right","toNode":"6c22d4cb49a6e36a","toSide":"left"},
+		{"id":"14d643a84284c7e2","fromNode":"6c22d4cb49a6e36a","fromSide":"right","toNode":"54bd7104ce6700a3","toSide":"left"},
+		{"id":"d2801edf74c16ab5","fromNode":"6c22d4cb49a6e36a","fromSide":"right","toNode":"521a8365e7fba06e","toSide":"left"},
+		{"id":"06f0fdb8126941e9","fromNode":"6c22d4cb49a6e36a","fromSide":"right","toNode":"644f658100eff90d","toSide":"left"},
+		{"id":"b7c39bfa368c7f1f","fromNode":"644f658100eff90d","fromSide":"right","toNode":"4b5b551c41783002","toSide":"left"},
+		{"id":"cc4b1c02409300f8","fromNode":"b4b376a784381585","fromSide":"right","toNode":"6c22d4cb49a6e36a","toSide":"left"}
+	]
+}

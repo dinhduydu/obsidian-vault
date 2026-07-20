@@ -5,13 +5,19 @@
 		{"id":"f4c3ba78d699547a","type":"text","text":"丈夫　「じょうぶ」：bền, chắc","x":400,"y":40,"width":274,"height":60},
 		{"id":"68e4fb0c2474c08e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-100,"y":100,"width":147,"height":105},
 		{"id":"e7181fc2f4090508","type":"text","text":"chỉ gang tay","x":-615,"y":-114,"width":250,"height":60},
-		{"id":"3a397b5afee0e3be","type":"text","text":"đo chiều dài","x":-584,"y":57,"width":250,"height":60}
+		{"id":"3a397b5afee0e3be","type":"text","text":"đo chiều dài","x":-584,"y":57,"width":250,"height":60},
+		{"id":"fdfa3dbea848144c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas","x":200,"y":-340,"width":160,"height":165},
+		{"id":"725a3f67b38ce0cd","x":400,"y":400,"width":287,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử/史 - Sử.canvas"},
+		{"id":"41be46cb816ad049","x":20,"y":540,"width":181,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/Trung　「中」.canvas"}
 	],
 	"edges":[
 		{"id":"530132d4f8d94c13","fromNode":"ef0cd5bbb18adc54","fromSide":"right","toNode":"f4c3ba78d699547a","toSide":"left"},
 		{"id":"4d173f1df749c5a0","fromNode":"15edb35cfda7b1d0","fromSide":"right","toNode":"ef0cd5bbb18adc54","toSide":"left"},
 		{"id":"fc94bc3d481b7b54","fromNode":"68e4fb0c2474c08e","fromSide":"right","toNode":"ef0cd5bbb18adc54","toSide":"left"},
 		{"id":"6f50dc6c564d3e93","fromNode":"15edb35cfda7b1d0","fromSide":"left","toNode":"e7181fc2f4090508","toSide":"right"},
-		{"id":"b7a993491f5c64d7","fromNode":"15edb35cfda7b1d0","fromSide":"left","toNode":"3a397b5afee0e3be","toSide":"right","label":"nghĩa cổ"}
+		{"id":"b7a993491f5c64d7","fromNode":"15edb35cfda7b1d0","fromSide":"left","toNode":"3a397b5afee0e3be","toSide":"right","label":"nghĩa cổ"},
+		{"id":"e60f7e8ccfaea38c","fromNode":"15edb35cfda7b1d0","fromSide":"right","toNode":"fdfa3dbea848144c","toSide":"left"},
+		{"id":"b89451a2527152f1","fromNode":"15edb35cfda7b1d0","fromSide":"right","toNode":"725a3f67b38ce0cd","toSide":"left"},
+		{"id":"8da15225259215e8","fromNode":"41be46cb816ad049","fromSide":"right","toNode":"725a3f67b38ce0cd","toSide":"left"}
 	]
 }

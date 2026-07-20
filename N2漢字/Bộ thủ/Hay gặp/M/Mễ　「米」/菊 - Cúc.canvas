@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c6bf10dcdb21e3e5","type":"text","text":"菊 - Cúc","x":-122,"y":-3,"width":250,"height":60},
+		{"id":"96d5156094e5bfda","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-480,"y":-400,"width":148,"height":172},
+		{"id":"ed528ae00d7d48fa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-494,"y":-26,"width":162,"height":107},
+		{"id":"b125acd75705eed1","x":-548,"y":160,"width":216,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"}
+	],
+	"edges":[
+		{"id":"5b0080511e30aa71","fromNode":"96d5156094e5bfda","fromSide":"right","toNode":"c6bf10dcdb21e3e5","toSide":"left"},
+		{"id":"7aa165dac17dfd8a","fromNode":"ed528ae00d7d48fa","fromSide":"right","toNode":"c6bf10dcdb21e3e5","toSide":"left"},
+		{"id":"0ba0ff497b2275ad","fromNode":"b125acd75705eed1","fromSide":"right","toNode":"c6bf10dcdb21e3e5","toSide":"left"}
+	]
+}

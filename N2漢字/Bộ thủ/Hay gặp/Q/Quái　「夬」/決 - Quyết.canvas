@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ddecf7fec2c5c49","x":-88,"y":-59,"width":250,"height":60,"type":"text","text":"決 - Quyết"},
+		{"id":"f015c5be9467e62c","x":-360,"y":-260,"width":112,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"8a3d217090548b02","x":-420,"y":80,"width":165,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quái　「夬」/Quái　「夬」.canvas"}
+	],
+	"edges":[
+		{"id":"c0bfa68a1f5f0538","fromNode":"f015c5be9467e62c","fromSide":"right","toNode":"2ddecf7fec2c5c49","toSide":"left"},
+		{"id":"b7e66b7698a0288b","fromNode":"8a3d217090548b02","fromSide":"right","toNode":"2ddecf7fec2c5c49","toSide":"left"}
+	]
+}

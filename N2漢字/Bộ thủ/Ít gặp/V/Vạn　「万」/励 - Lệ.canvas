@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"599dfbbe5d75c190","type":"text","text":"励 - Lệ","x":-186,"y":-276,"width":250,"height":60},
+		{"id":"403097a9a03aa895","type":"text","text":"励ます　「はげます」：","x":302,"y":-276,"width":250,"height":60},
+		{"id":"a17e1f0bf0cf4086","type":"text","text":"khích lệ","x":137,"y":-189,"width":250,"height":60},
+		{"id":"5edab8e488d846cb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-546,"y":-189,"width":211,"height":195},
+		{"id":"5ffe40673edb6052","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-540,"y":104,"width":179,"height":145},
+		{"id":"b4a0a9432fcc494c","x":-466,"y":-520,"width":131,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas"}
+	],
+	"edges":[
+		{"id":"0fe77c5498e3b7e3","fromNode":"599dfbbe5d75c190","fromSide":"right","toNode":"403097a9a03aa895","toSide":"left"},
+		{"id":"6feda65e92f678fc","fromNode":"599dfbbe5d75c190","fromSide":"right","toNode":"a17e1f0bf0cf4086","toSide":"left"},
+		{"id":"edac893878231d28","fromNode":"5edab8e488d846cb","fromSide":"right","toNode":"599dfbbe5d75c190","toSide":"left"},
+		{"id":"1b6577ad5161ef11","fromNode":"5ffe40673edb6052","fromSide":"right","toNode":"599dfbbe5d75c190","toSide":"left"},
+		{"id":"e8cf3a6e26ea08a7","fromNode":"b4a0a9432fcc494c","fromSide":"right","toNode":"599dfbbe5d75c190","toSide":"left"}
+	]
+}

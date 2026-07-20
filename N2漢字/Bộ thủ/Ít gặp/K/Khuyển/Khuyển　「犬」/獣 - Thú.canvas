@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"752fb98fe28106c4","x":-160,"y":-19,"width":250,"height":60,"type":"text","text":"獣 - Thú"},
+		{"id":"3903e5b139416e00","x":-500,"y":-72,"width":148,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"},
+		{"id":"a2ad08876fefa4a3","x":-840,"y":-380,"width":192,"height":231,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"63f20b78632e545d","x":-855,"y":140,"width":207,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"b1173949587a8e23","x":-887,"y":460,"width":239,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"660b20f3d6fbe0a8","x":-840,"y":-820,"width":218,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"}
+	],
+	"edges":[
+		{"id":"8bcd59dfb568ff09","fromNode":"3903e5b139416e00","fromSide":"right","toNode":"752fb98fe28106c4","toSide":"left"},
+		{"id":"86639fa59ffa553e","fromNode":"a2ad08876fefa4a3","fromSide":"right","toNode":"752fb98fe28106c4","toSide":"left"},
+		{"id":"e1db61d71f940308","fromNode":"63f20b78632e545d","fromSide":"right","toNode":"752fb98fe28106c4","toSide":"left"},
+		{"id":"9d709142dc0a6250","fromNode":"b1173949587a8e23","fromSide":"right","toNode":"752fb98fe28106c4","toSide":"left"},
+		{"id":"4dac53f43f900494","fromNode":"660b20f3d6fbe0a8","fromSide":"right","toNode":"752fb98fe28106c4","toSide":"left"}
+	]
+}

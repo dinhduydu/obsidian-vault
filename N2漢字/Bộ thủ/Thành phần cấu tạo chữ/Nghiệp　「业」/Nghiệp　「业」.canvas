@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"13973492eef00845","x":-198,"y":-25,"width":250,"height":60,"type":"text","text":"Nghiệp　「业」"},
+		{"id":"ca01cad8312d4ca5","x":400,"y":-360,"width":201,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/僕 - Nghiệp.canvas"},
+		{"id":"2e1890fa1026e6fd","x":410,"y":-52,"width":181,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"707a7397044a5142","x":407,"y":220,"width":188,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/業 - Nghiệp.canvas"},
+		{"id":"7aacaa2d63b151ad","x":52,"y":-522,"width":200,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"},
+		{"id":"bda3f047236c00e9","x":52,"y":440,"width":208,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"bd7971fb336407b0","fromNode":"13973492eef00845","fromSide":"right","toNode":"ca01cad8312d4ca5","toSide":"left"},
+		{"id":"2389cab0b28dde7f","fromNode":"13973492eef00845","fromSide":"right","toNode":"707a7397044a5142","toSide":"left"},
+		{"id":"13b08b7cd8839113","fromNode":"2e1890fa1026e6fd","fromSide":"top","toNode":"ca01cad8312d4ca5","toSide":"bottom"},
+		{"id":"b26a3bc3c38730f2","fromNode":"2e1890fa1026e6fd","fromSide":"bottom","toNode":"707a7397044a5142","toSide":"top"},
+		{"id":"d6148358a709be8d","fromNode":"7aacaa2d63b151ad","fromSide":"right","toNode":"ca01cad8312d4ca5","toSide":"left"},
+		{"id":"69895ac9e0bd8dad","fromNode":"bda3f047236c00e9","fromSide":"right","toNode":"707a7397044a5142","toSide":"left"}
+	]
+}

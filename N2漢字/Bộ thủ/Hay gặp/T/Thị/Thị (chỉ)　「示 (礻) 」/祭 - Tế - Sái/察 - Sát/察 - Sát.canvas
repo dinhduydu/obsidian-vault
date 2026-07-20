@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86ad3a99f30f860e","x":-177,"y":-44,"width":250,"height":60,"type":"text","text":"察 - Sát"},
+		{"id":"157c15b0e717a26c","x":-560,"y":100,"width":193,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/祭 - Tế - Sái.canvas"},
+		{"id":"710ad270cb292716","x":-515,"y":-280,"width":148,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"212258dd687596a5","fromNode":"157c15b0e717a26c","fromSide":"right","toNode":"86ad3a99f30f860e","toSide":"left"},
+		{"id":"02a66fbf4a2ef1f7","fromNode":"710ad270cb292716","fromSide":"right","toNode":"86ad3a99f30f860e","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71da604fae330ef1","x":-63,"y":-5,"width":250,"height":60,"type":"text","text":"茎 - Hành"},
+		{"id":"bdd2865390f25f2c","x":-460,"y":-240,"width":229,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"56d8d79ee074c3c9","x":-449,"y":120,"width":207,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas"}
+	],
+	"edges":[
+		{"id":"09a6ce85b8cdd8c5","fromNode":"bdd2865390f25f2c","fromSide":"right","toNode":"71da604fae330ef1","toSide":"left"},
+		{"id":"71c311a4630b2b20","fromNode":"56d8d79ee074c3c9","fromSide":"right","toNode":"71da604fae330ef1","toSide":"left"}
+	]
+}

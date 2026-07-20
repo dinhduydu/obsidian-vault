@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"427699e0bf38db7a","x":-128,"y":-45,"width":250,"height":60,"type":"text","text":"緒 - Tự"},
+		{"id":"a8dd56ec22ed8cf9","x":-460,"y":-220,"width":164,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"b52b5615b1ccaba1","x":-440,"y":120,"width":144,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"}
+	],
+	"edges":[
+		{"id":"99a828cc61320e05","fromNode":"a8dd56ec22ed8cf9","fromSide":"right","toNode":"427699e0bf38db7a","toSide":"left"},
+		{"id":"b9ad671271696781","fromNode":"b52b5615b1ccaba1","fromSide":"right","toNode":"427699e0bf38db7a","toSide":"left"}
+	]
+}

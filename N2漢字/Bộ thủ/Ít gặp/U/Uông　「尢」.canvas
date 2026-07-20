@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"a7da4b82de6f881e","x":-115,"y":-29,"width":250,"height":60,"type":"text","text":"Uông　「尢」"},
-		{"id":"415ecf67a59a0687","x":258,"y":-115,"width":250,"height":60,"type":"text","text":"|què|Người khập khiễng, yếu ớt.|\n|---|---|"}
+		{"id":"a7da4b82de6f881e","type":"text","text":"Uông　「尢」","x":-115,"y":-29,"width":250,"height":60},
+		{"id":"415ecf67a59a0687","type":"text","text":"|què|Người khập khiễng, yếu ớt.|\n|---|---|","x":-480,"y":-340,"width":250,"height":60},
+		{"id":"1f6c052aaea1419f","x":467,"y":260,"width":165,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/稽 - Kê.canvas"},
+		{"id":"143d989c166de7b6","x":-100,"y":270,"width":149,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas"},
+		{"id":"c3ae0068b26009af","x":100,"y":120,"width":133,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
+		{"id":"7a436cdef12e5af1","x":-75,"y":440,"width":124,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
 	],
 	"edges":[
-		{"id":"7b038de7716f809c","fromNode":"a7da4b82de6f881e","fromSide":"right","toNode":"415ecf67a59a0687","toSide":"left"}
+		{"id":"53823d3b9c95c931","fromNode":"415ecf67a59a0687","fromSide":"right","toNode":"a7da4b82de6f881e","toSide":"left"},
+		{"id":"a373bdfc81b58f5a","fromNode":"a7da4b82de6f881e","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"eca4bf476a02fd99","fromNode":"143d989c166de7b6","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"bcdadc1496afdd56","fromNode":"c3ae0068b26009af","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"676f27a61289aae3","fromNode":"7a436cdef12e5af1","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"}
 	]
 }

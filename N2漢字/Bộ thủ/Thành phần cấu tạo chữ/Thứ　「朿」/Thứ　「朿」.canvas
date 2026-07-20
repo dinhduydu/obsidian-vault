@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0a468d6c7b5bb067","x":-101,"y":-1,"width":250,"height":60,"type":"text","text":"Thứ　「朿」"},
+		{"id":"7032d5ac980c5d79","x":380,"y":-260,"width":239,"height":213,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/策 - Sách.canvas"},
+		{"id":"56e92c75724d44ec","x":-44,"y":-380,"width":193,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"7c12dcb0d466ba98","fromNode":"0a468d6c7b5bb067","fromSide":"right","toNode":"7032d5ac980c5d79","toSide":"left"},
+		{"id":"e26f217dd98cc382","fromNode":"56e92c75724d44ec","fromSide":"right","toNode":"7032d5ac980c5d79","toSide":"left"}
+	]
+}

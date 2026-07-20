@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e985b704ac97f40","type":"text","text":"駆 - Khu","x":-72,"y":-28,"width":250,"height":60},
+		{"id":"1935b2bdfb309a2b","x":-400,"y":-260,"width":144,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas"},
+		{"id":"419f2297a3a1359e","x":-401,"y":60,"width":145,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"8d937bae1690da31","fromNode":"1935b2bdfb309a2b","fromSide":"right","toNode":"2e985b704ac97f40","toSide":"left"},
+		{"id":"512cc9e4c59baaff","fromNode":"419f2297a3a1359e","fromSide":"right","toNode":"2e985b704ac97f40","toSide":"left"}
+	]
+}

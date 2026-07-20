@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4555f468675fc3c8","type":"text","text":"化 - Hoá","x":-612,"y":-137,"width":250,"height":60},
+		{"id":"356a1c3dda47596d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/化 - Hoá/花 - Hoa.canvas","x":-52,"y":100,"width":161,"height":106},
+		{"id":"a6aeaede7728fea3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-400,"y":220,"width":91,"height":79},
+		{"id":"7e048a8d71617a82","type":"text","text":"化学　「かがく」：","x":-52,"y":-320,"width":250,"height":60},
+		{"id":"b552378d68e239a6","x":60,"y":500,"width":311,"height":276,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/化 - Hoá/靴 - Ngoa.canvas"},
+		{"id":"b4c6c14f50164813","x":-484,"y":700,"width":259,"height":249,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cách　「革」/Cách　「革」.canvas"}
+	],
+	"edges":[
+		{"id":"ed609d71af95d510","fromNode":"4555f468675fc3c8","fromSide":"right","toNode":"7e048a8d71617a82","toSide":"left"},
+		{"id":"aa5e8e9d4f8b66b3","fromNode":"4555f468675fc3c8","fromSide":"right","toNode":"356a1c3dda47596d","toSide":"left"},
+		{"id":"ec148e864bbfce68","fromNode":"a6aeaede7728fea3","fromSide":"right","toNode":"356a1c3dda47596d","toSide":"left"},
+		{"id":"d444bf75e383a764","fromNode":"4555f468675fc3c8","fromSide":"right","toNode":"b552378d68e239a6","toSide":"left"},
+		{"id":"a3735b247d346f50","fromNode":"b4c6c14f50164813","fromSide":"right","toNode":"b552378d68e239a6","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ee4cdd9292e2a6c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"使 - Sử"},
+		{"id":"ea2fd3aaa6f5067a","x":-400,"y":-180,"width":131,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"7806c1d52adef623","x":-436,"y":30,"width":167,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/中 - Trung/史 - Sử/吏 - Lại/吏 - Lại.canvas"}
+	],
+	"edges":[
+		{"id":"86df249463c1db2a","fromNode":"ea2fd3aaa6f5067a","fromSide":"right","toNode":"2ee4cdd9292e2a6c","toSide":"left"},
+		{"id":"bc9609fb7585824f","fromNode":"7806c1d52adef623","fromSide":"right","toNode":"2ee4cdd9292e2a6c","toSide":"left"}
+	]
+}

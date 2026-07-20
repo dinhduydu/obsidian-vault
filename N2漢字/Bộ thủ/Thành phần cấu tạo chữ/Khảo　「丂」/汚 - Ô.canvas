@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"886a8b0ed469054b","x":-163,"y":-42,"width":250,"height":60,"type":"text","text":"汚 - Ô"},
+		{"id":"fcd90343a3385044","x":-540,"y":80,"width":193,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"},
+		{"id":"ed29464dc031da11","x":-509,"y":-200,"width":162,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"a32214e43648f20b","x":-800,"y":-99,"width":167,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"4ffc4de8349f87bc","fromNode":"fcd90343a3385044","fromSide":"right","toNode":"886a8b0ed469054b","toSide":"left"},
+		{"id":"e967c7671d7f374b","fromNode":"ed29464dc031da11","fromSide":"right","toNode":"886a8b0ed469054b","toSide":"left"},
+		{"id":"6455e68867f64452","fromNode":"a32214e43648f20b","fromSide":"right","toNode":"886a8b0ed469054b","toSide":"left"}
+	]
+}

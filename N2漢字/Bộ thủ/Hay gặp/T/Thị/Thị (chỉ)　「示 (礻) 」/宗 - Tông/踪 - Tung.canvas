@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"27d616f1727740d4","x":-189,"y":-23,"width":250,"height":60,"type":"text","text":"踪 - Tung"},
+		{"id":"2a80e1c6d9cfdbed","x":-540,"y":-260,"width":169,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/宗 - Tông/宗 - Tông.canvas"},
+		{"id":"4b1e28fede2e317e","x":-560,"y":37,"width":189,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"d388cbbc888a9818","fromNode":"2a80e1c6d9cfdbed","fromSide":"right","toNode":"27d616f1727740d4","toSide":"left"},
+		{"id":"9e620c3a6e486667","fromNode":"4b1e28fede2e317e","fromSide":"right","toNode":"27d616f1727740d4","toSide":"left"}
+	]
+}

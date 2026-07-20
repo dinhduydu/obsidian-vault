@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"293f2b8effc0c892","x":-72,"y":-75,"width":250,"height":60,"type":"text","text":"丸 - Hoàn"},
-		{"id":"80e9df57a01949f7","x":-320,"y":-178,"width":161,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas"},
-		{"id":"1ca3ed0c4516c482","x":-320,"y":80,"width":164,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+		{"id":"293f2b8effc0c892","type":"text","text":"丸 - Hoàn","x":-72,"y":-75,"width":250,"height":60},
+		{"id":"80e9df57a01949f7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas","x":-320,"y":-178,"width":161,"height":163},
+		{"id":"1ca3ed0c4516c482","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-320,"y":80,"width":164,"height":155},
+		{"id":"d80092df95d823b9","x":340,"y":-420,"width":238,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/執 - Chấp/執 - Chấp.canvas"},
+		{"id":"3ab5562766ba8976","x":-34,"y":-579,"width":175,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/幸 - Hạnh.canvas"}
 	],
 	"edges":[
 		{"id":"ff609a2592b68fb4","fromNode":"80e9df57a01949f7","fromSide":"right","toNode":"293f2b8effc0c892","toSide":"left"},
-		{"id":"8860034228af96ca","fromNode":"1ca3ed0c4516c482","fromSide":"right","toNode":"293f2b8effc0c892","toSide":"left"}
+		{"id":"8860034228af96ca","fromNode":"1ca3ed0c4516c482","fromSide":"right","toNode":"293f2b8effc0c892","toSide":"left"},
+		{"id":"ebdb949ba03d32d8","fromNode":"293f2b8effc0c892","fromSide":"right","toNode":"d80092df95d823b9","toSide":"left"},
+		{"id":"1e10c994cf711274","fromNode":"3ab5562766ba8976","fromSide":"right","toNode":"d80092df95d823b9","toSide":"left"}
 	]
 }

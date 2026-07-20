@@ -1,9 +1,17 @@
 {
 	"nodes":[
 		{"id":"332a342713c953f7","type":"text","text":"Thị (chỉ)　「示」","x":-162,"y":-29,"width":202,"height":60},
-		{"id":"208b6c412a95978d","x":240,"y":-320,"width":280,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái.canvas"}
+		{"id":"208b6c412a95978d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/祭 - Tế - Sái.canvas","x":240,"y":-320,"width":280,"height":189},
+		{"id":"83152fd3b56c5755","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/宗 - Tông/宗 - Tông.canvas","x":240,"y":80,"width":278,"height":218},
+		{"id":"c057732d04103639","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-100,"y":226,"width":175,"height":145},
+		{"id":"31dc9c2dc975fe4e","x":-61,"y":-520,"width":175,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"5dbc9e46a37b1245","x":-100,"y":-300,"width":140,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
 	],
 	"edges":[
-		{"id":"1cecd49b7588e71e","fromNode":"332a342713c953f7","fromSide":"right","toNode":"208b6c412a95978d","toSide":"left"}
+		{"id":"1cecd49b7588e71e","fromNode":"332a342713c953f7","fromSide":"right","toNode":"208b6c412a95978d","toSide":"left"},
+		{"id":"89b4dec23d0b2c7c","fromNode":"332a342713c953f7","fromSide":"right","toNode":"83152fd3b56c5755","toSide":"left"},
+		{"id":"270e8df83fa26b3a","fromNode":"c057732d04103639","fromSide":"right","toNode":"83152fd3b56c5755","toSide":"left"},
+		{"id":"a65ccd7633e1b4b5","fromNode":"31dc9c2dc975fe4e","fromSide":"right","toNode":"208b6c412a95978d","toSide":"left"},
+		{"id":"6dedc0777f303084","fromNode":"5dbc9e46a37b1245","fromSide":"right","toNode":"208b6c412a95978d","toSide":"left"}
 	]
 }

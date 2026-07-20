@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a416d15e0f7bffa4","type":"text","text":"朕 - Trẫm","x":-312,"y":-30,"width":250,"height":60},
+		{"id":"647e528bd7c173bd","type":"text","text":"trẫm, vua xưng","x":62,"y":-30,"width":250,"height":60},
+		{"id":"fdcece40efaaea04","x":-640,"y":80,"width":183,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"4b0915daf4474b10","fromNode":"a416d15e0f7bffa4","fromSide":"right","toNode":"647e528bd7c173bd","toSide":"left"},
+		{"id":"fc1a189b67a857ff","fromNode":"fdcece40efaaea04","fromSide":"right","toNode":"a416d15e0f7bffa4","toSide":"left"}
+	]
+}

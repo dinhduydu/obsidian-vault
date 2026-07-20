@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"83ab2f54a2d63219","type":"text","text":"丈 - Trượng","x":-95,"y":-38,"width":150,"height":55},
+		{"id":"ed0da6a579527008","type":"text","text":"丈夫　「じょうぶ」：bền, chắc","x":145,"y":-40,"width":274,"height":60},
+		{"id":"e83b5678a641ad85","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-355,"y":20,"width":147,"height":105},
+		{"id":"031ea630835121ad","x":-379,"y":-280,"width":171,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"}
+	],
+	"edges":[
+		{"id":"5dd08c39d7c05cad","fromNode":"031ea630835121ad","fromSide":"right","toNode":"83ab2f54a2d63219","toSide":"left"},
+		{"id":"0cdec56f771dd24e","fromNode":"83ab2f54a2d63219","fromSide":"right","toNode":"ed0da6a579527008","toSide":"left"},
+		{"id":"8ed28881c434320a","fromNode":"e83b5678a641ad85","fromSide":"right","toNode":"83ab2f54a2d63219","toSide":"left"}
+	]
+}

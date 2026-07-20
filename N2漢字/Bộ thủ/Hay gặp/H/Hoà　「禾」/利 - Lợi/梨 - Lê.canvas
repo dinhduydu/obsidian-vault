@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"458cb6d1e48b2589","x":-90,"y":-6,"width":250,"height":60,"type":"text","text":"梨 - Lê"},
+		{"id":"76ded5a04f5608cb","x":-360,"y":-200,"width":161,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/利 - Lợi/利 - Lợi.canvas"},
+		{"id":"0244920a3bbc0b65","x":-328,"y":140,"width":129,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6de517eca57b69d0","fromNode":"76ded5a04f5608cb","fromSide":"right","toNode":"458cb6d1e48b2589","toSide":"left"},
+		{"id":"3b2d3b72a5f8b46f","fromNode":"0244920a3bbc0b65","fromSide":"right","toNode":"458cb6d1e48b2589","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5933bfb95a368d05","type":"text","text":"率 - Suất","x":-157,"y":-45,"width":250,"height":60},
+		{"id":"cba6f032a51791f7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/Huyền　「玄」.canvas","x":-400,"y":-180,"width":120,"height":67},
+		{"id":"54e008a835b4b8e6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-660,"y":15,"width":196,"height":158},
+		{"id":"b9c90b46f9dd6b78","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-617,"y":-225,"width":153,"height":149}
+	],
+	"edges":[
+		{"id":"44dcdeb600acd20f","fromNode":"cba6f032a51791f7","fromSide":"right","toNode":"5933bfb95a368d05","toSide":"left"},
+		{"id":"b5a61a972c08633e","fromNode":"b9c90b46f9dd6b78","fromSide":"right","toNode":"5933bfb95a368d05","toSide":"left"},
+		{"id":"c6d51aa704d32d2a","fromNode":"54e008a835b4b8e6","fromSide":"right","toNode":"5933bfb95a368d05","toSide":"left"}
+	]
+}

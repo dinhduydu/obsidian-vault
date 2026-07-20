@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c2b581094d779356","x":-62,"y":-31,"width":250,"height":60,"type":"text","text":"際 - Tế"},
+		{"id":"be11b18ea406c996","x":-340,"y":-240,"width":158,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/祭 - Tế - Sái.canvas"},
+		{"id":"6fae57eaf2138ac7","x":-560,"y":-105,"width":179,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"c5348527247cff7f","fromNode":"be11b18ea406c996","fromSide":"right","toNode":"c2b581094d779356","toSide":"left"},
+		{"id":"284c1603bef7dafe","fromNode":"6fae57eaf2138ac7","fromSide":"right","toNode":"c2b581094d779356","toSide":"left"}
+	]
+}

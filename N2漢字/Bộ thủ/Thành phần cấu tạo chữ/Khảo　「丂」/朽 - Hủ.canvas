@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb4ed37480d51aab","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"朽 - Hủ"},
+		{"id":"933d5c7f89e2d8d6","x":-480,"y":100,"width":189,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"2434736c5442e5dd","x":-508,"y":-260,"width":217,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/丂 - Khảo.canvas"}
+	],
+	"edges":[
+		{"id":"ede12139530ddf6b","fromNode":"2434736c5442e5dd","fromSide":"right","toNode":"fb4ed37480d51aab","toSide":"left"},
+		{"id":"4f5ed94c26706518","fromNode":"933d5c7f89e2d8d6","fromSide":"right","toNode":"fb4ed37480d51aab","toSide":"left"}
+	]
+}

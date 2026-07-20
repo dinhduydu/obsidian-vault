@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0a8afe5b3374e3f1","x":-187,"y":-48,"width":250,"height":60,"type":"text","text":"束 - Thúc"},
+		{"id":"046da673f70c591f","x":-560,"y":-320,"width":144,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"216fd1b35f9bdf3a","x":-570,"y":40,"width":154,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"57eda74a0815f404","fromNode":"046da673f70c591f","fromSide":"right","toNode":"0a8afe5b3374e3f1","toSide":"left"},
+		{"id":"e56bc14b56c37ad4","fromNode":"216fd1b35f9bdf3a","fromSide":"right","toNode":"0a8afe5b3374e3f1","toSide":"left"}
+	]
+}

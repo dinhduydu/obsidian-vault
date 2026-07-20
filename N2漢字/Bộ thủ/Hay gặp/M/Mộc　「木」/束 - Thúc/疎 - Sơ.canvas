@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"86823ffa74cc12a0","x":-104,"y":-52,"width":250,"height":60,"type":"text","text":"疎 - Sơ"},
+		{"id":"5111f04d2cc047ab","x":-400,"y":-240,"width":153,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/速 - Tốc.canvas"},
+		{"id":"7286ed1c54361b81","x":-600,"y":-105,"width":163,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"},
+		{"id":"fda8aab148be30c9","x":-437,"y":140,"width":211,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"8a43b4013aac63ac","fromNode":"5111f04d2cc047ab","fromSide":"right","toNode":"86823ffa74cc12a0","toSide":"left"},
+		{"id":"962a2e26ddf44299","fromNode":"7286ed1c54361b81","fromSide":"right","toNode":"86823ffa74cc12a0","toSide":"left"},
+		{"id":"b12649aeeca62dc1","fromNode":"fda8aab148be30c9","fromSide":"right","toNode":"86823ffa74cc12a0","toSide":"left"}
+	]
+}

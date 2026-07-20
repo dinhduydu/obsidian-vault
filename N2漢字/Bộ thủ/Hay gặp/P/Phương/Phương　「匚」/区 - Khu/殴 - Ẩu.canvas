@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5ee9d81a648310e","x":-123,"y":-14,"width":250,"height":60,"type":"text","text":"殴 - Ẩu"},
+		{"id":"816c0f7affb379f2","x":-440,"y":120,"width":195,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas"},
+		{"id":"fb6145a97db861ae","x":-424,"y":-179,"width":179,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"b09b5367d7725493","fromNode":"816c0f7affb379f2","fromSide":"right","toNode":"e5ee9d81a648310e","toSide":"left"},
+		{"id":"632ff2c922eabc3d","fromNode":"fb6145a97db861ae","fromSide":"right","toNode":"e5ee9d81a648310e","toSide":"left"}
+	]
+}

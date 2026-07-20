@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aacaaed35966536b","x":-98,"y":-76,"width":250,"height":60,"type":"text","text":"旨 - Chỉ"},
+		{"id":"0a291602d81f259d","x":-460,"y":-340,"width":209,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas"},
+		{"id":"8f2278287f7a9fd9","x":-434,"y":60,"width":183,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"a902f9612efeaa2c","fromNode":"0a291602d81f259d","fromSide":"right","toNode":"aacaaed35966536b","toSide":"left"},
+		{"id":"6bac645b79b78db2","fromNode":"8f2278287f7a9fd9","fromSide":"right","toNode":"aacaaed35966536b","toSide":"left"}
+	]
+}

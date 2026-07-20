@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f74a0349a9673360","type":"text","text":"歯 - Xỉ","x":-157,"y":-40,"width":250,"height":60},
+		{"id":"b0779aba002738c1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/Khảm「凵」.canvas","x":-440,"y":120,"width":147,"height":98},
+		{"id":"24f53ada6df4ab66","x":-426,"y":-47,"width":119,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"31aabb7534f30565","x":-451,"y":-340,"width":144,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"752b14528aa87325","fromNode":"b0779aba002738c1","fromSide":"right","toNode":"f74a0349a9673360","toSide":"left"},
+		{"id":"57d7e8c756f8760d","fromNode":"24f53ada6df4ab66","fromSide":"right","toNode":"f74a0349a9673360","toSide":"left"},
+		{"id":"aa12d4376dba05e6","fromNode":"31aabb7534f30565","fromSide":"right","toNode":"f74a0349a9673360","toSide":"left"}
+	]
+}

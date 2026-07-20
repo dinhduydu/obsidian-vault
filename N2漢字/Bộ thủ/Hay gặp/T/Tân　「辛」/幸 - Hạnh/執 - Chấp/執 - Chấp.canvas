@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"94dd58a39b988814","x":-94,"y":-9,"width":250,"height":60,"type":"text","text":"執 - Chấp"},
+		{"id":"dc5681de80b0faf1","x":-380,"y":-200,"width":161,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/幸 - Hạnh.canvas"},
+		{"id":"fd4dac5be4ee97ac","x":-480,"y":140,"width":241,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn.canvas"}
+	],
+	"edges":[
+		{"id":"18eda9607cbdf7ce","fromNode":"dc5681de80b0faf1","fromSide":"right","toNode":"94dd58a39b988814","toSide":"left"},
+		{"id":"7259aab4d1970f3b","fromNode":"fd4dac5be4ee97ac","fromSide":"right","toNode":"94dd58a39b988814","toSide":"left"}
+	]
+}

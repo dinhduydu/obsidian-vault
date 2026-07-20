@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2259a598dd6a54f8","x":-97,"y":-42,"width":250,"height":60,"type":"text","text":"済 - Tế"},
+		{"id":"775d56fa443e4868","x":-480,"y":-104,"width":225,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/斉 - Tề.canvas"},
+		{"id":"5a1ae2d22bc9fd33","x":-432,"y":-380,"width":177,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"4a3bb2c6cf9b9d6b","fromNode":"775d56fa443e4868","fromSide":"right","toNode":"2259a598dd6a54f8","toSide":"left"},
+		{"id":"c38aa1a16cf48861","fromNode":"5a1ae2d22bc9fd33","fromSide":"right","toNode":"2259a598dd6a54f8","toSide":"left"}
+	]
+}

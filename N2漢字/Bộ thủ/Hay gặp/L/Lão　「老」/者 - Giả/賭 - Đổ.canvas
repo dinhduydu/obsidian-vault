@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c3fa3c35629e73d1","x":-95,"y":-15,"width":250,"height":60,"type":"text","text":"賭 - Đổ"},
+		{"id":"87962124bf17c917","x":-460,"y":-58,"width":113,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"96d7780c263d9ecd","x":-438,"y":-300,"width":183,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"}
+	],
+	"edges":[
+		{"id":"2c0a674daaa0d0f6","fromNode":"87962124bf17c917","fromSide":"right","toNode":"c3fa3c35629e73d1","toSide":"left"},
+		{"id":"3c64640a4c368742","fromNode":"96d7780c263d9ecd","fromSide":"right","toNode":"c3fa3c35629e73d1","toSide":"left"}
+	]
+}

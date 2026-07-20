@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"e2c80e2bed1f2110","x":-143,"y":-23,"width":250,"height":60,"type":"text","text":"Khảm「凵」"}
+		{"id":"e2c80e2bed1f2110","type":"text","text":"Khảm「凵」","x":-143,"y":-23,"width":250,"height":60},
+		{"id":"b4bca2e136c95d30","x":320,"y":-320,"width":251,"height":257,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/歯 - Xỉ/歯 - Xỉ.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"92edeece78b4c3a6","fromNode":"e2c80e2bed1f2110","fromSide":"right","toNode":"b4bca2e136c95d30","toSide":"left"}
+	]
 }

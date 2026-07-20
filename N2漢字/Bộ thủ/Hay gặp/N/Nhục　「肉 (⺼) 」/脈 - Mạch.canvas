@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"795418796e9c0933","type":"text","text":"- Mạch máu\n- Mạch đập\n- Dòng chảy liên tục\n- Quan hệ, đầu mối, cơ hội (恋愛脈, 人脈...)","x":640,"y":-80,"width":369,"height":126},
+		{"id":"2e21d42eadf81a83","type":"text","text":"脈 - Mạch","x":200,"y":-47,"width":250,"height":60},
+		{"id":"dd585f06265a6da3","type":"text","text":"- 脈拍（みゃくはく）: nhịp mạch\n- 動脈（どうみゃく）: động mạch\n- 静脈（じょうみゃく）: tĩnh mạch\n- 文脈（ぶんみゃく）: văn mạch, ngữ cảnh\n- 人脈（じんみゃく）: quan hệ xã hội","x":1260,"y":-109,"width":395,"height":184}
+	],
+	"edges":[
+		{"id":"1e8bbcf7605c10c9","fromNode":"2e21d42eadf81a83","fromSide":"right","toNode":"795418796e9c0933","toSide":"left"},
+		{"id":"49787d8ce29766fa","fromNode":"795418796e9c0933","fromSide":"right","toNode":"dd585f06265a6da3","toSide":"left"}
+	]
+}

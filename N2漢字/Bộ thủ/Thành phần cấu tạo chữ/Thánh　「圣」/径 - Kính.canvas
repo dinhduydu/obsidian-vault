@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ebe22cb220d53802","x":-175,"y":-53,"width":250,"height":60,"type":"text","text":"径 - Kính"},
+		{"id":"0f29bc45408cce84","x":-440,"y":60,"width":154,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas"},
+		{"id":"3c7c91edb2154685","x":-449,"y":-240,"width":163,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"3f7d3235c8468525","fromNode":"0f29bc45408cce84","fromSide":"right","toNode":"ebe22cb220d53802","toSide":"left"},
+		{"id":"958d188a66b085da","fromNode":"3c7c91edb2154685","fromSide":"right","toNode":"ebe22cb220d53802","toSide":"left"}
+	]
+}

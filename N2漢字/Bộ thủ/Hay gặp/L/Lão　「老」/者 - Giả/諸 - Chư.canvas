@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5743f787cafe1491","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"諸 - Chư"},
+		{"id":"f509607f8bba856f","x":-460,"y":-220,"width":199,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"},
+		{"id":"b781c2e2f5ff461f","x":-460,"y":80,"width":199,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"fbe954e76c56273b","fromNode":"f509607f8bba856f","fromSide":"right","toNode":"5743f787cafe1491","toSide":"left"},
+		{"id":"4c31e6c8256d2555","fromNode":"b781c2e2f5ff461f","fromSide":"right","toNode":"5743f787cafe1491","toSide":"left"}
+	]
+}

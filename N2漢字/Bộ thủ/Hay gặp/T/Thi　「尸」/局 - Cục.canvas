@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"77b5915795af16b3","x":-147,"y":-18,"width":250,"height":60,"type":"text","text":"局 - Cục"},
+		{"id":"8da6da537b9d201d","x":-500,"y":-280,"width":188,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"e1f0818600526080","fromNode":"8da6da537b9d201d","fromSide":"right","toNode":"77b5915795af16b3","toSide":"left"}
+	]
+}

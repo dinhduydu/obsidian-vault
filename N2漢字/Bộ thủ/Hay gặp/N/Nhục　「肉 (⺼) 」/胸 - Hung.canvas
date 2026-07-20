@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a61112a952f462a2","x":-118,"y":-6,"width":250,"height":60,"type":"text","text":"胸 - Hung"},
+		{"id":"1caf6129cb4fa72e","x":-540,"y":-260,"width":176,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"30f1991884732dc6","fromNode":"1caf6129cb4fa72e","fromSide":"right","toNode":"a61112a952f462a2","toSide":"left"}
+	]
+}

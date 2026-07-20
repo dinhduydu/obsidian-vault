@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6bb7e8d1d662aa77","type":"text","text":"答 - Đáp","x":-8,"y":9,"width":250,"height":60},
+		{"id":"fc1874335caae3e5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合 - Hợp.canvas","x":-348,"y":145,"width":128,"height":136},
+		{"id":"717e92a22ec9116a","x":-380,"y":-200,"width":160,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"0e19cdd9b95be863","fromNode":"fc1874335caae3e5","fromSide":"right","toNode":"6bb7e8d1d662aa77","toSide":"left"},
+		{"id":"2f9a4295a02c26e0","fromNode":"717e92a22ec9116a","fromSide":"right","toNode":"6bb7e8d1d662aa77","toSide":"left"}
+	]
+}

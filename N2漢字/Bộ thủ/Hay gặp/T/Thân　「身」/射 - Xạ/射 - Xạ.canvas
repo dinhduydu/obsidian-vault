@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"98a178dbb70276ec","x":-112,"y":-56,"width":250,"height":60,"type":"text","text":"射 - Xạ"},
+		{"id":"d465d3e9ceaea269","x":-460,"y":40,"width":185,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thân　「身」/Thân　「身」.canvas"},
+		{"id":"5445192a917fe20d","x":-422,"y":-260,"width":147,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"04adf6f66c7ce304","fromNode":"d465d3e9ceaea269","fromSide":"right","toNode":"98a178dbb70276ec","toSide":"left"},
+		{"id":"1d09a38d5d897f63","fromNode":"5445192a917fe20d","fromSide":"right","toNode":"98a178dbb70276ec","toSide":"left"}
+	]
+}

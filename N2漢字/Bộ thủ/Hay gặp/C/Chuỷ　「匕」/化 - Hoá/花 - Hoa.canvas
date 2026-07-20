@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bbfcde6dda38916c","type":"text","text":"花 - Hoa","x":-229,"y":-90,"width":250,"height":60},
+		{"id":"8c025f90270c37ec","type":"text","text":"花　「はな」","x":150,"y":-90,"width":250,"height":60},
+		{"id":"f2cf638176a78d88","type":"text","text":"花瓶","x":140,"y":30,"width":250,"height":60},
+		{"id":"df6af47f169c2f64","x":-440,"y":-320,"width":131,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/化 - Hoá/化 - Hoá.canvas"},
+		{"id":"db9ba4460d2a3ad7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-420,"y":60,"width":91,"height":79}
+	],
+	"edges":[
+		{"id":"d7db0fe5f213705b","fromNode":"bbfcde6dda38916c","fromSide":"right","toNode":"f2cf638176a78d88","toSide":"left"},
+		{"id":"1eed0ac1d6b0a0c4","fromNode":"bbfcde6dda38916c","fromSide":"right","toNode":"8c025f90270c37ec","toSide":"left"},
+		{"id":"f11f74a04d89188e","fromNode":"db9ba4460d2a3ad7","fromSide":"right","toNode":"bbfcde6dda38916c","toSide":"left"},
+		{"id":"9bb1fe9bb2409ec7","fromNode":"df6af47f169c2f64","fromSide":"right","toNode":"bbfcde6dda38916c","toSide":"left"}
+	]
+}

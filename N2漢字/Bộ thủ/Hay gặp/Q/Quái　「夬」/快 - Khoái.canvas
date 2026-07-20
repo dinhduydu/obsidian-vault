@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d98fe56b95d3a162","x":-108,"y":-36,"width":250,"height":60,"type":"text","text":"快 - Khoái"},
+		{"id":"ba23bd2a45ccfb14","x":-460,"y":120,"width":195,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quái　「夬」/Quái　「夬」.canvas"},
+		{"id":"b1f773ced4dc88c4","x":-447,"y":-200,"width":169,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"1975fa6ff63ee6f7","fromNode":"ba23bd2a45ccfb14","fromSide":"right","toNode":"d98fe56b95d3a162","toSide":"left"},
+		{"id":"29fcc635b31d085a","fromNode":"b1f773ced4dc88c4","fromSide":"right","toNode":"d98fe56b95d3a162","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0ca0db40856dc572","x":-159,"y":-19,"width":250,"height":60,"type":"text","text":"箸 - Trứ"},
+		{"id":"112e9330c72d943b","x":-480,"y":160,"width":147,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/者 - Giả/者 - Giả.canvas"},
+		{"id":"6b31688694ab79a2","x":-480,"y":-260,"width":150,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"522acf4cfc318429","fromNode":"112e9330c72d943b","fromSide":"right","toNode":"0ca0db40856dc572","toSide":"left"},
+		{"id":"6112469d42402486","fromNode":"6b31688694ab79a2","fromSide":"right","toNode":"0ca0db40856dc572","toSide":"left"}
+	]
+}

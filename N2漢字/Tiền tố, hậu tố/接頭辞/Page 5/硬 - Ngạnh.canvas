@@ -1,85 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 860,
-      "y": 340,
-      "width": 620,
-      "height": 300,
-      "text": "# 硬～（こう～）\n\n📚 Hán Việt: NGẠNH / CỨNG（硬）\n\n🪨 Ý nghĩa trung tâm:\nCứng • Rắn • Không mềm mại\n\n📌 Thường mang sắc thái:\n- va chạm mạnh\n- không linh hoạt\n- cứng vật lý hoặc metaphor"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 260,
-      "width": 540,
-      "height": 440,
-      "text": "# Ý nghĩa\n\n🧠 硬 mang cảm giác:\n- cứng\n- mạnh\n- thô\n- không mềm mại\n\n➡️ Gần giống:\n- hard\n- rigid\n- rough\n\n📌 Prefix này xuất hiện trong:\n- hàng không\n- kinh tế\n- kỹ thuật\n- cách diễn đạt trang trọng"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1640,
-      "y": 240,
-      "width": 700,
-      "height": 520,
-      "text": "# 硬着陸（こうちゃくりく）\n\n✈️ Hạ cánh cứng / tiếp đất khẩn cấp\n\n📚 Hán Việt:\n- 硬 = cứng\n- 着陸 = trước lục\n\n## Tách nghĩa\n- 硬 = mạnh/cứng\n- 着陸 = hạ cánh\n\n💡 Hình dung:\nMáy bay tiếp đất mạnh\nkhông êm ái\n\n📌 Ngoài nghĩa gốc hàng không,\n『硬着陸』 còn dùng metaphor:\n\n📉 kinh tế giảm mạnh đột ngột\n⚠️ tình hình chuyển biến xấu nhanh"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 700,
-      "y": -220,
-      "width": 860,
-      "height": 420,
-      "text": "# Pattern N2\n\n🧩 硬 + Danh từ\n→ Mang nghĩa:\n『cứng / mạnh / thiếu mềm mại』\n\nVí dụ:\n- 硬水 = nước cứng\n- 硬貨 = tiền xu kim loại\n- 硬直 = cứng đờ\n\n📌 Prefix này thường mang cảm giác:\n- vật lý cứng\n- tác động mạnh\n- khó linh hoạt"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 860,
-      "width": 660,
-      "height": 560,
-      "text": "# So sánh nuance\n\n🪨 硬\n→ cứng / mạnh / không mềm\n\n✨ 軟\n→ mềm / nhẹ / an toàn\n\n📌 Ví dụ:\n- 硬着陸 = hạ cánh cứng\n- 軟着陸 = hạ cánh mềm\n\n⚡ Trong kinh tế:\n- 硬着陸 = suy giảm mạnh\n- 軟着陸 = giảm nhẹ có kiểm soát"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 760,
-      "y": 1540,
-      "width": 940,
-      "height": 440,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 硬 bằng hình ảnh:\n\n✈️ máy bay đáp xuống mạnh\n💥 va chạm mạnh xuống mặt đất\n📉 kinh tế lao dốc nhanh\n\n➡️ Điểm chung:\n『không mềm mại, tác động mạnh và cứng』\n\n📌 JLPT hay gặp:\n- 硬着陸\n- 硬貨\n- 硬水\n- 硬直"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e4",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":860,"y":340,"width":620,"height":300,"text":"# 硬～（こう～）\n\n📚 Hán Việt: NGẠNH / CỨNG（硬）\n\n🪨 Ý nghĩa trung tâm:\nCứng • Rắn • Không mềm mại\n\n📌 Thường mang sắc thái:\n- va chạm mạnh\n- không linh hoạt\n- cứng vật lý hoặc metaphor"},
+		{"id":"meaning","type":"text","x":120,"y":260,"width":540,"height":440,"text":"# Ý nghĩa\n\n🧠 硬 mang cảm giác:\n- cứng\n- mạnh\n- thô\n- không mềm mại\n\n➡️ Gần giống:\n- hard\n- rigid\n- rough\n\n📌 Prefix này xuất hiện trong:\n- hàng không\n- kinh tế\n- kỹ thuật\n- cách diễn đạt trang trọng"},
+		{"id":"word1","type":"text","x":1640,"y":240,"width":700,"height":520,"text":"# 硬着陸（こうちゃくりく）\n\n✈️ Hạ cánh cứng / tiếp đất khẩn cấp\n\n📚 Hán Việt:\n- 硬 = cứng\n- 着陸 = trước lục\n\n## Tách nghĩa\n- 硬 = mạnh/cứng\n- 着陸 = hạ cánh\n\n💡 Hình dung:\nMáy bay tiếp đất mạnh\nkhông êm ái\n\n📌 Ngoài nghĩa gốc hàng không,\n『硬着陸』 còn dùng metaphor:\n\n📉 kinh tế giảm mạnh đột ngột\n⚠️ tình hình chuyển biến xấu nhanh"},
+		{"id":"pattern","type":"text","x":700,"y":-220,"width":860,"height":420,"text":"# Pattern N2\n\n🧩 硬 + Danh từ\n→ Mang nghĩa:\n『cứng / mạnh / thiếu mềm mại』\n\nVí dụ:\n- 硬水 = nước cứng\n- 硬貨 = tiền xu kim loại\n- 硬直 = cứng đờ\n\n📌 Prefix này thường mang cảm giác:\n- vật lý cứng\n- tác động mạnh\n- khó linh hoạt"},
+		{"id":"compare","type":"text","x":120,"y":860,"width":660,"height":560,"text":"# So sánh nuance\n\n🪨 硬\n→ cứng / mạnh / không mềm\n\n✨ 軟\n→ mềm / nhẹ / an toàn\n\n📌 Ví dụ:\n- 硬着陸 = hạ cánh cứng\n- 軟着陸 = hạ cánh mềm\n\n⚡ Trong kinh tế:\n- 硬着陸 = suy giảm mạnh\n- 軟着陸 = giảm nhẹ có kiểm soát"},
+		{"id":"memory","type":"text","x":760,"y":1540,"width":940,"height":440,"text":"# Memory Hint\n\n🧠 Hãy nhớ 硬 bằng hình ảnh:\n\n✈️ máy bay đáp xuống mạnh\n💥 va chạm mạnh xuống mặt đất\n📉 kinh tế lao dốc nhanh\n\n➡️ Điểm chung:\n『không mềm mại, tác động mạnh và cứng』\n\n📌 JLPT hay gặp:\n- 硬着陸\n- 硬貨\n- 硬水\n- 硬直"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

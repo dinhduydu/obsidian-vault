@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"74923f3a3540b4b5","type":"text","text":"謝 - Tạ","x":-129,"y":-40,"width":250,"height":60},
+		{"id":"cefeebd3a3885fd7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thân　「身」/射 - Xạ/射 - Xạ.canvas","x":-360,"y":-240,"width":112,"height":146},
+		{"id":"c4bf8724d582ee39","x":-420,"y":80,"width":169,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"2f4fab9cd0f62d8b","fromNode":"cefeebd3a3885fd7","fromSide":"right","toNode":"74923f3a3540b4b5","toSide":"left"},
+		{"id":"3078969b691c1552","fromNode":"c4bf8724d582ee39","fromSide":"right","toNode":"74923f3a3540b4b5","toSide":"left"}
+	]
+}

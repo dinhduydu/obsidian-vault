@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ef115c333e2c98db","x":-150,"y":-34,"width":250,"height":60,"type":"text","text":"軌 - Quỹ"},
+		{"id":"98b069dfc19a1697","x":-460,"y":-220,"width":153,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
+		{"id":"c4a73374014c4827","x":-503,"y":80,"width":196,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/Cửu　「九」.canvas"}
+	],
+	"edges":[
+		{"id":"52f6e7bfc63c94a5","fromNode":"98b069dfc19a1697","fromSide":"right","toNode":"ef115c333e2c98db","toSide":"left"},
+		{"id":"3a8bba7b2371c6c9","fromNode":"c4a73374014c4827","fromSide":"right","toNode":"ef115c333e2c98db","toSide":"left"}
+	]
+}

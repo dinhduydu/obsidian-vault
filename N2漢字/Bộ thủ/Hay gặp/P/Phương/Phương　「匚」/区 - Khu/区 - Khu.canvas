@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4320fd0178ac4c02","x":-101,"y":-33,"width":250,"height":60,"type":"text","text":"区 - Khu"},
+		{"id":"c58cbb4ca3c48f96","x":-500,"y":-240,"width":102,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas"}
+	],
+	"edges":[
+		{"id":"cab925e1d7dd70c2","fromNode":"c58cbb4ca3c48f96","fromSide":"right","toNode":"4320fd0178ac4c02","toSide":"left"}
+	]
+}

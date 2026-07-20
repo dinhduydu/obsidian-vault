@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ea22f406fd4891f0","x":320,"y":-260,"width":196,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合 - Hợp.canvas"},
+		{"id":"bad9d7826edcedaa","x":-145,"y":-480,"width":250,"height":60,"type":"text","text":"Tập　「亼」"},
+		{"id":"1030da8e04597625","x":-81,"y":0,"width":186,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"bc34c371f41c28ed","fromNode":"bad9d7826edcedaa","fromSide":"right","toNode":"ea22f406fd4891f0","toSide":"left"},
+		{"id":"529f99a163056462","fromNode":"1030da8e04597625","fromSide":"right","toNode":"ea22f406fd4891f0","toSide":"left"}
+	]
+}

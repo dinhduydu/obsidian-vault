@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0b88b94e61d20b35","x":-151,"y":-24,"width":250,"height":60,"type":"text","text":"懸 - Huyền"},
+		{"id":"cc2f14e6e035f18c","x":-440,"y":-200,"width":142,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/県 - Huyện/県 - Huyện.canvas"},
+		{"id":"68035269c3d86899","x":-498,"y":6,"width":200,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"6893c5084d4ea7a2","x":-454,"y":240,"width":156,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"a4bd7ef305c0b3d7","fromNode":"cc2f14e6e035f18c","fromSide":"right","toNode":"0b88b94e61d20b35","toSide":"left"},
+		{"id":"038f244c0f3478a8","fromNode":"68035269c3d86899","fromSide":"right","toNode":"0b88b94e61d20b35","toSide":"left"},
+		{"id":"6b627bb0e876e069","fromNode":"6893c5084d4ea7a2","fromSide":"right","toNode":"0b88b94e61d20b35","toSide":"left"}
+	]
+}

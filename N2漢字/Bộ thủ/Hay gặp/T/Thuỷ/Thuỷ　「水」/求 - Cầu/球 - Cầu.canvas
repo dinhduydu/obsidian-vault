@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dbe520ca28165f54","x":-138,"y":-75,"width":250,"height":60,"type":"text","text":"球 - Cầu"},
+		{"id":"401a2953b2098eff","x":-460,"y":-280,"width":183,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/求 - Cầu/求 - Cầu.canvas"},
+		{"id":"7658c6cffc773c71","x":-520,"y":-45,"width":197,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"319f051a69d2c325","fromNode":"401a2953b2098eff","fromSide":"right","toNode":"dbe520ca28165f54","toSide":"left"},
+		{"id":"a9df81fc7f5995fd","fromNode":"7658c6cffc773c71","fromSide":"right","toNode":"dbe520ca28165f54","toSide":"left"}
+	]
+}

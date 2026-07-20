@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"674948340c234752","x":-103,"y":-23,"width":250,"height":60,"type":"text","text":"更 - Canh"},
+		{"id":"fb5b1e4aa5017647","x":-420,"y":100,"width":179,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
+		{"id":"7d6d153d3f770d81","x":-438,"y":-240,"width":197,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"b45d94d3125fa3cb","fromNode":"fb5b1e4aa5017647","fromSide":"right","toNode":"674948340c234752","toSide":"left"},
+		{"id":"0e32ad32071e0f22","fromNode":"7d6d153d3f770d81","fromSide":"right","toNode":"674948340c234752","toSide":"left"}
+	]
+}

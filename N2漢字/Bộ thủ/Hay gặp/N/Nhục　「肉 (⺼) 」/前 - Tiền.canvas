@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d3e99e2b41c85a50","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-266,"y":97,"width":158,"height":116},
+		{"id":"7e3d6e2079ffaa63","type":"text","text":"前 - Tiền","x":110,"y":-41,"width":250,"height":60},
+		{"id":"50913ad9ac840573","x":-267,"y":-340,"width":159,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"3034cbfaa84decf5","fromNode":"d3e99e2b41c85a50","fromSide":"right","toNode":"7e3d6e2079ffaa63","toSide":"left","label":"chặt sừng"},
+		{"id":"27573f5bf1009f44","fromNode":"50913ad9ac840573","fromSide":"right","toNode":"7e3d6e2079ffaa63","toSide":"left","label":"lấy thịt"}
+	]
+}

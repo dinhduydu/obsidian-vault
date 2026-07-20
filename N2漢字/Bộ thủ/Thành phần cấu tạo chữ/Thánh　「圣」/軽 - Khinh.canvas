@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d713df3624657532","type":"text","text":"軽 - Khinh","x":-151,"y":-69,"width":250,"height":60},
+		{"id":"1c043860fe84d8c7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas","x":-480,"y":-280,"width":214,"height":151},
+		{"id":"56ff30155410fe4e","x":-560,"y":-9,"width":276,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas"}
+	],
+	"edges":[
+		{"id":"c450be4ea8647ddf","fromNode":"1c043860fe84d8c7","fromSide":"right","toNode":"d713df3624657532","toSide":"left"},
+		{"id":"3342f34066c0f695","fromNode":"56ff30155410fe4e","fromSide":"right","toNode":"d713df3624657532","toSide":"left"}
+	]
+}

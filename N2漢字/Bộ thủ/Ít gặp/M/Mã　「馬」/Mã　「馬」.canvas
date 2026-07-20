@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"f4c5cc884d560e14","type":"text","text":"Mã　「馬」","x":-182,"y":6,"width":250,"height":60},
-		{"id":"ce683dd3ca0f5d2d","x":340,"y":-260,"width":193,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/騒 - Tao.canvas"}
+		{"id":"ce683dd3ca0f5d2d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/騒 - Tao.canvas","x":340,"y":-260,"width":193,"height":145},
+		{"id":"419f6db2fb5cc984","x":340,"y":200,"width":258,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/駆 - Khu.canvas"},
+		{"id":"97a1d2695304d96c","x":-40,"y":420,"width":184,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/区 - Khu/区 - Khu.canvas"}
 	],
 	"edges":[
-		{"id":"027ca0aa84e00274","fromNode":"f4c5cc884d560e14","fromSide":"right","toNode":"ce683dd3ca0f5d2d","toSide":"left"}
+		{"id":"027ca0aa84e00274","fromNode":"f4c5cc884d560e14","fromSide":"right","toNode":"ce683dd3ca0f5d2d","toSide":"left"},
+		{"id":"1e16d46fbc04b311","fromNode":"f4c5cc884d560e14","fromSide":"right","toNode":"419f6db2fb5cc984","toSide":"left"},
+		{"id":"29001758952dca23","fromNode":"97a1d2695304d96c","fromSide":"right","toNode":"419f6db2fb5cc984","toSide":"left"}
 	]
 }

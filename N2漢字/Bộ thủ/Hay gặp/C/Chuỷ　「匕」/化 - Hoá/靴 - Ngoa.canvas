@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"7b6df91db328676b","type":"text","text":"靴 - Ngoa","x":-154,"y":-106,"width":250,"height":60},
+		{"id":"24d42134545ddc75","type":"text","text":"giày dép","x":265,"y":-287,"width":250,"height":60},
+		{"id":"c1cb963dc56bc08b","type":"text","text":"靴下　「くつした」：tất","x":236,"y":80,"width":250,"height":60},
+		{"id":"2d9dc148671a7a64","type":"text","text":"靴　「くつ」：giày","x":236,"y":-33,"width":250,"height":60},
+		{"id":"3e66d79ce3bdc2e7","type":"text","text":"革靴　「かわぐつ」：giày da","x":236,"y":227,"width":250,"height":60},
+		{"id":"962e0a2519546b10","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cách　「革」/Cách　「革」.canvas","x":-514,"y":110,"width":139,"height":121},
+		{"id":"51bc1997f4a8db0e","x":-620,"y":-346,"width":156,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/化 - Hoá/化 - Hoá.canvas"}
+	],
+	"edges":[
+		{"id":"07ccb5545c9f1b93","fromNode":"7b6df91db328676b","fromSide":"right","toNode":"24d42134545ddc75","toSide":"left"},
+		{"id":"333760550d2cca2c","fromNode":"7b6df91db328676b","fromSide":"right","toNode":"2d9dc148671a7a64","toSide":"left"},
+		{"id":"f1fe2aa5e985e76b","fromNode":"7b6df91db328676b","fromSide":"right","toNode":"c1cb963dc56bc08b","toSide":"left"},
+		{"id":"a49fa4693600f9c8","fromNode":"7b6df91db328676b","fromSide":"right","toNode":"3e66d79ce3bdc2e7","toSide":"left"},
+		{"id":"bac3cf4fd8f3d55e","fromNode":"962e0a2519546b10","fromSide":"right","toNode":"7b6df91db328676b","toSide":"left","label":"da"},
+		{"id":"fefd77cd489ded2e","fromNode":"51bc1997f4a8db0e","fromSide":"right","toNode":"7b6df91db328676b","toSide":"left"}
+	]
+}

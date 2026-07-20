@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"54c02742aca7d405","x":-113,"y":-54,"width":250,"height":60,"type":"text","text":"幸 - Hạnh"},
+		{"id":"464daf7a9a57ce9f","x":-440,"y":-206,"width":164,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"},
+		{"id":"e2c50105091f296b","x":-436,"y":100,"width":156,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"2237ab8848e8ce91","fromNode":"464daf7a9a57ce9f","fromSide":"right","toNode":"54c02742aca7d405","toSide":"left"},
+		{"id":"9865061575b4aa67","fromNode":"e2c50105091f296b","fromSide":"right","toNode":"54c02742aca7d405","toSide":"left"}
+	]
+}

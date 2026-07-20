@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bdcaca4e4a33368a","type":"text","text":"硬 - Ngạnh","x":-78,"y":-33,"width":250,"height":60},
+		{"id":"720965d3960a3c10","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 5/硬 - Ngạnh.canvas","x":-380,"y":-240,"width":149,"height":128},
+		{"id":"a6cfc604018da111","x":-640,"y":-65,"width":137,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"664c4ac4cd880d64","x":-440,"y":160,"width":209,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh/更 - Canh.canvas"}
+	],
+	"edges":[
+		{"id":"02d3a9b907791e46","fromNode":"720965d3960a3c10","fromSide":"right","toNode":"bdcaca4e4a33368a","toSide":"left"},
+		{"id":"804662eb0fe2519b","fromNode":"a6cfc604018da111","fromSide":"right","toNode":"bdcaca4e4a33368a","toSide":"left"},
+		{"id":"1b15ef61b39f6093","fromNode":"664c4ac4cd880d64","fromSide":"right","toNode":"bdcaca4e4a33368a","toSide":"left"}
+	]
+}

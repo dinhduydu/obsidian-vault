@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f0985149b71b660e","x":-165,"y":-53,"width":250,"height":60,"type":"text","text":"軍 - Quân"},
+		{"id":"98246f4cbfc793d5","x":-420,"y":60,"width":175,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
+		{"id":"f2c92dda5e00b56d","x":-372,"y":-200,"width":127,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"79c18bdd3972ba5a","fromNode":"98246f4cbfc793d5","fromSide":"right","toNode":"f0985149b71b660e","toSide":"left"},
+		{"id":"f4299ccb6abdd073","fromNode":"f2c92dda5e00b56d","fromSide":"right","toNode":"f0985149b71b660e","toSide":"left"}
+	]
+}

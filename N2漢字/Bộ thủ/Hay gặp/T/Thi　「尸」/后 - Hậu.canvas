@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"87ace910651852f6","x":-120,"y":-43,"width":250,"height":60,"type":"text","text":"后 - Hậu"},
+		{"id":"a50d93dafb55566d","x":-480,"y":-280,"width":160,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"71c95922dc5988b2","x":-462,"y":80,"width":142,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"70e2a38b2a3727a1","fromNode":"a50d93dafb55566d","fromSide":"right","toNode":"87ace910651852f6","toSide":"left"},
+		{"id":"ae98e0a084082e1c","fromNode":"71c95922dc5988b2","fromSide":"right","toNode":"87ace910651852f6","toSide":"left"}
+	]
+}

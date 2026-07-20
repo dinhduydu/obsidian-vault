@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4ec69214a26ab345","type":"text","text":"命 - Mệnh","x":-152,"y":-23,"width":250,"height":60},
+		{"id":"8ea4e950fb582905","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-500,"y":120,"width":188,"height":148},
+		{"id":"f8e8f3d03b5a770f","x":-517,"y":-220,"width":205,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"}
+	],
+	"edges":[
+		{"id":"02b81dda519812c7","fromNode":"8ea4e950fb582905","fromSide":"right","toNode":"4ec69214a26ab345","toSide":"left"},
+		{"id":"1e1c570c604020b5","fromNode":"f8e8f3d03b5a770f","fromSide":"right","toNode":"4ec69214a26ab345","toSide":"left"}
+	]
+}
