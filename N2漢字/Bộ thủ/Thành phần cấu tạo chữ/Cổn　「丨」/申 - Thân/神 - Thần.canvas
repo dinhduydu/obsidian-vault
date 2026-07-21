@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"028118f0d12e8633","x":-96,"y":-42,"width":250,"height":60,"type":"text","text":"神 - Thần"},
+		{"id":"666ca64c7980a7d2","x":-460,"y":180,"width":212,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/申 - Thân.canvas"},
+		{"id":"c6ff8334114051ed","x":-471,"y":-360,"width":223,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"8d69023b2afd6702","fromNode":"666ca64c7980a7d2","fromSide":"right","toNode":"028118f0d12e8633","toSide":"left"},
+		{"id":"4c306739cc0f8b36","fromNode":"c6ff8334114051ed","fromSide":"right","toNode":"028118f0d12e8633","toSide":"left"}
+	]
+}

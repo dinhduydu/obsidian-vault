@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f084150056e5e12c","type":"text","text":"述 - Thuật","x":-299,"y":-30,"width":250,"height":60},
+		{"id":"570892409a30fe4d","type":"text","text":"述べる","x":50,"y":-33,"width":250,"height":67},
+		{"id":"534a5aee16c611b2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-620,"y":100,"width":111,"height":111},
+		{"id":"65542d1e9eeb53aa","x":-712,"y":-240,"width":203,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/Truật　「朮」.canvas"}
+	],
+	"edges":[
+		{"id":"8ea40980a53b739f","fromNode":"f084150056e5e12c","fromSide":"right","toNode":"570892409a30fe4d","toSide":"left"},
+		{"id":"4da08b8144a1bbae","fromNode":"534a5aee16c611b2","fromSide":"right","toNode":"f084150056e5e12c","toSide":"left"},
+		{"id":"a13ef6abe3552ae5","fromNode":"65542d1e9eeb53aa","fromSide":"right","toNode":"f084150056e5e12c","toSide":"left"}
+	]
+}

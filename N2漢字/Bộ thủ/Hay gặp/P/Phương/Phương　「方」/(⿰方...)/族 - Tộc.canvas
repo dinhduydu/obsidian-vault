@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"eaa2e978fc7761e9","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"族 - Tộc"},
-		{"id":"bd666556cb7a49d5","x":-380,"y":-160,"width":124,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
+		{"id":"eaa2e978fc7761e9","type":"text","text":"族 - Tộc","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"758e512bdbd0db4d","x":-397,"y":140,"width":158,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas"},
+		{"id":"bd666556cb7a49d5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-680,"y":-47,"width":124,"height":95},
+		{"id":"dd34331efe29b019","x":-444,"y":-340,"width":205,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"}
 	],
 	"edges":[
-		{"id":"f7f582c32ba0e044","fromNode":"bd666556cb7a49d5","fromSide":"right","toNode":"eaa2e978fc7761e9","toSide":"left"}
+		{"id":"f7f582c32ba0e044","fromNode":"bd666556cb7a49d5","fromSide":"right","toNode":"eaa2e978fc7761e9","toSide":"left"},
+		{"id":"33d742803daa2f18","fromNode":"758e512bdbd0db4d","fromSide":"right","toNode":"eaa2e978fc7761e9","toSide":"left"},
+		{"id":"8741f3e0b5b75f30","fromNode":"dd34331efe29b019","fromSide":"right","toNode":"eaa2e978fc7761e9","toSide":"left"}
 	]
 }

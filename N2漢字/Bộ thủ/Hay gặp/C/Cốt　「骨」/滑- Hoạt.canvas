@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"121d2e369bfd4cd2","type":"text","text":"滑- Hoạt","x":-120,"y":-72,"width":250,"height":60},
+		{"id":"9ea03b95adca6747","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/Cốt　「骨」.canvas","x":-460,"y":120,"width":149,"height":138},
+		{"id":"dd182b8174c2705b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-460,"y":-340,"width":146,"height":159},
+		{"id":"55b5754fafaeced1","type":"text","text":"滑る「すべる」（Trượt)","x":260,"y":-181,"width":250,"height":60},
+		{"id":"fc158b036d5f872c","type":"text","text":"円滑","x":260,"y":-440,"width":250,"height":60},
+		{"id":"9b62d4e61c5a1852","type":"text","text":"えんかつ","x":560,"y":-560,"width":250,"height":60},
+		{"id":"e5b5029238e28087","type":"text","text":"Thuận lợi, suôn sẻ","x":960,"y":-560,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"58f1bca81a958482","fromNode":"9ea03b95adca6747","fromSide":"right","toNode":"121d2e369bfd4cd2","toSide":"left"},
+		{"id":"04795ab45afe6388","fromNode":"dd182b8174c2705b","fromSide":"right","toNode":"121d2e369bfd4cd2","toSide":"left"},
+		{"id":"0be392eade87fe49","fromNode":"121d2e369bfd4cd2","fromSide":"right","toNode":"55b5754fafaeced1","toSide":"left"},
+		{"id":"ced15e961248174d","fromNode":"121d2e369bfd4cd2","fromSide":"right","toNode":"fc158b036d5f872c","toSide":"left"},
+		{"id":"a1bf288d7224acfe","fromNode":"9b62d4e61c5a1852","fromSide":"right","toNode":"e5b5029238e28087","toSide":"left"},
+		{"id":"8c11de63cc20cd45","fromNode":"fc158b036d5f872c","fromSide":"right","toNode":"9b62d4e61c5a1852","toSide":"left"}
+	]
+}

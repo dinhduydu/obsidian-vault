@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"19e615d29107bbc4","x":-105,"y":-29,"width":250,"height":60,"type":"text","text":"岬 - Giáp"},
+		{"id":"8e17d556742188e0","x":-500,"y":160,"width":168,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/甲 - Giáp.canvas"},
+		{"id":"773badc08f570c0d","x":-467,"y":-260,"width":135,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"3219bba235c3d10b","fromNode":"8e17d556742188e0","fromSide":"right","toNode":"19e615d29107bbc4","toSide":"left"},
+		{"id":"2c5773a80bfd938e","fromNode":"773badc08f570c0d","fromSide":"right","toNode":"19e615d29107bbc4","toSide":"left"}
+	]
+}

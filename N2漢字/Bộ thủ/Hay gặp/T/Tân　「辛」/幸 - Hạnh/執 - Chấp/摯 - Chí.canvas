@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"7d6a4d3b103bc47c","x":-167,"y":-37,"width":250,"height":60,"type":"text","text":"摯 - Chí"},
 		{"id":"3ac4335e61b0e70b","x":-440,"y":-300,"width":119,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/執 - Chấp/執 - Chấp.canvas"},
-		{"id":"7790c837dace5e1c","x":-470,"y":60,"width":149,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"7790c837dace5e1c","x":-470,"y":60,"width":149,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"106ea5c26968cb46","fromNode":"3ac4335e61b0e70b","fromSide":"right","toNode":"7d6a4d3b103bc47c","toSide":"left"},

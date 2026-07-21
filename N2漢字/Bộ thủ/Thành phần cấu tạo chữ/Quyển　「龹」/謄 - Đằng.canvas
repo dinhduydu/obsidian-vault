@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"81e8f1f5434334c0","x":-560,"y":-83,"width":112,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"7fd0c7d414de4357","x":-380,"y":-220,"width":179,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/Quyển　「龹」.canvas"},
+		{"id":"9a02436b93041d4b","x":20,"y":-32,"width":250,"height":60,"type":"text","text":"謄 - Đằng"},
+		{"id":"a68db21b701d9588","x":-371,"y":220,"width":162,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"46fa45c8a1e914fd","fromNode":"81e8f1f5434334c0","fromSide":"right","toNode":"9a02436b93041d4b","toSide":"left"},
+		{"id":"a6de0af22f8067ce","fromNode":"7fd0c7d414de4357","fromSide":"right","toNode":"9a02436b93041d4b","toSide":"left"},
+		{"id":"a5a0f1835d2ea4a6","fromNode":"a68db21b701d9588","fromSide":"right","toNode":"9a02436b93041d4b","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e35a563328389c12","x":-89,"y":-31,"width":250,"height":60,"type":"text","text":"炎 - Viêm"},
+		{"id":"8b4f3f9428c15684","x":-520,"y":-58,"width":167,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"528796357f969e27","fromNode":"8b4f3f9428c15684","fromSide":"right","toNode":"e35a563328389c12","toSide":"left","label":"x2"}
+	]
+}

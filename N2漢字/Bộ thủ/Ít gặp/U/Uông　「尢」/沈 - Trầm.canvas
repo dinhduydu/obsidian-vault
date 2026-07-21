@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e317db098130319f","type":"text","text":"沈 - Trầm","x":-97,"y":-27,"width":250,"height":60},
+		{"id":"d364b59789c5745d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/U/Uông　「尢」/Uông　「尢」.canvas","x":-440,"y":180,"width":171,"height":125},
+		{"id":"9fd515332e11af77","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-660,"y":-81,"width":183,"height":168},
+		{"id":"80cbccdd9d69bee5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-421,"y":-300,"width":152,"height":117},
+		{"id":"2eeaa72f46abc71d","type":"text","text":"消沈　「しょうちん」： tâm trạng suy sụp","x":320,"y":-182,"width":250,"height":60},
+		{"id":"c9bab34fd8fc4a19","type":"text","text":"気分が消沈しているときは、「漠然とした」不安に苛まれやすい。","x":760,"y":-400,"width":591,"height":57}
+	],
+	"edges":[
+		{"id":"32cbe26d2df9b70c","fromNode":"d364b59789c5745d","fromSide":"right","toNode":"e317db098130319f","toSide":"left"},
+		{"id":"2bd5832c3c4ae323","fromNode":"9fd515332e11af77","fromSide":"right","toNode":"e317db098130319f","toSide":"left"},
+		{"id":"b5e61a5a7bb66b95","fromNode":"80cbccdd9d69bee5","fromSide":"right","toNode":"e317db098130319f","toSide":"left"},
+		{"id":"f191c51cd5fa7907","fromNode":"2eeaa72f46abc71d","fromSide":"right","toNode":"c9bab34fd8fc4a19","toSide":"left"},
+		{"id":"78fd863d19e4933b","fromNode":"e317db098130319f","fromSide":"right","toNode":"2eeaa72f46abc71d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b022ba2eaf7fb3fc","x":-112,"y":-10,"width":250,"height":60,"type":"text","text":"将 - Tương"},
+		{"id":"61262cb690751a75","x":-400,"y":-240,"width":181,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"1f3c29c89134cf18","x":-425,"y":80,"width":206,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"}
+	],
+	"edges":[
+		{"id":"2f6471f36f05637b","fromNode":"61262cb690751a75","fromSide":"right","toNode":"b022ba2eaf7fb3fc","toSide":"left"},
+		{"id":"9bed53525f9f4199","fromNode":"1f3c29c89134cf18","fromSide":"right","toNode":"b022ba2eaf7fb3fc","toSide":"left"}
+	]
+}

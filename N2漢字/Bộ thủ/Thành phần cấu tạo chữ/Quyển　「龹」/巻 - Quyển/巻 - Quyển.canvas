@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d1d41abfc0f6148c","x":-108,"y":-22,"width":250,"height":60,"type":"text","text":"巻 - Quyển"},
+		{"id":"cf1a4787d58b0d34","x":-400,"y":-200,"width":110,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/Quyển　「龹」.canvas"},
+		{"id":"45e6bbe9660e9a1f","x":-466,"y":60,"width":176,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"}
+	],
+	"edges":[
+		{"id":"809ed993e5671f7f","fromNode":"cf1a4787d58b0d34","fromSide":"right","toNode":"d1d41abfc0f6148c","toSide":"left"},
+		{"id":"427a40dfa1822f14","fromNode":"45e6bbe9660e9a1f","fromSide":"right","toNode":"d1d41abfc0f6148c","toSide":"left"}
+	]
+}

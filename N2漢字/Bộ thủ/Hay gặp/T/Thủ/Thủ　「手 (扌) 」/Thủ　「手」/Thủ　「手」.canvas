@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"dc9e4746316fa120","type":"text","text":"Bộ thủ: 手（てへん） — bộ Thủ (tay)\nNghĩa: cầm, giữ","x":-620,"y":-164,"width":250,"height":90},
+		{"id":"86eb217df8976559","type":"text","text":"Các chữ liên quan hành động bằng tay","x":-1018,"y":-199,"width":250,"height":60},
+		{"id":"0e313ac988b2a926","type":"text","text":"Thủ　「手」","x":-166,"y":2,"width":250,"height":60},
+		{"id":"ec03be84a10cc751","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-840,"y":220,"width":259,"height":194},
+		{"id":"871513e8633677c6","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/拳 - Quyền.canvas","x":300,"y":-225,"width":196,"height":106},
+		{"id":"81d651260e721af9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/執 - Chấp/摯 - Chí.canvas","x":398,"y":100,"width":263,"height":186},
+		{"id":"5486519148464fcb","x":20,"y":300,"width":235,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/執 - Chấp/執 - Chấp.canvas"},
+		{"id":"bd11516910fb1515","x":-1,"y":-440,"width":170,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/Quyển　「龹」.canvas"}
+	],
+	"edges":[
+		{"id":"3f3af7eaa076ef6d","fromNode":"0e313ac988b2a926","fromSide":"left","toNode":"dc9e4746316fa120","toSide":"right"},
+		{"id":"6593c1c9532defa6","fromNode":"dc9e4746316fa120","fromSide":"left","toNode":"86eb217df8976559","toSide":"right"},
+		{"id":"ddee333928b4a7dc","fromNode":"ec03be84a10cc751","fromSide":"right","toNode":"0e313ac988b2a926","toSide":"left"},
+		{"id":"6688af64248501ba","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"871513e8633677c6","toSide":"left"},
+		{"id":"d72c04629ed7e336","fromNode":"0e313ac988b2a926","fromSide":"right","toNode":"81d651260e721af9","toSide":"left"},
+		{"id":"b62bea15c399cc1e","fromNode":"5486519148464fcb","fromSide":"right","toNode":"81d651260e721af9","toSide":"left"},
+		{"id":"d7cc47d4091c1c40","fromNode":"bd11516910fb1515","fromSide":"right","toNode":"871513e8633677c6","toSide":"left"}
+	]
+}

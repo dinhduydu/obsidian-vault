@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"55e725d8688411c8","type":"text","text":"鎖 - Toả","x":-306,"y":-53,"width":250,"height":60},
-		{"id":"5d051943da21a289","type":"text","text":"Dây xích","x":40,"y":-53,"width":250,"height":60},
-		{"id":"8a827dbbff4972e3","x":-660,"y":-134,"width":157,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+		{"id":"8a827dbbff4972e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-820,"y":-375,"width":157,"height":111},
+		{"id":"55e725d8688411c8","type":"text","text":"鎖 - Toả","x":-166,"y":-47,"width":250,"height":60},
+		{"id":"5d051943da21a289","type":"text","text":"Dây xích","x":180,"y":-47,"width":250,"height":60},
+		{"id":"d9e0f4e3dbc63249","x":-420,"y":-100,"width":179,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/鎖 - Toả.canvas"},
+		{"id":"a61f63a5f2408934","x":-838,"y":100,"width":175,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"}
 	],
 	"edges":[
 		{"id":"bc610cef734bb500","fromNode":"55e725d8688411c8","fromSide":"right","toNode":"5d051943da21a289","toSide":"left"},
-		{"id":"3f0dd585b5a5ed64","fromNode":"8a827dbbff4972e3","fromSide":"right","toNode":"55e725d8688411c8","toSide":"left"}
+		{"id":"3f0dd585b5a5ed64","fromNode":"8a827dbbff4972e3","fromSide":"right","toNode":"d9e0f4e3dbc63249","toSide":"left"},
+		{"id":"34754a2a7ebca31a","fromNode":"d9e0f4e3dbc63249","fromSide":"right","toNode":"55e725d8688411c8","toSide":"left"},
+		{"id":"f7a1c372a1855379","fromNode":"a61f63a5f2408934","fromSide":"right","toNode":"d9e0f4e3dbc63249","toSide":"left"}
 	]
 }

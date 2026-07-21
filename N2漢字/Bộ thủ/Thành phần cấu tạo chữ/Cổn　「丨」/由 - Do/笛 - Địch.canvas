@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bd8604d95dd73a50","x":-115,"y":-54,"width":250,"height":60,"type":"text","text":"笛 - Địch"},
+		{"id":"504fb3e9e57e8434","x":-460,"y":-360,"width":162,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"a4257136d62ff3e5","x":-457,"y":160,"width":156,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas"}
+	],
+	"edges":[
+		{"id":"f414c995e72fe2da","fromNode":"a4257136d62ff3e5","fromSide":"right","toNode":"bd8604d95dd73a50","toSide":"left"},
+		{"id":"756e72707202b90a","fromNode":"504fb3e9e57e8434","fromSide":"right","toNode":"bd8604d95dd73a50","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"603b2c400dbc0afe","type":"text","text":"刷 - Loát","x":-71,"y":-107,"width":250,"height":60},
 		{"id":"468d3032588dc4d6","type":"text","text":"印刷　「いんさつ」：","x":289,"y":-107,"width":250,"height":60},
-		{"id":"fe95b2896c94c242","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-522,"y":-152,"width":181,"height":105},
+		{"id":"fe95b2896c94c242","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas","x":-522,"y":-152,"width":181,"height":105},
 		{"id":"af1373673bb80451","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-539,"y":33,"width":140,"height":120},
 		{"id":"f84f810c1756ddc2","x":-431,"y":220,"width":193,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
 	],

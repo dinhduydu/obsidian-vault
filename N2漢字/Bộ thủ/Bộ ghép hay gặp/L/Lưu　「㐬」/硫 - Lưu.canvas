@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b24954d93508a0e4","type":"text","text":"硫 - Lưu","x":-127,"y":-57,"width":250,"height":60},
+		{"id":"e50427cbb225b433","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lưu　「㐬」/Lưu　「㐬」.canvas","x":-440,"y":80,"width":157,"height":118},
+		{"id":"98e678067a1e366c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas","x":-429,"y":-260,"width":146,"height":136},
+		{"id":"4a53aee40da881a5","type":"text","text":"硫黄　「いおう」：Lưu huỳnh","x":260,"y":-184,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dc67f80e85af9987","fromNode":"e50427cbb225b433","fromSide":"right","toNode":"b24954d93508a0e4","toSide":"left"},
+		{"id":"cd727b8be4b566b3","fromNode":"98e678067a1e366c","fromSide":"right","toNode":"b24954d93508a0e4","toSide":"left"},
+		{"id":"a9716eab49780526","fromNode":"b24954d93508a0e4","fromSide":"right","toNode":"4a53aee40da881a5","toSide":"left"}
+	]
+}

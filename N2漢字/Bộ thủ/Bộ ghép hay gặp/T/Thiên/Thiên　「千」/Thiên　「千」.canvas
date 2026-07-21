@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e95b7f3a208f28fe","x":-64,"y":-40,"width":250,"height":60,"type":"text","text":"Thiên　「千」"},
+		{"id":"847b70aeed17395b","x":-480,"y":-86,"width":226,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"0e5d0ae4fe67d56e","x":-428,"y":-340,"width":174,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"a9d5799a133c59c3","fromNode":"847b70aeed17395b","fromSide":"right","toNode":"e95b7f3a208f28fe","toSide":"left"},
+		{"id":"e93df3d318a238e8","fromNode":"0e5d0ae4fe67d56e","fromSide":"right","toNode":"e95b7f3a208f28fe","toSide":"left"}
+	]
+}

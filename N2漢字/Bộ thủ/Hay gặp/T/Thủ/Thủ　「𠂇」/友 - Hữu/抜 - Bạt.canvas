@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3818ff06e565ae54","x":-111,"y":-40,"width":250,"height":60,"type":"text","text":"抜 - Bạt"},
 		{"id":"b6fce834910f06ac","x":-500,"y":140,"width":177,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/友 - Hữu.canvas"},
-		{"id":"60269dc542b50b92","x":-490,"y":-260,"width":167,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"60269dc542b50b92","x":-490,"y":-260,"width":167,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"486540568acd9347","fromNode":"b6fce834910f06ac","fromSide":"right","toNode":"3818ff06e565ae54","toSide":"left"},

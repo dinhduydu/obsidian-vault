@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bfc1d69a3140f20","x":-121,"y":-58,"width":250,"height":60,"type":"text","text":"袖 - Tụ"},
+		{"id":"ad7d0fa0c58f28f2","x":-460,"y":140,"width":170,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas"},
+		{"id":"f5ee166637ca813c","x":-435,"y":-340,"width":145,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"}
+	],
+	"edges":[
+		{"id":"3f30c39bd1f76795","fromNode":"ad7d0fa0c58f28f2","fromSide":"right","toNode":"3bfc1d69a3140f20","toSide":"left"},
+		{"id":"4c7626a65b0746ab","fromNode":"f5ee166637ca813c","fromSide":"right","toNode":"3bfc1d69a3140f20","toSide":"left"}
+	]
+}

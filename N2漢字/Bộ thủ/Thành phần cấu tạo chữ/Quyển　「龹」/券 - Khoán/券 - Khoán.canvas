@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5daa37bc12160710","x":-131,"y":-43,"width":250,"height":60,"type":"text","text":"券 - Khoán"},
+		{"id":"65d92f0fef9338b2","x":-580,"y":-340,"width":224,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/Quyển　「龹」.canvas"},
+		{"id":"79c54459d5902b66","x":-535,"y":80,"width":179,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
+	],
+	"edges":[
+		{"id":"10902d5f5af4af19","fromNode":"65d92f0fef9338b2","fromSide":"right","toNode":"5daa37bc12160710","toSide":"left"},
+		{"id":"5666e7d64ea3f486","fromNode":"79c54459d5902b66","fromSide":"right","toNode":"5daa37bc12160710","toSide":"left"}
+	]
+}

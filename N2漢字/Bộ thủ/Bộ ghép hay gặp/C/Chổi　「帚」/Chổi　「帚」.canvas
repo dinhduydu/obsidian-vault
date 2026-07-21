@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"d346dadf0074479b","x":-147,"y":-73,"width":250,"height":60,"type":"text","text":"Chổi　「帚」"},
 		{"id":"f71a4fe40b0e976e","x":280,"y":-300,"width":236,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chổi　「帚」/帰 - Quy.canvas"},
-		{"id":"bf06fb3d8eecb7d8","x":-47,"y":-419,"width":150,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+		{"id":"bf06fb3d8eecb7d8","x":-47,"y":-419,"width":150,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
 	],
 	"edges":[
 		{"id":"e5cafb1f441870ae","fromNode":"d346dadf0074479b","fromSide":"right","toNode":"f71a4fe40b0e976e","toSide":"left"},

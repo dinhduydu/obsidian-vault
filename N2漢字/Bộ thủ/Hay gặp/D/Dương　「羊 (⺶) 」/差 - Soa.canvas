@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0aca930e19bac42a","x":-138,"y":-28,"width":250,"height":60,"type":"text","text":"差 - Soa"},
+		{"id":"c25f251f97bc4937","x":-440,"y":-200,"width":147,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"279a973434ccdbb3","x":-464,"y":60,"width":171,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+	],
+	"edges":[
+		{"id":"07652511d91a450c","fromNode":"c25f251f97bc4937","fromSide":"right","toNode":"0aca930e19bac42a","toSide":"left"},
+		{"id":"42a598a18943d6a1","fromNode":"279a973434ccdbb3","fromSide":"right","toNode":"0aca930e19bac42a","toSide":"left"}
+	]
+}

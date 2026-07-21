@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8bb4fbaba777a485","x":-84,"y":-28,"width":250,"height":60,"type":"text","text":"障 - Chướng"},
+		{"id":"189a2adc07d72e92","x":-360,"y":-68,"width":171,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/章 - Chương/章 - Chương.canvas"},
+		{"id":"629f34880da55cc1","x":-360,"y":-360,"width":149,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"3bb707f677c91474","fromNode":"189a2adc07d72e92","fromSide":"right","toNode":"8bb4fbaba777a485","toSide":"left"},
+		{"id":"2b5998934bfdbad7","fromNode":"629f34880da55cc1","fromSide":"right","toNode":"8bb4fbaba777a485","toSide":"left"}
+	]
+}

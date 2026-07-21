@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5a1bed7f86d9018a","x":-103,"y":-34,"width":250,"height":60,"type":"text","text":"沼 - Chiểu"},
+		{"id":"1586454f795afd34","x":-420,"y":-280,"width":172,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/召 - Triệu/召 - Triệu.canvas"},
+		{"id":"1cba0baa59e32492","x":-424,"y":80,"width":176,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"515fd38579d24d78","fromNode":"1586454f795afd34","fromSide":"right","toNode":"5a1bed7f86d9018a","toSide":"left"},
+		{"id":"2f5a949341675328","fromNode":"1cba0baa59e32492","fromSide":"right","toNode":"5a1bed7f86d9018a","toSide":"left"}
+	]
+}

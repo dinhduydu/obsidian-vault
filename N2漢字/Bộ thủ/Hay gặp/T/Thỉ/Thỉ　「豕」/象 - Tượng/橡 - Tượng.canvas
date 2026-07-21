@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e2d2fe3ebb4c4755","x":-136,"y":-41,"width":250,"height":60,"type":"text","text":"橡 - Tượng"},
+		{"id":"1bd0754c13f5e2bb","x":-480,"y":80,"width":126,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng/象 - Tượng.canvas"},
+		{"id":"19dee0367538120e","x":-532,"y":-280,"width":178,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"49de9e0a6cc8fd10","fromNode":"1bd0754c13f5e2bb","fromSide":"right","toNode":"e2d2fe3ebb4c4755","toSide":"left"},
+		{"id":"7767d5fb940bb419","fromNode":"19dee0367538120e","fromSide":"right","toNode":"e2d2fe3ebb4c4755","toSide":"left"}
+	]
+}

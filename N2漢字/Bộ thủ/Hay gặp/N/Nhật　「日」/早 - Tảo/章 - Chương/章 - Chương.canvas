@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d54177ba51fddb90","type":"text","text":"章 - Chương","x":-125,"y":-46,"width":250,"height":60},
+		{"id":"54d07af8e041428d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-380,"y":-280,"width":122,"height":124},
+		{"id":"ff6f5be675055383","x":-400,"y":140,"width":132,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/早 - Tảo.canvas"}
+	],
+	"edges":[
+		{"id":"5c155b48114a4664","fromNode":"54d07af8e041428d","fromSide":"right","toNode":"d54177ba51fddb90","toSide":"left"},
+		{"id":"277bcd4d88f8c453","fromNode":"ff6f5be675055383","fromSide":"right","toNode":"d54177ba51fddb90","toSide":"left"}
+	]
+}

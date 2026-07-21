@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"131e26ed9fe19c63","type":"text","text":"Lưu　「㐬」","x":-49,"y":-14,"width":250,"height":60},
+		{"id":"050ffb7e27380c0e","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lưu　「㐬」/流 - Lưu.canvas","x":340,"y":-280,"width":171,"height":160},
+		{"id":"6508af8739e3dd65","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-14,"y":-480,"width":181,"height":180},
+		{"id":"f64c89fe06f41c28","type":"text","text":"Chữ cổ biểu thị:\n\n- Nước chảy không ngừng\n- Chuyển động liên tục","x":-480,"y":80,"width":262,"height":147}
+	],
+	"edges":[
+		{"id":"efc13b955f1c721d","fromNode":"131e26ed9fe19c63","fromSide":"right","toNode":"050ffb7e27380c0e","toSide":"left"},
+		{"id":"1e720bf5d3189ae4","fromNode":"6508af8739e3dd65","fromSide":"right","toNode":"050ffb7e27380c0e","toSide":"left"},
+		{"id":"9cc2877da16ac68f","fromNode":"f64c89fe06f41c28","fromSide":"right","toNode":"131e26ed9fe19c63","toSide":"left"}
+	]
+}

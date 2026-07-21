@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e5e7b01005c98d81","x":-176,"y":-79,"width":250,"height":60,"type":"text","text":"控 - Khống"},
 		{"id":"e75c126f12062621","x":-600,"y":-176,"width":168,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/空 - Không.canvas"},
-		{"id":"dfa620e4415c44d0","x":-538,"y":60,"width":106,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"dfa620e4415c44d0","x":-538,"y":60,"width":106,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"ac1b8382b307fd14","fromNode":"e75c126f12062621","fromSide":"right","toNode":"e5e7b01005c98d81","toSide":"left"},

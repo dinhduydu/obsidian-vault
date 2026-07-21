@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7c70c0eced3b73ec","x":-126,"y":-34,"width":250,"height":60,"type":"text","text":"霜 - Sương"},
+		{"id":"ff19a771a721640e","x":-420,"y":-260,"width":163,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"fae4e39ac2593c21","x":-465,"y":80,"width":208,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương.canvas"}
+	],
+	"edges":[
+		{"id":"bed2249cbab46ebb","fromNode":"ff19a771a721640e","fromSide":"right","toNode":"7c70c0eced3b73ec","toSide":"left"},
+		{"id":"d558e31973a6ac59","fromNode":"fae4e39ac2593c21","fromSide":"right","toNode":"7c70c0eced3b73ec","toSide":"left"}
+	]
+}

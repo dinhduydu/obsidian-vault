@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4c4915f03677da9b","x":-137,"y":-52,"width":250,"height":60,"type":"text","text":"抽 - Trừu"},
+		{"id":"5ef0c793b5d09ce4","x":-500,"y":-320,"width":114,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"1120011c0cf38a68","x":-537,"y":260,"width":151,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas"}
+	],
+	"edges":[
+		{"id":"894cf38ea99e2ac8","fromNode":"5ef0c793b5d09ce4","fromSide":"right","toNode":"4c4915f03677da9b","toSide":"left"},
+		{"id":"984984c3c66f32ac","fromNode":"1120011c0cf38a68","fromSide":"right","toNode":"4c4915f03677da9b","toSide":"left"}
+	]
+}

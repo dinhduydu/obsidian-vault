@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7378905a390ddf06","x":-95,"y":-45,"width":250,"height":60,"type":"text","text":"勝 - Thắng"},
+		{"id":"887c6b55c9060fd2","x":-320,"y":-61,"width":99,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"e822d6f1dcf0c407","x":-343,"y":-320,"width":122,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/券 - Khoán/券 - Khoán.canvas"}
+	],
+	"edges":[
+		{"id":"2ae40551e5d16a77","fromNode":"887c6b55c9060fd2","fromSide":"right","toNode":"7378905a390ddf06","toSide":"left"},
+		{"id":"aae33b142b36d235","fromNode":"e822d6f1dcf0c407","fromSide":"right","toNode":"7378905a390ddf06","toSide":"left"}
+	]
+}

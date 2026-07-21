@@ -1,99 +1,19 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 900,
-      "y": 360,
-      "width": 700,
-      "height": 340,
-      "text": "# 重～（じゅう～）\n\n📚 Hán Việt: TRỌNG（重）\n\n🏋️ Ý nghĩa trung tâm:\nNặng • Quy mô lớn • Cường độ cao\n\n📌 Thường dùng để:\n- chỉ vật nặng\n- công việc nặng nhọc\n- thiết bị công nghiệp lớn"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 260,
-      "width": 620,
-      "height": 520,
-      "text": "# Ý nghĩa\n\n🧠 重 mang sắc thái:\n- nặng\n- quy mô lớn\n- tải trọng cao\n- cường độ mạnh\n\n➡️ Gần giống:\n- heavy\n- large-scale\n- intensive\n\n📌 Prefix này thường gặp trong:\n- công nghiệp\n- lao động\n- kỹ thuật\n- xã hội"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1760,
-      "y": 120,
-      "width": 780,
-      "height": 560,
-      "text": "# 重電機（じゅうでんき）\n\n⚙️ Máy điện công nghiệp cỡ lớn\n\n📚 Hán Việt:\n- 重 = trọng\n- 電機 = điện cơ\n\n## Tách nghĩa\n- 重 = nặng/quy mô lớn\n- 電機 = thiết bị điện\n\n💡 Nuance:\nThiết bị điện công nghiệp lớn\ncó công suất và trọng lượng cao"
-    },
-    {
-      "id": "word2",
-      "type": "text",
-      "x": 1760,
-      "y": 860,
-      "width": 780,
-      "height": 560,
-      "text": "# 重労働（じゅうろうどう）\n\n🏋️ Lao động nặng nhọc\n\n📚 Hán Việt:\n- 重 = nặng\n- 労働 = lao động\n\n## Tách nghĩa\n- 重 = nặng nhọc\n- 労働 = công việc lao động\n\n💡 Hình dung:\nCông việc cần nhiều sức lực\nhoặc áp lực cao"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 760,
-      "y": -240,
-      "width": 980,
-      "height": 480,
-      "text": "# Pattern N2\n\n🧩 重 + Danh từ\n→ Mang nghĩa:\n『nặng / quy mô lớn / cường độ cao』\n\nVí dụ:\n- 重工業 = công nghiệp nặng\n- 重病 = bệnh nặng\n- 重責 = trách nhiệm nặng nề\n\n📌 Prefix này thường nhấn mạnh:\n- trọng lượng\n- mức độ nghiêm trọng\n- áp lực cao"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 960,
-      "width": 760,
-      "height": 700,
-      "text": "# So sánh nuance\n\n🏋️ 重\n→ nặng / quy mô lớn\n\n🪶 軽\n→ nhẹ\n\n📌 Ví dụ:\n- 重労働 = lao động nặng\n- 軽作業 = công việc nhẹ\n\n⚡ 重 thường tạo cảm giác:\n- áp lực lớn\n- cần nhiều sức\n- quy mô công nghiệp lớn"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 860,
-      "y": 1880,
-      "width": 980,
-      "height": 540,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 重 bằng hình ảnh:\n\n🏭 máy móc công nghiệp khổng lồ\n🏋️ công nhân làm việc cực nhọc\n⚡ thiết bị điện nặng và mạnh\n\n➡️ Điểm chung:\n『đều mang cảm giác nặng và áp lực lớn』\n\n📌 JLPT hay gặp:\n- 重工業\n- 重病\n- 重労働\n- 重責"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "center",
-      "toNode": "word2"
-    },
-    {
-      "id": "e4",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e5",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e6",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":900,"y":360,"width":700,"height":340,"text":"# 重～（じゅう～）\n\n📚 Hán Việt: TRỌNG（重）\n\n🏋️ Ý nghĩa trung tâm:\nNặng • Quy mô lớn • Cường độ cao\n\n📌 Thường dùng để:\n- chỉ vật nặng\n- công việc nặng nhọc\n- thiết bị công nghiệp lớn"},
+		{"id":"meaning","type":"text","x":120,"y":260,"width":620,"height":520,"text":"# Ý nghĩa\n\n🧠 重 mang sắc thái:\n- nặng\n- quy mô lớn\n- tải trọng cao\n- cường độ mạnh\n\n➡️ Gần giống:\n- heavy\n- large-scale\n- intensive\n\n📌 Prefix này thường gặp trong:\n- công nghiệp\n- lao động\n- kỹ thuật\n- xã hội"},
+		{"id":"word1","type":"text","x":1760,"y":120,"width":780,"height":560,"text":"# 重電機（じゅうでんき）\n\n⚙️ Máy điện công nghiệp cỡ lớn\n\n📚 Hán Việt:\n- 重 = trọng\n- 電機 = điện cơ\n\n## Tách nghĩa\n- 重 = nặng/quy mô lớn\n- 電機 = thiết bị điện\n\n💡 Nuance:\nThiết bị điện công nghiệp lớn\ncó công suất và trọng lượng cao"},
+		{"id":"word2","type":"text","x":1760,"y":860,"width":780,"height":560,"text":"# 重労働（じゅうろうどう）\n\n🏋️ Lao động nặng nhọc\n\n📚 Hán Việt:\n- 重 = nặng\n- 労働 = lao động\n\n## Tách nghĩa\n- 重 = nặng nhọc\n- 労働 = công việc lao động\n\n💡 Hình dung:\nCông việc cần nhiều sức lực\nhoặc áp lực cao"},
+		{"id":"pattern","type":"text","x":760,"y":-240,"width":980,"height":480,"text":"# Pattern N2\n\n🧩 重 + Danh từ\n→ Mang nghĩa:\n『nặng / quy mô lớn / cường độ cao』\n\nVí dụ:\n- 重工業 = công nghiệp nặng\n- 重病 = bệnh nặng\n- 重責 = trách nhiệm nặng nề\n\n📌 Prefix này thường nhấn mạnh:\n- trọng lượng\n- mức độ nghiêm trọng\n- áp lực cao"},
+		{"id":"compare","type":"text","x":120,"y":960,"width":760,"height":700,"text":"# So sánh nuance\n\n🏋️ 重\n→ nặng / quy mô lớn\n\n🪶 軽\n→ nhẹ\n\n📌 Ví dụ:\n- 重労働 = lao động nặng\n- 軽作業 = công việc nhẹ\n\n⚡ 重 thường tạo cảm giác:\n- áp lực lớn\n- cần nhiều sức\n- quy mô công nghiệp lớn"},
+		{"id":"memory","type":"text","x":860,"y":1880,"width":980,"height":540,"text":"# Memory Hint\n\n🧠 Hãy nhớ 重 bằng hình ảnh:\n\n🏭 máy móc công nghiệp khổng lồ\n🏋️ công nhân làm việc cực nhọc\n⚡ thiết bị điện nặng và mạnh\n\n➡️ Điểm chung:\n『đều mang cảm giác nặng và áp lực lớn』\n\n📌 JLPT hay gặp:\n- 重工業\n- 重病\n- 重労働\n- 重責"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"center","toNode":"word2","fromSide":"bottom","toSide":"left"},
+		{"id":"e4","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e6","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

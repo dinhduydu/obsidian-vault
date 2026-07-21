@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"e091b35a3fe1ef98","x":-112,"y":11,"width":250,"height":60,"type":"text","text":"刑 - Hình"},
 		{"id":"0609ad1b63347eaf","x":-400,"y":-180,"width":165,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/开 - Khai.canvas"},
-		{"id":"7bb2b19b55f46f3d","x":-440,"y":71,"width":205,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+		{"id":"7bb2b19b55f46f3d","x":-440,"y":71,"width":205,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
 	],
 	"edges":[
 		{"id":"ec4b6155e0c321e9","fromNode":"0609ad1b63347eaf","fromSide":"right","toNode":"e091b35a3fe1ef98","toSide":"left"},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"85713f63cf0837b4","x":-128,"y":-11,"width":250,"height":60,"type":"text","text":"淡 - Đạm"},
+		{"id":"f6d375fd47f72ea5","x":-440,"y":60,"width":163,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/炎 - Viêm/炎 - Viêm.canvas"},
+		{"id":"c9ed3e3b99d22caf","x":-660,"y":-56,"width":164,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"fd98ae067ea071a3","fromNode":"f6d375fd47f72ea5","fromSide":"right","toNode":"85713f63cf0837b4","toSide":"left"},
+		{"id":"823af080af90fcab","fromNode":"c9ed3e3b99d22caf","fromSide":"right","toNode":"85713f63cf0837b4","toSide":"left"}
+	]
+}

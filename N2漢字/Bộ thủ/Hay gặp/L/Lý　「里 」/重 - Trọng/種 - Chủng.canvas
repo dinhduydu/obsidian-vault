@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"251772fcdbf7b514","x":-95,"y":-21,"width":250,"height":60,"type":"text","text":"種 - Chủng"},
+		{"id":"1a332f28bf2a051b","x":-460,"y":-200,"width":221,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/重 - Trọng/重 - Trọng.canvas"},
+		{"id":"a7efdeb93fdc7d38","x":-380,"y":80,"width":141,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"8fcc3f0b2eb7f713","fromNode":"1a332f28bf2a051b","fromSide":"right","toNode":"251772fcdbf7b514","toSide":"left"},
+		{"id":"3e85c2f5b48174b7","fromNode":"a7efdeb93fdc7d38","fromSide":"right","toNode":"251772fcdbf7b514","toSide":"left"}
+	]
+}

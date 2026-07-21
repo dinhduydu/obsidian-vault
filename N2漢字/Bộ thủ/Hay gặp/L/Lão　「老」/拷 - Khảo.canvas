@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"c1ecda5c62d9ae82","type":"text","text":"拷 - Khảo","x":-173,"y":-41,"width":250,"height":60},
 		{"id":"8c29fc79db86769f","x":-520,"y":100,"width":223,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lão　「老」/考 - Khảo.canvas"},
-		{"id":"ebdb3bb10ba7d77e","x":-540,"y":-280,"width":243,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"ebdb3bb10ba7d77e","x":-540,"y":-280,"width":243,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"10788dfef6fcc9d3","fromNode":"8c29fc79db86769f","fromSide":"right","toNode":"c1ecda5c62d9ae82","toSide":"left"},

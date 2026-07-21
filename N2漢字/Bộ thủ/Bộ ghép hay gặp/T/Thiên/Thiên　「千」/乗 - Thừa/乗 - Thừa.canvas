@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ef7ac61150cb101d","x":-82,"y":-42,"width":250,"height":60,"type":"text","text":"乗 - Thừa"},
+		{"id":"8897edb54436f133","x":-400,"y":-260,"width":105,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/Thiên　「千」.canvas"},
+		{"id":"2a85fef6b74a8e2e","x":-474,"y":-69,"width":179,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"b6bf890cba9ece06","x":-449,"y":220,"width":154,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"f71039dd79542d83","fromNode":"8897edb54436f133","fromSide":"right","toNode":"ef7ac61150cb101d","toSide":"left"},
+		{"id":"59606ff4ef88e7f9","fromNode":"2a85fef6b74a8e2e","fromSide":"right","toNode":"ef7ac61150cb101d","toSide":"left"},
+		{"id":"1a06410618f07382","fromNode":"b6bf890cba9ece06","fromSide":"right","toNode":"ef7ac61150cb101d","toSide":"left"}
+	]
+}

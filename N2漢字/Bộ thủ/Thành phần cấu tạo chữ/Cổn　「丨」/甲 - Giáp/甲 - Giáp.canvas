@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"362c4e399d73ff2c","type":"text","text":"Giáp　「甲」","x":-65,"y":23,"width":250,"height":60},
+		{"id":"95fb5263300204ef","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-520,"y":219,"width":216,"height":159},
+		{"id":"b9adf221a6bc79a7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-509,"y":-320,"width":205,"height":183},
+		{"id":"5378771c24fbd6ab","x":356,"y":-228,"width":171,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn.canvas"},
+		{"id":"f1a29bb78b1cccab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻 - Tần.canvas","x":69,"y":295,"width":178,"height":138},
+		{"id":"047aedbce499a71e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頬 - Giáp.canvas","x":378,"y":255,"width":149,"height":123}
+	],
+	"edges":[
+		{"id":"bbc4236659ce1ccf","fromNode":"362c4e399d73ff2c","fromSide":"right","toNode":"5378771c24fbd6ab","toSide":"left"},
+		{"id":"37b3fc9498a63862","fromNode":"362c4e399d73ff2c","fromSide":"right","toNode":"047aedbce499a71e","toSide":"left"},
+		{"id":"c05d3001ab28bba1","fromNode":"f1a29bb78b1cccab","fromSide":"right","toNode":"047aedbce499a71e","toSide":"left"},
+		{"id":"40ae62dceb986d38","fromNode":"95fb5263300204ef","fromSide":"right","toNode":"362c4e399d73ff2c","toSide":"left"},
+		{"id":"5e3a86b819edd1fc","fromNode":"b9adf221a6bc79a7","fromSide":"right","toNode":"362c4e399d73ff2c","toSide":"left"}
+	]
+}

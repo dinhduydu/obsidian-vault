@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"634b994beb477442","x":-107,"y":-28,"width":250,"height":60,"type":"text","text":"昭 - Chiêu"},
+		{"id":"3944ceb9170bedbc","x":-480,"y":-380,"width":148,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/召 - Triệu/召 - Triệu.canvas"},
+		{"id":"247616001c1b856b","x":-480,"y":180,"width":166,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"494d8a130a54d7ab","fromNode":"3944ceb9170bedbc","fromSide":"right","toNode":"634b994beb477442","toSide":"left"},
+		{"id":"4cd193d8aa855dbf","fromNode":"247616001c1b856b","fromSide":"right","toNode":"634b994beb477442","toSide":"left"}
+	]
+}

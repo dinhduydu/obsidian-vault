@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf14524668bf1782","x":-95,"y":-19,"width":250,"height":60,"type":"text","text":"看 - Khán"},
+		{"id":"31b5059c69bb6ee0","x":-400,"y":-240,"width":158,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
+		{"id":"405a2b838f60a772","x":-425,"y":140,"width":183,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"2dd615b6f2224afd","fromNode":"31b5059c69bb6ee0","fromSide":"right","toNode":"bf14524668bf1782","toSide":"left"},
+		{"id":"10edfccd2dc1a3f1","fromNode":"405a2b838f60a772","fromSide":"right","toNode":"bf14524668bf1782","toSide":"left"}
+	]
+}

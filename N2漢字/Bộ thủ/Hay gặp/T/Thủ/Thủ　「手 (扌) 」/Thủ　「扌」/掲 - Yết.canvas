@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ee074272f67c3fb5","type":"text","text":"掲 - Yết","x":-255,"y":-112,"width":140,"height":60},
+		{"id":"8d89078a82d0a99a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas","x":-515,"y":68,"width":124,"height":84},
+		{"id":"ec1653dfacc78fe3","type":"text","text":"- Treo lên\n- Đăng lên\n- Công bố","x":12,"y":30,"width":253,"height":122},
+		{"id":"e1047564e83dc4f0","type":"text","text":"- 掲載（**けい**さい）: đăng tải\n- 掲示（**けい**じ）: niêm yết, thông báo","x":12,"y":-160,"width":404,"height":78},
+		{"id":"244902a081d78992","x":-579,"y":-259,"width":126,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"9a7a4467c2847251","fromNode":"ee074272f67c3fb5","fromSide":"right","toNode":"ec1653dfacc78fe3","toSide":"left"},
+		{"id":"b28da645f46c0200","fromNode":"ee074272f67c3fb5","fromSide":"right","toNode":"e1047564e83dc4f0","toSide":"left"},
+		{"id":"d132eb8a97c4202f","fromNode":"8d89078a82d0a99a","fromSide":"right","toNode":"ee074272f67c3fb5","toSide":"left","label":"biểu âm"},
+		{"id":"b0fe0270a9f8315c","fromNode":"244902a081d78992","fromSide":"right","toNode":"ee074272f67c3fb5","toSide":"left"}
+	]
+}

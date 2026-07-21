@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"67e54ccaef638515","x":-126,"y":-52,"width":250,"height":60,"type":"text","text":"押 - Áp"},
+		{"id":"ad7fbf863cf68612","x":-500,"y":-193,"width":201,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
+		{"id":"20a6572894c0a9f3","x":360,"y":-263,"width":278,"height":241,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/押し付ける.md"}
+	],
+	"edges":[
+		{"id":"fd50e582a71f1d43","fromNode":"ad7fbf863cf68612","fromSide":"right","toNode":"67e54ccaef638515","toSide":"left"},
+		{"id":"5afffe621ed2e140","fromNode":"67e54ccaef638515","fromSide":"right","toNode":"20a6572894c0a9f3","toSide":"left"}
+	]
+}

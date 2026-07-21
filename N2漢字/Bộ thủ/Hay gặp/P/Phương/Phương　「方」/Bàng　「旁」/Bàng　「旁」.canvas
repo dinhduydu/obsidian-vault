@@ -7,7 +7,7 @@
 		{"id":"b83dda6f8115fe8e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":310,"y":-287,"width":181,"height":127},
 		{"id":"7036ea0656cfd2db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Bàng　「旁」/傍 - Bàng.canvas","x":660,"y":-160,"width":245,"height":110},
 		{"id":"7b54a6026f5f58ae","x":660,"y":159,"width":296,"height":251,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Bàng　「旁」/接 - Tiếp.canvas"},
-		{"id":"b6359865eaf9ce69","x":366,"y":380,"width":158,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"b6359865eaf9ce69","x":366,"y":380,"width":158,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"11261167376915db","fromNode":"fc1020723096096e","fromSide":"right","toNode":"4080d3e40f001430","toSide":"left"},

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"d55260df22575618","x":-87,"y":-66,"width":250,"height":60,"type":"text","text":"判 - Phán"},
 		{"id":"3d85185526dab5f3","x":-380,"y":-260,"width":147,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/半 - Bán/半 - Bán.canvas"},
-		{"id":"2efecd4889bb6ba0","x":-380,"y":20,"width":149,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+		{"id":"2efecd4889bb6ba0","x":-380,"y":20,"width":149,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
 	],
 	"edges":[
 		{"id":"7a12e7c09be23f04","fromNode":"3d85185526dab5f3","fromSide":"right","toNode":"d55260df22575618","toSide":"left"},

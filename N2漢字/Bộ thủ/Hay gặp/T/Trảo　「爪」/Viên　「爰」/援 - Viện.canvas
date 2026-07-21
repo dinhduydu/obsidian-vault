@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1da53685faddec0a","x":-38,"y":-45,"width":250,"height":60,"type":"text","text":"援 - Viện"},
 		{"id":"3eea9c48ef0114c0","x":-320,"y":-260,"width":178,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Viên　「爰」/Viên　「爰」.canvas"},
-		{"id":"bd4a1e9f272d736c","x":-346,"y":60,"width":204,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"bd4a1e9f272d736c","x":-346,"y":60,"width":204,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"cae65a47c930d3c8","fromNode":"3eea9c48ef0114c0","fromSide":"right","toNode":"1da53685faddec0a","toSide":"left"},

@@ -3,11 +3,15 @@
 		{"id":"dfaa480d9dab1e5f","type":"text","text":"Mục　「目」","x":-111,"y":-69,"width":250,"height":60},
 		{"id":"26fc090e5898d93c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/眠 - Miên.canvas","x":295,"y":40,"width":99,"height":83},
 		{"id":"7053bfa1ce80b12e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/民 - Dân.canvas","x":84,"y":144,"width":110,"height":118},
-		{"id":"014757853a4b3b3c","x":295,"y":-287,"width":174,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương.canvas"}
+		{"id":"014757853a4b3b3c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương.canvas","x":295,"y":-287,"width":174,"height":111},
+		{"id":"01deda9e19b099cd","x":1180,"y":-109,"width":178,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/看 - Khán.canvas"},
+		{"id":"869946efbaf19ca2","x":880,"y":-301,"width":174,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"378d584e1b086af6","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"014757853a4b3b3c","toSide":"left"},
 		{"id":"3f4844ae67df93c7","fromNode":"7053bfa1ce80b12e","fromSide":"right","toNode":"26fc090e5898d93c","toSide":"left"},
-		{"id":"c854dd0c246ed30b","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"26fc090e5898d93c","toSide":"left"}
+		{"id":"c854dd0c246ed30b","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"26fc090e5898d93c","toSide":"left"},
+		{"id":"8096e4a856f56ca1","fromNode":"dfaa480d9dab1e5f","fromSide":"right","toNode":"01deda9e19b099cd","toSide":"left"},
+		{"id":"4a3c1b456d9ff9d8","fromNode":"869946efbaf19ca2","fromSide":"right","toNode":"01deda9e19b099cd","toSide":"left"}
 	]
 }

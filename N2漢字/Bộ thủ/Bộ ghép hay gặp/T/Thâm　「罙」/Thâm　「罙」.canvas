@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"66437c47ba9dba7f","x":-85,"y":-50,"width":250,"height":60,"type":"text","text":"Thâm　「罙」"},
+		{"id":"d34dcacd76a3c547","x":-400,"y":-240,"width":150,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"a4cd34e708002c59","x":-580,"y":-73,"width":127,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
+		{"id":"d30116304915f686","x":-389,"y":120,"width":139,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"a7318739b814a740","fromNode":"d34dcacd76a3c547","fromSide":"right","toNode":"66437c47ba9dba7f","toSide":"left"},
+		{"id":"741a56e605f2576b","fromNode":"a4cd34e708002c59","fromSide":"right","toNode":"66437c47ba9dba7f","toSide":"left"},
+		{"id":"9d672d60d35ed7ca","fromNode":"d30116304915f686","fromSide":"right","toNode":"66437c47ba9dba7f","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"81eaf32098fa4490","x":-143,"y":-38,"width":250,"height":60,"type":"text","text":"拳 - Quyền"},
+		{"id":"aefcff44ca063e25","x":-460,"y":-260,"width":162,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/Quyển　「龹」.canvas"},
+		{"id":"dfd507f681cac906","x":-475,"y":100,"width":177,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"731aa73016f77b4e","fromNode":"aefcff44ca063e25","fromSide":"right","toNode":"81eaf32098fa4490","toSide":"left"},
+		{"id":"8cdc64345b456df4","fromNode":"dfd507f681cac906","fromSide":"right","toNode":"81eaf32098fa4490","toSide":"left"}
+	]
+}

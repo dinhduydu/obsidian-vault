@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b0a48e12c1343699","type":"text","text":"相 - Tương","x":-147,"y":-43,"width":250,"height":60},
+		{"id":"9fefa6012aef0de5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas","x":-500,"y":60,"width":179,"height":151},
+		{"id":"2f4b692aa50ce0cf","type":"text","text":"hướng đến đối tượng mà mắt mình nhìn đến","x":-535,"y":-240,"width":250,"height":60},
+		{"id":"44ef992d22b8bf0e","x":-722,"y":-79,"width":187,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6bec690806e688bb","fromNode":"9fefa6012aef0de5","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"},
+		{"id":"d0b6db195f32a4f5","fromNode":"2f4b692aa50ce0cf","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"},
+		{"id":"3f42352c45848023","fromNode":"44ef992d22b8bf0e","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"}
+	]
+}

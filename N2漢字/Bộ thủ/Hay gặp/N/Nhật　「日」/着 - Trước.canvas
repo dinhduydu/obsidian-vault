@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"56eef5502ec51515","type":"text","text":"着 - Trước","x":-432,"y":-30,"width":250,"height":60},
 		{"id":"81fa4fcbfa83c32f","type":"text","text":"着る\n├─ かぶる\n│   ├─ 帽子\n│   └─ ヘルメット\n│\n├─ かける\n│   ├─ メガネ\n│   └─ マスク\n│\n├─ はく\n│   ├─ 靴\n│   └─ ズボン\n│\n└─ する\n    ├─ 手袋\n    └─ マフラー","x":53,"y":-225,"width":379,"height":450},
-		{"id":"17b88e44f9fc6be6","x":-800,"y":-127,"width":186,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+		{"id":"17b88e44f9fc6be6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-800,"y":120,"width":186,"height":127},
+		{"id":"a3d751d0bd8f97ff","x":-823,"y":-200,"width":209,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"f23eb990fb72fb62","x":-1080,"y":-60,"width":160,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
 	],
 	"edges":[
 		{"id":"dce7784e54ab4921","fromNode":"56eef5502ec51515","fromSide":"right","toNode":"81fa4fcbfa83c32f","toSide":"left"},
-		{"id":"bb958f1dff868f25","fromNode":"17b88e44f9fc6be6","fromSide":"right","toNode":"56eef5502ec51515","toSide":"left"}
+		{"id":"bb958f1dff868f25","fromNode":"17b88e44f9fc6be6","fromSide":"right","toNode":"56eef5502ec51515","toSide":"left"},
+		{"id":"571b3b21da103861","fromNode":"a3d751d0bd8f97ff","fromSide":"right","toNode":"56eef5502ec51515","toSide":"left"},
+		{"id":"d45e2357833b1294","fromNode":"f23eb990fb72fb62","fromSide":"right","toNode":"56eef5502ec51515","toSide":"left"}
 	]
 }

@@ -6,7 +6,10 @@
 		{"id":"45c11b88eda5c08d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas","x":242,"y":-344,"width":166,"height":167},
 		{"id":"b059f6edc17711dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":10,"y":-500,"width":134,"height":75},
 		{"id":"4bfae3a1cb58240d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":100,"y":220,"width":145,"height":91},
-		{"id":"4a1ddcee4df0e18c","x":340,"y":80,"width":164,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa.canvas"}
+		{"id":"4a1ddcee4df0e18c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa.canvas","x":340,"y":80,"width":164,"height":168},
+		{"id":"1c017293929d524c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/着 - Trước.canvas","x":1280,"y":-82,"width":244,"height":199},
+		{"id":"a198082f10ff3531","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":680,"y":104,"width":160,"height":121},
+		{"id":"790d663324e3d8a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":880,"y":266,"width":186,"height":127}
 	],
 	"edges":[
 		{"id":"8cba8349bc0feb3c","fromNode":"0e6cbb83b2b5a0f6","fromSide":"left","toNode":"2fa9bf9b1352336a","toSide":"right"},
@@ -14,6 +17,9 @@
 		{"id":"dd000e720e058424","fromNode":"4bfae3a1cb58240d","fromSide":"right","toNode":"4a1ddcee4df0e18c","toSide":"left"},
 		{"id":"d4a3be199cb0372e","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"4a1ddcee4df0e18c","toSide":"left"},
 		{"id":"c0a4a9ccbcd4ef01","fromNode":"0aae036d267439b5","fromSide":"right","toNode":"b059f6edc17711dc","toSide":"left"},
-		{"id":"a6609cd4d7a292b9","fromNode":"b059f6edc17711dc","fromSide":"right","toNode":"45c11b88eda5c08d","toSide":"left"}
+		{"id":"a6609cd4d7a292b9","fromNode":"b059f6edc17711dc","fromSide":"right","toNode":"45c11b88eda5c08d","toSide":"left"},
+		{"id":"00d249c32e6eac03","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"},
+		{"id":"9dd706adf99ac62b","fromNode":"a198082f10ff3531","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"},
+		{"id":"08429d7728e47cf2","fromNode":"790d663324e3d8a5","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"}
 	]
 }

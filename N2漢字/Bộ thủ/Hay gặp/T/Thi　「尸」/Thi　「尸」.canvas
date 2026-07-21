@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"f7c853bfd4890cba","type":"text","text":"Thi　「尸」","x":-225,"y":-35,"width":250,"height":60},
-		{"id":"8238740f34677c96","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Do　「由」/Do　「由」.canvas","x":-100,"y":-352,"width":155,"height":118},
+		{"id":"8238740f34677c96","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas","x":-100,"y":-352,"width":155,"height":118},
 		{"id":"dc2ec6c29f190808","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-100,"y":-820,"width":165,"height":121},
-		{"id":"c331187717f6ab61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas","x":-208,"y":280,"width":181,"height":105},
+		{"id":"c331187717f6ab61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas","x":-208,"y":280,"width":181,"height":105},
 		{"id":"6730d0327414a339","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-255,"y":80,"width":170,"height":114},
 		{"id":"850517af3d2facd7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/刷 - Loát.canvas","x":268,"y":220,"width":146,"height":75},
 		{"id":"40f97068aac86569","x":600,"y":-660,"width":212,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/屋 - Ốc/握 - Ác.canvas"},
-		{"id":"92f862f67cbacad9","x":272,"y":-800,"width":154,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"92f862f67cbacad9","x":272,"y":-800,"width":154,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
 		{"id":"6b5f0ee7394e3fb8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/屋 - Ốc.canvas","x":288,"y":-460,"width":138,"height":83},
 		{"id":"c15598ef85aefb73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/届 - Giới.canvas","x":326,"y":-160,"width":200,"height":82}
 	],

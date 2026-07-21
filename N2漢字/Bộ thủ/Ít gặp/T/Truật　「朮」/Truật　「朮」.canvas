@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6d60c12e3ebe2a26","type":"text","text":"Thuật　「朮」","x":-96,"y":-22,"width":250,"height":60},
+		{"id":"f2a54e2ae5e90e1b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":100,"y":-620,"width":191,"height":168},
+		{"id":"26bdbe917b56607a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/述 - Thuật.canvas","x":500,"y":-395,"width":192,"height":147}
+	],
+	"edges":[
+		{"id":"813b8c19a35fab06","fromNode":"f2a54e2ae5e90e1b","fromSide":"right","toNode":"26bdbe917b56607a","toSide":"left"},
+		{"id":"0563e44cbf402c56","fromNode":"6d60c12e3ebe2a26","fromSide":"right","toNode":"26bdbe917b56607a","toSide":"left"}
+	]
+}

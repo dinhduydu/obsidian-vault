@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8d447d57ec675f0b","x":-115,"y":-51,"width":250,"height":60,"type":"text","text":"制 - Chế"},
+		{"id":"92d8dca690d915f1","x":-600,"y":-240,"width":148,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"},
+		{"id":"3c9f4ad0045cf232","x":-598,"y":140,"width":146,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"f7e5f54d600f3739","fromNode":"92d8dca690d915f1","fromSide":"right","toNode":"8d447d57ec675f0b","toSide":"left"},
+		{"id":"812e9d8a2cc2561f","fromNode":"3c9f4ad0045cf232","fromSide":"right","toNode":"8d447d57ec675f0b","toSide":"left"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1f6c052aaea1419f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/稽 - Kê.canvas","x":467,"y":260,"width":165,"height":124},
+		{"id":"143d989c166de7b6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas","x":-100,"y":270,"width":149,"height":104},
+		{"id":"c3ae0068b26009af","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":100,"y":120,"width":133,"height":118},
+		{"id":"7a436cdef12e5af1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-75,"y":440,"width":124,"height":121},
+		{"id":"e4901874614bca1c","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/U/Uông　「尢」/沈 - Trầm.canvas","x":680,"y":-82,"width":194,"height":167},
+		{"id":"a715184dce251ba7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":135,"y":-280,"width":157,"height":146},
+		{"id":"1d8866fe83e757d6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":393,"y":-431,"width":148,"height":121},
+		{"id":"a7da4b82de6f881e","type":"text","text":"Uông　「尢」","x":-395,"y":-29,"width":250,"height":60},
+		{"id":"415ecf67a59a0687","type":"text","text":"|què|Người khập khiễng, yếu ớt.|\n|---|---|","x":-760,"y":-340,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"53823d3b9c95c931","fromNode":"415ecf67a59a0687","fromSide":"right","toNode":"a7da4b82de6f881e","toSide":"left"},
+		{"id":"a373bdfc81b58f5a","fromNode":"a7da4b82de6f881e","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"eca4bf476a02fd99","fromNode":"143d989c166de7b6","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"bcdadc1496afdd56","fromNode":"c3ae0068b26009af","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"676f27a61289aae3","fromNode":"7a436cdef12e5af1","fromSide":"right","toNode":"1f6c052aaea1419f","toSide":"left"},
+		{"id":"75bce792d7fecd1b","fromNode":"a7da4b82de6f881e","fromSide":"right","toNode":"e4901874614bca1c","toSide":"left"},
+		{"id":"9ad3b43bde91441e","fromNode":"a715184dce251ba7","fromSide":"right","toNode":"e4901874614bca1c","toSide":"left"},
+		{"id":"9edbb256658de927","fromNode":"1d8866fe83e757d6","fromSide":"right","toNode":"e4901874614bca1c","toSide":"left"}
+	]
+}

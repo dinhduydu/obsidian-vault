@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f3bc3a0039dacbe","x":-144,"y":-75,"width":250,"height":60,"type":"text","text":"照 - Chiếu"},
+		{"id":"65bdde573553b4c3","x":-500,"y":-320,"width":163,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/召 - Triệu/昭 - Chiêu/昭 - Chiêu.canvas"},
+		{"id":"9baa0aa3e9ea91fd","x":-495,"y":60,"width":158,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"6d3ae360e26542c8","fromNode":"65bdde573553b4c3","fromSide":"right","toNode":"7f3bc3a0039dacbe","toSide":"left"},
+		{"id":"9bc2922036b5ae1a","fromNode":"9baa0aa3e9ea91fd","fromSide":"right","toNode":"7f3bc3a0039dacbe","toSide":"left"}
+	]
+}

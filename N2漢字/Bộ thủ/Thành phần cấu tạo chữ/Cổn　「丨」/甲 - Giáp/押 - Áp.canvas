@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"75cca52d102f9229","x":-84,"y":-54,"width":250,"height":60,"type":"text","text":"押 - Áp"},
+		{"id":"736f4d65fa2b5504","x":-420,"y":160,"width":153,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/甲 - Giáp.canvas"},
+		{"id":"1e9d6ada32ac061a","x":-408,"y":-240,"width":141,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"2abd7213c8c89814","fromNode":"736f4d65fa2b5504","fromSide":"right","toNode":"75cca52d102f9229","toSide":"left"},
+		{"id":"3cff9ced1025b538","fromNode":"1e9d6ada32ac061a","fromSide":"right","toNode":"75cca52d102f9229","toSide":"left"}
+	]
+}

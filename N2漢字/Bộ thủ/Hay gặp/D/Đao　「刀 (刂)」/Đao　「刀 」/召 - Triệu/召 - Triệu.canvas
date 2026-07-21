@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"663400fb0611bc96","x":-125,"y":-57,"width":250,"height":60,"type":"text","text":"召 - Triệu"},
+		{"id":"ebe418bf247acbef","x":-380,"y":-200,"width":103,"height":84,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"},
+		{"id":"b0a06586f12690a5","x":-443,"y":60,"width":166,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"85038005c696f611","fromNode":"ebe418bf247acbef","fromSide":"right","toNode":"663400fb0611bc96","toSide":"left"},
+		{"id":"b59cf33326a6f435","fromNode":"b0a06586f12690a5","fromSide":"right","toNode":"663400fb0611bc96","toSide":"left"}
+	]
+}

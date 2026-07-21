@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"08c02d55cbb353e3","type":"text","text":"屋 - Ốc","x":-277,"y":-159,"width":133,"height":60},
 		{"id":"1dd3b27788dfe294","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/屋 - Ốc/握 - Ác.canvas","x":0,"y":58,"width":195,"height":165},
-		{"id":"5cd1b6712874f316","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas","x":-266,"y":300,"width":122,"height":83},
+		{"id":"5cd1b6712874f316","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-266,"y":300,"width":122,"height":83},
 		{"id":"aeff10b801844176","type":"text","text":"屋上　「おくじょう」： sân thượng","x":24,"y":-380,"width":343,"height":66},
 		{"id":"28582b0f5d0a448d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-480,"y":-77,"width":114,"height":135},
 		{"id":"d10f2a8d000805c9","x":-534,"y":-347,"width":168,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas"}

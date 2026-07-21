@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"65499450d08c30f3","type":"text","text":"拝 - Bái","x":-320,"y":7,"width":250,"height":60},
+		{"id":"2cfc49de42d33ca6","type":"text","text":"拝む　「おがむ」：","x":71,"y":-66,"width":250,"height":60},
+		{"id":"a51aedf8d76033d8","x":-660,"y":-161,"width":163,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"fecc23ca3c3b46d7","fromNode":"65499450d08c30f3","fromSide":"right","toNode":"2cfc49de42d33ca6","toSide":"left"},
+		{"id":"172d11fc181bfdf6","fromNode":"a51aedf8d76033d8","fromSide":"right","toNode":"65499450d08c30f3","toSide":"left"}
+	]
+}

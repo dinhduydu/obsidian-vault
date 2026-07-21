@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"917bf463f987a3a8","x":-168,"y":-53,"width":250,"height":60,"type":"text","text":"紳 - Thân"},
+		{"id":"1d405b583e853053","x":-460,"y":140,"width":152,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/申 - Thân.canvas"},
+		{"id":"1dfdcd05e8b37ac8","x":-447,"y":-260,"width":139,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"9304667f2a31ed56","fromNode":"1d405b583e853053","fromSide":"right","toNode":"917bf463f987a3a8","toSide":"left"},
+		{"id":"68977482d737e902","fromNode":"1dfdcd05e8b37ac8","fromSide":"right","toNode":"917bf463f987a3a8","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb68c7c34dafd094","x":-177,"y":-38,"width":250,"height":60,"type":"text","text":"閥 - Phiệt"},
+		{"id":"7df72197dc1194b0","x":-500,"y":60,"width":175,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/伐 - Phạt/伐 - Phạt.canvas"},
+		{"id":"e72b93b39fe770ee","x":-503,"y":-200,"width":178,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"}
+	],
+	"edges":[
+		{"id":"0b8d181606acb2c4","fromNode":"7df72197dc1194b0","fromSide":"right","toNode":"eb68c7c34dafd094","toSide":"left"},
+		{"id":"3a4741ac07c4e904","fromNode":"e72b93b39fe770ee","fromSide":"right","toNode":"eb68c7c34dafd094","toSide":"left"}
+	]
+}

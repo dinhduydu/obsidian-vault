@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"820f440884b946a9","type":"text","text":"郵 - Bưu","x":-171,"y":-34,"width":250,"height":60},
+		{"id":"c230670fbac62189","x":-480,"y":-280,"width":135,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/垂 - Thuỳ/垂 - Thuỳ.canvas"},
+		{"id":"0d5813a0ddf42062","x":-524,"y":100,"width":179,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"0b86d7d6435cf612","fromNode":"c230670fbac62189","fromSide":"right","toNode":"820f440884b946a9","toSide":"left"},
+		{"id":"89dfee7291b19a16","fromNode":"0d5813a0ddf42062","fromSide":"right","toNode":"820f440884b946a9","toSide":"left"}
+	]
+}

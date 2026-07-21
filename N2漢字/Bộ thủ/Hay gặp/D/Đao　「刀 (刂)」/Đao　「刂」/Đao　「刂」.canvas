@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"9fd8f3ff0a4e9096","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-14,"y":220,"width":131,"height":134},
+		{"id":"f2adcabd1730b605","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-23,"y":440,"width":140,"height":120},
+		{"id":"b7a6a8eacdf7bcac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/刷 - Loát.canvas","x":356,"y":227,"width":149,"height":121},
+		{"id":"e6b87d14ac6472aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":80,"y":-1240,"width":195,"height":108},
+		{"id":"a2cdad9bffda44ae","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/开 - Khai.canvas","x":80,"y":-1840,"width":225,"height":184},
+		{"id":"6f96d07ba427baca","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/刑 - Hình.canvas","x":480,"y":-1600,"width":200,"height":166},
+		{"id":"0884d48b130380b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/到 - Đáo.canvas","x":480,"y":-980,"width":131,"height":131},
+		{"id":"bc2de96a3ae18bce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/倒 - Đảo.canvas","x":784,"y":-1132,"width":229,"height":160},
+		{"id":"1677f24bfea6703f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Biệt　「別」.canvas","x":1240,"y":-94,"width":201,"height":144},
+		{"id":"eac8834a42099afb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":888,"y":-500,"width":185,"height":127},
+		{"id":"b9cec61d8da1f3e1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas","x":872,"y":-280,"width":201,"height":157},
+		{"id":"15e7a3afbaa3c09a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/乗 - Thừa/剰 - Thặng.canvas","x":1071,"y":201,"width":270,"height":239},
+		{"id":"5f2a33cdf48b0f35","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/乗 - Thừa/乗 - Thừa.canvas","x":780,"y":368,"width":169,"height":144},
+		{"id":"36675e0edbb9f0ca","type":"text","text":"Đao　「刂」","x":-78,"y":-52,"width":250,"height":60},
+		{"id":"52a74c958f4b9ac5","type":"text","text":"Đao　「刂」","x":-120,"y":1600,"width":250,"height":60},
+		{"id":"51cbf69dc3677101","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/削 - Tước.canvas","x":420,"y":1360,"width":171,"height":149},
+		{"id":"39531c470d5ecd73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas","x":-42,"y":1200,"width":172,"height":136},
+		{"id":"50e6e76743e2b4d1","x":420,"y":1840,"width":236,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas"},
+		{"id":"31f74533fa581866","x":20,"y":2100,"width":187,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"64e379fdb29d621c","fromNode":"9fd8f3ff0a4e9096","fromSide":"right","toNode":"b7a6a8eacdf7bcac","toSide":"left"},
+		{"id":"d98a73671ddfdb99","fromNode":"f2adcabd1730b605","fromSide":"right","toNode":"b7a6a8eacdf7bcac","toSide":"left"},
+		{"id":"d8b57209b2a6818b","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"b7a6a8eacdf7bcac","toSide":"left"},
+		{"id":"15f17977a2b63d6a","fromNode":"e6b87d14ac6472aa","fromSide":"right","toNode":"0884d48b130380b0","toSide":"left","label":"nghĩa cơ bản của đến nơi"},
+		{"id":"458313a58e720034","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"0884d48b130380b0","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"22c14bd5c22c17c3","fromNode":"0884d48b130380b0","fromSide":"right","toNode":"bc2de96a3ae18bce","toSide":"left"},
+		{"id":"f3a6b680335d606c","fromNode":"a2cdad9bffda44ae","fromSide":"right","toNode":"6f96d07ba427baca","toSide":"left"},
+		{"id":"e02343194ea59f7b","fromNode":"e6b87d14ac6472aa","fromSide":"right","toNode":"6f96d07ba427baca","toSide":"left"},
+		{"id":"fefc5655f47be117","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"1677f24bfea6703f","toSide":"left"},
+		{"id":"7be571c7adddcc92","fromNode":"b9cec61d8da1f3e1","fromSide":"right","toNode":"1677f24bfea6703f","toSide":"left"},
+		{"id":"fc803d5aa6b3e4ad","fromNode":"eac8834a42099afb","fromSide":"right","toNode":"1677f24bfea6703f","toSide":"left"},
+		{"id":"c5a8b81510098527","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"15e7a3afbaa3c09a","toSide":"left"},
+		{"id":"58ef08f5f67d7f32","fromNode":"5f2a33cdf48b0f35","fromSide":"right","toNode":"15e7a3afbaa3c09a","toSide":"left"},
+		{"id":"adcd2b7d2d10ef89","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"51cbf69dc3677101","toSide":"left"},
+		{"id":"bd72397790e71d08","fromNode":"39531c470d5ecd73","fromSide":"right","toNode":"51cbf69dc3677101","toSide":"left"},
+		{"id":"bf33d3d5f52abacd","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"},
+		{"id":"716165783eace522","fromNode":"31f74533fa581866","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"}
+	]
+}

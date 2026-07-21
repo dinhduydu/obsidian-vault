@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f18801227cdc06e5","type":"text","text":"肖 - Tiêu","x":-140,"y":-34,"width":250,"height":60},
+		{"id":"b4407d2c4407762f","x":-515,"y":200,"width":150,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"030f9a924ffcece4","x":-499,"y":-240,"width":134,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"}
+	],
+	"edges":[
+		{"id":"95db9c8ccec0c908","fromNode":"030f9a924ffcece4","fromSide":"right","toNode":"f18801227cdc06e5","toSide":"left"},
+		{"id":"bf034a45ceb649a8","fromNode":"b4407d2c4407762f","fromSide":"right","toNode":"f18801227cdc06e5","toSide":"left"}
+	]
+}

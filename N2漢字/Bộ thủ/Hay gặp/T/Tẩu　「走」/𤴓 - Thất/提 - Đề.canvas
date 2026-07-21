@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"000114f7b66d0b30","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"提 - Đề"},
-		{"id":"1826c7be641631b3","x":-360,"y":-140,"width":127,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"1826c7be641631b3","x":-360,"y":-140,"width":127,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
 		{"id":"28ca7de99c4c9d61","x":-377,"y":30,"width":144,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas"}
 	],
 	"edges":[

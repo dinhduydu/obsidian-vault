@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d288ea0099642561","type":"text","text":"早 - Tảo","x":-128,"y":-37,"width":250,"height":60},
+		{"id":"0644fe5d9f06fa64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-500,"y":-260,"width":127,"height":147},
+		{"id":"6e0ef044beadad4f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-534,"y":100,"width":161,"height":133},
+		{"id":"0dbc01e71371ed48","x":280,"y":-321,"width":257,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/章 - Chương/章 - Chương.canvas"}
+	],
+	"edges":[
+		{"id":"0e97086adf5dfafd","fromNode":"0644fe5d9f06fa64","fromSide":"right","toNode":"d288ea0099642561","toSide":"left"},
+		{"id":"33d309824ac50a72","fromNode":"6e0ef044beadad4f","fromSide":"right","toNode":"d288ea0099642561","toSide":"left"},
+		{"id":"4b597ff45b76b74b","fromNode":"d288ea0099642561","fromSide":"right","toNode":"0dbc01e71371ed48","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e2dda9feefd8494","type":"text","text":"Do　「由」","x":-517,"y":53,"width":117,"height":50},
+		{"id":"aa12cfc7201e9faa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/届 - Giới.canvas","x":-139,"y":-169,"width":148,"height":140},
+		{"id":"88f971ce6f058427","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-458,"y":-360,"width":125,"height":102}
+	],
+	"edges":[
+		{"id":"e990446d7d8e0988","fromNode":"7e2dda9feefd8494","fromSide":"right","toNode":"aa12cfc7201e9faa","toSide":"left"},
+		{"id":"515d23dc3a9bd4db","fromNode":"88f971ce6f058427","fromSide":"right","toNode":"aa12cfc7201e9faa","toSide":"left"}
+	]
+}

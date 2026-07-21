@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c7987593d75287b1","x":-190,"y":-68,"width":250,"height":60,"type":"text","text":"伸 - Thân"},
+		{"id":"675bd3f450aaa5c0","x":-500,"y":160,"width":158,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/申 - Thân.canvas"},
+		{"id":"2cfa372bdbc39b27","x":-477,"y":-300,"width":135,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"6f9e5751d0a0b14e","fromNode":"675bd3f450aaa5c0","fromSide":"right","toNode":"c7987593d75287b1","toSide":"left"},
+		{"id":"7c1788926dafd666","fromNode":"2cfa372bdbc39b27","fromSide":"right","toNode":"c7987593d75287b1","toSide":"left"}
+	]
+}

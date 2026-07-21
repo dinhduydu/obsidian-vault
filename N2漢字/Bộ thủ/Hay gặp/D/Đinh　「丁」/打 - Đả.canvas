@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f80fa235faa832ed","type":"text","text":"打 - Đả","x":-150,"y":-36,"width":250,"height":60},
+		{"id":"b899604191b5a928","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-520,"y":-280,"width":161,"height":134},
+		{"id":"665a5c7c7673e24d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas","x":-500,"y":100,"width":141,"height":120}
+	],
+	"edges":[
+		{"id":"1f147845c7e5379b","fromNode":"b899604191b5a928","fromSide":"right","toNode":"f80fa235faa832ed","toSide":"left"},
+		{"id":"d2e3304d0ff313ab","fromNode":"665a5c7c7673e24d","fromSide":"right","toNode":"f80fa235faa832ed","toSide":"left"}
+	]
+}

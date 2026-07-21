@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d4d9c8b67f5ce713","x":-97,"y":-50,"width":250,"height":60,"type":"text","text":"硝 - Tiêu"},
+		{"id":"0762f4ebdc702427","x":-460,"y":140,"width":150,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"510810c6af5d9544","x":-438,"y":-280,"width":128,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"}
+	],
+	"edges":[
+		{"id":"564941f21d3e0d2e","fromNode":"0762f4ebdc702427","fromSide":"right","toNode":"d4d9c8b67f5ce713","toSide":"left"},
+		{"id":"09800d4f240a28a1","fromNode":"510810c6af5d9544","fromSide":"right","toNode":"d4d9c8b67f5ce713","toSide":"left"}
+	]
+}

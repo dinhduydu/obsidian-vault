@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f2add207db1c8350","x":-112,"y":-49,"width":250,"height":60,"type":"text","text":"削 - Tước"},
+		{"id":"412bb9a62fd6a944","x":-380,"y":60,"width":105,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"},
+		{"id":"efa25ed7989bd2ee","x":-389,"y":-240,"width":114,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"1d2a1fd97019992c","fromNode":"412bb9a62fd6a944","fromSide":"right","toNode":"f2add207db1c8350","toSide":"left"},
+		{"id":"ca65b1534efbb311","fromNode":"efa25ed7989bd2ee","fromSide":"right","toNode":"f2add207db1c8350","toSide":"left"}
+	]
+}

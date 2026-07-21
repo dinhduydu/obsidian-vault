@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"886e4a437ba020d9","type":"text","text":"Đại (lớn)　「大」","x":-153,"y":670,"width":250,"height":60},
 		{"id":"ceacddee76a19363","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":35,"y":371,"width":125,"height":85},
-		{"id":"0a4b6dab62becc49","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên　「天」/Thiên　「天」.canvas","x":297,"y":240,"width":165,"height":96},
+		{"id":"0a4b6dab62becc49","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「天」/Thiên　「天」.canvas","x":297,"y":240,"width":165,"height":96},
 		{"id":"5614c96ca4069491","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas","x":297,"y":493,"width":139,"height":105},
 		{"id":"cc62b56140fb469c","type":"text","text":"Đại (lớn)　「大」","x":-153,"y":-15,"width":250,"height":60},
 		{"id":"c5438f38e1fa3385","type":"text","text":"Đại (lớn)　「大」","x":2040,"y":-15,"width":250,"height":60},

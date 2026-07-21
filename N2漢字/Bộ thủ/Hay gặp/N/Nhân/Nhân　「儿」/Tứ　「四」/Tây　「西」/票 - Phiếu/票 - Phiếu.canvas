@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"715ecb9b5c35b58b","type":"text","text":"票 - Phiếu","x":-43,"y":-27,"width":250,"height":60},
+		{"id":"9d54879857cae6af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」.canvas","x":-400,"y":100,"width":157,"height":143},
+		{"id":"b51e9b98bf4a0843","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây.canvas","x":-410,"y":-200,"width":167,"height":122},
+		{"id":"9b5ef5353b4e6dc2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/票 - Phiếu/標 - Tiêu.canvas","x":360,"y":-320,"width":241,"height":151},
+		{"id":"367ab54e8a2e6b79","x":50,"y":-520,"width":157,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"3a0a4dd4d6ae3d76","fromNode":"9d54879857cae6af","fromSide":"right","toNode":"715ecb9b5c35b58b","toSide":"left"},
+		{"id":"586f242f74a172f6","fromNode":"b51e9b98bf4a0843","fromSide":"right","toNode":"715ecb9b5c35b58b","toSide":"left"},
+		{"id":"fe4ac95447fe5a5e","fromNode":"715ecb9b5c35b58b","fromSide":"right","toNode":"9b5ef5353b4e6dc2","toSide":"left"},
+		{"id":"385867e9c97e8fb2","fromNode":"367ab54e8a2e6b79","fromSide":"right","toNode":"9b5ef5353b4e6dc2","toSide":"left"}
+	]
+}

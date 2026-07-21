@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5da837bbc750cd47","x":-150,"y":-55,"width":250,"height":60,"type":"text","text":"垂 - Thuỳ"},
+		{"id":"a2f0e316bc6a5388","x":-460,"y":-240,"width":143,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/Thiên　「千」.canvas"},
+		{"id":"4693ba5032f8815a","x":-497,"y":-480,"width":180,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"51f7937f529634e7","x":-502,"y":60,"width":185,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"dcc938a37253067d","fromNode":"a2f0e316bc6a5388","fromSide":"right","toNode":"5da837bbc750cd47","toSide":"left"},
+		{"id":"dfa0e704d929acb8","fromNode":"4693ba5032f8815a","fromSide":"right","toNode":"5da837bbc750cd47","toSide":"left"},
+		{"id":"ce2dc27e362fc3ef","fromNode":"51f7937f529634e7","fromSide":"right","toNode":"5da837bbc750cd47","toSide":"left"}
+	]
+}

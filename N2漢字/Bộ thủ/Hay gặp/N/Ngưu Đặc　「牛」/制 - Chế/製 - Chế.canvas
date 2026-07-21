@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1e592fc834c324e4","x":-150,"y":-48,"width":250,"height":60,"type":"text","text":"製 - Chế"},
+		{"id":"2746505d0e67d8c7","x":-460,"y":-300,"width":142,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas"},
+		{"id":"93d9c1946742facc","x":-486,"y":140,"width":168,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"0898024b938f7256","fromNode":"2746505d0e67d8c7","fromSide":"right","toNode":"1e592fc834c324e4","toSide":"left"},
+		{"id":"243a541a4e7a1b5a","fromNode":"93d9c1946742facc","fromSide":"right","toNode":"1e592fc834c324e4","toSide":"left"}
+	]
+}

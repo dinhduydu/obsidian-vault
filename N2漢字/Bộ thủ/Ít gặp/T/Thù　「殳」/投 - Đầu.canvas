@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"93071e27fbaf48fe","x":-130,"y":-1,"width":250,"height":60,"type":"text","text":"投 - Đầu"},
-		{"id":"f0622c120f678bf1","x":-380,"y":-95,"width":121,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"f0622c120f678bf1","x":-380,"y":-95,"width":121,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
 		{"id":"d1326bd57f049925","x":-402,"y":120,"width":143,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
 	],
 	"edges":[

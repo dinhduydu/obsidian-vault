@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ba7e7cb76a56ac50","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-480,"y":-56,"width":167,"height":111},
+		{"id":"9e9a60adaccf3c4f","type":"text","text":"像 - Tượng","x":-170,"y":-30,"width":250,"height":60},
+		{"id":"2c7790d7be75bcbb","type":"text","text":"Hình ảnh, ảnh chụp.\nTượng (tượng điêu khắc).\nHình tượng, hình dáng.","x":230,"y":-56,"width":250,"height":112},
+		{"id":"0db7e1a7df2ac075","x":-499,"y":-320,"width":186,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng/象 - Tượng.canvas"}
+	],
+	"edges":[
+		{"id":"d8fa3cf71607c2b1","fromNode":"ba7e7cb76a56ac50","fromSide":"right","toNode":"9e9a60adaccf3c4f","toSide":"left"},
+		{"id":"aa62bb17514c1504","fromNode":"9e9a60adaccf3c4f","fromSide":"right","toNode":"2c7790d7be75bcbb","toSide":"left"},
+		{"id":"ba2531c5a46ff16c","fromNode":"0db7e1a7df2ac075","fromSide":"right","toNode":"9e9a60adaccf3c4f","toSide":"left"}
+	]
+}

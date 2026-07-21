@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a63a3799ff4c5461","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"搭 - Đáp"},
-		{"id":"ace350e1ba177cb4","x":-500,"y":-191,"width":165,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"ace350e1ba177cb4","x":-500,"y":-191,"width":165,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
 		{"id":"c91a1c549e4a9515","x":-530,"y":100,"width":195,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/答 - Đáp.canvas"}
 	],
 	"edges":[

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8206db2d7981d671","x":-115,"y":-43,"width":250,"height":60,"type":"text","text":"衝 - Xung"},
+		{"id":"1653b9ee771c4e7c","x":-420,"y":-240,"width":134,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/重 - Trọng/重 - Trọng.canvas"},
+		{"id":"201a656df16a77eb","x":-492,"y":40,"width":206,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hành　「行」/Hành　「行」.canvas"}
+	],
+	"edges":[
+		{"id":"2a8211f852123f71","fromNode":"1653b9ee771c4e7c","fromSide":"right","toNode":"8206db2d7981d671","toSide":"left"},
+		{"id":"91487b2e49f966ab","fromNode":"201a656df16a77eb","fromSide":"right","toNode":"8206db2d7981d671","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1f0edef101d20aa4","x":-80,"y":-63,"width":250,"height":60,"type":"text","text":"刺 - Thích"},
 		{"id":"ad087a80ee1cfaa6","x":-480,"y":-220,"width":121,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas"},
-		{"id":"dba52c0946dd11ed","x":-460,"y":100,"width":120,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 (刂)」.canvas"}
+		{"id":"dba52c0946dd11ed","x":-460,"y":100,"width":120,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
 	],
 	"edges":[
 		{"id":"f4fbf471bdf1e695","fromNode":"ad087a80ee1cfaa6","fromSide":"right","toNode":"1f0edef101d20aa4","toSide":"left"},

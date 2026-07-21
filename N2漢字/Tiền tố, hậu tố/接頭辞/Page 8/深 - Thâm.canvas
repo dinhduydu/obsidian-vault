@@ -1,85 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "center",
-      "type": "text",
-      "x": 980,
-      "y": 620,
-      "width": 820,
-      "height": 420,
-      "text": "# 深～（しん～）\n\n📚 Hán Việt: THÂM（深）\n\n🌊 Ý nghĩa trung tâm:\nSâu • Sâu sắc • Mức độ sâu\n\n📌 Thường dùng để:\n- chiều sâu vật lý\n- cảm xúc / suy nghĩ sâu\n- hành động “sâu hơn bình thường”"
-    },
-    {
-      "id": "meaning",
-      "type": "text",
-      "x": 120,
-      "y": 500,
-      "width": 760,
-      "height": 760,
-      "text": "# Ý nghĩa\n\n🧠 深 mang sắc thái:\n- sâu (depth)\n- sâu sắc (emotion/thought)\n- nghiêm trọng hơn bề mặt\n\n➡️ Gần giống:\n- deep\n- profound\n- intense\n\n📌 Prefix này hay dùng trong:\n- y học\n- tâm lý\n- hành vi (thở, suy nghĩ)"
-    },
-    {
-      "id": "word1",
-      "type": "text",
-      "x": 1940,
-      "y": 260,
-      "width": 920,
-      "height": 620,
-      "text": "# 深呼吸（しんこきゅう）\n\n🌬️ Hít thở sâu\n\n📚 Hán Việt:\n- 深 = sâu\n- 呼吸 = hô hấp\n\n## Nuance\n- hít vào sâu\n- thở ra chậm\n- giúp thư giãn\n\n💡 Hay dùng khi:\n- căng thẳng\n- stress\n- thi cử / làm việc"
-    },
-    {
-      "id": "pattern",
-      "type": "text",
-      "x": 820,
-      "y": -260,
-      "width": 1180,
-      "height": 620,
-      "text": "# Pattern N2\n\n🧩 深 + Danh từ\n→ Mang nghĩa:\n『sâu / mức độ sâu / mạnh hơn bình thường』\n\nVí dụ:\n- 深夜 = đêm khuya\n- 深刻 = nghiêm trọng\n- 深海 = biển sâu\n\n📌 Prefix này thường tạo cảm giác:\n- mạnh\n- sâu sắc\n- không hời hợt"
-    },
-    {
-      "id": "compare",
-      "type": "text",
-      "x": 120,
-      "y": 1520,
-      "width": 860,
-      "height": 900,
-      "text": "# So sánh nuance\n\n🌊 深\n→ sâu / sâu sắc\n\n🌱 浅\n→ nông / không sâu\n\n📌 Ví dụ:\n- 深呼吸 = hít thở sâu\n- 浅い呼吸 = thở nông\n\n⚡ 深 tạo cảm giác:\n『đi sâu vào bên trong, cả nghĩa đen lẫn nghĩa bóng』\n\n📌 JLPT hay gặp:\n- 深夜\n- 深刻\n- 深呼吸"
-    },
-    {
-      "id": "memory",
-      "type": "text",
-      "x": 980,
-      "y": 2620,
-      "width": 1180,
-      "height": 700,
-      "text": "# Memory Hint\n\n🧠 Hãy nhớ 深 bằng hình ảnh:\n\n🌊 biển rất sâu\n🌙 đêm khuya tĩnh lặng\n😮‍💨 hít một hơi thật sâu\n\n➡️ Điểm chung:\n『mọi thứ đều đi vào chiều sâu hơn bình thường』\n\n📌 Liên tưởng nhanh:\n深 = deep = không chỉ ở bề mặt"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e1",
-      "fromNode": "center",
-      "toNode": "meaning"
-    },
-    {
-      "id": "e2",
-      "fromNode": "center",
-      "toNode": "word1"
-    },
-    {
-      "id": "e3",
-      "fromNode": "pattern",
-      "toNode": "center"
-    },
-    {
-      "id": "e4",
-      "fromNode": "compare",
-      "toNode": "center"
-    },
-    {
-      "id": "e5",
-      "fromNode": "center",
-      "toNode": "memory"
-    }
-  ]
+	"nodes":[
+		{"id":"center","type":"text","x":980,"y":620,"width":820,"height":420,"text":"# 深～（しん～）\n\n📚 Hán Việt: THÂM（深）\n\n🌊 Ý nghĩa trung tâm:\nSâu • Sâu sắc • Mức độ sâu\n\n📌 Thường dùng để:\n- chiều sâu vật lý\n- cảm xúc / suy nghĩ sâu\n- hành động “sâu hơn bình thường”"},
+		{"id":"meaning","type":"text","x":120,"y":500,"width":760,"height":760,"text":"# Ý nghĩa\n\n🧠 深 mang sắc thái:\n- sâu (depth)\n- sâu sắc (emotion/thought)\n- nghiêm trọng hơn bề mặt\n\n➡️ Gần giống:\n- deep\n- profound\n- intense\n\n📌 Prefix này hay dùng trong:\n- y học\n- tâm lý\n- hành vi (thở, suy nghĩ)"},
+		{"id":"word1","type":"text","x":1940,"y":260,"width":920,"height":620,"text":"# 深呼吸（しんこきゅう）\n\n🌬️ Hít thở sâu\n\n📚 Hán Việt:\n- 深 = sâu\n- 呼吸 = hô hấp\n\n## Nuance\n- hít vào sâu\n- thở ra chậm\n- giúp thư giãn\n\n💡 Hay dùng khi:\n- căng thẳng\n- stress\n- thi cử / làm việc"},
+		{"id":"pattern","type":"text","x":820,"y":-260,"width":1180,"height":620,"text":"# Pattern N2\n\n🧩 深 + Danh từ\n→ Mang nghĩa:\n『sâu / mức độ sâu / mạnh hơn bình thường』\n\nVí dụ:\n- 深夜 = đêm khuya\n- 深刻 = nghiêm trọng\n- 深海 = biển sâu\n\n📌 Prefix này thường tạo cảm giác:\n- mạnh\n- sâu sắc\n- không hời hợt"},
+		{"id":"compare","type":"text","x":120,"y":1520,"width":860,"height":900,"text":"# So sánh nuance\n\n🌊 深\n→ sâu / sâu sắc\n\n🌱 浅\n→ nông / không sâu\n\n📌 Ví dụ:\n- 深呼吸 = hít thở sâu\n- 浅い呼吸 = thở nông\n\n⚡ 深 tạo cảm giác:\n『đi sâu vào bên trong, cả nghĩa đen lẫn nghĩa bóng』\n\n📌 JLPT hay gặp:\n- 深夜\n- 深刻\n- 深呼吸"},
+		{"id":"memory","type":"text","x":980,"y":2620,"width":1180,"height":700,"text":"# Memory Hint\n\n🧠 Hãy nhớ 深 bằng hình ảnh:\n\n🌊 biển rất sâu\n🌙 đêm khuya tĩnh lặng\n😮‍💨 hít một hơi thật sâu\n\n➡️ Điểm chung:\n『mọi thứ đều đi vào chiều sâu hơn bình thường』\n\n📌 Liên tưởng nhanh:\n深 = deep = không chỉ ở bề mặt"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"center","toNode":"meaning","fromSide":"left","toSide":"right"},
+		{"id":"e2","fromNode":"center","toNode":"word1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"pattern","toNode":"center","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"compare","toNode":"center","fromSide":"top","toSide":"bottom"},
+		{"id":"e5","fromNode":"center","toNode":"memory","fromSide":"bottom","toSide":"top"}
+	]
 }

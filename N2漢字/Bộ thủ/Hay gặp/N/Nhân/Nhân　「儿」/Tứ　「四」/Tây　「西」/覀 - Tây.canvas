@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"34ffa6c17b1176d7","x":-163,"y":-45,"width":250,"height":60,"type":"text","text":"覀 - Tây"},
+		{"id":"df85418457814838","x":-540,"y":-63,"width":137,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Tây　「西」.canvas"}
+	],
+	"edges":[
+		{"id":"e65e3322d715c967","fromNode":"df85418457814838","fromSide":"right","toNode":"34ffa6c17b1176d7","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3d845634fb1b3b88","x":-131,"y":-51,"width":250,"height":60,"type":"text","text":"唾 - Thoá"},
+		{"id":"58d20fffa2e934f7","x":-420,"y":-260,"width":111,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/垂 - Thuỳ/垂 - Thuỳ.canvas"},
+		{"id":"8ecc118720d028f8","x":-460,"y":120,"width":111,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"0ce779b1c4d43f16","fromNode":"58d20fffa2e934f7","fromSide":"right","toNode":"3d845634fb1b3b88","toSide":"left"},
+		{"id":"0792deee34d9b1fb","fromNode":"8ecc118720d028f8","fromSide":"right","toNode":"3d845634fb1b3b88","toSide":"left"}
+	]
+}

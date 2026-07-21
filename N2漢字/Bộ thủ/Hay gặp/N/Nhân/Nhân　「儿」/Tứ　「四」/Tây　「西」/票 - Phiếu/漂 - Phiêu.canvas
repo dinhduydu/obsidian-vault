@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c21b06a640a76675","x":-120,"y":-56,"width":250,"height":60,"type":"text","text":"漂 - Phiêu"},
+		{"id":"d380babb1bfb9c26","x":-360,"y":40,"width":124,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/票 - Phiếu/票 - Phiếu.canvas"},
+		{"id":"1213936bf6fe38be","x":-520,"y":-201,"width":138,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"0c703ec84b68b108","fromNode":"d380babb1bfb9c26","fromSide":"right","toNode":"c21b06a640a76675","toSide":"left"},
+		{"id":"5cba14ebb99b2719","fromNode":"1213936bf6fe38be","fromSide":"right","toNode":"c21b06a640a76675","toSide":"left"}
+	]
+}

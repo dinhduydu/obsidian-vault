@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d2a4e02af7f73a87","x":-120,"y":-36,"width":250,"height":60,"type":"text","text":"宙 - Trụ"},
+		{"id":"fb289c5d5e7afe85","x":-600,"y":240,"width":239,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas"},
+		{"id":"9e8d46b6a78d113b","x":-559,"y":-380,"width":198,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"e0c9d01c21b09218","fromNode":"fb289c5d5e7afe85","fromSide":"right","toNode":"d2a4e02af7f73a87","toSide":"left"},
+		{"id":"c5e5837a37c1016b","fromNode":"9e8d46b6a78d113b","fromSide":"right","toNode":"d2a4e02af7f73a87","toSide":"left"}
+	]
+}

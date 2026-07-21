@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"632e50eafcbb3d0b","type":"text","text":"過 - Quá","x":-143,"y":-13,"width":250,"height":60},
+		{"id":"228b14a4911b56aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/Cốt　「骨」.canvas","x":-440,"y":-280,"width":139,"height":130},
+		{"id":"8d0e7fd8674a1fd3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-459,"y":160,"width":158,"height":123},
+		{"id":"d7b33944d17ce4b8","x":240,"y":-150,"width":250,"height":60,"type":"text","text":"過ち　「あやまち」：sai lầm"}
+	],
+	"edges":[
+		{"id":"4a3be525b2830fcc","fromNode":"8d0e7fd8674a1fd3","fromSide":"right","toNode":"632e50eafcbb3d0b","toSide":"left"},
+		{"id":"fe9a4f67501d347c","fromNode":"228b14a4911b56aa","fromSide":"right","toNode":"632e50eafcbb3d0b","toSide":"left"},
+		{"id":"991ea6a79a830288","fromNode":"632e50eafcbb3d0b","fromSide":"right","toNode":"d7b33944d17ce4b8","toSide":"left"}
+	]
+}

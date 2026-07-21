@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d5a518a72fffca93","x":-128,"y":-54,"width":250,"height":60,"type":"text","text":"消 - Tiêu"},
+		{"id":"8a5a5acf5e23d6ba","x":-560,"y":240,"width":155,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"},
+		{"id":"2cd528fac7f7ad3e","x":-569,"y":-320,"width":164,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"54de388cf8b7f373","fromNode":"8a5a5acf5e23d6ba","fromSide":"right","toNode":"d5a518a72fffca93","toSide":"left"},
+		{"id":"853a13249a92cffd","fromNode":"2cd528fac7f7ad3e","fromSide":"right","toNode":"d5a518a72fffca93","toSide":"left"}
+	]
+}

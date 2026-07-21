@@ -14,12 +14,16 @@
 		{"id":"d4d7536c2a8f6493","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-190,"y":1180,"width":150,"height":159},
 		{"id":"055ddac39376786a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/貯 - Trữ.canvas","x":210,"y":1379,"width":177,"height":101},
 		{"id":"ed71000459145685","type":"text","text":"Đinh　「丁」","x":-530,"y":1399,"width":250,"height":60},
-		{"id":"8809a3415856d0cc","type":"text","text":"Đinh　「丁」","x":-1180,"y":1319,"width":250,"height":60},
 		{"id":"bfe159cf78fbf271","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/庁 - Sảnh.canvas","x":300,"y":175,"width":146,"height":97},
 		{"id":"483d5c0b3333d627","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas","x":-20,"y":-40,"width":133,"height":67},
 		{"id":"2f924ac2c8812e39","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頂 - Đỉnh.canvas","x":-234,"y":420,"width":228,"height":201},
 		{"id":"b7000cdf9157a720","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-540,"y":550,"width":172,"height":142},
-		{"id":"70ba2dd95d6cbec7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-99,"y":1780,"width":122,"height":100}
+		{"id":"70ba2dd95d6cbec7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-99,"y":1780,"width":122,"height":100},
+		{"id":"8809a3415856d0cc","type":"text","text":"Đinh　「丁」","x":1180,"y":212,"width":250,"height":60},
+		{"id":"28d0b5535f03fa77","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/打 - Đả.canvas","x":1700,"y":-60,"width":200,"height":155},
+		{"id":"d0b07d272cabff0a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":1255,"y":-194,"width":175,"height":134},
+		{"id":"911716ccd9c48103","x":1700,"y":465,"width":241,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm công cụ, vật dụng bằng kim loại/釘 - Đinh.canvas"},
+		{"id":"e87a93ea9369bc31","x":1260,"y":640,"width":222,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
 	],
 	"edges":[
 		{"id":"feddf2f1bbffbbca","fromNode":"ed71000459145685","fromSide":"right","toNode":"e621be7884709fc6","toSide":"left"},
@@ -35,10 +39,13 @@
 		{"id":"33fe8c388a8c7ba5","fromNode":"ed71000459145685","fromSide":"right","toNode":"055ddac39376786a","toSide":"left","label":"đóng đinh, bảo quản"},
 		{"id":"c1858a62abb0ee9e","fromNode":"78a1877a677de2a6","fromSide":"right","toNode":"4425f9769999a841","toSide":"left"},
 		{"id":"59898bc3d6ce5dc4","fromNode":"ed71000459145685","fromSide":"right","toNode":"4425f9769999a841","toSide":"left","label":"Khả　「可 」"},
-		{"id":"94cd7761cfbef986","fromNode":"8809a3415856d0cc","fromSide":"right","toNode":"ed71000459145685","toSide":"left","label":"sub node"},
 		{"id":"923fc69c87c2cfc5","fromNode":"31b57e4416351ec2","fromSide":"right","toNode":"9a8e00e83274c44e","toSide":"left","label":"灯 - Đăng"},
 		{"id":"db4adfa5c755c62d","fromNode":"05c1a679b2f597b9","fromSide":"right","toNode":"9a8e00e83274c44e","toSide":"left","label":"lửa làm ngọn đèn hải đăng"},
 		{"id":"b061aed2a009c9bc","fromNode":"31b57e4416351ec2","fromSide":"right","toNode":"2f924ac2c8812e39","toSide":"left","label":"頂 - Đỉnh"},
-		{"id":"090dfd6c9de44084","fromNode":"b7000cdf9157a720","fromSide":"right","toNode":"2f924ac2c8812e39","toSide":"left"}
+		{"id":"090dfd6c9de44084","fromNode":"b7000cdf9157a720","fromSide":"right","toNode":"2f924ac2c8812e39","toSide":"left"},
+		{"id":"a4bb3eda05e6980a","fromNode":"8809a3415856d0cc","fromSide":"right","toNode":"28d0b5535f03fa77","toSide":"left"},
+		{"id":"d714424ce63ab1dd","fromNode":"d0b07d272cabff0a","fromSide":"right","toNode":"28d0b5535f03fa77","toSide":"left"},
+		{"id":"344eb962bc3bdcef","fromNode":"8809a3415856d0cc","fromSide":"right","toNode":"911716ccd9c48103","toSide":"left"},
+		{"id":"bcafba0a2933d578","fromNode":"e87a93ea9369bc31","fromSide":"right","toNode":"911716ccd9c48103","toSide":"left"}
 	]
 }

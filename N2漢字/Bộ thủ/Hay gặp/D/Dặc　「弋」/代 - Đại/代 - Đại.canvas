@@ -3,11 +3,15 @@
 		{"id":"305afc7a1166ceae","type":"text","text":"代 - Đại","x":-179,"y":-86,"width":250,"height":60},
 		{"id":"b7e0547cfb197aa6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-360,"y":-189,"width":95,"height":103},
 		{"id":"78ba8f2cc28ab7d9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dặc　「弋」/Dặc　「弋」.canvas","x":-425,"y":0,"width":160,"height":120},
-		{"id":"4657078c6cf4b0a6","type":"text","text":"đại biểu, thời đại, đại diện, đại thế","x":200,"y":-197,"width":250,"height":60}
+		{"id":"4657078c6cf4b0a6","type":"text","text":"đại biểu, thời đại, đại diện, đại thế","x":200,"y":-197,"width":250,"height":60},
+		{"id":"c31079b30b78cf33","x":355,"y":200,"width":190,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/袋 - Đại.canvas"},
+		{"id":"22fdd937a2879440","x":20,"y":352,"width":164,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
 	],
 	"edges":[
 		{"id":"ccb7ce5fe2be846e","fromNode":"b7e0547cfb197aa6","fromSide":"right","toNode":"305afc7a1166ceae","toSide":"left"},
 		{"id":"ed08f13a4f862cfe","fromNode":"78ba8f2cc28ab7d9","fromSide":"right","toNode":"305afc7a1166ceae","toSide":"left"},
-		{"id":"33bf7deabe2f5a8a","fromNode":"305afc7a1166ceae","fromSide":"right","toNode":"4657078c6cf4b0a6","toSide":"left"}
+		{"id":"33bf7deabe2f5a8a","fromNode":"305afc7a1166ceae","fromSide":"right","toNode":"4657078c6cf4b0a6","toSide":"left"},
+		{"id":"69fb07b90dca0f97","fromNode":"305afc7a1166ceae","fromSide":"right","toNode":"c31079b30b78cf33","toSide":"left"},
+		{"id":"ed4cbdc5b54e74a0","fromNode":"22fdd937a2879440","fromSide":"right","toNode":"c31079b30b78cf33","toSide":"left"}
 	]
 }

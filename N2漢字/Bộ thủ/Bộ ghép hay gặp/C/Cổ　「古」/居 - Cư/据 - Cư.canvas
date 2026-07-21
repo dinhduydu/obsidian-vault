@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"26c83948e40aa1ab","x":-78,"y":-64,"width":250,"height":60,"type":"text","text":"据 - Cư"},
 		{"id":"13737c3221de1c36","x":-380,"y":80,"width":220,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/居 - Cư/居 - Cư.canvas"},
-		{"id":"28b11fecc4cecbc3","x":-459,"y":-300,"width":139,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"28b11fecc4cecbc3","x":-459,"y":-300,"width":139,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"837c30b63d477093","fromNode":"13737c3221de1c36","fromSide":"right","toNode":"26c83948e40aa1ab","toSide":"left"},

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"96ae36332279715b","type":"text","text":"深 - Thâm","x":-337,"y":-114,"width":250,"height":60},
+		{"id":"c1a765dbf3e37ffa","type":"text","text":"深刻　「しんこく」:","x":-17,"y":-114,"width":250,"height":60},
+		{"id":"0f6e57bac33ce5ab","type":"text","text":"農村に若い人がいないのは深刻な問題だ。","x":-17,"y":64,"width":354,"height":50},
+		{"id":"c955c52c38aec620","x":-738,"y":-145,"width":163,"height":123,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 8/深 - Thâm.canvas"},
+		{"id":"a8b0ed3d46e0e5e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-1120,"y":-420,"width":151,"height":100},
+		{"id":"26453e611e8e34e6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thâm　「罙」/Thâm　「罙」.canvas","x":-1090,"y":120,"width":121,"height":85}
+	],
+	"edges":[
+		{"id":"27636811abeb224d","fromNode":"96ae36332279715b","fromSide":"right","toNode":"c1a765dbf3e37ffa","toSide":"left"},
+		{"id":"b4b15cbe465677fb","fromNode":"96ae36332279715b","fromSide":"right","toNode":"0f6e57bac33ce5ab","toSide":"left"},
+		{"id":"7cd22b95781fa6df","fromNode":"26453e611e8e34e6","fromSide":"right","toNode":"c955c52c38aec620","toSide":"left"},
+		{"id":"bb9da06372e8f9ff","fromNode":"a8b0ed3d46e0e5e2","fromSide":"right","toNode":"c955c52c38aec620","toSide":"left"},
+		{"id":"eeb06e1edc0d34f6","fromNode":"c955c52c38aec620","fromSide":"right","toNode":"96ae36332279715b","toSide":"left"}
+	]
+}

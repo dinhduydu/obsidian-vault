@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b8ce4a035e96279f","x":-143,"y":-28,"width":250,"height":60,"type":"text","text":"指 - Chỉ"},
-		{"id":"9fc1e050a0ea94ed","x":-460,"y":100,"width":151,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
-		{"id":"2d26d4d091c8c01e","x":-480,"y":-240,"width":171,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas"}
+		{"id":"b8ce4a035e96279f","type":"text","text":"指 - Chỉ","x":-143,"y":-28,"width":250,"height":60},
+		{"id":"2d26d4d091c8c01e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/旨 - Chỉ/旨 - Chỉ.canvas","x":-480,"y":-240,"width":171,"height":154},
+		{"id":"e0b2d00971100bd5","x":-527,"y":80,"width":218,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
 	],
 	"edges":[
 		{"id":"a26e0751146aabf6","fromNode":"2d26d4d091c8c01e","fromSide":"right","toNode":"b8ce4a035e96279f","toSide":"left"},
-		{"id":"1775935c25c627b6","fromNode":"9fc1e050a0ea94ed","fromSide":"right","toNode":"b8ce4a035e96279f","toSide":"left"}
+		{"id":"1775935c25c627b6","fromNode":"e0b2d00971100bd5","fromSide":"right","toNode":"b8ce4a035e96279f","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"76c5d8a284ccc4d4","x":-134,"y":-37,"width":250,"height":60,"type":"text","text":"姓 - Tính"},
+		{"id":"1c9deb624f4d1b1f","x":-460,"y":100,"width":168,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"c5c59e7175eafac9","x":-475,"y":-220,"width":183,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"7db53d467352993b","fromNode":"1c9deb624f4d1b1f","fromSide":"right","toNode":"76c5d8a284ccc4d4","toSide":"left"},
+		{"id":"d554902dd3657deb","fromNode":"c5c59e7175eafac9","fromSide":"right","toNode":"76c5d8a284ccc4d4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9e7b8cdf585f90ea","x":-79,"y":-31,"width":250,"height":60,"type":"text","text":"圏 - Quyển"},
+		{"id":"e5c4a13464de66a7","x":-460,"y":-340,"width":163,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Quyển　「龹」/巻 - Quyển/巻 - Quyển.canvas"},
+		{"id":"7809ae186b6ed64c","x":-468,"y":160,"width":179,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas"}
+	],
+	"edges":[
+		{"id":"f7c75eae2d32689b","fromNode":"e5c4a13464de66a7","fromSide":"right","toNode":"9e7b8cdf585f90ea","toSide":"left"},
+		{"id":"f11362746ccf710e","fromNode":"7809ae186b6ed64c","fromSide":"right","toNode":"9e7b8cdf585f90ea","toSide":"left"}
+	]
+}

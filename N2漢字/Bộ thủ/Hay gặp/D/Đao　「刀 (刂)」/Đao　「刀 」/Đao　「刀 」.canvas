@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"67032cfb85118b5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/Chí　「至」.canvas","x":-232,"y":-420,"width":195,"height":108},
+		{"id":"e09e1ebb7976454c","type":"text","text":"Đao　「刀」","x":-357,"y":-40,"width":250,"height":60},
+		{"id":"702649c94cfe4673","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/到 - Đáo.canvas","x":207,"y":-300,"width":131,"height":131},
+		{"id":"22aef9725f4e71a2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/倒 - Đảo.canvas","x":580,"y":-60,"width":229,"height":160},
+		{"id":"0ce39cebba7d8e5d","x":108,"y":431,"width":198,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"0814c9fd3d62e2cd","x":520,"y":269,"width":237,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/拐 - Quải.canvas"},
+		{"id":"a459e7361b04c6fb","x":-80,"y":281,"width":135,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"5f069e980443fe06","fromNode":"e09e1ebb7976454c","fromSide":"right","toNode":"702649c94cfe4673","toSide":"left","label":"chỉ âm đọc"},
+		{"id":"682c1eddf7e284f8","fromNode":"67032cfb85118b5e","fromSide":"right","toNode":"702649c94cfe4673","toSide":"left","label":"nghĩa cơ bản của đến nơi"},
+		{"id":"5147aece357096c1","fromNode":"702649c94cfe4673","fromSide":"right","toNode":"22aef9725f4e71a2","toSide":"left"},
+		{"id":"bc13a287efba5920","fromNode":"e09e1ebb7976454c","fromSide":"right","toNode":"0814c9fd3d62e2cd","toSide":"left"},
+		{"id":"025ac7d23eb4856c","fromNode":"0ce39cebba7d8e5d","fromSide":"right","toNode":"0814c9fd3d62e2cd","toSide":"left"},
+		{"id":"4f413781435075b9","fromNode":"a459e7361b04c6fb","fromSide":"right","toNode":"0814c9fd3d62e2cd","toSide":"left"}
+	]
+}

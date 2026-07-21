@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ea98e4f814d46c61","x":-80,"y":-23,"width":250,"height":60,"type":"text","text":"宵 - Tiêu"},
+		{"id":"3bdfbe349abd6291","x":-380,"y":160,"width":146,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"},
+		{"id":"ada4258a996d1237","x":-393,"y":-260,"width":159,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"66ac847b095ab954","fromNode":"3bdfbe349abd6291","fromSide":"right","toNode":"ea98e4f814d46c61","toSide":"left"},
+		{"id":"d9c3c32d4cb4642a","fromNode":"ada4258a996d1237","fromSide":"right","toNode":"ea98e4f814d46c61","toSide":"left"}
+	]
+}

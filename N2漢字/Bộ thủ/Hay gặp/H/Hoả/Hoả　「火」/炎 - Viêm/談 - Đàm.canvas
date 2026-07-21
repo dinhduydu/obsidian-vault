@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"396aa3c83756f70c","x":-110,"y":-49,"width":250,"height":60,"type":"text","text":"談 - Đàm"},
+		{"id":"3441b76b66d886b4","x":-460,"y":-280,"width":141,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/炎 - Viêm/炎 - Viêm.canvas"},
+		{"id":"bdd27eabea8161b6","x":-475,"y":120,"width":171,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"83825fbdcd8e4add","fromNode":"3441b76b66d886b4","fromSide":"right","toNode":"396aa3c83756f70c","toSide":"left"},
+		{"id":"88b33610bdf0bcc2","fromNode":"bdd27eabea8161b6","fromSide":"right","toNode":"396aa3c83756f70c","toSide":"left"}
+	]
+}

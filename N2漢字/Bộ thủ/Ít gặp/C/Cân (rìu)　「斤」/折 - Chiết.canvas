@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"6494c8a24ca04b1e","type":"text","text":"折 - Chiết","x":-125,"y":-43,"width":250,"height":60},
 		{"id":"388139221e1c103a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-400,"y":120,"width":125,"height":92},
-		{"id":"23791bdc1022a054","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas","x":-402,"y":-260,"width":127,"height":77},
+		{"id":"23791bdc1022a054","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-402,"y":-260,"width":127,"height":77},
 		{"id":"e2283b619a54359a","x":400,"y":-338,"width":213,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/哲 - Triết.canvas"},
 		{"id":"049b4c9ac0e3eae4","x":20,"y":-600,"width":126,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
 	],

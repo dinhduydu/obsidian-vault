@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b8c0ba60b1b3fb9","x":-105,"y":-59,"width":250,"height":60,"type":"text","text":"腫 - Thũng"},
+		{"id":"94879fefd9eb848a","x":-400,"y":-260,"width":143,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/重 - Trọng/重 - Trọng.canvas"},
+		{"id":"f5671ac20f71df45","x":-393,"y":60,"width":136,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"e27359e826cc589e","fromNode":"94879fefd9eb848a","fromSide":"right","toNode":"3b8c0ba60b1b3fb9","toSide":"left"},
+		{"id":"546a95b5806012af","fromNode":"f5671ac20f71df45","fromSide":"right","toNode":"3b8c0ba60b1b3fb9","toSide":"left"}
+	]
+}

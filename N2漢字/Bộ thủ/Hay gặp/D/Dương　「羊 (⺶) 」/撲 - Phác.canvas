@@ -4,7 +4,7 @@
 		{"id":"8a5092aaccc7f229","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-420,"y":-119,"width":181,"height":173},
 		{"id":"8264ff562501d80d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas","x":-430,"y":200,"width":191,"height":180},
 		{"id":"438d4be5a1660d1d","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nghiệp　「业」/Nghiệp　「业」.canvas","x":-495,"y":-440,"width":256,"height":208},
-		{"id":"86c14005ecec96db","x":-800,"y":-136,"width":210,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"86c14005ecec96db","x":-800,"y":-136,"width":210,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"50b4bbfb43ef8279","fromNode":"8a5092aaccc7f229","fromSide":"right","toNode":"d0b5da42fa135e5a","toSide":"left"},

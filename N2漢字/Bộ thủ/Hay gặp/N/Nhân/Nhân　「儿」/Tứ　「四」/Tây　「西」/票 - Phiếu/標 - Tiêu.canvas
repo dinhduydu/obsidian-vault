@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c1796f7760efe139","x":-123,"y":-35,"width":250,"height":60,"type":"text","text":"標 - Tiêu"},
+		{"id":"9a47e2955bfbacce","x":-420,"y":60,"width":120,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"f03a3af6647f4d6b","x":-451,"y":-200,"width":151,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/票 - Phiếu/票 - Phiếu.canvas"}
+	],
+	"edges":[
+		{"id":"e6382587b972a80e","fromNode":"9a47e2955bfbacce","fromSide":"right","toNode":"c1796f7760efe139","toSide":"left"},
+		{"id":"9ec8abb481f53a4a","fromNode":"f03a3af6647f4d6b","fromSide":"right","toNode":"c1796f7760efe139","toSide":"left"}
+	]
+}

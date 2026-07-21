@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"20f7a44145e3d0c9","type":"group","x":-666,"y":100,"width":278,"height":694,"label":"(1)龹"},
+		{"id":"1bc41ea66c999683","type":"group","x":-651,"y":-520,"width":249,"height":440,"label":"(2)龹"},
+		{"id":"429302466ab32fab","type":"text","text":"Quyển　「龹」","x":-122,"y":-2,"width":250,"height":60},
+		{"id":"917fec34885d2869","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas","x":-646,"y":180,"width":229,"height":175},
+		{"id":"cf6fde284de9ba82","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas","x":-560,"y":420,"width":152,"height":134},
+		{"id":"43303293417e3d29","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas","x":-590,"y":620,"width":182,"height":154},
+		{"id":"7d520175ae79fb28","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas","x":-565,"y":-243,"width":143,"height":143},
+		{"id":"40f5ff72f64a23e4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-548,"y":-491,"width":126,"height":120}
+	],
+	"edges":[
+		{"id":"3c8ae15497f0b88d","fromNode":"1bc41ea66c999683","fromSide":"right","toNode":"429302466ab32fab","toSide":"left"},
+		{"id":"924ddd0088a40826","fromNode":"20f7a44145e3d0c9","fromSide":"right","toNode":"429302466ab32fab","toSide":"left"}
+	]
+}

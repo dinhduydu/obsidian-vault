@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a6e3b0e6219d3c85","x":-116,"y":-37,"width":250,"height":60,"type":"text","text":"縮 - Súc"},
+		{"id":"4ff692d0279e624f","x":-440,"y":-260,"width":164,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas"},
+		{"id":"69651d22a264a996","x":-450,"y":40,"width":174,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"bfde03f89bd766c2","fromNode":"4ff692d0279e624f","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left"},
+		{"id":"5f78c21ce66ed163","fromNode":"69651d22a264a996","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left"}
+	]
+}

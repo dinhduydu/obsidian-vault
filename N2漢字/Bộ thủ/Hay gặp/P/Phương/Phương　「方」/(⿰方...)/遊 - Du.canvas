@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f542e14f5bdf0c54","type":"text","text":"遊 - Du","x":80,"y":-93,"width":250,"height":60},
+		{"id":"f67c14dcfad7972a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-259,"y":-380,"width":145,"height":104},
+		{"id":"276bd855e2389c9b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-500,"y":-93,"width":128,"height":61},
+		{"id":"f1b9cecd681808f6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":-250,"y":120,"width":128,"height":72}
+	],
+	"edges":[
+		{"id":"b1c599f7c5e90ea1","fromNode":"276bd855e2389c9b","fromSide":"right","toNode":"f542e14f5bdf0c54","toSide":"left"},
+		{"id":"8b499900b93f084b","fromNode":"f67c14dcfad7972a","fromSide":"right","toNode":"f542e14f5bdf0c54","toSide":"left"},
+		{"id":"041a189d2f3418f2","fromNode":"f1b9cecd681808f6","fromSide":"right","toNode":"f542e14f5bdf0c54","toSide":"left"}
+	]
+}

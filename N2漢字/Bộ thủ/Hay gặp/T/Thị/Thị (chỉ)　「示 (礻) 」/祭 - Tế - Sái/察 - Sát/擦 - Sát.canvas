@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0544427a76ad461b","x":-20,"y":-52,"width":250,"height":60,"type":"text","text":"擦 - Sát"},
 		{"id":"699d9420946ef03d","x":-320,"y":40,"width":166,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/察 - Sát/察 - Sát.canvas"},
-		{"id":"b7ad6a951fbfdc3a","x":-540,"y":-92,"width":173,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"b7ad6a951fbfdc3a","x":-540,"y":-92,"width":173,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"a4604461857cfe5d","fromNode":"699d9420946ef03d","fromSide":"right","toNode":"0544427a76ad461b","toSide":"left"},

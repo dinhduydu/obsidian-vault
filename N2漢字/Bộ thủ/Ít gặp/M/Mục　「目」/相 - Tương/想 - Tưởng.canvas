@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dbc22e1df23ba5cf","x":-118,"y":-35,"width":250,"height":60,"type":"text","text":"想 - Tưởng"},
+		{"id":"3a21d9812d72d54e","x":-440,"y":-240,"width":163,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương.canvas"},
+		{"id":"ef3f55819e1634ce","x":-489,"y":40,"width":212,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"f634957d137a3d75","fromNode":"3a21d9812d72d54e","fromSide":"right","toNode":"dbc22e1df23ba5cf","toSide":"left"},
+		{"id":"200c7d611b16041a","fromNode":"ef3f55819e1634ce","fromSide":"right","toNode":"dbc22e1df23ba5cf","toSide":"left"}
+	]
+}

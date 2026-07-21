@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"244b249337bf9707","x":-149,"y":-40,"width":250,"height":60,"type":"text","text":"潰 - Hội"},
-		{"id":"c3bcf68c212a40de","x":-444,"y":-300,"width":188,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
-		{"id":"8b957d0513e884c2","x":-476,"y":80,"width":220,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/貴 - Quý/貴 - Quý.canvas"},
-		{"id":"1ac557d997955807","x":-640,"y":-40,"width":250,"height":60,"type":"text","text":"nghiền nát"}
+		{"id":"244b249337bf9707","type":"text","text":"潰 - Hội","x":-149,"y":-40,"width":250,"height":60},
+		{"id":"c3bcf68c212a40de","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-444,"y":-300,"width":188,"height":196},
+		{"id":"8b957d0513e884c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/貴 - Quý/貴 - Quý.canvas","x":-476,"y":80,"width":220,"height":167},
+		{"id":"1ac557d997955807","type":"text","text":"nghiền nát","x":-640,"y":-40,"width":250,"height":60},
+		{"id":"1fdccdcdbaa313b2","type":"text","text":"時間を潰す","x":320,"y":-202,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5a641fb36d305ab1","fromNode":"8b957d0513e884c2","fromSide":"right","toNode":"244b249337bf9707","toSide":"left"},
 		{"id":"1ea9abba4d10ae40","fromNode":"c3bcf68c212a40de","fromSide":"right","toNode":"244b249337bf9707","toSide":"left"},
-		{"id":"60981223edb9a0ce","fromNode":"1ac557d997955807","fromSide":"right","toNode":"244b249337bf9707","toSide":"left"}
+		{"id":"60981223edb9a0ce","fromNode":"1ac557d997955807","fromSide":"right","toNode":"244b249337bf9707","toSide":"left"},
+		{"id":"d9a450fbcf625531","fromNode":"244b249337bf9707","fromSide":"right","toNode":"1fdccdcdbaa313b2","toSide":"left"}
 	]
 }

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1a9ed42a7082adff","x":-107,"y":15,"width":250,"height":60,"type":"text","text":"抹 - Mạt"},
 		{"id":"00935194ce6f4db1","x":-480,"y":160,"width":181,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/末 - Mạt/末 - Mạt.canvas"},
-		{"id":"bcb83b1c71da6331","x":-502,"y":-280,"width":203,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+		{"id":"bcb83b1c71da6331","x":-502,"y":-280,"width":203,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
 	],
 	"edges":[
 		{"id":"d0f94e0fa837360a","fromNode":"00935194ce6f4db1","fromSide":"right","toNode":"1a9ed42a7082adff","toSide":"left"},

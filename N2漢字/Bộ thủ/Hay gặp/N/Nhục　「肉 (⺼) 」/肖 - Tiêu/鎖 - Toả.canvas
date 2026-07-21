@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6c89e8f8108e778a","x":-128,"y":-67,"width":250,"height":60,"type":"text","text":"鎖 - Toả"},
+		{"id":"5212e81b97392a72","x":-460,"y":-91,"width":131,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/鎖 - Toả.canvas"},
+		{"id":"058841632153854b","x":-820,"y":89,"width":144,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas"},
+		{"id":"5e5e3ed295e8a2dd","x":-800,"y":-300,"width":143,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"822e99b4281928f8","fromNode":"058841632153854b","fromSide":"right","toNode":"5212e81b97392a72","toSide":"left"},
+		{"id":"0ae987843de2eac8","fromNode":"5e5e3ed295e8a2dd","fromSide":"right","toNode":"5212e81b97392a72","toSide":"left"},
+		{"id":"40f43cbc12339b09","fromNode":"5212e81b97392a72","fromSide":"right","toNode":"6c89e8f8108e778a","toSide":"left"}
+	]
+}

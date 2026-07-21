@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"abdb44e723cefb1d","x":-94,"y":-34,"width":250,"height":60,"type":"text","text":"軸 - Trục"},
+		{"id":"3478f1499287e2b6","x":-480,"y":260,"width":138,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas"},
+		{"id":"a8e6160dfb6158c2","x":-529,"y":-420,"width":187,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
+	],
+	"edges":[
+		{"id":"a4b995bb1d5dc378","fromNode":"3478f1499287e2b6","fromSide":"right","toNode":"abdb44e723cefb1d","toSide":"left"},
+		{"id":"7e39a6cb23f3c5b3","fromNode":"a8e6160dfb6158c2","fromSide":"right","toNode":"abdb44e723cefb1d","toSide":"left"}
+	]
+}
