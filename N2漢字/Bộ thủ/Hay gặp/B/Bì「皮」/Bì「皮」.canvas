@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0fccd4033ae823e2","type":"text","text":"Bì「皮」","x":-147,"y":-14,"width":250,"height":60},
 		{"id":"3ccf27e449c6cfac","type":"text","text":"皮 – (bì): da","x":-560,"y":-240,"width":250,"height":60},
-		{"id":"da5f10d467e9a72b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/破 - Phá.canvas","x":320,"y":-268,"width":236,"height":176},
+		{"id":"da5f10d467e9a72b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/破 - Phá.canvas","x":320,"y":-268,"width":236,"height":176},
 		{"id":"f454e1ece05efd8e","x":-79,"y":-425,"width":182,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
 	],
 	"edges":[

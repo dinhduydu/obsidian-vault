@@ -5,11 +5,13 @@
 		{"id":"6ef45b128c3a7120","type":"text","text":"販売者　「はんばいしゃ」：","x":179,"y":70,"width":250,"height":60},
 		{"id":"f9c7b05a1cc4c6de","type":"text","text":"販売促進　「はんばいそくしん」：","x":179,"y":-55,"width":300,"height":60},
 		{"id":"f2d25a15ed81ee3a","type":"text","text":"市販　「しはん」：","x":-161,"y":-130,"width":250,"height":60},
-		{"id":"4678328af9db21ee","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-499,"y":-55,"width":153,"height":114}
+		{"id":"4678328af9db21ee","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-540,"y":70,"width":153,"height":114},
+		{"id":"4d0a8a0a64f6cb70","x":-585,"y":-277,"width":198,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
 	],
 	"edges":[
 		{"id":"84a40c2e3a00d543","fromNode":"4678328af9db21ee","fromSide":"right","toNode":"9506f1bd1bae27a1","toSide":"left"},
 		{"id":"a7fc9b4e7e43bb40","fromNode":"693bee0c8dacc1f3","fromSide":"right","toNode":"6ef45b128c3a7120","toSide":"left"},
-		{"id":"bd2a9091101cb435","fromNode":"693bee0c8dacc1f3","fromSide":"right","toNode":"f9c7b05a1cc4c6de","toSide":"left"}
+		{"id":"bd2a9091101cb435","fromNode":"693bee0c8dacc1f3","fromSide":"right","toNode":"f9c7b05a1cc4c6de","toSide":"left"},
+		{"id":"ce70387a35173116","fromNode":"4d0a8a0a64f6cb70","fromSide":"right","toNode":"9506f1bd1bae27a1","toSide":"left"}
 	]
 }

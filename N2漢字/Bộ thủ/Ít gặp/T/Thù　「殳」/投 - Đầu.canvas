@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"93071e27fbaf48fe","x":-130,"y":-1,"width":250,"height":60,"type":"text","text":"投 - Đầu"},
-		{"id":"f0622c120f678bf1","x":-380,"y":-95,"width":121,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
-		{"id":"d1326bd57f049925","x":-402,"y":120,"width":143,"height":91,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+		{"id":"93071e27fbaf48fe","type":"text","text":"投 - Đầu","x":-130,"y":-1,"width":250,"height":60},
+		{"id":"b8a1febbbdd36ee2","x":-780,"y":-1,"width":250,"height":60,"type":"text","text":"đầu tư"},
+		{"id":"f0622c120f678bf1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-440,"y":-220,"width":121,"height":94},
+		{"id":"d1326bd57f049925","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas","x":-451,"y":120,"width":143,"height":91}
 	],
 	"edges":[
 		{"id":"558da978505fc574","fromNode":"f0622c120f678bf1","fromSide":"right","toNode":"93071e27fbaf48fe","toSide":"left"},
-		{"id":"68dbfa90f7da5113","fromNode":"d1326bd57f049925","fromSide":"right","toNode":"93071e27fbaf48fe","toSide":"left"}
+		{"id":"68dbfa90f7da5113","fromNode":"d1326bd57f049925","fromSide":"right","toNode":"93071e27fbaf48fe","toSide":"left"},
+		{"id":"346b4125b22a243c","fromNode":"b8a1febbbdd36ee2","fromSide":"right","toNode":"93071e27fbaf48fe","toSide":"left"}
 	]
 }

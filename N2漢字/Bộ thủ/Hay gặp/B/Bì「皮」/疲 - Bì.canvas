@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"08c733a2829309ae","x":-154,"y":-32,"width":250,"height":60,"type":"text","text":"疲 - Bì"},
+		{"id":"6bd4a13c10a8f6b5","x":-480,"y":120,"width":168,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/Bì「皮」.canvas"},
+		{"id":"3b0c53c08a4d20c9","x":-673,"y":-165,"width":193,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"},
+		{"id":"5067bad4322b1330","x":320,"y":-380,"width":258,"height":206,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/お疲れさまです.md"}
+	],
+	"edges":[
+		{"id":"de5bf7a86e44d2d3","fromNode":"6bd4a13c10a8f6b5","fromSide":"right","toNode":"08c733a2829309ae","toSide":"left"},
+		{"id":"543986f8c7339605","fromNode":"3b0c53c08a4d20c9","fromSide":"right","toNode":"08c733a2829309ae","toSide":"left"},
+		{"id":"45580c05b5f1b9c2","fromNode":"08c733a2829309ae","fromSide":"right","toNode":"5067bad4322b1330","toSide":"left"}
+	]
+}

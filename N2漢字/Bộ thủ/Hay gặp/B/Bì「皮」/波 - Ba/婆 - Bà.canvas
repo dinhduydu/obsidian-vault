@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1b737c466bd3c745","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"婆 - Bà"},
+		{"id":"51202a81653ea014","x":-680,"y":-30,"width":250,"height":60,"type":"text","text":"bà già"},
+		{"id":"a69bdd1a285ec33c","x":-460,"y":-300,"width":205,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/波 - Ba/波 - Ba.canvas"},
+		{"id":"d5cf06ef41a0f81c","x":-441,"y":220,"width":186,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"506800eb7332c7d8","fromNode":"51202a81653ea014","fromSide":"right","toNode":"1b737c466bd3c745","toSide":"left"},
+		{"id":"0ef66de728d188c8","fromNode":"a69bdd1a285ec33c","fromSide":"right","toNode":"1b737c466bd3c745","toSide":"left"},
+		{"id":"555e8697c040f7c8","fromNode":"d5cf06ef41a0f81c","fromSide":"right","toNode":"1b737c466bd3c745","toSide":"left"}
+	]
+}

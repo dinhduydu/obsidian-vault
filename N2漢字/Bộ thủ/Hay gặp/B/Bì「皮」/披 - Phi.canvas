@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"45c695ce44d703a1","x":-115,"y":-47,"width":250,"height":60,"type":"text","text":"披 - Phi"},
+		{"id":"28b055e0cfb78abd","x":-440,"y":-320,"width":174,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"bd1e59ceaced9fdc","x":-445,"y":120,"width":179,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/Bì「皮」.canvas"}
+	],
+	"edges":[
+		{"id":"de6615548d6080d8","fromNode":"bd1e59ceaced9fdc","fromSide":"right","toNode":"45c695ce44d703a1","toSide":"left"},
+		{"id":"eaa737d729a1a856","fromNode":"28b055e0cfb78abd","fromSide":"right","toNode":"45c695ce44d703a1","toSide":"left"}
+	]
+}

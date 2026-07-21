@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5ba80f57c1fcdd23","x":-137,"y":-38,"width":250,"height":60,"type":"text","text":"波 - Ba"},
+		{"id":"80e52df3e666427d","x":-460,"y":200,"width":133,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/Bì「皮」.canvas"},
+		{"id":"67ee9c061f0eaa2c","x":-469,"y":-320,"width":152,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"0db110211d616144","fromNode":"80e52df3e666427d","fromSide":"right","toNode":"5ba80f57c1fcdd23","toSide":"left"},
+		{"id":"122fb5e1ff1e885a","fromNode":"67ee9c061f0eaa2c","fromSide":"right","toNode":"5ba80f57c1fcdd23","toSide":"left"}
+	]
+}

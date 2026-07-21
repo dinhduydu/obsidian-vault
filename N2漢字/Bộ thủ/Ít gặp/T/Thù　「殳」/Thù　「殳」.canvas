@@ -17,8 +17,8 @@
 		{"id":"26f11535299551ab","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/穀 - Cốc.canvas","x":356,"y":1123,"width":296,"height":138},
 		{"id":"675f22e327a31aee","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":180,"y":1083,"width":116,"height":81},
 		{"id":"206c71e29bebc5e3","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殻 - Xác.canvas","x":380,"y":1400,"width":178,"height":177},
-		{"id":"6eaab64fc5585a84","x":-69,"y":1784,"width":400,"height":400,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殿 - Điện.canvas"},
-		{"id":"e048e62f68440a7a","x":-520,"y":1903,"width":141,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+		{"id":"6eaab64fc5585a84","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/殿 - Điện.canvas","x":-69,"y":1784,"width":400,"height":400},
+		{"id":"e048e62f68440a7a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-520,"y":1944,"width":141,"height":81}
 	],
 	"edges":[
 		{"id":"46fcc8819735b10d","fromNode":"c4a8c136879fb161","fromSide":"right","toNode":"b592190aa3f4c683","toSide":"left"},

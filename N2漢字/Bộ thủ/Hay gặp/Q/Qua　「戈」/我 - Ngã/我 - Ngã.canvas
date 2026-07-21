@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"daac627f1d1ca69a","type":"text","text":"我 - Ngã","x":-151,"y":8,"width":250,"height":60},
+		{"id":"cb8453c512ddad5f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas","x":48,"y":-560,"width":134,"height":135},
+		{"id":"35a387e2a6cb721d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã/餓 - Ngạ.canvas","x":392,"y":-180,"width":119,"height":118},
+		{"id":"f2015d4ed7049c5d","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/我 - Ngã.canvas","x":-574,"y":-43,"width":182,"height":162},
+		{"id":"165708ecb797f594","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-912,"y":-83,"width":105,"height":81},
+		{"id":"9a464d27b1c1827d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-920,"y":72,"width":121,"height":95}
+	],
+	"edges":[
+		{"id":"92b8cf15ca607112","fromNode":"165708ecb797f594","fromSide":"right","toNode":"f2015d4ed7049c5d","toSide":"left"},
+		{"id":"1808aab5723d2f97","fromNode":"9a464d27b1c1827d","fromSide":"right","toNode":"f2015d4ed7049c5d","toSide":"left"},
+		{"id":"f674193e99a4c4d7","fromNode":"cb8453c512ddad5f","fromSide":"right","toNode":"35a387e2a6cb721d","toSide":"left"},
+		{"id":"5baaf3ac461ec44a","fromNode":"daac627f1d1ca69a","fromSide":"right","toNode":"35a387e2a6cb721d","toSide":"left"},
+		{"id":"f3b88c3de0b99f47","fromNode":"f2015d4ed7049c5d","fromSide":"right","toNode":"daac627f1d1ca69a","toSide":"left"}
+	]
+}

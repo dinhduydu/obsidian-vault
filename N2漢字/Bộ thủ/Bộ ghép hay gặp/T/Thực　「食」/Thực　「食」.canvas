@@ -12,8 +12,8 @@
 		{"id":"1d8e5e68ee5d9991","type":"text","text":"飲 - Ẩm","x":228,"y":380,"width":250,"height":60},
 		{"id":"535dd62ddce26a2e","type":"text","text":"飯","x":228,"y":596,"width":250,"height":60},
 		{"id":"85198fc57ee73d95","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas","x":-60,"y":656,"width":133,"height":142},
-		{"id":"bb443d2b2e4d4e89","x":208,"y":137,"width":145,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/餓 - Ngạ.canvas"},
-		{"id":"487604fa61e081a9","x":-136,"y":205,"width":143,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã.canvas"}
+		{"id":"bb443d2b2e4d4e89","x":208,"y":137,"width":145,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã/餓 - Ngạ.canvas"},
+		{"id":"487604fa61e081a9","x":-136,"y":205,"width":143,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã/我 - Ngã.canvas"}
 	],
 	"edges":[
 		{"id":"8db874801c332b86","fromNode":"8ac84b0ba269de46","fromSide":"left","toNode":"751850e76b21b57d","toSide":"right"},

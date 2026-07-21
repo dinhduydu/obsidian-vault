@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5c4201a683da23df","type":"text","text":"澄 - Trừng","x":-186,"y":-39,"width":250,"height":60},
+		{"id":"8557c07f0ce0d932","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/登 - Đăng/登 - Đăng.canvas","x":-480,"y":-200,"width":165,"height":134},
+		{"id":"b1e749885a658869","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-409,"y":60,"width":94,"height":128},
+		{"id":"01934c8b4b2dcfaa","x":-892,"y":-219,"width":204,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"},
+		{"id":"c5ff17650d493a4d","x":-835,"y":-480,"width":147,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「癶 」/Bát　「癶 」.canvas"},
+		{"id":"d82bfee1d6f6730e","type":"text","text":"sạch sẽ","x":-688,"y":-39,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1046266960eb7fd5","fromNode":"8557c07f0ce0d932","fromSide":"right","toNode":"5c4201a683da23df","toSide":"left"},
+		{"id":"f4501d3f939c8e01","fromNode":"b1e749885a658869","fromSide":"right","toNode":"5c4201a683da23df","toSide":"left"},
+		{"id":"e79b78034090359e","fromNode":"d82bfee1d6f6730e","fromSide":"right","toNode":"5c4201a683da23df","toSide":"left"},
+		{"id":"9b0930f93908f1f4","fromNode":"01934c8b4b2dcfaa","fromSide":"right","toNode":"8557c07f0ce0d932","toSide":"left"},
+		{"id":"4b7fe3b3ea4c2e63","fromNode":"c5ff17650d493a4d","fromSide":"right","toNode":"8557c07f0ce0d932","toSide":"left"}
+	]
+}

@@ -17,7 +17,11 @@
 		{"id":"0b4b0a3177c2fb43","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/晩 - Vãn.canvas","x":680,"y":115,"width":193,"height":171},
 		{"id":"33e69c10344c6141","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/曜 - Diệu.canvas","x":680,"y":301,"width":168,"height":119},
 		{"id":"97a7b95aa790f72f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas","x":1480,"y":-660,"width":154,"height":145},
-		{"id":"762b19a5c3aa56db","x":1840,"y":-71,"width":213,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/晶 - Tinh.canvas"}
+		{"id":"762b19a5c3aa56db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/晶 - Tinh.canvas","x":1840,"y":-71,"width":213,"height":171},
+		{"id":"d5030f292253dddc","x":160,"y":-630,"width":144,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"51b29ce6b86a68c9","x":-200,"y":-799,"width":197,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"18264d0baf671857","x":1840,"y":420,"width":242,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas"},
+		{"id":"335bb79180deebae","x":1440,"y":568,"width":215,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/𤴓 - Thất.canvas"}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9b2a9d0527d69476","toSide":"left","label":"明 - Minh"},
@@ -35,6 +39,10 @@
 		{"id":"e510e3ddbf5ba0b3","fromNode":"b9dabccfc7972642","fromSide":"right","toNode":"b8b3e11160d54aee","toSide":"left"},
 		{"id":"a87de0651af65c82","fromNode":"c177803e4dcba313","fromSide":"right","toNode":"d1dc523a2392a32a","toSide":"left"},
 		{"id":"d0ed778fae2010a7","fromNode":"97a7b95aa790f72f","fromSide":"right","toNode":"b8b3e11160d54aee","toSide":"left"},
-		{"id":"89325e7a457876b7","fromNode":"b9dabccfc7972642","fromSide":"right","toNode":"762b19a5c3aa56db","toSide":"left"}
+		{"id":"89325e7a457876b7","fromNode":"b9dabccfc7972642","fromSide":"right","toNode":"762b19a5c3aa56db","toSide":"left"},
+		{"id":"81289bf8551a7621","fromNode":"d5030f292253dddc","fromSide":"right","toNode":"9b2a9d0527d69476","toSide":"left"},
+		{"id":"7b75b331092d6d10","fromNode":"51b29ce6b86a68c9","fromSide":"right","toNode":"3b6e88b5c510993a","toSide":"left"},
+		{"id":"e68ceca5d5006dac","fromNode":"b9dabccfc7972642","fromSide":"right","toNode":"18264d0baf671857","toSide":"left"},
+		{"id":"4edded1eb80158ad","fromNode":"335bb79180deebae","fromSide":"right","toNode":"18264d0baf671857","toSide":"left"}
 	]
 }

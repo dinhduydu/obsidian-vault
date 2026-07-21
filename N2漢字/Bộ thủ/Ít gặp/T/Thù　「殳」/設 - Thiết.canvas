@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5a13a08ac3e2a3d1","x":-114,"y":-18,"width":250,"height":60,"type":"text","text":"設 - Thiết"},
+		{"id":"8ed360f74e049ac2","x":-480,"y":-260,"width":158,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"20ade904ec589ac2","x":-480,"y":160,"width":158,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"9dc6bfaeb5cb6db9","fromNode":"8ed360f74e049ac2","fromSide":"right","toNode":"5a13a08ac3e2a3d1","toSide":"left"},
+		{"id":"34ffc1e62aeb4c41","fromNode":"20ade904ec589ac2","fromSide":"right","toNode":"5a13a08ac3e2a3d1","toSide":"left"}
+	]
+}

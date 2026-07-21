@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"291f02f67479ba88","x":-139,"y":-40,"width":250,"height":60,"type":"text","text":"彼 - Bì"},
+		{"id":"1fb8ea1959aa6a9c","x":-420,"y":120,"width":131,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/Bì「皮」.canvas"},
+		{"id":"c44c2f0d3fa0cda6","x":-660,"y":-85,"width":178,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"e332d19d8dd5ea95","fromNode":"1fb8ea1959aa6a9c","fromSide":"right","toNode":"291f02f67479ba88","toSide":"left"},
+		{"id":"319ecd060f8d2c36","fromNode":"c44c2f0d3fa0cda6","fromSide":"right","toNode":"291f02f67479ba88","toSide":"left"}
+	]
+}

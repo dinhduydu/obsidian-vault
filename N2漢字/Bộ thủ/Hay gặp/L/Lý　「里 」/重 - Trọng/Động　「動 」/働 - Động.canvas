@@ -3,7 +3,7 @@
 		{"id":"987b84d9e980d097","type":"text","text":"働 - Động","x":-133,"y":60,"width":250,"height":60},
 		{"id":"4e320fc5a1b2414f","type":"text","text":"働く　「はたらく」：","x":227,"y":60,"width":250,"height":60},
 		{"id":"8afe2cc9a7640de9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-477,"y":-120,"width":158,"height":105},
-		{"id":"bc06d6b4288fb6b6","x":-486,"y":90,"width":176,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Động　「動 」/Động　「動 」.canvas"}
+		{"id":"bc06d6b4288fb6b6","x":-486,"y":90,"width":176,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/重 - Trọng/Động　「動 」/Động　「動 」.canvas"}
 	],
 	"edges":[
 		{"id":"d9cf58c0ece98a19","fromNode":"987b84d9e980d097","fromSide":"right","toNode":"4e320fc5a1b2414f","toSide":"left"},

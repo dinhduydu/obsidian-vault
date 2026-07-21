@@ -8,7 +8,7 @@
 		{"id":"2f8b00b3c721fc62","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/伐 - Phạt/閥 - Phiệt.canvas","x":340,"y":108,"width":256,"height":161},
 		{"id":"ad28489622a83b90","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas","x":46,"y":269,"width":151,"height":111},
 		{"id":"15750b7a818706a6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-431,"y":460,"width":105,"height":81},
-		{"id":"72ed16c1d36b81f1","x":-170,"y":433,"width":100,"height":55,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã.canvas"}
+		{"id":"72ed16c1d36b81f1","x":-170,"y":433,"width":100,"height":55,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã/我 - Ngã.canvas"}
 	],
 	"edges":[
 		{"id":"c672d01c8e06615c","fromNode":"202db1b4a85de541","fromSide":"right","toNode":"458db7debd10ba96","toSide":"left"},

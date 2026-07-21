@@ -4,12 +4,14 @@
 		{"id":"3d2d4846dbe2a302","type":"text","text":"規律　「きりつ」：quy luật","x":74,"y":70,"width":250,"height":60},
 		{"id":"742c8b8e0a6ce0cf","type":"text","text":"法律","x":74,"y":-70,"width":250,"height":60},
 		{"id":"8a30398b8fddeb1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-500,"y":-200,"width":62,"height":59},
-		{"id":"2719deea0ac3f3f3","x":-640,"y":40,"width":226,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"}
+		{"id":"2719deea0ac3f3f3","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas","x":-640,"y":40,"width":226,"height":197},
+		{"id":"1f8e95d53143748c","type":"text","text":"法律　「ほうりつ」：pháp luật","x":74,"y":-260,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1686da5cef14d74b","fromNode":"ebfffee7b48dd7e1","fromSide":"right","toNode":"742c8b8e0a6ce0cf","toSide":"left"},
 		{"id":"b4481f776b28fcc0","fromNode":"ebfffee7b48dd7e1","fromSide":"right","toNode":"3d2d4846dbe2a302","toSide":"left"},
 		{"id":"784785a3f1725788","fromNode":"8a30398b8fddeb1a","fromSide":"right","toNode":"ebfffee7b48dd7e1","toSide":"left"},
-		{"id":"ec35c001c05bb5ba","fromNode":"2719deea0ac3f3f3","fromSide":"right","toNode":"ebfffee7b48dd7e1","toSide":"left"}
+		{"id":"ec35c001c05bb5ba","fromNode":"2719deea0ac3f3f3","fromSide":"right","toNode":"ebfffee7b48dd7e1","toSide":"left"},
+		{"id":"fe4c8c9a65cb81a8","fromNode":"ebfffee7b48dd7e1","fromSide":"right","toNode":"1f8e95d53143748c","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"136aed611af0ce79","type":"text","text":"薫 - Huân","x":-96,"y":-10,"width":250,"height":60},
+		{"id":"3d2bc7fd9e0db082","x":-520,"y":260,"width":219,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/重 - Trọng/Động　「動 」/勲 - Huân/勲 - Huân.canvas"},
+		{"id":"0be925e3f4a7d22e","x":-514,"y":-360,"width":213,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"7b823d43e599d5c4","fromNode":"3d2bc7fd9e0db082","fromSide":"right","toNode":"136aed611af0ce79","toSide":"left"},
+		{"id":"94e07653cfe2b37b","fromNode":"0be925e3f4a7d22e","fromSide":"right","toNode":"136aed611af0ce79","toSide":"left"}
+	]
+}

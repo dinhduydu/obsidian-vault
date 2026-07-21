@@ -7,7 +7,7 @@
 		{"id":"5218493e3650deb0","type":"text","text":"仮定　「かてい」：","x":52,"y":-27,"width":250,"height":60},
 		{"id":"9efd3182af819152","type":"text","text":"仮名　「かめい」：","x":52,"y":33,"width":250,"height":60},
 		{"id":"5a8c988da7e0ac5a","type":"text","text":"仮住まい　「かりずまい」：","x":52,"y":88,"width":250,"height":60},
-		{"id":"987ff542c42b421f","x":-301,"y":-260,"width":147,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」/Phản　「反」.canvas"}
+		{"id":"987ff542c42b421f","x":-301,"y":-260,"width":147,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
 	],
 	"edges":[
 		{"id":"a2ecffa19b09740e","fromNode":"620b0d371187edf0","fromSide":"right","toNode":"f825dd741229abae","toSide":"left"},

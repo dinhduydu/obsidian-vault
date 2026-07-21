@@ -5,7 +5,7 @@
 		{"id":"d42650199cb90b82","type":"text","text":"㐬","x":60,"y":540,"width":96,"height":50},
 		{"id":"fa36108a3f7814f4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/硫 - Lưu.canvas","x":241,"y":355,"width":170,"height":101},
 		{"id":"c381978569d4ee30","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/研 - Nghiêng.canvas","x":290,"y":-17,"width":121,"height":65},
-		{"id":"fc15772ed7e23e86","x":290,"y":107,"width":133,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/破 - Phá.canvas"}
+		{"id":"fc15772ed7e23e86","x":290,"y":107,"width":133,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/破 - Phá.canvas"}
 	],
 	"edges":[
 		{"id":"c09cad12b95dda18","fromNode":"268df70406d78732","fromSide":"right","toNode":"c381978569d4ee30","toSide":"left"},

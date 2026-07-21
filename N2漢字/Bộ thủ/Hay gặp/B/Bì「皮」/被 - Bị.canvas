@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e5e7c778befd7fcb","x":-37,"y":-19,"width":250,"height":60,"type":"text","text":"被 - Bị"},
+		{"id":"bf799c96e1d25913","x":-360,"y":-73,"width":197,"height":168,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/被 - Bị.canvas"},
+		{"id":"b389af33eccf31d7","x":-760,"y":-240,"width":182,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"},
+		{"id":"b8f0ff145387ae41","x":-776,"y":160,"width":198,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/Bì「皮」.canvas"}
+	],
+	"edges":[
+		{"id":"d7df24502e10880e","fromNode":"bf799c96e1d25913","fromSide":"right","toNode":"e5e7c778befd7fcb","toSide":"left"},
+		{"id":"e0069933dda021ea","fromNode":"b389af33eccf31d7","fromSide":"right","toNode":"bf799c96e1d25913","toSide":"left"},
+		{"id":"ea3b1a78b05fc14e","fromNode":"b8f0ff145387ae41","fromSide":"right","toNode":"bf799c96e1d25913","toSide":"left"}
+	]
+}

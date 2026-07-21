@@ -6,7 +6,7 @@
 		{"id":"ebca35b685d08298","type":"text","text":"黒板　「こくばん」：","x":30,"y":-1,"width":250,"height":60},
 		{"id":"f30eaa89d86d528f","type":"text","text":"鉄板　「てっぱん」：","x":30,"y":59,"width":250,"height":60},
 		{"id":"49db411d00ff6a87","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-440,"y":89,"width":200,"height":161},
-		{"id":"d0186910405216d3","x":-455,"y":-190,"width":215,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phản　「反」/Phản　「反」.canvas"}
+		{"id":"d0186910405216d3","x":-455,"y":-190,"width":215,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
 	],
 	"edges":[
 		{"id":"254898220b0f5e1c","fromNode":"49db411d00ff6a87","fromSide":"right","toNode":"4d2e6e5a0b1a6714","toSide":"left"},
