@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0ea3a3e78022592a","x":-105,"y":-74,"width":250,"height":60,"type":"text","text":"倍 - Bối"},
+		{"id":"823f870fd99423e0","x":-440,"y":-280,"width":145,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas"},
+		{"id":"296cd54a98a5e247","x":-469,"y":120,"width":174,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"2d3a56189e0e6401","fromNode":"823f870fd99423e0","fromSide":"right","toNode":"0ea3a3e78022592a","toSide":"left"},
+		{"id":"330059d5e2b09fd1","fromNode":"296cd54a98a5e247","fromSide":"right","toNode":"0ea3a3e78022592a","toSide":"left"}
+	]
+}

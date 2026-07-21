@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"aae09ba527b4fed4","type":"text","text":"咅 - Bẫu","x":-190,"y":-33,"width":250,"height":60},
+		{"id":"ceeb5545b7065041","x":-500,"y":-320,"width":188,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"1703584910a8a7e5","x":-531,"y":140,"width":219,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"f2bd2ae53d751c6c","x":280,"y":-352,"width":249,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/培 - Bồi.canvas"},
+		{"id":"c44776cf2f392190","x":-65,"y":-440,"width":197,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"9f5f4cde3243dca7","fromNode":"ceeb5545b7065041","fromSide":"right","toNode":"aae09ba527b4fed4","toSide":"left"},
+		{"id":"63f39437c98aecfe","fromNode":"1703584910a8a7e5","fromSide":"right","toNode":"aae09ba527b4fed4","toSide":"left"},
+		{"id":"81d0b696fddeff4f","fromNode":"aae09ba527b4fed4","fromSide":"right","toNode":"f2bd2ae53d751c6c","toSide":"left"},
+		{"id":"b78dd5455ca49bb2","fromNode":"c44776cf2f392190","fromSide":"right","toNode":"f2bd2ae53d751c6c","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9545ab5d561d6f98","x":-129,"y":-14,"width":250,"height":60,"type":"text","text":"表 - Biểu"},
+		{"id":"fdbd6d9cf982c884","x":-520,"y":-160,"width":161,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"9c89dfc8b69d34b8","x":-532,"y":100,"width":173,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"6476619d50f5f91a","fromNode":"fdbd6d9cf982c884","fromSide":"right","toNode":"9545ab5d561d6f98","toSide":"left"},
+		{"id":"f53adaf16458b491","fromNode":"9c89dfc8b69d34b8","fromSide":"right","toNode":"9545ab5d561d6f98","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f6e6abfd986ec81f","x":-122,"y":-35,"width":250,"height":60,"type":"text","text":"廃 - Phế"},
+		{"id":"acd40c3f5dfe2973","x":-500,"y":80,"width":181,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「癶 」/発 - Phát/発 - Phát.canvas"},
+		{"id":"eb2fe87e3503d7aa","x":-499,"y":-220,"width":180,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"3d99e853efb153df","fromNode":"acd40c3f5dfe2973","fromSide":"right","toNode":"f6e6abfd986ec81f","toSide":"left"},
+		{"id":"d7b1701bf4be12c3","fromNode":"eb2fe87e3503d7aa","fromSide":"right","toNode":"f6e6abfd986ec81f","toSide":"left"}
+	]
+}

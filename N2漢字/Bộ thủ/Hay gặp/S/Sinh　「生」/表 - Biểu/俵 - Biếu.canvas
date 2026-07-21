@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c6542051ce409453","x":-154,"y":-68,"width":250,"height":60,"type":"text","text":"俵 - Biếu"},
+		{"id":"16ecca08bc9e63e3","x":-520,"y":-360,"width":183,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/表 - Biểu/表 - Biểu.canvas"},
+		{"id":"5dc59ec3c347409e","x":-520,"y":40,"width":186,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"191203d926764bbc","fromNode":"16ecca08bc9e63e3","fromSide":"right","toNode":"c6542051ce409453","toSide":"left"},
+		{"id":"26d86de1823e8a92","fromNode":"5dc59ec3c347409e","fromSide":"right","toNode":"c6542051ce409453","toSide":"left"}
+	]
+}

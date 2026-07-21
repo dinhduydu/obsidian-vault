@@ -1,14 +1,10 @@
 {
 	"nodes":[
 		{"id":"83e5e936aa30d101","type":"text","text":"Bát　「癶 」","x":-228,"y":-4,"width":250,"height":60},
-		{"id":"3a2b6049870c29d3","type":"text","text":"発 - Phát","x":285,"y":-119,"width":215,"height":60},
-		{"id":"d066c2a600374841","type":"text","text":"xuất phát, phát kiến, phát hiện, phát ngôn","x":578,"y":-142,"width":250,"height":60},
 		{"id":"6432c3cf001b03b1","type":"text","text":"2. Bộ 癶 (Bát) – \"hai chân bước\"\n\nĐây là bộ khác hoàn toàn.\n\nTên: 癶（はつがしら）\nHán Việt: Bát\nÝ nghĩa: hai chân dang ra / bước đi\n\nVí dụ:\n\nKanji\tNghĩa\n登\tleo lên\n発\txuất phát, phát ra\n癸\tcan Quý","x":260,"y":-600,"width":405,"height":402},
-		{"id":"857745bcb1509692","x":306,"y":100,"width":272,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/登 - Đăng/登 - Đăng.canvas"}
+		{"id":"857745bcb1509692","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/登 - Đăng/登 - Đăng.canvas","x":306,"y":100,"width":272,"height":188}
 	],
 	"edges":[
-		{"id":"1e8e6f44e75f243f","fromNode":"83e5e936aa30d101","fromSide":"right","toNode":"3a2b6049870c29d3","toSide":"left"},
-		{"id":"49d3470c9496f52b","fromNode":"3a2b6049870c29d3","fromSide":"right","toNode":"d066c2a600374841","toSide":"left"},
 		{"id":"d7aa62d715f18b00","fromNode":"83e5e936aa30d101","fromSide":"right","toNode":"6432c3cf001b03b1","toSide":"left"},
 		{"id":"e91e0fa90d4690e7","fromNode":"83e5e936aa30d101","fromSide":"right","toNode":"857745bcb1509692","toSide":"left"}
 	]

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"079bee4dbb66613d","type":"text","text":"発 - Phát","x":-217,"y":-55,"width":215,"height":60},
+		{"id":"066660e1a09a32a8","type":"text","text":"xuất phát, phát kiến, phát hiện, phát ngôn","x":-538,"y":-340,"width":250,"height":60},
+		{"id":"ce311c7d6db076c5","x":-679,"y":160,"width":162,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
+		{"id":"7747159b1ac3ffba","x":-641,"y":-86,"width":124,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"93cd6efbcfb0484d","x":-762,"y":-280,"width":164,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「癶 」/Bát　「癶 」.canvas"}
+	],
+	"edges":[
+		{"id":"2a25035e1c36da3d","fromNode":"066660e1a09a32a8","fromSide":"right","toNode":"079bee4dbb66613d","toSide":"left"},
+		{"id":"1f6e0fb16e72a49d","fromNode":"93cd6efbcfb0484d","fromSide":"right","toNode":"079bee4dbb66613d","toSide":"left"},
+		{"id":"00686da5aa366eb2","fromNode":"ce311c7d6db076c5","fromSide":"right","toNode":"079bee4dbb66613d","toSide":"left"},
+		{"id":"a57f60a5e7bb4a40","fromNode":"7747159b1ac3ffba","fromSide":"right","toNode":"079bee4dbb66613d","toSide":"left"}
+	]
+}
