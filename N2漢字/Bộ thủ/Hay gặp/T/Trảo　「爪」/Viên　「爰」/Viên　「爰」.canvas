@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"22b995e0d72a2bb4","type":"text","text":"Viên　「爰」","x":-158,"y":-15,"width":250,"height":60},
+		{"id":"da5bcb95c2411699","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":-500,"y":-240,"width":182,"height":119},
+		{"id":"c7a03b212eef33e7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-542,"y":-50,"width":224,"height":190},
+		{"id":"fa204ed6dd64559c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/友 - Hữu.canvas","x":-474,"y":240,"width":156,"height":179},
+		{"id":"c58482966865da86","x":-800,"y":168,"width":170,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas"},
+		{"id":"799dc4fe51ed8bb5","x":-846,"y":480,"width":216,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"4079bca44cb34f36","fromNode":"da5bcb95c2411699","fromSide":"right","toNode":"22b995e0d72a2bb4","toSide":"left"},
+		{"id":"8a77daced9115638","fromNode":"c7a03b212eef33e7","fromSide":"right","toNode":"22b995e0d72a2bb4","toSide":"left"},
+		{"id":"814295180f856c57","fromNode":"fa204ed6dd64559c","fromSide":"right","toNode":"22b995e0d72a2bb4","toSide":"left"},
+		{"id":"babddbdaad09ed01","fromNode":"c58482966865da86","fromSide":"right","toNode":"fa204ed6dd64559c","toSide":"left"},
+		{"id":"e79f63467c655a5e","fromNode":"799dc4fe51ed8bb5","fromSide":"right","toNode":"fa204ed6dd64559c","toSide":"left"}
+	]
+}

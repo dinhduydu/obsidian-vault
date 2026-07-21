@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8c2539cf58ab62e6","x":-174,"y":-34,"width":250,"height":60,"type":"text","text":"住 - Trụ"},
+		{"id":"576e8f9e0efc2a7e","x":-460,"y":140,"width":170,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/主 - Chủ.canvas"},
+		{"id":"f272e9ec138274d9","x":-414,"y":-154,"width":124,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"4bcb3901d4612725","fromNode":"576e8f9e0efc2a7e","fromSide":"right","toNode":"8c2539cf58ab62e6","toSide":"left"},
+		{"id":"64d3cbeb3102b453","fromNode":"f272e9ec138274d9","fromSide":"right","toNode":"8c2539cf58ab62e6","toSide":"left"}
+	]
+}

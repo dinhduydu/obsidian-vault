@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"555e05808092863f","x":-137,"y":-67,"width":250,"height":60,"type":"text","text":"受 - Thụ"},
+		{"id":"066cebb013c3bf21","x":-420,"y":-220,"width":157,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"dd0e291164c99a94","x":-399,"y":-37,"width":136,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"7923da17052636f2","x":-450,"y":180,"width":187,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"ed637260d66fa9b4","fromNode":"066cebb013c3bf21","fromSide":"right","toNode":"555e05808092863f","toSide":"left"},
+		{"id":"bcbd64a781d9dd6b","fromNode":"dd0e291164c99a94","fromSide":"right","toNode":"555e05808092863f","toSide":"left"},
+		{"id":"a370bbb3fd20979e","fromNode":"7923da17052636f2","fromSide":"right","toNode":"555e05808092863f","toSide":"left"}
+	]
+}

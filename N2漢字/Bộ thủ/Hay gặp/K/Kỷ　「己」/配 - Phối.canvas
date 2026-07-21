@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"de2a27db9969cd20","x":-102,"y":24,"width":250,"height":60,"type":"text","text":"配 - Phối"},
 		{"id":"44cf322cf45ca596","x":-420,"y":-180,"width":160,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"},
-		{"id":"7616038ca085c27d","x":-435,"y":84,"width":175,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dậu　「酉」/Dậu　「酉」.canvas"}
+		{"id":"7616038ca085c27d","x":-435,"y":84,"width":175,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"}
 	],
 	"edges":[
 		{"id":"70f3deca1d734e91","fromNode":"44cf322cf45ca596","fromSide":"right","toNode":"de2a27db9969cd20","toSide":"left"},

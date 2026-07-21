@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a5789aa538fe7a65","x":-150,"y":-31,"width":250,"height":60,"type":"text","text":"賊 - Tặc"},
+		{"id":"8a4454b62aaa906a","x":-400,"y":-200,"width":119,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"bd3ebdfe2fe1c81b","x":-417,"y":-1,"width":136,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"a9766afb78b6b891","x":-449,"y":220,"width":168,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"96f51f5ee07b1242","fromNode":"8a4454b62aaa906a","fromSide":"right","toNode":"a5789aa538fe7a65","toSide":"left"},
+		{"id":"6072a2a41326948c","fromNode":"bd3ebdfe2fe1c81b","fromSide":"right","toNode":"a5789aa538fe7a65","toSide":"left"},
+		{"id":"745ef30842989d5a","fromNode":"a9766afb78b6b891","fromSide":"right","toNode":"a5789aa538fe7a65","toSide":"left"}
+	]
+}

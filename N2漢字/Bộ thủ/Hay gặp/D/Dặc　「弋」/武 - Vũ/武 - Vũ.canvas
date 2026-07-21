@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"caa4101cd3f7c4e5","x":-158,"y":-65,"width":250,"height":60,"type":"text","text":"武 - Vũ"},
+		{"id":"19266f7b7ef30656","x":-460,"y":-280,"width":108,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"7e79e389d5ea5d9a","x":-572,"y":-73,"width":225,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dặc　「弋」/Dặc　「弋」.canvas"},
+		{"id":"83e6f60f4f9b327a","x":-520,"y":140,"width":197,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"}
+	],
+	"edges":[
+		{"id":"50b971a366ead1ae","fromNode":"19266f7b7ef30656","fromSide":"right","toNode":"caa4101cd3f7c4e5","toSide":"left"},
+		{"id":"5d0f8397de92c890","fromNode":"83e6f60f4f9b327a","fromSide":"right","toNode":"caa4101cd3f7c4e5","toSide":"left"},
+		{"id":"71166e05bfed75a5","fromNode":"7e79e389d5ea5d9a","fromSide":"right","toNode":"caa4101cd3f7c4e5","toSide":"left"}
+	]
+}

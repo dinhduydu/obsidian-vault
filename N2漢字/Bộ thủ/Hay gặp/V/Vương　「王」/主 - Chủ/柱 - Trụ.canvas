@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bb54ebde2b28a352","x":-130,"y":-64,"width":250,"height":60,"type":"text","text":"柱 - Trụ"},
+		{"id":"3532226bd160d88c","x":-460,"y":120,"width":183,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/主 - Chủ.canvas"},
+		{"id":"12f2a2a1de04df9b","x":-419,"y":-178,"width":142,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"7a2b27ea04b52532","fromNode":"3532226bd160d88c","fromSide":"right","toNode":"bb54ebde2b28a352","toSide":"left"},
+		{"id":"17fecbb2444df27f","fromNode":"12f2a2a1de04df9b","fromSide":"right","toNode":"bb54ebde2b28a352","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"87d233869a38762d","type":"text","text":"往 - Vãng","x":-154,"y":-31,"width":250,"height":60},
+		{"id":"cbef7b007eac3333","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/主 - Chủ.canvas","x":-480,"y":-240,"width":167,"height":163},
+		{"id":"293aab5b4ad02ef2","x":-469,"y":60,"width":156,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"96fb98640d6ea069","fromNode":"cbef7b007eac3333","fromSide":"right","toNode":"87d233869a38762d","toSide":"left"},
+		{"id":"ca7e556e767ddaeb","fromNode":"293aab5b4ad02ef2","fromSide":"right","toNode":"87d233869a38762d","toSide":"left"}
+	]
+}

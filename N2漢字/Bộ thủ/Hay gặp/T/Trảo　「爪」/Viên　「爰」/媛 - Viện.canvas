@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c22f1bcf1f12ce90","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"媛 - Viện"},
+		{"id":"0b88f28cf8adf335","x":-480,"y":-200,"width":193,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"9caad88d9b8b5eaf","x":-495,"y":60,"width":208,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Viên　「爰」/Viên　「爰」.canvas"}
+	],
+	"edges":[
+		{"id":"f360f4fe5180dace","fromNode":"0b88f28cf8adf335","fromSide":"right","toNode":"c22f1bcf1f12ce90","toSide":"left"},
+		{"id":"9d110b67c795072e","fromNode":"9caad88d9b8b5eaf","fromSide":"right","toNode":"c22f1bcf1f12ce90","toSide":"left"}
+	]
+}

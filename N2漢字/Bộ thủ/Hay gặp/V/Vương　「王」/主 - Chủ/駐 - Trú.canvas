@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eeccd4719a17fe5c","x":-133,"y":-28,"width":250,"height":60,"type":"text","text":"駐 - Trú"},
+		{"id":"19d221a2e0252455","x":-460,"y":100,"width":190,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/主 - Chủ.canvas"},
+		{"id":"3ed2e2d7acf95927","x":-389,"y":-200,"width":119,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"1d18b3993d429f19","fromNode":"19d221a2e0252455","fromSide":"right","toNode":"eeccd4719a17fe5c","toSide":"left"},
+		{"id":"1608916d7dcca984","fromNode":"3ed2e2d7acf95927","fromSide":"right","toNode":"eeccd4719a17fe5c","toSide":"left"}
+	]
+}

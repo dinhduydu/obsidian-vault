@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"59f27715c0147af6","x":-76,"y":-41,"width":250,"height":60,"type":"text","text":"試 - Thí"},
+		{"id":"bd370241493db2b3","x":-380,"y":-200,"width":189,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dặc　「弋」/式 - Thức/式 - Thức.canvas"},
+		{"id":"ce41098f8facde2b","x":-393,"y":40,"width":202,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"b552a0bcc64ac667","fromNode":"bd370241493db2b3","fromSide":"right","toNode":"59f27715c0147af6","toSide":"left"},
+		{"id":"56d9454e6125acfd","fromNode":"ce41098f8facde2b","fromSide":"right","toNode":"59f27715c0147af6","toSide":"left"}
+	]
+}

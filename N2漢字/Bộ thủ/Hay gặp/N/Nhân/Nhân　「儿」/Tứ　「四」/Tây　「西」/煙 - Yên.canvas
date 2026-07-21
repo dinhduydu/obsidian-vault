@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"5acb87d66181c234","x":-125,"y":-27,"width":250,"height":60,"type":"text","text":"煙 - Yên"},
-		{"id":"0253299fc8930093","x":-500,"y":-75,"width":165,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tây　「西」/Tây　「西」.canvas"},
+		{"id":"0253299fc8930093","x":-500,"y":-75,"width":165,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Tây　「西」.canvas"},
 		{"id":"9fe3b2963e680b22","x":-503,"y":180,"width":168,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
 		{"id":"7fd6332080255d37","x":-740,"y":-70,"width":145,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
 	],

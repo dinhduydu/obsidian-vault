@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bd144a72a1541413","x":-176,"y":-5,"width":250,"height":60,"type":"text","text":"注 - Chú"},
+		{"id":"810b00eca2608ada","x":-460,"y":140,"width":110,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/主 - Chủ.canvas"},
+		{"id":"6a3336f5a199fe47","x":-531,"y":-144,"width":181,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"0b5d7360c817c8c3","fromNode":"810b00eca2608ada","fromSide":"right","toNode":"bd144a72a1541413","toSide":"left"},
+		{"id":"e202ef3af2e584f8","fromNode":"6a3336f5a199fe47","fromSide":"right","toNode":"bd144a72a1541413","toSide":"left"}
+	]
+}

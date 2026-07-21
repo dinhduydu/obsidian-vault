@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"79ff09959ee1797e","x":-135,"y":-42,"width":250,"height":60,"type":"text","text":"Tứ　「四」"},
+		{"id":"57893b6e6763bd93","x":-440,"y":-138,"width":191,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"0c9b5fc9d78e7b9e","x":-412,"y":80,"width":163,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"a0b7b956b8092d75","fromNode":"57893b6e6763bd93","fromSide":"right","toNode":"79ff09959ee1797e","toSide":"left"},
+		{"id":"95b051f7ba32097a","fromNode":"0c9b5fc9d78e7b9e","fromSide":"right","toNode":"79ff09959ee1797e","toSide":"left"}
+	]
+}

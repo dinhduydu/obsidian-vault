@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"40d321e5a2d77648","x":-120,"y":-36,"width":250,"height":60,"type":"text","text":"暖 - Noãn"},
+		{"id":"8d6779e361c660df","x":-380,"y":-200,"width":125,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Viên　「爰」/Viên　「爰」.canvas"},
+		{"id":"0b7e9a263af45e93","x":-423,"y":24,"width":168,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"79e2d546db3f487c","fromNode":"8d6779e361c660df","fromSide":"right","toNode":"40d321e5a2d77648","toSide":"left"},
+		{"id":"69f6a916d6758def","fromNode":"0b7e9a263af45e93","fromSide":"right","toNode":"40d321e5a2d77648","toSide":"left"}
+	]
+}

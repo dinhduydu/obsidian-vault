@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c388555c747b6bae","x":-106,"y":-67,"width":250,"height":60,"type":"text","text":"愛 - Ái"},
+		{"id":"378e865fdae85a4a","x":-440,"y":-318,"width":183,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"a04054e882453dde","x":-431,"y":-511,"width":174,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"99447851fbb37893","x":-411,"y":-111,"width":160,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"91dd04a7134f2e3f","x":-486,"y":140,"width":235,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"09d089e8d1a2f5b5","fromNode":"a04054e882453dde","fromSide":"right","toNode":"c388555c747b6bae","toSide":"left"},
+		{"id":"4b175bba6610446c","fromNode":"378e865fdae85a4a","fromSide":"right","toNode":"c388555c747b6bae","toSide":"left"},
+		{"id":"d22d45451155e57e","fromNode":"99447851fbb37893","fromSide":"right","toNode":"c388555c747b6bae","toSide":"left"},
+		{"id":"dc48084cad615de0","fromNode":"91dd04a7134f2e3f","fromSide":"right","toNode":"c388555c747b6bae","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"eab4174745ada9a8","type":"text","text":"主 - Chủ","x":-68,"y":-23,"width":250,"height":60},
+		{"id":"b08b456a03676861","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas","x":-300,"y":-180,"width":95,"height":96},
+		{"id":"ceac8553ae8ebb73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas","x":-387,"y":60,"width":174,"height":162},
+		{"id":"6669df6c23442526","x":-580,"y":-124,"width":114,"height":131,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 7/主 - Chủ.canvas"}
+	],
+	"edges":[
+		{"id":"61be8187023d0c6c","fromNode":"b08b456a03676861","fromSide":"right","toNode":"eab4174745ada9a8","toSide":"left"},
+		{"id":"e96ee47b8784a752","fromNode":"ceac8553ae8ebb73","fromSide":"right","toNode":"eab4174745ada9a8","toSide":"left"},
+		{"id":"c3a95ee9f3d729d3","fromNode":"6669df6c23442526","fromSide":"right","toNode":"eab4174745ada9a8","toSide":"left"}
+	]
+}

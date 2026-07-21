@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9a5c524d9a5bca72","x":-135,"y":-36,"width":250,"height":60,"type":"text","text":"授 - Thụ"},
+		{"id":"4f86720a8a0e4cde","x":-420,"y":-240,"width":145,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/受 - Thụ/受 - Thụ.canvas"},
+		{"id":"8611fed42bfb8f2e","x":-422,"y":140,"width":150,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"}
+	],
+	"edges":[
+		{"id":"fbd98054abc7ea55","fromNode":"4f86720a8a0e4cde","fromSide":"right","toNode":"9a5c524d9a5bca72","toSide":"left"},
+		{"id":"3c67bd114a55faf3","fromNode":"8611fed42bfb8f2e","fromSide":"right","toNode":"9a5c524d9a5bca72","toSide":"left"}
+	]
+}

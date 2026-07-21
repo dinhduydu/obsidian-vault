@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f8a83860c1fe7139","x":-127,"y":-28,"width":250,"height":60,"type":"text","text":"酒 - Tửu"},
+		{"id":"c6bc3502f24589c3","x":-380,"y":120,"width":165,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"},
+		{"id":"aaed99a76a258f05","x":-346,"y":-180,"width":131,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"ec15bb7d02daa021","fromNode":"c6bc3502f24589c3","fromSide":"right","toNode":"f8a83860c1fe7139","toSide":"left"},
+		{"id":"c13e975d9d2934ca","fromNode":"aaed99a76a258f05","fromSide":"right","toNode":"f8a83860c1fe7139","toSide":"left"}
+	]
+}

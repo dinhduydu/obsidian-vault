@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"0cb3c36d0a985d40","type":"text","text":"友 - Hữu","x":-120,"y":0,"width":250,"height":60},
 		{"id":"aa0a08735e5b74f1","type":"text","text":"Hai bàn tay nắm lấy nhau → bạn bè.","x":-680,"y":60,"width":250,"height":60},
-		{"id":"f7d4972d531842a8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":-580,"y":-180,"width":131,"height":98}
+		{"id":"f7d4972d531842a8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thủ　「𠂇」.canvas","x":-580,"y":-180,"width":131,"height":98},
+		{"id":"568cf149e2d88091","x":-514,"y":200,"width":255,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
 	],
 	"edges":[
 		{"id":"d1c31a3bd35cb9f6","fromNode":"f7d4972d531842a8","fromSide":"right","toNode":"0cb3c36d0a985d40","toSide":"left"},
-		{"id":"5cbe2cae998ac0ff","fromNode":"aa0a08735e5b74f1","fromSide":"right","toNode":"0cb3c36d0a985d40","toSide":"left"}
+		{"id":"5cbe2cae998ac0ff","fromNode":"aa0a08735e5b74f1","fromSide":"right","toNode":"0cb3c36d0a985d40","toSide":"left"},
+		{"id":"d79a6ebcbcae6100","fromNode":"568cf149e2d88091","fromSide":"right","toNode":"0cb3c36d0a985d40","toSide":"left"}
 	]
 }

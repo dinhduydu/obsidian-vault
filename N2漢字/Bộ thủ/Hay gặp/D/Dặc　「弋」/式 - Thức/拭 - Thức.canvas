@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f376d7a11a83319f","x":-98,"y":-58,"width":250,"height":60,"type":"text","text":"拭 - Thức"},
+		{"id":"fa29e8d5ffe2bc4b","x":-400,"y":-260,"width":155,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dặc　「弋」/式 - Thức/式 - Thức.canvas"},
+		{"id":"2e6f902f99d814c5","x":-365,"y":100,"width":120,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手 (扌) 」.canvas"},
+		{"id":"93b6fe8cb95334ee","x":-700,"y":-58,"width":250,"height":60,"type":"text","text":"Lau chùi"}
+	],
+	"edges":[
+		{"id":"173cebb8fd055f28","fromNode":"fa29e8d5ffe2bc4b","fromSide":"right","toNode":"f376d7a11a83319f","toSide":"left"},
+		{"id":"abf47b4e11bc0356","fromNode":"2e6f902f99d814c5","fromSide":"right","toNode":"f376d7a11a83319f","toSide":"left"},
+		{"id":"efdfb57693ad2961","fromNode":"93b6fe8cb95334ee","fromSide":"right","toNode":"f376d7a11a83319f","toSide":"left"}
+	]
+}

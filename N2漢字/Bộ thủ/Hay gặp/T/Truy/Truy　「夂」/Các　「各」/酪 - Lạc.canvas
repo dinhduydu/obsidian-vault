@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"967dd881eabff29f","type":"text","text":"酪 - Lạc","x":-68,"y":-50,"width":250,"height":60},
 		{"id":"cc79022d91cf85a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas","x":-380,"y":40,"width":173,"height":182},
-		{"id":"a7a6a09d99206824","x":-660,"y":-130,"width":208,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dậu　「酉」/Dậu　「酉」.canvas"}
+		{"id":"a7a6a09d99206824","x":-660,"y":-130,"width":208,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"}
 	],
 	"edges":[
 		{"id":"3c9a9860c95e7d10","fromNode":"cc79022d91cf85a5","fromSide":"right","toNode":"967dd881eabff29f","toSide":"left"},

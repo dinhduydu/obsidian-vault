@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"64a540031a6d5ba0","x":-54,"y":-32,"width":250,"height":60,"type":"text","text":"緩 - Hoãn"},
+		{"id":"7782599ed274a19f","x":-400,"y":-260,"width":183,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Viên　「爰」/Viên　「爰」.canvas"},
+		{"id":"f75e6320a9a94f72","x":-386,"y":-2,"width":169,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"d18d1ec4705c017c","fromNode":"7782599ed274a19f","fromSide":"right","toNode":"64a540031a6d5ba0","toSide":"left"},
+		{"id":"746d6db1359f5693","fromNode":"f75e6320a9a94f72","fromSide":"right","toNode":"64a540031a6d5ba0","toSide":"left"}
+	]
+}
