@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"371f6756bb31601d","x":-115,"y":-37,"width":250,"height":60,"type":"text","text":"不 - Bất"},
+		{"id":"4ad10cd6997e5969","x":-440,"y":-76,"width":132,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"4edb357841c9898a","x":-440,"y":180,"width":132,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"},
+		{"id":"fbd4e57356b07104","x":-489,"y":-360,"width":181,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"f6494a043fecff56","fromNode":"4ad10cd6997e5969","fromSide":"right","toNode":"371f6756bb31601d","toSide":"left"},
+		{"id":"3482fcc9b409fb1b","fromNode":"fbd4e57356b07104","fromSide":"right","toNode":"371f6756bb31601d","toSide":"left"},
+		{"id":"0b92a40a2e119531","fromNode":"4edb357841c9898a","fromSide":"right","toNode":"371f6756bb31601d","toSide":"left"}
+	]
+}

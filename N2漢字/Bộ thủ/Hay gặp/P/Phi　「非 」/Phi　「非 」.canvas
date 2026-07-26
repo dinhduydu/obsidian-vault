@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"ca66a109421a042e","x":-111,"y":-55,"width":250,"height":60,"type":"text","text":"Phi　「非 」"}
+		{"id":"ca66a109421a042e","type":"text","text":"Phi　「非 」","x":-111,"y":-55,"width":250,"height":60},
+		{"id":"fe907c8934c90d96","x":300,"y":-340,"width":185,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/悲 - Bi.canvas"},
+		{"id":"ac4161ab96aebb7c","x":-21,"y":-514,"width":160,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c4e7096881e0c792","fromNode":"ca66a109421a042e","fromSide":"right","toNode":"fe907c8934c90d96","toSide":"left"},
+		{"id":"db2eedfa092cb7d1","fromNode":"ac4161ab96aebb7c","fromSide":"right","toNode":"fe907c8934c90d96","toSide":"left"}
+	]
 }

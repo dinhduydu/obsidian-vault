@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c06864234fd79639","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"背 - Bối"},
+		{"id":"e8a13c3b0da50d14","x":-360,"y":-200,"width":122,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bắc　「北」/Bắc　「北」.canvas"},
+		{"id":"deb0c6511b5719f6","x":-410,"y":80,"width":172,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"465b5f302b27a9cb","fromNode":"e8a13c3b0da50d14","fromSide":"right","toNode":"c06864234fd79639","toSide":"left"},
+		{"id":"e48a440d3a7fea4b","fromNode":"deb0c6511b5719f6","fromSide":"right","toNode":"c06864234fd79639","toSide":"left"}
+	]
+}

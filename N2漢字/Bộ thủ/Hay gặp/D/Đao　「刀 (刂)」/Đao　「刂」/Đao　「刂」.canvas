@@ -17,8 +17,10 @@
 		{"id":"52a74c958f4b9ac5","type":"text","text":"Đao　「刂」","x":-120,"y":1600,"width":250,"height":60},
 		{"id":"51cbf69dc3677101","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/削 - Tước.canvas","x":420,"y":1360,"width":171,"height":149},
 		{"id":"39531c470d5ecd73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas","x":-42,"y":1200,"width":172,"height":136},
-		{"id":"50e6e76743e2b4d1","x":420,"y":1840,"width":236,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas"},
-		{"id":"31f74533fa581866","x":20,"y":2100,"width":187,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+		{"id":"50e6e76743e2b4d1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas","x":420,"y":1840,"width":236,"height":165},
+		{"id":"31f74533fa581866","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":20,"y":2100,"width":187,"height":172},
+		{"id":"41515a971f6aa2be","x":441,"y":-720,"width":170,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas"},
+		{"id":"64fedafde695d4be","x":640,"y":-519,"width":168,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/剖 - Phẫu.canvas"}
 	],
 	"edges":[
 		{"id":"64e379fdb29d621c","fromNode":"9fd8f3ff0a4e9096","fromSide":"right","toNode":"b7a6a8eacdf7bcac","toSide":"left"},
@@ -37,6 +39,8 @@
 		{"id":"adcd2b7d2d10ef89","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"51cbf69dc3677101","toSide":"left"},
 		{"id":"bd72397790e71d08","fromNode":"39531c470d5ecd73","fromSide":"right","toNode":"51cbf69dc3677101","toSide":"left"},
 		{"id":"bf33d3d5f52abacd","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"},
-		{"id":"716165783eace522","fromNode":"31f74533fa581866","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"}
+		{"id":"716165783eace522","fromNode":"31f74533fa581866","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"},
+		{"id":"f933fd3603093a22","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"64fedafde695d4be","toSide":"left"},
+		{"id":"76e3c67208e8ff28","fromNode":"41515a971f6aa2be","fromSide":"right","toNode":"64fedafde695d4be","toSide":"left"}
 	]
 }

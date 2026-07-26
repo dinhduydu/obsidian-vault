@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a74ccdc9bcf06b64","type":"text","text":"扉 - Phi","x":-141,"y":-8,"width":250,"height":60},
+		{"id":"2ff6b347217c324e","x":-420,"y":140,"width":120,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/Phi　「非 」.canvas"},
+		{"id":"99a5998b695cd22a","x":-501,"y":-240,"width":201,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
+	],
+	"edges":[
+		{"id":"4a86aca332d34aac","fromNode":"2ff6b347217c324e","fromSide":"right","toNode":"a74ccdc9bcf06b64","toSide":"left"},
+		{"id":"cca3edbc87040707","fromNode":"99a5998b695cd22a","fromSide":"right","toNode":"a74ccdc9bcf06b64","toSide":"left"}
+	]
+}

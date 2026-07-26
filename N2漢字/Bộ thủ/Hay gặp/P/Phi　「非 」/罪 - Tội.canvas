@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1e40b99cdb685325","x":-99,"y":-77,"width":250,"height":60,"type":"text","text":"罪 - Tội"},
+		{"id":"5d0381b6c1fa0f2b","x":-420,"y":120,"width":148,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/Phi　「非 」.canvas"},
+		{"id":"08d2407f99f5b13c","x":-406,"y":-260,"width":134,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"}
+	],
+	"edges":[
+		{"id":"c83a4779e176d9fd","fromNode":"5d0381b6c1fa0f2b","fromSide":"right","toNode":"1e40b99cdb685325","toSide":"left"},
+		{"id":"620fb97f8dd6db98","fromNode":"08d2407f99f5b13c","fromSide":"right","toNode":"1e40b99cdb685325","toSide":"left"}
+	]
+}

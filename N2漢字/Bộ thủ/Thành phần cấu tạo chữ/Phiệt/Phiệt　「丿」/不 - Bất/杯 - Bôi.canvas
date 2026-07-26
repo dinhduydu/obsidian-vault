@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"31d2ae8f8f8b76a4","type":"text","text":"杯 - Bôi","x":-129,"y":-54,"width":250,"height":60},
+		{"id":"a21b023f31e4b49a","type":"file","file":"Chữa đề/Learning_Profile/Adverb/精一杯.md","x":300,"y":-240,"width":146,"height":96},
+		{"id":"08540a9dcdf589e3","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/一杯やる.md","x":300,"y":80,"width":194,"height":135},
+		{"id":"2738a3c0feb28ddd","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/不 - Bất/不 - Bất.canvas","x":-440,"y":120,"width":117,"height":131},
+		{"id":"d1c1e57e3eda807d","x":-471,"y":-306,"width":148,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"a9350ef4723ffac0","fromNode":"31d2ae8f8f8b76a4","fromSide":"right","toNode":"a21b023f31e4b49a","toSide":"left"},
+		{"id":"84898da59b115970","fromNode":"31d2ae8f8f8b76a4","fromSide":"right","toNode":"08540a9dcdf589e3","toSide":"left"},
+		{"id":"ce83c97d6d147dc7","fromNode":"2738a3c0feb28ddd","fromSide":"right","toNode":"31d2ae8f8f8b76a4","toSide":"left"},
+		{"id":"f0257127d11b3a3a","fromNode":"d1c1e57e3eda807d","fromSide":"right","toNode":"31d2ae8f8f8b76a4","toSide":"left"}
+	]
+}

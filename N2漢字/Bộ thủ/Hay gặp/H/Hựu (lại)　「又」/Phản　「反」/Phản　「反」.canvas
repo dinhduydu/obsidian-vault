@@ -9,10 +9,13 @@
 		{"id":"0c623cebe2125eba","type":"text","text":"Phản　「反」","x":-900,"y":420,"width":250,"height":60},
 		{"id":"18694713fc280614","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/返 - Phản.canvas","x":-518,"y":1828,"width":240,"height":144},
 		{"id":"192a5d2115c9106a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/阪 - Phản.canvas","x":476,"y":1360,"width":246,"height":164},
-		{"id":"f65c8beb0845eea6","type":"text","text":"Phản　「反」","x":16,"y":1412,"width":250,"height":60},
 		{"id":"647675e3d73f60d0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/坂 - Phản.canvas","x":476,"y":1060,"width":199,"height":141},
-		{"id":"5cd5e45b1b5e2f67","x":-1340,"y":160,"width":226,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
-		{"id":"ef68a2dba2160c2c","x":-1367,"y":608,"width":253,"height":234,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+		{"id":"5cd5e45b1b5e2f67","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-1340,"y":160,"width":226,"height":146},
+		{"id":"ef68a2dba2160c2c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas","x":-1367,"y":608,"width":253,"height":234},
+		{"id":"f65c8beb0845eea6","type":"text","text":"Phản　「反」","x":16,"y":1412,"width":250,"height":60},
+		{"id":"ea5cdaf9d5c3617c","type":"text","text":"Phản　「反」","x":-938,"y":2380,"width":250,"height":60},
+		{"id":"cd078bc554ecf90b","x":-518,"y":2120,"width":278,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/報 - Báo.canvas"},
+		{"id":"72b46a3119168470","x":-885,"y":2000,"width":197,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"}
 	],
 	"edges":[
 		{"id":"a2527c9f4afe0e0e","fromNode":"ccbbcdb5b26bf6f2","fromSide":"right","toNode":"888285d44256f120","toSide":"left"},
@@ -24,6 +27,8 @@
 		{"id":"6e8f24ec39492092","fromNode":"f65c8beb0845eea6","fromSide":"right","toNode":"192a5d2115c9106a","toSide":"left"},
 		{"id":"f44b8fc570ec70ba","fromNode":"f65c8beb0845eea6","fromSide":"right","toNode":"647675e3d73f60d0","toSide":"left"},
 		{"id":"bf0e98fd1e547d36","fromNode":"5cd5e45b1b5e2f67","fromSide":"right","toNode":"0c623cebe2125eba","toSide":"left"},
-		{"id":"c16614b327504283","fromNode":"ef68a2dba2160c2c","fromSide":"right","toNode":"0c623cebe2125eba","toSide":"left"}
+		{"id":"c16614b327504283","fromNode":"ef68a2dba2160c2c","fromSide":"right","toNode":"0c623cebe2125eba","toSide":"left"},
+		{"id":"d99add305a977ed3","fromNode":"ea5cdaf9d5c3617c","fromSide":"right","toNode":"cd078bc554ecf90b","toSide":"left"},
+		{"id":"240afa8c38ad5fe6","fromNode":"72b46a3119168470","fromSide":"right","toNode":"cd078bc554ecf90b","toSide":"left"}
 	]
 }

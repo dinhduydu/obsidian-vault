@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"945d18e243fb200e","type":"text","text":"剖 - Phẫu","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"8e8cee1e1bc2ea0e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas","x":-400,"y":-280,"width":119,"height":139},
+		{"id":"1ac5009600463bf1","x":-432,"y":160,"width":151,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"862d1dce92b8f95a","fromNode":"8e8cee1e1bc2ea0e","fromSide":"right","toNode":"945d18e243fb200e","toSide":"left"},
+		{"id":"c9be6f51cc80b622","fromNode":"1ac5009600463bf1","fromSide":"right","toNode":"945d18e243fb200e","toSide":"left"}
+	]
+}

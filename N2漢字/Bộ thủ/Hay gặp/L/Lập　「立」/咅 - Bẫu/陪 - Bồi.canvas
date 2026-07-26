@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9326555472116a82","x":-43,"y":-64,"width":250,"height":60,"type":"text","text":"陪 - Bồi"},
+		{"id":"533b5e3f7e6b5333","x":-340,"y":-260,"width":133,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"},
+		{"id":"887860b0d3c48a92","x":-336,"y":40,"width":129,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas"}
+	],
+	"edges":[
+		{"id":"5eededad7fc17de5","fromNode":"533b5e3f7e6b5333","fromSide":"right","toNode":"9326555472116a82","toSide":"left"},
+		{"id":"65f2d2efe29396ce","fromNode":"887860b0d3c48a92","fromSide":"right","toNode":"9326555472116a82","toSide":"left"}
+	]
+}

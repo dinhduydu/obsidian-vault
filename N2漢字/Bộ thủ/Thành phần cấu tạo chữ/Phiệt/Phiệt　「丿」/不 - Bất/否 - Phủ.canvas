@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0eaf0115c9e4499e","x":-100,"y":-41,"width":250,"height":60,"type":"text","text":"否 - Phủ"},
+		{"id":"d82b66a344d25fe0","x":-400,"y":-320,"width":163,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/不 - Bất/不 - Bất.canvas"},
+		{"id":"a3f6e8c84e0f9a99","x":-400,"y":120,"width":163,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"622ed1fd6aff6dee","fromNode":"d82b66a344d25fe0","fromSide":"right","toNode":"0eaf0115c9e4499e","toSide":"left"},
+		{"id":"184ebf3febb9dd1d","fromNode":"a3f6e8c84e0f9a99","fromSide":"right","toNode":"0eaf0115c9e4499e","toSide":"left"}
+	]
+}

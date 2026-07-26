@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c34f749afbda090b","x":-197,"y":-49,"width":250,"height":60,"type":"text","text":"報 - Báo"},
+		{"id":"22c812de697dee7e","x":-520,"y":-280,"width":131,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"},
+		{"id":"1d34480b03eabf85","x":-559,"y":80,"width":170,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
+	],
+	"edges":[
+		{"id":"2c8f149cd6f1692a","fromNode":"22c812de697dee7e","fromSide":"right","toNode":"c34f749afbda090b","toSide":"left"},
+		{"id":"4851f927cf4d2eaf","fromNode":"1d34480b03eabf85","fromSide":"right","toNode":"c34f749afbda090b","toSide":"left"}
+	]
+}

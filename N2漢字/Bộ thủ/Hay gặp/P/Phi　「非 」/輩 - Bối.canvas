@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"208eae26cfa7a215","x":-103,"y":-15,"width":250,"height":60,"type":"text","text":"輩 - Bối"},
+		{"id":"794e01dc92709e72","x":-340,"y":-200,"width":118,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/Phi　「非 」.canvas"},
+		{"id":"6cf70cb7d1cca826","x":-374,"y":140,"width":152,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
+	],
+	"edges":[
+		{"id":"21c0eaff61f88dcb","fromNode":"794e01dc92709e72","fromSide":"right","toNode":"208eae26cfa7a215","toSide":"left"},
+		{"id":"aa1e1fd4560a5d3d","fromNode":"6cf70cb7d1cca826","fromSide":"right","toNode":"208eae26cfa7a215","toSide":"left"}
+	]
+}

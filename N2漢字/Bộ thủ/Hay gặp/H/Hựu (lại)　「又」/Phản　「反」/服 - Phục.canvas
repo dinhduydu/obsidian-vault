@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e6021f1a9a5a4d95","x":-116,"y":-37,"width":250,"height":60,"type":"text","text":"服 - Phục"},
+		{"id":"a5031e9211874ba7","x":-400,"y":120,"width":157,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"},
+		{"id":"195dcdaf533933c5","x":-369,"y":-200,"width":126,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"aa0819ff29b1e3c5","fromNode":"a5031e9211874ba7","fromSide":"right","toNode":"e6021f1a9a5a4d95","toSide":"left"},
+		{"id":"bccb98e774324d21","fromNode":"195dcdaf533933c5","fromSide":"right","toNode":"e6021f1a9a5a4d95","toSide":"left"}
+	]
+}

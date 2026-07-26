@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"09edcaecd9eb339a","x":-128,"y":-43,"width":250,"height":60,"type":"text","text":"排 - Bài"},
+		{"id":"6c4c5907921d89e0","x":-340,"y":100,"width":156,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/Phi　「非 」.canvas"},
+		{"id":"e5f87399fa259877","x":-380,"y":-209,"width":150,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"64bc597b294e2a2c","fromNode":"6c4c5907921d89e0","fromSide":"right","toNode":"09edcaecd9eb339a","toSide":"left"},
+		{"id":"7bd5461dda3ef52d","fromNode":"e5f87399fa259877","fromSide":"right","toNode":"09edcaecd9eb339a","toSide":"left"}
+	]
+}
