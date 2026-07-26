@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"738fac233dce7948","type":"text","text":"覆 - Phúc","x":-130,"y":-19,"width":250,"height":60},
+		{"id":"4d59051c0773f5f4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/復 - Phục/復 - Phục.canvas","x":-460,"y":160,"width":198,"height":172},
+		{"id":"772298bd0bdf2c12","x":-480,"y":-240,"width":219,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây.canvas"}
+	],
+	"edges":[
+		{"id":"95041e6720d2e1f7","fromNode":"4d59051c0773f5f4","fromSide":"right","toNode":"738fac233dce7948","toSide":"left"},
+		{"id":"425874fb10fa7fb0","fromNode":"772298bd0bdf2c12","fromSide":"right","toNode":"738fac233dce7948","toSide":"left"}
+	]
+}

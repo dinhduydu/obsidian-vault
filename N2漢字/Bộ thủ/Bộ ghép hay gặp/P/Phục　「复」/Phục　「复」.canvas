@@ -2,16 +2,20 @@
 	"nodes":[
 		{"id":"ef849261f0343f78","type":"text","text":"Phục　「复」","x":-197,"y":-9,"width":250,"height":89},
 		{"id":"bbd1c4214e75763d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas","x":120,"y":-360,"width":144,"height":94},
-		{"id":"04c921c663807562","type":"text","text":"復 - Phục","x":400,"y":160,"width":250,"height":60},
 		{"id":"d277115bf7ee4308","type":"text","text":"回復　「かいふく」：hồi phục","x":841,"y":160,"width":250,"height":60},
 		{"id":"fb5de92192c4a2a2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":80,"y":280,"width":148,"height":138},
-		{"id":"318309ae4a3d3f9b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/複 - Phức.canvas","x":380,"y":-180,"width":241,"height":186}
+		{"id":"318309ae4a3d3f9b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/複 - Phức.canvas","x":380,"y":-180,"width":241,"height":186},
+		{"id":"8e008867ef57c4dc","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/復 - Phục/復 - Phục.canvas","x":416,"y":108,"width":205,"height":165},
+		{"id":"62c0761b664ca382","x":416,"y":400,"width":266,"height":241,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/腹 - Phúc.canvas"},
+		{"id":"dda2b02865690522","x":7,"y":700,"width":221,"height":246,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
 	],
 	"edges":[
 		{"id":"eb44c690a0ffbf89","fromNode":"ef849261f0343f78","fromSide":"right","toNode":"318309ae4a3d3f9b","toSide":"left"},
 		{"id":"9da3573f0be3b09e","fromNode":"bbd1c4214e75763d","fromSide":"right","toNode":"318309ae4a3d3f9b","toSide":"left"},
-		{"id":"2510029d019ab0e0","fromNode":"ef849261f0343f78","fromSide":"right","toNode":"04c921c663807562","toSide":"left"},
-		{"id":"a96bd57b00f9e2bb","fromNode":"fb5de92192c4a2a2","fromSide":"right","toNode":"04c921c663807562","toSide":"left"},
-		{"id":"a7e5295d917a763d","fromNode":"04c921c663807562","fromSide":"right","toNode":"d277115bf7ee4308","toSide":"left"}
+		{"id":"2510029d019ab0e0","fromNode":"ef849261f0343f78","fromSide":"right","toNode":"8e008867ef57c4dc","toSide":"left"},
+		{"id":"a96bd57b00f9e2bb","fromNode":"fb5de92192c4a2a2","fromSide":"right","toNode":"8e008867ef57c4dc","toSide":"left"},
+		{"id":"a7e5295d917a763d","fromNode":"8e008867ef57c4dc","fromSide":"right","toNode":"d277115bf7ee4308","toSide":"left"},
+		{"id":"485a92ffdf37b7ef","fromNode":"ef849261f0343f78","fromSide":"right","toNode":"62c0761b664ca382","toSide":"left"},
+		{"id":"ad8130a59bc2c77d","fromNode":"dda2b02865690522","fromSide":"right","toNode":"62c0761b664ca382","toSide":"left"}
 	]
 }

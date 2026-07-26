@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"084cf732fc96c3a2","type":"text","text":"副 - Phó","x":-139,"y":-53,"width":250,"height":60},
+		{"id":"d8717a60df0d04df","x":-600,"y":120,"width":278,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/Bức　「畐」.canvas"},
+		{"id":"da6e3007c746da25","x":-578,"y":-250,"width":256,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"5004a62b79132eac","fromNode":"d8717a60df0d04df","fromSide":"right","toNode":"084cf732fc96c3a2","toSide":"left"},
+		{"id":"7948e89579599c2b","fromNode":"da6e3007c746da25","fromSide":"right","toNode":"084cf732fc96c3a2","toSide":"left"}
+	]
+}

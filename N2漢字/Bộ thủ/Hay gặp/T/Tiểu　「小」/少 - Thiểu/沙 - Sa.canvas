@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"849be4fc1885e68d","x":-123,"y":-40,"width":250,"height":60,"type":"text","text":"沙 - Sa"},
+		{"id":"c456b3669907a666","x":-400,"y":-260,"width":166,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/少 - Thiểu/少 - Thiểu.canvas"},
+		{"id":"0211cd1a3aaf2a56","x":-480,"y":220,"width":221,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"f5e965702d8e48f0","fromNode":"c456b3669907a666","fromSide":"right","toNode":"849be4fc1885e68d","toSide":"left"},
+		{"id":"bcce27a0907e70c9","fromNode":"0211cd1a3aaf2a56","fromSide":"right","toNode":"849be4fc1885e68d","toSide":"left"}
+	]
+}

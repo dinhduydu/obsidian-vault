@@ -8,7 +8,7 @@
 		{"id":"6f96d07ba427baca","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/刑 - Hình.canvas","x":480,"y":-1600,"width":200,"height":166},
 		{"id":"0884d48b130380b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/到 - Đáo.canvas","x":480,"y":-980,"width":131,"height":131},
 		{"id":"bc2de96a3ae18bce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chí　「至」/到 - Đáo/倒 - Đảo.canvas","x":784,"y":-1132,"width":229,"height":160},
-		{"id":"1677f24bfea6703f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Biệt　「別」.canvas","x":1240,"y":-94,"width":201,"height":144},
+		{"id":"1677f24bfea6703f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Biệt　「別」/Biệt　「別」.canvas","x":1240,"y":-94,"width":201,"height":144},
 		{"id":"eac8834a42099afb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":888,"y":-500,"width":185,"height":127},
 		{"id":"b9cec61d8da1f3e1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas","x":872,"y":-280,"width":201,"height":157},
 		{"id":"15e7a3afbaa3c09a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/乗 - Thừa/剰 - Thặng.canvas","x":1071,"y":201,"width":270,"height":239},
@@ -19,8 +19,11 @@
 		{"id":"39531c470d5ecd73","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/肖 - Tiêu/肖 - Tiêu.canvas","x":-42,"y":1200,"width":172,"height":136},
 		{"id":"50e6e76743e2b4d1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas","x":420,"y":1840,"width":236,"height":165},
 		{"id":"31f74533fa581866","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":20,"y":2100,"width":187,"height":172},
-		{"id":"41515a971f6aa2be","x":441,"y":-720,"width":170,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas"},
-		{"id":"64fedafde695d4be","x":640,"y":-519,"width":168,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/剖 - Phẫu.canvas"}
+		{"id":"41515a971f6aa2be","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/咅 - Bẫu.canvas","x":441,"y":-720,"width":170,"height":129},
+		{"id":"64fedafde695d4be","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/咅 - Bẫu/剖 - Phẫu.canvas","x":640,"y":-519,"width":168,"height":146},
+		{"id":"5f595415be772eb5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/列 - Liệt/列 - Liệt.canvas","x":1000,"y":1543,"width":206,"height":174},
+		{"id":"2ee47fe6ab3e203a","x":1000,"y":1923,"width":286,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/副 - Phó.canvas"},
+		{"id":"ccc95c65065e4e26","x":538,"y":2240,"width":259,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/Bức　「畐」.canvas"}
 	],
 	"edges":[
 		{"id":"64e379fdb29d621c","fromNode":"9fd8f3ff0a4e9096","fromSide":"right","toNode":"b7a6a8eacdf7bcac","toSide":"left"},
@@ -41,6 +44,9 @@
 		{"id":"bf33d3d5f52abacd","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"},
 		{"id":"716165783eace522","fromNode":"31f74533fa581866","fromSide":"right","toNode":"50e6e76743e2b4d1","toSide":"left"},
 		{"id":"f933fd3603093a22","fromNode":"36675e0edbb9f0ca","fromSide":"right","toNode":"64fedafde695d4be","toSide":"left"},
-		{"id":"76e3c67208e8ff28","fromNode":"41515a971f6aa2be","fromSide":"right","toNode":"64fedafde695d4be","toSide":"left"}
+		{"id":"76e3c67208e8ff28","fromNode":"41515a971f6aa2be","fromSide":"right","toNode":"64fedafde695d4be","toSide":"left"},
+		{"id":"8b07f96739c6f97c","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"5f595415be772eb5","toSide":"left"},
+		{"id":"cfc2509b9f560d79","fromNode":"52a74c958f4b9ac5","fromSide":"right","toNode":"2ee47fe6ab3e203a","toSide":"left"},
+		{"id":"79183e56fe62374a","fromNode":"ccc95c65065e4e26","fromSide":"right","toNode":"2ee47fe6ab3e203a","toSide":"left"}
 	]
 }

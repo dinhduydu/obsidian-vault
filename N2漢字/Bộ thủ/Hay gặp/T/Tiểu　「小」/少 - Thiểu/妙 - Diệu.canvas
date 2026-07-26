@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"961ca76ec84c9780","x":-125,"y":-25,"width":250,"height":60,"type":"text","text":"妙 - Diệu"},
+		{"id":"75ebd0c0c30ce9b0","x":-360,"y":-200,"width":140,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"79ca93fdc016d185","x":-365,"y":120,"width":145,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiểu　「少」/Thiểu　「少」.canvas"}
+	],
+	"edges":[
+		{"id":"c4773606f4d465f4","fromNode":"75ebd0c0c30ce9b0","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left"},
+		{"id":"1e799ca2f40f17db","fromNode":"79ca93fdc016d185","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left"}
+	]
+}

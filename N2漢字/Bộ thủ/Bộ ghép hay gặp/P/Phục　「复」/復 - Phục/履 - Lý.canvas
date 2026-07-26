@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cca3c6e4f01aa96d","type":"text","text":"履 - Lý","x":-83,"y":-53,"width":250,"height":60},
+		{"id":"816584724781101c","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/復 - Phục/復 - Phục.canvas","x":-360,"y":140,"width":134,"height":153},
+		{"id":"a0b5410929ed7a77","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-391,"y":-360,"width":165,"height":125}
+	],
+	"edges":[
+		{"id":"8a195172836886af","fromNode":"816584724781101c","fromSide":"right","toNode":"cca3c6e4f01aa96d","toSide":"left"},
+		{"id":"e7e0c001be56b13a","fromNode":"a0b5410929ed7a77","fromSide":"right","toNode":"cca3c6e4f01aa96d","toSide":"left"}
+	]
+}

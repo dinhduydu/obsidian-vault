@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6b90765d7ac1767c","x":-96,"y":-43,"width":250,"height":60,"type":"text","text":"詳 - Tường"},
+		{"id":"a9f438f8152beec5","x":-360,"y":-220,"width":113,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"68faae89cb1e16b3","x":-375,"y":60,"width":128,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"30e7bd4bfc03eaac","fromNode":"a9f438f8152beec5","fromSide":"right","toNode":"6b90765d7ac1767c","toSide":"left"},
+		{"id":"54a8ddec3659e348","fromNode":"68faae89cb1e16b3","fromSide":"right","toNode":"6b90765d7ac1767c","toSide":"left"}
+	]
+}

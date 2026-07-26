@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a84983fdb67c00c","x":-79,"y":-28,"width":250,"height":60,"type":"text","text":"秒 - Miểu"},
+		{"id":"d887dc91a736b753","x":-360,"y":-200,"width":140,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/少 - Thiểu/少 - Thiểu.canvas"},
+		{"id":"585634a8444d172f","x":-405,"y":100,"width":185,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"942d8c4e0a9fe7e7","fromNode":"d887dc91a736b753","fromSide":"right","toNode":"6a84983fdb67c00c","toSide":"left"},
+		{"id":"4d1f782f5d96553f","fromNode":"585634a8444d172f","fromSide":"right","toNode":"6a84983fdb67c00c","toSide":"left"}
+	]
+}

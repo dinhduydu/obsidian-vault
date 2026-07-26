@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ed0d755677f56e3c","x":-141,"y":-45,"width":250,"height":60,"type":"text","text":"傲 - Ngạo"},
+		{"id":"ecda93260388d477","x":-460,"y":140,"width":133,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/倣 - Phỏng.canvas"},
+		{"id":"00c6f797ebfd6ccc","x":-460,"y":-72,"width":133,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"879a8d83dc3ad0a6","x":-465,"y":-320,"width":138,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"8144457ee185cdcb","fromNode":"ecda93260388d477","fromSide":"right","toNode":"ed0d755677f56e3c","toSide":"left"},
+		{"id":"b8afb19b1c55f18d","fromNode":"00c6f797ebfd6ccc","fromSide":"right","toNode":"ed0d755677f56e3c","toSide":"left"},
+		{"id":"6a24aecb26a1881d","fromNode":"879a8d83dc3ad0a6","fromSide":"right","toNode":"ed0d755677f56e3c","toSide":"left"}
+	]
+}

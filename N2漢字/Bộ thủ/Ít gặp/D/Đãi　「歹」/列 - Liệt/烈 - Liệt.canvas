@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5c85c4a0e1e505df","x":-109,"y":-21,"width":250,"height":60,"type":"text","text":"烈 - Liệt"},
+		{"id":"30948774c481169c","x":-400,"y":-260,"width":164,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/列 - Liệt/列 - Liệt.canvas"},
+		{"id":"3e31e5b8c8d04ec6","x":-398,"y":160,"width":162,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"1b9b4e80aa72f976","fromNode":"30948774c481169c","fromSide":"right","toNode":"5c85c4a0e1e505df","toSide":"left"},
+		{"id":"637632b4a643c6a3","fromNode":"3e31e5b8c8d04ec6","fromSide":"right","toNode":"5c85c4a0e1e505df","toSide":"left"}
+	]
+}

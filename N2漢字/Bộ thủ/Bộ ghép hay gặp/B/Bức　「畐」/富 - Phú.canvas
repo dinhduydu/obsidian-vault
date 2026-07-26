@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8f0a6122e8216017","x":-80,"y":100,"width":250,"height":60,"type":"text","text":"富 - Phú"},
+		{"id":"07258ec9c073be3a","x":-450,"y":-200,"width":165,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"5de81847d2c2581f","x":-554,"y":180,"width":269,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/Bức　「畐」.canvas"}
+	],
+	"edges":[
+		{"id":"d327de2d87fd9e45","fromNode":"5de81847d2c2581f","fromSide":"right","toNode":"8f0a6122e8216017","toSide":"left"},
+		{"id":"7eba1c91f977d976","fromNode":"07258ec9c073be3a","fromSide":"right","toNode":"8f0a6122e8216017","toSide":"left"}
+	]
+}

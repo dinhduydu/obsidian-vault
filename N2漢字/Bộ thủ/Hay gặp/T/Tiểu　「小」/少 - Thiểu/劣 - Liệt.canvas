@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"297e62f8f6a1a33a","x":-193,"y":-69,"width":250,"height":60,"type":"text","text":"劣 - Liệt"},
+		{"id":"d7e480f26323d69b","x":-500,"y":-320,"width":165,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/少 - Thiểu/少 - Thiểu.canvas"},
+		{"id":"964bd28bad9eba1d","x":-527,"y":240,"width":192,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"21fff2e5eae2cde5","fromNode":"d7e480f26323d69b","fromSide":"right","toNode":"297e62f8f6a1a33a","toSide":"left"},
+		{"id":"3798c4020d17da49","fromNode":"964bd28bad9eba1d","fromSide":"right","toNode":"297e62f8f6a1a33a","toSide":"left"}
+	]
+}

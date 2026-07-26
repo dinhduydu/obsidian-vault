@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a24281450e65afdd","x":-107,"y":-41,"width":250,"height":60,"type":"text","text":"洋 - Dương"},
+		{"id":"2b743a7d6db8e1fc","x":-380,"y":-260,"width":133,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"d7875c7c1b1e3763","x":-466,"y":80,"width":219,"height":245,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"6037b2374b6be5ab","fromNode":"2b743a7d6db8e1fc","fromSide":"right","toNode":"a24281450e65afdd","toSide":"left"},
+		{"id":"109ed28051a129e8","fromNode":"d7875c7c1b1e3763","fromSide":"right","toNode":"a24281450e65afdd","toSide":"left"}
+	]
+}

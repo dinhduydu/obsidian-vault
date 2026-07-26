@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6d9e30610ff57081","type":"text","text":"幅 - Phúc","x":-155,"y":-41,"width":250,"height":60},
+		{"id":"2f04254053d43e8a","type":"file","file":"Chữa đề/Learning_Profile/Adverb/大幅に.md","x":220,"y":-260,"width":164,"height":145},
+		{"id":"7d4f99e5102c7c4f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/Bức　「畐」.canvas","x":-420,"y":60,"width":165,"height":188},
+		{"id":"ca0ed57132ebcaa2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-397,"y":-276,"width":142,"height":161}
+	],
+	"edges":[
+		{"id":"0ba0ae762f8b7d10","fromNode":"6d9e30610ff57081","fromSide":"right","toNode":"2f04254053d43e8a","toSide":"left"},
+		{"id":"7ce126644b24bd49","fromNode":"7d4f99e5102c7c4f","fromSide":"right","toNode":"6d9e30610ff57081","toSide":"left"},
+		{"id":"226446d3b9769cfc","fromNode":"ca0ed57132ebcaa2","fromSide":"right","toNode":"6d9e30610ff57081","toSide":"left"}
+	]
+}

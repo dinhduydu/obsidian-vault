@@ -75,7 +75,7 @@ Tiền tố
  │   ├─ 当 (Đương): Chúng tôi - dùng cho cơ quan (Vd: 当事務所 - văn phòng của chúng tôi)
  │   ├─ 我が (Ngã): Tôi, chúng tôi - mang tính tự hào (Vd: 我が社 - công ty chúng tôi)
  │   ├─ 被 (Bị): Đối tượng nhận hành động (Vd: 被保険者 - người được bảo hiểm)
- │   ├─ 副 (Phó): Phó, phụ (Vd: 副社長 - phó giám đốc)　[[副 - Phó.canvas]]
+ │   ├─ 副 (Phó): Phó, phụ (Vd: 副社長 - phó giám đốc)　[[N2漢字/Tiền tố, hậu tố/接頭辞/Page 13/副 - Phó.canvas]]
  │   ├─ 助 (Trợ): Trợ lý, hỗ trợ (Vd: 助監督 - trợ lý đạo diễn)
  │   ├─ 老 (Lão): Già (Vd: 老教授 - giáo sư già)
  │   ├─ 主 (Chủ): Chính (Vd: 主目的 - mục đích chính)

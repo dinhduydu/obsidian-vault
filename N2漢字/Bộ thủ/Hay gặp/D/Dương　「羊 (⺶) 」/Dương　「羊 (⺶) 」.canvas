@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"2fa9bf9b1352336a","type":"text","text":"Dương - Cừu, chỉ cái gì đó đẹp đẽ","x":-673,"y":-108,"width":250,"height":60},
-		{"id":"0e6cbb83b2b5a0f6","type":"text","text":"Dương　「羊 (⺶) 」","x":-240,"y":-13,"width":250,"height":60},
 		{"id":"0aae036d267439b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-300,"y":-649,"width":149,"height":99},
 		{"id":"45c11b88eda5c08d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas","x":242,"y":-344,"width":166,"height":167},
 		{"id":"b059f6edc17711dc","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":10,"y":-500,"width":134,"height":75},
@@ -9,7 +8,11 @@
 		{"id":"4a1ddcee4df0e18c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa.canvas","x":340,"y":80,"width":164,"height":168},
 		{"id":"1c017293929d524c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/着 - Trước.canvas","x":1280,"y":-82,"width":244,"height":199},
 		{"id":"a198082f10ff3531","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":680,"y":104,"width":160,"height":121},
-		{"id":"790d663324e3d8a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":880,"y":266,"width":186,"height":127}
+		{"id":"790d663324e3d8a5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":880,"y":266,"width":186,"height":127},
+		{"id":"0e6cbb83b2b5a0f6","type":"text","text":"Dương　「羊 (⺶) 」","x":-240,"y":-13,"width":250,"height":60},
+		{"id":"8d7e1d85eca4b800","type":"text","text":"Dương　「羊 (⺶) 」","x":-240,"y":1320,"width":250,"height":60},
+		{"id":"f375b302895d90d5","x":280,"y":1000,"width":285,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/洋 - Dương.canvas"},
+		{"id":"28131e6af88a3617","x":-175,"y":800,"width":185,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
 	],
 	"edges":[
 		{"id":"8cba8349bc0feb3c","fromNode":"0e6cbb83b2b5a0f6","fromSide":"left","toNode":"2fa9bf9b1352336a","toSide":"right"},
@@ -20,6 +23,8 @@
 		{"id":"a6609cd4d7a292b9","fromNode":"b059f6edc17711dc","fromSide":"right","toNode":"45c11b88eda5c08d","toSide":"left"},
 		{"id":"00d249c32e6eac03","fromNode":"0e6cbb83b2b5a0f6","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"},
 		{"id":"9dd706adf99ac62b","fromNode":"a198082f10ff3531","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"},
-		{"id":"08429d7728e47cf2","fromNode":"790d663324e3d8a5","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"}
+		{"id":"08429d7728e47cf2","fromNode":"790d663324e3d8a5","fromSide":"right","toNode":"1c017293929d524c","toSide":"left"},
+		{"id":"95bc99d1575ede7e","fromNode":"8d7e1d85eca4b800","fromSide":"right","toNode":"f375b302895d90d5","toSide":"left"},
+		{"id":"a452e1bccf713a70","fromNode":"28131e6af88a3617","fromSide":"right","toNode":"f375b302895d90d5","toSide":"left"}
 	]
 }

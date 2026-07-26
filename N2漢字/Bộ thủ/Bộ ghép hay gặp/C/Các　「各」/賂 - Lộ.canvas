@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2c6e0debbe32b92c","x":-100,"y":-30,"width":250,"height":60,"type":"text","text":"賂 - Lộ"},
+		{"id":"f8707bea8fdf074c","x":-400,"y":-240,"width":134,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/Các　「各」.canvas"},
+		{"id":"9f583bad9b8c763a","x":-436,"y":120,"width":170,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"0c2d6b81f92c3d81","fromNode":"f8707bea8fdf074c","fromSide":"right","toNode":"2c6e0debbe32b92c","toSide":"left"},
+		{"id":"0913f75e90177785","fromNode":"9f583bad9b8c763a","fromSide":"right","toNode":"2c6e0debbe32b92c","toSide":"left"}
+	]
+}

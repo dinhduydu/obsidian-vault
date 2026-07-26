@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3ba5e5998d177bf6","type":"text","text":"複 - Phức","x":-101,"y":-50,"width":250,"height":60},
+		{"id":"dc8f1efb6dce52b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas","x":-440,"y":-220,"width":201,"height":138},
+		{"id":"71af0bd485c628e5","x":-469,"y":60,"width":230,"height":224,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/Phục　「复」.canvas"}
+	],
+	"edges":[
+		{"id":"c012473961297a76","fromNode":"dc8f1efb6dce52b5","fromSide":"right","toNode":"3ba5e5998d177bf6","toSide":"left"},
+		{"id":"3518578ddb6f2fa2","fromNode":"71af0bd485c628e5","fromSide":"right","toNode":"3ba5e5998d177bf6","toSide":"left"}
+	]
+}

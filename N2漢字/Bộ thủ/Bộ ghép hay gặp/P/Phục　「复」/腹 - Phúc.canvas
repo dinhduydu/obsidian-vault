@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5e43f07f2657df60","x":-144,"y":-44,"width":250,"height":60,"type":"text","text":"腹 - Phúc"},
+		{"id":"c3f6ad0bd4b503b0","x":-440,"y":-300,"width":178,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"9d2cc750c124b1f8","x":440,"y":-237,"width":196,"height":177,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/空腹.md"},
+		{"id":"202f07d2d04669d6","x":440,"y":63,"width":320,"height":277,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/腹を立てる.md"},
+		{"id":"1f9759f436c42ae8","x":960,"y":-136,"width":328,"height":244,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/空腹を満たす.md"},
+		{"id":"1f47f8f72893f17c","x":-505,"y":120,"width":243,"height":226,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phục　「复」/Phục　「复」.canvas"}
+	],
+	"edges":[
+		{"id":"094d3ee93f8e4b33","fromNode":"c3f6ad0bd4b503b0","fromSide":"right","toNode":"5e43f07f2657df60","toSide":"left"},
+		{"id":"7d8fd48a0488faa3","fromNode":"5e43f07f2657df60","fromSide":"right","toNode":"9d2cc750c124b1f8","toSide":"left"},
+		{"id":"30944a9449702421","fromNode":"5e43f07f2657df60","fromSide":"right","toNode":"202f07d2d04669d6","toSide":"left"},
+		{"id":"a73a21a1bc31afe3","fromNode":"5e43f07f2657df60","fromSide":"right","toNode":"1f9759f436c42ae8","toSide":"left"},
+		{"id":"8da741ceffec9789","fromNode":"1f47f8f72893f17c","fromSide":"right","toNode":"5e43f07f2657df60","toSide":"left"}
+	]
+}

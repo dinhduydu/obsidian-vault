@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"73601a64c5fa5be7","type":"text","text":"祥 - Tường","x":-91,"y":-50,"width":250,"height":60},
+		{"id":"0ee0c4fdfd4bb7d0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-360,"y":-240,"width":126,"height":120},
+		{"id":"0433cf52c96a0b03","x":-416,"y":160,"width":182,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"}
+	],
+	"edges":[
+		{"id":"284b492c107ecadc","fromNode":"0ee0c4fdfd4bb7d0","fromSide":"right","toNode":"73601a64c5fa5be7","toSide":"left"},
+		{"id":"e61f6405949e27a6","fromNode":"0433cf52c96a0b03","fromSide":"right","toNode":"73601a64c5fa5be7","toSide":"left"}
+	]
+}

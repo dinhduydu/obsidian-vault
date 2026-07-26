@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db46c273f5bc5f0c","type":"text","text":"倣 - Phỏng","x":-153,"y":-34,"width":250,"height":60},
+		{"id":"606a0492b08d8783","x":-519,"y":-300,"width":198,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"f46ca0eee748439f","x":-485,"y":140,"width":164,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/放 - Phóng.canvas"}
+	],
+	"edges":[
+		{"id":"dd8ae0a7c3acbbea","fromNode":"f46ca0eee748439f","fromSide":"right","toNode":"db46c273f5bc5f0c","toSide":"left"},
+		{"id":"4f48e63784a0b3a4","fromNode":"606a0492b08d8783","fromSide":"right","toNode":"db46c273f5bc5f0c","toSide":"left"}
+	]
+}

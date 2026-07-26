@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ad39f9cc41d8bce3","x":-183,"y":-52,"width":250,"height":60,"type":"text","text":"例 - Lệ"},
+		{"id":"1d601566af23ed76","x":-520,"y":-280,"width":164,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/列 - Liệt/列 - Liệt.canvas"},
+		{"id":"fdbc8283293c3ae5","x":-515,"y":120,"width":159,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"784620f201021354","fromNode":"1d601566af23ed76","fromSide":"right","toNode":"ad39f9cc41d8bce3","toSide":"left"},
+		{"id":"a97a2206243e9193","fromNode":"fdbc8283293c3ae5","fromSide":"right","toNode":"ad39f9cc41d8bce3","toSide":"left"}
+	]
+}

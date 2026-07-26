@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bbed4bbf6c5a192c","x":-77,"y":-60,"width":250,"height":60,"type":"text","text":"列 - Liệt"},
+		{"id":"9cace1ef2dd8b868","x":-320,"y":-240,"width":142,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/Đãi　「歹」.canvas"},
+		{"id":"3463c7b52ed90285","x":-414,"y":80,"width":189,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"19c9fbb9e9f14948","fromNode":"9cace1ef2dd8b868","fromSide":"right","toNode":"bbed4bbf6c5a192c","toSide":"left"},
+		{"id":"96b0100fe62a27e3","fromNode":"3463c7b52ed90285","fromSide":"right","toNode":"bbed4bbf6c5a192c","toSide":"left"}
+	]
+}

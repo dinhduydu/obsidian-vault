@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bdfdf407584a773a","x":-95,"y":-48,"width":250,"height":60,"type":"text","text":"敷 - Phu"},
+		{"id":"52689990d30961e2","x":-360,"y":100,"width":128,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/放 - Phóng.canvas"},
+		{"id":"a19bdbe1530cf593","x":-367,"y":-300,"width":135,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"81e468a2b5bea7cc","x":-374,"y":-580,"width":142,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
+		{"id":"5d9c2dd93df500f2","x":-560,"y":-87,"width":149,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+	],
+	"edges":[
+		{"id":"9a2db5fe6a53ba24","fromNode":"52689990d30961e2","fromSide":"right","toNode":"bdfdf407584a773a","toSide":"left"},
+		{"id":"9b75c420aaa880f0","fromNode":"a19bdbe1530cf593","fromSide":"right","toNode":"bdfdf407584a773a","toSide":"left"},
+		{"id":"14a09116590c5419","fromNode":"81e468a2b5bea7cc","fromSide":"right","toNode":"bdfdf407584a773a","toSide":"left"},
+		{"id":"119094da0f7bc0a7","fromNode":"5d9c2dd93df500f2","fromSide":"right","toNode":"bdfdf407584a773a","toSide":"left"}
+	]
+}

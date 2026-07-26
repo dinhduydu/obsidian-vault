@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1771befd0b342a90","x":-138,"y":-37,"width":250,"height":60,"type":"text","text":"少 - Thiểu"},
+		{"id":"502b92deae83d8a1","x":-500,"y":-280,"width":179,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"},
+		{"id":"30a1843ac4cf3623","x":-525,"y":120,"width":204,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
+	],
+	"edges":[
+		{"id":"43b935e97f1371b5","fromNode":"502b92deae83d8a1","fromSide":"right","toNode":"1771befd0b342a90","toSide":"left"},
+		{"id":"3726490ee7e8dc7b","fromNode":"30a1843ac4cf3623","fromSide":"right","toNode":"1771befd0b342a90","toSide":"left"}
+	]
+}

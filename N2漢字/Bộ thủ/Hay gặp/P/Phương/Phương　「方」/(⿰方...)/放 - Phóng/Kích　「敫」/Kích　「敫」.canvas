@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6f0c01ef2c584fb4","type":"text","text":"Kích　「敫」","x":-190,"y":-63,"width":250,"height":60},
+		{"id":"7090c43d98d7e7d0","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas","x":-522,"y":-254,"width":83,"height":82},
+		{"id":"b6a1c9f2c4e5e583","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-120,"y":-340,"width":174,"height":120},
+		{"id":"97774c584d79bf6b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/Kích　「敫」/激 - Kích.canvas","x":303,"y":-254,"width":164,"height":112},
+		{"id":"1f0ec4b157973231","x":-607,"y":48,"width":170,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/放 - Phóng.canvas"},
+		{"id":"dc7579d801440c55","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-867,"y":210,"width":80,"height":75},
+		{"id":"fad1f9ae78d86244","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-888,"y":-54,"width":101,"height":102}
+	],
+	"edges":[
+		{"id":"58d3627851b98bcf","fromNode":"7090c43d98d7e7d0","fromSide":"right","toNode":"6f0c01ef2c584fb4","toSide":"left"},
+		{"id":"bf93d761c559fd3f","fromNode":"fad1f9ae78d86244","fromSide":"right","toNode":"1f0ec4b157973231","toSide":"left"},
+		{"id":"e61d44e1cfbaa1d3","fromNode":"dc7579d801440c55","fromSide":"right","toNode":"1f0ec4b157973231","toSide":"left"},
+		{"id":"4ecc1d3f75c210da","fromNode":"6f0c01ef2c584fb4","fromSide":"right","toNode":"97774c584d79bf6b","toSide":"left"},
+		{"id":"b93ab8b672f1a7db","fromNode":"b6a1c9f2c4e5e583","fromSide":"right","toNode":"97774c584d79bf6b","toSide":"left"},
+		{"id":"f474b89c2e92b9e6","fromNode":"1f0ec4b157973231","fromSide":"right","toNode":"6f0c01ef2c584fb4","toSide":"left"}
+	]
+}
