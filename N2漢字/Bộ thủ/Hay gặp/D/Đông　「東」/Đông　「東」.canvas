@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"b7a7cb98d9958b38","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Đông　「東」"}
+		{"id":"b7a7cb98d9958b38","type":"text","text":"Đông　「東」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"dcfc616b57ab5110","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/陳 - Trần, Trận.canvas","x":320,"y":-320,"width":245,"height":197},
+		{"id":"16a9e7b59af867ab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/棟 - Đống.canvas","x":740,"y":-162,"width":353,"height":325},
+		{"id":"81b6b55ec9ef3c5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm gia công kim loại/錬 - Luyện.canvas","x":350,"y":300,"width":184,"height":146},
+		{"id":"ed61556522271ecb","x":20,"y":500,"width":222,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7a2b4b4c32da23d0","fromNode":"b7a7cb98d9958b38","fromSide":"right","toNode":"dcfc616b57ab5110","toSide":"left"},
+		{"id":"bfd816afe5733f12","fromNode":"b7a7cb98d9958b38","fromSide":"right","toNode":"16a9e7b59af867ab","toSide":"left"},
+		{"id":"a84bebc1e8791f22","fromNode":"b7a7cb98d9958b38","fromSide":"right","toNode":"81b6b55ec9ef3c5e","toSide":"left"},
+		{"id":"9d1b646241afb24e","fromNode":"ed61556522271ecb","fromSide":"right","toNode":"81b6b55ec9ef3c5e","toSide":"left"}
+	]
 }

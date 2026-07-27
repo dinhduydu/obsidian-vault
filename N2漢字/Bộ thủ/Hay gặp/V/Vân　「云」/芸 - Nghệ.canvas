@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"086e3a37b8dd3cdd","x":-107,"y":-10,"width":250,"height":60,"type":"text","text":"芸 - Nghệ"},
+		{"id":"aa1ccefd2ab7aac8","x":-420,"y":140,"width":192,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/Vân　「云」.canvas"},
+		{"id":"c73dd782c26ae7c4","x":-436,"y":-151,"width":208,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"e3503be6a4f89a66","fromNode":"aa1ccefd2ab7aac8","fromSide":"right","toNode":"086e3a37b8dd3cdd","toSide":"left"},
+		{"id":"38301ebc226857ef","fromNode":"c73dd782c26ae7c4","fromSide":"right","toNode":"086e3a37b8dd3cdd","toSide":"left"}
+	]
+}

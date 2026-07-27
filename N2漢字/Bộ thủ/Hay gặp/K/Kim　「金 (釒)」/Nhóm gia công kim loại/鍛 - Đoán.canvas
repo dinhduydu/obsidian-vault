@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"35d090034eb79295","x":-260,"y":-2,"width":250,"height":60,"type":"text","text":"鍛 - Đoán"}
+		{"id":"35d090034eb79295","type":"text","text":"鍛 - Đoán","x":-260,"y":-2,"width":250,"height":60},
+		{"id":"2a42dae7a8d97ab5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/段 - Đoạn/鍛 - Đoán.canvas","x":-520,"y":-37,"width":173,"height":131},
+		{"id":"bd2ea6544b6f94c2","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/段 - Đoạn/段 - Đoạn.canvas","x":-856,"y":-240,"width":188,"height":170},
+		{"id":"ad389cb52d3415fd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-880,"y":165,"width":212,"height":183}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6bcbe2f5f14d2f5c","fromNode":"2a42dae7a8d97ab5","fromSide":"right","toNode":"35d090034eb79295","toSide":"left"},
+		{"id":"2edd89de35019d1f","fromNode":"bd2ea6544b6f94c2","fromSide":"right","toNode":"2a42dae7a8d97ab5","toSide":"left"},
+		{"id":"5ea8da79ad60a05d","fromNode":"ad389cb52d3415fd","fromSide":"right","toNode":"2a42dae7a8d97ab5","toSide":"left"}
+	]
 }

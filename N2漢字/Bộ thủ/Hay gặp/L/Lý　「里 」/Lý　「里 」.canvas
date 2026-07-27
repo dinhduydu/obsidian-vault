@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"a47b86fd5d569fb4","type":"text","text":"Lý　「里 」","x":-116,"y":-17,"width":250,"height":60},
-		{"id":"40fa0fdb30a88668","type":"text","text":"làng","x":-560,"y":-180,"width":250,"height":60}
+		{"id":"40fa0fdb30a88668","type":"text","text":"làng","x":-560,"y":-180,"width":250,"height":60},
+		{"id":"0bcfba01728a23ca","x":-116,"y":-460,"width":198,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/裏 - Lý.canvas"},
+		{"id":"b41e744120685b7e","x":-400,"y":-740,"width":149,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
 	],
 	"edges":[
-		{"id":"07dc36ece306273e","fromNode":"40fa0fdb30a88668","fromSide":"right","toNode":"a47b86fd5d569fb4","toSide":"left"}
+		{"id":"07dc36ece306273e","fromNode":"40fa0fdb30a88668","fromSide":"right","toNode":"a47b86fd5d569fb4","toSide":"left"},
+		{"id":"9a05f4c62f91be03","fromNode":"40fa0fdb30a88668","fromSide":"right","toNode":"0bcfba01728a23ca","toSide":"left"},
+		{"id":"5981f942d9944be8","fromNode":"b41e744120685b7e","fromSide":"right","toNode":"0bcfba01728a23ca","toSide":"left"}
 	]
 }

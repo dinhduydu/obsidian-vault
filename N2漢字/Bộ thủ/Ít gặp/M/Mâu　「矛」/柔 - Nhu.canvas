@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a9a1bc2151e92033","x":-151,"y":-29,"width":250,"height":60,"type":"text","text":"柔 - Nhu"},
+		{"id":"a8622b3e1c3cfb82","x":-540,"y":140,"width":239,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"2a0ae8537c4cfe5a","x":-491,"y":-220,"width":190,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」/Mâu　「矛」.canvas"}
+	],
+	"edges":[
+		{"id":"6896158bd71cbd1d","fromNode":"2a0ae8537c4cfe5a","fromSide":"right","toNode":"a9a1bc2151e92033","toSide":"left"},
+		{"id":"ce188930dfba4a85","fromNode":"a8622b3e1c3cfb82","fromSide":"right","toNode":"a9a1bc2151e92033","toSide":"left"}
+	]
+}

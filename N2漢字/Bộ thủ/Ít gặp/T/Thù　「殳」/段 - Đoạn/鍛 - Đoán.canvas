@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"50ae8fe0b4c40377","x":-340,"y":-140,"width":260,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm gia công kim loại/鍛 - Đoán.canvas"},
+		{"id":"66668ba3105104f5","x":-802,"y":-340,"width":188,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/段 - Đoạn/段 - Đoạn.canvas"},
+		{"id":"59e0c1f8cd8c8637","x":-826,"y":65,"width":212,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"1b7fc0c9dfb3cc14","x":100,"y":-67,"width":250,"height":60,"type":"text","text":"鍛 - Đoán"}
+	],
+	"edges":[
+		{"id":"37674e0e917e62f5","fromNode":"59e0c1f8cd8c8637","fromSide":"right","toNode":"50ae8fe0b4c40377","toSide":"left"},
+		{"id":"9d90db8d66399933","fromNode":"66668ba3105104f5","fromSide":"right","toNode":"50ae8fe0b4c40377","toSide":"left"},
+		{"id":"dfc498bf55db52f9","fromNode":"50ae8fe0b4c40377","fromSide":"right","toNode":"1b7fc0c9dfb3cc14","toSide":"left"}
+	]
+}

@@ -1,9 +1,13 @@
 {
 	"nodes":[
 		{"id":"726febebc433486f","type":"text","text":"錬 - Luyện","x":-140,"y":-48,"width":250,"height":60},
-		{"id":"c47b208b8148a5cb","type":"text","text":"鍛える　「きたえる」：rèn","x":260,"y":-48,"width":250,"height":60}
+		{"id":"c47b208b8148a5cb","type":"text","text":"鍛える　「きたえる」：rèn","x":260,"y":-48,"width":250,"height":60},
+		{"id":"36e8f39c1e0826be","x":-480,"y":60,"width":218,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/Đông　「東」.canvas"},
+		{"id":"b47d9480eaf67714","x":-436,"y":-240,"width":174,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
 	],
 	"edges":[
-		{"id":"0f917f371309280e","fromNode":"726febebc433486f","fromSide":"right","toNode":"c47b208b8148a5cb","toSide":"left"}
+		{"id":"0f917f371309280e","fromNode":"726febebc433486f","fromSide":"right","toNode":"c47b208b8148a5cb","toSide":"left"},
+		{"id":"1636543aeab5a7a7","fromNode":"36e8f39c1e0826be","fromSide":"right","toNode":"726febebc433486f","toSide":"left"},
+		{"id":"4b59c10f0c3cfb10","fromNode":"b47d9480eaf67714","fromSide":"right","toNode":"726febebc433486f","toSide":"left"}
 	]
 }

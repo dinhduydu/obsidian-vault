@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"89aaee9e6611d78c","x":-77,"y":-34,"width":250,"height":60,"type":"text","text":"似 - Tự"},
+		{"id":"f47547c5fea8c10e","x":-300,"y":100,"width":126,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dĩ　「以」/Dĩ　「以」.canvas"},
+		{"id":"244d7b7877d662c3","x":-500,"y":-70,"width":134,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"0abd9d39934856cb","fromNode":"f47547c5fea8c10e","fromSide":"right","toNode":"89aaee9e6611d78c","toSide":"left"},
+		{"id":"f88070040656839d","fromNode":"244d7b7877d662c3","fromSide":"right","toNode":"89aaee9e6611d78c","toSide":"left"}
+	]
+}

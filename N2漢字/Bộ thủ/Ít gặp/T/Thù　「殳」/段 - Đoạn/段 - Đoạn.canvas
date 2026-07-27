@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"124bf5afa26ce215","x":-154,"y":-47,"width":250,"height":60,"type":"text","text":"段 - Đoạn"},
+		{"id":"37975b0995d31efc","x":-440,"y":-160,"width":93,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"0b731ddfd830ed7d","x":-548,"y":40,"width":201,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"}
+	],
+	"edges":[
+		{"id":"3331ce7904b78d98","fromNode":"37975b0995d31efc","fromSide":"right","toNode":"124bf5afa26ce215","toSide":"left"},
+		{"id":"ddae553c4f6c08ac","fromNode":"0b731ddfd830ed7d","fromSide":"right","toNode":"124bf5afa26ce215","toSide":"left"}
+	]
+}

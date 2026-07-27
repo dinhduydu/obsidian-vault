@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"52df17ae622f95fd","type":"text","text":"Dĩ　「以」","x":-113,"y":-22,"width":250,"height":60},
+		{"id":"7fefee389ce4e181","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas","x":-420,"y":-220,"width":157,"height":149}
+	],
+	"edges":[
+		{"id":"daa989dab27fd804","fromNode":"7fefee389ce4e181","fromSide":"right","toNode":"52df17ae622f95fd","toSide":"left"}
+	]
+}

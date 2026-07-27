@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a298bfaeaea00ae9","type":"text","text":"野 - Dã","x":-70,"y":-42,"width":250,"height":60},
+		{"id":"71a3dc24e01de03a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/Dự　「予」.canvas","x":-440,"y":140,"width":175,"height":99},
+		{"id":"3a12ad8a5656b294","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas","x":-680,"y":-73,"width":146,"height":122},
+		{"id":"ff197ac6df389af7","type":"text","text":"野原","x":463,"y":-42,"width":250,"height":60},
+		{"id":"f5db40c9a3da9816","type":"text","text":"野鳥","x":460,"y":81,"width":250,"height":60},
+		{"id":"e8bb42b1614d522f","type":"text","text":"やちょう","x":848,"y":81,"width":250,"height":60},
+		{"id":"f90961753db01c5e","type":"text","text":"chim hoang dã","x":1196,"y":81,"width":250,"height":60},
+		{"id":"e4f0600489afeac5","type":"text","text":"のはら","x":848,"y":-42,"width":250,"height":60},
+		{"id":"1cef260a756e3870","type":"text","text":"cánh đồng","x":1196,"y":-42,"width":250,"height":60},
+		{"id":"a03ede8ef557b364","type":"text","text":"分野","x":486,"y":239,"width":250,"height":60},
+		{"id":"565c8ec5eff63404","type":"text","text":"ぶんや","x":874,"y":237,"width":250,"height":60},
+		{"id":"adf0a9eb6737946d","type":"text","text":"khu vực","x":1244,"y":244,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f2563044521fcd37","fromNode":"71a3dc24e01de03a","fromSide":"right","toNode":"a298bfaeaea00ae9","toSide":"left"},
+		{"id":"62acbd280acd9413","fromNode":"3a12ad8a5656b294","fromSide":"right","toNode":"a298bfaeaea00ae9","toSide":"left"},
+		{"id":"7d42ce14269bbb52","fromNode":"ff197ac6df389af7","fromSide":"right","toNode":"e4f0600489afeac5","toSide":"left"},
+		{"id":"5ad598b43d4584b7","fromNode":"f5db40c9a3da9816","fromSide":"right","toNode":"e8bb42b1614d522f","toSide":"left"},
+		{"id":"e65aa0b26a0c7def","fromNode":"e8bb42b1614d522f","fromSide":"right","toNode":"f90961753db01c5e","toSide":"left"},
+		{"id":"4863ba1b693f38cf","fromNode":"e4f0600489afeac5","fromSide":"right","toNode":"1cef260a756e3870","toSide":"left"},
+		{"id":"ec472d9436ca729b","fromNode":"a03ede8ef557b364","fromSide":"right","toNode":"565c8ec5eff63404","toSide":"left"},
+		{"id":"8e913c710ec6f0f1","fromNode":"565c8ec5eff63404","fromSide":"right","toNode":"adf0a9eb6737946d","toSide":"left"},
+		{"id":"929e37a409f64b5a","fromNode":"a298bfaeaea00ae9","fromSide":"right","toNode":"ff197ac6df389af7","toSide":"left"},
+		{"id":"d4047a30479a3ec8","fromNode":"a298bfaeaea00ae9","fromSide":"right","toNode":"f5db40c9a3da9816","toSide":"left"},
+		{"id":"7cc51287cef676b1","fromNode":"a298bfaeaea00ae9","fromSide":"right","toNode":"a03ede8ef557b364","toSide":"left"}
+	]
+}

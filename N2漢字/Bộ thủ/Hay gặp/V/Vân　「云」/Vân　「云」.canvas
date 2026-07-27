@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"38ee48586a4eac71","type":"text","text":"Vân　「云」","x":-129,"y":-52,"width":250,"height":60},
+		{"id":"1d3c38aac547fac6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Hành động/伝 - Truyền.canvas","x":340,"y":-380,"width":237,"height":209},
+		{"id":"4bcaf95175c46e17","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-20,"y":-620,"width":175,"height":149},
+		{"id":"006b984da2beabea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/転 - Chuyển.canvas","x":340,"y":-22,"width":208,"height":271},
+		{"id":"3e51f58a67c5ba8f","x":-420,"y":53,"width":154,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/Khư　「厶」.canvas"},
+		{"id":"83d07e02899a945e","x":-483,"y":-300,"width":217,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"}
+	],
+	"edges":[
+		{"id":"e77901a630ab004a","fromNode":"38ee48586a4eac71","fromSide":"right","toNode":"1d3c38aac547fac6","toSide":"left"},
+		{"id":"2fa7ebd6451936b7","fromNode":"4bcaf95175c46e17","fromSide":"right","toNode":"1d3c38aac547fac6","toSide":"left"},
+		{"id":"fb2fb8b4e809f0a4","fromNode":"38ee48586a4eac71","fromSide":"right","toNode":"006b984da2beabea","toSide":"left"},
+		{"id":"810faf7bafcb03af","fromNode":"3e51f58a67c5ba8f","fromSide":"right","toNode":"38ee48586a4eac71","toSide":"left"},
+		{"id":"2c5a6ee004301ffa","fromNode":"83d07e02899a945e","fromSide":"right","toNode":"38ee48586a4eac71","toSide":"left"}
+	]
+}

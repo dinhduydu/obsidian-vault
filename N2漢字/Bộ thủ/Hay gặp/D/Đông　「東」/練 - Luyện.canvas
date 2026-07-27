@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fb971fc8419bf5e0","x":-100,"y":-60,"width":250,"height":60,"type":"text","text":"練 - Luyện"},
+		{"id":"bcb25fb1252963c4","x":-360,"y":40,"width":184,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/Đông　「東」.canvas"},
+		{"id":"54d8005596aea9ee","x":-720,"y":-138,"width":204,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"471053c4611be514","fromNode":"bcb25fb1252963c4","fromSide":"right","toNode":"fb971fc8419bf5e0","toSide":"left"},
+		{"id":"82039135c4624603","fromNode":"54d8005596aea9ee","fromSide":"right","toNode":"fb971fc8419bf5e0","toSide":"left"}
+	]
+}

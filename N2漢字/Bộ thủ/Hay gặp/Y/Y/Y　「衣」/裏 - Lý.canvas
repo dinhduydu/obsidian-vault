@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e58921e1e1293880","x":-93,"y":-56,"width":250,"height":60,"type":"text","text":"裏 - Lý"},
+		{"id":"46229dfe28c179ad","x":-420,"y":100,"width":232,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"},
+		{"id":"1cfd675ba5100644","x":-352,"y":-220,"width":96,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"}
+	],
+	"edges":[
+		{"id":"a5a9b4722d130063","fromNode":"46229dfe28c179ad","fromSide":"right","toNode":"e58921e1e1293880","toSide":"left"},
+		{"id":"d957ceac0efc3d60","fromNode":"1cfd675ba5100644","fromSide":"right","toNode":"e58921e1e1293880","toSide":"left"}
+	]
+}

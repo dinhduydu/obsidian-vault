@@ -2,13 +2,15 @@
 	"nodes":[
 		{"id":"80014c716fe68b00","type":"text","text":"Mâu　「矛」","x":-131,"y":-36,"width":250,"height":60},
 		{"id":"afe78763822fdfa3","type":"text","text":"矛　「ほこ」：giáo, mâu","x":240,"y":-200,"width":250,"height":60},
-		{"id":"60dc10829feba7f7","x":240,"y":-66,"width":278,"height":60,"type":"text","text":"柔　「やわらかい」：mềm mại"},
-		{"id":"712ca19b91428739","x":240,"y":60,"width":320,"height":60,"type":"text","text":"務　「つとめる」：nhiệm vụ, công việc"},
-		{"id":"4d17e8e25f8593ed","x":254,"y":340,"width":250,"height":60,"type":"text","text":"騖　「むやみに」：lao tới, chạy theo"},
-		{"id":"cfcb61e02062049d","x":700,"y":31,"width":364,"height":119,"type":"text","text":"務 = 矛 + 攵\n\nBan đầu mang ý \"cầm giáo làm việc\", sau thành nghĩa \"nhiệm vụ, công vụ\"."},
-		{"id":"3396890c2c830ac2","x":700,"y":235,"width":250,"height":50,"type":"text","text":"霧　「きり」：sương mù"},
-		{"id":"e1aae3f5966ab7ce","x":1100,"y":231,"width":398,"height":109,"type":"text","text":"霧 = 雨 + 務\n\nChữ hình thanh, trong đó 務 chủ yếu gợi âm."},
-		{"id":"98c978bf9bf4d527","x":-520,"y":-179,"width":280,"height":143,"type":"text","text":"矛 = hình cây giáo cổ đại, là một bộ thủ độc lập chứ không phải ghép từ những chữ Hán đơn giản khác."}
+		{"id":"60dc10829feba7f7","type":"text","text":"柔　「やわらかい」：mềm mại","x":240,"y":-66,"width":278,"height":60},
+		{"id":"712ca19b91428739","type":"text","text":"務　「つとめる」：nhiệm vụ, công việc","x":240,"y":60,"width":320,"height":60},
+		{"id":"4d17e8e25f8593ed","type":"text","text":"騖　「むやみに」：lao tới, chạy theo","x":254,"y":340,"width":250,"height":60},
+		{"id":"cfcb61e02062049d","type":"text","text":"務 = 矛 + 攵\n\nBan đầu mang ý \"cầm giáo làm việc\", sau thành nghĩa \"nhiệm vụ, công vụ\".","x":700,"y":31,"width":364,"height":119},
+		{"id":"3396890c2c830ac2","type":"text","text":"霧　「きり」：sương mù","x":700,"y":235,"width":250,"height":50},
+		{"id":"e1aae3f5966ab7ce","type":"text","text":"霧 = 雨 + 務\n\nChữ hình thanh, trong đó 務 chủ yếu gợi âm.","x":1100,"y":231,"width":398,"height":109},
+		{"id":"98c978bf9bf4d527","type":"text","text":"矛 = hình cây giáo cổ đại, là một bộ thủ độc lập chứ không phải ghép từ những chữ Hán đơn giản khác.","x":-560,"y":-343,"width":280,"height":143},
+		{"id":"129afa139c569b7c","x":-1080,"y":-454,"width":268,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/Dự　「予」.canvas"},
+		{"id":"a5d98a6191360530","x":-985,"y":-126,"width":173,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
 	],
 	"edges":[
 		{"id":"0770c9d6aa23cd64","fromNode":"80014c716fe68b00","fromSide":"right","toNode":"afe78763822fdfa3","toSide":"left"},
@@ -18,6 +20,8 @@
 		{"id":"b000abe0e65b3ccd","fromNode":"712ca19b91428739","fromSide":"right","toNode":"cfcb61e02062049d","toSide":"left"},
 		{"id":"4f71d2036af90db2","fromNode":"712ca19b91428739","fromSide":"right","toNode":"3396890c2c830ac2","toSide":"left"},
 		{"id":"aa3ceff991899fb1","fromNode":"3396890c2c830ac2","fromSide":"right","toNode":"e1aae3f5966ab7ce","toSide":"left"},
-		{"id":"c4cd8a05981a2264","fromNode":"80014c716fe68b00","fromSide":"left","toNode":"98c978bf9bf4d527","toSide":"right"}
+		{"id":"c4cd8a05981a2264","fromNode":"80014c716fe68b00","fromSide":"left","toNode":"98c978bf9bf4d527","toSide":"right"},
+		{"id":"6148de4a48bcf786","fromNode":"129afa139c569b7c","fromSide":"right","toNode":"98c978bf9bf4d527","toSide":"left"},
+		{"id":"2c4fb2cb9cf288bf","fromNode":"a5d98a6191360530","fromSide":"right","toNode":"98c978bf9bf4d527","toSide":"left"}
 	]
 }

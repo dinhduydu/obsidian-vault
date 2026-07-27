@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9c22fba0d75b640d","x":-143,"y":-43,"width":250,"height":60,"type":"text","text":"務 - Vụ"},
+		{"id":"bd67c0df4669abf8","x":-580,"y":-93,"width":160,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」/Mâu　「矛」.canvas"},
+		{"id":"38f4560bcabc1a97","x":-380,"y":-280,"width":143,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"},
+		{"id":"fb6b0196810389bd","x":-387,"y":160,"width":158,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"34129f054a945838","fromNode":"bd67c0df4669abf8","fromSide":"right","toNode":"9c22fba0d75b640d","toSide":"left"},
+		{"id":"d550c8d439987d6b","fromNode":"38f4560bcabc1a97","fromSide":"right","toNode":"9c22fba0d75b640d","toSide":"left"},
+		{"id":"ce49a8add36ec3b0","fromNode":"fb6b0196810389bd","fromSide":"right","toNode":"9c22fba0d75b640d","toSide":"left"}
+	]
+}

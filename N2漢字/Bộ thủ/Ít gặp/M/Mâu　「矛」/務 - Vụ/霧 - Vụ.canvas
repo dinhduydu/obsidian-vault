@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c5b24aca25cc0773","x":-60,"y":-40,"width":250,"height":60,"type":"text","text":"霧 - Vụ"},
+		{"id":"362caab33c90ce94","x":-380,"y":100,"width":152,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」/務 - Vụ/務 - Vụ.canvas"},
+		{"id":"c98e1d9b4c74ab6d","x":-431,"y":-240,"width":203,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"771148ae81ac6e0d","x":-630,"y":-40,"width":250,"height":60,"type":"text","text":"Sương mù"}
+	],
+	"edges":[
+		{"id":"04dcece3ddfdcb90","fromNode":"362caab33c90ce94","fromSide":"right","toNode":"c5b24aca25cc0773","toSide":"left"},
+		{"id":"0834da254a7a8702","fromNode":"c98e1d9b4c74ab6d","fromSide":"right","toNode":"c5b24aca25cc0773","toSide":"left"},
+		{"id":"413617c557e20cb8","fromNode":"771148ae81ac6e0d","fromSide":"right","toNode":"c5b24aca25cc0773","toSide":"left"}
+	]
+}
