@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"78b637775ef2a80d","type":"text","text":"dạ dày","x":183,"y":-20,"width":250,"height":60},
 		{"id":"f6ae958f91393d85","type":"text","text":"胃 - Vị","x":-140,"y":-20,"width":250,"height":60},
-		{"id":"5a149d4eb8e8edb3","x":-540,"y":120,"width":157,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
-		{"id":"1ca6e4b5e7c37e21","x":-540,"y":-240,"width":166,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+		{"id":"5a149d4eb8e8edb3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-540,"y":120,"width":157,"height":165},
+		{"id":"1ca6e4b5e7c37e21","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-540,"y":-240,"width":166,"height":136},
+		{"id":"78b637775ef2a80d","type":"text","text":"dạ dày","x":-665,"y":-20,"width":250,"height":60},
+		{"id":"c0a57df45915cbf9","x":280,"y":-305,"width":173,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/膚 - Phu.canvas"},
+		{"id":"8fd00222b367416a","x":-78,"y":-520,"width":188,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"}
 	],
 	"edges":[
-		{"id":"83bb7cc1be68b0cc","fromNode":"f6ae958f91393d85","fromSide":"right","toNode":"78b637775ef2a80d","toSide":"left"},
 		{"id":"4f9e47eb8f3636d9","fromNode":"5a149d4eb8e8edb3","fromSide":"right","toNode":"f6ae958f91393d85","toSide":"left"},
-		{"id":"ca24028448114f75","fromNode":"1ca6e4b5e7c37e21","fromSide":"right","toNode":"f6ae958f91393d85","toSide":"left"}
+		{"id":"ca24028448114f75","fromNode":"1ca6e4b5e7c37e21","fromSide":"right","toNode":"f6ae958f91393d85","toSide":"left"},
+		{"id":"1c76c3b268335eae","fromNode":"78b637775ef2a80d","fromSide":"right","toNode":"f6ae958f91393d85","toSide":"left"},
+		{"id":"996b4ca9ef609ded","fromNode":"f6ae958f91393d85","fromSide":"right","toNode":"c0a57df45915cbf9","toSide":"left"},
+		{"id":"4cf852e6744b6747","fromNode":"8fd00222b367416a","fromSide":"right","toNode":"c0a57df45915cbf9","toSide":"left"}
 	]
 }

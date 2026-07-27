@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"77ce770e3b439537","x":-144,"y":-44,"width":250,"height":60,"type":"text","text":"喜 - Hỉ"},
+		{"id":"b93c6903abd07fd8","x":-507,"y":280,"width":223,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"92837f6ac8a638be","x":-443,"y":-360,"width":176,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"},
+		{"id":"ca0696272a65bc55","x":-426,"y":-98,"width":142,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"1ea50323bd4c77c5","fromNode":"92837f6ac8a638be","fromSide":"right","toNode":"77ce770e3b439537","toSide":"left"},
+		{"id":"151e1ff9b1299aa8","fromNode":"ca0696272a65bc55","fromSide":"right","toNode":"77ce770e3b439537","toSide":"left"},
+		{"id":"3f1d946bd5694819","fromNode":"b93c6903abd07fd8","fromSide":"right","toNode":"77ce770e3b439537","toSide":"left"}
+	]
+}

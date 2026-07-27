@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"15a3dc12e21b3c98","x":-157,"y":-19,"width":250,"height":60,"type":"text","text":"膚 - Phu"},
+		{"id":"857771351f4d6f28","x":-640,"y":-19,"width":250,"height":60,"type":"text","text":"Da"},
+		{"id":"c8226a3b05ec6a83","x":-440,"y":160,"width":179,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/胃 - Vị.canvas"},
+		{"id":"e43351294f433084","x":-518,"y":-360,"width":257,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"}
+	],
+	"edges":[
+		{"id":"79bed9d7b022326f","fromNode":"857771351f4d6f28","fromSide":"right","toNode":"15a3dc12e21b3c98","toSide":"left"},
+		{"id":"e9cd7dba043b56bc","fromNode":"c8226a3b05ec6a83","fromSide":"right","toNode":"15a3dc12e21b3c98","toSide":"left"},
+		{"id":"4b1487156c952e42","fromNode":"e43351294f433084","fromSide":"right","toNode":"15a3dc12e21b3c98","toSide":"left"}
+	]
+}

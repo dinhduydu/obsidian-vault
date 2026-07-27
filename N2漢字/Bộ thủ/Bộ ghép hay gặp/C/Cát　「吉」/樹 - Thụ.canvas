@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"31d1c2473386e95d","x":-123,"y":-43,"width":250,"height":60,"type":"text","text":"樹 - Thụ"},
+		{"id":"f60e8a304f2c0c94","x":-380,"y":-180,"width":102,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"},
+		{"id":"f747cc8e335264f6","x":-403,"y":100,"width":125,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/Đậu　「豆」.canvas"}
+	],
+	"edges":[
+		{"id":"60d0fcaf6bd44f2f","fromNode":"f60e8a304f2c0c94","fromSide":"right","toNode":"31d1c2473386e95d","toSide":"left"},
+		{"id":"3675d51793a5091d","fromNode":"f747cc8e335264f6","fromSide":"right","toNode":"31d1c2473386e95d","toSide":"left"}
+	]
+}

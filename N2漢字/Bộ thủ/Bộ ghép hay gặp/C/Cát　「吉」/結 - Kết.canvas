@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db399203da8fe21e","x":-139,"y":-35,"width":250,"height":60,"type":"text","text":"結 - Kết"},
+		{"id":"b1e2798c61c9b617","x":-420,"y":160,"width":166,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"},
+		{"id":"8ec858341ecd1612","x":-780,"y":-82,"width":202,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"dd61193dbf8a9e19","fromNode":"b1e2798c61c9b617","fromSide":"right","toNode":"db399203da8fe21e","toSide":"left"},
+		{"id":"83dc39be52f2c5e1","fromNode":"8ec858341ecd1612","fromSide":"right","toNode":"db399203da8fe21e","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c45515f7c5101da4","type":"text","text":"Cức　「亟」","x":-80,"y":-12,"width":250,"height":60},
+		{"id":"2bead4775b445d61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-360,"y":-49,"width":122,"height":135},
+		{"id":"6b5e8f386dfa6128","x":-394,"y":160,"width":156,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」/Liễu　「了」.canvas"},
+		{"id":"bff7e0257309c9f0","x":-396,"y":-380,"width":158,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"},
+		{"id":"5bf93afd11b5e2b0","x":-447,"y":-600,"width":209,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"d859bd83d43adecc","fromNode":"2bead4775b445d61","fromSide":"right","toNode":"c45515f7c5101da4","toSide":"left"},
+		{"id":"4442662e17f1962e","fromNode":"6b5e8f386dfa6128","fromSide":"right","toNode":"c45515f7c5101da4","toSide":"left"},
+		{"id":"be15d6d14dcfe01e","fromNode":"bff7e0257309c9f0","fromSide":"right","toNode":"c45515f7c5101da4","toSide":"left"},
+		{"id":"10b4ec09602d8c32","fromNode":"5bf93afd11b5e2b0","fromSide":"right","toNode":"c45515f7c5101da4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1fb8a55824d3f112","x":-129,"y":-55,"width":250,"height":60,"type":"text","text":"眉 - Mi"},
+		{"id":"fd684de1bc7a1781","x":-440,"y":120,"width":205,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
+		{"id":"d5cb9471590aa4a0","x":-412,"y":-300,"width":177,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"cf9a97f2565dd0a1","fromNode":"fd684de1bc7a1781","fromSide":"right","toNode":"1fb8a55824d3f112","toSide":"left"},
+		{"id":"ee502c7eac9fc770","fromNode":"d5cb9471590aa4a0","fromSide":"right","toNode":"1fb8a55824d3f112","toSide":"left"}
+	]
+}

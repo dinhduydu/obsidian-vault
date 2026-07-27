@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c2b5b807db7d085e","x":-109,"y":-59,"width":250,"height":60,"type":"text","text":"幾 - Cơ"},
+		{"id":"3827cae6972dae02","x":-760,"y":-134,"width":213,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"},
+		{"id":"e92a9d75d2c5c4f6","x":-420,"y":100,"width":182,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"708cac2afc398968","x":-420,"y":-301,"width":149,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"}
+	],
+	"edges":[
+		{"id":"35a7818812cfdb93","fromNode":"708cac2afc398968","fromSide":"right","toNode":"c2b5b807db7d085e","toSide":"left","label":"x2"},
+		{"id":"caa467d9a9abfbe4","fromNode":"e92a9d75d2c5c4f6","fromSide":"right","toNode":"c2b5b807db7d085e","toSide":"left"},
+		{"id":"dcd37ae2fe1f097b","fromNode":"3827cae6972dae02","fromSide":"right","toNode":"c2b5b807db7d085e","toSide":"left"}
+	]
+}

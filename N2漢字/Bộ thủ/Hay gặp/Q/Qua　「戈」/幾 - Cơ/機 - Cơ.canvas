@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92cf03e45e4e44e2","x":-179,"y":-27,"width":250,"height":60,"type":"text","text":"機 - Cơ"},
+		{"id":"43f9961aaea66ae2","x":-460,"y":-61,"width":127,"height":128,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 7/機 - Cơ.canvas"},
+		{"id":"766e521ee5a3bf4c","x":-760,"y":80,"width":208,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/幾 - Cơ/幾 - Cơ.canvas"},
+		{"id":"3b2415c80be3b307","x":-1000,"y":-71,"width":160,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"382ade49cad169e2","fromNode":"43f9961aaea66ae2","fromSide":"right","toNode":"92cf03e45e4e44e2","toSide":"left"},
+		{"id":"6c845d39407f1736","fromNode":"766e521ee5a3bf4c","fromSide":"right","toNode":"43f9961aaea66ae2","toSide":"left"},
+		{"id":"e24e705eaf099f68","fromNode":"3b2415c80be3b307","fromSide":"right","toNode":"43f9961aaea66ae2","toSide":"left"}
+	]
+}

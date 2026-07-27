@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"788017eb19588c5b","x":-124,"y":-25,"width":250,"height":60,"type":"text","text":"肩 - Kiên"},
+		{"id":"429a263a9f33db9f","x":-420,"y":160,"width":176,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"6fb8b55e000b7d27","x":-403,"y":-200,"width":159,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
+	],
+	"edges":[
+		{"id":"0023340c1a33eff9","fromNode":"429a263a9f33db9f","fromSide":"right","toNode":"788017eb19588c5b","toSide":"left"},
+		{"id":"71b9fd1efde9e9f4","fromNode":"6fb8b55e000b7d27","fromSide":"right","toNode":"788017eb19588c5b","toSide":"left"}
+	]
+}

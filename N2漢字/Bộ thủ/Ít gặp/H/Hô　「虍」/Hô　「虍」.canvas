@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"fa9eccd04571dcf3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Hô　「虍」"},
-		{"id":"2ff527034578f6cb","x":216,"y":-58,"width":250,"height":60,"type":"text","text":"vằn hổ"}
+		{"id":"fa9eccd04571dcf3","type":"text","text":"Hô　「虍」","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2ff527034578f6cb","type":"text","text":"vằn hổ","x":-720,"y":-180,"width":250,"height":60},
+		{"id":"652132723d987017","x":300,"y":-220,"width":207,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/膚 - Phu.canvas"},
+		{"id":"9c455dfffbc63a48","x":-56,"y":-371,"width":181,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/胃 - Vị.canvas"}
 	],
 	"edges":[
-		{"id":"15bd00f8bb7cf862","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"2ff527034578f6cb","toSide":"left"}
+		{"id":"ef2080df3eee77f9","fromNode":"2ff527034578f6cb","fromSide":"right","toNode":"fa9eccd04571dcf3","toSide":"left"},
+		{"id":"50c75ff32a1aaaa7","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"652132723d987017","toSide":"left"},
+		{"id":"96d9b5f7a1371d4c","fromNode":"9c455dfffbc63a48","fromSide":"right","toNode":"652132723d987017","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7113e86a5ef131c0","x":-45,"y":-35,"width":250,"height":60,"type":"text","text":"舎 - Xá"},
+		{"id":"b213d57756ca3ecb","x":-340,"y":120,"width":134,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"},
+		{"id":"523c769d0836f080","x":-392,"y":-180,"width":186,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"}
+	],
+	"edges":[
+		{"id":"80f6a49ba67c8d36","fromNode":"b213d57756ca3ecb","fromSide":"right","toNode":"7113e86a5ef131c0","toSide":"left"},
+		{"id":"9692ec3d22a2a1a9","fromNode":"523c769d0836f080","fromSide":"right","toNode":"7113e86a5ef131c0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d0081f2edf39c224","x":-89,"y":-47,"width":250,"height":60,"type":"text","text":"捨 - Xả"},
+		{"id":"bb968c37ad0946b1","x":-360,"y":-240,"width":142,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/舎 - Xá.canvas"},
+		{"id":"6a3580235dac19d5","x":-400,"y":100,"width":169,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"01a74390502f3dd4","fromNode":"bb968c37ad0946b1","fromSide":"right","toNode":"d0081f2edf39c224","toSide":"left"},
+		{"id":"8665dcb68e579fb1","fromNode":"6a3580235dac19d5","fromSide":"right","toNode":"d0081f2edf39c224","toSide":"left"}
+	]
+}

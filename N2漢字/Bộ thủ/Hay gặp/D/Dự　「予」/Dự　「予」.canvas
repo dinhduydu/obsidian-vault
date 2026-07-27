@@ -10,7 +10,8 @@
 		{"id":"0fde96f970c6e5e6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/野 - Dã.canvas","x":-160,"y":260,"width":192,"height":107},
 		{"id":"1b261312a739beec","type":"text","text":"**Nghĩa gốc:** cho, ban cho; trước, từ trước.","x":-1025,"y":-355,"width":250,"height":60},
 		{"id":"7af0609b89db9f4a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」/Mâu　「矛」.canvas","x":220,"y":-840,"width":203,"height":97},
-		{"id":"4b8060960a7fb67e","x":-97,"y":-982,"width":204,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
+		{"id":"4b8060960a7fb67e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":-97,"y":-982,"width":204,"height":142},
+		{"id":"6dfd0e573a44fd0a","x":-1188,"y":36,"width":326,"height":235,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」/Liễu　「了」.canvas"}
 	],
 	"edges":[
 		{"id":"e7e601674024ce0b","fromNode":"024c31952327c820","fromSide":"right","toNode":"2cc71d2521e3227b","toSide":"left"},
@@ -22,6 +23,7 @@
 		{"id":"60456807875ffb8a","fromNode":"024c31952327c820","fromSide":"right","toNode":"0fde96f970c6e5e6","toSide":"left"},
 		{"id":"7f319aa25e9cb038","fromNode":"1b261312a739beec","fromSide":"right","toNode":"024c31952327c820","toSide":"left"},
 		{"id":"67551e7c7345892d","fromNode":"2cc71d2521e3227b","fromSide":"top","toNode":"7af0609b89db9f4a","toSide":"left"},
-		{"id":"39073286a15542eb","fromNode":"4b8060960a7fb67e","fromSide":"right","toNode":"7af0609b89db9f4a","toSide":"left"}
+		{"id":"39073286a15542eb","fromNode":"4b8060960a7fb67e","fromSide":"right","toNode":"7af0609b89db9f4a","toSide":"left"},
+		{"id":"74dbdacc0571045c","fromNode":"6dfd0e573a44fd0a","fromSide":"right","toNode":"024c31952327c820","toSide":"left"}
 	]
 }
