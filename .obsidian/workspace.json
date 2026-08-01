@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/損 - Tổn.canvas",
+                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/丰 - Bái.canvas",
                 "viewState": {
-                  "x": -7,
-                  "y": -1,
-                  "zoom": 0
+                  "x": -136.2500218984023,
+                  "y": -3.1804677597838875,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "損 - Tổn"
+              "title": "丰 - Bái"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tổn",
+                "query": "丰",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eaf0bd22a494f9d",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng/償 - Thường.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/韻 - Vần.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/損 - Tổn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng/償 - Thường.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng/賞 - Thưởng.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/員 - Viên.canvas",
@@ -187,7 +188,6 @@
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/席 - Tịch.canvas",
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/Nhập　「廿」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/度 - Độ.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/渡 - Độ.canvas",
     "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ",
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/尊 - Tôn",
