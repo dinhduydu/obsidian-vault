@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f6a3e0b48bc1681c","x":-142,"y":-62,"width":250,"height":60,"type":"text","text":"栄 - Vinh"},
+		{"id":"8ab25d2fb20b058c","x":-460,"y":80,"width":165,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"e2b62a5d4687da1a","x":-431,"y":-119,"width":136,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"d25f8377bbd2cdc4","fromNode":"8ab25d2fb20b058c","fromSide":"right","toNode":"f6a3e0b48bc1681c","toSide":"left"},
+		{"id":"1ab6d0bb8e5e99fb","fromNode":"e2b62a5d4687da1a","fromSide":"right","toNode":"f6a3e0b48bc1681c","toSide":"left"}
+	]
+}

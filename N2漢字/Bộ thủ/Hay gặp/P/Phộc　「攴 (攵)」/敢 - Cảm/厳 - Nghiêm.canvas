@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3a71ed8247b2a08a","type":"text","text":"厳 - Nghiêm","x":-136,"y":-35,"width":250,"height":60},
+		{"id":"0f376b3ae3587716","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/敢 - Cảm/敢 - Cảm.canvas","x":-400,"y":100,"width":143,"height":109},
+		{"id":"542a59683254c1c1","x":-390,"y":-160,"width":133,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"9b5b99c11760236e","fromNode":"0f376b3ae3587716","fromSide":"right","toNode":"3a71ed8247b2a08a","toSide":"left"},
+		{"id":"3880316c4eb3af9c","fromNode":"542a59683254c1c1","fromSide":"right","toNode":"3a71ed8247b2a08a","toSide":"left"}
+	]
+}

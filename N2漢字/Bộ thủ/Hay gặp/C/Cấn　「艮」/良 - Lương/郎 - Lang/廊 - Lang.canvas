@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b864e80b845f6240","x":-107,"y":-37,"width":250,"height":60,"type":"text","text":"廊 - Lang"},
+		{"id":"52e3a9d57693a5f6","x":-670,"y":-246,"width":250,"height":60,"type":"text","text":"hành lang"},
+		{"id":"acbeb355219e1b63","x":-586,"y":-103,"width":166,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/郎 - Lang/郎 - Lang.canvas"},
+		{"id":"345ed592849bd6aa","x":-587,"y":180,"width":167,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"e791224b54ca201b","fromNode":"52e3a9d57693a5f6","fromSide":"right","toNode":"b864e80b845f6240","toSide":"left"},
+		{"id":"17999625bf102c85","fromNode":"acbeb355219e1b63","fromSide":"right","toNode":"b864e80b845f6240","toSide":"left"},
+		{"id":"af4acb74e7248292","fromNode":"345ed592849bd6aa","fromSide":"right","toNode":"b864e80b845f6240","toSide":"left"}
+	]
+}

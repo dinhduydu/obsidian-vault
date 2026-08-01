@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a72a3b5fc22dd7ed","x":-98,"y":-56,"width":250,"height":60,"type":"text","text":"封 - Phong"},
+		{"id":"15470ebbe12dc380","x":-420,"y":180,"width":184,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"},
+		{"id":"0c1d75378f2510d1","x":-476,"y":-220,"width":148,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"30de336795479911","fromNode":"15470ebbe12dc380","fromSide":"right","toNode":"a72a3b5fc22dd7ed","toSide":"left"},
+		{"id":"396d0182a4bae57d","fromNode":"0c1d75378f2510d1","fromSide":"right","toNode":"a72a3b5fc22dd7ed","toSide":"left","label":"x2"}
+	]
+}

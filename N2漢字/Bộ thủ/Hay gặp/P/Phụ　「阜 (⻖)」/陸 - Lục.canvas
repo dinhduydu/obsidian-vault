@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a631fb1c1aadf73","type":"text","text":"陸 - Lục","x":-183,"y":-62,"width":250,"height":60},
+		{"id":"3796c8f3ad6c8b7c","type":"text","text":"đất liền","x":-700,"y":-240,"width":250,"height":60},
+		{"id":"4d52eca0e10d28e9","x":-575,"y":-85,"width":123,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"641160aac22e0253","fromNode":"3796c8f3ad6c8b7c","fromSide":"right","toNode":"7a631fb1c1aadf73","toSide":"left"},
+		{"id":"ddd250fbcd7d2d94","fromNode":"4d52eca0e10d28e9","fromSide":"right","toNode":"7a631fb1c1aadf73","toSide":"left"}
+	]
+}

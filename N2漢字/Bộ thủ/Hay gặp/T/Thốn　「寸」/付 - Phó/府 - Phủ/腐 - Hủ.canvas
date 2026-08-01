@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4b3d3659c5ae250c","x":-50,"y":-44,"width":250,"height":60,"type":"text","text":"腐 - Hủ"},
+		{"id":"ba3281393690fe14","x":-360,"y":-220,"width":92,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/府 - Phủ/府 - Phủ.canvas"},
+		{"id":"1f1b4380ef5362be","x":-396,"y":40,"width":128,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"18e361af5e09c7b4","fromNode":"ba3281393690fe14","fromSide":"right","toNode":"4b3d3659c5ae250c","toSide":"left"},
+		{"id":"40f74f583f7ce955","fromNode":"1f1b4380ef5362be","fromSide":"right","toNode":"4b3d3659c5ae250c","toSide":"left"}
+	]
+}

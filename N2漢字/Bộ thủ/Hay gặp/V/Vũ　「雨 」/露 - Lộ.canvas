@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b8839002488a5943","type":"text","text":"露 - Lộ","x":-107,"y":-46,"width":250,"height":60},
+		{"id":"5dbb7241e78d0010","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":-440,"y":-280,"width":132,"height":97},
+		{"id":"b3277fe1fdf2fa56","x":-477,"y":120,"width":169,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Các　「各」/路 - Lộ/路 - Lộ.canvas"}
+	],
+	"edges":[
+		{"id":"e72be0df196474d6","fromNode":"5dbb7241e78d0010","fromSide":"right","toNode":"b8839002488a5943","toSide":"left"},
+		{"id":"9914edacb1defa88","fromNode":"b3277fe1fdf2fa56","fromSide":"right","toNode":"b8839002488a5943","toSide":"left"}
+	]
+}

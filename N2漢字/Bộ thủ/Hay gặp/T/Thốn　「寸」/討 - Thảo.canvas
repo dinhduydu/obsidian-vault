@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e75d6bfaf891688c","x":-151,"y":-19,"width":250,"height":60,"type":"text","text":"討 - Thảo"},
+		{"id":"a86ca2002035666a","x":-460,"y":200,"width":100,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"},
+		{"id":"75a21d63b00f7965","x":-454,"y":-180,"width":94,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"d81ea240f293fd61","fromNode":"a86ca2002035666a","fromSide":"right","toNode":"e75d6bfaf891688c","toSide":"left"},
+		{"id":"9f01d6f4b82c0869","fromNode":"75a21d63b00f7965","fromSide":"right","toNode":"e75d6bfaf891688c","toSide":"left"}
+	]
+}

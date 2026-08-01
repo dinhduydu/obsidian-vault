@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9f4edc44f25622d1","x":-81,"y":-53,"width":250,"height":60,"type":"text","text":"朗 - Lăng"},
+		{"id":"559e5d2d578247af","x":-520,"y":140,"width":201,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/良 - Lương.canvas"},
+		{"id":"31c209ea0988125e","x":-507,"y":-300,"width":188,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"1159b1d0c38fa8d4","fromNode":"559e5d2d578247af","fromSide":"right","toNode":"9f4edc44f25622d1","toSide":"left"},
+		{"id":"8965bb5113095a11","fromNode":"31c209ea0988125e","fromSide":"right","toNode":"9f4edc44f25622d1","toSide":"left"}
+	]
+}

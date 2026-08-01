@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70bb57ac6fbaa589","type":"text","text":"徳 - Đức","x":-158,"y":-40,"width":250,"height":60},
+		{"id":"b90f135eab70958c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-580,"y":-71,"width":105,"height":123},
+		{"id":"3053d5bcd2a3c326","x":-400,"y":-260,"width":128,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/𢛳 - Đức/𢛳 - Đức.canvas"}
+	],
+	"edges":[
+		{"id":"273a232748b3c1fd","fromNode":"b90f135eab70958c","fromSide":"right","toNode":"70bb57ac6fbaa589","toSide":"left"},
+		{"id":"a20e3c4d19ed2287","fromNode":"3053d5bcd2a3c326","fromSide":"right","toNode":"70bb57ac6fbaa589","toSide":"left"}
+	]
+}

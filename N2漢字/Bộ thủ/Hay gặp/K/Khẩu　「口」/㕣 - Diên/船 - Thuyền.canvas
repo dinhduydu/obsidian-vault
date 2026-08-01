@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"81b4247e0bee65a0","x":-95,"y":-23,"width":250,"height":60,"type":"text","text":"船 - Thuyền"},
+		{"id":"3ddbf65f6f1c33f0","x":-480,"y":200,"width":172,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/㕣 - Diên/㕣 - Diên.canvas"}
+	],
+	"edges":[
+		{"id":"b57c27b01047ffdd","fromNode":"3ddbf65f6f1c33f0","fromSide":"right","toNode":"81b4247e0bee65a0","toSide":"left"}
+	]
+}

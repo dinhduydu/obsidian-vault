@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"792d0621b8445fa0","x":-142,"y":-16,"width":250,"height":60,"type":"text","text":"府 - Phủ"},
+		{"id":"40db97c918de9dab","x":-460,"y":120,"width":114,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/付 - Phó.canvas"},
+		{"id":"23276e957247b13e","x":-529,"y":-240,"width":183,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"5706cce7dc0d1716","fromNode":"40db97c918de9dab","fromSide":"right","toNode":"792d0621b8445fa0","toSide":"left"},
+		{"id":"ca9615a6c841b73a","fromNode":"23276e957247b13e","fromSide":"right","toNode":"792d0621b8445fa0","toSide":"left"}
+	]
+}

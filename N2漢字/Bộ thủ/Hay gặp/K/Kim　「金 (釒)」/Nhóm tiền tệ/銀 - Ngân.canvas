@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"a8dbcce8ed894766","x":-173,"y":-42,"width":250,"height":60,"type":"text","text":"銀 - Ngân"}
+		{"id":"15d46319fcc1ea0c","type":"text","text":"銀 - Ngân","x":-198,"y":17,"width":250,"height":60},
+		{"id":"981ccad027e548f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-513,"y":-71,"width":137,"height":118},
+		{"id":"d1e319b248f57ca1","type":"text","text":"Bạc","x":167,"y":-101,"width":250,"height":60},
+		{"id":"044c0ed3dd085eb2","x":-580,"y":180,"width":171,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"36491339b458fdaa","fromNode":"15d46319fcc1ea0c","fromSide":"right","toNode":"d1e319b248f57ca1","toSide":"left"},
+		{"id":"2b2d4e74f8dc82d8","fromNode":"981ccad027e548f0","fromSide":"right","toNode":"15d46319fcc1ea0c","toSide":"left"},
+		{"id":"bab97f775678b5db","fromNode":"044c0ed3dd085eb2","fromSide":"right","toNode":"15d46319fcc1ea0c","toSide":"left"}
+	]
 }

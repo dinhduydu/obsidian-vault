@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f36cf18360008ee8","x":-116,"y":-40,"width":250,"height":60,"type":"text","text":"雲 - Vân"},
+		{"id":"83b6777b1946b4fc","x":-480,"y":-320,"width":156,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"f31f480179dca6e2","x":-486,"y":80,"width":162,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/Vân　「云」.canvas"}
+	],
+	"edges":[
+		{"id":"821ab0a7019e944d","fromNode":"83b6777b1946b4fc","fromSide":"right","toNode":"f36cf18360008ee8","toSide":"left"},
+		{"id":"fe48acc8c055ddde","fromNode":"f31f480179dca6e2","fromSide":"right","toNode":"f36cf18360008ee8","toSide":"left"}
+	]
+}

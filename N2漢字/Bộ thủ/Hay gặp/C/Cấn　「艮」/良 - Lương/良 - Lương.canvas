@@ -1,17 +1,25 @@
 {
 	"nodes":[
-		{"id":"d38741f8a474fe19","type":"text","text":"良 - Lương","x":-60,"y":-30,"width":185,"height":60},
-		{"id":"a143d495b18d52ea","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-400,"y":-147,"width":116,"height":117},
-		{"id":"9bc33a12416c22fc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":39,"y":-334,"width":173,"height":90},
-		{"id":"acfd5706db1c846b","x":440,"y":-180,"width":171,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas"},
-		{"id":"85b6f3e1617df93d","type":"text","text":"良\n= 一个 mái + 艮 (cấn)","x":-409,"y":-364,"width":250,"height":60},
-		{"id":"a120403c19ad9186","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":-571,"y":120,"width":342,"height":62}
+		{"id":"4b4b37d41ad007eb","type":"text","text":"良\n= 一个 mái + 艮 (cấn)","x":526,"y":152,"width":250,"height":60},
+		{"id":"6d30839ce00b2b7d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas","x":1151,"y":762,"width":92,"height":88},
+		{"id":"39c25ecdca831ae1","type":"text","text":"良 - Lương","x":526,"y":532,"width":250,"height":60},
+		{"id":"48acc6f4a1459b88","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":883,"y":279,"width":173,"height":90},
+		{"id":"bd9279b17bfa6efa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":200,"y":508,"width":123,"height":108},
+		{"id":"b47335e132cf6aeb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/養 - Dưỡng.canvas","x":1151,"y":501,"width":186,"height":122},
+		{"id":"7ab916d2f7e53986","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas","x":29,"y":850,"width":342,"height":62},
+		{"id":"acfd5706db1c846b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/養 - Dưỡng.canvas","x":1540,"y":298,"width":171,"height":143},
+		{"id":"7a791e136c7daae6","x":1151,"y":1060,"width":164,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/朗 - Lăng.canvas"},
+		{"id":"f72407b95692d656","x":740,"y":1260,"width":217,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
 	],
 	"edges":[
-		{"id":"2e0d6bc660251340","fromNode":"a143d495b18d52ea","fromSide":"right","toNode":"d38741f8a474fe19","toSide":"left"},
-		{"id":"ac9b0f7d1287afeb","fromNode":"9bc33a12416c22fc","fromSide":"right","toNode":"acfd5706db1c846b","toSide":"left"},
-		{"id":"92ac510930c37d65","fromNode":"d38741f8a474fe19","fromSide":"right","toNode":"acfd5706db1c846b","toSide":"left"},
-		{"id":"72d6aa2c901ebafc","fromNode":"d38741f8a474fe19","fromSide":"bottom","toNode":"a120403c19ad9186","toSide":"right"},
-		{"id":"bcdfdceecd9c16e0","fromNode":"d38741f8a474fe19","fromSide":"top","toNode":"85b6f3e1617df93d","toSide":"right"}
+		{"id":"c65340bc8e07bcf1","fromNode":"39c25ecdca831ae1","fromSide":"top","toNode":"4b4b37d41ad007eb","toSide":"bottom"},
+		{"id":"a8a6948db09e9a1c","fromNode":"39c25ecdca831ae1","fromSide":"right","toNode":"6d30839ce00b2b7d","toSide":"left"},
+		{"id":"4c5db2efbbb3004c","fromNode":"39c25ecdca831ae1","fromSide":"right","toNode":"b47335e132cf6aeb","toSide":"left"},
+		{"id":"ecb6abb14c6f4447","fromNode":"48acc6f4a1459b88","fromSide":"right","toNode":"b47335e132cf6aeb","toSide":"left"},
+		{"id":"b3417a7de6b54e8e","fromNode":"bd9279b17bfa6efa","fromSide":"right","toNode":"39c25ecdca831ae1","toSide":"left"},
+		{"id":"37560e52a03a9041","fromNode":"7ab916d2f7e53986","fromSide":"right","toNode":"39c25ecdca831ae1","toSide":"left"},
+		{"id":"9ec52fd0e3992820","fromNode":"b47335e132cf6aeb","fromSide":"right","toNode":"acfd5706db1c846b","toSide":"left"},
+		{"id":"b86d833dfd8ae2f0","fromNode":"39c25ecdca831ae1","fromSide":"right","toNode":"7a791e136c7daae6","toSide":"left"},
+		{"id":"7c632e00d3d1c7d1","fromNode":"f72407b95692d656","fromSide":"right","toNode":"7a791e136c7daae6","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bbb1a7eef6e1f1c0","x":-120,"y":-56,"width":250,"height":60,"type":"text","text":"団 - Đoàn"},
+		{"id":"0d87577825a92391","x":-400,"y":120,"width":114,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"},
+		{"id":"ed81794495375230","x":-620,"y":-90,"width":164,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas"}
+	],
+	"edges":[
+		{"id":"d80b624ad0408de6","fromNode":"0d87577825a92391","fromSide":"right","toNode":"bbb1a7eef6e1f1c0","toSide":"left"},
+		{"id":"8c2dfd205c9ace81","fromNode":"ed81794495375230","fromSide":"right","toNode":"bbb1a7eef6e1f1c0","toSide":"left"}
+	]
+}

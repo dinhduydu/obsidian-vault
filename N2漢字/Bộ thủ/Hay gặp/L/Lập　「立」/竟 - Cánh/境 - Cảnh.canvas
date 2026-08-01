@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5a5e50b6b54d562d","x":-85,"y":-4,"width":250,"height":60,"type":"text","text":"境 - Cảnh"},
+		{"id":"44ff085d2a6697d3","x":-380,"y":140,"width":197,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/竟 - Cánh/竟 - Cánh.canvas"},
+		{"id":"6a46b222ae357089","x":-580,"y":-28,"width":149,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"4a80ed13c2dc6d53","fromNode":"44ff085d2a6697d3","fromSide":"right","toNode":"5a5e50b6b54d562d","toSide":"left"},
+		{"id":"2b2c7a056a5d56d3","fromNode":"6a46b222ae357089","fromSide":"right","toNode":"5a5e50b6b54d562d","toSide":"left"}
+	]
+}

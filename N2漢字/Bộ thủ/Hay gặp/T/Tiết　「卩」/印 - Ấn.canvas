@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a6a9fe52b384d0ed","x":-116,"y":-53,"width":250,"height":60,"type":"text","text":"印 - Ấn"},
+		{"id":"a6ec67fdcd65f37e","x":-380,"y":40,"width":118,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"}
+	],
+	"edges":[
+		{"id":"1112423ec4c173d3","fromNode":"a6ec67fdcd65f37e","fromSide":"right","toNode":"a6a9fe52b384d0ed","toSide":"left"}
+	]
+}

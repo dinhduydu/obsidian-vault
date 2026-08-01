@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bf37bc5dc1e49a2","x":-90,"y":-41,"width":250,"height":60,"type":"text","text":"鏡 - Kính"},
+		{"id":"6dd201912eb47d85","x":-320,"y":60,"width":135,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/竟 - Cánh/竟 - Cánh.canvas"},
+		{"id":"381c653eadcd54e3","x":-540,"y":-88,"width":140,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"5afcd3853533fccd","fromNode":"6dd201912eb47d85","fromSide":"right","toNode":"3bf37bc5dc1e49a2","toSide":"left"},
+		{"id":"befea5a60b01384e","fromNode":"381c653eadcd54e3","fromSide":"right","toNode":"3bf37bc5dc1e49a2","toSide":"left"}
+	]
+}

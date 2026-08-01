@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"67e7ef79b4e54b1a","x":-75,"y":-47,"width":250,"height":60,"type":"text","text":"狩 - Thú"},
+		{"id":"4248dced7cf7de64","x":-320,"y":100,"width":142,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/守 - Thủ/守 - Thủ.canvas"},
+		{"id":"d03bf032e9872d40","x":-520,"y":-65,"width":117,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
+	],
+	"edges":[
+		{"id":"71d8062217f27472","fromNode":"4248dced7cf7de64","fromSide":"right","toNode":"67e7ef79b4e54b1a","toSide":"left"},
+		{"id":"87b56525019703e9","fromNode":"d03bf032e9872d40","fromSide":"right","toNode":"67e7ef79b4e54b1a","toSide":"left"}
+	]
+}

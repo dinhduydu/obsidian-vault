@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3abdd4e3ba8ee09c","type":"text","text":"竟 - Cánh","x":-138,"y":-28,"width":250,"height":60},
+		{"id":"33d3d91307d9b5e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-440,"y":-200,"width":150,"height":115},
+		{"id":"bf0c2ac1a335c7e2","x":-459,"y":60,"width":169,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"52e302f985271e1c","fromNode":"33d3d91307d9b5e3","fromSide":"right","toNode":"3abdd4e3ba8ee09c","toSide":"left"},
+		{"id":"dc07795e6729e4dd","fromNode":"bf0c2ac1a335c7e2","fromSide":"right","toNode":"3abdd4e3ba8ee09c","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f1ed46026c220e62","x":-142,"y":-29,"width":250,"height":60,"type":"text","text":"雪 - Tuyết"},
+		{"id":"03d6d073a020f04d","x":-480,"y":-220,"width":135,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"53f32df7c71e5f75","x":-471,"y":31,"width":126,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"}
+	],
+	"edges":[
+		{"id":"e5a82c075ce31187","fromNode":"53f32df7c71e5f75","fromSide":"right","toNode":"f1ed46026c220e62","toSide":"left"},
+		{"id":"98ffeddf36b8f1f7","fromNode":"03d6d073a020f04d","fromSide":"right","toNode":"f1ed46026c220e62","toSide":"left"}
+	]
+}

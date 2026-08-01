@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a226e274828180a","x":-80,"y":-28,"width":250,"height":60,"type":"text","text":"限 - Hạn"},
+		{"id":"8c11d82c9f529a6c","x":-380,"y":140,"width":162,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
+		{"id":"ce7442984cf17146","x":-370,"y":-260,"width":152,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"21048f7d41f7b8da","fromNode":"8c11d82c9f529a6c","fromSide":"right","toNode":"6a226e274828180a","toSide":"left"},
+		{"id":"5dc0cc3dac7d0378","fromNode":"ce7442984cf17146","fromSide":"right","toNode":"6a226e274828180a","toSide":"left"}
+	]
+}

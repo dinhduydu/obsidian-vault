@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"817e11ec0548bd1c","x":-101,"y":-70,"width":250,"height":60,"type":"text","text":"零 - Linh"},
+		{"id":"f4d2a72be198cc61","x":-340,"y":-240,"width":79,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"f4ae99142cca2531","x":-355,"y":20,"width":94,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"}
+	],
+	"edges":[
+		{"id":"d0c19d71fccccfec","fromNode":"f4d2a72be198cc61","fromSide":"right","toNode":"817e11ec0548bd1c","toSide":"left"},
+		{"id":"35739de5ee26f272","fromNode":"f4ae99142cca2531","fromSide":"right","toNode":"817e11ec0548bd1c","toSide":"left"}
+	]
+}

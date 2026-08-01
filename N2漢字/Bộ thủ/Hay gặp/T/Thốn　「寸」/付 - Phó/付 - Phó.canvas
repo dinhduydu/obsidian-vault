@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1c77c16fa6b745e8","type":"text","text":"付 - Phó","x":-104,"y":-42,"width":250,"height":60},
+		{"id":"d238af8e359ba521","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas","x":-420,"y":160,"width":149,"height":136},
+		{"id":"cb2483caed9756c0","x":-434,"y":-240,"width":163,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"fb3ac167a7841d98","fromNode":"d238af8e359ba521","fromSide":"right","toNode":"1c77c16fa6b745e8","toSide":"left"},
+		{"id":"5f7e59af837766bd","fromNode":"cb2483caed9756c0","fromSide":"right","toNode":"1c77c16fa6b745e8","toSide":"left"}
+	]
+}

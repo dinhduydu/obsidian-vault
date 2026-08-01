@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e905e0defa187303","type":"text","text":"附 - Phụ","x":-73,"y":-33,"width":250,"height":60},
+		{"id":"61833bea778a6c5b","x":-480,"y":-280,"width":196,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/付 - Phó.canvas"},
+		{"id":"f76ead7a6ef56e3f","x":-432,"y":80,"width":148,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"e30e55263aa5145e","fromNode":"61833bea778a6c5b","fromSide":"right","toNode":"e905e0defa187303","toSide":"left"},
+		{"id":"c8518329e1fc4461","fromNode":"f76ead7a6ef56e3f","fromSide":"right","toNode":"e905e0defa187303","toSide":"left"}
+	]
+}

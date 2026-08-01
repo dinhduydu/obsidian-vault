@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c6ff436f4f9203ce","x":-146,"y":-64,"width":250,"height":60,"type":"text","text":"守 - Thủ"},
+		{"id":"24389e0e08fcf4a4","x":-420,"y":100,"width":128,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"},
+		{"id":"0b084b9418e4ebf7","x":-424,"y":-200,"width":132,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"1621330398b8678d","fromNode":"24389e0e08fcf4a4","fromSide":"right","toNode":"c6ff436f4f9203ce","toSide":"left"},
+		{"id":"435884645a95dbaf","fromNode":"0b084b9418e4ebf7","fromSide":"right","toNode":"c6ff436f4f9203ce","toSide":"left"}
+	]
+}

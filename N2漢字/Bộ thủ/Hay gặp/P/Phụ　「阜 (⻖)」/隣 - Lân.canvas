@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"78a11b7ae8f25075","type":"text","text":"隣村　「りんそん」：","x":-326,"y":34,"width":250,"height":60},
+		{"id":"50af27439b448503","type":"text","text":"隣 - Lân","x":-598,"y":115,"width":104,"height":60},
+		{"id":"bd1e97f8830f0aea","type":"text","text":"隣の家（となりのいえ）: nhà bên cạnh\n隣人（りんじん）: hàng xóm\n隣接（りんせつ）: liền kề\n隣国（りんごく）: nước láng giềng","x":-326,"y":136,"width":348,"height":139},
+		{"id":"6c960451c695fae0","type":"text","text":"> Các khu đất / nhà cửa nằm sát nhau, liền kề nhau\n\n⇒ **láng giềng, bên cạnh**","x":-320,"y":319,"width":336,"height":112},
+		{"id":"ee3c842187ab6392","type":"text","text":"- 隣の村  \n    （となり の むら）  \n    Ngôi làng kế bên.","x":215,"y":115,"width":250,"height":91},
+		{"id":"3ec2d23bf568ca5e","type":"text","text":"- 隣村との交流  \n    （りんそん との こうりゅう）  \n    Giao lưu với làng bên cạnh.\n\n\n","x":215,"y":-96,"width":291,"height":130},
+		{"id":"753b955ad62eafbb","type":"text","text":"- làng kế bên\n- thôn bên cạnh\n- neighboring village","x":215,"y":-265,"width":250,"height":93},
+		{"id":"943ee4d734a6ca4f","type":"text","text":"Trong đời sống hiện đại, người Nhật thường dùng:\n\n- 隣町（となりまち） = thị trấn bên cạnh\n- 近隣（きんりん） = khu vực lân cận hơn là 隣村.","x":215,"y":-485,"width":441,"height":156},
+		{"id":"13ab6fc001d0cb8a","x":-980,"y":238,"width":140,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"b87c4bc860487bda","fromNode":"78a11b7ae8f25075","fromSide":"right","toNode":"753b955ad62eafbb","toSide":"left"},
+		{"id":"4b4d7eacb79aaa5c","fromNode":"78a11b7ae8f25075","fromSide":"right","toNode":"3ec2d23bf568ca5e","toSide":"left"},
+		{"id":"427bd02d2e84b225","fromNode":"78a11b7ae8f25075","fromSide":"right","toNode":"943ee4d734a6ca4f","toSide":"left"},
+		{"id":"ebde2439ca6a7797","fromNode":"78a11b7ae8f25075","fromSide":"right","toNode":"ee3c842187ab6392","toSide":"left"},
+		{"id":"3bcba3d1eff5ea38","fromNode":"50af27439b448503","fromSide":"right","toNode":"78a11b7ae8f25075","toSide":"left"},
+		{"id":"96b4a5459277686c","fromNode":"50af27439b448503","fromSide":"right","toNode":"bd1e97f8830f0aea","toSide":"left"},
+		{"id":"1cab37cad3c17736","fromNode":"50af27439b448503","fromSide":"right","toNode":"6c960451c695fae0","toSide":"left"},
+		{"id":"cefd6d238326e4bc","fromNode":"13ab6fc001d0cb8a","fromSide":"right","toNode":"50af27439b448503","toSide":"left"}
+	]
+}

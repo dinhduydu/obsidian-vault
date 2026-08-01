@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6811e4e1f48ce1e0","x":-191,"y":-7,"width":250,"height":60,"type":"text","text":"電 - Điện"},
+		{"id":"47f8b38e5097ee73","x":-560,"y":-200,"width":204,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/雷 - Lôi/雷 - Lôi.canvas"}
+	],
+	"edges":[
+		{"id":"f651befcdab5a4ed","fromNode":"47f8b38e5097ee73","fromSide":"right","toNode":"6811e4e1f48ce1e0","toSide":"left"}
+	]
+}

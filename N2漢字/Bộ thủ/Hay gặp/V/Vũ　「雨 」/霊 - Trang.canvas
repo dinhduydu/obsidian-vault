@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"641cb35bcb9169eb","x":-128,"y":-35,"width":250,"height":60,"type":"text","text":"霊 - Trang"},
+		{"id":"783766ed7e3f5054","x":-460,"y":-300,"width":141,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"1e4b0d06aed4a9ad","x":-512,"y":100,"width":193,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"}
+	],
+	"edges":[
+		{"id":"a581f583ee35752c","fromNode":"783766ed7e3f5054","fromSide":"right","toNode":"641cb35bcb9169eb","toSide":"left"},
+		{"id":"c9c462d462a656d0","fromNode":"1e4b0d06aed4a9ad","fromSide":"right","toNode":"641cb35bcb9169eb","toSide":"left"}
+	]
+}

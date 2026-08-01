@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2288abe52324dd80","x":-130,"y":-26,"width":250,"height":60,"type":"text","text":"郎 - Lang"},
+		{"id":"ab72d52a3afb9e68","x":-500,"y":-320,"width":167,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/良 - Lương.canvas"},
+		{"id":"6654b2f566f0fdb7","x":-496,"y":60,"width":163,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"5b810103677275b9","fromNode":"ab72d52a3afb9e68","fromSide":"right","toNode":"2288abe52324dd80","toSide":"left"},
+		{"id":"ef0c896e9d0143a3","fromNode":"6654b2f566f0fdb7","fromSide":"right","toNode":"2288abe52324dd80","toSide":"left"}
+	]
+}

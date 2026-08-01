@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"873665b0e80e6792","x":-78,"y":-46,"width":250,"height":60,"type":"text","text":"娘 - Nương"},
+		{"id":"0d2b0197b30a1063","x":-540,"y":-300,"width":175,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"63ca964414d95778","x":-558,"y":140,"width":158,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/良 - Lương/良 - Lương.canvas"}
+	],
+	"edges":[
+		{"id":"815531d472d5301b","fromNode":"0d2b0197b30a1063","fromSide":"right","toNode":"873665b0e80e6792","toSide":"left"},
+		{"id":"b4eca60d42477584","fromNode":"63ca964414d95778","fromSide":"right","toNode":"873665b0e80e6792","toSide":"left"}
+	]
+}

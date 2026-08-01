@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c9a01ec93bc5db16","x":-112,"y":-40,"width":250,"height":60,"type":"text","text":"符 - Phù"},
+		{"id":"a37e0d1d2e32ca59","x":-380,"y":-220,"width":120,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"edeeb5e91a9dc2a4","x":-430,"y":100,"width":170,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/付 - Phó.canvas"}
+	],
+	"edges":[
+		{"id":"3a3bcc6ef079ccc3","fromNode":"a37e0d1d2e32ca59","fromSide":"right","toNode":"c9a01ec93bc5db16","toSide":"left"},
+		{"id":"09ac091c48da669b","fromNode":"edeeb5e91a9dc2a4","fromSide":"right","toNode":"c9a01ec93bc5db16","toSide":"left"}
+	]
+}

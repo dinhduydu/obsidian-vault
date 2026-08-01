@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aaf3def8e90d4f10","x":-161,"y":-39,"width":250,"height":60,"type":"text","text":"根 - Căn"},
+		{"id":"990e8641f9c0522e","x":-440,"y":-260,"width":122,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
+		{"id":"11a1394ffe28385a","x":-486,"y":120,"width":168,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"49166abce84c7029","fromNode":"990e8641f9c0522e","fromSide":"right","toNode":"aaf3def8e90d4f10","toSide":"left"},
+		{"id":"201f72bcca3845cd","fromNode":"11a1394ffe28385a","fromSide":"right","toNode":"aaf3def8e90d4f10","toSide":"left"}
+	]
+}

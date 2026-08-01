@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"70b50704ba543621","type":"text","text":"降 - Hàng/ Giáng","x":-165,"y":-29,"width":250,"height":60},
+		{"id":"46e46ca666ca4344","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":-420,"y":120,"width":118,"height":144},
+		{"id":"58bccf933ffa2a6f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-429,"y":-260,"width":127,"height":101},
+		{"id":"c5b1ad71bf83a9f4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas","x":-640,"y":-45,"width":109,"height":92},
+		{"id":"ea172b089025c9bc","type":"text","text":"rơi xuống","x":-820,"y":120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"50434ba365548eca","fromNode":"46e46ca666ca4344","fromSide":"right","toNode":"70b50704ba543621","toSide":"left"},
+		{"id":"8414aa1138a838b3","fromNode":"58bccf933ffa2a6f","fromSide":"right","toNode":"70b50704ba543621","toSide":"left"},
+		{"id":"c2a1c7aec4be9053","fromNode":"c5b1ad71bf83a9f4","fromSide":"right","toNode":"70b50704ba543621","toSide":"left"},
+		{"id":"ce2e4589d4b6166b","fromNode":"ea172b089025c9bc","fromSide":"right","toNode":"70b50704ba543621","toSide":"left"}
+	]
+}
