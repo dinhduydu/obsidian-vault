@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b139374eaba1a4fc","x":-114,"y":-65,"width":250,"height":60,"type":"text","text":"賞 - Thưởng"},
+		{"id":"dec233f5d6f8ab7b","x":-439,"y":-200,"width":169,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/向 - Hướng/尚 - Thượng.canvas"},
+		{"id":"827a08ee37e73f64","x":-400,"y":100,"width":130,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"47ea1288572370d0","fromNode":"dec233f5d6f8ab7b","fromSide":"right","toNode":"b139374eaba1a4fc","toSide":"left"},
+		{"id":"aae8cddc5478a5ee","fromNode":"827a08ee37e73f64","fromSide":"right","toNode":"b139374eaba1a4fc","toSide":"left"}
+	]
+}

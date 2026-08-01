@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"44ac4811a2641ad6","x":-144,"y":-45,"width":250,"height":60,"type":"text","text":"脇 - Hiếp"},
+		{"id":"21513c77803dbfcf","x":-480,"y":140,"width":136,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/劦 - Hiệp/劦 - Hiệp.canvas"},
+		{"id":"5715e56b64453197","x":-504,"y":-260,"width":160,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"d9735468015e0d82","fromNode":"21513c77803dbfcf","fromSide":"right","toNode":"44ac4811a2641ad6","toSide":"left"},
+		{"id":"d227fa4cb28e1147","fromNode":"5715e56b64453197","fromSide":"right","toNode":"44ac4811a2641ad6","toSide":"left"}
+	]
+}

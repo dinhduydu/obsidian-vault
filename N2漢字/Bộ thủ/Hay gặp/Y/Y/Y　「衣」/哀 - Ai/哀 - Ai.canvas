@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e328717f19c4a314","x":-93,"y":-12,"width":250,"height":60,"type":"text","text":"哀 - Ai"},
+		{"id":"29333ea119d0c079","x":-460,"y":100,"width":179,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"},
+		{"id":"b1b2416449fe6c52","x":-465,"y":-200,"width":184,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"41b9be6ee1c4de7c","fromNode":"29333ea119d0c079","fromSide":"right","toNode":"e328717f19c4a314","toSide":"left"},
+		{"id":"99e5e7e24ab9e9cb","fromNode":"b1b2416449fe6c52","fromSide":"right","toNode":"e328717f19c4a314","toSide":"left"}
+	]
+}

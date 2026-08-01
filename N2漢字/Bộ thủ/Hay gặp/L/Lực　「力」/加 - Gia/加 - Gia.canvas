@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7d06f903304ded66","x":-111,"y":-42,"width":250,"height":60,"type":"text","text":"加 - Gia"},
+		{"id":"eb675b76b1991faf","x":-520,"y":-240,"width":174,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"},
+		{"id":"9cdbb7c4fc512be4","x":-507,"y":120,"width":161,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"5805267faaa1b88c","fromNode":"eb675b76b1991faf","fromSide":"right","toNode":"7d06f903304ded66","toSide":"left"},
+		{"id":"14e1fcc68b723c31","fromNode":"9cdbb7c4fc512be4","fromSide":"right","toNode":"7d06f903304ded66","toSide":"left"}
+	]
+}

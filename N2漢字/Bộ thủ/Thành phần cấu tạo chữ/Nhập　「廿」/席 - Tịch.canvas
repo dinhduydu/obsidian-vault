@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b98cd5cb44019931","x":-127,"y":-43,"width":250,"height":60,"type":"text","text":"席 - Tịch"},
+		{"id":"ebe53b3da7a37267","x":-500,"y":-300,"width":148,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"e4ec996667857d76","x":-495,"y":-67,"width":143,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/Nhập　「廿」.canvas"},
+		{"id":"2a47fd1c1ebbeda8","x":-501,"y":200,"width":149,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+	],
+	"edges":[
+		{"id":"584a7a6cca2c39d2","fromNode":"ebe53b3da7a37267","fromSide":"right","toNode":"b98cd5cb44019931","toSide":"left"},
+		{"id":"3cfeb3f826e192c0","fromNode":"e4ec996667857d76","fromSide":"right","toNode":"b98cd5cb44019931","toSide":"left"},
+		{"id":"27d677fa9b5687e8","fromNode":"2a47fd1c1ebbeda8","fromSide":"right","toNode":"b98cd5cb44019931","toSide":"left"}
+	]
+}

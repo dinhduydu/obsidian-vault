@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a82b67ce0e7c7cd","x":-139,"y":-38,"width":250,"height":60,"type":"text","text":"賀 - Hạ"},
+		{"id":"abfdf7735bf8a87c","x":-460,"y":-240,"width":184,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/加 - Gia/加 - Gia.canvas"},
+		{"id":"85bd798ea6cefb31","x":-462,"y":140,"width":186,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"3e88155ab5e5773f","fromNode":"abfdf7735bf8a87c","fromSide":"right","toNode":"6a82b67ce0e7c7cd","toSide":"left"},
+		{"id":"93555a38942f2d2e","fromNode":"85bd798ea6cefb31","fromSide":"right","toNode":"6a82b67ce0e7c7cd","toSide":"left"}
+	]
+}

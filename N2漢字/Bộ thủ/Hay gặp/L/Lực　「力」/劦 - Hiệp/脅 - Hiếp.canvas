@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fe3490ea7acd240e","x":-149,"y":-26,"width":250,"height":60,"type":"text","text":"脅 - Hiếp"},
+		{"id":"ccc6bd1013428637","x":-467,"y":120,"width":211,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"c1e78e17a1862a3e","x":-440,"y":-220,"width":184,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/劦 - Hiệp/劦 - Hiệp.canvas"}
+	],
+	"edges":[
+		{"id":"fd29f9afdbef3174","fromNode":"c1e78e17a1862a3e","fromSide":"right","toNode":"fe3490ea7acd240e","toSide":"left"},
+		{"id":"68083a43b7127cf1","fromNode":"ccc6bd1013428637","fromSide":"right","toNode":"fe3490ea7acd240e","toSide":"left"}
+	]
+}

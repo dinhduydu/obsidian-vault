@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b00f13db52dcd3ac","x":-116,"y":-43,"width":250,"height":60,"type":"text","text":"害 - Hại"},
+		{"id":"c1878d2129385eaf","x":-440,"y":-260,"width":120,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"1ba5a491bebccc71","x":-484,"y":-77,"width":164,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"9ba238c600d98576","x":-504,"y":200,"width":184,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"3e6b5ec7abee0bca","fromNode":"c1878d2129385eaf","fromSide":"right","toNode":"b00f13db52dcd3ac","toSide":"left"},
+		{"id":"c5160810412f8022","fromNode":"1ba5a491bebccc71","fromSide":"right","toNode":"b00f13db52dcd3ac","toSide":"left"},
+		{"id":"451f258bd90e5544","fromNode":"9ba238c600d98576","fromSide":"right","toNode":"b00f13db52dcd3ac","toSide":"left"}
+	]
+}

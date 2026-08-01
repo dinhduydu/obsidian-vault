@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1d053395f4f24d1e","x":-81,"y":-58,"width":250,"height":60,"type":"text","text":"井 - Tỉnh"},
+		{"id":"8cb6c05b9b59eba6","x":-440,"y":-260,"width":138,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"1694e765efb09c97","x":-457,"y":80,"width":155,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"}
+	],
+	"edges":[
+		{"id":"bcf212dd3770f978","fromNode":"8cb6c05b9b59eba6","fromSide":"right","toNode":"1d053395f4f24d1e","toSide":"left"},
+		{"id":"2a299748c1bb001d","fromNode":"1694e765efb09c97","fromSide":"right","toNode":"1d053395f4f24d1e","toSide":"left"}
+	]
+}

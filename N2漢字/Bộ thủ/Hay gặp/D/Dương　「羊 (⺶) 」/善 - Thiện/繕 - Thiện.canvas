@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"608524a43134767e","x":-151,"y":-59,"width":250,"height":60,"type":"text","text":"繕 - Thiện"},
+		{"id":"dd9921e4aeb007a3","x":-500,"y":100,"width":163,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/善 - Thiện/善 - Thiện.canvas"},
+		{"id":"eefff2b8805081aa","x":-488,"y":-280,"width":151,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"d27c8f0af295bcc5","fromNode":"dd9921e4aeb007a3","fromSide":"right","toNode":"608524a43134767e","toSide":"left"},
+		{"id":"bedcd611741de1bb","fromNode":"eefff2b8805081aa","fromSide":"right","toNode":"608524a43134767e","toSide":"left"}
+	]
+}

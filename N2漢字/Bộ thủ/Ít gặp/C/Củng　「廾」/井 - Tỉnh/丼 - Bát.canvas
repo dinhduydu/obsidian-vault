@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b49af2dda15bf37e","type":"text","text":"丼 - Bát","x":-168,"y":-21,"width":250,"height":60},
+		{"id":"16b5ddce67f42090","x":-560,"y":-240,"width":183,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/井 - Tỉnh/井 - Tỉnh.canvas"},
+		{"id":"bb9115320fece9b8","x":-558,"y":120,"width":181,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"88a81bb59842b0f4","fromNode":"16b5ddce67f42090","fromSide":"right","toNode":"b49af2dda15bf37e","toSide":"left"},
+		{"id":"089f92d89923f634","fromNode":"bb9115320fece9b8","fromSide":"right","toNode":"b49af2dda15bf37e","toSide":"left"}
+	]
+}

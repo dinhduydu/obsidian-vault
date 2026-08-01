@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"98c28c60b936b550","x":-152,"y":-23,"width":250,"height":60,"type":"text","text":"尊 - Tôn"},
+		{"id":"5a2c8bbc408619dd","x":-449,"y":-240,"width":133,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas"},
+		{"id":"d1d5271f7f044964","x":-440,"y":-43,"width":124,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"},
+		{"id":"09ba7a5bb054fe16","x":-514,"y":180,"width":198,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"f9cb0dfd4f61026f","fromNode":"5a2c8bbc408619dd","fromSide":"right","toNode":"98c28c60b936b550","toSide":"left"},
+		{"id":"66146fe73f4ad53f","fromNode":"d1d5271f7f044964","fromSide":"right","toNode":"98c28c60b936b550","toSide":"left"},
+		{"id":"8583d274058ffec0","fromNode":"09ba7a5bb054fe16","fromSide":"right","toNode":"98c28c60b936b550","toSide":"left"}
+	]
+}

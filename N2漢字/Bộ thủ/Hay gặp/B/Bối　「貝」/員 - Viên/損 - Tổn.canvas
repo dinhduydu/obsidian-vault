@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac0637e13f24cecb","x":-165,"y":-41,"width":250,"height":60,"type":"text","text":"損 - Tổn"},
+		{"id":"00b192d805b72ad0","x":-420,"y":160,"width":116,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/員 - Viên.canvas"},
+		{"id":"5194ec827272d4e1","x":-453,"y":-195,"width":149,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"426525ca7a9fd390","fromNode":"00b192d805b72ad0","fromSide":"right","toNode":"ac0637e13f24cecb","toSide":"left"},
+		{"id":"7ef1293e69580fa4","fromNode":"5194ec827272d4e1","fromSide":"right","toNode":"ac0637e13f24cecb","toSide":"left"}
+	]
+}

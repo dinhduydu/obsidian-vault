@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"99234575ea6ecdf3","type":"text","text":"Nhập　「廿」","x":-95,"y":-24,"width":250,"height":60},
+		{"id":"809e0a6af7d55d26","x":56,"y":-320,"width":99,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"},
+		{"id":"1d7797d123a02693","x":300,"y":-316,"width":155,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/度 - Độ.canvas"},
+		{"id":"89ddba96be46c177","x":43,"y":-560,"width":112,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"b94b7935cfd88f98","fromNode":"99234575ea6ecdf3","fromSide":"right","toNode":"1d7797d123a02693","toSide":"left"},
+		{"id":"8013882b722a7991","fromNode":"809e0a6af7d55d26","fromSide":"right","toNode":"1d7797d123a02693","toSide":"left"},
+		{"id":"66cb2250add981b8","fromNode":"89ddba96be46c177","fromSide":"right","toNode":"1d7797d123a02693","toSide":"left"}
+	]
+}

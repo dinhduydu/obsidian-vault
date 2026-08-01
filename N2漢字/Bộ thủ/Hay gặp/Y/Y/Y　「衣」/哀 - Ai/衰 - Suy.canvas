@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bb2578486c59a12d","x":-117,"y":-44,"width":250,"height":60,"type":"text","text":"衰 - Suy"},
+		{"id":"67f3b23cb72a49aa","x":-460,"y":-200,"width":131,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/哀 - Ai/哀 - Ai.canvas"},
+		{"id":"b140b4c61d6dbf51","x":-473,"y":40,"width":144,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"8712e8a33ac8b9c5","fromNode":"67f3b23cb72a49aa","fromSide":"right","toNode":"bb2578486c59a12d","toSide":"left"},
+		{"id":"83799f761e5eefcd","fromNode":"b140b4c61d6dbf51","fromSide":"right","toNode":"bb2578486c59a12d","toSide":"left"}
+	]
+}

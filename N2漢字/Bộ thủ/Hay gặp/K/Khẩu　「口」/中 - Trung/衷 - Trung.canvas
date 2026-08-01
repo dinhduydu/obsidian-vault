@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"867d07b66d8f4c62","type":"text","text":"衷 - Trung","x":-142,"y":-29,"width":250,"height":60},
+		{"id":"708aa737a204bd2f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":-522,"y":-280,"width":136,"height":115},
+		{"id":"e7bc7d5a62c0327c","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/Trung　「中」.canvas","x":-524,"y":140,"width":138,"height":108},
+		{"id":"f8cf44d9bd56a7e2","x":-760,"y":-60,"width":151,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"4d86f1d66eacec90","fromNode":"708aa737a204bd2f","fromSide":"right","toNode":"867d07b66d8f4c62","toSide":"left"},
+		{"id":"3d824231e25912e2","fromNode":"e7bc7d5a62c0327c","fromSide":"right","toNode":"867d07b66d8f4c62","toSide":"left"},
+		{"id":"314b9ac8f342ba91","fromNode":"f8cf44d9bd56a7e2","fromSide":"right","toNode":"867d07b66d8f4c62","toSide":"left"}
+	]
+}

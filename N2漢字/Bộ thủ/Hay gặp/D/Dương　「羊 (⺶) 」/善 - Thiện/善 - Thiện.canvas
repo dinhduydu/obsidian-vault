@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2af3c4668fc58d33","x":-132,"y":-66,"width":250,"height":60,"type":"text","text":"善 - Thiện"},
+		{"id":"b1b1c5ac7da34348","x":-440,"y":-320,"width":124,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
+		{"id":"1db0ca2b3339901a","x":-440,"y":-86,"width":129,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"},
+		{"id":"0de7d17d4f5912c8","x":-461,"y":100,"width":150,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"bb5bf0dc31c96f01","x":-466,"y":340,"width":155,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"1c89a5dcd42dcc38","fromNode":"b1b1c5ac7da34348","fromSide":"right","toNode":"2af3c4668fc58d33","toSide":"left"},
+		{"id":"8547b13409e1d979","fromNode":"1db0ca2b3339901a","fromSide":"right","toNode":"2af3c4668fc58d33","toSide":"left"},
+		{"id":"39c8d1a60aa3f3eb","fromNode":"0de7d17d4f5912c8","fromSide":"right","toNode":"2af3c4668fc58d33","toSide":"left"},
+		{"id":"fc76dc9f710be623","fromNode":"bb5bf0dc31c96f01","fromSide":"right","toNode":"2af3c4668fc58d33","toSide":"left"}
+	]
+}

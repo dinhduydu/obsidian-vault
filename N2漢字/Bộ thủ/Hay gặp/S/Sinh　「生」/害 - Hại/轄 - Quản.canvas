@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0a0e53eeb8123e3","x":-180,"y":-37,"width":250,"height":60,"type":"text","text":"轄 - Quản"},
+		{"id":"725565713f5a2f57","x":-460,"y":60,"width":138,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/害 - Hại/害 - Hại.canvas"},
+		{"id":"ab611874174e0bdf","x":-634,"y":-240,"width":174,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
+	],
+	"edges":[
+		{"id":"d84edbf7b3e22b5d","fromNode":"725565713f5a2f57","fromSide":"right","toNode":"c0a0e53eeb8123e3","toSide":"left"},
+		{"id":"642d41de3e3ee1c7","fromNode":"ab611874174e0bdf","fromSide":"right","toNode":"c0a0e53eeb8123e3","toSide":"left"}
+	]
+}

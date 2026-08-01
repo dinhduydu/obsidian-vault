@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/樹 - Thụ.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/損 - Tổn.canvas",
                 "viewState": {
-                  "x": -164.35768601393323,
-                  "y": 149.78834505614444,
-                  "zoom": 0.3333333333333333
+                  "x": -7,
+                  "y": -1,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "樹 - Thụ"
+              "title": "損 - Tổn"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dư",
+                "query": "Tổn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -175,28 +175,29 @@
   },
   "active": "1eaf0bd22a494f9d",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/捨 - Xả.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/樹 - Thụ.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/舎 - Xá.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá",
-    "N2漢字/Bộ thủ/Ít gặp/C/Cổ　「鼓」/Cổ　「鼓」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/喜 - Hỉ.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/結 - Kết.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cức　「亟」/極 - Cực.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cức　「亟」/Cức　「亟」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」/Liễu　「了」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cức　「亟」",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng/償 - Thường.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/損 - Tổn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng/賞 - Thưởng.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賞 - Thưởng",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên/員 - Viên.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/買 - Mãi.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/賜 - Tứ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/貴 - Quý/潰 - Hội.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/員 - Viên",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/席 - Tịch.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/Nhập　「廿」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/度 - Độ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/渡 - Độ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/尊 - Tôn",
+    "N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/劦 - Hiệp",
+    "N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/善 - Thiện",
+    "N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/井 - Tỉnh",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/哀 - Ai",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/害 - Hại",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/3. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 4 (P5).md",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/幾 - Cơ",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」",
-    "N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/段 - Đoạn",
-    "N2漢字/Bộ thủ/Ít gặp/M/Mâu　「矛」/務 - Vụ",
-    "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/Untitled.base",
     "Chữa đề/Learning_Profile/Adverb/大幅に.md",
     "Chữa đề/Learning_Profile/Adverb/依然として.md",
     "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/1. Phân Tích N3_BỊ ĐỘNG, SAI KHIẾN (P2).md",
@@ -220,7 +221,6 @@
     "Chữa đề/２０２６年/０５月２０２６年/Week4/22052026/1. Phân Tích Kết Quả N2_ĐỌC HIỂU NGẮN_BÀI 32.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/5. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 2.md",
     "Chữa đề/２０２６年/０４月２０２６年/Week5/29042026/5. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (3).md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/2. Phân Tích N2_BÀI TẬP 1.2.md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

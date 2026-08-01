@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6e58c886427d54a0","x":-68,"y":-38,"width":250,"height":60,"type":"text","text":"架 - Giá"},
+		{"id":"122905135b83b6ac","x":-420,"y":-320,"width":170,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/加 - Gia/加 - Gia.canvas"},
+		{"id":"301ab05508ea29f8","x":-433,"y":120,"width":183,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"7630975fc3d59951","fromNode":"122905135b83b6ac","fromSide":"right","toNode":"6e58c886427d54a0","toSide":"left"},
+		{"id":"c5726bc5bdbaac49","fromNode":"301ab05508ea29f8","fromSide":"right","toNode":"6e58c886427d54a0","toSide":"left"}
+	]
+}

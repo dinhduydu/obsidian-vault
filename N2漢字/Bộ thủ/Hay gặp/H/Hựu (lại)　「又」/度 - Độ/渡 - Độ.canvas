@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d01220cee448fcb3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"渡 - Độ"},
+		{"id":"8af4194f76588523","x":-380,"y":180,"width":111,"height":72,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/度 - Độ/度 - Độ.canvas"},
+		{"id":"a7a4e81fee7b5474","x":-401,"y":-220,"width":132,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"3430767f5e2fb41d","fromNode":"8af4194f76588523","fromSide":"right","toNode":"d01220cee448fcb3","toSide":"left"},
+		{"id":"37d8ed389e29d297","fromNode":"a7a4e81fee7b5474","fromSide":"right","toNode":"d01220cee448fcb3","toSide":"left"}
+	]
+}
