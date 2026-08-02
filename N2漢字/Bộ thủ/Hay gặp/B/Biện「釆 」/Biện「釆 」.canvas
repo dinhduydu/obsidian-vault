@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"ebb8df6c6524d0f8","type":"text","text":"Biện「釆 」","x":-226,"y":-32,"width":250,"height":60},
-		{"id":"fc2caa4df5457264","x":180,"y":-300,"width":190,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas"},
-		{"id":"35c2743cf74dd4ef","x":180,"y":80,"width":216,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+		{"id":"fc2caa4df5457264","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/番 - Phiên/番 - Phiên.canvas","x":180,"y":-300,"width":190,"height":192},
+		{"id":"35c2743cf74dd4ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-192,"y":-660,"width":216,"height":172},
+		{"id":"5aa841dc4d546abc","x":540,"y":-96,"width":204,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/釈 - Thích.canvas"},
+		{"id":"14a044711efa9605","x":211,"y":140,"width":159,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"}
 	],
 	"edges":[
 		{"id":"17c42b80ef59ce81","fromNode":"ebb8df6c6524d0f8","fromSide":"right","toNode":"fc2caa4df5457264","toSide":"left"},
-		{"id":"92b26372139c3bc0","fromNode":"ebb8df6c6524d0f8","fromSide":"right","toNode":"35c2743cf74dd4ef","toSide":"left"}
+		{"id":"2bc8021d70f5b2d7","fromNode":"35c2743cf74dd4ef","fromSide":"right","toNode":"fc2caa4df5457264","toSide":"left"},
+		{"id":"b9288cbc58624a13","fromNode":"ebb8df6c6524d0f8","fromSide":"right","toNode":"5aa841dc4d546abc","toSide":"left"},
+		{"id":"0b2ccf9fae04c651","fromNode":"14a044711efa9605","fromSide":"right","toNode":"5aa841dc4d546abc","toSide":"left"}
 	]
 }

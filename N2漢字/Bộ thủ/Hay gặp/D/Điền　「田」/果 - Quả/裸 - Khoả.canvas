@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8f4c729f413184e0","x":-123,"y":-8,"width":250,"height":60,"type":"text","text":"裸 - Khoả"},
+		{"id":"92107aafab6c3c7b","x":-480,"y":-260,"width":141,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/果 - Quả/果 - Quả.canvas"},
+		{"id":"367644087d4c364a","x":-480,"y":100,"width":141,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"}
+	],
+	"edges":[
+		{"id":"dafbb10894333387","fromNode":"92107aafab6c3c7b","fromSide":"right","toNode":"8f4c729f413184e0","toSide":"left"},
+		{"id":"1636d9e4b444a520","fromNode":"367644087d4c364a","fromSide":"right","toNode":"8f4c729f413184e0","toSide":"left"}
+	]
+}

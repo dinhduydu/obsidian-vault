@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0b429f2aaafb7e5","x":-126,"y":-31,"width":250,"height":60,"type":"text","text":"弾 - Đạn"},
+		{"id":"8fa7ab554bec6cf3","x":-440,"y":-280,"width":180,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn/単 - Đơn.canvas"},
+		{"id":"fbdae87960ab4120","x":-407,"y":60,"width":147,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"}
+	],
+	"edges":[
+		{"id":"c22fd78c31f8a9f3","fromNode":"8fa7ab554bec6cf3","fromSide":"right","toNode":"c0b429f2aaafb7e5","toSide":"left"},
+		{"id":"dd622c3624cc4d9b","fromNode":"fbdae87960ab4120","fromSide":"right","toNode":"c0b429f2aaafb7e5","toSide":"left"}
+	]
+}

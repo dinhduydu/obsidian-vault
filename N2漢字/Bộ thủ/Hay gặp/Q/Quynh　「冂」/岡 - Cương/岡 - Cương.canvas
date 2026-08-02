@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"211059978279ae96","type":"text","text":"岡 - Cương","x":-92,"y":-27,"width":250,"height":60},
+		{"id":"7fd89fb4acbe5094","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-560,"y":-320,"width":169,"height":139},
+		{"id":"35ad338ff5d4a5a9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas","x":-593,"y":-83,"width":202,"height":173},
+		{"id":"746ae7c2e9fed9e7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-550,"y":200,"width":159,"height":121},
+		{"id":"17ac8499fcb4a2ba","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-595,"y":420,"width":204,"height":215},
+		{"id":"200052f0e8846e43","x":300,"y":-220,"width":192,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/剛 - Cương.canvas"},
+		{"id":"6dd819d6b48b70ad","x":300,"y":140,"width":187,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm Kim loại/鋼 - Cương.canvas"},
+		{"id":"d40fb9724d2360c4","x":-6,"y":321,"width":164,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"665eaeb087c08c63","x":-7,"y":-453,"width":165,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"ff9366baf5195d64","fromNode":"7fd89fb4acbe5094","fromSide":"right","toNode":"211059978279ae96","toSide":"left"},
+		{"id":"b3f8ecdad4e1ffb3","fromNode":"35ad338ff5d4a5a9","fromSide":"right","toNode":"211059978279ae96","toSide":"left"},
+		{"id":"eb063b187fce762d","fromNode":"746ae7c2e9fed9e7","fromSide":"right","toNode":"211059978279ae96","toSide":"left"},
+		{"id":"6ac9621f296084ff","fromNode":"17ac8499fcb4a2ba","fromSide":"right","toNode":"211059978279ae96","toSide":"left"},
+		{"id":"7c1012b610aae5a2","fromNode":"211059978279ae96","fromSide":"right","toNode":"200052f0e8846e43","toSide":"left"},
+		{"id":"6ebcf5674d68628b","fromNode":"211059978279ae96","fromSide":"right","toNode":"6dd819d6b48b70ad","toSide":"left"},
+		{"id":"f1b35123183b6684","fromNode":"d40fb9724d2360c4","fromSide":"right","toNode":"6dd819d6b48b70ad","toSide":"left"},
+		{"id":"ceccf978bfe2ea08","fromNode":"665eaeb087c08c63","fromSide":"right","toNode":"200052f0e8846e43","toSide":"left"}
+	]
+}

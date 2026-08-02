@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a8036803977f2446","x":-111,"y":-32,"width":250,"height":60,"type":"text","text":"児 - Nhi"},
+		{"id":"259c700357480e09","x":-420,"y":-280,"width":145,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/旧 - Cựu/旧 - Cựu.canvas"},
+		{"id":"33938df384256d3b","x":-458,"y":40,"width":183,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"92ae47ed61475dbd","fromNode":"259c700357480e09","fromSide":"right","toNode":"a8036803977f2446","toSide":"left"},
+		{"id":"ac48beadbb94f112","fromNode":"33938df384256d3b","fromSide":"right","toNode":"a8036803977f2446","toSide":"left"}
+	]
+}

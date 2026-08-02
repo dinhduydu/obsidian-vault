@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1d552514c4c66ad9","x":-89,"y":-55,"width":250,"height":60,"type":"text","text":"沢 - Trạch"},
+		{"id":"359e6bb5a1091034","x":-440,"y":80,"width":134,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"e9b7ce4463fee7a8","x":-475,"y":-300,"width":169,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"}
+	],
+	"edges":[
+		{"id":"ce43f09eca29d8d0","fromNode":"359e6bb5a1091034","fromSide":"right","toNode":"1d552514c4c66ad9","toSide":"left"},
+		{"id":"c0db4f6bfb303174","fromNode":"e9b7ce4463fee7a8","fromSide":"right","toNode":"1d552514c4c66ad9","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e2184aa5fd3207bf","x":-95,"y":-55,"width":250,"height":60,"type":"text","text":"課 - Khoá"},
+		{"id":"a35fd66a65fe8306","x":-520,"y":-280,"width":204,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/果 - Quả/果 - Quả.canvas"},
+		{"id":"a688f7e19723244e","x":-526,"y":100,"width":210,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"5657f34a588d1616","fromNode":"a35fd66a65fe8306","fromSide":"right","toNode":"e2184aa5fd3207bf","toSide":"left"},
+		{"id":"bbd8946362c41965","fromNode":"a688f7e19723244e","fromSide":"right","toNode":"e2184aa5fd3207bf","toSide":"left"}
+	]
+}

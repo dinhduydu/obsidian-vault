@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"430e7232d8e42545","type":"text","text":"華 - Hoa","x":-121,"y":-28,"width":250,"height":60},
+		{"id":"08c0435d72a9f67e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-520,"y":-180,"width":143,"height":99},
+		{"id":"60134b5b373d1c58","x":-508,"y":2,"width":131,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"4eea243ed0d4f014","x":-516,"y":280,"width":139,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"48777cd3946a8ac8","x":-521,"y":560,"width":144,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"bdc47844a663eb54","fromNode":"08c0435d72a9f67e","fromSide":"right","toNode":"430e7232d8e42545","toSide":"left","label":"x2"},
+		{"id":"89a1ba1b15a0d6cf","fromNode":"60134b5b373d1c58","fromSide":"right","toNode":"430e7232d8e42545","toSide":"left"},
+		{"id":"2bc37f72f1f2f4a2","fromNode":"4eea243ed0d4f014","fromSide":"right","toNode":"430e7232d8e42545","toSide":"left"},
+		{"id":"c28397e85c2f71da","fromNode":"48777cd3946a8ac8","fromSide":"right","toNode":"430e7232d8e42545","toSide":"left"}
+	]
+}

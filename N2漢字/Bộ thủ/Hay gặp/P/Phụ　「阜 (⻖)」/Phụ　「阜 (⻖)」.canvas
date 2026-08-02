@@ -20,7 +20,8 @@
 		{"id":"c6aad12936f96300","type":"text","text":"附 - Phụ","x":-17,"y":1153,"width":250,"height":60},
 		{"id":"0be91f017670b615","type":"text","text":"堕 - Đoạ","x":-17,"y":1273,"width":250,"height":60},
 		{"id":"0cdf5a266c7cb7a3","type":"text","text":"Phụ　「阜 (⻖)」","x":-829,"y":1002,"width":250,"height":60},
-		{"id":"0c5a3ab9f4b132b1","type":"text","text":"đính kèm, phụ thuộc","x":340,"y":1153,"width":250,"height":60}
+		{"id":"0c5a3ab9f4b132b1","type":"text","text":"đính kèm, phụ thuộc","x":340,"y":1153,"width":250,"height":60},
+		{"id":"aae669c83e1f6f63","x":-1040,"y":-560,"width":266,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
 	],
 	"edges":[
 		{"id":"13dc14e17aa52368","fromNode":"467b8d858bc66f5a","fromSide":"left","toNode":"3a62deb8d09e6ddb","toSide":"right"},
@@ -41,6 +42,7 @@
 		{"id":"1de7e56524b0e01c","fromNode":"467b8d858bc66f5a","fromSide":"right","toNode":"c67f6919cde47104","toSide":"left"},
 		{"id":"c2833fe771d04174","fromNode":"467b8d858bc66f5a","fromSide":"right","toNode":"8ead1e0159e5da60","toSide":"left"},
 		{"id":"7d7197a2e7988d90","fromNode":"0cdf5a266c7cb7a3","fromSide":"right","toNode":"0be91f017670b615","toSide":"left"},
-		{"id":"090bd02d8a0ded8e","fromNode":"0cdf5a266c7cb7a3","fromSide":"right","toNode":"c6aad12936f96300","toSide":"left"}
+		{"id":"090bd02d8a0ded8e","fromNode":"0cdf5a266c7cb7a3","fromSide":"right","toNode":"c6aad12936f96300","toSide":"left"},
+		{"id":"dd464874f8470135","fromNode":"aae669c83e1f6f63","fromSide":"right","toNode":"467b8d858bc66f5a","toSide":"left"}
 	]
 }

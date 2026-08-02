@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6e65b38077401c73","type":"text","text":"稲 - Đạo","x":-137,"y":-33,"width":250,"height":60},
+		{"id":"2624c340f97bc6ba","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":-440,"y":-360,"width":165,"height":140},
+		{"id":"a5e1ba4e788d50f9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-680,"y":-56,"width":110,"height":107},
+		{"id":"3784164f2c3880de","x":-480,"y":180,"width":246,"height":225,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/旧 - Cựu/旧 - Cựu.canvas"}
+	],
+	"edges":[
+		{"id":"d0300aff1b135618","fromNode":"a5e1ba4e788d50f9","fromSide":"right","toNode":"6e65b38077401c73","toSide":"left"},
+		{"id":"e789dde6e59b21ff","fromNode":"2624c340f97bc6ba","fromSide":"right","toNode":"6e65b38077401c73","toSide":"left"},
+		{"id":"600171e9c21f71ba","fromNode":"3784164f2c3880de","fromSide":"right","toNode":"6e65b38077401c73","toSide":"left"}
+	]
+}

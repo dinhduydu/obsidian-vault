@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d02b101a4233a197","x":-148,"y":-43,"width":250,"height":60,"type":"text","text":"綱 - Cương"},
+		{"id":"ae8621a05ad00bd7","x":-440,"y":-240,"width":122,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/岡 - Cương.canvas"},
+		{"id":"07e602e4781f04b8","x":-640,"y":60,"width":170,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"2f18e64d353be468","fromNode":"ae8621a05ad00bd7","fromSide":"right","toNode":"d02b101a4233a197","toSide":"left"},
+		{"id":"8f9e5f5436965035","fromNode":"07e602e4781f04b8","fromSide":"right","toNode":"d02b101a4233a197","toSide":"left"}
+	]
+}

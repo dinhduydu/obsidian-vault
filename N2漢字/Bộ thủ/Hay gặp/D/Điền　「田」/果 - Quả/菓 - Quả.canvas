@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a4c9e5780e0715e","x":-135,"y":-44,"width":250,"height":60,"type":"text","text":"菓 - Quả"},
+		{"id":"625a74a5946c88df","x":-440,"y":100,"width":175,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/果 - Quả/果 - Quả.canvas"},
+		{"id":"cca59cf7279330c9","x":-429,"y":-320,"width":164,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"200195ddc80e4db5","fromNode":"625a74a5946c88df","fromSide":"right","toNode":"4a4c9e5780e0715e","toSide":"left"},
+		{"id":"10ef60174475d878","fromNode":"cca59cf7279330c9","fromSide":"right","toNode":"4a4c9e5780e0715e","toSide":"left"}
+	]
+}

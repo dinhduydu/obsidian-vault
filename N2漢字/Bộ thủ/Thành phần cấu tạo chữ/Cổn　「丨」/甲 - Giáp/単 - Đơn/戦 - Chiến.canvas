@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b38eaddba0394294","type":"text","text":"戦 - Chiến","x":-90,"y":-40,"width":250,"height":60},
+		{"id":"4a3ffd0fe0281af1","x":-380,"y":-200,"width":125,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn/単 - Đơn.canvas"},
+		{"id":"4eac362848af58b5","x":-380,"y":80,"width":125,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"}
+	],
+	"edges":[
+		{"id":"5f47c5cae5422e7f","fromNode":"4a3ffd0fe0281af1","fromSide":"right","toNode":"b38eaddba0394294","toSide":"left"},
+		{"id":"c41208654be7b879","fromNode":"4eac362848af58b5","fromSide":"right","toNode":"b38eaddba0394294","toSide":"left"}
+	]
+}

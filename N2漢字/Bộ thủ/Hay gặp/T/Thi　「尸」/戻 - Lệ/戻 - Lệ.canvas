@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ee7a1c6aef2f759e","type":"text","text":"戻 - Lệ","x":-72,"y":-11,"width":250,"height":60},
+		{"id":"b2f8279af161a89f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-380,"y":140,"width":126,"height":142},
+		{"id":"014744e6f1f54c5e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-740,"y":-88,"width":178,"height":107},
+		{"id":"e01935441c01a234","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-706,"y":-282,"width":144,"height":125},
+		{"id":"773f5bfa10f58ba2","x":-424,"y":-158,"width":215,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
+	],
+	"edges":[
+		{"id":"38dce0ac5080c5a2","fromNode":"773f5bfa10f58ba2","fromSide":"right","toNode":"ee7a1c6aef2f759e","toSide":"left"},
+		{"id":"30a26cce3dfb18eb","fromNode":"b2f8279af161a89f","fromSide":"right","toNode":"ee7a1c6aef2f759e","toSide":"left"},
+		{"id":"77abca8a65b536b5","fromNode":"e01935441c01a234","fromSide":"right","toNode":"773f5bfa10f58ba2","toSide":"left"},
+		{"id":"ffa6c2378e4eab9b","fromNode":"014744e6f1f54c5e","fromSide":"right","toNode":"773f5bfa10f58ba2","toSide":"left"}
+	]
+}

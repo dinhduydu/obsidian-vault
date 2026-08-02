@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"72ba6fa8dfeb4933","x":-29,"y":-40,"width":250,"height":60,"type":"text","text":"Kép　「𠂊」"},
+		{"id":"85f051651d5fd2b2","x":400,"y":-280,"width":146,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/旧 - Cựu/陥 - Hãm.canvas"}
+	],
+	"edges":[
+		{"id":"b73c7513779b5ac4","fromNode":"72ba6fa8dfeb4933","fromSide":"right","toNode":"85f051651d5fd2b2","toSide":"left"}
+	]
+}

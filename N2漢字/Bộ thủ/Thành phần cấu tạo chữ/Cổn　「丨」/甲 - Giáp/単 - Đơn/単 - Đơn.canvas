@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"620e2a1db8cbde31","type":"text","text":"単 - Đơn","x":-56,"y":-37,"width":250,"height":60},
+		{"id":"dd3eaae1ee03b2ac","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/甲 - Giáp.canvas","x":-480,"y":120,"width":238,"height":123},
+		{"id":"fd803f72f241a8a9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas","x":-365,"y":-200,"width":123,"height":116},
+		{"id":"7eb307d42fcef3f2","x":400,"y":-420,"width":209,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn/弾 - Đạn.canvas"},
+		{"id":"2ed10ab2fa53a2a4","x":69,"y":-560,"width":198,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"}
+	],
+	"edges":[
+		{"id":"1fee57a19ac6b6a0","fromNode":"dd3eaae1ee03b2ac","fromSide":"right","toNode":"620e2a1db8cbde31","toSide":"left"},
+		{"id":"c5d3e4f2e44bf41f","fromNode":"fd803f72f241a8a9","fromSide":"right","toNode":"620e2a1db8cbde31","toSide":"left"},
+		{"id":"258dae36bf74a5c3","fromNode":"620e2a1db8cbde31","fromSide":"right","toNode":"7eb307d42fcef3f2","toSide":"left"},
+		{"id":"b409cce2fb48e07d","fromNode":"2ed10ab2fa53a2a4","fromSide":"right","toNode":"7eb307d42fcef3f2","toSide":"left"}
+	]
+}

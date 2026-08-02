@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d977688c85763b2c","x":-87,"y":-54,"width":250,"height":60,"type":"text","text":"尺 - Xích"},
+		{"id":"e5956c4a6d4a8e9e","x":-440,"y":-360,"width":172,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"8b6200cec064b8bf","x":-476,"y":40,"width":208,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"16536f192eb0985c","fromNode":"e5956c4a6d4a8e9e","fromSide":"right","toNode":"d977688c85763b2c","toSide":"left"},
+		{"id":"8716ebc803be90d6","fromNode":"8b6200cec064b8bf","fromSide":"right","toNode":"d977688c85763b2c","toSide":"left"}
+	]
+}

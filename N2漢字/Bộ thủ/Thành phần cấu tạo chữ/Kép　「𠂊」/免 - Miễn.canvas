@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d2d41f4792199415","x":-115,"y":-40,"width":250,"height":60,"type":"text","text":"免 - Miễn"},
+		{"id":"5fd10cc8e4f9151b","x":-480,"y":-320,"width":139,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/Kép　「𠂊」.canvas"},
+		{"id":"4aa2462a164c8374","x":-476,"y":-73,"width":135,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"9d5fb2a24d423e6c","x":-513,"y":160,"width":172,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"c435e5bd50672700","fromNode":"5fd10cc8e4f9151b","fromSide":"right","toNode":"d2d41f4792199415","toSide":"left"},
+		{"id":"2fa9508a74310942","fromNode":"4aa2462a164c8374","fromSide":"right","toNode":"d2d41f4792199415","toSide":"left"},
+		{"id":"265362a7191e2b31","fromNode":"9d5fb2a24d423e6c","fromSide":"right","toNode":"d2d41f4792199415","toSide":"left"}
+	]
+}

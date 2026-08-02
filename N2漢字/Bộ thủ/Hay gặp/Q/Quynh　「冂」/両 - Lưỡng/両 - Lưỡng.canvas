@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"17ac72a3f493b022","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"両 - Lưỡng"},
+		{"id":"c1028e25e9aa5bdf","x":-520,"y":-280,"width":149,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"df903d4b51bda27d","x":-557,"y":-67,"width":186,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"c004b0240db8db76","x":-546,"y":200,"width":175,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"75a827d383516c68","fromNode":"c1028e25e9aa5bdf","fromSide":"right","toNode":"17ac72a3f493b022","toSide":"left"},
+		{"id":"19c819928bbd0984","fromNode":"df903d4b51bda27d","fromSide":"right","toNode":"17ac72a3f493b022","toSide":"left"},
+		{"id":"4baac34573cd31a0","fromNode":"c004b0240db8db76","fromSide":"right","toNode":"17ac72a3f493b022","toSide":"left"}
+	]
+}

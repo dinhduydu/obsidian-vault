@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aaf4142f6c6460fa","x":-133,"y":-47,"width":250,"height":60,"type":"text","text":"駅 - Dịch"},
+		{"id":"296f8a23ac675941","x":-600,"y":-340,"width":188,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"},
+		{"id":"400bbefed32dbfb4","x":-598,"y":40,"width":186,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"4347aa73de442c70","fromNode":"296f8a23ac675941","fromSide":"right","toNode":"aaf4142f6c6460fa","toSide":"left"},
+		{"id":"b540c653f27b5d17","fromNode":"400bbefed32dbfb4","fromSide":"right","toNode":"aaf4142f6c6460fa","toSide":"left"}
+	]
+}

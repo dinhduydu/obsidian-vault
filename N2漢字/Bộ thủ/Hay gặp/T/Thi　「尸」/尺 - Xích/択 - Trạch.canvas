@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"84304104842bbb8f","x":-89,"y":-49,"width":250,"height":60,"type":"text","text":"択 - Trạch"},
+		{"id":"83a3d8d25478dd40","x":-340,"y":-240,"width":109,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"},
+		{"id":"e9ba7c787e306490","x":-461,"y":100,"width":176,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"3080856137605ab5","fromNode":"83a3d8d25478dd40","fromSide":"right","toNode":"84304104842bbb8f","toSide":"left"},
+		{"id":"252c09ed4935953b","fromNode":"e9ba7c787e306490","fromSide":"right","toNode":"84304104842bbb8f","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e52a9cb3f29ce38c","x":-176,"y":-50,"width":250,"height":60,"type":"text","text":"　訳 - Dịch"},
+		{"id":"82976c21fb71c613","x":-500,"y":-300,"width":123,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"},
+		{"id":"bb005c927276a3f3","x":-640,"y":20,"width":123,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"bf0e1534acdf068c","fromNode":"82976c21fb71c613","fromSide":"right","toNode":"e52a9cb3f29ce38c","toSide":"left"},
+		{"id":"476a4ab85ee46656","fromNode":"bb005c927276a3f3","fromSide":"right","toNode":"e52a9cb3f29ce38c","toSide":"left"}
+	]
+}

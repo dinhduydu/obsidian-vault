@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2500ce72dabe81ab","x":-110,"y":-52,"width":250,"height":60,"type":"text","text":"禅 - Thiền"},
+		{"id":"da62e2b1f4bd5847","x":-460,"y":-360,"width":190,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"},
+		{"id":"b088b316ab519b63","x":-449,"y":80,"width":179,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn/単 - Đơn.canvas"}
+	],
+	"edges":[
+		{"id":"b7092e3c95eac98b","fromNode":"da62e2b1f4bd5847","fromSide":"right","toNode":"2500ce72dabe81ab","toSide":"left"},
+		{"id":"e39e5147fa8bf9ac","fromNode":"b088b316ab519b63","fromSide":"right","toNode":"2500ce72dabe81ab","toSide":"left"}
+	]
+}

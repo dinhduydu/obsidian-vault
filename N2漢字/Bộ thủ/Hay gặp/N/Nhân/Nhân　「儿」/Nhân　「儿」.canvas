@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"7bf88c6109c27f2d","x":-78,"y":-47,"width":250,"height":60,"type":"text","text":"Nhân　「儿」"},
-		{"id":"64ab9dbf36cddcda","x":380,"y":-260,"width":227,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/売 - Mại/売 - Mại.canvas"}
+		{"id":"7bf88c6109c27f2d","type":"text","text":"Nhân　「儿」","x":-78,"y":-47,"width":250,"height":60},
+		{"id":"64ab9dbf36cddcda","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/売 - Mại/売 - Mại.canvas","x":380,"y":-260,"width":227,"height":150},
+		{"id":"c227f458553a62e0","x":380,"y":80,"width":206,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/旧 - Cựu/児 - Nhi.canvas"}
 	],
 	"edges":[
-		{"id":"f2064ae3f5dcd538","fromNode":"7bf88c6109c27f2d","fromSide":"right","toNode":"64ab9dbf36cddcda","toSide":"left"}
+		{"id":"f2064ae3f5dcd538","fromNode":"7bf88c6109c27f2d","fromSide":"right","toNode":"64ab9dbf36cddcda","toSide":"left"},
+		{"id":"3d08327ff3f05217","fromNode":"7bf88c6109c27f2d","fromSide":"right","toNode":"c227f458553a62e0","toSide":"left"}
 	]
 }

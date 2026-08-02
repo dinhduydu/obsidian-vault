@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0ed29ee0450750dc","x":-80,"y":-43,"width":250,"height":60,"type":"text","text":"房 - Phòng"},
+		{"id":"112ce9d0ce8c3e14","x":-480,"y":-220,"width":133,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"},
+		{"id":"754f9f8adea2bdc1","x":-539,"y":17,"width":192,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas"}
+	],
+	"edges":[
+		{"id":"378673fa347a9ab3","fromNode":"112ce9d0ce8c3e14","fromSide":"right","toNode":"0ed29ee0450750dc","toSide":"left"},
+		{"id":"702044eaea8073ac","fromNode":"754f9f8adea2bdc1","fromSide":"right","toNode":"0ed29ee0450750dc","toSide":"left"}
+	]
+}

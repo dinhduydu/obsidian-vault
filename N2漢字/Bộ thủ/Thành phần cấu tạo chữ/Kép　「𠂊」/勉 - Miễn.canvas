@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1340b8a5b83cc6f2","x":-96,"y":3,"width":250,"height":60,"type":"text","text":"勉 - Miễn"},
+		{"id":"dc661022ea26bf8b","x":-660,"y":140,"width":201,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/免 - Miễn.canvas"},
+		{"id":"fe79cd4807bfd302","x":-637,"y":-240,"width":178,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"484aed922591edde","fromNode":"dc661022ea26bf8b","fromSide":"right","toNode":"1340b8a5b83cc6f2","toSide":"left"},
+		{"id":"1b689e82465bc95e","fromNode":"fe79cd4807bfd302","fromSide":"right","toNode":"1340b8a5b83cc6f2","toSide":"left"}
+	]
+}

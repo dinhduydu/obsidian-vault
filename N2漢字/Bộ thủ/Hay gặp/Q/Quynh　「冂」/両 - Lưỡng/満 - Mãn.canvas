@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8558b13fa6d40818","x":-145,"y":-26,"width":250,"height":60,"type":"text","text":"満 - Mãn"},
+		{"id":"e8279a6cbef3e15d","x":-480,"y":80,"width":140,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/両 - Lưỡng/両 - Lưỡng.canvas"},
+		{"id":"db021f8688ad72f6","x":-514,"y":-260,"width":174,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"9aa4c018463d0c80","x":-760,"y":-65,"width":176,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"13e614f6743d4d65","fromNode":"e8279a6cbef3e15d","fromSide":"right","toNode":"8558b13fa6d40818","toSide":"left"},
+		{"id":"36480c6a665b46d3","fromNode":"db021f8688ad72f6","fromSide":"right","toNode":"8558b13fa6d40818","toSide":"left"},
+		{"id":"f0116e660607654c","fromNode":"9aa4c018463d0c80","fromSide":"right","toNode":"8558b13fa6d40818","toSide":"left"}
+	]
+}

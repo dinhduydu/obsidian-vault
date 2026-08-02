@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bd61c4bde439038f","x":-111,"y":-55,"width":250,"height":60,"type":"text","text":"釈 - Thích"},
+		{"id":"981ab4814301991b","x":-420,"y":-340,"width":165,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas"},
+		{"id":"d36e3efacc8277f9","x":-640,"y":-101,"width":191,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Biện「釆 」/Biện「釆 」.canvas"}
+	],
+	"edges":[
+		{"id":"2b570c41b2657292","fromNode":"981ab4814301991b","fromSide":"right","toNode":"bd61c4bde439038f","toSide":"left"},
+		{"id":"bd7ad1a95c95d420","fromNode":"d36e3efacc8277f9","fromSide":"right","toNode":"bd61c4bde439038f","toSide":"left"}
+	]
+}
