@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"39938bef8920a4d8","x":-197,"y":-51,"width":250,"height":60,"type":"text","text":"光 - Quang"},
+		{"id":"3ddc0f83713150f6","x":-600,"y":-380,"width":180,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"},
+		{"id":"e82b5fb1a245bd86","x":-557,"y":-99,"width":137,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"f7fdc71f46e09090","x":-581,"y":180,"width":161,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
+		{"id":"ba200dc43ecef8ab","x":280,"y":-380,"width":248,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/軍 - Quân/輝 - Huy.canvas"}
+	],
+	"edges":[
+		{"id":"224f3006984a50e2","fromNode":"3ddc0f83713150f6","fromSide":"right","toNode":"39938bef8920a4d8","toSide":"left"},
+		{"id":"030e9c4b856b39f0","fromNode":"e82b5fb1a245bd86","fromSide":"right","toNode":"39938bef8920a4d8","toSide":"left"},
+		{"id":"cd065b61917546a8","fromNode":"f7fdc71f46e09090","fromSide":"right","toNode":"39938bef8920a4d8","toSide":"left"},
+		{"id":"42f88053a9d98a5c","fromNode":"39938bef8920a4d8","fromSide":"right","toNode":"ba200dc43ecef8ab","toSide":"left"}
+	]
+}

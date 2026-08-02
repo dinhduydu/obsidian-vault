@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c2be8b48764e2e88","type":"text","text":"兴 - Hưng","x":-213,"y":-50,"width":250,"height":60},
+		{"id":"61d73b92e86177f3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/興 - Hưng.canvas","x":-540,"y":-240,"width":116,"height":92},
+		{"id":"b44de8e051a0b509","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas","x":-820,"y":-103,"width":186,"height":166},
+		{"id":"b0e0d4d453eb0b36","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-579,"y":80,"width":155,"height":176},
+		{"id":"2d69063d2ff3f9ae","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas","x":-576,"y":352,"width":152,"height":139}
+	],
+	"edges":[
+		{"id":"67fe5f64688d4537","fromNode":"61d73b92e86177f3","fromSide":"right","toNode":"c2be8b48764e2e88","toSide":"left","label":"là phồn thể của"},
+		{"id":"9a7f0eb48968224b","fromNode":"b44de8e051a0b509","fromSide":"right","toNode":"c2be8b48764e2e88","toSide":"left"},
+		{"id":"0eee56399da39fa1","fromNode":"b0e0d4d453eb0b36","fromSide":"right","toNode":"c2be8b48764e2e88","toSide":"left"},
+		{"id":"08ce4ff623945298","fromNode":"2d69063d2ff3f9ae","fromSide":"right","toNode":"c2be8b48764e2e88","toSide":"left"}
+	]
+}

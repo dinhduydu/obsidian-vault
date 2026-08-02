@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f71996c5cbddeef0","x":-123,"y":-33,"width":250,"height":60,"type":"text","text":"建 - Kiến"},
+		{"id":"8bfd95d7e5bd4fd7","x":-380,"y":-200,"width":146,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/Duật　「聿 (⺻)」.canvas"},
+		{"id":"4ad19dc853d9a017","x":-423,"y":80,"width":189,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dẫn　「廴」/Dẫn　「廴」.canvas"}
+	],
+	"edges":[
+		{"id":"200340d257f41e32","fromNode":"8bfd95d7e5bd4fd7","fromSide":"right","toNode":"f71996c5cbddeef0","toSide":"left"},
+		{"id":"f2dee083c1665c44","fromNode":"4ad19dc853d9a017","fromSide":"right","toNode":"f71996c5cbddeef0","toSide":"left"}
+	]
+}

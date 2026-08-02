@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e0458a36dddae098","type":"text","text":"筒 - Đồng","x":-140,"y":-49,"width":250,"height":60},
+		{"id":"c971157499bb965a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-460,"y":-300,"width":142,"height":107},
+		{"id":"908a5fb9ee58e5cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/同 - Đồng.canvas","x":-375,"y":100,"width":115,"height":160}
+	],
+	"edges":[
+		{"id":"a9d145354c5d7ded","fromNode":"c971157499bb965a","fromSide":"right","toNode":"e0458a36dddae098","toSide":"left"},
+		{"id":"bed61d3109b88dc0","fromNode":"908a5fb9ee58e5cc","fromSide":"right","toNode":"e0458a36dddae098","toSide":"left"}
+	]
+}

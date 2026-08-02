@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1e7eb1ed8d787090","type":"text","text":"掛 - Quải","x":-97,"y":-45,"width":250,"height":60},
+		{"id":"10173a364c2f65b8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-420,"y":-200,"width":95,"height":119},
+		{"id":"1f591b12de0145ee","x":-515,"y":60,"width":191,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/卦 - Quải.canvas"}
+	],
+	"edges":[
+		{"id":"b8408b3ba395fed1","fromNode":"10173a364c2f65b8","fromSide":"right","toNode":"1e7eb1ed8d787090","toSide":"left"},
+		{"id":"5718a38ae5073cf3","fromNode":"1f591b12de0145ee","fromSide":"right","toNode":"1e7eb1ed8d787090","toSide":"left"}
+	]
+}

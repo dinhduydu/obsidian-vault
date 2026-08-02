@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a61d9906ffb6692","x":-116,"y":-26,"width":250,"height":60,"type":"text","text":"飼 - Tự"},
+		{"id":"bdc9c591f70d6023","x":-480,"y":-340,"width":151,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/司 - Ty/司 - Ty.canvas"},
+		{"id":"b136bcf02ab17424","x":-550,"y":-81,"width":221,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"}
+	],
+	"edges":[
+		{"id":"ba67bb15315b25a0","fromNode":"bdc9c591f70d6023","fromSide":"right","toNode":"6a61d9906ffb6692","toSide":"left"},
+		{"id":"7b468ff958e1df54","fromNode":"b136bcf02ab17424","fromSide":"right","toNode":"6a61d9906ffb6692","toSide":"left"}
+	]
+}

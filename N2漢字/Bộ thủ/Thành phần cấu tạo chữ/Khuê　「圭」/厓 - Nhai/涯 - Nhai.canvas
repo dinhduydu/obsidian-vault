@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8ad10aef5288226e","x":-96,"y":-22,"width":250,"height":60,"type":"text","text":"涯 - Nhai"},
+		{"id":"838d43d0bd21f2aa","x":-480,"y":-320,"width":217,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/厓 - Nhai/厓 - Nhai.canvas"},
+		{"id":"72e3197e6ec13522","x":-489,"y":100,"width":226,"height":236,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"dba0097719da1e60","fromNode":"838d43d0bd21f2aa","fromSide":"right","toNode":"8ad10aef5288226e","toSide":"left"},
+		{"id":"a5391070ea0eff91","fromNode":"72e3197e6ec13522","fromSide":"right","toNode":"8ad10aef5288226e","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c8fb5ee4e0b535ee","x":-116,"y":-37,"width":250,"height":60,"type":"text","text":"影 - Ảnh"},
+		{"id":"40042d64a13b03c4","x":-440,"y":-260,"width":158,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/景 - Cảnh/景 - Cảnh.canvas"},
+		{"id":"c276e8dedb6f5543","x":-440,"y":100,"width":158,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
+	],
+	"edges":[
+		{"id":"650e5f26d234666f","fromNode":"40042d64a13b03c4","fromSide":"right","toNode":"c8fb5ee4e0b535ee","toSide":"left"},
+		{"id":"7a19f6f48348b8ff","fromNode":"c276e8dedb6f5543","fromSide":"right","toNode":"c8fb5ee4e0b535ee","toSide":"left"}
+	]
+}

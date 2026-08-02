@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6f621484e3f37925","x":-144,"y":-46,"width":250,"height":60,"type":"text","text":"洞 - Động"},
+		{"id":"01c2e2432a011762","x":-440,"y":-300,"width":142,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/同 - Đồng.canvas"},
+		{"id":"4a301a8def71bee1","x":-440,"y":60,"width":142,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"f4c5764ed021ab7a","fromNode":"01c2e2432a011762","fromSide":"right","toNode":"6f621484e3f37925","toSide":"left"},
+		{"id":"f61c836a07055c36","fromNode":"4a301a8def71bee1","fromSide":"right","toNode":"6f621484e3f37925","toSide":"left"}
+	]
+}

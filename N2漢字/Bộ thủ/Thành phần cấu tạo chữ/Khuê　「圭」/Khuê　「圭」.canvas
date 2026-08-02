@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8d726d898e2b7561","x":-118,"y":-32,"width":250,"height":60,"type":"text","text":"Khuê　「圭」"},
+		{"id":"57d858209e05e756","x":320,"y":-280,"width":217,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/街 - Nhai.canvas"},
+		{"id":"84eb3f68ef0bac38","x":-66,"y":-480,"width":198,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"}
+	],
+	"edges":[
+		{"id":"20b9d6c06918279a","fromNode":"8d726d898e2b7561","fromSide":"right","toNode":"57d858209e05e756","toSide":"left"},
+		{"id":"4cda5bf8036c0179","fromNode":"84eb3f68ef0bac38","fromSide":"right","toNode":"57d858209e05e756","toSide":"left"}
+	]
+}

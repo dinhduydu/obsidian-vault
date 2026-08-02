@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"08addc02958ec2c9","x":-67,"y":-42,"width":250,"height":60,"type":"text","text":"常 - Thường"},
+		{"id":"6dc61fc4c9118e1f","x":-480,"y":-320,"width":157,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/向 - Hướng/尚 - Thượng/尚 - Thượng.canvas"},
+		{"id":"ef4c8814825148e1","x":-530,"y":80,"width":207,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+	],
+	"edges":[
+		{"id":"e9b9782034d3a923","fromNode":"6dc61fc4c9118e1f","fromSide":"right","toNode":"08addc02958ec2c9","toSide":"left"},
+		{"id":"71fbcd2dd48d7980","fromNode":"ef4c8814825148e1","fromSide":"right","toNode":"08addc02958ec2c9","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a00b84c052d43459","x":-77,"y":-41,"width":250,"height":60,"type":"text","text":"佳 - Giai"},
+		{"id":"b1aace62da9c909b","x":-480,"y":240,"width":202,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/Khuê　「圭」.canvas"},
+		{"id":"c3457a3c32a69ab9","x":-447,"y":-300,"width":169,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"89b81e947e8e3cc1","fromNode":"b1aace62da9c909b","fromSide":"right","toNode":"a00b84c052d43459","toSide":"left"},
+		{"id":"cb1e4d4401c4d9d3","fromNode":"c3457a3c32a69ab9","fromSide":"right","toNode":"a00b84c052d43459","toSide":"left"}
+	]
+}

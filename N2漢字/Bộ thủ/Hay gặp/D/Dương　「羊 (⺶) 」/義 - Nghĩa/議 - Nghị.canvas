@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e3cfc2ec63cd6e1b","x":-100,"y":-31,"width":250,"height":60,"type":"text","text":"議 - Nghị"},
+		{"id":"27e0ba0a8037c35c","x":-420,"y":160,"width":121,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa/義 - Nghĩa.canvas"},
+		{"id":"ac8e889473b6ca44","x":-432,"y":-280,"width":133,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"209283742b8e5f97","fromNode":"27e0ba0a8037c35c","fromSide":"right","toNode":"e3cfc2ec63cd6e1b","toSide":"left"},
+		{"id":"cc8b1d56c30aa029","fromNode":"ac8e889473b6ca44","fromSide":"right","toNode":"e3cfc2ec63cd6e1b","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1b985406fab4c173","type":"text","text":"志 - Chí","x":-130,"y":-40,"width":250,"height":60},
+		{"id":"47130289d66872bc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas","x":-620,"y":-460,"width":200,"height":240},
+		{"id":"4968079903777d66","x":-655,"y":60,"width":235,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"39993c7676df3ecb","fromNode":"47130289d66872bc","fromSide":"right","toNode":"1b985406fab4c173","toSide":"left"},
+		{"id":"a4912ee971f3d0e4","fromNode":"4968079903777d66","fromSide":"right","toNode":"1b985406fab4c173","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"577dcc65248911de","x":-84,"y":-40,"width":250,"height":60,"type":"text","text":"健 - Kiện"},
+		{"id":"9012d93a4c33c9ab","x":-460,"y":100,"width":203,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"666029f624eda017","x":-449,"y":-280,"width":192,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/建 - Kiến/建 - Kiến.canvas"}
+	],
+	"edges":[
+		{"id":"c609ac7ab014382f","fromNode":"666029f624eda017","fromSide":"right","toNode":"577dcc65248911de","toSide":"left"},
+		{"id":"dba4ecd517b62af7","fromNode":"9012d93a4c33c9ab","fromSide":"right","toNode":"577dcc65248911de","toSide":"left"}
+	]
+}

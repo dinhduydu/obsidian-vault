@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"58ac0a265d3404fc","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"剣 - Kiếm"},
+		{"id":"9e591e357d7523c2","x":-540,"y":-300,"width":160,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiêm　「佥」/Thiêm　「佥」.canvas"},
+		{"id":"a69012351912f60c","x":-530,"y":60,"width":150,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"e9866baeb4d12303","fromNode":"9e591e357d7523c2","fromSide":"right","toNode":"58ac0a265d3404fc","toSide":"left"},
+		{"id":"42b5137cc3b0fe16","fromNode":"a69012351912f60c","fromSide":"right","toNode":"58ac0a265d3404fc","toSide":"left"}
+	]
+}

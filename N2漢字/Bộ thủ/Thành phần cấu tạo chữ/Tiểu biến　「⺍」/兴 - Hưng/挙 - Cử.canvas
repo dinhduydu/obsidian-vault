@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a66d4ec9c1931b9","type":"text","text":"挙 - Cử","x":-130,"y":-32,"width":250,"height":60},
+		{"id":"d606778d2e0d3a7d","x":-700,"y":-203,"width":252,"height":231,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/兴 - Hưng/兴 - Hưng.canvas"},
+		{"id":"759d5073e2992b69","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-665,"y":180,"width":217,"height":171}
+	],
+	"edges":[
+		{"id":"45d46b1dc67bc8e0","fromNode":"759d5073e2992b69","fromSide":"right","toNode":"6a66d4ec9c1931b9","toSide":"left"},
+		{"id":"5e50e3d101e34b46","fromNode":"d606778d2e0d3a7d","fromSide":"right","toNode":"6a66d4ec9c1931b9","toSide":"left"}
+	]
+}

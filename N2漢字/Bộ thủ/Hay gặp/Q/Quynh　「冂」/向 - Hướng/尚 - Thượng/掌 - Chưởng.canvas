@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3dc5f803d7959764","x":-121,"y":-50,"width":250,"height":60,"type":"text","text":"掌 - Chưởng"},
+		{"id":"dbdd96cb37de4342","x":-480,"y":-380,"width":148,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/向 - Hướng/尚 - Thượng/尚 - Thượng.canvas"},
+		{"id":"be0dd2712407c51d","x":-524,"y":60,"width":192,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"42b6d3fc0fce8569","fromNode":"dbdd96cb37de4342","fromSide":"right","toNode":"3dc5f803d7959764","toSide":"left"},
+		{"id":"2f40c4167d7c82cf","fromNode":"be0dd2712407c51d","fromSide":"right","toNode":"3dc5f803d7959764","toSide":"left"}
+	]
+}

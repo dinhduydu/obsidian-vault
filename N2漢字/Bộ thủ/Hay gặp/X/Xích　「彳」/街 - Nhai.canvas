@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"7e5a0c795314b7c8","type":"text","text":"街 - Nhai","x":-100,"y":-36,"width":250,"height":60},
-		{"id":"cc566f9f0e9a26c2","x":-400,"y":-240,"width":187,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"}
-	],
-	"edges":[
-		{"id":"ad12a0e57417e6c4","fromNode":"cc566f9f0e9a26c2","fromSide":"right","toNode":"7e5a0c795314b7c8","toSide":"left"}
-	]
-}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"48eca697e1a5854c","type":"text","text":"輝 - Huy","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b52f4ce56af959ca","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/軍 - Quân/軍 - Quân.canvas","x":-460,"y":-260,"width":176,"height":121},
+		{"id":"1845cfcc6a2cece9","x":-439,"y":80,"width":155,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/光 - Quang/光 - Quang.canvas"}
+	],
+	"edges":[
+		{"id":"9e2a2f7e882c74fb","fromNode":"b52f4ce56af959ca","fromSide":"right","toNode":"48eca697e1a5854c","toSide":"left"},
+		{"id":"d0beb140b1a6cb55","fromNode":"1845cfcc6a2cece9","fromSide":"right","toNode":"48eca697e1a5854c","toSide":"left"}
+	]
+}

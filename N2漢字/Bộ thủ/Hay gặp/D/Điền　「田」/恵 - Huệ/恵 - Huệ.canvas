@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c31e201d2a2d7e28","x":-200,"y":-59,"width":250,"height":60,"type":"text","text":"恵 - Huệ"},
+		{"id":"b34eee2afd8ebc5f","x":-500,"y":-79,"width":136,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"a4381de74cceb164","x":-474,"y":-320,"width":110,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"66266fe7a77a0043","x":-499,"y":160,"width":135,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"1722149153291579","fromNode":"b34eee2afd8ebc5f","fromSide":"right","toNode":"c31e201d2a2d7e28","toSide":"left"},
+		{"id":"6ae250fb60c75772","fromNode":"a4381de74cceb164","fromSide":"right","toNode":"c31e201d2a2d7e28","toSide":"left"},
+		{"id":"f9e5f1fe1e7b1cce","fromNode":"66266fe7a77a0043","fromSide":"right","toNode":"c31e201d2a2d7e28","toSide":"left"}
+	]
+}

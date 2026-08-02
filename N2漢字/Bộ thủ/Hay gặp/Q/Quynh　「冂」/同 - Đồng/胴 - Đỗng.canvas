@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6e00531d75002daa","x":-138,"y":-40,"width":250,"height":60,"type":"text","text":"胴 - Đỗng"},
+		{"id":"f71f842f6a88a521","x":-480,"y":-280,"width":148,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/同 - Đồng/同 - Đồng.canvas"},
+		{"id":"83b25135ac296c9a","x":-489,"y":120,"width":157,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"7f02156021083b7e","fromNode":"f71f842f6a88a521","fromSide":"right","toNode":"6e00531d75002daa","toSide":"left"},
+		{"id":"6e500e716a2eb7bc","fromNode":"83b25135ac296c9a","fromSide":"right","toNode":"6e00531d75002daa","toSide":"left"}
+	]
+}

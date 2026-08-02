@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3dd96c5e023026b0","x":-139,"y":-35,"width":250,"height":60,"type":"text","text":"司 - Ty"},
+		{"id":"dfc052c70abe6404","x":-580,"y":-360,"width":195,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/Đinh　「丁」.canvas"},
+		{"id":"2404860cb40efdd3","x":-519,"y":-81,"width":134,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"a8500647718b01a0","x":-621,"y":220,"width":236,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"0d1ab93c9155c896","fromNode":"dfc052c70abe6404","fromSide":"right","toNode":"3dd96c5e023026b0","toSide":"left"},
+		{"id":"69ea054ac59b780c","fromNode":"2404860cb40efdd3","fromSide":"right","toNode":"3dd96c5e023026b0","toSide":"left"},
+		{"id":"5caa9e41b776dc24","fromNode":"a8500647718b01a0","fromSide":"right","toNode":"3dd96c5e023026b0","toSide":"left"}
+	]
+}

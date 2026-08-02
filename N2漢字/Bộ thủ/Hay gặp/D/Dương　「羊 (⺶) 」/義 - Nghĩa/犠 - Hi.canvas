@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dd88ca36d34c532c","x":-115,"y":-29,"width":250,"height":60,"type":"text","text":"犠 - Hi"},
+		{"id":"d98d033d4403ded8","x":-522,"y":60,"width":202,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"},
+		{"id":"e118062e87a515ff","x":-480,"y":-280,"width":160,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/義 - Nghĩa/義 - Nghĩa.canvas"}
+	],
+	"edges":[
+		{"id":"63df8978a2b6a6af","fromNode":"e118062e87a515ff","fromSide":"right","toNode":"dd88ca36d34c532c","toSide":"left"},
+		{"id":"2a28b32a1bb64c11","fromNode":"d98d033d4403ded8","fromSide":"right","toNode":"dd88ca36d34c532c","toSide":"left"}
+	]
+}

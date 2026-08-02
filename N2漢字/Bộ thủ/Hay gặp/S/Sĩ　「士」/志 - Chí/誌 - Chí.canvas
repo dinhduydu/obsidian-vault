@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17da9534c34a5d42","x":-74,"y":-25,"width":250,"height":60,"type":"text","text":"誌 - Chí"},
+		{"id":"f9eb43f77418e501","x":-380,"y":-280,"width":138,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/志 - Chí/志 - Chí.canvas"},
+		{"id":"b0912e2ec1b3d109","x":-397,"y":100,"width":155,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"7da2bb157213c8c5","fromNode":"f9eb43f77418e501","fromSide":"right","toNode":"17da9534c34a5d42","toSide":"left"},
+		{"id":"2f127b9618ebfa7e","fromNode":"b0912e2ec1b3d109","fromSide":"right","toNode":"17da9534c34a5d42","toSide":"left"}
+	]
+}

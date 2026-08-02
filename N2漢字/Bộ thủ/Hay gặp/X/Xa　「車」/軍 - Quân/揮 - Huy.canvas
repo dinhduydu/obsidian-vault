@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ffccfcd01e91a356","x":-154,"y":-72,"width":250,"height":60,"type":"text","text":"揮 - Huy"},
+		{"id":"a56944e44f545e72","x":-440,"y":-340,"width":152,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/軍 - Quân/軍 - Quân.canvas"},
+		{"id":"67259fbc900769a4","x":-560,"y":80,"width":181,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"e260827b480c685b","fromNode":"a56944e44f545e72","fromSide":"right","toNode":"ffccfcd01e91a356","toSide":"left"},
+		{"id":"97918003e612e6cb","fromNode":"67259fbc900769a4","fromSide":"right","toNode":"ffccfcd01e91a356","toSide":"left"}
+	]
+}

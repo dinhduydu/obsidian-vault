@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"794b370db428b591","x":-111,"y":-7,"width":250,"height":60,"type":"text","text":"承 - Thừa"},
+		{"id":"399392017d5ed172","x":-540,"y":-51,"width":185,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"561bfd6c413ea159","x":-522,"y":-280,"width":150,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/Tam　「三」.canvas"},
+		{"id":"431aedb0893885f7","x":-355,"y":-520,"width":150,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」/Liễu　「了」.canvas"}
+	],
+	"edges":[
+		{"id":"61ee9ae05e1e7b8f","fromNode":"399392017d5ed172","fromSide":"right","toNode":"794b370db428b591","toSide":"left"},
+		{"id":"b27d9086a9017725","fromNode":"561bfd6c413ea159","fromSide":"right","toNode":"794b370db428b591","toSide":"left"},
+		{"id":"4fa4e900f92afad5","fromNode":"431aedb0893885f7","fromSide":"right","toNode":"794b370db428b591","toSide":"left"}
+	]
+}

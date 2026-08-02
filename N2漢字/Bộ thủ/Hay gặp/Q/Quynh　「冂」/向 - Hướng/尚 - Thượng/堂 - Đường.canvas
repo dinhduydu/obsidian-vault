@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"938290b05f7bce7a","x":-124,"y":-46,"width":250,"height":60,"type":"text","text":"堂 - Đường"},
+		{"id":"c69de7b3331af39b","x":-511,"y":180,"width":162,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"0aae5b96db46671d","x":-511,"y":-320,"width":171,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/向 - Hướng/尚 - Thượng/尚 - Thượng.canvas"}
+	],
+	"edges":[
+		{"id":"66a8bab9f7de1fa1","fromNode":"0aae5b96db46671d","fromSide":"right","toNode":"938290b05f7bce7a","toSide":"left"},
+		{"id":"a4001f77d45638ca","fromNode":"c69de7b3331af39b","fromSide":"right","toNode":"938290b05f7bce7a","toSide":"left"}
+	]
+}

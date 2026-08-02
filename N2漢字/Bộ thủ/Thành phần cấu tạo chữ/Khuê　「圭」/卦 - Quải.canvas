@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d854173185d18a6a","x":-112,"y":-54,"width":250,"height":60,"type":"text","text":"卦 - Quải"},
+		{"id":"bf942f339cf2c9fe","x":-460,"y":100,"width":134,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/Khuê　「圭」.canvas"},
+		{"id":"03affd53d92b2901","x":-455,"y":-200,"width":129,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/Bốc　「卜」.canvas"}
+	],
+	"edges":[
+		{"id":"228c242f133be3fe","fromNode":"bf942f339cf2c9fe","fromSide":"right","toNode":"d854173185d18a6a","toSide":"left"},
+		{"id":"50f0be4840273bf4","fromNode":"03affd53d92b2901","fromSide":"right","toNode":"d854173185d18a6a","toSide":"left"}
+	]
+}

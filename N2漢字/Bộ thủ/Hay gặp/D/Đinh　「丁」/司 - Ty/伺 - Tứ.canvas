@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ec354ff4294d3695","x":-112,"y":-42,"width":250,"height":60,"type":"text","text":"伺 - Tứ"},
+		{"id":"f6b18ba89b98d4d1","x":-440,"y":-280,"width":150,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/司 - Ty/司 - Ty.canvas"},
+		{"id":"36db865051c31dc0","x":-680,"y":-85,"width":182,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"78820f056a5af744","fromNode":"f6b18ba89b98d4d1","fromSide":"right","toNode":"ec354ff4294d3695","toSide":"left"},
+		{"id":"2329d1bfc02599ec","fromNode":"36db865051c31dc0","fromSide":"right","toNode":"ec354ff4294d3695","toSide":"left"}
+	]
+}

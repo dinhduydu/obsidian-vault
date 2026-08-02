@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bee249f9d6126f8b","x":-119,"y":-69,"width":250,"height":60,"type":"text","text":"景 - Cảnh"},
+		{"id":"8e8c4a8953864589","x":-466,"y":-280,"width":158,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"14f8a522b5276ba8","x":-480,"y":40,"width":172,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/Kinh　「京」.canvas"}
+	],
+	"edges":[
+		{"id":"71a7516b14f96517","fromNode":"14f8a522b5276ba8","fromSide":"right","toNode":"bee249f9d6126f8b","toSide":"left"},
+		{"id":"c2af435e1667b5ef","fromNode":"8e8c4a8953864589","fromSide":"right","toNode":"bee249f9d6126f8b","toSide":"left"}
+	]
+}
