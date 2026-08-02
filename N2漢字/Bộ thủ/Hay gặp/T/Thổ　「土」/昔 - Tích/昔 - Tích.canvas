@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"dd1b43448f8cd61e","type":"text","text":"昔 - Tích","x":-147,"y":-32,"width":250,"height":60},
+		{"id":"87aa340009211190","x":400,"y":-340,"width":216,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/惜 - Tích.canvas"},
+		{"id":"757b55b3259d252e","x":40,"y":-560,"width":175,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"},
+		{"id":"eacb5b1512a2aa90","x":400,"y":100,"width":224,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/借 - Tá.canvas"},
+		{"id":"6cc29a68465cc502","x":103,"y":340,"width":161,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"100417f871df7e7a","fromNode":"dd1b43448f8cd61e","fromSide":"right","toNode":"87aa340009211190","toSide":"left"},
+		{"id":"ad07880b750d19a7","fromNode":"757b55b3259d252e","fromSide":"right","toNode":"87aa340009211190","toSide":"left"},
+		{"id":"d36d0ff949aaaa4d","fromNode":"dd1b43448f8cd61e","fromSide":"right","toNode":"eacb5b1512a2aa90","toSide":"left"},
+		{"id":"857eaadad02c5118","fromNode":"6cc29a68465cc502","fromSide":"right","toNode":"eacb5b1512a2aa90","toSide":"left"}
+	]
+}

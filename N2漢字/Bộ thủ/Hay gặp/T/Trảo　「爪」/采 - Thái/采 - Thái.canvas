@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"660d8fe6be99d2c2","x":-81,"y":5,"width":250,"height":60,"type":"text","text":"采 - Thái"},
+		{"id":"7529c5345ef5f837","x":-420,"y":-260,"width":133,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"c9f04c182c8c78a8","x":-419,"y":80,"width":132,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"c3297f91f6a84557","fromNode":"7529c5345ef5f837","fromSide":"right","toNode":"660d8fe6be99d2c2","toSide":"left"},
+		{"id":"d6334a473747528a","fromNode":"c9f04c182c8c78a8","fromSide":"right","toNode":"660d8fe6be99d2c2","toSide":"left"}
+	]
+}

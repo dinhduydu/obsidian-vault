@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4182f3ddc50962ca","x":-98,"y":-34,"width":250,"height":60,"type":"text","text":"顕 - Hiển"},
+		{"id":"6e61626f2c66c4ee","x":-400,"y":-220,"width":106,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"},
+		{"id":"c5d33344a5c6e9a2","x":-462,"y":-420,"width":168,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"d7eb4c0d0a2c3cc7","x":-451,"y":120,"width":157,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"aabc66f2f971dcd7","fromNode":"6e61626f2c66c4ee","fromSide":"right","toNode":"4182f3ddc50962ca","toSide":"left"},
+		{"id":"f97ef35d7836cb22","fromNode":"c5d33344a5c6e9a2","fromSide":"right","toNode":"4182f3ddc50962ca","toSide":"left"},
+		{"id":"2f62502b7213372b","fromNode":"d7eb4c0d0a2c3cc7","fromSide":"right","toNode":"4182f3ddc50962ca","toSide":"left"}
+	]
+}

@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"0689cb8ee792b674","x":-113,"y":-45,"width":250,"height":60,"type":"text","text":"Chu　「舟」"},
-		{"id":"f8f42e5b9ff8811d","x":254,"y":-115,"width":250,"height":60,"type":"text","text":"thuyền"}
+		{"id":"0689cb8ee792b674","type":"text","text":"Chu　「舟」","x":-113,"y":-45,"width":250,"height":60},
+		{"id":"a9c459b7e5e402fd","x":309,"y":-460,"width":195,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/船 - Thuyền.canvas"},
+		{"id":"f8f42e5b9ff8811d","type":"text","text":"thuyền","x":-520,"y":-260,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"6debec7c81dface1","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"f8f42e5b9ff8811d","toSide":"left"}
+		{"id":"03ba0edd5924e382","fromNode":"f8f42e5b9ff8811d","fromSide":"right","toNode":"0689cb8ee792b674","toSide":"left"},
+		{"id":"1bb2696430ae988b","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"a9c459b7e5e402fd","toSide":"left"}
 	]
 }

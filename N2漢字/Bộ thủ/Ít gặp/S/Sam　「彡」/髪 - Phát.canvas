@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a6c48d7169dd0750","x":-139,"y":-51,"width":250,"height":60,"type":"text","text":"髪 - Phát"},
+		{"id":"37e2b5c8ebab99c4","x":-380,"y":-180,"width":104,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"},
+		{"id":"94c02acab8e9b681","x":-600,"y":-102,"width":159,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trường　「長 (镸) 」/Trường　「長 (镸) 」.canvas"},
+		{"id":"bcbe56c794503f70","x":-500,"y":200,"width":227,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/友 - Hữu.canvas"}
+	],
+	"edges":[
+		{"id":"43865370573cc130","fromNode":"37e2b5c8ebab99c4","fromSide":"right","toNode":"a6c48d7169dd0750","toSide":"left"},
+		{"id":"42deb026ef949f88","fromNode":"94c02acab8e9b681","fromSide":"right","toNode":"a6c48d7169dd0750","toSide":"left"},
+		{"id":"96154f3cafc695ea","fromNode":"bcbe56c794503f70","fromSide":"right","toNode":"a6c48d7169dd0750","toSide":"left"}
+	]
+}

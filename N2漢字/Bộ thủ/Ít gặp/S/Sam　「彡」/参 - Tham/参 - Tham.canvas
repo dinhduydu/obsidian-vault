@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b79ffc4afc8c48d9","x":-69,"y":-28,"width":250,"height":60,"type":"text","text":"参 - Gia"},
+		{"id":"a6b697cfab978195","x":-480,"y":-360,"width":185,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
+		{"id":"088b2740821c0e29","x":-439,"y":-68,"width":144,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"86f15dfd09ed9c2f","x":-484,"y":260,"width":189,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
+	],
+	"edges":[
+		{"id":"7f054f3e206f7e02","fromNode":"a6b697cfab978195","fromSide":"right","toNode":"b79ffc4afc8c48d9","toSide":"left"},
+		{"id":"e7288c38a44ac87a","fromNode":"088b2740821c0e29","fromSide":"right","toNode":"b79ffc4afc8c48d9","toSide":"left"},
+		{"id":"13d12932e2f31edb","fromNode":"86f15dfd09ed9c2f","fromSide":"right","toNode":"b79ffc4afc8c48d9","toSide":"left"}
+	]
+}

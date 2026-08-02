@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fe9d07d65fd377a8","x":-140,"y":-24,"width":250,"height":60,"type":"text","text":"診 - Chẩn"},
+		{"id":"c056aef63e801d25","x":-420,"y":-240,"width":151,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"56affb2c8243ce45","fromNode":"c056aef63e801d25","fromSide":"right","toNode":"fe9d07d65fd377a8","toSide":"left"}
+	]
+}

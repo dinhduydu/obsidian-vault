@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"28b7acf4d829debf","x":-131,"y":-57,"width":250,"height":60,"type":"text","text":"　錯 - Thác"},
+		{"id":"e84a5fbb372bcbac","x":-520,"y":-320,"width":152,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"dc46a7d0ffab550c","x":-564,"y":60,"width":196,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"}
+	],
+	"edges":[
+		{"id":"dae49ee48496f5d5","fromNode":"e84a5fbb372bcbac","fromSide":"right","toNode":"28b7acf4d829debf","toSide":"left"},
+		{"id":"59080d8f455957b9","fromNode":"dc46a7d0ffab550c","fromSide":"right","toNode":"28b7acf4d829debf","toSide":"left"}
+	]
+}

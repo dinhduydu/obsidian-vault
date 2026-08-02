@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f52ce0888b5bdce7","x":-113,"y":-42,"width":250,"height":60,"type":"text","text":"湿 - Thấp"},
+		{"id":"8c184142379b7c8f","x":-460,"y":140,"width":157,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"},
+		{"id":"46600af0092d500b","x":-660,"y":-58,"width":112,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"5c420c8d49aef3d4","x":-424,"y":-300,"width":121,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"57a3f0ae3febf304","fromNode":"8c184142379b7c8f","fromSide":"right","toNode":"f52ce0888b5bdce7","toSide":"left"},
+		{"id":"eb35f942ee24c899","fromNode":"46600af0092d500b","fromSide":"right","toNode":"f52ce0888b5bdce7","toSide":"left"},
+		{"id":"7a95cd319f20e725","fromNode":"5c420c8d49aef3d4","fromSide":"right","toNode":"f52ce0888b5bdce7","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"365ea35a73634c35","x":-104,"y":-26,"width":250,"height":60,"type":"text","text":"菜 - Thái"},
+		{"id":"f8e5a6b525c1bd25","x":-540,"y":180,"width":182,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/采 - Thái/采 - Thái.canvas"},
+		{"id":"6e02dc7152f842e5","x":-527,"y":-189,"width":169,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"9c2e4c9f3b2c5611","fromNode":"f8e5a6b525c1bd25","fromSide":"right","toNode":"365ea35a73634c35","toSide":"left"},
+		{"id":"93c6cd6043b26bd2","fromNode":"6e02dc7152f842e5","fromSide":"right","toNode":"365ea35a73634c35","toSide":"left"}
+	]
+}

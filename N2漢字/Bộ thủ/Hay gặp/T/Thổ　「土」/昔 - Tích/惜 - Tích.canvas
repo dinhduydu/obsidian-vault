@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfd698da21a23c5e","x":-91,"y":-8,"width":250,"height":60,"type":"text","text":"惜 - Tích"},
+		{"id":"3b2c89c4c14a0387","x":-380,"y":140,"width":144,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"},
+		{"id":"1cb1b895ecc4f591","x":-388,"y":-160,"width":152,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"2a98b369e95d2832","fromNode":"3b2c89c4c14a0387","fromSide":"right","toNode":"bfd698da21a23c5e","toSide":"left"},
+		{"id":"fc005b3131aa04ad","fromNode":"1cb1b895ecc4f591","fromSide":"right","toNode":"bfd698da21a23c5e","toSide":"left"}
+	]
+}

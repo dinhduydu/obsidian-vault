@@ -1,22 +1,40 @@
 {
 	"nodes":[
 		{"id":"bb169022fe7bb841","type":"group","x":-1075,"y":-215,"width":631,"height":929,"label":"Thứ　「次」"},
-		{"id":"cd9616b1c5528098","type":"text","text":"Thứ　「次」","x":-154,"y":-62,"width":250,"height":60},
-		{"id":"7978ac65e5de8f07","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":-800,"y":-195,"width":336,"height":139},
-		{"id":"6f37596a6dcac9e2","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":-752,"y":68,"width":240,"height":140},
 		{"id":"9eb88d80f0385dfb","type":"text","text":"次男　「じなん」：con trai thứ","x":-1055,"y":280,"width":250,"height":60},
 		{"id":"3a0ad719885b2ec8","type":"text","text":"目次　「もくじ」：mục lục","x":-1051,"y":404,"width":250,"height":60},
 		{"id":"4b05d74515ee75b4","type":"text","text":"次第　「しだい」：","x":-1051,"y":554,"width":250,"height":60},
-		{"id":"e3ec424783b18ca1","type":"text","text":"sau khi","x":-714,"y":634,"width":250,"height":60},
+		{"id":"cd9616b1c5528098","type":"text","text":"Thứ　「次」","x":-154,"y":-62,"width":250,"height":60},
+		{"id":"7978ac65e5de8f07","type":"text","text":"- 次回（じかい）: lần sau\n- 次の駅（つぎのえき）: ga tiếp theo\n- 次第（しだい）: trình tự, tùy theo\n- 次々（つぎつぎ）: lần lượt, liên tiếp","x":-800,"y":-195,"width":336,"height":139},
+		{"id":"6f37596a6dcac9e2","type":"text","text":"- Tiếp theo\n- Lần sau\n- Thứ tự kế tiếp\n- Kế tiếp, sau đó","x":-752,"y":68,"width":240,"height":140},
+		{"id":"ad93fd5b25feba58","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas","x":-380,"y":-360,"width":165,"height":116},
+		{"id":"6e87379b041275b4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-398,"y":6,"width":183,"height":132},
+		{"id":"f25563bb84384f95","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盗 - Đạo.canvas","x":360,"y":-388,"width":188,"height":172},
 		{"id":"ab8e13f481ea4a52","type":"text","text":"tuỳ vào","x":-715,"y":494,"width":250,"height":60},
-		{"id":"ad93fd5b25feba58","x":-380,"y":-360,"width":165,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"},
-		{"id":"6e87379b041275b4","x":-398,"y":6,"width":183,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+		{"id":"69f016dc2a7effcc","x":360,"y":-7,"width":174,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/茨 - Tì.canvas"},
+		{"id":"d419bc032677afbc","x":60,"y":138,"width":186,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"e3ec424783b18ca1","type":"text","text":"sau khi","x":-714,"y":634,"width":250,"height":60},
+		{"id":"be6798fd1b17a638","x":360,"y":480,"width":243,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/諮 - Tư.canvas"},
+		{"id":"bf2d47bcd7c8043d","x":0,"y":600,"width":166,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"686528c5511f7df1","x":380,"y":-880,"width":200,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/恣 - Tứ.canvas"},
+		{"id":"bec8ff07780391de","x":100,"y":-980,"width":141,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"d3d8ee7ba31512e5","x":1180,"y":-122,"width":226,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/資 - Tư.canvas"},
+		{"id":"1383ffa7cdffbcbb","x":860,"y":-302,"width":200,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
 	],
 	"edges":[
 		{"id":"17a78f97ef6a96bd","fromNode":"4b05d74515ee75b4","fromSide":"right","toNode":"ab8e13f481ea4a52","toSide":"left"},
 		{"id":"6d11979dcce14c27","fromNode":"4b05d74515ee75b4","fromSide":"right","toNode":"e3ec424783b18ca1","toSide":"left"},
 		{"id":"d914a885a461914f","fromNode":"cd9616b1c5528098","fromSide":"left","toNode":"7978ac65e5de8f07","toSide":"right"},
 		{"id":"15a64879e45ded4f","fromNode":"ad93fd5b25feba58","fromSide":"right","toNode":"cd9616b1c5528098","toSide":"left"},
-		{"id":"3c0982322c92a631","fromNode":"6e87379b041275b4","fromSide":"right","toNode":"cd9616b1c5528098","toSide":"left"}
+		{"id":"3c0982322c92a631","fromNode":"6e87379b041275b4","fromSide":"right","toNode":"cd9616b1c5528098","toSide":"left"},
+		{"id":"ed0d4773e765246c","fromNode":"cd9616b1c5528098","fromSide":"right","toNode":"f25563bb84384f95","toSide":"left"},
+		{"id":"90addd56faffa43a","fromNode":"cd9616b1c5528098","fromSide":"right","toNode":"69f016dc2a7effcc","toSide":"left"},
+		{"id":"ba2ae1a18935309e","fromNode":"d419bc032677afbc","fromSide":"right","toNode":"69f016dc2a7effcc","toSide":"left"},
+		{"id":"52084b8b7466734e","fromNode":"cd9616b1c5528098","fromSide":"right","toNode":"be6798fd1b17a638","toSide":"left"},
+		{"id":"f2a6a37a6d5cad15","fromNode":"bf2d47bcd7c8043d","fromSide":"right","toNode":"be6798fd1b17a638","toSide":"left"},
+		{"id":"aff8f9ad3de94e55","fromNode":"cd9616b1c5528098","fromSide":"right","toNode":"686528c5511f7df1","toSide":"left"},
+		{"id":"3bd80fd21247ff2c","fromNode":"bec8ff07780391de","fromSide":"right","toNode":"686528c5511f7df1","toSide":"left"},
+		{"id":"122ec4fcca2caea4","fromNode":"cd9616b1c5528098","fromSide":"right","toNode":"d3d8ee7ba31512e5","toSide":"left"},
+		{"id":"a8f4e2eb8640b788","fromNode":"1383ffa7cdffbcbb","fromSide":"right","toNode":"d3d8ee7ba31512e5","toSide":"left"}
 	]
 }

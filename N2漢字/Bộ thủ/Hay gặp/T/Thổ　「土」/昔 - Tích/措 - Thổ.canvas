@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1295a4231e1cdceb","x":-119,"y":-46,"width":250,"height":60,"type":"text","text":"措 - Thố"},
+		{"id":"8c4de4a70f51e402","x":-440,"y":-260,"width":148,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"},
+		{"id":"4cae7fb1cbeaf2cc","x":-560,"y":14,"width":156,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"fd8dc29c09f4adbe","fromNode":"8c4de4a70f51e402","fromSide":"right","toNode":"1295a4231e1cdceb","toSide":"left"},
+		{"id":"c06892dbe850a396","fromNode":"4cae7fb1cbeaf2cc","fromSide":"right","toNode":"1295a4231e1cdceb","toSide":"left"}
+	]
+}

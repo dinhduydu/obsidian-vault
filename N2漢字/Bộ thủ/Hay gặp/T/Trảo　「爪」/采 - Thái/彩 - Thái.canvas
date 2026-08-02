@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7f0a507f56961587","x":-149,"y":-25,"width":250,"height":60,"type":"text","text":"彩 - Thái"},
+		{"id":"23475cdcaa40d54a","x":-620,"y":-300,"width":176,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/采 - Thái/采 - Thái.canvas"},
+		{"id":"45a762cc44a27ba2","x":-594,"y":140,"width":150,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
+	],
+	"edges":[
+		{"id":"ee3b16229fed8918","fromNode":"23475cdcaa40d54a","fromSide":"right","toNode":"7f0a507f56961587","toSide":"left"},
+		{"id":"eb0eadf468e42dcc","fromNode":"45a762cc44a27ba2","fromSide":"right","toNode":"7f0a507f56961587","toSide":"left"}
+	]
+}

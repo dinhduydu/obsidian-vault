@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ec7f11731a54e23b","x":-91,"y":-11,"width":250,"height":60,"type":"text","text":"借 - Tá"},
+		{"id":"0ac6492b8c7f6dc1","x":-460,"y":-180,"width":133,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"8302956052bc2156","x":-493,"y":120,"width":166,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"}
+	],
+	"edges":[
+		{"id":"c4db15bc183e0cc9","fromNode":"0ac6492b8c7f6dc1","fromSide":"right","toNode":"ec7f11731a54e23b","toSide":"left"},
+		{"id":"27bc298890e1338b","fromNode":"8302956052bc2156","fromSide":"right","toNode":"ec7f11731a54e23b","toSide":"left"}
+	]
+}

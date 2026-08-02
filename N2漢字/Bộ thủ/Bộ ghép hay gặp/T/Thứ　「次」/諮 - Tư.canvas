@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0e8200140c91136e","type":"text","text":"諮 - Tư","x":-96,"y":-57,"width":250,"height":60},
+		{"id":"b18ea9a4c1dc65a2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-380,"y":-280,"width":143,"height":106},
+		{"id":"45084d31586b1822","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/Thứ　「次」.canvas","x":-384,"y":3,"width":147,"height":123},
+		{"id":"abfa49b6b1d6660a","x":-363,"y":240,"width":126,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"f32f2803719fff2e","fromNode":"b18ea9a4c1dc65a2","fromSide":"right","toNode":"0e8200140c91136e","toSide":"left"},
+		{"id":"0c79d3f12d11f872","fromNode":"45084d31586b1822","fromSide":"right","toNode":"0e8200140c91136e","toSide":"left"},
+		{"id":"36a9a24efe016e72","fromNode":"abfa49b6b1d6660a","fromSide":"right","toNode":"0e8200140c91136e","toSide":"left"}
+	]
+}

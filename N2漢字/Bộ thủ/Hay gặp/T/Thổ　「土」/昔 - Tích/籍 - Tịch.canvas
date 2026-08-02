@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c32184cf94eae8a7","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"籍 - Tịch"},
+		{"id":"652058e3b04a7b66","x":-500,"y":60,"width":178,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"},
+		{"id":"90a3bd22fddb7fff","x":-820,"y":53,"width":188,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Lỗi　「耒」.canvas"},
+		{"id":"5fb6acc385b990e1","x":-505,"y":-320,"width":183,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"68b03f74e7f75016","fromNode":"652058e3b04a7b66","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"},
+		{"id":"0b08d4a20b6aadd0","fromNode":"90a3bd22fddb7fff","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"},
+		{"id":"e14d5e89b23a9ee3","fromNode":"5fb6acc385b990e1","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"}
+	]
+}

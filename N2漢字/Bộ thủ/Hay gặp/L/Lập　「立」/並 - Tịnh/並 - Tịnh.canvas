@@ -2,12 +2,14 @@
 	"nodes":[
 		{"id":"f436d2fa3a725e3f","type":"text","text":"並 - Tịnh","x":-200,"y":-82,"width":250,"height":60},
 		{"id":"63a146bdbb52bcb4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-540,"y":-136,"width":170,"height":168},
-		{"id":"ed5624a769f38b01","x":200,"y":-260,"width":129,"height":81,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霊 - Trang.canvas"},
-		{"id":"f6d5151b6d60ac1a","x":-94,"y":-440,"width":144,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"}
+		{"id":"ed5624a769f38b01","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霊 - Linh.canvas","x":200,"y":-260,"width":129,"height":81},
+		{"id":"f6d5151b6d60ac1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":-94,"y":-440,"width":144,"height":132},
+		{"id":"2b8630ddd5fc4929","x":500,"y":-145,"width":246,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/普 - Phổ/普 - Phổ.canvas"}
 	],
 	"edges":[
 		{"id":"5281db1a4731627e","fromNode":"63a146bdbb52bcb4","fromSide":"right","toNode":"f436d2fa3a725e3f","toSide":"left"},
 		{"id":"2ce814745e73323b","fromNode":"f436d2fa3a725e3f","fromSide":"right","toNode":"ed5624a769f38b01","toSide":"left"},
-		{"id":"22f15949e4142d0e","fromNode":"f6d5151b6d60ac1a","fromSide":"right","toNode":"ed5624a769f38b01","toSide":"left"}
+		{"id":"22f15949e4142d0e","fromNode":"f6d5151b6d60ac1a","fromSide":"right","toNode":"ed5624a769f38b01","toSide":"left"},
+		{"id":"37e27fbddd0bff15","fromNode":"f436d2fa3a725e3f","fromSide":"right","toNode":"2b8630ddd5fc4929","toSide":"left"}
 	]
 }

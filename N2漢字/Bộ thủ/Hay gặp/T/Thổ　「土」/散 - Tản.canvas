@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c9fcad6089199518","x":-71,"y":-30,"width":250,"height":60,"type":"text","text":"散 - Tản"},
+		{"id":"c078486acf5b5a7c","x":-390,"y":80,"width":156,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"79c254f76bf8c28b","x":-388,"y":-260,"width":154,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"0becd32013478c2b","x":-660,"y":-71,"width":179,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"a133765f08e65eca","fromNode":"c078486acf5b5a7c","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"},
+		{"id":"644aeac33306bba8","fromNode":"79c254f76bf8c28b","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"},
+		{"id":"7a43029fe4449480","fromNode":"0becd32013478c2b","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"}
+	]
+}

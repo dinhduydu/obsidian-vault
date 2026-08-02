@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"5270acd0f948b7c6","type":"text","text":"孚 - Phu","x":-121,"y":-40,"width":250,"height":60},
+		{"id":"2612b2e363c34107","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/浮 - Phù.canvas","x":320,"y":-340,"width":241,"height":172},
+		{"id":"58f0f746f2c451f7","x":-69,"y":-480,"width":198,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"4be8a4ff7d20a82d","x":321,"y":40,"width":240,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/乳 - Nhũ.canvas"},
+		{"id":"9e6a29e4d02f154b","x":4,"y":190,"width":159,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"7176f7c928c16450","fromNode":"5270acd0f948b7c6","fromSide":"right","toNode":"2612b2e363c34107","toSide":"left"},
+		{"id":"fe15f8fa137e22ae","fromNode":"58f0f746f2c451f7","fromSide":"right","toNode":"2612b2e363c34107","toSide":"left"},
+		{"id":"40a574a7bbf9abfe","fromNode":"5270acd0f948b7c6","fromSide":"right","toNode":"4be8a4ff7d20a82d","toSide":"left"},
+		{"id":"fee72760c2e87d45","fromNode":"9e6a29e4d02f154b","fromSide":"right","toNode":"4be8a4ff7d20a82d","toSide":"left"}
+	]
+}

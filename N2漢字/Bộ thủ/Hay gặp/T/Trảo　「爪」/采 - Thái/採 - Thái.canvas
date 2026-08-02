@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"470e55fa5eb3be25","x":-152,"y":-74,"width":250,"height":60,"type":"text","text":"採 - Thái"},
+		{"id":"fd4de7404302d9a7","x":-480,"y":140,"width":163,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/采 - Thái/采 - Thái.canvas"},
+		{"id":"be36b46de45456ab","x":-487,"y":-340,"width":170,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"faedf5c27ed18842","fromNode":"fd4de7404302d9a7","fromSide":"right","toNode":"470e55fa5eb3be25","toSide":"left"},
+		{"id":"0433c797dbfdbf96","fromNode":"be36b46de45456ab","fromSide":"right","toNode":"470e55fa5eb3be25","toSide":"left"}
+	]
+}

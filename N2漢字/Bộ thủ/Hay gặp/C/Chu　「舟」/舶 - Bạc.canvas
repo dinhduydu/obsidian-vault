@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e1e598689f08d3d","x":-114,"y":-34,"width":250,"height":60,"type":"text","text":"舶 - Bạc"},
+		{"id":"95a2a859d1288de7","x":-460,"y":-280,"width":104,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"},
+		{"id":"06f35a2d0636867b","x":-505,"y":120,"width":149,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+	],
+	"edges":[
+		{"id":"193046e151cc681a","fromNode":"95a2a859d1288de7","fromSide":"right","toNode":"2e1e598689f08d3d","toSide":"left"},
+		{"id":"27e2c63bfecdb5a0","fromNode":"06f35a2d0636867b","fromSide":"right","toNode":"2e1e598689f08d3d","toSide":"left"}
+	]
+}

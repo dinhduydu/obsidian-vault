@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0a011d909198fda5","type":"text","text":"杉 - Sam","x":-113,"y":-43,"width":250,"height":60},
+		{"id":"0c1f63485d49606a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas","x":-420,"y":-240,"width":172,"height":125},
+		{"id":"ecbbdc67c9ed7205","x":-480,"y":60,"width":204,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"69309a7eaed18c71","fromNode":"0c1f63485d49606a","fromSide":"right","toNode":"0a011d909198fda5","toSide":"left"},
+		{"id":"98e5b524af725dc5","fromNode":"ecbbdc67c9ed7205","fromSide":"right","toNode":"0a011d909198fda5","toSide":"left"}
+	]
+}

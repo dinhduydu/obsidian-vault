@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"75f646fa1710334a","x":-88,"y":-32,"width":250,"height":60,"type":"text","text":"譜 - Phổ"},
+		{"id":"393fd03489f0127a","x":-400,"y":-260,"width":176,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/普 - Phổ/普 - Phổ.canvas"},
+		{"id":"45a76d319820234d","x":-475,"y":60,"width":251,"height":223,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"0fc920f42fd1e6ad","fromNode":"393fd03489f0127a","fromSide":"right","toNode":"75f646fa1710334a","toSide":"left"},
+		{"id":"a51bc076f6050bd0","fromNode":"45a76d319820234d","fromSide":"right","toNode":"75f646fa1710334a","toSide":"left"}
+	]
+}

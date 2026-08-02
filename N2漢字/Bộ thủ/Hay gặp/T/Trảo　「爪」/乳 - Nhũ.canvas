@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4512ea15fa0246c2","x":-139,"y":-52,"width":250,"height":60,"type":"text","text":"乳 - Nhũ"},
+		{"id":"853e7f6e00db9d57","x":-480,"y":120,"width":127,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"d2e2eb721c6baae6","fromNode":"853e7f6e00db9d57","fromSide":"right","toNode":"4512ea15fa0246c2","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"88ed4ee2c002d0b4","type":"text","text":"資 - Tư","x":-128,"y":-27,"width":250,"height":60},
+		{"id":"19ddf88fac7ee443","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/資源.md","x":340,"y":-280,"width":201,"height":135},
+		{"id":"c9ee721bc30746f3","x":-480,"y":-240,"width":136,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/Thứ　「次」.canvas"},
+		{"id":"055f33aa0e3f327a","x":-556,"y":33,"width":212,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"56b3afdb2b379b17","fromNode":"88ed4ee2c002d0b4","fromSide":"right","toNode":"19ddf88fac7ee443","toSide":"left"},
+		{"id":"bfe2b6b16265938c","fromNode":"c9ee721bc30746f3","fromSide":"right","toNode":"88ed4ee2c002d0b4","toSide":"left"},
+		{"id":"5d822b6334d0c97c","fromNode":"055f33aa0e3f327a","fromSide":"right","toNode":"88ed4ee2c002d0b4","toSide":"left"}
+	]
+}

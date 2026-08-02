@@ -1,13 +1,17 @@
 {
 	"nodes":[
 		{"id":"5e13d3edcc0f7e13","type":"text","text":"Huyền　「玄」","x":-176,"y":-34,"width":250,"height":60},
-		{"id":"60ac64fbc4bc3aa3","x":240,"y":-320,"width":286,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/率 - Suất.canvas"},
-		{"id":"394509608d788624","x":-180,"y":-440,"width":196,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"},
-		{"id":"5acc917009ef333f","x":-137,"y":-680,"width":153,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+		{"id":"60ac64fbc4bc3aa3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/率 - Suất.canvas","x":240,"y":-320,"width":286,"height":187},
+		{"id":"394509608d788624","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-180,"y":-440,"width":196,"height":158},
+		{"id":"5acc917009ef333f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-137,"y":-680,"width":153,"height":149},
+		{"id":"e2cca3ebcea6f9b9","x":339,"y":100,"width":187,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/舷 - Huyền.canvas"},
+		{"id":"f43189bc621c9f42","x":-20,"y":440,"width":136,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"}
 	],
 	"edges":[
 		{"id":"668f8dc81661e3aa","fromNode":"5e13d3edcc0f7e13","fromSide":"right","toNode":"60ac64fbc4bc3aa3","toSide":"left"},
 		{"id":"7dae4996a18dbab2","fromNode":"394509608d788624","fromSide":"right","toNode":"60ac64fbc4bc3aa3","toSide":"left"},
-		{"id":"0bb132e7a3e0e4c6","fromNode":"5acc917009ef333f","fromSide":"right","toNode":"60ac64fbc4bc3aa3","toSide":"left"}
+		{"id":"0bb132e7a3e0e4c6","fromNode":"5acc917009ef333f","fromSide":"right","toNode":"60ac64fbc4bc3aa3","toSide":"left"},
+		{"id":"71a6f17397313970","fromNode":"5e13d3edcc0f7e13","fromSide":"right","toNode":"e2cca3ebcea6f9b9","toSide":"left"},
+		{"id":"98a810c8fd4100c7","fromNode":"f43189bc621c9f42","fromSide":"right","toNode":"e2cca3ebcea6f9b9","toSide":"left"}
 	]
 }

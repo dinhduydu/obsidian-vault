@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a9369aca8ed381c4","type":"text","text":"修 - Tu","x":-164,"y":-41,"width":250,"height":60},
+		{"id":"8701267170a50b22","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas","x":-440,"y":-200,"width":148,"height":111},
+		{"id":"eecd3e3919533c8f","x":-458,"y":60,"width":166,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Du　「攸」/Du　「攸」.canvas"}
+	],
+	"edges":[
+		{"id":"d0609b3697d54274","fromNode":"8701267170a50b22","fromSide":"right","toNode":"a9369aca8ed381c4","toSide":"left"},
+		{"id":"80f802c4e647a0d3","fromNode":"eecd3e3919533c8f","fromSide":"right","toNode":"a9369aca8ed381c4","toSide":"left"}
+	]
+}

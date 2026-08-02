@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"be643b3c78edf6d0","x":-81,"y":-26,"width":250,"height":60,"type":"text","text":"㐱 - Trân"},
+		{"id":"4584680eb7ad56f3","x":-440,"y":100,"width":170,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"},
+		{"id":"5bc8e26a716f299b","x":-431,"y":-260,"width":161,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"}
+	],
+	"edges":[
+		{"id":"34b17cf9c71b591a","fromNode":"4584680eb7ad56f3","fromSide":"right","toNode":"be643b3c78edf6d0","toSide":"left"},
+		{"id":"c8b38cc95c267b5f","fromNode":"5bc8e26a716f299b","fromSide":"right","toNode":"be643b3c78edf6d0","toSide":"left"}
+	]
+}

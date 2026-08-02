@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"9365c537f4a08e53","x":-92,"y":23,"width":250,"height":60,"type":"text","text":"玉 - Ngọc"},
-		{"id":"6017b13a74b63231","x":-340,"y":-74,"width":118,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"},
-		{"id":"bf01a5216c717d48","x":-368,"y":120,"width":146,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+		{"id":"9365c537f4a08e53","type":"text","text":"玉 - Ngọc","x":-92,"y":23,"width":250,"height":60},
+		{"id":"6017b13a74b63231","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas","x":-340,"y":-74,"width":118,"height":97},
+		{"id":"bf01a5216c717d48","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-368,"y":120,"width":146,"height":132},
+		{"id":"30dcd8db11c0742e","x":340,"y":-280,"width":251,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/㐱 - Trân/珍 - Trân.canvas"},
+		{"id":"fd5af6f20d5d4b8a","x":60,"y":-444,"width":166,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/㐱 - Trân/㐱 - Trân.canvas"}
 	],
 	"edges":[
 		{"id":"5f47585c46e82dbc","fromNode":"6017b13a74b63231","fromSide":"right","toNode":"9365c537f4a08e53","toSide":"left"},
-		{"id":"310bab37e39a4058","fromNode":"bf01a5216c717d48","fromSide":"right","toNode":"9365c537f4a08e53","toSide":"left"}
+		{"id":"310bab37e39a4058","fromNode":"bf01a5216c717d48","fromSide":"right","toNode":"9365c537f4a08e53","toSide":"left"},
+		{"id":"2555405d59fd0229","fromNode":"9365c537f4a08e53","fromSide":"right","toNode":"30dcd8db11c0742e","toSide":"left"},
+		{"id":"1f55984d68ec3a6b","fromNode":"fd5af6f20d5d4b8a","fromSide":"right","toNode":"30dcd8db11c0742e","toSide":"left"}
 	]
 }

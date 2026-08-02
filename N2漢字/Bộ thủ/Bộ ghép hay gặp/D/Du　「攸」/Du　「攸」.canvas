@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bc13816568acd19","x":-114,"y":-63,"width":250,"height":60,"type":"text","text":"Du　「攸」"},
+		{"id":"87331019182417f0","x":340,"y":-360,"width":162,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/修 - Tu.canvas"},
+		{"id":"b927c79199ecab1c","x":60,"y":-500,"width":124,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"}
+	],
+	"edges":[
+		{"id":"19bbde3e400c7ab8","fromNode":"3bc13816568acd19","fromSide":"right","toNode":"87331019182417f0","toSide":"left"},
+		{"id":"e2d784a4f72ee104","fromNode":"b927c79199ecab1c","fromSide":"right","toNode":"87331019182417f0","toSide":"left"}
+	]
+}

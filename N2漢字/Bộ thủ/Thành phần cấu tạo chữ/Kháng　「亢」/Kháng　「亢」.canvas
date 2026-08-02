@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6218eedf99b60853","type":"text","text":"Kháng　「亢」","x":-170,"y":-51,"width":250,"height":60},
+		{"id":"8c813ab8211c4019","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/航 - Hàng.canvas","x":240,"y":-320,"width":190,"height":132},
+		{"id":"0f2a5c2b414452cb","x":-170,"y":-680,"width":220,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"}
+	],
+	"edges":[
+		{"id":"b13b1080c89bb4c6","fromNode":"6218eedf99b60853","fromSide":"right","toNode":"8c813ab8211c4019","toSide":"left"},
+		{"id":"74442ae82f6a0933","fromNode":"0f2a5c2b414452cb","fromSide":"right","toNode":"8c813ab8211c4019","toSide":"left"}
+	]
+}

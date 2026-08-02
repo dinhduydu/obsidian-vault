@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c19262c3ca1874c4","x":-112,"y":-31,"width":250,"height":60,"type":"text","text":"艦 - Hạm"},
+		{"id":"1b4b71a040dcbde7","x":-420,"y":-320,"width":130,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"},
+		{"id":"004b13a77328a390","x":-453,"y":120,"width":163,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/監 - Giám.canvas"}
+	],
+	"edges":[
+		{"id":"44b8a05efd01013d","fromNode":"1b4b71a040dcbde7","fromSide":"right","toNode":"c19262c3ca1874c4","toSide":"left"},
+		{"id":"00feff31e892b37d","fromNode":"004b13a77328a390","fromSide":"right","toNode":"c19262c3ca1874c4","toSide":"left"}
+	]
+}

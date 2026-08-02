@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"id":"901fefa205888317","x":-149,"y":-38,"width":250,"height":60,"type":"text","text":"Lỗi　「耒」"},
-		{"id":"d6171ca7666faba3","x":225,"y":-83,"width":250,"height":60,"type":"text","text":"cày ruộng"}
+		{"id":"901fefa205888317","type":"text","text":"Lỗi　「耒」","x":-149,"y":-38,"width":250,"height":60},
+		{"id":"d6171ca7666faba3","type":"text","text":"cày ruộng","x":-580,"y":-220,"width":250,"height":60},
+		{"id":"88bd7ff35a0c0a60","x":420,"y":-378,"width":219,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/籍 - Tịch.canvas"},
+		{"id":"e53c04fbe5653234","x":0,"y":-520,"width":203,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"},
+		{"id":"01bf43b351f72faf","x":26,"y":-800,"width":177,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
 	],
 	"edges":[
-		{"id":"1b662ff3a655a1fb","fromNode":"901fefa205888317","fromSide":"right","toNode":"d6171ca7666faba3","toSide":"left"}
+		{"id":"4e3df14ed9bd7649","fromNode":"d6171ca7666faba3","fromSide":"right","toNode":"901fefa205888317","toSide":"left"},
+		{"id":"07e23fc62d60cd46","fromNode":"901fefa205888317","fromSide":"right","toNode":"88bd7ff35a0c0a60","toSide":"left"},
+		{"id":"d7ffb21fdc1c16ed","fromNode":"e53c04fbe5653234","fromSide":"right","toNode":"88bd7ff35a0c0a60","toSide":"left"},
+		{"id":"deeeffd471679369","fromNode":"01bf43b351f72faf","fromSide":"right","toNode":"88bd7ff35a0c0a60","toSide":"left"}
 	]
 }

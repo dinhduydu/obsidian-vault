@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0a06a18aee4367c","x":-105,"y":-33,"width":250,"height":60,"type":"text","text":"悠 - Du"},
+		{"id":"81e555dab3b285e7","x":-420,"y":-220,"width":148,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Du　「攸」/Du　「攸」.canvas"},
+		{"id":"3b68f8fbb3f7c43f","x":-435,"y":100,"width":163,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"b1d4f7647a208865","fromNode":"81e555dab3b285e7","fromSide":"right","toNode":"c0a06a18aee4367c","toSide":"left"},
+		{"id":"38c5b80c296abd25","fromNode":"3b68f8fbb3f7c43f","fromSide":"right","toNode":"c0a06a18aee4367c","toSide":"left"}
+	]
+}
