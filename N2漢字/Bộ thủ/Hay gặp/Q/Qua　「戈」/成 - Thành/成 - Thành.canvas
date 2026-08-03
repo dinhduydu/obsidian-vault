@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"84ead71d0b616e64","x":-96,"y":-22,"width":250,"height":60,"type":"text","text":"成 - Thành"},
+		{"id":"b8256eef98b4cf24","x":-380,"y":-260,"width":173,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"0450f2aeddcf94de","x":-399,"y":-22,"width":192,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"}
+	],
+	"edges":[
+		{"id":"b523b910c192e1e9","fromNode":"b8256eef98b4cf24","fromSide":"right","toNode":"84ead71d0b616e64","toSide":"left"},
+		{"id":"fa30c9d55a5e1b0f","fromNode":"0450f2aeddcf94de","fromSide":"right","toNode":"84ead71d0b616e64","toSide":"left"}
+	]
+}

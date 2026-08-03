@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0f2e588a84821c22","x":-166,"y":-61,"width":250,"height":60,"type":"text","text":"拒 - Cự"},
+		{"id":"2d6a28034fb30623","x":-520,"y":-320,"width":159,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/巨 - Cự/巨 - Cự.canvas"},
+		{"id":"ea7103ac5d83cae9","x":-498,"y":40,"width":137,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"0af66d17b34b064c","fromNode":"2d6a28034fb30623","fromSide":"right","toNode":"0f2e588a84821c22","toSide":"left"},
+		{"id":"4a9e31a8f15775ea","fromNode":"ea7103ac5d83cae9","fromSide":"right","toNode":"0f2e588a84821c22","toSide":"left"}
+	]
+}

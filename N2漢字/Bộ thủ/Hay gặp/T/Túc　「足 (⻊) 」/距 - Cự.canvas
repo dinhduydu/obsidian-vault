@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"16c04f869ca264bc","x":-113,"y":-19,"width":250,"height":60,"type":"text","text":"距 - Cự"},
 		{"id":"3a35716e78c6bc15","x":-380,"y":-160,"width":184,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"},
-		{"id":"2d43ddac709e0f5f","x":-40,"y":380,"width":151,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」.canvas"}
+		{"id":"2d43ddac709e0f5f","x":-40,"y":380,"width":151,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/Thần　「臣」.canvas"}
 	],
 	"edges":[
 		{"id":"e4ca2a7665c42656","fromNode":"3a35716e78c6bc15","fromSide":"right","toNode":"16c04f869ca264bc","toSide":"left"}

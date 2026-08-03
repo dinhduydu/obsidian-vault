@@ -16,7 +16,7 @@
 		{"id":"4da38ebeed49180b","type":"text","text":"込む","x":720,"y":-544,"width":250,"height":60},
 		{"id":"f930cbf315ee716b","type":"text","text":"込む = đi sâu vào","x":197,"y":-544,"width":250,"height":60},
 		{"id":"a948c48c9df642cd","type":"text","text":"組み込む\nくみこむ\nCho vào, đưa vào","x":1131,"y":214,"width":173,"height":108},
-		{"id":"e30ed266cf881b04","x":1022,"y":-740,"width":213,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+		{"id":"e30ed266cf881b04","x":1022,"y":-740,"width":213,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
 	],
 	"edges":[
 		{"id":"39ef686a94c4c245","fromNode":"4da38ebeed49180b","fromSide":"bottom","toNode":"988c96ec5f029828","toSide":"top"},

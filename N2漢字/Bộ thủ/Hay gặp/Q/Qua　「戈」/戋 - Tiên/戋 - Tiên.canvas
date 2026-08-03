@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4b3c7c104bce29d1","x":-140,"y":-47,"width":250,"height":60,"type":"text","text":"戋 - Tiên"},
+		{"id":"af8918ffa21c232a","x":-520,"y":40,"width":168,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"fd9b07e60ea8a7c9","x":-564,"y":-300,"width":212,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"b907aac2778a4b00","fromNode":"af8918ffa21c232a","fromSide":"right","toNode":"4b3c7c104bce29d1","toSide":"left"},
+		{"id":"bbda998615207b12","fromNode":"fd9b07e60ea8a7c9","fromSide":"right","toNode":"4b3c7c104bce29d1","toSide":"left","label":"x2"}
+	]
+}

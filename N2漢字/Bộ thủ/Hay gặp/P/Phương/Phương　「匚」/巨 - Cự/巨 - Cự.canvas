@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a1415e20812328f5","x":-145,"y":-28,"width":250,"height":60,"type":"text","text":"巨 - Cự"},
+		{"id":"4ac4c82f72b10e6c","x":-520,"y":-380,"width":164,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas"},
+		{"id":"31ad03131c71bbe9","x":-553,"y":2,"width":197,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"}
+	],
+	"edges":[
+		{"id":"c16b5a891cc6ba5d","fromNode":"4ac4c82f72b10e6c","fromSide":"right","toNode":"a1415e20812328f5","toSide":"left"},
+		{"id":"9919bd055e4b218e","fromNode":"31ad03131c71bbe9","fromSide":"right","toNode":"a1415e20812328f5","toSide":"left"}
+	]
+}

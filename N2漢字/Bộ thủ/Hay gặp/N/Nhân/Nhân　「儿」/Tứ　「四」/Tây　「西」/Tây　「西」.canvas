@@ -8,7 +8,7 @@
 		{"id":"456baf631217c1b1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-369,"y":-259,"width":149,"height":102},
 		{"id":"3bdc5b51597a9ff0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas","x":-680,"y":119,"width":162,"height":91},
 		{"id":"448550a4465d796f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-680,"y":-166,"width":161,"height":134},
-		{"id":"6e876ee409233992","x":291,"y":-560,"width":196,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây.canvas"}
+		{"id":"6e876ee409233992","x":291,"y":-560,"width":196,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây/覀 - Tây.canvas"}
 	],
 	"edges":[
 		{"id":"7daca5ae57904a72","fromNode":"ca5e94caf4fd27de","fromSide":"right","toNode":"19fc4bd879e4538b","toSide":"left"},

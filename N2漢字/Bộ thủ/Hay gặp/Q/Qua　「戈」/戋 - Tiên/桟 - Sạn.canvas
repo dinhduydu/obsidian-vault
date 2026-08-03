@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"51a5f71e5af5df5c","x":-119,"y":-66,"width":250,"height":60,"type":"text","text":"桟 - Sạn"},
+		{"id":"8fb4b0dc5be46200","x":-440,"y":120,"width":161,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/戋 - Tiên.canvas"},
+		{"id":"a98304150326f030","x":-650,"y":-94,"width":210,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"d347183292b132bc","fromNode":"8fb4b0dc5be46200","fromSide":"right","toNode":"51a5f71e5af5df5c","toSide":"left"},
+		{"id":"c325fb6497a027fb","fromNode":"a98304150326f030","fromSide":"right","toNode":"51a5f71e5af5df5c","toSide":"left"}
+	]
+}

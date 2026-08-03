@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"2f91247d26e91124","x":-123,"y":-44,"width":250,"height":60,"type":"text","text":"逸 - Dật"},
 		{"id":"d622b5e73ab605bf","x":-480,"y":-380,"width":170,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/免 - Miễn.canvas"},
-		{"id":"f97e0d926e389ad1","x":-498,"y":100,"width":188,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+		{"id":"f97e0d926e389ad1","x":-498,"y":100,"width":188,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
 	],
 	"edges":[
 		{"id":"6f4b9ed4b74a4e17","fromNode":"d622b5e73ab605bf","fromSide":"right","toNode":"2f91247d26e91124","toSide":"left"},

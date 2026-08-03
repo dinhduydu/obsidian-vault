@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b8be9afdf51471b8","x":-113,"y":-9,"width":250,"height":60,"type":"text","text":"総 - Tổng"},
+		{"id":"8d81dc473bf9cb3a","x":-420,"y":120,"width":97,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/公 - Công.canvas"},
+		{"id":"b02fce3cff5e85d4","x":-620,"y":-220,"width":187,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"3207efaec3a54963","x":-680,"y":120,"width":154,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"38eeaf81a3c24388","fromNode":"8d81dc473bf9cb3a","fromSide":"right","toNode":"b8be9afdf51471b8","toSide":"left"},
+		{"id":"4dd280358093bd0c","fromNode":"b02fce3cff5e85d4","fromSide":"right","toNode":"b8be9afdf51471b8","toSide":"left"},
+		{"id":"e89f789dabf92245","fromNode":"3207efaec3a54963","fromSide":"right","toNode":"b8be9afdf51471b8","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"da80c4fd45032005","x":-79,"y":-37,"width":250,"height":60,"type":"text","text":"盛 - Thịnh"},
+		{"id":"28013f34827afba1","x":-480,"y":-300,"width":190,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/成 - Thành/成 - Thành.canvas"},
+		{"id":"88395bef7d894099","x":-431,"y":80,"width":141,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"b22940b5acd4df34","fromNode":"28013f34827afba1","fromSide":"right","toNode":"da80c4fd45032005","toSide":"left"},
+		{"id":"cc5cdca07af3e862","fromNode":"88395bef7d894099","fromSide":"right","toNode":"da80c4fd45032005","toSide":"left"}
+	]
+}

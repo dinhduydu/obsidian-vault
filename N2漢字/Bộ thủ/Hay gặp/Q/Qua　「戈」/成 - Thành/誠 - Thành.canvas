@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8177a96cf65372d5","x":-87,"y":-56,"width":250,"height":60,"type":"text","text":"誠 - Thành"},
+		{"id":"cf2a30ba8f27d601","x":-440,"y":100,"width":199,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/成 - Thành/成 - Thành.canvas"},
+		{"id":"8dccc6fbd5ed92f1","x":-416,"y":-260,"width":175,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"3aa39678b7f07b54","fromNode":"cf2a30ba8f27d601","fromSide":"right","toNode":"8177a96cf65372d5","toSide":"left"},
+		{"id":"76be7a29bf76fc6a","fromNode":"8dccc6fbd5ed92f1","fromSide":"right","toNode":"8177a96cf65372d5","toSide":"left"}
+	]
+}

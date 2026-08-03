@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"635fb9adb1cebc20","x":-136,"y":-15,"width":250,"height":60,"type":"text","text":"省 - Tỉnh"},
+		{"id":"0b10d674ad6bb4b4","x":-500,"y":-50,"width":174,"height":131,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 8/省 - Tỉnh.canvas"},
+		{"id":"efd6990973b99f8e","x":-860,"y":-220,"width":196,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Thiểu　「少」/Thiểu　「少」.canvas"},
+		{"id":"7c304dee2b059c55","x":-854,"y":140,"width":190,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"23ea24c77fdc879c","fromNode":"0b10d674ad6bb4b4","fromSide":"right","toNode":"635fb9adb1cebc20","toSide":"left"},
+		{"id":"e85a44d4b316a56f","fromNode":"efd6990973b99f8e","fromSide":"right","toNode":"0b10d674ad6bb4b4","toSide":"left"},
+		{"id":"ba963557026d0644","fromNode":"7c304dee2b059c55","fromSide":"right","toNode":"0b10d674ad6bb4b4","toSide":"left"}
+	]
+}

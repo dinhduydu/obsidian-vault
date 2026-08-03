@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1d16b7647f34c757","x":-116,"y":-29,"width":250,"height":60,"type":"text","text":"茂 - Mâu"},
+		{"id":"0beaec7c4a9d34ce","x":-420,"y":120,"width":172,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戊 - Mậu/戊 - Mậu.canvas"},
+		{"id":"4e7c2a46ab2d6f47","x":-488,"y":-300,"width":154,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"1f69eed2ded94335","fromNode":"0beaec7c4a9d34ce","fromSide":"right","toNode":"1d16b7647f34c757","toSide":"left"},
+		{"id":"9e8c9e9d5e23bb90","fromNode":"4e7c2a46ab2d6f47","fromSide":"right","toNode":"1d16b7647f34c757","toSide":"left","label":"bụi cây"}
+	]
+}

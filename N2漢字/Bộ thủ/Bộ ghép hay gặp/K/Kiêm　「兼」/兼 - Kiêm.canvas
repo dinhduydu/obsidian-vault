@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d07761897dde7b5d","type":"text","text":"兼 - Kiêm","x":-80,"y":-46,"width":250,"height":60},
+		{"id":"0afcaa0531aa446e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas","x":-400,"y":-179,"width":174,"height":133},
+		{"id":"e2cf9e7a00d62a3c","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-355,"y":60,"width":129,"height":200},
+		{"id":"7c4b379d3fc0ce08","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas","x":-381,"y":400,"width":155,"height":161},
+		{"id":"7765b13993e8a3e1","x":-439,"y":-580,"width":169,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas"},
+		{"id":"ac22cede01db5de9","x":-381,"y":-340,"width":111,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"b629ec8eef16c244","fromNode":"0afcaa0531aa446e","fromSide":"right","toNode":"d07761897dde7b5d","toSide":"left"},
+		{"id":"899bbdded85e5a78","fromNode":"e2cf9e7a00d62a3c","fromSide":"right","toNode":"d07761897dde7b5d","toSide":"left"},
+		{"id":"68295618a16602fa","fromNode":"7c4b379d3fc0ce08","fromSide":"right","toNode":"d07761897dde7b5d","toSide":"left"},
+		{"id":"3272837cc05280b8","fromNode":"7765b13993e8a3e1","fromSide":"right","toNode":"d07761897dde7b5d","toSide":"left"},
+		{"id":"7aad5ea3b2c85ea0","fromNode":"ac22cede01db5de9","fromSide":"right","toNode":"d07761897dde7b5d","toSide":"left"}
+	]
+}

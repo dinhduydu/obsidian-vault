@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cc8cca61e1872695","x":-61,"y":-61,"width":250,"height":60,"type":"text","text":"賓 - Tân"},
+		{"id":"6d4abb9abd19fadb","x":-422,"y":160,"width":191,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"5931be5ec9fd8fb4","x":-363,"y":-320,"width":132,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"ac68802dbfc16007","x":-640,"y":-220,"width":138,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"858eef2ecf30a883","x":-496,"y":-102,"width":149,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Thiểu　「少」/Thiểu　「少」.canvas"}
+	],
+	"edges":[
+		{"id":"3a44f7a18ac227ab","fromNode":"858eef2ecf30a883","fromSide":"right","toNode":"cc8cca61e1872695","toSide":"left"},
+		{"id":"97bd05ddf4f18a52","fromNode":"6d4abb9abd19fadb","fromSide":"right","toNode":"cc8cca61e1872695","toSide":"left"},
+		{"id":"b741fa43f5e41b1e","fromNode":"5931be5ec9fd8fb4","fromSide":"right","toNode":"cc8cca61e1872695","toSide":"left"},
+		{"id":"020ea620c773bfc8","fromNode":"ac68802dbfc16007","fromSide":"right","toNode":"cc8cca61e1872695","toSide":"left"}
+	]
+}

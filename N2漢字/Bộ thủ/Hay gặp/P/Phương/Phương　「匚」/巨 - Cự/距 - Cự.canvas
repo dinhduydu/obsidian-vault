@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"05f532d5c2999fcc","x":-169,"y":-12,"width":250,"height":60,"type":"text","text":"距 - Cự"},
+		{"id":"56661cf7455925de","x":-500,"y":-240,"width":175,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/巨 - Cự/巨 - Cự.canvas"},
+		{"id":"ccc4b3644ce9e3b9","x":-505,"y":120,"width":180,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"90ed64682a1acca4","fromNode":"56661cf7455925de","fromSide":"right","toNode":"05f532d5c2999fcc","toSide":"left"},
+		{"id":"228a5cc4a2cf181f","fromNode":"ccc4b3644ce9e3b9","fromSide":"right","toNode":"05f532d5c2999fcc","toSide":"left"}
+	]
+}

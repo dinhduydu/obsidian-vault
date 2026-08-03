@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"400a788d033fbebf","x":-88,"y":-51,"width":250,"height":60,"type":"text","text":"城 - Thành"},
+		{"id":"1a11a8e52ec45e75","x":-480,"y":120,"width":185,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/成 - Thành/成 - Thành.canvas"},
+		{"id":"ba3c20291c1713a9","x":-480,"y":-215,"width":185,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"f5dc8b65f44760b6","fromNode":"1a11a8e52ec45e75","fromSide":"right","toNode":"400a788d033fbebf","toSide":"left"},
+		{"id":"f3193531612f1cf2","fromNode":"ba3c20291c1713a9","fromSide":"right","toNode":"400a788d033fbebf","toSide":"left"}
+	]
+}

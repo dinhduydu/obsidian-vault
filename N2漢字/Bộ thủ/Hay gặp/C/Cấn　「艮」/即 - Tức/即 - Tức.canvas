@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5466635df95a599d","x":-66,"y":-19,"width":250,"height":60,"type":"text","text":"即 - Tức"},
+		{"id":"32692bf8d32fb2fe","x":-420,"y":-280,"width":195,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
+		{"id":"be78d06146aa9ccf","x":-430,"y":120,"width":205,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"}
+	],
+	"edges":[
+		{"id":"e6578bbf648b1097","fromNode":"32692bf8d32fb2fe","fromSide":"right","toNode":"5466635df95a599d","toSide":"left"},
+		{"id":"faa1ff75da5195ad","fromNode":"be78d06146aa9ccf","fromSide":"right","toNode":"5466635df95a599d","toSide":"left"}
+	]
+}

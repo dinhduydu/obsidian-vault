@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"d0acd35cf161b339","x":-121,"y":-26,"width":250,"height":60,"type":"text","text":"遵 - Tuân"},
 		{"id":"c1b07a81f9a52829","x":-420,"y":-240,"width":142,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/尊 - Tôn/尊 - Tôn.canvas"},
-		{"id":"4ee97b2abac7de2c","x":-412,"y":100,"width":134,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+		{"id":"4ee97b2abac7de2c","x":-412,"y":100,"width":134,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
 	],
 	"edges":[
 		{"id":"7ce3701c9de83521","fromNode":"c1b07a81f9a52829","fromSide":"right","toNode":"d0acd35cf161b339","toSide":"left"},

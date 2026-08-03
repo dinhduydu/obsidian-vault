@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b46caa27549aee19","x":-118,"y":-33,"width":250,"height":60,"type":"text","text":"嫌 - Hiềm"},
+		{"id":"049024f965f2d969","x":-480,"y":120,"width":174,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiêm　「兼」/兼 - Kiêm.canvas"},
+		{"id":"9bf82b1f02f91291","x":-700,"y":-95,"width":162,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"a4ab0d9cbb1d404d","fromNode":"049024f965f2d969","fromSide":"right","toNode":"b46caa27549aee19","toSide":"left"},
+		{"id":"45ed4880723086a4","fromNode":"9bf82b1f02f91291","fromSide":"right","toNode":"b46caa27549aee19","toSide":"left"}
+	]
+}

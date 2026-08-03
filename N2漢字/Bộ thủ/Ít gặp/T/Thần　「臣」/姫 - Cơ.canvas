@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"819709f75fbed554","x":-138,"y":-38,"width":250,"height":60,"type":"text","text":"姫 - Cơ"},
+		{"id":"c185aee2b3d82565","x":-480,"y":-240,"width":163,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/Thần　「臣」.canvas"},
+		{"id":"3973f24117554a8c","x":-462,"y":40,"width":145,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"189da80738132653","fromNode":"c185aee2b3d82565","fromSide":"right","toNode":"819709f75fbed554","toSide":"left"},
+		{"id":"ecd35ba3c713455a","fromNode":"3973f24117554a8c","fromSide":"right","toNode":"819709f75fbed554","toSide":"left"}
+	]
+}

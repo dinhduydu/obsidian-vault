@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3bee42fc2a5f9c2d","type":"text","text":"選 - Tuyển","x":-74,"y":-24,"width":250,"height":60},
+		{"id":"d37c80d944469fd7","x":-686,"y":140,"width":293,"height":255,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"},
+		{"id":"8ea6370d4b52f785","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-560,"y":-122,"width":167,"height":158},
+		{"id":"b5ef74eb25b84627","x":-649,"y":-460,"width":256,"height":236,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"}
+	],
+	"edges":[
+		{"id":"e4bef061868a1855","fromNode":"8ea6370d4b52f785","fromSide":"right","toNode":"3bee42fc2a5f9c2d","toSide":"left"},
+		{"id":"763432e931f9a850","fromNode":"d37c80d944469fd7","fromSide":"right","toNode":"3bee42fc2a5f9c2d","toSide":"left"},
+		{"id":"2f952792e8051682","fromNode":"b5ef74eb25b84627","fromSide":"right","toNode":"3bee42fc2a5f9c2d","toSide":"left","label":"x2"}
+	]
+}

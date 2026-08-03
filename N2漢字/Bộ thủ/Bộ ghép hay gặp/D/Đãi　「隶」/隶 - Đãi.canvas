@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"07dbe8ab0be35198","x":-100,"y":-20,"width":250,"height":60,"type":"text","text":"隶 - Đãi"},
+		{"id":"1c1cea86c3596cd7","x":-440,"y":-220,"width":169,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"ac2d18cf17cd9431","x":-507,"y":100,"width":236,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"}
+	],
+	"edges":[
+		{"id":"b8ac4cfd4860a554","fromNode":"1c1cea86c3596cd7","fromSide":"right","toNode":"07dbe8ab0be35198","toSide":"left"},
+		{"id":"bd77bf56100d971d","fromNode":"ac2d18cf17cd9431","fromSide":"right","toNode":"07dbe8ab0be35198","toSide":"left"}
+	]
+}

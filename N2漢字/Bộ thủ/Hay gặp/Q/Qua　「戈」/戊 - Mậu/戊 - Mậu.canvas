@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c69504ced2c5eb5f","x":-87,"y":-13,"width":250,"height":60,"type":"text","text":"戊 - Mậu"},
+		{"id":"f82f194dc5b18355","x":-500,"y":-300,"width":162,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"dd39acd4d2396e0c","x":-552,"y":17,"width":214,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
+	],
+	"edges":[
+		{"id":"a511e4d394e86331","fromNode":"f82f194dc5b18355","fromSide":"right","toNode":"c69504ced2c5eb5f","toSide":"left"},
+		{"id":"754e3c2129dc5bfb","fromNode":"dd39acd4d2396e0c","fromSide":"right","toNode":"c69504ced2c5eb5f","toSide":"left"}
+	]
+}

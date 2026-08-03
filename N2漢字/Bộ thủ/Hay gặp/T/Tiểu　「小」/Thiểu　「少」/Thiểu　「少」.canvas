@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d98e5647689d3f7a","type":"text","text":"Thiểu　「少」","x":-112,"y":-74,"width":250,"height":60},
+		{"id":"a07eb3ee54fa2d49","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/歩 - Bộ/歩 - Bộ.canvas","x":280,"y":-220,"width":200,"height":100},
+		{"id":"fb58be78d3d00220","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas","x":1,"y":-352,"width":137,"height":132},
+		{"id":"6154a3d5abe4fca5","x":-420,"y":-311,"width":146,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"},
+		{"id":"f253255ff6acd308","x":-469,"y":-14,"width":195,"height":211,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas"}
+	],
+	"edges":[
+		{"id":"50c7c9212b82fe61","fromNode":"d98e5647689d3f7a","fromSide":"right","toNode":"a07eb3ee54fa2d49","toSide":"left"},
+		{"id":"52e0275388879900","fromNode":"fb58be78d3d00220","fromSide":"right","toNode":"a07eb3ee54fa2d49","toSide":"left"},
+		{"id":"3a88aa5d6bb7e865","fromNode":"6154a3d5abe4fca5","fromSide":"right","toNode":"d98e5647689d3f7a","toSide":"left"},
+		{"id":"4265fb301eabc283","fromNode":"f253255ff6acd308","fromSide":"right","toNode":"d98e5647689d3f7a","toSide":"left"}
+	]
+}

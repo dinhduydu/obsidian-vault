@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8da2f601c7ce1e44","x":-115,"y":-46,"width":250,"height":60,"type":"text","text":"践 - Tiễn"},
+		{"id":"c6eb03aaa65b949b","x":-500,"y":100,"width":178,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/戋 - Tiên.canvas"},
+		{"id":"19055a883310f161","x":-518,"y":-220,"width":196,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"d1b2ad244499e99c","fromNode":"c6eb03aaa65b949b","fromSide":"right","toNode":"8da2f601c7ce1e44","toSide":"left"},
+		{"id":"ec6f252dd19bea15","fromNode":"19055a883310f161","fromSide":"right","toNode":"8da2f601c7ce1e44","toSide":"left"}
+	]
+}

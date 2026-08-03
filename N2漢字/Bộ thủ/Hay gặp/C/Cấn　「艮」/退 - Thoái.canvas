@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"18803ee2e2320db0","x":-137,"y":-44,"width":250,"height":60,"type":"text","text":"退 - Thoái"},
 		{"id":"0003ce77afa3091b","x":-440,"y":-340,"width":171,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
-		{"id":"49370383412407c2","x":-420,"y":60,"width":119,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas"}
+		{"id":"49370383412407c2","x":-420,"y":60,"width":119,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
 	],
 	"edges":[
 		{"id":"976715f0cd595950","fromNode":"0003ce77afa3091b","fromSide":"right","toNode":"18803ee2e2320db0","toSide":"left"},

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"291455afa226999c","type":"text","text":"廷 - Đình","x":-166,"y":0,"width":250,"height":60},
 		{"id":"67325591ca21fad6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/Nhâm　「壬」.canvas","x":-540,"y":100,"width":206,"height":130},
-		{"id":"db4c49667ef0c4f7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước Dẫn　「廴」「辵 (⻌⻍) 」/Sước「廴」「辵 (⻌⻍) 」.canvas","x":-514,"y":-220,"width":180,"height":161},
+		{"id":"db4c49667ef0c4f7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-514,"y":-220,"width":180,"height":161},
 		{"id":"9d84fd6ff47f9638","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/庭 - Đình.canvas","x":360,"y":-380,"width":220,"height":201},
 		{"id":"f34a544acc3b4987","x":-41,"y":-720,"width":181,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
 		{"id":"6cded7aefb8b46f7","x":360,"y":165,"width":190,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/艇 - Đĩnh.canvas"},

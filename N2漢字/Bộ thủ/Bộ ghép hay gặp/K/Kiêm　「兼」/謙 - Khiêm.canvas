@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3dae1fe170e4cffd","x":-113,"y":-35,"width":250,"height":60,"type":"text","text":"謙 - Khiêm"},
+		{"id":"0d0fcc774c5f8451","x":-460,"y":-320,"width":139,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"cae2a024e517bf9f","x":-441,"y":80,"width":120,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiêm　「兼」/兼 - Kiêm.canvas"}
+	],
+	"edges":[
+		{"id":"b85d13a20fd833a2","fromNode":"cae2a024e517bf9f","fromSide":"right","toNode":"3dae1fe170e4cffd","toSide":"left"},
+		{"id":"ad2dfa61c153f99f","fromNode":"0d0fcc774c5f8451","fromSide":"right","toNode":"3dae1fe170e4cffd","toSide":"left"}
+	]
+}

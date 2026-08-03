@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ce8f5795c1e83219","type":"text","text":"松 - Tùng","x":-117,"y":-34,"width":250,"height":60},
+		{"id":"b0505db6318e7e9d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/公 - Công.canvas","x":-420,"y":-260,"width":150,"height":139},
+		{"id":"47e6d7d2c4212663","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-540,"y":-73,"width":195,"height":139}
+	],
+	"edges":[
+		{"id":"4618ab05570968f2","fromNode":"b0505db6318e7e9d","fromSide":"right","toNode":"ce8f5795c1e83219","toSide":"left"},
+		{"id":"ac8433581b43f824","fromNode":"47e6d7d2c4212663","fromSide":"right","toNode":"ce8f5795c1e83219","toSide":"left"}
+	]
+}
