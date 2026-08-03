@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fc601cbe0653aded","x":-119,"y":-33,"width":250,"height":60,"type":"text","text":"墮 - Đoạ"},
+		{"id":"c8b9ab14f423ae7c","x":-680,"y":-220,"width":152,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"},
+		{"id":"c13b6a6b28dcb6cb","x":-420,"y":-260,"width":189,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu/有 - Hữu.canvas"},
+		{"id":"6feca5aafceb615b","x":-460,"y":100,"width":193,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"59d68242256332fb","fromNode":"c13b6a6b28dcb6cb","fromSide":"right","toNode":"fc601cbe0653aded","toSide":"left"},
+		{"id":"189ea0e502bc5452","fromNode":"c8b9ab14f423ae7c","fromSide":"right","toNode":"fc601cbe0653aded","toSide":"left"},
+		{"id":"b4fe47aeaffa842d","fromNode":"6feca5aafceb615b","fromSide":"right","toNode":"fc601cbe0653aded","toSide":"left"}
+	]
+}

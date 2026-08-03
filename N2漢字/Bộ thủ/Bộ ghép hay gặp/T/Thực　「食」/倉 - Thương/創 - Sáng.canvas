@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e56039e322106315","x":-122,"y":-38,"width":250,"height":60,"type":"text","text":"創 - Sáng"},
+		{"id":"59b73c2d82edf2cd","x":-440,"y":-260,"width":152,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/倉 - Thương/倉 - Thương.canvas"},
+		{"id":"a55c6c287d510ce5","x":-479,"y":80,"width":191,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"4cce73ad72cb4140","fromNode":"59b73c2d82edf2cd","fromSide":"right","toNode":"e56039e322106315","toSide":"left"},
+		{"id":"7ae5d0a0cfbdb047","fromNode":"a55c6c287d510ce5","fromSide":"right","toNode":"e56039e322106315","toSide":"left"}
+	]
+}

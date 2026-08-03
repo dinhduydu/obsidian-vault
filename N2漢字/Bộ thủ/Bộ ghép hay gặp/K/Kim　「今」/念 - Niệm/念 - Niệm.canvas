@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cd54eb4d0364e4bc","x":-127,"y":-22,"width":250,"height":60,"type":"text","text":"念 - Niệm"},
+		{"id":"6f40aac716a122f1","x":-480,"y":-340,"width":188,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"5610c450e599f039","x":-476,"y":200,"width":184,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"320f206717dfe862","fromNode":"6f40aac716a122f1","fromSide":"right","toNode":"cd54eb4d0364e4bc","toSide":"left"},
+		{"id":"60b56429bff3c99e","fromNode":"5610c450e599f039","fromSide":"right","toNode":"cd54eb4d0364e4bc","toSide":"left"}
+	]
+}

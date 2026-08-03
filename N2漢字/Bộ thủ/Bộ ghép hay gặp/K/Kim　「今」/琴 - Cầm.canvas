@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aecc2bdd3db3abe5","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"琴 - Cầm"},
+		{"id":"8388811752e66678","x":-480,"y":160,"width":189,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"8c3a2291d29de32c","x":-462,"y":-220,"width":171,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"d870a79c375386b3","fromNode":"8388811752e66678","fromSide":"right","toNode":"aecc2bdd3db3abe5","toSide":"left"},
+		{"id":"1681af0cfe091096","fromNode":"8c3a2291d29de32c","fromSide":"right","toNode":"aecc2bdd3db3abe5","toSide":"left","label":"x2"}
+	]
+}

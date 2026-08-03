@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17363e21755bd153","x":-111,"y":-54,"width":250,"height":60,"type":"text","text":"造 - Tạo"},
+		{"id":"b40ccf4ed0f7da01","x":-420,"y":-220,"width":143,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/告 - Cáo/告 - Cáo.canvas"},
+		{"id":"68370ba728e48259","x":-427,"y":120,"width":150,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"b730fb86d9987794","fromNode":"b40ccf4ed0f7da01","fromSide":"right","toNode":"17363e21755bd153","toSide":"left"},
+		{"id":"79e3f288b11b8d09","fromNode":"68370ba728e48259","fromSide":"right","toNode":"17363e21755bd153","toSide":"left"}
+	]
+}

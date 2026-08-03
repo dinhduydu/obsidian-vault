@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"049a4e41190e30f9","x":-132,"y":-52,"width":250,"height":60,"type":"text","text":"簿 - Bộ"},
+		{"id":"49063d94922d9698","x":-480,"y":-360,"width":183,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"0267c9b87d10165f","x":-780,"y":-103,"width":210,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"ebefbef8810dd5ab","x":-475,"y":220,"width":178,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/専 - Chuyên/専 - Chuyên.canvas"}
+	],
+	"edges":[
+		{"id":"ab1ef86f6e57ccc6","fromNode":"49063d94922d9698","fromSide":"right","toNode":"049a4e41190e30f9","toSide":"left"},
+		{"id":"c8daaa7ddb63ff18","fromNode":"ebefbef8810dd5ab","fromSide":"right","toNode":"049a4e41190e30f9","toSide":"left"},
+		{"id":"bb6e4074ce807700","fromNode":"0267c9b87d10165f","fromSide":"right","toNode":"049a4e41190e30f9","toSide":"left"}
+	]
+}

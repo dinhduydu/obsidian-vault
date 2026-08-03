@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b88e3c7b91d7f5ba","x":-111,"y":-25,"width":250,"height":60,"type":"text","text":"計 - Kế"},
+		{"id":"f99bf02e6b24e5ad","x":-360,"y":-240,"width":150,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"db5acd1789786a0f","x":-366,"y":140,"width":156,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"1241d078fe46f1b5","fromNode":"f99bf02e6b24e5ad","fromSide":"right","toNode":"b88e3c7b91d7f5ba","toSide":"left"},
+		{"id":"a2caf19d612322b1","fromNode":"db5acd1789786a0f","fromSide":"right","toNode":"b88e3c7b91d7f5ba","toSide":"left"}
+	]
+}

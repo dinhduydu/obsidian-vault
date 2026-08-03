@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f426e2ca48dc2389","x":-116,"y":-56,"width":250,"height":60,"type":"text","text":"約 - Ước"},
+		{"id":"f640255fad8f82d7","x":-515,"y":80,"width":174,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"5f983e0b2f2aff91","x":-498,"y":-320,"width":157,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/Chước　「勺」.canvas"},
+		{"id":"0b6bdaf2270c2f33","x":400,"y":-399,"width":200,"height":220,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/節約.md"},
+		{"id":"60a03cb8fe9b5e63","x":400,"y":-26,"width":262,"height":226,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/契約.md"},
+		{"id":"f7b5f8593849d8f8","x":400,"y":380,"width":281,"height":262,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/口約束.md"}
+	],
+	"edges":[
+		{"id":"f6ce8db1f77cc5c6","fromNode":"5f983e0b2f2aff91","fromSide":"right","toNode":"f426e2ca48dc2389","toSide":"left"},
+		{"id":"020bb3f253a8d92b","fromNode":"f640255fad8f82d7","fromSide":"right","toNode":"f426e2ca48dc2389","toSide":"left"},
+		{"id":"13852ba1f9e025a9","fromNode":"f426e2ca48dc2389","fromSide":"right","toNode":"0b6bdaf2270c2f33","toSide":"left"},
+		{"id":"c31645b235b68136","fromNode":"f426e2ca48dc2389","fromSide":"right","toNode":"60a03cb8fe9b5e63","toSide":"left"},
+		{"id":"0bcc33b0697251e3","fromNode":"f426e2ca48dc2389","fromSide":"right","toNode":"f7b5f8593849d8f8","toSide":"left"}
+	]
+}

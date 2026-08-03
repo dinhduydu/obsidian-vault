@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cc600c1630999649","x":-130,"y":-12,"width":250,"height":60,"type":"text","text":"努 - Nỗ"},
+		{"id":"c8a843097a9ccce3","x":-420,"y":-180,"width":158,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/奴 - Nô/奴 - Nô.canvas"},
+		{"id":"ffa45a40812df2cf","x":-474,"y":140,"width":212,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"29e0dbbf411e31ad","fromNode":"c8a843097a9ccce3","fromSide":"right","toNode":"cc600c1630999649","toSide":"left"},
+		{"id":"b0eeabd9875ea4ac","fromNode":"ffa45a40812df2cf","fromSide":"right","toNode":"cc600c1630999649","toSide":"left"}
+	]
+}

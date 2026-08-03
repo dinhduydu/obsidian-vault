@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"beac17bec55089b6","x":-122,"y":-48,"width":250,"height":60,"type":"text","text":"泌 - Bí"},
+		{"id":"54224515657474a4","x":-460,"y":80,"width":183,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/必 - Tất.canvas"},
+		{"id":"3217c1334c57fb27","x":-477,"y":-240,"width":200,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"e6c86cefb9eadf16","fromNode":"54224515657474a4","fromSide":"right","toNode":"beac17bec55089b6","toSide":"left"},
+		{"id":"cf55394784189ce4","fromNode":"3217c1334c57fb27","fromSide":"right","toNode":"beac17bec55089b6","toSide":"left"}
+	]
+}

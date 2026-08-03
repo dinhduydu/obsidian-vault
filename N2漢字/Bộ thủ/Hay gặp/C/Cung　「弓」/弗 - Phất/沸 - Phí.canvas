@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ad2b61d099bfb78e","x":-108,"y":-22,"width":250,"height":60,"type":"text","text":"沸 - Phí"},
+		{"id":"ae3dc063602e373e","x":-460,"y":-280,"width":216,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弗 - Phất/弗 - Phất.canvas"},
+		{"id":"5c912720c71f4e0e","x":-700,"y":100,"width":202,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"e320369d5cb9c3a1","fromNode":"ae3dc063602e373e","fromSide":"right","toNode":"ad2b61d099bfb78e","toSide":"left"},
+		{"id":"c28793eac8dc0ff8","fromNode":"5c912720c71f4e0e","fromSide":"right","toNode":"ad2b61d099bfb78e","toSide":"left"}
+	]
+}

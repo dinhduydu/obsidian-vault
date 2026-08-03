@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"51e377dd235b0b98","type":"text","text":"戀 - Luyến","x":280,"y":169,"width":250,"height":60},
+		{"id":"00e657f2af597664","x":-69,"y":300,"width":160,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"5122d545fe3ab495","x":680,"y":169,"width":250,"height":60,"type":"text","text":"恋 - Luyến"},
+		{"id":"0f8598c9ab1e70d8","x":308,"y":-160,"width":222,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/亦 - Diệc.canvas"},
+		{"id":"6c26fe12481e1732","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-302,"y":-291,"width":190,"height":149},
+		{"id":"86031ba8d1fddca8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-320,"y":-31,"width":208,"height":226}
+	],
+	"edges":[
+		{"id":"1fa90c5830a737c2","fromNode":"6c26fe12481e1732","fromSide":"right","toNode":"51e377dd235b0b98","toSide":"left","label":"x2"},
+		{"id":"9a9e0a793733327e","fromNode":"86031ba8d1fddca8","fromSide":"right","toNode":"51e377dd235b0b98","toSide":"left"},
+		{"id":"06b6f3f30ca115d5","fromNode":"0f8598c9ab1e70d8","fromSide":"right","toNode":"5122d545fe3ab495","toSide":"left"},
+		{"id":"6eaa13d22e0a987e","fromNode":"00e657f2af597664","fromSide":"right","toNode":"51e377dd235b0b98","toSide":"left"},
+		{"id":"8ab94b602ef4e374","fromNode":"51e377dd235b0b98","fromSide":"right","toNode":"5122d545fe3ab495","toSide":"left"}
+	]
+}

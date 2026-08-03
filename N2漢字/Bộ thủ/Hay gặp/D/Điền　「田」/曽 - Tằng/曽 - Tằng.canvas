@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2bf02f39bcbe740c","x":-111,"y":-19,"width":250,"height":60,"type":"text","text":"曽 - Tằng"},
+		{"id":"92135becd18ce365","x":-460,"y":-67,"width":149,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"697a58640f420bb6","x":-486,"y":-320,"width":175,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas"},
+		{"id":"1d7fd86a2c8d33ba","x":-471,"y":180,"width":160,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"939f1f840fa8cf68","fromNode":"92135becd18ce365","fromSide":"right","toNode":"2bf02f39bcbe740c","toSide":"left"},
+		{"id":"5a51c394023ad3fe","fromNode":"697a58640f420bb6","fromSide":"right","toNode":"2bf02f39bcbe740c","toSide":"left"},
+		{"id":"90a09f76723d5d0e","fromNode":"1d7fd86a2c8d33ba","fromSide":"right","toNode":"2bf02f39bcbe740c","toSide":"left"}
+	]
+}

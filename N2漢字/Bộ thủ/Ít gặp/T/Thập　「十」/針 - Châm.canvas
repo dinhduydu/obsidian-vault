@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a0f874a10f14686b","x":-100,"y":-40,"width":250,"height":60,"type":"text","text":"針 - Châm"},
+		{"id":"cb94f361d19ee9ec","x":340,"y":-340,"width":246,"height":228,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/方針.md"},
+		{"id":"56dfc4f9085457ca","x":-460,"y":-280,"width":200,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"60b90f24188a9b7c","x":-580,"y":20,"width":173,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"88e1be175c415129","fromNode":"a0f874a10f14686b","fromSide":"right","toNode":"cb94f361d19ee9ec","toSide":"left"},
+		{"id":"e631143809b31d4b","fromNode":"56dfc4f9085457ca","fromSide":"right","toNode":"a0f874a10f14686b","toSide":"left"},
+		{"id":"ebfeb09926857257","fromNode":"60b90f24188a9b7c","fromSide":"right","toNode":"a0f874a10f14686b","toSide":"left"}
+	]
+}

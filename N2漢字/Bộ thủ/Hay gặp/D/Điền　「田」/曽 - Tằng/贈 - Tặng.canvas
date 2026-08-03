@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"19a538c9030174d0","x":-113,"y":-39,"width":250,"height":60,"type":"text","text":"贈 - Tặng"},
+		{"id":"14fdccfd0fa3dd97","x":-520,"y":-320,"width":192,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas"},
+		{"id":"4d867c421ad48e69","x":-520,"y":21,"width":215,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"563cd320914d24b0","fromNode":"14fdccfd0fa3dd97","fromSide":"right","toNode":"19a538c9030174d0","toSide":"left"},
+		{"id":"f82fb5782c24dffd","fromNode":"4d867c421ad48e69","fromSide":"right","toNode":"19a538c9030174d0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8bbca10a1a5f4d0a","x":-107,"y":-28,"width":250,"height":60,"type":"text","text":"増 - Tăng"},
+		{"id":"130503d08d061f29","x":-460,"y":-220,"width":191,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas"},
+		{"id":"e05dc1ce6a034cb7","x":-440,"y":60,"width":171,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"3d46f825440b7a39","fromNode":"130503d08d061f29","fromSide":"right","toNode":"8bbca10a1a5f4d0a","toSide":"left"},
+		{"id":"4d7a91c3d3df7df2","fromNode":"e05dc1ce6a034cb7","fromSide":"right","toNode":"8bbca10a1a5f4d0a","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e67fb1a7ce3628e4","x":-90,"y":-21,"width":250,"height":60,"type":"text","text":"測 - Trắc"},
+		{"id":"1d3bb700fb3577b4","x":-460,"y":-280,"width":189,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/則 - Tắc/則 - Tắc.canvas"},
+		{"id":"06345238f23c5bb3","x":-427,"y":80,"width":156,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"bb7d898722b78986","fromNode":"1d3bb700fb3577b4","fromSide":"right","toNode":"e67fb1a7ce3628e4","toSide":"left"},
+		{"id":"b486a8184b001bee","fromNode":"06345238f23c5bb3","fromSide":"right","toNode":"e67fb1a7ce3628e4","toSide":"left"}
+	]
+}

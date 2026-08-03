@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"df90c3747ef0950b","x":-92,"y":-38,"width":250,"height":60,"type":"text","text":"費 - Phí"},
+		{"id":"211723f576309c02","x":-420,"y":-220,"width":162,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弗 - Phất/弗 - Phất.canvas"},
+		{"id":"468f09b5fbf038be","x":-428,"y":120,"width":170,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"88831fca635adc55","fromNode":"211723f576309c02","fromSide":"right","toNode":"df90c3747ef0950b","toSide":"left"},
+		{"id":"5eeb8008055942d1","fromNode":"468f09b5fbf038be","fromSide":"right","toNode":"df90c3747ef0950b","toSide":"left"}
+	]
+}

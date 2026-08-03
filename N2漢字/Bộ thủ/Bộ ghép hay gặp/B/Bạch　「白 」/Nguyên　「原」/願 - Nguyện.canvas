@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0a427810b33de6f5","x":-135,"y":-30,"width":250,"height":60,"type":"text","text":"願 - Nguyện"},
+		{"id":"0131e646e9da9766","x":-460,"y":-260,"width":188,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Nguyên　「原」/Nguyên　「原」.canvas"},
+		{"id":"01bdd3f3aafb8942","x":-449,"y":100,"width":177,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"a4ef7c82d50d16ab","fromNode":"0131e646e9da9766","fromSide":"right","toNode":"0a427810b33de6f5","toSide":"left"},
+		{"id":"b1d99c1ddbec9083","fromNode":"01bdd3f3aafb8942","fromSide":"right","toNode":"0a427810b33de6f5","toSide":"left"}
+	]
+}

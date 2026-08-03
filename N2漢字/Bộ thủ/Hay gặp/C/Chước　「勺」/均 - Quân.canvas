@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0a5af39a62e579b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"均 - Quân"},
+		{"id":"64ae423b23e51055","x":-440,"y":-260,"width":172,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/Chước　「勺」.canvas"},
+		{"id":"79a2e65249853747","x":-498,"y":60,"width":230,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"556d9a8db5beb5e4","fromNode":"64ae423b23e51055","fromSide":"right","toNode":"c0a5af39a62e579b","toSide":"left"},
+		{"id":"d41e9d95a588f408","fromNode":"79a2e65249853747","fromSide":"right","toNode":"c0a5af39a62e579b","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a38b9205334d37ae","type":"text","text":"貪 - Tham","x":-66,"y":-15,"width":250,"height":60},
+		{"id":"b6b020a80614ceaa","x":-420,"y":-240,"width":209,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"973a4fe8950f895a","x":-440,"y":140,"width":229,"height":212,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"d8c94e3988d5a246","fromNode":"b6b020a80614ceaa","fromSide":"right","toNode":"a38b9205334d37ae","toSide":"left"},
+		{"id":"8e4c2998ac29e6d3","fromNode":"973a4fe8950f895a","fromSide":"right","toNode":"a38b9205334d37ae","toSide":"left"}
+	]
+}

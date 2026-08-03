@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"063b5ce8af3c0ac6","x":-80,"y":-28,"width":250,"height":60,"type":"text","text":"倉 - Thương"},
+		{"id":"9d0b77db93701a8b","x":-420,"y":-260,"width":160,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"},
+		{"id":"1e473147ad03e51d","x":-449,"y":60,"width":189,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"e18c0c5be2802b2d","x":300,"y":-260,"width":258,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/倉 - Thương/槍 - Thương.canvas"}
+	],
+	"edges":[
+		{"id":"048b74851a82565d","fromNode":"9d0b77db93701a8b","fromSide":"right","toNode":"063b5ce8af3c0ac6","toSide":"left"},
+		{"id":"9a84df6c5d60f7f6","fromNode":"1e473147ad03e51d","fromSide":"right","toNode":"063b5ce8af3c0ac6","toSide":"left"},
+		{"id":"7dacdfe5c1b834bb","fromNode":"063b5ce8af3c0ac6","fromSide":"right","toNode":"e18c0c5be2802b2d","toSide":"left"}
+	]
+}

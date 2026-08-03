@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d994c7d0b89ee54e","x":-95,"y":-37,"width":250,"height":60,"type":"text","text":"陰 - Âm"},
+		{"id":"18b384f1e1951082","x":-430,"y":120,"width":181,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/Vân　「云」.canvas"},
+		{"id":"da92c87caf87dbf2","x":-409,"y":-240,"width":160,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"32f35846a92946ad","x":-720,"y":-70,"width":197,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+	],
+	"edges":[
+		{"id":"eb2ba4d5f05545e9","fromNode":"da92c87caf87dbf2","fromSide":"right","toNode":"d994c7d0b89ee54e","toSide":"left"},
+		{"id":"b2084864d866d2f0","fromNode":"18b384f1e1951082","fromSide":"right","toNode":"d994c7d0b89ee54e","toSide":"left"},
+		{"id":"de773e6d4b533126","fromNode":"32f35846a92946ad","fromSide":"right","toNode":"d994c7d0b89ee54e","toSide":"left"}
+	]
+}

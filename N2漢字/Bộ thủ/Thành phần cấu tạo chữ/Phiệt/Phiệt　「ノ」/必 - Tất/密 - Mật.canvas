@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"70d53960c68d0a35","x":-104,"y":-12,"width":250,"height":60,"type":"text","text":"密 - Mật"},
+		{"id":"50caab37f2b81efe","x":-420,"y":-40,"width":193,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/必 - Tất.canvas"},
+		{"id":"3a504fd7eb6acee7","x":-400,"y":-260,"width":154,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"e616df499de1e55d","x":-396,"y":260,"width":169,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"c4093ddd2fd0ccf0","fromNode":"50caab37f2b81efe","fromSide":"right","toNode":"70d53960c68d0a35","toSide":"left"},
+		{"id":"50dd29f492e7ae58","fromNode":"3a504fd7eb6acee7","fromSide":"right","toNode":"70d53960c68d0a35","toSide":"left"},
+		{"id":"07bf2fa458dcf0c6","fromNode":"e616df499de1e55d","fromSide":"right","toNode":"70d53960c68d0a35","toSide":"left"}
+	]
+}

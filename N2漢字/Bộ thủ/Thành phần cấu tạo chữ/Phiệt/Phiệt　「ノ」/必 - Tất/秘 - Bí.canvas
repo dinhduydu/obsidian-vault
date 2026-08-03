@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"951e16c6fb0e48e5","x":-121,"y":-48,"width":250,"height":60,"type":"text","text":"秘 - Bí"},
+		{"id":"c7d247036992f62d","x":-380,"y":-300,"width":149,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/必 - Tất.canvas"},
+		{"id":"8423cf6f8632d9a0","x":-507,"y":12,"width":127,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"f679dbfb2dd537a8","fromNode":"c7d247036992f62d","fromSide":"right","toNode":"951e16c6fb0e48e5","toSide":"left"},
+		{"id":"557ee14bee79c537","fromNode":"8423cf6f8632d9a0","fromSide":"right","toNode":"951e16c6fb0e48e5","toSide":"left"}
+	]
+}

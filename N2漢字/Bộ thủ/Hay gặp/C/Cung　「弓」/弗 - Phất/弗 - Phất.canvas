@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a3e6d4afe5d1f948","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"弗 - Phất"},
+		{"id":"a6f877fa56934299","x":-520,"y":30,"width":188,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"6fd1f752e219571a","x":-520,"y":-220,"width":178,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"},
+		{"id":"aa467dd44a598263","x":-463,"y":240,"width":131,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+	],
+	"edges":[
+		{"id":"21d5726539265733","fromNode":"a6f877fa56934299","fromSide":"right","toNode":"a3e6d4afe5d1f948","toSide":"left"},
+		{"id":"5d985d4ad15478f8","fromNode":"6fd1f752e219571a","fromSide":"right","toNode":"a3e6d4afe5d1f948","toSide":"left"},
+		{"id":"66b05c8198c0fc67","fromNode":"aa467dd44a598263","fromSide":"right","toNode":"a3e6d4afe5d1f948","toSide":"left","label":"x2"}
+	]
+}

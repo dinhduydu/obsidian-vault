@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a7cf1827368db728","x":-111,"y":-48,"width":250,"height":60,"type":"text","text":"変 - Biến"},
+		{"id":"81744332b39e95fa","x":-440,"y":-260,"width":223,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/亦 - Diệc.canvas"},
+		{"id":"5e366d33115ee675","x":-421,"y":140,"width":204,"height":245,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"14212fb570ddbffe","fromNode":"81744332b39e95fa","fromSide":"right","toNode":"a7cf1827368db728","toSide":"left"},
+		{"id":"679d5898760cacfb","fromNode":"5e366d33115ee675","fromSide":"right","toNode":"a7cf1827368db728","toSide":"left"}
+	]
+}

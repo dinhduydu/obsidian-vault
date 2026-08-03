@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b7c4ee820c3ecd2c","x":-105,"y":-22,"width":250,"height":60,"type":"text","text":"側 - Tắc"},
+		{"id":"4e39b16685059298","x":-460,"y":-260,"width":219,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/則 - Tắc/則 - Tắc.canvas"},
+		{"id":"11c27e0095eedf65","x":-460,"y":80,"width":170,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"441fcb3dab704e5f","fromNode":"4e39b16685059298","fromSide":"right","toNode":"b7c4ee820c3ecd2c","toSide":"left"},
+		{"id":"a8581620dace7691","fromNode":"11c27e0095eedf65","fromSide":"right","toNode":"b7c4ee820c3ecd2c","toSide":"left"}
+	]
+}

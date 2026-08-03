@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"77825da620de5afc","x":-144,"y":-37,"width":250,"height":60,"type":"text","text":"責 - Trách"},
+		{"id":"51b4f1729c5acd8b","x":-480,"y":-260,"width":148,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
+		{"id":"d95b693e4aa6006d","x":-491,"y":120,"width":159,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"dbc6dcd1595876a1","fromNode":"51b4f1729c5acd8b","fromSide":"right","toNode":"77825da620de5afc","toSide":"left"},
+		{"id":"5cd4da6387f6a46f","fromNode":"d95b693e4aa6006d","fromSide":"right","toNode":"77825da620de5afc","toSide":"left"}
+	]
+}

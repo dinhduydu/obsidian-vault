@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0fd388d3c82fb89","x":-73,"y":-38,"width":250,"height":60,"type":"text","text":"墜 - Truỵ"},
+		{"id":"69ba5ec51afa1bd2","x":-420,"y":-202,"width":181,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/㒸 - Toại/隊 - Đội/隊 - Đội.canvas"},
+		{"id":"0ec7c15647445f11","x":-437,"y":80,"width":198,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"92e453221b52047c","fromNode":"69ba5ec51afa1bd2","fromSide":"right","toNode":"c0fd388d3c82fb89","toSide":"left"},
+		{"id":"8d21795f4ab1cf7c","fromNode":"0ec7c15647445f11","fromSide":"right","toNode":"c0fd388d3c82fb89","toSide":"left"}
+	]
+}

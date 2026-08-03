@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"13f9f7b46ea649fa","x":-179,"y":-49,"width":250,"height":60,"type":"text","text":"績 - Tích"},
+		{"id":"44ec92794f88cc14","x":-520,"y":-300,"width":160,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/責 - Trách/責 - Trách.canvas"},
+		{"id":"5c9c4ae131b7a5a1","x":-537,"y":40,"width":177,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"8497fccc6722300a","fromNode":"44ec92794f88cc14","fromSide":"right","toNode":"13f9f7b46ea649fa","toSide":"left"},
+		{"id":"a2555e55858cf68d","fromNode":"5c9c4ae131b7a5a1","fromSide":"right","toNode":"13f9f7b46ea649fa","toSide":"left"}
+	]
+}

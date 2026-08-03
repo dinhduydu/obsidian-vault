@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d57ce53dcd34197a","x":-181,"y":-54,"width":250,"height":60,"type":"text","text":"Hưởng　「享」"},
+		{"id":"91006dff4349435a","x":-540,"y":-280,"width":154,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"},
+		{"id":"e78984d69686d42e","x":-533,"y":-82,"width":147,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"53c96513826df2dc","x":-631,"y":200,"width":245,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"}
+	],
+	"edges":[
+		{"id":"c5d3792e39103f1f","fromNode":"91006dff4349435a","fromSide":"right","toNode":"d57ce53dcd34197a","toSide":"left"},
+		{"id":"8ed8180042843a90","fromNode":"e78984d69686d42e","fromSide":"right","toNode":"d57ce53dcd34197a","toSide":"left"},
+		{"id":"65c1452d1c9de280","fromNode":"53c96513826df2dc","fromSide":"right","toNode":"d57ce53dcd34197a","toSide":"left"}
+	]
+}

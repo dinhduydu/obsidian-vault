@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6991fedbdaf7d8e7","type":"text","text":"孰 - Thục","x":-78,"y":-9,"width":250,"height":60},
+		{"id":"92ff35aee251c926","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hưởng　「享」/Hưởng　「享」.canvas","x":-420,"y":-200,"width":140,"height":160},
+		{"id":"7d5eca2f62b96f59","x":-501,"y":100,"width":221,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/丸 - Hoàn.canvas"}
+	],
+	"edges":[
+		{"id":"bba97ff3e681d188","fromNode":"92ff35aee251c926","fromSide":"right","toNode":"6991fedbdaf7d8e7","toSide":"left"},
+		{"id":"2707a6e6214ded97","fromNode":"7d5eca2f62b96f59","fromSide":"right","toNode":"6991fedbdaf7d8e7","toSide":"left"}
+	]
+}

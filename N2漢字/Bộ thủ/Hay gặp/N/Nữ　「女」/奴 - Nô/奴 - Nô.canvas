@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aa061e82a365e54b","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"奴 - Nô"},
+		{"id":"fdab8c83f8abc017","x":-520,"y":-320,"width":177,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"9b1ea284657f57ae","x":-526,"y":120,"width":183,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"a5e0c596087648e6","fromNode":"fdab8c83f8abc017","fromSide":"right","toNode":"aa061e82a365e54b","toSide":"left"},
+		{"id":"0c98bc16dfe63fff","fromNode":"9b1ea284657f57ae","fromSide":"right","toNode":"aa061e82a365e54b","toSide":"left"}
+	]
+}

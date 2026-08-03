@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"64c262877c0c877f","x":-116,"y":-37,"width":250,"height":60,"type":"text","text":"吟 - Ngâm"},
+		{"id":"59a35a16495c60ef","x":-500,"y":-320,"width":219,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"6e6b1d84c26d7766","x":-473,"y":80,"width":192,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"2b523bdb8bd0de51","fromNode":"59a35a16495c60ef","fromSide":"right","toNode":"64c262877c0c877f","toSide":"left"},
+		{"id":"dfcfbd43d5a47aba","fromNode":"6e6b1d84c26d7766","fromSide":"right","toNode":"64c262877c0c877f","toSide":"left"}
+	]
+}

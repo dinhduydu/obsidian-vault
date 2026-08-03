@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"261e5cbe60106714","type":"text","text":"Nguyên　「原」","x":-113,"y":-18,"width":250,"height":60},
+		{"id":"14c113b236432c52","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-534,"y":-340,"width":177,"height":122},
+		{"id":"c73058d062c7da96","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas","x":-514,"y":240,"width":157,"height":128},
+		{"id":"21f981531b81feef","x":-486,"y":-68,"width":129,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+	],
+	"edges":[
+		{"id":"925dc8be97c40c1b","fromNode":"14c113b236432c52","fromSide":"right","toNode":"261e5cbe60106714","toSide":"left"},
+		{"id":"12ac364f7687d59a","fromNode":"c73058d062c7da96","fromSide":"right","toNode":"261e5cbe60106714","toSide":"left"},
+		{"id":"e96af1694ed2c56e","fromNode":"21f981531b81feef","fromSide":"right","toNode":"261e5cbe60106714","toSide":"left"}
+	]
+}

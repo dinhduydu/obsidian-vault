@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"65e2f9f1fc1aecd5","x":-105,"y":-50,"width":250,"height":60,"type":"text","text":"候 - Hậu"},
+		{"id":"6e03e3716bb835e5","x":-446,"y":-97,"width":180,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"},
+		{"id":"7bd52e6d595bc62f","x":-380,"y":-340,"width":114,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"74735a701db77922","x":-485,"y":140,"width":219,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+	],
+	"edges":[
+		{"id":"ee4c3c6104c33ad4","fromNode":"7bd52e6d595bc62f","fromSide":"right","toNode":"65e2f9f1fc1aecd5","toSide":"left"},
+		{"id":"c1704fcdc4df5ad4","fromNode":"6e03e3716bb835e5","fromSide":"right","toNode":"65e2f9f1fc1aecd5","toSide":"left"},
+		{"id":"99ae8891dbbcaf3f","fromNode":"74735a701db77922","fromSide":"right","toNode":"65e2f9f1fc1aecd5","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8ef37d63d79b6512","type":"text","text":"亦 - Luyến","x":-69,"y":-22,"width":250,"height":60},
+		{"id":"24efbd1a675db467","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-622,"y":-200,"width":190,"height":149},
+		{"id":"0140905feef95c3c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-640,"y":60,"width":208,"height":226}
+	],
+	"edges":[
+		{"id":"bcf106cc1b8aab5a","fromNode":"24efbd1a675db467","fromSide":"right","toNode":"8ef37d63d79b6512","toSide":"left","label":"x2"},
+		{"id":"531351da4d178949","fromNode":"0140905feef95c3c","fromSide":"right","toNode":"8ef37d63d79b6512","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3f0f6f520f72b545","x":-110,"y":-22,"width":250,"height":60,"type":"text","text":"縛 - Phược"},
+		{"id":"18d03c7df6f0bad5","x":-420,"y":60,"width":167,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"854b11051fc9f278","x":-420,"y":-260,"width":167,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/専 - Chuyên/専 - Chuyên.canvas"}
+	],
+	"edges":[
+		{"id":"b4df31d24655977c","fromNode":"854b11051fc9f278","fromSide":"right","toNode":"3f0f6f520f72b545","toSide":"left"},
+		{"id":"e47056a9326bc612","fromNode":"18d03c7df6f0bad5","fromSide":"right","toNode":"3f0f6f520f72b545","toSide":"left"}
+	]
+}

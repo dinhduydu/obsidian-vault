@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"68faefed0bf99912","x":-161,"y":-33,"width":250,"height":60,"type":"text","text":"塾 - Thục"},
+		{"id":"d8e1761584046409","x":-480,"y":-240,"width":165,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/孰 - Thục.canvas"},
+		{"id":"2587cadeb2586764","x":-448,"y":40,"width":133,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"32b5e6cf0007f002","fromNode":"d8e1761584046409","fromSide":"right","toNode":"68faefed0bf99912","toSide":"left"},
+		{"id":"d94b97391bcd62b7","fromNode":"2587cadeb2586764","fromSide":"right","toNode":"68faefed0bf99912","toSide":"left"}
+	]
+}

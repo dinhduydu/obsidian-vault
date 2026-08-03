@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6126a8e3192492b0","x":-115,"y":-11,"width":250,"height":60,"type":"text","text":"告 - Cáo"},
+		{"id":"ec1e96e7ddd286db","x":-500,"y":-220,"width":156,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"},
+		{"id":"bbd7e7b37fc34ca7","x":-500,"y":120,"width":156,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"af4cfdb24ffb77a8","fromNode":"ec1e96e7ddd286db","fromSide":"right","toNode":"6126a8e3192492b0","toSide":"left"},
+		{"id":"12eff83c3f97ee78","fromNode":"bbd7e7b37fc34ca7","fromSide":"right","toNode":"6126a8e3192492b0","toSide":"left"}
+	]
+}

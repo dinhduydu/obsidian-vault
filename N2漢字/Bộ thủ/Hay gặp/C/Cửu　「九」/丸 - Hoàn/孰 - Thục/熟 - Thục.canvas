@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a8599e28d802aaf5","x":-175,"y":-59,"width":250,"height":60,"type":"text","text":"熟 - Thục"},
+		{"id":"039f53e47c59deb5","x":-500,"y":-240,"width":221,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/孰 - Thục.canvas"},
+		{"id":"4ea43d061165a86c","x":-437,"y":160,"width":158,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"318267ea8f1e566b","fromNode":"039f53e47c59deb5","fromSide":"right","toNode":"a8599e28d802aaf5","toSide":"left"},
+		{"id":"465b02c50308c68b","fromNode":"4ea43d061165a86c","fromSide":"right","toNode":"a8599e28d802aaf5","toSide":"left"}
+	]
+}

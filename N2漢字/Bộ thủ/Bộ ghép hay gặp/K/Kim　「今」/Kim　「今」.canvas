@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1b2f0e4b986dd4a0","x":-91,"y":-37,"width":250,"height":60,"type":"text","text":"Kim　「今」"},
+		{"id":"df15a413328c6015","x":-560,"y":23,"width":265,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"1ad1299a8075ec75","x":-500,"y":-340,"width":205,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"}
+	],
+	"edges":[
+		{"id":"549421ad6d659f7f","fromNode":"df15a413328c6015","fromSide":"right","toNode":"1b2f0e4b986dd4a0","toSide":"left"},
+		{"id":"8f4a823907677ad3","fromNode":"1ad1299a8075ec75","fromSide":"right","toNode":"1b2f0e4b986dd4a0","toSide":"left"}
+	]
+}

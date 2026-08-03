@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"be144f6c3ce46105","x":-149,"y":-47,"width":250,"height":60,"type":"text","text":"憎 - Tăng"},
+		{"id":"a110f00f938e7366","x":-460,"y":80,"width":173,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas"},
+		{"id":"362e8b9df4aa5266","x":-700,"y":-102,"width":161,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"c7f50933875cccaa","fromNode":"a110f00f938e7366","fromSide":"right","toNode":"be144f6c3ce46105","toSide":"left"},
+		{"id":"6ff43ee73c739395","fromNode":"362e8b9df4aa5266","fromSide":"right","toNode":"be144f6c3ce46105","toSide":"left"}
+	]
+}

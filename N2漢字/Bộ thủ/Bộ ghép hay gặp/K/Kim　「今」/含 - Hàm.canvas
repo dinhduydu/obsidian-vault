@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7ee763c1e6f2f1d3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"含 - Hàm"},
+		{"id":"806fcb8aa6cc7a24","x":-480,"y":-260,"width":200,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/Kim　「今」.canvas"},
+		{"id":"58efc84e18c7a04b","x":-480,"y":160,"width":200,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"aa334d5aae59ca77","fromNode":"806fcb8aa6cc7a24","fromSide":"right","toNode":"7ee763c1e6f2f1d3","toSide":"left"},
+		{"id":"71288ba74608ae68","fromNode":"58efc84e18c7a04b","fromSide":"right","toNode":"7ee763c1e6f2f1d3","toSide":"left"}
+	]
+}

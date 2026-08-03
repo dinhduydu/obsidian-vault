@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e1cc5b1f4226c872","x":-124,"y":-31,"width":250,"height":60,"type":"text","text":"酷 - Khốc"},
+		{"id":"8a06f8ade64525d1","x":-380,"y":-240,"width":167,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/告 - Cáo/告 - Cáo.canvas"},
+		{"id":"e05410d52910430f","x":-500,"y":60,"width":143,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"}
+	],
+	"edges":[
+		{"id":"84191a755fb078a5","fromNode":"8a06f8ade64525d1","fromSide":"right","toNode":"e1cc5b1f4226c872","toSide":"left"},
+		{"id":"3346b7af847ed1c1","fromNode":"e05410d52910430f","fromSide":"right","toNode":"e1cc5b1f4226c872","toSide":"left"}
+	]
+}

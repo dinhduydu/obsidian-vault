@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f4413e7de7f98f7c","x":-149,"y":-50,"width":250,"height":60,"type":"text","text":"層 - Tằng"},
+		{"id":"c090cf0b555b83af","x":-608,"y":160,"width":209,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas"},
+		{"id":"50a7f05e651be122","x":-830,"y":-50,"width":250,"height":60,"type":"text","text":"Tầng nhà"},
+		{"id":"4077db419128812f","x":-635,"y":-360,"width":236,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"daeb243af5b36838","fromNode":"50a7f05e651be122","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"},
+		{"id":"5fc0854a6f491885","fromNode":"c090cf0b555b83af","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"},
+		{"id":"77a3ce26a6434212","fromNode":"4077db419128812f","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"}
+	]
+}

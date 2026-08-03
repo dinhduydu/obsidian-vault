@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d9472e2a0bc5054a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"漬 - Tí"},
+		{"id":"6ecef8a125b8d5fe","x":-440,"y":-260,"width":188,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/責 - Trách/責 - Trách.canvas"},
+		{"id":"01e1b52d6cd0531e","x":-440,"y":140,"width":152,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"7d87571f499703f8","fromNode":"6ecef8a125b8d5fe","fromSide":"right","toNode":"d9472e2a0bc5054a","toSide":"left"},
+		{"id":"9e521e4712700086","fromNode":"01e1b52d6cd0531e","fromSide":"right","toNode":"d9472e2a0bc5054a","toSide":"left"}
+	]
+}

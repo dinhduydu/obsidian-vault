@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b1a0d5fa1c2fc42d","x":-172,"y":-37,"width":250,"height":60,"type":"text","text":"怒 - Nộ"},
+		{"id":"ce84bce767d8eced","x":-460,"y":-300,"width":147,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/奴 - Nô/奴 - Nô.canvas"},
+		{"id":"31d39054a02afb7f","x":-460,"y":100,"width":147,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"1f424436c1b8697f","fromNode":"ce84bce767d8eced","fromSide":"right","toNode":"b1a0d5fa1c2fc42d","toSide":"left"},
+		{"id":"4d59fd74623c659f","fromNode":"31d39054a02afb7f","fromSide":"right","toNode":"b1a0d5fa1c2fc42d","toSide":"left"}
+	]
+}

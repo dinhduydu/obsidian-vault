@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"837ea0e5aca945cb","x":-133,"y":-24,"width":250,"height":60,"type":"text","text":"薄 - Bạc"},
+		{"id":"323c0e47c20f51d7","x":-422,"y":-320,"width":113,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"bda75a83d0713983","x":-760,"y":-73,"width":169,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"8fdd620fd8b9b5c3","x":-440,"y":120,"width":189,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/専 - Chuyên/専 - Chuyên.canvas"}
+	],
+	"edges":[
+		{"id":"dc9c3351d0f9691e","fromNode":"8fdd620fd8b9b5c3","fromSide":"right","toNode":"837ea0e5aca945cb","toSide":"left"},
+		{"id":"4a2eb30da0760fa9","fromNode":"323c0e47c20f51d7","fromSide":"right","toNode":"837ea0e5aca945cb","toSide":"left"},
+		{"id":"a4d90ee02aaab9f7","fromNode":"bda75a83d0713983","fromSide":"right","toNode":"837ea0e5aca945cb","toSide":"left"}
+	]
+}

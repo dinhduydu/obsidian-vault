@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2d86dab95b70ca36","x":-193,"y":-34,"width":250,"height":60,"type":"text","text":"侯 - Hầu"},
+		{"id":"50e2649d4b00d602","x":-500,"y":-180,"width":158,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"ade2bf129b4e968e","x":-500,"y":-4,"width":158,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas"}
+	],
+	"edges":[
+		{"id":"6396b6071701327a","fromNode":"50e2649d4b00d602","fromSide":"right","toNode":"2d86dab95b70ca36","toSide":"left"},
+		{"id":"f8f063d9e73477af","fromNode":"ade2bf129b4e968e","fromSide":"right","toNode":"2d86dab95b70ca36","toSide":"left"}
+	]
+}

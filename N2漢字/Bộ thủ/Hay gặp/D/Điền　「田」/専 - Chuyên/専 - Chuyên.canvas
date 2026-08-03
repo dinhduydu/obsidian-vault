@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6021b6ef8465851b","x":-61,"y":-41,"width":250,"height":60,"type":"text","text":"専 - Chuyên"},
+		{"id":"60587761e93d8c17","x":-400,"y":-67,"width":133,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"cc172d34d3e1163e","x":-439,"y":-280,"width":172,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"fbf0c9e94998d369","x":-462,"y":140,"width":195,"height":220,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"fe648cbb63a5166d","fromNode":"60587761e93d8c17","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"},
+		{"id":"6d9b681eb6c30069","fromNode":"cc172d34d3e1163e","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"},
+		{"id":"359c2c1b54ae7f0c","fromNode":"fbf0c9e94998d369","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"}
+	]
+}

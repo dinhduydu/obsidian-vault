@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7d5c6444fdbb248e","x":-141,"y":-46,"width":250,"height":60,"type":"text","text":"汁 - Trấp"},
+		{"id":"282173be0cf5a973","x":-420,"y":-220,"width":139,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"f5325779292edab5","x":-434,"y":80,"width":153,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"97d68e530f2f4cc1","fromNode":"282173be0cf5a973","fromSide":"right","toNode":"7d5c6444fdbb248e","toSide":"left"},
+		{"id":"3a83c339a3246718","fromNode":"f5325779292edab5","fromSide":"right","toNode":"7d5c6444fdbb248e","toSide":"left"}
+	]
+}

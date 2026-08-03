@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2883c5247fa032cf","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"博 - Bác"},
+		{"id":"288d5b52e3a31706","x":-460,"y":-280,"width":127,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"140239b976b1bf01","x":-527,"y":160,"width":194,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/専 - Chuyên/専 - Chuyên.canvas"}
+	],
+	"edges":[
+		{"id":"d0effb178b05b46d","fromNode":"288d5b52e3a31706","fromSide":"right","toNode":"2883c5247fa032cf","toSide":"left"},
+		{"id":"a8d332c02b233777","fromNode":"140239b976b1bf01","fromSide":"right","toNode":"2883c5247fa032cf","toSide":"left"}
+	]
+}

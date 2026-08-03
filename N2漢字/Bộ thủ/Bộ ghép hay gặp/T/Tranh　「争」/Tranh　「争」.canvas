@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ca04e68426225676","x":-123,"y":-45,"width":250,"height":60,"type":"text","text":"Tranh　「争」"},
+		{"id":"7d1c58e456063cf6","x":-500,"y":-380,"width":180,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/Kép　「𠂊」.canvas"},
+		{"id":"cb6d5f359ee2711f","x":-464,"y":-71,"width":144,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"722d352c6cf64786","x":-547,"y":180,"width":227,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quyết　「亅」/Quyết　「亅」.canvas"}
+	],
+	"edges":[
+		{"id":"c81bd4b541f11f10","fromNode":"7d1c58e456063cf6","fromSide":"right","toNode":"ca04e68426225676","toSide":"left"},
+		{"id":"8fe2c0b546046512","fromNode":"cb6d5f359ee2711f","fromSide":"right","toNode":"ca04e68426225676","toSide":"left"},
+		{"id":"26d2390b37f41d54","fromNode":"722d352c6cf64786","fromSide":"right","toNode":"ca04e68426225676","toSide":"left"}
+	]
+}

@@ -98,19 +98,87 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/請 - Thỉnh.canvas",
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tranh　「争」/浄 - Tịnh.canvas",
                 "viewState": {
-                  "x": -198,
-                  "y": 44,
+                  "x": -4,
+                  "y": 365,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "請 - Thỉnh"
+              "title": "浄 - Tịnh"
+            }
+          },
+          {
+            "id": "5b08b7c0ecb3be02",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/侯 - Hầu/喉 - Hầu.canvas",
+                "viewState": {
+                  "x": -268.8734135879489,
+                  "y": 19.44048588498,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "喉 - Hầu"
+            }
+          },
+          {
+            "id": "9c3e7a20b7169795",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu/有 - Hữu.canvas",
+                "viewState": {
+                  "x": -151.5,
+                  "y": 164.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "有 - Hữu"
+            }
+          },
+          {
+            "id": "7100a90e2d45a346",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/熱 - Nhiệt.canvas",
+                "viewState": {
+                  "x": -144.95974309393566,
+                  "y": -36.61153561187522,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "熱 - Nhiệt"
+            }
+          },
+          {
+            "id": "1ca52464eb194bf7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/塾 - Thục.canvas",
+                "viewState": {
+                  "x": -152.98703650594382,
+                  "y": 131.22358443988088,
+                  "zoom": 0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "塾 - Thục"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -144,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "青",
+                "query": "Hoàn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,7 +228,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -261,29 +332,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8c8e7b4b6da218d",
+  "active": "1ca52464eb194bf7",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/晴 - Tình.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/請 - Thỉnh.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/清 - Thanh.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/朕 - Trẫm.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/关 - Tống.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/沃 - Ốc.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/咲 - Tiếu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/妖 - Yêu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/妖 - Yêu",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」/Nghiêu　「尭」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/即 - Tức",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/成 - Thành",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戊 - Mậu",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/熟 - Thục.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/塾 - Thục.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục/孰 - Thục.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/勢 - Thế.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/孰 - Thục",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/埶 - Nghệ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/熱 - Nhiệt.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/丸 - Hoàn.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/熱 - Nhiệt.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/蜜 - Mật.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/密 - Mật.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/泌 - Bí.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弗 - Phất",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/専 - Chuyên",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」/念 - Niệm",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kim　「今」",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/奴 - Nô",
     "Untitled.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/2. Phân Tích N2_NGÀY 2_ÔN TẬP KANJI (P2).md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/4. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 6.md",

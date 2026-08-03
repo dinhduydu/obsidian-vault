@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6cc3a85166d92b48","x":-83,"y":-35,"width":250,"height":60,"type":"text","text":"勢 - Thế"},
+		{"id":"a157f0c68dc94fee","x":-460,"y":-240,"width":212,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/埶 - Nghệ.canvas"},
+		{"id":"170f3477b40d3148","x":-400,"y":100,"width":152,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"2e56df6f9ed5d4b7","fromNode":"a157f0c68dc94fee","fromSide":"right","toNode":"6cc3a85166d92b48","toSide":"left"},
+		{"id":"d03ade303203baae","fromNode":"170f3477b40d3148","fromSide":"right","toNode":"6cc3a85166d92b48","toSide":"left"}
+	]
+}

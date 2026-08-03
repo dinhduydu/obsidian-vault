@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e71badaed63ddc5a","x":-44,"y":3,"width":250,"height":60,"type":"text","text":"㒸 - Toại"},
+		{"id":"b8a885ea6cc7fbbb","x":-320,"y":140,"width":156,"height":101,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas"},
+		{"id":"1dc9c5f951cca04d","x":-380,"y":-200,"width":198,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas"}
+	],
+	"edges":[
+		{"id":"4df751c05e39463e","fromNode":"b8a885ea6cc7fbbb","fromSide":"right","toNode":"e71badaed63ddc5a","toSide":"left"},
+		{"id":"035453fca509ef60","fromNode":"1dc9c5f951cca04d","fromSide":"right","toNode":"e71badaed63ddc5a","toSide":"left"}
+	]
+}

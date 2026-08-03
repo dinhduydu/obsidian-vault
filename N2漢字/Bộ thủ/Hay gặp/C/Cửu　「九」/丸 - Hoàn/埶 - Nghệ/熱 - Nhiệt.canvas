@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"dcf20da4c7210008","type":"text","text":"熱 - Nhiệt","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"64aead04e98d7208","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas","x":-500,"y":380,"width":192,"height":118},
+		{"id":"f6a4e9924a6e2f19","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/熱 - Nhiệt.canvas","x":-920,"y":206,"width":182,"height":163},
+		{"id":"ec0ee4b2f422c760","x":-540,"y":-240,"width":212,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/埶 - Nghệ.canvas"}
+	],
+	"edges":[
+		{"id":"a6ba60aa53246e35","fromNode":"64aead04e98d7208","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"},
+		{"id":"d7d48661fb889d42","fromNode":"f6a4e9924a6e2f19","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"},
+		{"id":"fc34a3f3c6a40412","fromNode":"ec0ee4b2f422c760","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"}
+	]
+}
