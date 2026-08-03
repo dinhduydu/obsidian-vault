@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"03b6a6be4596eac1","x":-106,"y":-38,"width":250,"height":60,"type":"text","text":"請 - Thỉnh"},
+		{"id":"4a6e96f59d129d01","x":-480,"y":220,"width":156,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"},
+		{"id":"48e9537beae1005e","x":-540,"y":-260,"width":161,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"a3f02077e37a6a46","fromNode":"4a6e96f59d129d01","fromSide":"right","toNode":"03b6a6be4596eac1","toSide":"left"},
+		{"id":"6521bf09faa375ed","fromNode":"48e9537beae1005e","fromSide":"right","toNode":"03b6a6be4596eac1","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b13cfc6bc955f631","type":"text","text":"Ngột　「兀」","x":-156,"y":-26,"width":250,"height":60},
+		{"id":"18e04ec3f0a61930","x":-520,"y":-240,"width":187,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"2268a4dd0a48067e","x":-484,"y":60,"width":151,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"e0e7a58f6e0c1cd1","fromNode":"18e04ec3f0a61930","fromSide":"right","toNode":"b13cfc6bc955f631","toSide":"left"},
+		{"id":"def3423974b80169","fromNode":"2268a4dd0a48067e","fromSide":"right","toNode":"b13cfc6bc955f631","toSide":"left"}
+	]
+}

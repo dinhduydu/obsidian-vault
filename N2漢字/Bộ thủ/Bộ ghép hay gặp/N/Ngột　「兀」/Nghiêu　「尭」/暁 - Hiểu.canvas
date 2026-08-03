@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"07e001c576edf664","x":-61,"y":-21,"width":250,"height":60,"type":"text","text":"暁 - Hiểu"},
+		{"id":"1b9c415392e83ec7","x":-480,"y":240,"width":163,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」/Nghiêu　「尭」/Nghiêu　「尭」.canvas"},
+		{"id":"ee88f8f3bfc6a1dc","x":-546,"y":-260,"width":229,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"50c36e0b1662845d","fromNode":"1b9c415392e83ec7","fromSide":"right","toNode":"07e001c576edf664","toSide":"left"},
+		{"id":"9da2deb5d712532e","fromNode":"ee88f8f3bfc6a1dc","fromSide":"right","toNode":"07e001c576edf664","toSide":"left"}
+	]
+}

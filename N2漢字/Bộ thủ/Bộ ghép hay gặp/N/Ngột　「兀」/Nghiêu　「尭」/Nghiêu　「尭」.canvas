@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a15ca76218210a78","type":"text","text":"Nghiêu　「尭」","x":-87,"y":-58,"width":250,"height":60},
+		{"id":"c73b02200f68b1aa","type":"text","text":"卉","x":-620,"y":-280,"width":250,"height":60},
+		{"id":"e87e622dbe39d993","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」/Ngột　「兀」.canvas","x":-523,"y":40,"width":153,"height":154},
+		{"id":"4ab9ac14dff6fc1b","x":-900,"y":-480,"width":159,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"56774fbf3cde9c5e","x":-912,"y":-220,"width":171,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"}
+	],
+	"edges":[
+		{"id":"5e3dfa5992886d0f","fromNode":"c73b02200f68b1aa","fromSide":"right","toNode":"a15ca76218210a78","toSide":"left"},
+		{"id":"b6b21c30c3053db5","fromNode":"e87e622dbe39d993","fromSide":"right","toNode":"a15ca76218210a78","toSide":"left"},
+		{"id":"4a47ceba224b39b3","fromNode":"4ab9ac14dff6fc1b","fromSide":"right","toNode":"c73b02200f68b1aa","toSide":"left"},
+		{"id":"f9f3e2c4e1e7cf88","fromNode":"56774fbf3cde9c5e","fromSide":"right","toNode":"c73b02200f68b1aa","toSide":"left"}
+	]
+}

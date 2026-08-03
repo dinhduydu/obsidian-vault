@@ -81,19 +81,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiều　「喬」/Kiều　「喬」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/妖 - Yêu.canvas",
                 "viewState": {
-                  "x": -97.5,
-                  "y": 39,
-                  "zoom": -0.1435399134806039
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Kiều　「喬」"
+              "title": "妖 - Yêu"
+            }
+          },
+          {
+            "id": "f8c8e7b4b6da218d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/請 - Thỉnh.canvas",
+                "viewState": {
+                  "x": -198,
+                  "y": 44,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "請 - Thỉnh"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kệ",
+                "query": "青",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,29 +261,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9633fb07a66e404e",
+  "active": "f8c8e7b4b6da218d",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/総 - Tổng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/訟 - Tụng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/松 - Tùng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/公 - Công.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công/翁 - Ông.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/晴 - Tình.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/請 - Thỉnh.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/清 - Thanh.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/朕 - Trẫm.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/关 - Tống.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/沃 - Ốc.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/咲 - Tiếu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/妖 - Yêu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/妖 - Yêu",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」/Nghiêu　「尭」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N/Ngột　「兀」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/N",
     "N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/公 - Công",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây/遷 - Thiên.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây/覀 - Tây.canvas",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/覀 - Tây",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Tây　「西」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/選 - Tuyển.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/即 - Tức",
     "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/成 - Thành",
     "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戊 - Mậu",
-    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/巨 - Cự",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiêm　「兼」",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đãi　「隶」",
     "Untitled.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/2. Phân Tích N2_NGÀY 2_ÔN TẬP KANJI (P2).md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/4. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 6.md",

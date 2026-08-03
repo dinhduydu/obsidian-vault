@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3603a366f881fdac","x":15,"y":-4,"width":250,"height":60,"type":"text","text":"妖 - Yêu"},
+		{"id":"353256647f09f5c2","x":-460,"y":-340,"width":184,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas"},
+		{"id":"dfa7fff059feb56d","x":-460,"y":160,"width":184,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"8dfbad84b290af47","fromNode":"353256647f09f5c2","fromSide":"right","toNode":"3603a366f881fdac","toSide":"left"},
+		{"id":"e94ab6b78bd85aaf","fromNode":"dfa7fff059feb56d","fromSide":"right","toNode":"3603a366f881fdac","toSide":"left"}
+	]
+}

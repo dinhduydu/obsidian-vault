@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"80365f013cc75bbf","x":-133,"y":-28,"width":250,"height":60,"type":"text","text":"沃 - Ốc"},
+		{"id":"14ac347a1059c7b0","x":-460,"y":100,"width":176,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「夭」/Yêu　「夭」.canvas"},
+		{"id":"4acfea57ed20f23a","x":-540,"y":-260,"width":219,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"24e64221a260a0e1","fromNode":"14ac347a1059c7b0","fromSide":"right","toNode":"80365f013cc75bbf","toSide":"left"},
+		{"id":"918d581f70733b6e","fromNode":"4acfea57ed20f23a","fromSide":"right","toNode":"80365f013cc75bbf","toSide":"left"}
+	]
+}
