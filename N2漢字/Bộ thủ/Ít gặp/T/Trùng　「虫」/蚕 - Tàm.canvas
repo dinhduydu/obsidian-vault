@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a6d1b6ccdce11b67","x":-141,"y":-35,"width":250,"height":60,"type":"text","text":"蚕 - Tàm"},
+		{"id":"628793b16b014fc6","x":-820,"y":-35,"width":250,"height":60,"type":"text","text":"con tằm"},
+		{"id":"815fe2eb105af072","x":-500,"y":-280,"width":188,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「天」/Thiên　「天」.canvas"},
+		{"id":"ea0f48cf373caf66","x":-513,"y":180,"width":214,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
+	],
+	"edges":[
+		{"id":"9cc4cf0928e396c8","fromNode":"628793b16b014fc6","fromSide":"right","toNode":"a6d1b6ccdce11b67","toSide":"left"},
+		{"id":"15e893de8717dba7","fromNode":"815fe2eb105af072","fromSide":"right","toNode":"a6d1b6ccdce11b67","toSide":"left"},
+		{"id":"50f257543972a5c1","fromNode":"ea0f48cf373caf66","fromSide":"right","toNode":"a6d1b6ccdce11b67","toSide":"left"}
+	]
+}

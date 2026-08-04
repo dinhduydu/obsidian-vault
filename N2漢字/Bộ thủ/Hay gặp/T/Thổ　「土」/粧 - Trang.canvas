@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"09adb16eff55f619","x":-143,"y":-29,"width":250,"height":60,"type":"text","text":"粧 - Trang"},
+		{"id":"76aae8732cbb862f","x":-480,"y":-260,"width":200,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"c005f3fe8a22de37","x":-500,"y":100,"width":220,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"cd56a06186127d53","x":-800,"y":-76,"width":219,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"f0b7d636ce7db960","fromNode":"76aae8732cbb862f","fromSide":"right","toNode":"09adb16eff55f619","toSide":"left"},
+		{"id":"4f2194f6cd5c5138","fromNode":"c005f3fe8a22de37","fromSide":"right","toNode":"09adb16eff55f619","toSide":"left"},
+		{"id":"eb7e5ca239fa2ef2","fromNode":"cd56a06186127d53","fromSide":"right","toNode":"09adb16eff55f619","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0a28696a07d3d9dd","x":-127,"y":-44,"width":250,"height":60,"type":"text","text":"独 - Độc"},
+		{"id":"082470b1b269d5c4","x":-480,"y":-265,"width":207,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"b81acfb679c86830","x":-474,"y":140,"width":196,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
+	],
+	"edges":[
+		{"id":"2c5531f118d9c619","fromNode":"082470b1b269d5c4","fromSide":"right","toNode":"0a28696a07d3d9dd","toSide":"left"},
+		{"id":"70dafd58af2ea5be","fromNode":"b81acfb679c86830","fromSide":"right","toNode":"0a28696a07d3d9dd","toSide":"left"}
+	]
+}

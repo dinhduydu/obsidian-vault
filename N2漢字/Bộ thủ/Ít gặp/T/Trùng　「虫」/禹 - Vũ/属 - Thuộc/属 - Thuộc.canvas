@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"481f3708daf0bad9","x":-91,"y":-20,"width":250,"height":60,"type":"text","text":"属 - Thuộc"},
+		{"id":"98cb42c913d4f62d","x":-460,"y":120,"width":223,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/禹 - Vũ/禹 - Vũ.canvas"},
+		{"id":"474016bcabd27673","x":-434,"y":-280,"width":197,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"339ea05874522f5a","fromNode":"98cb42c913d4f62d","fromSide":"right","toNode":"481f3708daf0bad9","toSide":"left"},
+		{"id":"acd1a77a8fb7302f","fromNode":"474016bcabd27673","fromSide":"right","toNode":"481f3708daf0bad9","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d4b2d90b5df448fd","x":-147,"y":-30,"width":250,"height":60,"type":"text","text":"丬 - Tường"},
+		{"id":"c5ad74ab3f61dff0","x":-600,"y":-111,"width":222,"height":222,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/Tường　「爿」.canvas"}
+	],
+	"edges":[
+		{"id":"a4b20ea7efbc0829","fromNode":"c5ad74ab3f61dff0","fromSide":"right","toNode":"d4b2d90b5df448fd","toSide":"left"}
+	]
+}

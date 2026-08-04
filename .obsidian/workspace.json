@@ -234,19 +234,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/隅 - Ngung.canvas",
+                "file": "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas",
                 "viewState": {
-                  "x": -141.25353134627852,
-                  "y": 17.155065469289724,
-                  "zoom": 1
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "隅 - Ngung"
+              "title": "壮 - Tráng"
+            }
+          },
+          {
+            "id": "424bd488dca78c30",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/繭 - Kiển.canvas",
+                "viewState": {
+                  "x": -278.84011704179215,
+                  "y": 267.5292081590163,
+                  "zoom": 1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "繭 - Kiển"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -280,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "属",
+                "query": "Thiên",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -400,29 +417,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "424bd488dca78c30",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/偶 - Ngẫu.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/隅 - Ngung.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/Ngu　「禺 」.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/遇 - Ngộ.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/愚 - Ngu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/罷 - Bãi.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/騒 - Tào.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/繭 - Kiển.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蛍 - Huỳnh.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蚕 - Tàm.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「天」/Thiên　「天」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/粧 - Trang.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/圧 - Áp.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/荘 - Trang.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/装 - Trang.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/禹 - Vũ/属 - Thuộc",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/禹 - Vũ",
+    "N2漢字/Bộ thủ/Chữ cổ/Nhu　「禸」",
+    "N2漢字/Bộ thủ/Chữ cổ/Nhu　「禸」/Ngu　「禺 」",
     "N2漢字/Bộ thủ/Chữ cổ",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/熊 - Hùng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/態 - Thái.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/能 - Năng.canvas",
     "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/巡 - Tuần.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/拶 - Tạt.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hoạch　「蒦」",
-    "N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Untitled",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế/契 - Khế",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế",
-    "N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/冓 - Cấu",
-    "N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/再 - Tái",
     "Chữa đề/Learning_Profile/FixedExpression/句読点.md",
     "Chữa đề/Learning_Profile/Kanji/偉い.md",
     "網膜.md",

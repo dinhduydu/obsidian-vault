@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"30bfa36c9ab785d5","x":-131,"y":-42,"width":250,"height":60,"type":"text","text":"繭 - Kiển"},
+		{"id":"3aa11208ad7fa153","x":-460,"y":-280,"width":171,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"cf26d4123efa465a","x":-440,"y":-135,"width":151,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"06cfb0ac23b2301a","x":-497,"y":120,"width":208,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"},
+		{"id":"0d574de9b96445d8","x":-504,"y":440,"width":215,"height":224,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"af65135519b183b8","x":-542,"y":820,"width":253,"height":231,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
+	],
+	"edges":[
+		{"id":"1f1da8eb23c63215","fromNode":"3aa11208ad7fa153","fromSide":"right","toNode":"30bfa36c9ab785d5","toSide":"left"},
+		{"id":"0fc57129740c76a2","fromNode":"cf26d4123efa465a","fromSide":"right","toNode":"30bfa36c9ab785d5","toSide":"left"},
+		{"id":"00e885cec5ccac16","fromNode":"06cfb0ac23b2301a","fromSide":"right","toNode":"30bfa36c9ab785d5","toSide":"left"},
+		{"id":"249c4783aabe739f","fromNode":"0d574de9b96445d8","fromSide":"right","toNode":"30bfa36c9ab785d5","toSide":"left"},
+		{"id":"cc360c8e0b3ae0be","fromNode":"af65135519b183b8","fromSide":"right","toNode":"30bfa36c9ab785d5","toSide":"left"}
+	]
+}

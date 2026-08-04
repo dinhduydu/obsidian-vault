@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a5f0dc9c49fc2a2","x":-126,"y":-30,"width":250,"height":60,"type":"text","text":"装 - Trang"},
+		{"id":"8089bc46bf2f517d","x":-540,"y":-320,"width":170,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas"},
+		{"id":"4db08030393f4e3f","x":-560,"y":120,"width":190,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"b46a02a5aa52a155","fromNode":"8089bc46bf2f517d","fromSide":"right","toNode":"6a5f0dc9c49fc2a2","toSide":"left"},
+		{"id":"28b76d916e93b48e","fromNode":"4db08030393f4e3f","fromSide":"right","toNode":"6a5f0dc9c49fc2a2","toSide":"left"}
+	]
+}

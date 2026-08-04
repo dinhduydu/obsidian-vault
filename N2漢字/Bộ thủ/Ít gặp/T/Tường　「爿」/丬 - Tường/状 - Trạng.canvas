@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aedfd10cebeccdb6","x":-102,"y":-40,"width":250,"height":60,"type":"text","text":"状 - Trạng"},
+		{"id":"881493ac92cf766f","x":-940,"y":-280,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"},
+		{"id":"f300f6e50d47e3dc","x":-520,"y":-106,"width":213,"height":193,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/～状 - Trạng.canvas"}
+	],
+	"edges":[
+		{"id":"219be8dc5583d195","fromNode":"881493ac92cf766f","fromSide":"right","toNode":"f300f6e50d47e3dc","toSide":"left"},
+		{"id":"941a2e29b80518f2","fromNode":"f300f6e50d47e3dc","fromSide":"right","toNode":"aedfd10cebeccdb6","toSide":"left","label":"hậu tố"}
+	]
+}

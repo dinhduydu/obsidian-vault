@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a2f5efa384d8db98","x":-140,"y":-49,"width":250,"height":60,"type":"text","text":"荘 - Trang"},
+		{"id":"0db64d5eae56ddf1","x":-520,"y":200,"width":175,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas"},
+		{"id":"0efe4d8034083b7e","x":-520,"y":-320,"width":166,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"39628e2bde3736bc","fromNode":"0db64d5eae56ddf1","fromSide":"right","toNode":"a2f5efa384d8db98","toSide":"left"},
+		{"id":"d9bbf0a1d0bc393a","fromNode":"0efe4d8034083b7e","fromSide":"right","toNode":"a2f5efa384d8db98","toSide":"left"}
+	]
+}

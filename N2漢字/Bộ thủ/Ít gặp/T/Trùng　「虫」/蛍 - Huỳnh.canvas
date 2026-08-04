@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"240cb3180b1d94fa","x":-83,"y":-32,"width":250,"height":60,"type":"text","text":"蛍 - Huỳnh"},
+		{"id":"86ebd171be40723f","x":-520,"y":100,"width":175,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"b6c9f6e0636ea793","x":-544,"y":-240,"width":199,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"5055b1b812920003","x":-528,"y":-480,"width":168,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"}
+	],
+	"edges":[
+		{"id":"3857225e5af0a4cf","fromNode":"86ebd171be40723f","fromSide":"right","toNode":"240cb3180b1d94fa","toSide":"left"},
+		{"id":"a9463363092746ac","fromNode":"b6c9f6e0636ea793","fromSide":"right","toNode":"240cb3180b1d94fa","toSide":"left"},
+		{"id":"ad90a88e5c7c2c7c","fromNode":"5055b1b812920003","fromSide":"right","toNode":"240cb3180b1d94fa","toSide":"left"}
+	]
+}

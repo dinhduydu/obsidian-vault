@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2fa367550e8b387b","type":"text","text":"嘱 - Chúc","x":-104,"y":-15,"width":250,"height":60},
+		{"id":"8fe3dd5df0c89213","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/禹 - Vũ/属 - Thuộc/属 - Thuộc.canvas","x":-440,"y":-200,"width":203,"height":160},
+		{"id":"cba914de7905bbbd","x":-427,"y":80,"width":190,"height":223,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"234384d71d86cd8e","fromNode":"8fe3dd5df0c89213","fromSide":"right","toNode":"2fa367550e8b387b","toSide":"left"},
+		{"id":"f5ca0feb4334ae71","fromNode":"cba914de7905bbbd","fromSide":"right","toNode":"2fa367550e8b387b","toSide":"left"}
+	]
+}

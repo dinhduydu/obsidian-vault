@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f8c3119df208b18e","x":-90,"y":-71,"width":250,"height":60,"type":"text","text":"禹 - Vũ"},
+		{"id":"f20c05085a8cf5bf","x":-480,"y":-110,"width":189,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"244c7f29c41a378c","x":-460,"y":120,"width":169,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"96540aeac6675265","x":-437,"y":-420,"width":146,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas"}
+	],
+	"edges":[
+		{"id":"d7dfa4be18f715e7","fromNode":"f20c05085a8cf5bf","fromSide":"right","toNode":"f8c3119df208b18e","toSide":"left"},
+		{"id":"8d1a01f5360735ec","fromNode":"244c7f29c41a378c","fromSide":"right","toNode":"f8c3119df208b18e","toSide":"left"},
+		{"id":"80320389fe18243c","fromNode":"96540aeac6675265","fromSide":"right","toNode":"f8c3119df208b18e","toSide":"left"}
+	]
+}

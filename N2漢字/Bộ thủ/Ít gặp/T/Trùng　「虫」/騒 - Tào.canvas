@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b67cd69109095971","x":-130,"y":-47,"width":250,"height":60,"type":"text","text":"騒 - Tào"},
+		{"id":"f3531e992cc16eda","x":-420,"y":100,"width":146,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"f92b2dca2b51b06c","x":-430,"y":-260,"width":156,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"},
+		{"id":"ae74b70d45babfe5","x":-660,"y":-108,"width":136,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"c1aec980b8862e0e","fromNode":"f3531e992cc16eda","fromSide":"right","toNode":"b67cd69109095971","toSide":"left"},
+		{"id":"ec0642618041e361","fromNode":"f92b2dca2b51b06c","fromSide":"right","toNode":"b67cd69109095971","toSide":"left"},
+		{"id":"f2c00c2ab7720239","fromNode":"ae74b70d45babfe5","fromSide":"right","toNode":"b67cd69109095971","toSide":"left"}
+	]
+}

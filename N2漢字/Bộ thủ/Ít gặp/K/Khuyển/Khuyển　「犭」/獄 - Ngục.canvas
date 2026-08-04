@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6952d63bc3b01879","x":-440,"y":-300,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"},
+		{"id":"783430fa8328999a","x":-414,"y":0,"width":162,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"4a6be6bc59581802","x":-513,"y":320,"width":261,"height":211,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"},
+		{"id":"b0679a8b87f79400","x":-80,"y":60,"width":250,"height":60,"type":"text","text":"獄 - Ngục"}
+	],
+	"edges":[
+		{"id":"a7a5a8734019bd31","fromNode":"6952d63bc3b01879","fromSide":"right","toNode":"b0679a8b87f79400","toSide":"left"},
+		{"id":"1072a3f47023a49e","fromNode":"783430fa8328999a","fromSide":"right","toNode":"b0679a8b87f79400","toSide":"left"},
+		{"id":"7689732e4d94112e","fromNode":"4a6be6bc59581802","fromSide":"right","toNode":"b0679a8b87f79400","toSide":"left"}
+	]
+}
