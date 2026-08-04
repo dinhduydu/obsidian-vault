@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9652eadc89d79fee","x":-145,"y":-24,"width":250,"height":60,"type":"text","text":"浜 - Banh"},
+		{"id":"e9e6b98787ef7333","x":-480,"y":-260,"width":191,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/丘 - Khâu/兵 - Binh.canvas"},
+		{"id":"72b35d002c9342aa","x":-620,"y":100,"width":171,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"fbced22ca6214543","fromNode":"e9e6b98787ef7333","fromSide":"right","toNode":"9652eadc89d79fee","toSide":"left"},
+		{"id":"1cac732165e5cf52","fromNode":"72b35d002c9342aa","fromSide":"right","toNode":"9652eadc89d79fee","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"031814c0adab866a","x":-132,"y":-48,"width":250,"height":60,"type":"text","text":"演 - Diễn"},
+		{"id":"b76060c4241bd93d","x":-523,"y":140,"width":163,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"},
+		{"id":"29a1909adb267db4","x":-560,"y":-327,"width":200,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/宙  - Trụ/宙  - Trụ.canvas"},
+		{"id":"60f2ee3415d845c5","x":-940,"y":-106,"width":196,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"1de32c8fc1d2f26d","fromNode":"29a1909adb267db4","fromSide":"right","toNode":"031814c0adab866a","toSide":"left"},
+		{"id":"d88212c301b12894","fromNode":"b76060c4241bd93d","fromSide":"right","toNode":"031814c0adab866a","toSide":"left"},
+		{"id":"4bf2b061d33c8c39","fromNode":"60f2ee3415d845c5","fromSide":"right","toNode":"031814c0adab866a","toSide":"left"}
+	]
+}

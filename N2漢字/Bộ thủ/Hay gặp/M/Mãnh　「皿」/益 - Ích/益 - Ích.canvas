@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ad9b061cb9c99300","type":"text","text":"益 - Ích","x":-175,"y":-64,"width":250,"height":60},
+		{"id":"e335f91c7c539b82","x":-600,"y":-64,"width":250,"height":60,"type":"text","text":"Nước (水) được rót vào bát đến mức đầy, tràn ra ngoài."},
+		{"id":"b4b62535cbf12e68","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas","x":-1020,"y":-300,"width":179,"height":111},
+		{"id":"70ea07053a574978","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-980,"y":100,"width":199,"height":198}
+	],
+	"edges":[
+		{"id":"b5efb52b4e67bb85","fromNode":"b4b62535cbf12e68","fromSide":"right","toNode":"e335f91c7c539b82","toSide":"left","label":"cách điệu"},
+		{"id":"b7c85af2badea414","fromNode":"70ea07053a574978","fromSide":"right","toNode":"e335f91c7c539b82","toSide":"left"},
+		{"id":"7a41b5b88f7d22f7","fromNode":"e335f91c7c539b82","fromSide":"right","toNode":"ad9b061cb9c99300","toSide":"left"}
+	]
+}

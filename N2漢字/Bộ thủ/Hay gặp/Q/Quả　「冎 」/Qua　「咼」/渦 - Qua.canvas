@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5d689b59eb748e94","x":-75,"y":-53,"width":250,"height":60,"type":"text","text":"渦 - Qua"},
+		{"id":"3f176d9779ef8962","x":-460,"y":-340,"width":207,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Qua　「咼」/Qua　「咼」.canvas"},
+		{"id":"2bfdd548470ba874","x":-519,"y":120,"width":163,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"eb1f11572e378d13","fromNode":"3f176d9779ef8962","fromSide":"right","toNode":"5d689b59eb748e94","toSide":"left"},
+		{"id":"e9ee4dfc0ec1efef","fromNode":"2bfdd548470ba874","fromSide":"right","toNode":"5d689b59eb748e94","toSide":"left"}
+	]
+}

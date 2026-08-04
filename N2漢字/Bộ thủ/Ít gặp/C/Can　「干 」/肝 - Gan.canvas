@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"43e6d076bda72632","x":-123,"y":-44,"width":250,"height":60,"type":"text","text":"肝 - Gan"},
+		{"id":"89700baba81ab0e1","x":-480,"y":80,"width":167,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas"},
+		{"id":"ebb809711cd49605","x":-760,"y":-119,"width":191,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"accf06a5a2d9264b","fromNode":"89700baba81ab0e1","fromSide":"right","toNode":"43e6d076bda72632","toSide":"left"},
+		{"id":"3a2aca2a644b110e","fromNode":"ebb809711cd49605","fromSide":"right","toNode":"43e6d076bda72632","toSide":"left"}
+	]
+}

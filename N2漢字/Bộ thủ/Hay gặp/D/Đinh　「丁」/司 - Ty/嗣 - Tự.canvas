@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"b79ec0fbaa0934b6","type":"text","text":"嗣 - Tự","x":-105,"y":-36,"width":250,"height":60},
 		{"id":"d15473ec688e334f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/司 - Ty/司 - Ty.canvas","x":-440,"y":100,"width":166,"height":156},
-		{"id":"eba0adc216fa9507","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sách　「冊」.canvas","x":-680,"y":-74,"width":162,"height":137},
+		{"id":"eba0adc216fa9507","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/冊 - Sách.canvas","x":-680,"y":-74,"width":162,"height":137},
 		{"id":"a4cf7b4dd2852b67","x":-713,"y":-320,"width":195,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
 	],
 	"edges":[

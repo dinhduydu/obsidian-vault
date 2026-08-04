@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"ffdb14edaffbceef","type":"text","text":"Sách　「冊」","x":-124,"y":-87,"width":250,"height":60},
 		{"id":"5e7a89813ed0ed63","x":380,"y":-380,"width":264,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đinh　「丁」/司 - Ty/嗣 - Tự.canvas"},
-		{"id":"954e9a9afde8fc8f","x":-94,"y":-384,"width":220,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sách　「冊」.canvas"},
+		{"id":"954e9a9afde8fc8f","x":-94,"y":-384,"width":220,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/冊 - Sách.canvas"},
 		{"id":"7c18977a6851f827","x":-36,"y":-680,"width":162,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
 	],
 	"edges":[

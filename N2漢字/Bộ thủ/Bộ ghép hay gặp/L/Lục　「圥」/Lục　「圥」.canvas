@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e34439554ebbc626","x":-114,"y":-19,"width":250,"height":60,"type":"text","text":"Lục　「圥」"},
+		{"id":"b53a1a013f22b8af","x":-440,"y":-240,"width":163,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"0d89000c34c29056","x":-476,"y":60,"width":199,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"a2c01aee252e1d01","fromNode":"b53a1a013f22b8af","fromSide":"right","toNode":"e34439554ebbc626","toSide":"left"},
+		{"id":"f45b7b83dad3d00a","fromNode":"0d89000c34c29056","fromSide":"right","toNode":"e34439554ebbc626","toSide":"left"}
+	]
+}

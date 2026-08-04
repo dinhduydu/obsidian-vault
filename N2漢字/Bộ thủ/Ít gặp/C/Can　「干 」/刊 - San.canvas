@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"12eafb101511017c","x":-153,"y":-53,"width":250,"height":60,"type":"text","text":"刊 - San"},
+		{"id":"6ab54578e60c90f2","x":-540,"y":-360,"width":200,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas"},
+		{"id":"7de7516bf7656f5f","x":-500,"y":80,"width":145,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"ba6a87714054c044","fromNode":"6ab54578e60c90f2","fromSide":"right","toNode":"12eafb101511017c","toSide":"left"},
+		{"id":"309b727dfc565475","fromNode":"7de7516bf7656f5f","fromSide":"right","toNode":"12eafb101511017c","toSide":"left"}
+	]
+}

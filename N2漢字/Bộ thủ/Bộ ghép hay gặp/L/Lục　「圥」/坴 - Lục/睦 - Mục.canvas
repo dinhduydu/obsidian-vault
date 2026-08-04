@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfb4e93a9f757421","x":-135,"y":-31,"width":250,"height":60,"type":"text","text":"睦 - Mục"},
+		{"id":"63d150a83441e1f8","x":-420,"y":120,"width":173,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「圥」/坴 - Lục/坴 - Lục.canvas"},
+		{"id":"0f320cf69ed121b1","x":-740,"y":-82,"width":182,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"c937f594057b2a0e","fromNode":"63d150a83441e1f8","fromSide":"right","toNode":"bfb4e93a9f757421","toSide":"left"},
+		{"id":"0b016d112be226fb","fromNode":"0f320cf69ed121b1","fromSide":"right","toNode":"bfb4e93a9f757421","toSide":"left"}
+	]
+}

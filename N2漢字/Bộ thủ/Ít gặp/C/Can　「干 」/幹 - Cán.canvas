@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"dcf2e709fe7c2e96","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"幹 - Cán"},
+		{"id":"86c11bfa2ed28738","x":-632,"y":-520,"width":161,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"8d4ab0ecf124e9b8","x":-640,"y":-325,"width":169,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/早 - Tảo.canvas"},
+		{"id":"b945a25a0869d3d4","x":-724,"y":-30,"width":253,"height":222,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"},
+		{"id":"7a6dd5f916ad6f19","x":-742,"y":320,"width":271,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas"}
+	],
+	"edges":[
+		{"id":"daca5a2ee80188fc","fromNode":"86c11bfa2ed28738","fromSide":"right","toNode":"dcf2e709fe7c2e96","toSide":"left"},
+		{"id":"ac46eb35bad4d3a4","fromNode":"8d4ab0ecf124e9b8","fromSide":"right","toNode":"dcf2e709fe7c2e96","toSide":"left"},
+		{"id":"defd6627e0638d74","fromNode":"7a6dd5f916ad6f19","fromSide":"right","toNode":"dcf2e709fe7c2e96","toSide":"left"},
+		{"id":"590fed3517a27e8e","fromNode":"b945a25a0869d3d4","fromSide":"right","toNode":"dcf2e709fe7c2e96","toSide":"left"}
+	]
+}

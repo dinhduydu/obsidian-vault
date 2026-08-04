@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"da7ae69fffac2d17","type":"text","text":"溢 - Dật","x":-90,"y":-29,"width":250,"height":60},
+		{"id":"46e577225e2ec05b","x":-460,"y":-340,"width":162,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/益 - Ích/益 - Ích.canvas"},
+		{"id":"314173109edbd614","x":-740,"y":-108,"width":232,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"bd762250e1663ce8","fromNode":"46e577225e2ec05b","fromSide":"right","toNode":"da7ae69fffac2d17","toSide":"left"},
+		{"id":"18c298b3d1387782","fromNode":"314173109edbd614","fromSide":"right","toNode":"da7ae69fffac2d17","toSide":"left"}
+	]
+}

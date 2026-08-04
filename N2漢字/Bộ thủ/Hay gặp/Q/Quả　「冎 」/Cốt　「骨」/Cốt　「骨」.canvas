@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"af7d612970d61c32","type":"text","text":"Cốt　「骨」","x":-234,"y":-26,"width":240,"height":60},
 		{"id":"58e2a5bf7c620465","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-480,"y":60,"width":120,"height":81},
-		{"id":"37ce7df032dc9b88","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/過 - Quá.canvas","x":220,"y":200,"width":190,"height":172},
+		{"id":"37ce7df032dc9b88","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Qua　「咼」/過 - Quá.canvas","x":220,"y":200,"width":190,"height":172},
 		{"id":"751bec73c5f1b57f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-109,"y":-500,"width":229,"height":195},
-		{"id":"93ee74cec3d1bfa7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốt　「骨」/滑- Hoạt.canvas","x":220,"y":-240,"width":190,"height":122}
+		{"id":"93ee74cec3d1bfa7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Cốt　「骨」/滑- Hoạt.canvas","x":220,"y":-240,"width":190,"height":122},
+		{"id":"1489963fac211d06","x":-499,"y":-305,"width":139,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Quả　「冎 」.canvas"}
 	],
 	"edges":[
 		{"id":"030b873c4f02694d","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"37ce7df032dc9b88","toSide":"left"},
 		{"id":"d074a077361a1062","fromNode":"58e2a5bf7c620465","fromSide":"right","toNode":"af7d612970d61c32","toSide":"left"},
 		{"id":"a8ab75adde2e1c7a","fromNode":"af7d612970d61c32","fromSide":"right","toNode":"93ee74cec3d1bfa7","toSide":"left"},
-		{"id":"c7025c18f71c7e5e","fromNode":"751bec73c5f1b57f","fromSide":"right","toNode":"93ee74cec3d1bfa7","toSide":"left"}
+		{"id":"c7025c18f71c7e5e","fromNode":"751bec73c5f1b57f","fromSide":"right","toNode":"93ee74cec3d1bfa7","toSide":"left"},
+		{"id":"d013145695d8aca1","fromNode":"1489963fac211d06","fromSide":"right","toNode":"af7d612970d61c32","toSide":"left"}
 	]
 }

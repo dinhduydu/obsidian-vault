@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c92d7666c45129ea","x":-110,"y":-34,"width":250,"height":60,"type":"text","text":"禍 - Hoạ"},
+		{"id":"841cc2d9897b951a","x":-480,"y":-400,"width":191,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Qua　「咼」/Qua　「咼」.canvas"},
+		{"id":"70d3e57c875091b0","x":-560,"y":80,"width":177,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"6dd9a7c44846a80f","fromNode":"841cc2d9897b951a","fromSide":"right","toNode":"c92d7666c45129ea","toSide":"left"},
+		{"id":"40c9c6724fd89948","fromNode":"70d3e57c875091b0","fromSide":"right","toNode":"c92d7666c45129ea","toSide":"left"}
+	]
+}

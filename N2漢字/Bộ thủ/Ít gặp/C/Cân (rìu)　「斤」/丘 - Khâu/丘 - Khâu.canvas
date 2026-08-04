@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a675ee7407698634","x":-42,"y":-32,"width":250,"height":60,"type":"text","text":"丘 - Khâu"},
+		{"id":"76f29110062ecd62","x":-400,"y":-300,"width":129,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"},
+		{"id":"d752fe5024862e2c","x":-431,"y":60,"width":160,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"141faeef0e5e45e4","fromNode":"76f29110062ecd62","fromSide":"right","toNode":"a675ee7407698634","toSide":"left"},
+		{"id":"5f40240a3673f197","fromNode":"d752fe5024862e2c","fromSide":"right","toNode":"a675ee7407698634","toSide":"left"}
+	]
+}

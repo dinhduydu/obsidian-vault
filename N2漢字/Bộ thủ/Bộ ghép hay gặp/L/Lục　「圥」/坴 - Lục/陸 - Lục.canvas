@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8f1e60a7fe153f76","type":"text","text":"陸 - Lục","x":-137,"y":-14,"width":250,"height":60},
+		{"id":"e31806108e53b065","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas","x":-560,"y":-240,"width":168,"height":123},
+		{"id":"6f20f2f37eea9d8e","x":-628,"y":120,"width":236,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「圥」/坴 - Lục/坴 - Lục.canvas"}
+	],
+	"edges":[
+		{"id":"2edc917fc8f8f583","fromNode":"e31806108e53b065","fromSide":"right","toNode":"8f1e60a7fe153f76","toSide":"left"},
+		{"id":"49e43ebcd49fddcd","fromNode":"6f20f2f37eea9d8e","fromSide":"right","toNode":"8f1e60a7fe153f76","toSide":"left"}
+	]
+}

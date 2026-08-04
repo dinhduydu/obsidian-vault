@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5538466e52517a10","type":"text","text":"鍋 - Qua","x":-125,"y":-55,"width":250,"height":60},
+		{"id":"a990623d32ebbd11","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Qua　「咼」/Qua　「咼」.canvas","x":-420,"y":-300,"width":167,"height":185},
+		{"id":"c3b690cab954c452","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas","x":-660,"y":40,"width":207,"height":170}
+	],
+	"edges":[
+		{"id":"e4c81288ce15796a","fromNode":"a990623d32ebbd11","fromSide":"right","toNode":"5538466e52517a10","toSide":"left"},
+		{"id":"efb1531c8bd97428","fromNode":"c3b690cab954c452","fromSide":"right","toNode":"5538466e52517a10","toSide":"left","label":"nồi, chảo"}
+	]
+}

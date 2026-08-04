@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"56da40ba722e6ab3","type":"text","text":"坴 - Lục","x":-77,"y":-16,"width":250,"height":60},
+		{"id":"ec1c6ea0d2de396b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「圥」/坴 - Lục/陸 - Lục.canvas","x":280,"y":-240,"width":210,"height":143},
+		{"id":"5807776a4839fec1","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「圥」/Lục　「圥」.canvas","x":-420,"y":-253,"width":160,"height":156},
+		{"id":"797679221104a80c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-420,"y":200,"width":160,"height":123},
+		{"id":"eebd6c2dd4d9e54a","x":-51,"y":-395,"width":199,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+	],
+	"edges":[
+		{"id":"057f82b384c73458","fromNode":"56da40ba722e6ab3","fromSide":"right","toNode":"ec1c6ea0d2de396b","toSide":"left"},
+		{"id":"cd294a64467ed162","fromNode":"5807776a4839fec1","fromSide":"right","toNode":"56da40ba722e6ab3","toSide":"left"},
+		{"id":"ed5c635a42a60c2a","fromNode":"797679221104a80c","fromSide":"right","toNode":"56da40ba722e6ab3","toSide":"left"},
+		{"id":"c1fd4c33ea71119c","fromNode":"eebd6c2dd4d9e54a","fromSide":"right","toNode":"ec1c6ea0d2de396b","toSide":"left"}
+	]
+}

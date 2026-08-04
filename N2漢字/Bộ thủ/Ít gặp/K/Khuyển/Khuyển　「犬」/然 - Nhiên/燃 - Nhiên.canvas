@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17d1fc235637bf97","x":-173,"y":-30,"width":250,"height":60,"type":"text","text":"燃 - Nhiên"},
+		{"id":"18e8ef675346230e","x":-400,"y":-220,"width":120,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/然 - Nhiên/然 - Nhiên.canvas"},
+		{"id":"f88d505dd6dfa4ea","x":-560,"y":-67,"width":118,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"bd040a6bde6bbf73","fromNode":"18e8ef675346230e","fromSide":"right","toNode":"17d1fc235637bf97","toSide":"left"},
+		{"id":"89d3b7ebf63aee24","fromNode":"f88d505dd6dfa4ea","fromSide":"right","toNode":"17d1fc235637bf97","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a1ef55b8a798b572","type":"text","text":"岳 - Nhạc","x":-161,"y":-53,"width":250,"height":60},
+		{"id":"16a988fc698724a7","x":-580,"y":-340,"width":166,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/丘 - Khâu/丘 - Khâu.canvas"},
+		{"id":"9e63734bec73a28c","x":-557,"y":60,"width":143,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"46b934b4d5cb7647","fromNode":"16a988fc698724a7","fromSide":"right","toNode":"a1ef55b8a798b572","toSide":"left"},
+		{"id":"1ae9e918aaff349b","fromNode":"9e63734bec73a28c","fromSide":"right","toNode":"a1ef55b8a798b572","toSide":"left"}
+	]
+}

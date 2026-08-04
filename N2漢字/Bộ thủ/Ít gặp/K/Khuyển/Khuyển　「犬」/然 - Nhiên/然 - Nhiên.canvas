@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cf6ed1fb174d607f","x":-104,"y":-34,"width":250,"height":60,"type":"text","text":"然 - Nhiên"},
+		{"id":"99a7c38d05540fbd","x":-420,"y":-180,"width":144,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"},
+		{"id":"e3339e7152ade1a7","x":-411,"y":140,"width":135,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"},
+		{"id":"088ee21446744bfc","x":-620,"y":-89,"width":73,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"76568455f87d410e","fromNode":"99a7c38d05540fbd","fromSide":"right","toNode":"cf6ed1fb174d607f","toSide":"left"},
+		{"id":"1258868cb66a8ffb","fromNode":"088ee21446744bfc","fromSide":"right","toNode":"cf6ed1fb174d607f","toSide":"left"},
+		{"id":"757207cb44624ad7","fromNode":"e3339e7152ade1a7","fromSide":"right","toNode":"cf6ed1fb174d607f","toSide":"left"}
+	]
+}

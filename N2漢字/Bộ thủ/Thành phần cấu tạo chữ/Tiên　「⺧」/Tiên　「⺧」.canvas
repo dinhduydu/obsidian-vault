@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e0bbde469cacd280","x":-113,"y":-49,"width":250,"height":60,"type":"text","text":"Tiên　「⺧」"},
+		{"id":"46cb9420b55d02a3","x":380,"y":80,"width":189,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiên　「⺧」/Tiên　「先」/Tiên　「先」.canvas"},
+		{"id":"4ceee3a24a88629f","x":12,"y":260,"width":207,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"35c43b5fb5929119","fromNode":"e0bbde469cacd280","fromSide":"right","toNode":"46cb9420b55d02a3","toSide":"left"},
+		{"id":"8c7917dc0c3e311e","fromNode":"4ceee3a24a88629f","fromSide":"right","toNode":"46cb9420b55d02a3","toSide":"left"}
+	]
+}
