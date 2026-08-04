@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ec52961d619c03eb","x":-130,"y":-41,"width":250,"height":60,"type":"text","text":"鈴 - Linh"},
+		{"id":"d74bfe72902327d5","x":-540,"y":-340,"width":183,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"},
+		{"id":"6ee7339fdd13ae1b","x":-600,"y":19,"width":201,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"7af4c1ba7a7696ed","fromNode":"d74bfe72902327d5","fromSide":"right","toNode":"ec52961d619c03eb","toSide":"left"},
+		{"id":"12ab9d9ae8a10c1e","fromNode":"6ee7339fdd13ae1b","fromSide":"right","toNode":"ec52961d619c03eb","toSide":"left"}
+	]
+}

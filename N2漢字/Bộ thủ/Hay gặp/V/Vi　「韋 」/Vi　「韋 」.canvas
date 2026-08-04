@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"86e54aab7026954a","x":-146,"y":-38,"width":250,"height":60,"type":"text","text":"Vi　「韋 」"},
-		{"id":"5cd9188b1da7d893","x":207,"y":-75,"width":250,"height":60,"type":"text","text":"da mềm"}
+		{"id":"86e54aab7026954a","type":"text","text":"Vi　「韋 」","x":-146,"y":-38,"width":250,"height":60},
+		{"id":"5cd9188b1da7d893","type":"text","text":"da mềm","x":-640,"y":-240,"width":250,"height":60},
+		{"id":"2bd90ba1f29a0204","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/衛 - Vệ.canvas","x":240,"y":-283,"width":272,"height":146},
+		{"id":"f0c621e923e44d0f","x":240,"y":120,"width":252,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/韓 - Hàn.canvas"}
 	],
 	"edges":[
-		{"id":"e061830edd3ded75","fromNode":"86e54aab7026954a","fromSide":"right","toNode":"5cd9188b1da7d893","toSide":"left"}
+		{"id":"e061830edd3ded75","fromNode":"86e54aab7026954a","fromSide":"left","toNode":"5cd9188b1da7d893","toSide":"right"},
+		{"id":"f1757ebdce48a02d","fromNode":"86e54aab7026954a","fromSide":"right","toNode":"2bd90ba1f29a0204","toSide":"left"},
+		{"id":"6a32ad8e0204be2e","fromNode":"86e54aab7026954a","fromSide":"right","toNode":"f0c621e923e44d0f","toSide":"left"}
 	]
 }

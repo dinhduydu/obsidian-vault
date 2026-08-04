@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"e1b36c18237da00c","x":-152,"y":-21,"width":250,"height":60,"type":"text","text":"Xỉ　「齒」"}
+		{"id":"e1b36c18237da00c","type":"text","text":"Xỉ　「齒」","x":-152,"y":-21,"width":250,"height":60},
+		{"id":"d69329f1fc3494a7","x":300,"y":-280,"width":225,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/齢 - Linh.canvas"},
+		{"id":"c6b30c7dbbca83ab","x":-27,"y":-440,"width":166,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9431a6ce3b05aba8","fromNode":"e1b36c18237da00c","fromSide":"right","toNode":"d69329f1fc3494a7","toSide":"left"},
+		{"id":"2913f6eb7217dd30","fromNode":"c6b30c7dbbca83ab","fromSide":"right","toNode":"d69329f1fc3494a7","toSide":"left"}
+	]
 }

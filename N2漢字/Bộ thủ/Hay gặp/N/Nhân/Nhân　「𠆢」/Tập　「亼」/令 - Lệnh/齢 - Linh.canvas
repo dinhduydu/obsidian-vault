@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"750bc13c67899398","x":-90,"y":-43,"width":250,"height":60,"type":"text","text":"齢 - Linh"},
+		{"id":"b511a112248ff331","x":-460,"y":-220,"width":151,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xỉ　「齒」/Xỉ　「齒」.canvas"},
+		{"id":"79259db14eb40715","x":-471,"y":180,"width":162,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"}
+	],
+	"edges":[
+		{"id":"d967e8109d46e6c1","fromNode":"b511a112248ff331","fromSide":"right","toNode":"750bc13c67899398","toSide":"left"},
+		{"id":"f716770509f0af73","fromNode":"79259db14eb40715","fromSide":"right","toNode":"750bc13c67899398","toSide":"left"}
+	]
+}

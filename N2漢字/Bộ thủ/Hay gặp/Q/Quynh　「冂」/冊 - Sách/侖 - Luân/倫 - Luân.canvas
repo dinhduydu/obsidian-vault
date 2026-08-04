@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c7a22008b53e2ae7","type":"text","text":"倫 - Luân","x":-92,"y":-24,"width":250,"height":60},
+		{"id":"e5eca85a0c26ec12","x":-500,"y":80,"width":175,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/侖 - Luân/侖 - Luân.canvas"},
+		{"id":"3be8778582de91fc","x":-669,"y":-320,"width":169,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"d48d4954f8148c10","fromNode":"e5eca85a0c26ec12","fromSide":"right","toNode":"c7a22008b53e2ae7","toSide":"left"},
+		{"id":"e0834ea8b9eb100c","fromNode":"3be8778582de91fc","fromSide":"right","toNode":"c7a22008b53e2ae7","toSide":"left"}
+	]
+}

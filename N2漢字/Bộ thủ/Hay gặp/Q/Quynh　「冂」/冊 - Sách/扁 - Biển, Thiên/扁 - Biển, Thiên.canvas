@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ac75f77cb05db1ba","type":"text","text":"扁 - Biển, Thiên","x":-153,"y":-47,"width":250,"height":60},
+		{"id":"733ef4a7e81e81d0","type":"text","text":"tấm biển, bảng (扁額),","x":-1672,"y":-476,"width":250,"height":60},
+		{"id":"b6303ae54820e40c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/額 - Ngạch.canvas","x":-1320,"y":-760,"width":205,"height":175},
+		{"id":"c4bf8db55f22047c","type":"text","text":"dẹt, phẳng (扁平),","x":-1680,"y":-200,"width":250,"height":60},
+		{"id":"f92284f0edc27202","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/平 - Bình/平 - Bình.canvas","x":-1360,"y":-380,"width":144,"height":150},
+		{"id":"14f62676230576f6","x":-2138,"y":40,"width":261,"height":247,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戶 - Hộ/戶 - Hộ.canvas"},
+		{"id":"120d470740129df4","x":-2162,"y":460,"width":285,"height":236,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/冊 - Sách.canvas"},
+		{"id":"938e4309d430cc63","x":-1538,"y":340,"width":250,"height":60,"type":"text","text":"扁 = Cánh cửa (戶) + cuốn thẻ tre (冊)"},
+		{"id":"230512b1c193d94a","type":"text","text":"Các nghiên cứu hiện đại cho rằng hình tượng ban đầu của 扁 liên quan đến:\n\nmột tấm mỏng, dẹt,\nhoặc một tấm bảng, phiến gỗ.\n\nTừ đó phát triển thành nghĩa:\n\ndẹt, phẳng (扁平),\ntấm biển, bảng (扁額),\nvà được dùng làm thành phần biểu âm.","x":-960,"y":-380,"width":381,"height":308}
+	],
+	"edges":[
+		{"id":"257c38cbe374849e","fromNode":"ac75f77cb05db1ba","fromSide":"left","toNode":"230512b1c193d94a","toSide":"right"},
+		{"id":"41f858bdf229d7c3","fromNode":"230512b1c193d94a","fromSide":"left","toNode":"733ef4a7e81e81d0","toSide":"right"},
+		{"id":"b7ac0fa7f300fa93","fromNode":"b6303ae54820e40c","fromSide":"left","toNode":"733ef4a7e81e81d0","toSide":"right"},
+		{"id":"92af527ec12bcb99","fromNode":"230512b1c193d94a","fromSide":"left","toNode":"c4bf8db55f22047c","toSide":"right"},
+		{"id":"90e488db8394bf0d","fromNode":"f92284f0edc27202","fromSide":"left","toNode":"c4bf8db55f22047c","toSide":"right"},
+		{"id":"e98a509fdd659462","fromNode":"14f62676230576f6","fromSide":"right","toNode":"938e4309d430cc63","toSide":"left"},
+		{"id":"0ee230008e70244f","fromNode":"120d470740129df4","fromSide":"right","toNode":"938e4309d430cc63","toSide":"left"},
+		{"id":"d4f589c2faf4c821","fromNode":"938e4309d430cc63","fromSide":"right","toNode":"230512b1c193d94a","toSide":"left","label":"tấm mỏng, dẹt,"}
+	]
+}

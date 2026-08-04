@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"65bd4990e049c669","x":-72,"y":-13,"width":250,"height":60,"type":"text","text":"彳⿻亍 - Hành"},
+		{"id":"7ced7c2724c199cc","x":-380,"y":-220,"width":162,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"},
+		{"id":"b866068afed6fd40","x":400,"y":-400,"width":250,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/彳⿻亍 - Hành/街 - Nhai.canvas"},
+		{"id":"b6fe1fc625088a7d","x":600,"y":-81,"width":250,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/衛 - Vệ.canvas"},
+		{"id":"4e178ee629378501","x":380,"y":-160,"width":113,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/Vi　「韋 」.canvas"}
+	],
+	"edges":[
+		{"id":"9f80f2219c74b697","fromNode":"7ced7c2724c199cc","fromSide":"right","toNode":"65bd4990e049c669","toSide":"left"},
+		{"id":"94a2b31b8520c9f3","fromNode":"65bd4990e049c669","fromSide":"right","toNode":"b866068afed6fd40","toSide":"left"},
+		{"id":"c162f7feccecca14","fromNode":"65bd4990e049c669","fromSide":"right","toNode":"b6fe1fc625088a7d","toSide":"left"},
+		{"id":"263002cc718d897e","fromNode":"4e178ee629378501","fromSide":"right","toNode":"b6fe1fc625088a7d","toSide":"left"}
+	]
+}

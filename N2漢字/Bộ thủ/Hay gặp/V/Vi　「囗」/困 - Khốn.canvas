@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b4404ad43c7ba76f","type":"text","text":"困 - Khốn","x":-67,"y":-36,"width":250,"height":60},
+		{"id":"42bd6e8d729b05b3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas","x":-500,"y":-360,"width":219,"height":180},
+		{"id":"3b4e8de9ec8afb37","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-460,"y":120,"width":179,"height":179}
+	],
+	"edges":[
+		{"id":"d2a34aa16c322d9e","fromNode":"42bd6e8d729b05b3","fromSide":"right","toNode":"b4404ad43c7ba76f","toSide":"left"},
+		{"id":"eeb4600b1eb1aab9","fromNode":"3b4e8de9ec8afb37","fromSide":"right","toNode":"b4404ad43c7ba76f","toSide":"left"}
+	]
+}

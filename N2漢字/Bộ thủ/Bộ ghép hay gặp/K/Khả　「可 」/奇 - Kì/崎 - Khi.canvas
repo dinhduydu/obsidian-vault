@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8d80d010c7c56995","x":-108,"y":-25,"width":250,"height":60,"type":"text","text":"崎 - Khi"},
+		{"id":"92a0728fe3a98251","x":-500,"y":120,"width":209,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/奇 - Kì.canvas"},
+		{"id":"c1c06d5ee34290a9","x":-464,"y":-260,"width":173,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
+		{"id":"bead2e183a49d8d9","x":320,"y":-180,"width":250,"height":60,"type":"text","text":"長崎　「ながさき」："}
+	],
+	"edges":[
+		{"id":"5230b76dbe249ed1","fromNode":"92a0728fe3a98251","fromSide":"right","toNode":"8d80d010c7c56995","toSide":"left"},
+		{"id":"c3c7f9b14a40b36b","fromNode":"c1c06d5ee34290a9","fromSide":"right","toNode":"8d80d010c7c56995","toSide":"left"},
+		{"id":"627190223d7e801f","fromNode":"8d80d010c7c56995","fromSide":"right","toNode":"bead2e183a49d8d9","toSide":"left"}
+	]
+}

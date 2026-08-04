@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a53ef5f05caf5d50","x":-119,"y":-56,"width":250,"height":60,"type":"text","text":"飽 - Bão"},
+		{"id":"ade8ef40abe18254","x":-540,"y":-300,"width":212,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/包 - Bao/包 - Bao.canvas"},
+		{"id":"ce2a83bb7cd85a3e","x":-720,"y":60,"width":231,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"}
+	],
+	"edges":[
+		{"id":"386786d222bf81ce","fromNode":"ade8ef40abe18254","fromSide":"right","toNode":"a53ef5f05caf5d50","toSide":"left"},
+		{"id":"614574f1d11b44d8","fromNode":"ce2a83bb7cd85a3e","fromSide":"right","toNode":"a53ef5f05caf5d50","toSide":"left"}
+	]
+}

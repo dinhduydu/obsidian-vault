@@ -1,11 +1,24 @@
 {
 	"nodes":[
-		{"id":"9fca239eea10e2d2","x":-121,"y":-51,"width":250,"height":60,"type":"text","text":"令 - Lệnh"},
-		{"id":"91d3771666219ce1","x":-580,"y":-320,"width":201,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas"},
-		{"id":"847b3c997188724a","x":-540,"y":-21,"width":161,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"}
+		{"id":"91d3771666219ce1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas","x":-580,"y":-320,"width":201,"height":152},
+		{"id":"847b3c997188724a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas","x":-540,"y":-21,"width":161,"height":148},
+		{"id":"c19d15fc9bbc4724","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/命 - Mệnh.canvas","x":400,"y":-336,"width":124,"height":92},
+		{"id":"0b464c20e703a9dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/冷 - Lãnh.canvas","x":409,"y":-36,"width":230,"height":163},
+		{"id":"d7905ea8334386eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/領 - Lãnh.canvas","x":409,"y":260,"width":256,"height":209},
+		{"id":"7f4a93916d6ae643","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/歯 - Xỉ/齢- Linh.canvas","x":460,"y":660,"width":315,"height":322},
+		{"id":"9fca239eea10e2d2","type":"text","text":"令 - Lệnh","x":-121,"y":-51,"width":250,"height":60},
+		{"id":"421e5d039c6ed63d","type":"text","text":"令 - Lệnh","x":-100,"y":1500,"width":240,"height":60},
+		{"id":"8e51e9936655c94c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/鈴 - Linh.canvas","x":380,"y":1220,"width":291,"height":194},
+		{"id":"4b416dd11b1ba8b9","x":-100,"y":1060,"width":280,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
 	],
 	"edges":[
 		{"id":"865afe5e7b4849e0","fromNode":"91d3771666219ce1","fromSide":"right","toNode":"9fca239eea10e2d2","toSide":"left"},
-		{"id":"d99a0d5daf22fca0","fromNode":"847b3c997188724a","fromSide":"right","toNode":"9fca239eea10e2d2","toSide":"left"}
+		{"id":"d99a0d5daf22fca0","fromNode":"847b3c997188724a","fromSide":"right","toNode":"9fca239eea10e2d2","toSide":"left"},
+		{"id":"13d639472d6c0808","fromNode":"9fca239eea10e2d2","fromSide":"right","toNode":"c19d15fc9bbc4724","toSide":"left"},
+		{"id":"5c8db50f90abd700","fromNode":"9fca239eea10e2d2","fromSide":"right","toNode":"0b464c20e703a9dd","toSide":"left"},
+		{"id":"69a94d7eea5da51a","fromNode":"9fca239eea10e2d2","fromSide":"right","toNode":"d7905ea8334386eb","toSide":"left"},
+		{"id":"c9d5400744b75719","fromNode":"9fca239eea10e2d2","fromSide":"right","toNode":"7f4a93916d6ae643","toSide":"left"},
+		{"id":"0dbed9bc979e397b","fromNode":"421e5d039c6ed63d","fromSide":"right","toNode":"8e51e9936655c94c","toSide":"left"},
+		{"id":"91a63e77a47b24ed","fromNode":"4b416dd11b1ba8b9","fromSide":"right","toNode":"8e51e9936655c94c","toSide":"left"}
 	]
 }

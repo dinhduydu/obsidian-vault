@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd032a6d1b20f670","x":-145,"y":-137,"width":250,"height":60,"type":"text","text":"衛 - Vệ"},
+		{"id":"9b3804a70057045e","x":-540,"y":-440,"width":159,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"}
+	],
+	"edges":[
+		{"id":"d23af7ecf79d4c8c","fromNode":"9b3804a70057045e","fromSide":"right","toNode":"fd032a6d1b20f670","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb1da82e616ef7f3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"泡 - Phao"},
+		{"id":"07f47e810f087cb7","x":-520,"y":-380,"width":158,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/包 - Bao/包 - Bao.canvas"},
+		{"id":"f32beb5730138480","x":-527,"y":30,"width":165,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"a43690e9bd768c75","fromNode":"07f47e810f087cb7","fromSide":"right","toNode":"eb1da82e616ef7f3","toSide":"left"},
+		{"id":"8130988a57485c87","fromNode":"f32beb5730138480","fromSide":"right","toNode":"eb1da82e616ef7f3","toSide":"left"}
+	]
+}

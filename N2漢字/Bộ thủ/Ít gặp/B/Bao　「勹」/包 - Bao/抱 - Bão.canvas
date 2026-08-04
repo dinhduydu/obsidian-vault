@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"44bc92e245ada419","x":-420,"y":-240,"width":179,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/包 - Bao/包 - Bao.canvas"},
+		{"id":"1ac12bd66b682b04","x":-503,"y":140,"width":166,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"9e6364abbb211939","x":-100,"y":-40,"width":250,"height":60,"type":"text","text":"抱 - Bão"}
+	],
+	"edges":[
+		{"id":"3d6559e06e74e88f","fromNode":"44bc92e245ada419","fromSide":"right","toNode":"9e6364abbb211939","toSide":"left"},
+		{"id":"1bef06c295a232cb","fromNode":"1ac12bd66b682b04","fromSide":"right","toNode":"9e6364abbb211939","toSide":"left"}
+	]
+}

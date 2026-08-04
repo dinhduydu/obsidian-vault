@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d4f34c8fed220f60","x":-150,"y":-50,"width":250,"height":60,"type":"text","text":"数 - Số"},
+		{"id":"d3c43cc913537db6","x":-777,"y":10,"width":157,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"da0cdc518f5622c2","x":-780,"y":-360,"width":160,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"8e459f40860d086a","x":-500,"y":-355,"width":209,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"af3d6af4e7c794b8","fromNode":"da0cdc518f5622c2","fromSide":"right","toNode":"d4f34c8fed220f60","toSide":"left"},
+		{"id":"4d944a83e4011bbc","fromNode":"d3c43cc913537db6","fromSide":"right","toNode":"d4f34c8fed220f60","toSide":"left"},
+		{"id":"8d270eb6b5abea17","fromNode":"8e459f40860d086a","fromSide":"right","toNode":"d4f34c8fed220f60","toSide":"left"}
+	]
+}

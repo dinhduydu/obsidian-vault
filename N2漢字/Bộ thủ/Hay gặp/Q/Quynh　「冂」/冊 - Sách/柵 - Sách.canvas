@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4ea0117eee3309b3","x":-104,"y":-17,"width":250,"height":60,"type":"text","text":"柵 - Sách"},
+		{"id":"c5979244aa190586","x":-400,"y":160,"width":142,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/冊 - Sách.canvas"},
+		{"id":"20c802d2a16aa859","x":-620,"y":-180,"width":170,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"ddf02f28b52fccfa","fromNode":"c5979244aa190586","fromSide":"right","toNode":"4ea0117eee3309b3","toSide":"left"},
+		{"id":"dbc6e1ad6b63dd5b","fromNode":"20c802d2a16aa859","fromSide":"right","toNode":"4ea0117eee3309b3","toSide":"left"}
+	]
+}

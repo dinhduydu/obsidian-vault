@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9f6c1fb38f89cf16","x":-165,"y":-42,"width":250,"height":60,"type":"text","text":"潮 - Triều"},
+		{"id":"4272bf205086618b","x":-440,"y":-280,"width":159,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/朝 - Triều/朝 - Triều.canvas"},
+		{"id":"d7e7a8dc5b6522f3","x":-600,"y":18,"width":218,"height":245,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"6793fb485915b03d","fromNode":"4272bf205086618b","fromSide":"right","toNode":"9f6c1fb38f89cf16","toSide":"left"},
+		{"id":"b7319ba372ea0b28","fromNode":"d7e7a8dc5b6522f3","fromSide":"right","toNode":"9f6c1fb38f89cf16","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c77abf282280332e","type":"text","text":"軒 - Hiên","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b567b59e44381384","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas","x":-460,"y":-280,"width":213,"height":204},
+		{"id":"5e83b627854869dc","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/Can　「干 」.canvas","x":-481,"y":100,"width":234,"height":191}
+	],
+	"edges":[
+		{"id":"2b8e72d8748c9db8","fromNode":"b567b59e44381384","fromSide":"right","toNode":"c77abf282280332e","toSide":"left"},
+		{"id":"ce7a0dcef86cd4ce","fromNode":"5e83b627854869dc","fromSide":"right","toNode":"c77abf282280332e","toSide":"left"}
+	]
+}

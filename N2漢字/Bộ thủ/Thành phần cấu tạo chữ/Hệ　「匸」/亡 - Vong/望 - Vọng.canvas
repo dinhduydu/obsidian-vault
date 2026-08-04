@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"380c2b43505a0c60","x":-130,"y":-20,"width":250,"height":60,"type":"text","text":"望 - Vọng"},
+		{"id":"9f3c83b81f69f638","x":-800,"y":-220,"width":196,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"},
+		{"id":"20bc6725e7e42638","x":-420,"y":-291,"width":176,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"0f5cfe6f6503cdbc","x":-740,"y":180,"width":274,"height":228,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"d5512ce25ddd8e6f","fromNode":"9f3c83b81f69f638","fromSide":"right","toNode":"380c2b43505a0c60","toSide":"left"},
+		{"id":"0b7b1ee36640a2fa","fromNode":"20bc6725e7e42638","fromSide":"right","toNode":"380c2b43505a0c60","toSide":"left"},
+		{"id":"07bc76b5a41b5705","fromNode":"0f5cfe6f6503cdbc","fromSide":"right","toNode":"380c2b43505a0c60","toSide":"left"}
+	]
+}

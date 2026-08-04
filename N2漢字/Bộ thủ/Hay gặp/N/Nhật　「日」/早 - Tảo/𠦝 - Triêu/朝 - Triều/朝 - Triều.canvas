@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3fb97823afed49d0","type":"text","text":"朝 - Triều","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"f4bd1a3f98f6cc66","x":-540,"y":-260,"width":175,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/𠦝 - Triêu.canvas"},
+		{"id":"2339b7a3d744de99","x":-580,"y":60,"width":215,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"71a169fb8c6408c4","fromNode":"f4bd1a3f98f6cc66","fromSide":"right","toNode":"3fb97823afed49d0","toSide":"left"},
+		{"id":"e289203a4add6f7d","fromNode":"2339b7a3d744de99","fromSide":"right","toNode":"3fb97823afed49d0","toSide":"left"}
+	]
+}

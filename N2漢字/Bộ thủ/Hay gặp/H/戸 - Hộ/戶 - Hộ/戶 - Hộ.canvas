@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15b0f666764ae855","x":-169,"y":-42,"width":250,"height":60,"type":"text","text":"戶 - Hộ"},
+		{"id":"f6a4f14f067b27a3","x":300,"y":-400,"width":237,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/扁 - Biển, Thiên.canvas"},
+		{"id":"e9389d0067fcea49","x":-660,"y":-116,"width":233,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戸 - Hộ.canvas"}
+	],
+	"edges":[
+		{"id":"64a79416c795f24b","fromNode":"15b0f666764ae855","fromSide":"right","toNode":"f6a4f14f067b27a3","toSide":"left"},
+		{"id":"01d58096944be731","fromNode":"e9389d0067fcea49","fromSide":"right","toNode":"15b0f666764ae855","toSide":"left"}
+	]
+}

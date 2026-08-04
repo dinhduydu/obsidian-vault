@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"648f0e206afd3d8d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"包 - Bao"},
+		{"id":"3d35835d7d9d191f","x":-1100,"y":-30,"width":250,"height":60,"type":"text","text":"包 - Bao"},
+		{"id":"1812fad0e59b068b","x":-1580,"y":-320,"width":168,"height":147,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/包装.md"},
+		{"id":"2ca894cce8a9835c","x":-1587,"y":0,"width":182,"height":142,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/包む.md"},
+		{"id":"94b466b0472af95e","x":-1648,"y":300,"width":243,"height":181,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/包まる.md"},
+		{"id":"6a83c64f31843f8f","x":-1592,"y":640,"width":187,"height":177,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/包丁.md"},
+		{"id":"ee66b6e1230fba91","x":-1699,"y":900,"width":294,"height":246,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/小包.md"},
+		{"id":"b1817ffbdf9c74c0","x":-480,"y":-320,"width":226,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"54902e4557a7b033","x":-520,"y":160,"width":220,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"}
+	],
+	"edges":[
+		{"id":"3afedc3dcc54029e","fromNode":"3d35835d7d9d191f","fromSide":"left","toNode":"1812fad0e59b068b","toSide":"right"},
+		{"id":"2866842ae9dba99b","fromNode":"3d35835d7d9d191f","fromSide":"left","toNode":"2ca894cce8a9835c","toSide":"right"},
+		{"id":"8477d136170f29ee","fromNode":"3d35835d7d9d191f","fromSide":"left","toNode":"94b466b0472af95e","toSide":"right"},
+		{"id":"759e08607b900231","fromNode":"3d35835d7d9d191f","fromSide":"left","toNode":"6a83c64f31843f8f","toSide":"right"},
+		{"id":"1f5bd69cecbbb6fb","fromNode":"3d35835d7d9d191f","fromSide":"left","toNode":"ee66b6e1230fba91","toSide":"right"},
+		{"id":"afd2447a5a18adf1","fromNode":"b1817ffbdf9c74c0","fromSide":"right","toNode":"648f0e206afd3d8d","toSide":"left"},
+		{"id":"62eb9abe8f73f653","fromNode":"54902e4557a7b033","fromSide":"right","toNode":"648f0e206afd3d8d","toSide":"left"}
+	]
+}

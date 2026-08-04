@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b33951825b665cf0","x":-159,"y":-27,"width":250,"height":60,"type":"text","text":"因 - Nhân"},
+		{"id":"35ab7defe450fc5e","x":-620,"y":-65,"width":219,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"12c69fe3603b6481","x":-536,"y":-420,"width":270,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas"}
+	],
+	"edges":[
+		{"id":"bc854f0618c4db9c","fromNode":"35ab7defe450fc5e","fromSide":"right","toNode":"b33951825b665cf0","toSide":"left"},
+		{"id":"3a0e6936b9c6c3aa","fromNode":"12c69fe3603b6481","fromSide":"right","toNode":"b33951825b665cf0","toSide":"left"}
+	]
+}

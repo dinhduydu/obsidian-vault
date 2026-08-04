@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"39012fafa1c068ef","x":-93,"y":-36,"width":250,"height":60,"type":"text","text":"咽 - Yết"},
+		{"id":"e22ea8bbc062fc75","x":-600,"y":-380,"width":253,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/因 - Nhân/因 - Nhân.canvas"},
+		{"id":"f582c540367805ef","x":-496,"y":120,"width":149,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"dbbcbfb4a631fd1a","fromNode":"e22ea8bbc062fc75","fromSide":"right","toNode":"39012fafa1c068ef","toSide":"left"},
+		{"id":"7f9793321a9b014f","fromNode":"f582c540367805ef","fromSide":"right","toNode":"39012fafa1c068ef","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"efdaddfdff6be336","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"奇 - Kì"},
+		{"id":"c15bfbeae739f7e6","x":-460,"y":100,"width":196,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas"},
+		{"id":"baa56cae68af0be0","x":-446,"y":-280,"width":169,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"}
+	],
+	"edges":[
+		{"id":"2e2e0d5b200fd278","fromNode":"c15bfbeae739f7e6","fromSide":"right","toNode":"efdaddfdff6be336","toSide":"left"},
+		{"id":"2c4fd367c858ab09","fromNode":"baa56cae68af0be0","fromSide":"right","toNode":"efdaddfdff6be336","toSide":"left"}
+	]
+}

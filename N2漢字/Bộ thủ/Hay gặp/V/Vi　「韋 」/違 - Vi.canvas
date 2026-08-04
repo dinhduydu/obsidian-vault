@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"53a796d70cd27c4d","x":-125,"y":-22,"width":250,"height":60,"type":"text","text":"違 - Vi"},
+		{"id":"996a780edfb7ed6c","x":-600,"y":-320,"width":249,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/Vi　「韋 」.canvas"},
+		{"id":"b6d6c1542979f991","x":-600,"y":140,"width":249,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"9779eb5cf314d5f5","fromNode":"996a780edfb7ed6c","fromSide":"right","toNode":"53a796d70cd27c4d","toSide":"left"},
+		{"id":"86fe7c262a28d6ea","fromNode":"b6d6c1542979f991","fromSide":"right","toNode":"53a796d70cd27c4d","toSide":"left"}
+	]
+}

@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"82d8ed6073017bac","x":-84,"y":-13,"width":250,"height":60,"type":"text","text":"Can　「干 」"},
-		{"id":"a3b9004524c1a164","x":285,"y":-113,"width":250,"height":60,"type":"text","text":"khô, cạn, can dự"}
+		{"id":"82d8ed6073017bac","type":"text","text":"Can　「干 」","x":-84,"y":-13,"width":250,"height":60},
+		{"id":"a3b9004524c1a164","type":"text","text":"khô, cạn, can dự","x":-520,"y":-300,"width":250,"height":60},
+		{"id":"f56e2b773dcff2e9","x":380,"y":-340,"width":288,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/幹 - Cán.canvas"},
+		{"id":"1d1834365919b7b8","x":420,"y":60,"width":328,"height":314,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/軒 - Hiên.canvas"}
 	],
 	"edges":[
-		{"id":"92eaa0476e2825b3","fromNode":"82d8ed6073017bac","fromSide":"right","toNode":"a3b9004524c1a164","toSide":"left"}
+		{"id":"f3974b63913d5f30","fromNode":"a3b9004524c1a164","fromSide":"right","toNode":"82d8ed6073017bac","toSide":"left"},
+		{"id":"e5fcebc44756ec5a","fromNode":"82d8ed6073017bac","fromSide":"right","toNode":"f56e2b773dcff2e9","toSide":"left"},
+		{"id":"b54616c3b198f7f9","fromNode":"82d8ed6073017bac","fromSide":"right","toNode":"1d1834365919b7b8","toSide":"left"}
 	]
 }

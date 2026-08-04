@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d6ec3cb8aa9bdbc4","type":"text","text":"姻 - Nhân","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"6a94186663dfddeb","x":-460,"y":-320,"width":188,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/因 - Nhân/因 - Nhân.canvas"},
+		{"id":"30b8c405c828ecb1","x":-460,"y":30,"width":136,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"270ad595894ce1ee","fromNode":"6a94186663dfddeb","fromSide":"right","toNode":"d6ec3cb8aa9bdbc4","toSide":"left"},
+		{"id":"f792ea5786885dc9","fromNode":"30b8c405c828ecb1","fromSide":"right","toNode":"d6ec3cb8aa9bdbc4","toSide":"left"}
+	]
+}

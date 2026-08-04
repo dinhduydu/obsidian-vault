@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3a97abb8d95f277a","x":-95,"y":-36,"width":250,"height":60,"type":"text","text":"砲 - Pháo"},
+		{"id":"d3eec40429506a3b","x":-540,"y":-260,"width":164,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"0eea6c8b8ffaacc9","x":-560,"y":60,"width":222,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/包 - Bao/包 - Bao.canvas"}
+	],
+	"edges":[
+		{"id":"7da83e1ad3f011c0","fromNode":"d3eec40429506a3b","fromSide":"right","toNode":"3a97abb8d95f277a","toSide":"left"},
+		{"id":"2693012648f12564","fromNode":"0eea6c8b8ffaacc9","fromSide":"right","toNode":"3a97abb8d95f277a","toSide":"left"}
+	]
+}

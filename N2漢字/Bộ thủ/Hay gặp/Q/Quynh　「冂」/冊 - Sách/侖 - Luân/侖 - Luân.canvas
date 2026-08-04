@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"88156e5bd27fa846","type":"text","text":"侖 - Luân","x":-176,"y":-42,"width":250,"height":60},
+		{"id":"e6680cf2739f0457","x":-655,"y":-260,"width":179,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas"},
+		{"id":"23adb8c2b5a429f5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-1048,"y":-420,"width":173,"height":193},
+		{"id":"2224a3f1a0bc922e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-1004,"y":-42,"width":129,"height":210},
+		{"id":"39b8194cdfada2b7","x":-655,"y":100,"width":179,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/冊 - Sách.canvas"}
+	],
+	"edges":[
+		{"id":"7ffbc618de8f7bc5","fromNode":"23adb8c2b5a429f5","fromSide":"right","toNode":"e6680cf2739f0457","toSide":"left"},
+		{"id":"6aa90e4ffb96b539","fromNode":"2224a3f1a0bc922e","fromSide":"right","toNode":"e6680cf2739f0457","toSide":"left"},
+		{"id":"c8ed6a94841b09a8","fromNode":"e6680cf2739f0457","fromSide":"right","toNode":"88156e5bd27fa846","toSide":"left"},
+		{"id":"18ea17dc73d8938c","fromNode":"39b8194cdfada2b7","fromSide":"right","toNode":"88156e5bd27fa846","toSide":"left"}
+	]
+}

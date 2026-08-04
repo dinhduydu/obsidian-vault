@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b2fae188b80939bf","x":-123,"y":-34,"width":250,"height":60,"type":"text","text":"嘲 - Trào"},
+		{"id":"b74d6f8633dd0ebe","x":-600,"y":-360,"width":240,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"112e87ea354bb0b8","x":-576,"y":80,"width":216,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/朝 - Triều/朝 - Triều.canvas"}
+	],
+	"edges":[
+		{"id":"40c222a3150e0413","fromNode":"112e87ea354bb0b8","fromSide":"right","toNode":"b2fae188b80939bf","toSide":"left"},
+		{"id":"80089c732a5189d3","fromNode":"b74d6f8633dd0ebe","fromSide":"right","toNode":"b2fae188b80939bf","toSide":"left","label":"trào phúng"}
+	]
+}

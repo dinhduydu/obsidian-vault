@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6b35b9b9d7346422","type":"text","text":"輪 - Luân","x":-162,"y":-34,"width":250,"height":60},
+		{"id":"b93fd891e9874162","x":-580,"y":-280,"width":161,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
+		{"id":"01358874719561e5","x":-560,"y":26,"width":146,"height":232,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/侖 - Luân/侖 - Luân.canvas"}
+	],
+	"edges":[
+		{"id":"f8b5d5f552ba1103","fromNode":"b93fd891e9874162","fromSide":"right","toNode":"6b35b9b9d7346422","toSide":"left"},
+		{"id":"69e67b0a1ea62118","fromNode":"01358874719561e5","fromSide":"right","toNode":"6b35b9b9d7346422","toSide":"left"}
+	]
+}

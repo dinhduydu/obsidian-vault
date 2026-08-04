@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"02c8c315952694ce","x":-78,"y":-26,"width":250,"height":60,"type":"text","text":"編 - Biên"},
+		{"id":"990148d585d7e40c","x":-400,"y":-260,"width":154,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/扁 - Biển, Thiên.canvas"},
+		{"id":"f22f682a329c0083","x":-470,"y":60,"width":224,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"93fd78a30bcbd29d","fromNode":"990148d585d7e40c","fromSide":"right","toNode":"02c8c315952694ce","toSide":"left"},
+		{"id":"52df4d50ad91aaea","fromNode":"f22f682a329c0083","fromSide":"right","toNode":"02c8c315952694ce","toSide":"left"}
+	]
+}

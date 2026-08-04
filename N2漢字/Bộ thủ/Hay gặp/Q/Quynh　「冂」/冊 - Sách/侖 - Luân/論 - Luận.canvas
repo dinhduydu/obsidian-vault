@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c9b02ddc5426282b","type":"text","text":"論 - Luận","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"f4e01342c0ff4796","x":-460,"y":-340,"width":202,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/侖 - Luân/倫 - Luân.canvas"},
+		{"id":"b4176006d75a19b0","x":-760,"y":-40,"width":238,"height":258,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"39ef9fd3c9c8302e","fromNode":"f4e01342c0ff4796","fromSide":"right","toNode":"c9b02ddc5426282b","toSide":"left"},
+		{"id":"54176d73adf57f46","fromNode":"b4176006d75a19b0","fromSide":"right","toNode":"c9b02ddc5426282b","toSide":"left"}
+	]
+}

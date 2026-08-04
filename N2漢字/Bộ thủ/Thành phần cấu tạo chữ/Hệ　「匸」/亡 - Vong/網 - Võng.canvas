@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ebf1b9c4690b7d87","type":"text","text":"網 - Võng","x":-162,"y":-54,"width":250,"height":60},
+		{"id":"c5cd4e22c1dd713a","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas","x":-620,"y":-360,"width":192,"height":163},
+		{"id":"90b8d0f27f539acd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-817,"y":40,"width":197,"height":143},
+		{"id":"d853e4634f15f678","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-460,"y":140,"width":200,"height":179},
+		{"id":"3e9e1be8e3dfb340","type":"text","text":"網膜　「もうまく」：võng mạc","x":386,"y":-256,"width":250,"height":60},
+		{"id":"777cd52303af7286","x":180,"y":-428,"width":109,"height":99,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/膜 - Mô-Mạc.canvas"}
+	],
+	"edges":[
+		{"id":"65b9020c8b6cb62e","fromNode":"c5cd4e22c1dd713a","fromSide":"right","toNode":"ebf1b9c4690b7d87","toSide":"left"},
+		{"id":"9e9e783efed17a1f","fromNode":"90b8d0f27f539acd","fromSide":"right","toNode":"ebf1b9c4690b7d87","toSide":"left"},
+		{"id":"ac07b1df26939460","fromNode":"d853e4634f15f678","fromSide":"right","toNode":"ebf1b9c4690b7d87","toSide":"left"},
+		{"id":"92df252acf0ac007","fromNode":"ebf1b9c4690b7d87","fromSide":"right","toNode":"3e9e1be8e3dfb340","toSide":"left"},
+		{"id":"152a3a77ed2c165f","fromNode":"777cd52303af7286","fromSide":"right","toNode":"3e9e1be8e3dfb340","toSide":"left"}
+	]
+}

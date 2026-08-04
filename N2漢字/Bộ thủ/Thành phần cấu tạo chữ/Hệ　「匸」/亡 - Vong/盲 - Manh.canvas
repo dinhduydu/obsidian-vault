@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"40d75d137a30f203","x":-173,"y":-37,"width":250,"height":60,"type":"text","text":"盲 - Manh"},
+		{"id":"2f0390f54558b01c","x":-480,"y":-260,"width":174,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"},
+		{"id":"ddfe80221954a05b","x":-509,"y":40,"width":203,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"3e99cd588268ddda","fromNode":"2f0390f54558b01c","fromSide":"right","toNode":"40d75d137a30f203","toSide":"left"},
+		{"id":"537dec9a90a17110","fromNode":"ddfe80221954a05b","fromSide":"right","toNode":"40d75d137a30f203","toSide":"left"}
+	]
+}

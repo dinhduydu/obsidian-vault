@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f6c0aa47fc82dd71","x":-115,"y":-45,"width":250,"height":60,"type":"text","text":"緯 - Vĩ"},
+		{"id":"f27071fcbb9a7327","x":-580,"y":-280,"width":186,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"668c3ef8619b3308","x":-580,"y":180,"width":221,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/Vi　「韋 」.canvas"}
+	],
+	"edges":[
+		{"id":"9a6c98bf68bd7bb8","fromNode":"f27071fcbb9a7327","fromSide":"right","toNode":"f6c0aa47fc82dd71","toSide":"left"},
+		{"id":"4651fd0d06ee207e","fromNode":"668c3ef8619b3308","fromSide":"right","toNode":"f6c0aa47fc82dd71","toSide":"left"}
+	]
+}

@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"e43f30d1f470a39f","type":"text","text":"術 - Thuật","x":-94,"y":-47,"width":250,"height":60},
-		{"id":"89c647a8783dc018","x":-360,"y":-180,"width":147,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/Truật　「朮」.canvas"},
-		{"id":"6b3d7c5d6118a4ac","x":-366,"y":40,"width":153,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"}
+		{"id":"6b3d7c5d6118a4ac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas","x":-780,"y":187,"width":153,"height":148},
+		{"id":"11f561c7195c6d27","x":-460,"y":100,"width":174,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/彳⿻亍 - Hành/彳⿻亍 - Hành.canvas"},
+		{"id":"89c647a8783dc018","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/Truật　「朮」.canvas","x":-480,"y":-200,"width":147,"height":128}
 	],
 	"edges":[
 		{"id":"66d08bd9cf56b80e","fromNode":"89c647a8783dc018","fromSide":"right","toNode":"e43f30d1f470a39f","toSide":"left"},
-		{"id":"2b79c9d6261db9ca","fromNode":"6b3d7c5d6118a4ac","fromSide":"right","toNode":"e43f30d1f470a39f","toSide":"left"}
+		{"id":"2b79c9d6261db9ca","fromNode":"6b3d7c5d6118a4ac","fromSide":"right","toNode":"11f561c7195c6d27","toSide":"left"},
+		{"id":"d6d904314251c31d","fromNode":"11f561c7195c6d27","fromSide":"right","toNode":"e43f30d1f470a39f","toSide":"left"}
 	]
 }

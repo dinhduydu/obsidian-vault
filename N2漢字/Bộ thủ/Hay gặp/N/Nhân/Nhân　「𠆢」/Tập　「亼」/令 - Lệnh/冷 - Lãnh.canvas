@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bdd36d6309dfdf77","x":-105,"y":-47,"width":250,"height":60,"type":"text","text":"冷 - Lãnh"},
+		{"id":"4217227edb8a3d69","x":-460,"y":80,"width":205,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/令 - Lệnh/令 - Lệnh.canvas"},
+		{"id":"654789b20d291467","x":-800,"y":-320,"width":219,"height":224,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"}
+	],
+	"edges":[
+		{"id":"ad56257ff71ca342","fromNode":"4217227edb8a3d69","fromSide":"right","toNode":"bdd36d6309dfdf77","toSide":"left"},
+		{"id":"db06926630605f4f","fromNode":"654789b20d291467","fromSide":"right","toNode":"bdd36d6309dfdf77","toSide":"left"}
+	]
+}

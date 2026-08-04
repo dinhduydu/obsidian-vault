@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f971df2f7ad13873","x":-38,"y":-30,"width":250,"height":60,"type":"text","text":"妄 - Vọng"},
+		{"id":"d42f2bc18efa4e52","x":-520,"y":100,"width":160,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"0e01ee597f1fa4e0","x":-530,"y":-340,"width":170,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"}
+	],
+	"edges":[
+		{"id":"9585555f5fc21472","fromNode":"0e01ee597f1fa4e0","fromSide":"right","toNode":"f971df2f7ad13873","toSide":"left"},
+		{"id":"4d07c17cf7af78fb","fromNode":"d42f2bc18efa4e52","fromSide":"right","toNode":"f971df2f7ad13873","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7401c48d25f88c48","type":"text","text":"𠦝 - Triêu","x":-83,"y":-12,"width":250,"height":60},
+		{"id":"9123ac573bffa512","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/韓 - Hàn.canvas","x":340,"y":-280,"width":121,"height":136},
+		{"id":"65ce3ca5a34850f2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「韋 」/Vi　「韋 」.canvas","x":-66,"y":-380,"width":216,"height":124},
+		{"id":"e2301551a5979abd","x":-500,"y":100,"width":200,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/早 - Tảo.canvas"},
+		{"id":"408e212055eecab3","x":-482,"y":-212,"width":182,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"27b16e1bc3d169a1","x":380,"y":100,"width":268,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/幹 - Cán.canvas"}
+	],
+	"edges":[
+		{"id":"1c55890701a443a8","fromNode":"7401c48d25f88c48","fromSide":"right","toNode":"9123ac573bffa512","toSide":"left"},
+		{"id":"6a4b8bfb73299f53","fromNode":"65ce3ca5a34850f2","fromSide":"right","toNode":"9123ac573bffa512","toSide":"left"},
+		{"id":"a84c230c31c6feee","fromNode":"e2301551a5979abd","fromSide":"right","toNode":"7401c48d25f88c48","toSide":"left"},
+		{"id":"2a5d9ce26f2c8260","fromNode":"408e212055eecab3","fromSide":"right","toNode":"7401c48d25f88c48","toSide":"left"},
+		{"id":"462e59f6d64c1c97","fromNode":"7401c48d25f88c48","fromSide":"right","toNode":"27b16e1bc3d169a1","toSide":"left"}
+	]
+}

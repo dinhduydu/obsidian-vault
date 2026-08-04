@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a2bfaf55ea25bfd","type":"text","text":"乾 - Cạn","x":-174,"y":-34,"width":250,"height":60},
+		{"id":"a3ed9afc3758df70","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/𠦝 - Triêu.canvas","x":-580,"y":-240,"width":185,"height":140},
+		{"id":"1c986a576af2fdd7","x":-647,"y":180,"width":252,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乞 - Khất/乞 - Khất.canvas"}
+	],
+	"edges":[
+		{"id":"e2fe7c9337fecf2c","fromNode":"a3ed9afc3758df70","fromSide":"right","toNode":"7a2bfaf55ea25bfd","toSide":"left"},
+		{"id":"81231726fc281d11","fromNode":"1c986a576af2fdd7","fromSide":"right","toNode":"7a2bfaf55ea25bfd","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2f12ccc2a449b15e","x":-75,"y":-28,"width":250,"height":60,"type":"text","text":"現 - Hiện"},
+		{"id":"7676e4522e00a03f","x":-520,"y":-340,"width":184,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"},
+		{"id":"8d33b8d8a0a7c609","x":-549,"y":140,"width":213,"height":106,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"c9e9b8278c08c71e","fromNode":"7676e4522e00a03f","fromSide":"right","toNode":"2f12ccc2a449b15e","toSide":"left"},
+		{"id":"31b6052921213138","fromNode":"8d33b8d8a0a7c609","fromSide":"right","toNode":"2f12ccc2a449b15e","toSide":"left"}
+	]
+}

@@ -7,7 +7,9 @@
 		{"id":"501f7711d60496ef","type":"text","text":"有名な行楽地\n(Địa điểm du lịch nổi tiếng)\n秋の行楽地\n(Điểm du lịch mùa thu)","x":1091,"y":-475,"width":268,"height":125},
 		{"id":"cdaf20bf665aa06a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bì「皮」/彼 - Bì.canvas","x":279,"y":-170,"width":196,"height":131},
 		{"id":"db9143db4c2274e8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/後 - Hậu.canvas","x":279,"y":40,"width":175,"height":113},
-		{"id":"5657b866c2b0152d","x":279,"y":240,"width":196,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/術 - Thuật.canvas"}
+		{"id":"5657b866c2b0152d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」/術 - Thuật.canvas","x":279,"y":240,"width":196,"height":120},
+		{"id":"a6aeeef403688071","x":-580,"y":-350,"width":206,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"},
+		{"id":"1a24911e3a7216a3","x":-602,"y":10,"width":250,"height":130,"type":"text","text":"亍 - hành phần phát sinh từ nửa phải của **行**, hiện ít dùng độc lập."}
 	],
 	"edges":[
 		{"id":"2d1346bde46eab6b","fromNode":"3b471df96980326e","fromSide":"right","toNode":"46094bf0b17ddfe8","toSide":"left"},
@@ -16,6 +18,8 @@
 		{"id":"f0178056f82860df","fromNode":"06c676370b7bf14e","fromSide":"right","toNode":"501f7711d60496ef","toSide":"left"},
 		{"id":"5322db0312d36440","fromNode":"3b471df96980326e","fromSide":"right","toNode":"cdaf20bf665aa06a","toSide":"left"},
 		{"id":"b1badb74e70d9dde","fromNode":"3b471df96980326e","fromSide":"right","toNode":"db9143db4c2274e8","toSide":"left"},
-		{"id":"ceb41729d4b2c0b4","fromNode":"3b471df96980326e","fromSide":"right","toNode":"5657b866c2b0152d","toSide":"left"}
+		{"id":"ceb41729d4b2c0b4","fromNode":"3b471df96980326e","fromSide":"right","toNode":"5657b866c2b0152d","toSide":"left"},
+		{"id":"149950fbb97525b0","fromNode":"a6aeeef403688071","fromSide":"right","toNode":"3b471df96980326e","toSide":"left"},
+		{"id":"5a7a99d6ee8a4380","fromNode":"1a24911e3a7216a3","fromSide":"right","toNode":"3b471df96980326e","toSide":"left"}
 	]
 }
