@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f0f1979dbfe87336","x":-80,"y":-40,"width":250,"height":60,"type":"text","text":"講 - Giảng"},
+		{"id":"591fc0bb4f43ac04","x":-380,"y":180,"width":129,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/冓 - Cấu/冓 - Cấu.canvas"},
+		{"id":"e77784c906d608c6","x":-560,"y":-260,"width":213,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"f8196e5705e2055b","fromNode":"591fc0bb4f43ac04","fromSide":"right","toNode":"f0f1979dbfe87336","toSide":"left"},
+		{"id":"876829e20c996ecd","fromNode":"e77784c906d608c6","fromSide":"right","toNode":"f0f1979dbfe87336","toSide":"left"}
+	]
+}

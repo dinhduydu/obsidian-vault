@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"52e1592da77b19e7","type":"text","text":"Bốc　「卜」","x":-76,"y":-21,"width":250,"height":60},
-		{"id":"86d6787990f0264e","x":400,"y":180,"width":203,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/卦 - Quải.canvas"},
-		{"id":"3df4763de12f50ba","x":-92,"y":300,"width":266,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/Khuê　「圭」.canvas"}
+		{"id":"86d6787990f0264e","x":400,"y":180,"width":203,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Khuê　「圭」/卦 - Quải.canvas"},
+		{"id":"3df4763de12f50ba","x":-92,"y":300,"width":266,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Khuê　「圭」/Khuê　「圭」.canvas"}
 	],
 	"edges":[
 		{"id":"4abbdeb1367d7717","fromNode":"52e1592da77b19e7","fromSide":"right","toNode":"86d6787990f0264e","toSide":"left"},

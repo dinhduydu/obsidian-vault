@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7d2641c3e5802c3b","x":-123,"y":-38,"width":250,"height":60,"type":"text","text":"耗 - Hao"},
+		{"id":"8d6fd9c161490fe8","x":-456,"y":120,"width":186,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mao　「毛 」/Mao　「毛 」.canvas"},
+		{"id":"19e84e05405abf61","x":-420,"y":-300,"width":150,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Lỗi　「耒」.canvas"}
+	],
+	"edges":[
+		{"id":"dca4ce8dae34431f","fromNode":"19e84e05405abf61","fromSide":"right","toNode":"7d2641c3e5802c3b","toSide":"left"},
+		{"id":"f08822c11ad00b3a","fromNode":"8d6fd9c161490fe8","fromSide":"right","toNode":"7d2641c3e5802c3b","toSide":"left"}
+	]
+}

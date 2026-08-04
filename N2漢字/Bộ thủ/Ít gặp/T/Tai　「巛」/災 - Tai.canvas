@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b377c7c166f6c578","type":"text","text":"災 - Tai","x":-122,"y":-33,"width":250,"height":60},
+		{"id":"1f7b4adad13a0045","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/Tai　「巛」.canvas","x":-540,"y":-320,"width":206,"height":167},
+		{"id":"9e98b9fc3ec5b6a6","x":-567,"y":140,"width":233,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"48704c247fd99116","fromNode":"1f7b4adad13a0045","fromSide":"right","toNode":"b377c7c166f6c578","toSide":"left"},
+		{"id":"314c2643a0a7856a","fromNode":"9e98b9fc3ec5b6a6","fromSide":"right","toNode":"b377c7c166f6c578","toSide":"left"}
+	]
+}

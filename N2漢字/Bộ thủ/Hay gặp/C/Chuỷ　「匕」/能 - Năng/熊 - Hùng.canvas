@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"719cd389026fb2b1","x":-133,"y":-20,"width":250,"height":60,"type":"text","text":"熊 - Hùng"},
+		{"id":"4e7f6c680edfff5f","x":-480,"y":-240,"width":170,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/能 - Năng.canvas"},
+		{"id":"994605454fbbfc39","x":-480,"y":220,"width":166,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"ad697772154ad882","fromNode":"4e7f6c680edfff5f","fromSide":"right","toNode":"719cd389026fb2b1","toSide":"left"},
+		{"id":"7c3ce2c788c77794","fromNode":"994605454fbbfc39","fromSide":"right","toNode":"719cd389026fb2b1","toSide":"left"}
+	]
+}

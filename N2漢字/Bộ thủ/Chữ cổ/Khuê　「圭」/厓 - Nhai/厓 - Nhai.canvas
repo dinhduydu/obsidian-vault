@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d6a6fcdd98c0aab2","type":"text","text":"厓 - Nhai","x":-122,"y":-24,"width":250,"height":60},
+		{"id":"2ec467a0073ba7ff","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Khuê　「圭」/Khuê　「圭」.canvas","x":-500,"y":180,"width":154,"height":136},
+		{"id":"b021994c830c218b","x":-508,"y":-200,"width":162,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"fe21d8e890ac033d","fromNode":"2ec467a0073ba7ff","fromSide":"right","toNode":"d6a6fcdd98c0aab2","toSide":"left"},
+		{"id":"dc4f3a2f14129373","fromNode":"b021994c830c218b","fromSide":"right","toNode":"d6a6fcdd98c0aab2","toSide":"left"}
+	]
+}

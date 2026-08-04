@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f5a571032d6b53ef","x":-132,"y":-36,"width":250,"height":60,"type":"text","text":"唆 - Toa"},
+		{"id":"406ecdbfc4ef8a13","x":-440,"y":200,"width":180,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tuân　「夋」/Tuân　「夋」.canvas"},
+		{"id":"8271e4ebb3a6c73c","x":-411,"y":-240,"width":151,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"edaf231eb073aad4","fromNode":"406ecdbfc4ef8a13","fromSide":"right","toNode":"f5a571032d6b53ef","toSide":"left"},
+		{"id":"9240a5b9b2b7ac88","fromNode":"8271e4ebb3a6c73c","fromSide":"right","toNode":"f5a571032d6b53ef","toSide":"left"}
+	]
+}

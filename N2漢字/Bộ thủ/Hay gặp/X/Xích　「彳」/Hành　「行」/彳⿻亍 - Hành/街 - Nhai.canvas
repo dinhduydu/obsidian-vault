@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"7e5a0c795314b7c8","type":"text","text":"街 - Nhai","x":-100,"y":-36,"width":250,"height":60},
 		{"id":"cc566f9f0e9a26c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas","x":-400,"y":-240,"width":187,"height":184},
-		{"id":"71d61c9cacd352d6","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khuê　「圭」/Khuê　「圭」.canvas","x":-426,"y":100,"width":213,"height":151},
+		{"id":"71d61c9cacd352d6","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Khuê　「圭」/Khuê　「圭」.canvas","x":-426,"y":100,"width":213,"height":151},
 		{"id":"90dc0649c5a3926c","x":-800,"y":63,"width":241,"height":188,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 4/街 - Gai.canvas"}
 	],
 	"edges":[

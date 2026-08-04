@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fa50d1ed45c4a257","x":-111,"y":-76,"width":250,"height":60,"type":"text","text":"構 - Cấu"},
+		{"id":"06660abed9238017","x":-420,"y":120,"width":157,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/冓 - Cấu/冓 - Cấu.canvas"},
+		{"id":"6941045cc5b22f13","x":-500,"y":-260,"width":171,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"43c3743425583188","fromNode":"06660abed9238017","fromSide":"right","toNode":"fa50d1ed45c4a257","toSide":"left"},
+		{"id":"40079cfa495a693c","fromNode":"6941045cc5b22f13","fromSide":"right","toNode":"fa50d1ed45c4a257","toSide":"left"}
+	]
+}

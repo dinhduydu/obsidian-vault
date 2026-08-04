@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8524312981a774b6","type":"text","text":"再 - Tái","x":-108,"y":-72,"width":250,"height":60},
+		{"id":"777541e8765eba63","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/Nhiễm　「冉」.canvas","x":-600,"y":-360,"width":207,"height":166},
+		{"id":"563587fd1ed88767","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-582,"y":80,"width":189,"height":188}
+	],
+	"edges":[
+		{"id":"99b62ce3323573a1","fromNode":"777541e8765eba63","fromSide":"right","toNode":"8524312981a774b6","toSide":"left","label":"假借 - Giả tá"},
+		{"id":"b8232ed9fba4c10a","fromNode":"563587fd1ed88767","fromSide":"right","toNode":"8524312981a774b6","toSide":"left"}
+	]
+}

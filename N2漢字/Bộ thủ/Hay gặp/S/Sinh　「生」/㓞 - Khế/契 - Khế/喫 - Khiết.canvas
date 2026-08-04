@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a9007fd1b24e9d10","type":"text","text":"喫 - Khiết","x":-136,"y":-36,"width":250,"height":60},
+		{"id":"69347b9a9a2c69ad","x":-540,"y":160,"width":169,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế/契 - Khế/契 - Khế.canvas"},
+		{"id":"937208870742de94","x":-553,"y":-320,"width":195,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"cf5025ac6db76f92","fromNode":"69347b9a9a2c69ad","fromSide":"right","toNode":"a9007fd1b24e9d10","toSide":"left"},
+		{"id":"0e5e5a81f6a75d02","fromNode":"937208870742de94","fromSide":"right","toNode":"a9007fd1b24e9d10","toSide":"left"}
+	]
+}

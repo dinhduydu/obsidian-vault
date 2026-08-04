@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ff86c92b4787518f","type":"text","text":"偶 - Ngẫu","x":-139,"y":-33,"width":250,"height":60},
+		{"id":"1e862a7c71f60d2b","x":-680,"y":100,"width":199,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"57f616e0fac13152","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/Ngu　「禺 」.canvas","x":-626,"y":-300,"width":145,"height":126}
+	],
+	"edges":[
+		{"id":"633ca1998cb70a01","fromNode":"57f616e0fac13152","fromSide":"right","toNode":"ff86c92b4787518f","toSide":"left"},
+		{"id":"8aff714ff8e17a76","fromNode":"1e862a7c71f60d2b","fromSide":"right","toNode":"ff86c92b4787518f","toSide":"left"}
+	]
+}

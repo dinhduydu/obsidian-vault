@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6af351ad4c6566c4","type":"text","text":"崖 - Nhai","x":-64,"y":-44,"width":250,"height":60},
+		{"id":"f26903c808a23111","x":-480,"y":100,"width":167,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Khuê　「圭」/厓 - Nhai/厓 - Nhai.canvas"},
+		{"id":"49917d4ce2068342","x":-473,"y":-300,"width":160,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"4e3eec0e56c4f835","fromNode":"f26903c808a23111","fromSide":"right","toNode":"6af351ad4c6566c4","toSide":"left"},
+		{"id":"dcdb76e09b5f92b5","fromNode":"49917d4ce2068342","fromSide":"right","toNode":"6af351ad4c6566c4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2d11cad37d966f75","x":-124,"y":-39,"width":250,"height":60,"type":"text","text":"俊 - Tuấn"},
+		{"id":"81a9351bb34e7b00","x":-460,"y":-340,"width":137,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tuân　「夋」/Tuân　「夋」.canvas"},
+		{"id":"1647ac31918c0387","x":-520,"y":60,"width":162,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"21cfba40ea7f6237","fromNode":"81a9351bb34e7b00","fromSide":"right","toNode":"2d11cad37d966f75","toSide":"left"},
+		{"id":"eed7263747f39992","fromNode":"1647ac31918c0387","fromSide":"right","toNode":"2d11cad37d966f75","toSide":"left"}
+	]
+}

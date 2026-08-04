@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0cec68035ba3b141","type":"text","text":"㓞 - Khế","x":-125,"y":-57,"width":250,"height":60},
+		{"id":"6d5bf27edb615c0e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas","x":-500,"y":-300,"width":183,"height":160},
+		{"id":"c5812ceb51180f82","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-540,"y":80,"width":223,"height":199},
+		{"id":"aa2dbaee6ebbd471","x":340,"y":-306,"width":265,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế/契 - Khế/契 - Khế.canvas"},
+		{"id":"b780ea922b31711f","x":-60,"y":-520,"width":185,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"}
+	],
+	"edges":[
+		{"id":"702873a6cde84f1f","fromNode":"6d5bf27edb615c0e","fromSide":"right","toNode":"0cec68035ba3b141","toSide":"left"},
+		{"id":"6cdb2967781d6377","fromNode":"c5812ceb51180f82","fromSide":"right","toNode":"0cec68035ba3b141","toSide":"left"},
+		{"id":"7350b2e3e5ccde71","fromNode":"0cec68035ba3b141","fromSide":"right","toNode":"aa2dbaee6ebbd471","toSide":"left"},
+		{"id":"a087f23261081847","fromNode":"b780ea922b31711f","fromSide":"right","toNode":"aa2dbaee6ebbd471","toSide":"left"}
+	]
+}

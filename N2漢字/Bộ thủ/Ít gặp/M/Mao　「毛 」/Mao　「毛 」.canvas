@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"858b0499d293057c","type":"text","text":"Mao　「毛 」","x":-181,"y":8,"width":250,"height":60},
-		{"id":"cbbc084ef5dbd007","x":240,"y":100,"width":149,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mao　「毛 」/尾 - Mao.canvas"},
-		{"id":"9d2e2ee277300cb6","x":-115,"y":200,"width":184,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+		{"id":"cbbc084ef5dbd007","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mao　「毛 」/尾 - Mao.canvas","x":240,"y":100,"width":149,"height":142},
+		{"id":"9d2e2ee277300cb6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-115,"y":200,"width":184,"height":160},
+		{"id":"ea31b89627aa519e","x":340,"y":-320,"width":213,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/耗 - Hao.canvas"},
+		{"id":"3a1c66bcb8948f2a","x":-35,"y":-580,"width":208,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Lỗi　「耒」.canvas"}
 	],
 	"edges":[
 		{"id":"d5b7d48e5a687805","fromNode":"858b0499d293057c","fromSide":"right","toNode":"cbbc084ef5dbd007","toSide":"left"},
-		{"id":"d655d94c6e4b470a","fromNode":"9d2e2ee277300cb6","fromSide":"right","toNode":"cbbc084ef5dbd007","toSide":"left"}
+		{"id":"d655d94c6e4b470a","fromNode":"9d2e2ee277300cb6","fromSide":"right","toNode":"cbbc084ef5dbd007","toSide":"left"},
+		{"id":"d084919c46d0a40f","fromNode":"858b0499d293057c","fromSide":"right","toNode":"ea31b89627aa519e","toSide":"left"},
+		{"id":"5b88ffdbca875b0d","fromNode":"3a1c66bcb8948f2a","fromSide":"right","toNode":"ea31b89627aa519e","toSide":"left"}
 	]
 }

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"492bb5eb5291f481","x":-122,"y":-36,"width":250,"height":60,"type":"text","text":"冓 - Cấu"},
+		{"id":"9acda392ccc80d04","x":-588,"y":-280,"width":180,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tỉnh　「井」/Tỉnh　「井」.canvas"},
+		{"id":"a65bb094a6a3396b","x":-588,"y":120,"width":250,"height":106,"type":"text","text":"chưa có sự đồng thuận tuyệt đối về việc 冓 có trực tiếp phát triển từ 冉"},
+		{"id":"4e86ff856a27b00c","x":-588,"y":500,"width":250,"height":60,"type":"text","text":"khung đan, giàn.."},
+		{"id":"a7df69f26232ef6a","x":-1120,"y":240,"width":172,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/Nhiễm　「冉」.canvas"}
+	],
+	"edges":[
+		{"id":"4905a064bf48b2e1","fromNode":"a7df69f26232ef6a","fromSide":"right","toNode":"a65bb094a6a3396b","toSide":"left","label":"Quan hệ hình thể / tiến hoá của chữ"},
+		{"id":"27b2323eac280dd7","fromNode":"9acda392ccc80d04","fromSide":"right","toNode":"492bb5eb5291f481","toSide":"left"},
+		{"id":"2e49fbdcbef958dd","fromNode":"a65bb094a6a3396b","fromSide":"right","toNode":"492bb5eb5291f481","toSide":"left"},
+		{"id":"da254cbb73762c9f","fromNode":"a7df69f26232ef6a","fromSide":"right","toNode":"4e86ff856a27b00c","toSide":"left","label":"phát triển từ hình tượng của 冉"},
+		{"id":"6edde1090768a5fe","fromNode":"4e86ff856a27b00c","fromSide":"right","toNode":"492bb5eb5291f481","toSide":"left","label":"hình thể phức tạp hơn"}
+	]
+}

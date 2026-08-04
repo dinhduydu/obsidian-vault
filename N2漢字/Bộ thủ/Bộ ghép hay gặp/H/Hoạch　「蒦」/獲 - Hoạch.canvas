@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1ba6eed0e9b87c68","x":-77,"y":-39,"width":250,"height":60,"type":"text","text":"獲 - Hoạch"},
+		{"id":"3e6213f8b1c18294","x":-480,"y":160,"width":210,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hoạch　「蒦」/Hoạch　「蒦」.canvas"},
+		{"id":"fb4f13761f613129","x":-465,"y":-340,"width":195,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
+	],
+	"edges":[
+		{"id":"e24c2d108aef0d14","fromNode":"3e6213f8b1c18294","fromSide":"right","toNode":"1ba6eed0e9b87c68","toSide":"left"},
+		{"id":"4df008a6ddd1f8d8","fromNode":"fb4f13761f613129","fromSide":"right","toNode":"1ba6eed0e9b87c68","toSide":"left"}
+	]
+}

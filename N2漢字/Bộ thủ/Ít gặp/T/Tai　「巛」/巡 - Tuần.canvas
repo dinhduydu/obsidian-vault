@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b71b5df4a7de649b","x":-88,"y":-30,"width":250,"height":60,"type":"text","text":"巡 - Tuần"},
+		{"id":"f167e06491f3b5ce","x":-500,"y":-280,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/Tai　「巛」.canvas"},
+		{"id":"e17bcf538a62cd9c","x":-500,"y":160,"width":188,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"929c1a78aa08bd19","fromNode":"f167e06491f3b5ce","fromSide":"right","toNode":"b71b5df4a7de649b","toSide":"left"},
+		{"id":"1d13fb9188f44fe8","fromNode":"e17bcf538a62cd9c","fromSide":"right","toNode":"b71b5df4a7de649b","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"db7a004ddfa483f8","type":"text","text":"Tuân　「夋」","x":-57,"y":-34,"width":250,"height":60},
+		{"id":"84d2f798192b8126","x":-360,"y":140,"width":174,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"0f452cee80390989","fromNode":"84d2f798192b8126","fromSide":"right","toNode":"db7a004ddfa483f8","toSide":"left"}
+	]
+}

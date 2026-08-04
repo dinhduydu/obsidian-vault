@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"31aca9586ce7ab51","type":"text","text":"Nhiễm　「冉」","x":-87,"y":-11,"width":250,"height":60},
+		{"id":"a4a0e7c2fc29483d","type":"text","text":"một chữ tượng hình/chỉ sự mang nghĩa **từ từ, dần dần**.","x":-480,"y":-120,"width":250,"height":60},
+		{"id":"5fdec94fe872a694","type":"text","text":"Lông hoặc râu mềm rủ xuống","x":-480,"y":19,"width":250,"height":60},
+		{"id":"a400cea200ca6b42","x":463,"y":-103,"width":377,"height":92,"type":"text","text":"- Hình giáp cốt và kim văn có dạng gần như **một khung đan**."},
+		{"id":"ea983947b5943826","x":477,"y":112,"width":363,"height":68,"type":"text","text":"- Hình tượng này tương tự nhiều đồ đựng bằng tre thời cổ."},
+		{"id":"ff141349fceec930","x":1020,"y":-11,"width":250,"height":60,"type":"text","text":"cái giỏ hoặc đồ đan bằng tre, mây."},
+		{"id":"a62cdd724a6797e8","x":1077,"y":300,"width":193,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"1c2588761e2d6f5b","x":1600,"y":112,"width":274,"height":268,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/再 - Tái/再 - Tái.canvas"}
+	],
+	"edges":[
+		{"id":"d566d3e8b0a13a71","fromNode":"a4a0e7c2fc29483d","fromSide":"right","toNode":"31aca9586ce7ab51","toSide":"left"},
+		{"id":"c255b71fdb49bd84","fromNode":"a4a0e7c2fc29483d","fromSide":"bottom","toNode":"5fdec94fe872a694","toSide":"top"},
+		{"id":"42274f7ab5fbfc49","fromNode":"31aca9586ce7ab51","fromSide":"right","toNode":"a400cea200ca6b42","toSide":"left","label":"假借 - Giả tá"},
+		{"id":"d4ad42f37f5d7ac3","fromNode":"31aca9586ce7ab51","fromSide":"right","toNode":"ea983947b5943826","toSide":"left","label":"假借 - Giả tá"},
+		{"id":"e5f64a9bdbea6735","fromNode":"a400cea200ca6b42","fromSide":"right","toNode":"ff141349fceec930","toSide":"left"},
+		{"id":"931475a7305a3145","fromNode":"ea983947b5943826","fromSide":"right","toNode":"ff141349fceec930","toSide":"left"},
+		{"id":"52ce90e4c56e7b6a","fromNode":"ff141349fceec930","fromSide":"right","toNode":"1c2588761e2d6f5b","toSide":"left","label":"Nhiễm　「冉」"},
+		{"id":"16751ac1530a0615","fromNode":"a62cdd724a6797e8","fromSide":"right","toNode":"1c2588761e2d6f5b","toSide":"left"},
+		{"id":"9317553c7cc926b0","fromNode":"ff141349fceec930","fromSide":"top","toNode":"a4a0e7c2fc29483d","toSide":"top","label":"Sau này, chữ 冉 được mượn âm để ghi nghĩa \"từ từ, dần dần\", nên nghĩa gốc về cái giỏ dần mất đi."}
+	]
+}

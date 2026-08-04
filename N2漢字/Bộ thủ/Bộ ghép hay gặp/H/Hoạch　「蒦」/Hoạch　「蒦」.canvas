@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cb5b3cc8f7807ab1","x":-123,"y":-43,"width":250,"height":60,"type":"text","text":"Hoạch　「蒦」"},
+		{"id":"89507849b1332117","x":-500,"y":-360,"width":173,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"e913715f64eaa554","x":-520,"y":-105,"width":186,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"032e16cb68212509","x":-520,"y":232,"width":186,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"4fc2d92f3b2c15ad","fromNode":"89507849b1332117","fromSide":"right","toNode":"cb5b3cc8f7807ab1","toSide":"left"},
+		{"id":"b8deda0a85db6791","fromNode":"e913715f64eaa554","fromSide":"right","toNode":"cb5b3cc8f7807ab1","toSide":"left"},
+		{"id":"6c3359b80ac150ac","fromNode":"032e16cb68212509","fromSide":"right","toNode":"cb5b3cc8f7807ab1","toSide":"left"}
+	]
+}

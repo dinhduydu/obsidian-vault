@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ea942073702f35b5","x":-155,"y":-25,"width":250,"height":60,"type":"text","text":"潔 - Khiết"},
+		{"id":"a8cd2625cc08b026","x":-520,"y":180,"width":175,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"96803dc104b79286","x":-501,"y":-220,"width":137,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế/㓞 - Khế.canvas"},
+		{"id":"d0df7ff2c3da411d","x":-720,"y":-64,"width":96,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"f69e4a586bc6b6f6","fromNode":"96803dc104b79286","fromSide":"right","toNode":"ea942073702f35b5","toSide":"left"},
+		{"id":"69c434027dcd70f8","fromNode":"a8cd2625cc08b026","fromSide":"right","toNode":"ea942073702f35b5","toSide":"left"},
+		{"id":"604e2417affc64b6","fromNode":"d0df7ff2c3da411d","fromSide":"right","toNode":"ea942073702f35b5","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"929e66174ac2fc1b","type":"text","text":"拶 - Tạt","x":-56,"y":-53,"width":250,"height":60},
+		{"id":"f281acd94fe6a8f4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/Tai　「巛」.canvas","x":-500,"y":-300,"width":220,"height":149},
+		{"id":"b62cb0657ca617d1","x":-800,"y":-113,"width":213,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"4fb708ba9d32c1e7","x":-493,"y":220,"width":213,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"}
+	],
+	"edges":[
+		{"id":"31542ba0549734b5","fromNode":"f281acd94fe6a8f4","fromSide":"right","toNode":"929e66174ac2fc1b","toSide":"left"},
+		{"id":"62aa6494df227ce7","fromNode":"b62cb0657ca617d1","fromSide":"right","toNode":"929e66174ac2fc1b","toSide":"left"},
+		{"id":"77cf445148615a46","fromNode":"4fb708ba9d32c1e7","fromSide":"right","toNode":"929e66174ac2fc1b","toSide":"left"}
+	]
+}

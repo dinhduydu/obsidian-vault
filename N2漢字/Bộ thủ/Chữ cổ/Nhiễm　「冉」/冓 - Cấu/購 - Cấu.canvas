@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d4f5f80e8d47baaa","x":-142,"y":-53,"width":250,"height":60,"type":"text","text":"購 - Cấu"},
+		{"id":"e660d77bda27d59a","x":-520,"y":180,"width":172,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/冓 - Cấu/冓 - Cấu.canvas"},
+		{"id":"77324c6de73ba108","x":-522,"y":-340,"width":174,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"c66443f1b11a7d63","fromNode":"e660d77bda27d59a","fromSide":"right","toNode":"d4f5f80e8d47baaa","toSide":"left"},
+		{"id":"ce7855d0bf8cf257","fromNode":"77324c6de73ba108","fromSide":"right","toNode":"d4f5f80e8d47baaa","toSide":"left"}
+	]
+}

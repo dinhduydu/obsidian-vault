@@ -217,19 +217,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/罷 - Bãi.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -89.62892136187935,
+                  "y": -46.40342222630031,
+                  "zoom": 0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tuân　「夋」"
+              "title": "罷 - Bãi"
+            }
+          },
+          {
+            "id": "4fee4db12387ef4f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/隅 - Ngung.canvas",
+                "viewState": {
+                  "x": -141.25353134627852,
+                  "y": 17.155065469289724,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "隅 - Ngung"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -263,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "句",
+                "query": "属",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -383,30 +400,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62885a2793fc2c2",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn/循 - Tuần.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn/盾 - Thuẫn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/厚 - Hậu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần/殉 - Tuẫn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần/旬 - Tuần.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/駒 - Câu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/拘 - Câu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/句 - Cú.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú",
-    "N2文法/挙句・すえ/挙句.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/偶 - Ngẫu.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/隅 - Ngung.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/Ngu　「禺 」.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/遇 - Ngộ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」/愚 - Ngu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/罷 - Bãi.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Ngu　「禺 」",
+    "N2漢字/Bộ thủ/Chữ cổ",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/熊 - Hùng.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/態 - Thái.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/能 - Năng.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/巡 - Tuần.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/拶 - Tạt.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hoạch　「蒦」",
+    "N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Untitled",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế/契 - Khế",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/㓞 - Khế",
+    "N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/冓 - Cấu",
+    "N2漢字/Bộ thủ/Chữ cổ/Nhiễm　「冉」/再 - Tái",
     "Chữa đề/Learning_Profile/FixedExpression/句読点.md",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「久 」",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc/Untitled",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Lịch　「厤」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/爪 - Trảo",
     "Chữa đề/Learning_Profile/Kanji/偉い.md",
     "網膜.md",
     "Untitled.md",
