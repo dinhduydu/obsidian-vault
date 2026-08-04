@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f9fc9009d68b81db","type":"text","text":"塞 - Tắc","x":-127,"y":-44,"width":250,"height":60},
+		{"id":"f509278193b115a8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/井 - Tỉnh/寒 - Hàn/寒 - Hàn.canvas","x":-460,"y":-260,"width":200,"height":125},
+		{"id":"defe7ba730bd0c9f","x":-432,"y":16,"width":172,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"fab08d499786eaf0","fromNode":"f509278193b115a8","fromSide":"right","toNode":"f9fc9009d68b81db","toSide":"left"},
+		{"id":"f90b8e165be5aa9a","fromNode":"defe7ba730bd0c9f","fromSide":"right","toNode":"f9fc9009d68b81db","toSide":"left"}
+	]
+}

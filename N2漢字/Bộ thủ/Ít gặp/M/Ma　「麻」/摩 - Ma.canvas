@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3adbeafc69af9c5a","x":-135,"y":-37,"width":250,"height":60,"type":"text","text":"摩 - Ma"},
+		{"id":"71955e21a3621bd6","x":-520,"y":-340,"width":186,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Ma　「麻」/Ma　「麻」.canvas"},
+		{"id":"7290a1aeb9a6b09c","x":-506,"y":80,"width":172,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"4dd356f2e15578f7","fromNode":"71955e21a3621bd6","fromSide":"right","toNode":"3adbeafc69af9c5a","toSide":"left"},
+		{"id":"52601a0ffb0fff89","fromNode":"7290a1aeb9a6b09c","fromSide":"right","toNode":"3adbeafc69af9c5a","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a877357864523d1a","x":-104,"y":-60,"width":250,"height":60,"type":"text","text":"林 - Lâm"},
+		{"id":"0a0acbdc8234b2e9","x":-580,"y":-103,"width":203,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"c79da519ce584640","fromNode":"0a0acbdc8234b2e9","fromSide":"right","toNode":"a877357864523d1a","toSide":"left","label":"x2"}
+	]
+}

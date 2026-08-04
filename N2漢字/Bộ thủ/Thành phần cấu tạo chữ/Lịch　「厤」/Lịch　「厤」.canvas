@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5e6c5c26bc683745","type":"text","text":"Lịch　「厤」","x":-172,"y":-37,"width":250,"height":60},
+		{"id":"b06794f92c4b6aea","type":"text","text":" từng lớp, từng bậc.","x":-760,"y":-240,"width":250,"height":60},
+		{"id":"664baeaee3a570f9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Lịch　「厤」/歷 - Lịch.canvas","x":300,"y":-317,"width":289,"height":214},
+		{"id":"121a210a6b560f60","x":-839,"y":180,"width":158,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Ma　「麻」/Ma　「麻」.canvas"}
+	],
+	"edges":[
+		{"id":"33a677ae658d4f0e","fromNode":"b06794f92c4b6aea","fromSide":"right","toNode":"5e6c5c26bc683745","toSide":"left"},
+		{"id":"c8baa2e1fd9e0aec","fromNode":"5e6c5c26bc683745","fromSide":"right","toNode":"664baeaee3a570f9","toSide":"left"},
+		{"id":"b6b9b61548c659da","fromNode":"121a210a6b560f60","fromSide":"right","toNode":"5e6c5c26bc683745","toSide":"left","label":"khác"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6888792cd234aef1","type":"text","text":"視点　「してん」：","x":195,"y":-99,"width":250,"height":60},
+		{"id":"e122b8023f41cd14","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-445,"y":-19,"width":125,"height":118},
+		{"id":"7d48a7b805a4d2c2","type":"text","text":"視 - Thị","x":-185,"y":-99,"width":250,"height":60},
+		{"id":"57b4361bd875f6f1","x":-501,"y":-400,"width":181,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"91e6e7bd4ac0ca7d","fromNode":"7d48a7b805a4d2c2","fromSide":"right","toNode":"6888792cd234aef1","toSide":"left"},
+		{"id":"4f19a549d31e0cbd","fromNode":"e122b8023f41cd14","fromSide":"right","toNode":"7d48a7b805a4d2c2","toSide":"left"},
+		{"id":"89db48b77c7b5445","fromNode":"57b4361bd875f6f1","fromSide":"right","toNode":"7d48a7b805a4d2c2","toSide":"left"}
+	]
+}

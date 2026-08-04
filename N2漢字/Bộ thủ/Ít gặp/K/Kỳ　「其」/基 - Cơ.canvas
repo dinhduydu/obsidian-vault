@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"695981c5423fd8e3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"基 - Cơ"},
+		{"id":"303cc61ab875cba9","x":-620,"y":-420,"width":223,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/Kỳ　「其」.canvas"},
+		{"id":"b4fd8a2b9952dae6","x":-620,"y":140,"width":223,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"ecf0d7c729338575","fromNode":"303cc61ab875cba9","fromSide":"right","toNode":"695981c5423fd8e3","toSide":"left"},
+		{"id":"088d2930855d2a37","fromNode":"b4fd8a2b9952dae6","fromSide":"right","toNode":"695981c5423fd8e3","toSide":"left"}
+	]
+}

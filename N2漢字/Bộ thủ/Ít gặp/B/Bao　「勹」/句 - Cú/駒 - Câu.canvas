@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6e0409cb00864ad4","x":-80,"y":-38,"width":250,"height":60,"type":"text","text":"駒 - Câu"},
+		{"id":"a8af1a94e5ec7a02","x":-420,"y":120,"width":159,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"},
+		{"id":"b9d7be3d0279ce31","x":-420,"y":-320,"width":162,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/句 - Cú.canvas"}
+	],
+	"edges":[
+		{"id":"958e9e64e242bece","fromNode":"b9d7be3d0279ce31","fromSide":"right","toNode":"6e0409cb00864ad4","toSide":"left"},
+		{"id":"7bbb853d7c828d67","fromNode":"a8af1a94e5ec7a02","fromSide":"right","toNode":"6e0409cb00864ad4","toSide":"left"}
+	]
+}

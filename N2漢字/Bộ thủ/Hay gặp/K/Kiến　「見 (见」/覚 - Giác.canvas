@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a5f668c692570b8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-512,"y":-29,"width":168,"height":104},
+		{"id":"2d4154cf322728a9","type":"text","text":"覚 - Giác","x":-153,"y":45,"width":250,"height":60},
+		{"id":"601768c3347f92d2","type":"text","text":"覚える　「おぼえる」： cảm giác","x":247,"y":45,"width":250,"height":60},
+		{"id":"53595b6c90c15935","type":"text","text":"覚める　「さめる」：tỉnh dậy","x":263,"y":159,"width":250,"height":60},
+		{"id":"4365112e1c9d914e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-505,"y":-219,"width":155,"height":119}
+	],
+	"edges":[
+		{"id":"bba641f62c67f7ed","fromNode":"a5f668c692570b8a","fromSide":"right","toNode":"2d4154cf322728a9","toSide":"left"},
+		{"id":"042e729b30118a27","fromNode":"2d4154cf322728a9","fromSide":"right","toNode":"601768c3347f92d2","toSide":"left"},
+		{"id":"ed472147a89e691f","fromNode":"2d4154cf322728a9","fromSide":"right","toNode":"53595b6c90c15935","toSide":"left"},
+		{"id":"528faee950db3b7b","fromNode":"4365112e1c9d914e","fromSide":"right","toNode":"2d4154cf322728a9","toSide":"left"}
+	]
+}

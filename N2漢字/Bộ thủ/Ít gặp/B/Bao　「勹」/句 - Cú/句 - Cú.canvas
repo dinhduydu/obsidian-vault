@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b9e4f7935bc2026f","type":"text","text":"句 - Cú","x":-81,"y":-34,"width":250,"height":60},
+		{"id":"ae21dc4f629392a0","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/句読点.md","x":400,"y":-460,"width":277,"height":176},
+		{"id":"c3d1f9efcc0f36cd","type":"file","file":"Chữa đề/Learning_Profile/Kanji/文句.md","x":400,"y":-196,"width":290,"height":192},
+		{"id":"cdd750c6a55ad047","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/文句を言う.md","x":880,"y":-320,"width":256,"height":175},
+		{"id":"d172c956c7fe1f4e","type":"file","file":"N2文法/挙句・すえ/挙句.canvas","x":408,"y":60,"width":282,"height":184},
+		{"id":"fe1050bcce480925","x":-500,"y":-358,"width":144,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"12208473502162a5","x":-540,"y":80,"width":184,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a8d9c38129884324","fromNode":"b9e4f7935bc2026f","fromSide":"right","toNode":"ae21dc4f629392a0","toSide":"left"},
+		{"id":"c67e2e8c9dcf84f7","fromNode":"b9e4f7935bc2026f","fromSide":"right","toNode":"c3d1f9efcc0f36cd","toSide":"left"},
+		{"id":"4dfccd5b0cdc343b","fromNode":"c3d1f9efcc0f36cd","fromSide":"right","toNode":"cdd750c6a55ad047","toSide":"left"},
+		{"id":"249195577ebf3db1","fromNode":"b9e4f7935bc2026f","fromSide":"right","toNode":"d172c956c7fe1f4e","toSide":"left"},
+		{"id":"7ae246179afd861e","fromNode":"fe1050bcce480925","fromSide":"right","toNode":"b9e4f7935bc2026f","toSide":"left"},
+		{"id":"881b12743155fe81","fromNode":"12208473502162a5","fromSide":"right","toNode":"b9e4f7935bc2026f","toSide":"left"}
+	]
+}

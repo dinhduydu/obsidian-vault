@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e3ebc851a7ab3219","type":"text","text":"歷 - Lịch","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d964bb6987d0e857","type":"text","text":"Đi qua, trải qua từng bước.","x":-625,"y":-263,"width":250,"height":60},
+		{"id":"07c4a25f123a28e1","type":"text","text":"Có thể hiểu hình tượng là:\n\n止 (bàn chân) → bước đi.\n厤 → từng lớp, từng bậc.","x":-700,"y":-105,"width":325,"height":150},
+		{"id":"9663b69c00647459","type":"text","text":"Từ đó phát triển thành:\n\ntrải qua.\nkinh qua.\nlịch sử.\nlịch pháp.","x":-687,"y":157,"width":300,"height":170},
+		{"id":"f332419b379a3851","x":-1000,"y":-233,"width":164,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
+		{"id":"6aaddb0a553d02d4","x":-1072,"y":45,"width":236,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Lịch　「厤」/Lịch　「厤」.canvas"}
+	],
+	"edges":[
+		{"id":"90432c95d09cfc1b","fromNode":"07c4a25f123a28e1","fromSide":"bottom","toNode":"9663b69c00647459","toSide":"top"},
+		{"id":"4a160ae571aed74c","fromNode":"d964bb6987d0e857","fromSide":"right","toNode":"e3ebc851a7ab3219","toSide":"left"},
+		{"id":"3051b38242ac0c72","fromNode":"07c4a25f123a28e1","fromSide":"right","toNode":"e3ebc851a7ab3219","toSide":"left"},
+		{"id":"488b1eb00c9c0391","fromNode":"f332419b379a3851","fromSide":"right","toNode":"07c4a25f123a28e1","toSide":"left"},
+		{"id":"5a8272b9ee8cea57","fromNode":"6aaddb0a553d02d4","fromSide":"right","toNode":"07c4a25f123a28e1","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"29d3b956591eec81","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"盾 - Thuẫn"},
+		{"id":"e8053a15ef217645","x":-620,"y":-400,"width":206,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"e8bd027e12475884","x":-593,"y":30,"width":179,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"577d5162de7cc8da","x":-642,"y":340,"width":228,"height":290,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"1d969ba8b054af5f","fromNode":"e8053a15ef217645","fromSide":"right","toNode":"29d3b956591eec81","toSide":"left"},
+		{"id":"62e12e6070a98d96","fromNode":"e8bd027e12475884","fromSide":"right","toNode":"29d3b956591eec81","toSide":"left"},
+		{"id":"99a3725d01c7cef8","fromNode":"577d5162de7cc8da","fromSide":"right","toNode":"29d3b956591eec81","toSide":"left"}
+	]
+}

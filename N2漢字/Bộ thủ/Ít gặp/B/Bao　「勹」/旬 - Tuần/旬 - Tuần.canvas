@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b890a5b3ddb50705","x":-112,"y":-28,"width":250,"height":60,"type":"text","text":"旬 - Tuần"},
+		{"id":"cf00670d8902a74b","x":-560,"y":-380,"width":166,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"f9cdae924bed947f","x":-605,"y":100,"width":211,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"9e7e86240bab3cbe","fromNode":"cf00670d8902a74b","fromSide":"right","toNode":"b890a5b3ddb50705","toSide":"left"},
+		{"id":"dfd9829014a092ae","fromNode":"f9cdae924bed947f","fromSide":"right","toNode":"b890a5b3ddb50705","toSide":"left"}
+	]
+}

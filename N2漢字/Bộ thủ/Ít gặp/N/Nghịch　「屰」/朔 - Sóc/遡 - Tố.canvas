@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c42d69489f5d6953","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"遡 - Tố"},
+		{"id":"f8ef1a6a8adb71f1","x":-560,"y":-360,"width":231,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc/朔 - Sóc.canvas"},
+		{"id":"1c2f0fe816ecef2b","x":-536,"y":100,"width":207,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"e3d238f886711c2a","fromNode":"f8ef1a6a8adb71f1","fromSide":"right","toNode":"c42d69489f5d6953","toSide":"left"},
+		{"id":"a4b86338f2f83735","fromNode":"1c2f0fe816ecef2b","fromSide":"right","toNode":"c42d69489f5d6953","toSide":"left"}
+	]
+}

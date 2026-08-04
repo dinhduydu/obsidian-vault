@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f1d67cf27dfe3b21","x":-108,"y":-20,"width":250,"height":60,"type":"text","text":"質 - Chất"},
+		{"id":"7cb792cf53a275f1","x":-540,"y":-260,"width":204,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"},
+		{"id":"5c1aeb710a6df2f0","x":-571,"y":160,"width":235,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"047a9bebc9f14b8e","fromNode":"7cb792cf53a275f1","fromSide":"right","toNode":"f1d67cf27dfe3b21","toSide":"left","label":"x2"},
+		{"id":"122cfb6ed50596bc","fromNode":"5c1aeb710a6df2f0","fromSide":"right","toNode":"f1d67cf27dfe3b21","toSide":"left"}
+	]
+}

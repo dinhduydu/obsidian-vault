@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c584835440706dea","x":-131,"y":-40,"width":250,"height":60,"type":"text","text":"慣 - Quán"},
+		{"id":"727e6a64b3c25fbd","x":-460,"y":60,"width":174,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"},
+		{"id":"a95b6338ce4630da","x":-497,"y":-320,"width":211,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/貫 - Quán/貫 - Quán.canvas"}
+	],
+	"edges":[
+		{"id":"71efc03b615886fa","fromNode":"a95b6338ce4630da","fromSide":"right","toNode":"c584835440706dea","toSide":"left"},
+		{"id":"26cdb6020e3f6801","fromNode":"727e6a64b3c25fbd","fromSide":"right","toNode":"c584835440706dea","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e52341bb197c6786","type":"text","text":"屰 - Nghịch","x":-126,"y":-13,"width":250,"height":60},
+		{"id":"21f62fc10e8b560e","x":340,"y":-340,"width":248,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc/朔 - Sóc.canvas"},
+		{"id":"8800ca2292457990","x":340,"y":80,"width":278,"height":235,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/逆 - Nghịch.canvas"}
+	],
+	"edges":[
+		{"id":"81391dce8649cde9","fromNode":"e52341bb197c6786","fromSide":"right","toNode":"21f62fc10e8b560e","toSide":"left"},
+		{"id":"f033396e07e50808","fromNode":"e52341bb197c6786","fromSide":"right","toNode":"8800ca2292457990","toSide":"left"}
+	]
+}

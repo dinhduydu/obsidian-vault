@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"48764c55e972e4f5","x":-123,"y":-22,"width":250,"height":60,"type":"text","text":"逆 - Nghịch"},
+		{"id":"9ed607d4a1380e38","x":-560,"y":-260,"width":187,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/屰 - Nghịch.canvas"},
+		{"id":"9964a4538df31da2","x":-593,"y":160,"width":220,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"17cac1cf0cbf725d","fromNode":"9ed607d4a1380e38","fromSide":"right","toNode":"48764c55e972e4f5","toSide":"left"},
+		{"id":"c08372c674957d99","fromNode":"9964a4538df31da2","fromSide":"right","toNode":"48764c55e972e4f5","toSide":"left"}
+	]
+}

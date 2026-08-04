@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"65a225ece6c61b6c","x":-172,"y":-26,"width":250,"height":60,"type":"text","text":"潜 - Tiềm"},
+		{"id":"208dd0bfe2103aa1","x":-500,"y":-260,"width":193,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/替 - Thế/替 - Thế.canvas"},
+		{"id":"ff794607de3bad0d","x":-620,"y":80,"width":158,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"914ac4948035d373","fromNode":"208dd0bfe2103aa1","fromSide":"right","toNode":"65a225ece6c61b6c","toSide":"left"},
+		{"id":"2b68cab962a54088","fromNode":"ff794607de3bad0d","fromSide":"right","toNode":"65a225ece6c61b6c","toSide":"left"}
+	]
+}

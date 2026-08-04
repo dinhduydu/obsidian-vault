@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cb1a5b7137b3f28a","x":-123,"y":-21,"width":250,"height":60,"type":"text","text":"礎 - Sở"},
+		{"id":"7cdf5f4a8c010bb1","x":-440,"y":-300,"width":157,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/林 - Lâm/林 - Lâm.canvas"},
+		{"id":"470a36416ffda896","x":-469,"y":100,"width":186,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thất　「疋 (⺪) 」/Thất　「疋 (⺪) 」.canvas"},
+		{"id":"1a3ecc8c52973d76","x":-800,"y":-64,"width":231,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
+	],
+	"edges":[
+		{"id":"52d069cb9c4b6b29","fromNode":"7cdf5f4a8c010bb1","fromSide":"right","toNode":"cb1a5b7137b3f28a","toSide":"left"},
+		{"id":"3077a0943d2888c3","fromNode":"470a36416ffda896","fromSide":"right","toNode":"cb1a5b7137b3f28a","toSide":"left"},
+		{"id":"36507b3281eebbf5","fromNode":"1a3ecc8c52973d76","fromSide":"right","toNode":"cb1a5b7137b3f28a","toSide":"left"}
+	]
+}

@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"93984809c1b62fe3","x":-172,"y":-45,"width":250,"height":60,"type":"text","text":"Kỳ　「其」"}
+		{"id":"93984809c1b62fe3","type":"text","text":"Kỳ　「其」","x":-172,"y":-45,"width":250,"height":60},
+		{"id":"984de0c5c2bc6c2c","x":-540,"y":120,"width":191,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"},
+		{"id":"5f845225f35e0f3b","x":-700,"y":-180,"width":320,"height":80,"type":"text","text":"**một chữ gốc rất cổ**, không phải chữ ghép theo tự nguyên."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"834be09fc30d93a4","fromNode":"984de0c5c2bc6c2c","fromSide":"right","toNode":"93984809c1b62fe3","toSide":"left"},
+		{"id":"54a4ea66f1843353","fromNode":"5f845225f35e0f3b","fromSide":"right","toNode":"93984809c1b62fe3","toSide":"left"}
+	]
 }

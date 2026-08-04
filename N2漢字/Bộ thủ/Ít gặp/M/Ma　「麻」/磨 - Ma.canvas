@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb2f49a575a497d0","x":-143,"y":-34,"width":250,"height":60,"type":"text","text":"磨 - Ma"},
+		{"id":"d12dfaf84f5d5297","x":-440,"y":-280,"width":166,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Ma　「麻」/Ma　「麻」.canvas"},
+		{"id":"9a66ebaf2a54604d","x":-484,"y":80,"width":210,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
+	],
+	"edges":[
+		{"id":"10ccb1f552952460","fromNode":"d12dfaf84f5d5297","fromSide":"right","toNode":"eb2f49a575a497d0","toSide":"left"},
+		{"id":"cb6bacaa174603de","fromNode":"9a66ebaf2a54604d","fromSide":"right","toNode":"eb2f49a575a497d0","toSide":"left"}
+	]
+}

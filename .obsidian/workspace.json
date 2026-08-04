@@ -200,7 +200,24 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/現 - Hiện/現 - Hiện.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas",
+                "viewState": {
+                  "x": 322.5498108821645,
+                  "y": 686.890202849371,
+                  "zoom": 0.13463308919111105
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Kiến　「見 (见」"
+            }
+          },
+          {
+            "id": "d62885a2793fc2c2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -208,11 +225,11 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "現 - Hiện"
+              "title": "Tuân　「夋」"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -246,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "現",
+                "query": "句",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -366,30 +383,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79896b2ecd7dcb5c",
+  "active": "d62885a2793fc2c2",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/椅 - Y.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/現 - Hiện/現 - Hiện.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/現 - Hiện",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 5/現 - Hiện.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/騎 - Kỵ.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/埼 - Kỳ.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/寄 - Kí.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/崎 - Khi.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì/奇 - Kì.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/Khả　「可 」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/奇 - Kì",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/朝 - Triều/嘲 - Trào.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/朝 - Triều/潮 - Triều.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/朝 - Triều",
-    "N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乞 - Khất",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu",
-    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/彳⿻亍 - Hành/彳⿻亍 - Hành",
-    "N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/彳⿻亍 - Hành",
-    "N2漢字/Bộ thủ/Hay gặp/V/Untitled",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn/循 - Tuần.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn/盾 - Thuẫn.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/厚 - Hậu.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần/殉 - Tuẫn.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần/旬 - Tuần.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/駒 - Câu.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/拘 - Câu.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/句 - Cú.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú",
+    "N2文法/挙句・すえ/挙句.canvas",
+    "Chữa đề/Learning_Profile/FixedExpression/句読点.md",
+    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cửu　「久 」",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc/Untitled",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Lịch　「厤」",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/爪 - Trảo",
     "Chữa đề/Learning_Profile/Kanji/偉い.md",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/因 - Nhân",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/包 - Bao",
     "網膜.md",
     "Untitled.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/2. Phân Tích N2_NGÀY 2_ÔN TẬP KANJI (P2).md",
@@ -413,7 +431,6 @@
     "Chữa đề/Learning_Profile/CompoundVerb/詰め込む.md",
     "N2漢字/Bộ thủ/Hay gặp/P/Phương　「方」/放 - Phóng.md",
     "Chữa đề/Learning_Profile/FixedExpression/でも何でも.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/2. Phân Tích Trợ từ chỉ mục đích, thời gian, liệt kê, và các cấu trúc nhấn mạnh như こそ, さえ.md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

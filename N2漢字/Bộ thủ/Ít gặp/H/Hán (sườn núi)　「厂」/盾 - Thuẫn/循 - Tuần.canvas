@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b57782a8776de58b","x":-83,"y":-28,"width":250,"height":60,"type":"text","text":"循 - Tuần"},
+		{"id":"26e2d86aa233347f","x":-480,"y":-240,"width":223,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/盾 - Thuẫn/盾 - Thuẫn.canvas"},
+		{"id":"b3408212a77496a0","x":-427,"y":140,"width":170,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"52104cf0a1f36eb0","fromNode":"26e2d86aa233347f","fromSide":"right","toNode":"b57782a8776de58b","toSide":"left"},
+		{"id":"a2561c7c85e3b4d7","fromNode":"b3408212a77496a0","fromSide":"right","toNode":"b57782a8776de58b","toSide":"left"}
+	]
+}

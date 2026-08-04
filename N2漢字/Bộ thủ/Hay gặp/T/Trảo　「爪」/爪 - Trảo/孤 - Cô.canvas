@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb4e54f774634c2d","x":-113,"y":-42,"width":250,"height":60,"type":"text","text":"孤 - Cô"},
+		{"id":"4b6649bd7b994581","x":-440,"y":-300,"width":143,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"aea7fedcc8e15efe","x":-500,"y":-42,"width":203,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"}
+	],
+	"edges":[
+		{"id":"080349dc1545641e","fromNode":"4b6649bd7b994581","fromSide":"right","toNode":"eb4e54f774634c2d","toSide":"left"},
+		{"id":"f4df03757bb4db3a","fromNode":"aea7fedcc8e15efe","fromSide":"right","toNode":"eb4e54f774634c2d","toSide":"left"}
+	]
+}

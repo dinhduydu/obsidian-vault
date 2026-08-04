@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ee1e4ac4e6bb43e4","type":"text","text":"朔 - Sóc","x":-1,"y":-29,"width":250,"height":60},
+		{"id":"a4935b16c0738b01","x":-420,"y":-280,"width":246,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/屰 - Nghịch.canvas"},
+		{"id":"4f640064a4055563","x":-420,"y":80,"width":246,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"ce180780a589467b","fromNode":"a4935b16c0738b01","fromSide":"right","toNode":"ee1e4ac4e6bb43e4","toSide":"left"},
+		{"id":"50e5aebb45acfae2","fromNode":"4f640064a4055563","fromSide":"right","toNode":"ee1e4ac4e6bb43e4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"344d5583cf73fe29","x":-56,"y":-23,"width":250,"height":60,"type":"text","text":"塑 - Tố"},
+		{"id":"6dab892ba8f446db","x":-440,"y":-360,"width":210,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghịch　「屰」/朔 - Sóc/朔 - Sóc.canvas"},
+		{"id":"4a64b435fccaf1d2","x":-463,"y":180,"width":233,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"3008b5f900db8016","fromNode":"6dab892ba8f446db","fromSide":"right","toNode":"344d5583cf73fe29","toSide":"left"},
+		{"id":"b2157cbdee5fdbea","fromNode":"4a64b435fccaf1d2","fromSide":"right","toNode":"344d5583cf73fe29","toSide":"left"}
+	]
+}

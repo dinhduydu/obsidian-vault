@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"53de07542da8d8a0","x":-143,"y":-68,"width":250,"height":60,"type":"text","text":"殉 - Tuẫn"},
+		{"id":"1bbdb28f13211202","x":-500,"y":-360,"width":186,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/旬 - Tuần/旬 - Tuần.canvas"},
+		{"id":"98fa7b7617c8c302","x":-491,"y":-8,"width":177,"height":212,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/Đãi　「歹」.canvas"}
+	],
+	"edges":[
+		{"id":"42d9523557f6c104","fromNode":"1bbdb28f13211202","fromSide":"right","toNode":"53de07542da8d8a0","toSide":"left"},
+		{"id":"57ac9a1e42e203d2","fromNode":"98fa7b7617c8c302","fromSide":"right","toNode":"53de07542da8d8a0","toSide":"left"}
+	]
+}
