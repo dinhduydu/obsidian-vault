@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3909d71a8e1568c1","x":-55,"y":-49,"width":250,"height":60,"type":"text","text":"凶 - Hung"},
+		{"id":"4bc36c1436745f1e","x":340,"y":-280,"width":188,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/凶 - Hung/胸 - Hung.canvas"}
+	],
+	"edges":[
+		{"id":"f33cf03638f8d921","fromNode":"3909d71a8e1568c1","fromSide":"right","toNode":"4bc36c1436745f1e","toSide":"left"}
+	]
+}

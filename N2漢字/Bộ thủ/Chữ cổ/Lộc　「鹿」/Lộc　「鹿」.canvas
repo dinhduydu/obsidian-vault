@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dce242f4ed76e7f3","x":-99,"y":-46,"width":250,"height":60,"type":"text","text":"Lộc　「鹿」"},
+		{"id":"168b437cb217eef7","x":400,"y":-300,"width":191,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/慶 - Khánh.canvas"}
+	],
+	"edges":[
+		{"id":"62935ba23f6d3a12","fromNode":"dce242f4ed76e7f3","fromSide":"right","toNode":"168b437cb217eef7","toSide":"left"}
+	]
+}

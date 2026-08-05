@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"98758cb8145bb7af","type":"text","text":"慶 - Khánh","x":-113,"y":-39,"width":250,"height":60},
+		{"id":"04214ede1dd918a0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/愛 - Ái/愛 - Ái.canvas","x":-460,"y":100,"width":163,"height":136},
+		{"id":"16b4a223a3346b98","x":-487,"y":-340,"width":190,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/Lộc　「鹿」.canvas"}
+	],
+	"edges":[
+		{"id":"4122243344dc7a53","fromNode":"04214ede1dd918a0","fromSide":"right","toNode":"98758cb8145bb7af","toSide":"left"},
+		{"id":"269e9bccd8ddad60","fromNode":"16b4a223a3346b98","fromSide":"right","toNode":"98758cb8145bb7af","toSide":"left"}
+	]
+}

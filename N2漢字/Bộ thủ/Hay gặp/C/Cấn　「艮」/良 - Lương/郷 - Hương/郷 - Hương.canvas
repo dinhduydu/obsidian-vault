@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"696be547e98ed25d","x":-101,"y":-36,"width":250,"height":60,"type":"text","text":"郷 - Hương"},
+		{"id":"df8760c270cd3b06","x":-603,"y":-108,"width":209,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
+		{"id":"664d4781441e8f04","x":-520,"y":-380,"width":126,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"},
+		{"id":"2281813940c0255b","x":-584,"y":260,"width":190,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"d1be1c6a4bc9f9d4","fromNode":"664d4781441e8f04","fromSide":"right","toNode":"696be547e98ed25d","toSide":"left"},
+		{"id":"1a458815843291c0","fromNode":"df8760c270cd3b06","fromSide":"right","toNode":"696be547e98ed25d","toSide":"left"},
+		{"id":"4818cb2e965c472a","fromNode":"2281813940c0255b","fromSide":"right","toNode":"696be547e98ed25d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dcb1b7f43bd2f2cd","x":-64,"y":-37,"width":250,"height":60,"type":"text","text":"若 - Nhược"},
+		{"id":"50d18d3c0ef802d6","x":-500,"y":-340,"width":182,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"d136ae7aaa42c0fd","x":-530,"y":80,"width":212,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/右 - Hữu.canvas"}
+	],
+	"edges":[
+		{"id":"ef2eb7803fc53c5e","fromNode":"50d18d3c0ef802d6","fromSide":"right","toNode":"dcb1b7f43bd2f2cd","toSide":"left"},
+		{"id":"74a25c1f3e877a5d","fromNode":"d136ae7aaa42c0fd","fromSide":"right","toNode":"dcb1b7f43bd2f2cd","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7972df83cb5f2a15","type":"text","text":"余 - Dư","x":-85,"y":-34,"width":250,"height":60},
+		{"id":"45408dc92d98912a","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas","x":-448,"y":260,"width":192,"height":198},
+		{"id":"c8a0bf71881ca9ac","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/Ô　「于」.canvas","x":-720,"y":-77,"width":172,"height":146},
+		{"id":"6fd7e559d646086a","x":-448,"y":-360,"width":172,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"}
+	],
+	"edges":[
+		{"id":"0373b3586cfff56e","fromNode":"c8a0bf71881ca9ac","fromSide":"right","toNode":"7972df83cb5f2a15","toSide":"left"},
+		{"id":"3baee11ebc116aa7","fromNode":"45408dc92d98912a","fromSide":"right","toNode":"7972df83cb5f2a15","toSide":"left"},
+		{"id":"995ab9848c4fe6e9","fromNode":"6fd7e559d646086a","fromSide":"right","toNode":"7972df83cb5f2a15","toSide":"left"}
+	]
+}

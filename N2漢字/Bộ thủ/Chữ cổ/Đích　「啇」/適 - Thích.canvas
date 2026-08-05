@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eca005bdc32a2630","type":"text","text":"適 - Thích","x":-137,"y":-30,"width":250,"height":60},
+		{"id":"bcbc841a56a083e0","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/Đích　「啇」.canvas","x":-540,"y":-260,"width":224,"height":169},
+		{"id":"595510f098a46d2d","x":-540,"y":140,"width":224,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"11af18e6fda3cece","fromNode":"bcbc841a56a083e0","fromSide":"right","toNode":"eca005bdc32a2630","toSide":"left"},
+		{"id":"0e48abba307d4193","fromNode":"595510f098a46d2d","fromSide":"right","toNode":"eca005bdc32a2630","toSide":"left","label":"đi đến đúng nơi, phù hợp."}
+	]
+}

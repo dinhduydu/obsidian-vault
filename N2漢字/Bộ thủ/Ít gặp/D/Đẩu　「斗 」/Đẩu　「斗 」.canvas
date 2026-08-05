@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"3888f3cb23d04928","x":-165,"y":-26,"width":250,"height":60,"type":"text","text":"Đẩu　「斗 」"}
+		{"id":"3888f3cb23d04928","type":"text","text":"Đẩu　「斗 」","x":-165,"y":-26,"width":250,"height":60},
+		{"id":"61a0dbcb9fb6e842","x":260,"y":-280,"width":151,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/斜 - Tà.canvas"},
+		{"id":"d2fa47d7c7b91d05","x":-153,"y":-560,"width":227,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a1f43a5e39f8fc8f","fromNode":"3888f3cb23d04928","fromSide":"right","toNode":"61a0dbcb9fb6e842","toSide":"left"},
+		{"id":"addb618856088ad9","fromNode":"d2fa47d7c7b91d05","fromSide":"right","toNode":"61a0dbcb9fb6e842","toSide":"left"}
+	]
 }

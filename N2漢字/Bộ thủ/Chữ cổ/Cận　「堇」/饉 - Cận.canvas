@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86c3ea5f2c344039","x":-83,"y":-15,"width":250,"height":60,"type":"text","text":"饉 - Cận"},
+		{"id":"b82629cdfab1a7a9","x":-500,"y":180,"width":168,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas"},
+		{"id":"80b85822cc361607","x":-500,"y":-400,"width":153,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"}
+	],
+	"edges":[
+		{"id":"2dbd00abc3be80c3","fromNode":"b82629cdfab1a7a9","fromSide":"right","toNode":"86c3ea5f2c344039","toSide":"left"},
+		{"id":"3b28c19fca259ee4","fromNode":"80b85822cc361607","fromSide":"right","toNode":"86c3ea5f2c344039","toSide":"left","label":"nạn đói"}
+	]
+}

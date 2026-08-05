@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"123c7ee769c493f7","type":"text","text":"脳 - Não","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"36c8e0cad6f8ed15","x":-600,"y":180,"width":221,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"933f6ef9c1b3ac20","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-860,"y":-58,"width":122,"height":117},
+		{"id":"6e5b9638f1edec24","x":-596,"y":-380,"width":213,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/Tiểu biến　「⺍」.canvas"}
+	],
+	"edges":[
+		{"id":"8b5935c747f86e03","fromNode":"933f6ef9c1b3ac20","fromSide":"right","toNode":"123c7ee769c493f7","toSide":"left"},
+		{"id":"f46e0781ad07b023","fromNode":"36c8e0cad6f8ed15","fromSide":"right","toNode":"123c7ee769c493f7","toSide":"left"},
+		{"id":"5adb89e11248b6f2","fromNode":"6e5b9638f1edec24","fromSide":"right","toNode":"123c7ee769c493f7","toSide":"left"}
+	]
+}

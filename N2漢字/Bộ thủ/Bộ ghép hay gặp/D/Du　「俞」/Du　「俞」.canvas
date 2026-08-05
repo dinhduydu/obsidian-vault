@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c6b7674ba23d6bd0","type":"text","text":"Du　「俞」","x":-107,"y":-41,"width":250,"height":60},
+		{"id":"ccc906caef714b79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas","x":-519,"y":320,"width":216,"height":243},
+		{"id":"addbdb021d914b52","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-519,"y":-460,"width":197,"height":135},
+		{"id":"30ee5bfe20da8e8d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-519,"y":-81,"width":159,"height":141}
+	],
+	"edges":[
+		{"id":"31dccbbceeae8af5","fromNode":"addbdb021d914b52","fromSide":"right","toNode":"c6b7674ba23d6bd0","toSide":"left"},
+		{"id":"6005c50e7757b745","fromNode":"30ee5bfe20da8e8d","fromSide":"right","toNode":"c6b7674ba23d6bd0","toSide":"left"},
+		{"id":"3c7b6d05294bfe07","fromNode":"ccc906caef714b79","fromSide":"right","toNode":"c6b7674ba23d6bd0","toSide":"left"}
+	]
+}

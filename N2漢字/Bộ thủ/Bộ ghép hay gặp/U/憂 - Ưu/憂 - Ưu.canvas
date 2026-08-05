@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"93e9ee8981a69d1d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"憂 - Ưu"},
+		{"id":"8814ba46dc875513","x":-600,"y":-260,"width":122,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"9b5e2e8e2d51146b","x":-645,"y":-57,"width":167,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/Tự　「自 」.canvas"},
+		{"id":"8833295b6814c214","x":-656,"y":140,"width":178,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"f7081cf81fddda22","x":-667,"y":400,"width":189,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"87abdab703ec94cb","x":-699,"y":720,"width":221,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
+	],
+	"edges":[
+		{"id":"f77f375853f2ab65","fromNode":"8814ba46dc875513","fromSide":"right","toNode":"93e9ee8981a69d1d","toSide":"left"},
+		{"id":"622bf9ded4560623","fromNode":"9b5e2e8e2d51146b","fromSide":"right","toNode":"93e9ee8981a69d1d","toSide":"left"},
+		{"id":"933da261f1752878","fromNode":"8833295b6814c214","fromSide":"right","toNode":"93e9ee8981a69d1d","toSide":"left"},
+		{"id":"780bd697527d52fc","fromNode":"f7081cf81fddda22","fromSide":"right","toNode":"93e9ee8981a69d1d","toSide":"left"},
+		{"id":"0f1d8b2c6374c41d","fromNode":"87abdab703ec94cb","fromSide":"right","toNode":"93e9ee8981a69d1d","toSide":"left"}
+	]
+}

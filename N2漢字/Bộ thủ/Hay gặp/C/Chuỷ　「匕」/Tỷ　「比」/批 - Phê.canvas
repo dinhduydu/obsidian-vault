@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"04cd4fb9938c4904","x":-95,"y":-16,"width":250,"height":60,"type":"text","text":"批 - Phê"},
+		{"id":"cefdf1261d203b16","x":-460,"y":-320,"width":177,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Tỷ　「比」/Tỷ　「比」.canvas"},
+		{"id":"5deb4810149d5e01","x":-456,"y":80,"width":170,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"5bd721d0f4a71bb6","fromNode":"cefdf1261d203b16","fromSide":"right","toNode":"04cd4fb9938c4904","toSide":"left"},
+		{"id":"638da90b274fd1c9","fromNode":"5deb4810149d5e01","fromSide":"right","toNode":"04cd4fb9938c4904","toSide":"left"}
+	]
+}

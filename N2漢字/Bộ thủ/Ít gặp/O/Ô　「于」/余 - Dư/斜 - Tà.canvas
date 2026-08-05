@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"08223134fce35c44","x":-107,"y":-27,"width":250,"height":60,"type":"text","text":"斜 - Tà"},
+		{"id":"449400f4969d3c36","x":-380,"y":-220,"width":100,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
+		{"id":"806c46c02596cd29","x":-420,"y":140,"width":140,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đẩu　「斗 」/Đẩu　「斗 」.canvas"}
+	],
+	"edges":[
+		{"id":"2e03f1da9b33484e","fromNode":"449400f4969d3c36","fromSide":"right","toNode":"08223134fce35c44","toSide":"left"},
+		{"id":"dea2db4ea96c0edf","fromNode":"806c46c02596cd29","fromSide":"right","toNode":"08223134fce35c44","toSide":"left"}
+	]
+}

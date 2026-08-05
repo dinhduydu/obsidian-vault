@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"07145fbcd62ba794","x":-96,"y":-39,"width":250,"height":60,"type":"text","text":"厄 - Ách"},
+		{"id":"4cd72f0bd0b1552b","x":-480,"y":80,"width":183,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"},
+		{"id":"5e804a33daaf9245","x":-507,"y":-360,"width":210,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"}
+	],
+	"edges":[
+		{"id":"87fe9371d29c198f","fromNode":"4cd72f0bd0b1552b","fromSide":"right","toNode":"07145fbcd62ba794","toSide":"left"},
+		{"id":"adcaa0131243c7ad","fromNode":"5e804a33daaf9245","fromSide":"right","toNode":"07145fbcd62ba794","toSide":"left"}
+	]
+}

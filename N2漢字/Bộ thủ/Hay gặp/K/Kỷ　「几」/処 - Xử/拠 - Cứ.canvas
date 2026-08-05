@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"463e06d4bcccd01c","x":-98,"y":-51,"width":250,"height":60,"type":"text","text":"拠 - Cứ"},
+		{"id":"1f6d2fc38f191a47","x":-420,"y":-300,"width":125,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/処 - Xử.canvas"},
+		{"id":"eb54c66979b83a33","x":-600,"y":-119,"width":136,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"32093f12637be6da","fromNode":"1f6d2fc38f191a47","fromSide":"right","toNode":"463e06d4bcccd01c","toSide":"left"},
+		{"id":"a6f86299b6653d1f","fromNode":"eb54c66979b83a33","fromSide":"right","toNode":"463e06d4bcccd01c","toSide":"left"}
+	]
+}

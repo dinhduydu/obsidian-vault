@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3212961f023fcd27","x":-104,"y":-38,"width":250,"height":60,"type":"text","text":"茶 - Trà"},
+		{"id":"97e5409306662a75","x":-400,"y":120,"width":160,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
+		{"id":"7fd5d68ad513d24b","x":-392,"y":-280,"width":152,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"fd1dbd63c5721910","fromNode":"97e5409306662a75","fromSide":"right","toNode":"3212961f023fcd27","toSide":"left"},
+		{"id":"32001941d6c7671b","fromNode":"7fd5d68ad513d24b","fromSide":"right","toNode":"3212961f023fcd27","toSide":"left"}
+	]
+}

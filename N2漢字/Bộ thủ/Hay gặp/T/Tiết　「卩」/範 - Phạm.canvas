@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"09dc6516824a2204","x":-159,"y":-30,"width":250,"height":60,"type":"text","text":"範 - Phạm"},
+		{"id":"a4b83840958ed8fa","x":-540,"y":200,"width":154,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"},
+		{"id":"05e23ab200c9c477","x":-594,"y":-360,"width":208,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"d1f8a05c6cb6a5aa","x":-800,"y":-103,"width":176,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
+	],
+	"edges":[
+		{"id":"480d240f58a6262d","fromNode":"a4b83840958ed8fa","fromSide":"right","toNode":"09dc6516824a2204","toSide":"left"},
+		{"id":"a7ce671d49c8db2e","fromNode":"05e23ab200c9c477","fromSide":"right","toNode":"09dc6516824a2204","toSide":"left"},
+		{"id":"ddae63636298917d","fromNode":"d1f8a05c6cb6a5aa","fromSide":"right","toNode":"09dc6516824a2204","toSide":"left"}
+	]
+}

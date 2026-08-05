@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0a10b61fd8aaa930","x":-73,"y":-43,"width":250,"height":60,"type":"text","text":"Chức　「戠」"},
+		{"id":"ec73d0a38e528bb2","x":-560,"y":-400,"width":163,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas"},
+		{"id":"68724a1a9ba10ff8","x":-573,"y":60,"width":176,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"2c92f2f2b23d9ddd","x":-685,"y":-103,"width":250,"height":60,"type":"text","text":"đánh dấu, ghi nhận, phân biệt."}
+	],
+	"edges":[
+		{"id":"df7efc417d9212f1","fromNode":"ec73d0a38e528bb2","fromSide":"right","toNode":"0a10b61fd8aaa930","toSide":"left"},
+		{"id":"2a77d48f841c8d87","fromNode":"68724a1a9ba10ff8","fromSide":"right","toNode":"0a10b61fd8aaa930","toSide":"left","label":"công cụ để khắc hoặc đánh dấu."},
+		{"id":"9070fb2f0a2df984","fromNode":"2c92f2f2b23d9ddd","fromSide":"right","toNode":"0a10b61fd8aaa930","toSide":"left"}
+	]
+}

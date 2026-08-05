@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d63feb0205479643","x":-131,"y":-25,"width":250,"height":60,"type":"text","text":"漏 - Lậu"},
+		{"id":"1da787826d4f10d5","x":-500,"y":120,"width":210,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"b91090d85b2385fa","x":-485,"y":-320,"width":180,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"e3536322e2416adb","x":-780,"y":-103,"width":192,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"2f4dbb243a47ffd4","fromNode":"1da787826d4f10d5","fromSide":"right","toNode":"d63feb0205479643","toSide":"left"},
+		{"id":"f83dec8a3e43314c","fromNode":"b91090d85b2385fa","fromSide":"right","toNode":"d63feb0205479643","toSide":"left"},
+		{"id":"082a6827bbf33ceb","fromNode":"e3536322e2416adb","fromSide":"right","toNode":"d63feb0205479643","toSide":"left"}
+	]
+}

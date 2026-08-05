@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a87e37168d605c29","type":"text","text":"謫 - Trích","x":-148,"y":-1,"width":250,"height":60},
+		{"id":"1f3aaf1a2f58482e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-500,"y":-280,"width":123,"height":162},
+		{"id":"a7fc3d7f28ca87b7","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/Đích　「啇」.canvas","x":-617,"y":140,"width":240,"height":204}
+	],
+	"edges":[
+		{"id":"803f751cbb4509f7","fromNode":"1f3aaf1a2f58482e","fromSide":"right","toNode":"a87e37168d605c29","toSide":"left"},
+		{"id":"97f9f83d6a72a9e5","fromNode":"a7fc3d7f28ca87b7","fromSide":"right","toNode":"a87e37168d605c29","toSide":"left"}
+	]
+}

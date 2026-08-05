@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4aeff4f2900caca2","x":-123,"y":-66,"width":250,"height":60,"type":"text","text":"帥 - Suý"},
+		{"id":"af095905b587b10f","x":-500,"y":-280,"width":195,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas"},
+		{"id":"bf2a133e995473b5","x":-576,"y":-6,"width":271,"height":300,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+	],
+	"edges":[
+		{"id":"3b9a6b377cf9e3ac","fromNode":"af095905b587b10f","fromSide":"right","toNode":"4aeff4f2900caca2","toSide":"left"},
+		{"id":"8845a5b54b3bb202","fromNode":"bf2a133e995473b5","fromSide":"right","toNode":"4aeff4f2900caca2","toSide":"left"}
+	]
+}

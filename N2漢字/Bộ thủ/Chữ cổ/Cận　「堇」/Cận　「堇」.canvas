@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9a9ea4e42a7b573b","x":-102,"y":-58,"width":250,"height":60,"type":"text","text":"Cận　「堇」"},
+		{"id":"c9d4cbf03be2ffc3","x":-800,"y":-240,"width":360,"height":80,"type":"text","text":"đất sét màu vàng, hoặc tên một loài cây (tùy ngữ cảnh và văn bản cổ)."}
+	],
+	"edges":[
+		{"id":"ca799ed01c0976ed","fromNode":"c9d4cbf03be2ffc3","fromSide":"right","toNode":"9a9ea4e42a7b573b","toSide":"left"}
+	]
+}

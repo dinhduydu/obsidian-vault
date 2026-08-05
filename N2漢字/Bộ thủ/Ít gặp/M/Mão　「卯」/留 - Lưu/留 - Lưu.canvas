@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"538d01f48f5b33c9","x":-117,"y":-59,"width":250,"height":60,"type":"text","text":"留 - Lưu"},
+		{"id":"05dc2f9b12d15131","x":-480,"y":-360,"width":175,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mão　「卯」/Mão　「卯」.canvas"},
+		{"id":"b78db1273000c957","x":-480,"y":100,"width":180,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+	],
+	"edges":[
+		{"id":"ef1f25e4a5026971","fromNode":"05dc2f9b12d15131","fromSide":"right","toNode":"538d01f48f5b33c9","toSide":"left"},
+		{"id":"72901b3d205d9bb2","fromNode":"b78db1273000c957","fromSide":"right","toNode":"538d01f48f5b33c9","toSide":"left"}
+	]
+}

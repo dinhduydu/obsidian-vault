@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bec53e42ec339d66","type":"text","text":"充 - Sung","x":-108,"y":-15,"width":250,"height":60},
+		{"id":"6d1732861a826bcb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas","x":-560,"y":-320,"width":184,"height":181},
+		{"id":"d3ac739c39384364","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas","x":-601,"y":-51,"width":225,"height":133},
+		{"id":"0f4d01ff9e8b1679","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas","x":-591,"y":240,"width":205,"height":191},
+		{"id":"baa772874331fb94","x":400,"y":-320,"width":269,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/S/充 - Sung/銃 - Súng.canvas"}
+	],
+	"edges":[
+		{"id":"95316de8c544ea64","fromNode":"6d1732861a826bcb","fromSide":"right","toNode":"bec53e42ec339d66","toSide":"left"},
+		{"id":"62e8e227e830448b","fromNode":"d3ac739c39384364","fromSide":"right","toNode":"bec53e42ec339d66","toSide":"left"},
+		{"id":"ce5387ddb7fb71f4","fromNode":"0f4d01ff9e8b1679","fromSide":"right","toNode":"bec53e42ec339d66","toSide":"left"},
+		{"id":"ce905e1da1b88df2","fromNode":"bec53e42ec339d66","fromSide":"right","toNode":"baa772874331fb94","toSide":"left"}
+	]
+}

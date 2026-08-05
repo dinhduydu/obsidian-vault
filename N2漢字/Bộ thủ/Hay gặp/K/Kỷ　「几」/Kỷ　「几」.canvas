@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"e210c976f6230ce6","x":2,"y":-13,"width":250,"height":60,"type":"text","text":"Kỷ　「几」"},
-		{"id":"9cf84bf9bf16fd14","x":360,"y":-157,"width":173,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"},
-		{"id":"c2f090f5708f5078","x":116,"y":-280,"width":136,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+		{"id":"9cf84bf9bf16fd14","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas","x":360,"y":-157,"width":173,"height":174},
+		{"id":"c2f090f5708f5078","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":116,"y":-280,"width":136,"height":164},
+		{"id":"75e15ad6f65602cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/机 - Kỉ.canvas","x":405,"y":200,"width":256,"height":228},
+		{"id":"8ab2e1dd437596dd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":88,"y":428,"width":192,"height":182},
+		{"id":"e210c976f6230ce6","type":"text","text":"Kỷ　「几」","x":-37,"y":80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"824229c1d26e6e4a","fromNode":"e210c976f6230ce6","fromSide":"right","toNode":"9cf84bf9bf16fd14","toSide":"left"},
-		{"id":"5154193d752d7ce2","fromNode":"c2f090f5708f5078","fromSide":"right","toNode":"9cf84bf9bf16fd14","toSide":"left"}
+		{"id":"5154193d752d7ce2","fromNode":"c2f090f5708f5078","fromSide":"right","toNode":"9cf84bf9bf16fd14","toSide":"left"},
+		{"id":"9555f68d0cf34d84","fromNode":"e210c976f6230ce6","fromSide":"right","toNode":"75e15ad6f65602cc","toSide":"left"},
+		{"id":"4149b97d055c0b78","fromNode":"8ab2e1dd437596dd","fromSide":"right","toNode":"75e15ad6f65602cc","toSide":"left"}
 	]
 }

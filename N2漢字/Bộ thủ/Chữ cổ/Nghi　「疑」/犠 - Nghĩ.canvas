@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3461948d99c2e9b0","x":-380,"y":-260,"width":169,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nghi　「疑」/Nghi　「疑」.canvas"},
+		{"id":"f61d4b80b2d754ef","x":-40,"y":-43,"width":250,"height":60,"type":"text","text":"犠 - Nghĩ"},
+		{"id":"4eaca2d05179bee8","x":-640,"y":-100,"width":134,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas"}
+	],
+	"edges":[
+		{"id":"ed239822ebe06a23","fromNode":"3461948d99c2e9b0","fromSide":"right","toNode":"f61d4b80b2d754ef","toSide":"left"},
+		{"id":"fb3c6404d028b035","fromNode":"4eaca2d05179bee8","fromSide":"right","toNode":"f61d4b80b2d754ef","toSide":"left"}
+	]
+}

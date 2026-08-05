@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"01e23e12ffaaf3aa","x":-112,"y":-23,"width":250,"height":60,"type":"text","text":"錦 - Cẩm"},
+		{"id":"9db94c90fb3a0b78","x":-460,"y":180,"width":168,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"12b072bccae2c4d4","x":-457,"y":-260,"width":165,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/帛 - Bạch/帛 - Bạch.canvas"}
+	],
+	"edges":[
+		{"id":"16e3862e70d3fcb3","fromNode":"12b072bccae2c4d4","fromSide":"right","toNode":"01e23e12ffaaf3aa","toSide":"left"},
+		{"id":"502f33d6604146c9","fromNode":"9db94c90fb3a0b78","fromSide":"right","toNode":"01e23e12ffaaf3aa","toSide":"left"}
+	]
+}

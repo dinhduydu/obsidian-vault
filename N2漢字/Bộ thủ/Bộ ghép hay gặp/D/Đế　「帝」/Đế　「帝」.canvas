@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6ae2b6bd6c5bceb8","type":"text","text":"Đế　「帝」","x":-119,"y":-61,"width":250,"height":60},
+		{"id":"6d2205a8b714514c","x":-600,"y":140,"width":190,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"05a5d3588d759f41","x":-660,"y":-97,"width":218,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"700ef66d7200ac37","x":-600,"y":-460,"width":163,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
+	],
+	"edges":[
+		{"id":"9dd4fece3dcec82e","fromNode":"6d2205a8b714514c","fromSide":"right","toNode":"6ae2b6bd6c5bceb8","toSide":"left"},
+		{"id":"4f4b2e81ce9c7034","fromNode":"05a5d3588d759f41","fromSide":"right","toNode":"6ae2b6bd6c5bceb8","toSide":"left"},
+		{"id":"7762a3487fcc788f","fromNode":"700ef66d7200ac37","fromSide":"right","toNode":"6ae2b6bd6c5bceb8","toSide":"left"}
+	]
+}

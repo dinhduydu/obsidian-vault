@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"c511a6ae15240e98","type":"text","text":"Đích　「啇」","x":-132,"y":7,"width":250,"height":60},
+		{"id":"7b4807cb34c9b3ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-561,"y":-371,"width":138,"height":111},
+		{"id":"cdec1cdff20c7c44","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas","x":-620,"y":-164,"width":197,"height":171},
+		{"id":"2b56bb83a028ddd6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/Cổ　「古」.canvas","x":-680,"y":180,"width":187,"height":178},
+		{"id":"d0a67af4a140adf8","type":"text","text":"chia tách, phân biệt, xác định.","x":360,"y":1,"width":268,"height":72},
+		{"id":"ac7a9491a89e4226","type":"text","text":"giọt nước tách ra.","x":760,"y":-260,"width":250,"height":60},
+		{"id":"928fd6ed4bb64dc9","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/滴 - Trích.canvas","x":1180,"y":-520,"width":282,"height":217},
+		{"id":"38dc609f617b7b59","type":"text","text":"vợ chính, dòng chính (phân biệt với thứ).","x":760,"y":-780,"width":250,"height":60},
+		{"id":"78147334bf214166","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/嫡 - Đích.canvas","x":1200,"y":-1200,"width":351,"height":283},
+		{"id":"0951af6a81f0bf5c","type":"text","text":"đày đi nơi khác (tách khỏi nơi ở).","x":760,"y":150,"width":250,"height":60},
+		{"id":"6f5d10148e489401","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/謫 - Trích.canvas","x":1240,"y":-47,"width":304,"height":197},
+		{"id":"c298f046f0df347a","type":"text","text":"đi đến đúng nơi, phù hợp.","x":760,"y":500,"width":250,"height":60},
+		{"id":"4a0ad959291f1237","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/適 - Thích.canvas","x":1266,"y":385,"width":252,"height":231},
+		{"id":"97c543747b2ab251","x":768,"y":904,"width":250,"height":60,"type":"text","text":"hái tỉa"},
+		{"id":"8b956845388c6f98","x":1250,"y":732,"width":268,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/摘 - Trích.canvas"}
+	],
+	"edges":[
+		{"id":"36b6c1a257b166d4","fromNode":"7b4807cb34c9b3ef","fromSide":"right","toNode":"c511a6ae15240e98","toSide":"left"},
+		{"id":"97ec816c1b8fb3ed","fromNode":"cdec1cdff20c7c44","fromSide":"right","toNode":"c511a6ae15240e98","toSide":"left"},
+		{"id":"00745ea361f5aeab","fromNode":"2b56bb83a028ddd6","fromSide":"right","toNode":"c511a6ae15240e98","toSide":"left"},
+		{"id":"000d804ffb2b5622","fromNode":"c511a6ae15240e98","fromSide":"right","toNode":"d0a67af4a140adf8","toSide":"left"},
+		{"id":"b9fa113c2da28e9a","fromNode":"d0a67af4a140adf8","fromSide":"right","toNode":"ac7a9491a89e4226","toSide":"left"},
+		{"id":"6156bb95d4d278f0","fromNode":"ac7a9491a89e4226","fromSide":"right","toNode":"928fd6ed4bb64dc9","toSide":"left"},
+		{"id":"ba1503a2bd6f4e43","fromNode":"d0a67af4a140adf8","fromSide":"right","toNode":"38dc609f617b7b59","toSide":"left"},
+		{"id":"89d097fd5540e9fb","fromNode":"38dc609f617b7b59","fromSide":"right","toNode":"78147334bf214166","toSide":"left"},
+		{"id":"f91f6b09556a1dde","fromNode":"d0a67af4a140adf8","fromSide":"right","toNode":"0951af6a81f0bf5c","toSide":"left"},
+		{"id":"1abc8c456024c817","fromNode":"0951af6a81f0bf5c","fromSide":"right","toNode":"6f5d10148e489401","toSide":"left"},
+		{"id":"19d752a5908f9bc9","fromNode":"d0a67af4a140adf8","fromSide":"right","toNode":"c298f046f0df347a","toSide":"left"},
+		{"id":"166abd811c03111e","fromNode":"c298f046f0df347a","fromSide":"right","toNode":"4a0ad959291f1237","toSide":"left"},
+		{"id":"6437e1082e4cc192","fromNode":"d0a67af4a140adf8","fromSide":"right","toNode":"97c543747b2ab251","toSide":"left"},
+		{"id":"6d6f80f347baf965","fromNode":"97c543747b2ab251","fromSide":"right","toNode":"8b956845388c6f98","toSide":"left"}
+	]
+}

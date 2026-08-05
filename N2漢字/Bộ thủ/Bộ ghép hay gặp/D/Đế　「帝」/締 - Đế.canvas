@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3376e02b0daaed55","type":"text","text":"締 - Đế","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2e29755bf70bc6b6","x":-499,"y":-280,"width":227,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đế　「帝」/Đế　「帝」.canvas"},
+		{"id":"3f9ed4857b8f9dab","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-760,"y":-43,"width":108,"height":87}
+	],
+	"edges":[
+		{"id":"7efd910a5fcee2d0","fromNode":"3f9ed4857b8f9dab","fromSide":"right","toNode":"3376e02b0daaed55","toSide":"left","label":"ràng buộc"},
+		{"id":"590442b497d43611","fromNode":"2e29755bf70bc6b6","fromSide":"right","toNode":"3376e02b0daaed55","toSide":"left"}
+	]
+}

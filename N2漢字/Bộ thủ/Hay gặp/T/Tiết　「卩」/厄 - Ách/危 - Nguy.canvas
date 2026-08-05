@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dc3eedcb41ada5c7","x":-140,"y":-18,"width":250,"height":60,"type":"text","text":"危 - Nguy"},
+		{"id":"7b66254e94b99897","x":-580,"y":100,"width":205,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/厄 - Ách/厄 - Ách.canvas"},
+		{"id":"e42470f561706c94","x":-619,"y":-320,"width":244,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/Kép　「𠂊」.canvas"}
+	],
+	"edges":[
+		{"id":"610deb9d330dff0e","fromNode":"7b66254e94b99897","fromSide":"right","toNode":"dc3eedcb41ada5c7","toSide":"left"},
+		{"id":"445c06368d223869","fromNode":"e42470f561706c94","fromSide":"right","toNode":"dc3eedcb41ada5c7","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15cd99ca5e59f8a9","x":-123,"y":-41,"width":250,"height":60,"type":"text","text":"抗 - Kháng"},
+		{"id":"34f2d8788167ced5","x":-480,"y":-380,"width":166,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kháng　「亢」/Kháng　「亢」.canvas"},
+		{"id":"482826e40845d138","x":-485,"y":140,"width":171,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"c0de23d5e74a1876","fromNode":"34f2d8788167ced5","fromSide":"right","toNode":"15cd99ca5e59f8a9","toSide":"left"},
+		{"id":"4f1d7aedbc941266","fromNode":"482826e40845d138","fromSide":"right","toNode":"15cd99ca5e59f8a9","toSide":"left"}
+	]
+}

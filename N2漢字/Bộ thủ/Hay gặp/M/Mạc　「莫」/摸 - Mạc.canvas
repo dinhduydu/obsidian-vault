@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"80c822adbc245bd4","x":-113,"y":-22,"width":250,"height":60,"type":"text","text":"摸 - Mạc"},
+		{"id":"bd01a38e2f2d65a7","x":-460,"y":200,"width":169,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"},
+		{"id":"2bbb57d69c0185b5","x":-449,"y":-260,"width":158,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"00eb45773fa99a45","fromNode":"bd01a38e2f2d65a7","fromSide":"right","toNode":"80c822adbc245bd4","toSide":"left"},
+		{"id":"1553309929fefbb0","fromNode":"2bbb57d69c0185b5","fromSide":"right","toNode":"80c822adbc245bd4","toSide":"left"}
+	]
+}

@@ -4,8 +4,8 @@
 		{"id":"70bbf7ea635f38af","type":"text","text":"mặt trời lặn","x":156,"y":-143,"width":250,"height":60},
 		{"id":"b4b020ca2061f484","type":"text","text":"暮（く・らす / ぼ）: sống, chiều tối","x":327,"y":-65,"width":316,"height":50},
 		{"id":"a3cea8208d9ae52b","type":"text","text":"Ví dụ: 暮らす - sinh sống","x":287,"y":55,"width":265,"height":88},
-		{"id":"758e20f1e7f313b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-643,"y":-35,"width":137,"height":121},
-		{"id":"cfa860a5deb415cc","x":-540,"y":-283,"width":192,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"}
+		{"id":"cfa860a5deb415cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas","x":-698,"y":-320,"width":192,"height":140},
+		{"id":"758e20f1e7f313b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-643,"y":83,"width":137,"height":121}
 	],
 	"edges":[
 		{"id":"b50e5dee9f79e161","fromNode":"d414b3d7c8e2bc12","fromSide":"right","toNode":"b4b020ca2061f484","toSide":"left","color":"4"},

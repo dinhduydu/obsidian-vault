@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d3bd53ae7799054e","x":-123,"y":-31,"width":250,"height":60,"type":"text","text":"払 - Phất"},
+		{"id":"7115077dc19d576b","x":-420,"y":220,"width":151,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/Khư　「厶」.canvas"},
+		{"id":"0df746b788ed229c","x":-463,"y":-260,"width":194,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"0a79bab8c9d30a66","fromNode":"7115077dc19d576b","fromSide":"right","toNode":"d3bd53ae7799054e","toSide":"left"},
+		{"id":"8edc95d9ab545c9f","fromNode":"0df746b788ed229c","fromSide":"right","toNode":"d3bd53ae7799054e","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4e8f8d74d1aa8e63","x":-136,"y":-61,"width":250,"height":60,"type":"text","text":"凝 - Ngưng"},
+		{"id":"b2a27902016f8f8f","x":-620,"y":-300,"width":135,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas"},
+		{"id":"9155bf117ab8cba5","x":-552,"y":100,"width":245,"height":220,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nghi　「疑」/Nghi　「疑」.canvas"}
+	],
+	"edges":[
+		{"id":"117368548880915a","fromNode":"b2a27902016f8f8f","fromSide":"right","toNode":"4e8f8d74d1aa8e63","toSide":"left"},
+		{"id":"1e828db559ef5964","fromNode":"9155bf117ab8cba5","fromSide":"right","toNode":"4e8f8d74d1aa8e63","toSide":"left"}
+	]
+}

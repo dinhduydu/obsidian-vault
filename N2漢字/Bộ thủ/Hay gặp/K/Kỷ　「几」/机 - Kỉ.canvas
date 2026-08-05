@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"95ff85c9e82bbd78","type":"text","text":"机 - Kỉ","x":-107,"y":-15,"width":250,"height":60},
+		{"id":"f3c1994212ba9a38","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/Kỷ　「几」.canvas","x":-500,"y":-300,"width":147,"height":125},
+		{"id":"7ca8b63f0d16d027","x":-500,"y":100,"width":145,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"aff3d475ec880375","fromNode":"f3c1994212ba9a38","fromSide":"right","toNode":"95ff85c9e82bbd78","toSide":"left"},
+		{"id":"a3c1ec8ceee93061","fromNode":"7ca8b63f0d16d027","fromSide":"right","toNode":"95ff85c9e82bbd78","toSide":"left"}
+	]
+}

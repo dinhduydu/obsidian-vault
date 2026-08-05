@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"528d0cf043617018","x":-104,"y":-22,"width":250,"height":60,"type":"text","text":"摘 - Trích"},
+		{"id":"4deac2150d22b294","x":-580,"y":-280,"width":203,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"6cc76dfa88fc409f","x":-639,"y":60,"width":262,"height":212,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/Đích　「啇」.canvas"}
+	],
+	"edges":[
+		{"id":"40404d620bc3548e","fromNode":"4deac2150d22b294","fromSide":"right","toNode":"528d0cf043617018","toSide":"left"},
+		{"id":"c27018c114637692","fromNode":"6cc76dfa88fc409f","fromSide":"right","toNode":"528d0cf043617018","toSide":"left"}
+	]
+}

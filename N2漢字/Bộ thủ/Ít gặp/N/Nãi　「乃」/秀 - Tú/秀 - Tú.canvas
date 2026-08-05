@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3d676784a299a059","type":"text","text":"秀 - Tú","x":-54,"y":-63,"width":250,"height":60},
+		{"id":"92d781cab57507c8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/Nãi　「乃」.canvas","x":-480,"y":120,"width":192,"height":128},
+		{"id":"f38e44018b4495d1","x":-475,"y":-340,"width":187,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"5d88d00fb1dae871","fromNode":"92d781cab57507c8","fromSide":"right","toNode":"3d676784a299a059","toSide":"left"},
+		{"id":"850c7e2ed22ac76e","fromNode":"f38e44018b4495d1","fromSide":"right","toNode":"3d676784a299a059","toSide":"left"}
+	]
+}

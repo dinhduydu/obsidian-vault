@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"eb52a9ada443bbfb","type":"text","text":"此 - Thử","x":-88,"y":-36,"width":250,"height":60},
+		{"id":"c387d1e1765ade9e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas","x":-500,"y":180,"width":163,"height":160}
+	],
+	"edges":[
+		{"id":"68af23f447751bde","fromNode":"c387d1e1765ade9e","fromSide":"right","toNode":"eb52a9ada443bbfb","toSide":"left"}
+	]
+}

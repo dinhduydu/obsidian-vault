@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ff54cee837f1218","x":-129,"y":-43,"width":250,"height":60,"type":"text","text":"謹 - Cẩn"},
+		{"id":"c6f7693912a0380d","x":-520,"y":220,"width":189,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas"},
+		{"id":"885bb4e91a4b1205","x":-507,"y":-320,"width":163,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"a3580eb91aa0ae1a","fromNode":"c6f7693912a0380d","fromSide":"right","toNode":"2ff54cee837f1218","toSide":"left"},
+		{"id":"33e8f0a258044ee0","fromNode":"885bb4e91a4b1205","fromSide":"right","toNode":"2ff54cee837f1218","toSide":"left"}
+	]
+}

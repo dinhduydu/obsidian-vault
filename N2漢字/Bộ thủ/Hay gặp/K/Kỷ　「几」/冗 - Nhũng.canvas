@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b40ab59427ae7d4b","x":-107,"y":-41,"width":250,"height":60,"type":"text","text":"冗 - Nhũng"},
+		{"id":"09a9a6320b93bcba","x":-440,"y":120,"width":141,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/Kỷ　「几」.canvas"},
+		{"id":"03314d196be40e1d","x":-451,"y":-260,"width":152,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"d14a153aaf693d21","fromNode":"09a9a6320b93bcba","fromSide":"right","toNode":"b40ab59427ae7d4b","toSide":"left"},
+		{"id":"a510602394bb3a23","fromNode":"03314d196be40e1d","fromSide":"right","toNode":"b40ab59427ae7d4b","toSide":"left"}
+	]
+}

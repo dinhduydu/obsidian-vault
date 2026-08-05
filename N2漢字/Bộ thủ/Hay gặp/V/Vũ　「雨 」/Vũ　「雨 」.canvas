@@ -1,13 +1,20 @@
 {
 	"nodes":[
-		{"id":"8b359d1debb8ef47","type":"text","text":"Vũ　「雨 」","x":-116,"y":-4,"width":250,"height":60},
 		{"id":"b7254b080725241b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/雰 - Phân.canvas","x":280,"y":-160,"width":181,"height":122},
 		{"id":"8fcc55aefe4b1ddd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":-21,"y":-300,"width":155,"height":113},
 		{"id":"a091d4c1f5b91f7f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/雲 - Vân.canvas","x":280,"y":120,"width":186,"height":136},
 		{"id":"63c1a3e8962fb384","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/Vân　「云」.canvas","x":9,"y":280,"width":154,"height":141},
 		{"id":"840c54091dd87859","type":"text","text":"ám chỉ sự rơi xuống","x":-511,"y":-121,"width":250,"height":60},
-		{"id":"d2a155f7c2616ecd","x":600,"y":157,"width":193,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"},
-		{"id":"173187f34959ad7a","x":920,"y":-44,"width":151,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霊 - Linh.canvas"}
+		{"id":"d2a155f7c2616ecd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas","x":600,"y":157,"width":193,"height":194},
+		{"id":"173187f34959ad7a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霊 - Linh.canvas","x":920,"y":-44,"width":151,"height":141},
+		{"id":"8b359d1debb8ef47","type":"text","text":"Vũ　「雨 」","x":-116,"y":-4,"width":250,"height":60},
+		{"id":"1260e79275448564","type":"text","text":"Vũ　「雨 」","x":-120,"y":-1360,"width":250,"height":60},
+		{"id":"a6d7931539c7b6ed","x":353,"y":-1780,"width":301,"height":213,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霧 - Vụ.canvas"},
+		{"id":"84723042f7dd8052","x":367,"y":-1160,"width":287,"height":219,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/需 - Nhu.canvas"},
+		{"id":"03572e7d31228d89","x":1040,"y":-1446,"width":245,"height":232,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/雪 - Tuyết.canvas"},
+		{"id":"6adfc53ba59feb37","x":1044,"y":-1020,"width":241,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/震 - Chấn.canvas"},
+		{"id":"346274eb1ee8e255","x":1045,"y":-1852,"width":236,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霜 - Sương.canvas"},
+		{"id":"dc8a58751fd2a1a7","x":920,"y":-340,"width":192,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/零 - Linh.canvas"}
 	],
 	"edges":[
 		{"id":"635d120c36dc268c","fromNode":"8b359d1debb8ef47","fromSide":"right","toNode":"b7254b080725241b","toSide":"left"},
@@ -16,6 +23,12 @@
 		{"id":"b2a433828d4e9864","fromNode":"63c1a3e8962fb384","fromSide":"right","toNode":"a091d4c1f5b91f7f","toSide":"left"},
 		{"id":"e4a25ec66f9f06fd","fromNode":"840c54091dd87859","fromSide":"right","toNode":"8b359d1debb8ef47","toSide":"left"},
 		{"id":"5ccaab2cb8dafc97","fromNode":"8b359d1debb8ef47","fromSide":"right","toNode":"173187f34959ad7a","toSide":"left"},
-		{"id":"59b30d9543738f8a","fromNode":"d2a155f7c2616ecd","fromSide":"right","toNode":"173187f34959ad7a","toSide":"left"}
+		{"id":"59b30d9543738f8a","fromNode":"d2a155f7c2616ecd","fromSide":"right","toNode":"173187f34959ad7a","toSide":"left"},
+		{"id":"a171dba1c740f085","fromNode":"1260e79275448564","fromSide":"right","toNode":"a6d7931539c7b6ed","toSide":"left"},
+		{"id":"1e7cf94b0803a623","fromNode":"1260e79275448564","fromSide":"right","toNode":"84723042f7dd8052","toSide":"left"},
+		{"id":"60cc5a829800248c","fromNode":"1260e79275448564","fromSide":"right","toNode":"03572e7d31228d89","toSide":"left"},
+		{"id":"9d5951a9593e8d95","fromNode":"1260e79275448564","fromSide":"right","toNode":"6adfc53ba59feb37","toSide":"left"},
+		{"id":"2c6604104956fb4f","fromNode":"1260e79275448564","fromSide":"right","toNode":"346274eb1ee8e255","toSide":"left"},
+		{"id":"c468d6aa918c888c","fromNode":"8b359d1debb8ef47","fromSide":"right","toNode":"dc8a58751fd2a1a7","toSide":"left"}
 	]
 }

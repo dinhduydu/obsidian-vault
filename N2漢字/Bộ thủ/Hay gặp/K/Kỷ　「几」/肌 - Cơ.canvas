@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e93b11624ebe9004","x":-63,"y":-23,"width":250,"height":60,"type":"text","text":"肌 - Cơ"},
+		{"id":"b8cd28069df0fc17","x":-480,"y":120,"width":154,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/Kỷ　「几」.canvas"},
+		{"id":"a3ad26d868144892","x":-477,"y":-280,"width":151,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"cb057a355d14dcf3","fromNode":"b8cd28069df0fc17","fromSide":"right","toNode":"e93b11624ebe9004","toSide":"left"},
+		{"id":"c98501d56d0cab10","fromNode":"a3ad26d868144892","fromSide":"right","toNode":"e93b11624ebe9004","toSide":"left"}
+	]
+}

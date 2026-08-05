@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"50e6c4339f7e7975","type":"text","text":"宇 - Vũ","x":-152,"y":-45,"width":250,"height":60},
+		{"id":"6c7aaa4f5f0fb50b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/Ô　「于」.canvas","x":-620,"y":140,"width":160,"height":154},
+		{"id":"34f83d4d7dae5bea","x":-632,"y":-300,"width":172,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"ef27a1a6615d5e13","fromNode":"6c7aaa4f5f0fb50b","fromSide":"right","toNode":"50e6c4339f7e7975","toSide":"left"},
+		{"id":"13c22a335627a4ce","fromNode":"34f83d4d7dae5bea","fromSide":"right","toNode":"50e6c4339f7e7975","toSide":"left"}
+	]
+}

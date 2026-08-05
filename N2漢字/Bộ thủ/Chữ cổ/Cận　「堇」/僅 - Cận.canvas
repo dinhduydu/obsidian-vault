@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8db9b3181ad4722c","type":"text","text":"僅 - Cận","x":-90,"y":-40,"width":250,"height":60},
+		{"id":"3e5a0c1ec473ea66","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas","x":-400,"y":100,"width":148,"height":162},
+		{"id":"36e2b2a47654eabc","x":-576,"y":-196,"width":250,"height":60,"type":"text","text":"một lượng nhỏ"},
+		{"id":"e90759069cda819f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-1090,"y":-440,"width":148,"height":133}
+	],
+	"edges":[
+		{"id":"302a0d34b829cf48","fromNode":"3e5a0c1ec473ea66","fromSide":"right","toNode":"8db9b3181ad4722c","toSide":"left"},
+		{"id":"c5b94ce8a554f0d1","fromNode":"e90759069cda819f","fromSide":"right","toNode":"36e2b2a47654eabc","toSide":"left","label":"con người nhỏ bé"},
+		{"id":"fe00d6e733dc6019","fromNode":"36e2b2a47654eabc","fromSide":"right","toNode":"8db9b3181ad4722c","toSide":"left"}
+	]
+}

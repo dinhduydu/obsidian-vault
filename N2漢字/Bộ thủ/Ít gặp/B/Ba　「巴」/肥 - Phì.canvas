@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"98ba7b5deb1646b2","x":-123,"y":-36,"width":250,"height":60,"type":"text","text":"肥 - Phì"},
+		{"id":"612ab00549ccd7aa","x":-500,"y":-340,"width":160,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Ba　「巴」/Ba　「巴」.canvas"},
+		{"id":"bfe00d108d6ee6a6","x":-516,"y":60,"width":176,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"3b977160ffa97f67","fromNode":"612ab00549ccd7aa","fromSide":"right","toNode":"98ba7b5deb1646b2","toSide":"left"},
+		{"id":"efbaf01d4854d23e","fromNode":"bfe00d108d6ee6a6","fromSide":"right","toNode":"98ba7b5deb1646b2","toSide":"left"}
+	]
+}

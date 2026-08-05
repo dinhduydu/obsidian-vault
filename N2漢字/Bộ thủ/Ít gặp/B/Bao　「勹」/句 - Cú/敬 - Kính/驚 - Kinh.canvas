@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5d015e994a2b3752","type":"text","text":"驚 - Kinh","x":-124,"y":-16,"width":250,"height":60},
+		{"id":"05a8e6b747092c9e","x":-600,"y":-260,"width":233,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/敬 - Kính/敬 - Kính.canvas"},
+		{"id":"deb7ac66929233c7","x":-625,"y":100,"width":258,"height":250,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"}
+	],
+	"edges":[
+		{"id":"88304b7922f67d6a","fromNode":"05a8e6b747092c9e","fromSide":"right","toNode":"5d015e994a2b3752","toSide":"left"},
+		{"id":"4240b622c614093c","fromNode":"deb7ac66929233c7","fromSide":"right","toNode":"5d015e994a2b3752","toSide":"left"}
+	]
+}

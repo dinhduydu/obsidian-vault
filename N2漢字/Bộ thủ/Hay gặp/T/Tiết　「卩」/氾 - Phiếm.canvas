@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9ecbd85587b6d383","x":-154,"y":-56,"width":250,"height":60,"type":"text","text":"氾 - Phiếm"},
+		{"id":"60e07011bfc8dd21","x":-480,"y":80,"width":187,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"},
+		{"id":"18574ae113d5deba","x":-483,"y":-380,"width":190,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b040910afd494acb","fromNode":"60e07011bfc8dd21","fromSide":"right","toNode":"9ecbd85587b6d383","toSide":"left"},
+		{"id":"1cf6105122caa8e2","fromNode":"18574ae113d5deba","fromSide":"right","toNode":"9ecbd85587b6d383","toSide":"left"}
+	]
+}

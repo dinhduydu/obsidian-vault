@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"aa897bd1673461b6","x":-128,"y":-32,"width":250,"height":60,"type":"text","text":"絹 - Quyên"},
+		{"id":"91e8ab824b624cdf","x":-660,"y":-62,"width":137,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"00776eb6098f44c2","x":-420,"y":-320,"width":150,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"fce15dbe370082a5","x":-420,"y":200,"width":153,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"}
+	],
+	"edges":[
+		{"id":"ec6869aa19551a5b","fromNode":"91e8ab824b624cdf","fromSide":"right","toNode":"aa897bd1673461b6","toSide":"left"},
+		{"id":"7a7052351fb9fa17","fromNode":"00776eb6098f44c2","fromSide":"right","toNode":"aa897bd1673461b6","toSide":"left"},
+		{"id":"3fb8ea1f20a4eafa","fromNode":"fce15dbe370082a5","fromSide":"right","toNode":"aa897bd1673461b6","toSide":"left"}
+	]
+}

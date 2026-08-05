@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86d98c5fd346541a","x":-129,"y":-35,"width":250,"height":60,"type":"text","text":"貿 - Mão"},
+		{"id":"8431a1dd02f04297","x":-520,"y":-360,"width":191,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mão　「卯」/Mão　「卯」.canvas"},
+		{"id":"1150ea5f300df76c","x":-520,"y":180,"width":174,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"558a47801b293108","fromNode":"8431a1dd02f04297","fromSide":"right","toNode":"86d98c5fd346541a","toSide":"left"},
+		{"id":"7a007bc1dba20782","fromNode":"1150ea5f300df76c","fromSide":"right","toNode":"86d98c5fd346541a","toSide":"left"}
+	]
+}

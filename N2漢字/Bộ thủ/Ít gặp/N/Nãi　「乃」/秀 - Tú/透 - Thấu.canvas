@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fa41b2c201d55f65","x":-107,"y":-10,"width":250,"height":60,"type":"text","text":"透 - Thấu"},
+		{"id":"a073d3a568d0314d","x":-500,"y":-10,"width":250,"height":60,"type":"text","text":"rõ ràng, trong suốt"},
+		{"id":"6ed4333886b00486","x":-1120,"y":94,"width":176,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"},
+		{"id":"5fbca874f969f40e","x":-980,"y":-490,"width":188,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/秀 - Tú/秀 - Tú.canvas"}
+	],
+	"edges":[
+		{"id":"b49a18653503d0af","fromNode":"5fbca874f969f40e","fromSide":"right","toNode":"a073d3a568d0314d","toSide":"left"},
+		{"id":"d9fe5e3257ed5abd","fromNode":"6ed4333886b00486","fromSide":"right","toNode":"a073d3a568d0314d","toSide":"left","label":"con đường đi rõ ràng, thông suốt"},
+		{"id":"da8944aacca5810e","fromNode":"a073d3a568d0314d","fromSide":"right","toNode":"fa41b2c201d55f65","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"52f89d592766a9a5","x":-101,"y":-34,"width":250,"height":60,"type":"text","text":"仏 - Phật"},
+		{"id":"b028a488fa6ca133","x":-420,"y":240,"width":152,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/Khư　「厶」.canvas"},
+		{"id":"59212859789cdee9","x":-435,"y":-260,"width":167,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"4584f33b9549cb30","fromNode":"b028a488fa6ca133","fromSide":"right","toNode":"52f89d592766a9a5","toSide":"left"},
+		{"id":"b923af99d6e9af89","fromNode":"59212859789cdee9","fromSide":"right","toNode":"52f89d592766a9a5","toSide":"left"}
+	]
+}

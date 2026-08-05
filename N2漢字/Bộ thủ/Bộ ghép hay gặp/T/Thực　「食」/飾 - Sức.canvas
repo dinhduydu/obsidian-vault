@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a470a978dcd0f187","x":-154,"y":-54,"width":250,"height":60,"type":"text","text":"飾 - Sức"},
+		{"id":"68c9fbdba12615cf","x":-440,"y":80,"width":128,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"e1cd463e8b5030e9","x":-760,"y":-105,"width":179,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"},
+		{"id":"9addc54ba1733a20","x":-500,"y":-340,"width":204,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"}
+	],
+	"edges":[
+		{"id":"1b6bd10d09809ef9","fromNode":"e1cd463e8b5030e9","fromSide":"right","toNode":"a470a978dcd0f187","toSide":"left"},
+		{"id":"244978dcc60eafff","fromNode":"68c9fbdba12615cf","fromSide":"right","toNode":"a470a978dcd0f187","toSide":"left"},
+		{"id":"5bf587d730d5a2a6","fromNode":"9addc54ba1733a20","fromSide":"right","toNode":"a470a978dcd0f187","toSide":"left"}
+	]
+}

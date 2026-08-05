@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a61112a952f462a2","type":"text","text":"胸 - Hung","x":-118,"y":-6,"width":250,"height":60},
+		{"id":"1caf6129cb4fa72e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-540,"y":-260,"width":176,"height":162},
+		{"id":"665b79916299b5ea","x":-780,"y":-48,"width":168,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"90b3a67ffb4f2460","x":-540,"y":140,"width":188,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/凶 - Hung/凶 - Hung.canvas"}
+	],
+	"edges":[
+		{"id":"30f1991884732dc6","fromNode":"1caf6129cb4fa72e","fromSide":"right","toNode":"a61112a952f462a2","toSide":"left"},
+		{"id":"8b0002aab51afe50","fromNode":"90b3a67ffb4f2460","fromSide":"right","toNode":"a61112a952f462a2","toSide":"left"},
+		{"id":"287b2f7c94c67ef2","fromNode":"665b79916299b5ea","fromSide":"right","toNode":"a61112a952f462a2","toSide":"left"}
+	]
+}

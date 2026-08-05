@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"52f66c05127267c6","x":-132,"y":-11,"width":250,"height":60,"type":"text","text":"愉 - Du"},
+		{"id":"e1a2841b4727f119","x":-460,"y":-280,"width":179,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Du　「俞」/Du　「俞」.canvas"},
+		{"id":"4ca1487fc1a9f83f","x":-780,"y":-90,"width":228,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"b94c4a53f89ee08d","fromNode":"e1a2841b4727f119","fromSide":"right","toNode":"52f66c05127267c6","toSide":"left"},
+		{"id":"35d5c7759ff467e5","fromNode":"4ca1487fc1a9f83f","fromSide":"right","toNode":"52f66c05127267c6","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b2d9a3ebb77b0692","x":-148,"y":-21,"width":250,"height":60,"type":"text","text":"勤 - Cần"},
+		{"id":"282f4b54daecebb8","x":-620,"y":-360,"width":156,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas"},
+		{"id":"cf2d5fd3e65b571c","x":-630,"y":100,"width":166,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"fe9ae11101b215c8","fromNode":"282f4b54daecebb8","fromSide":"right","toNode":"b2d9a3ebb77b0692","toSide":"left"},
+		{"id":"3aeb6ef1fcf3bf45","fromNode":"cf2d5fd3e65b571c","fromSide":"right","toNode":"b2d9a3ebb77b0692","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2328f6a6c74c0677","x":-108,"y":-37,"width":250,"height":60,"type":"text","text":"慕 - Mộ"},
+		{"id":"f5a55f7d824361c9","x":-480,"y":-280,"width":180,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mạc　「莫」/Mạc　「莫」.canvas"},
+		{"id":"8484f37fe6021527","x":-493,"y":160,"width":206,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"a008ce2f41d52f1b","fromNode":"f5a55f7d824361c9","fromSide":"right","toNode":"2328f6a6c74c0677","toSide":"left"},
+		{"id":"edaa4c5e58f85bd5","fromNode":"8484f37fe6021527","fromSide":"right","toNode":"2328f6a6c74c0677","toSide":"left"}
+	]
+}

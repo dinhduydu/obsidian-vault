@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e7c54db811556eef","x":-115,"y":-36,"width":250,"height":60,"type":"text","text":"徐 - Từ"},
+		{"id":"886ea67f2728f990","x":-540,"y":160,"width":240,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
+		{"id":"29bb447248288f6b","x":-503,"y":-400,"width":203,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"92b42ca6d3bb7a04","fromNode":"886ea67f2728f990","fromSide":"right","toNode":"e7c54db811556eef","toSide":"left"},
+		{"id":"699a815e735e7db5","fromNode":"29bb447248288f6b","fromSide":"right","toNode":"e7c54db811556eef","toSide":"left"}
+	]
+}

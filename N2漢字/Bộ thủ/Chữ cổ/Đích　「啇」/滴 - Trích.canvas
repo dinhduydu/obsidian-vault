@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"495f751dfbf57a6f","type":"text","text":"滴 - Trích","x":-127,"y":-45,"width":250,"height":60},
+		{"id":"63c6bf414a45c4d0","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/Đích　「啇」.canvas","x":-480,"y":-280,"width":218,"height":199},
+		{"id":"09afe3f662cdf062","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-462,"y":160,"width":200,"height":180}
+	],
+	"edges":[
+		{"id":"4517005d3bdeae4a","fromNode":"63c6bf414a45c4d0","fromSide":"right","toNode":"495f751dfbf57a6f","toSide":"left"},
+		{"id":"998653e0cc47a268","fromNode":"09afe3f662cdf062","fromSide":"right","toNode":"495f751dfbf57a6f","toSide":"left","label":"giọt nước tách ra."}
+	]
+}

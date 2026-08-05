@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4038a833b0e31155","x":-111,"y":-49,"width":250,"height":60,"type":"text","text":"嫡 - Đích"},
+		{"id":"53e328b19ef6549c","x":-520,"y":-360,"width":165,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Đích　「啇」/Đích　「啇」.canvas"},
+		{"id":"759ad742b9b1e133","x":-540,"y":120,"width":185,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"c5dd6bb254ac1ca1","fromNode":"53e328b19ef6549c","fromSide":"right","toNode":"4038a833b0e31155","toSide":"left"},
+		{"id":"88a89d9231e31605","fromNode":"759ad742b9b1e133","fromSide":"right","toNode":"4038a833b0e31155","toSide":"left","label":"vợ chính, dòng chính (phân biệt với thứ)."}
+	]
+}

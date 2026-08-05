@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6f4a0505de252a68","x":-142,"y":-47,"width":250,"height":60,"type":"text","text":"織 - Chức"},
+		{"id":"932fa34e8f19c159","x":-560,"y":-320,"width":259,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chức　「戠」/Chức　「戠」.canvas"},
+		{"id":"22c246f5e4d93b7d","x":-561,"y":13,"width":260,"height":279,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"7924a6fcf35bcc03","fromNode":"932fa34e8f19c159","fromSide":"right","toNode":"6f4a0505de252a68","toSide":"left"},
+		{"id":"2fe918f3c703c2f6","fromNode":"22c246f5e4d93b7d","fromSide":"right","toNode":"6f4a0505de252a68","toSide":"left"}
+	]
+}

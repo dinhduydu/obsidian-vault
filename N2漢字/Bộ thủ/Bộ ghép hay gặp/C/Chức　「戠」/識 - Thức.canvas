@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"83fb8e35d0706fdc","x":-98,"y":-56,"width":250,"height":60,"type":"text","text":"識 - Thức"},
+		{"id":"989cc48f4fd93712","x":-540,"y":-400,"width":208,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chức　「戠」/Chức　「戠」.canvas"},
+		{"id":"f48c3ac7a3f8bfdc","x":-540,"y":60,"width":208,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"4a929555e19dcb8d","fromNode":"989cc48f4fd93712","fromSide":"right","toNode":"83fb8e35d0706fdc","toSide":"left"},
+		{"id":"2ece5809ac5e0b44","fromNode":"f48c3ac7a3f8bfdc","fromSide":"right","toNode":"83fb8e35d0706fdc","toSide":"left"}
+	]
+}

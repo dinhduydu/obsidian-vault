@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"06cf86350b4900b7","x":-102,"y":-43,"width":250,"height":60,"type":"text","text":"仙 - Tiên"},
+		{"id":"78aefe6fbbfea45f","x":-477,"y":-300,"width":155,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
+		{"id":"241a845461ec48e6","x":-456,"y":120,"width":134,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"726ebd190a054910","fromNode":"241a845461ec48e6","fromSide":"right","toNode":"06cf86350b4900b7","toSide":"left"},
+		{"id":"3049d0f1e1af39f2","fromNode":"78aefe6fbbfea45f","fromSide":"right","toNode":"06cf86350b4900b7","toSide":"left"}
+	]
+}

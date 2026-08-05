@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8b93c1674706042a","x":-84,"y":-46,"width":250,"height":60,"type":"text","text":"敬 - Kính"},
+		{"id":"69a74116004c519b","x":-380,"y":60,"width":104,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"},
+		{"id":"965c819a5ea7ac24","x":-660,"y":-83,"width":144,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/句 - Cú.canvas"},
+		{"id":"7e08cba27e537f86","x":-411,"y":-260,"width":166,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"2e3744ff24f1700d","fromNode":"965c819a5ea7ac24","fromSide":"right","toNode":"8b93c1674706042a","toSide":"left"},
+		{"id":"8f359ce98a1971f3","fromNode":"69a74116004c519b","fromSide":"right","toNode":"8b93c1674706042a","toSide":"left"},
+		{"id":"3a53eb8eb92d1e34","fromNode":"7e08cba27e537f86","fromSide":"right","toNode":"8b93c1674706042a","toSide":"left"}
+	]
+}

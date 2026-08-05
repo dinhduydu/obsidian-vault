@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e8d6f27d38e230ab","type":"text","text":"師 - Sư","x":-146,"y":-56,"width":250,"height":60},
+		{"id":"02af7923cd2f1392","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/帥 - Suý/帥 - Suý.canvas","x":-540,"y":40,"width":217,"height":174},
+		{"id":"e6e63d8dd02596fd","x":-524,"y":-340,"width":201,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+	],
+	"edges":[
+		{"id":"5470f4bb22ac7205","fromNode":"02af7923cd2f1392","fromSide":"right","toNode":"e8d6f27d38e230ab","toSide":"left"},
+		{"id":"77658a3e3a9dd93c","fromNode":"e6e63d8dd02596fd","fromSide":"right","toNode":"e8d6f27d38e230ab","toSide":"left"}
+	]
+}

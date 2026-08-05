@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92d3efec97d9d484","type":"text","text":"Tỷ　「比」","x":-102,"y":-23,"width":250,"height":60},
+		{"id":"da3319b66b3a3473","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Tỷ　「比」/批 - Phê.canvas","x":400,"y":180,"width":264,"height":243},
+		{"id":"50b0d1e30ce93793","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-14,"y":360,"width":162,"height":173},
+		{"id":"50833ec65fbae71d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas","x":-440,"y":-108,"width":180,"height":231}
+	],
+	"edges":[
+		{"id":"c9439cf389e4c87e","fromNode":"92d3efec97d9d484","fromSide":"right","toNode":"da3319b66b3a3473","toSide":"left"},
+		{"id":"0a91a550a7922d64","fromNode":"50b0d1e30ce93793","fromSide":"right","toNode":"da3319b66b3a3473","toSide":"left"},
+		{"id":"e6ac0baf4280a28c","fromNode":"50833ec65fbae71d","fromSide":"right","toNode":"92d3efec97d9d484","toSide":"left"}
+	]
+}

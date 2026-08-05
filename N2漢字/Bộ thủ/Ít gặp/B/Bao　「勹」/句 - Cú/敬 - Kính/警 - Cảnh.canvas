@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"60591d11993a4e8b","type":"text","text":"警 - Cảnh","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"3b8addbea90abad0","x":-500,"y":-260,"width":199,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/敬 - Kính/敬 - Kính.canvas"},
+		{"id":"c90f53f2ae9a431f","x":-498,"y":120,"width":197,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"740356d5499e06fb","fromNode":"3b8addbea90abad0","fromSide":"right","toNode":"60591d11993a4e8b","toSide":"left"},
+		{"id":"2966fdf155bfcd02","fromNode":"c90f53f2ae9a431f","fromSide":"right","toNode":"60591d11993a4e8b","toSide":"left"}
+	]
+}

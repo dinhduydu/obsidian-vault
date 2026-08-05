@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"351c41e41f85aa80","x":-147,"y":-51,"width":250,"height":60,"type":"text","text":"処 - Xử"},
+		{"id":"72d671fa66555749","x":500,"y":47,"width":215,"height":191,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/対処方法.md"},
+		{"id":"b0a8661b580fd3a7","x":500,"y":-300,"width":165,"height":176,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/処理.md"},
+		{"id":"8cf4081ab14e00ba","x":493,"y":-620,"width":180,"height":191,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/処分.md"},
+		{"id":"56b60fcad4f96e8c","x":920,"y":-317,"width":238,"height":210,"type":"file","file":"Chữa đề/Learning_Profile/Katakana/ゴミ処理場.md"},
+		{"id":"2e6a902d1e693a49","x":-580,"y":40,"width":194,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"},
+		{"id":"2429710ed7d301af","x":-579,"y":-400,"width":193,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/Kỷ　「几」.canvas"}
+	],
+	"edges":[
+		{"id":"4a4ea3bb1f417172","fromNode":"351c41e41f85aa80","fromSide":"right","toNode":"72d671fa66555749","toSide":"left"},
+		{"id":"72d95cb94bf61817","fromNode":"351c41e41f85aa80","fromSide":"right","toNode":"b0a8661b580fd3a7","toSide":"left"},
+		{"id":"86d046d64f3e2fe4","fromNode":"351c41e41f85aa80","fromSide":"right","toNode":"8cf4081ab14e00ba","toSide":"left"},
+		{"id":"17752535ab510f6b","fromNode":"b0a8661b580fd3a7","fromSide":"right","toNode":"56b60fcad4f96e8c","toSide":"left"},
+		{"id":"be266c995cbf26d6","fromNode":"2429710ed7d301af","fromSide":"right","toNode":"351c41e41f85aa80","toSide":"left"},
+		{"id":"6e15c798de77f6c2","fromNode":"2e6a902d1e693a49","fromSide":"right","toNode":"351c41e41f85aa80","toSide":"left"}
+	]
+}

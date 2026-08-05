@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ada73de09db95005","x":-97,"y":-44,"width":250,"height":60,"type":"text","text":"携 - Huề"},
+		{"id":"dddaef8c198cb332","x":-420,"y":80,"width":176,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/Nãi　「乃」.canvas"},
+		{"id":"debcdf5db67a0e29","x":-435,"y":-320,"width":191,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"8d9b953a32851c9c","x":-740,"y":-96,"width":218,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"f7eaa5b609720e10","fromNode":"dddaef8c198cb332","fromSide":"right","toNode":"ada73de09db95005","toSide":"left"},
+		{"id":"224b9b8b1c5d44a1","fromNode":"debcdf5db67a0e29","fromSide":"right","toNode":"ada73de09db95005","toSide":"left"},
+		{"id":"8f4bad27ab0a9d20","fromNode":"8d9b953a32851c9c","fromSide":"right","toNode":"ada73de09db95005","toSide":"left"}
+	]
+}

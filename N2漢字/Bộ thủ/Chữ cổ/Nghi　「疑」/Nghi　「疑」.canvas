@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"72c53c5fce6af0c7","type":"text","text":"Nghi　「疑」","x":-91,"y":-33,"width":250,"height":60},
+		{"id":"e1f7216d5c412e2b","x":-640,"y":-200,"width":250,"height":60,"type":"text","text":"Đi mà còn do dự, không quyết → nghi ngờ, ngờ vực."}
+	],
+	"edges":[
+		{"id":"6b5de4f50af016f7","fromNode":"e1f7216d5c412e2b","fromSide":"right","toNode":"72c53c5fce6af0c7","toSide":"left"}
+	]
+}

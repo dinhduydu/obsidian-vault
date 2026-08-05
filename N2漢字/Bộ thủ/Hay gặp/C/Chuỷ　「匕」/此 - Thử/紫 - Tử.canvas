@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"09bf5b3068fedf09","x":-116,"y":-49,"width":250,"height":60,"type":"text","text":"紫 - Tử"},
+		{"id":"9116c8037447f957","x":-480,"y":-260,"width":171,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/此 - Thử/此 - Thử.canvas"},
+		{"id":"eae5b83c4f651689","x":-480,"y":120,"width":180,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"775204297ae0abbc","fromNode":"9116c8037447f957","fromSide":"right","toNode":"09bf5b3068fedf09","toSide":"left"},
+		{"id":"873a8fa698646d7b","fromNode":"eae5b83c4f651689","fromSide":"right","toNode":"09bf5b3068fedf09","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c3d3644125e9b0d","x":-101,"y":-58,"width":250,"height":60,"type":"text","text":"途 - Đồ"},
+		{"id":"9ab6ad926c9c1820","x":-500,"y":-380,"width":180,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
+		{"id":"a9170098bf37be35","x":-537,"y":140,"width":217,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"5a3377c0585542f2","fromNode":"9ab6ad926c9c1820","fromSide":"right","toNode":"6c3d3644125e9b0d","toSide":"left"},
+		{"id":"ed17ba3d24fac66d","fromNode":"a9170098bf37be35","fromSide":"right","toNode":"6c3d3644125e9b0d","toSide":"left"}
+	]
+}

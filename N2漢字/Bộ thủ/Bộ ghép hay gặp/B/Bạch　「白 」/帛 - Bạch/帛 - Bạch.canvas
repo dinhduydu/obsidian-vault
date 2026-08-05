@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7896a21b921991f6","x":-111,"y":-36,"width":250,"height":60,"type":"text","text":"帛 - Bạch"},
+		{"id":"97ea8d818492d910","x":-500,"y":-340,"width":180,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"},
+		{"id":"0018e1f6af45c6f3","x":-507,"y":120,"width":195,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+	],
+	"edges":[
+		{"id":"8281c8d6c2e32d92","fromNode":"97ea8d818492d910","fromSide":"right","toNode":"7896a21b921991f6","toSide":"left"},
+		{"id":"69144a229aefceea","fromNode":"0018e1f6af45c6f3","fromSide":"right","toNode":"7896a21b921991f6","toSide":"left"}
+	]
+}

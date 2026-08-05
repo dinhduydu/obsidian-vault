@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e9bbad3591cc034a","type":"text","text":"追 - Truy","x":-140,"y":-30,"width":250,"height":60},
+		{"id":"cb314aa75e4b626f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-420,"y":60,"width":138,"height":145},
+		{"id":"098917acb8751cc9","x":-500,"y":-280,"width":218,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas"}
+	],
+	"edges":[
+		{"id":"9fe75303d3f50e7a","fromNode":"cb314aa75e4b626f","fromSide":"right","toNode":"e9bbad3591cc034a","toSide":"left"},
+		{"id":"6cf677cdeac0e7ac","fromNode":"098917acb8751cc9","fromSide":"right","toNode":"e9bbad3591cc034a","toSide":"left"}
+	]
+}

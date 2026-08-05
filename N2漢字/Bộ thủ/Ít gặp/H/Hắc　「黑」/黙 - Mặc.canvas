@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a1dd4eee2d74a73a","x":-800,"y":-320,"width":221,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hắc　「黑」/Hắc　「黑」.canvas"},
+		{"id":"bfc4620f446660c3","x":-420,"y":-460,"width":206,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"},
+		{"id":"5d2e5526df69e457","x":0,"y":-40,"width":250,"height":60,"type":"text","text":"黙 - Mặc"},
+		{"id":"f054f8b1939827e3","x":-420,"y":140,"width":226,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"31f1313f2d966782","fromNode":"a1dd4eee2d74a73a","fromSide":"right","toNode":"5d2e5526df69e457","toSide":"left"},
+		{"id":"6ecb237b744fd059","fromNode":"bfc4620f446660c3","fromSide":"right","toNode":"5d2e5526df69e457","toSide":"left"},
+		{"id":"fce320a86c865d4d","fromNode":"f054f8b1939827e3","fromSide":"right","toNode":"5d2e5526df69e457","toSide":"left"}
+	]
+}

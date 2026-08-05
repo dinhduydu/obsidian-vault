@@ -7,8 +7,9 @@
 		{"id":"aef52eb193921280","type":"text","text":"王 - Vương","x":-200,"y":-20,"width":250,"height":60},
 		{"id":"b96a118e8fba4e15","type":"text","text":"王 - Vương","x":960,"y":-20,"width":250,"height":60},
 		{"id":"8224e14f63d70c98","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/理 - Lý/理 - Lý.canvas","x":280,"y":180,"width":217,"height":177},
-		{"id":"7b0626a856cbdc2e","x":1380,"y":-240,"width":242,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/全 - Toàn.canvas"},
-		{"id":"d1541bb76d256e80","x":1051,"y":-347,"width":159,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"}
+		{"id":"7b0626a856cbdc2e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/全 - Toàn.canvas","x":1380,"y":-240,"width":242,"height":155},
+		{"id":"d1541bb76d256e80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":1051,"y":-347,"width":159,"height":134},
+		{"id":"74233de69ad90c58","x":-660,"y":169,"width":210,"height":200,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 2/王 - Vương.canvas"}
 	],
 	"edges":[
 		{"id":"b12eb38a06e8b68d","fromNode":"aef52eb193921280","fromSide":"right","toNode":"8224e14f63d70c98","toSide":"left"},
@@ -18,6 +19,7 @@
 		{"id":"21e67db88e58feec","fromNode":"840c1074abae7a3e","fromSide":"right","toNode":"4c7300cbbec1a301","toSide":"left"},
 		{"id":"1e6506690ab49b40","fromNode":"840c1074abae7a3e","fromSide":"right","toNode":"3668ce335a34c3e1","toSide":"left"},
 		{"id":"a92fc39049930490","fromNode":"b96a118e8fba4e15","fromSide":"right","toNode":"7b0626a856cbdc2e","toSide":"left"},
-		{"id":"555d2d9bcbeae288","fromNode":"d1541bb76d256e80","fromSide":"right","toNode":"7b0626a856cbdc2e","toSide":"left"}
+		{"id":"555d2d9bcbeae288","fromNode":"d1541bb76d256e80","fromSide":"right","toNode":"7b0626a856cbdc2e","toSide":"left"},
+		{"id":"73a70bd2e91b94fb","fromNode":"74233de69ad90c58","fromSide":"right","toNode":"aef52eb193921280","toSide":"left"}
 	]
 }

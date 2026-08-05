@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"16231e141e2ceecc","x":-81,"y":-24,"width":250,"height":60,"type":"text","text":"雌 - Thư"},
+		{"id":"25fdcd18bb981836","x":-540,"y":-300,"width":215,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/此 - Thử/此 - Thử.canvas"},
+		{"id":"82d22e03d34c820c","x":-502,"y":100,"width":177,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"}
+	],
+	"edges":[
+		{"id":"19f4773e22909ce2","fromNode":"25fdcd18bb981836","fromSide":"right","toNode":"16231e141e2ceecc","toSide":"left"},
+		{"id":"079aaf4d2e824103","fromNode":"82d22e03d34c820c","fromSide":"right","toNode":"16231e141e2ceecc","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5652803eae6e0715","x":-103,"y":-53,"width":250,"height":60,"type":"text","text":"槿- Cận"},
+		{"id":"4208c495cfd54620","x":-500,"y":180,"width":180,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas"},
+		{"id":"e57d36b0d95c3a09","x":-500,"y":-300,"width":180,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"267862dda1d527d6","fromNode":"4208c495cfd54620","fromSide":"right","toNode":"5652803eae6e0715","toSide":"left"},
+		{"id":"f396a9867d54fea2","fromNode":"e57d36b0d95c3a09","fromSide":"right","toNode":"5652803eae6e0715","toSide":"left","label":"cây dâm bụt"}
+	]
+}

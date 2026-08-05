@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6fd49f18cff69c3a","x":-95,"y":-28,"width":250,"height":60,"type":"text","text":"誘 - Dụ"},
+		{"id":"76c48b8c94af04ae","x":-500,"y":-300,"width":177,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/秀 - Tú/秀 - Tú.canvas"},
+		{"id":"982ca9a1394c593e","x":-521,"y":60,"width":198,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"fd7eca100eead761","fromNode":"76c48b8c94af04ae","fromSide":"right","toNode":"6fd49f18cff69c3a","toSide":"left"},
+		{"id":"842821a7c83174f1","fromNode":"982ca9a1394c593e","fromSide":"right","toNode":"6fd49f18cff69c3a","toSide":"left"}
+	]
+}

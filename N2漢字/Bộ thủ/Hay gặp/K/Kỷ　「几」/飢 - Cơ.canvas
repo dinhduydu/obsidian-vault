@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c5623a02c2b44e26","x":-112,"y":-31,"width":250,"height":60,"type":"text","text":"飢 - Cơ"},
+		{"id":"1a38c8c90afc1e87","x":-720,"y":-31,"width":250,"height":60,"type":"text","text":"đói"},
+		{"id":"d37f92720da9e7c4","x":-440,"y":200,"width":182,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/Kỷ　「几」.canvas"},
+		{"id":"4f036aaa01ecc42c","x":-470,"y":-440,"width":181,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"}
+	],
+	"edges":[
+		{"id":"98d05468c68edc6b","fromNode":"1a38c8c90afc1e87","fromSide":"right","toNode":"c5623a02c2b44e26","toSide":"left"},
+		{"id":"713e955006e16999","fromNode":"d37f92720da9e7c4","fromSide":"right","toNode":"c5623a02c2b44e26","toSide":"left"},
+		{"id":"f564a243b509cead","fromNode":"4f036aaa01ecc42c","fromSide":"right","toNode":"c5623a02c2b44e26","toSide":"left"}
+	]
+}

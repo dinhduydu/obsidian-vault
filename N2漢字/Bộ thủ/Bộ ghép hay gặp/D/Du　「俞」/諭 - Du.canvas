@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5262ad2f7c02a75a","x":-119,"y":-32,"width":250,"height":60,"type":"text","text":"諭 - Du"},
+		{"id":"279735ab3e21568d","x":-492,"y":140,"width":173,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"d18796ce04060b63","x":-480,"y":-300,"width":161,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Du　「俞」/Du　「俞」.canvas"}
+	],
+	"edges":[
+		{"id":"3d7b932af83edbf2","fromNode":"d18796ce04060b63","fromSide":"right","toNode":"5262ad2f7c02a75a","toSide":"left"},
+		{"id":"dad2bef6ebc84fb7","fromNode":"279735ab3e21568d","fromSide":"right","toNode":"5262ad2f7c02a75a","toSide":"left"}
+	]
+}

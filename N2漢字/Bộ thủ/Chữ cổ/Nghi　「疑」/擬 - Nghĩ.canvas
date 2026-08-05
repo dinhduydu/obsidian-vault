@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ba48133838827748","x":-219,"y":-52,"width":250,"height":60,"type":"text","text":"擬 - Nghĩ"},
+		{"id":"581816d8b546e7e0","x":-685,"y":100,"width":212,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"d45ae6cc720a2aa1","x":-685,"y":-380,"width":212,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nghi　「疑」/Nghi　「疑」.canvas"}
+	],
+	"edges":[
+		{"id":"98196eee2fae590a","fromNode":"d45ae6cc720a2aa1","fromSide":"right","toNode":"ba48133838827748","toSide":"left"},
+		{"id":"9e36b0f83d81527e","fromNode":"581816d8b546e7e0","fromSide":"right","toNode":"ba48133838827748","toSide":"left"}
+	]
+}

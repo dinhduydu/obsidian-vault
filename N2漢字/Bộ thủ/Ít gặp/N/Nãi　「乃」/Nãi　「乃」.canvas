@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c11001b6348457ce","x":-66,"y":-28,"width":250,"height":60,"type":"text","text":"Nãi　「乃」"},
+		{"id":"874a55409e49df5b","x":-600,"y":-260,"width":250,"height":60,"type":"text","text":"biểu ý, chỉ sự vươn ra, nhô ra."}
+	],
+	"edges":[
+		{"id":"63dcc7be6bcc025d","fromNode":"874a55409e49df5b","fromSide":"right","toNode":"c11001b6348457ce","toSide":"left"}
+	]
+}

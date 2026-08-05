@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aad6a4f236a4e6b3","x":-120,"y":-40,"width":250,"height":60,"type":"text","text":"爆 - Bộc"},
+		{"id":"2aadbd76c5341060","x":-440,"y":-240,"width":179,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/暴 - Bạo, Bộc/暴 - Bạo, Bộc.canvas"},
+		{"id":"4d31752981cf79d2","x":-437,"y":160,"width":176,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"d3090c5dceef32b9","fromNode":"2aadbd76c5341060","fromSide":"right","toNode":"aad6a4f236a4e6b3","toSide":"left"},
+		{"id":"29b4930e35fe05e7","fromNode":"4d31752981cf79d2","fromSide":"right","toNode":"aad6a4f236a4e6b3","toSide":"left"}
+	]
+}

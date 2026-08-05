@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2619378e4f6633de","x":-111,"y":-40,"width":250,"height":60,"type":"text","text":"諾 - Nặc"},
+		{"id":"382b01f34a607676","x":-480,"y":-320,"width":142,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược/若 - Nhược.canvas"},
+		{"id":"8cf52efb88e3df28","x":-501,"y":80,"width":163,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"0dd03ff933886f52","fromNode":"382b01f34a607676","fromSide":"right","toNode":"2619378e4f6633de","toSide":"left"},
+		{"id":"43375010ed5cad17","fromNode":"8cf52efb88e3df28","fromSide":"right","toNode":"2619378e4f6633de","toSide":"left"}
+	]
+}

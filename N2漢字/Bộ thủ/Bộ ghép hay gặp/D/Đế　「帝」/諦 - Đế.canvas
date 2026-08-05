@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dc643e402cba969f","x":-171,"y":-58,"width":250,"height":60,"type":"text","text":"諦 - Đế"},
+		{"id":"6ce7f1e95a76c639","x":-520,"y":-400,"width":183,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đế　「帝」/Đế　「帝」.canvas"},
+		{"id":"dcc6c0bf4b9d726f","x":-511,"y":140,"width":174,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"1d212b0b3d860eb2","fromNode":"6ce7f1e95a76c639","fromSide":"right","toNode":"dc643e402cba969f","toSide":"left"},
+		{"id":"83ac7ae79172a830","fromNode":"dcc6c0bf4b9d726f","fromSide":"right","toNode":"dc643e402cba969f","toSide":"left"}
+	]
+}

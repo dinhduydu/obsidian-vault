@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6bd18f3d617c61ce","x":-87,"y":-9,"width":250,"height":60,"type":"text","text":"芋 - Dụ"},
+		{"id":"438bd2f13192f6d9","x":-420,"y":200,"width":156,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/Ô　「于」.canvas"},
+		{"id":"f738e3100cc1781d","x":-480,"y":-200,"width":173,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"f9b1ea4a33961226","fromNode":"438bd2f13192f6d9","fromSide":"right","toNode":"6bd18f3d617c61ce","toSide":"left"},
+		{"id":"e2d1b255fccc089e","fromNode":"f738e3100cc1781d","fromSide":"right","toNode":"6bd18f3d617c61ce","toSide":"left"}
+	]
+}

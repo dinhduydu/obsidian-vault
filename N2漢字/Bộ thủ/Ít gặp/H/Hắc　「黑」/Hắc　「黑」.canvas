@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"5e869a66a48849ba","x":-100,"y":-37,"width":250,"height":60,"type":"text","text":"Hắc　「黑」"}
+		{"id":"5e869a66a48849ba","type":"text","text":"Hắc　「黑」","x":-100,"y":-37,"width":250,"height":60},
+		{"id":"45e61ea166a5a998","x":420,"y":-420,"width":265,"height":267,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hắc　「黑」/墨 - Mặc.canvas"},
+		{"id":"8d6d1911349d7196","x":-83,"y":-640,"width":233,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5b2e6f737dd710d4","fromNode":"5e869a66a48849ba","fromSide":"right","toNode":"45e61ea166a5a998","toSide":"left"},
+		{"id":"df08394db637a933","fromNode":"8d6d1911349d7196","fromSide":"right","toNode":"45e61ea166a5a998","toSide":"left"}
+	]
 }

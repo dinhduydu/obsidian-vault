@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4ca23abc75d69ec9","x":-122,"y":-56,"width":250,"height":60,"type":"text","text":"塗 - Đồ"},
+		{"id":"7a0689b46b87d11c","x":-380,"y":-193,"width":142,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
+		{"id":"136b44f8a3868109","x":-700,"y":-253,"width":153,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"56859e83167b6ac1","x":-547,"y":100,"width":199,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"1d561ec3c5968604","fromNode":"7a0689b46b87d11c","fromSide":"right","toNode":"4ca23abc75d69ec9","toSide":"left"},
+		{"id":"57d4c0b8666a1bbc","fromNode":"136b44f8a3868109","fromSide":"right","toNode":"4ca23abc75d69ec9","toSide":"left"},
+		{"id":"c7affdfe6d5b3a29","fromNode":"56859e83167b6ac1","fromSide":"right","toNode":"4ca23abc75d69ec9","toSide":"left"}
+	]
+}

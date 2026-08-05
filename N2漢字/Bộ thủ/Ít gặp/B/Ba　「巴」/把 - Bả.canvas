@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7b213442e69db272","x":-119,"y":-22,"width":250,"height":60,"type":"text","text":"把 - Bả"},
+		{"id":"265a3fc6aa9786d5","x":-500,"y":-320,"width":200,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Ba　「巴」/Ba　「巴」.canvas"},
+		{"id":"0e4b504ae93295f3","x":-493,"y":240,"width":193,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"85d1f99c1b1534d0","fromNode":"265a3fc6aa9786d5","fromSide":"right","toNode":"7b213442e69db272","toSide":"left"},
+		{"id":"fdd9392b6319f952","fromNode":"0e4b504ae93295f3","fromSide":"right","toNode":"7b213442e69db272","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bcf4744ce419e74a","x":-96,"y":-21,"width":250,"height":60,"type":"text","text":"犯 - Phạm"},
+		{"id":"5731fe42cc9b3014","x":-420,"y":160,"width":179,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"},
+		{"id":"abbc08cbe7d68158","x":-500,"y":-260,"width":200,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
+	],
+	"edges":[
+		{"id":"fe2785fbbd671a45","fromNode":"5731fe42cc9b3014","fromSide":"right","toNode":"bcf4744ce419e74a","toSide":"left"},
+		{"id":"01436be58d9e170e","fromNode":"abbc08cbe7d68158","fromSide":"right","toNode":"bcf4744ce419e74a","toSide":"left"}
+	]
+}
