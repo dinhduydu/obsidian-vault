@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e1955585408f7d1","x":-132,"y":-48,"width":250,"height":60,"type":"text","text":"座 - Toạ"},
+		{"id":"06dbf61d70ebe773","x":-560,"y":200,"width":140,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」/Toạ　「坐」.canvas"},
+		{"id":"ba0a1c46cae8ff9e","x":-590,"y":-340,"width":170,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"7f2346cf49d846a4","fromNode":"06dbf61d70ebe773","fromSide":"right","toNode":"3e1955585408f7d1","toSide":"left"},
+		{"id":"a3dd5b9faa83063c","fromNode":"ba0a1c46cae8ff9e","fromSide":"right","toNode":"3e1955585408f7d1","toSide":"left"}
+	]
+}

@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"498c0aa5150972a3","x":-145,"y":12,"width":250,"height":60,"type":"text","text":"異 - Dị"},
-		{"id":"a89dfa526b7a6d87","x":-520,"y":100,"width":180,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"},
-		{"id":"ce6476e9caee03e1","x":-511,"y":-140,"width":171,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
+		{"id":"152b9e8746e3958c","x":-500,"y":-113,"width":258,"height":250,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 1/異 - Dị.canvas"},
+		{"id":"a89dfa526b7a6d87","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas","x":-840,"y":137,"width":180,"height":171},
+		{"id":"ce6476e9caee03e1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-831,"y":-300,"width":171,"height":140},
+		{"id":"498c0aa5150972a3","type":"text","text":"異 - Dị","x":-120,"y":-18,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"60f5d4f5ba86da5a","fromNode":"a89dfa526b7a6d87","fromSide":"right","toNode":"498c0aa5150972a3","toSide":"left"},
-		{"id":"fa619f78b5adefaf","fromNode":"ce6476e9caee03e1","fromSide":"right","toNode":"498c0aa5150972a3","toSide":"left"}
+		{"id":"60f5d4f5ba86da5a","fromNode":"a89dfa526b7a6d87","fromSide":"right","toNode":"152b9e8746e3958c","toSide":"left"},
+		{"id":"fa619f78b5adefaf","fromNode":"ce6476e9caee03e1","fromSide":"right","toNode":"152b9e8746e3958c","toSide":"left"},
+		{"id":"7b3d36ff2a62af7e","fromNode":"152b9e8746e3958c","fromSide":"right","toNode":"498c0aa5150972a3","toSide":"left"}
 	]
 }

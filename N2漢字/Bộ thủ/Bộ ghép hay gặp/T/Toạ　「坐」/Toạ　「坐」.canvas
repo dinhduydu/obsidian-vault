@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"346e608dd2904c5a","x":-93,"y":-41,"width":250,"height":60,"type":"text","text":"Toạ　「坐」"},
+		{"id":"a839a2595da75175","x":-540,"y":-320,"width":180,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"},
+		{"id":"0a1c61494cd9aa26","x":-548,"y":80,"width":188,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"441afec0c110b37a","fromNode":"a839a2595da75175","fromSide":"right","toNode":"346e608dd2904c5a","toSide":"left","label":"x2"},
+		{"id":"1cafba6b776666fb","fromNode":"0a1c61494cd9aa26","fromSide":"right","toNode":"346e608dd2904c5a","toSide":"left"}
+	]
+}

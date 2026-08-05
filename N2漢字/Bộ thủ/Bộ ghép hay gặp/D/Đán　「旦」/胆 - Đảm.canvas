@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2068e2e9b4199de1","x":-101,"y":-29,"width":250,"height":60,"type":"text","text":"胆 - Đảm"},
+		{"id":"3f8b6369e834c4a4","x":-480,"y":-340,"width":164,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"1b52241739e9bd70","x":-523,"y":100,"width":207,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas"}
+	],
+	"edges":[
+		{"id":"c2215733cd3e5cc5","fromNode":"3f8b6369e834c4a4","fromSide":"right","toNode":"2068e2e9b4199de1","toSide":"left"},
+		{"id":"add7b8dd57dae691","fromNode":"1b52241739e9bd70","fromSide":"right","toNode":"2068e2e9b4199de1","toSide":"left"}
+	]
+}

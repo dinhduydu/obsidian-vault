@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fa3f182f37089adc","type":"text","text":"Tư　「兹」","x":-72,"y":-24,"width":250,"height":60},
+		{"id":"01e1cec2288e8b80","x":-520,"y":140,"width":211,"height":225,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"},
+		{"id":"7bec89651f6f4ea5","x":-520,"y":-300,"width":211,"height":220,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"ddfe76f4f3acd542","fromNode":"01e1cec2288e8b80","fromSide":"right","toNode":"fa3f182f37089adc","toSide":"left","label":"x2"},
+		{"id":"fefbd05179f27006","fromNode":"7bec89651f6f4ea5","fromSide":"right","toNode":"fa3f182f37089adc","toSide":"left"}
+	]
+}

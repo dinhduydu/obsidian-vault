@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24eba2bc93625626","x":-84,"y":-46,"width":250,"height":60,"type":"text","text":"該 - Cai"},
+		{"id":"c8bede92e2483450","x":-560,"y":140,"width":210,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hợi　「亥」/Hợi　「亥」.canvas"},
+		{"id":"90452be4905d29a1","x":-560,"y":-420,"width":201,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"063d1b4ff94745fa","fromNode":"c8bede92e2483450","fromSide":"right","toNode":"24eba2bc93625626","toSide":"left"},
+		{"id":"3f0579b577d38ede","fromNode":"90452be4905d29a1","fromSide":"right","toNode":"24eba2bc93625626","toSide":"left"}
+	]
+}

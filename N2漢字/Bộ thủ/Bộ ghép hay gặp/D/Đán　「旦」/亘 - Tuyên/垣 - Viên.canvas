@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8a9460da14b420c0","x":-145,"y":-34,"width":250,"height":60,"type":"text","text":"垣 - Viên"},
+		{"id":"bdc60b7d6b258144","x":-500,"y":240,"width":151,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên/亘 - Tuyên.canvas"},
+		{"id":"390b2a17dfc2b275","x":-500,"y":-280,"width":154,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"97984bb8d7aee235","fromNode":"bdc60b7d6b258144","fromSide":"right","toNode":"8a9460da14b420c0","toSide":"left"},
+		{"id":"e1efffd7bf974f6f","fromNode":"390b2a17dfc2b275","fromSide":"right","toNode":"8a9460da14b420c0","toSide":"left"}
+	]
+}

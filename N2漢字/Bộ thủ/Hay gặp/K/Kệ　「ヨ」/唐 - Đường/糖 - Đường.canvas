@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"917e0755b8614377","x":-80,"y":-20,"width":250,"height":60,"type":"text","text":"糖 - Đường"},
+		{"id":"56104883ace88ee8","x":-440,"y":220,"width":165,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/唐 - Đường/唐 - Đường.canvas"},
+		{"id":"10997a38ee89a4b4","x":-440,"y":-260,"width":165,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
+	],
+	"edges":[
+		{"id":"dcb6c5d231075b69","fromNode":"56104883ace88ee8","fromSide":"right","toNode":"917e0755b8614377","toSide":"left"},
+		{"id":"473f7fc095d4eb6a","fromNode":"10997a38ee89a4b4","fromSide":"right","toNode":"917e0755b8614377","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c935c4d96180429a","x":-103,"y":-17,"width":250,"height":60,"type":"text","text":"栽 - Tài"},
+		{"id":"7b3f210d9e6cdbf5","x":-580,"y":-320,"width":183,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tai　「𢦏」/Tai　「𢦏」.canvas"},
+		{"id":"c02e729fe610902f","x":-587,"y":100,"width":190,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"68aaf7aaf2235a36","fromNode":"7b3f210d9e6cdbf5","fromSide":"right","toNode":"c935c4d96180429a","toSide":"left"},
+		{"id":"82db4414a1e8fcbb","fromNode":"c02e729fe610902f","fromSide":"right","toNode":"c935c4d96180429a","toSide":"left","label":"trồng cây"}
+	]
+}

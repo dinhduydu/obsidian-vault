@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"23ee6a8b421875ee","type":"text","text":"檀 - Đàn","x":-144,"y":-42,"width":250,"height":60},
+		{"id":"445e21d36bdda272","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas","x":-480,"y":180,"width":195,"height":141},
+		{"id":"02c34cd0606815ed","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồi　「回」/Hồi　「回」.canvas","x":-424,"y":-79,"width":139,"height":134},
+		{"id":"814fdf498d7c32b0","x":-415,"y":-300,"width":121,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas"},
+		{"id":"b5a534d0cdf7438e","x":-760,"y":-105,"width":182,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"9093b49e2cb9f08d","fromNode":"445e21d36bdda272","fromSide":"right","toNode":"23ee6a8b421875ee","toSide":"left"},
+		{"id":"c7c1c781b7bfd4ba","fromNode":"02c34cd0606815ed","fromSide":"right","toNode":"23ee6a8b421875ee","toSide":"left"},
+		{"id":"ceb2959c63f04a76","fromNode":"814fdf498d7c32b0","fromSide":"right","toNode":"23ee6a8b421875ee","toSide":"left"},
+		{"id":"cc6c62754e178327","fromNode":"b5a534d0cdf7438e","fromSide":"right","toNode":"23ee6a8b421875ee","toSide":"left"}
+	]
+}

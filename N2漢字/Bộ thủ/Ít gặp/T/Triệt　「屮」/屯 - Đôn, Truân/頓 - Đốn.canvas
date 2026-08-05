@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6d62718a8d11b992","x":-101,"y":-39,"width":250,"height":60,"type":"text","text":"頓 - Đốn"},
+		{"id":"2bffbfd4465c6144","x":-640,"y":-340,"width":176,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/屯 - Đôn, Truân.canvas"},
+		{"id":"062d1bcebdd5ae0d","x":-640,"y":180,"width":166,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"ab5a9cf9247b6021","fromNode":"2bffbfd4465c6144","fromSide":"right","toNode":"6d62718a8d11b992","toSide":"left"},
+		{"id":"1f9c0c515b31852b","fromNode":"062d1bcebdd5ae0d","fromSide":"right","toNode":"6d62718a8d11b992","toSide":"left"}
+	]
+}

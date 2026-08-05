@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"82191cd176a093f8","x":-123,"y":-41,"width":250,"height":60,"type":"text","text":"鈍 - Độn"},
+		{"id":"b1f01e3b9fa1afbd","x":-540,"y":200,"width":177,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/屯 - Đôn, Truân.canvas"},
+		{"id":"2edd56245ba0e53c","x":-558,"y":-300,"width":195,"height":205,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"d0db237ded18974e","fromNode":"b1f01e3b9fa1afbd","fromSide":"right","toNode":"82191cd176a093f8","toSide":"left"},
+		{"id":"8952e9b786470cac","fromNode":"2edd56245ba0e53c","fromSide":"right","toNode":"82191cd176a093f8","toSide":"left"}
+	]
+}

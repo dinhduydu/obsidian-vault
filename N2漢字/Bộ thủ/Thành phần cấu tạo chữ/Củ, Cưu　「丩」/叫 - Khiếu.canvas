@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7249c5dbc8ec07eb","x":-114,"y":-37,"width":250,"height":60,"type":"text","text":"叫 - Khiếu"},
+		{"id":"9d5d32f0597bfefa","x":-580,"y":-7,"width":161,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"96cf3c5ee06f81cc","x":-555,"y":-300,"width":111,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Củ, Cưu　「丩」/Củ, Cưu　「丩」.canvas"}
+	],
+	"edges":[
+		{"id":"8b5752267b289ff6","fromNode":"96cf3c5ee06f81cc","fromSide":"right","toNode":"7249c5dbc8ec07eb","toSide":"left"},
+		{"id":"3bfbae00b88533ca","fromNode":"9d5d32f0597bfefa","fromSide":"right","toNode":"7249c5dbc8ec07eb","toSide":"left"}
+	]
+}

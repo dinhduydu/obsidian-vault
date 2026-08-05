@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7500ae553508db28","x":-92,"y":-33,"width":250,"height":60,"type":"text","text":"但 - Đãn"},
+		{"id":"5b016d9cfa017732","x":-500,"y":220,"width":180,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas"},
+		{"id":"26d6195e15a8f2fb","x":-500,"y":-240,"width":180,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"86ae786775f85acd","fromNode":"5b016d9cfa017732","fromSide":"right","toNode":"7500ae553508db28","toSide":"left"},
+		{"id":"3595f9d849ec0389","fromNode":"26d6195e15a8f2fb","fromSide":"right","toNode":"7500ae553508db28","toSide":"left"}
+	]
+}

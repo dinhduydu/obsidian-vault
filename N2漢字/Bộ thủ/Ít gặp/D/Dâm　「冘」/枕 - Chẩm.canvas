@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2987c8fe006ee307","x":-136,"y":-53,"width":250,"height":60,"type":"text","text":"枕 - Chẩm"},
+		{"id":"6a090d45ce33398c","x":-420,"y":140,"width":139,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dâm　「冘」/Dâm　「冘」.canvas"},
+		{"id":"eac986cbeb269d52","x":-424,"y":-340,"width":147,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"e7323e32384545cf","fromNode":"6a090d45ce33398c","fromSide":"right","toNode":"2987c8fe006ee307","toSide":"left"},
+		{"id":"6ee364e42c9a410f","fromNode":"eac986cbeb269d52","fromSide":"right","toNode":"2987c8fe006ee307","toSide":"left"}
+	]
+}

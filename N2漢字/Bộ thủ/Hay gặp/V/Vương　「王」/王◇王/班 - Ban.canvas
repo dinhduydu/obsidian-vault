@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"21a721a71386d4f1","x":-125,"y":-35,"width":250,"height":60,"type":"text","text":"班 - Ban"},
+		{"id":"dda320da35b51faf","x":-580,"y":-260,"width":219,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"},
+		{"id":"80b024d99c435250","x":-568,"y":140,"width":207,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"b4c649905ca29f45","fromNode":"dda320da35b51faf","fromSide":"right","toNode":"21a721a71386d4f1","toSide":"left"},
+		{"id":"9b470d6acb5043e7","fromNode":"80b024d99c435250","fromSide":"right","toNode":"21a721a71386d4f1","toSide":"left"}
+	]
+}

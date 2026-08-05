@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"114930a2f59a6e14","x":-120,"y":-80,"width":250,"height":60,"type":"text","text":"宅 - Trạch"},
+		{"id":"fb05fa85fe933bea","x":-560,"y":40,"width":155,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/Thác　「乇」.canvas"},
+		{"id":"4ec44201db90873f","x":-578,"y":-400,"width":192,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"fdca2ba911d078d3","fromNode":"fb05fa85fe933bea","fromSide":"right","toNode":"114930a2f59a6e14","toSide":"left"},
+		{"id":"ec5d5804ba0b7bd2","fromNode":"4ec44201db90873f","fromSide":"right","toNode":"114930a2f59a6e14","toSide":"left"}
+	]
+}

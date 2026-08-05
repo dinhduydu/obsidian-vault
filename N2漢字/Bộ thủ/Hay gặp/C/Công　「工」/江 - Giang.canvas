@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"473efd6b80c40323","x":-110,"y":-42,"width":250,"height":60,"type":"text","text":"江 - Giang"},
+		{"id":"6c99582afcf9580a","x":-440,"y":180,"width":140,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"},
+		{"id":"00a1c02f550f0d6d","x":-448,"y":-280,"width":156,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"449679ee6dc0e2b5","fromNode":"6c99582afcf9580a","fromSide":"right","toNode":"473efd6b80c40323","toSide":"left"},
+		{"id":"7649936fabd185d8","fromNode":"00a1c02f550f0d6d","fromSide":"right","toNode":"473efd6b80c40323","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"96751ea451299b2c","type":"text","text":"戴 - Đái","x":-122,"y":-30,"width":250,"height":60},
+		{"id":"e1b367c249af24b6","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tai　「𢦏」/Tai　「𢦏」.canvas","x":-500,"y":-220,"width":210,"height":121},
+		{"id":"1ee51ed4bf3c743f","x":-465,"y":60,"width":175,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị/異 - Dị.canvas"}
+	],
+	"edges":[
+		{"id":"72640963b31b66a6","fromNode":"e1b367c249af24b6","fromSide":"right","toNode":"96751ea451299b2c","toSide":"left"},
+		{"id":"4f8a9c26eee6604a","fromNode":"1ee51ed4bf3c743f","fromSide":"right","toNode":"96751ea451299b2c","toSide":"left"}
+	]
+}

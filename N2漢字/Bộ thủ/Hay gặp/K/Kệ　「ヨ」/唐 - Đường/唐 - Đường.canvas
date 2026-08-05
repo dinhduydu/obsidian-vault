@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ba3d5e04900eaa4e","x":-109,"y":-36,"width":250,"height":60,"type":"text","text":"唐 - Đường"},
+		{"id":"5a7c157b47614b27","x":-480,"y":-340,"width":222,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"71e49439b81264ae","x":-760,"y":-99,"width":219,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"},
+		{"id":"243ce2ce4a01e4f7","x":-443,"y":220,"width":185,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"60b46b19ec446119","x":-1160,"y":-406,"width":266,"height":255,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"}
+	],
+	"edges":[
+		{"id":"4df7d666808b3c0d","fromNode":"5a7c157b47614b27","fromSide":"right","toNode":"ba3d5e04900eaa4e","toSide":"left"},
+		{"id":"39b7cf512016c48a","fromNode":"71e49439b81264ae","fromSide":"right","toNode":"ba3d5e04900eaa4e","toSide":"left"},
+		{"id":"73d460b7ac40b3dd","fromNode":"243ce2ce4a01e4f7","fromSide":"right","toNode":"ba3d5e04900eaa4e","toSide":"left"},
+		{"id":"8617ef3ad0b53afb","fromNode":"60b46b19ec446119","fromSide":"right","toNode":"ba3d5e04900eaa4e","toSide":"left"}
+	]
+}

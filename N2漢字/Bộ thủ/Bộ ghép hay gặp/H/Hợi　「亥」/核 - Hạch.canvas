@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"df0ba762c530deae","x":-137,"y":-33,"width":250,"height":60,"type":"text","text":"核 - Hạch"},
+		{"id":"ca094234e4976d2d","x":-540,"y":200,"width":153,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hợi　「亥」/Hợi　「亥」.canvas"},
+		{"id":"9bfc2bebd033aa73","x":-571,"y":-320,"width":184,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"e526e1b88928365b","fromNode":"ca094234e4976d2d","fromSide":"right","toNode":"df0ba762c530deae","toSide":"left"},
+		{"id":"97d6cff89a9db0bb","fromNode":"9bfc2bebd033aa73","fromSide":"right","toNode":"df0ba762c530deae","toSide":"left"}
+	]
+}

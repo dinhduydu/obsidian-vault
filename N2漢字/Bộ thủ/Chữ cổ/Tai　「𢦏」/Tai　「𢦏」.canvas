@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3f7c49f4ed5c5468","type":"text","text":"Tai　「𢦏」","x":-120,"y":-40,"width":250,"height":60},
+		{"id":"b06bfe71ec8dadd5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-460,"y":-280,"width":168,"height":138},
+		{"id":"5ad142336a430b1b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-443,"y":120,"width":151,"height":164},
+		{"id":"ebf4fb28886d8d27","x":-1400,"y":-319,"width":302,"height":108,"type":"text","text":"Nghĩa ban đầu là:\n\nCắt vải để may quần áo."},
+		{"id":"7b415adcf89da7cc","x":-1000,"y":-92,"width":264,"height":165,"type":"text","text":"Từ đó mở rộng thành:\n\nCắt, xén.\nMay đo.\nPhán đoán, quyết định.\nKiềm chế, điều chỉnh."}
+	],
+	"edges":[
+		{"id":"201ab1ca65394de1","fromNode":"b06bfe71ec8dadd5","fromSide":"right","toNode":"3f7c49f4ed5c5468","toSide":"left"},
+		{"id":"8d637c88959bb957","fromNode":"5ad142336a430b1b","fromSide":"right","toNode":"3f7c49f4ed5c5468","toSide":"left"},
+		{"id":"26347e5fdb446ada","fromNode":"ebf4fb28886d8d27","fromSide":"bottom","toNode":"7b415adcf89da7cc","toSide":"top"},
+		{"id":"ce14a20852be66e3","fromNode":"7b415adcf89da7cc","fromSide":"right","toNode":"3f7c49f4ed5c5468","toSide":"left"}
+	]
+}

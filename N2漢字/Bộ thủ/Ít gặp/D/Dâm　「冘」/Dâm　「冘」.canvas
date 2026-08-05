@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ac835440b854bf1d","type":"text","text":"Dâm　「冘」","x":-80,"y":-52,"width":250,"height":60},
+		{"id":"5c84469987b09a8d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dâm　「冘」/沈 - Trầm.canvas","x":340,"y":-340,"width":173,"height":137},
+		{"id":"6dd3502c99c03c75","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":0,"y":-399,"width":155,"height":118},
+		{"id":"33fb0c2d56a053e4","x":-480,"y":60,"width":192,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
+		{"id":"1ea66c027f7b007d","x":-438,"y":-203,"width":150,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"791718a9b576b73c","fromNode":"ac835440b854bf1d","fromSide":"right","toNode":"5c84469987b09a8d","toSide":"left"},
+		{"id":"51a8ec608e829c20","fromNode":"6dd3502c99c03c75","fromSide":"right","toNode":"5c84469987b09a8d","toSide":"left"},
+		{"id":"c29928f046c48450","fromNode":"33fb0c2d56a053e4","fromSide":"right","toNode":"ac835440b854bf1d","toSide":"left"},
+		{"id":"d71cb22405e1b503","fromNode":"1ea66c027f7b007d","fromSide":"right","toNode":"ac835440b854bf1d","toSide":"left"}
+	]
+}

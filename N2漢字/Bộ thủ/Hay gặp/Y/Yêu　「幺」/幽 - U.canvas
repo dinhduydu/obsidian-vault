@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"865542041aa78389","x":-145,"y":-49,"width":250,"height":60,"type":"text","text":"幽 - U"},
+		{"id":"e4bbef4903b63735","x":-480,"y":100,"width":134,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"},
+		{"id":"6e7a8cab2d3e59d1","x":-518,"y":-280,"width":172,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"cbd263c06d3d4192","fromNode":"e4bbef4903b63735","fromSide":"right","toNode":"865542041aa78389","toSide":"left"},
+		{"id":"7d0e6f4754fe548d","fromNode":"6e7a8cab2d3e59d1","fromSide":"right","toNode":"865542041aa78389","toSide":"left"}
+	]
+}

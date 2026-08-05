@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a1920b20e65775b","x":-155,"y":-67,"width":250,"height":60,"type":"text","text":"磁 - Từ"},
+		{"id":"4b64a3304760bc82","x":-540,"y":-300,"width":197,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"e7eac3b6efd12ead","x":-517,"y":120,"width":174,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tư　「兹」/Tư　「兹」.canvas"}
+	],
+	"edges":[
+		{"id":"ce6c094469046706","fromNode":"e7eac3b6efd12ead","fromSide":"right","toNode":"4a1920b20e65775b","toSide":"left"},
+		{"id":"e97b1228a3b7d359","fromNode":"4b64a3304760bc82","fromSide":"right","toNode":"4a1920b20e65775b","toSide":"left"}
+	]
+}

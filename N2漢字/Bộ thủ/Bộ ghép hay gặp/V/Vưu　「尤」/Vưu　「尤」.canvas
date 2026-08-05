@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2f9527aeb9246835","type":"text","text":"Vưu　「尤」","x":-105,"y":-31,"width":250,"height":60},
+		{"id":"5abc17d5d2819e6f","x":460,"y":-280,"width":195,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vưu　「尤」/就 - Tựu/就 - Tựu.canvas"},
+		{"id":"0db351c7adde3d1a","x":1020,"y":-580,"width":220,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Vưu　「尤」/就 - Tựu/蹴 - Xúc.canvas"},
+		{"id":"054eec1deb1a148b","x":600,"y":-760,"width":205,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"3179b39293f44b0c","fromNode":"2f9527aeb9246835","fromSide":"right","toNode":"5abc17d5d2819e6f","toSide":"left"},
+		{"id":"3a2b3c74841efd82","fromNode":"5abc17d5d2819e6f","fromSide":"right","toNode":"0db351c7adde3d1a","toSide":"left"},
+		{"id":"8fd2bdefef1fda52","fromNode":"054eec1deb1a148b","fromSide":"right","toNode":"0db351c7adde3d1a","toSide":"left"}
+	]
+}

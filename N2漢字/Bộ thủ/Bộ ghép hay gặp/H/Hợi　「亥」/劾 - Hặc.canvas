@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ce97c22e2f156ae7","x":-92,"y":-49,"width":250,"height":60,"type":"text","text":"劾 - Hặc"},
+		{"id":"5fd6247457bd89c8","x":-640,"y":-400,"width":210,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hợi　「亥」/Hợi　「亥」.canvas"},
+		{"id":"78617c0504903d0a","x":-640,"y":100,"width":210,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"1b44c937fda56986","fromNode":"5fd6247457bd89c8","fromSide":"right","toNode":"ce97c22e2f156ae7","toSide":"left"},
+		{"id":"c9d46936b893d452","fromNode":"78617c0504903d0a","fromSide":"right","toNode":"ce97c22e2f156ae7","toSide":"left"}
+	]
+}

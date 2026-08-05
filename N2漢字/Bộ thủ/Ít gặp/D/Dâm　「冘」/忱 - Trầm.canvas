@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ecf9a42e30ad3e66","x":-136,"y":-84,"width":250,"height":60,"type":"text","text":"忱 - Trầm"},
+		{"id":"b034601c55a99b34","x":-460,"y":-280,"width":145,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"},
+		{"id":"474add6441d2a61b","x":-461,"y":0,"width":146,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dâm　「冘」/Dâm　「冘」.canvas"}
+	],
+	"edges":[
+		{"id":"41de1d58e67abfa4","fromNode":"b034601c55a99b34","fromSide":"right","toNode":"ecf9a42e30ad3e66","toSide":"left"},
+		{"id":"b8423b5389f91789","fromNode":"474add6441d2a61b","fromSide":"right","toNode":"ecf9a42e30ad3e66","toSide":"left"}
+	]
+}

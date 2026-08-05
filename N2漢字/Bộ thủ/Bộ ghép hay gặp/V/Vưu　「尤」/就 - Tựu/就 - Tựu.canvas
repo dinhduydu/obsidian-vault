@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1572ad8a35207f96","x":-122,"y":-56,"width":250,"height":60,"type":"text","text":"就 - Tựu"},
+		{"id":"875821953f28954f","x":-540,"y":-300,"width":191,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/Kinh　「京」.canvas"}
+	],
+	"edges":[
+		{"id":"ff468b9d5cde3505","fromNode":"875821953f28954f","fromSide":"right","toNode":"1572ad8a35207f96","toSide":"left"}
+	]
+}

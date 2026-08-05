@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e4a9e9a822fbcdcf","x":-136,"y":-56,"width":250,"height":60,"type":"text","text":"糾 - Củ"},
+		{"id":"a1e6a82fd3631ee9","x":-520,"y":-380,"width":142,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Củ, Cưu　「丩」/Củ, Cưu　「丩」.canvas"},
+		{"id":"5b5d758006c25f47","x":-520,"y":40,"width":143,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"4870a89062184f66","fromNode":"a1e6a82fd3631ee9","fromSide":"right","toNode":"e4a9e9a822fbcdcf","toSide":"left"},
+		{"id":"22ff23bdd4031960","fromNode":"5b5d758006c25f47","fromSide":"right","toNode":"e4a9e9a822fbcdcf","toSide":"left"}
+	]
+}

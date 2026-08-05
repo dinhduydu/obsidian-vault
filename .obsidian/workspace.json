@@ -302,19 +302,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược/諾 - Nặc.canvas",
+                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/異 - Dị/異 - Dị.canvas",
                 "viewState": {
-                  "x": -224.61396135690597,
-                  "y": -66.78634338018999,
-                  "zoom": -0.3333333333333333
+                  "x": -207.5,
+                  "y": 65.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "諾 - Nặc"
+              "title": "異 - Dị"
+            }
+          },
+          {
+            "id": "c6b00acd3cba2521",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/託 - Thác.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "託 - Thác"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -348,7 +365,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "削減",
+                "query": "乇",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -468,30 +485,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "c6b00acd3cba2521",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược/匿 - Nặc.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược/諾 - Nặc.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược/若 - Nhược.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/若 - Nhược",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu/右 - Hữu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/右 - Hữu",
-    "N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/慶 - Khánh.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/Lộc　「鹿」.canvas",
-    "N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/愛 - Ái/愛 - Ái.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 1/愛 - Ái.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/U/憂 - Ưu/優 - Ưu.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/U/憂 - Ưu/憂 - Ưu.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/U/憂 - Ưu",
-    "N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/僅 - Cận.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/U",
-    "N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/敬 - Kính",
-    "N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/句 - Cú/Untitled.base",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/宅 - Trạch.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/託 - Thác.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/Thác　「乇」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/頓 - Đốn.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/鈍 - Độn.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/屯 - Đôn, Truân.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/Triệt　「屮」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王/斑 - Ban.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」/Văn　「文」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王/班 - Ban.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/唐 - Đường",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hồi　「回」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Untitled",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hợi　「亥」",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」",
+    "N2漢字/Bộ thủ/Ít gặp/D/Dâm　「冘」",
     "Chữa đề/Learning_Profile/Collocation/対処方法.md",
-    "N2漢字/Bộ thủ/Ít gặp/B/Ba　「巴」",
     "Chữa đề/Learning_Profile/FixedExpression/句読点.md",
     "Chữa đề/Learning_Profile/Kanji/偉い.md",
     "網膜.md",

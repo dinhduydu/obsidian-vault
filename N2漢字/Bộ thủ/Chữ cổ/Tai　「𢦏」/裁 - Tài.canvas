@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c21bfd1305066dd6","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"裁 - Tài"},
+		{"id":"153a8f60fbb3d87f","x":-560,"y":-280,"width":147,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tai　「𢦏」/Tai　「𢦏」.canvas"},
+		{"id":"252b8f0a42b7f5db","x":-642,"y":-29,"width":250,"height":60,"type":"text","text":"phán xét"},
+		{"id":"1d9fa6781718674c","x":-575,"y":160,"width":178,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"b49a0683e9bf5e63","fromNode":"153a8f60fbb3d87f","fromSide":"right","toNode":"c21bfd1305066dd6","toSide":"left"},
+		{"id":"784e068b4b714b11","fromNode":"1d9fa6781718674c","fromSide":"right","toNode":"c21bfd1305066dd6","toSide":"left"},
+		{"id":"ce017821640a2a51","fromNode":"252b8f0a42b7f5db","fromSide":"right","toNode":"c21bfd1305066dd6","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"65e78b2931c38bd3","x":-117,"y":-50,"width":250,"height":60,"type":"text","text":"紅 - Hồng"},
+		{"id":"77e832c98474b1fa","x":-580,"y":180,"width":195,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"},
+		{"id":"431254620d27810d","x":-580,"y":-340,"width":195,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"37c73df00e58a00d","fromNode":"77e832c98474b1fa","fromSide":"right","toNode":"65e78b2931c38bd3","toSide":"left"},
+		{"id":"39944b2e1732f933","fromNode":"431254620d27810d","fromSide":"right","toNode":"65e78b2931c38bd3","toSide":"left"}
+	]
+}

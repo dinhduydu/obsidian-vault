@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a21115efe668fa84","x":-133,"y":-38,"width":250,"height":60,"type":"text","text":"挫 - Toả"},
+		{"id":"2a9047fde0de5295","x":-500,"y":-260,"width":166,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"71330de81294c600","x":-500,"y":220,"width":171,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」/Toạ　「坐」.canvas"}
+	],
+	"edges":[
+		{"id":"2f2b6a76b5580724","fromNode":"71330de81294c600","fromSide":"right","toNode":"a21115efe668fa84","toSide":"left"},
+		{"id":"9b52014c4662762f","fromNode":"2a9047fde0de5295","fromSide":"right","toNode":"a21115efe668fa84","toSide":"left"}
+	]
+}

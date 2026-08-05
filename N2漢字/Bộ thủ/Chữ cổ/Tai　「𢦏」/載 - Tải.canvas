@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4fdc7c91fcecb340","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"載 - Tải"},
+		{"id":"c7e68b0688aef820","x":-540,"y":-360,"width":148,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tai　「𢦏」/Tai　「𢦏」.canvas"},
+		{"id":"2a2700e00964c4d4","x":-596,"y":30,"width":204,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"}
+	],
+	"edges":[
+		{"id":"ca3abd729a0defdb","fromNode":"c7e68b0688aef820","fromSide":"right","toNode":"4fdc7c91fcecb340","toSide":"left"},
+		{"id":"6a1953800a091475","fromNode":"2a2700e00964c4d4","fromSide":"right","toNode":"4fdc7c91fcecb340","toSide":"left","label":"vận tải"}
+	]
+}
