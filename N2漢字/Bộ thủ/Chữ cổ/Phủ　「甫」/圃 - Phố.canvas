@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8a4677ccd36f4560","type":"text","text":"圃 - Phố","x":-103,"y":-11,"width":250,"height":60},
+		{"id":"c9f80c3ce63c404e","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas","x":-660,"y":200,"width":227,"height":173},
+		{"id":"d17b33dbcc261be3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas","x":-635,"y":-300,"width":178,"height":213}
+	],
+	"edges":[
+		{"id":"ba90a3d325ba5501","fromNode":"c9f80c3ce63c404e","fromSide":"right","toNode":"8a4677ccd36f4560","toSide":"left"},
+		{"id":"9e94a346e2b24a5a","fromNode":"d17b33dbcc261be3","fromSide":"right","toNode":"8a4677ccd36f4560","toSide":"left","label":"vườn rau"}
+	]
+}

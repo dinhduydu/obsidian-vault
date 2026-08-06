@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52fb73be1ee74be4","x":-87,"y":-40,"width":250,"height":60,"type":"text","text":"葡 - Bồ"},
+		{"id":"7df376d899ca4670","x":-460,"y":60,"width":149,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas"},
+		{"id":"cf37292531f2413f","x":-740,"y":-171,"width":199,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"56b928e461f12918","x":-480,"y":-360,"width":223,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"c543a08b3f5c2949","fromNode":"7df376d899ca4670","fromSide":"right","toNode":"52fb73be1ee74be4","toSide":"left"},
+		{"id":"928b577dd7ca58de","fromNode":"cf37292531f2413f","fromSide":"right","toNode":"52fb73be1ee74be4","toSide":"left"},
+		{"id":"0e4d0641ee1f3f4f","fromNode":"56b928e461f12918","fromSide":"right","toNode":"52fb73be1ee74be4","toSide":"left"}
+	]
+}

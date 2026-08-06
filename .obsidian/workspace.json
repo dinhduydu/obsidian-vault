@@ -319,15 +319,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/託 - Thác.canvas",
+                "file": "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/圃 - Phố.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 93,
+                  "x": -256.5,
+                  "y": 36.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "託 - Thác"
+              "title": "圃 - Phố"
             }
           }
         ],
@@ -365,7 +365,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "乇",
+                "query": "甫",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -487,19 +487,20 @@
   },
   "active": "c6b00acd3cba2521",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/宅 - Trạch.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/舗 - Phố.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/浦 - Phổ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/圃 - Phố.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/葡 - Bồ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/哺 - Bổ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/捕 - Bổ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/補 - Bổ.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/託 - Thác.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/宅 - Trạch.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」/Thác　「乇」.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/頓 - Đốn.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Thác　「乇」",
-    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/鈍 - Độn.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/屯 - Đôn, Truân.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/Triệt　「屮」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王/斑 - Ban.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Văn　「文」/Văn　「文」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王/班 - Ban.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/王◇王",
     "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/唐 - Đường",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên",
@@ -507,7 +508,6 @@
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/V/Untitled",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/H/Hợi　「亥」",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」",
-    "N2漢字/Bộ thủ/Ít gặp/D/Dâm　「冘」",
     "Chữa đề/Learning_Profile/Collocation/対処方法.md",
     "Chữa đề/Learning_Profile/FixedExpression/句読点.md",
     "Chữa đề/Learning_Profile/Kanji/偉い.md",

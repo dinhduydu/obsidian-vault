@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1dbf879f125909c3","x":-78,"y":-26,"width":250,"height":60,"type":"text","text":"補 - Bổ"},
+		{"id":"88425539272b26d2","x":-580,"y":-280,"width":208,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas"},
+		{"id":"c704c90d288cbb2a","x":-584,"y":140,"width":212,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"}
+	],
+	"edges":[
+		{"id":"0b232937dc405c14","fromNode":"88425539272b26d2","fromSide":"right","toNode":"1dbf879f125909c3","toSide":"left"},
+		{"id":"de820980664dd316","fromNode":"c704c90d288cbb2a","fromSide":"right","toNode":"1dbf879f125909c3","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2b10e7277dc8daa3","x":-136,"y":-39,"width":250,"height":60,"type":"text","text":"哺 - Bổ"},
+		{"id":"b41055e62d0cbbca","x":-580,"y":100,"width":194,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas"},
+		{"id":"9b9b5f349a366410","x":-555,"y":-300,"width":144,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"5a92f03c4ed719b7","fromNode":"b41055e62d0cbbca","fromSide":"right","toNode":"2b10e7277dc8daa3","toSide":"left"},
+		{"id":"77de68f1da62fb5a","fromNode":"9b9b5f349a366410","fromSide":"right","toNode":"2b10e7277dc8daa3","toSide":"left"}
+	]
+}

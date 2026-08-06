@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"95a528c63185ec9a","x":-153,"y":-7,"width":250,"height":60,"type":"text","text":"浦 - Phổ"},
+		{"id":"b56ce2757e36b4f0","x":-560,"y":220,"width":183,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas"},
+		{"id":"0dafb04936034952","x":-557,"y":-220,"width":180,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"1054eb70a9dcf09f","fromNode":"b56ce2757e36b4f0","fromSide":"right","toNode":"95a528c63185ec9a","toSide":"left"},
+		{"id":"7d5e00b7bc7eab2c","fromNode":"0dafb04936034952","fromSide":"right","toNode":"95a528c63185ec9a","toSide":"left"}
+	]
+}

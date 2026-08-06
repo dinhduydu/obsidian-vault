@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"26fd068de89409da","x":-58,"y":-33,"width":250,"height":60,"type":"text","text":"舗 - Phố"},
+		{"id":"5ec86e732a0a56d1","x":-560,"y":-200,"width":250,"height":60,"type":"text","text":"phố xá"},
+		{"id":"c76736a7b08139f5","x":-1000,"y":-408,"width":181,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/舎 - Xá.canvas"},
+		{"id":"49afb8b76eec15d7","x":-717,"y":60,"width":315,"height":258,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/Phủ　「甫」.canvas"}
+	],
+	"edges":[
+		{"id":"f03bcba779faa986","fromNode":"5ec86e732a0a56d1","fromSide":"right","toNode":"26fd068de89409da","toSide":"left"},
+		{"id":"b31c623fc08f5f73","fromNode":"c76736a7b08139f5","fromSide":"right","toNode":"5ec86e732a0a56d1","toSide":"left"},
+		{"id":"2a7e25d29cd11d49","fromNode":"49afb8b76eec15d7","fromSide":"right","toNode":"26fd068de89409da","toSide":"left"}
+	]
+}
