@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ef312fb5725016f5","x":-128,"y":-49,"width":250,"height":60,"type":"text","text":"臓 - Tạng"},
+		{"id":"7feb911a0c6625e3","x":-520,"y":-320,"width":161,"height":201,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/蔵 - Tàng/蔵 - Tàng.canvas"},
+		{"id":"3208ee2fc2c45149","x":-622,"y":140,"width":205,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"4f8d07d9c5c04f25","fromNode":"7feb911a0c6625e3","fromSide":"right","toNode":"ef312fb5725016f5","toSide":"left"},
+		{"id":"3a99432809c4d282","fromNode":"3208ee2fc2c45149","fromSide":"right","toNode":"ef312fb5725016f5","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3edf96ec63273214","x":-126,"y":-42,"width":250,"height":60,"type":"text","text":"蔵 - Tàng"},
+		{"id":"ed8e0695b57bbe99","x":-440,"y":-320,"width":168,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"1a151eb97a3f2eea","x":-680,"y":-12,"width":151,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"232eda6f2e3f945e","x":-400,"y":135,"width":199,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"fbe640a28ff8a260","x":-718,"y":241,"width":189,"height":231,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/Thần　「臣」.canvas"}
+	],
+	"edges":[
+		{"id":"9767f56f1d0af5f2","fromNode":"ed8e0695b57bbe99","fromSide":"right","toNode":"3edf96ec63273214","toSide":"left"},
+		{"id":"7c9a030e5335703c","fromNode":"1a151eb97a3f2eea","fromSide":"right","toNode":"3edf96ec63273214","toSide":"left"},
+		{"id":"cce32bea00f1f716","fromNode":"232eda6f2e3f945e","fromSide":"right","toNode":"3edf96ec63273214","toSide":"left"},
+		{"id":"be6498dc53250d86","fromNode":"fbe640a28ff8a260","fromSide":"right","toNode":"3edf96ec63273214","toSide":"left"}
+	]
+}
