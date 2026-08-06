@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f8d68499345d07a9","x":-119,"y":-39,"width":250,"height":60,"type":"text","text":"喿 - Táo"},
+		{"id":"4c2efc2cea62f659","x":-520,"y":-280,"width":229,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/品 - Phẩm.canvas"},
+		{"id":"de2bfd23e3e0f76f","x":-508,"y":120,"width":217,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"346be0de87409886","fromNode":"4c2efc2cea62f659","fromSide":"right","toNode":"f8d68499345d07a9","toSide":"left"},
+		{"id":"152388aedab64ca5","fromNode":"de2bfd23e3e0f76f","fromSide":"right","toNode":"f8d68499345d07a9","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8e1e38e20f71dd01","x":-109,"y":-55,"width":250,"height":60,"type":"text","text":"匹 - Thất"},
+		{"id":"dab6e0e3ea18a8b0","x":-640,"y":-380,"width":237,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas"},
+		{"id":"5223c090374fc871","x":-636,"y":80,"width":233,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"7366d526771019a3","fromNode":"dab6e0e3ea18a8b0","fromSide":"right","toNode":"8e1e38e20f71dd01","toSide":"left"},
+		{"id":"95d87e6a10ca7930","fromNode":"5223c090374fc871","fromSide":"right","toNode":"8e1e38e20f71dd01","toSide":"left"}
+	]
+}

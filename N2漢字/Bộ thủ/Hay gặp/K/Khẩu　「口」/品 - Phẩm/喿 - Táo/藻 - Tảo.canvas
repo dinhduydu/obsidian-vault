@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92ecf3949b2568d5","x":-78,"y":-49,"width":250,"height":60,"type":"text","text":"藻 - Tảo"},
+		{"id":"2501b0b1aedca946","x":-500,"y":80,"width":236,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/喿 - Táo/喿 - Táo.canvas"},
+		{"id":"6ea1cdc320990401","x":-471,"y":-380,"width":179,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"599b14d4672f7fb7","x":-720,"y":-119,"width":188,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"0f6616da66c2e04e","fromNode":"2501b0b1aedca946","fromSide":"right","toNode":"92ecf3949b2568d5","toSide":"left"},
+		{"id":"e220d597083a15da","fromNode":"6ea1cdc320990401","fromSide":"right","toNode":"92ecf3949b2568d5","toSide":"left"},
+		{"id":"67a0c38aa25cfb6f","fromNode":"599b14d4672f7fb7","fromSide":"right","toNode":"92ecf3949b2568d5","toSide":"left"}
+	]
+}

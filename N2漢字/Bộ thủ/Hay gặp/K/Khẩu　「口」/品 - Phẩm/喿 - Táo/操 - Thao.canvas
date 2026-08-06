@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b3433dd78c57b403","x":-142,"y":-40,"width":250,"height":60,"type":"text","text":"操 - Thao"},
+		{"id":"cd5967fa45e2bfee","x":-600,"y":120,"width":246,"height":244,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/喿 - Táo/喿 - Táo.canvas"},
+		{"id":"8ba527f7502f66d7","x":-583,"y":-240,"width":213,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"049000936d0a0d5e","fromNode":"cd5967fa45e2bfee","fromSide":"right","toNode":"b3433dd78c57b403","toSide":"left"},
+		{"id":"6b5ebbbd6ad0b524","fromNode":"8ba527f7502f66d7","fromSide":"right","toNode":"b3433dd78c57b403","toSide":"left"}
+	]
+}

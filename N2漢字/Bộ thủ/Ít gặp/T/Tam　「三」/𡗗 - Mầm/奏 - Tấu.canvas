@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fdc639f3d3052ce0","x":-126,"y":-45,"width":250,"height":60,"type":"text","text":"奏 - Tấu"},
+		{"id":"178e72c99adaf952","x":-540,"y":-300,"width":171,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/𡗗 - Mầm/𡗗 - Mầm.canvas"},
+		{"id":"07fb07ca630e4282","x":-520,"y":60,"width":171,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「天」/Thiên　「天」.canvas"}
+	],
+	"edges":[
+		{"id":"59cdea8b7fee5925","fromNode":"178e72c99adaf952","fromSide":"right","toNode":"fdc639f3d3052ce0","toSide":"left"},
+		{"id":"7329115ab58ea3a5","fromNode":"07fb07ca630e4282","fromSide":"right","toNode":"fdc639f3d3052ce0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a0a5d6c88438393e","x":-92,"y":-41,"width":250,"height":60,"type":"text","text":"燥 - Táo"},
+		{"id":"a8f1959b3d040590","x":-440,"y":140,"width":136,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/喿 - Táo/喿 - Táo.canvas"},
+		{"id":"c46dfe05683648e2","x":-481,"y":-235,"width":219,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas"}
+	],
+	"edges":[
+		{"id":"f71632d66d1963fe","fromNode":"a8f1959b3d040590","fromSide":"right","toNode":"a0a5d6c88438393e","toSide":"left"},
+		{"id":"2c2a7d10376c75a7","fromNode":"c46dfe05683648e2","fromSide":"right","toNode":"a0a5d6c88438393e","toSide":"left"}
+	]
+}

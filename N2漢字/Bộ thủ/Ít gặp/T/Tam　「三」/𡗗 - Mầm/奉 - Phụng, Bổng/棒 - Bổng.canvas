@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"afeff568022e03cf","type":"text","text":"棒 - Bổng","x":-180,"y":-7,"width":250,"height":60},
+		{"id":"e148ebef07b6df18","x":-500,"y":-300,"width":176,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/𡗗 - Mầm/奉 - Phụng, Bổng/奉 - Phụng, Bổng.canvas"},
+		{"id":"e3a5fb542c973300","x":-580,"y":100,"width":226,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"f5dd63aacef5d4a2","fromNode":"e148ebef07b6df18","fromSide":"right","toNode":"afeff568022e03cf","toSide":"left"},
+		{"id":"f13ebfcbcebafa04","fromNode":"e3a5fb542c973300","fromSide":"right","toNode":"afeff568022e03cf","toSide":"left"}
+	]
+}

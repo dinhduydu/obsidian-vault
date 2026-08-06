@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"84e1e527e01090bb","x":-114,"y":-42,"width":250,"height":60,"type":"text","text":"繰 - Sào, Tao"},
+		{"id":"8bec557db6bf6379","x":-460,"y":120,"width":212,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/品 - Phẩm/喿 - Táo/喿 - Táo.canvas"},
+		{"id":"931a58a2d038d765","x":-574,"y":-240,"width":220,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"daa975c3e4506d25","fromNode":"8bec557db6bf6379","fromSide":"right","toNode":"84e1e527e01090bb","toSide":"left"},
+		{"id":"69a2bcbaa9258284","fromNode":"931a58a2d038d765","fromSide":"right","toNode":"84e1e527e01090bb","toSide":"left"}
+	]
+}

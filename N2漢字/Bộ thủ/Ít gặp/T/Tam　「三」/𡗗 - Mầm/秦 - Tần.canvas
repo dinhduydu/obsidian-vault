@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e0ea70015eef6730","x":-104,"y":-29,"width":250,"height":60,"type":"text","text":"秦 - Tần"},
+		{"id":"17949741ef5b036c","x":-520,"y":140,"width":171,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"},
+		{"id":"78ade9ae1b340d31","x":-557,"y":-320,"width":208,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/𡗗 - Mầm/𡗗 - Mầm.canvas"}
+	],
+	"edges":[
+		{"id":"cf6d397cbb7dd9b6","fromNode":"17949741ef5b036c","fromSide":"right","toNode":"e0ea70015eef6730","toSide":"left"},
+		{"id":"207bac41eb6f5437","fromNode":"78ade9ae1b340d31","fromSide":"right","toNode":"e0ea70015eef6730","toSide":"left"}
+	]
+}

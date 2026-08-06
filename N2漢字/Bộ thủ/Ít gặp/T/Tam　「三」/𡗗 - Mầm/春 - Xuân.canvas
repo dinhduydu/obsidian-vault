@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"009d815345d0b4b6","x":-125,"y":-29,"width":250,"height":60,"type":"text","text":"春 - Xuân"},
+		{"id":"f82076a64480814b","x":-580,"y":-360,"width":188,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/𡗗 - Mầm/𡗗 - Mầm.canvas"},
+		{"id":"5289b789cf8eda18","x":-591,"y":1,"width":199,"height":216,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"ba44673b527ae06f","fromNode":"f82076a64480814b","fromSide":"right","toNode":"009d815345d0b4b6","toSide":"left"},
+		{"id":"bf63c68e212d87a9","fromNode":"5289b789cf8eda18","fromSide":"right","toNode":"009d815345d0b4b6","toSide":"left"}
+	]
+}

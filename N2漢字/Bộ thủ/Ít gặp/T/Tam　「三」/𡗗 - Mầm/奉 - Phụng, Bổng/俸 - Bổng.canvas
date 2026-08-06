@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24e696ada99ae2fd","x":-96,"y":-14,"width":250,"height":60,"type":"text","text":"俸 - Bổng"},
+		{"id":"a0dc42056c546f0c","x":-460,"y":-240,"width":208,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/𡗗 - Mầm/奉 - Phụng, Bổng/奉 - Phụng, Bổng.canvas"},
+		{"id":"a9305248d6f010f5","x":-475,"y":160,"width":223,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"441f39d708b7d002","fromNode":"a0dc42056c546f0c","fromSide":"right","toNode":"24e696ada99ae2fd","toSide":"left"},
+		{"id":"edadaa8df458afde","fromNode":"a9305248d6f010f5","fromSide":"right","toNode":"24e696ada99ae2fd","toSide":"left"}
+	]
+}

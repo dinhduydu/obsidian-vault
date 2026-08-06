@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3d2d7d7abb70a47b","x":-129,"y":-32,"width":250,"height":60,"type":"text","text":"𡗗 - Mầm"},
+		{"id":"4ce6cccc990941d4","x":-560,"y":-320,"width":228,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/Tam　「三」.canvas"},
+		{"id":"132758447ca08c02","x":-547,"y":100,"width":202,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"}
+	],
+	"edges":[
+		{"id":"3213d41841b23051","fromNode":"4ce6cccc990941d4","fromSide":"right","toNode":"3d2d7d7abb70a47b","toSide":"left"},
+		{"id":"d831de0c6743952c","fromNode":"132758447ca08c02","fromSide":"right","toNode":"3d2d7d7abb70a47b","toSide":"left"}
+	]
+}
