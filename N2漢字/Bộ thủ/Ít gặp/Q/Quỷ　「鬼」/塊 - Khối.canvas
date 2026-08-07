@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d990893ac9b997bb","x":-90,"y":-29,"width":250,"height":60,"type":"text","text":"塊 - Khối"},
+		{"id":"57f9fd75a3c8dc1c","x":-380,"y":160,"width":134,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/Q/Quỷ　「鬼」/Quỷ　「鬼」.canvas"},
+		{"id":"7bd94a9cf68f6621","x":-380,"y":-240,"width":136,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"df3cf822bf688a8c","fromNode":"57f9fd75a3c8dc1c","fromSide":"right","toNode":"d990893ac9b997bb","toSide":"left"},
+		{"id":"4c398835a73de0e7","fromNode":"7bd94a9cf68f6621","fromSide":"right","toNode":"d990893ac9b997bb","toSide":"left"}
+	]
+}

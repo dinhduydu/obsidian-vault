@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfaa63390a08a05e","x":-114,"y":-48,"width":250,"height":60,"type":"text","text":"柳 - Liễu"},
+		{"id":"6f71f07a06a5b4db","x":-440,"y":100,"width":130,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mão　「卯」/Mão　「卯」.canvas"},
+		{"id":"958a4c8e5e8e1177","x":-454,"y":-300,"width":144,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"083b3df35c9cf14a","fromNode":"6f71f07a06a5b4db","fromSide":"right","toNode":"bfaa63390a08a05e","toSide":"left"},
+		{"id":"e5c63535e0f0b77d","fromNode":"958a4c8e5e8e1177","fromSide":"right","toNode":"bfaa63390a08a05e","toSide":"left"}
+	]
+}

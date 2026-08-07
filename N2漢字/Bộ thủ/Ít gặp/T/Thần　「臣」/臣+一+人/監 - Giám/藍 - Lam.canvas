@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2bf7a9dd1ae93085","x":-116,"y":-28,"width":250,"height":60,"type":"text","text":"藍 - Lam"},
+		{"id":"d637789ff334433d","x":-460,"y":140,"width":140,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臣+一+人/監 - Giám/艦 - Hạm.canvas"},
+		{"id":"08ab1087b944c9eb","x":-460,"y":-220,"width":140,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"616f39c1bd3d783a","fromNode":"d637789ff334433d","fromSide":"right","toNode":"2bf7a9dd1ae93085","toSide":"left"},
+		{"id":"b4a1bbc1bdbe7a03","fromNode":"08ab1087b944c9eb","fromSide":"right","toNode":"2bf7a9dd1ae93085","toSide":"left"}
+	]
+}

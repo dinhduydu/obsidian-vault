@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d57fa862c91bf164","x":-83,"y":-16,"width":250,"height":60,"type":"text","text":"魂 - Hồn"},
+		{"id":"aaa6beb3c9bfc3e3","x":-360,"y":-240,"width":148,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/Q/Quỷ　「鬼」/Quỷ　「鬼」.canvas"},
+		{"id":"177b6a361bb934f5","x":-377,"y":120,"width":165,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vân　「云」/Vân　「云」.canvas"}
+	],
+	"edges":[
+		{"id":"c567a47d6354aa6a","fromNode":"aaa6beb3c9bfc3e3","fromSide":"right","toNode":"d57fa862c91bf164","toSide":"left"},
+		{"id":"781b32b4da35d06c","fromNode":"177b6a361bb934f5","fromSide":"right","toNode":"d57fa862c91bf164","toSide":"left"}
+	]
+}

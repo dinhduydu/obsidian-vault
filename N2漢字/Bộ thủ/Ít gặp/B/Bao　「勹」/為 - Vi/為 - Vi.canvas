@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"35af5d72f58b7aa9","x":-77,"y":-32,"width":250,"height":60,"type":"text","text":"為 - Vi"},
+		{"id":"f9d0a1092c328a9e","x":-460,"y":-66,"width":152,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"df8c68df00b2c57e","x":-460,"y":234,"width":152,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"},
+		{"id":"563a7aaa02c45c72","x":-460,"y":-326,"width":152,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"889cf77be7816e72","fromNode":"f9d0a1092c328a9e","fromSide":"right","toNode":"35af5d72f58b7aa9","toSide":"left"},
+		{"id":"eabdf0029b6ade49","fromNode":"df8c68df00b2c57e","fromSide":"right","toNode":"35af5d72f58b7aa9","toSide":"left"},
+		{"id":"8961c029b83294cf","fromNode":"563a7aaa02c45c72","fromSide":"right","toNode":"35af5d72f58b7aa9","toSide":"left"}
+	]
+}

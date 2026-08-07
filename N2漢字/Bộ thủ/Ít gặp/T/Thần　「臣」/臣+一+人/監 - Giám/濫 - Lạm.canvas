@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8209eed64573ff6d","type":"text","text":"濫 - Lạm","x":-69,"y":-17,"width":250,"height":60},
+		{"id":"deb0e6784a7672e0","x":-340,"y":100,"width":134,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臣+一+人/監 - Giám/監 - Giám.canvas"},
+		{"id":"95544209f1d098d4","x":-341,"y":-180,"width":135,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"8fe5f8ad12c36646","fromNode":"deb0e6784a7672e0","fromSide":"right","toNode":"8209eed64573ff6d","toSide":"left"},
+		{"id":"07eb4f9e41b5d3d0","fromNode":"95544209f1d098d4","fromSide":"right","toNode":"8209eed64573ff6d","toSide":"left"}
+	]
+}

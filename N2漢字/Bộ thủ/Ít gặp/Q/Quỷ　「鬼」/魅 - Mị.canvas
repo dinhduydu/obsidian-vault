@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca435c3ac8f58ec4","type":"text","text":"魅 - Mị","x":-125,"y":-40,"width":250,"height":60},
+		{"id":"275df1525d0c730f","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/Q/Quỷ　「鬼」/Quỷ　「鬼」.canvas","x":-420,"y":-260,"width":156,"height":113},
+		{"id":"65be855e44c11f47","x":-420,"y":100,"width":161,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/未 - Vị/未 - Vị.canvas"}
+	],
+	"edges":[
+		{"id":"58e3ed32a29a5bc7","fromNode":"275df1525d0c730f","fromSide":"right","toNode":"ca435c3ac8f58ec4","toSide":"left"},
+		{"id":"36b7c1e538321174","fromNode":"65be855e44c11f47","fromSide":"right","toNode":"ca435c3ac8f58ec4","toSide":"left"}
+	]
+}

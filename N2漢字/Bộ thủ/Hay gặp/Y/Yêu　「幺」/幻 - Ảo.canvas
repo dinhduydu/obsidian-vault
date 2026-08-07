@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f934d40a3269d24d","x":-105,"y":-27,"width":250,"height":60,"type":"text","text":"幻 - Ảo"},
+		{"id":"2b4dcec63c0ddd66","x":-420,"y":-260,"width":168,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Yêu　「幺」/Yêu　「幺」.canvas"}
+	],
+	"edges":[
+		{"id":"2b3b9b83f1cb2bfb","fromNode":"2b4dcec63c0ddd66","fromSide":"right","toNode":"f934d40a3269d24d","toSide":"left"}
+	]
+}

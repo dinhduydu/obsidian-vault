@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"b7fc2d5172e9efd6","x":-122,"y":-7,"width":250,"height":60,"type":"text","text":"卵 - Noãn"}
+		{"id":"b7fc2d5172e9efd6","type":"text","text":"卵 - Noãn","x":-122,"y":-7,"width":250,"height":60},
+		{"id":"ad743738388f9eaa","x":-520,"y":-220,"width":203,"height":150,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 15/卵 - Noãn.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2bd41971cb83e2ef","fromNode":"ad743738388f9eaa","fromSide":"right","toNode":"b7fc2d5172e9efd6","toSide":"left","label":"hậu tố"}
+	]
 }

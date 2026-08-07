@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"863802d69aa70154","x":-129,"y":-55,"width":250,"height":60,"type":"text","text":"舷 - Huyền"},
+		{"id":"a9959c0b348674c1","x":-380,"y":120,"width":128,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/Huyền　「玄」.canvas"},
+		{"id":"0c4967d56f187ea6","x":-400,"y":-280,"width":110,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas"}
+	],
+	"edges":[
+		{"id":"8dca48711c2c284f","fromNode":"a9959c0b348674c1","fromSide":"right","toNode":"863802d69aa70154","toSide":"left"},
+		{"id":"ebfb78aef1da803e","fromNode":"0c4967d56f187ea6","fromSide":"right","toNode":"863802d69aa70154","toSide":"left"}
+	]
+}

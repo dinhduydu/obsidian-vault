@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"77fb3f0ad478f26d","x":-141,"y":-51,"width":250,"height":60,"type":"text","text":"弦 - Huyền"},
+		{"id":"f2ac409c4e76f2df","x":-440,"y":-240,"width":117,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/Cung　「弓」.canvas"},
+		{"id":"71ad6e8e9c747654","x":-448,"y":120,"width":125,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/Huyền　「玄」.canvas"}
+	],
+	"edges":[
+		{"id":"f502ba439077dabf","fromNode":"f2ac409c4e76f2df","fromSide":"right","toNode":"77fb3f0ad478f26d","toSide":"left","label":"dây cung"},
+		{"id":"25ee93179911831f","fromNode":"71ad6e8e9c747654","fromSide":"right","toNode":"77fb3f0ad478f26d","toSide":"left"}
+	]
+}

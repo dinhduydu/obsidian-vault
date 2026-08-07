@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5bbad5cffef0b5c6","x":-129,"y":-46,"width":250,"height":60,"type":"text","text":"醜 - Xú"},
+		{"id":"09fc6cf1d25dcb1c","x":-500,"y":140,"width":177,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/Q/Quỷ　「鬼」/Quỷ　「鬼」.canvas"},
+		{"id":"d9527ef38a69274a","x":-500,"y":-240,"width":177,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"}
+	],
+	"edges":[
+		{"id":"33c7896025c87f63","fromNode":"09fc6cf1d25dcb1c","fromSide":"right","toNode":"5bbad5cffef0b5c6","toSide":"left"},
+		{"id":"ea6e6038deeed508","fromNode":"d9527ef38a69274a","fromSide":"right","toNode":"5bbad5cffef0b5c6","toSide":"left"}
+	]
+}

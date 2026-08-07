@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"92dd2c070e4a09a5","type":"text","text":"臣+一+𠂉","x":-111,"y":-34,"width":250,"height":60},
+		{"id":"6f66909e47c22c00","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-440,"y":-320,"width":180,"height":144},
+		{"id":"676ca951b620d76f","x":-440,"y":-96,"width":177,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"e3819d05cb34f0a2","x":-490,"y":200,"width":230,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/Thần　「臣」.canvas"}
+	],
+	"edges":[
+		{"id":"93d97d76dcfd4772","fromNode":"6f66909e47c22c00","fromSide":"right","toNode":"92dd2c070e4a09a5","toSide":"left"},
+		{"id":"624146c88a377c1e","fromNode":"676ca951b620d76f","fromSide":"right","toNode":"92dd2c070e4a09a5","toSide":"left"},
+		{"id":"549a438c75d95e35","fromNode":"e3819d05cb34f0a2","fromSide":"right","toNode":"92dd2c070e4a09a5","toSide":"left"}
+	]
+}

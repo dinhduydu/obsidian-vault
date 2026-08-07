@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"784ccd80d946e48f","type":"text","text":"覧 - Lãm","x":-102,"y":-26,"width":250,"height":60},
+		{"id":"59e2015aee6bfbe6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臣+一+人/臣+一+𠂉.canvas","x":-440,"y":-200,"width":187,"height":135},
+		{"id":"a1dd2b9b946a06c8","x":-440,"y":100,"width":187,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"}
+	],
+	"edges":[
+		{"id":"52972c1482ed734a","fromNode":"59e2015aee6bfbe6","fromSide":"right","toNode":"784ccd80d946e48f","toSide":"left"},
+		{"id":"68dce94dfc0c0afc","fromNode":"a1dd2b9b946a06c8","fromSide":"right","toNode":"784ccd80d946e48f","toSide":"left"}
+	]
+}

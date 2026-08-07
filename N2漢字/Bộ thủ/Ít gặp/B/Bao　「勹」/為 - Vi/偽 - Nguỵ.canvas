@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca52b368e1002c48","x":-103,"y":-51,"width":250,"height":60,"type":"text","text":"偽 - Nguỵ"},
+		{"id":"bbbb03e03fa9474e","x":-480,"y":-280,"width":200,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/為 - Vi/為 - Vi.canvas"},
+		{"id":"659351aa3489de2d","x":-480,"y":60,"width":200,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"0e03b8ddefca2daa","fromNode":"bbbb03e03fa9474e","fromSide":"right","toNode":"ca52b368e1002c48","toSide":"left"},
+		{"id":"a9f316ec1b13811f","fromNode":"659351aa3489de2d","fromSide":"right","toNode":"ca52b368e1002c48","toSide":"left"}
+	]
+}

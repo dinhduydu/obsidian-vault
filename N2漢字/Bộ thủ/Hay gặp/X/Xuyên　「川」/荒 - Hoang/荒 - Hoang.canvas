@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"54ae6ae0573b9cdb","x":-119,"y":-47,"width":250,"height":60,"type":"text","text":"荒 - Hoang"},
+		{"id":"e828142ede9549c1","x":-480,"y":220,"width":160,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/Xuyên　「川」.canvas"},
+		{"id":"119b8f53f9364327","x":-480,"y":-82,"width":154,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"},
+		{"id":"5681c6ab4072eba3","x":-495,"y":-320,"width":169,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"59e7cc275f46e639","fromNode":"e828142ede9549c1","fromSide":"right","toNode":"54ae6ae0573b9cdb","toSide":"left"},
+		{"id":"59b38353290a7bda","fromNode":"119b8f53f9364327","fromSide":"right","toNode":"54ae6ae0573b9cdb","toSide":"left"},
+		{"id":"25afba473d1300e7","fromNode":"5681c6ab4072eba3","fromSide":"right","toNode":"54ae6ae0573b9cdb","toSide":"left"}
+	]
+}

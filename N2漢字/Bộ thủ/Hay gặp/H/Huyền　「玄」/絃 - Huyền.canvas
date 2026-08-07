@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7ef659aa3be38ff8","x":-20,"y":-37,"width":250,"height":60,"type":"text","text":"絃 - Huyền"},
+		{"id":"84b73ffc5fe07cba","x":-340,"y":-280,"width":133,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/Huyền　「玄」.canvas"},
+		{"id":"3d28028543ef38f1","x":-340,"y":120,"width":153,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"eedcd8643dd155fc","fromNode":"84b73ffc5fe07cba","fromSide":"right","toNode":"7ef659aa3be38ff8","toSide":"left"},
+		{"id":"2d1e852d3bac185a","fromNode":"3d28028543ef38f1","fromSide":"right","toNode":"7ef659aa3be38ff8","toSide":"left"}
+	]
+}

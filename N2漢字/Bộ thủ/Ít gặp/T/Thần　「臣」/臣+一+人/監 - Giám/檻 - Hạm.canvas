@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"51ad60b490342f13","x":-148,"y":-37,"width":250,"height":60,"type":"text","text":"檻 - Hạm"},
+		{"id":"4a299054113efc8a","x":-440,"y":-300,"width":140,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臣+一+人/監 - Giám/監 - Giám.canvas"},
+		{"id":"a9c0f3f27e6e5e98","x":-482,"y":140,"width":182,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"8c29df8fb6cfc5de","fromNode":"4a299054113efc8a","fromSide":"right","toNode":"51ad60b490342f13","toSide":"left"},
+		{"id":"6b739787f654d548","fromNode":"a9c0f3f27e6e5e98","fromSide":"right","toNode":"51ad60b490342f13","toSide":"left"}
+	]
+}
