@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"28d3cf14d5dc5a0e","x":-144,"y":-33,"width":204,"height":60,"type":"text","text":"Suyễn　「舛」"},
-		{"id":"0f06eec111c75fdd","x":182,"y":-113,"width":250,"height":60,"type":"text","text":"sai lầm"}
+		{"id":"28d3cf14d5dc5a0e","type":"text","text":"Suyễn　「舛」","x":-144,"y":-33,"width":204,"height":60},
+		{"id":"0f06eec111c75fdd","type":"text","text":"sai lầm","x":-620,"y":-240,"width":250,"height":60},
+		{"id":"3ed34cf70276dfef","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Suyễn　「舛」/Thuấn　「舜」/Thuấn　「舜」.canvas","x":200,"y":-285,"width":215,"height":150},
+		{"id":"bd7a8067ffb1c18d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Suyễn　「舛」/Thuấn　「舜」/瞬 - Thuấn.canvas","x":520,"y":-400,"width":100,"height":86},
+		{"id":"191eff1e6a4d4abb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas","x":-674,"y":-39,"width":177,"height":154},
+		{"id":"40a7b5cddcb22c46","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":-454,"y":152,"width":177,"height":188}
 	],
 	"edges":[
-		{"id":"eb1cd8a8e87bb9a0","fromNode":"28d3cf14d5dc5a0e","fromSide":"right","toNode":"0f06eec111c75fdd","toSide":"left"}
+		{"id":"eb1cd8a8e87bb9a0","fromNode":"28d3cf14d5dc5a0e","fromSide":"left","toNode":"0f06eec111c75fdd","toSide":"right"},
+		{"id":"0ae50be9b9330755","fromNode":"28d3cf14d5dc5a0e","fromSide":"right","toNode":"3ed34cf70276dfef","toSide":"left"},
+		{"id":"b459e24522c4fffe","fromNode":"3ed34cf70276dfef","fromSide":"right","toNode":"bd7a8067ffb1c18d","toSide":"left"},
+		{"id":"74f1caec3160973d","fromNode":"191eff1e6a4d4abb","fromSide":"right","toNode":"28d3cf14d5dc5a0e","toSide":"left"},
+		{"id":"1977885de62cf2c0","fromNode":"40a7b5cddcb22c46","fromSide":"right","toNode":"28d3cf14d5dc5a0e","toSide":"left"}
 	]
 }

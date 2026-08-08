@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"238cc3b10f45fdfc","x":-100,"y":-36,"width":250,"height":60,"type":"text","text":"屈 - Khuất"},
+		{"id":"6a2a0314f138e975","x":-480,"y":100,"width":136,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/出 - Xuất/出 - Xuất.canvas"},
+		{"id":"7d25a162b09c1ac4","x":-551,"y":-320,"width":207,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+	],
+	"edges":[
+		{"id":"bfaf26b4d4af5909","fromNode":"6a2a0314f138e975","fromSide":"right","toNode":"238cc3b10f45fdfc","toSide":"left"},
+		{"id":"129be9200945fd4b","fromNode":"7d25a162b09c1ac4","fromSide":"right","toNode":"238cc3b10f45fdfc","toSide":"left"}
+	]
+}

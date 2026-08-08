@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a09756ca549aa0b4","x":-95,"y":-18,"width":250,"height":60,"type":"text","text":"仰 - Ngưỡng"},
+		{"id":"9524efd5c1e3aeb4","x":-500,"y":120,"width":149,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/卬 - Ngưỡng/卬 - Ngưỡng.canvas"},
+		{"id":"47cd09fd9909911f","x":-507,"y":-180,"width":156,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"702587c5a2687feb","fromNode":"9524efd5c1e3aeb4","fromSide":"right","toNode":"a09756ca549aa0b4","toSide":"left"},
+		{"id":"e48feca9494fdcdb","fromNode":"47cd09fd9909911f","fromSide":"right","toNode":"a09756ca549aa0b4","toSide":"left"}
+	]
+}

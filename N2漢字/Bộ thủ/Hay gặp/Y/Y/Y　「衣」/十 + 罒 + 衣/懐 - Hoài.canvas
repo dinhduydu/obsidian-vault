@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1f32d1bca102d5cf","x":-91,"y":-11,"width":250,"height":60,"type":"text","text":"懐 - Hoài"},
+		{"id":"daf8140738b187b3","x":380,"y":-260,"width":218,"height":191,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/懐かしい.md"},
+		{"id":"82980157cb57baa8","x":-440,"y":-215,"width":160,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/十 + 罒 + 衣/十 + 罒 + 衣.canvas"},
+		{"id":"ccf1f3c263f3d6a7","x":-400,"y":160,"width":120,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"983255a3b4ec6d64","fromNode":"1f32d1bca102d5cf","fromSide":"right","toNode":"daf8140738b187b3","toSide":"left"},
+		{"id":"287d65177bf042b4","fromNode":"82980157cb57baa8","fromSide":"right","toNode":"1f32d1bca102d5cf","toSide":"left"},
+		{"id":"090ed38e106178a0","fromNode":"ccf1f3c263f3d6a7","fromSide":"right","toNode":"1f32d1bca102d5cf","toSide":"left"}
+	]
+}

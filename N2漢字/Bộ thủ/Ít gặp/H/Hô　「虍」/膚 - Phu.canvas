@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c388b6c8f9a40358","type":"text","text":"膚 - Phu","x":-142,"y":-57,"width":250,"height":60},
+		{"id":"93aacd2b3a44b3d7","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas","x":-460,"y":-195,"width":123,"height":168},
+		{"id":"fb6fe3f6aa8eeb1f","x":-544,"y":100,"width":207,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/胃 - Vị.canvas"}
+	],
+	"edges":[
+		{"id":"90c3ec9cdef217df","fromNode":"93aacd2b3a44b3d7","fromSide":"right","toNode":"c388b6c8f9a40358","toSide":"left"},
+		{"id":"33a77d50648f3f68","fromNode":"fb6fe3f6aa8eeb1f","fromSide":"right","toNode":"c388b6c8f9a40358","toSide":"left"}
+	]
+}

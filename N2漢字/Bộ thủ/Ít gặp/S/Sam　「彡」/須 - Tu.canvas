@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"19ecaf6cb7bce36e","x":-104,"y":-24,"width":250,"height":60,"type":"text","text":"須 - Tu"},
+		{"id":"0db2dc5686feb010","x":-500,"y":-240,"width":168,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"},
+		{"id":"cd842755ba6436c7","x":-517,"y":36,"width":185,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+	],
+	"edges":[
+		{"id":"01d8d8903e22fbd1","fromNode":"0db2dc5686feb010","fromSide":"right","toNode":"19ecaf6cb7bce36e","toSide":"left"},
+		{"id":"3fa96901c1db7b34","fromNode":"cd842755ba6436c7","fromSide":"right","toNode":"19ecaf6cb7bce36e","toSide":"left"}
+	]
+}

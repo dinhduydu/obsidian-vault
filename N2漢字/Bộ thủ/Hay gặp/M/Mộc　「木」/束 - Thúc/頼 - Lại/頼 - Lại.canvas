@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"05a058d02f756db3","x":-98,"y":-31,"width":250,"height":60,"type":"text","text":"頼 - Lại"},
+		{"id":"bb6f3c30b6bf1ae2","x":-480,"y":-280,"width":218,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"},
+		{"id":"ff208cf77a8a610e","x":-444,"y":60,"width":182,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas"}
+	],
+	"edges":[
+		{"id":"6dabdb55b100da56","fromNode":"bb6f3c30b6bf1ae2","fromSide":"right","toNode":"05a058d02f756db3","toSide":"left"},
+		{"id":"7407708681527cfd","fromNode":"ff208cf77a8a610e","fromSide":"right","toNode":"05a058d02f756db3","toSide":"left"}
+	]
+}

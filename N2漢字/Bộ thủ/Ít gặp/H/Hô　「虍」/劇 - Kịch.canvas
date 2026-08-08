@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"aa3dc9e21620b7fc","x":-131,"y":-33,"width":250,"height":60,"type":"text","text":"劇 - Kịch"},
+		{"id":"f7d63262bf0d8606","x":-720,"y":-320,"width":197,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"7c3412afce8fcf8d","x":-689,"y":60,"width":166,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas"},
+		{"id":"729ebbe18368f76d","x":-340,"y":-320,"width":123,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"834b8dbfc0e31120","fromNode":"f7d63262bf0d8606","fromSide":"right","toNode":"aa3dc9e21620b7fc","toSide":"left"},
+		{"id":"735105b4f14d6f90","fromNode":"7c3412afce8fcf8d","fromSide":"right","toNode":"aa3dc9e21620b7fc","toSide":"left"},
+		{"id":"1466a39b1ace386e","fromNode":"729ebbe18368f76d","fromSide":"right","toNode":"aa3dc9e21620b7fc","toSide":"left"}
+	]
+}

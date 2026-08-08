@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e5ad145a046f9e31","x":-76,"y":-28,"width":250,"height":60,"type":"text","text":"堀 - Quật"},
+		{"id":"0e915c94956606e7","x":-500,"y":160,"width":190,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/出 - Xuất/屈 - Khuất/屈 - Khuất.canvas"},
+		{"id":"74b506934f3fc437","x":-514,"y":-280,"width":219,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"3705bdde6038bb9b","fromNode":"0e915c94956606e7","fromSide":"right","toNode":"e5ad145a046f9e31","toSide":"left"},
+		{"id":"d854ba025a4459ca","fromNode":"74b506934f3fc437","fromSide":"right","toNode":"e5ad145a046f9e31","toSide":"left","label":"kênh mương"}
+	]
+}

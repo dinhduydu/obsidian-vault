@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"26d5ca0b38fe075a","x":-70,"y":-66,"width":250,"height":60,"type":"text","text":"出 - Xuất"},
+		{"id":"7cde88abcb3f6a5d","x":-400,"y":-220,"width":196,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
+		{"id":"a83e1a1a521a071f","x":-375,"y":40,"width":171,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/Khảm「凵」.canvas"}
+	],
+	"edges":[
+		{"id":"07c3a1e33e481ff9","fromNode":"7cde88abcb3f6a5d","fromSide":"right","toNode":"26d5ca0b38fe075a","toSide":"left"},
+		{"id":"172ca90f8463b5c9","fromNode":"a83e1a1a521a071f","fromSide":"right","toNode":"26d5ca0b38fe075a","toSide":"left"}
+	]
+}

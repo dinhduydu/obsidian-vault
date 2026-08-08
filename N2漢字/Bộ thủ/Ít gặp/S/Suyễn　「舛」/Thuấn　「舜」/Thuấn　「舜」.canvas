@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"972e66e62f8927a3","type":"text","text":"Thuấn　「舜」","x":-73,"y":-6,"width":250,"height":60},
+		{"id":"0092662cb618fbc3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":-520,"y":-220,"width":172,"height":125},
+		{"id":"03ca88eec8e29559","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-594,"y":-40,"width":148,"height":157},
+		{"id":"ebb1af129d462a2a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas","x":-1320,"y":349,"width":177,"height":154},
+		{"id":"162c562b6407df0a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/Ngưu Đặc　「牛」.canvas","x":-1100,"y":540,"width":177,"height":188},
+		{"id":"9b6a548e11455483","x":-560,"y":349,"width":147,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Suyễn　「舛」/Suyễn　「舛」.canvas"}
+	],
+	"edges":[
+		{"id":"8f59dbce666adf69","fromNode":"0092662cb618fbc3","fromSide":"right","toNode":"972e66e62f8927a3","toSide":"left"},
+		{"id":"9123abf5f28d3f7a","fromNode":"03ca88eec8e29559","fromSide":"right","toNode":"972e66e62f8927a3","toSide":"left"},
+		{"id":"826d8b0f2f1dd98e","fromNode":"ebb1af129d462a2a","fromSide":"right","toNode":"9b6a548e11455483","toSide":"left"},
+		{"id":"f276528db5f3b9a8","fromNode":"162c562b6407df0a","fromSide":"right","toNode":"9b6a548e11455483","toSide":"left"},
+		{"id":"362d5ca99d699cfd","fromNode":"9b6a548e11455483","fromSide":"right","toNode":"972e66e62f8927a3","toSide":"left"}
+	]
+}

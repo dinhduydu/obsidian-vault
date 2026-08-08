@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ed2464d8ae94aa3f","x":-87,"y":-33,"width":250,"height":60,"type":"text","text":"寝 - Tẩm"},
+		{"id":"d990d4e150fd28f7","x":-560,"y":140,"width":213,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas"},
+		{"id":"315a557660d72548","x":-520,"y":-121,"width":173,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/丬 - Tường.canvas"},
+		{"id":"c22b351c7856928e","x":-520,"y":-400,"width":180,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"4466bf9260a5c531","fromNode":"d990d4e150fd28f7","fromSide":"right","toNode":"ed2464d8ae94aa3f","toSide":"left"},
+		{"id":"2e3d6e353d8db33c","fromNode":"315a557660d72548","fromSide":"right","toNode":"ed2464d8ae94aa3f","toSide":"left"},
+		{"id":"0788d08deb907997","fromNode":"c22b351c7856928e","fromSide":"right","toNode":"ed2464d8ae94aa3f","toSide":"left"}
+	]
+}

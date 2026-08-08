@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"15ca912eead44cd0","x":-134,"y":-19,"width":250,"height":60,"type":"text","text":"撃 - Kích"},
+		{"id":"55c9e73dedfa5e88","x":-700,"y":-200,"width":164,"height":75,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
+		{"id":"0b580b0adad5fed3","x":-460,"y":-340,"width":135,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"},
+		{"id":"9d2316eb89c26dfd","x":-460,"y":140,"width":180,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+	],
+	"edges":[
+		{"id":"92598db13b0f5f3d","fromNode":"55c9e73dedfa5e88","fromSide":"right","toNode":"15ca912eead44cd0","toSide":"left"},
+		{"id":"433add2346be9fa1","fromNode":"0b580b0adad5fed3","fromSide":"right","toNode":"15ca912eead44cd0","toSide":"left"},
+		{"id":"1e2b86e7db679351","fromNode":"9d2316eb89c26dfd","fromSide":"right","toNode":"15ca912eead44cd0","toSide":"left"}
+	]
+}

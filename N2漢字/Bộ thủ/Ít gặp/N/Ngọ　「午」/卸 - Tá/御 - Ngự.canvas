@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bca691ebb6a58f15","x":-120,"y":-51,"width":250,"height":60,"type":"text","text":"御 - Ngự"},
+		{"id":"3c7fcba3d7401a85","x":-400,"y":20,"width":165,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/卸 - Tá/卸 - Tá.canvas"},
+		{"id":"d57d58d036751c8a","x":-360,"y":-200,"width":102,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+	],
+	"edges":[
+		{"id":"0b4329976022c6d9","fromNode":"3c7fcba3d7401a85","fromSide":"right","toNode":"bca691ebb6a58f15","toSide":"left"},
+		{"id":"d1b909826361b7de","fromNode":"d57d58d036751c8a","fromSide":"right","toNode":"bca691ebb6a58f15","toSide":"left"}
+	]
+}

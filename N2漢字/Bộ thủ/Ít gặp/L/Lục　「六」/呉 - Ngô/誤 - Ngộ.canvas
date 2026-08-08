@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9ea6ee9663157142","type":"text","text":"誤 - Ngộ","x":-119,"y":-44,"width":250,"height":60},
+		{"id":"4f15c9aa1eb36710","x":-540,"y":-300,"width":208,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"b46fbc6ccd948843","x":-436,"y":40,"width":103,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/呉 - Ngô/呉 - Ngô.canvas"}
+	],
+	"edges":[
+		{"id":"4722347154a7c690","fromNode":"4f15c9aa1eb36710","fromSide":"right","toNode":"9ea6ee9663157142","toSide":"left"},
+		{"id":"240c495b2903b229","fromNode":"b46fbc6ccd948843","fromSide":"right","toNode":"9ea6ee9663157142","toSide":"left"}
+	]
+}

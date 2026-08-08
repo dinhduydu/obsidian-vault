@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9c50a56e0f42e2ff","x":-53,"y":-52,"width":250,"height":60,"type":"text","text":"虎 - Hổ"},
+		{"id":"10e67603973ccbf2","x":-480,"y":-240,"width":171,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"59cad1c78f618108","x":-460,"y":40,"width":151,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"}
+	],
+	"edges":[
+		{"id":"15da8724c22c3b2b","fromNode":"10e67603973ccbf2","fromSide":"right","toNode":"9c50a56e0f42e2ff","toSide":"left"},
+		{"id":"99dadd7d7e2bdf81","fromNode":"59cad1c78f618108","fromSide":"right","toNode":"9c50a56e0f42e2ff","toSide":"left"}
+	]
+}

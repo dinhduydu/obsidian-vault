@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"28ee61fae042df14","x":-117,"y":-40,"width":250,"height":60,"type":"text","text":"㥯 - Ẩn"},
+		{"id":"4999e45d0111d94a","x":-440,"y":60,"width":184,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"},
+		{"id":"7abbcd2583f90042","x":-378,"y":-156,"width":122,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"8b2a34d543e1a910","x":-404,"y":-380,"width":148,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"6627156d8094071f","fromNode":"4999e45d0111d94a","fromSide":"right","toNode":"28ee61fae042df14","toSide":"left"},
+		{"id":"5f0ed272e0071673","fromNode":"7abbcd2583f90042","fromSide":"right","toNode":"28ee61fae042df14","toSide":"left"},
+		{"id":"2d3c52f014cc9e02","fromNode":"8b2a34d543e1a910","fromSide":"right","toNode":"28ee61fae042df14","toSide":"left"}
+	]
+}

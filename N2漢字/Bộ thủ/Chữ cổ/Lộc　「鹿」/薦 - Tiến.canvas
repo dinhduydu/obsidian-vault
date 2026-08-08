@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"563a290ae19bc64e","x":-93,"y":-46,"width":250,"height":60,"type":"text","text":"薦 - Tiến"},
+		{"id":"5d14e1297d8e3032","x":-540,"y":-113,"width":173,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/Lộc　「鹿」.canvas"},
+		{"id":"4d392287e8370f1e","x":-580,"y":200,"width":213,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mã　「馬」/Mã　「馬」.canvas"},
+		{"id":"ecff47992e8d9d55","x":-502,"y":-380,"width":135,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"70b536d638518f86","fromNode":"5d14e1297d8e3032","fromSide":"right","toNode":"563a290ae19bc64e","toSide":"left"},
+		{"id":"f5be4aff1e8e6133","fromNode":"4d392287e8370f1e","fromSide":"right","toNode":"563a290ae19bc64e","toSide":"left"},
+		{"id":"02bbd6d3e8371a3a","fromNode":"ecff47992e8d9d55","fromSide":"right","toNode":"563a290ae19bc64e","toSide":"left"}
+	]
+}

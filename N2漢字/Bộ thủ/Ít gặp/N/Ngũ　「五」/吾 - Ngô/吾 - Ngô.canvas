@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"83ac28d47d5e02c9","type":"text","text":"吾 - Ngô","x":-119,"y":-53,"width":250,"height":60},
+		{"id":"e5490d9752555383","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngũ　「五」/Ngũ　「五」.canvas","x":-460,"y":-180,"width":103,"height":109},
+		{"id":"3d09538401ba8fcf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-480,"y":80,"width":143,"height":97},
+		{"id":"663cce37d645ceaa","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/呉 - Ngô/悟 - Ngộ.canvas","x":280,"y":-269,"width":226,"height":178},
+		{"id":"39b7e1727b5feae0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/語 - Ngữ.canvas","x":302,"y":80,"width":204,"height":191}
+	],
+	"edges":[
+		{"id":"2ff422764c94c2e5","fromNode":"e5490d9752555383","fromSide":"right","toNode":"83ac28d47d5e02c9","toSide":"left"},
+		{"id":"c947080a43572b02","fromNode":"3d09538401ba8fcf","fromSide":"right","toNode":"83ac28d47d5e02c9","toSide":"left"},
+		{"id":"a3fbd612d93e235b","fromNode":"83ac28d47d5e02c9","fromSide":"right","toNode":"663cce37d645ceaa","toSide":"left"},
+		{"id":"fc9bf06911a71567","fromNode":"83ac28d47d5e02c9","fromSide":"right","toNode":"39b7e1727b5feae0","toSide":"left"}
+	]
+}

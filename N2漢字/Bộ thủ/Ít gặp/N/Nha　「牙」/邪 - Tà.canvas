@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cf7ed3c17fc3282e","x":-100,"y":-10,"width":250,"height":60,"type":"text","text":"邪 - Tà"},
+		{"id":"2b09db0a32df2d91","x":-500,"y":-260,"width":154,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/Nha　「牙」.canvas"},
+		{"id":"cc252e88e3ce9a8a","x":-573,"y":100,"width":227,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+	],
+	"edges":[
+		{"id":"3253aff7c4397923","fromNode":"2b09db0a32df2d91","fromSide":"right","toNode":"cf7ed3c17fc3282e","toSide":"left"},
+		{"id":"cd6ac4e9837dec8a","fromNode":"cc252e88e3ce9a8a","fromSide":"right","toNode":"cf7ed3c17fc3282e","toSide":"left"}
+	]
+}

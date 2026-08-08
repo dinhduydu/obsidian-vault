@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2984d66b36209491","x":-95,"y":-19,"width":250,"height":60,"type":"text","text":"壊 - Hoại"},
+		{"id":"97637a8bb6162ada","x":-540,"y":120,"width":174,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"},
+		{"id":"78f12a6d68c276ab","x":-690,"y":-55,"width":150,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"9ba08993acd1f468","x":-548,"y":-340,"width":182,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"},
+		{"id":"d6800237a5782623","x":-534,"y":-540,"width":154,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"385d82aa6fa532b1","fromNode":"97637a8bb6162ada","fromSide":"right","toNode":"2984d66b36209491","toSide":"left"},
+		{"id":"dd027e3bc8417205","fromNode":"78f12a6d68c276ab","fromSide":"right","toNode":"2984d66b36209491","toSide":"left"},
+		{"id":"f81149d694ad7ac1","fromNode":"9ba08993acd1f468","fromSide":"right","toNode":"2984d66b36209491","toSide":"left"},
+		{"id":"358706ffdc9bed11","fromNode":"d6800237a5782623","fromSide":"right","toNode":"2984d66b36209491","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4309612d718bc75c","x":-96,"y":-34,"width":250,"height":60,"type":"text","text":"掘 - Quật"},
+		{"id":"27d3ce1a2323f0cb","x":-440,"y":-280,"width":149,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/出 - Xuất/屈 - Khuất/屈 - Khuất.canvas"},
+		{"id":"b0675411f288fcb8","x":-464,"y":26,"width":173,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"a5b9f295f5a057e4","fromNode":"27d3ce1a2323f0cb","fromSide":"right","toNode":"4309612d718bc75c","toSide":"left"},
+		{"id":"64c8ca5b87a9a5a5","fromNode":"b0675411f288fcb8","fromSide":"right","toNode":"4309612d718bc75c","toSide":"left","label":"khai quật"}
+	]
+}

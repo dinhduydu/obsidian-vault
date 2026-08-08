@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b0ab4967bbfe71f3","type":"text","text":"頃 - Khoảnh","x":-100,"y":-80,"width":250,"height":50},
+		{"id":"9ab0a242478adf5d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-400,"y":-340,"width":143,"height":149},
+		{"id":"b10405077a75ae16","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas","x":-403,"y":60,"width":150,"height":128}
+	],
+	"edges":[
+		{"id":"b5939b8c4a04a9eb","fromNode":"9ab0a242478adf5d","fromSide":"right","toNode":"b0ab4967bbfe71f3","toSide":"left"},
+		{"id":"37a57d0d22ff1d38","fromNode":"b10405077a75ae16","fromSide":"right","toNode":"b0ab4967bbfe71f3","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cd0496d60c7c4a6b","type":"text","text":"滅 - Diệt","x":-136,"y":-27,"width":250,"height":60},
+		{"id":"e741d0e0d5e9d8ce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-541,"y":140,"width":152,"height":154},
+		{"id":"c20ca713edee14b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-547,"y":400,"width":158,"height":201},
+		{"id":"1a3fd25704598035","x":-564,"y":-194,"width":193,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戌 - Tuất/戌 - Tuất.canvas"}
+	],
+	"edges":[
+		{"id":"0b554c664e8d0cf6","fromNode":"e741d0e0d5e9d8ce","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"},
+		{"id":"65a41ace6d695ba6","fromNode":"c20ca713edee14b0","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"},
+		{"id":"1a44a045560a4bf2","fromNode":"1a3fd25704598035","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"}
+	]
+}

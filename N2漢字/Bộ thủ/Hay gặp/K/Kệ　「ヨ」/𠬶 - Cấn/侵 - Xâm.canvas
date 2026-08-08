@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4ed3ad307fd8665e","x":-24,"y":-37,"width":250,"height":60,"type":"text","text":"侵 - Xâm"},
+		{"id":"c4b6d3f832a296dc","x":-400,"y":-240,"width":181,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas"},
+		{"id":"c642b6b3f9a325e2","x":-360,"y":80,"width":141,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"bf94e01d6d77c406","fromNode":"c4b6d3f832a296dc","fromSide":"right","toNode":"4ed3ad307fd8665e","toSide":"left"},
+		{"id":"cf9b0fafbd783597","fromNode":"c642b6b3f9a325e2","fromSide":"right","toNode":"4ed3ad307fd8665e","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6bde39d9919617ee","x":-123,"y":-51,"width":250,"height":60,"type":"text","text":"十 + 罒 + 衣"},
+		{"id":"2ed17e3e22e74ff1","x":320,"y":-280,"width":191,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/十 + 罒 + 衣/壊 - Hoại.canvas"}
+	],
+	"edges":[
+		{"id":"04c9f0cdd7914cdd","fromNode":"6bde39d9919617ee","fromSide":"right","toNode":"2ed17e3e22e74ff1","toSide":"left"}
+	]
+}

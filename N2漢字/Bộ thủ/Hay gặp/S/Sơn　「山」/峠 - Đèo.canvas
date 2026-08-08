@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2dbf3f1e0ea12182","type":"text","text":"峠 - Đèo","x":-113,"y":-67,"width":250,"height":60},
+		{"id":"c9ad2dc20230c514","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-600,"y":-340,"width":200,"height":148},
+		{"id":"0f76ad19711c9bc2","x":-553,"y":100,"width":153,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/Thượng　「 上」.canvas"}
+	],
+	"edges":[
+		{"id":"0c1c6db40cdcfaa6","fromNode":"c9ad2dc20230c514","fromSide":"right","toNode":"2dbf3f1e0ea12182","toSide":"left"},
+		{"id":"1c358bc7897769ba","fromNode":"0f76ad19711c9bc2","fromSide":"right","toNode":"2dbf3f1e0ea12182","toSide":"left"}
+	]
+}

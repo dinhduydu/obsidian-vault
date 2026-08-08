@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"428f10d0ca8cd8bb","type":"file","file":"Chữa đề/Learning_Profile/Kanji/悪循環.md","x":260,"y":-240,"width":183,"height":174},
+		{"id":"613ffc0ae8e9ad72","type":"text","text":"環 - Hoàn","x":-200,"y":20,"width":250,"height":60},
+		{"id":"b85ed9c917be092a","x":320,"y":140,"width":184,"height":172,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/車内環境.md"},
+		{"id":"8e294fe15b2d4903","x":-480,"y":-90,"width":131,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"e287580a8d330eb3","fromNode":"613ffc0ae8e9ad72","fromSide":"right","toNode":"428f10d0ca8cd8bb","toSide":"left"},
+		{"id":"a34e3ca338c24e69","fromNode":"613ffc0ae8e9ad72","fromSide":"right","toNode":"b85ed9c917be092a","toSide":"left"},
+		{"id":"c01448bae36b9c49","fromNode":"8e294fe15b2d4903","fromSide":"right","toNode":"613ffc0ae8e9ad72","toSide":"left"}
+	]
+}

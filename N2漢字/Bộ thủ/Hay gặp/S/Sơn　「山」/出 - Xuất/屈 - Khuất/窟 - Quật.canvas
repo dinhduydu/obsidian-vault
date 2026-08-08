@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a598b630a7f93e5a","x":-108,"y":-40,"width":250,"height":60,"type":"text","text":"窟 - Quật"},
+		{"id":"9d15806b6e9e52e9","x":-380,"y":-200,"width":125,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyệt　「穴 」/Huyệt　「穴 」.canvas"},
+		{"id":"0b2d52bcb17e4878","x":-492,"y":40,"width":224,"height":226,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/出 - Xuất/屈 - Khuất/屈 - Khuất.canvas"}
+	],
+	"edges":[
+		{"id":"cd53d78f648f2611","fromNode":"9d15806b6e9e52e9","fromSide":"right","toNode":"a598b630a7f93e5a","toSide":"left","label":"cái hang"},
+		{"id":"2f0a11da7c12d226","fromNode":"0b2d52bcb17e4878","fromSide":"right","toNode":"a598b630a7f93e5a","toSide":"left"}
+	]
+}

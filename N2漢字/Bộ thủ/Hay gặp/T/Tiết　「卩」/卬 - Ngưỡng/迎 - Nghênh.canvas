@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0ff43775c44c1f73","x":-91,"y":-35,"width":250,"height":60,"type":"text","text":"迎 - Nghênh"},
+		{"id":"f3711c9ce06aba37","x":-460,"y":-280,"width":120,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/卬 - Ngưỡng/卬 - Ngưỡng.canvas"},
+		{"id":"5f9f59c85f856740","x":-483,"y":100,"width":143,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"2796d77e66182279","fromNode":"f3711c9ce06aba37","fromSide":"right","toNode":"0ff43775c44c1f73","toSide":"left"},
+		{"id":"0513e7f98798aecd","fromNode":"5f9f59c85f856740","fromSide":"right","toNode":"0ff43775c44c1f73","toSide":"left"}
+	]
+}

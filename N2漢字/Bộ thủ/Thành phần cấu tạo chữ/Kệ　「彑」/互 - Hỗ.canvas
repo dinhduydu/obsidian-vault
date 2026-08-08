@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4f7d9978ba28c36a","x":-118,"y":-29,"width":250,"height":60,"type":"text","text":"互 - Hỗ"},
+		{"id":"a1740f9b5a13efc4","x":-620,"y":-340,"width":220,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kệ　「彑」/Kệ　「彑」.canvas"},
+		{"id":"7f593bdec42f756b","x":-660,"y":80,"width":227,"height":213,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"}
+	],
+	"edges":[
+		{"id":"cfaa7db0a0fdc499","fromNode":"a1740f9b5a13efc4","fromSide":"right","toNode":"4f7d9978ba28c36a","toSide":"left"},
+		{"id":"c3b38fc1985764f0","fromNode":"7f593bdec42f756b","fromSide":"right","toNode":"4f7d9978ba28c36a","toSide":"left"}
+	]
+}

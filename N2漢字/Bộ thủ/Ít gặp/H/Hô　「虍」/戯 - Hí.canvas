@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7b39dd392bbf34f0","x":-161,"y":-48,"width":250,"height":60,"type":"text","text":"戯 - Hí"},
+		{"id":"55572f00d77ac25f","x":-680,"y":-158,"width":115,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/虚 - Hư/虚 - Hư.canvas"},
+		{"id":"740452dc546dfde6","x":-420,"y":100,"width":148,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"}
+	],
+	"edges":[
+		{"id":"a86d5a9b594eca9e","fromNode":"55572f00d77ac25f","fromSide":"right","toNode":"7b39dd392bbf34f0","toSide":"left"},
+		{"id":"0d7f1ee4cc25b214","fromNode":"740452dc546dfde6","fromSide":"right","toNode":"7b39dd392bbf34f0","toSide":"left"}
+	]
+}

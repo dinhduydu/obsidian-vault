@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"254ccf5bdade2691","x":-71,"y":-46,"width":250,"height":60,"type":"text","text":"瀬 - Lại"},
+		{"id":"79ee0cdbdc3e4bb2","x":-440,"y":-240,"width":186,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/頼 - Lại/頼 - Lại.canvas"},
+		{"id":"da5e7fdd9dd2c77d","x":-394,"y":40,"width":140,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"7121479e11b19c20","fromNode":"79ee0cdbdc3e4bb2","fromSide":"right","toNode":"254ccf5bdade2691","toSide":"left"},
+		{"id":"ae653ba3ec8144cd","fromNode":"da5e7fdd9dd2c77d","fromSide":"right","toNode":"254ccf5bdade2691","toSide":"left"}
+	]
+}

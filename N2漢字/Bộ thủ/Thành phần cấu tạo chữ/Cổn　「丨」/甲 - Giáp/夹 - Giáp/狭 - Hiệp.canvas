@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fb4aa169ecc6a301","x":-117,"y":-23,"width":250,"height":60,"type":"text","text":"狭 - Hiệp"},
+		{"id":"8d2d55187b276ea6","x":-440,"y":-200,"width":167,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"}
+	],
+	"edges":[
+		{"id":"7f26c30b19ac5031","fromNode":"8d2d55187b276ea6","fromSide":"right","toNode":"fb4aa169ecc6a301","toSide":"left"}
+	]
+}

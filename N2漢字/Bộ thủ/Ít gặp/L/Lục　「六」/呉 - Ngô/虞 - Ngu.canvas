@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3c2a9ed557a5e155","x":-78,"y":-17,"width":250,"height":60,"type":"text","text":"虞 - Ngu"},
+		{"id":"c7ecd5052803d08f","x":-400,"y":-180,"width":162,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"e28fff0a69113ba1","x":-420,"y":80,"width":135,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/呉 - Ngô/呉 - Ngô.canvas"}
+	],
+	"edges":[
+		{"id":"a6ab37b95d05070e","fromNode":"c7ecd5052803d08f","fromSide":"right","toNode":"3c2a9ed557a5e155","toSide":"left"},
+		{"id":"014e0d262abd5f1d","fromNode":"e28fff0a69113ba1","fromSide":"right","toNode":"3c2a9ed557a5e155","toSide":"left"}
+	]
+}

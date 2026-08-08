@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e213d2f2e01a1c31","type":"text","text":"Giả　「叚」","x":-58,"y":-14,"width":250,"height":60},
+		{"id":"bf13aad7cf1083e2","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Giả　「叚」/暇 - Hạ.canvas","x":360,"y":-300,"width":172,"height":146},
+		{"id":"6f5c3e38a3b3da18","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-840,"y":-94,"width":187,"height":140},
+		{"id":"0d3f1d878f448353","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas","x":-620,"y":-407,"width":140,"height":147},
+		{"id":"5c4cbeaadf38d75b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas","x":-709,"y":146,"width":179,"height":194},
+		{"id":"6a41676df2525d64","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas","x":-400,"y":106,"width":148,"height":191},
+		{"id":"76a938b5704b0c29","x":-416,"y":-459,"width":358,"height":126,"type":"text","text":"- Hán-Việt thường đọc **giả**\n- Nghĩa gốc liên quan đến **giả, mượn**; trong **暇** chủ yếu đóng vai trò **thanh**."}
+	],
+	"edges":[
+		{"id":"62cbb256ddfb4981","fromNode":"e213d2f2e01a1c31","fromSide":"right","toNode":"bf13aad7cf1083e2","toSide":"left"},
+		{"id":"78cfa3059a7db28f","fromNode":"0d3f1d878f448353","fromSide":"right","toNode":"e213d2f2e01a1c31","toSide":"left"},
+		{"id":"f2149b93cfbd55c3","fromNode":"6a41676df2525d64","fromSide":"right","toNode":"e213d2f2e01a1c31","toSide":"left"},
+		{"id":"2315f4a8a25f0f70","fromNode":"5c4cbeaadf38d75b","fromSide":"right","toNode":"e213d2f2e01a1c31","toSide":"left"},
+		{"id":"88e82d7e15587c00","fromNode":"6f5c3e38a3b3da18","fromSide":"right","toNode":"e213d2f2e01a1c31","toSide":"left"},
+		{"id":"d353944718bd7855","fromNode":"76a938b5704b0c29","fromSide":"bottom","toNode":"e213d2f2e01a1c31","toSide":"left"}
+	]
+}

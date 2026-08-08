@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ff787d3fbe402bf7","x":-113,"y":-60,"width":250,"height":60,"type":"text","text":"峡 - Hạp"},
+		{"id":"afb55fddd47541ba","x":-440,"y":-260,"width":152,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
+		{"id":"e6db841163323c56","x":-440,"y":100,"width":135,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/夹 - Giáp.canvas"}
+	],
+	"edges":[
+		{"id":"55fb698d57ac4fda","fromNode":"afb55fddd47541ba","fromSide":"right","toNode":"ff787d3fbe402bf7","toSide":"left","label":"hẻm núi"},
+		{"id":"8db5e945f4c02dbe","fromNode":"e6db841163323c56","fromSide":"right","toNode":"ff787d3fbe402bf7","toSide":"left"}
+	]
+}

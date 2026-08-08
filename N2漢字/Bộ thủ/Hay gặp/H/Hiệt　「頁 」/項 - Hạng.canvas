@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f87a9b0a4b6a3963","x":-113,"y":-39,"width":250,"height":60,"type":"text","text":"項 - Hạng"},
+		{"id":"1018b9fa42cb4686","x":-520,"y":140,"width":236,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"},
+		{"id":"3681e175feb9eebb","x":-471,"y":-240,"width":187,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+	],
+	"edges":[
+		{"id":"3147db5bc637b620","fromNode":"1018b9fa42cb4686","fromSide":"right","toNode":"f87a9b0a4b6a3963","toSide":"left"},
+		{"id":"7a1913a5f13be347","fromNode":"3681e175feb9eebb","fromSide":"right","toNode":"f87a9b0a4b6a3963","toSide":"left"}
+	]
+}

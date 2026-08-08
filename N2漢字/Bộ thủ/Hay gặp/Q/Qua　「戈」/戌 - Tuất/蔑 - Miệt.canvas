@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d5b4207d91e7ab7b","x":-82,"y":-24,"width":250,"height":60,"type":"text","text":"蔑 - Miệt"},
+		{"id":"ab44d81ef7f2d7ac","x":-420,"y":-180,"width":159,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"a4c91ea4743db3a1","x":-415,"y":60,"width":154,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"27a666c2165fe483","x":-640,"y":-73,"width":114,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"f275bae9643389ce","x":-390,"y":-380,"width":129,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"},
+		{"id":"3d38c980544e2428","x":-429,"y":-620,"width":168,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"cbf91328f025259c","fromNode":"ab44d81ef7f2d7ac","fromSide":"right","toNode":"d5b4207d91e7ab7b","toSide":"left"},
+		{"id":"7aa7335fb00255d9","fromNode":"a4c91ea4743db3a1","fromSide":"right","toNode":"d5b4207d91e7ab7b","toSide":"left"},
+		{"id":"8aae8fd7e5f172f5","fromNode":"27a666c2165fe483","fromSide":"right","toNode":"d5b4207d91e7ab7b","toSide":"left"},
+		{"id":"03ffb57bcdd07afa","fromNode":"f275bae9643389ce","fromSide":"right","toNode":"d5b4207d91e7ab7b","toSide":"left"},
+		{"id":"db09a6f60ae70e4d","fromNode":"3d38c980544e2428","fromSide":"right","toNode":"d5b4207d91e7ab7b","toSide":"left"}
+	]
+}

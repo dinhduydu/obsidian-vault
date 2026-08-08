@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4eea77df5ef52abb","type":"text","text":"衡 - Hành","x":-132,"y":-33,"width":250,"height":60},
+		{"id":"4b8d047948ce738b","x":-840,"y":-306,"width":250,"height":60,"type":"text","text":"彳⿻亍 - Hành"},
+		{"id":"89add084818ccf13","type":"text","text":"cái cân","x":-680,"y":-160,"width":250,"height":60},
+		{"id":"2f6b2bcf1098126a","x":-590,"y":180,"width":160,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngư　「魚 」/Ngư　「魚 」.canvas"}
+	],
+	"edges":[
+		{"id":"cfda676c65d70321","fromNode":"89add084818ccf13","fromSide":"right","toNode":"4eea77df5ef52abb","toSide":"left"},
+		{"id":"3c88facace39b2bf","fromNode":"4b8d047948ce738b","fromSide":"right","toNode":"4eea77df5ef52abb","toSide":"left"},
+		{"id":"cafacc1ea2e44acc","fromNode":"2f6b2bcf1098126a","fromSide":"right","toNode":"4eea77df5ef52abb","toSide":"left"}
+	]
+}

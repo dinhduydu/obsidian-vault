@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"035d085e15fbb2a3","x":-148,"y":-27,"width":250,"height":60,"type":"text","text":"冒 - Mạo"},
+		{"id":"520494a4f5bbaba4","x":-540,"y":-300,"width":188,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
+		{"id":"a802e677a58e4b33","x":-520,"y":120,"width":148,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"2441f7997bfb8871","fromNode":"520494a4f5bbaba4","fromSide":"right","toNode":"035d085e15fbb2a3","toSide":"left"},
+		{"id":"ae56aeded38c424f","fromNode":"a802e677a58e4b33","fromSide":"right","toNode":"3be7877d113a0570","toSide":"left"},
+		{"id":"160ed02050acef8e","fromNode":"a802e677a58e4b33","fromSide":"right","toNode":"035d085e15fbb2a3","toSide":"left"}
+	]
+}

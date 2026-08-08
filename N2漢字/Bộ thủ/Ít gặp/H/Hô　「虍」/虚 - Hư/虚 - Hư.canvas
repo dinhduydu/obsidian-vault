@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c0d1c6e55acc3423","x":-133,"y":-51,"width":250,"height":60,"type":"text","text":"虚 - Hư"},
+		{"id":"d329d874addbac99","x":-620,"y":-240,"width":166,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"90fa243a958b7d69","x":-620,"y":40,"width":190,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"}
+	],
+	"edges":[
+		{"id":"49f976416452887c","fromNode":"d329d874addbac99","fromSide":"right","toNode":"c0d1c6e55acc3423","toSide":"left"},
+		{"id":"8724e4c90ff398c4","fromNode":"90fa243a958b7d69","fromSide":"right","toNode":"c0d1c6e55acc3423","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"effd5574b55f8b62","x":-129,"y":-37,"width":250,"height":60,"type":"text","text":"抑 - Ức"},
+		{"id":"a4b16223c7ed6c88","x":-460,"y":-200,"width":133,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/卬 - Ngưỡng/卬 - Ngưỡng.canvas"},
+		{"id":"15e12461d0cb3656","x":-481,"y":100,"width":154,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"0a79b6d59bd32093","fromNode":"a4b16223c7ed6c88","fromSide":"right","toNode":"effd5574b55f8b62","toSide":"left"},
+		{"id":"9d18aa1bbad7313d","fromNode":"15e12461d0cb3656","fromSide":"right","toNode":"effd5574b55f8b62","toSide":"left","label":"đè nén"}
+	]
+}

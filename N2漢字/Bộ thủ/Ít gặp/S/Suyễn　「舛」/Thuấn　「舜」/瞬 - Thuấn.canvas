@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"89ec6378d137fb29","x":-149,"y":-32,"width":250,"height":60,"type":"text","text":"瞬 - Thuấn"},
+		{"id":"298b5bea1d5953c7","x":-600,"y":-380,"width":157,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Suyễn　「舛」/Thuấn　「舜」/Thuấn　「舜」.canvas"},
+		{"id":"058bd509571cc821","x":-644,"y":100,"width":201,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"ca670012f1aedb6b","fromNode":"298b5bea1d5953c7","fromSide":"right","toNode":"89ec6378d137fb29","toSide":"left"},
+		{"id":"1ff2aab942733492","fromNode":"058bd509571cc821","fromSide":"right","toNode":"89ec6378d137fb29","toSide":"left"}
+	]
+}

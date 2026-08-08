@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56727eae16502bf4","x":-105,"y":-57,"width":250,"height":60,"type":"text","text":"Thượng　「 上」"},
+		{"id":"d6964c2d8856febb","x":-420,"y":60,"width":126,"height":107,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 8/上 - Thượng.canvas"},
+		{"id":"abfdf0158fc51481","x":320,"y":-320,"width":227,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/峠 - Đèo.canvas"}
+	],
+	"edges":[
+		{"id":"d1a536245b9c9b48","fromNode":"d6964c2d8856febb","fromSide":"right","toNode":"56727eae16502bf4","toSide":"left"},
+		{"id":"75901b1eb571de1d","fromNode":"56727eae16502bf4","fromSide":"right","toNode":"abfdf0158fc51481","toSide":"left"}
+	]
+}

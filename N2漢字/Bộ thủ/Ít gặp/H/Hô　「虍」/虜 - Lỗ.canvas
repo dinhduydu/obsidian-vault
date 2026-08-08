@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"938a931980e79ebc","x":-103,"y":-26,"width":250,"height":60,"type":"text","text":"虜 - Lỗ"},
+		{"id":"9d53b7751b285285","x":-440,"y":-300,"width":104,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"d27908776f76bbcd","x":-527,"y":60,"width":191,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nam　「男」/Nam　「男」.canvas"}
+	],
+	"edges":[
+		{"id":"09aed5e82f13e0dc","fromNode":"9d53b7751b285285","fromSide":"right","toNode":"938a931980e79ebc","toSide":"left"},
+		{"id":"fc58c45f9ad3788c","fromNode":"d27908776f76bbcd","fromSide":"right","toNode":"938a931980e79ebc","toSide":"left"}
+	]
+}

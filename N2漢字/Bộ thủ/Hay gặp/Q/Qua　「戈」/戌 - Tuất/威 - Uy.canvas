@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"10db4418c883a839","type":"text","text":"威 - Uy","x":-80,"y":-60,"width":250,"height":60},
+		{"id":"5ad4eb96f348dcb0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":-549,"y":140,"width":172,"height":170},
+		{"id":"7daf096c98adb05b","x":-544,"y":-270,"width":167,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戌 - Tuất/戌 - Tuất.canvas"},
+		{"id":"3fd49f2af02c3402","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-824,"y":-474,"width":103,"height":127},
+		{"id":"71f5b89232a4c7b4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-902,"y":6,"width":160,"height":134},
+		{"id":"c4be3d0beba80769","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-1004,"y":-261,"width":142,"height":135}
+	],
+	"edges":[
+		{"id":"6b94400a6564036f","fromNode":"3fd49f2af02c3402","fromSide":"right","toNode":"7daf096c98adb05b","toSide":"left"},
+		{"id":"9922b390317c7c2c","fromNode":"c4be3d0beba80769","fromSide":"right","toNode":"7daf096c98adb05b","toSide":"left"},
+		{"id":"5d00e3a96b8ead96","fromNode":"71f5b89232a4c7b4","fromSide":"right","toNode":"7daf096c98adb05b","toSide":"left"},
+		{"id":"d39e606a6f37a41b","fromNode":"5ad4eb96f348dcb0","fromSide":"right","toNode":"10db4418c883a839","toSide":"left"},
+		{"id":"f294486b9083deab","fromNode":"7daf096c98adb05b","fromSide":"right","toNode":"10db4418c883a839","toSide":"left"}
+	]
+}

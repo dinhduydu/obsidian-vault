@@ -2,12 +2,16 @@
 	"nodes":[
 		{"id":"fa9eccd04571dcf3","type":"text","text":"Hô　「虍」","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"2ff527034578f6cb","type":"text","text":"vằn hổ","x":-720,"y":-180,"width":250,"height":60},
-		{"id":"652132723d987017","x":300,"y":-220,"width":207,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/膚 - Phu.canvas"},
-		{"id":"9c455dfffbc63a48","x":-56,"y":-371,"width":181,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/胃 - Vị.canvas"}
+		{"id":"652132723d987017","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/膚 - Phu.canvas","x":300,"y":-220,"width":207,"height":159},
+		{"id":"9c455dfffbc63a48","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/胃 - Vị/胃 - Vị.canvas","x":-56,"y":-371,"width":181,"height":151},
+		{"id":"f41fbd584d2ae4a7","x":420,"y":160,"width":269,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/虎 - Hổ.canvas"},
+		{"id":"8f5df0e2d68875ef","x":420,"y":580,"width":207,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/虜 - Lỗ.canvas"}
 	],
 	"edges":[
 		{"id":"ef2080df3eee77f9","fromNode":"2ff527034578f6cb","fromSide":"right","toNode":"fa9eccd04571dcf3","toSide":"left"},
 		{"id":"50c75ff32a1aaaa7","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"652132723d987017","toSide":"left"},
-		{"id":"96d9b5f7a1371d4c","fromNode":"9c455dfffbc63a48","fromSide":"right","toNode":"652132723d987017","toSide":"left"}
+		{"id":"96d9b5f7a1371d4c","fromNode":"9c455dfffbc63a48","fromSide":"right","toNode":"652132723d987017","toSide":"left"},
+		{"id":"1244abf48e427fb2","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"f41fbd584d2ae4a7","toSide":"left"},
+		{"id":"1d59ddd859eca30c","fromNode":"fa9eccd04571dcf3","fromSide":"right","toNode":"8f5df0e2d68875ef","toSide":"left"}
 	]
 }

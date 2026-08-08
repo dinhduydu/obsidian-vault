@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e0d0589b98507cc5","x":-81,"y":-24,"width":250,"height":60,"type":"text","text":"刈 - Ngải"},
+		{"id":"c932a9aad26ac9da","x":-500,"y":-300,"width":215,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"},
+		{"id":"7ce657532ff8a778","x":-448,"y":120,"width":163,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"a3ca5a4cc29cf0bc","fromNode":"c932a9aad26ac9da","fromSide":"right","toNode":"e0d0589b98507cc5","toSide":"left"},
+		{"id":"14fbcd16b2d22895","fromNode":"7ce657532ff8a778","fromSide":"right","toNode":"e0d0589b98507cc5","toSide":"left"}
+	]
+}

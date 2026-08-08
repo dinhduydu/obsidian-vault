@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d38c2828159e4620","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"穏 - Ổn"},
+		{"id":"2e23295193befec0","x":-420,"y":160,"width":148,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/A/𤔌 - Ẩn/㥯 - Ẩn.canvas"},
+		{"id":"d77fe0b627548adc","x":-437,"y":-158,"width":165,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"}
+	],
+	"edges":[
+		{"id":"d8142a8d33af4710","fromNode":"2e23295193befec0","fromSide":"right","toNode":"d38c2828159e4620","toSide":"left"},
+		{"id":"073742e445b7dbfc","fromNode":"d77fe0b627548adc","fromSide":"right","toNode":"d38c2828159e4620","toSide":"left"}
+	]
+}

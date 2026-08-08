@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4e5a0ccc8f6cb504","x":-51,"y":-26,"width":250,"height":60,"type":"text","text":"濁 - Trọc"},
+		{"id":"76f6bfd959387a05","x":-379,"y":160,"width":159,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"99af368c55339673","x":-362,"y":-420,"width":126,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"},
+		{"id":"5be88c66bb94b11f","x":-700,"y":-79,"width":180,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"},
+		{"id":"d9529bd5e1946434","x":-457,"y":-203,"width":191,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"}
+	],
+	"edges":[
+		{"id":"e811f9a81b2d4153","fromNode":"5be88c66bb94b11f","fromSide":"right","toNode":"4e5a0ccc8f6cb504","toSide":"left"},
+		{"id":"7b01b6b9c9b9b2bc","fromNode":"76f6bfd959387a05","fromSide":"right","toNode":"4e5a0ccc8f6cb504","toSide":"left"},
+		{"id":"b16f6619d04ee732","fromNode":"99af368c55339673","fromSide":"right","toNode":"4e5a0ccc8f6cb504","toSide":"left"},
+		{"id":"11fbe93abe93cf29","fromNode":"d9529bd5e1946434","fromSide":"right","toNode":"4e5a0ccc8f6cb504","toSide":"left"}
+	]
+}

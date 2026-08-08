@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ed502f1327a04d13","x":-140,"y":-43,"width":250,"height":60,"type":"text","text":"絞 - Giảo"},
+		{"id":"fa5c7666d34b9868","x":-500,"y":-260,"width":144,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas"},
+		{"id":"9981e0ddc6b19819","x":-508,"y":80,"width":152,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"b63a6f0c3986828a","fromNode":"fa5c7666d34b9868","fromSide":"right","toNode":"ed502f1327a04d13","toSide":"left"},
+		{"id":"2dc29b52a2c61f62","fromNode":"9981e0ddc6b19819","fromSide":"right","toNode":"ed502f1327a04d13","toSide":"left"}
+	]
+}

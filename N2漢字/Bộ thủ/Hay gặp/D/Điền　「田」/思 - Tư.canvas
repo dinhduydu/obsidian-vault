@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6691c75269a30ff2","x":-140,"y":-70,"width":250,"height":60,"type":"text","text":"思 - Tư"},
+		{"id":"661d19393679f7db","x":-500,"y":-340,"width":179,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"3caf997932e3d9a3","x":-477,"y":120,"width":133,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"be4be18f851ebdc1","fromNode":"661d19393679f7db","fromSide":"right","toNode":"6691c75269a30ff2","toSide":"left"},
+		{"id":"899ad35d5eafb9ab","fromNode":"3caf997932e3d9a3","fromSide":"right","toNode":"6691c75269a30ff2","toSide":"left"}
+	]
+}

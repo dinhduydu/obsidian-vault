@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"43cfee26afc48b8c","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"傾 - Khuynh"},
+		{"id":"f9f392d1bc92997f","x":-440,"y":-220,"width":145,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頃 - Khoảnh/頃 - Khoảnh.canvas"},
+		{"id":"69c8c9a64aee66f9","x":-433,"y":80,"width":138,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"3f9b631910e79a56","fromNode":"f9f392d1bc92997f","fromSide":"right","toNode":"43cfee26afc48b8c","toSide":"left"},
+		{"id":"69206e5d1e973424","fromNode":"69c8c9a64aee66f9","fromSide":"right","toNode":"43cfee26afc48b8c","toSide":"left"}
+	]
+}

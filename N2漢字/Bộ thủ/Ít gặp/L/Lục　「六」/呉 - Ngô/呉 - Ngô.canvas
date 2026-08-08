@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f6e841cb6185adec","x":-81,"y":-36,"width":250,"height":60,"type":"text","text":"呉 - Ngô"},
+		{"id":"a6d89f7904506d85","x":440,"y":-188,"width":270,"height":182,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てくれる.md"},
+		{"id":"dd9451daeeec5d85","x":-580,"y":-280,"width":199,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"493188aa5b3994b9","x":-580,"y":80,"width":204,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas"}
+	],
+	"edges":[
+		{"id":"ec121d780cc3e414","fromNode":"f6e841cb6185adec","fromSide":"right","toNode":"a6d89f7904506d85","toSide":"left"},
+		{"id":"a82acb95220a35b1","fromNode":"dd9451daeeec5d85","fromSide":"right","toNode":"f6e841cb6185adec","toSide":"left"},
+		{"id":"7d51cdf6feb1d5c4","fromNode":"493188aa5b3994b9","fromSide":"right","toNode":"f6e841cb6185adec","toSide":"left"}
+	]
+}

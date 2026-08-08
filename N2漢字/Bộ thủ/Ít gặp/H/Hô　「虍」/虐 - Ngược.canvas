@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca28b136cf8fb932","x":-145,"y":-31,"width":250,"height":60,"type":"text","text":"虐 - Ngược"},
+		{"id":"058ff52d1f71c65d","x":-580,"y":-320,"width":131,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas"},
+		{"id":"727bd8c25db49ccf","x":-629,"y":60,"width":180,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"}
+	],
+	"edges":[
+		{"id":"beb96047e63e9a0f","fromNode":"058ff52d1f71c65d","fromSide":"right","toNode":"ca28b136cf8fb932","toSide":"left"},
+		{"id":"fc69262537a4c2fe","fromNode":"727bd8c25db49ccf","fromSide":"right","toNode":"ca28b136cf8fb932","toSide":"left"}
+	]
+}

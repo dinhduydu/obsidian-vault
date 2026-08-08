@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ccd51f42c69dc2b5","x":-90,"y":-27,"width":250,"height":60,"type":"text","text":"暇 - Hạ"},
+		{"id":"8ca2083d72a52539","x":-540,"y":-260,"width":97,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"a8c1de572265384d","x":-580,"y":40,"width":187,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"7de256503903845f","x":-360,"y":-273,"width":126,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas"},
+		{"id":"abde24dea7f8c910","x":-449,"y":280,"width":179,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"af6e4893bb82cbf3","x":-140,"y":240,"width":148,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"541cffbc76e211e0","fromNode":"8ca2083d72a52539","fromSide":"right","toNode":"ccd51f42c69dc2b5","toSide":"left"},
+		{"id":"ad74b7004256c943","fromNode":"a8c1de572265384d","fromSide":"right","toNode":"ccd51f42c69dc2b5","toSide":"left"},
+		{"id":"9a0aabe4447b74b0","fromNode":"7de256503903845f","fromSide":"right","toNode":"ccd51f42c69dc2b5","toSide":"left"},
+		{"id":"547a20e3b1d59c92","fromNode":"abde24dea7f8c910","fromSide":"right","toNode":"ccd51f42c69dc2b5","toSide":"left"}
+	]
+}

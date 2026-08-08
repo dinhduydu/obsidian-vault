@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7833e327f50e213b","type":"text","text":"戌 - Tuất","x":-87,"y":-27,"width":250,"height":60},
+		{"id":"0a608c87288050c6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas","x":-340,"y":-180,"width":103,"height":127},
+		{"id":"cc567417cc03f375","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-359,"y":100,"width":142,"height":135},
+		{"id":"979b5912f1d97703","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas","x":-640,"y":-64,"width":160,"height":134}
+	],
+	"edges":[
+		{"id":"50864880b72aaf21","fromNode":"cc567417cc03f375","fromSide":"right","toNode":"7833e327f50e213b","toSide":"left"},
+		{"id":"a52a3a8ea4414e06","fromNode":"0a608c87288050c6","fromSide":"right","toNode":"7833e327f50e213b","toSide":"left"},
+		{"id":"b31215a3b0651110","fromNode":"979b5912f1d97703","fromSide":"right","toNode":"7833e327f50e213b","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f4549daf4fc7b312","x":-131,"y":-50,"width":250,"height":60,"type":"text","text":"拙 - Chuyết"},
+		{"id":"95c5a043314fff33","x":-480,"y":80,"width":172,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/出 - Xuất/出 - Xuất.canvas"},
+		{"id":"ec7838fcb44e6ac1","x":-520,"y":-320,"width":172,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"e4d0adab7b8628db","fromNode":"95c5a043314fff33","fromSide":"right","toNode":"f4549daf4fc7b312","toSide":"left"},
+		{"id":"365663697ab8a64b","fromNode":"ec7838fcb44e6ac1","fromSide":"right","toNode":"f4549daf4fc7b312","toSide":"left","label":"vụng về"}
+	]
+}

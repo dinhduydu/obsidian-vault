@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"502dfb7559a71718","x":-80,"y":-46,"width":250,"height":60,"type":"text","text":"較 - Giác"},
+		{"id":"24ba982c5fd7087b","x":-560,"y":-300,"width":160,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
+		{"id":"c8afcb63a6b973c2","x":-555,"y":40,"width":155,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/Giao　「交」.canvas"}
+	],
+	"edges":[
+		{"id":"396a59c37d5b2d9c","fromNode":"24ba982c5fd7087b","fromSide":"right","toNode":"502dfb7559a71718","toSide":"left"},
+		{"id":"d2912128df8b163b","fromNode":"c8afcb63a6b973c2","fromSide":"right","toNode":"502dfb7559a71718","toSide":"left"}
+	]
+}
