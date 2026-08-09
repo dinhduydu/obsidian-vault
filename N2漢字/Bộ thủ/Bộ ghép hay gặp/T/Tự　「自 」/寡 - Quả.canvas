@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5019edb61837bfdf","type":"text","text":"寡 - Quả","x":-115,"y":-17,"width":250,"height":60},
+		{"id":"e357194f9796a879","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/Tự　「自 」.canvas","x":-500,"y":-260,"width":195,"height":205},
+		{"id":"b1e4fb1af911ac1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas","x":-470,"y":-460,"width":165,"height":127},
+		{"id":"72402d39adcd183f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-457,"y":2,"width":139,"height":83},
+		{"id":"958511d98ff1dc4e","x":-457,"y":160,"width":159,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"},
+		{"id":"982796dbb380bf96","x":-820,"y":-28,"width":250,"height":60,"type":"text","text":"quả phụ"}
+	],
+	"edges":[
+		{"id":"ed825cf1fe43047b","fromNode":"e357194f9796a879","fromSide":"right","toNode":"5019edb61837bfdf","toSide":"left"},
+		{"id":"9c783d43f819b40c","fromNode":"b1e4fb1af911ac1a","fromSide":"right","toNode":"5019edb61837bfdf","toSide":"left"},
+		{"id":"0b63ffb62b22721e","fromNode":"72402d39adcd183f","fromSide":"right","toNode":"5019edb61837bfdf","toSide":"left"},
+		{"id":"6b36a6de88820722","fromNode":"958511d98ff1dc4e","fromSide":"right","toNode":"5019edb61837bfdf","toSide":"left"},
+		{"id":"b3956a4bbedd0ca0","fromNode":"982796dbb380bf96","fromSide":"right","toNode":"5019edb61837bfdf","toSide":"left"}
+	]
+}

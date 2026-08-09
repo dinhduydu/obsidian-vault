@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"03952037affeaa74","x":-133,"y":-41,"width":250,"height":60,"type":"text","text":"枠 - Khung"},
+		{"id":"8e243585b4b4bf97","x":-500,"y":120,"width":179,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/卆 - Tốt/卆 - Tốt.canvas"},
+		{"id":"2167f4d609d8fbf4","x":-495,"y":-300,"width":169,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"6de9056060908199","fromNode":"8e243585b4b4bf97","fromSide":"right","toNode":"03952037affeaa74","toSide":"left"},
+		{"id":"4c70bc8beb63f42e","fromNode":"2167f4d609d8fbf4","fromSide":"right","toNode":"03952037affeaa74","toSide":"left"}
+	]
+}

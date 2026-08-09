@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"56ff8ad6c4927b30","type":"text","text":"隷 - Lệ","x":-91,"y":-19,"width":250,"height":60},
+		{"id":"fcc9d44ead0ede68","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đãi　「隶 」/Đãi　「隶 」.canvas","x":-440,"y":120,"width":190,"height":214},
+		{"id":"475ff13cfd5582c5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」/Thị (chỉ)　「示」.canvas","x":-1100,"y":-59,"width":180,"height":141},
+		{"id":"ca6cb0d301607dd6","x":-619,"y":-400,"width":179,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」/士示/士示.canvas"},
+		{"id":"2d1d505ed9d1e54e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas","x":-1072,"y":-480,"width":125,"height":134}
+	],
+	"edges":[
+		{"id":"355a7c6bc7b46017","fromNode":"fcc9d44ead0ede68","fromSide":"right","toNode":"56ff8ad6c4927b30","toSide":"left"},
+		{"id":"5220ae3525c6d0de","fromNode":"475ff13cfd5582c5","fromSide":"right","toNode":"ca6cb0d301607dd6","toSide":"left"},
+		{"id":"97e136d45cf37b48","fromNode":"2d1d505ed9d1e54e","fromSide":"right","toNode":"ca6cb0d301607dd6","toSide":"left"},
+		{"id":"8b2a573cea094840","fromNode":"ca6cb0d301607dd6","fromSide":"right","toNode":"56ff8ad6c4927b30","toSide":"left"}
+	]
+}

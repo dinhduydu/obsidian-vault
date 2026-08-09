@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"743627a69fc2c084","x":-75,"y":-34,"width":250,"height":60,"type":"text","text":"砕 - Toái"},
+		{"id":"487704e3f9d379e4","x":-620,"y":-300,"width":173,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"118d5747bfba4f08","x":-620,"y":100,"width":173,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/卆 - Tốt/卆 - Tốt.canvas"}
+	],
+	"edges":[
+		{"id":"efbb6094662a3f45","fromNode":"487704e3f9d379e4","fromSide":"right","toNode":"743627a69fc2c084","toSide":"left","label":"dùng đá làm vỡ đồ đạc"},
+		{"id":"b0584e22d62803a2","fromNode":"118d5747bfba4f08","fromSide":"right","toNode":"743627a69fc2c084","toSide":"left"}
+	]
+}

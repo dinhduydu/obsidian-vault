@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"7fc4de8c14403193","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/祈 - Kỳ.canvas","x":239,"y":60,"width":198,"height":160},
 		{"id":"235ce0aaba46ae7c","type":"text","text":"rìu, đo khối lượng","x":-600,"y":-220,"width":250,"height":60},
-		{"id":"64f7e7defc7551cf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-39,"y":200,"width":151,"height":138},
+		{"id":"64f7e7defc7551cf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas","x":-39,"y":200,"width":151,"height":138},
 		{"id":"fe059179ed123093","type":"text","text":"cầu phúc","x":580,"y":39,"width":250,"height":60},
 		{"id":"afe6413c460b5bf8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/匠 - Tượng.canvas","x":239,"y":-279,"width":182,"height":118},
 		{"id":"60efa99dfb11066c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/Phương　「匚」.canvas","x":-93,"y":-360,"width":130,"height":119},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"31b754fa8b2d1272","x":-112,"y":-11,"width":250,"height":60,"type":"text","text":"壤 - Nhưỡng"},
+		{"id":"00bd768197bf0aa4","x":-740,"y":-56,"width":192,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"99ffc2b4d6100c03","x":-440,"y":-240,"width":204,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tương「襄」/Tương「襄」.canvas"}
+	],
+	"edges":[
+		{"id":"dae67078f30b48cc","fromNode":"99ffc2b4d6100c03","fromSide":"right","toNode":"31b754fa8b2d1272","toSide":"left"},
+		{"id":"ee12d27375d66408","fromNode":"00bd768197bf0aa4","fromSide":"right","toNode":"31b754fa8b2d1272","toSide":"left"}
+	]
+}

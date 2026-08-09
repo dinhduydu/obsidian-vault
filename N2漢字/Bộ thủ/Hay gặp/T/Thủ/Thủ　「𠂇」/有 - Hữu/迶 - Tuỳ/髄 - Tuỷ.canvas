@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1dc5718417ed6be2","x":-67,"y":-28,"width":250,"height":60,"type":"text","text":"髄 - Tuỷ"},
+		{"id":"5c330cfaba919fea","x":-480,"y":-320,"width":158,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quả　「冎 」/Cốt　「骨」/Cốt　「骨」.canvas"},
+		{"id":"d8183e8dbacddf77","x":-480,"y":60,"width":192,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu/迶 - Tuỳ/迶 - Tuỳ.canvas"}
+	],
+	"edges":[
+		{"id":"dad54212b9c04b1b","fromNode":"5c330cfaba919fea","fromSide":"right","toNode":"1dc5718417ed6be2","toSide":"left"},
+		{"id":"d63fe9ad04b8205c","fromNode":"d8183e8dbacddf77","fromSide":"right","toNode":"1dc5718417ed6be2","toSide":"left"}
+	]
+}

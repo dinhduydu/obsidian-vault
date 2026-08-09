@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"792ff386718ee468","x":-64,"y":-29,"width":250,"height":60,"type":"text","text":"賄 - Hối"},
+		{"id":"a3e35deacebe9ee4","x":-400,"y":120,"width":129,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu/有 - Hữu.canvas"},
+		{"id":"3bcaf7ad3220d00f","x":-427,"y":-280,"width":156,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"f16fa5b267aa9314","fromNode":"a3e35deacebe9ee4","fromSide":"right","toNode":"792ff386718ee468","toSide":"left"},
+		{"id":"bc04e3d32785f321","fromNode":"3bcaf7ad3220d00f","fromSide":"right","toNode":"792ff386718ee468","toSide":"left"}
+	]
+}

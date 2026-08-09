@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e5be5baa38c8bdb","type":"text","text":"Ao　「凹」","x":-140,"y":-39,"width":160,"height":60},
+		{"id":"55f60fda1b744e6a","type":"text","text":"chỗ lõm","x":-680,"y":-260,"width":250,"height":60},
+		{"id":"ea537ece501d5a2f","x":-618,"y":-81,"width":188,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/Khảm「凵」.canvas"}
+	],
+	"edges":[
+		{"id":"9aa43871a774bbe4","fromNode":"3e5be5baa38c8bdb","fromSide":"left","toNode":"55f60fda1b744e6a","toSide":"right"},
+		{"id":"909ebbbb61bb9608","fromNode":"ea537ece501d5a2f","fromSide":"right","toNode":"3e5be5baa38c8bdb","toSide":"left"}
+	]
+}

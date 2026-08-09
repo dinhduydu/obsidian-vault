@@ -4,7 +4,7 @@
 		{"id":"2471dba7de72bc7e","type":"text","text":"đền thờ, công ty","x":222,"y":-78,"width":250,"height":60},
 		{"id":"564f5ab635693461","type":"text","text":"xã hội, công xã, hợp tác xã","x":206,"y":49,"width":250,"height":60},
 		{"id":"64bde7a2f6f059bb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-472,"y":-108,"width":177,"height":121},
-		{"id":"a3830398050b6962","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-540,"y":300,"width":176,"height":187}
+		{"id":"a3830398050b6962","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas","x":-540,"y":300,"width":176,"height":187}
 	],
 	"edges":[
 		{"id":"70af25d953a2ec8e","fromNode":"12a9251d38650d51","fromSide":"right","toNode":"2471dba7de72bc7e","toSide":"left"},

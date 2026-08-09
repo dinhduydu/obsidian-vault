@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"102c5bc27e09ccf0","x":-105,"y":-27,"width":250,"height":60,"type":"text","text":"卆 - Tốt"},
+		{"id":"0939e5bb7542cda6","x":-480,"y":-300,"width":207,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/丸 - Hoàn.canvas"},
+		{"id":"df67f24b5d026c15","x":-488,"y":80,"width":224,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"9d9ec487df04240b","fromNode":"0939e5bb7542cda6","fromSide":"right","toNode":"102c5bc27e09ccf0","toSide":"left"},
+		{"id":"729ee4c218d7ed9f","fromNode":"df67f24b5d026c15","fromSide":"right","toNode":"102c5bc27e09ccf0","toSide":"left"}
+	]
+}

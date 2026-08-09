@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7a368b2f4878d1ef","type":"text","text":"福 - Phúc","x":-93,"y":-50,"width":250,"height":60},
-		{"id":"74d4eebd0e5b6a33","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」.canvas","x":-400,"y":80,"width":140,"height":127},
+		{"id":"74d4eebd0e5b6a33","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas","x":-400,"y":80,"width":140,"height":127},
 		{"id":"575a3844a6ab4139","type":"file","file":"Chữa đề/Learning_Profile/Kanji/福祉.md","x":260,"y":-260,"width":149,"height":95},
 		{"id":"da73bf63d5264b4f","type":"file","file":"Chữa đề/Learning_Profile/Kanji/幸福.md","x":260,"y":30,"width":182,"height":114},
 		{"id":"8e32e049d0303e67","x":-447,"y":-349,"width":187,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bức　「畐」/Bức　「畐」.canvas"}

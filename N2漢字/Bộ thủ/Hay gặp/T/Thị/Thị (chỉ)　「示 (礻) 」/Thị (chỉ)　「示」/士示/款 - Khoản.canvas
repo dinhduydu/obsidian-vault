@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"08f999800d02cb56","x":-103,"y":-19,"width":250,"height":60,"type":"text","text":"款 - Khoản"},
+		{"id":"b5fa233e12149637","x":-380,"y":-200,"width":102,"height":90,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/Khiếm　「欠 」.canvas"},
+		{"id":"b015a587853c4467","x":-482,"y":80,"width":204,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「示」/士示/士示.canvas"}
+	],
+	"edges":[
+		{"id":"9073deb956400688","fromNode":"b5fa233e12149637","fromSide":"right","toNode":"08f999800d02cb56","toSide":"left"},
+		{"id":"e6f31a1de864448f","fromNode":"b015a587853c4467","fromSide":"right","toNode":"08f999800d02cb56","toSide":"left"}
+	]
+}

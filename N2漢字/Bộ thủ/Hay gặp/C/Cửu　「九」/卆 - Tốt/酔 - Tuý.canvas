@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c4df2a8b2f8d3f5c","x":-102,"y":-47,"width":250,"height":60,"type":"text","text":"酔 - Tuý"},
+		{"id":"45466843ceaf906e","x":-440,"y":-280,"width":171,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/卆 - Tốt/卆 - Tốt.canvas"},
+		{"id":"e70b0b127241ce42","x":-453,"y":40,"width":198,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"}
+	],
+	"edges":[
+		{"id":"46414b88e08d010f","fromNode":"45466843ceaf906e","fromSide":"right","toNode":"c4df2a8b2f8d3f5c","toSide":"left"},
+		{"id":"7640b8f403e38807","fromNode":"e70b0b127241ce42","fromSide":"right","toNode":"c4df2a8b2f8d3f5c","toSide":"left"}
+	]
+}

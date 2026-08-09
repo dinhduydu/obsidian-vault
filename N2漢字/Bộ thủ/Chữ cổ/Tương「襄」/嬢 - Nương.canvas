@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c57962842e92624","x":-126,"y":-56,"width":250,"height":60,"type":"text","text":"嬢 - Nương"},
+		{"id":"000c386bde490d6b","x":-480,"y":80,"width":143,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tương「襄」/Tương「襄」.canvas"},
+		{"id":"dc5ef3cf1a0dff43","x":-569,"y":-320,"width":179,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"0849360645e0e616","fromNode":"000c386bde490d6b","fromSide":"right","toNode":"6c57962842e92624","toSide":"left"},
+		{"id":"4f6d14085820b718","fromNode":"dc5ef3cf1a0dff43","fromSide":"right","toNode":"6c57962842e92624","toSide":"left"}
+	]
+}

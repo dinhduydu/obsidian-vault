@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1179e3a23cdbafce","x":-99,"y":-19,"width":250,"height":60,"type":"text","text":"宛 - Uyên"},
+		{"id":"4f5e424cc2a059a2","x":-460,"y":140,"width":194,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas"},
+		{"id":"4a33e4d91dee647d","x":-720,"y":-57,"width":169,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"},
+		{"id":"8d830572abd219ac","x":-412,"y":-300,"width":146,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"07f3ae8ec9580bd7","fromNode":"4f5e424cc2a059a2","fromSide":"right","toNode":"1179e3a23cdbafce","toSide":"left"},
+		{"id":"a009ebf654ab6f5f","fromNode":"4a33e4d91dee647d","fromSide":"right","toNode":"1179e3a23cdbafce","toSide":"left"},
+		{"id":"16a62effa4fc21bb","fromNode":"8d830572abd219ac","fromSide":"right","toNode":"1179e3a23cdbafce","toSide":"left"}
+	]
+}

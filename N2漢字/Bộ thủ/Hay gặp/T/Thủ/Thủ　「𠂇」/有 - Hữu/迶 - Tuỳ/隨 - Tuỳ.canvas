@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c038d59ec539267","x":-29,"y":-24,"width":250,"height":60,"type":"text","text":"隨 - Tuỳ"},
+		{"id":"c3893eb6cfc8dd45","x":-340,"y":140,"width":151,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/有 - Hữu/迶 - Tuỳ/迶 - Tuỳ.canvas"},
+		{"id":"4ff310f5968ca554","x":-343,"y":-240,"width":154,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+	],
+	"edges":[
+		{"id":"4eb91a88b1fa20ef","fromNode":"c3893eb6cfc8dd45","fromSide":"right","toNode":"6c038d59ec539267","toSide":"left"},
+		{"id":"c310769a0fc0c38e","fromNode":"4ff310f5968ca554","fromSide":"right","toNode":"6c038d59ec539267","toSide":"left"}
+	]
+}

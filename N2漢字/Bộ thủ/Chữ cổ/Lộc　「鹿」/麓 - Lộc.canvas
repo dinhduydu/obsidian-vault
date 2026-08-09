@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6ba684676fc64679","x":-64,"y":-43,"width":250,"height":60,"type":"text","text":"麓 - Lộc"},
+		{"id":"eb8d138a109abe5e","x":-300,"y":-80,"width":140,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/Lộc　「鹿」.canvas"},
+		{"id":"c3017717e2aa9a0d","x":-262,"y":-260,"width":102,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/林 - Lâm/林 - Lâm.canvas"}
+	],
+	"edges":[
+		{"id":"5b7ee88b315d2b88","fromNode":"eb8d138a109abe5e","fromSide":"right","toNode":"6ba684676fc64679","toSide":"left"},
+		{"id":"336d68492df42dc8","fromNode":"c3017717e2aa9a0d","fromSide":"right","toNode":"6ba684676fc64679","toSide":"left","label":"chân núi"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"25cf88baebf4e9d5","type":"text","text":"譲 - Nhượng","x":-155,"y":-29,"width":250,"height":60},
+		{"id":"ea30b1cc000c6d0d","x":-510,"y":-260,"width":181,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"c5ad5006690716d2","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tương「襄」/Tương「襄」.canvas","x":-496,"y":140,"width":167,"height":197}
+	],
+	"edges":[
+		{"id":"9e7db55457b796c3","fromNode":"c5ad5006690716d2","fromSide":"right","toNode":"25cf88baebf4e9d5","toSide":"left"},
+		{"id":"361008fde4824b12","fromNode":"ea30b1cc000c6d0d","fromSide":"right","toNode":"25cf88baebf4e9d5","toSide":"left"}
+	]
+}

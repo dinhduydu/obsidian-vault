@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7d83c29d0e26adb7","x":-74,"y":-26,"width":250,"height":60,"type":"text","text":"麗 - Lệ"},
+		{"id":"902c497fa9442403","x":-420,"y":-67,"width":163,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Lộc　「鹿」/Lộc　「鹿」.canvas"},
+		{"id":"dfee30ce31bad783","x":-408,"y":-340,"width":140,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"838ff90aa158970b","x":-434,"y":-640,"width":177,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"}
+	],
+	"edges":[
+		{"id":"8131e44d8eb12350","fromNode":"902c497fa9442403","fromSide":"right","toNode":"7d83c29d0e26adb7","toSide":"left"},
+		{"id":"db6de220b582518f","fromNode":"dfee30ce31bad783","fromSide":"right","toNode":"7d83c29d0e26adb7","toSide":"left"},
+		{"id":"1a18ca16c90a0532","fromNode":"838ff90aa158970b","fromSide":"right","toNode":"7d83c29d0e26adb7","toSide":"left"}
+	]
+}
