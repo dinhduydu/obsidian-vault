@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"220302534aff5555","x":-107,"y":-35,"width":250,"height":60,"type":"text","text":"堅 - Kiên"},
+		{"id":"9d936a31a963e431","x":-440,"y":-180,"width":128,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/臤 - Hiền.canvas"},
+		{"id":"3b4ca3855fbc3f57","x":-509,"y":60,"width":197,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"5cbdecdf9dec9e2d","fromNode":"9d936a31a963e431","fromSide":"right","toNode":"220302534aff5555","toSide":"left"},
+		{"id":"5d211daf5b75f8bc","fromNode":"3b4ca3855fbc3f57","fromSide":"right","toNode":"220302534aff5555","toSide":"left"}
+	]
+}

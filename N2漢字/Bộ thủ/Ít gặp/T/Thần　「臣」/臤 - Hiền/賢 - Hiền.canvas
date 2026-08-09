@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9fc8f68e21f760e6","x":-149,"y":-41,"width":250,"height":60,"type":"text","text":"賢 - Hiền"},
+		{"id":"5684ea5332cf3f46","x":-400,"y":-200,"width":146,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/臤 - Hiền.canvas"},
+		{"id":"06b3ed1032e1d791","x":-428,"y":100,"width":174,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"0f12cdf511a9f704","fromNode":"5684ea5332cf3f46","fromSide":"right","toNode":"9fc8f68e21f760e6","toSide":"left"},
+		{"id":"ff9fe5a04643927e","fromNode":"06b3ed1032e1d791","fromSide":"right","toNode":"9fc8f68e21f760e6","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a51385b039c1c554","x":-80,"y":-41,"width":250,"height":60,"type":"text","text":"緊 - Thận"},
+		{"id":"620003bd4199b459","x":-460,"y":-280,"width":171,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/臤 - Hiền.canvas"},
+		{"id":"6b8193e2f17a5a2c","x":-483,"y":60,"width":194,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"5a7ab0bc46c1e6fa","fromNode":"620003bd4199b459","fromSide":"right","toNode":"a51385b039c1c554","toSide":"left"},
+		{"id":"aa3d1d8ccb4f488c","fromNode":"6b8193e2f17a5a2c","fromSide":"right","toNode":"a51385b039c1c554","toSide":"left"}
+	]
+}

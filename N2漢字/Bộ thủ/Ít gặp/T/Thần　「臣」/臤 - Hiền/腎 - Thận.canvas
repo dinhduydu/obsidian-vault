@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d9951d76caade874","type":"text","text":"腎 - Thận","x":-145,"y":-25,"width":250,"height":60},
+		{"id":"acf9ff2aeca02082","x":-440,"y":-200,"width":142,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/臤 - Hiền.canvas"},
+		{"id":"dde1d19de6470a5b","x":-482,"y":80,"width":184,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"b506b9479547adc5","fromNode":"acf9ff2aeca02082","fromSide":"right","toNode":"d9951d76caade874","toSide":"left"},
+		{"id":"bf29b7475aeab9dd","fromNode":"dde1d19de6470a5b","fromSide":"right","toNode":"d9951d76caade874","toSide":"left"}
+	]
+}

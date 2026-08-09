@@ -336,15 +336,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/寝 - Tẩm.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 475.0818797661932,
+                  "y": 2188.90646269443,
+                  "zoom": -0.7721984766439882
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "寝 - Tẩm"
+              "title": "Nhục　「肉 (⺼) 」"
             }
           }
         ],
@@ -382,7 +382,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kệ",
+                "query": "Thần",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -504,19 +504,20 @@
   },
   "active": "847adbf8c670fe93",
   "lastOpenFiles": [
-    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/侵 - Xâm.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/腎 - Thận.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/緊 - Thận.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/賢 - Hiền.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/臤 - Hiền.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền/堅 - Kiên.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/臤 - Hiền",
+    "N2漢字/Bộ thủ/Ít gặp/T/Thần　「臣」/Thần　「臣」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/尋 - Tầm.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/浸 - Tẩm.canvas",
     "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/寝 - Tẩm.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/侵 - Xâm.canvas",
     "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn",
-    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/須 - Tu.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/显 - Hiển/顕 - Hiển.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/項 - Hạng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頃 - Khoảnh/傾 - Khuynh.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頃 - Khoảnh/頃 - Khoảnh.canvas",
     "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頃 - Khoảnh",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/頼 - Lại",
     "N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/卬 - Ngưỡng",
     "Chữa đề/２０２５年/１２月２０２５年/Week4/23122025/3. Phân Tích N3_TEST TỪ VỰNG_BÀI 1.md",
@@ -525,7 +526,6 @@
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/夹 - Giáp",
     "N2漢字/Bộ thủ/Ít gặp/N/Ngọ　「午」/卸 - Tá",
     "N2漢字/Bộ thủ/Ít gặp/N/Ngũ　「五」/吾 - Ngô",
-    "N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/呉 - Ngô",
     "N2語彙/Từ ghép/手/手.md",
     "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/2. Phân Tích Ngữ Pháp.md",
     "Chữa đề/Learning_Profile/Collocation/対処方法.md",

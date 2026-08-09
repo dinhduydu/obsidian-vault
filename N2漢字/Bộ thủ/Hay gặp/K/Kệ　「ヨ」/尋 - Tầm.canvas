@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e1a4b553105b67d0","type":"text","text":"尋 - Tầm","x":-123,"y":-24,"width":250,"height":60},
+		{"id":"312365bc25af1978","x":-740,"y":-241,"width":189,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"},
+		{"id":"10be7fac309e4b86","type":"text","text":"tìm kiếm, hỏi","x":-865,"y":-24,"width":250,"height":60},
+		{"id":"5b93bbb01e99e956","x":-828,"y":140,"width":213,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"},
+		{"id":"c15a75f1b0af859c","x":-721,"y":400,"width":160,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"1ea13fb8372de097","x":-340,"y":460,"width":160,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"55aa3d465599012f","fromNode":"312365bc25af1978","fromSide":"right","toNode":"e1a4b553105b67d0","toSide":"left"},
+		{"id":"e08c907427db13b8","fromNode":"10be7fac309e4b86","fromSide":"right","toNode":"e1a4b553105b67d0","toSide":"left"},
+		{"id":"c852a646390ed595","fromNode":"5b93bbb01e99e956","fromSide":"right","toNode":"e1a4b553105b67d0","toSide":"left"},
+		{"id":"4aca25fa6a83db7c","fromNode":"c15a75f1b0af859c","fromSide":"right","toNode":"e1a4b553105b67d0","toSide":"left"},
+		{"id":"38763661e65ce3b8","fromNode":"1ea13fb8372de097","fromSide":"right","toNode":"e1a4b553105b67d0","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"626ebbd668aa197a","x":-91,"y":-48,"width":250,"height":60,"type":"text","text":"浸 - Tẩm"},
+		{"id":"7622e43efd7145df","x":-540,"y":-380,"width":150,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas"},
+		{"id":"b8c94d65d9932426","x":-591,"y":-18,"width":201,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"99d97adc152956dd","fromNode":"7622e43efd7145df","fromSide":"right","toNode":"626ebbd668aa197a","toSide":"left"},
+		{"id":"84c98f39f82143ea","fromNode":"b8c94d65d9932426","fromSide":"right","toNode":"626ebbd668aa197a","toSide":"left"}
+	]
+}
