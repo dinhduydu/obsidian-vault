@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1782d2550fc52a1d","x":-85,"y":-38,"width":250,"height":60,"type":"text","text":"隙 - Khích"},
+		{"id":"f0c5af5dd4a4df31","x":-760,"y":-91,"width":169,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
+		{"id":"9b40bc7adb49d643","x":-540,"y":160,"width":204,"height":236,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"d6fb23b07e70e24e","x":-520,"y":-440,"width":216,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"}
+	],
+	"edges":[
+		{"id":"471b4e5d1060962e","fromNode":"f0c5af5dd4a4df31","fromSide":"right","toNode":"1782d2550fc52a1d","toSide":"left"},
+		{"id":"f567ab4acc435bd1","fromNode":"d6fb23b07e70e24e","fromSide":"right","toNode":"1782d2550fc52a1d","toSide":"left","label":"x2"},
+		{"id":"cb716a40d3e0b897","fromNode":"9b40bc7adb49d643","fromSide":"right","toNode":"1782d2550fc52a1d","toSide":"left"}
+	]
+}

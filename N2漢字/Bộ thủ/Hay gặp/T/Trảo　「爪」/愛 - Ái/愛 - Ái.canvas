@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"378e865fdae85a4a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-440,"y":-318,"width":183,"height":133},
 		{"id":"a04054e882453dde","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas","x":-431,"y":-511,"width":174,"height":127},
-		{"id":"99447851fbb37893","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-411,"y":-111,"width":160,"height":148},
+		{"id":"99447851fbb37893","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":-411,"y":-111,"width":160,"height":148},
 		{"id":"91dd04a7134f2e3f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-486,"y":140,"width":235,"height":184},
 		{"id":"321e2036c9489a22","x":120,"y":-318,"width":153,"height":131,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 1/愛 - Ái.canvas"},
 		{"id":"c388555c747b6bae","type":"text","text":"愛 - Ái","x":469,"y":-282,"width":250,"height":60}

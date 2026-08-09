@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7bc3e8836a59dce6","x":-90,"y":4,"width":250,"height":60,"type":"text","text":"捉 - Tróc"},
+		{"id":"351da8b206b4b76c","x":-520,"y":260,"width":187,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"},
+		{"id":"1c489045c5d49f73","x":-515,"y":-240,"width":177,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"9e37c4b845b5d5a9","fromNode":"351da8b206b4b76c","fromSide":"right","toNode":"7bc3e8836a59dce6","toSide":"left"},
+		{"id":"71113da6fb1a748a","fromNode":"1c489045c5d49f73","fromSide":"right","toNode":"7bc3e8836a59dce6","toSide":"left"}
+	]
+}

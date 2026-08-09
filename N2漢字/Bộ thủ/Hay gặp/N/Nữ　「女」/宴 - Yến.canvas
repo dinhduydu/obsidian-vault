@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"40796ba2085f4df1","x":-82,"y":-36,"width":250,"height":60,"type":"text","text":"宴 - Yến"},
+		{"id":"f7ceb37ebfc642fa","x":-560,"y":160,"width":200,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"d483f5fff16e9336","x":-577,"y":-104,"width":234,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"ff2b1d3fb731efbb","x":-535,"y":-420,"width":192,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"e1b6673c5bddce61","fromNode":"f7ceb37ebfc642fa","fromSide":"right","toNode":"40796ba2085f4df1","toSide":"left"},
+		{"id":"c8ddfcfd13ad9f12","fromNode":"d483f5fff16e9336","fromSide":"right","toNode":"40796ba2085f4df1","toSide":"left"},
+		{"id":"f0ab4fa9731aaf78","fromNode":"ff2b1d3fb731efbb","fromSide":"right","toNode":"40796ba2085f4df1","toSide":"left"}
+	]
+}

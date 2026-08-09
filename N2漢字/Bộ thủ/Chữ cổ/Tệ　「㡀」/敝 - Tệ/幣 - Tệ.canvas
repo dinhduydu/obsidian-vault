@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"08f500183cdc6411","x":-133,"y":-28,"width":250,"height":60,"type":"text","text":"幣 - Tệ"},
+		{"id":"bd58235ac5c70dbc","x":-620,"y":-320,"width":239,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tệ　「㡀」/敝 - Tệ/敝 - Tệ.canvas"},
+		{"id":"b3fe9d63b1516d1f","x":-603,"y":100,"width":222,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+	],
+	"edges":[
+		{"id":"69e8e05b019fbcfb","fromNode":"bd58235ac5c70dbc","fromSide":"right","toNode":"08f500183cdc6411","toSide":"left"},
+		{"id":"4dc086c0867801f6","fromNode":"b3fe9d63b1516d1f","fromSide":"right","toNode":"08f500183cdc6411","toSide":"left"}
+	]
+}

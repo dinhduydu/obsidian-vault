@@ -5,10 +5,10 @@
 		{"id":"218bdde242e4004e","type":"text","text":"記憶","x":655,"y":-84,"width":250,"height":60},
 		{"id":"4b98c7a078c98e32","type":"text","text":"億 - Ức","x":260,"y":38,"width":250,"height":60},
 		{"id":"773a9f625dab6114","type":"text","text":"億　「おく」：","x":645,"y":26,"width":250,"height":60},
-		{"id":"2dd08304c493cba6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas","x":-20,"y":-180,"width":125,"height":81},
+		{"id":"2dd08304c493cba6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas","x":-20,"y":-180,"width":125,"height":81},
 		{"id":"95065885fd0c5821","x":-116,"y":160,"width":193,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"},
 		{"id":"a8475ab6317eaf1b","x":-420,"y":-139,"width":141,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/Âm　「音」.canvas"},
-		{"id":"68050aace7284b6f","x":-460,"y":38,"width":168,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"68050aace7284b6f","x":-460,"y":38,"width":168,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"118ad1b8102163a4","fromNode":"6d8b67d0b924335d","fromSide":"right","toNode":"218bdde242e4004e","toSide":"left"},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"594148fe49b961a9","x":-144,"y":-45,"width":250,"height":60,"type":"text","text":"羔 - Diêu"},
+		{"id":"599253424b4b4e94","x":-520,"y":-280,"width":173,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/⺷ - Chủ/⺷ - Chủ.canvas"},
+		{"id":"e187d9b30e6eba13","x":-546,"y":40,"width":226,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"c670994c3befca8a","fromNode":"599253424b4b4e94","fromSide":"right","toNode":"594148fe49b961a9","toSide":"left"},
+		{"id":"86ecb67c6e21a100","fromNode":"e187d9b30e6eba13","fromSide":"right","toNode":"594148fe49b961a9","toSide":"left"}
+	]
+}

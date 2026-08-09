@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4668b2bcec49aabd","x":-106,"y":-32,"width":250,"height":60,"type":"text","text":"葛 - Cát"},
+		{"id":"05996f259fd1e1df","x":-480,"y":80,"width":180,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"b5736ab2bffa89f9","x":-480,"y":-300,"width":186,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"970f4a8a83f5687a","fromNode":"05996f259fd1e1df","fromSide":"right","toNode":"4668b2bcec49aabd","toSide":"left"},
+		{"id":"a8288b806cdeba02","fromNode":"b5736ab2bffa89f9","fromSide":"right","toNode":"4668b2bcec49aabd","toSide":"left"}
+	]
+}

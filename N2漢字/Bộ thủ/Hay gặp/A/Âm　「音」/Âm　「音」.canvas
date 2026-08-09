@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a3f42a408ea6b20e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/意 - Ý.canvas","x":301,"y":240,"width":187,"height":131},
-		{"id":"847086fa0289e9c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-132,"y":335,"width":280,"height":182},
+		{"id":"847086fa0289e9c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":-132,"y":335,"width":280,"height":182},
 		{"id":"0017453b3cec03ce","type":"text","text":"音 - Âm","x":-840,"y":-160,"width":250,"height":60},
 		{"id":"7232694749d17a2a","type":"text","text":"音楽　「おんがく」：","x":-1560,"y":-280,"width":250,"height":60},
 		{"id":"1c2aca42b9c98418","type":"text","text":"Âm　「音」","x":-160,"y":30,"width":250,"height":60},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c9a84d898cc455c1","x":-140,"y":-42,"width":250,"height":60,"type":"text","text":"叱 - Sất"},
+		{"id":"bac069a360afa91b","x":-520,"y":120,"width":210,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thất　「七 」/Thất　「七 」.canvas"},
+		{"id":"a6585afe84529ebe","x":-492,"y":-360,"width":182,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"e0b93a1687130a07","fromNode":"bac069a360afa91b","fromSide":"right","toNode":"c9a84d898cc455c1","toSide":"left"},
+		{"id":"7f645479a8172a72","fromNode":"a6585afe84529ebe","fromSide":"right","toNode":"c9a84d898cc455c1","toSide":"left"}
+	]
+}

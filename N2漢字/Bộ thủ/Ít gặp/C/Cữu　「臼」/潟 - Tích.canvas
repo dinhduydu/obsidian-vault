@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"140f30bc76b557e4","type":"text","text":"潟 - Tích","x":-109,"y":-46,"width":250,"height":60},
+		{"id":"324219a5c6992455","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cữu　「臼」/Cữu　「臼」.canvas","x":-460,"y":-280,"width":209,"height":166},
+		{"id":"dbd54c314339bac6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas","x":-435,"y":14,"width":160,"height":165},
+		{"id":"568e1babd304f1cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas","x":-456,"y":260,"width":202,"height":172},
+		{"id":"b1bb0e5175c8e12c","x":-780,"y":-113,"width":204,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"f1f69323d1663ec9","fromNode":"324219a5c6992455","fromSide":"right","toNode":"140f30bc76b557e4","toSide":"left"},
+		{"id":"f6d1543f05e6296a","fromNode":"dbd54c314339bac6","fromSide":"right","toNode":"140f30bc76b557e4","toSide":"left"},
+		{"id":"da9da466591901b3","fromNode":"568e1babd304f1cc","fromSide":"right","toNode":"140f30bc76b557e4","toSide":"left"},
+		{"id":"61d019e419e95776","fromNode":"b1bb0e5175c8e12c","fromSide":"right","toNode":"140f30bc76b557e4","toSide":"left"}
+	]
+}

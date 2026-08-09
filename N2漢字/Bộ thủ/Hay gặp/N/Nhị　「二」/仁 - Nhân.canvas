@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6a014b1af14220e6","x":-95,"y":-26,"width":250,"height":60,"type":"text","text":"仁 - Nhân"},
+		{"id":"717e5d58c2f59977","x":-480,"y":220,"width":206,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"0b8300be58b5beea","x":-457,"y":-260,"width":161,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"279d1a87e40642d1","fromNode":"717e5d58c2f59977","fromSide":"right","toNode":"6a014b1af14220e6","toSide":"left"},
+		{"id":"f2444b7bdef0bfa4","fromNode":"0b8300be58b5beea","fromSide":"right","toNode":"6a014b1af14220e6","toSide":"left"}
+	]
+}

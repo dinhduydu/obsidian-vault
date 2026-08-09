@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2d86b571ed7ce5d3","x":-63,"y":-16,"width":250,"height":60,"type":"text","text":"遮 - Già"},
+		{"id":"45c284e54c9fe0a2","x":-340,"y":-240,"width":149,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/庶 - Thứ/庶 - Thứ.canvas"},
+		{"id":"3d65dffe99294287","x":-340,"y":140,"width":157,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"009e340417ce55df","fromNode":"45c284e54c9fe0a2","fromSide":"right","toNode":"2d86b571ed7ce5d3","toSide":"left"},
+		{"id":"aad70e54ab91cda2","fromNode":"3d65dffe99294287","fromSide":"right","toNode":"2d86b571ed7ce5d3","toSide":"left"}
+	]
+}

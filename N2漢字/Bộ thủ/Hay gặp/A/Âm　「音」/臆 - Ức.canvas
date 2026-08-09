@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"babe82ef5ba1a376","x":-96,"y":-34,"width":250,"height":60,"type":"text","text":"臆 - Ức"},
+		{"id":"719c8a74521caa0c","x":-420,"y":-280,"width":148,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Âm　「音」/意 - Ý.canvas"},
+		{"id":"a08ad4d1fe1e9f9b","x":-453,"y":40,"width":181,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"2948a628bd754a04","fromNode":"719c8a74521caa0c","fromSide":"right","toNode":"babe82ef5ba1a376","toSide":"left"},
+		{"id":"61acbfdb98651950","fromNode":"a08ad4d1fe1e9f9b","fromSide":"right","toNode":"babe82ef5ba1a376","toSide":"left"}
+	]
+}

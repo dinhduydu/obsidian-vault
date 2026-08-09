@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a137146fa98977e3","x":-106,"y":-33,"width":250,"height":60,"type":"text","text":"朴 - Bốc"},
+		{"id":"afece335f3e19a4e","x":-560,"y":100,"width":169,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"d81262ba79f59447","x":-575,"y":-360,"width":200,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/Bốc　「卜」.canvas"}
+	],
+	"edges":[
+		{"id":"4f55131fa364b00e","fromNode":"d81262ba79f59447","fromSide":"right","toNode":"a137146fa98977e3","toSide":"left"},
+		{"id":"2439671fef0fb9e2","fromNode":"afece335f3e19a4e","fromSide":"right","toNode":"a137146fa98977e3","toSide":"left"}
+	]
+}

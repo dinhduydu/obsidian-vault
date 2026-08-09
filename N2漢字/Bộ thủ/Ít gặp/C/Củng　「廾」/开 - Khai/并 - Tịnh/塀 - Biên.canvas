@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4e57196ff6981193","x":-109,"y":-40,"width":250,"height":60,"type":"text","text":"塀 - Biên"},
+		{"id":"9d973ed87a9b781b","x":-460,"y":180,"width":172,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/并 - Tịnh/并 - Tịnh.canvas"},
+		{"id":"1bea7296b59ead0a","x":-438,"y":-260,"width":129,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"2d047a0ba1e5a5ba","x":-680,"y":-94,"width":150,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"1496b1dee954ebc8","fromNode":"9d973ed87a9b781b","fromSide":"right","toNode":"4e57196ff6981193","toSide":"left"},
+		{"id":"94c5ccff5c852ef0","fromNode":"1bea7296b59ead0a","fromSide":"right","toNode":"4e57196ff6981193","toSide":"left"},
+		{"id":"5d29b3a00ac8759d","fromNode":"2d047a0ba1e5a5ba","fromSide":"right","toNode":"4e57196ff6981193","toSide":"left"}
+	]
+}

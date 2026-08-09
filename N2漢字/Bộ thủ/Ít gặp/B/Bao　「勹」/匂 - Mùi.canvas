@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4226424f4dc53414","x":-106,"y":-40,"width":250,"height":60,"type":"text","text":"匂 - Mùi"},
+		{"id":"b467e363d8ad7c97","x":-520,"y":-340,"width":193,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"2db50577b2d71fe7","x":-526,"y":100,"width":205,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas"}
+	],
+	"edges":[
+		{"id":"289a2f9229c5a6d6","fromNode":"b467e363d8ad7c97","fromSide":"right","toNode":"4226424f4dc53414","toSide":"left"},
+		{"id":"f516be40941eb6bf","fromNode":"2db50577b2d71fe7","fromSide":"right","toNode":"4226424f4dc53414","toSide":"left"}
+	]
+}

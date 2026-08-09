@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"271374c007f9814d","x":-88,"y":-37,"width":250,"height":60,"type":"text","text":"併 - Tinh"},
+		{"id":"68e63d7ab5828b2b","x":-480,"y":220,"width":205,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/并 - Tịnh/并 - Tịnh.canvas"},
+		{"id":"56a0ed39b827a4cd","x":-480,"y":-380,"width":232,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"b05575d484247f92","fromNode":"68e63d7ab5828b2b","fromSide":"right","toNode":"271374c007f9814d","toSide":"left"},
+		{"id":"0517c56742c7e094","fromNode":"56a0ed39b827a4cd","fromSide":"right","toNode":"271374c007f9814d","toSide":"left"}
+	]
+}

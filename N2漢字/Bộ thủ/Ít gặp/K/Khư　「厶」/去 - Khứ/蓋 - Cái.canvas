@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1efef359902a881d","x":-75,"y":-37,"width":250,"height":60,"type":"text","text":"蓋 - Cái"},
+		{"id":"d2f1b8c53ae2334d","x":-520,"y":180,"width":193,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"},
+		{"id":"66ed9b228508b5bf","x":-506,"y":-95,"width":165,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas"},
+		{"id":"62a423dec25308ff","x":-520,"y":-400,"width":175,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"81909da97673d52f","fromNode":"d2f1b8c53ae2334d","fromSide":"right","toNode":"1efef359902a881d","toSide":"left"},
+		{"id":"956c5b129ac72b36","fromNode":"66ed9b228508b5bf","fromSide":"right","toNode":"1efef359902a881d","toSide":"left"},
+		{"id":"dd02e4aae502edc6","fromNode":"62a423dec25308ff","fromSide":"right","toNode":"1efef359902a881d","toSide":"left"}
+	]
+}

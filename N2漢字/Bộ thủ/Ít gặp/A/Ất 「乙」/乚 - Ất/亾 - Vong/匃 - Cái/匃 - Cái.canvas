@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b448d961a615e0cd","type":"text","text":"匃 - Cái","x":-73,"y":-48,"width":250,"height":60},
+		{"id":"f2b140960f0bb2f8","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas","x":-480,"y":-340,"width":178,"height":213},
+		{"id":"d1ea1f0770775309","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乚 - Ất/亾 - Vong/亾 - Vong.canvas","x":-700,"y":12,"width":204,"height":199},
+		{"id":"c08aeb52e56ea4e4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-1100,"y":-77,"width":161,"height":178},
+		{"id":"dda56c4d7106c633","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乚 - Ất/乚 - Ất.canvas","x":-1149,"y":280,"width":210,"height":170},
+		{"id":"869a82acdac3d070","x":460,"y":-400,"width":270,"height":224,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"ae8f97fc197a974d","x":-34,"y":-660,"width":173,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"1f4dabed3c7a7155","fromNode":"f2b140960f0bb2f8","fromSide":"right","toNode":"b448d961a615e0cd","toSide":"left"},
+		{"id":"4889d3361e7a3495","fromNode":"c08aeb52e56ea4e4","fromSide":"right","toNode":"d1ea1f0770775309","toSide":"left"},
+		{"id":"5262e7534df341ba","fromNode":"dda56c4d7106c633","fromSide":"right","toNode":"d1ea1f0770775309","toSide":"left"},
+		{"id":"4163cf20f028aef8","fromNode":"d1ea1f0770775309","fromSide":"right","toNode":"b448d961a615e0cd","toSide":"left"},
+		{"id":"3af9c820928ab540","fromNode":"b448d961a615e0cd","fromSide":"right","toNode":"869a82acdac3d070","toSide":"left"},
+		{"id":"bdaae88cc3bc8e71","fromNode":"ae8f97fc197a974d","fromSide":"right","toNode":"869a82acdac3d070","toSide":"left"}
+	]
+}

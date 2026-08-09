@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"6a5f0dc9c49fc2a2","x":-126,"y":-30,"width":250,"height":60,"type":"text","text":"装 - Trang"},
-		{"id":"8089bc46bf2f517d","x":-540,"y":-320,"width":170,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas"},
-		{"id":"4db08030393f4e3f","x":-560,"y":120,"width":190,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+		{"id":"6a5f0dc9c49fc2a2","type":"text","text":"装 - Trang","x":-126,"y":-30,"width":250,"height":60},
+		{"id":"8089bc46bf2f517d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/壮 - Tráng.canvas","x":-540,"y":-320,"width":170,"height":151},
+		{"id":"4db08030393f4e3f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":-560,"y":120,"width":190,"height":164},
+		{"id":"726bfdf3a810bc33","x":320,"y":-280,"width":198,"height":175,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/装った.md"},
+		{"id":"bca43b7aefc2596b","x":330,"y":-40,"width":188,"height":234,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/新装.md"},
+		{"id":"efe1a157bb85508c","x":340,"y":-560,"width":209,"height":189,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/包装.md"},
+		{"id":"4dcf10d64aa892a0","x":340,"y":-900,"width":231,"height":241,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/衣装.md"}
 	],
 	"edges":[
 		{"id":"b46a02a5aa52a155","fromNode":"8089bc46bf2f517d","fromSide":"right","toNode":"6a5f0dc9c49fc2a2","toSide":"left"},
-		{"id":"28b76d916e93b48e","fromNode":"4db08030393f4e3f","fromSide":"right","toNode":"6a5f0dc9c49fc2a2","toSide":"left"}
+		{"id":"28b76d916e93b48e","fromNode":"4db08030393f4e3f","fromSide":"right","toNode":"6a5f0dc9c49fc2a2","toSide":"left"},
+		{"id":"ca52fe02bd192f82","fromNode":"6a5f0dc9c49fc2a2","fromSide":"right","toNode":"726bfdf3a810bc33","toSide":"left"},
+		{"id":"5eceb2bc56fc6528","fromNode":"6a5f0dc9c49fc2a2","fromSide":"right","toNode":"bca43b7aefc2596b","toSide":"left"},
+		{"id":"c60a9c1f53fb60a0","fromNode":"6a5f0dc9c49fc2a2","fromSide":"right","toNode":"efe1a157bb85508c","toSide":"left"},
+		{"id":"80dcb722ac410fcc","fromNode":"6a5f0dc9c49fc2a2","fromSide":"right","toNode":"4dcf10d64aa892a0","toSide":"left"}
 	]
 }

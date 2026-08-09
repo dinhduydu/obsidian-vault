@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"451f0c8f822b3f35","x":-85,"y":-35,"width":250,"height":60,"type":"text","text":"悲 - Bi"},
 		{"id":"f08e5947507842b3","x":-380,"y":-211,"width":130,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phi　「非 」/Phi　「非 」.canvas"},
-		{"id":"76e4ce9d77a1d55e","x":-421,"y":160,"width":171,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"76e4ce9d77a1d55e","x":-421,"y":160,"width":171,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"4f85b5f9dd1698cc","fromNode":"f08e5947507842b3","fromSide":"right","toNode":"451f0c8f822b3f35","toSide":"left"},

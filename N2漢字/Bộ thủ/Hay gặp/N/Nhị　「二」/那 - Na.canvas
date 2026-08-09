@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c9ecd61a040a0f0e","x":-81,"y":-50,"width":250,"height":60,"type":"text","text":"那 - Na"},
+		{"id":"9c45200a81fa17bc","x":-540,"y":-107,"width":214,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
+		{"id":"aa9b1bbb8c40f739","x":-530,"y":-480,"width":194,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"},
+		{"id":"4c532df10505a995","x":-511,"y":180,"width":185,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"8529f04679835324","x":-883,"y":-198,"width":250,"height":60,"type":"text","text":"𠃍"}
+	],
+	"edges":[
+		{"id":"a90ca5851f088a3b","fromNode":"9c45200a81fa17bc","fromSide":"right","toNode":"c9ecd61a040a0f0e","toSide":"left"},
+		{"id":"3d07337a89c73a9a","fromNode":"aa9b1bbb8c40f739","fromSide":"right","toNode":"c9ecd61a040a0f0e","toSide":"left"},
+		{"id":"b7fa8a4c78920f11","fromNode":"4c532df10505a995","fromSide":"right","toNode":"c9ecd61a040a0f0e","toSide":"left"},
+		{"id":"33f07f2a58173399","fromNode":"8529f04679835324","fromSide":"right","toNode":"c9ecd61a040a0f0e","toSide":"left"}
+	]
+}

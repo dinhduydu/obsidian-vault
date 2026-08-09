@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a1e8bc3902c6cb04","x":-105,"y":-32,"width":250,"height":60,"type":"text","text":"性 - Tính"},
 		{"id":"297482d8f0703a06","x":-320,"y":-60,"width":129,"height":116,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 9/性 - Tính.canvas"},
-		{"id":"0192419a32df6112","x":-600,"y":-217,"width":133,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"},
+		{"id":"0192419a32df6112","x":-600,"y":-217,"width":133,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas"},
 		{"id":"174f3870ad92e5e4","x":-631,"y":80,"width":164,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"}
 	],
 	"edges":[

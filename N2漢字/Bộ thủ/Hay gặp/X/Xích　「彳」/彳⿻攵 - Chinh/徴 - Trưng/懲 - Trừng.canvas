@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"5fd232a9b60d82bf","x":-90,"y":-44,"width":250,"height":60,"type":"text","text":"懲 - Trừng"},
 		{"id":"3210ab6e719f6e73","x":-440,"y":-280,"width":133,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/彳⿻攵 - Chinh/徴 - Trưng/徴 - Trưng.canvas"},
-		{"id":"1d7fd1c28a248668","x":-460,"y":100,"width":160,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"1d7fd1c28a248668","x":-460,"y":100,"width":160,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"72bd5c632f294bdb","fromNode":"3210ab6e719f6e73","fromSide":"right","toNode":"5fd232a9b60d82bf","toSide":"left"},

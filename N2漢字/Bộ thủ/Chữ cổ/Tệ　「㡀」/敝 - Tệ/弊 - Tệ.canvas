@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"aa486a66add85dc4","x":-75,"y":-28,"width":250,"height":60,"type":"text","text":"弊 - Tệ"},
+		{"id":"bb749efb20e61bae","x":-480,"y":-320,"width":180,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tệ　「㡀」/敝 - Tệ/敝 - Tệ.canvas"},
+		{"id":"f5e89d00bb2277aa","x":-495,"y":80,"width":211,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"}
+	],
+	"edges":[
+		{"id":"55c059588ec4d8ab","fromNode":"bb749efb20e61bae","fromSide":"right","toNode":"aa486a66add85dc4","toSide":"left"},
+		{"id":"d1ace3dd46ba6afa","fromNode":"f5e89d00bb2277aa","fromSide":"right","toNode":"aa486a66add85dc4","toSide":"left"}
+	]
+}

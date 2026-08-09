@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"093b250770910719","x":-93,"y":-48,"width":250,"height":60,"type":"text","text":"剥 - Bác"},
+		{"id":"22fcd6c15e4ccf11","x":-800,"y":-114,"width":200,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/L/Lục　「彔」/Lục　「彔」.canvas"},
+		{"id":"60adca419a54ce1a","x":-460,"y":-311,"width":198,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"ccd3341ba6a7d6fa","fromNode":"22fcd6c15e4ccf11","fromSide":"right","toNode":"093b250770910719","toSide":"left"},
+		{"id":"1995df2d8ebbe3c7","fromNode":"60adca419a54ce1a","fromSide":"right","toNode":"093b250770910719","toSide":"left"}
+	]
+}

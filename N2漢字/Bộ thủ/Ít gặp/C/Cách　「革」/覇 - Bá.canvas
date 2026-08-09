@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52c297376f556979","type":"text","text":"覇 - Bá","x":-90,"y":-54,"width":250,"height":60},
+		{"id":"8b9b42bdce5c4fba","x":-640,"y":-74,"width":128,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cách　「革」/Cách　「革」.canvas"},
+		{"id":"64bc8156451eb529","x":-440,"y":120,"width":230,"height":218,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"a6f6e48cf642c9bd","x":-423,"y":-360,"width":197,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Tây　「西」.canvas"}
+	],
+	"edges":[
+		{"id":"352566cc2af31000","fromNode":"8b9b42bdce5c4fba","fromSide":"right","toNode":"52c297376f556979","toSide":"left"},
+		{"id":"fc4ed1263c6aff9d","fromNode":"64bc8156451eb529","fromSide":"right","toNode":"52c297376f556979","toSide":"left"},
+		{"id":"e26d4005d66e6d4b","fromNode":"a6f6e48cf642c9bd","fromSide":"right","toNode":"52c297376f556979","toSide":"left"}
+	]
+}

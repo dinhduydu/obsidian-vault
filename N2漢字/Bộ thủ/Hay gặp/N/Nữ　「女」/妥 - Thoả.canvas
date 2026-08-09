@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"07f1fb31301c40f4","type":"text","text":"妥 - Thoả","x":-92,"y":-61,"width":250,"height":60},
+		{"id":"2ab3f14c0d063103","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":-480,"y":140,"width":187,"height":153},
+		{"id":"8c0c64c65b7a0047","x":-502,"y":-340,"width":209,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"d30b5f406444b9d0","fromNode":"2ab3f14c0d063103","fromSide":"right","toNode":"07f1fb31301c40f4","toSide":"left"},
+		{"id":"f88fd470b7ba07e7","fromNode":"8c0c64c65b7a0047","fromSide":"right","toNode":"07f1fb31301c40f4","toSide":"left"}
+	]
+}

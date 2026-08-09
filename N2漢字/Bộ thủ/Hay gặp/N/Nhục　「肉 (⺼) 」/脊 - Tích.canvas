@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"51fc828c7142c230","x":-80,"y":-23,"width":250,"height":60,"type":"text","text":"脊 - Tích"},
+		{"id":"2b08e7cb3e9ef205","x":-460,"y":240,"width":217,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"f5d0897c4ea97261","x":-460,"y":-120,"width":202,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「人」/Nhân　「人」.canvas"},
+		{"id":"8d072f32d679abe6","x":-480,"y":-360,"width":175,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"}
+	],
+	"edges":[
+		{"id":"7104193dbfb4cc84","fromNode":"2b08e7cb3e9ef205","fromSide":"right","toNode":"51fc828c7142c230","toSide":"left"},
+		{"id":"e696e674c9ded66d","fromNode":"f5d0897c4ea97261","fromSide":"right","toNode":"51fc828c7142c230","toSide":"left"},
+		{"id":"304224a33fda1a45","fromNode":"8d072f32d679abe6","fromSide":"right","toNode":"51fc828c7142c230","toSide":"left","label":"x2 = đại diện cho đốt sống"}
+	]
+}

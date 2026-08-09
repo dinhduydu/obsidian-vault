@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"250cc7a429f13f67","x":-132,"y":-40,"width":250,"height":60,"type":"text","text":"怨 - Oán"},
 		{"id":"49a50f97f03e8bde","x":-480,"y":-240,"width":181,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/夗 - Uyển/夗 - Uyển.canvas"},
-		{"id":"545889a2754058fc","x":-501,"y":80,"width":202,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"545889a2754058fc","x":-501,"y":80,"width":202,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"d887ad8e960136d9","fromNode":"49a50f97f03e8bde","fromSide":"right","toNode":"250cc7a429f13f67","toSide":"left"},

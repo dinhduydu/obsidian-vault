@@ -9,7 +9,7 @@
 		{"id":"431797ddc17b43bb","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas","x":-680,"y":177,"width":192,"height":154},
 		{"id":"fcb3483a2599608b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas","x":320,"y":493,"width":213,"height":185},
 		{"id":"83e96cae9e62f08f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas","x":-35,"y":520,"width":194,"height":160},
-		{"id":"775a8e462e02557c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":4,"y":780,"width":155,"height":100}
+		{"id":"775a8e462e02557c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":4,"y":780,"width":155,"height":100}
 	],
 	"edges":[
 		{"id":"c34fb5a122509568","fromNode":"c939ea4e0c8ff4ff","fromSide":"right","toNode":"e712e02af9dac2c5","toSide":"left"},

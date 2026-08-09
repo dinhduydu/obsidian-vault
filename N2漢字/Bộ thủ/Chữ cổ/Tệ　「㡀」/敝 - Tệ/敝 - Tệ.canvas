@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17131d61c241487d","x":-85,"y":-37,"width":250,"height":60,"type":"text","text":"敝 - Tệ"},
+		{"id":"c60ce07f08663913","x":-580,"y":-300,"width":236,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tệ　「㡀」/Tệ　「㡀」.canvas"},
+		{"id":"a6521d90fc1cb928","x":-563,"y":100,"width":202,"height":210,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"6a37da73209e3693","fromNode":"c60ce07f08663913","fromSide":"right","toNode":"17131d61c241487d","toSide":"left"},
+		{"id":"4f2c008245b239bd","fromNode":"a6521d90fc1cb928","fromSide":"right","toNode":"17131d61c241487d","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"2da2c75084f4a905","type":"text","text":"癒 - Dũ","x":-110,"y":-14,"width":250,"height":60},
 		{"id":"84048c95c4b8d282","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas","x":-680,"y":-71,"width":186,"height":175},
-		{"id":"d51c93170e146793","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-424,"y":200,"width":158,"height":211},
+		{"id":"d51c93170e146793","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":-424,"y":200,"width":158,"height":211},
 		{"id":"0c03f1743172faab","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Du　「俞」/Du　「俞」.canvas","x":-424,"y":-320,"width":136,"height":127}
 	],
 	"edges":[

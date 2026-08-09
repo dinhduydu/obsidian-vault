@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"60e996e05d2f2ff6","x":-40,"y":-41,"width":250,"height":60,"type":"text","text":"嫉 - Tật"},
+		{"id":"73e53901b2fa5a90","x":-440,"y":-240,"width":178,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/疾 - Tật/疾 - Tật.canvas"},
+		{"id":"5b2c1c8d79a685db","x":-432,"y":120,"width":162,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"421c71c735658cd2","fromNode":"73e53901b2fa5a90","fromSide":"right","toNode":"60e996e05d2f2ff6","toSide":"left"},
+		{"id":"76a22113851b6247","fromNode":"5b2c1c8d79a685db","fromSide":"right","toNode":"60e996e05d2f2ff6","toSide":"left"}
+	]
+}

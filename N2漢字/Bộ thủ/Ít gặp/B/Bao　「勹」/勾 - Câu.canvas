@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bfb56366fda3522e","x":-122,"y":-47,"width":250,"height":60,"type":"text","text":"勾 - Câu"},
+		{"id":"ea4ed9034641e5f2","x":-540,"y":-400,"width":195,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"c95c6611c01fac3d","x":-520,"y":160,"width":195,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/Khư　「厶」.canvas"}
+	],
+	"edges":[
+		{"id":"a1d2303d7c03d382","fromNode":"ea4ed9034641e5f2","fromSide":"right","toNode":"bfb56366fda3522e","toSide":"left"},
+		{"id":"72d149cab06ed92a","fromNode":"c95c6611c01fac3d","fromSide":"right","toNode":"bfb56366fda3522e","toSide":"left"}
+	]
+}

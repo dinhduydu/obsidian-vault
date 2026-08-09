@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ef545416a9f6738d","x":-127,"y":-30,"width":250,"height":60,"type":"text","text":"蔽 - Tế, Phất"},
+		{"id":"8e261fb096a00935","x":-560,"y":160,"width":175,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Tệ　「㡀」/敝 - Tệ/敝 - Tệ.canvas"},
+		{"id":"80f66c2483dbb702","x":-560,"y":-260,"width":205,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"85c23132b057bff7","fromNode":"8e261fb096a00935","fromSide":"right","toNode":"ef545416a9f6738d","toSide":"left"},
+		{"id":"f830116ba6526631","fromNode":"80f66c2483dbb702","fromSide":"right","toNode":"ef545416a9f6738d","toSide":"left"}
+	]
+}

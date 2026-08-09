@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5467be2f1e787c59","type":"text","text":"泥 - Nê","x":-122,"y":-37,"width":250,"height":60},
+		{"id":"79a7474c7284e0f5","x":-520,"y":100,"width":215,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尼 - Ni/尼 - Ni.canvas"},
+		{"id":"d13c6be3188767a7","x":-484,"y":-300,"width":144,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"03a78fde00e53429","fromNode":"79a7474c7284e0f5","fromSide":"right","toNode":"5467be2f1e787c59","toSide":"left"},
+		{"id":"1c29e299231d707c","fromNode":"d13c6be3188767a7","fromSide":"right","toNode":"5467be2f1e787c59","toSide":"left"}
+	]
+}

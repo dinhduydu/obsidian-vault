@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"925e8d0c0abc3dd9","x":-94,"y":-18,"width":250,"height":60,"type":"text","text":"辣 - Lạt"},
+		{"id":"10ac3908d42b5bde","x":-500,"y":160,"width":177,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas"},
+		{"id":"9256dc2d84326a26","x":-501,"y":-240,"width":178,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"}
+	],
+	"edges":[
+		{"id":"2ddbb468f38ff6ea","fromNode":"10ac3908d42b5bde","fromSide":"right","toNode":"925e8d0c0abc3dd9","toSide":"left"},
+		{"id":"07028b77d66ec075","fromNode":"9256dc2d84326a26","fromSide":"right","toNode":"925e8d0c0abc3dd9","toSide":"left"}
+	]
+}

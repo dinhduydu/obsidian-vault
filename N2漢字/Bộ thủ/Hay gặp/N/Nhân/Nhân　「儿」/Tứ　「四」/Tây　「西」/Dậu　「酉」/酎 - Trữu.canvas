@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6957494a7a5ce30d","x":-119,"y":-58,"width":250,"height":60,"type":"text","text":"酎 - Trữu"},
+		{"id":"e2ba1ffede6ddca1","x":-540,"y":-320,"width":202,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"},
+		{"id":"700a2d214baf513c","x":-530,"y":60,"width":192,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"6eee6246dc515474","fromNode":"e2ba1ffede6ddca1","fromSide":"right","toNode":"6957494a7a5ce30d","toSide":"left","label":"rượu nặng"},
+		{"id":"4c37e450831fade8","fromNode":"700a2d214baf513c","fromSide":"right","toNode":"6957494a7a5ce30d","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"31f4ad5f18afab36","type":"text","text":"Ngu　「禺 」","x":-47,"y":-18,"width":250,"height":60},
 		{"id":"52e5fc85c47dd1f7","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhu, Nhựu　「禸」/Ngu　「禺 」/愚 - Ngu.canvas","x":460,"y":-340,"width":221,"height":194},
-		{"id":"3fe887fd96ad93a1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":8,"y":-580,"width":195,"height":148},
+		{"id":"3fe887fd96ad93a1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":8,"y":-580,"width":195,"height":148},
 		{"id":"97410d8661ddb56c","x":-560,"y":120,"width":208,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhu, Nhựu　「禸」/Nhu, Nhựu　「禸」.canvas"},
 		{"id":"96354b5ed9d7a662","x":-555,"y":-243,"width":203,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"}
 	],

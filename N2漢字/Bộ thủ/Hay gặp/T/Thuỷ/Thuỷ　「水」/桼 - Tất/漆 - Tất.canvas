@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"843552ed4aacec26","x":-70,"y":-34,"width":250,"height":60,"type":"text","text":"漆 - Tất"},
+		{"id":"0591fab437e450ea","x":-540,"y":-280,"width":197,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/桼 - Tất/桼 - Tất.canvas"},
+		{"id":"5b8f2841d1c42c78","x":-555,"y":60,"width":227,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"21f3d4c3f0436fac","fromNode":"0591fab437e450ea","fromSide":"right","toNode":"843552ed4aacec26","toSide":"left"},
+		{"id":"bf568b27c5912de0","fromNode":"5b8f2841d1c42c78","fromSide":"right","toNode":"843552ed4aacec26","toSide":"left"}
+	]
+}

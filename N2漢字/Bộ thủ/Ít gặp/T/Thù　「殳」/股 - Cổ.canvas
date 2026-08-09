@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"59713ebf110f7832","x":-103,"y":-11,"width":250,"height":60,"type":"text","text":"股 - Cổ"},
+		{"id":"ac15aef3b7b15f05","x":-480,"y":-280,"width":181,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"},
+		{"id":"799ce350a7c02d18","x":-582,"y":100,"width":283,"height":289,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"423caa7da178856c","fromNode":"ac15aef3b7b15f05","fromSide":"right","toNode":"59713ebf110f7832","toSide":"left"},
+		{"id":"bd0863686e21465e","fromNode":"799ce350a7c02d18","fromSide":"right","toNode":"59713ebf110f7832","toSide":"left"}
+	]
+}

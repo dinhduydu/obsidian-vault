@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"82e7c578b2f8f303","type":"text","text":"奔 - Bôn","x":-97,"y":-20,"width":250,"height":60},
+		{"id":"063945af1597290e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas","x":-460,"y":-280,"width":192,"height":109},
+		{"id":"8ed086123022ed7b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-433,"y":-45,"width":139,"height":111},
+		{"id":"75c56a6bd5152b65","x":-464,"y":220,"width":201,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"}
+	],
+	"edges":[
+		{"id":"f86c8f977ef49a2b","fromNode":"063945af1597290e","fromSide":"right","toNode":"82e7c578b2f8f303","toSide":"left"},
+		{"id":"90642d8d8bd3576a","fromNode":"8ed086123022ed7b","fromSide":"right","toNode":"82e7c578b2f8f303","toSide":"left"},
+		{"id":"1e3facd66785ea24","fromNode":"75c56a6bd5152b65","fromSide":"right","toNode":"82e7c578b2f8f303","toSide":"left"}
+	]
+}

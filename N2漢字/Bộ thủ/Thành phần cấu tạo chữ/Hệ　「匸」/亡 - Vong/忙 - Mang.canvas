@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"5c3ee25039a36fd5","x":-132,"y":-49,"width":250,"height":60,"type":"text","text":"忙 - Mang"},
 		{"id":"54db67ee93e1c0db","x":-420,"y":-260,"width":147,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"},
-		{"id":"25f2eabb3aa64ef0","x":-490,"y":40,"width":217,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+		{"id":"25f2eabb3aa64ef0","x":-490,"y":40,"width":217,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas"}
 	],
 	"edges":[
 		{"id":"f0602cc26696ddba","fromNode":"54db67ee93e1c0db","fromSide":"right","toNode":"5c3ee25039a36fd5","toSide":"left"},

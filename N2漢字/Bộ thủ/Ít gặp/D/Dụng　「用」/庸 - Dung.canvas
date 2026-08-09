@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9300ac7479081556","type":"text","text":"庸 - Dung","x":-69,"y":-33,"width":250,"height":60},
+		{"id":"b2ca54f816badf21","x":-460,"y":-540,"width":194,"height":208,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"e3eac5152d8e6357","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dụng　「用」/Dụng　「用」.canvas","x":-462,"y":195,"width":196,"height":213},
+		{"id":"b4802682ff173fac","x":-623,"y":-77,"width":161,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/Kệ　「ヨ」.canvas"}
+	],
+	"edges":[
+		{"id":"ef80fbdf7a1c1c11","fromNode":"e3eac5152d8e6357","fromSide":"right","toNode":"9300ac7479081556","toSide":"left"},
+		{"id":"c07de47dac4aaeae","fromNode":"b2ca54f816badf21","fromSide":"right","toNode":"9300ac7479081556","toSide":"left"},
+		{"id":"f794cfbf4f0fce70","fromNode":"b4802682ff173fac","fromSide":"right","toNode":"9300ac7479081556","toSide":"left"}
+	]
+}

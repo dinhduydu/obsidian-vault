@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"112e49212ccb8239","x":-105,"y":-41,"width":250,"height":60,"type":"text","text":"挨 - Ai"},
+		{"id":"fe8889efa211ef32","x":-700,"y":-64,"width":165,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"071a8c0f73851e14","x":-420,"y":160,"width":160,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「矢」/Thỉ　「矢」.canvas"},
+		{"id":"22de8c274cf06803","x":-460,"y":-340,"width":180,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tư (tôi)　「厶」/Tư (tôi)　「厶」.canvas"},
+		{"id":"4eb1b72c915ac233","x":360,"y":-245,"width":280,"height":50,"type":"text","text":"挨拶　「あいさつ」：chào hỏi"},
+		{"id":"1f65786bb0ca31e5","x":-20,"y":-500,"width":151,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tai　「巛」/拶 - Tạt.canvas"}
+	],
+	"edges":[
+		{"id":"8b748b99faef72b5","fromNode":"fe8889efa211ef32","fromSide":"right","toNode":"112e49212ccb8239","toSide":"left"},
+		{"id":"b6e3ee2d6dfa5611","fromNode":"071a8c0f73851e14","fromSide":"right","toNode":"112e49212ccb8239","toSide":"left"},
+		{"id":"104450899ec6e87c","fromNode":"22de8c274cf06803","fromSide":"right","toNode":"112e49212ccb8239","toSide":"left"},
+		{"id":"afae98a9b33d0d17","fromNode":"1f65786bb0ca31e5","fromSide":"right","toNode":"4eb1b72c915ac233","toSide":"left"},
+		{"id":"16a5624ea84dbfd5","fromNode":"112e49212ccb8239","fromSide":"right","toNode":"4eb1b72c915ac233","toSide":"left"}
+	]
+}

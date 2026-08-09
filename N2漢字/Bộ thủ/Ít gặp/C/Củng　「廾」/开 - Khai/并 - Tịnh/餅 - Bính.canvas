@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0b7267d34d15d309","x":-58,"y":-15,"width":250,"height":60,"type":"text","text":"餅 - Bính"},
+		{"id":"1a5fe88cda318233","x":-440,"y":240,"width":200,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/并 - Tịnh/并 - Tịnh.canvas"},
+		{"id":"948993e3ae3d6cc5","x":-410,"y":-260,"width":141,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas"}
+	],
+	"edges":[
+		{"id":"ef6a808bff24d70c","fromNode":"1a5fe88cda318233","fromSide":"right","toNode":"0b7267d34d15d309","toSide":"left"},
+		{"id":"c2c649a43c922502","fromNode":"948993e3ae3d6cc5","fromSide":"right","toNode":"0b7267d34d15d309","toSide":"left"}
+	]
+}

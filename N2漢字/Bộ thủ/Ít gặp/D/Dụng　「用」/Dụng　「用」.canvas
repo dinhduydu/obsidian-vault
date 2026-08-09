@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"363aaa434a4c551d","x":-225,"y":-41,"width":250,"height":60,"type":"text","text":"Dụng　「用」"}
+		{"id":"363aaa434a4c551d","type":"text","text":"Dụng　「用」","x":-225,"y":-41,"width":250,"height":60},
+		{"id":"70b9883b3bb21380","x":200,"y":-320,"width":233,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dụng　「用」/庸 - Dung.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fdb3b65711fc2887","fromNode":"363aaa434a4c551d","fromSide":"right","toNode":"70b9883b3bb21380","toSide":"left"}
+	]
 }

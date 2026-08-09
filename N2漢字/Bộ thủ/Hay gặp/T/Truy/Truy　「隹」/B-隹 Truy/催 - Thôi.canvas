@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f4b15df0e530854b","x":-129,"y":-39,"width":250,"height":60,"type":"text","text":"催 - Thôi"},
+		{"id":"36b632c30548c03e","x":-500,"y":140,"width":202,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"fa56c6b8e9cc992b","x":-520,"y":-240,"width":194,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
+		{"id":"dbfde3648b6f9e7b","x":-820,"y":-105,"width":229,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"f1ad86059109a5ee","fromNode":"36b632c30548c03e","fromSide":"right","toNode":"f4b15df0e530854b","toSide":"left"},
+		{"id":"f620bf2270606230","fromNode":"fa56c6b8e9cc992b","fromSide":"right","toNode":"f4b15df0e530854b","toSide":"left"},
+		{"id":"637c7ea278e498c2","fromNode":"dbfde3648b6f9e7b","fromSide":"right","toNode":"f4b15df0e530854b","toSide":"left"}
+	]
+}

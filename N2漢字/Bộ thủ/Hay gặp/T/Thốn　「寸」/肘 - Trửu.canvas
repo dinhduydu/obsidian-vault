@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b64dcf9b76c5977d","type":"text","text":"肘 - Trửu","x":-92,"y":-44,"width":250,"height":60},
+		{"id":"efb8c91e7e3a82c2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas","x":-480,"y":200,"width":192,"height":142},
+		{"id":"5ae7b79dfa5a8bfa","x":-500,"y":-340,"width":188,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"467b21982f977e9e","fromNode":"efb8c91e7e3a82c2","fromSide":"right","toNode":"b64dcf9b76c5977d","toSide":"left"},
+		{"id":"5e00091725fd7808","fromNode":"5ae7b79dfa5a8bfa","fromSide":"right","toNode":"b64dcf9b76c5977d","toSide":"left"}
+	]
+}

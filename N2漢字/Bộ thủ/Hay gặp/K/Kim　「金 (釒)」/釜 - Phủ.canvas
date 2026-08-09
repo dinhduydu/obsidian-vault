@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d3837b41de028c6d","x":-102,"y":-38,"width":250,"height":60,"type":"text","text":"釜 - Phủ"},
+		{"id":"7cebe90f233290e1","x":-420,"y":-300,"width":135,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"},
+		{"id":"f14a890f9c536c61","x":-420,"y":40,"width":135,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
+	],
+	"edges":[
+		{"id":"d7842571bb0579cd","fromNode":"7cebe90f233290e1","fromSide":"right","toNode":"d3837b41de028c6d","toSide":"left"},
+		{"id":"7d9c626f8ec7276e","fromNode":"f14a890f9c536c61","fromSide":"right","toNode":"d3837b41de028c6d","toSide":"left"}
+	]
+}

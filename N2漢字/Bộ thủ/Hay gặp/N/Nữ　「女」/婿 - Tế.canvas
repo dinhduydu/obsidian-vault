@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b3fb19ae6b1db173","x":-90,"y":-58,"width":250,"height":60,"type":"text","text":"婿 - Tế"},
+		{"id":"61d64ad0491394e0","x":-780,"y":-123,"width":201,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"f07d97383ac25e91","x":-484,"y":200,"width":208,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas"},
+		{"id":"ee404e21353f28e7","x":-450,"y":-260,"width":174,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/Định　「定」.canvas"}
+	],
+	"edges":[
+		{"id":"2491c361adbd53d3","fromNode":"61d64ad0491394e0","fromSide":"right","toNode":"b3fb19ae6b1db173","toSide":"left"},
+		{"id":"c3eddbd88857e1d9","fromNode":"ee404e21353f28e7","fromSide":"right","toNode":"b3fb19ae6b1db173","toSide":"left"},
+		{"id":"9797b5270cdc2ff8","fromNode":"f07d97383ac25e91","fromSide":"right","toNode":"b3fb19ae6b1db173","toSide":"left"}
+	]
+}

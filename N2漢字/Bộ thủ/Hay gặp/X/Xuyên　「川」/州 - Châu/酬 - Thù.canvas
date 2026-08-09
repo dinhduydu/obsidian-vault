@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"35d2b350c3319f5e","x":-116,"y":-17,"width":250,"height":60,"type":"text","text":"酬 - Thù"},
+		{"id":"57aa26753da4515a","x":-560,"y":280,"width":196,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xuyên　「川」/州 - Châu/州 - Châu.canvas"},
+		{"id":"0dd19e74223828fa","x":-565,"y":-340,"width":201,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Tứ　「四」/Tây　「西」/Dậu　「酉」/Dậu　「酉」.canvas"},
+		{"id":"addf4f6b681d2d5c","x":-640,"y":-17,"width":250,"height":60,"type":"text","text":"báo đáp"}
+	],
+	"edges":[
+		{"id":"78834778e302bd29","fromNode":"57aa26753da4515a","fromSide":"right","toNode":"35d2b350c3319f5e","toSide":"left"},
+		{"id":"a463de1cc3749d4a","fromNode":"0dd19e74223828fa","fromSide":"right","toNode":"35d2b350c3319f5e","toSide":"left"},
+		{"id":"750efc1588cf21af","fromNode":"addf4f6b681d2d5c","fromSide":"right","toNode":"35d2b350c3319f5e","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b19b1b1c7064d28d","x":-92,"y":-38,"width":250,"height":60,"type":"text","text":"啓 - Khải"},
+		{"id":"11d0daacd586068d","x":-460,"y":-240,"width":132,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"},
+		{"id":"a45c114d62911d6f","x":-780,"y":-240,"width":198,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/戸 - Hộ/戶 - Hộ/戶 - Hộ.canvas"},
+		{"id":"e6a981192daa5d67","x":-653,"y":120,"width":193,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"f2983e744721e000","fromNode":"11d0daacd586068d","fromSide":"right","toNode":"b19b1b1c7064d28d","toSide":"left"},
+		{"id":"723c0da640812402","fromNode":"a45c114d62911d6f","fromSide":"right","toNode":"b19b1b1c7064d28d","toSide":"left"},
+		{"id":"2f97dc9b0985e422","fromNode":"e6a981192daa5d67","fromSide":"right","toNode":"b19b1b1c7064d28d","toSide":"left"}
+	]
+}

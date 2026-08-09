@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b8e577e4b7ef2593","x":-57,"y":-14,"width":250,"height":60,"type":"text","text":"煎 - Tiên"},
+		{"id":"88d7550e90dac3c7","x":-500,"y":-280,"width":194,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/前 - Tiền/前 - Tiền.canvas"},
+		{"id":"4fb316ef83093105","x":-480,"y":200,"width":188,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"de00f4763f9f4d69","fromNode":"88d7550e90dac3c7","fromSide":"right","toNode":"b8e577e4b7ef2593","toSide":"left"},
+		{"id":"2f70cd0d3c9a5aed","fromNode":"4fb316ef83093105","fromSide":"right","toNode":"b8e577e4b7ef2593","toSide":"left"}
+	]
+}

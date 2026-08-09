@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"52b57371e68d9259","x":-100,"y":-35,"width":250,"height":60,"type":"text","text":"刹 - Sát"},
+		{"id":"6cac7e885c6a589c","x":-820,"y":-87,"width":186,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"421a9072e67daf64","x":-807,"y":-467,"width":161,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"},
+		{"id":"fb7c4b848104b14b","x":-400,"y":-394,"width":151,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+	],
+	"edges":[
+		{"id":"71c0877966fef077","fromNode":"421a9072e67daf64","fromSide":"right","toNode":"52b57371e68d9259","toSide":"left"},
+		{"id":"cd78b64ad69d7bd8","fromNode":"6cac7e885c6a589c","fromSide":"right","toNode":"52b57371e68d9259","toSide":"left"},
+		{"id":"6d8c3b4484d91d4d","fromNode":"fb7c4b848104b14b","fromSide":"right","toNode":"52b57371e68d9259","toSide":"left"}
+	]
+}

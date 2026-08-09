@@ -4,7 +4,7 @@
 		{"id":"f6200385c8f7fdaf","x":-420,"y":-120,"width":105,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"},
 		{"id":"1078528a68ad415d","x":-436,"y":-360,"width":137,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
 		{"id":"56e1d94431972f81","x":-438,"y":40,"width":123,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"},
-		{"id":"177e67ae0406ae05","x":-453,"y":200,"width":138,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"177e67ae0406ae05","x":-453,"y":200,"width":138,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"07886f6742d7c4d4","fromNode":"f6200385c8f7fdaf","fromSide":"right","toNode":"538684a41e95adce","toSide":"left"},

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6656645c2bb9efa9","x":-122,"y":-47,"width":250,"height":60,"type":"text","text":"桼 - Tất"},
+		{"id":"8299b449ae54b949","x":-480,"y":80,"width":251,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"8a45db5579198529","x":-434,"y":-240,"width":160,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"de9cca56836f63fd","fromNode":"8299b449ae54b949","fromSide":"right","toNode":"6656645c2bb9efa9","toSide":"left"},
+		{"id":"8def986500dafe2d","fromNode":"8a45db5579198529","fromSide":"right","toNode":"6656645c2bb9efa9","toSide":"left"}
+	]
+}

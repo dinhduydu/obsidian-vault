@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"dbc244eb53b99c7f","x":-140,"y":-36,"width":250,"height":60,"type":"text","text":"態 - Thái"},
 		{"id":"4f0998c081fd544e","x":-460,"y":-240,"width":147,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/能 - Năng/能 - Năng.canvas"},
-		{"id":"2e4140cedadb9dd7","x":-460,"y":160,"width":147,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"2e4140cedadb9dd7","x":-460,"y":160,"width":147,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"acfd2bb5655618f1","fromNode":"4f0998c081fd544e","fromSide":"right","toNode":"dbc244eb53b99c7f","toSide":"left"},

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"eb46b5176c3ed049","x":-94,"y":-44,"width":250,"height":60,"type":"text","text":"庶 - Thứ"},
+		{"id":"ab27817a96f54ca4","x":-420,"y":-87,"width":148,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Nhập　「廿」/Nhập　「廿」.canvas"},
+		{"id":"7de01381264b6627","x":-413,"y":-340,"width":134,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghiễm　「广」/Nghiễm　「广」.canvas"},
+		{"id":"b449d69b70ca1c33","x":-432,"y":220,"width":173,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas"}
+	],
+	"edges":[
+		{"id":"33e3dd09da32d83e","fromNode":"ab27817a96f54ca4","fromSide":"right","toNode":"eb46b5176c3ed049","toSide":"left"},
+		{"id":"eb8303cce19bc41f","fromNode":"7de01381264b6627","fromSide":"right","toNode":"eb46b5176c3ed049","toSide":"left"},
+		{"id":"1eb8c854038d6482","fromNode":"b449d69b70ca1c33","fromSide":"right","toNode":"eb46b5176c3ed049","toSide":"left"}
+	]
+}

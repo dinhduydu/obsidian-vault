@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e51114a8308a8fa","x":-67,"y":-50,"width":250,"height":60,"type":"text","text":"芯 - Tâm"},
+		{"id":"9d06cdaf1c8892d5","x":-440,"y":180,"width":212,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"},
+		{"id":"47045c7dda97a110","x":-440,"y":-300,"width":217,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"470f4d336fbecee0","fromNode":"9d06cdaf1c8892d5","fromSide":"right","toNode":"2e51114a8308a8fa","toSide":"left"},
+		{"id":"f755ec99ffbd99ed","fromNode":"47045c7dda97a110","fromSide":"right","toNode":"2e51114a8308a8fa","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c8d25928abb8ccb7","x":-114,"y":-44,"width":250,"height":60,"type":"text","text":"冥 - Minh"},
+		{"id":"f4de89b36c213c61","x":-520,"y":-95,"width":189,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"c604641f114cf0dd","x":-513,"y":-400,"width":176,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"},
+		{"id":"00728f08dfc03ff8","x":-543,"y":240,"width":235,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas"}
+	],
+	"edges":[
+		{"id":"b507bcdf7f367758","fromNode":"f4de89b36c213c61","fromSide":"right","toNode":"c8d25928abb8ccb7","toSide":"left"},
+		{"id":"b3ffb09a2b4ef56a","fromNode":"c604641f114cf0dd","fromSide":"right","toNode":"c8d25928abb8ccb7","toSide":"left"},
+		{"id":"f5af52135065bd30","fromNode":"00728f08dfc03ff8","fromSide":"right","toNode":"c8d25928abb8ccb7","toSide":"left"}
+	]
+}

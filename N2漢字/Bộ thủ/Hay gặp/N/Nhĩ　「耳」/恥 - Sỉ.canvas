@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3c03f96331405e6e","x":-97,"y":-52,"width":250,"height":60,"type":"text","text":"恥 - Sỉ"},
 		{"id":"12ab7f185a3a8c7d","x":-400,"y":-320,"width":130,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas"},
-		{"id":"9519b338a7a8eb24","x":-434,"y":20,"width":164,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"9519b338a7a8eb24","x":-434,"y":20,"width":164,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"d2fc80470a1be8b3","fromNode":"12ab7f185a3a8c7d","fromSide":"right","toNode":"3c03f96331405e6e","toSide":"left"},

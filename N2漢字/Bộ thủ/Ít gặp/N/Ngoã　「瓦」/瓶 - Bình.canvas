@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"bc61ba824fd5b4a6","type":"text","text":"瓶 - Bình","x":-96,"y":-29,"width":250,"height":60},
+		{"id":"669e29faf2696d55","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Ngoã　「瓦」/Ngoã　「瓦」.canvas","x":-540,"y":-260,"width":172,"height":174},
+		{"id":"711e6abb3ebb9d8a","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas","x":-1000,"y":-85,"width":204,"height":172},
+		{"id":"2c2e68318a848e44","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/开 - Khai.canvas","x":-997,"y":215,"width":201,"height":193},
+		{"id":"343f1370afe07a15","x":-540,"y":87,"width":179,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/开 - Khai/并 - Tịnh/并 - Tịnh.canvas"},
+		{"id":"3c332cd625b32501","x":-657,"y":-403,"width":250,"height":60,"type":"text","text":"cái bình"}
+	],
+	"edges":[
+		{"id":"807802f895e75370","fromNode":"669e29faf2696d55","fromSide":"right","toNode":"bc61ba824fd5b4a6","toSide":"left"},
+		{"id":"b7e257dae0a77f9c","fromNode":"711e6abb3ebb9d8a","fromSide":"right","toNode":"343f1370afe07a15","toSide":"left"},
+		{"id":"080bbeb130454692","fromNode":"2c2e68318a848e44","fromSide":"right","toNode":"343f1370afe07a15","toSide":"left"},
+		{"id":"6d590234b499ee6e","fromNode":"343f1370afe07a15","fromSide":"right","toNode":"bc61ba824fd5b4a6","toSide":"left"},
+		{"id":"d1b8f57d0117fe56","fromNode":"3c332cd625b32501","fromSide":"right","toNode":"bc61ba824fd5b4a6","toSide":"left"}
+	]
+}

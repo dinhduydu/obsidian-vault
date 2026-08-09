@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"90e33c48fbfcb612","x":-89,"y":-44,"width":250,"height":60,"type":"text","text":"患 - Hoạn"},
+		{"id":"aa1d03b65634c87f","x":-500,"y":-340,"width":213,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/串 - Xuyến/串 - Xuyến.canvas"},
+		{"id":"23688b196ffa6a1a","x":-496,"y":40,"width":209,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"4b0c14ab76dc7fc9","fromNode":"aa1d03b65634c87f","fromSide":"right","toNode":"90e33c48fbfcb612","toSide":"left"},
+		{"id":"f56d952502f30470","fromNode":"23688b196ffa6a1a","fromSide":"right","toNode":"90e33c48fbfcb612","toSide":"left"}
+	]
+}

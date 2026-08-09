@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"3ea1524ad4592f9c","type":"text","text":"填 - Điền","x":-90,"y":-22,"width":250,"height":60},
+		{"id":"4c8cb5ebb38a4bde","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân/真 - Chân.canvas","x":-500,"y":-320,"width":175,"height":154},
+		{"id":"36c947134a81d813","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-536,"y":140,"width":211,"height":154},
+		{"id":"b51460b79cd91be3","type":"text","text":"補填　「ほてん」：bù vào","x":429,"y":-209,"width":250,"height":60},
+		{"id":"c2e722189b3f081b","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Phủ　「甫」/補 - Bổ.canvas","x":-40,"y":-400,"width":151,"height":157},
+		{"id":"157fae857ed0f6e5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/壮 - Tráng/装 - Trang.canvas","x":60,"y":360,"width":144,"height":140},
+		{"id":"776629b34ee78c76","x":440,"y":-22,"width":250,"height":60,"type":"text","text":"填める　「はめる」："},
+		{"id":"d1499f107dbd97af","x":444,"y":78,"width":250,"height":60,"type":"text","text":"填ぐ　「ふさぐ」："},
+		{"id":"64683a916dfc653b","type":"text","text":"装填　「そうてん」：nạp","x":444,"y":234,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9ba719eef544eb60","fromNode":"4c8cb5ebb38a4bde","fromSide":"right","toNode":"3ea1524ad4592f9c","toSide":"left"},
+		{"id":"bc673442b2151db7","fromNode":"36c947134a81d813","fromSide":"right","toNode":"3ea1524ad4592f9c","toSide":"left"},
+		{"id":"1ef4e8b1c3ae9f62","fromNode":"3ea1524ad4592f9c","fromSide":"right","toNode":"b51460b79cd91be3","toSide":"left","label":"lấp đầy"},
+		{"id":"a96714406fc88b2f","fromNode":"c2e722189b3f081b","fromSide":"right","toNode":"b51460b79cd91be3","toSide":"left"},
+		{"id":"330a3ac893188732","fromNode":"3ea1524ad4592f9c","fromSide":"right","toNode":"64683a916dfc653b","toSide":"left"},
+		{"id":"1ce675d9faa8da2c","fromNode":"157fae857ed0f6e5","fromSide":"right","toNode":"64683a916dfc653b","toSide":"left"},
+		{"id":"7658f27a346c2311","fromNode":"3ea1524ad4592f9c","fromSide":"right","toNode":"776629b34ee78c76","toSide":"left"},
+		{"id":"866a8d0b245e2586","fromNode":"3ea1524ad4592f9c","fromSide":"right","toNode":"d1499f107dbd97af","toSide":"left"}
+	]
+}

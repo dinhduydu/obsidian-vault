@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1f9d081e05e11fb8","type":"text","text":"鉢 - Bát","x":-77,"y":-21,"width":250,"height":60},
+		{"id":"483d72d390fd7365","x":-520,"y":-220,"width":149,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"cc3b69d0a67d19c9","x":-528,"y":60,"width":165,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bản　「本」/Bản　「本」.canvas"}
+	],
+	"edges":[
+		{"id":"d545ec02aabaf25a","fromNode":"483d72d390fd7365","fromSide":"right","toNode":"1f9d081e05e11fb8","toSide":"left"},
+		{"id":"5a025b9872808025","fromNode":"cc3b69d0a67d19c9","fromSide":"right","toNode":"1f9d081e05e11fb8","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7ac196bca1492ae3","x":-107,"y":-2,"width":250,"height":60,"type":"text","text":"徹 - Triệt"},
+		{"id":"8a3862424bb03af1","x":-500,"y":-280,"width":220,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/彳⿻攵 - Chinh/彳⿻攵 - Chinh.canvas"},
+		{"id":"6e89a37f422c6bc3","x":-499,"y":58,"width":219,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/育 - Dục/育 - Dục.canvas"}
+	],
+	"edges":[
+		{"id":"e5ad204bd589f0b0","fromNode":"8a3862424bb03af1","fromSide":"right","toNode":"7ac196bca1492ae3","toSide":"left"},
+		{"id":"f2f109d69a331988","fromNode":"6e89a37f422c6bc3","fromSide":"right","toNode":"7ac196bca1492ae3","toSide":"left"}
+	]
+}

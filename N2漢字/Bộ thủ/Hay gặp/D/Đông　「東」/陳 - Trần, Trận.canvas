@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"f90909cc71717699","x":-99,"y":-29,"width":250,"height":60,"type":"text","text":"陳 - Trần, Trận"},
-		{"id":"19f0c9958b4b3dc4","x":-444,"y":-220,"width":208,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"},
-		{"id":"cf34640e88f1be4f","x":-396,"y":140,"width":160,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/Đông　「東」.canvas"}
+		{"id":"f90909cc71717699","type":"text","text":"陳 - Trần, Trận","x":-99,"y":-29,"width":250,"height":60},
+		{"id":"cf34640e88f1be4f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đông　「東」/Đông　「東」.canvas","x":-512,"y":140,"width":160,"height":137},
+		{"id":"fca554d5780b7216","x":-632,"y":-280,"width":240,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
+		{"id":"82af3691b6863416","x":-682,"y":-29,"width":250,"height":60,"type":"text","text":"trần thuật"}
 	],
 	"edges":[
 		{"id":"f12244178bdbfb3c","fromNode":"cf34640e88f1be4f","fromSide":"right","toNode":"f90909cc71717699","toSide":"left"},
-		{"id":"5cdf45a8f1b924d7","fromNode":"19f0c9958b4b3dc4","fromSide":"right","toNode":"f90909cc71717699","toSide":"left"}
+		{"id":"5cdf45a8f1b924d7","fromNode":"fca554d5780b7216","fromSide":"right","toNode":"f90909cc71717699","toSide":"left"},
+		{"id":"47f407bd5d93bf49","fromNode":"82af3691b6863416","fromSide":"right","toNode":"f90909cc71717699","toSide":"left"}
 	]
 }

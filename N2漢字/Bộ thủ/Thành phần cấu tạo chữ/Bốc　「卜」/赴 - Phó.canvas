@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7db3054212a8f662","x":-83,"y":-21,"width":250,"height":60,"type":"text","text":"赴 - Phó"},
+		{"id":"50c1fe5a2f34e8b1","x":-460,"y":-340,"width":182,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/Bốc　「卜」.canvas"},
+		{"id":"76cce52af8428bbf","x":-472,"y":80,"width":207,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/Tẩu　「走」.canvas"}
+	],
+	"edges":[
+		{"id":"9df3977071b26dc8","fromNode":"50c1fe5a2f34e8b1","fromSide":"right","toNode":"7db3054212a8f662","toSide":"left"},
+		{"id":"152870f47ed666cb","fromNode":"76cce52af8428bbf","fromSide":"right","toNode":"7db3054212a8f662","toSide":"left"}
+	]
+}

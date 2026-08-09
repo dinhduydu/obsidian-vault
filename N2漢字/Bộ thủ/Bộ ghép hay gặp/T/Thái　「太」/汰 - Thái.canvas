@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"58b32aad754c6706","x":-98,"y":-26,"width":250,"height":60,"type":"text","text":"汰 - Thái"},
+		{"id":"7f5e7530e6a36254","x":-460,"y":-220,"width":149,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thái　「太」/Thái　「太」.canvas"},
+		{"id":"c7ed99810a1007d1","x":-492,"y":120,"width":214,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"863b073df6de5ea5","fromNode":"7f5e7530e6a36254","fromSide":"right","toNode":"58b32aad754c6706","toSide":"left"},
+		{"id":"ce11948e20bc35ed","fromNode":"c7ed99810a1007d1","fromSide":"right","toNode":"58b32aad754c6706","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24701d45ffc8d45c","x":-119,"y":-30,"width":250,"height":60,"type":"text","text":"箋 - Tiên"},
+		{"id":"f068ec88cc6aba8f","x":-460,"y":80,"width":195,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"6628ccbafef7eb00","x":-452,"y":-240,"width":187,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+	],
+	"edges":[
+		{"id":"fe02537d21f96279","fromNode":"f068ec88cc6aba8f","fromSide":"right","toNode":"24701d45ffc8d45c","toSide":"left","label":"x2"},
+		{"id":"de53aee84e11abbe","fromNode":"6628ccbafef7eb00","fromSide":"right","toNode":"24701d45ffc8d45c","toSide":"left"}
+	]
+}

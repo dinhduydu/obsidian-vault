@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d85b0c8124a40b56","x":-108,"y":-48,"width":250,"height":60,"type":"text","text":"嗅 - Khứu"},
+		{"id":"42589764641cc65f","x":-380,"y":100,"width":130,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/臭 - Xú/臭 - Xú.canvas"},
+		{"id":"4403d4fd8320ad29","x":-380,"y":-300,"width":129,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"644652074d608372","fromNode":"42589764641cc65f","fromSide":"right","toNode":"d85b0c8124a40b56","toSide":"left"},
+		{"id":"58f8502eef477788","fromNode":"4403d4fd8320ad29","fromSide":"right","toNode":"d85b0c8124a40b56","toSide":"left"}
+	]
+}

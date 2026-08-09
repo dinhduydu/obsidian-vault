@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"61f6451e0804e8f7","x":-110,"y":-37,"width":250,"height":60,"type":"text","text":"勃 - Bột"},
+		{"id":"b7968c1646c8df2f","x":-740,"y":140,"width":196,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas"},
+		{"id":"18bbbaf6378dfae7","x":-400,"y":140,"width":194,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"},
+		{"id":"8900ddb2c35caab8","x":-716,"y":-320,"width":148,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"a1c1e6f00d547073","x":-698,"y":-77,"width":112,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas"}
+	],
+	"edges":[
+		{"id":"ef558e555c7b6e1c","fromNode":"b7968c1646c8df2f","fromSide":"right","toNode":"61f6451e0804e8f7","toSide":"left"},
+		{"id":"b35d90ebe1ca8b94","fromNode":"18bbbaf6378dfae7","fromSide":"right","toNode":"61f6451e0804e8f7","toSide":"left"},
+		{"id":"fb6145f260111c91","fromNode":"8900ddb2c35caab8","fromSide":"right","toNode":"61f6451e0804e8f7","toSide":"left"},
+		{"id":"f637defe75e11fb5","fromNode":"a1c1e6f00d547073","fromSide":"right","toNode":"61f6451e0804e8f7","toSide":"left"}
+	]
+}

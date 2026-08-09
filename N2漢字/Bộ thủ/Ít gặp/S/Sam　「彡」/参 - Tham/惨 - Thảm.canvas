@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a35a92266edcf723","x":-183,"y":-46,"width":250,"height":60,"type":"text","text":"惨 - Thảm"},
 		{"id":"25cfd57e4d3cd53b","x":-480,"y":160,"width":149,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/参 - Tham.canvas"},
-		{"id":"056eff31d5b2153d","x":-489,"y":-196,"width":158,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+		{"id":"056eff31d5b2153d","x":-489,"y":-196,"width":158,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas"}
 	],
 	"edges":[
 		{"id":"881506e53e03c1a3","fromNode":"25cfd57e4d3cd53b","fromSide":"right","toNode":"a35a92266edcf723","toSide":"left"},

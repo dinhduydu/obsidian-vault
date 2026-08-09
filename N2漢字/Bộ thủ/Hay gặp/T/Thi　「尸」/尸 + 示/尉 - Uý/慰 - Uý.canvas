@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a84f7ba10cbd85ac","x":-117,"y":-46,"width":250,"height":60,"type":"text","text":"慰 - Uý"},
 		{"id":"1d75b99b11d4885e","x":-520,"y":-220,"width":223,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尸 + 示/尉 - Uý/尉 - Uý.canvas"},
-		{"id":"c8e0fc0b5a8d13d6","x":-485,"y":140,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"c8e0fc0b5a8d13d6","x":-485,"y":140,"width":188,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"e9a5bec77f8704c2","fromNode":"1d75b99b11d4885e","fromSide":"right","toNode":"a84f7ba10cbd85ac","toSide":"left"},

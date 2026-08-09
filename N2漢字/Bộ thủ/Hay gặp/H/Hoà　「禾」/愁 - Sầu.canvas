@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"92de106e68467828","type":"text","text":"愁 - Sầu","x":-130,"y":-93,"width":250,"height":60},
 		{"id":"3be288bac237493c","type":"text","text":"愁える　「うれえる」：nỗi u sầu","x":310,"y":-93,"width":250,"height":60},
-		{"id":"fcac90a7f84ee1d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas","x":-560,"y":75,"width":233,"height":140},
+		{"id":"fcac90a7f84ee1d4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":-560,"y":75,"width":233,"height":140},
 		{"id":"371bed698f0617f6","x":-560,"y":-400,"width":183,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/秋 - Thu.canvas"}
 	],
 	"edges":[

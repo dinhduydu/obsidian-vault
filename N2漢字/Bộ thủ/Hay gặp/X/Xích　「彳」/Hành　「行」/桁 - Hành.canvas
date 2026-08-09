@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"38909d60b6e8f518","x":-70,"y":-24,"width":250,"height":60,"type":"text","text":"桁 - Hành"},
+		{"id":"b401d90c17ecf9e5","x":-440,"y":140,"width":218,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"},
+		{"id":"2a68829ad0e36833","x":-700,"y":-84,"width":186,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"edfc8ae4c27d9c1e","fromNode":"b401d90c17ecf9e5","fromSide":"right","toNode":"38909d60b6e8f518","toSide":"left"},
+		{"id":"768177a283a08d32","fromNode":"2a68829ad0e36833","fromSide":"right","toNode":"38909d60b6e8f518","toSide":"left","label":"trụ gỗ"}
+	]
+}

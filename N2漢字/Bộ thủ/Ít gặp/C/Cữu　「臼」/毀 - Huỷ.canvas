@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0b4944547956ad83","x":-123,"y":-6,"width":250,"height":60,"type":"text","text":"毀 - Huỷ"},
+		{"id":"13c4fb8ca44b55b7","x":-840,"y":-72,"width":219,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cữu　「臼」/Cữu　「臼」.canvas"},
+		{"id":"949ef41c43ad7088","x":-460,"y":-240,"width":182,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas"},
+		{"id":"cf128db3d6adf051","x":-460,"y":260,"width":177,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"8446174b31cdb15d","fromNode":"13c4fb8ca44b55b7","fromSide":"right","toNode":"0b4944547956ad83","toSide":"left"},
+		{"id":"393b46fd1c483b8e","fromNode":"949ef41c43ad7088","fromSide":"right","toNode":"0b4944547956ad83","toSide":"left"},
+		{"id":"11dd8824d92abcf2","fromNode":"cf128db3d6adf051","fromSide":"right","toNode":"0b4944547956ad83","toSide":"left"}
+	]
+}

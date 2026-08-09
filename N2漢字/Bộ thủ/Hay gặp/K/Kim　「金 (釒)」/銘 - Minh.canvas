@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"06ea1e3f8a73a549","x":-60,"y":-69,"width":250,"height":60,"type":"text","text":"銘 - Minh"},
+		{"id":"5b2a182c3b6f8794","x":-560,"y":-340,"width":186,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"29a972cc02933dc5","x":-560,"y":-9,"width":190,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/名 - Danh.canvas"}
+	],
+	"edges":[
+		{"id":"147d566a1968de9a","fromNode":"5b2a182c3b6f8794","fromSide":"right","toNode":"06ea1e3f8a73a549","toSide":"left"},
+		{"id":"b9d678785d407fcc","fromNode":"29a972cc02933dc5","fromSide":"right","toNode":"06ea1e3f8a73a549","toSide":"left"}
+	]
+}

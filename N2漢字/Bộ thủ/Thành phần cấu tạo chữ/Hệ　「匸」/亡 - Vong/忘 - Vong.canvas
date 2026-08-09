@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"fc01f4f6a76d7987","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"忘 - Vong"},
 		{"id":"b2e36f7204d1d534","x":-500,"y":-300,"width":197,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"},
-		{"id":"14cc6f3c2ebb5497","x":-507,"y":100,"width":204,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+		{"id":"14cc6f3c2ebb5497","x":-507,"y":100,"width":204,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"}
 	],
 	"edges":[
 		{"id":"54d5ba25f283749b","fromNode":"b2e36f7204d1d534","fromSide":"right","toNode":"fc01f4f6a76d7987","toSide":"left"},

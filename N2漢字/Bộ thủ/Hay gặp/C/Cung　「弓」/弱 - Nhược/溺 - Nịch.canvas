@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3473ef3f09b0209a","x":-99,"y":-55,"width":250,"height":60,"type":"text","text":"溺 - Nịch"},
+		{"id":"749a724929af5b6d","x":-480,"y":-320,"width":221,"height":211,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/弱 - Nhược/弱 - Nhược.canvas"},
+		{"id":"ff745342cf5fd919","x":-490,"y":80,"width":241,"height":223,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"acabea53513130af","fromNode":"749a724929af5b6d","fromSide":"right","toNode":"3473ef3f09b0209a","toSide":"left"},
+		{"id":"1693b355971b641f","fromNode":"ff745342cf5fd919","fromSide":"right","toNode":"3473ef3f09b0209a","toSide":"left"}
+	]
+}

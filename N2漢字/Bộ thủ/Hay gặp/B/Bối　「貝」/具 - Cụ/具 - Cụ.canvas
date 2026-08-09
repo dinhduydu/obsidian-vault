@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"b1cf64eb27f70883","x":-85,"y":-48,"width":250,"height":60,"type":"text","text":"具 - Cụ"}
+		{"id":"b1cf64eb27f70883","type":"text","text":"具 - Cụ","x":-85,"y":-48,"width":250,"height":60},
+		{"id":"9bab0e74bb703bea","x":380,"y":-340,"width":149,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân/真 - Chân.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e9a9a2583e7424ca","fromNode":"b1cf64eb27f70883","fromSide":"right","toNode":"9bab0e74bb703bea","toSide":"left"}
+	]
 }

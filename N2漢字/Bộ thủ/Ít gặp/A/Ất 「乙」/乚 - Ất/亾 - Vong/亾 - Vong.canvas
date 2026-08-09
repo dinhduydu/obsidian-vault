@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0ffb3714d496d77d","type":"text","text":"亾 - Vong","x":-127,"y":-24,"width":250,"height":60},
+		{"id":"47e459073eb39319","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乚 - Ất/亾 - Vong/匃 - Cái/匃 - Cái.canvas","x":300,"y":-240,"width":239,"height":168},
+		{"id":"eb9c3787f28e9a5d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/乚 - Ất/乚 - Ất.canvas","x":-520,"y":106,"width":210,"height":170},
+		{"id":"e5eaaf08fdd7bdb8","x":-1000,"y":-24,"width":440,"height":55,"type":"text","text":"亾 = 亡 về mặt dị thể/hình thể cổ.\n亡 đọc Hán-Việt là Vong, nghĩa là mất, chết, thất lạc."},
+		{"id":"ba49341e3738fbbb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas","x":-495,"y":-250,"width":161,"height":178},
+		{"id":"4e500eac435d46c8","x":-1400,"y":-394,"width":256,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Hệ　「匸」/亡 - Vong/亡 - Vong.canvas"}
+	],
+	"edges":[
+		{"id":"e6785d00354ad68e","fromNode":"0ffb3714d496d77d","fromSide":"right","toNode":"47e459073eb39319","toSide":"left"},
+		{"id":"6c27fc87ae442624","fromNode":"ba49341e3738fbbb","fromSide":"right","toNode":"0ffb3714d496d77d","toSide":"left"},
+		{"id":"293e24ca603d5592","fromNode":"eb9c3787f28e9a5d","fromSide":"right","toNode":"0ffb3714d496d77d","toSide":"left"},
+		{"id":"31949c93c5cba182","fromNode":"e5eaaf08fdd7bdb8","fromSide":"right","toNode":"0ffb3714d496d77d","toSide":"left"},
+		{"id":"0f6ccefae52e9166","fromNode":"4e500eac435d46c8","fromSide":"right","toNode":"e5eaaf08fdd7bdb8","toSide":"left"}
+	]
+}

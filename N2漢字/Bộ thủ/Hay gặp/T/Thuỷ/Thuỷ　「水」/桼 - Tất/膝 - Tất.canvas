@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4732d44893262ae4","x":-151,"y":-25,"width":250,"height":60,"type":"text","text":"膝 - Tất"},
+		{"id":"735e1cf026310666","x":-520,"y":160,"width":189,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/桼 - Tất/桼 - Tất.canvas"},
+		{"id":"bd3252a06d6edebd","x":-496,"y":-220,"width":165,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"8a981db318228245","fromNode":"735e1cf026310666","fromSide":"right","toNode":"4732d44893262ae4","toSide":"left"},
+		{"id":"e578b11308853555","fromNode":"bd3252a06d6edebd","fromSide":"right","toNode":"4732d44893262ae4","toSide":"left","label":"đầu gối"}
+	]
+}

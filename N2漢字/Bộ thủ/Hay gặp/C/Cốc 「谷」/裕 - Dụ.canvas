@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c79262d52a7ad8e2","x":-101,"y":-48,"width":250,"height":60,"type":"text","text":"裕 - Dụ"},
+		{"id":"ade1b1e3e69ca95a","x":-520,"y":-320,"width":159,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cốc 「谷」/Cốc 「谷」.canvas"},
+		{"id":"617549487e0305b6","x":-532,"y":40,"width":184,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衤」/Y　「衤」.canvas"}
+	],
+	"edges":[
+		{"id":"4d4b3dbf3280ce98","fromNode":"ade1b1e3e69ca95a","fromSide":"right","toNode":"c79262d52a7ad8e2","toSide":"left"},
+		{"id":"1bf46e26ee10346a","fromNode":"617549487e0305b6","fromSide":"right","toNode":"c79262d52a7ad8e2","toSide":"left"}
+	]
+}

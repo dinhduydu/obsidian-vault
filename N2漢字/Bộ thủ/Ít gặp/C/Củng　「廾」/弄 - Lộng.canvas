@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56530c0724cad0c5","x":-67,"y":-15,"width":250,"height":60,"type":"text","text":"弄 - Lộng"},
+		{"id":"1cb538fa8ed04de5","x":-440,"y":200,"width":150,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"},
+		{"id":"d416e407eee3485a","x":-493,"y":-360,"width":203,"height":211,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"1de201f4d47a06a8","fromNode":"1cb538fa8ed04de5","fromSide":"right","toNode":"56530c0724cad0c5","toSide":"left"},
+		{"id":"c1cd05950ec3ddbd","fromNode":"d416e407eee3485a","fromSide":"right","toNode":"56530c0724cad0c5","toSide":"left"}
+	]
+}

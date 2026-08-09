@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"77ca734591a0da3b","x":-96,"y":-28,"width":250,"height":60,"type":"text","text":"尼 - Ni"},
+		{"id":"f2163f7d850d2c52","x":-540,"y":-340,"width":200,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"403ae476323c581c","x":-541,"y":60,"width":201,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas"}
+	],
+	"edges":[
+		{"id":"e18d58c66212da23","fromNode":"f2163f7d850d2c52","fromSide":"right","toNode":"77ca734591a0da3b","toSide":"left"},
+		{"id":"ad76cdc24030596d","fromNode":"403ae476323c581c","fromSide":"right","toNode":"77ca734591a0da3b","toSide":"left"}
+	]
+}

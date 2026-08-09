@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f243c5a38c04efda","x":-119,"y":-41,"width":250,"height":60,"type":"text","text":"串 - Xuyến"},
+		{"id":"3d4688536c208f67","x":-480,"y":-220,"width":144,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Trung　「中」/Trung　「中」.canvas"},
+		{"id":"d20c24b3cb976d84","x":-514,"y":80,"width":212,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"92263012c8d79537","fromNode":"3d4688536c208f67","fromSide":"right","toNode":"f243c5a38c04efda","toSide":"left"},
+		{"id":"ee51efaf0eee450c","fromNode":"d20c24b3cb976d84","fromSide":"right","toNode":"f243c5a38c04efda","toSide":"left"}
+	]
+}

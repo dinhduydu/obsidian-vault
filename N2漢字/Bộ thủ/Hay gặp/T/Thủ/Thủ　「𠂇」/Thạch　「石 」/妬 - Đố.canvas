@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b07bb334b5fd2816","x":-78,"y":-28,"width":250,"height":60,"type":"text","text":"妬 - Đố"},
+		{"id":"031459bf8ce33d22","x":-440,"y":200,"width":194,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"},
+		{"id":"4178835607a89dda","x":-619,"y":-300,"width":179,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"ae642b446864fd57","fromNode":"031459bf8ce33d22","fromSide":"right","toNode":"b07bb334b5fd2816","toSide":"left"},
+		{"id":"3bf0f224f4a1d067","fromNode":"4178835607a89dda","fromSide":"right","toNode":"b07bb334b5fd2816","toSide":"left"}
+	]
+}
