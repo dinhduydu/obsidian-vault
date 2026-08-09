@@ -19,3 +19,6 @@ reload
 [N2] Update tool and DB
 [N2] Update path of files
 [N2][Read book] Update note
+[N1] Update
+[N1] Add vocab
+[N1] Update grammar
