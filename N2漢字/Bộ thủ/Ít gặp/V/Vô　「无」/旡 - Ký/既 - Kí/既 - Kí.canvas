@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7c338843985806e9","type":"text","text":"既 - Kí","x":-151,"y":-46,"width":250,"height":60},
+		{"id":"5aa28a899da3962a","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/既婚婦人層.md","x":260,"y":-240,"width":190,"height":155},
+		{"id":"35de0e9ffd093cef","x":-480,"y":-226,"width":189,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"}
+	],
+	"edges":[
+		{"id":"b6a6091ea8bf2513","fromNode":"7c338843985806e9","fromSide":"right","toNode":"5aa28a899da3962a","toSide":"left"},
+		{"id":"bc8d4fdfc21dd000","fromNode":"35de0e9ffd093cef","fromSide":"right","toNode":"7c338843985806e9","toSide":"left"}
+	]
+}

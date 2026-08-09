@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0cda5ee8f9e6a1b9","type":"text","text":"夗 - Uyển","x":-85,"y":-51,"width":250,"height":60},
+		{"id":"20bac33361de3056","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/夗 - Uyển/宛 - Uyên/宛 - Uyên.canvas","x":320,"y":-240,"width":221,"height":122},
+		{"id":"32c9559d111df3c4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/Tiết　「卩」.canvas","x":-500,"y":69,"width":194,"height":129},
+		{"id":"7759c9d71dba086a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas","x":-500,"y":-255,"width":169,"height":137},
+		{"id":"80c4e4c63c7f2642","x":-50,"y":-420,"width":180,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"8111f6174fd79570","fromNode":"0cda5ee8f9e6a1b9","fromSide":"right","toNode":"20bac33361de3056","toSide":"left"},
+		{"id":"8059fcf673755bd5","fromNode":"7759c9d71dba086a","fromSide":"right","toNode":"0cda5ee8f9e6a1b9","toSide":"left"},
+		{"id":"5468615900f40962","fromNode":"32c9559d111df3c4","fromSide":"right","toNode":"0cda5ee8f9e6a1b9","toSide":"left"},
+		{"id":"cd29d520fd775690","fromNode":"80c4e4c63c7f2642","fromSide":"right","toNode":"20bac33361de3056","toSide":"left"}
+	]
+}

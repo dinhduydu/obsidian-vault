@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70bb6a482960ee43","x":-191,"y":-21,"width":250,"height":60,"type":"text","text":"謁 - Yết"},
+		{"id":"7b14c06db70abbbe","x":-620,"y":-240,"width":163,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"8db95e7ba2a423f8","x":-625,"y":120,"width":168,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"9bdc6f5ad24ba32d","fromNode":"7b14c06db70abbbe","fromSide":"right","toNode":"70bb6a482960ee43","toSide":"left"},
+		{"id":"4e2fe9c6f5d49c0a","fromNode":"8db95e7ba2a423f8","fromSide":"right","toNode":"70bb6a482960ee43","toSide":"left"}
+	]
+}

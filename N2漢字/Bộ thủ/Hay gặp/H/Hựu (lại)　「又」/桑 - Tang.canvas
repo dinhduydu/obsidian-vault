@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"37d4cb081dc37fb1","x":-147,"y":-23,"width":250,"height":60,"type":"text","text":"桑 - Tang"},
+		{"id":"885b2718370b0b74","x":-540,"y":-280,"width":189,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"},
+		{"id":"0223fcee85116d07","x":-554,"y":140,"width":217,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"46c134f7c958a679","fromNode":"885b2718370b0b74","fromSide":"right","toNode":"37d4cb081dc37fb1","toSide":"left","label":"x3"},
+		{"id":"95583e6bd0ff792c","fromNode":"0223fcee85116d07","fromSide":"right","toNode":"37d4cb081dc37fb1","toSide":"left"}
+	]
+}

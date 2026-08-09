@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"2f4cf946cd93a480","x":-132,"y":-61,"width":250,"height":60,"type":"text","text":"隆 - Long"},
-		{"id":"0aac1dcf3aae3a89","x":-640,"y":-280,"width":182,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"},
+		{"id":"0aac1dcf3aae3a89","x":-640,"y":-280,"width":182,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
 		{"id":"77b9a33a66075f6e","x":-400,"y":-400,"width":141,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"},
 		{"id":"78eaab27a9b84808","x":-420,"y":60,"width":159,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/Sinh　「生」.canvas"}
 	],

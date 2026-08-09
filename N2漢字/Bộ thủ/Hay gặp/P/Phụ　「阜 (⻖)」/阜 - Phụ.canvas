@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a5366bcb280bf879","type":"text","text":"阜 - Phụ","x":-79,"y":-50,"width":250,"height":60},
+		{"id":"75974c9b5e6aca7c","type":"text","text":"- Bộ thủ: **阝（こざとへん）** — bộ Phụ\n- Nghĩa: bên cạnh, lân cận","x":-600,"y":-170,"width":354,"height":60},
+		{"id":"74458ae336d60dc1","type":"text","text":"Bộ “phụ” bên trái\nThường liên quan đến:\n\tđịa hình\n\tvùng đất\n\tdốc, núi, nơi cao thấp","x":-600,"y":10,"width":280,"height":160},
+		{"id":"8825aec7b1c9c50d","x":-523,"y":320,"width":201,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"9c3dd9a6a6bc066d","fromNode":"75974c9b5e6aca7c","fromSide":"right","toNode":"a5366bcb280bf879","toSide":"left"},
+		{"id":"d12652feddd7d36b","fromNode":"74458ae336d60dc1","fromSide":"right","toNode":"a5366bcb280bf879","toSide":"left"},
+		{"id":"1a61031235b116e6","fromNode":"8825aec7b1c9c50d","fromSide":"right","toNode":"a5366bcb280bf879","toSide":"left"}
+	]
+}

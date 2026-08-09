@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"35942d8342b17b93","x":-142,"y":-72,"width":250,"height":60,"type":"text","text":"隠 - Ẩn"},
 		{"id":"70127f0c33dda869","x":-460,"y":-260,"width":157,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/A/𤔌 - Ẩn/㥯 - Ẩn.canvas"},
-		{"id":"cd54156494d444da","x":-456,"y":40,"width":153,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+		{"id":"cd54156494d444da","x":-456,"y":40,"width":153,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
 	],
 	"edges":[
 		{"id":"2acdee95c0a7723f","fromNode":"70127f0c33dda869","fromSide":"right","toNode":"35942d8342b17b93","toSide":"left"},

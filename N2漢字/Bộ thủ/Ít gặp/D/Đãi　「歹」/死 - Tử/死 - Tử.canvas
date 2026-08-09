@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"420e11657bb5f7ed","x":-136,"y":-29,"width":250,"height":60,"type":"text","text":"死 - Tử"},
+		{"id":"7cf9c4be778965ea","x":-520,"y":-200,"width":162,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/Đãi　「歹」.canvas"},
+		{"id":"a84cc0843f81f277","x":-557,"y":120,"width":237,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chuỷ　「匕」/Chuỷ　「匕」.canvas"}
+	],
+	"edges":[
+		{"id":"c788deaaf1c410d8","fromNode":"7cf9c4be778965ea","fromSide":"right","toNode":"420e11657bb5f7ed","toSide":"left"},
+		{"id":"13ce04012c8a1608","fromNode":"a84cc0843f81f277","fromSide":"right","toNode":"420e11657bb5f7ed","toSide":"left"}
+	]
+}

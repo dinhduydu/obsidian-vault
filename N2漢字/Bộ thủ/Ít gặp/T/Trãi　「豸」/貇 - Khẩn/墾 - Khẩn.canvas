@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"43f1abe11047645f","x":-124,"y":-48,"width":250,"height":60,"type":"text","text":"墾 - Khẩn"},
+		{"id":"1033fc97cc62b446","x":-500,"y":-260,"width":185,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」/貇 - Khẩn/貇 - Khẩn.canvas"},
+		{"id":"01ffa9618eb6e3da","x":-500,"y":120,"width":222,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"83250ffbf668b5fe","fromNode":"1033fc97cc62b446","fromSide":"right","toNode":"43f1abe11047645f","toSide":"left"},
+		{"id":"7ffed8e664dc7fa9","fromNode":"01ffa9618eb6e3da","fromSide":"right","toNode":"43f1abe11047645f","toSide":"left"}
+	]
+}

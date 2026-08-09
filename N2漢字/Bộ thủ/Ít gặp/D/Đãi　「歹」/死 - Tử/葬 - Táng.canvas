@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"91f04923217870a2","x":-138,"y":-38,"width":250,"height":60,"type":"text","text":"葬 - Táng"},
+		{"id":"e4f85b402b88ee4d","x":-500,"y":-73,"width":161,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đãi　「歹」/死 - Tử/死 - Tử.canvas"},
+		{"id":"a70f5dc13d60ddb7","x":-476,"y":-300,"width":137,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"e952a058e4c8f4eb","x":-505,"y":180,"width":196,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/Củng　「廾」.canvas"}
+	],
+	"edges":[
+		{"id":"736303097f957e43","fromNode":"a70f5dc13d60ddb7","fromSide":"right","toNode":"91f04923217870a2","toSide":"left"},
+		{"id":"cf13aeb9eb1b2760","fromNode":"e4f85b402b88ee4d","fromSide":"right","toNode":"91f04923217870a2","toSide":"left"},
+		{"id":"b500a06aba800082","fromNode":"e952a058e4c8f4eb","fromSide":"right","toNode":"91f04923217870a2","toSide":"left"}
+	]
+}

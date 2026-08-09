@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ae6dc90d93f0b31f","x":-660,"y":-197,"width":340,"height":570,"type":"group","label":"鋳"},
+		{"id":"b2dcb0a7c2a4982e","x":-105,"y":-47,"width":250,"height":60,"type":"text","text":"鋳 - Chú"},
+		{"id":"5a57008a4c88b00d","x":-580,"y":-92,"width":202,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm gia công kim loại/鋳 - Chú.canvas"},
+		{"id":"e829d90022f3e01c","x":-553,"y":180,"width":175,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Nhóm tiền tệ/鋳 - Chú.canvas"},
+		{"id":"fcadba1493897f35","x":-1020,"y":-280,"width":213,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"},
+		{"id":"bd74f4a1238835b4","x":-1020,"y":180,"width":176,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/寿 - Thọ/寿 - Thọ.canvas"}
+	],
+	"edges":[
+		{"id":"9db648d42587ef4d","fromNode":"5a57008a4c88b00d","fromSide":"right","toNode":"b2dcb0a7c2a4982e","toSide":"left","label":"nhóm kim loại"},
+		{"id":"c92203d3ed57add5","fromNode":"e829d90022f3e01c","fromSide":"right","toNode":"b2dcb0a7c2a4982e","toSide":"left","label":"nhóm tiền tệ"},
+		{"id":"fee0db779151646a","fromNode":"fcadba1493897f35","fromSide":"right","toNode":"ae6dc90d93f0b31f","toSide":"left"},
+		{"id":"c0449d6ce1fbc45d","fromNode":"bd74f4a1238835b4","fromSide":"right","toNode":"ae6dc90d93f0b31f","toSide":"left"}
+	]
+}

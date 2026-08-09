@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5deb330afc80d96a","x":-139,"y":-24,"width":250,"height":60,"type":"text","text":"慨 - Khái"},
+		{"id":"1898e8e52f8a0474","x":-480,"y":-280,"width":169,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vô　「无」/旡 - Ký/既 - Kí/既 - Kí.canvas"},
+		{"id":"d3460d9d882bb795","x":-513,"y":6,"width":202,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"6380ec34618f3803","fromNode":"1898e8e52f8a0474","fromSide":"right","toNode":"5deb330afc80d96a","toSide":"left"},
+		{"id":"76b163e887ce51f1","fromNode":"d3460d9d882bb795","fromSide":"right","toNode":"5deb330afc80d96a","toSide":"left"}
+	]
+}

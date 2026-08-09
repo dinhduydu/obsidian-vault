@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f3d914ea9ca3e582","x":-85,"y":-21,"width":250,"height":60,"type":"text","text":"渋 - Sáp"},
+		{"id":"29564542145fe130","x":-380,"y":100,"width":152,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
+		{"id":"f3f5687d4257731b","x":-460,"y":-180,"width":232,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"4d9aeba74bea95a8","fromNode":"29564542145fe130","fromSide":"right","toNode":"f3d914ea9ca3e582","toSide":"left"},
+		{"id":"4a03223dbc53df9a","fromNode":"f3f5687d4257731b","fromSide":"right","toNode":"f3d914ea9ca3e582","toSide":"left"}
+	]
+}

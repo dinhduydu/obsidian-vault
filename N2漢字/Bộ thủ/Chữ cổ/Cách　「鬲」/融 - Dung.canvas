@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"03ced9846ad21eeb","x":-93,"y":-51,"width":250,"height":60,"type":"text","text":"融 - Dung"},
+		{"id":"b04c7e1b984a3de6","x":300,"y":-300,"width":157,"height":184,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/融資.md"},
+		{"id":"cf528cdf5c7503ef","x":-400,"y":-252,"width":153,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"},
+		{"id":"1ee84340a7555530","x":-405,"y":20,"width":163,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cách　「鬲」/Cách　「鬲」.canvas"}
+	],
+	"edges":[
+		{"id":"6b79789228743103","fromNode":"03ced9846ad21eeb","fromSide":"right","toNode":"b04c7e1b984a3de6","toSide":"left"},
+		{"id":"ee1c3219e8681bfc","fromNode":"cf528cdf5c7503ef","fromSide":"right","toNode":"03ced9846ad21eeb","toSide":"left"},
+		{"id":"f83d978fe5a6f6a7","fromNode":"1ee84340a7555530","fromSide":"right","toNode":"03ced9846ad21eeb","toSide":"left"}
+	]
+}

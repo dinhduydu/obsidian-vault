@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ed1a8ce0922122e6","x":-96,"y":-49,"width":250,"height":60,"type":"text","text":"堪 - Kham"},
+		{"id":"e3422e83a883b527","x":-480,"y":140,"width":181,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/匹 - Thất/甚 - Thậm/甚 - Thậm.canvas"},
+		{"id":"91bec02667e1adc2","x":-479,"y":-280,"width":180,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"17b423818bfd6202","fromNode":"e3422e83a883b527","fromSide":"right","toNode":"ed1a8ce0922122e6","toSide":"left"},
+		{"id":"2e8c9554326f79eb","fromNode":"91bec02667e1adc2","fromSide":"right","toNode":"ed1a8ce0922122e6","toSide":"left"}
+	]
+}

@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"cb9917c2be224942","type":"text","text":"Trãi　「豸」","x":-108,"y":-3,"width":250,"height":60},
-		{"id":"00ae05d33602c38d","x":500,"y":-380,"width":224,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」/貌 - Mạo.canvas"},
-		{"id":"90eeeafa47e8eb25","type":"text","text":"loài sâu","x":-520,"y":-207,"width":250,"height":60}
+		{"id":"00ae05d33602c38d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」/貌 - Mạo.canvas","x":500,"y":-380,"width":224,"height":173},
+		{"id":"90eeeafa47e8eb25","type":"text","text":"loài sâu","x":-520,"y":-207,"width":250,"height":60},
+		{"id":"13bd02a7331835ec","x":-580,"y":-3,"width":250,"height":60,"type":"text","text":"bộ chỉ các loài thú như chồn, lửng, cáo"}
 	],
 	"edges":[
 		{"id":"e3b194ea483ead8c","fromNode":"cb9917c2be224942","fromSide":"left","toNode":"90eeeafa47e8eb25","toSide":"right"},
-		{"id":"5f1c79c44fb35456","fromNode":"00ae05d33602c38d","fromSide":"left","toNode":"cb9917c2be224942","toSide":"right"}
+		{"id":"5f1c79c44fb35456","fromNode":"00ae05d33602c38d","fromSide":"left","toNode":"cb9917c2be224942","toSide":"right"},
+		{"id":"3e72f732dcf805ce","fromNode":"13bd02a7331835ec","fromSide":"right","toNode":"cb9917c2be224942","toSide":"left"}
 	]
 }

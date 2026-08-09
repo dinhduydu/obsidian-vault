@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86ef70bc7094b5b7","x":-88,"y":-53,"width":250,"height":60,"type":"text","text":"媒 - Môi"},
+		{"id":"b1b4519c5e11b42b","x":-420,"y":100,"width":156,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cam　「甘」/某 - Mỗ/某 - Mỗ.canvas"},
+		{"id":"a6290869e48b8b5e","x":-418,"y":-280,"width":154,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"84f25cba089b9434","fromNode":"b1b4519c5e11b42b","fromSide":"right","toNode":"86ef70bc7094b5b7","toSide":"left"},
+		{"id":"d7ada860ea307546","fromNode":"a6290869e48b8b5e","fromSide":"right","toNode":"86ef70bc7094b5b7","toSide":"left"}
+	]
+}

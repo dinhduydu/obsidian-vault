@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"77818c58f9f7d4a0","x":-19,"y":-47,"width":250,"height":60,"type":"text","text":"隔 - Cách"},
+		{"id":"839c25063620bc1a","x":-300,"y":80,"width":163,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cách　「鬲」/Cách　「鬲」.canvas"},
+		{"id":"41a514200080ac37","x":-298,"y":-320,"width":161,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
+	],
+	"edges":[
+		{"id":"9403878e17960304","fromNode":"839c25063620bc1a","fromSide":"right","toNode":"77818c58f9f7d4a0","toSide":"left"},
+		{"id":"65764d6d50be85d5","fromNode":"41a514200080ac37","fromSide":"right","toNode":"77818c58f9f7d4a0","toSide":"left"}
+	]
+}

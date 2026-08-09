@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"481826bc44344f83","type":"text","text":"暫 - Tạm","x":-104,"y":-44,"width":250,"height":60},
+		{"id":"5ac4b3874aaaad76","x":-540,"y":-280,"width":210,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/斬 - Trảm/斬 - Trảm.canvas"},
+		{"id":"c0ef265bd57c5784","x":-511,"y":140,"width":181,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"8ee931e30e262368","fromNode":"5ac4b3874aaaad76","fromSide":"right","toNode":"481826bc44344f83","toSide":"left"},
+		{"id":"4d2312689a28f3c0","fromNode":"c0ef265bd57c5784","fromSide":"right","toNode":"481826bc44344f83","toSide":"left"}
+	]
+}

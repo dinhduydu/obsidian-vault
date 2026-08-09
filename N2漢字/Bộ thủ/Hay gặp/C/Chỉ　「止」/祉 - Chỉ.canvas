@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9c2ab191ac269c33","x":-110,"y":-8,"width":250,"height":60,"type":"text","text":"祉 - Chỉ"},
+		{"id":"5fbed4e6a8c53aa8","x":-440,"y":-280,"width":151,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
+		{"id":"114fe85d9c13289e","x":-440,"y":100,"width":162,"height":174,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"1a7cbbe8b408069a","fromNode":"5fbed4e6a8c53aa8","fromSide":"right","toNode":"9c2ab191ac269c33","toSide":"left"},
+		{"id":"506204cb5ceb681a","fromNode":"114fe85d9c13289e","fromSide":"right","toNode":"9c2ab191ac269c33","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"c84c59ff7bbee29f","x":-122,"y":-33,"width":250,"height":60,"type":"text","text":"陣 - Trận"},
 		{"id":"d054b351477b3114","x":-560,"y":-300,"width":175,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/Xa　「車」.canvas"},
-		{"id":"9b3907c6ec171c77","x":-560,"y":27,"width":175,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+		{"id":"9b3907c6ec171c77","x":-560,"y":27,"width":175,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
 	],
 	"edges":[
 		{"id":"b1073186d9431ff9","fromNode":"d054b351477b3114","fromSide":"right","toNode":"c84c59ff7bbee29f","toSide":"left"},

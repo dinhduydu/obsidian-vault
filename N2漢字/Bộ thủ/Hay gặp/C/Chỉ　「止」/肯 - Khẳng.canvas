@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0f321227f63af8ef","x":-76,"y":-30,"width":250,"height":60,"type":"text","text":"肯 - Khẳng"},
+		{"id":"45a98c70cd02ab87","x":-440,"y":-240,"width":231,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
+		{"id":"4d50f73b68610a0e","x":-392,"y":120,"width":135,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"1d5e9503043aefaa","fromNode":"45a98c70cd02ab87","fromSide":"right","toNode":"0f321227f63af8ef","toSide":"left"},
+		{"id":"d828b872fb81a8d0","fromNode":"4d50f73b68610a0e","fromSide":"right","toNode":"0f321227f63af8ef","toSide":"left"}
+	]
+}

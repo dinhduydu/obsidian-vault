@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ec46e953a1276361","x":-14,"y":-8,"width":250,"height":60,"type":"text","text":"謀 - Mưu"},
+		{"id":"a69a90f9ee3af15e","x":-400,"y":-260,"width":206,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cam　「甘」/某 - Mỗ/某 - Mỗ.canvas"},
+		{"id":"d6e94b8247258886","x":-377,"y":100,"width":183,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+	],
+	"edges":[
+		{"id":"8a8fc58dfcb04a2c","fromNode":"a69a90f9ee3af15e","fromSide":"right","toNode":"ec46e953a1276361","toSide":"left"},
+		{"id":"ac900a86357d29fc","fromNode":"d6e94b8247258886","fromSide":"right","toNode":"ec46e953a1276361","toSide":"left"}
+	]
+}

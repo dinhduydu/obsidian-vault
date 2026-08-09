@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9df3fb331278fa2e","x":-109,"y":-59,"width":250,"height":60,"type":"text","text":"摂 - Nhiếp"},
+		{"id":"9b2a343a94ec7152","x":-620,"y":-101,"width":139,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"877387feb1921f60","x":-400,"y":-280,"width":123,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas"}
+	],
+	"edges":[
+		{"id":"398fbcc1cc34135d","fromNode":"9b2a343a94ec7152","fromSide":"right","toNode":"9df3fb331278fa2e","toSide":"left"},
+		{"id":"4ed1983355b1996b","fromNode":"877387feb1921f60","fromSide":"right","toNode":"9df3fb331278fa2e","toSide":"left"}
+	]
+}

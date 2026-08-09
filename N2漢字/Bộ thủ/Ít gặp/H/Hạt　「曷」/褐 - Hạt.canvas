@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e13040d3fcb01d5","x":-99,"y":-38,"width":250,"height":60,"type":"text","text":"褐 - Hạt"},
+		{"id":"1fc2d895693e7e53","x":-500,"y":-280,"width":177,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"61eb769e689abcab","x":-509,"y":22,"width":186,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas"}
+	],
+	"edges":[
+		{"id":"717c0b6153839d00","fromNode":"1fc2d895693e7e53","fromSide":"right","toNode":"3e13040d3fcb01d5","toSide":"left"},
+		{"id":"f8384928aea76d09","fromNode":"61eb769e689abcab","fromSide":"right","toNode":"3e13040d3fcb01d5","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"d7f98c812d998ea1","x":-60,"y":-60,"width":250,"height":60,"type":"text","text":"隣 - Lân"},
 		{"id":"3850515b0e063666","x":-480,"y":100,"width":171,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Suyễn　「舛」/Suyễn　「舛」.canvas"},
-		{"id":"76e52f80a17ce849","x":-720,"y":-112,"width":98,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"},
+		{"id":"76e52f80a17ce849","x":-720,"y":-112,"width":98,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
 		{"id":"8e317668cb34ae6c","x":-499,"y":-200,"width":190,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"}
 	],
 	"edges":[

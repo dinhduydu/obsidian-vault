@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f284e384c5ecc68d","x":-120,"y":-37,"width":250,"height":60,"type":"text","text":"寿 - Thọ"},
+		{"id":"364742806d750fcc","x":340,"y":-340,"width":209,"height":147,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/寿命.md"},
+		{"id":"628e98fb67f7de57","x":700,"y":-490,"width":231,"height":150,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/平均寿命.md"},
+		{"id":"3c62c3d1255854f9","x":-580,"y":-94,"width":226,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」/Tam　「三」.canvas"},
+		{"id":"7547756e991d9906","x":-548,"y":-432,"width":194,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"},
+		{"id":"0b3c1115e868ef17","x":-558,"y":220,"width":215,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"c66804a2de359241","fromNode":"f284e384c5ecc68d","fromSide":"right","toNode":"364742806d750fcc","toSide":"left"},
+		{"id":"3c84691e1aa35ffe","fromNode":"364742806d750fcc","fromSide":"right","toNode":"628e98fb67f7de57","toSide":"left"},
+		{"id":"bb5d7fbfaa2b1a3c","fromNode":"3c62c3d1255854f9","fromSide":"right","toNode":"f284e384c5ecc68d","toSide":"left"},
+		{"id":"8e4bcad66694e9d9","fromNode":"7547756e991d9906","fromSide":"right","toNode":"f284e384c5ecc68d","toSide":"left"},
+		{"id":"c047e8f1d2b6189c","fromNode":"0b3c1115e868ef17","fromSide":"right","toNode":"f284e384c5ecc68d","toSide":"left"}
+	]
+}

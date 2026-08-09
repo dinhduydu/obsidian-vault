@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ddcc8394d14eabda","type":"text","text":"喚 - Hoán","x":-125,"y":-11,"width":250,"height":60},
+		{"id":"cc51ea8cdfd4c1cc","x":-500,"y":-300,"width":195,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/奐 - Hoán/奐 - Hoán.canvas"},
+		{"id":"872775aa489e8265","x":-500,"y":80,"width":156,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"638a06be2238771e","fromNode":"cc51ea8cdfd4c1cc","fromSide":"right","toNode":"ddcc8394d14eabda","toSide":"left"},
+		{"id":"139da7cbde2b4ce0","fromNode":"872775aa489e8265","fromSide":"right","toNode":"ddcc8394d14eabda","toSide":"left"}
+	]
+}

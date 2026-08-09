@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e647c8677a7f6af4","type":"text","text":"某 - Mỗ","x":-112,"y":-29,"width":250,"height":60},
+		{"id":"8ef67e5d0985c983","x":-460,"y":-300,"width":161,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cam　「甘」/Cam　「甘」.canvas"},
+		{"id":"6b0218d99146c5d8","x":-476,"y":100,"width":193,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"c4729b228c373f55","fromNode":"8ef67e5d0985c983","fromSide":"right","toNode":"e647c8677a7f6af4","toSide":"left"},
+		{"id":"6711cfef288058b2","fromNode":"6b0218d99146c5d8","fromSide":"right","toNode":"e647c8677a7f6af4","toSide":"left"}
+	]
+}

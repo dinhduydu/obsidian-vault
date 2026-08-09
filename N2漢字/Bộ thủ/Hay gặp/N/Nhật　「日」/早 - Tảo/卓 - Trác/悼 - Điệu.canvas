@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dd5796b91befcb2c","x":-150,"y":-32,"width":250,"height":60,"type":"text","text":"悼 - Điệu"},
+		{"id":"5ee908f05b376b32","x":-540,"y":180,"width":190,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/卓 - Trác/卓 - Trác.canvas"},
+		{"id":"ed56fdba07054385","x":-547,"y":-240,"width":204,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"2c8d9354305d635b","fromNode":"5ee908f05b376b32","fromSide":"right","toNode":"dd5796b91befcb2c","toSide":"left"},
+		{"id":"277334f98d4dbd75","fromNode":"ed56fdba07054385","fromSide":"right","toNode":"dd5796b91befcb2c","toSide":"left"}
+	]
+}

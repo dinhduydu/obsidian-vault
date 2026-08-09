@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"96989af489780dad","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/匹 - Thất/匹 - Thất.canvas","x":-520,"y":180,"width":200,"height":148},
+		{"id":"ddf03d90276909d2","type":"text","text":"甚 - Thậm","x":-140,"y":-40,"width":250,"height":60},
+		{"id":"0a2659d25ac54310","x":-540,"y":-300,"width":210,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cam　「甘」/Cam　「甘」.canvas"}
+	],
+	"edges":[
+		{"id":"dfe0c9ce96e66091","fromNode":"96989af489780dad","fromSide":"right","toNode":"ddf03d90276909d2","toSide":"left"},
+		{"id":"375719a571ab1ab2","fromNode":"0a2659d25ac54310","fromSide":"right","toNode":"ddf03d90276909d2","toSide":"left"}
+	]
+}

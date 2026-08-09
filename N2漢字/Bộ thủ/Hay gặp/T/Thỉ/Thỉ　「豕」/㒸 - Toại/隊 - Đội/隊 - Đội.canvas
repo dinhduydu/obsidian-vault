@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"5dc7d76d8163b3dd","x":-118,"y":-50,"width":250,"height":60,"type":"text","text":"隊 - Đội"},
 		{"id":"ce117576f7ca2a74","x":-500,"y":-300,"width":164,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/㒸 - Toại/㒸 - Toại.canvas"},
-		{"id":"5d452405d6055dc6","x":-544,"y":60,"width":208,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+		{"id":"5d452405d6055dc6","x":-544,"y":60,"width":208,"height":94,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
 	],
 	"edges":[
 		{"id":"35339dbe11f7b3bc","fromNode":"ce117576f7ca2a74","fromSide":"right","toNode":"5dc7d76d8163b3dd","toSide":"left"},

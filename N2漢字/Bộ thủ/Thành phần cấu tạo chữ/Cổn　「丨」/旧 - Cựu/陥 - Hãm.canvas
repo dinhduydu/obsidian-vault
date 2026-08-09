@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"68bb09d29ccb7d51","x":-140,"y":-62,"width":250,"height":60,"type":"text","text":"陥 - Hãm"},
 		{"id":"5cb8a02b1ceb137c","x":-500,"y":80,"width":158,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/旧 - Cựu/旧 - Cựu.canvas"},
-		{"id":"dbea8f47c2b70019","x":-523,"y":-280,"width":181,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+		{"id":"dbea8f47c2b70019","x":-523,"y":-280,"width":181,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
 	],
 	"edges":[
 		{"id":"8cb388a6db697991","fromNode":"5cb8a02b1ceb137c","fromSide":"right","toNode":"68bb09d29ccb7d51","toSide":"left"},

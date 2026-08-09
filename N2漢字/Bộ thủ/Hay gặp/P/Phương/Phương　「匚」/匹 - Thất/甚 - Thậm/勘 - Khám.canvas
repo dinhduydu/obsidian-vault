@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56fd53c3689b0ef0","x":-63,"y":-47,"width":250,"height":60,"type":"text","text":"勘 - Khám"},
+		{"id":"27ce120c610d549a","x":-400,"y":-300,"width":160,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/匹 - Thất/甚 - Thậm/甚 - Thậm.canvas"},
+		{"id":"5ccbb78e856c0e53","x":-380,"y":60,"width":174,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+	],
+	"edges":[
+		{"id":"7be2f2a73367ea41","fromNode":"27ce120c610d549a","fromSide":"right","toNode":"56fd53c3689b0ef0","toSide":"left"},
+		{"id":"3c369c2808a415b2","fromNode":"5ccbb78e856c0e53","fromSide":"right","toNode":"56fd53c3689b0ef0","toSide":"left"}
+	]
+}

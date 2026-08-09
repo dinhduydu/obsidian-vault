@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b2940fcb63d845fa","x":-105,"y":-30,"width":250,"height":60,"type":"text","text":"紺 - Cám"},
+		{"id":"fa0d405b7b57ed81","x":-480,"y":100,"width":220,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cam　「甘」/Cam　「甘」.canvas"},
+		{"id":"ee18b463b067b2df","x":-464,"y":-300,"width":189,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"6f153e11080caf35","fromNode":"fa0d405b7b57ed81","fromSide":"right","toNode":"b2940fcb63d845fa","toSide":"left"},
+		{"id":"3a500c487bc4518c","fromNode":"ee18b463b067b2df","fromSide":"right","toNode":"b2940fcb63d845fa","toSide":"left","label":"xam sẫm"}
+	]
+}

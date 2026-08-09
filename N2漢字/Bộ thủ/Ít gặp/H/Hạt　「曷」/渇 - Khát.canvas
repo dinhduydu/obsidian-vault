@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8ce7aabc420ff303","x":-96,"y":-37,"width":250,"height":60,"type":"text","text":"渇 - Khát"},
+		{"id":"9c4e37e4e7fbe54e","x":-460,"y":-240,"width":154,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"77b77e71f7fb33fa","x":-485,"y":140,"width":179,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"95ebd9ce6a5f4b17","fromNode":"9c4e37e4e7fbe54e","fromSide":"right","toNode":"8ce7aabc420ff303","toSide":"left"},
+		{"id":"7ce92f00e8c5dd37","fromNode":"77b77e71f7fb33fa","fromSide":"right","toNode":"8ce7aabc420ff303","toSide":"left"}
+	]
+}

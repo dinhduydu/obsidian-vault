@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7db18970f64e537a","x":-117,"y":-35,"width":250,"height":60,"type":"text","text":"換 - Hoán"},
+		{"id":"382ab9333ffb1914","x":-620,"y":120,"width":188,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/奐 - Hoán/奐 - Hoán.canvas"},
+		{"id":"d43f6e1c53927281","x":-600,"y":-300,"width":187,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"24aa9f6bafa5935a","fromNode":"382ab9333ffb1914","fromSide":"right","toNode":"7db18970f64e537a","toSide":"left"},
+		{"id":"d031b35c6cc3e4d6","fromNode":"d43f6e1c53927281","fromSide":"right","toNode":"7db18970f64e537a","toSide":"left"}
+	]
+}

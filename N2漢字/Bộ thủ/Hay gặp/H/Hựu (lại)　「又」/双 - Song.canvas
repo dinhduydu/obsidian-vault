@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1864352c02def10a","x":-66,"y":-49,"width":250,"height":60,"type":"text","text":"双 - Song"},
+		{"id":"0b1a11dec62f0fba","x":-400,"y":60,"width":173,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"e3065534da5aa74a","fromNode":"0b1a11dec62f0fba","fromSide":"right","toNode":"1864352c02def10a","toSide":"left"}
+	]
+}

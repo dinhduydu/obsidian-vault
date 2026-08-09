@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ec28213ebd6c8d25","x":-115,"y":-30,"width":250,"height":60,"type":"text","text":"漸 - Tiệm"},
+		{"id":"ab3f10f4fef2eb3d","x":-460,"y":-240,"width":143,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xa　「車」/斬 - Trảm/斬 - Trảm.canvas"},
+		{"id":"d8f16376fd880bda","x":-489,"y":80,"width":201,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"03e26e72738670a7","fromNode":"ab3f10f4fef2eb3d","fromSide":"right","toNode":"ec28213ebd6c8d25","toSide":"left"},
+		{"id":"b1e0175597878f41","fromNode":"d8f16376fd880bda","fromSide":"right","toNode":"ec28213ebd6c8d25","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"75ed8d2a72374259","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"卓 - Trác"},
+		{"id":"3daf7bdd2ce77f4b","x":-600,"y":200,"width":272,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/早 - Tảo.canvas"},
+		{"id":"f7a6fb67f6756b2b","x":-578,"y":-211,"width":228,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/Bốc　「卜」.canvas"}
+	],
+	"edges":[
+		{"id":"b50a4f32e9c357b4","fromNode":"3daf7bdd2ce77f4b","fromSide":"right","toNode":"75ed8d2a72374259","toSide":"left"},
+		{"id":"da22331ac7fc44fa","fromNode":"f7a6fb67f6756b2b","fromSide":"right","toNode":"75ed8d2a72374259","toSide":"left"}
+	]
+}

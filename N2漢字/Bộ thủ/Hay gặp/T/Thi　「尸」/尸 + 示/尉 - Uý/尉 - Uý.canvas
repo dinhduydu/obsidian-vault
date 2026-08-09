@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c8ba25abc7f2f5ac","x":-87,"y":-47,"width":250,"height":60,"type":"text","text":"尉 - Uý"},
+		{"id":"1387c664949121a1","x":-480,"y":-260,"width":208,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尸 + 示/尸 + 示.canvas"},
+		{"id":"29c76258c0aaa43b","x":-457,"y":80,"width":163,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"b956841671333a85","fromNode":"1387c664949121a1","fromSide":"right","toNode":"c8ba25abc7f2f5ac","toSide":"left"},
+		{"id":"ef858991c19d40a9","fromNode":"29c76258c0aaa43b","fromSide":"right","toNode":"c8ba25abc7f2f5ac","toSide":"left"}
+	]
+}

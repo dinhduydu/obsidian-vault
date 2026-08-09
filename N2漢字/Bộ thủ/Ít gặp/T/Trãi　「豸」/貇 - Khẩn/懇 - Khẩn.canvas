@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"38f46c2034ce8ebd","x":-81,"y":-55,"width":250,"height":60,"type":"text","text":"懇 - Khẩn"},
+		{"id":"afd022601faf962d","x":-440,"y":-280,"width":174,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trãi　「豸」/貇 - Khẩn/貇 - Khẩn.canvas"},
+		{"id":"558252c8b0d4cf6a","x":-464,"y":60,"width":198,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"5caa209e4ab4ae12","fromNode":"afd022601faf962d","fromSide":"right","toNode":"38f46c2034ce8ebd","toSide":"left"},
+		{"id":"504bf903c1c3f5a4","fromNode":"558252c8b0d4cf6a","fromSide":"right","toNode":"38f46c2034ce8ebd","toSide":"left"}
+	]
+}

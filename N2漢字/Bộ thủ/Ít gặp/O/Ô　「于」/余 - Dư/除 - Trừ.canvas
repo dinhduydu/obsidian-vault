@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3d0c1f5f6e29d7ee","x":-133,"y":-46,"width":250,"height":60,"type":"text","text":"除 - Trừ"},
 		{"id":"d9fe83c1b16c4740","x":-500,"y":-320,"width":171,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
-		{"id":"5c9cd2ac9ece66d9","x":-498,"y":80,"width":169,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"}
+		{"id":"5c9cd2ac9ece66d9","x":-498,"y":80,"width":169,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
 	],
 	"edges":[
 		{"id":"4202bd1e9ffb11a5","fromNode":"d9fe83c1b16c4740","fromSide":"right","toNode":"3d0c1f5f6e29d7ee","toSide":"left"},

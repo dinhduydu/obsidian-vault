@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3f9fad010724537c","x":-103,"y":-49,"width":250,"height":60,"type":"text","text":"喝 - Hát"},
+		{"id":"cd58379d804e74c4","x":-460,"y":-360,"width":185,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas"},
+		{"id":"0bd8b52324954b89","x":-459,"y":11,"width":184,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"a6cd3999ab28bdc7","fromNode":"cd58379d804e74c4","fromSide":"right","toNode":"3f9fad010724537c","toSide":"left"},
+		{"id":"663325aa32e80275","fromNode":"0bd8b52324954b89","fromSide":"right","toNode":"3f9fad010724537c","toSide":"left"}
+	]
+}

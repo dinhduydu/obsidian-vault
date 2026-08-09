@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7070d7f7118df570","x":-111,"y":-20,"width":250,"height":60,"type":"text","text":"腕 - Oản"},
+		{"id":"b42b2c078fc53a40","x":-400,"y":100,"width":165,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiết　「卩」/夗 - Uyển/宛 - Uyên/宛 - Uyên.canvas"},
+		{"id":"b942a69041b3e90c","x":-420,"y":-260,"width":132,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"97ed51fed982d2b2","fromNode":"b42b2c078fc53a40","fromSide":"right","toNode":"7070d7f7118df570","toSide":"left"},
+		{"id":"1511f4a541c76ca8","fromNode":"b942a69041b3e90c","fromSide":"right","toNode":"7070d7f7118df570","toSide":"left"}
+	]
+}

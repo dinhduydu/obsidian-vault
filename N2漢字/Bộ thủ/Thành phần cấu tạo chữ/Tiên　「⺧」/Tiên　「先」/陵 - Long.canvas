@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"207993b7ef0ea3a3","x":-109,"y":8,"width":250,"height":60,"type":"text","text":"陵 - Long"},
-		{"id":"a8c76199bf8aa316","x":-680,"y":-141,"width":183,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「阜 (⻖)」.canvas"},
+		{"id":"a8c76199bf8aa316","x":-680,"y":-141,"width":183,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
 		{"id":"07cf774cb4fd5327","x":-400,"y":-220,"width":113,"height":87,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiên　「⺧」/Tiên　「先」/Tiên　「先」.canvas"},
 		{"id":"2df044e5a1a1e434","x":-420,"y":200,"width":176,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas"}
 	],
