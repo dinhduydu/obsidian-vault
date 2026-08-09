@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"117b9503a10b2120","x":-119,"y":-39,"width":250,"height":60,"type":"text","text":"豫 - Dự"},
+		{"id":"8a9472746ecf2743","x":-480,"y":160,"width":194,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng/象 - Tượng.canvas"},
+		{"id":"275d4577219ecd22","x":-492,"y":-300,"width":206,"height":222,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/Dự　「予」.canvas"}
+	],
+	"edges":[
+		{"id":"1aea36ef5bd1ac53","fromNode":"8a9472746ecf2743","fromSide":"right","toNode":"117b9503a10b2120","toSide":"left"},
+		{"id":"2a69bee6be0c6e8f","fromNode":"275d4577219ecd22","fromSide":"right","toNode":"117b9503a10b2120","toSide":"left"}
+	]
+}

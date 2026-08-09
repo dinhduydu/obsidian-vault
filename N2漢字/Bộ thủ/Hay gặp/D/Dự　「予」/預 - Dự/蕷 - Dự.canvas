@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"397360f704630716","x":-81,"y":-36,"width":250,"height":60,"type":"text","text":"蕷 - Dự"},
+		{"id":"7c770af7aaf553ce","x":-520,"y":160,"width":213,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự/預 - Dự.canvas"},
+		{"id":"7f9bb7f85d8e3727","x":-502,"y":-260,"width":195,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"d2262b0b655f0c4c","x":-580,"y":-36,"width":250,"height":60,"type":"text","text":"khoai mài / củ mài"}
+	],
+	"edges":[
+		{"id":"a3171745c5a2bd30","fromNode":"7c770af7aaf553ce","fromSide":"right","toNode":"397360f704630716","toSide":"left"},
+		{"id":"83a002b85f4e7b37","fromNode":"7f9bb7f85d8e3727","fromSide":"right","toNode":"397360f704630716","toSide":"left"},
+		{"id":"cd1f03a5b66cbff6","fromNode":"d2262b0b655f0c4c","fromSide":"right","toNode":"397360f704630716","toSide":"left"}
+	]
+}

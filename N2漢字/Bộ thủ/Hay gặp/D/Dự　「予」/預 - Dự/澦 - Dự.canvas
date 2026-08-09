@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e914039b6b265585","x":-104,"y":-73,"width":250,"height":60,"type":"text","text":"澦 - Dự"},
+		{"id":"3fe482a18f74f67f","x":-480,"y":-320,"width":210,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự/預 - Dự.canvas"},
+		{"id":"4d5eb53537e18d81","x":-473,"y":-13,"width":203,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"29e35ae809c0c659","fromNode":"3fe482a18f74f67f","fromSide":"right","toNode":"e914039b6b265585","toSide":"left"},
+		{"id":"dcf5393368762645","fromNode":"4d5eb53537e18d81","fromSide":"right","toNode":"e914039b6b265585","toSide":"left"}
+	]
+}
