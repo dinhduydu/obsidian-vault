@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"126b28d2e091f557","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"謡 - Dao"},
+		{"id":"0941802ee84e0d4d","x":-460,"y":-220,"width":154,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"e83a27b9e832cabd","x":-700,"y":-77,"width":167,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"27710821e73a05be","x":-425,"y":120,"width":119,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phẫu　「缶」/Phẫu　「缶」.canvas"}
+	],
+	"edges":[
+		{"id":"c5f49d16d82b14d8","fromNode":"0941802ee84e0d4d","fromSide":"right","toNode":"126b28d2e091f557","toSide":"left"},
+		{"id":"40782954b9cfee43","fromNode":"e83a27b9e832cabd","fromSide":"right","toNode":"126b28d2e091f557","toSide":"left"},
+		{"id":"8144b90ecd62de59","fromNode":"27710821e73a05be","fromSide":"right","toNode":"126b28d2e091f557","toSide":"left"}
+	]
+}

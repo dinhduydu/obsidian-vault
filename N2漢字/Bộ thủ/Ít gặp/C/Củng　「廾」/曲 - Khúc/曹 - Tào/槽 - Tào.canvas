@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ca9e628c13263bd2","x":-107,"y":-8,"width":250,"height":60,"type":"text","text":"槽 - Tào"},
+		{"id":"0cf1f71c14837e02","x":-540,"y":-280,"width":146,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"7d71a3e0a05feed8","x":-571,"y":52,"width":208,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曹 - Tào/曹 - Tào.canvas"}
+	],
+	"edges":[
+		{"id":"3daeb1bed00c42ac","fromNode":"0cf1f71c14837e02","fromSide":"right","toNode":"ca9e628c13263bd2","toSide":"left","label":"cái máng bằng gỗ"},
+		{"id":"80bdc595aec24e7d","fromNode":"7d71a3e0a05feed8","fromSide":"right","toNode":"ca9e628c13263bd2","toSide":"left"}
+	]
+}

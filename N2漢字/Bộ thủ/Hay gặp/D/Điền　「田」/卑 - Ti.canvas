@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"200035153a02a3cd","x":-110,"y":-44,"width":250,"height":60,"type":"text","text":"卑 - Ti"},
+		{"id":"509dd311c63c56ae","x":-500,"y":-260,"width":149,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"539263e3e57f742b","x":-495,"y":100,"width":139,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
+		{"id":"d9cf6eadfea895c5","x":-700,"y":-73,"width":123,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas"}
+	],
+	"edges":[
+		{"id":"e096be702f367e80","fromNode":"509dd311c63c56ae","fromSide":"right","toNode":"200035153a02a3cd","toSide":"left"},
+		{"id":"8e2aa0aa895632d9","fromNode":"539263e3e57f742b","fromSide":"right","toNode":"200035153a02a3cd","toSide":"left"},
+		{"id":"3c7efce2885c74e0","fromNode":"d9cf6eadfea895c5","fromSide":"right","toNode":"200035153a02a3cd","toSide":"left","label":"x2"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7b8c4ced018d44f5","type":"text","text":"乚 - Ất","x":-158,"y":-51,"width":250,"height":60},
+		{"id":"fa9c9daef7f9a44a","x":-600,"y":-101,"width":172,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"}
+	],
+	"edges":[
+		{"id":"92194fed9e3f35db","fromNode":"fa9c9daef7f9a44a","fromSide":"right","toNode":"7b8c4ced018d44f5","toSide":"left"}
+	]
+}

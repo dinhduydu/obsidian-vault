@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ba2f908efbf7e254","x":-97,"y":-17,"width":250,"height":60,"type":"text","text":"寛 - Khoan"},
+		{"id":"fecf7b1e5f6426d6","x":-520,"y":180,"width":199,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kiến　「見 (见」/Kiến　「見 (见」.canvas"},
+		{"id":"f9ed751c6a10a092","x":-520,"y":-360,"width":148,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"},
+		{"id":"a09015576f9c32a5","x":-541,"y":-46,"width":169,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"1977b9d3ef5a171c","fromNode":"fecf7b1e5f6426d6","fromSide":"right","toNode":"ba2f908efbf7e254","toSide":"left"},
+		{"id":"615ffcf5669616bf","fromNode":"f9ed751c6a10a092","fromSide":"right","toNode":"ba2f908efbf7e254","toSide":"left"},
+		{"id":"8a6c5d1b44c8f0e0","fromNode":"a09015576f9c32a5","fromSide":"right","toNode":"ba2f908efbf7e254","toSide":"left"}
+	]
+}

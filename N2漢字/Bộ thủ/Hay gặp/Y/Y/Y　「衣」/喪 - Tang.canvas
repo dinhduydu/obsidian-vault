@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"18ea5bd047d615dc","x":-115,"y":-31,"width":250,"height":60,"type":"text","text":"喪 - Tang"},
+		{"id":"e6d16e321a3892b3","x":-500,"y":140,"width":163,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"},
+		{"id":"19dca8bb1b7e930c","x":-540,"y":-58,"width":138,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"a2eb13b63a89949a","x":-484,"y":-280,"width":164,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"9ff8c526b18a9f58","fromNode":"e6d16e321a3892b3","fromSide":"right","toNode":"18ea5bd047d615dc","toSide":"left"},
+		{"id":"f911e89f6643e47a","fromNode":"19dca8bb1b7e930c","fromSide":"right","toNode":"18ea5bd047d615dc","toSide":"left","label":"x2"},
+		{"id":"ecd48175ba6318f1","fromNode":"a2eb13b63a89949a","fromSide":"right","toNode":"18ea5bd047d615dc","toSide":"left"}
+	]
+}

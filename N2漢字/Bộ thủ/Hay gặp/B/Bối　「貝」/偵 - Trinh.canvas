@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ce0974e266f8a66b","x":-81,"y":-46,"width":250,"height":60,"type":"text","text":"偵 - Trinh"},
+		{"id":"25574eb526f911ab","x":-420,"y":-280,"width":147,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"25625ecfe679f4d0","fromNode":"25574eb526f911ab","fromSide":"right","toNode":"ce0974e266f8a66b","toSide":"left"}
+	]
+}

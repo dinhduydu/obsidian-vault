@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"62c6c0804f8e154e","type":"text","text":"竜 - Long","x":-75,"y":-71,"width":250,"height":60},
+		{"id":"49ca5cb945e3b823","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-380,"y":-300,"width":171,"height":121},
+		{"id":"7eb2f9d4ac0c3d30","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-379,"y":40,"width":170,"height":124},
+		{"id":"204339ef0aa21515","x":520,"y":-416,"width":227,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Long　「龍」/Long　「龍」.canvas"}
+	],
+	"edges":[
+		{"id":"813854b69e00150a","fromNode":"49ca5cb945e3b823","fromSide":"right","toNode":"62c6c0804f8e154e","toSide":"left"},
+		{"id":"b6a2148100639fb0","fromNode":"7eb2f9d4ac0c3d30","fromSide":"right","toNode":"62c6c0804f8e154e","toSide":"left"},
+		{"id":"312f67988bd76d6b","fromNode":"62c6c0804f8e154e","fromSide":"right","toNode":"204339ef0aa21515","toSide":"left","label":"Shinjitai của 龍 trong tiếng Nhật."}
+	]
+}

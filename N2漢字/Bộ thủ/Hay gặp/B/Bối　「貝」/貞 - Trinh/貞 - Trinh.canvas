@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b63804c6a3c8198f","x":-118,"y":-49,"width":250,"height":60,"type":"text","text":"貞 - Trinh"},
+		{"id":"5bc932b14e73c532","x":240,"y":-231,"width":199,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/偵 - Trinh.canvas"},
+		{"id":"ae6f8e50e065217e","x":-440,"y":140,"width":153,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
+		{"id":"beef3fd5a2e9d8a8","x":-460,"y":-269,"width":193,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bốc　「卜」/Bốc　「卜」.canvas"}
+	],
+	"edges":[
+		{"id":"a7e857934a5db49f","fromNode":"b63804c6a3c8198f","fromSide":"right","toNode":"5bc932b14e73c532","toSide":"left"},
+		{"id":"23f5d832515aa393","fromNode":"ae6f8e50e065217e","fromSide":"right","toNode":"b63804c6a3c8198f","toSide":"left"},
+		{"id":"7edd6aac52cad778","fromNode":"beef3fd5a2e9d8a8","fromSide":"right","toNode":"b63804c6a3c8198f","toSide":"left"}
+	]
+}

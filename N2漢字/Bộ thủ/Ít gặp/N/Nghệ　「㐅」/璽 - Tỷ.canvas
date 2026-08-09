@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"28b180aee8856a06","x":-68,"y":-25,"width":250,"height":60,"type":"text","text":"璽 - Tỷ"},
+		{"id":"88f833cfc6ac7407","x":-540,"y":-164,"width":188,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"},
+		{"id":"b985c29dc938b6f0","x":-526,"y":160,"width":160,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc.canvas"}
+	],
+	"edges":[
+		{"id":"e63b6f29f9618a39","fromNode":"88f833cfc6ac7407","fromSide":"right","toNode":"28b180aee8856a06","toSide":"left"},
+		{"id":"912687a041e0eab8","fromNode":"b985c29dc938b6f0","fromSide":"right","toNode":"28b180aee8856a06","toSide":"left","label":"ngọc của vua"}
+	]
+}

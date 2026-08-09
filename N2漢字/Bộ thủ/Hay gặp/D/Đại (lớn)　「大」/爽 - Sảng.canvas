@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1a3426b83d5390a8","x":-116,"y":-15,"width":250,"height":60,"type":"text","text":"爽 - Sảng"},
+		{"id":"9807726e75f1d01f","x":-540,"y":-38,"width":126,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"558dce47401029a0","x":-486,"y":-320,"width":144,"height":92,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/Nghệ　「㐅」.canvas"}
+	],
+	"edges":[
+		{"id":"c72f9bb60767b02e","fromNode":"9807726e75f1d01f","fromSide":"right","toNode":"1a3426b83d5390a8","toSide":"left"},
+		{"id":"745f294beabf2c88","fromNode":"558dce47401029a0","fromSide":"right","toNode":"1a3426b83d5390a8","toSide":"left","label":"x4"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"421151e35d58f778","x":-92,"y":-48,"width":250,"height":60,"type":"text","text":"胎 - Thai"},
+		{"id":"35ffc2c157281b76","x":-460,"y":-260,"width":185,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
+		{"id":"3e5af6954a22a68e","x":-460,"y":80,"width":195,"height":185,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/Đài　「台」.canvas"}
+	],
+	"edges":[
+		{"id":"dac23734bd4b5316","fromNode":"35ffc2c157281b76","fromSide":"right","toNode":"421151e35d58f778","toSide":"left"},
+		{"id":"9300167991060012","fromNode":"3e5af6954a22a68e","fromSide":"right","toNode":"421151e35d58f778","toSide":"left"}
+	]
+}

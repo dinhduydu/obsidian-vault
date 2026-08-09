@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"e2f50277935bd8e6","type":"text","text":"計 - Kế","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"87e0035b42f08e67","x":-360,"y":-160,"width":136,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+		{"id":"87e0035b42f08e67","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-360,"y":-160,"width":136,"height":120},
+		{"id":"4400ebae7b5937de","x":-442,"y":100,"width":218,"height":196,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
 	],
 	"edges":[
-		{"id":"50cd0274499116b4","fromNode":"87e0035b42f08e67","fromSide":"right","toNode":"e2f50277935bd8e6","toSide":"left"}
+		{"id":"50cd0274499116b4","fromNode":"87e0035b42f08e67","fromSide":"right","toNode":"e2f50277935bd8e6","toSide":"left"},
+		{"id":"b6ee7b16de42f3ed","fromNode":"4400ebae7b5937de","fromSide":"right","toNode":"e2f50277935bd8e6","toSide":"left"}
 	]
 }

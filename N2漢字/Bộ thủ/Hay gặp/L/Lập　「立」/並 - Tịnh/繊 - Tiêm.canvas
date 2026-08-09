@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ed0bab83cef94402","x":-114,"y":-34,"width":250,"height":60,"type":"text","text":"繊 - Tiêm"},
+		{"id":"b42ddfbffc94aaaf","x":-980,"y":-67,"width":141,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"ba7971adc815836d","x":-520,"y":-340,"width":172,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"},
+		{"id":"a1b6b2cf013e9430","x":-760,"y":-212,"width":148,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
+		{"id":"45eadd04096fa8d6","x":-640,"y":140,"width":214,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/並 - Tịnh/並 - Tịnh.canvas"}
+	],
+	"edges":[
+		{"id":"20d21851e63d8b66","fromNode":"b42ddfbffc94aaaf","fromSide":"right","toNode":"ed0bab83cef94402","toSide":"left"},
+		{"id":"0cb7be2f6952d1c5","fromNode":"ba7971adc815836d","fromSide":"right","toNode":"ed0bab83cef94402","toSide":"left"},
+		{"id":"4d485bf04e7fd64d","fromNode":"a1b6b2cf013e9430","fromSide":"right","toNode":"ed0bab83cef94402","toSide":"left"},
+		{"id":"8bd52d2f09f2d7ab","fromNode":"45eadd04096fa8d6","fromSide":"right","toNode":"ed0bab83cef94402","toSide":"left"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"7a618009b38498cb","x":-125,"y":-31,"width":250,"height":60,"type":"text","text":"曹 - Tào"},
+		{"id":"3ac87a20ceafe5a2","x":-500,"y":-85,"width":212,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曲 - Khúc.canvas"},
+		{"id":"d0619895ca90a001","x":-484,"y":-400,"width":180,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
+		{"id":"b3c2c35e5f55cc49","x":-482,"y":240,"width":176,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+	],
+	"edges":[
+		{"id":"beb589c1049af7c7","fromNode":"3ac87a20ceafe5a2","fromSide":"right","toNode":"7a618009b38498cb","toSide":"left"},
+		{"id":"37de0cae98409877","fromNode":"d0619895ca90a001","fromSide":"right","toNode":"7a618009b38498cb","toSide":"left"},
+		{"id":"352a8edc1318e0c2","fromNode":"b3c2c35e5f55cc49","fromSide":"right","toNode":"b79959062c6545ab","toSide":"left"},
+		{"id":"0da1a6a772c0d975","fromNode":"b3c2c35e5f55cc49","fromSide":"right","toNode":"7a618009b38498cb","toSide":"left"}
+	]
+}

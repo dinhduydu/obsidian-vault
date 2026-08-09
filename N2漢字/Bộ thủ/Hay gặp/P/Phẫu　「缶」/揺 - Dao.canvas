@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d4f0a89268eb4434","x":-88,"y":-41,"width":250,"height":60,"type":"text","text":"揺 - Dao"},
+		{"id":"845925cc88b4ec50","x":-460,"y":180,"width":170,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phẫu　「缶」/Phẫu　「缶」.canvas"},
+		{"id":"034edb2695f4f098","x":-720,"y":-78,"width":199,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
+		{"id":"8d3e31303d27bbca","x":-460,"y":-360,"width":191,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"}
+	],
+	"edges":[
+		{"id":"633d61586c02b999","fromNode":"845925cc88b4ec50","fromSide":"right","toNode":"d4f0a89268eb4434","toSide":"left"},
+		{"id":"6e165e4605539a65","fromNode":"8d3e31303d27bbca","fromSide":"right","toNode":"d4f0a89268eb4434","toSide":"left"},
+		{"id":"2897feea2db672c6","fromNode":"034edb2695f4f098","fromSide":"right","toNode":"d4f0a89268eb4434","toSide":"left"}
+	]
+}

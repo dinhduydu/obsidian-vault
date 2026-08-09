@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"46cb3e879794ac60","type":"text","text":"亀 - Quy","x":-123,"y":-39,"width":250,"height":60},
+		{"id":"d11369b01733e49d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-500,"y":-200,"width":189,"height":131},
+		{"id":"44b9ca641753e2cb","x":-472,"y":-420,"width":161,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/Kép　「𠂊」.canvas"},
+		{"id":"cb6fb996ca73b47a","x":-513,"y":60,"width":215,"height":215,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/电 - Điền/电 - Điền.canvas"}
+	],
+	"edges":[
+		{"id":"0d829cbb696488d1","fromNode":"d11369b01733e49d","fromSide":"right","toNode":"46cb3e879794ac60","toSide":"left"},
+		{"id":"7a69ebf59837c5d8","fromNode":"44b9ca641753e2cb","fromSide":"right","toNode":"46cb3e879794ac60","toSide":"left"},
+		{"id":"c62dd0a7a3f2de0f","fromNode":"cb6fb996ca73b47a","fromSide":"right","toNode":"46cb3e879794ac60","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"88808af221fa1d66","x":-116,"y":-39,"width":250,"height":60,"type":"text","text":"爵 - Tước"},
+		{"id":"c0b20231fece8f4c","x":-480,"y":-87,"width":149,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
+		{"id":"15542b820d3ba6c0","x":-480,"y":200,"width":162,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"},
+		{"id":"e40dcbc5c265e5ef","x":-473,"y":-460,"width":148,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/Trảo　「爪」.canvas"},
+		{"id":"802b8ba65972ee55","x":-457,"y":-240,"width":116,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas"}
+	],
+	"edges":[
+		{"id":"d96b1f7d68e2d951","fromNode":"c0b20231fece8f4c","fromSide":"right","toNode":"88808af221fa1d66","toSide":"left"},
+		{"id":"2b8156127f501838","fromNode":"15542b820d3ba6c0","fromSide":"right","toNode":"88808af221fa1d66","toSide":"left"},
+		{"id":"671fb2036153e94b","fromNode":"e40dcbc5c265e5ef","fromSide":"right","toNode":"88808af221fa1d66","toSide":"left"},
+		{"id":"f4e56968af917911","fromNode":"802b8ba65972ee55","fromSide":"right","toNode":"88808af221fa1d66","toSide":"left"}
+	]
+}

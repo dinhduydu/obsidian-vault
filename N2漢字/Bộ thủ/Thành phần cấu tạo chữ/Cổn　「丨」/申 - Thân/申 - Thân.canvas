@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"2891070caa86b856","type":"text","text":"申 - Thân","x":-155,"y":-35,"width":250,"height":60},
-		{"id":"1cf3a28b51ae5857","x":-460,"y":-280,"width":143,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
-		{"id":"3a34a659357515fd","x":-492,"y":180,"width":175,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas"}
+		{"id":"3a34a659357515fd","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/Cổn　「丨」.canvas","x":-492,"y":180,"width":175,"height":134},
+		{"id":"c4ecfddf3d30b832","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/甲 - Giáp.canvas","x":-780,"y":-98,"width":195,"height":186},
+		{"id":"5c9b638a0ffec160","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-520,"y":-320,"width":180,"height":157}
 	],
 	"edges":[
-		{"id":"2b012d940ddabee8","fromNode":"1cf3a28b51ae5857","fromSide":"right","toNode":"2891070caa86b856","toSide":"left"},
-		{"id":"c750614a638a6475","fromNode":"3a34a659357515fd","fromSide":"right","toNode":"2891070caa86b856","toSide":"left"}
+		{"id":"c750614a638a6475","fromNode":"3a34a659357515fd","fromSide":"right","toNode":"2891070caa86b856","toSide":"left"},
+		{"id":"d606d693d0171299","fromNode":"c4ecfddf3d30b832","fromSide":"right","toNode":"2891070caa86b856","toSide":"left","label":"ko giống"},
+		{"id":"8490ccc1c842e5f5","fromNode":"5c9b638a0ffec160","fromSide":"right","toNode":"2891070caa86b856","toSide":"left"}
 	]
 }

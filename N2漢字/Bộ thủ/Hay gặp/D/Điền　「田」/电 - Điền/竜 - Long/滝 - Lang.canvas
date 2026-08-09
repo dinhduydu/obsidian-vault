@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a16e44bbe25e209d","x":-80,"y":-60,"width":250,"height":60,"type":"text","text":"滝 - Lang"},
+		{"id":"a4798be7e24dd0c1","x":-400,"y":-300,"width":160,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/电 - Điền/竜 - Long/竜 - Long.canvas"},
+		{"id":"c0b832fdae6aa134","x":-420,"y":40,"width":180,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"afbbb0a37bbd9502","fromNode":"a4798be7e24dd0c1","fromSide":"right","toNode":"a16e44bbe25e209d","toSide":"left"},
+		{"id":"04dee7d15b4f381b","fromNode":"c0b832fdae6aa134","fromSide":"right","toNode":"a16e44bbe25e209d","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c657240f19500e27","x":-127,"y":-43,"width":250,"height":60,"type":"text","text":"遭 - Tao"},
+		{"id":"a17a1bccaa0b31c9","x":-580,"y":-320,"width":194,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曹 - Tào/曹 - Tào.canvas"},
+		{"id":"7db6457dd80a77e0","x":-560,"y":40,"width":174,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"ec42e634f17dcdb5","fromNode":"a17a1bccaa0b31c9","fromSide":"right","toNode":"c657240f19500e27","toSide":"left"},
+		{"id":"571265c424b43d30","fromNode":"7db6457dd80a77e0","fromSide":"right","toNode":"c657240f19500e27","toSide":"left"}
+	]
+}

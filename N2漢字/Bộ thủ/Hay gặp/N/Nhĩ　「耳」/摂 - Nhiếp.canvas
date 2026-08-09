@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"9df3fb331278fa2e","x":-109,"y":-59,"width":250,"height":60,"type":"text","text":"摂 - Nhiếp"},
-		{"id":"9b2a343a94ec7152","x":-620,"y":-101,"width":139,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"},
-		{"id":"877387feb1921f60","x":-400,"y":-280,"width":123,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas"}
+		{"id":"9df3fb331278fa2e","type":"text","text":"摂 - Nhiếp","x":-109,"y":-59,"width":250,"height":60},
+		{"id":"9b2a343a94ec7152","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-620,"y":-101,"width":139,"height":145},
+		{"id":"877387feb1921f60","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas","x":-400,"y":-280,"width":123,"height":128},
+		{"id":"1e5c9aed7e70d1df","x":420,"y":-340,"width":250,"height":60,"type":"text","text":"**攝** - Nhiếp"},
+		{"id":"de903fd832c84ff9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/Nhĩ　「耳」.canvas","x":100,"y":-600,"width":123,"height":128}
 	],
 	"edges":[
 		{"id":"398fbcc1cc34135d","fromNode":"9b2a343a94ec7152","fromSide":"right","toNode":"9df3fb331278fa2e","toSide":"left"},
-		{"id":"4ed1983355b1996b","fromNode":"877387feb1921f60","fromSide":"right","toNode":"9df3fb331278fa2e","toSide":"left"}
+		{"id":"4ed1983355b1996b","fromNode":"877387feb1921f60","fromSide":"right","toNode":"9df3fb331278fa2e","toSide":"left"},
+		{"id":"94e5c9ee19559ad3","fromNode":"9df3fb331278fa2e","fromSide":"right","toNode":"1e5c9aed7e70d1df","toSide":"left","label":"Chữ 摂 (U+6442) là dạng shinjitai (tiếng Nhật giản thể) của chữ 攝 (U+651D)."},
+		{"id":"ba890a0ea02548d6","fromNode":"de903fd832c84ff9","fromSide":"right","toNode":"1e5c9aed7e70d1df","toSide":"left","label":"x3"}
 	]
 }

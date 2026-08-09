@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9bcc7fca9e926f44","x":-82,"y":-42,"width":250,"height":60,"type":"text","text":"怠 - Đãi"},
+		{"id":"92b614f0e9c8b005","x":-380,"y":-220,"width":164,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/Đài　「台」.canvas"},
+		{"id":"5956754b2033026c","x":-410,"y":100,"width":194,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」.canvas"}
+	],
+	"edges":[
+		{"id":"b6f3d26fb190871c","fromNode":"92b614f0e9c8b005","fromSide":"right","toNode":"9bcc7fca9e926f44","toSide":"left"},
+		{"id":"dee6b9098b6f0bd3","fromNode":"5956754b2033026c","fromSide":"right","toNode":"9bcc7fca9e926f44","toSide":"left"}
+	]
+}

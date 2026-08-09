@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ab861a5ae032f1c1","x":-86,"y":-36,"width":250,"height":60,"type":"text","text":"傘 - Tán"},
+		{"id":"9bda987c51761865","x":-420,"y":-240,"width":174,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"},
+		{"id":"ce7a47f226404084","x":-443,"y":100,"width":197,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"96b6f91d0473bb38","fromNode":"9bda987c51761865","fromSide":"right","toNode":"ab861a5ae032f1c1","toSide":"left","label":"x5"},
+		{"id":"c982a2ccc6e9fcc7","fromNode":"ce7a47f226404084","fromSide":"right","toNode":"ab861a5ae032f1c1","toSide":"left"}
+	]
+}

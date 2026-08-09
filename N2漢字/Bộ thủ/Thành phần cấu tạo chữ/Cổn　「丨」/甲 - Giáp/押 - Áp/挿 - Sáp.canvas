@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0422863a2cb42c39","x":-135,"y":-37,"width":250,"height":60,"type":"text","text":"挿 - Sáp"},
+		{"id":"2137c695fbcb74dd","x":-520,"y":80,"width":185,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/押 - Áp/押 - Áp.canvas"},
+		{"id":"fc56fac25307cdcc","x":-544,"y":-280,"width":209,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thiên/Thiên　「千」/Thiên　「千」.canvas"}
+	],
+	"edges":[
+		{"id":"0ea2897aa8241d19","fromNode":"2137c695fbcb74dd","fromSide":"right","toNode":"0422863a2cb42c39","toSide":"left"},
+		{"id":"4192aa0480093d30","fromNode":"fc56fac25307cdcc","fromSide":"right","toNode":"0422863a2cb42c39","toSide":"left","label":"sáp nhập"}
+	]
+}

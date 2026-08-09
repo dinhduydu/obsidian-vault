@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e038ed673573993b","x":-149,"y":-16,"width":250,"height":60,"type":"text","text":"俺 - Yêm"},
+		{"id":"721d0768b5328e16","x":-520,"y":100,"width":178,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/电 - Điền/电 - Điền.canvas"},
+		{"id":"969ccfef305a7eac","x":-520,"y":-280,"width":164,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas"},
+		{"id":"59f2c9716462f0ad","x":-760,"y":-43,"width":156,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"0e062ca30aa29200","fromNode":"721d0768b5328e16","fromSide":"right","toNode":"e038ed673573993b","toSide":"left"},
+		{"id":"75e7ae57a7567259","fromNode":"969ccfef305a7eac","fromSide":"right","toNode":"e038ed673573993b","toSide":"left"},
+		{"id":"249c2acfec756b83","fromNode":"59f2c9716462f0ad","fromSide":"right","toNode":"e038ed673573993b","toSide":"left"}
+	]
+}

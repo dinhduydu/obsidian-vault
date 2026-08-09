@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fb6d7de28773725c","x":-109,"y":-43,"width":250,"height":60,"type":"text","text":"陶 - Đào"},
+		{"id":"e5f27ac9e9260719","x":-360,"y":60,"width":133,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phẫu　「缶」/Phẫu　「缶」.canvas"},
+		{"id":"7c639c82862e06ba","x":-360,"y":-300,"width":150,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bao　「勹」/Bao　「勹」.canvas"},
+		{"id":"79927233b1518981","x":-620,"y":-77,"width":157,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"}
+	],
+	"edges":[
+		{"id":"2fc242afeb035aa7","fromNode":"e5f27ac9e9260719","fromSide":"right","toNode":"fb6d7de28773725c","toSide":"left"},
+		{"id":"f190ff5933fba1bc","fromNode":"7c639c82862e06ba","fromSide":"right","toNode":"fb6d7de28773725c","toSide":"left"},
+		{"id":"3e2874f248d40c54","fromNode":"79927233b1518981","fromSide":"right","toNode":"fb6d7de28773725c","toSide":"left"}
+	]
+}
