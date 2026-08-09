@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac27a4a97d060317","x":-95,"y":-44,"width":250,"height":60,"type":"text","text":"尗 - Thúc"},
+		{"id":"0eeed04823ce0b03","x":-420,"y":-260,"width":140,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/Thượng　「 上」.canvas"},
+		{"id":"f287af0b30af07e7","x":-471,"y":40,"width":191,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"}
+	],
+	"edges":[
+		{"id":"7d2e926ac824d72a","fromNode":"0eeed04823ce0b03","fromSide":"right","toNode":"ac27a4a97d060317","toSide":"left"},
+		{"id":"1509a4a8824f7fb3","fromNode":"f287af0b30af07e7","fromSide":"right","toNode":"ac27a4a97d060317","toSide":"left"}
+	]
+}

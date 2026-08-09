@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bd9b8efaa69b3a2d","x":-105,"y":-34,"width":250,"height":60,"type":"text","text":"峰 - Phong"},
+		{"id":"b92193c37f360113","x":-320,"y":-180,"width":116,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phong　「丰」/夆 - Phùng/夆 - Phùng.canvas"}
+	],
+	"edges":[
+		{"id":"9fdb772cc0544752","fromNode":"b92193c37f360113","fromSide":"right","toNode":"bd9b8efaa69b3a2d","toSide":"left"}
+	]
+}

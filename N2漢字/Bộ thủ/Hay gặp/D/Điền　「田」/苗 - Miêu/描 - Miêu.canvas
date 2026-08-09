@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fd30be2c88b17796","x":-87,"y":-41,"width":250,"height":60,"type":"text","text":"描 - Miêu"},
+		{"id":"9ebc707e170f1250","x":-380,"y":-240,"width":123,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/苗 - Miêu/苗 - Miêu.canvas"},
+		{"id":"0f93c52c6eb4a3e0","x":-420,"y":120,"width":163,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"4bc9d33ea8d23924","fromNode":"9ebc707e170f1250","fromSide":"right","toNode":"fd30be2c88b17796","toSide":"left"},
+		{"id":"e972bc7d20afa1bf","fromNode":"0f93c52c6eb4a3e0","fromSide":"right","toNode":"fd30be2c88b17796","toSide":"left","label":"một hành động"}
+	]
+}

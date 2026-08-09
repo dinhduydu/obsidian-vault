@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d9ef0df802335cce","type":"text","text":"遇 - Ngộ","x":-130,"y":-32,"width":250,"height":60},
+		{"id":"c41c0cdd57d0ba51","x":-460,"y":-280,"width":169,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhu, Nhựu　「禸」/Ngu　「禺 」/Ngu　「禺 」.canvas"},
+		{"id":"b478cf8fe7ff79e8","x":-460,"y":140,"width":178,"height":207,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"c683aefb16a0e4a7","fromNode":"c41c0cdd57d0ba51","fromSide":"right","toNode":"d9ef0df802335cce","toSide":"left"},
+		{"id":"4fff784f0fcb0a33","fromNode":"b478cf8fe7ff79e8","fromSide":"right","toNode":"d9ef0df802335cce","toSide":"left"}
+	]
+}

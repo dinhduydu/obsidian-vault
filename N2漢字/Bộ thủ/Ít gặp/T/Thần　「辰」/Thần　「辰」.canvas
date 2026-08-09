@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"07ec007190d29f46","type":"text","text":"Thần　「辰」","x":-82,"y":-27,"width":250,"height":60},
+		{"id":"1f597eba4f2e57d9","type":"text","text":"Thìn","x":-400,"y":-220,"width":250,"height":60},
+		{"id":"efe1e4a29c7203ba","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/農 - Nông/農 - Nông.canvas","x":340,"y":-243,"width":191,"height":166},
+		{"id":"439ec38e351c92ab","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「辰」/震 - Chấn.canvas","x":342,"y":80,"width":218,"height":160},
+		{"id":"a762a6596d59019b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":20,"y":380,"width":118,"height":95}
+	],
+	"edges":[
+		{"id":"e976c4ec842bd973","fromNode":"1f597eba4f2e57d9","fromSide":"right","toNode":"07ec007190d29f46","toSide":"left"},
+		{"id":"da7c46af28e8dfd5","fromNode":"07ec007190d29f46","fromSide":"right","toNode":"efe1e4a29c7203ba","toSide":"left"},
+		{"id":"971f114a138c01bb","fromNode":"07ec007190d29f46","fromSide":"right","toNode":"439ec38e351c92ab","toSide":"left"},
+		{"id":"432d97f93b440680","fromNode":"a762a6596d59019b","fromSide":"right","toNode":"439ec38e351c92ab","toSide":"left"}
+	]
+}

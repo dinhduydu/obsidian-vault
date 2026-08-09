@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2b79e4bea61f7b0c","type":"text","text":"辟 - Tích","x":-164,"y":-36,"width":250,"height":60},
+		{"id":"9a4e495ed8482d8a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas","x":-440,"y":-260,"width":144,"height":137},
+		{"id":"a28fbc847351e1e5","x":-620,"y":-63,"width":148,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"},
+		{"id":"9c2b4cbb51f8d20a","x":-427,"y":180,"width":131,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"7d27d874e713131e","fromNode":"9a4e495ed8482d8a","fromSide":"right","toNode":"2b79e4bea61f7b0c","toSide":"left"},
+		{"id":"f0625cbfcdd97d4d","fromNode":"a28fbc847351e1e5","fromSide":"right","toNode":"2b79e4bea61f7b0c","toSide":"left"},
+		{"id":"ac6aafda850bc5f5","fromNode":"9c2b4cbb51f8d20a","fromSide":"right","toNode":"2b79e4bea61f7b0c","toSide":"left"}
+	]
+}

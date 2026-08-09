@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7b3c6361acb71420","x":-74,"y":-34,"width":250,"height":60,"type":"text","text":"耐 - Nại"},
+		{"id":"4804025f73f987a9","x":-360,"y":-180,"width":125,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/Nhi　「而」.canvas"},
+		{"id":"d66fabc389c70934","x":-437,"y":120,"width":202,"height":223,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"d51c0e0c6aacf8c9","fromNode":"4804025f73f987a9","fromSide":"right","toNode":"7b3c6361acb71420","toSide":"left"},
+		{"id":"a0f06fdbfe345d91","fromNode":"d66fabc389c70934","fromSide":"right","toNode":"7b3c6361acb71420","toSide":"left"}
+	]
+}

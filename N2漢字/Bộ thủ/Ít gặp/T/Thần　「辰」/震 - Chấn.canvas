@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"39f40631c992d494","x":-114,"y":-51,"width":250,"height":60,"type":"text","text":"震 - Chấn"},
+		{"id":"a38d44d058f06d07","x":-440,"y":-320,"width":131,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas"},
+		{"id":"00c50c8e0b0c5da3","x":-453,"y":100,"width":144,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「辰」/Thần　「辰」.canvas"}
+	],
+	"edges":[
+		{"id":"538328cf56126979","fromNode":"a38d44d058f06d07","fromSide":"right","toNode":"39f40631c992d494","toSide":"left"},
+		{"id":"c231b5bbe4fb5215","fromNode":"00c50c8e0b0c5da3","fromSide":"right","toNode":"39f40631c992d494","toSide":"left"}
+	]
+}

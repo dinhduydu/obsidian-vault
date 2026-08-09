@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf7a22434ebc195d","type":"text","text":"儒 - Nho","x":-150,"y":-36,"width":250,"height":60},
+		{"id":"683c408fc7d4d60b","x":-440,"y":-240,"width":123,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/需 - Nhu/需 - Nhu.canvas"},
+		{"id":"33844668560147a6","x":-460,"y":80,"width":132,"height":193,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"79cd666a5ec87c28","fromNode":"683c408fc7d4d60b","fromSide":"right","toNode":"bf7a22434ebc195d","toSide":"left"},
+		{"id":"0562afbbeab3009c","fromNode":"33844668560147a6","fromSide":"right","toNode":"bf7a22434ebc195d","toSide":"left"}
+	]
+}

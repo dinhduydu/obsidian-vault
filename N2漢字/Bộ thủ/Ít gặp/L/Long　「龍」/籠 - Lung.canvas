@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"81b036e0050de824","x":-112,"y":-33,"width":250,"height":60,"type":"text","text":"籠 - Lung"},
+		{"id":"c681b1edf59d60ae","x":-460,"y":-220,"width":136,"height":89,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"},
+		{"id":"511e6bfac910ae9f","x":-517,"y":40,"width":193,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Long　「龍」/Long　「龍」.canvas"}
+	],
+	"edges":[
+		{"id":"4694ea62e7e638a3","fromNode":"c681b1edf59d60ae","fromSide":"right","toNode":"81b036e0050de824","toSide":"left","label":"cái giỏ"},
+		{"id":"6e4681c1b4e1ab19","fromNode":"511e6bfac910ae9f","fromSide":"right","toNode":"81b036e0050de824","toSide":"left"}
+	]
+}

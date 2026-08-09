@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6dcfd8d386e852c4","x":-73,"y":-23,"width":250,"height":60,"type":"text","text":"踏 - Đạp"},
+		{"id":"f0cfac975391119b","x":-380,"y":-280,"width":166,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ　「水」/Thuỷ　「水」.canvas"},
+		{"id":"d95ff158df1086f3","x":-402,"y":140,"width":188,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"8061283777d16f7c","x":-680,"y":-67,"width":165,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"46ee99c56edf94e7","fromNode":"f0cfac975391119b","fromSide":"right","toNode":"6dcfd8d386e852c4","toSide":"left"},
+		{"id":"43c4d362494333fa","fromNode":"d95ff158df1086f3","fromSide":"right","toNode":"6dcfd8d386e852c4","toSide":"left"},
+		{"id":"af855ce5b983a68b","fromNode":"8061283777d16f7c","fromSide":"right","toNode":"6dcfd8d386e852c4","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bc9d7647888eb4a4","x":-66,"y":-47,"width":250,"height":60,"type":"text","text":"癖 - Phích"},
+		{"id":"ececaf6f03e8ba46","x":-380,"y":80,"width":159,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/辟 - Tích/辟 - Tích.canvas"},
+		{"id":"e3e5a0a00d6f3938","x":-362,"y":-260,"width":123,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"785565e0dfd281f4","fromNode":"ececaf6f03e8ba46","fromSide":"right","toNode":"bc9d7647888eb4a4","toSide":"left"},
+		{"id":"3ca8bc55acf6f436","fromNode":"e3e5a0a00d6f3938","fromSide":"right","toNode":"bc9d7647888eb4a4","toSide":"left","label":"thói hư, tật xấu"}
+	]
+}

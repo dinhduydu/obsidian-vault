@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dba9c57ce7d1feb5","x":-89,"y":-59,"width":250,"height":60,"type":"text","text":"蓄 - Súc"},
+		{"id":"66d3031d5c3172e4","x":-480,"y":-280,"width":157,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
+		{"id":"b06d592f6c82f9fd","x":-493,"y":40,"width":170,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/畜 - Súc/畜 - Súc.canvas"}
+	],
+	"edges":[
+		{"id":"dcb7431785ca2ae1","fromNode":"66d3031d5c3172e4","fromSide":"right","toNode":"dba9c57ce7d1feb5","toSide":"left","label":"tích trữ"},
+		{"id":"dd4b8fc045b69645","fromNode":"b06d592f6c82f9fd","fromSide":"right","toNode":"dba9c57ce7d1feb5","toSide":"left"}
+	]
+}

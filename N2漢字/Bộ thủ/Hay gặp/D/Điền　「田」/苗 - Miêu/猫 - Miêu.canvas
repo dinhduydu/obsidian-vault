@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"def9271e1d6de653","x":-148,"y":-18,"width":250,"height":60,"type":"text","text":"猫 - Miêu"},
+		{"id":"69e1a6242ae513e4","x":-500,"y":-320,"width":132,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"},
+		{"id":"30f0532454dc66a0","x":-543,"y":120,"width":175,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/苗 - Miêu/苗 - Miêu.canvas"}
+	],
+	"edges":[
+		{"id":"9eb1639f8701cb40","fromNode":"69e1a6242ae513e4","fromSide":"right","toNode":"def9271e1d6de653","toSide":"left","label":"loài thú có lông"},
+		{"id":"610e176934da1ed4","fromNode":"30f0532454dc66a0","fromSide":"right","toNode":"def9271e1d6de653","toSide":"left"}
+	]
+}

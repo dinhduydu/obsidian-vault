@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"488da1f3c8b0d453","type":"text","text":"夆 - Phùng","x":-28,"y":-22,"width":250,"height":60},
+		{"id":"13c4b6ada8431893","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Truy　「夂」.canvas","x":-340,"y":-220,"width":139,"height":130},
+		{"id":"1f83412b0fe3ec86","x":-342,"y":60,"width":141,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phong　「丰」/Phong　「丰」.canvas"}
+	],
+	"edges":[
+		{"id":"76dc271358fc424b","fromNode":"13c4b6ada8431893","fromSide":"right","toNode":"488da1f3c8b0d453","toSide":"left"},
+		{"id":"b3ca558bc1e82336","fromNode":"1f83412b0fe3ec86","fromSide":"right","toNode":"488da1f3c8b0d453","toSide":"left"}
+	]
+}

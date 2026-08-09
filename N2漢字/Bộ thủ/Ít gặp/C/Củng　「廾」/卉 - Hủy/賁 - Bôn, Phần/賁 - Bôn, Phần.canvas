@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2922e1070b9426f5","x":-81,"y":-27,"width":250,"height":60,"type":"text","text":"賁 - Bôn, Phần"},
+		{"id":"97aa345b48564d34","x":-460,"y":-260,"width":209,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/卉 - Hủy/卉 - Hủy.canvas"},
+		{"id":"aad19d947f31450e","x":-460,"y":160,"width":209,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+	],
+	"edges":[
+		{"id":"580e12069d43a583","fromNode":"97aa345b48564d34","fromSide":"right","toNode":"2922e1070b9426f5","toSide":"left"},
+		{"id":"85a2d034527f9121","fromNode":"aad19d947f31450e","fromSide":"right","toNode":"2922e1070b9426f5","toSide":"left"}
+	]
+}

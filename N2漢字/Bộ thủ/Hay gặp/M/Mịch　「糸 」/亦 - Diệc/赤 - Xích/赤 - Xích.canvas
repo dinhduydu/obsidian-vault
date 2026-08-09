@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d7ee3e80601c9868","type":"text","text":"赤 - Xích","x":-65,"y":-14,"width":250,"height":60},
+		{"id":"2131b870fd651cb2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/亦 - Diệc.canvas","x":-460,"y":180,"width":180,"height":163},
+		{"id":"87c1dd416cc7face","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-460,"y":-180,"width":181,"height":146},
+		{"id":"54a83ccdabd7f792","type":"file","file":"Chữa đề/Learning_Profile/Kanji/赤字.md","x":520,"y":-850,"width":171,"height":157},
+		{"id":"7d21b9b848ad417b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/赦 - Xá.canvas","x":520,"y":-577,"width":171,"height":160},
+		{"id":"871453bc7a730d51","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/跡 - Đạp.canvas","x":520,"y":-246,"width":171,"height":133},
+		{"id":"81c25abe2615df3c","x":524,"y":91,"width":167,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/跡 - Tích.canvas"},
+		{"id":"1dbc8991443deca5","x":520,"y":400,"width":165,"height":200,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/嚇 - Hách.canvas"}
+	],
+	"edges":[
+		{"id":"204a2e815998f871","fromNode":"2131b870fd651cb2","fromSide":"right","toNode":"d7ee3e80601c9868","toSide":"left"},
+		{"id":"1bef79d6a05a030e","fromNode":"87c1dd416cc7face","fromSide":"right","toNode":"d7ee3e80601c9868","toSide":"left"},
+		{"id":"cc48ab41d89794cb","fromNode":"d7ee3e80601c9868","fromSide":"right","toNode":"54a83ccdabd7f792","toSide":"left"},
+		{"id":"0ae7ae69bed0a9fb","fromNode":"d7ee3e80601c9868","fromSide":"right","toNode":"7d21b9b848ad417b","toSide":"left"},
+		{"id":"069ae603bb96fecd","fromNode":"d7ee3e80601c9868","fromSide":"right","toNode":"871453bc7a730d51","toSide":"left"},
+		{"id":"bab2fcfe8e3a816a","fromNode":"d7ee3e80601c9868","fromSide":"right","toNode":"81c25abe2615df3c","toSide":"left"},
+		{"id":"d209ff2aca79c960","fromNode":"d7ee3e80601c9868","fromSide":"right","toNode":"1dbc8991443deca5","toSide":"left"}
+	]
+}

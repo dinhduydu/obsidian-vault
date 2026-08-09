@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"97db0de90c21d169","x":-133,"y":-41,"width":250,"height":60,"type":"text","text":"挑 - Khiêu"},
+		{"id":"1e04b57591daead7","x":-500,"y":80,"width":124,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Triệu　「兆」/Triệu　「兆」.canvas"},
+		{"id":"83072bdc1a9ddcfc","x":-524,"y":-300,"width":148,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"b0f742e9f5c68848","fromNode":"1e04b57591daead7","fromSide":"right","toNode":"97db0de90c21d169","toSide":"left"},
+		{"id":"4879c5aec3079cb6","fromNode":"83072bdc1a9ddcfc","fromSide":"right","toNode":"97db0de90c21d169","toSide":"left","label":"hành động"}
+	]
+}

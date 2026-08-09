@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2b9aea65396a5eed","x":-49,"y":-39,"width":250,"height":60,"type":"text","text":"噴 - Phún"},
+		{"id":"1b3c1deb82403b09","x":-440,"y":60,"width":188,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/卉 - Hủy/賁 - Bôn, Phần/賁 - Bôn, Phần.canvas"},
+		{"id":"83062e284742662e","x":-445,"y":-280,"width":193,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+	],
+	"edges":[
+		{"id":"67c956ef9484201d","fromNode":"1b3c1deb82403b09","fromSide":"right","toNode":"2b9aea65396a5eed","toSide":"left"},
+		{"id":"42cdd4ccfc477de5","fromNode":"83062e284742662e","fromSide":"right","toNode":"2b9aea65396a5eed","toSide":"left"}
+	]
+}

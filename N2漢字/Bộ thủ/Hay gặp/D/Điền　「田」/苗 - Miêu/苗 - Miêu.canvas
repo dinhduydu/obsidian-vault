@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6620b03edc9aa758","x":-69,"y":-36,"width":250,"height":60,"type":"text","text":"苗 - Miêu"},
+		{"id":"67cad9d378c7bd2a","x":-420,"y":140,"width":157,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
+		{"id":"8ef7321fbc554a71","x":-416,"y":-260,"width":153,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"}
+	],
+	"edges":[
+		{"id":"ce283e8d40e17bc9","fromNode":"67cad9d378c7bd2a","fromSide":"right","toNode":"6620b03edc9aa758","toSide":"left"},
+		{"id":"0bccc8d096e9baf7","fromNode":"8ef7321fbc554a71","fromSide":"right","toNode":"6620b03edc9aa758","toSide":"left","label":"cây non, mầm, giống/cây con"}
+	]
+}

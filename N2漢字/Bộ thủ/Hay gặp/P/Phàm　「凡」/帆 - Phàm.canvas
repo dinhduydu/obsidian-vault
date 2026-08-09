@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"842000340d0bb32c","x":-74,"y":-38,"width":250,"height":60,"type":"text","text":"帆 - Phàm"},
+		{"id":"997b12364ec478d2","x":-580,"y":-260,"width":134,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"},
+		{"id":"c0e263fb2e47eee4","x":-623,"y":180,"width":177,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"}
+	],
+	"edges":[
+		{"id":"8a5abf51c2b8f961","fromNode":"997b12364ec478d2","fromSide":"right","toNode":"842000340d0bb32c","toSide":"left","label":"vải lớn -> buồm của thuyền buồm"},
+		{"id":"1859fa4ee30d651c","fromNode":"c0e263fb2e47eee4","fromSide":"right","toNode":"842000340d0bb32c","toSide":"left"}
+	]
+}

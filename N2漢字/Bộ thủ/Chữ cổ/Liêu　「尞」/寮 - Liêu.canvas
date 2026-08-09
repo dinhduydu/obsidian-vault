@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fd38d560cb698bd3","type":"text","text":"寮 - Liêu","x":-146,"y":-40,"width":250,"height":60},
+		{"id":"d86f1a0bea75e173","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Liêu　「尞」/Liêu　「尞」.canvas","x":-520,"y":120,"width":169,"height":193},
+		{"id":"9354756ecba04898","x":-545,"y":-280,"width":194,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"de8421a24a831305","fromNode":"d86f1a0bea75e173","fromSide":"right","toNode":"fd38d560cb698bd3","toSide":"left"},
+		{"id":"2b8fc4cf738f5652","fromNode":"9354756ecba04898","fromSide":"right","toNode":"fd38d560cb698bd3","toSide":"left"}
+	]
+}

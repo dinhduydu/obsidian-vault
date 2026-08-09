@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"762c3ae47f2621e6","x":-135,"y":-59,"width":250,"height":60,"type":"text","text":"拍 - Phách"},
+		{"id":"8251384b197f4050","x":-480,"y":160,"width":156,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"},
+		{"id":"c6c5cd8e41ce6b5b","x":-680,"y":-360,"width":141,"height":183,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"1c8a06bd8c066edc","fromNode":"8251384b197f4050","fromSide":"right","toNode":"762c3ae47f2621e6","toSide":"left"},
+		{"id":"696a8531a3431585","fromNode":"c6c5cd8e41ce6b5b","fromSide":"right","toNode":"762c3ae47f2621e6","toSide":"left","label":"vỗ tay"}
+	]
+}

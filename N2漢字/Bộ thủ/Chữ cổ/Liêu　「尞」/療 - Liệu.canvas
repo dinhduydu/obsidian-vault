@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c67a9fb7c8c1e4ec","x":-112,"y":-31,"width":250,"height":60,"type":"text","text":"療 - Liệu"},
+		{"id":"808cf691d34605e8","x":-440,"y":180,"width":126,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Liêu　「尞」/Liêu　「尞」.canvas"},
+		{"id":"1c516ac0b16b67f7","x":-459,"y":-200,"width":145,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nạch　「疒」/Nạch　「疒」.canvas"}
+	],
+	"edges":[
+		{"id":"966dac232ab774e5","fromNode":"808cf691d34605e8","fromSide":"right","toNode":"c67a9fb7c8c1e4ec","toSide":"left"},
+		{"id":"4fbdb06b1f25d19f","fromNode":"1c516ac0b16b67f7","fromSide":"right","toNode":"c67a9fb7c8c1e4ec","toSide":"left","label":"trị liệu"}
+	]
+}

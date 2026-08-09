@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db11ceba3f671499","type":"text","text":"㐫 - Hung","x":149,"y":-24,"width":250,"height":60},
+		{"id":"8ed9b2f6286319bf","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/凶 - Hung/凶 - Hung.canvas","x":-263,"y":61,"width":191,"height":212},
+		{"id":"705f9d255127b087","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đầu (chấm)　「亠」/Đầu (chấm)　「亠」.canvas","x":-263,"y":-224,"width":208,"height":159}
+	],
+	"edges":[
+		{"id":"a328f9ab29da675a","fromNode":"8ed9b2f6286319bf","fromSide":"right","toNode":"db11ceba3f671499","toSide":"left"},
+		{"id":"62932ddf13db6b72","fromNode":"705f9d255127b087","fromSide":"right","toNode":"db11ceba3f671499","toSide":"left"}
+	]
+}

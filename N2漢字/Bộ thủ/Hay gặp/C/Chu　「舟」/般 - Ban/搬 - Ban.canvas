@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2abce10ec5bfa662","x":-72,"y":-24,"width":250,"height":60,"type":"text","text":"搬 - Ban"},
+		{"id":"d7faad9b2a60d574","x":-400,"y":-300,"width":160,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/般 - Ban/般 - Ban.canvas"},
+		{"id":"66d24f8fd2f82ef5","x":-428,"y":80,"width":188,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+	],
+	"edges":[
+		{"id":"6e3ba309e36de73d","fromNode":"d7faad9b2a60d574","fromSide":"right","toNode":"2abce10ec5bfa662","toSide":"left"},
+		{"id":"7f0cf5136d812ec4","fromNode":"66d24f8fd2f82ef5","fromSide":"right","toNode":"2abce10ec5bfa662","toSide":"left"}
+	]
+}

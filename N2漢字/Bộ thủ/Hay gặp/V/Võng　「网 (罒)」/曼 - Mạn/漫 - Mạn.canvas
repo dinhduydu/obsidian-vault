@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c187e1a855a55d21","x":-87,"y":-9,"width":250,"height":60,"type":"text","text":"漫 - Mạn"},
+		{"id":"114579938b1b943f","x":-440,"y":-260,"width":148,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/曼 - Mạn/曼 - Mạn.canvas"},
+		{"id":"f4ef3d846b5611a6","x":-440,"y":160,"width":150,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b3b8edeea27e9489","fromNode":"114579938b1b943f","fromSide":"right","toNode":"c187e1a855a55d21","toSide":"left"},
+		{"id":"9f13580b3f8bdeaa","fromNode":"f4ef3d846b5611a6","fromSide":"right","toNode":"c187e1a855a55d21","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cc1f14a59f54fd4e","x":-88,"y":-44,"width":250,"height":60,"type":"text","text":"汎 - Phiếm"},
+		{"id":"f49bdecee407416b","x":-400,"y":-280,"width":160,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"},
+		{"id":"b5f59ddbf905a8dc","x":-400,"y":120,"width":160,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"8bbeff359d9147db","fromNode":"f49bdecee407416b","fromSide":"right","toNode":"cc1f14a59f54fd4e","toSide":"left"},
+		{"id":"281c68980ececb78","fromNode":"b5f59ddbf905a8dc","fromSide":"right","toNode":"cc1f14a59f54fd4e","toSide":"left"}
+	]
+}

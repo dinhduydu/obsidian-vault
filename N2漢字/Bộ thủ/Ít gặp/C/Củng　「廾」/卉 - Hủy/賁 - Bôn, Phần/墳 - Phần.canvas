@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb9c42830ba2f3b5","x":-70,"y":-58,"width":250,"height":60,"type":"text","text":"墳 - Phần"},
+		{"id":"1ee4b90e8a21d368","x":-320,"y":-240,"width":115,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/卉 - Hủy/賁 - Bôn, Phần/賁 - Bôn, Phần.canvas"},
+		{"id":"1bab862562884265","x":-325,"y":100,"width":120,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"08a5d8702fc2d3cb","fromNode":"1ee4b90e8a21d368","fromSide":"right","toNode":"eb9c42830ba2f3b5","toSide":"left"},
+		{"id":"55cf806d1e7bd846","fromNode":"1bab862562884265","fromSide":"right","toNode":"eb9c42830ba2f3b5","toSide":"left","label":"mộ phần"}
+	]
+}

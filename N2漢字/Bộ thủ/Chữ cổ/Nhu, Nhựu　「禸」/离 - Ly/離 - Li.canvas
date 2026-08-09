@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"78ad24875092804f","x":-74,"y":-28,"width":250,"height":60,"type":"text","text":"離 - Li"},
+		{"id":"827b040e31b45edc","x":420,"y":-280,"width":188,"height":166,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/距離を置く.md"},
+		{"id":"5b0c05fb21c0cece","x":-360,"y":100,"width":142,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"},
+		{"id":"7158f7fbb1da5377","x":-374,"y":-240,"width":171,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhu, Nhựu　「禸」/离 - Ly/离 - Ly.canvas"}
+	],
+	"edges":[
+		{"id":"f5169f366f4fe3bf","fromNode":"78ad24875092804f","fromSide":"right","toNode":"827b040e31b45edc","toSide":"left"},
+		{"id":"d315d4b727eadd6d","fromNode":"5b0c05fb21c0cece","fromSide":"right","toNode":"78ad24875092804f","toSide":"left"},
+		{"id":"390f89a3ab9bdb82","fromNode":"7158f7fbb1da5377","fromSide":"right","toNode":"78ad24875092804f","toSide":"left"}
+	]
+}

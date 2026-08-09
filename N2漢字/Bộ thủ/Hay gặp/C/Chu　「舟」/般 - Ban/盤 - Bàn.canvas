@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5857144b54a7dae1","x":-110,"y":-60,"width":250,"height":60,"type":"text","text":"盤 - Bàn"},
+		{"id":"3a29c1e8a19ee7a8","x":-440,"y":-280,"width":171,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/般 - Ban/般 - Ban.canvas"},
+		{"id":"90d03edb1e39284f","x":-432,"y":80,"width":155,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+	],
+	"edges":[
+		{"id":"c110ac1b43174fda","fromNode":"3a29c1e8a19ee7a8","fromSide":"right","toNode":"5857144b54a7dae1","toSide":"left"},
+		{"id":"515fb9265dc10dfb","fromNode":"90d03edb1e39284f","fromSide":"right","toNode":"5857144b54a7dae1","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2d45225188c99ca9","x":-120,"y":-75,"width":250,"height":60,"type":"text","text":"寂 - Tịch"},
+		{"id":"31889058ddccb17f","x":-380,"y":60,"width":162,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/尗 - Thúc/叔 - Thúc/叔 - Thúc.canvas"},
+		{"id":"b401d247442d972a","x":-384,"y":-260,"width":166,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Miên　「宀」/Miên　「宀」.canvas"}
+	],
+	"edges":[
+		{"id":"954545623e1e9d05","fromNode":"31889058ddccb17f","fromSide":"right","toNode":"2d45225188c99ca9","toSide":"left"},
+		{"id":"7ca705e3b0a4a3dc","fromNode":"b401d247442d972a","fromSide":"right","toNode":"2d45225188c99ca9","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b7cf029a50a28aa6","x":-105,"y":-17,"width":250,"height":60,"type":"text","text":"縫 - Phùng"},
+		{"id":"6180132f94867179","x":-420,"y":-220,"width":157,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phong　「丰」/夆 - Phùng/夆 - Phùng.canvas"},
+		{"id":"2c7c424bc9d55e4e","x":-425,"y":100,"width":162,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+	],
+	"edges":[
+		{"id":"ce347a89b53f0610","fromNode":"6180132f94867179","fromSide":"right","toNode":"b7cf029a50a28aa6","toSide":"left"},
+		{"id":"08b241610a8a346b","fromNode":"2c7c424bc9d55e4e","fromSide":"right","toNode":"b7cf029a50a28aa6","toSide":"left"}
+	]
+}

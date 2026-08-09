@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5e61b3640ba06f0b","x":-90,"y":-22,"width":250,"height":60,"type":"text","text":"眺 - Thiếu"},
+		{"id":"398ebf56a632f22a","x":-400,"y":160,"width":139,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Triệu　「兆」/Triệu　「兆」.canvas"},
+		{"id":"f6a104efd4ca7f46","x":-413,"y":-260,"width":152,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+	],
+	"edges":[
+		{"id":"28f462e303d98de2","fromNode":"398ebf56a632f22a","fromSide":"right","toNode":"5e61b3640ba06f0b","toSide":"left"},
+		{"id":"00ff1c5ce2b774b4","fromNode":"f6a104efd4ca7f46","fromSide":"right","toNode":"5e61b3640ba06f0b","toSide":"left"}
+	]
+}

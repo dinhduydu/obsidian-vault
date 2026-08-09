@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"57777b4b739ceb35","x":-62,"y":-18,"width":250,"height":60,"type":"text","text":"辱 - Nhục"},
+		{"id":"44012d20cb367be4","x":-340,"y":-160,"width":127,"height":82,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「辰」/Thần　「辰」.canvas"},
+		{"id":"5974122078d77df1","x":-358,"y":100,"width":145,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+	],
+	"edges":[
+		{"id":"c9dc6686eaa4244e","fromNode":"44012d20cb367be4","fromSide":"right","toNode":"57777b4b739ceb35","toSide":"left"},
+		{"id":"b48689d1191c9482","fromNode":"5974122078d77df1","fromSide":"right","toNode":"57777b4b739ceb35","toSide":"left"}
+	]
+}

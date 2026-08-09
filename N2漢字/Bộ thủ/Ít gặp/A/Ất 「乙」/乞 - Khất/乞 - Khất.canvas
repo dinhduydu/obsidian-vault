@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"ba02120bda98657d","x":-83,"y":-37,"width":250,"height":60,"type":"text","text":"乞 - Khất"},
-		{"id":"7f1518d2e32ac502","x":-540,"y":100,"width":230,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas"},
-		{"id":"b271db2c3b9337af","x":-600,"y":-260,"width":235,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"},
-		{"id":"04158fcb0f19e849","x":320,"y":-340,"width":296,"height":230,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/乾 - Cạn.canvas"}
+		{"id":"ba02120bda98657d","type":"text","text":"乞 - Khất","x":-83,"y":-37,"width":250,"height":60},
+		{"id":"04158fcb0f19e849","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/𠦝 - Triêu/乾 - Cạn.canvas","x":320,"y":-340,"width":296,"height":230},
+		{"id":"051937e831902ca7","x":-551,"y":-37,"width":250,"height":60,"type":"text","text":"người ăn xin"},
+		{"id":"7f1518d2e32ac502","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/A/Ất 「乙」/Ất 「乙」.canvas","x":-1035,"y":131,"width":230,"height":128},
+		{"id":"b271db2c3b9337af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas","x":-1040,"y":-309,"width":235,"height":191}
 	],
 	"edges":[
-		{"id":"9bf9d25f06f6140e","fromNode":"7f1518d2e32ac502","fromSide":"right","toNode":"ba02120bda98657d","toSide":"left"},
-		{"id":"b6fded8988971600","fromNode":"b271db2c3b9337af","fromSide":"right","toNode":"ba02120bda98657d","toSide":"left"},
-		{"id":"47e2b1ba58a4834b","fromNode":"ba02120bda98657d","fromSide":"right","toNode":"04158fcb0f19e849","toSide":"left"}
+		{"id":"9bf9d25f06f6140e","fromNode":"7f1518d2e32ac502","fromSide":"right","toNode":"051937e831902ca7","toSide":"left","label":"nằm ra đường"},
+		{"id":"b6fded8988971600","fromNode":"b271db2c3b9337af","fromSide":"right","toNode":"051937e831902ca7","toSide":"left","label":"người"},
+		{"id":"47e2b1ba58a4834b","fromNode":"ba02120bda98657d","fromSide":"right","toNode":"04158fcb0f19e849","toSide":"left"},
+		{"id":"5875b89746260693","fromNode":"051937e831902ca7","fromSide":"right","toNode":"ba02120bda98657d","toSide":"left"}
 	]
 }

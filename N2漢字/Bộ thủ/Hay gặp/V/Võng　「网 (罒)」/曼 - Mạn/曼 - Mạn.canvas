@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7fc3aa94508d976e","type":"text","text":"曼 - Mạn","x":-147,"y":-26,"width":250,"height":60},
+		{"id":"dc64ef57134659d9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Võng　「网 (罒)」/Võng　「网 (罒)」.canvas","x":-480,"y":-79,"width":162,"height":166},
+		{"id":"82068f647849e1a5","x":-451,"y":-380,"width":133,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"},
+		{"id":"c8c1fb089ae19174","x":-476,"y":280,"width":155,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"}
+	],
+	"edges":[
+		{"id":"bc7fdff998628e37","fromNode":"dc64ef57134659d9","fromSide":"right","toNode":"7fc3aa94508d976e","toSide":"left"},
+		{"id":"3175068be2b37c06","fromNode":"82068f647849e1a5","fromSide":"right","toNode":"7fc3aa94508d976e","toSide":"left"},
+		{"id":"5c92db81ba42c382","fromNode":"c8c1fb089ae19174","fromSide":"right","toNode":"7fc3aa94508d976e","toSide":"left"}
+	]
+}

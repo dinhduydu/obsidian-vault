@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4b1496f54281eb90","x":-70,"y":-8,"width":250,"height":60,"type":"text","text":"憤 - Phẫn"},
+		{"id":"92d96c8228256c8f","x":-420,"y":160,"width":178,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/卉 - Hủy/賁 - Bôn, Phần/賁 - Bôn, Phần.canvas"},
+		{"id":"9c406b9d8642f939","x":-480,"y":-240,"width":190,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」.canvas"}
+	],
+	"edges":[
+		{"id":"7cf976240beb60a0","fromNode":"92d96c8228256c8f","fromSide":"right","toNode":"4b1496f54281eb90","toSide":"left"},
+		{"id":"e8ef493840dfa423","fromNode":"9c406b9d8642f939","fromSide":"right","toNode":"4b1496f54281eb90","toSide":"left"}
+	]
+}

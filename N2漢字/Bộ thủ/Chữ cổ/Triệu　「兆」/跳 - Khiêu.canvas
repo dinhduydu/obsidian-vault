@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"306d32d2d62635a5","x":-119,"y":-55,"width":250,"height":60,"type":"text","text":"跳 - Khiêu"},
+		{"id":"86ad0577c56c28aa","x":-480,"y":-300,"width":157,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Triệu　「兆」/Triệu　「兆」.canvas"},
+		{"id":"a3f4c6d0dedbda08","x":-509,"y":80,"width":186,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Túc　「足 (⻊) 」/Túc　「足 (⻊) 」.canvas"}
+	],
+	"edges":[
+		{"id":"b06de05019d06915","fromNode":"86ad0577c56c28aa","fromSide":"right","toNode":"306d32d2d62635a5","toSide":"left"},
+		{"id":"c6124b7dd48ae080","fromNode":"a3f4c6d0dedbda08","fromSide":"right","toNode":"306d32d2d62635a5","toSide":"left","label":"sự hoạt động của chân"}
+	]
+}

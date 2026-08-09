@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"771106fcacd1ee7c","x":-82,"y":-23,"width":250,"height":60,"type":"text","text":"嫁 - Giá"},
+		{"id":"5d214a78fed69e6c","x":-400,"y":-220,"width":131,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/家 - Gia/家 - Gia.canvas"},
+		{"id":"304c931357ee9c2e","x":-450,"y":80,"width":181,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"}
+	],
+	"edges":[
+		{"id":"ca93894342e546d3","fromNode":"5d214a78fed69e6c","fromSide":"right","toNode":"771106fcacd1ee7c","toSide":"left"},
+		{"id":"e691eb96249ee611","fromNode":"304c931357ee9c2e","fromSide":"right","toNode":"771106fcacd1ee7c","toSide":"left","label":"lấy chồng"}
+	]
+}

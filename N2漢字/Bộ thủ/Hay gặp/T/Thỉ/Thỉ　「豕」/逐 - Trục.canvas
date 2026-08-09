@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"8bafd7ec55e6e8cc","type":"text","text":"逐 - Trục","x":-164,"y":-31,"width":250,"height":60},
-		{"id":"292f98817db91a9a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-420,"y":-240,"width":188,"height":159},
-		{"id":"a3c9f01053e96127","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-380,"y":-1,"width":148,"height":119},
-		{"id":"110d4578c71e3c0b","type":"text","text":"đuổi theo, khu trục","x":180,"y":-31,"width":250,"height":60}
+		{"id":"8bafd7ec55e6e8cc","type":"text","text":"逐 - Trục","x":-164,"y":-31,"width":244,"height":60},
+		{"id":"292f98817db91a9a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas","x":-574,"y":-360,"width":188,"height":159},
+		{"id":"a3c9f01053e96127","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-574,"y":100,"width":148,"height":119},
+		{"id":"5567af5b18fd5efb","x":257,"y":-226,"width":250,"height":60,"type":"text","text":"駆逐　「くちく」：tiêu diệt"}
 	],
 	"edges":[
 		{"id":"25f2de7f5630072c","fromNode":"292f98817db91a9a","fromSide":"right","toNode":"8bafd7ec55e6e8cc","toSide":"left"},
-		{"id":"f9b2ff10c7545825","fromNode":"a3c9f01053e96127","fromSide":"right","toNode":"8bafd7ec55e6e8cc","toSide":"left"},
-		{"id":"5ff16f5e67761d3e","fromNode":"8bafd7ec55e6e8cc","fromSide":"right","toNode":"110d4578c71e3c0b","toSide":"left"}
+		{"id":"f9b2ff10c7545825","fromNode":"a3c9f01053e96127","fromSide":"right","toNode":"8bafd7ec55e6e8cc","toSide":"left","label":"đuổi theo, khu trục"},
+		{"id":"f6c390008fa89af1","fromNode":"8bafd7ec55e6e8cc","fromSide":"right","toNode":"5567af5b18fd5efb","toSide":"left"}
 	]
 }

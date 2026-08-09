@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"324e9c474a702137","x":-94,"y":-34,"width":250,"height":60,"type":"text","text":"逃 - Đào"},
+		{"id":"89f3b705e3d8ff04","x":-420,"y":-240,"width":157,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Triệu　「兆」/Triệu　「兆」.canvas"},
+		{"id":"934f4721fe094d0b","x":-431,"y":240,"width":168,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"2cf83585c5b8dd0b","fromNode":"89f3b705e3d8ff04","fromSide":"right","toNode":"324e9c474a702137","toSide":"left"},
+		{"id":"2b54afb4d2689b67","fromNode":"934f4721fe094d0b","fromSide":"right","toNode":"324e9c474a702137","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e6df375999c4bcb2","x":-76,"y":-13,"width":250,"height":60,"type":"text","text":"伯 - Bá"},
+		{"id":"103aca1a8fd43434","x":-480,"y":240,"width":189,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"},
+		{"id":"661a0c9edc3e75a5","x":-480,"y":-280,"width":189,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"283424865f38fd3e","fromNode":"103aca1a8fd43434","fromSide":"right","toNode":"e6df375999c4bcb2","toSide":"left"},
+		{"id":"30fdce745cce0c86","fromNode":"661a0c9edc3e75a5","fromSide":"right","toNode":"e6df375999c4bcb2","toSide":"left"}
+	]
+}

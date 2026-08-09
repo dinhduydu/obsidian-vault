@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"28d692b93fdacdd6","x":-102,"y":-28,"width":250,"height":60,"type":"text","text":"蜂 - Phong"},
+		{"id":"a0472a24079c148f","x":-400,"y":-300,"width":147,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phong　「丰」/夆 - Phùng/夆 - Phùng.canvas"},
+		{"id":"09af9d69cd3f7994","x":-416,"y":100,"width":163,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
+	],
+	"edges":[
+		{"id":"5ad341f002cbe0bf","fromNode":"a0472a24079c148f","fromSide":"right","toNode":"28d692b93fdacdd6","toSide":"left"},
+		{"id":"3bdf2d25a832a250","fromNode":"09af9d69cd3f7994","fromSide":"right","toNode":"28d692b93fdacdd6","toSide":"left"}
+	]
+}

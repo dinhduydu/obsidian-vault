@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"006f0afc3e6a1361","x":-103,"y":-52,"width":250,"height":60,"type":"text","text":"璧 - Bích"},
+		{"id":"562a4e64b8196195","x":-440,"y":-280,"width":139,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/辟 - Tích/辟 - Tích.canvas"},
+		{"id":"954dd4f8033c49a8","x":-453,"y":60,"width":152,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc.canvas"}
+	],
+	"edges":[
+		{"id":"06fc92a30dd3a660","fromNode":"562a4e64b8196195","fromSide":"right","toNode":"006f0afc3e6a1361","toSide":"left"},
+		{"id":"f1e3c02591bd7b78","fromNode":"954dd4f8033c49a8","fromSide":"right","toNode":"006f0afc3e6a1361","toSide":"left"}
+	]
+}

@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"a6e71b86bf2ff6be","x":-110,"y":-55,"width":250,"height":60,"type":"text","text":"Phong　「丰」"},
-		{"id":"7c9f7683774f20df","x":-420,"y":-260,"width":122,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"},
-		{"id":"9f11bd42688c8f7c","x":-429,"y":-101,"width":131,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas"},
-		{"id":"7d84f62651fc1cc3","x":-486,"y":160,"width":188,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas"}
+		{"id":"a6e71b86bf2ff6be","type":"text","text":"Phong　「丰」","x":-110,"y":-55,"width":250,"height":60},
+		{"id":"7d84f62651fc1cc3","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/Phiệt　「丿」.canvas","x":-486,"y":160,"width":188,"height":181},
+		{"id":"cb553d0e53180f2a","x":-740,"y":-101,"width":163,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/丰 - Bái.canvas"},
+		{"id":"9f11bd42688c8f7c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhị　「二」/Nhị　「二」.canvas","x":-1120,"y":-96,"width":131,"height":153},
+		{"id":"7c9f7683774f20df","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-1111,"y":-340,"width":122,"height":83}
 	],
 	"edges":[
-		{"id":"c26d3049179243a2","fromNode":"7c9f7683774f20df","fromSide":"right","toNode":"a6e71b86bf2ff6be","toSide":"left"},
-		{"id":"a95f57424f78d473","fromNode":"9f11bd42688c8f7c","fromSide":"right","toNode":"a6e71b86bf2ff6be","toSide":"left"},
-		{"id":"eb5b8c0310deaa1b","fromNode":"7d84f62651fc1cc3","fromSide":"right","toNode":"a6e71b86bf2ff6be","toSide":"left"}
+		{"id":"c26d3049179243a2","fromNode":"7c9f7683774f20df","fromSide":"right","toNode":"cb553d0e53180f2a","toSide":"left"},
+		{"id":"a95f57424f78d473","fromNode":"9f11bd42688c8f7c","fromSide":"right","toNode":"cb553d0e53180f2a","toSide":"left"},
+		{"id":"eb5b8c0310deaa1b","fromNode":"7d84f62651fc1cc3","fromSide":"right","toNode":"a6e71b86bf2ff6be","toSide":"left"},
+		{"id":"91c9bdae653913f6","fromNode":"cb553d0e53180f2a","fromSide":"right","toNode":"a6e71b86bf2ff6be","toSide":"left"}
 	]
 }

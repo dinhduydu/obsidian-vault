@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"253080d470dcc444","type":"text","text":"泊 - Bạc","x":-110,"y":-51,"width":250,"height":60},
+		{"id":"cceced510e5d2a25","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas","x":-380,"y":-280,"width":137,"height":140},
+		{"id":"c8649f945e784903","x":-373,"y":80,"width":123,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"ab838602051bf36f","fromNode":"cceced510e5d2a25","fromSide":"right","toNode":"253080d470dcc444","toSide":"left"},
+		{"id":"c4fd45ab281fc6fc","fromNode":"c8649f945e784903","fromSide":"right","toNode":"253080d470dcc444","toSide":"left"}
+	]
+}

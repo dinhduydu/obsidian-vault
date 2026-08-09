@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2df6ced5b5804074","x":-123,"y":-53,"width":250,"height":60,"type":"text","text":"僚 - Liêu"},
+		{"id":"6b4c81153358f7c9","x":-460,"y":180,"width":161,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Liêu　「尞」/Liêu　「尞」.canvas"},
+		{"id":"4b55fe7e3a05146c","x":-480,"y":-260,"width":173,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+	],
+	"edges":[
+		{"id":"a140470d202e2686","fromNode":"6b4c81153358f7c9","fromSide":"right","toNode":"2df6ced5b5804074","toSide":"left"},
+		{"id":"0111d5b624dc99ee","fromNode":"4b55fe7e3a05146c","fromSide":"right","toNode":"2df6ced5b5804074","toSide":"left"}
+	]
+}

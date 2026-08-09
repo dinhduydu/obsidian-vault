@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"417fe54d7c3b1c3a","x":-119,"y":-49,"width":250,"height":60,"type":"text","text":"豚 - Đồn"},
+		{"id":"a0e18bc3daa4b81c","x":-480,"y":-300,"width":167,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/Thỉ　「豕」.canvas"},
+		{"id":"2639cc71a9c9917b","x":-570,"y":80,"width":181,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"}
+	],
+	"edges":[
+		{"id":"f9ed1de2ad9c2aeb","fromNode":"a0e18bc3daa4b81c","fromSide":"right","toNode":"417fe54d7c3b1c3a","toSide":"left"},
+		{"id":"00601bfe588f08c2","fromNode":"2639cc71a9c9917b","fromSide":"right","toNode":"417fe54d7c3b1c3a","toSide":"left","label":"nuôi lợn"}
+	]
+}

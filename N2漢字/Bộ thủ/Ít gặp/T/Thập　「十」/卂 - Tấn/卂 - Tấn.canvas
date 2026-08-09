@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2ffe78655510c8e6","x":-102,"y":-44,"width":250,"height":60,"type":"text","text":"卂 - Tấn"},
+		{"id":"9a0cb634be3a67ca","x":-620,"y":-280,"width":250,"height":60,"type":"text","text":"𠃌 - Câu"},
+		{"id":"f65ed7806fbc91c5","x":-560,"y":-14,"width":163,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"}
+	],
+	"edges":[
+		{"id":"aea31be0ec78aec0","fromNode":"9a0cb634be3a67ca","fromSide":"right","toNode":"2ffe78655510c8e6","toSide":"left"},
+		{"id":"854d9d591a80c022","fromNode":"f65ed7806fbc91c5","fromSide":"right","toNode":"2ffe78655510c8e6","toSide":"left"}
+	]
+}

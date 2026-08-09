@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"95136afb69d78c09","x":-129,"y":-39,"width":250,"height":60,"type":"text","text":"娠 - Thần"},
+		{"id":"700f178ea1763839","x":-460,"y":-300,"width":150,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
+		{"id":"190bb8a6ecd881dc","x":-471,"y":60,"width":161,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thần　「辰」/Thần　「辰」.canvas"}
+	],
+	"edges":[
+		{"id":"bf9af3b507ca233f","fromNode":"700f178ea1763839","fromSide":"right","toNode":"95136afb69d78c09","toSide":"left","label":"phụ nữ mang thai"},
+		{"id":"3f02ac3e61d60a3c","fromNode":"190bb8a6ecd881dc","fromSide":"right","toNode":"95136afb69d78c09","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"20ef525e3ae33992","x":-84,"y":-23,"width":250,"height":60,"type":"text","text":"尔 - Nhĩ"},
+		{"id":"a94149a2ebfe0403","x":300,"y":-220,"width":182,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/尔 - Nhĩ/称 - Xưng.canvas"}
+	],
+	"edges":[
+		{"id":"b4bf3a9b03b45e55","fromNode":"20ef525e3ae33992","fromSide":"right","toNode":"a94149a2ebfe0403","toSide":"left"}
+	]
+}

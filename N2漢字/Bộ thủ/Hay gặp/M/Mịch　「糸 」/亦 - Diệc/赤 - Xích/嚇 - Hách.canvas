@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c85578d528c9aa0f","x":-91,"y":-53,"width":250,"height":60,"type":"text","text":"嚇 - Hách"},
+		{"id":"e8750c39015c8199","x":-400,"y":-260,"width":121,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"},
+		{"id":"815b6b760996d0fe","x":-413,"y":80,"width":147,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/赤 - Xích.canvas"}
+	],
+	"edges":[
+		{"id":"c020e7d0d3529914","fromNode":"815b6b760996d0fe","fromSide":"right","toNode":"c85578d528c9aa0f","toSide":"left","label":"x2"},
+		{"id":"1e1b52192d42d1a1","fromNode":"e8750c39015c8199","fromSide":"right","toNode":"c85578d528c9aa0f","toSide":"left"}
+	]
+}

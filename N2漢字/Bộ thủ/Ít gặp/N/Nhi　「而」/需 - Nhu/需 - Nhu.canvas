@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e4e3d20923399e92","type":"text","text":"需 - Nhu","x":-84,"y":-13,"width":250,"height":60},
+		{"id":"6eaed9a13208da80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":-420,"y":-280,"width":121,"height":101},
+		{"id":"9c7046ab2ffb0d93","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/Nhi　「而」.canvas","x":-465,"y":120,"width":166,"height":163},
+		{"id":"0499dc2aa1a57e0e","x":260,"y":-229,"width":161,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Học vấn - kỹ năng/儒 - Nho.canvas"},
+		{"id":"9d4f2825ef4016a4","x":300,"y":128,"width":191,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/需 - Nhu/需 - Nhu.canvas"}
+	],
+	"edges":[
+		{"id":"99418ded48fc6f69","fromNode":"6eaed9a13208da80","fromSide":"right","toNode":"e4e3d20923399e92","toSide":"left"},
+		{"id":"40bd1a4670451f54","fromNode":"9c7046ab2ffb0d93","fromSide":"right","toNode":"e4e3d20923399e92","toSide":"left"},
+		{"id":"ae90f8e84232dc24","fromNode":"e4e3d20923399e92","fromSide":"right","toNode":"0499dc2aa1a57e0e","toSide":"left"},
+		{"id":"6a4d3a6b63b268af","fromNode":"e4e3d20923399e92","fromSide":"right","toNode":"9d4f2825ef4016a4","toSide":"left"}
+	]
+}

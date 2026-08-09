@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"020c244cc142fe1c","x":-133,"y":-17,"width":250,"height":60,"type":"text","text":"淑 - Thục"},
+		{"id":"8c3fd4f1ac106d42","x":-400,"y":120,"width":135,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/尗 - Thúc/叔 - Thúc/叔 - Thúc.canvas"},
+		{"id":"9340af4484cda1bb","x":-382,"y":-200,"width":100,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"b9f660830622ac12","fromNode":"8c3fd4f1ac106d42","fromSide":"right","toNode":"020c244cc142fe1c","toSide":"left"},
+		{"id":"779d9978cb687aa9","fromNode":"9340af4484cda1bb","fromSide":"right","toNode":"020c244cc142fe1c","toSide":"left"}
+	]
+}

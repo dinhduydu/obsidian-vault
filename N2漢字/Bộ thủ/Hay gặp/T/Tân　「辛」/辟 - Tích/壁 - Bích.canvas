@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"98b1d728d07c783b","x":-105,"y":-38,"width":250,"height":60,"type":"text","text":"壁 - Bích"},
+		{"id":"5c14ec9e5066ed41","x":-420,"y":-240,"width":167,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/辟 - Tích/辟 - Tích.canvas"},
+		{"id":"ed3109a671d70d33","x":-410,"y":80,"width":157,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+	],
+	"edges":[
+		{"id":"41bb6fa345ae124a","fromNode":"5c14ec9e5066ed41","fromSide":"right","toNode":"98b1d728d07c783b","toSide":"left"},
+		{"id":"c946aab7b5546ef0","fromNode":"ed3109a671d70d33","fromSide":"right","toNode":"98b1d728d07c783b","toSide":"left"}
+	]
+}

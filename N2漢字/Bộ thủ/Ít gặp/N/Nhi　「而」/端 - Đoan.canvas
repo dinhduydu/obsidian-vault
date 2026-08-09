@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9ef2e0257f999272","x":-94,"y":-43,"width":250,"height":60,"type":"text","text":"端 - Đoan"},
+		{"id":"404573a2baab2870","x":-400,"y":120,"width":184,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/Nhi　「而」.canvas"},
+		{"id":"d51e4d5ea81b302d","x":-740,"y":-77,"width":164,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
+		{"id":"478c2a7c7a5ee7bf","x":-393,"y":-280,"width":177,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+	],
+	"edges":[
+		{"id":"31ef93761c8da027","fromNode":"404573a2baab2870","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"},
+		{"id":"1778d1aadf00a452","fromNode":"d51e4d5ea81b302d","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"},
+		{"id":"65791830add137db","fromNode":"478c2a7c7a5ee7bf","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"}
+	]
+}

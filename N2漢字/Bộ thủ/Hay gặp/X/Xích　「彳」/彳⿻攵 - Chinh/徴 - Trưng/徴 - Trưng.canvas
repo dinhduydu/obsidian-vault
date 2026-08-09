@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ceb23baa1bc6d6b8","x":-460,"y":-340,"width":160,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/彳⿻攵 - Chinh/彳⿻攵 - Chinh.canvas"},
+		{"id":"0360994e771df963","x":-485,"y":-29,"width":185,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"},
+		{"id":"6138899bf1a89881","x":20,"y":10,"width":250,"height":60,"type":"text","text":"徴 - Trưng"},
+		{"id":"1d2be3984ed422e5","x":-444,"y":300,"width":144,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"18e051ad23be5674","fromNode":"ceb23baa1bc6d6b8","fromSide":"right","toNode":"6138899bf1a89881","toSide":"left"},
+		{"id":"1e3499a834786479","fromNode":"0360994e771df963","fromSide":"right","toNode":"6138899bf1a89881","toSide":"left"},
+		{"id":"f0a7a9510ff80e2a","fromNode":"1d2be3984ed422e5","fromSide":"right","toNode":"6138899bf1a89881","toSide":"left"}
+	]
+}

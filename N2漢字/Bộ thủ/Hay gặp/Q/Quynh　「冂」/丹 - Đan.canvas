@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"10aec883a2fb73c2","x":-165,"y":-42,"width":250,"height":60,"type":"text","text":"丹 - Đan"},
+		{"id":"8e23fadbecf4f702","x":-560,"y":-260,"width":140,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/Quynh　「冂」.canvas"},
+		{"id":"896e7ce8cc86c0f1","x":-545,"y":140,"width":125,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"}
+	],
+	"edges":[
+		{"id":"b8fe106615ae3467","fromNode":"8e23fadbecf4f702","fromSide":"right","toNode":"10aec883a2fb73c2","toSide":"left"},
+		{"id":"af1b2d7736d33ef4","fromNode":"896e7ce8cc86c0f1","fromSide":"right","toNode":"10aec883a2fb73c2","toSide":"left"}
+	]
+}

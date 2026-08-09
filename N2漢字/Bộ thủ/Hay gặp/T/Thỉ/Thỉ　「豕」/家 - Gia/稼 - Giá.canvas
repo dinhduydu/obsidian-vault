@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2484905f83b2f341","x":-155,"y":-16,"width":250,"height":60,"type":"text","text":"稼 - Giá"},
+		{"id":"8ce6c5f252fececb","x":-540,"y":-300,"width":124,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas"},
+		{"id":"351bc00d1e2d438f","x":-596,"y":120,"width":180,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/家 - Gia/家 - Gia.canvas"},
+		{"id":"98b7d6cb39807a23","x":280,"y":-280,"width":169,"height":142,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/稼ぐ.md"}
+	],
+	"edges":[
+		{"id":"e23cdff2740a251e","fromNode":"8ce6c5f252fececb","fromSide":"right","toNode":"2484905f83b2f341","toSide":"left"},
+		{"id":"9b297c02fc8bd370","fromNode":"351bc00d1e2d438f","fromSide":"right","toNode":"2484905f83b2f341","toSide":"left"},
+		{"id":"5816376b1334d2de","fromNode":"2484905f83b2f341","fromSide":"right","toNode":"98b7d6cb39807a23","toSide":"left","label":"kiếm tiền"}
+	]
+}

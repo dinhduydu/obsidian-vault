@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e39a3c611f0e48b","x":-133,"y":-39,"width":250,"height":60,"type":"text","text":"濡 - Nhu"},
+		{"id":"f69791ca8b43a103","x":-400,"y":80,"width":148,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/需 - Nhu/需 - Nhu.canvas"},
+		{"id":"92b018ff1b6eab4f","x":-508,"y":-220,"width":216,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+	],
+	"edges":[
+		{"id":"2122e0fe2dfba05b","fromNode":"f69791ca8b43a103","fromSide":"right","toNode":"7e39a3c611f0e48b","toSide":"left"},
+		{"id":"5afee18c644863d4","fromNode":"92b018ff1b6eab4f","fromSide":"right","toNode":"7e39a3c611f0e48b","toSide":"left"}
+	]
+}

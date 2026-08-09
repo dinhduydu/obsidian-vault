@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9a3d219d07e3173a","x":-114,"y":-34,"width":250,"height":60,"type":"text","text":"赦 - Xá"},
+		{"id":"76214a007e14c770","x":-540,"y":-300,"width":163,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/赤 - Xích/赤 - Xích.canvas"},
+		{"id":"02303d947e060c18","x":-517,"y":120,"width":140,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+	],
+	"edges":[
+		{"id":"b846e52e12d19cda","fromNode":"76214a007e14c770","fromSide":"right","toNode":"9a3d219d07e3173a","toSide":"left"},
+		{"id":"e7d253070bb51033","fromNode":"02303d947e060c18","fromSide":"right","toNode":"9a3d219d07e3173a","toSide":"left"}
+	]
+}

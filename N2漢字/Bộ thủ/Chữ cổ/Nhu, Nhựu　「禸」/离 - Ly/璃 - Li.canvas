@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2f7682c27749916c","x":-111,"y":-40,"width":250,"height":60,"type":"text","text":"璃 - Li"},
+		{"id":"df992216b8f2efbb","x":-400,"y":-220,"width":163,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Nhu, Nhựu　「禸」/离 - Ly/离 - Ly.canvas"},
+		{"id":"07d8d97b4d8f2071","x":-423,"y":140,"width":186,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+	],
+	"edges":[
+		{"id":"7466ac14bd3f37d0","fromNode":"df992216b8f2efbb","fromSide":"right","toNode":"2f7682c27749916c","toSide":"left"},
+		{"id":"176891fc419d25b5","fromNode":"07d8d97b4d8f2071","fromSide":"right","toNode":"2f7682c27749916c","toSide":"left"}
+	]
+}

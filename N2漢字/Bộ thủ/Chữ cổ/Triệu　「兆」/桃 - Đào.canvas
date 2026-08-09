@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1cabf4fa369ecd68","x":-98,"y":-53,"width":250,"height":60,"type":"text","text":"桃 - Đào"},
+		{"id":"c6b1e9c08198f38f","x":-380,"y":80,"width":161,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Triệu　「兆」/Triệu　「兆」.canvas"},
+		{"id":"8bad9724680702c6","x":-368,"y":-320,"width":149,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"0292670f1b75115d","fromNode":"c6b1e9c08198f38f","fromSide":"right","toNode":"1cabf4fa369ecd68","toSide":"left"},
+		{"id":"018a2d82778d4101","fromNode":"8bad9724680702c6","fromSide":"right","toNode":"1cabf4fa369ecd68","toSide":"left"}
+	]
+}

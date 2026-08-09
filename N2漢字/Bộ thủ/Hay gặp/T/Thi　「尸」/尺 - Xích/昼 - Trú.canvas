@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56265f5eeec029af","type":"text","text":"昼 - Trú","x":-60,"y":-30,"width":250,"height":60},
+		{"id":"cc564c18daa665c6","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/Đán　「旦」.canvas","x":-520,"y":180,"width":247,"height":245},
+		{"id":"a84818ed2dd7714f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尺 - Xích.canvas","x":-520,"y":-220,"width":137,"height":131}
+	],
+	"edges":[
+		{"id":"fe7bc13160192961","fromNode":"cc564c18daa665c6","fromSide":"right","toNode":"56265f5eeec029af","toSide":"left"},
+		{"id":"942b4df9dc67b1c7","fromNode":"a84818ed2dd7714f","fromSide":"right","toNode":"56265f5eeec029af","toSide":"left"}
+	]
+}

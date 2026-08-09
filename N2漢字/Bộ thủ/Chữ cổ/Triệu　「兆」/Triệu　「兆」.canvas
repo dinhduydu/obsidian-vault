@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"58a57b01d7439b62","x":-73,"y":-41,"width":250,"height":60,"type":"text","text":"Triệu　「兆」"},
+		{"id":"9c0452cd1271e7e9","x":-420,"y":60,"width":182,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
+		{"id":"386cda328a73b797","x":-420,"y":-360,"width":163,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas"},
+		{"id":"f92e0d4a2fd1d11d","x":-409,"y":-160,"width":141,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas"},
+		{"id":"273936147657b27d","x":-925,"y":-248,"width":285,"height":68,"type":"text","text":"**vết nứt trên mai rùa khi bói** → nghĩa gốc là **điềm, dấu hiệu**."},
+		{"id":"c649aee6e7b55e8e","x":-890,"y":-101,"width":250,"height":60,"type":"text","text":"một triệu (10⁶)."}
+	],
+	"edges":[
+		{"id":"d5b2bcd62b337104","fromNode":"9c0452cd1271e7e9","fromSide":"right","toNode":"58a57b01d7439b62","toSide":"left"},
+		{"id":"6b6307f0b74b0fc6","fromNode":"386cda328a73b797","fromSide":"right","toNode":"58a57b01d7439b62","toSide":"left","label":"x2"},
+		{"id":"a6db02883eae1cb1","fromNode":"f92e0d4a2fd1d11d","fromSide":"right","toNode":"58a57b01d7439b62","toSide":"left","label":"x2"},
+		{"id":"68ae93fcf1f367fe","fromNode":"273936147657b27d","fromSide":"right","toNode":"58a57b01d7439b62","toSide":"left"},
+		{"id":"a913407f9a5182ee","fromNode":"c649aee6e7b55e8e","fromSide":"right","toNode":"58a57b01d7439b62","toSide":"left"}
+	]
+}

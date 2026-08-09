@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0bf640fd540b9998","x":-116,"y":-31,"width":250,"height":60,"type":"text","text":"襲 - Tập"},
+		{"id":"21b360187d934720","x":-440,"y":-300,"width":143,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Long　「龍」/Long　「龍」.canvas"},
+		{"id":"31e9bb303f160cd2","x":-485,"y":29,"width":188,"height":221,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"}
+	],
+	"edges":[
+		{"id":"f1b30ffcf1ccdb5a","fromNode":"21b360187d934720","fromSide":"right","toNode":"0bf640fd540b9998","toSide":"left"},
+		{"id":"1c9f832aec62a1b1","fromNode":"31e9bb303f160cd2","fromSide":"right","toNode":"0bf640fd540b9998","toSide":"left"}
+	]
+}

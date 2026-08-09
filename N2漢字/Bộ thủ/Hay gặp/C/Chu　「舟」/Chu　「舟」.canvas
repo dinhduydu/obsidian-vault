@@ -1,11 +1,23 @@
 {
 	"nodes":[
 		{"id":"0689cb8ee792b674","type":"text","text":"Chu　「舟」","x":-113,"y":-45,"width":250,"height":60},
-		{"id":"a9c459b7e5e402fd","x":309,"y":-460,"width":195,"height":113,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/船 - Thuyền.canvas"},
-		{"id":"f8f42e5b9ff8811d","type":"text","text":"thuyền","x":-520,"y":-260,"width":250,"height":60}
+		{"id":"a9c459b7e5e402fd","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/船 - Thuyền.canvas","x":309,"y":-460,"width":195,"height":113},
+		{"id":"f8f42e5b9ff8811d","type":"text","text":"thuyền","x":-520,"y":-260,"width":250,"height":60},
+		{"id":"c9a92c56cf75c4d7","x":309,"y":-80,"width":170,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/航 - Hàng.canvas"},
+		{"id":"ffc399a66cc2bc1b","x":309,"y":-301,"width":177,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/般 - Ban/般 - Ban.canvas"},
+		{"id":"a985b437298ac8df","x":309,"y":180,"width":155,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/舶 - Bạc.canvas"},
+		{"id":"edf9f9d8a5000aa2","x":309,"y":420,"width":146,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Huyền　「玄」/舷 - Huyền.canvas"},
+		{"id":"f35d295416c3cfd4","x":309,"y":720,"width":135,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/廷 - Đình/艇 - Đĩnh.canvas"},
+		{"id":"cd3c84bc70ba9910","x":309,"y":-760,"width":165,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/艦 - Hạm.canvas"}
 	],
 	"edges":[
 		{"id":"03ba0edd5924e382","fromNode":"f8f42e5b9ff8811d","fromSide":"right","toNode":"0689cb8ee792b674","toSide":"left"},
-		{"id":"1bb2696430ae988b","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"a9c459b7e5e402fd","toSide":"left"}
+		{"id":"1bb2696430ae988b","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"a9c459b7e5e402fd","toSide":"left"},
+		{"id":"40a01fce8befde4d","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"c9a92c56cf75c4d7","toSide":"left"},
+		{"id":"f150a6c8565cd412","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"ffc399a66cc2bc1b","toSide":"left"},
+		{"id":"189d8cd7d7e09305","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"a985b437298ac8df","toSide":"left"},
+		{"id":"3995d9bc03bd5968","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"edf9f9d8a5000aa2","toSide":"left"},
+		{"id":"958dc82ab2246c9f","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"f35d295416c3cfd4","toSide":"left"},
+		{"id":"1acece9f6e6cd271","fromNode":"0689cb8ee792b674","fromSide":"right","toNode":"cd3c84bc70ba9910","toSide":"left"}
 	]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"54d7873657816b0b","x":-55,"y":-42,"width":250,"height":60,"type":"text","text":"粒 - Lạp"},
+		{"id":"d4cf7c8a10b8336b","x":-520,"y":-340,"width":190,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
+		{"id":"7e35da952caf80dc","x":-511,"y":120,"width":173,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"}
+	],
+	"edges":[
+		{"id":"36915f8791233fc3","fromNode":"d4cf7c8a10b8336b","fromSide":"right","toNode":"54d7873657816b0b","toSide":"left","label":"hạt nhỏ"},
+		{"id":"6f541f42663687d5","fromNode":"7e35da952caf80dc","fromSide":"right","toNode":"54d7873657816b0b","toSide":"left"}
+	]
+}

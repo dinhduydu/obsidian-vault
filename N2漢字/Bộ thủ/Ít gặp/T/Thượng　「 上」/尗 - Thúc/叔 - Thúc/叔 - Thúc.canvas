@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"684319527f23c2e4","x":-96,"y":-12,"width":250,"height":60,"type":"text","text":"叔 - Thúc"},
+		{"id":"ae06797e5f533955","x":-340,"y":100,"width":159,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Hựu (lại)　「又」.canvas"},
+		{"id":"4394729cd24770df","x":-309,"y":-260,"width":128,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/Thượng　「 上」.canvas"},
+		{"id":"7ae32b374815aec5","x":-600,"y":-50,"width":178,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"}
+	],
+	"edges":[
+		{"id":"716a0d7056f2074a","fromNode":"ae06797e5f533955","fromSide":"right","toNode":"684319527f23c2e4","toSide":"left"},
+		{"id":"c98e075a9f7a7c3f","fromNode":"4394729cd24770df","fromSide":"right","toNode":"684319527f23c2e4","toSide":"left"},
+		{"id":"b46cc164124893ce","fromNode":"7ae32b374815aec5","fromSide":"right","toNode":"684319527f23c2e4","toSide":"left"}
+	]
+}

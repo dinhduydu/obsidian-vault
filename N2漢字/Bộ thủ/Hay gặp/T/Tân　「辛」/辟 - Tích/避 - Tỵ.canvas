@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c7a74fff66d11c53","x":-50,"y":-35,"width":250,"height":60,"type":"text","text":"避 - Tỵ"},
+		{"id":"e4e3b34945fbd38c","x":-460,"y":200,"width":150,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/辟 - Tích/辟 - Tích.canvas"},
+		{"id":"1465b8676858f969","x":-460,"y":-170,"width":150,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+	],
+	"edges":[
+		{"id":"c680f49a56d4c12e","fromNode":"e4e3b34945fbd38c","fromSide":"right","toNode":"c7a74fff66d11c53","toSide":"left"},
+		{"id":"f08018610cc9ce1f","fromNode":"1465b8676858f969","fromSide":"right","toNode":"c7a74fff66d11c53","toSide":"left"}
+	]
+}

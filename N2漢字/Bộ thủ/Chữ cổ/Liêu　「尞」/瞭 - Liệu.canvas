@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"162d538074875243","x":-109,"y":-36,"width":250,"height":60,"type":"text","text":"瞭 - Liệu"},
+		{"id":"65f3ff693c5611f6","x":-380,"y":-220,"width":148,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Liêu　「尞」/Liêu　「尞」.canvas"},
+		{"id":"e9558fd86f035fc9","x":-378,"y":100,"width":146,"height":124,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"},
+		{"id":"e3cadefc4d0bc026","x":-540,"y":-36,"width":250,"height":60,"type":"text","text":"rõ ràng"}
+	],
+	"edges":[
+		{"id":"9bc8bb546768ee02","fromNode":"65f3ff693c5611f6","fromSide":"right","toNode":"162d538074875243","toSide":"left"},
+		{"id":"f7b69898f6edd692","fromNode":"e9558fd86f035fc9","fromSide":"right","toNode":"162d538074875243","toSide":"left"},
+		{"id":"0a455ade83b73c7c","fromNode":"e3cadefc4d0bc026","fromSide":"right","toNode":"162d538074875243","toSide":"left"}
+	]
+}

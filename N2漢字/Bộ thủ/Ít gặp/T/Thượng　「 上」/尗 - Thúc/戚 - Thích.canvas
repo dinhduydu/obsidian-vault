@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b42a085e3b288502","x":-79,"y":0,"width":250,"height":60,"type":"text","text":"戚 - Thích"},
+		{"id":"3039f3ba53f59b23","x":-360,"y":120,"width":159,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thượng　「 上」/尗 - Thúc/尗 - Thúc.canvas"},
+		{"id":"4634af741cbee8e8","x":-409,"y":-109,"width":129,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hán (sườn núi)　「厂」/Hán (sườn núi)　「厂」.canvas"},
+		{"id":"188df5e8a126dbf8","x":-280,"y":-280,"width":108,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/Qua　「戈」.canvas"}
+	],
+	"edges":[
+		{"id":"de516be38576855f","fromNode":"3039f3ba53f59b23","fromSide":"right","toNode":"b42a085e3b288502","toSide":"left"},
+		{"id":"22a4ca0b13da3930","fromNode":"4634af741cbee8e8","fromSide":"right","toNode":"b42a085e3b288502","toSide":"left"},
+		{"id":"7d7093f53df3db5b","fromNode":"188df5e8a126dbf8","fromSide":"right","toNode":"b42a085e3b288502","toSide":"left"}
+	]
+}

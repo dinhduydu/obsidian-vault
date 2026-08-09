@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"029f56a2f2668871","type":"text","text":"称 - Xưng","x":-59,"y":-47,"width":250,"height":60},
+		{"id":"efcf8c3ef0785a97","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/Hoà　「禾」.canvas","x":-600,"y":-85,"width":170,"height":136},
+		{"id":"55a7bb16340b7e8f","x":-320,"y":-280,"width":138,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠂉」/Nhân　「𠂉」.canvas"},
+		{"id":"40f9db486522b0d1","x":-320,"y":120,"width":185,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Tiểu　「小」.canvas"}
+	],
+	"edges":[
+		{"id":"19c7f3f0ec3800ea","fromNode":"efcf8c3ef0785a97","fromSide":"right","toNode":"029f56a2f2668871","toSide":"left"},
+		{"id":"a21f63aa8f7afb6a","fromNode":"55a7bb16340b7e8f","fromSide":"right","toNode":"029f56a2f2668871","toSide":"left"},
+		{"id":"0da60f72db7387ce","fromNode":"40f9db486522b0d1","fromSide":"right","toNode":"029f56a2f2668871","toSide":"left"}
+	]
+}
