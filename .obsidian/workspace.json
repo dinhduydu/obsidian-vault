@@ -232,17 +232,14 @@
             "id": "7b1e7372f3ebb3bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/府 - Phủ/腐 - Hủ.canvas",
-                "viewState": {
-                  "x": 1074.757151500547,
-                  "y": -201.97457772461314,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/[N or Aな- adj] + で、～.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "腐 - Hủ"
+              "icon": "lucide-file",
+              "title": "[N or Aな- adj] + で、～"
             }
           },
           {
@@ -406,8 +403,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -505,9 +501,19 @@
   },
   "active": "7b1e7372f3ebb3bf",
   "lastOpenFiles": [
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/い - adj ( ～い ) chuyển thành ～くて、～.md",
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/[N or Aな- adj] + で、～.md",
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/Từ vựng ngữ pháp Minna bài 16.md",
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/V1て　+　 から,　V2..md",
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16/V1て、V2て、～.md",
+    "N2文法/Tổng hợp ngữ pháp N5/Từ vựng ngữ pháp Minna bài 16",
+    "N2doc/ModelReference/1.1. Hệ thống Tối ưu hóa Phương pháp Học Kanji Heisig.md",
+    "N2文法/Tổng hợp ngữ pháp N5",
+    "N2doc/ModelReference/1. Heisig Model.md",
+    "N2doc/ModelReference/0. Build up model to learn Kanji.md",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/府 - Phủ/腐 - Hủ.canvas",
     "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/1. BẢN DỊCH.md",
     "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/2. TỪ VỰNG NGỮ PHÁP BÀI DỊCH.md",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/府 - Phủ/腐 - Hủ.canvas",
     "Chữa đề/Learning_Profile/Vocabulary/腐らせる.md",
     "Chữa đề/２０２６年/０１月２０２６年/Week3/16012026/1. Phân Tích THA ĐỘNG TỪ - TỰ ĐỘNG TỪ_TEST 1.md",
     "N2漢字/Bộ thủ/Hay gặp/K/Khí　「气」/Khí　「气」.canvas",
@@ -539,17 +545,8 @@
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/１０月行うものとする.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/君ぐらいものだ.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/できるものとして.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/感謝これすれ.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/1日目：感謝これすれ.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/親になってこそ.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/苦労こそあれ.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/見た目こそ悪いが.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ",
-    "Chữa đề/２０２５年/１１月２０２５年/Week4/28112025/2. Phân Tích N2_TEST TỪ VỰNG_BÀI 1.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/受け入れる.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ",
-    "N2文法/Tổng hợp ngữ pháp N1",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",
