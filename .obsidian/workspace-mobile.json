@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "04fc9638976d7ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c160ba72e204ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70938676ab1ede92",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/Dĩ　「㠯」.canvas",
+                "viewState": {
+                  "x": 59.26379478311989,
+                  "y": 3.6554835874777254,
+                  "zoom": -0.3999427502023595
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dĩ　「㠯」"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b74a3c359bbca0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d957d223272d54d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Trình duyệt tệp"
+        }
+      },
+      {
+        "id": "2c65356c4be68691",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Tìm kiếm"
+        }
+      },
+      {
+        "id": "79d0d5f65adcc108",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Thẻ"
+        }
+      },
+      {
+        "id": "26b3d092b03c4fda",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Đánh dấu"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7bc4ed3c9ca43343",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c3978d3b8514da01",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "N2文法/助詞/と/🔗と　ー　Liên kết • Điều kiện • Trích dẫn.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Liên kết đến"
+        }
+      },
+      {
+        "id": "9f34397d8e2c297a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "tools/design/flow.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liên kết đi ra"
+        }
+      },
+      {
+        "id": "3a94bf5ff49f4554",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "tools/design/flow.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Đề cương"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Tạo cơ sở mới": false
+    }
+  },
+  "active": "70938676ab1ede92",
+  "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chức　「戠」/職 - Chức.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/Dĩ　「㠯」.canvas",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/4. Phân Tích N2 điền sao.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week1/07012026/1. Phân Tích N2_BÀI TEST GIỮA GIỜ_BÀI 1.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10. Kính ngữ/10.4. Phân loại kính ngữ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10. Kính ngữ/10. Kính ngữ.md",
+    "N2漢字/Bộ thủ/Chữ cổ/Tuân　「夋」/俊 - Tuấn.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiên　「⺧」/Tiên　「先」/Tiên　「先」.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chổi　「帚」/Chổi　「帚」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/樹 - Thụ.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Liễu　「了」/Liễu　「了」.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/Phiệt　「ノ」.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Khảo　「丂」/誇 - Khoa.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề",
+    "N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」",
+    "N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」",
+    "N2漢字/Bộ thủ/Ít gặp/S/Sửu　「丑」",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/丈 - Trượng",
+    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/県 - Huyện",
+    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương",
+    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh",
+    "N2漢字/Bộ thủ/Ít gặp/K/Khảm「凵」/歯 - Xỉ",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/1. Danh từ Tính ngữ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/19. Động từ/19. Động từ.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/Untitled/Cách kết nối câu.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026/2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3).md",
+    "Chữa đề/Learning_Profile/Grammar/～はずだった.md",
+    "Chữa đề/Learning_Profile/Grammar/～ないわけではない.md",
+    "Chữa đề/Learning_Profile/Grammar/〜とは限らない.md",
+    "Chữa đề/Dashboard.md",
+    "Chữa đề/Learning_Profile/Grammar/〜にもかかわらず.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/15. Trợ từ/15.2. 3. Semantic Tag.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/15. Trợ từ/15. Trợ từ.md",
+    "N2文法/助詞/ばかり/ばかり.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/2. Phân Tích Ngữ Pháp.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/3. Bài test ôn tập 1.md",
+    "N2文法/助詞/と/🔗と　ー　Liên kết • Điều kiện • Trích dẫn.md",
+    "お掛けになる.md",
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/10. Kính ngữ/10.4.1. 尊敬語 (Dạng kính trọng).md",
+    "N2文法/Tổng hợp ngữ pháp N2/N3/N3.2. Kính ngữ (Keigo) và Động từ Cho Nhận.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/20062026/2. Phân Tích N2_NGÀY 13_ÔN TẬP CÁCH DÙNG ĐÚNG CỦA TỪ.md",
+    "Chữa đề/Learning_Profile/Adverb/あいかわらず.md"
+  ]
+}
