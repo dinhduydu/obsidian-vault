@@ -232,14 +232,17 @@
             "id": "7b1e7372f3ebb3bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/Dũng　「甬」.canvas",
+                "viewState": {
+                  "x": 217.8455437538217,
+                  "y": 41.307106205213614,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "〜くらいなら"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dũng　「甬」"
             }
           },
           {
@@ -379,7 +382,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "てこそ",
+                "query": "Thông",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -403,7 +406,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -501,6 +505,11 @@
   },
   "active": "7b1e7372f3ebb3bf",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/通 - Thông.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/Phong　「風」.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/嵐 - Lam.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/そんなことするくらいなら.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/２日目：できるものとして.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/１０月行うものとする.md",
@@ -531,8 +540,6 @@
     "N2文法/Tổng hợp ngữ pháp N2/JLPT Grammar Confusion Index (N3–N1).md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/Bộ icon cố định cho toàn bộ hệ thống ngữ pháp N5 → N1.md",
     "N2文法/Tổng hợp ngữ pháp N3/N3.1. Sai khiến, Bị động và Bị động sai khiến.md",
-    "N2文法/Tổng hợp ngữ pháp N2/N2/N2.1. Sự biến đổi, Đối lập và Quan điểm.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ.md",
     "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/0. Trật tự từ và các trợ từ/Untitled.canvas",
     "N2文法/Tổng hợp ngữ pháp cơ bản/0. Trật tự từ và các trợ từ",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/周 - Chu/周 - Chu.canvas",
@@ -540,9 +547,6 @@
     "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự/澦 - Dự.canvas",
     "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự/預 - Dự.canvas",
     "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng/豫 - Dự.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thỉ/Thỉ　「豕」/象 - Tượng/像 - Tượng.canvas",
     "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân",
     "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/前 - Tiền",
     "N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」",
