@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"33324207fc7da92e","x":-133,"y":-43,"width":250,"height":60,"type":"text","text":"Phong　「風」"}
+		{"id":"33324207fc7da92e","type":"text","text":"Phong　「風」","x":-133,"y":-43,"width":250,"height":60},
+		{"id":"714414ec901d0bf3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/嵐 - Lam.canvas","x":240,"y":-300,"width":207,"height":218},
+		{"id":"abd9ae92b676e42d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-80,"y":-360,"width":163,"height":133},
+		{"id":"ca4ec4ab6b9071b0","x":-560,"y":140,"width":184,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f4a025f66c269a83","fromNode":"33324207fc7da92e","fromSide":"right","toNode":"714414ec901d0bf3","toSide":"left"},
+		{"id":"d9e43695da4a679d","fromNode":"abd9ae92b676e42d","fromSide":"right","toNode":"714414ec901d0bf3","toSide":"left"},
+		{"id":"bebbf438d8a80843","fromNode":"ca4ec4ab6b9071b0","fromSide":"right","toNode":"33324207fc7da92e","toSide":"left"}
+	]
 }

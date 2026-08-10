@@ -8,7 +8,8 @@
 		{"id":"c322d631c241b68f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/苛 - Hà.canvas","x":355,"y":-76,"width":171,"height":99},
 		{"id":"2de7a51fea26e854","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/苦 - Khổ.canvas","x":355,"y":180,"width":180,"height":171},
 		{"id":"70fcad970c82334f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/荷 - Hà.canvas","x":700,"y":-700,"width":195,"height":167},
-		{"id":"c18b998d2de078f4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/何 - Hà.canvas","x":260,"y":-900,"width":234,"height":200}
+		{"id":"c18b998d2de078f4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/何 - Hà.canvas","x":260,"y":-900,"width":234,"height":200},
+		{"id":"1b31958667568364","x":-580,"y":-95,"width":193,"height":136,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas"}
 	],
 	"edges":[
 		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"c322d631c241b68f","toSide":"left"},
@@ -19,6 +20,7 @@
 		{"id":"4c447106d2778546","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"c322d631c241b68f","toSide":"left"},
 		{"id":"cae3b0a363d34e85","fromNode":"9a280b1203b9fdc3","fromSide":"right","toNode":"c18b998d2de078f4","toSide":"left"},
 		{"id":"fdfe6b65bdcd3b7f","fromNode":"59d81de2a645b969","fromSide":"right","toNode":"ab87891c354077e1","toSide":"left"},
-		{"id":"af3b5f2ff85eb00a","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"2de7a51fea26e854","toSide":"left"}
+		{"id":"af3b5f2ff85eb00a","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"2de7a51fea26e854","toSide":"left"},
+		{"id":"fce7ca0b3a30bd07","fromNode":"1b31958667568364","fromSide":"right","toNode":"41854e15f1aef991","toSide":"left"}
 	]
 }

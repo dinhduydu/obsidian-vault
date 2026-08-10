@@ -22,3 +22,6 @@ reload
 [N1] Update
 [N1] Add vocab
 [N1] Update grammar
+[N6] Update grammar
+[N6] Update structure folder
+[N4] Update grammar
