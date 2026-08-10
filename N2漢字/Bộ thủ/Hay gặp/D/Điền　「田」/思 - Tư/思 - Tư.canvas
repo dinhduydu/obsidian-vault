@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"83683e17a23dffac","type":"text","text":"思 - Tư","x":-410,"y":-721,"width":250,"height":60},
+		{"id":"661d19393679f7db","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-1000,"y":-943,"width":179,"height":133},
+		{"id":"3caf997932e3d9a3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":-977,"y":-483,"width":133,"height":143},
+		{"id":"cb28ae47ad4cd93d","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/思い込む.md","x":1740,"y":-943,"width":240,"height":169},
+		{"id":"4d68579e5218f3ff","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/思い出す.md","x":1784,"y":-423,"width":196,"height":165},
+		{"id":"6691c75269a30ff2","type":"text","text":"思 - Tư","x":1160,"y":-153,"width":250,"height":60},
+		{"id":"c307b68e878428b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư/恵 - Huệ/恵 - Huệ.canvas","x":120,"y":-1100,"width":284,"height":259},
+		{"id":"c96b1fc1be35dbac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-320,"y":-1180,"width":110,"height":113}
+	],
+	"edges":[
+		{"id":"be4be18f851ebdc1","fromNode":"661d19393679f7db","fromSide":"right","toNode":"83683e17a23dffac","toSide":"left"},
+		{"id":"899ad35d5eafb9ab","fromNode":"3caf997932e3d9a3","fromSide":"right","toNode":"83683e17a23dffac","toSide":"left"},
+		{"id":"1113f1116e989ae0","fromNode":"6691c75269a30ff2","fromSide":"right","toNode":"cb28ae47ad4cd93d","toSide":"left","label":"Tin chắc, đinh ninh, mặc định (thường là một hiểu lầm)."},
+		{"id":"0fd1370da05f0590","fromNode":"6691c75269a30ff2","fromSide":"right","toNode":"4d68579e5218f3ff","toSide":"left","label":"Nhớ lại, hồi tưởng."},
+		{"id":"f880b48f6cab777d","fromNode":"83683e17a23dffac","fromSide":"right","toNode":"c307b68e878428b0","toSide":"left"},
+		{"id":"82496dd5ed6f1cc2","fromNode":"c96b1fc1be35dbac","fromSide":"right","toNode":"c307b68e878428b0","toSide":"left"}
+	]
+}

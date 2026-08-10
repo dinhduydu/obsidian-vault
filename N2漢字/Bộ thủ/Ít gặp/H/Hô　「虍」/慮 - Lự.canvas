@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"4c749f2aaca8626e","type":"text","text":"慮 - Lự","x":-69,"y":-30,"width":250,"height":60},
 		{"id":"8acfc08e869bbecb","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Hô　「虍」/Hô　「虍」.canvas","x":-520,"y":-280,"width":192,"height":159},
-		{"id":"5cff846edab2c97b","x":-520,"y":100,"width":209,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư.canvas"},
+		{"id":"5cff846edab2c97b","x":-520,"y":100,"width":209,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư/思 - Tư.canvas"},
 		{"id":"e3976da36e06918c","x":-500,"y":-30,"width":250,"height":60,"type":"text","text":"Lưỡng lự"}
 	],
 	"edges":[

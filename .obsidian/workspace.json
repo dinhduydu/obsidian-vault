@@ -234,15 +234,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas",
+                "file": "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こう・そう・ああ.canvas",
                 "viewState": {
-                  "x": -309.33232337822943,
-                  "y": 0.7998724488946891,
-                  "zoom": 0.1570373265863393
+                  "x": 296.5,
+                  "y": -310,
+                  "zoom": -0.47185832884715834
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Thảo　「艸 (艹)」"
+              "title": "こう・そう・ああ"
             }
           },
           {
@@ -382,7 +382,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Đáp.",
+                "query": "Trùng",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -504,16 +504,26 @@
   },
   "active": "7b1e7372f3ebb3bf",
   "lastOpenFiles": [
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/搭 - Đáp.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/塔 - Tháp.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/答 - Đáp.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/Dũng　「甬」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Dũng　「勇」/通 - Thông.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/Phong　「風」.canvas",
+    "Chữa đề/Learning_Profile/Demonstratives/そう.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
+    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こう・そう・ああ.canvas",
+    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こんな・そんな・あんな.canvas",
+    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/1回目.md",
+    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目",
+    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice",
+    "N2文法/Untitled/Tổng hợp ngữ pháp N3.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/Trùng　「虫」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/嵐 - Lam.canvas",
+    "N2文法/Tổng hợp ngữ pháp N4",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/畑 - Điền.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/累 - Luỵ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư/思 - Tư.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư/恵 - Huệ/恵 - Huệ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư",
+    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/卑 - Ti/卑 - Ti.canvas",
+    "Chữa đề/Learning_Profile/CompoundVerb/思い出す.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/思い込む.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/3. Phân Tích N2_TV_ĐỘNG TỪ GHÉP.md",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/そんなことするくらいなら.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして/２日目：できるものとして.md",
@@ -527,7 +537,6 @@
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ/見た目こそ悪いが.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/２日目：できるものとして",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/1日目：感謝これすれ",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
     "Chữa đề/２０２５年/１１月２０２５年/Week4/28112025/2. Phân Tích N2_TEST TỪ VỰNG_BÀI 1.md",
     "Chữa đề/Learning_Profile/CompoundVerb/受け入れる.md",
     "～においてこそ.md",
@@ -539,17 +548,8 @@
     "N2文法/Điền sao/Kết cấu trợ từ, từ loại trong câu.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ",
     "N2文法/Tổng hợp ngữ pháp N1",
-    "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
-    "N2文法/Điền sao/Cách kết hợp của các dạng ngữ pháp cơ bản và trợ từ.md",
-    "N2文法/Tổng hợp ngữ pháp N2/JLPT Grammar Confusion Index (N3–N1).md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/Bộ icon cố định cho toàn bộ hệ thống ngữ pháp N5 → N1.md",
-    "N2文法/Tổng hợp ngữ pháp N3/N3.1. Sai khiến, Bị động và Bị động sai khiến.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/0. Trật tự từ và các trợ từ",
     "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/預 - Dự",
-    "N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/具 - Cụ/真 - Chân",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/前 - Tiền",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a056931cc55abd34","x":-112,"y":-44,"width":250,"height":60,"type":"text","text":"碑 - Bi"},
-		{"id":"94ebf2df4abaf4b0","x":-460,"y":55,"width":177,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/卑 - Ti.canvas"},
+		{"id":"94ebf2df4abaf4b0","x":-460,"y":55,"width":177,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/卑 - Ti/卑 - Ti.canvas"},
 		{"id":"ef54580afa5b80e4","x":-460,"y":-260,"width":159,"height":171,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/Thạch　「石 」/Thạch　「石 」.canvas"}
 	],
 	"edges":[

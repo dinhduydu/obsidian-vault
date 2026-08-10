@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"8262ccc685d133f4","x":-120,"y":-460,"width":290,"height":340,"type":"group","label":"こう・そう・ああ"},
+		{"id":"d7be69ca3bcb6049","x":-100,"y":-440,"width":250,"height":60,"type":"text","text":"こう"},
+		{"id":"f8254d29d235cc58","x":-100,"y":-320,"width":250,"height":60,"type":"text","text":"そう"},
+		{"id":"3cc64ae163e9de67","x":-100,"y":-200,"width":250,"height":60,"type":"text","text":"ああ"},
+		{"id":"b07e6f9d1f756c8e","type":"text","text":"V","x":460,"y":-320,"width":250,"height":60},
+		{"id":"b6489e8f70cc6bac","x":880,"y":-500,"width":393,"height":50,"type":"text","text":"私は日本語をこうやって勉強しました。"},
+		{"id":"86dc26d2dae2992c","x":-680,"y":-362,"width":197,"height":145,"type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/そう.md"}
+	],
+	"edges":[
+		{"id":"52f4ba5f5d8d0494","fromNode":"d7be69ca3bcb6049","fromSide":"right","toNode":"b07e6f9d1f756c8e","toSide":"left"},
+		{"id":"6bd5660c41ab00ee","fromNode":"f8254d29d235cc58","fromSide":"right","toNode":"b07e6f9d1f756c8e","toSide":"left"},
+		{"id":"35573ec78e86676b","fromNode":"3cc64ae163e9de67","fromSide":"right","toNode":"b07e6f9d1f756c8e","toSide":"left"},
+		{"id":"415004bd7f8df246","fromNode":"b07e6f9d1f756c8e","fromSide":"right","toNode":"b6489e8f70cc6bac","toSide":"left"},
+		{"id":"68aaa9ead513a7db","fromNode":"86dc26d2dae2992c","fromSide":"right","toNode":"f8254d29d235cc58","toSide":"left"}
+	]
+}
