@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"210a92a07a4c0d5c","x":35,"y":266,"width":250,"height":60,"type":"text","text":"結果"},
+		{"id":"0bde5c92f58db929","x":42,"y":396,"width":250,"height":60,"type":"text","text":"によって"},
+		{"id":"706bfec786f38d80","x":-5,"y":524,"width":250,"height":60,"type":"text","text":"ことから"},
+		{"id":"ee514494ce16504a","x":-91,"y":699,"width":250,"height":60,"type":"text","text":"わけだ"},
+		{"id":"d2269d5b60086023","x":241,"y":698,"width":250,"height":60,"type":"text","text":"というわけだ"},
+		{"id":"74be95f629a33ff1","x":-960,"y":-19,"width":250,"height":60,"type":"text","text":"1. Nguyên nhân lý do"},
+		{"id":"fcef89e026f85f1b","x":-90,"y":11,"width":250,"height":60,"type":"text","text":"からには"},
+		{"id":"6a7c85d86bdcb51d","type":"text","text":"せいで","x":-280,"y":-1160,"width":250,"height":60},
+		{"id":"c5756a7bb7cdd781","x":-280,"y":-960,"width":250,"height":60,"type":"text","text":"おかげで"},
+		{"id":"2343b5e497bcbb67","x":-280,"y":-680,"width":250,"height":60,"type":"text","text":"ために"}
+	],
+	"edges":[
+		{"id":"fed92dc35ba44d67","fromNode":"ee514494ce16504a","fromSide":"right","toNode":"d2269d5b60086023","toSide":"left"},
+		{"id":"3b9799ec3a03fb12","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"6a7c85d86bdcb51d","toSide":"left","label":"vì, do, bởi tại"},
+		{"id":"028580d4a076b23b","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"c5756a7bb7cdd781","toSide":"left","label":"nhờ có, nhờ vào"},
+		{"id":"69f0455eb873ef0b","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"2343b5e497bcbb67","toSide":"left","label":"bởi vì, lý do"},
+		{"id":"4e2dd5f3e6d2d1ed","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"fcef89e026f85f1b","toSide":"left","label":"bởi vì, nên"},
+		{"id":"6c7ec884f73bcd65","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"210a92a07a4c0d5c","toSide":"left","label":"do đó, bởi vậy ... nên"},
+		{"id":"28458adfed46d77a","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"0bde5c92f58db929","toSide":"left","label":"do, bởi"},
+		{"id":"aaa1ee595e48dda5","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"706bfec786f38d80","toSide":"left","label":"vì là có việc, bởi ...."},
+		{"id":"dc7bf2abec7031b1","fromNode":"74be95f629a33ff1","fromSide":"right","toNode":"ee514494ce16504a","toSide":"left","label":"hèn chi, chẳng trách là, vậy nên"}
+	]
+}

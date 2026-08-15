@@ -232,14 +232,17 @@
             "id": "7b1e7372f3ebb3bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/18. Câu cầu khiến/18. Câu cầu khiến.md",
-                "mode": "source",
-                "source": false
+                "file": "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
+                "viewState": {
+                  "x": -162.72812675873377,
+                  "y": 285.84726957987124,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "18. Câu cầu khiến"
+              "icon": "lucide-layout-dashboard",
+              "title": "1. Nguyên nhân lý do"
             }
           },
           {
@@ -499,8 +502,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "7b1e7372f3ebb3bf",
   "lastOpenFiles": [
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/Untitled.md",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/N3.1. Sai khiến, Bị động và Bị động sai khiến.md",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật",
+    "N2文法/Tổng hợp ngữ pháp N3/N3.2. Kính ngữ (Keigo) và Động từ Cho Nhận.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/3. Phó từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15. Trợ từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/18. Câu cầu khiến/18. Câu cầu khiến.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/18. Câu cầu khiến",
     "N2文法/Tổng hợp ngữ pháp cơ bản/Bộ icon cố định cho toàn bộ hệ thống ngữ pháp N5 → N1.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17. Câu hỏi.md",
@@ -519,24 +530,16 @@
     "N2文法/Tổng hợp ngữ pháp cơ bản/9. Từ chỉ định",
     "N2文法/Tổng hợp ngữ pháp cơ bản/7. Câu điều kiện/7. Câu điều kiện.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/8. Liên kết",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/7. Câu điều kiện",
     "N2文法/Tổng hợp ngữ pháp cơ bản/6. So sánh/6. So sánh.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/6. So sánh",
     "N2文法/Tổng hợp ngữ pháp cơ bản/5. Mệnh đề/5. Mệnh đề.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/20. Cách kết nối câu/20. Cách kết nối câu.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1. Danh từ Tính ngữ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/3. Phó từ.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15.1.4. Trợ từ kết thúc câu.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15.1.2. Trợ từ nhấn mạnh - Phó trợ từ.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15.1.1. Trợ từ chỉ cách.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15.1.3. Trợ từ liên kết - tiếp nối.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/15. Trợ từ.md",
     "AI_Context/Chưa đặt tên.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/この話は聞かなかったことにしてください.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/彼のことだから.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/状況を知ることなしに.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/慌てことのないように.md",
-    "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/３日目：彼のことだから.md",
     "AI_Context/N2漢字_Context.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/付 - Phó/府 - Phủ/腐 - Hủ.canvas",
     "N2漢字/Bộ thủ/Hay gặp/K/Khí　「气」/Khí　「气」.canvas",
@@ -546,7 +549,6 @@
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/逸 - Dật.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/A/亜 - Á/要 - Yếu/腰 - Yêu.canvas",
     "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こう・そう・ああ.canvas",
-    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こんな・そんな・あんな.canvas",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",
