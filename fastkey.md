@@ -24,7 +24,7 @@ reload
 [N1] Update grammar
 [N6] Update grammar
 [N6] Update structure folder
-[N6] Update
+[N6] Re-allocate doc
 [N4] Update grammar
 [N5] Update grammar
 [N3] Update grammar

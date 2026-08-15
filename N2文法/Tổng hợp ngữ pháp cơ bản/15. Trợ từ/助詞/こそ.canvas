@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"05bab5c78abd8712","type":"group","x":-1940,"y":-1124,"width":1615,"height":884,"color":"2","label":"からこそ"},
-		{"id":"1d0d22eb0aa316f8","type":"file","file":"N2文法/助詞/から.canvas","x":-737,"y":-692,"width":400,"height":400},
+		{"id":"1d0d22eb0aa316f8","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/から.canvas","x":-737,"y":-692,"width":400,"height":400},
 		{"id":"ff05df410ed7fc81","type":"text","text":"こそ","x":-214,"y":-26,"width":250,"height":60},
 		{"id":"dc2b31031d7ce7f2","type":"file","file":"Pasted image 20260409075755.png","x":-1500,"y":-631,"width":540,"height":279},
 		{"id":"de1f88a37ff735a8","type":"text","text":"からこそ","x":-1111,"y":-1084,"width":250,"height":60},

@@ -9,7 +9,7 @@
 		{"id":"3fc3bc5f5604cf5d","type":"text","text":"という = “rằng / gọi là / cái gọi là / việc là”","x":-206,"y":1580,"width":308,"height":100},
 		{"id":"55b175afad532f38","type":"text","text":"いう","x":-177,"y":1906,"width":250,"height":60},
 		{"id":"e336e484ff937bbb","type":"file","file":"Pasted image 20260410084620.png","x":-855,"y":1840,"width":400,"height":193},
-		{"id":"af884af36ed9cb19","type":"file","file":"N2文法/助詞/と/という.canvas","x":-252,"y":1040,"width":400,"height":400}
+		{"id":"af884af36ed9cb19","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/という.canvas","x":-252,"y":1040,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"b686696ed44af780","fromNode":"55b175afad532f38","fromSide":"left","toNode":"e336e484ff937bbb","toSide":"right","label":"からいう"},
