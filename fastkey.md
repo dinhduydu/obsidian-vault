@@ -2,7 +2,14 @@ pullnote
 pushnote
 openalias
 reload
+
+[AI] Save context
+
 53. Đinh Duy Dự
+[N1] Update
+[N1] Add vocab
+[N1] Update grammar
+
 [N2] Update
 [N2] Correcting exercises
 [N2] Push doc
@@ -19,12 +26,14 @@ reload
 [N2] Update tool and DB
 [N2] Update path of files
 [N2][Read book] Update note
-[N1] Update
-[N1] Add vocab
-[N1] Update grammar
+
+[N3] Update grammar
+
+[N4] Update grammar
+
+[N5] Update grammar
+
+[N6] Update doc
+[N6] Re-allocate doc
 [N6] Update grammar
 [N6] Update structure folder
-[N6] Re-allocate doc
-[N4] Update grammar
-[N5] Update grammar
-[N3] Update grammar
