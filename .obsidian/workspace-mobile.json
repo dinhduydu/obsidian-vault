@@ -11,17 +11,14 @@
             "id": "70938676ab1ede92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/録 - Lục.canvas",
-                "viewState": {
-                  "x": -385.4125304664892,
-                  "y": -152.7107441285591,
-                  "zoom": -0.0050166947682157926
-                }
+                "file": "AI_Context/Chưa đặt tên 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "録 - Lục"
+              "icon": "lucide-file",
+              "title": "Chưa đặt tên 2"
             }
           }
         ]
@@ -161,6 +158,8 @@
   },
   "active": "70938676ab1ede92",
   "lastOpenFiles": [
+    "N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/録 - Lục.canvas",
+    "AI_Context/Chưa đặt tên 2.md",
     "AI_Context/Chưa đặt tên 1.md",
     "AI_Context/Chưa đặt tên.md",
     "N2文法/Tổng hợp ngữ pháp N1/日本語総まとめ/３日目：彼のことだから/状況を知ることなしに.md",
@@ -204,8 +203,6 @@
     "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh",
     "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/1. Danh từ Tính ngữ.md",
     "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ.md",
-    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/19. Động từ/19. Động từ.md",
-    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/Untitled/Cách kết nối câu.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026/2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3).md"
+    "N2文法/Tổng hợp ngữ pháp N2/Ngữ pháp cơ bản/19. Động từ/19. Động từ.md"
   ]
 }
