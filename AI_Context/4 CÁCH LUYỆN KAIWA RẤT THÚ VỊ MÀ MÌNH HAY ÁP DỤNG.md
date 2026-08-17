@@ -1,5 +1,3 @@
-4 CÁCH LUYỆN KAIWA RẤT THÚ VỊ MÀ MÌNH HAY ÁP DỤNG
-
 Trong số các nhân vật mình yêu thích, Shinobu cô trụ cột vừa cá tính lại dịu dàng trong Kimetsu no Yaiba là một hình mẫu cực đặc biệt mà mình rất mê. Không ồn ào hay lớn tiếng, những từng lời cô ấy nói đều khiến người khác phải dừng lại ngẫm nghĩ.
 Chính vì thế, mình chọn shadowing các đoạn thoại của cô ấy như một cách để luyện kaiwa, học cách nói chuyện tinh tế, biết dùng câu vừa đúng, vừa biết truyền đạt đúng nội dung và cảm xúc.
 

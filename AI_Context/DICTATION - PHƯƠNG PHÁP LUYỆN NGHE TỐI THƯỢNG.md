@@ -1,5 +1,3 @@
-DICTATION - PHƯƠNG PHÁP LUYỆN NGHE TỐI THƯỢNG
-
 Hôm nay mình sẽ hướng dẫn cho các bạn một phương pháp luyện nghe cực cực hiệu quả nhé.
 
 Nói đơn giản, Listening Dictation nghĩa là bạn sử dụng một nguồn audio khoảng 3-5 phút với độ khó vừa sức (Nhạc, podcast, radio, bài phát biểu của Shinzo Abe...v.v, bất cứ thứ gì cũng được miễn là bạn nghe được khoảng 80% và còn lại 20% thì không biết) và nhiệm vụ của bạn là nghe + chép lại chính xác từng câu từng chữ trong đoạn audio đó. Cách này nghe thì đơn giản phải không, nhưng khi thật sự làm rồi mới thấy không dễ tí nào.
