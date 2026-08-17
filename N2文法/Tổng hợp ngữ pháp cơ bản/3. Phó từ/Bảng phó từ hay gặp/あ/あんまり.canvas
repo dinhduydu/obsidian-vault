@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5646df54b10c99f5","x":-53,"y":-24,"width":250,"height":60,"type":"text","text":"あんまり"},
+		{"id":"ac1b910fedf24ac1","x":378,"y":-154,"width":250,"height":60,"type":"text","text":"rất, lắm"}
+	],
+	"edges":[
+		{"id":"e45d38b7e3ce456a","fromNode":"5646df54b10c99f5","fromSide":"right","toNode":"ac1b910fedf24ac1","toSide":"left"}
+	]
+}

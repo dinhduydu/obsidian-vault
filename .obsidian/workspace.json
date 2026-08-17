@@ -234,7 +234,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/27. Kính ngữ.canvas",
+                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "27. Kính ngữ"
+              "title": "あんまり"
             }
           },
           {
@@ -382,7 +382,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "腐",
+                "query": "あんまり",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -504,17 +504,21 @@
   },
   "active": "7b1e7372f3ebb3bf",
   "lastOpenFiles": [
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/26. Khuynh hướng.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/27. Kính ngữ.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/25. Hối hận.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/24. Khuyên bảo - Đề nghị - Chỉ trích.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/23. Xác nhận - Đính chính.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/22. Mục đích.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/21. Đồng thời - Song song.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/20. Nguyện vọng - Kỳ vọng.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/19. Quyết định.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/18. Suy đoán - Suy luận.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/17. Cho phép.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/い",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あるいは.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
+    "Chữa đề/Learning_Profile/Conjunction/あるいは.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/19112025/1. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 2.md",
+    "N2文法/あまり・だけ/だけ.canvas",
+    "N2文法/あまり・だけ/だけ　ー　Knowledge Graph.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あまり.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あまり.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/うっかり.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/がらがら.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/さっぱり.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/2, Tương phản - Đối lập.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
     "N2文法/Tổng hợp ngữ pháp N3/N3.2. Kính ngữ (Keigo) và Động từ Cho Nhận.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/📅 Thời gian & Tần suất.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/⏳Thay đổi theo thời gian.md",
@@ -545,11 +549,7 @@
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/04_Căn cứ_Nguyên nhân/04_Căn cứ_Nguyên nhân.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/05_Thay đổi_Tương ứng",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/04_Căn cứ_Nguyên nhân",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/03_So sánh_Đối chiếu/03_So sánh_Đối chiếu.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/03_So sánh_Đối chiếu",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/01_Đích đến_Đối tượng/01_Đích đến_Đối tượng.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/02_Góc nhìn_Tiêu chuẩn đánh giá/02_Góc nhìn_Tiêu chuẩn đánh giá.md",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

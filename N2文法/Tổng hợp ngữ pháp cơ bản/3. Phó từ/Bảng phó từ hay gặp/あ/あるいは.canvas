@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ef075c5c8c19b911","type":"text","text":"あるいは","x":-99,"y":-42,"width":250,"height":60},
+		{"id":"7ea98668a98d4970","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/あるいは.md","x":440,"y":-137,"width":270,"height":250}
+	],
+	"edges":[
+		{"id":"dfd66eca17a9866a","fromNode":"ef075c5c8c19b911","fromSide":"right","toNode":"7ea98668a98d4970","toSide":"left","label":"hoặc là, cũng có thể là"}
+	]
+}
