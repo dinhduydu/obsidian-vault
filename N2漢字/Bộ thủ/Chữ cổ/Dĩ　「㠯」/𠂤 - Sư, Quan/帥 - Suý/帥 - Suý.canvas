@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"4aeff4f2900caca2","x":-123,"y":-66,"width":250,"height":60,"type":"text","text":"帥 - Suý"},
-		{"id":"af095905b587b10f","x":-500,"y":-280,"width":195,"height":191,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas"},
-		{"id":"bf2a133e995473b5","x":-576,"y":-6,"width":271,"height":300,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+		{"id":"4aeff4f2900caca2","type":"text","text":"帥 - Suý","x":-123,"y":-66,"width":250,"height":60},
+		{"id":"af095905b587b10f","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas","x":-500,"y":-280,"width":195,"height":191},
+		{"id":"bf2a133e995473b5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-576,"y":-6,"width":271,"height":300},
+		{"id":"bd125613c2cd5fb1","x":360,"y":-280,"width":121,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/帥 - Suý/師 - Sư.canvas"},
+		{"id":"f1d98fcdb49ff71b","x":127,"y":-419,"width":138,"height":139,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
 	],
 	"edges":[
 		{"id":"3b9a6b377cf9e3ac","fromNode":"af095905b587b10f","fromSide":"right","toNode":"4aeff4f2900caca2","toSide":"left"},
-		{"id":"8845a5b54b3bb202","fromNode":"bf2a133e995473b5","fromSide":"right","toNode":"4aeff4f2900caca2","toSide":"left"}
+		{"id":"8845a5b54b3bb202","fromNode":"bf2a133e995473b5","fromSide":"right","toNode":"4aeff4f2900caca2","toSide":"left"},
+		{"id":"70ea597ee86ceba5","fromNode":"4aeff4f2900caca2","fromSide":"right","toNode":"bd125613c2cd5fb1","toSide":"left"},
+		{"id":"0318e7ffed8f1aba","fromNode":"f1d98fcdb49ff71b","fromSide":"right","toNode":"bd125613c2cd5fb1","toSide":"left"}
 	]
 }
