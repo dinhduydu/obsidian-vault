@@ -1,0 +1,1 @@
+> Phần này tiếp nối các chủ điểm N5, tập trung vào những cấu trúc quan trọng xuất hiện từ **Bài 26 đến Bài 50 của Minna no Nihongo Sơ cấp II**, tương ứng chủ yếu với trình độ **JLPT N4**.
