@@ -28,6 +28,7 @@ reload
 [N2][Read book] Update note
 
 [N3] Update grammar
+[N3] Update adverb
 
 [N4] Update grammar
 

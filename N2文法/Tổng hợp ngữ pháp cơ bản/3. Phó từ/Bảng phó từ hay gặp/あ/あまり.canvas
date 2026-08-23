@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"419b5ad6363af2d0","x":-297,"y":-147,"width":1097,"height":644,"color":"3","type":"group","label":"～あまり　＆＆　～だけに"},
+		{"id":"419b5ad6363af2d0","type":"group","x":-297,"y":-147,"width":1097,"height":644,"color":"3","label":"～あまり　＆＆　～だけに"},
 		{"id":"21cdfb232a7150cd","type":"group","x":-1900,"y":-347,"width":963,"height":400,"color":"1","label":"あまり～ない"},
 		{"id":"fe4414e6c8c700f2","type":"group","x":-2080,"y":-840,"width":670,"height":140,"color":"4","label":"あまりにも"},
 		{"id":"515200bec93ca71d","type":"file","file":"Pasted image 20260410080219.png","x":-744,"y":-274,"width":394,"height":113},
@@ -14,7 +14,7 @@
 		{"id":"10ffe4cd576be111","type":"text","text":"あまりの～に","x":-1457,"y":320,"width":250,"height":60},
 		{"id":"362573027c76924a","type":"file","file":"Pasted image 20260409080229.png","x":101,"y":-485,"width":400,"height":206},
 		{"id":"198820d5fb2844e8","type":"text","text":"～あまり","x":-100,"y":265,"width":250,"height":50},
-		{"id":"5ac1fc5111407e64","x":442,"y":265,"width":260,"height":207,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～だけに.md"},
+		{"id":"5ac1fc5111407e64","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～だけに.md","x":442,"y":265,"width":260,"height":207},
 		{"id":"2275d0fba1da1df6","type":"file","file":"Pasted image 20260409080154.png","x":101,"y":-120,"width":399,"height":214}
 	],
 	"edges":[
