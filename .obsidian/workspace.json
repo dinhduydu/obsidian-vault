@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/5 cụm lớn để học N4.md",
+                "file": "AI_Context/TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 cụm lớn để học N4"
+              "title": "TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ"
             },
             "group": "b225438fe6ea06ae"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/5 cụm lớn để học N4.md",
+                "file": "AI_Context/TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000067,
+                  "scale": 1.4019828977761117,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 5 cụm lớn để học N4"
+              "title": "Graph of TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ"
             },
             "group": "b225438fe6ea06ae"
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "あんまり",
+                "query": "Yết",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +222,30 @@
   },
   "active": "1eaf0bd22a494f9d",
   "lastOpenFiles": [
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.2. Khiêm nhường ngữ – 謙譲語.md",
+    "AI_Context/TIP_Mình đã học tiếng Nhật nhanh hơn nhờ thay đổi 5 thói quen này....md",
+    "N2読解/JLPT N2 Reading Analyzer.md",
+    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/掲 - Yết.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/謁 - Yết.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas",
+    "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/1. BẢN DỊCH.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/3. Phân Tích N2_TV_CỤM TỪ ĐỒNG ÂM KHÁC NGHĨA.md",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/2. TỪ VỰNG NGỮ PHÁP BÀI DỊCH.md",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/27. Kính ngữ.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/16. Đánh giá.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/2, Tương phản - Đối lập.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/3. Điều kiện.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/4. Điều kiện trái nghĩa.canvas",
+    "N2文法/Tổng hợp ngữ pháp N3/N3.2. Kính ngữ (Keigo) và Động từ Cho Nhận.md",
+    "N2文法/Tổng hợp ngữ pháp N3/N3.1. Sai khiến, Bị động và Bị động sai khiến.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/5 cụm lớn để học N4.md",
+    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/27. ～ていただけませんか – Nhờ vả lịch sự/27.2. Thể khả năng.md",
+    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/28. ～とき – Khi, lúc/28. ～とき – Khi, lúc.md",
+    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/27. ～ていただけませんか – Nhờ vả lịch sự/27. ～ていただけませんか – Nhờ vả lịch sự.md",
+    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/28. ～とき – Khi, lúc/28.2. ながら.md",
+    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.2. Khiêm nhường ngữ – 謙譲語.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.1. Tôn kính ngữ – 尊敬語.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/49. ～らしい ・ ～ようです – Có vẻ, hình như/49.2. ～ようです.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語",
@@ -242,34 +264,12 @@
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán/44.2. Thể Cấm đoán.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/45. ～場合は – Trong trường hợp",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán/44.1. Thể Mệnh lệnh.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/43. ～ても – Dù cho ・ mặc dù/43. ～ても – Dù cho ・ mặc dù.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/42. ～たら – Nếu ・ sau khi/42. ～たら – Nếu ・ sau khi.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/43. ～ても – Dù cho ・ mặc dù",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/42. ～たら – Nếu ・ sau khi/Untitled.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/41. ～予定です – Dự kiến, kế hoạch/41. ～予定です – Dự kiến, kế hoạch.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/42. ～たら – Nếu ・ sau khi",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/40. ～つもりです – Dự định/40. ～つもりです – Dự định.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/41. ～予定です – Dự kiến, kế hoạch",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/39. Thể ý chí ～よう ・ ～おう/39. Thể ý chí ～よう ・ ～おう.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/38. ～てあげる ・ ～てくれる ・ ～てもらう/38. ～てあげる ・ ～てくれる ・ ～てもらう.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/37. Mệnh đề bổ nghĩa danh từ/37. Mệnh đề bổ nghĩa danh từ.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/36. ～ように – Để ・ sao cho/36. ～ように – Để ・ sao cho.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/35. ～てある – Trạng thái được chuẩn bị/35. ～てある – Trạng thái được chuẩn bị.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/34. ～そうです – Trông có vẻ…/34. ～そうです – Trông có vẻ….md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/33. ～てしまう – Làm xong ・ lỡ làm/33. ～てしまう – Làm xong ・ lỡ làm.md",
-    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こう・そう・ああ.canvas",
-    "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こんな・そんな・あんな.canvas",
     "N2doc/ThaoLeJLPT/N2/Kanji/Lộ_trình_ngữ_pháp_N2.png",
     "Lộ_trình_ngữ_pháp_N2.png",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/し/しっかり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/さ/さっぱり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/う/うっかり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/き/きっぱり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/が/がらがら.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あまり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あるいは.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
     "Pasted image 20260707003836.png",
     "Pasted image 20260707003445.png",
     "Pasted image 20260707003425.png",

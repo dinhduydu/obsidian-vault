@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"64f5a9597c5ca504","x":-240,"y":-180,"width":320,"height":300,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.1. Tôn kính ngữ – 尊敬語.md"},
+		{"id":"084db0ae133ef487","x":-240,"y":260,"width":350,"height":297,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.2. Khiêm nhường ngữ – 謙譲語.md"}
+	],
+	"edges":[]
+}
