@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"48c1e43850e08865","type":"text","text":"Hành động cho đi","x":-620,"y":-360,"width":250,"height":60},
+		{"id":"0911080867ac2172","type":"text","text":"Hành động nhận lại","x":-620,"y":-100,"width":250,"height":60},
+		{"id":"ce565d75d9d6fb64","x":-220,"y":-560,"width":241,"height":124,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/あげる.canvas"},
+		{"id":"3707d825df86ee9c","x":-192,"y":-300,"width":185,"height":110,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/くれる.canvas"},
+		{"id":"d94387c0f16bc261","x":-192,"y":-60,"width":197,"height":143,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/もらう.canvas"}
+	],
+	"edges":[
+		{"id":"f54022b1b847e4eb","fromNode":"48c1e43850e08865","fromSide":"right","toNode":"ce565d75d9d6fb64","toSide":"left"},
+		{"id":"857577f240d339c1","fromNode":"48c1e43850e08865","fromSide":"right","toNode":"3707d825df86ee9c","toSide":"left"},
+		{"id":"bd200cb46e31b0de","fromNode":"0911080867ac2172","fromSide":"right","toNode":"d94387c0f16bc261","toSide":"left"}
+	]
+}
