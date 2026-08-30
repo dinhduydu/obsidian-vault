@@ -4,69 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "48a1498886e2ebca",
+        "id": "691330e02cfc0e55",
         "type": "tabs",
         "children": [
           {
-            "id": "1eaf0bd22a494f9d",
+            "id": "7d28a1fb3c0f8d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Context/TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
+                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17. Câu hỏi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ"
-            },
-            "group": "b225438fe6ea06ae"
-          }
-        ]
-      },
-      {
-        "id": "db5e13f0ffebb854",
-        "type": "tabs",
-        "children": [
+              "title": "17. Câu hỏi"
+            }
+          },
           {
-            "id": "5877f3dee24db9c8",
+            "id": "50fc39146b946ba8",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "AI_Context/TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761117,
-                  "close": false
-                }
+                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2. Dạng thức của động từ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ"
-            },
-            "group": "b225438fe6ea06ae"
+              "icon": "lucide-file",
+              "title": "19.2. Dạng thức của động từ"
+            }
+          },
+          {
+            "id": "6d3ddb4d4a1e6cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.15. Dạng bị động cầu khiến.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.2.15. Dạng bị động cầu khiến"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yết",
+                "query": "Tương　",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,54 +204,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eaf0bd22a494f9d",
+  "active": "6d3ddb4d4a1e6cfb",
   "lastOpenFiles": [
-    "AI_Context/TIP_Mình đã học tiếng Nhật nhanh hơn nhờ thay đổi 5 thói quen này....md",
-    "N2読解/JLPT N2 Reading Analyzer.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.14. Dạng cầu khiến.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.13. Dạng thể hiện quyết tâm.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.12. Dạng mệnh lệnh.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.11. Dạng thể hiện sự kính trọng.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.10. Dạng bị động.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.9. Dạng khả năng.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.8. Dạng 「たら」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.7. Dạng 「ば」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.6. Dạng 「た」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.5. Dạng 「て」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.4. Dạng 「ます」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.3. Dạng kết hợp (dạng tiền tố - ます).md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2. Dạng thức của động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.15. Dạng bị động cầu khiến.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.1. Dạng từ điển.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2.2. Dạng 「ない」.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/19.3. Loại động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.4. Thì của động từ/19.4. Thì của động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.1. Phân loại động từ/19.1. Phân loại động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.4. Thì của động từ",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19. Động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.1. Phân loại động từ",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/18. Câu cầu khiến/18. Câu cầu khiến.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17.3. Câu hỏi phức.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17.2. Câu hỏi nội dung.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17. Câu hỏi.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17.1. Câu hỏi nghi vấn.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/16. Cụm vị ngữ/16. Cụm vị ngữ.md",
+    "N2文法/Từ điển các dùng thông thường các từ và cụm từ",
+    "AI_Context/N2漢字_Context.canvas",
     "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
     "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/掲 - Yết.canvas",
     "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/謁 - Yết.canvas",
     "N2漢字/Bộ thủ/Ít gặp/H/Hạt　「曷」/Hạt　「曷」.canvas",
-    "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/1. BẢN DỊCH.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/3. Phân Tích N2_TV_CỤM TỪ ĐỒNG ÂM KHÁC NGHĨA.md",
-    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week1/06112025/2. TỪ VỰNG NGỮ PHÁP BÀI DỊCH.md",
     "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/27. Kính ngữ.canvas",
     "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/16. Đánh giá.canvas",
     "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
     "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/2, Tương phản - Đối lập.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/3. Điều kiện.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/4. Điều kiện trái nghĩa.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/N3.2. Kính ngữ (Keigo) và Động từ Cho Nhận.md",
-    "N2文法/Tổng hợp ngữ pháp N3/N3.1. Sai khiến, Bị động và Bị động sai khiến.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/5 cụm lớn để học N4.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/27. ～ていただけませんか – Nhờ vả lịch sự/27.2. Thể khả năng.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/28. ～とき – Khi, lúc/28. ～とき – Khi, lúc.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/27. ～ていただけませんか – Nhờ vả lịch sự/27. ～ていただけませんか – Nhờ vả lịch sự.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/28. ～とき – Khi, lúc/28.2. ながら.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.2. Khiêm nhường ngữ – 謙譲語.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語/50.1. Tôn kính ngữ – 尊敬語.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/49. ～らしい ・ ～ようです – Có vẻ, hình như/49.2. ～ようです.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/50. Kính ngữ cơ bản – 尊敬語・謙譲語",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/49. ～らしい ・ ～ようです – Có vẻ, hình như/49.1. ～らしい.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/49. ～らしい ・ ～ようです – Có vẻ, hình như/49. ～らしい ・ ～ようです – Có vẻ, hình như.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/48. ～ために – Để, vì mục đích/48. ～ために – Để, vì mục đích.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/49. ～らしい ・ ～ようです – Có vẻ, hình như",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/47. ～ようになります – Trở nên có thể ・ thay đổi trạng thái/47. ～ようになります – Trở nên có thể ・ thay đổi trạng thái.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/48. ～ために – Để, vì mục đích",
-    "Chữa đề/Learning_Profile/Grammar/〜ようになる.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/19062026/1. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP JLPT 12.2025_TEST 1.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/46. ～のに – Mặc dù ・ dù/46. ～のに – Mặc dù ・ dù.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/47. ～ようになります – Trở nên có thể ・ thay đổi trạng thái",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/45. ～場合は – Trong trường hợp/45. ～場合は – Trong trường hợp.md",
     "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/46. ～のに – Mặc dù ・ dù",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán/44.2. Thể Cấm đoán.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/45. ～場合は – Trong trường hợp",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán/44.1. Thể Mệnh lệnh.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/44. Thể mệnh lệnh và thể cấm đoán",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/43. ～ても – Dù cho ・ mặc dù",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/42. ～たら – Nếu ・ sau khi",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/41. ～予定です – Dự kiến, kế hoạch",
     "N2doc/ThaoLeJLPT/N2/Kanji/Lộ_trình_ngữ_pháp_N2.png",
     "Lộ_trình_ngữ_pháp_N2.png",
     "Pasted image 20260707003836.png",

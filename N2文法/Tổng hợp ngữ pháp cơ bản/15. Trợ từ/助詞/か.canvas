@@ -41,10 +41,10 @@
 		{"id":"1f5dca1f66de5bd8","type":"text","text":"しないかのことで","x":1823,"y":393,"width":250,"height":60},
 		{"id":"9f50a088ee3f259e","type":"text","text":"かのうちで","x":1419,"y":527,"width":250,"height":60},
 		{"id":"e6c4998397bfbcf6","type":"text","text":"Vるか","x":1741,"y":638,"width":250,"height":60},
-		{"id":"6af062a47b1811f3","x":-525,"y":1621,"width":250,"height":60,"type":"text","text":"thể hiện aimai, mơ hồ\nseika -> có lẽ là phải"},
-		{"id":"eb93945ad10ad051","x":-558,"y":1722,"width":250,"height":60,"type":"text","text":"ka\n- phủ định\n- monoka\n- "},
-		{"id":"cd888eda80a852a4","x":-591,"y":1842,"width":250,"height":60,"type":"text","text":"nomika -> ko chỉ\ntương đương nominarazu\n"},
-		{"id":"a4c62bc38c5f75d2","x":-591,"y":1914,"width":250,"height":60,"type":"text","text":"khẳng định thêm ka\nkotoka\n"}
+		{"id":"6af062a47b1811f3","type":"text","text":"thể hiện aimai, mơ hồ\nseika -> có lẽ là phải","x":-525,"y":1621,"width":250,"height":60},
+		{"id":"eb93945ad10ad051","type":"text","text":"ka\n- phủ định\n- monoka\n- ","x":-558,"y":1722,"width":250,"height":60},
+		{"id":"cd888eda80a852a4","type":"text","text":"nomika -> ko chỉ\ntương đương nominarazu\n","x":-591,"y":1842,"width":250,"height":60},
+		{"id":"a4c62bc38c5f75d2","type":"text","text":"khẳng định thêm ka\nkotoka\n","x":-591,"y":1914,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"561c79f8c108ed58","fromNode":"027d1094a420e132","fromSide":"bottom","toNode":"1889f1eee2f61630","toSide":"top","label":"ものか　（もんか）"},
