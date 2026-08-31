@@ -5,11 +5,15 @@ reload
 
 [AI] Save context
 
+[Lap] Update key
+
 53. Đinh Duy Dự
+
+# N1
 [N1] Update
 [N1] Add vocab
 [N1] Update grammar
-
+# N2
 [N2] Update
 [N2] Correcting exercises
 [N2] Push doc
@@ -26,16 +30,18 @@ reload
 [N2] Update tool and DB
 [N2] Update path of files
 [N2][Read book] Update note
-
+# N3
 [N3] Update grammar
 [N3] Update adverb
-
+# N4
 [N4] Update grammar
-
+# N5
 [N5] Update grammar
-
+# N6
 [N6] Update doc
 [N6] Re-allocate doc
 [N6] Update grammar
 [N6] Update structure folder
 
+# git cmd
+alias ='git log --graph --oneline --decorate --all --color'
