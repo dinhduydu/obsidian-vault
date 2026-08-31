@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34c160ba72e204ad",
+        "id": "4b8fef313afac68b",
         "type": "tabs",
         "children": [
           {
-            "id": "70938676ab1ede92",
+            "id": "22a0dfa519bc2189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Context/Chưa đặt tên 2.md",
+                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/19.3.1. Ngoại động từ và Nội động từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chưa đặt tên 2"
+              "title": "19.3.1. Ngoại động từ và Nội động từ"
             }
           }
         ]
@@ -156,10 +156,20 @@
       "bases:Tạo cơ sở mới": false
     }
   },
-  "active": "70938676ab1ede92",
+  "active": "22a0dfa519bc2189",
   "lastOpenFiles": [
-    "AI_Context/Chưa đặt tên 1.md",
+    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/ある (trợ động từ).md",
+    "Chữa đề/Learning_Profile/Adverb/- Adverb_ Sắc thái_ Thay đổi từng chút một theo thời gian. Mẫu_ 徐々に行動するようになる..md",
+    "Chưa đặt tên 2.base",
+    "2026-08-31.md",
+    "Chưa đặt tên 1.canvas",
+    "Chưa đặt tên 1.base",
+    "Chưa đặt tên.canvas",
+    "Chưa đặt tên.base",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/19.3.1. Ngoại động từ và Nội động từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/19.3. Loại động từ.md",
     "AI_Context/Chưa đặt tên 2.md",
+    "AI_Context/Chưa đặt tên 1.md",
     "AI_Context/Chưa đặt tên.md",
     "N2文法/Tổng hợp ngữ pháp N2/N2/N2.5.  Bản chất, Thói quen và Cảm xúc (Mono).md",
     "N2文法/Tổng hợp ngữ pháp N2/N2/N2.2. Nhấn mạnh, Điều kiện và Kết quả.md",
@@ -182,27 +192,17 @@
     "AI_Context/PV_Chilling_developer Tips phỏng vấn công ty Product Nhật 🇯🇵.md",
     "AI_Context/TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
     "AI_Context/PV_Kiểu ứng viên được đánh giá cao khi phỏng vấn.md",
-    "AI_Context/Chilling_developer Tips phỏng vấn công ty Product Nhật 🇯🇵.md",
-    "AI_Context/Mình đã học tiếng Nhật nhanh hơn nhờ thay đổi 5 thói quen này....md",
-    "AI_Context/1. Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
     "N2文法/Tổng hợp ngữ pháp N4/JLPT Ngữ Pháp N4 Point and Practice/1回目/こう・そう・ああ.canvas",
     "N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/Dĩ　「㠯」.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chức　「戠」/職 - Chức.canvas",
-    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/4. Phân Tích N2 điền sao.md",
     "N2漢字/Bộ thủ/Chữ cổ/Tuân　「夋」/俊 - Tuấn.canvas",
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Thánh　「圣」/Thánh　「圣」.canvas",
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiên　「⺧」/Tiên　「先」/Tiên　「先」.canvas",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tuân　「夋」/Tuân　「夋」.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chổi　「帚」/Chổi　「帚」.canvas",
     "N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」",
     "N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề",
     "N2漢字/Bộ thủ/Ít gặp/T/Truật　「朮」",
     "N2漢字/Bộ thủ/Ít gặp/T/Tam　「三」",
     "N2漢字/Bộ thủ/Ít gặp/S/Sửu　「丑」",
-    "N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/丈 - Trượng",
-    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/県 - Huyện",
-    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương",
-    "N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/更 - Canh"
+    "N2漢字/Bộ thủ/Ít gặp/N/Nghệ　「㐅」/丈 - Trượng"
   ]
 }

@@ -1,0 +1,1 @@
+ある có thể được đặt trước một N chung nhằm diễn tả chủ thể nào đó nhưng không nói rõ đó là cái nào/ai
