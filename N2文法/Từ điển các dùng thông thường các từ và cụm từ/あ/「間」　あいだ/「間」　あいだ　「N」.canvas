@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a024f0852d447de4","type":"text","text":"「間」　あいだ　「N」","x":-98,"y":-23,"width":250,"height":60},
+		{"id":"88ba962d63f98c8d","type":"text","text":"Danh từ","x":-540,"y":-260,"width":250,"height":60},
+		{"id":"7461db046a60e37f","type":"file","file":"Chữa đề/Learning_Profile/Adverb/この間.md","x":440,"y":-760,"width":264,"height":127},
+		{"id":"eb0ea430a2b742eb","type":"text","text":"間に","x":539,"y":-23,"width":250,"height":60},
+		{"id":"b94028f71d3f1b7d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/いつの間にか.md","x":1100,"y":-500,"width":349,"height":146},
+		{"id":"f1cb77229bd7f7ab","type":"file","file":"Chữa đề/Learning_Profile/Collocation/間に合う.md","x":1240,"y":-240,"width":280,"height":173},
+		{"id":"0360a5a33f79cea2","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/間に合う.md","x":1240,"y":37,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"84e6f2339f30979f","fromNode":"a024f0852d447de4","fromSide":"left","toNode":"88ba962d63f98c8d","toSide":"right"},
+		{"id":"cc4b5d38fc499b95","fromNode":"a024f0852d447de4","fromSide":"right","toNode":"7461db046a60e37f","toSide":"left","label":"この間"},
+		{"id":"8703e1f264c62342","fromNode":"88ba962d63f98c8d","fromSide":"right","toNode":"7461db046a60e37f","toSide":"left"},
+		{"id":"51da63e87d8bfeae","fromNode":"a024f0852d447de4","fromSide":"right","toNode":"eb0ea430a2b742eb","toSide":"left","label":"間に"},
+		{"id":"d7ee4319efa5d49c","fromNode":"eb0ea430a2b742eb","fromSide":"right","toNode":"b94028f71d3f1b7d","toSide":"left","label":"いつの間にか"},
+		{"id":"c7dd4fb9c28b7d45","fromNode":"eb0ea430a2b742eb","fromSide":"right","toNode":"f1cb77229bd7f7ab","toSide":"left"},
+		{"id":"840427b39457164f","fromNode":"eb0ea430a2b742eb","fromSide":"right","toNode":"0360a5a33f79cea2","toSide":"left"}
+	]
+}

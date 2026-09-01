@@ -1,0 +1,1 @@
+- あいだ là N chỉ một vị trí hoặc một thời điểm ở giữa hai điểm nào đó (về không gian hoặc thời gian)

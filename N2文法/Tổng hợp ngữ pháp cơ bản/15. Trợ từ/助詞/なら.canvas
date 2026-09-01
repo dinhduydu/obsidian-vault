@@ -4,21 +4,29 @@
 		{"id":"08fff89a8d501f12","type":"text","text":"なら","x":120,"y":-5,"width":250,"height":60},
 		{"id":"9f12974f4a0e3854","type":"text","text":"Diễn tả ý chí phán đoán, nguyện vọng của người nói, sau khi tiếp nhận lời mà đối phương nói","x":-420,"y":-360,"width":350,"height":140},
 		{"id":"917b0372f2948012","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vば・たら・なら.canvas","x":-513,"y":-680,"width":186,"height":138},
-		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1260,"y":-82,"width":400,"height":207},
 		{"id":"5d12104658a778d3","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それなら.md","x":-2160,"y":-760,"width":400,"height":400},
 		{"id":"8a517bc5b3f51ac9","type":"file","file":"Chữa đề/Learning_Profile/Grammar/だけなら.md","x":-2160,"y":-220,"width":400,"height":400},
 		{"id":"44dbb2e3e97ddd3e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようなら.md","x":-2160,"y":280,"width":400,"height":400},
 		{"id":"a682a523a9607564","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものなら.md","x":-2160,"y":780,"width":400,"height":400},
 		{"id":"73f5aa7517216a00","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいなら.md","x":-1540,"y":780,"width":400,"height":400},
-		{"id":"40107dc4208be3ea","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜でならない.md","x":-940,"y":780,"width":400,"height":400},
-		{"id":"ded08e624df668bb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない.md","x":-420,"y":780,"width":400,"height":400},
-		{"id":"39fc953a95ef9874","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない _ 〜でならない.md","x":170,"y":780,"width":400,"height":400},
-		{"id":"50248fa4106fd1b0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のみならず.md","x":-1540,"y":280,"width":400,"height":400}
+		{"id":"effaf93436de7f4d","type":"file","file":"Pasted image 20260412210925.png","x":-1231,"y":-5,"width":400,"height":207},
+		{"id":"449072b05ba4e3dc","x":-1200,"y":-360,"width":369,"height":225,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ならともかく.md"},
+		{"id":"43c8ce26e1b36a25","x":800,"y":-5,"width":250,"height":60,"type":"text","text":"ならない"},
+		{"id":"ded08e624df668bb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない.md","x":1390,"y":240,"width":400,"height":400},
+		{"id":"39fc953a95ef9874","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てならない _ 〜でならない.md","x":2090,"y":480,"width":400,"height":400},
+		{"id":"40107dc4208be3ea","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜でならない.md","x":1050,"y":780,"width":400,"height":400},
+		{"id":"50248fa4106fd1b0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のみならず.md","x":1520,"y":-490,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"bd534816bf10ceea","fromNode":"08fff89a8d501f12","fromSide":"left","toNode":"b6911b4630d01961","toSide":"right","label":"ならともかく"},
 		{"id":"579a483457b32397","fromNode":"b6911b4630d01961","fromSide":"left","toNode":"effaf93436de7f4d","toSide":"right","label":"ならともかく"},
 		{"id":"dc12bf892ea9aeb4","fromNode":"08fff89a8d501f12","fromSide":"top","toNode":"9f12974f4a0e3854","toSide":"right","label":"なら"},
-		{"id":"e88ffb973aced693","fromNode":"917b0372f2948012","fromSide":"bottom","toNode":"9f12974f4a0e3854","toSide":"top","label":"なら"}
+		{"id":"e88ffb973aced693","fromNode":"917b0372f2948012","fromSide":"bottom","toNode":"9f12974f4a0e3854","toSide":"top","label":"なら"},
+		{"id":"e8c6408d5f41cc79","fromNode":"b6911b4630d01961","fromSide":"left","toNode":"449072b05ba4e3dc","toSide":"right"},
+		{"id":"b3bcebde6d3134b7","fromNode":"ded08e624df668bb","fromSide":"right","toNode":"39fc953a95ef9874","toSide":"left"},
+		{"id":"9ca96c948a7dd16b","fromNode":"ded08e624df668bb","fromSide":"bottom","toNode":"40107dc4208be3ea","toSide":"top"},
+		{"id":"2a3187532103376d","fromNode":"08fff89a8d501f12","fromSide":"right","toNode":"43c8ce26e1b36a25","toSide":"left"},
+		{"id":"85b3a27ec2b9f974","fromNode":"43c8ce26e1b36a25","fromSide":"right","toNode":"ded08e624df668bb","toSide":"top"},
+		{"id":"9d29456c0a2f4971","fromNode":"43c8ce26e1b36a25","fromSide":"right","toNode":"50248fa4106fd1b0","toSide":"left"}
 	]
 }

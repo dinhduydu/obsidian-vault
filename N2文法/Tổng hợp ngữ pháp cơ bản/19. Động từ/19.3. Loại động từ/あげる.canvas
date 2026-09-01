@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"4d88e49d5b545273","x":-145,"y":-21,"width":250,"height":60,"type":"text","text":"あげる"}
+		{"id":"4d88e49d5b545273","type":"text","text":"あげる","x":-145,"y":-21,"width":250,"height":60},
+		{"id":"a1901ebcfe2f2fa4","x":360,"y":-280,"width":221,"height":109,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/成果をあげる.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"62d093eebaee7736","fromNode":"4d88e49d5b545273","fromSide":"right","toNode":"a1901ebcfe2f2fa4","toSide":"left"}
+	]
 }
