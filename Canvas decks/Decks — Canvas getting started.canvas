@@ -1,0 +1,94 @@
+{
+	"nodes": [
+		{
+			"id": "intro",
+			"type": "text",
+			"text": "# Canvas getting started\n\nThis canvas is also a flashcard deck. Every text node below holds one or more cards, parsed with the same formats as a Markdown deck. The deck tag is `#decks/canvas`.\n\nDrag nodes around, edit text, add more — every text node in this folder's .canvas files becomes part of your deck.",
+			"x": -640,
+			"y": -360,
+			"width": 560,
+			"height": 320
+		},
+		{
+			"id": "header-paragraph",
+			"type": "text",
+			"text": "# Header-paragraph cards\n\n## What makes a canvas deck different from a Markdown deck?\n\nEach text node is parsed independently. Mix formats freely across nodes.\n\n## Where does the plugin look for canvas decks?\n\nInside the folder configured at Settings → Canvas decks. This file lives there.",
+			"x": 40,
+			"y": -360,
+			"width": 560,
+			"height": 320
+		},
+		{
+			"id": "table",
+			"type": "text",
+			"text": "# Table cards\n\n## FSRS concepts\n\n| Front | Back | Notes |\n| --- | --- | --- |\n| What does FSRS stand for? | Free Spaced Repetition Scheduler | The algorithm Decks uses to schedule cards |\n| What are the four review ratings? | Again, Hard, Good, Easy | Again resets the card; Easy gives the longest interval |",
+			"x": -640,
+			"y": 40,
+			"width": 560,
+			"height": 320
+		},
+		{
+			"id": "cloze",
+			"type": "text",
+			"text": "# Cloze cards\n\n## The solar system\n\nThe ==Sun== is the star at the center of our solar system. The closest planet is ==Mercury==, and the largest planet is ==Jupiter==.",
+			"x": 40,
+			"y": 40,
+			"width": 560,
+			"height": 320
+		},
+		{
+			"id": "spatial-intro",
+			"type": "text",
+			"text": "# Spatial cards\n\nConnect text nodes with edges. Each edge becomes a card — the from-node is the front, the to-node is the back, the edge label is a hint. Cards in a chain (A → B → C) all generate cards. Standalone (unconnected) nodes still parse with the four formats above.",
+			"x": -640,
+			"y": 440,
+			"width": 560,
+			"height": 200
+		},
+		{
+			"id": "spatial-photosynthesis",
+			"type": "text",
+			"text": "Photosynthesis",
+			"x": 40,
+			"y": 440,
+			"width": 200,
+			"height": 80
+		},
+		{
+			"id": "spatial-sunlight",
+			"type": "text",
+			"text": "Sunlight",
+			"x": 320,
+			"y": 380,
+			"width": 200,
+			"height": 80
+		},
+		{
+			"id": "spatial-glucose",
+			"type": "text",
+			"text": "Glucose",
+			"x": 320,
+			"y": 540,
+			"width": 200,
+			"height": 80
+		}
+	],
+	"edges": [
+		{
+			"id": "edge-spatial-needs",
+			"fromNode": "spatial-photosynthesis",
+			"fromSide": "right",
+			"toNode": "spatial-sunlight",
+			"toSide": "left",
+			"label": "needs"
+		},
+		{
+			"id": "edge-spatial-produces",
+			"fromNode": "spatial-photosynthesis",
+			"fromSide": "right",
+			"toNode": "spatial-glucose",
+			"toSide": "left",
+			"label": "produces"
+		}
+	]
+}

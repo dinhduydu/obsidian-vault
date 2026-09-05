@@ -1,0 +1,96 @@
+{
+  "review": {
+    "showProgress": true,
+    "enableKeyboardShortcuts": true,
+    "shortcuts": {
+      "again": "1",
+      "hard": "2",
+      "good": "3",
+      "easy": "4",
+      "reveal": " "
+    },
+    "sessionDuration": 25,
+    "nextDayStartsAt": 4,
+    "leechThreshold": 8,
+    "denseCardCharThreshold": 500,
+    "hasGlobalReviewCap": false,
+    "globalReviewCapAmount": 100
+  },
+  "parsing": {
+    "folderSearchPath": "",
+    "deckTag": "#decks"
+  },
+  "canvasDecks": {
+    "folderPath": "Canvas decks",
+    "tagName": "#decks/canvas"
+  },
+  "ui": {
+    "enableBackgroundRefresh": true,
+    "backgroundRefreshInterval": 120,
+    "enableNotices": false,
+    "hideAnchorTokensInEditor": true,
+    "reviewDisplayMode": "modal",
+    "flashcardManagerDisplayMode": "modal",
+    "aiGeneratorDisplayMode": "modal",
+    "pinnedDeckIds": [],
+    "deckListSort": "name-asc",
+    "deckListView": "tree",
+    "minDeckCardCount": 0,
+    "collapsedDeckNodeIds": [],
+    "managerColumnWidths": {},
+    "lastSeenVersion": "2.9.3"
+  },
+  "backup": {
+    "enableAutoBackup": true,
+    "maxBackups": 5
+  },
+  "debug": {
+    "enableLogging": false,
+    "performanceLogs": false
+  },
+  "paths": {
+    "dbFolder": "",
+    "backupFolder": "",
+    "syncLogFolder": "",
+    "pdfCacheFolder": ""
+  },
+  "i18n": {
+    "language": "auto"
+  },
+  "ai": {
+    "enabled": false,
+    "provider": "openai",
+    "models": {
+      "gemini": "gemini-3.5-flash",
+      "openai": "gpt-5.4-mini",
+      "claude": "claude-haiku-4-5-20251001",
+      "openai-compatible": "gemma3",
+      "decks-pro": "decks-tier-fast"
+    },
+    "customModel": {},
+    "localBaseUrl": "http://localhost:11434/v1",
+    "proBaseUrl": "",
+    "proSiteUrl": "",
+    "deviceId": ""
+  },
+  "templates": {
+    "templateFolder": "Decks Templates"
+  },
+  "exam": {
+    "questionCount": 0,
+    "timeLimitMinutes": 0,
+    "passScorePct": 60,
+    "shuffleQuestions": true,
+    "shuffleOptions": true,
+    "feedbackTiming": "end",
+    "selectionMode": "random",
+    "typedGrading": "tolerant",
+    "optionLabels": "letters"
+  },
+  "hasCreatedTestDeck": true,
+  "hasCreatedCanvasTestDeck": true,
+  "hasCreatedExamDeck": true,
+  "orphanPruneV1Done": true,
+  "anchorMigrationV1Done": false,
+  "examsPresetMappingDone": true
+}
