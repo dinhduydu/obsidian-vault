@@ -1,0 +1,3 @@
+- あいだ là N chỉ một vị trí hoặc một thời điểm ở giữa hai điểm nào đó (về không gian hoặc thời gian)
+- Nó còn có nghĩa là một khoảng thời gian khi một sự kiện hoặc hành động nào đó đang diễn ra.
+- あいだ thường được sử dụng với các trợ từ để tạo ra các cụm trạng ngữ

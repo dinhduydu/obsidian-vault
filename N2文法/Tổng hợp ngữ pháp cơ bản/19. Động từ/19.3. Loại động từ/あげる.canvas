@@ -1,9 +1,17 @@
 {
 	"nodes":[
 		{"id":"4d88e49d5b545273","type":"text","text":"あげる","x":-145,"y":-21,"width":250,"height":60},
-		{"id":"a1901ebcfe2f2fa4","x":360,"y":-280,"width":221,"height":109,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/成果をあげる.md"}
+		{"id":"a1901ebcfe2f2fa4","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/成果をあげる.md","x":360,"y":-280,"width":221,"height":109},
+		{"id":"594448c52f51b2cc","x":-460,"y":-203,"width":206,"height":182,"type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あげる.md"},
+		{"id":"3d774983c165b48b","x":367,"y":-57,"width":214,"height":133,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/築きあげる.md"},
+		{"id":"52b232efcc4f4a2b","x":367,"y":323,"width":278,"height":109,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/38. ～てあげる ・ ～てくれる ・ ～てもらう/38. ～てあげる ・ ～てくれる ・ ～てもらう.md"},
+		{"id":"450c74a948d12b4e","x":900,"y":76,"width":273,"height":175,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜させてあげる.md"}
 	],
 	"edges":[
-		{"id":"62d093eebaee7736","fromNode":"4d88e49d5b545273","fromSide":"right","toNode":"a1901ebcfe2f2fa4","toSide":"left"}
+		{"id":"62d093eebaee7736","fromNode":"4d88e49d5b545273","fromSide":"right","toNode":"a1901ebcfe2f2fa4","toSide":"left"},
+		{"id":"d111cb091a00835d","fromNode":"594448c52f51b2cc","fromSide":"right","toNode":"4d88e49d5b545273","toSide":"left"},
+		{"id":"7ec6de332b814eff","fromNode":"4d88e49d5b545273","fromSide":"right","toNode":"3d774983c165b48b","toSide":"left"},
+		{"id":"2de000de12df4d3e","fromNode":"52b232efcc4f4a2b","fromSide":"right","toNode":"450c74a948d12b4e","toSide":"left"},
+		{"id":"9c32095a93ab987d","fromNode":"4d88e49d5b545273","fromSide":"right","toNode":"52b232efcc4f4a2b","toSide":"left"}
 	]
 }
