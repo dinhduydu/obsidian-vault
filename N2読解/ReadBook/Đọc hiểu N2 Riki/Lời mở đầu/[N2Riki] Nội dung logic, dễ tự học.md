@@ -1,0 +1,3 @@
+- Lộ trình từ nền tảng đến vận dụng:
+	- hiểu văn bản - nắm dạng câu hỏi - mở rộng tư duy - luyện theo dạng bài đọc
+- Cách triển khai này giúp người học dễ theo dõi, dễ tự học và từng bước nâng cao kỹ năng đọc hiểu 1 cách bền vững

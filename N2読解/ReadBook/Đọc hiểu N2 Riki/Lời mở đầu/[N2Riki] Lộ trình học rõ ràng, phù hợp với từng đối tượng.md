@@ -1,0 +1,4 @@
+- 4 tuần cho người muốn ôn cấp tốc
+- 6 tuần cho người học ở mức trung bình khá
+- 8 tuần cho người cần củng cố từ nền tảng
+- Mỗi lộ trình đều chia theo tuần và buổi học cụ thể, có kiến thức trọng tâm kèm bài tập ứng dụng, giúp bạn học đến đâu luyện đến đó

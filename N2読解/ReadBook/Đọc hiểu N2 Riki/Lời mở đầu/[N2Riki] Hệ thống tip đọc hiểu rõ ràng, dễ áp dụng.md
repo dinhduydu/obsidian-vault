@@ -1,0 +1,2 @@
+- Sách cung cấp các tip đọc hiểu bám sát từng bài học, giúp bạn biết cách nhận diện dấu hiệu quan trọng, bám từ khoá, xác định mạch ý và loại trừ đáp án nhiễu.
+- Đây là phần hỗ trợ rất hiệu quả để tăng tốc đọc và nâng cao độ chính xác khi làm bài.

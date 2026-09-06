@@ -1,0 +1,6 @@
+- Không dừng ở mức tìm đáp án, cuốn sách còn giúp người học mở rộng tư duy đọc hiểu qua các nội dung như:
+	- so sánh - đối chiếu
+	- ẩn dụ
+	- cách nói khác
+- Đây là phần rất quan trọng để nâng cao khả năng suy luận, hiểu cách diễn đạt gián tiếp và nắm được dụng ý của tác giả.
+- Nhờ đó, bạn không chỉ làm tốt bài thi mà còn từng bước nâng cao năng lực đọc hiểu tiếng Nhật thực chất

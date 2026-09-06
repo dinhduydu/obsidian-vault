@@ -1,0 +1,8 @@
+- Sách ko đi theo hướng chỉ chữa đề hay đưa ra đáp án
+- Giúp người học xây dựng nền tảng đọc hiểu từ bản chất
+- Các kiến thức cốt lõi của văn bản như:
+	- Chủ đề - Ví dụ
+	- Nguyên nhân - Kết quả
+	- Quan điểm chung - Phản biện
+	- Đặt câu hỏi - Trả lời
+- Đây là các yếu tố quan trọng giúp đọc bạn hiểu bài đọc đúng từ gốc, thay vì chỉ đoán ý 1 cách cảm tính
