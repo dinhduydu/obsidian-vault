@@ -24,6 +24,7 @@ reload
 [N2] Update tool and DB
 [N2] Update path of files
 [N2] Correcting exercises
+[N2] Update dokkai
 [N2] Push doc
 [N2] Add vocab
 [N2][AI] Update AI context

@@ -39,14 +39,17 @@
             "id": "6d3ddb4d4a1e6cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng.md",
-                "mode": "source",
-                "source": false
+                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
+                "viewState": {
+                  "x": 663.6340435050722,
+                  "y": 567.285932907953,
+                  "zoom": -2.094293427003982
+                }
               },
-              "icon": "lucide-file",
-              "title": "[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng"
+              "icon": "lucide-layout-dashboard",
+              "title": "[N2Riki] Lời mở đầu"
             }
           }
         ],
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng.md",
+                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -216,13 +219,13 @@
   },
   "active": "6d3ddb4d4a1e6cfb",
   "lastOpenFiles": [
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Nội dung logic, dễ tự học.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Có mini test và đề thi thực chiến.md",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Xây nền từ gốc, không học mẹo rời rạc.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Mở rộng tư duy đọc hiểu, giúp hiểu sâu chứ không chỉ đọc lướt.md",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
+    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Có mini test và đề thi thực chiến.md",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Bám sát các dạng câu hỏi thường gặp trong đề thi.md",
+    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng.md",
+    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Nội dung logic, dễ tự học.md",
+    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Mở rộng tư duy đọc hiểu, giúp hiểu sâu chứ không chỉ đọc lướt.md",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Hệ thống tip đọc hiểu rõ ràng, dễ áp dụng.md",
     "N2読解/ReadBook/Đọc hiểu N2 Riki/[N2Riki] Lời mở đầu.md",
@@ -252,7 +255,6 @@
     "N2文法/button example/button template.md",
     "Decks Templates/Vocabulary card.md",
     "Canvas decks/Decks — Canvas getting started.canvas",
-    "Chữa đề/２０２６年/０８月２０２６年/Week4/30082026/1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8.md",
     "N2読解/Template",
     "N2読解/Prompt",
     "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT",
