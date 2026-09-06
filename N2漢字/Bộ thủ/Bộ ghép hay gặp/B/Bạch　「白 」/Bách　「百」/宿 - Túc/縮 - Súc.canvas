@@ -1,11 +1,25 @@
 {
 	"nodes":[
-		{"id":"a6e3b0e6219d3c85","x":-116,"y":-37,"width":250,"height":60,"type":"text","text":"縮 - Súc"},
-		{"id":"4ff692d0279e624f","x":-440,"y":-260,"width":164,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas"},
-		{"id":"69651d22a264a996","x":-450,"y":40,"width":174,"height":167,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"4ff692d0279e624f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas","x":-440,"y":-260,"width":164,"height":155},
+		{"id":"69651d22a264a996","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-450,"y":40,"width":174,"height":167},
+		{"id":"a6e3b0e6219d3c85","type":"text","text":"縮 - Súc","x":-116,"y":-37,"width":250,"height":60},
+		{"id":"acdb2d01d082aa9b","type":"text","text":"縮 - Súc","x":360,"y":-320,"width":250,"height":60},
+		{"id":"ba63ccac487db1e9","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/恐縮でございます.md","x":820,"y":-560,"width":262,"height":153},
+		{"id":"001b2b4f8dc22251","type":"text","text":"縮 - Súc","x":388,"y":-74,"width":250,"height":60},
+		{"id":"b3a5e31dc461b5a4","type":"file","file":"Chữa đề/Learning_Profile/Kanji/縮める.md","x":1580,"y":-14,"width":207,"height":153},
+		{"id":"18635939a60364ac","type":"file","file":"Chữa đề/Learning_Profile/Kanji/縮む.md","x":1591,"y":-220,"width":185,"height":119},
+		{"id":"e4ced2208d553da6","type":"text","text":"縮 - Súc","x":920,"y":-74,"width":250,"height":60},
+		{"id":"695b025b50e135e6","type":"file","file":"Chữa đề/Learning_Profile/Kanji/凝縮.md","x":920,"y":240,"width":312,"height":272}
 	],
 	"edges":[
-		{"id":"bfde03f89bd766c2","fromNode":"4ff692d0279e624f","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left"},
-		{"id":"5f78c21ce66ed163","fromNode":"69651d22a264a996","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left"}
+		{"id":"bfde03f89bd766c2","fromNode":"4ff692d0279e624f","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left","label":"âm đọc"},
+		{"id":"5f78c21ce66ed163","fromNode":"69651d22a264a996","fromSide":"right","toNode":"a6e3b0e6219d3c85","toSide":"left"},
+		{"id":"efe61e0d1819a8ff","fromNode":"acdb2d01d082aa9b","fromSide":"right","toNode":"ba63ccac487db1e9","toSide":"left"},
+		{"id":"de5f6f7a3e390cf7","fromNode":"a6e3b0e6219d3c85","fromSide":"right","toNode":"acdb2d01d082aa9b","toSide":"left","label":"thành ngữ"},
+		{"id":"f4abf49066ec5e5e","fromNode":"a6e3b0e6219d3c85","fromSide":"right","toNode":"001b2b4f8dc22251","toSide":"left","label":"từ vựng"},
+		{"id":"01ff21f7ee0b0bf1","fromNode":"e4ced2208d553da6","fromSide":"right","toNode":"18635939a60364ac","toSide":"left"},
+		{"id":"3ca9fab9713ada03","fromNode":"e4ced2208d553da6","fromSide":"right","toNode":"b3a5e31dc461b5a4","toSide":"left"},
+		{"id":"32a82bd69b95c1b0","fromNode":"001b2b4f8dc22251","fromSide":"right","toNode":"e4ced2208d553da6","toSide":"left","label":"V"},
+		{"id":"bcdaae9e52e48fb8","fromNode":"001b2b4f8dc22251","fromSide":"right","toNode":"695b025b50e135e6","toSide":"left"}
 	]
 }

@@ -39,14 +39,17 @@
             "id": "6d3ddb4d4a1e6cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.6. Được dùng như một bổ tố.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas",
+                "viewState": {
+                  "x": 659.1900951094302,
+                  "y": 127.50182680945682,
+                  "zoom": -0.6666666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.6. Được dùng như một bổ tố"
+              "icon": "lucide-layout-dashboard",
+              "title": "恐 - Khủng"
             }
           }
         ],
@@ -84,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Danh từ tính",
+                "query": "がやがや",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -176,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas",
+                "file": "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas",
                 "followCursor": false,
                 "showSearch": true,
-                "searchQuery": "ほし"
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
@@ -195,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,54 +219,53 @@
   },
   "active": "6d3ddb4d4a1e6cfb",
   "lastOpenFiles": [
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.5. Được dùng như phó từ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.6. Được dùng như một bổ tố.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.7. Các dạng khác của danh từ tính ngữ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1. Danh từ Tính ngữ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.4. Được sử dụng như danh từ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.1. Danh từ Tính ngữ được sử dụng như bổ từ của danh từ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.2. Được sử dụng như vị ngữ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1.3. Được theo sau bởi cụm vị ngữ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/5. Mệnh đề/5. Mệnh đề.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/7. Câu điều kiện/7. Câu điều kiện.md",
-    "とき.md",
+    "Chữa đề/Learning_Profile/FixedExpression/恐縮でございます.md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/縮 - Súc.canvas",
+    "Chữa đề/Learning_Profile/Kanji/縮める.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week2/11052026/3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 19.md",
+    "Chữa đề/Learning_Profile/Kanji/縮む.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/1. Phân Tích N2_NGÀY 1_ÔN TẬP KANJI (P1).md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas",
+    "Chữa đề/Learning_Profile/Kanji/凝縮.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/2. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 1.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/2. Phân Tích KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/23012026/1. Phân Tích KÍNH NGỮ_TEST 2.md",
+    "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/が.canvas",
+    "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
+    "N2文法/Điền sao/Kết cấu trợ từ, từ loại trong câu.md",
+    "N2文法/Điền sao/Cách kết hợp của các dạng ngữ pháp cơ bản và trợ từ.md",
+    "N2文法/Điền sao/Cách kết nối với những phó từ đi với dạng ngữ pháp cố định.md",
+    "N2文法/button example/table template.md",
+    "N2文法/button example/button template.md",
+    "Decks Templates/Vocabulary card.md",
+    "Canvas decks/Decks — Canvas getting started.canvas",
+    "Chữa đề/２０２６年/０８月２０２６年/Week4/30082026/1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8.md",
+    "N2読解/Prompt/PromptGen1.md",
+    "N2読解/Prompt/JLPT N2 Reading Analyzer.md",
+    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
+    "N2読解/Template/N2 Reading Analysis Template.md",
+    "N2読解/Template",
+    "N2読解/Prompt",
+    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT/🛑 5 KIỂU ĐỌC HIỂU THƯỜNG GẶP.md",
+    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/3.1. Phó từ được thành lập bằng cách thêm く vào tính từ gốc.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/3.2. Phó từ được thành lập từ danh từ tính ngữ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/3. Phó từ.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/⏳Thay đổi theo thời gian.md",
     "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas",
-    "Chữa đề/Learning_Profile/Adverb/あまり.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/37. Mệnh đề bổ nghĩa danh từ/37. Mệnh đề bổ nghĩa danh từ.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17.3. Câu hỏi phức.md",
-    "N2文法/Tổng hợp ngữ pháp N4/みんな日本語２/5 cụm lớn để học N4.md",
-    "N2文法/Tổng hợp ngữ pháp N5/N5 Grammar.md",
-    "N2文法/Tổng hợp ngữ pháp N5/Thứ tự học nên đi N5.md",
-    "N2文法/Tổng hợp ngữ pháp N5/みんな日本語１/25. Thể từ điển + cấu trúc cơ bản/25. Thể từ điển + cấu trúc cơ bản.md",
-    "Chữa đề/Learning_Profile/Adverb/めったに.md",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜のあまり.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/11032026/2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 2.1.md",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/ある/「或る」　ある (tiền tố) Một.md",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/ある/ある (trợ động từ).md",
     "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/ある.canvas",
     "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/相変わらず.canvas",
     "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/相変わらず.md",
-    "Chữa đề/Learning_Profile/Adverb/相変わらず.md",
     "N2文法/button example",
-    "N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/短 - Đoản.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/間 - Gian/間 - Gian.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/K/Kỳ　「其」/期 - Kỳ.canvas",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あいだ　「間」/「間」　あいだ　「N」.canvas",
     "win-a3d00ed0db2b.deckssynclog",
-    "Canvas decks/Decks — Canvas getting started.canvas",
     "Decks Templates",
     "Canvas decks",
     "Screenshot_20260903-062206_Facebook.jpg",
     "Untitled 21.base",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas",
     "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/ある",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あいだ　「間」",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ",
     "Screenshot_20260830-205500_Facebook.jpg",
-    "N2語彙/Từ ghép/目",
     "N2doc/ThaoLeJLPT/N2/Kanji/Lộ_trình_ngữ_pháp_N2.png",
     "Lộ_trình_ngữ_pháp_N2.png",
     "Pasted image 20260707003836.png",

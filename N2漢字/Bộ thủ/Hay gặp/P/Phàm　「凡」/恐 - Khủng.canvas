@@ -1,13 +1,25 @@
 {
 	"nodes":[
-		{"id":"e6ed17a9bb5e95a5","x":-47,"y":-65,"width":250,"height":60,"type":"text","text":"恐 - Khủng"},
-		{"id":"faf1c872e07d241d","x":-340,"y":40,"width":130,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"},
-		{"id":"866bf35bb3f8ba53","x":1,"y":180,"width":155,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas"},
-		{"id":"93aae02408455c6a","x":-600,"y":-120,"width":194,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+		{"id":"faf1c872e07d241d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas","x":-340,"y":40,"width":130,"height":147},
+		{"id":"866bf35bb3f8ba53","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「心」/Tâm　「心」.canvas","x":1,"y":180,"width":155,"height":100},
+		{"id":"93aae02408455c6a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas","x":-600,"y":-115,"width":194,"height":160},
+		{"id":"3ae017044cbdecab","x":900,"y":-600,"width":284,"height":174,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/恐怖.md"},
+		{"id":"e6ed17a9bb5e95a5","type":"text","text":"恐 - Khủng","x":-47,"y":-65,"width":250,"height":60},
+		{"id":"a1f071d4a96fac7f","type":"text","text":"恐 - Khủng","x":440,"y":-400,"width":250,"height":60},
+		{"id":"04804f8b3044df33","x":940,"y":-340,"width":295,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/恐れる.md"},
+		{"id":"513e986952be2588","x":940,"y":-163,"width":307,"height":203,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/恐る恐る.md"},
+		{"id":"dc438f75f6431af1","x":940,"y":130,"width":324,"height":200,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/恐れ入りますが.md"},
+		{"id":"9aa8eab7d7181aff","x":940,"y":480,"width":350,"height":209,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/恐縮でございます.md"}
 	],
 	"edges":[
 		{"id":"0840bff9fe3b23f3","fromNode":"faf1c872e07d241d","fromSide":"right","toNode":"e6ed17a9bb5e95a5","toSide":"left"},
 		{"id":"2fe6d04a48af161a","fromNode":"866bf35bb3f8ba53","fromSide":"top","toNode":"e6ed17a9bb5e95a5","toSide":"bottom"},
-		{"id":"95065b323974424a","fromNode":"93aae02408455c6a","fromSide":"right","toNode":"e6ed17a9bb5e95a5","toSide":"left"}
+		{"id":"95065b323974424a","fromNode":"93aae02408455c6a","fromSide":"right","toNode":"e6ed17a9bb5e95a5","toSide":"left"},
+		{"id":"6c30c2acf1a9cf9b","fromNode":"e6ed17a9bb5e95a5","fromSide":"right","toNode":"a1f071d4a96fac7f","toSide":"left","label":"từ vựng"},
+		{"id":"0d0eeaf826873941","fromNode":"a1f071d4a96fac7f","fromSide":"right","toNode":"3ae017044cbdecab","toSide":"left"},
+		{"id":"1531855d23ae6dc9","fromNode":"a1f071d4a96fac7f","fromSide":"right","toNode":"04804f8b3044df33","toSide":"left"},
+		{"id":"74eb7cc989906ae9","fromNode":"a1f071d4a96fac7f","fromSide":"right","toNode":"513e986952be2588","toSide":"left"},
+		{"id":"a792339086f981ee","fromNode":"a1f071d4a96fac7f","fromSide":"right","toNode":"dc438f75f6431af1","toSide":"left"},
+		{"id":"52846fb9b27597cd","fromNode":"a1f071d4a96fac7f","fromSide":"right","toNode":"9aa8eab7d7181aff","toSide":"left"}
 	]
 }
