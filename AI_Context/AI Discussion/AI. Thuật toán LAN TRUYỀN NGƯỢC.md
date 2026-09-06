@@ -1,0 +1,1 @@
+Mỗi lần AI trả lời sai, hàng tỷ con số bên trong lặng lẽ tự sửa mình
