@@ -4,12 +4,18 @@
 		{"id":"096de17be870a4d4","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまり.md","x":140,"y":-360,"width":257,"height":89},
 		{"id":"599ba99a0413a263","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまりに.md","x":520,"y":-520,"width":235,"height":127},
 		{"id":"3e4963bed3dd08af","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまりにも.md","x":860,"y":-660,"width":250,"height":109},
-		{"id":"9038b02363324d9e","x":140,"y":0,"width":297,"height":151,"type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md"}
+		{"id":"9038b02363324d9e","type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md","x":140,"y":80,"width":297,"height":151},
+		{"id":"a6e87c80c83c809c","type":"text","text":"あまり＋Vない","x":792,"y":-315,"width":250,"height":60},
+		{"id":"d0f0e3cea0252b8f","type":"text","text":"あまり＋「Aい」くない・「Aな」ません。","x":797,"y":-119,"width":377,"height":60},
+		{"id":"083c536a6a6e4591","x":792,"y":31,"width":370,"height":210,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1. Danh từ Tính ngữ.md"}
 	],
 	"edges":[
-		{"id":"d9b4ebe60ed5ff01","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"096de17be870a4d4","toSide":"left"},
+		{"id":"d9b4ebe60ed5ff01","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"096de17be870a4d4","toSide":"left","label":"Phó từ"},
 		{"id":"112532fae97b0eba","fromNode":"096de17be870a4d4","fromSide":"right","toNode":"599ba99a0413a263","toSide":"left"},
 		{"id":"01f9a64162bc4191","fromNode":"599ba99a0413a263","fromSide":"right","toNode":"3e4963bed3dd08af","toSide":"left"},
-		{"id":"31a3490d26ceb25c","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"9038b02363324d9e","toSide":"left"}
+		{"id":"31a3490d26ceb25c","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"9038b02363324d9e","toSide":"left","label":"Danh từ tính ngữ"},
+		{"id":"e25b164aa63530f0","fromNode":"096de17be870a4d4","fromSide":"right","toNode":"a6e87c80c83c809c","toSide":"left"},
+		{"id":"19b756bcdbf31611","fromNode":"096de17be870a4d4","fromSide":"right","toNode":"d0f0e3cea0252b8f","toSide":"left"},
+		{"id":"c65c9c93e6728a87","fromNode":"096de17be870a4d4","fromSide":"right","toNode":"083c536a6a6e4591","toSide":"left"}
 	]
 }
