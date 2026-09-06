@@ -4,7 +4,7 @@
 		{"id":"88ba962d63f98c8d","type":"text","text":"Danh từ","x":-540,"y":-260,"width":250,"height":60},
 		{"id":"eb0ea430a2b742eb","type":"text","text":"間に","x":539,"y":-23,"width":250,"height":60},
 		{"id":"7461db046a60e37f","type":"file","file":"Chữa đề/Learning_Profile/Adverb/この間.md","x":200,"y":-600,"width":264,"height":127},
-		{"id":"ce96be093f0f5d99","x":920,"y":-23,"width":250,"height":60,"type":"text","text":"Chỉ vị trí"},
+		{"id":"ce96be093f0f5d99","type":"text","text":"Chỉ vị trí","x":920,"y":-23,"width":250,"height":60},
 		{"id":"1f49da581df51077","type":"text","text":"Đứng một mình để chỉ vị trí","x":1444,"y":280,"width":250,"height":60},
 		{"id":"faf412c87900b721","type":"text","text":"間に立ってください。\nHãy đứng vào giữa","x":2212,"y":469,"width":250,"height":60},
 		{"id":"0360a5a33f79cea2","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/間に合う.md","x":2597,"y":-276,"width":400,"height":400},
@@ -13,15 +13,16 @@
 		{"id":"9cb580dec46e0654","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":1432,"y":-1200,"width":227,"height":99},
 		{"id":"4b3bc99a6509fcb4","type":"text","text":"１０日から１５日までの間は休みます。\nTôi sẽ đi nghỉ từ ngày 10 đến ngày 15.","x":2100,"y":-1383,"width":343,"height":76},
 		{"id":"bd3468e1e2648c2b","type":"text","text":"Vている間に","x":1741,"y":-1180,"width":250,"height":60},
-		{"id":"7d40699f5ec9e632","x":2100,"y":-1180,"width":357,"height":60,"type":"text","text":"本を読んでいる間に眠ってしまった。\nTôi đã ngủ gật khi đang đọc sách"},
-		{"id":"4430bbb6055f25f6","x":1741,"y":-960,"width":250,"height":60,"type":"text","text":"Aい・Aな＋間に"},
-		{"id":"664b9c33778a3f94","x":2100,"y":-960,"width":395,"height":60,"type":"text","text":"若い間にもっと勉強しなさい。\nHãy học tập nhiều hơn nữa khi anh còn trẻ"},
+		{"id":"7d40699f5ec9e632","type":"text","text":"本を読んでいる間に眠ってしまった。\nTôi đã ngủ gật khi đang đọc sách","x":2100,"y":-1180,"width":357,"height":60},
+		{"id":"4430bbb6055f25f6","type":"text","text":"Aい・Aな＋間に","x":1741,"y":-960,"width":250,"height":60},
+		{"id":"664b9c33778a3f94","type":"text","text":"若い間にもっと勉強しなさい。\nHãy học tập nhiều hơn nữa khi anh còn trẻ","x":2100,"y":-960,"width":395,"height":60},
 		{"id":"bcc49a838d17bc49","type":"text","text":"cụm N＋から＋N+までの間","x":1722,"y":-1375,"width":269,"height":60},
 		{"id":"367208c970e5d9ad","type":"text","text":"cụm N＋の間","x":1765,"y":-1684,"width":170,"height":60},
 		{"id":"0932480435f775cc","type":"text","text":"留守の間に田中さんが訪ねてきました。\nTrong lúc anh đi vắng, ông Tanaka đã đến để gặp anh.","x":2100,"y":-1654,"width":492,"height":86},
 		{"id":"b94028f71d3f1b7d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/いつの間にか.md","x":2094,"y":-1940,"width":349,"height":146},
 		{"id":"29e8d8d344603462","type":"text","text":"cụm N＋と＋N＋の＋間に","x":1444,"y":-403,"width":292,"height":62},
-		{"id":"bcfc0b2d36bec530","type":"text","text":"人と人の間を歩きました。\nTôi đã đi giữa mọi người","x":1966,"y":-520,"width":250,"height":60}
+		{"id":"bcfc0b2d36bec530","type":"text","text":"人と人の間を歩きました。\nTôi đã đi giữa mọi người","x":1966,"y":-520,"width":250,"height":60},
+		{"id":"b06d8fa33f3e3c4d","x":-540,"y":7,"width":206,"height":229,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/間 - Gian/間 - Gian.canvas"}
 	],
 	"edges":[
 		{"id":"84e6f2339f30979f","fromNode":"a024f0852d447de4","fromSide":"left","toNode":"88ba962d63f98c8d","toSide":"right"},
@@ -45,6 +46,7 @@
 		{"id":"06e9d423e472eb2a","fromNode":"8aca94ebe1c10e6f","fromSide":"right","toNode":"4430bbb6055f25f6","toSide":"left"},
 		{"id":"9a8511fbdec1c315","fromNode":"4430bbb6055f25f6","fromSide":"right","toNode":"664b9c33778a3f94","toSide":"left","label":"ví dụ"},
 		{"id":"4b927e6106e14574","fromNode":"eb0ea430a2b742eb","fromSide":"right","toNode":"ce96be093f0f5d99","toSide":"left"},
-		{"id":"78033d5231b0fa9c","fromNode":"367208c970e5d9ad","fromSide":"bottom","toNode":"bcc49a838d17bc49","toSide":"top"}
+		{"id":"78033d5231b0fa9c","fromNode":"367208c970e5d9ad","fromSide":"bottom","toNode":"bcc49a838d17bc49","toSide":"top"},
+		{"id":"4e4208332a5f55bb","fromNode":"b06d8fa33f3e3c4d","fromSide":"right","toNode":"a024f0852d447de4","toSide":"left"}
 	]
 }

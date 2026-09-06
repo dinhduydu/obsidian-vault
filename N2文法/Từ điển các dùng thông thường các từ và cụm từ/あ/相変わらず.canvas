@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"bce829e58183e4b5","x":-220,"y":-140,"width":266,"height":103,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/相変わらず.md"}
+		{"id":"bce829e58183e4b5","type":"file","file":"Chữa đề/Learning_Profile/Adverb/相変わらず.md","x":-220,"y":-140,"width":266,"height":103},
+		{"id":"97e418f2ec6a2c2d","type":"text","text":"相変わらず~...+V","x":540,"y":-580,"width":250,"height":60},
+		{"id":"ab0813235552349b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương.canvas","x":-620,"y":-380,"width":172,"height":144},
+		{"id":"d17e215b94d7d846","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/亦 - Diệc/変 - Biến.canvas","x":-636,"y":-37,"width":188,"height":154},
+		{"id":"d92b5bd61d866bbf","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1. Danh từ Tính ngữ.md","x":977,"y":-83,"width":400,"height":400},
+		{"id":"e5329a31248b9fcb","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/2. Tính từ/2. Tính từ.md","x":977,"y":377,"width":252,"height":204},
+		{"id":"8de80e08fe9e3b7b","type":"text","text":"+N/Adj","x":480,"y":276,"width":250,"height":60},
+		{"id":"80788bbe6c386b7a","x":1611,"y":449,"width":250,"height":60,"type":"text","text":"相変わらず寒いですね。\nThời tiết vẫn còn lạnh nhỉ"},
+		{"id":"1053cfa924b49f2a","x":1640,"y":81,"width":359,"height":72,"type":"text","text":"彼は相変わらず元気です。\nAnh ấy vẫn khoẻ mạnh như trước đây"},
+		{"id":"8e4b4cca3ca49241","x":1059,"y":-666,"width":361,"height":66,"type":"text","text":"相変わらずタバコを吸っています。\nTôi vẫn còn hút thuốc giống như trước đây."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8953bc8f0f197def","fromNode":"bce829e58183e4b5","fromSide":"right","toNode":"97e418f2ec6a2c2d","toSide":"left","label":"1. Diễn tả thói quen hoặc hành động lặp đi lặp lại"},
+		{"id":"94d5b5c012e6d58d","fromNode":"ab0813235552349b","fromSide":"right","toNode":"bce829e58183e4b5","toSide":"left"},
+		{"id":"ae1842109f3cf096","fromNode":"d17e215b94d7d846","fromSide":"right","toNode":"bce829e58183e4b5","toSide":"left"},
+		{"id":"1aee2cfd9cfab33b","fromNode":"8de80e08fe9e3b7b","fromSide":"right","toNode":"d92b5bd61d866bbf","toSide":"left"},
+		{"id":"1dbfdfdf6bcfbdd4","fromNode":"8de80e08fe9e3b7b","fromSide":"right","toNode":"e5329a31248b9fcb","toSide":"left"},
+		{"id":"370a5f4c5299924e","fromNode":"bce829e58183e4b5","fromSide":"right","toNode":"8de80e08fe9e3b7b","toSide":"left"},
+		{"id":"1ba85d50d8923fd4","fromNode":"d92b5bd61d866bbf","fromSide":"right","toNode":"1053cfa924b49f2a","toSide":"left"},
+		{"id":"3e9d2f1df443b07b","fromNode":"e5329a31248b9fcb","fromSide":"right","toNode":"80788bbe6c386b7a","toSide":"left"},
+		{"id":"b04c5e2dfc408ede","fromNode":"97e418f2ec6a2c2d","fromSide":"right","toNode":"8e4b4cca3ca49241","toSide":"left"}
+	]
 }

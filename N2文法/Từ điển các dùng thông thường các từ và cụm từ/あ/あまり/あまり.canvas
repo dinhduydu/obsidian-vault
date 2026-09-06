@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"89e1c908b187d3a1","type":"text","text":"あまり","x":-260,"y":-140,"width":250,"height":60},
+		{"id":"096de17be870a4d4","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまり.md","x":140,"y":-360,"width":257,"height":89},
+		{"id":"599ba99a0413a263","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまりに.md","x":520,"y":-520,"width":235,"height":127},
+		{"id":"3e4963bed3dd08af","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あまりにも.md","x":860,"y":-660,"width":250,"height":109},
+		{"id":"9038b02363324d9e","x":140,"y":0,"width":297,"height":151,"type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md"}
+	],
+	"edges":[
+		{"id":"d9b4ebe60ed5ff01","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"096de17be870a4d4","toSide":"left"},
+		{"id":"112532fae97b0eba","fromNode":"096de17be870a4d4","fromSide":"right","toNode":"599ba99a0413a263","toSide":"left"},
+		{"id":"01f9a64162bc4191","fromNode":"599ba99a0413a263","fromSide":"right","toNode":"3e4963bed3dd08af","toSide":"left"},
+		{"id":"31a3490d26ceb25c","fromNode":"89e1c908b187d3a1","fromSide":"right","toNode":"9038b02363324d9e","toSide":"left"}
+	]
+}

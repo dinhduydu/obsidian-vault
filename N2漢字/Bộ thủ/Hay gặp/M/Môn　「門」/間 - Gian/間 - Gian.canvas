@@ -1,11 +1,44 @@
 {
 	"nodes":[
+		{"id":"44228070bb15d6ee","type":"group","x":2440,"y":160,"width":844,"height":1140,"label":"ま"},
+		{"id":"32b10601fa7b405d","type":"group","x":2706,"y":-740,"width":1134,"height":733,"label":"かん"},
+		{"id":"6985903e7f8823c2","type":"text","text":"間 - Gian","x":1920,"y":-380,"width":250,"height":60},
+		{"id":"4677d4aa90b7b128","type":"text","text":"間 - Gian","x":1775,"y":-1040,"width":250,"height":60},
+		{"id":"a8b3f12ce7348fdd","type":"text","text":"間 - Gian","x":860,"y":-30,"width":250,"height":60},
+		{"id":"0c3e26e8b903e6d2","type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あいだ　「間」/「間」　あいだ　「N」.canvas","x":400,"y":-520,"width":220,"height":148},
 		{"id":"9fd27f09f9cfc3ca","type":"text","text":"間 - Gian","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"ecff227c5b0ccca5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas","x":-420,"y":-160,"width":170,"height":95},
-		{"id":"2a0eb46f8c983d5a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-335,"y":0,"width":109,"height":95}
+		{"id":"2a0eb46f8c983d5a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-335,"y":0,"width":109,"height":95},
+		{"id":"bbc73e2a81758fee","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/間際.md","x":2860,"y":320,"width":266,"height":219},
+		{"id":"0fb8020f184cf3b4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/手間.md","x":2860,"y":670,"width":249,"height":191},
+		{"id":"7638bca36fbf88f4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/仲間.md","x":2860,"y":1010,"width":250,"height":222},
+		{"id":"164fb8d58c11b7d6","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/手間賃.md","x":3540,"y":566,"width":400,"height":400},
+		{"id":"849cd12098509f5c","type":"file","file":"Chữa đề/Learning_Profile/Kanji/世間.md","x":2726,"y":-260,"width":219,"height":233},
+		{"id":"d5f8f50bb4400372","type":"file","file":"Chữa đề/Learning_Profile/Collocation/時間をかける.md","x":4000,"y":-400,"width":400,"height":400},
+		{"id":"4c9706a4ddd364e3","type":"text","text":"間 - Gian","x":2120,"y":736,"width":250,"height":60},
+		{"id":"9d8c88c04b8a5e42","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/等間隔.md","x":5120,"y":-800,"width":400,"height":400},
+		{"id":"87a582221989cac8","type":"file","file":"Chữa đề/Learning_Profile/Kanji/瞬間.md","x":2726,"y":-720,"width":400,"height":400},
+		{"id":"1ecac6976d4bbe0a","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/時間つぶし.md","x":4000,"y":-740,"width":260,"height":262},
+		{"id":"55ab47db54aaccac","type":"text","text":"時間","x":3540,"y":-669,"width":250,"height":60},
+		{"id":"1be6fc8f09bb114a","type":"file","file":"Chữa đề/Learning_Profile/Kanji/間柄.md","x":2726,"y":-1320,"width":400,"height":400},
+		{"id":"64bcc257ffc1e2fd","x":3500,"y":-227,"width":240,"height":200,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/短期間.md"}
 	],
 	"edges":[
 		{"id":"4ab0adaf03e9e5f6","fromNode":"ecff227c5b0ccca5","fromSide":"right","toNode":"9fd27f09f9cfc3ca","toSide":"left"},
-		{"id":"fe306dbaceaeeca7","fromNode":"2a0eb46f8c983d5a","fromSide":"right","toNode":"9fd27f09f9cfc3ca","toSide":"left"}
+		{"id":"fe306dbaceaeeca7","fromNode":"2a0eb46f8c983d5a","fromSide":"right","toNode":"9fd27f09f9cfc3ca","toSide":"left"},
+		{"id":"f8dcd6d291c3489a","fromNode":"9fd27f09f9cfc3ca","fromSide":"right","toNode":"0c3e26e8b903e6d2","toSide":"left","label":"ngữ pháp"},
+		{"id":"a8803cafa13b931d","fromNode":"9fd27f09f9cfc3ca","fromSide":"right","toNode":"a8b3f12ce7348fdd","toSide":"left","label":"từ vưng"},
+		{"id":"c9b13031b0fd5944","fromNode":"4c9706a4ddd364e3","fromSide":"right","toNode":"bbc73e2a81758fee","toSide":"left","label":"まぎわ"},
+		{"id":"d72cb706b1ad1cd5","fromNode":"4c9706a4ddd364e3","fromSide":"right","toNode":"0fb8020f184cf3b4","toSide":"left","label":"てま"},
+		{"id":"fb176d0b6c94070f","fromNode":"a8b3f12ce7348fdd","fromSide":"right","toNode":"4c9706a4ddd364e3","toSide":"left","label":"ま"},
+		{"id":"957828351a1db065","fromNode":"4c9706a4ddd364e3","fromSide":"right","toNode":"7638bca36fbf88f4","toSide":"left","label":"なかま"},
+		{"id":"24e1d6de67c53595","fromNode":"4677d4aa90b7b128","fromSide":"right","toNode":"1be6fc8f09bb114a","toSide":"left","label":"あいだがら"},
+		{"id":"897ea16f88768361","fromNode":"a8b3f12ce7348fdd","fromSide":"right","toNode":"4677d4aa90b7b128","toSide":"left","label":"あいだ"},
+		{"id":"f397031e0e22cf08","fromNode":"a8b3f12ce7348fdd","fromSide":"right","toNode":"6985903e7f8823c2","toSide":"left","label":"かん"},
+		{"id":"ced58a53041777f1","fromNode":"6985903e7f8823c2","fromSide":"right","toNode":"87a582221989cac8","toSide":"left","label":"しゅんかん"},
+		{"id":"b422201e43f1af59","fromNode":"6985903e7f8823c2","fromSide":"right","toNode":"849cd12098509f5c","toSide":"left","label":"せけん"},
+		{"id":"121a2d030c057044","fromNode":"55ab47db54aaccac","fromSide":"right","toNode":"1ecac6976d4bbe0a","toSide":"left"},
+		{"id":"c585f81f1bb71e7b","fromNode":"55ab47db54aaccac","fromSide":"right","toNode":"d5f8f50bb4400372","toSide":"left"},
+		{"id":"f311b226729fd12f","fromNode":"0fb8020f184cf3b4","fromSide":"right","toNode":"164fb8d58c11b7d6","toSide":"left"}
 	]
 }

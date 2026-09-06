@@ -22,7 +22,7 @@
 [[なにも]]
 	**Meaning:** (Không) đến mức, (không) nhất thiết phải.
 	[[〜ことはない]]
-[[あまり]] 
+[[Chữa đề/Learning_Profile/Adverb/あまり]] 
 
 [[二度と]] 
 [[一度だって]]
