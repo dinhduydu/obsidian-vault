@@ -53,14 +53,17 @@
             "id": "504f33e1c8960be1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AI_Context/Quảng cáo/QC. “Suýt đỗ N3 có nên học N2 luôn không”.md",
-                "mode": "source",
-                "source": false
+                "file": "AI_Context/AI Discussion/Quảng cáo/AI-QC. 3 ebooks nền tảng ở các công cụ mình hay xài nhất = Chat GPT, Gemini, Claude....canvas",
+                "viewState": {
+                  "x": 519.7886207940137,
+                  "y": 59.999768738578894,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "QC. “Suýt đỗ N3 có nên học N2 luôn không”"
+              "icon": "lucide-layout-dashboard",
+              "title": "AI-QC. 3 ebooks nền tảng ở các công cụ mình hay xài nhất = Chat GPT, Gemini, Claude..."
             }
           }
         ],
@@ -190,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_Context/Quảng cáo/QC. “Suýt đỗ N3 có nên học N2 luôn không”.md",
+                "file": "AI_Context/AI Discussion/Quảng cáo/AI-QC. 3 ebooks nền tảng ở các công cụ mình hay xài nhất = Chat GPT, Gemini, Claude....canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -230,8 +233,17 @@
   },
   "active": "504f33e1c8960be1",
   "lastOpenFiles": [
-    "AI_Context/Thiết kế lộ trình cải thiện ngữ pháp và phó từ.md",
+    "N2doc/ThaoLeJLPT/N2/Thaolejp_N2_Chinh phuc tu vung N2 (kem phan dich nghia, mp3).pdf",
+    "Pasted image 20260906233212.png",
+    "Pasted image 20260906233205.png",
+    "Pasted image 20260906233200.png",
+    "AI_Context/AI Discussion/Quảng cáo/AI-QC. 3 ebooks nền tảng ở các công cụ mình hay xài nhất = Chat GPT, Gemini, Claude....md",
+    "AI_Context/AI Discussion/Quảng cáo/AI-QC. 3 ebooks nền tảng ở các công cụ mình hay xài nhất = Chat GPT, Gemini, Claude....canvas",
+    "AI_Context/Nghiên cứu khoa học/Literature Review Không Chỉ Là Tóm Tắt -  Giải Phẫu Một Đoạn Viết Mẫu Mực.md",
+    "AI_Context/AI Discussion/Quảng cáo",
+    "Pasted image 20260906232714.png",
     "AI_Context/Quảng cáo/QC. “Suýt đỗ N3 có nên học N2 luôn không”.md",
+    "AI_Context/Thiết kế lộ trình cải thiện ngữ pháp và phó từ.md",
     "AI_Context/Nghe hiểu tiếng Nhật/DICTATION - PHƯƠNG PHÁP LUYỆN NGHE TỐI THƯỢNG.md",
     "AI_Context/N2漢字_Context.canvas",
     "AI_Context/Văn hoá - Chia sẻ/VH-CS. HỌC ONLINE trực tiếp hay HỌC QUA VIDEO.md",
@@ -256,9 +268,6 @@
     "AI_Context/AI Discussion/AI. Thiết kế Data Model để không mất lịch sử thay đổi khi data trên phần mềm được update.md",
     "AI_Context/AI Discussion/AI. Bayesian Deep Learning.md",
     "AI_Context/Kinh nghiệm phỏng vấn - làm việc/SKL. Kỹ năng summarize trong môi trường Nhật.md",
-    "AI_Context/Văn hoá - Chia sẻ/Đỗ như thế nào/VH-CS. TIP_Mình đã học tiếng Nhật nhanh hơn nhờ thay đổi 5 thói quen này....md",
-    "AI_Context/Văn hoá - Chia sẻ/VH-CS. TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
-    "AI_Context/Văn hoá - Chia sẻ/VH-CS. Sáng ra nói chuyện học tiếng Nhật tí..md",
     "AI_Context/Kinh nghiệm phỏng vấn - làm việc",
     "AI_Context/Quảng cáo",
     "AI_Context/Văn hoá - Chia sẻ",
@@ -270,7 +279,6 @@
     "AI_Context/Nghiên cứu khoa học",
     "Pasted image 20260906230030.png",
     "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/canvas/ĐỌC HIỂU TIẾNG NHẬT MÃI KHÔNG TIẾN BỘ, CÓ THỂ BẠN ĐANG MẮC 4 LỖI NÀY.canvas",
-    "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/canvas",
     "N2doc/ThaoLeJLPT/N4/canvas/Lộ trình ôn luyện N4.canvas",
     "Pasted image 20260906221909.png",
     "Pasted image 20260906221901.png",
@@ -280,11 +288,6 @@
     "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
     "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/縮 - Súc.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/が.canvas",
-    "Screenshot_20260903-062206_Facebook.jpg",
-    "Screenshot_20260830-205500_Facebook.jpg",
-    "N2doc/ThaoLeJLPT/N2/Kanji/Lộ_trình_ngữ_pháp_N2.png",
-    "Lộ_trình_ngữ_pháp_N2.png"
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas"
   ]
 }
