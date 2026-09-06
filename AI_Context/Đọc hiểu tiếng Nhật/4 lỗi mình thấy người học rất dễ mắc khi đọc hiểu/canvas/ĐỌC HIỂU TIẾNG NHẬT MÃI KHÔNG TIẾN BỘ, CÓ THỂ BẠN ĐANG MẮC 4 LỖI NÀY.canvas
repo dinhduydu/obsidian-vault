@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e8191026a958235a","x":600,"y":-580,"width":580,"height":1236,"color":"1","type":"group","label":"4 lỗi hay gặp"},
+		{"id":"c19f52efae5cb73e","x":-120,"y":-148,"width":420,"height":400,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/ĐỌC HIỂU TIẾNG NHẬT MÃI KHÔNG TIẾN BỘ, CÓ THỂ BẠN ĐANG MẮC 4 LỖI NÀY.md"},
+		{"id":"a7d70975cf4b52f1","x":730,"y":-148,"width":281,"height":158,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/② DỊCH THEO THỨ TỰ TỪNG TỪ MÀ QUÊN NHÌN “CỤM”.md"},
+		{"id":"058c405372a3c77d","x":735,"y":140,"width":323,"height":148,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/③ BỎ QUA TRỢ TỪ VÌ NGHĨ “NÓ CHỈ LÀ CHI TIẾT NHỎ”.md"},
+		{"id":"74e556c20f353bea","x":735,"y":480,"width":327,"height":156,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/④ THẤY CÂU CÓ「ない」「ないわけではない」LÀ DỊCH NGAY THÀNH “KHÔNG”.md"},
+		{"id":"13c74e7c78650fc1","x":730,"y":-440,"width":270,"height":195,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/① THẤY「が」LÀ VỘI CHO RẰNG ĐÓ LÀ CHỦ NGỮ CHÍNH.md"},
+		{"id":"54b93a211fbc49ea","x":1500,"y":-245,"width":320,"height":275,"type":"file","file":"AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/VẬY GẶP MỘT CÂU DÀI THÌ NÊN ĐỌC THẾ NÀO.md"}
+	],
+	"edges":[
+		{"id":"d71b08e26046b20d","fromNode":"c19f52efae5cb73e","fromSide":"right","toNode":"13c74e7c78650fc1","toSide":"left"},
+		{"id":"fcbba9c999eb3400","fromNode":"c19f52efae5cb73e","fromSide":"right","toNode":"a7d70975cf4b52f1","toSide":"left"},
+		{"id":"53d5ee3e0ce780b3","fromNode":"c19f52efae5cb73e","fromSide":"right","toNode":"058c405372a3c77d","toSide":"left"},
+		{"id":"7f7f51dd6377499b","fromNode":"c19f52efae5cb73e","fromSide":"right","toNode":"74e556c20f353bea","toSide":"left"},
+		{"id":"58c5c7ccd2b5cc58","fromNode":"e8191026a958235a","fromSide":"right","toNode":"54b93a211fbc49ea","toSide":"left"}
+	]
+}

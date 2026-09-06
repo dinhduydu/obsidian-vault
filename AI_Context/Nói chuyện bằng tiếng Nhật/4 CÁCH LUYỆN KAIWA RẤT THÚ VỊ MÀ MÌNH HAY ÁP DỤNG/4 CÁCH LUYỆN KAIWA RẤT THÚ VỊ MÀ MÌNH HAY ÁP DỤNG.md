@@ -3,12 +3,7 @@ Chính vì thế, mình chọn shadowing các đoạn thoại của cô ấy nh�
 
 Vậy mình đã luyện những câu này như thế nào?
 
-1. Shadowing + Dịch ngược: luyện để thuộc chứ không chỉ lặp lại
-
-Nhiều bạn shadowing nhưng chỉ dừng lại ở việc nghe → lặp lại như cái máy. Cách đó khiến bạn quen âm thanh, nhưng không nhớ nổi nội dung sau 1 tiếng. Vậy nên, Sau mỗi lần lặp lại, hãy viết nghĩa tiếng Việt của câu vừa nói, rồi tự dịch ngược lại sang tiếng Nhật từ trí nhớ, cuối cùng mới so với câu gốc.
-
-Đây là cách rèn não ghi nhớ chủ động, giống như viết lại bằng tâm trí. Nó giúp bạn phân biệt rõ mình thật sự hiểu hay chỉ đang nhại lại.
-
+[[1. Shadowing + Dịch ngược, luyện để thuộc chứ không chỉ lặp lại.canvas]] 
 2. Shadowing + Vẽ sơ đồ hội thoại: hiểu cả mạch giao tiếp, không chỉ lặp lại
 
 Khi học Kaiwa hoặc làm bài Choukai JLPT, cái khó không nằm ở từ vựng, mà là luồng hội thoại: Ai nói trước? Vì sao người kia trả lời như vậy? Với các đoạn hội thoại 2 chiều, hãy viết ra dòng phản ứng của từng nhân vật. Phân tích:

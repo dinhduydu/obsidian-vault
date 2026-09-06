@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"03cf8184db9f0614","x":406,"y":-421,"width":1864,"height":501,"color":"4","type":"group","label":"Nên làm"},
+		{"id":"c817cce28b2d504c","x":406,"y":-562,"width":1559,"height":292,"color":"1","type":"group","label":"Thực trạng"},
+		{"id":"1f35d717fcd07229","x":-360,"y":-180,"width":500,"height":320,"type":"file","file":"AI_Context/Nói chuyện bằng tiếng Nhật/4 CÁCH LUYỆN KAIWA RẤT THÚ VỊ MÀ MÌNH HAY ÁP DỤNG/markdown/1. Shadowing + Dịch ngược, luyện để thuộc chứ không chỉ lặp lại.md"},
+		{"id":"6e80658b0b2b58b3","x":426,"y":-350,"width":250,"height":60,"type":"text","text":"nghe"},
+		{"id":"42dd91538e799d79","x":813,"y":-401,"width":250,"height":60,"type":"text","text":"lặp lại"},
+		{"id":"e77ac35764d2f580","x":1237,"y":-497,"width":250,"height":60,"type":"text","text":"quen âm thanh"},
+		{"id":"c39bc06b80263e90","x":1695,"y":-542,"width":250,"height":60,"type":"text","text":"không nhớ nổi nội dung"},
+		{"id":"be15797c34bc4161","x":1228,"y":-153,"width":250,"height":60,"type":"text","text":"viết nghĩa tiếng Việt của câu vừa nói"},
+		{"id":"18ac72d60dc956e8","x":1570,"y":-60,"width":250,"height":60,"type":"text","text":"tự dịch ngược sang tiếng Nhật"},
+		{"id":"1fa498ec7a78122e","x":2000,"y":0,"width":250,"height":60,"type":"text","text":"so với câu gốc"}
+	],
+	"edges":[
+		{"id":"a6434a19abbb6349","fromNode":"1f35d717fcd07229","fromSide":"right","toNode":"6e80658b0b2b58b3","toSide":"left"},
+		{"id":"d7ece1426e1447be","fromNode":"6e80658b0b2b58b3","fromSide":"right","toNode":"42dd91538e799d79","toSide":"left"},
+		{"id":"d11b1c1e45e35eea","fromNode":"42dd91538e799d79","fromSide":"right","toNode":"e77ac35764d2f580","toSide":"left"},
+		{"id":"e1d41a278f4ee533","fromNode":"e77ac35764d2f580","fromSide":"right","toNode":"c39bc06b80263e90","toSide":"left"},
+		{"id":"22ad578710a2c927","fromNode":"42dd91538e799d79","fromSide":"right","toNode":"be15797c34bc4161","toSide":"left"},
+		{"id":"f214cf1ad17f320b","fromNode":"be15797c34bc4161","fromSide":"right","toNode":"18ac72d60dc956e8","toSide":"left"},
+		{"id":"bff6b41fdd1f849b","fromNode":"18ac72d60dc956e8","fromSide":"right","toNode":"1fa498ec7a78122e","toSide":"left"}
+	]
+}

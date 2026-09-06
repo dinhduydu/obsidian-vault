@@ -1,0 +1,9 @@
+Mình xin chia sẻ với các bạn 1 video lecture dài hơn 1 tiếng vô cùng thú vị, nằm trong khóa Stanford CS25: Transformers United.
+
+Đây là buổi lecture với sự tham dự của external speaker là Karina Nguyen - 1 nhà nghiên cứu và xây dựng sản phẩm AI đang làm việc tại OpenAI, tập trung vào các hướng như post-training, Reinforcement Learning, dữ liệu tổng hợp, đánh giá mô hình và các trải nghiệm AI mới. Trước đó, cô từng làm tại Anthropic, tham gia vào quá trình phát triển và đánh giá các dòng mô hình Claude, bao gồm Claude 2 và Claude 3.
+
+Trong video lecture này, Karina chia sẻ về cách kết hợp chặt chẽ giữa nghiên cứu Reinforcement Learning (RL) và thiết kế sản phẩm: các nhà khoa học nhanh chóng tạo nguyên mẫu, còn người dùng thử ngay và phản hồi ngay. Nhờ vậy, chúng ta có thể xây dựng những thước đo tốt hơn để đánh giá AI trong đời thực, thay vì chỉ dựa vào các benchmark truyền thống.
+
+Từ kinh nghiệm làm việc với cả Claude và ChatGPT, diễn giả sẽ chia sẻ góc nhìn về “post-training” - giai đoạn tinh chỉnh sau khi mô hình đã được huấn luyện - như một sự kết hợp giữa độ chính xác kỹ thuật và trực giác sáng tạo. Điều này ngày càng quan trọng khi AI không còn chỉ là chatbot văn bản, mà đang trở nên đa phương thức hơn, có khả năng phối hợp nhiều tác nhân hơn, và làm việc cùng con người theo cách cộng tác phù hợp hơn.
+
+Link video: [https://youtu.be/gLwiPrwUDJ8?si=-CQuroyPIWjM_1XP](https://youtu.be/gLwiPrwUDJ8?si=-CQuroyPIWjM_1XP&fbclid=IwcGRvZgVleHRuA2FlbQIxMABicmlkETFSRVR2WW5NVXgzN2YydkZxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlAVP_lCBMDbFqgakI5kWHiOmgFnFtSkZMnEji3MVvNpPkiRpUlVXwmoErHI_aem_L-8yYPyp3WjDA-m9dM-EBg)

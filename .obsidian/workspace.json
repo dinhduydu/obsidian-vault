@@ -39,21 +39,32 @@
             "id": "6d3ddb4d4a1e6cfb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
-                "viewState": {
-                  "x": 663.6340435050722,
-                  "y": 567.285932907953,
-                  "zoom": -2.094293427003982
-                }
+                "file": "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "[N2Riki] Lời mở đầu"
+              "icon": "lucide-file",
+              "title": "KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN"
+            }
+          },
+          {
+            "id": "504f33e1c8960be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/𝐌𝐨̣̂𝐭 𝐬𝐨̂́ 𝐬𝐚́𝐜𝐡 𝐥𝐮𝐲𝐞̣̂𝐧 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 𝐜𝐨́ 𝐭𝐡𝐞̂̉ 𝐭𝐡𝐚𝐦 𝐤𝐡𝐚̉𝐨.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "𝐌𝐨̣̂𝐭 𝐬𝐨̂́ 𝐬𝐚́𝐜𝐡 𝐥𝐮𝐲𝐞̣̂𝐧 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 𝐜𝐨́ 𝐭𝐡𝐞̂̉ 𝐭𝐡𝐚𝐦 𝐤𝐡𝐚̉𝐨"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
+                "file": "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/𝐌𝐨̣̂𝐭 𝐬𝐨̂́ 𝐬𝐚́𝐜𝐡 𝐥𝐮𝐲𝐞̣̂𝐧 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 𝐜𝐨́ 𝐭𝐡𝐞̂̉ 𝐭𝐡𝐚𝐦 𝐤𝐡𝐚̉𝐨.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -202,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,62 +228,63 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "6d3ddb4d4a1e6cfb",
+  "active": "504f33e1c8960be1",
   "lastOpenFiles": [
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Xây nền từ gốc, không học mẹo rời rạc.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Có mini test và đề thi thực chiến.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Bám sát các dạng câu hỏi thường gặp trong đề thi.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lộ trình học rõ ràng, phù hợp với từng đối tượng.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Nội dung logic, dễ tự học.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Mở rộng tư duy đọc hiểu, giúp hiểu sâu chứ không chỉ đọc lướt.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Hệ thống tip đọc hiểu rõ ràng, dễ áp dụng.md",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki/[N2Riki] Lời mở đầu.md",
-    "N2読解/ReadBook/ThaoLeJP/Untitled.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/𝐌𝐨̣̂𝐭 𝐬𝐨̂́ 𝐬𝐚́𝐜𝐡 𝐥𝐮𝐲𝐞̣̂𝐧 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 𝐜𝐨́ 𝐭𝐡𝐞̂̉ 𝐭𝐡𝐚𝐦 𝐤𝐡𝐚̉𝐨.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/𝐌𝐨̣̂𝐭 𝐬𝐨̂́ 𝐥𝐮̛𝐮 𝐲́ đ𝐞̂̉ 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 𝐡𝐢𝐞̣̂𝐮 𝐪𝐮𝐚̉ 𝐡𝐨̛𝐧.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/𝐏𝐡𝐮̛𝐨̛𝐧𝐠 𝐩𝐡𝐚́𝐩 𝐒𝐡𝐚𝐝𝐨𝐰𝐢𝐧𝐠 là gì.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/⑥ コンテンツシャドーイング｜Shadowing theo ngữ cảnh thực tế.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/⑤ プロソディシャドーイング｜Shadowing theo nhịp điệu.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/④ 意味のチェック｜Kiểm tra ý nghĩa.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/③ パラレルリーディング｜Đọc song song với audio.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/② マンブリング｜Nói thầm, nhẩm lại theo đoạn hội thoại.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN/① リスニング｜Nghe đoạn hội thoại.md",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/4 CÁCH LUYỆN KAIWA RẤT THÚ VỊ MÀ MÌNH HAY ÁP DỤNG/4 CÁCH LUYỆN KAIWA RẤT THÚ VỊ MÀ MÌNH HAY ÁP DỤNG.md",
+    "AI_Context/N2漢字_Context.canvas",
+    "AI_Context/Thiết kế lộ trình cải thiện ngữ pháp và phó từ.md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. Tui học tiếng Nhật từ hồi 2014 tới giờ được hơn 12 năm rồi..md",
+    "AI_Context/Nghe hiểu tiếng Nhật/DICTATION - PHƯƠNG PHÁP LUYỆN NGHE TỐI THƯỢNG.md",
+    "AI_Context/AI Discussion/AI. Thế hệ sản phẩm AI tiếp theo sẽ được tạo ra như thế nào 💡💡💡.md",
+    "AI_Context/AI Discussion/AI. Thiết kế Data Model để không mất lịch sử thay đổi khi data trên phần mềm được update.md",
+    "AI_Context/AI Discussion/AI. Bayesian Deep Learning.md",
+    "AI_Context/Kinh nghiệm phỏng vấn - làm việc/SKL. Kỹ năng summarize trong môi trường Nhật.md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. TIP_Mình đã học tiếng Nhật nhanh hơn nhờ thay đổi 5 thói quen này....md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. TIP_Văn hoá 「建前」- Khách sáo, giữ kẽ.md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. Sáng ra nói chuyện học tiếng Nhật tí..md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. Làm việc với người Nhật một thời gian, mình mới nhận ra - giỏi tiếng Nhật chỉ là một nửa câu chuyện.md",
+    "AI_Context/Văn hoá - Chia sẻ/VH-CS. Chia sẻ từ 1 người đã đỗ N2 ở lần 3.md",
+    "AI_Context/Kinh nghiệm phỏng vấn - làm việc/PV. Kiểu ứng viên được đánh giá cao khi phỏng vấn.md",
+    "AI_Context/Kinh nghiệm phỏng vấn - làm việc",
+    "AI_Context/Kinh nghiệm phỏng vấn - làm việc/PV. Chilling_developer Tips phỏng vấn công ty Product Nhật 🇯🇵.md",
+    "AI_Context/Quảng cáo/Nhận dạy kèm Japanese online (N3-N2-N1)+Kaiwa + hỗ trợ phỏng vấn + nhận mentor Brse, ITComtor.md",
+    "AI_Context/Quảng cáo",
+    "AI_Context/Văn hoá - Chia sẻ",
+    "AI_Context/Nói chuyện bằng tiếng Nhật",
+    "AI_Context/Nghe hiểu tiếng Nhật",
+    "AI_Context/Đọc hiểu tiếng Nhật",
+    "Pasted image 20260906230145.png",
+    "N2doc/Đọc hiểu N2 Riki/Lời mở đầu/[N2Riki] Lời mở đầu.canvas",
+    "AI_Context/Nghiên cứu khoa học",
+    "Pasted image 20260906230030.png",
+    "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/canvas/ĐỌC HIỂU TIẾNG NHẬT MÃI KHÔNG TIẾN BỘ, CÓ THỂ BẠN ĐANG MẮC 4 LỖI NÀY.canvas",
+    "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/canvas",
+    "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/markdown",
+    "N2doc/ThaoLeJLPT/N4/canvas/Lộ trình ôn luyện N4.canvas",
+    "Pasted image 20260906221909.png",
+    "Pasted image 20260906221901.png",
+    "Pasted image 20260906221855.png",
+    "Pasted image 20260906221850.png",
+    "AI_Context/Nói chuyện bằng tiếng Nhật/4 CÁCH LUYỆN KAIWA RẤT THÚ VỊ MÀ MÌNH HAY ÁP DỤNG/canvas/1. Shadowing + Dịch ngược, luyện để thuộc chứ không chỉ lặp lại.canvas",
     "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT/TIPS ĐỌC DỊCH TIẾNG NHẬT.canvas",
-    "N2読解/ReadBook/ThaoLeJP",
-    "N2読解/ReadBook/Đọc hiểu N2 Riki",
-    "N2読解/ReadBook",
     "N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/恐 - Khủng.canvas",
-    "Chữa đề/Learning_Profile/FixedExpression/恐縮でございます.md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/縮 - Súc.canvas",
-    "Chữa đề/Learning_Profile/Kanji/縮める.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/11052026/3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 19.md",
-    "Chữa đề/Learning_Profile/Kanji/縮む.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/1. Phân Tích N2_NGÀY 1_ÔN TẬP KANJI (P1).md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bách　「百」/宿 - Túc/宿 - Túc.canvas",
-    "Chữa đề/Learning_Profile/Kanji/凝縮.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/2. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 1.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/2. Phân Tích KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.md",
-    "Chữa đề/２０２６年/０１月２０２６年/Week4/23012026/1. Phân Tích KÍNH NGỮ_TEST 2.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/が.canvas",
-    "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
-    "N2文法/Điền sao/Kết cấu trợ từ, từ loại trong câu.md",
-    "N2文法/Điền sao/Cách kết hợp của các dạng ngữ pháp cơ bản và trợ từ.md",
-    "N2文法/Điền sao/Cách kết nối với những phó từ đi với dạng ngữ pháp cố định.md",
-    "N2文法/button example/table template.md",
-    "N2文法/button example/button template.md",
-    "Decks Templates/Vocabulary card.md",
-    "Canvas decks/Decks — Canvas getting started.canvas",
-    "N2読解/Template",
-    "N2読解/Prompt",
-    "N2読解/TIPS ĐỌC DỊCH TIẾNG NHẬT",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/ある.canvas",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり",
-    "N2文法/button example",
-    "win-a3d00ed0db2b.deckssynclog",
     "Screenshot_20260903-062206_Facebook.jpg",
     "Screenshot_20260830-205500_Facebook.jpg",
     "N2doc/ThaoLeJLPT/N2/Kanji/Lộ_trình_ngữ_pháp_N2.png",
-    "Lộ_trình_ngữ_pháp_N2.png",
-    "Pasted image 20260707003836.png",
-    "Pasted image 20260707003445.png",
-    "Pasted image 20260707003425.png",
-    "Pasted image 20260707003352.png",
-    "Pasted image 20260707003255.png",
-    "Pasted image 20260707003149.png"
+    "Lộ_trình_ngữ_pháp_N2.png"
   ]
 }

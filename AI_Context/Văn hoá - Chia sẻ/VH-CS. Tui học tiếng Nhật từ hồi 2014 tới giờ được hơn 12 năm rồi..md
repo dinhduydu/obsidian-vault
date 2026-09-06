@@ -1,4 +1,4 @@
-Tui học tiếng Nhật từ hồi 2014 tới giờ được hơn 12 năm rồi.
+
 
 Hồi mới bắt đầu học và còn ở Việt Nam một trong những điều tui tự hào, và chắc cũng tự tin nhất là hay được khen về phát âm với “nói chuyện sao giống người Nhật quá”, “sao không bị nặng accent”, “có từng học ở Nhật chưa?”. Cũng có kha khá giải hùng biện, tranh luận làm chứng nữa 🤣
 

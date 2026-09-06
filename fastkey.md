@@ -6,7 +6,7 @@ reload
 [AI] Save context
 
 [Lap] Update key
-
+[Lap] Re-allocate doc
 53. Đinh Duy Dự
 
 # N1
