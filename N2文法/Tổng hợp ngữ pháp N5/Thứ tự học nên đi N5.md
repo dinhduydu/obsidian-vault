@@ -1,23 +1,23 @@
 Câu đơn
   ↓
-Trợ từ
+[[15. Trợ từ]]
   ↓
-Động từ ます
+[[8. Động từ thể ます]]
   ↓
-Tính từ
+[[2. Tính từ]]
   ↓
 Thời gian / địa điểm / số lượng
   ↓
-あります・います
+[[14. Sự tồn tại あります・います]]
   ↓
-Thể て
+[[16. Thể て của động từ]]
   ↓
-Các cấu trúc dùng thể て
+Các cấu trúc dùng thể [[Vて.canvas]]
   ↓
 Quá khứ
   ↓
-たい・たり
+たい・[[23. ～たり～たりする – liệt kê hành động]]
   ↓
-Thể từ điển
+[[25. Thể từ điển + cấu trúc cơ bản]]
   ↓
 Cấu trúc mở rộng
