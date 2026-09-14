@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"6249a679a09393dc","x":-121,"y":-28,"width":250,"height":60,"type":"text","text":"典 - Điển"},
-		{"id":"04992e66dec0407b","x":-500,"y":-280,"width":119,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曲 - Khúc.canvas"},
-		{"id":"ba2ca234f21be534","x":-525,"y":100,"width":144,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas"}
+		{"id":"6249a679a09393dc","type":"text","text":"典 - Điển","x":-121,"y":-28,"width":250,"height":60},
+		{"id":"04992e66dec0407b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曲 - Khúc.canvas","x":-500,"y":-280,"width":119,"height":148},
+		{"id":"ba2ca234f21be534","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lục　「六」/Lục　「六」.canvas","x":-525,"y":100,"width":144,"height":115},
+		{"id":"4892c1fbca3bb77d","x":320,"y":-275,"width":258,"height":139,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/特典.md"},
+		{"id":"a78d18c44eb3a2dc","x":320,"y":100,"width":250,"height":60,"type":"text","text":"古典"}
 	],
 	"edges":[
 		{"id":"7e14605be7fa5f17","fromNode":"04992e66dec0407b","fromSide":"right","toNode":"6249a679a09393dc","toSide":"left"},
-		{"id":"82fe6a495c037979","fromNode":"ba2ca234f21be534","fromSide":"right","toNode":"6249a679a09393dc","toSide":"left"}
+		{"id":"82fe6a495c037979","fromNode":"ba2ca234f21be534","fromSide":"right","toNode":"6249a679a09393dc","toSide":"left"},
+		{"id":"0293e3cfca8281f4","fromNode":"6249a679a09393dc","fromSide":"right","toNode":"4892c1fbca3bb77d","toSide":"left"},
+		{"id":"2d61deb0812191e5","fromNode":"6249a679a09393dc","fromSide":"right","toNode":"a78d18c44eb3a2dc","toSide":"left"}
 	]
 }

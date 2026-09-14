@@ -1,11 +1,32 @@
 {
 	"nodes":[
-		{"id":"f1d67cf27dfe3b21","x":-108,"y":-20,"width":250,"height":60,"type":"text","text":"質 - Chất"},
-		{"id":"7cb792cf53a275f1","x":-540,"y":-260,"width":204,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas"},
-		{"id":"5c1aeb710a6df2f0","x":-571,"y":160,"width":235,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"}
+		{"id":"f1d67cf27dfe3b21","type":"text","text":"質 - Chất","x":-108,"y":-20,"width":250,"height":60},
+		{"id":"7cb792cf53a275f1","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/Cân (rìu)　「斤」.canvas","x":-540,"y":-260,"width":204,"height":160},
+		{"id":"5c1aeb710a6df2f0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-571,"y":160,"width":235,"height":188},
+		{"id":"95a37572e3e364be","x":380,"y":180,"width":360,"height":260,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/質が落ちる.md"},
+		{"id":"defb97f0adafd452","x":840,"y":-80,"width":257,"height":180,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/質問 (しつもん).md"},
+		{"id":"ac0135755f2aa786","x":2020,"y":-720,"width":312,"height":278,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/公開質問状.md"},
+		{"id":"7819f1dcc5fbce0f","x":1280,"y":-500,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/質問.md"},
+		{"id":"9ff836926cd70b50","x":2000,"y":-264,"width":261,"height":164,"type":"file","file":"Chữa đề/Learning_Profile/Reading/質問とせんたくし.md"},
+		{"id":"e8960c7ffca82aeb","x":317,"y":-419,"width":319,"height":238,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/質素な.md"},
+		{"id":"3bad17d88c15cd89","x":317,"y":-965,"width":250,"height":60,"type":"text","text":"質"},
+		{"id":"8d3ae5af93f75062","x":740,"y":-1145,"width":263,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/悪質.md"},
+		{"id":"c2afd8ad84260a2d","x":740,"y":-985,"width":243,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/材質.md"},
+		{"id":"61639d8aae338094","x":740,"y":-817,"width":183,"height":92,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/素質.md"}
 	],
 	"edges":[
 		{"id":"047a9bebc9f14b8e","fromNode":"7cb792cf53a275f1","fromSide":"right","toNode":"f1d67cf27dfe3b21","toSide":"left","label":"x2"},
-		{"id":"122cfb6ed50596bc","fromNode":"5c1aeb710a6df2f0","fromSide":"right","toNode":"f1d67cf27dfe3b21","toSide":"left"}
+		{"id":"122cfb6ed50596bc","fromNode":"5c1aeb710a6df2f0","fromSide":"right","toNode":"f1d67cf27dfe3b21","toSide":"left"},
+		{"id":"6e06627f704bfe0c","fromNode":"f1d67cf27dfe3b21","fromSide":"right","toNode":"3bad17d88c15cd89","toSide":"left"},
+		{"id":"ed61c8f2928a21f1","fromNode":"f1d67cf27dfe3b21","fromSide":"right","toNode":"e8960c7ffca82aeb","toSide":"left"},
+		{"id":"42f4ca6370aa3677","fromNode":"f1d67cf27dfe3b21","fromSide":"right","toNode":"95a37572e3e364be","toSide":"left"},
+		{"id":"93372227e1a103d9","fromNode":"3bad17d88c15cd89","fromSide":"right","toNode":"c2afd8ad84260a2d","toSide":"left"},
+		{"id":"5e031086be45b339","fromNode":"f1d67cf27dfe3b21","fromSide":"right","toNode":"defb97f0adafd452","toSide":"left"},
+		{"id":"cb2c26ec39751909","fromNode":"7819f1dcc5fbce0f","fromSide":"right","toNode":"ac0135755f2aa786","toSide":"left"},
+		{"id":"6d6117a8f2070b45","fromNode":"7819f1dcc5fbce0f","fromSide":"right","toNode":"9ff836926cd70b50","toSide":"left"},
+		{"id":"5a58144f63837595","fromNode":"3bad17d88c15cd89","fromSide":"right","toNode":"8d3ae5af93f75062","toSide":"left"},
+		{"id":"8728e456535e64d1","fromNode":"defb97f0adafd452","fromSide":"right","toNode":"7819f1dcc5fbce0f","toSide":"left"},
+		{"id":"6a158c6069350e09","fromNode":"3bad17d88c15cd89","fromSide":"right","toNode":"c2afd8ad84260a2d","toSide":"left"},
+		{"id":"fd12c31a0ed6ed55","fromNode":"3bad17d88c15cd89","fromSide":"right","toNode":"61639d8aae338094","toSide":"left"}
 	]
 }

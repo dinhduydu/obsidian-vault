@@ -6,81 +6,64 @@
       {
         "id": "691330e02cfc0e55",
         "type": "tabs",
+        "dimension": 65.60178306092125,
         "children": [
           {
-            "id": "7d28a1fb3c0f8d89",
+            "id": "be98b3379172f899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Context/Nghiên cứu khoa học/CẤU TRÚC BÀI BÁO KHOA HỌC QUỐC TẾ - TỪ IMRAD ĐẾN THỰC HÀNH XUẤT BẢN.md",
+                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/3. Phân Tích TEST TỪ VỰNG N2_BÀI 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CẤU TRÚC BÀI BÁO KHOA HỌC QUỐC TẾ - TỪ IMRAD ĐẾN THỰC HÀNH XUẤT BẢN"
+              "title": "3. Phân Tích TEST TỪ VỰNG N2_BÀI 1"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7ca627c10295c268",
+        "type": "tabs",
+        "dimension": 34.39821693907875,
+        "children": [
           {
-            "id": "3eef6347622aca4e",
+            "id": "3d14fa6b144da5a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Chữa đề/Learning_Profile/FixedExpression/非難されても仕方がない.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "非難されても仕方がない"
-            }
-          },
-          {
-            "id": "ecd7bbf72c0e03b4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/難 - Nan.canvas",
-                "viewState": {
-                  "x": 859.6490393114736,
-                  "y": -246.13362613717197,
-                  "zoom": -0.3333333333333332
+                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/3. Phân Tích TEST TỪ VỰNG N2_BÀI 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "難 - Nan"
-            }
-          },
-          {
-            "id": "50fc39146b946ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.2. Dạng thức của động từ/19.2. Dạng thức của động từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19.2. Dạng thức của động từ"
-            }
-          },
-          {
-            "id": "504f33e1c8960be1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/役 - Dịch.canvas",
-                "viewState": {
-                  "x": 1299.6827110236716,
-                  "y": 1908.2534627947098,
-                  "zoom": -0.7878100700278661
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "役 - Dịch"
+              "icon": "lucide-git-fork",
+              "title": "Local graph"
             }
           }
         ]
@@ -117,8 +100,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "毎",
-                "matchingCase": true,
+                "query": "売買",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
@@ -145,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 329.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -209,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_Context/Nghiên cứu khoa học/CẤU TRÚC BÀI BÁO KHOA HỌC QUỐC TẾ - TỪ IMRAD ĐẾN THỰC HÀNH XUẤT BẢN.md",
+                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/3. Phân Tích TEST TỪ VỰNG N2_BÀI 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,22 +200,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "fb2797f174bd03a5",
-            "type": "leaf",
-            "state": {
-              "type": "infranodus-graph-view",
-              "state": {},
-              "icon": "infranodus-icon"
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,44 +221,49 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "7d28a1fb3c0f8d89",
+  "active": "be98b3379172f899",
   "lastOpenFiles": [
-    "AI_Context/Nghiên cứu khoa học/ĐỌC 40 BÀI BÁO NHƯNG FILE WORD VẪN TRẮNG、 CÓ THỂ BẠN ĐANG NÉ VIẾT MÀ KHÔNG NHẬN RA.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/2. Phân Tích N2_ĐỌC HIỂU_TEST 2.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/1. Phân Tích N2_TIỀN-HẬU TỐ (P1).md",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/毎 - Mỗi.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜ごとに.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 13.md",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/的 - Đích.canvas",
-    "Chữa đề/Learning_Profile/Vocabulary/多目的.md",
-    "Chữa đề/Learning_Profile/Vocabulary/金銭面.md",
-    "N2漢字/Bộ thủ/Hay gặp/D/Diện　「面」/Diện　「面」.canvas",
-    "Chữa đề/Learning_Profile/Collocation/困難に直面する.md",
-    "Chữa đề/Learning_Profile/Vocabulary/解決法.md",
-    "N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/法 - Pháp.canvas",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/06062026/500 無地語彙文法.canvas",
-    "Chữa đề/Learning_Profile/Collocation/対処方法.md",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/17. Câu hỏi/17. Câu hỏi.md",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/難 - Nan.canvas",
-    "Chữa đề/Learning_Profile/Kanji/非難.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/2. Phân Tích N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1.md",
-    "Chữa đề/Learning_Profile/FixedExpression/非難されても仕方がない.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week3/16032026/1. Phân Tích BÀI LÀM N2_ĐỌC HIỂU Ý KIẾN TÁC GIẢ_TEST 1.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/05062026/4. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 40.md",
-    "Chữa đề/Learning_Profile/Vocabulary/避難所.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week2/09052026/5. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 48.md",
-    "Chữa đề/Learning_Profile/Vocabulary/経営難.md",
-    "Chữa đề/Learning_Profile/Collocation/資金難.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/23032026/2. Phân Tích Tiền tố và Hậu tố Kanji trình độ N2.md",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/難 - Nan.canvas",
-    "Chữa đề/Learning_Profile/FixedExpression/経営難.md",
-    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/果 - Quả/果 - Quả.canvas",
-    "Chữa đề/Learning_Profile/Kanji/果たす.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/30062026/4. Phân Tích PHÂN TÍCH KẾT QUẢ HỌC TẬP JLPT N2 - TỔNG ÔN TỪ VỰNG BÀI 1 (P2).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/01062026/2. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P2).md",
-    "Chữa đề/Learning_Profile/FixedExpression/成果をあげる.md",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/幸 - Hạnh/報 - Báo.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/層 - Tằng.canvas",
+    "Chữa đề/Prompt/Prompt_Gen_DB3.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/3. Phân Tích TEST TỪ VỰNG N2_BÀI 1.md",
+    "fastkey.md",
+    "Lộ_trình_ngữ_pháp_N2.png",
+    "Chưa đặt tên.base",
+    "Chưa đặt tên 1.base",
+    "Chưa đặt tên 2.base",
+    "Chưa đặt tên.canvas",
+    "Chưa đặt tên 1.canvas",
+    "Decks — Demo exam.md",
+    "01_Vocabulary.md",
+    "2026-08-31.md",
+    "Chữa đề/Learning_Profile/Grammar/〜というものだ.md",
+    "Chữa đề/Learning_Profile/Grammar/〜からというもの.md",
+    "Chữa đề/Learning_Profile/Grammar/〜からして.md",
+    "Chữa đề/Learning_Profile/Grammar/〜んだもの.md",
+    "Chữa đề/Learning_Profile/Grammar/～ものの.md",
+    "Chữa đề/Learning_Profile/FixedExpression/〜ものだ.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/29062026/4. Phân Tích PHÂN TÍCH KẾT QUẢ HỌC TẬP JLPT N2 - TỪ ĐỒNG NGHĨA (P1).md",
+    "AI_Context/Văn hoá - Chia sẻ/Đỗ như thế nào/VH-CS. CÁCH PHÂN BỔ THỜI GIAN LÀM BÀI.md",
+    "Chữa đề/Learning_Profile/Adverb/とうとう.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/19062026/2. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week5/29042026/5. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (3).md",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/早 - Tảo/章 - Chương/障 - Chướng.canvas",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4).md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/Adverb Navigation.canvas",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/2. Phân Tích N2_NGÀY 26_ÔN TẬP NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1) (1-11).md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week4/22042026/2. Phân Tích Kết Quả N2_TEST ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8.md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/資 - Tư.canvas",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/29062026/5. Phân Tích PHÂN TÍCH KẾT QUẢ HỌC TẬP JLPT N2 - TỪ ĐỒNG NGHĨA (P2).md",
+    "Chữa đề/Learning_Profile/Vocabulary/まれ.md",
+    "N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/R-隹 Truy/権 - Quyền.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vật　「勿」/易 - Dịch - Di/場 - Trường.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/保 - Bảo.canvas",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/5..md",
+    "N2漢字/Bộ thủ/Hay gặp/S/Sạ　「乍」/作 - Tác.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Hành động/作 - Tác.canvas",
+    "N2漢字/Tiền tố, hậu tố/SubfixIndex.md",
+    "Chữa đề/Learning_Profile/Vocabulary/特典.md",
+    "AI_Context/Nghiên cứu khoa học/FreeWriting",
     "tools/dashboard/tempCodeRunnerFile.py",
     "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026",
     "Chữa đề/２０２６年/０９月２０２６年/Week3",
@@ -297,13 +276,8 @@
     "Pasted image 20260906233200.png",
     "AI_Context/AI Discussion/Quảng cáo",
     "Pasted image 20260906232714.png",
-    "AI_Context/Văn hoá - Chia sẻ/Đỗ như thế nào",
-    "AI_Context/Nói chuyện bằng tiếng Nhật/KW. 6 BƯỚC LUYỆN SHADOWING ĐỂ NÓI TIẾNG NHẬT TỰ NHIÊN HƠN",
-    "AI_Context/Kinh nghiệm phỏng vấn - làm việc",
-    "AI_Context/Quảng cáo",
     "Pasted image 20260906230145.png",
     "Pasted image 20260906230030.png",
-    "Pasted image 20260906221909.png",
-    "Pasted image 20260906221901.png"
+    "Pasted image 20260906221909.png"
   ]
 }

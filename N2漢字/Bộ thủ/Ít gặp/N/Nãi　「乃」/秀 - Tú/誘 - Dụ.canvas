@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"6fd49f18cff69c3a","x":-95,"y":-28,"width":250,"height":60,"type":"text","text":"誘 - Dụ"},
-		{"id":"76c48b8c94af04ae","x":-500,"y":-300,"width":177,"height":168,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/秀 - Tú/秀 - Tú.canvas"},
-		{"id":"982ca9a1394c593e","x":-521,"y":60,"width":198,"height":202,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+		{"id":"5c230621340bdf72","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/誘う.md","x":420,"y":200,"width":264,"height":176},
+		{"id":"6fd49f18cff69c3a","type":"text","text":"誘 - Dụ","x":-95,"y":-28,"width":250,"height":60},
+		{"id":"76c48b8c94af04ae","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/秀 - Tú/秀 - Tú.canvas","x":-500,"y":-300,"width":177,"height":168},
+		{"id":"982ca9a1394c593e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-521,"y":60,"width":198,"height":202},
+		{"id":"6e2919c6d1e29cb8","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/勧誘.md","x":380,"y":-312,"width":238,"height":193}
 	],
 	"edges":[
 		{"id":"fd7eca100eead761","fromNode":"76c48b8c94af04ae","fromSide":"right","toNode":"6fd49f18cff69c3a","toSide":"left"},
-		{"id":"842821a7c83174f1","fromNode":"982ca9a1394c593e","fromSide":"right","toNode":"6fd49f18cff69c3a","toSide":"left"}
+		{"id":"842821a7c83174f1","fromNode":"982ca9a1394c593e","fromSide":"right","toNode":"6fd49f18cff69c3a","toSide":"left"},
+		{"id":"038dd709b9ace254","fromNode":"6fd49f18cff69c3a","fromSide":"right","toNode":"6e2919c6d1e29cb8","toSide":"left"},
+		{"id":"824a3ec1b23727df","fromNode":"6fd49f18cff69c3a","fromSide":"right","toNode":"5c230621340bdf72","toSide":"left"}
 	]
 }

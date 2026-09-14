@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 379
-- Total Knowledge Items: 4128
+- Total Reviews: 380
+- Total Knowledge Items: 4140
 - Correct: 2585
-- Wrong: 3262
-- Accuracy: 44.2%
+- Wrong: 3277
+- Accuracy: 44.1%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.3% (Correct 214 / Wrong 292)
-- Collocation: 45.1% (Correct 107 / Wrong 130)
+- Adverb: 42.0% (Correct 214 / Wrong 295)
+- Collocation: 44.6% (Correct 107 / Wrong 133)
 - CompoundVerb: 41.6% (Correct 117 / Wrong 164)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 40.0% (Correct 175 / Wrong 263)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 49.9% (Correct 239 / Wrong 240)
+- Kanji: 49.8% (Correct 238 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 46.1% (Correct 782 / Wrong 915)
+- Vocabulary: 45.9% (Correct 783 / Wrong 924)
 
 ## 📚 Top Grammar
 
@@ -228,6 +228,7 @@
 
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
+- [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
 - [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
 - [[1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG]]
@@ -245,4 +246,3 @@
 - [[13. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP (Câu 42-50)]]
 - [[14. Phân Tích điền sao 54 55]]
 - [[15. Phân Tích câu 51-60 trong bài 0307261-24-27.pdf]]
-- [[18. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 18]]

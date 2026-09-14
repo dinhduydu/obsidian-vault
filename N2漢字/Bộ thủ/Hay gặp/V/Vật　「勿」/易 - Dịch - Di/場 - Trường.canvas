@@ -14,8 +14,8 @@
 		{"id":"63c827efeaac1e18","type":"file","file":"Chữa đề/Learning_Profile/Kanji/駐輪場.md","x":1486,"y":849,"width":400,"height":400},
 		{"id":"69f32ad8635ea040","type":"file","file":"Chữa đề/Learning_Profile/Katakana/ゴミ処理場.md","x":1460,"y":1380,"width":315,"height":277},
 		{"id":"ad1758a4f8937e3e","type":"text","text":"場合　「ばあい」：trường hợp","x":59,"y":140,"width":250,"height":60},
-		{"id":"096d6514cc863bb6","type":"text","text":"本部の人々が考えているより**現場**は大変な状況だった。","x":460,"y":140,"width":445,"height":50},
-		{"id":"cb277166c1f16942","type":"text","text":"nơi chốn","x":120,"y":-89,"width":250,"height":60}
+		{"id":"cb277166c1f16942","type":"text","text":"nơi chốn","x":120,"y":-89,"width":250,"height":60},
+		{"id":"096d6514cc863bb6","type":"text","text":"本部の人々が考えているより**現場**は大変な状況だった。","x":460,"y":145,"width":445,"height":50}
 	],
 	"edges":[
 		{"id":"e2334c4f2068554f","fromNode":"e1a59f8e30776934","fromSide":"right","toNode":"cb277166c1f16942","toSide":"left"},

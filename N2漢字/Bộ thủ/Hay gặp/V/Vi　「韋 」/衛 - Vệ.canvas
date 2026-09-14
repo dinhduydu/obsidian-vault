@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"fd032a6d1b20f670","x":-145,"y":-137,"width":250,"height":60,"type":"text","text":"衛 - Vệ"},
-		{"id":"9b3804a70057045e","x":-540,"y":-440,"width":159,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas"}
+		{"id":"fd032a6d1b20f670","type":"text","text":"衛 - Vệ","x":-145,"y":-137,"width":250,"height":60},
+		{"id":"9b3804a70057045e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Hành　「行」/Hành　「行」.canvas","x":-540,"y":-440,"width":159,"height":146},
+		{"id":"3f317e61fcb37225","type":"text","text":"衛生","x":340,"y":-397,"width":250,"height":60},
+		{"id":"586ed6f38ca85ae6","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/衛星放送.md","x":355,"y":-40,"width":235,"height":119}
 	],
 	"edges":[
-		{"id":"d23af7ecf79d4c8c","fromNode":"9b3804a70057045e","fromSide":"right","toNode":"fd032a6d1b20f670","toSide":"left"}
+		{"id":"d23af7ecf79d4c8c","fromNode":"9b3804a70057045e","fromSide":"right","toNode":"fd032a6d1b20f670","toSide":"left"},
+		{"id":"5024c3c1e0404053","fromNode":"fd032a6d1b20f670","fromSide":"right","toNode":"3f317e61fcb37225","toSide":"left"},
+		{"id":"85495e2c85202ac1","fromNode":"fd032a6d1b20f670","fromSide":"right","toNode":"586ed6f38ca85ae6","toSide":"left","label":"Truyền hình vệ tinh."}
 	]
 }

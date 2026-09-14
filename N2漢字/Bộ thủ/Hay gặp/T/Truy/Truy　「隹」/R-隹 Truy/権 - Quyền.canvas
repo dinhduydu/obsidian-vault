@@ -1,11 +1,21 @@
 {
 	"nodes":[
-		{"id":"39887baeac8c2d77","x":-120,"y":-20,"width":250,"height":60,"type":"text","text":"権 - Quyền"},
-		{"id":"9f228582f6635fe7","x":-400,"y":40,"width":152,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/⿱隹矢.canvas"},
-		{"id":"698bc6c2b6d9b324","x":-388,"y":-220,"width":140,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+		{"id":"39887baeac8c2d77","type":"text","text":"権 - Quyền","x":-120,"y":-20,"width":250,"height":60},
+		{"id":"9f228582f6635fe7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/⿱隹矢.canvas","x":-400,"y":40,"width":152,"height":161},
+		{"id":"698bc6c2b6d9b324","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-388,"y":-220,"width":140,"height":145},
+		{"id":"95c73ed2d7d47373","x":240,"y":-220,"width":240,"height":125,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/権利 (けんり).md"},
+		{"id":"9bfd8aa34dd4c414","x":270,"y":121,"width":290,"height":179,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜権.md"},
+		{"id":"de5f52f3d8a09597","x":700,"y":440,"width":201,"height":103,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/被選挙権.md"},
+		{"id":"0c07cbbdbe32bb06","x":726,"y":-420,"width":222,"height":132,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/権利.md"},
+		{"id":"ec24e3fe478f7428","x":1180,"y":-720,"width":308,"height":196,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/利権争い.md"}
 	],
 	"edges":[
 		{"id":"9c69a5e577414c67","fromNode":"9f228582f6635fe7","fromSide":"right","toNode":"39887baeac8c2d77","toSide":"left"},
-		{"id":"aaeb97e5b0feebf2","fromNode":"698bc6c2b6d9b324","fromSide":"right","toNode":"39887baeac8c2d77","toSide":"left"}
+		{"id":"aaeb97e5b0feebf2","fromNode":"698bc6c2b6d9b324","fromSide":"right","toNode":"39887baeac8c2d77","toSide":"left"},
+		{"id":"3cb141c84394b2b1","fromNode":"39887baeac8c2d77","fromSide":"right","toNode":"95c73ed2d7d47373","toSide":"left"},
+		{"id":"951fca7a48999fe8","fromNode":"95c73ed2d7d47373","fromSide":"right","toNode":"0c07cbbdbe32bb06","toSide":"left"},
+		{"id":"4572264976fa91f2","fromNode":"39887baeac8c2d77","fromSide":"right","toNode":"9bfd8aa34dd4c414","toSide":"left"},
+		{"id":"895b3b10852c18a6","fromNode":"9bfd8aa34dd4c414","fromSide":"right","toNode":"de5f52f3d8a09597","toSide":"left"},
+		{"id":"48b2c6e7edae28c6","fromNode":"0c07cbbdbe32bb06","fromSide":"right","toNode":"ec24e3fe478f7428","toSide":"left"}
 	]
 }
