@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 374
-- Total Knowledge Items: 4116
-- Correct: 2581
-- Wrong: 3250
-- Accuracy: 44.3%
+- Total Reviews: 379
+- Total Knowledge Items: 4128
+- Correct: 2585
+- Wrong: 3262
+- Accuracy: 44.2%
 
 ## 🚨 Review Queue
 
@@ -61,13 +61,13 @@
 - CompoundVerb: 41.6% (Correct 117 / Wrong 164)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 39.9% (Correct 175 / Wrong 264)
-- Grammar: 45.0% (Correct 699 / Wrong 855)
+- FixedExpression: 40.0% (Correct 175 / Wrong 263)
+- Grammar: 44.9% (Correct 699 / Wrong 857)
 - Kanji: 49.9% (Correct 239 / Wrong 240)
 - Katakana: 46.1% (Correct 105 / Wrong 123)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
-- Reading: 31.5% (Correct 57 / Wrong 124)
-- Vocabulary: 46.2% (Correct 778 / Wrong 906)
+- Reading: 31.1% (Correct 57 / Wrong 126)
+- Vocabulary: 46.1% (Correct 782 / Wrong 915)
 
 ## 📚 Top Grammar
 
@@ -157,8 +157,8 @@
 - [[～を込めて]] (Score: 25)
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
-- [[逆効果]] (Score: 25)
 - [[明け方]] (Score: 25)
+- [[耳にする]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -226,7 +226,12 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
+- [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
+- [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
 - [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
+- [[1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG]]
+- [[2. Phân Tích Ngữ Pháp]]
 - [[2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3)]]
 - [[3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9]]
 - [[4. Phân Tích N2 - DAY 14 PRACTICE TEST]]
@@ -241,8 +246,3 @@
 - [[14. Phân Tích điền sao 54 55]]
 - [[15. Phân Tích câu 51-60 trong bài 0307261-24-27.pdf]]
 - [[18. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 18]]
-- [[19. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 19]]
-- [[2. Phân Tích N2_NGÀY 26_ÔN TẬP NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1) (1-11)]]
-- [[2. Phân Tích tại sao dùng 〜ざるをえない thay vì 〜わけにはいかない]]
-- [[21. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 15]]
-- [[4. Phân Tích Tư duy sắp xếp trật tự câu (1-10)]]
