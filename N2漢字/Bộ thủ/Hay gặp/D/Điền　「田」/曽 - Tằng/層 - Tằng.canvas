@@ -1,13 +1,27 @@
 {
 	"nodes":[
-		{"id":"f4413e7de7f98f7c","x":-149,"y":-50,"width":250,"height":60,"type":"text","text":"層 - Tằng"},
-		{"id":"c090cf0b555b83af","x":-608,"y":160,"width":209,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas"},
-		{"id":"50a7f05e651be122","x":-830,"y":-50,"width":250,"height":60,"type":"text","text":"Tầng nhà"},
-		{"id":"4077db419128812f","x":-635,"y":-360,"width":236,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+		{"id":"c090cf0b555b83af","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/曽 - Tằng/曽 - Tằng.canvas","x":-608,"y":160,"width":209,"height":142},
+		{"id":"50a7f05e651be122","type":"text","text":"Tầng nhà","x":-830,"y":-50,"width":250,"height":60},
+		{"id":"4077db419128812f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-635,"y":-360,"width":236,"height":182},
+		{"id":"f4413e7de7f98f7c","type":"text","text":"層 - Tằng","x":-149,"y":-50,"width":250,"height":60},
+		{"id":"22c9decf3cac8776","type":"text","text":"層 - Tằng","x":340,"y":-350,"width":250,"height":60},
+		{"id":"c9e3c0c748f27995","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/読者層.md","x":920,"y":-680,"width":246,"height":210},
+		{"id":"a285721ad928f220","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/超高層ビル.md","x":520,"y":680,"width":400,"height":400},
+		{"id":"222b7abe9fd86d22","type":"file","file":"Chữa đề/Learning_Profile/Adverb/一層.md","x":1760,"y":-50,"width":300,"height":254},
+		{"id":"40c7caaa8330b7c8","type":"file","file":"Chữa đề/Learning_Profile/Adverb/より一層.md","x":2500,"y":-123,"width":400,"height":400},
+		{"id":"37a68abb824ac383","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜層.md","x":843,"y":-190,"width":400,"height":400},
+		{"id":"cc60c5bb21da3d39","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/既婚婦人層.md","x":920,"y":-1320,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"daeb243af5b36838","fromNode":"50a7f05e651be122","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"},
 		{"id":"5fc0854a6f491885","fromNode":"c090cf0b555b83af","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"},
-		{"id":"77a3ce26a6434212","fromNode":"4077db419128812f","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"}
+		{"id":"77a3ce26a6434212","fromNode":"4077db419128812f","fromSide":"right","toNode":"f4413e7de7f98f7c","toSide":"left"},
+		{"id":"f9a583478d45d22e","fromNode":"f4413e7de7f98f7c","fromSide":"right","toNode":"22c9decf3cac8776","toSide":"left","label":"hậu tố"},
+		{"id":"cd7c222bf6540bdd","fromNode":"22c9decf3cac8776","fromSide":"right","toNode":"c9e3c0c748f27995","toSide":"left","label":"Tầng lớp độc giả, nhóm người đọc."},
+		{"id":"899262aa9a12307f","fromNode":"222b7abe9fd86d22","fromSide":"right","toNode":"40c7caaa8330b7c8","toSide":"left","label":"Hơn hẳn một bậc, thêm nữa."},
+		{"id":"a4e82f6f251d09b4","fromNode":"f4413e7de7f98f7c","fromSide":"right","toNode":"a285721ad928f220","toSide":"left"},
+		{"id":"ae15992b070ddf74","fromNode":"37a68abb824ac383","fromSide":"right","toNode":"222b7abe9fd86d22","toSide":"left","label":" Hơn hẳn, hơn một bậc, thêm nữa."},
+		{"id":"26a5f9a046b7f089","fromNode":"22c9decf3cac8776","fromSide":"right","toNode":"37a68abb824ac383","toSide":"left"},
+		{"id":"496dc346e2c4c3ec","fromNode":"22c9decf3cac8776","fromSide":"right","toNode":"cc60c5bb21da3d39","toSide":"left","label":"tầng lớp/phân khúc phụ nữ đã kết hôn"}
 	]
 }

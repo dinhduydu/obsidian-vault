@@ -1,11 +1,29 @@
 {
 	"nodes":[
-		{"id":"91dd4b8f4cfea75d","x":-176,"y":-37,"width":250,"height":60,"type":"text","text":"難 - Nan"},
-		{"id":"8138e7eb04b5350d","x":-500,"y":-220,"width":186,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/漢 - Hán.canvas"},
-		{"id":"77a68381c7182341","x":-464,"y":120,"width":150,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas"}
+		{"id":"8138e7eb04b5350d","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/漢 - Hán/漢 - Hán.canvas","x":-500,"y":-220,"width":186,"height":163},
+		{"id":"77a68381c7182341","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/Truy　「隹」.canvas","x":-464,"y":120,"width":150,"height":137},
+		{"id":"722ce4784e5878a4","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/難 - Nan.canvas","x":300,"y":-295,"width":185,"height":150},
+		{"id":"91dd4b8f4cfea75d","type":"text","text":"難 - Nan","x":-176,"y":-37,"width":250,"height":60},
+		{"id":"9149f5e1e2bfe34d","type":"text","text":"難 - Nan","x":300,"y":188,"width":250,"height":60},
+		{"id":"89a1b5b3b8de8757","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/困難.md","x":740,"y":-7,"width":230,"height":155},
+		{"id":"886d436d8987c10e","type":"file","file":"Chữa đề/Learning_Profile/Collocation/困難に直面する.md","x":1364,"y":-18,"width":320,"height":178},
+		{"id":"a41d69582c225986","type":"file","file":"Chữa đề/Learning_Profile/Collocation/資金難.md","x":740,"y":-1120,"width":340,"height":200},
+		{"id":"0036b5d5f0e311aa","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/経営難.md","x":1280,"y":-580,"width":263,"height":196},
+		{"id":"b30d261a4dd1195c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/避難所.md","x":758,"y":780,"width":243,"height":173},
+		{"id":"cd96ce321582d155","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/非難されても仕方がない.md","x":1460,"y":304,"width":364,"height":176},
+		{"id":"553d54b6a1a1a061","type":"file","file":"Chữa đề/Learning_Profile/Kanji/非難.md","x":758,"y":312,"width":212,"height":168}
 	],
 	"edges":[
 		{"id":"e02cfb556de3dfcf","fromNode":"8138e7eb04b5350d","fromSide":"right","toNode":"91dd4b8f4cfea75d","toSide":"left"},
-		{"id":"39a464294717373d","fromNode":"77a68381c7182341","fromSide":"right","toNode":"91dd4b8f4cfea75d","toSide":"left"}
+		{"id":"39a464294717373d","fromNode":"77a68381c7182341","fromSide":"right","toNode":"91dd4b8f4cfea75d","toSide":"left"},
+		{"id":"6401cee88ed258f6","fromNode":"91dd4b8f4cfea75d","fromSide":"right","toNode":"722ce4784e5878a4","toSide":"left","label":"hậu tố"},
+		{"id":"97ef7eb3b989de73","fromNode":"722ce4784e5878a4","fromSide":"right","toNode":"0036b5d5f0e311aa","toSide":"left","label":"Khủng hoảng kinh doanh, tình trạng khó khăn trong quản lý doanh nghiệp."},
+		{"id":"55befed4e80fa803","fromNode":"91dd4b8f4cfea75d","fromSide":"right","toNode":"9149f5e1e2bfe34d","toSide":"left","label":"từ vựng"},
+		{"id":"e902c6762ae51b32","fromNode":"9149f5e1e2bfe34d","fromSide":"right","toNode":"89a1b5b3b8de8757","toSide":"left"},
+		{"id":"b4bc44e78d529aab","fromNode":"9149f5e1e2bfe34d","fromSide":"right","toNode":"553d54b6a1a1a061","toSide":"left","label":"chỉ trích"},
+		{"id":"0e7920c285ae37a9","fromNode":"9149f5e1e2bfe34d","fromSide":"right","toNode":"b30d261a4dd1195c","toSide":"left","label":"Nơi lánh nạn, nơi sơ tán."},
+		{"id":"ce76facd8e87197b","fromNode":"89a1b5b3b8de8757","fromSide":"right","toNode":"886d436d8987c10e","toSide":"left","label":" Đối mặt với khó khăn."},
+		{"id":"2893c157fc44ceab","fromNode":"553d54b6a1a1a061","fromSide":"right","toNode":"cd96ce321582d155","toSide":"left","label":"Có bị chỉ trích cũng đành chịu/là đương nhiên."},
+		{"id":"c1598e934e0580e2","fromNode":"722ce4784e5878a4","fromSide":"right","toNode":"a41d69582c225986","toSide":"left","label":"Sự thiếu hụt vốn, khó khăn về tài chính."}
 	]
 }

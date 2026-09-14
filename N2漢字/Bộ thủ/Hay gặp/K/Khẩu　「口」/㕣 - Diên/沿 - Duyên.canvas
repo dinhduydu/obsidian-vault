@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b0a07e8d8c376a8f","type":"text","text":"沿 - Duyên","x":-71,"y":-48,"width":250,"height":60},
+		{"id":"aaa0e264ed6f9b18","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/㕣 - Diên/㕣 - Diên.canvas","x":-400,"y":80,"width":228,"height":146},
+		{"id":"a131a2bf934000e1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-344,"y":-300,"width":172,"height":154},
+		{"id":"efc39c51e6c9f1f6","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜沿い.md","x":480,"y":-700,"width":400,"height":400},
+		{"id":"27e68c4654cb4301","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/海岸沿い.md","x":2060,"y":-120,"width":400,"height":400},
+		{"id":"547745af2c6d43e5","type":"text","text":"沿い","x":1155,"y":-150,"width":250,"height":60},
+		{"id":"dcac6126e555c2ba","type":"file","file":"Chữa đề/Learning_Profile/Kanji/沿って.md","x":1170,"y":-1160,"width":220,"height":196},
+		{"id":"e77cb8c5b8bfd0bc","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に沿って.md","x":1654,"y":-1540,"width":304,"height":178},
+		{"id":"3c2231312e16544b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に沿った.md","x":1760,"y":-840,"width":252,"height":167}
+	],
+	"edges":[
+		{"id":"2fb9b86879ed7ff0","fromNode":"aaa0e264ed6f9b18","fromSide":"right","toNode":"b0a07e8d8c376a8f","toSide":"left"},
+		{"id":"18bea5630be41e8b","fromNode":"a131a2bf934000e1","fromSide":"right","toNode":"b0a07e8d8c376a8f","toSide":"left"},
+		{"id":"2aec7ce25363adad","fromNode":"efc39c51e6c9f1f6","fromSide":"right","toNode":"dcac6126e555c2ba","toSide":"left","label":"dọc theo - con đường, dòng sông"},
+		{"id":"c1f7b261c2620f33","fromNode":"dcac6126e555c2ba","fromSide":"right","toNode":"e77cb8c5b8bfd0bc","toSide":"left","label":"Dọc theo/ Dựa theo (đúng như kế hoạch, kỳ vọng)."},
+		{"id":"fad8aa7aec044e25","fromNode":"dcac6126e555c2ba","fromSide":"right","toNode":"3c2231312e16544b","toSide":"left","label":"Dựa theo/Dọc theo (nguyện vọng/kế hoạch)"},
+		{"id":"256d3c88c910bfc4","fromNode":"b0a07e8d8c376a8f","fromSide":"right","toNode":"efc39c51e6c9f1f6","toSide":"left"},
+		{"id":"a371ee9bddf6c152","fromNode":"efc39c51e6c9f1f6","fromSide":"right","toNode":"547745af2c6d43e5","toSide":"left","label":"Hậu tố"},
+		{"id":"ad7a865f6280987b","fromNode":"547745af2c6d43e5","fromSide":"right","toNode":"27e68c4654cb4301","toSide":"left","label":"Dọc theo bờ biển."}
+	]
+}

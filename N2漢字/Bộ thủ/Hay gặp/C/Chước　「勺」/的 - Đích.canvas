@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"0e640b18ff606cb5","x":-104,"y":-68,"width":250,"height":60,"type":"text","text":"的 - Đích"},
-		{"id":"77113b8dabf6901a","x":-520,"y":-300,"width":178,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/Chước　「勺」.canvas"},
-		{"id":"a65690948ea3d0d8","x":-520,"y":40,"width":178,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+		{"id":"0e640b18ff606cb5","type":"text","text":"的 - Đích","x":-104,"y":-68,"width":250,"height":60},
+		{"id":"77113b8dabf6901a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/Chước　「勺」.canvas","x":-520,"y":-300,"width":178,"height":119},
+		{"id":"a65690948ea3d0d8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas","x":-520,"y":40,"width":178,"height":123},
+		{"id":"dede9859b37fb168","x":400,"y":-420,"width":220,"height":112,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/多目的.md"}
 	],
 	"edges":[
 		{"id":"0afd198c788e6bf9","fromNode":"77113b8dabf6901a","fromSide":"right","toNode":"0e640b18ff606cb5","toSide":"left"},
-		{"id":"00008d3586b21c87","fromNode":"a65690948ea3d0d8","fromSide":"right","toNode":"0e640b18ff606cb5","toSide":"left"}
+		{"id":"00008d3586b21c87","fromNode":"a65690948ea3d0d8","fromSide":"right","toNode":"0e640b18ff606cb5","toSide":"left"},
+		{"id":"befe801e8a02259e","fromNode":"0e640b18ff606cb5","fromSide":"right","toNode":"dede9859b37fb168","toSide":"left","label":"nhiều mục đích"}
 	]
 }

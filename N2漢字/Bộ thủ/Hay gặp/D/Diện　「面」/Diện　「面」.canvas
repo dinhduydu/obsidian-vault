@@ -1,6 +1,41 @@
 {
 	"nodes":[
-		{"id":"7d39c59ae9552c9e","x":-154,"y":-22,"width":250,"height":60,"type":"text","text":"Diện　「面」"}
+		{"id":"325e5f55649a5973","type":"file","file":"Chữa đề/Learning_Profile/Adverb/面倒な.md","x":300,"y":-280,"width":192,"height":102},
+		{"id":"70fe40a64231e1a6","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/面倒くさい.md","x":640,"y":-499,"width":265,"height":219},
+		{"id":"20ef88dbd0b55db7","type":"file","file":"Chữa đề/Learning_Profile/Collocation/面倒をみる.md","x":640,"y":-178,"width":308,"height":187},
+		{"id":"ae6b0b6041e7c35d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/面倒くさがらずに.md","x":1080,"y":-720,"width":400,"height":400},
+		{"id":"710b7a78fc5c6645","type":"file","file":"Chữa đề/Learning_Profile/Kanji/面影.md","x":300,"y":200,"width":300,"height":239},
+		{"id":"c60dce7de0674f81","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/面白かったです.md","x":338,"y":620,"width":262,"height":198},
+		{"id":"7d39c59ae9552c9e","type":"text","text":"Diện　「面」","x":-154,"y":-22,"width":250,"height":60},
+		{"id":"758d811016bfad65","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜面.md","x":360,"y":1454,"width":200,"height":136},
+		{"id":"e713f59852ece5f6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜反面.md","x":960,"y":1190,"width":241,"height":140},
+		{"id":"5c6a895b1b99d35f","type":"file","file":"Chữa đề/Learning_Profile/Adverb/全面的に.md","x":480,"y":1980,"width":380,"height":260},
+		{"id":"c7539a61e721eedb","type":"file","file":"Chữa đề/Learning_Profile/Collocation/通りに面する.md","x":2320,"y":1260,"width":400,"height":400},
+		{"id":"96377e507c461765","type":"text","text":"Diện　「面」","x":-140,"y":1760,"width":250,"height":60},
+		{"id":"bbeabe82ab920303","type":"text","text":"Diện　「面」","x":1840,"y":1330,"width":250,"height":60},
+		{"id":"02b643a00d00e395","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/体面.md","x":960,"y":1412,"width":280,"height":110},
+		{"id":"dcf98360632d7daa","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/側面.md","x":960,"y":1664,"width":294,"height":156},
+		{"id":"2ea60af196fcc4d7","type":"file","file":"Chữa đề/Learning_Profile/Collocation/体面を保つ.md","x":1440,"y":1407,"width":218,"height":120},
+		{"id":"505044a66611d46b","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/直面する.md","x":2391,"y":1790,"width":258,"height":104},
+		{"id":"c632f250c4341010","type":"file","file":"Chữa đề/Learning_Profile/Collocation/困難に直面する.md","x":2320,"y":2000,"width":400,"height":400},
+		{"id":"96c777a9a43eeae7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/金銭面.md","x":960,"y":800,"width":275,"height":180}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"bdce1f3877c75159","fromNode":"7d39c59ae9552c9e","fromSide":"right","toNode":"325e5f55649a5973","toSide":"left"},
+		{"id":"5d5e3b5f9a0c5cb9","fromNode":"325e5f55649a5973","fromSide":"right","toNode":"70fe40a64231e1a6","toSide":"left"},
+		{"id":"56509122160f80dc","fromNode":"325e5f55649a5973","fromSide":"right","toNode":"20ef88dbd0b55db7","toSide":"left"},
+		{"id":"50f31226205cc743","fromNode":"70fe40a64231e1a6","fromSide":"right","toNode":"ae6b0b6041e7c35d","toSide":"left"},
+		{"id":"22b23bfcea745201","fromNode":"7d39c59ae9552c9e","fromSide":"right","toNode":"710b7a78fc5c6645","toSide":"left"},
+		{"id":"7b726d0bdc8815c1","fromNode":"758d811016bfad65","fromSide":"right","toNode":"e713f59852ece5f6","toSide":"left"},
+		{"id":"093cf494f29ad6cb","fromNode":"96377e507c461765","fromSide":"right","toNode":"758d811016bfad65","toSide":"left"},
+		{"id":"23a3168c1f81b16d","fromNode":"7d39c59ae9552c9e","fromSide":"right","toNode":"c60dce7de0674f81","toSide":"left"},
+		{"id":"58498245d23d53e3","fromNode":"96377e507c461765","fromSide":"right","toNode":"5c6a895b1b99d35f","toSide":"left"},
+		{"id":"aa06fe98685788c7","fromNode":"bbeabe82ab920303","fromSide":"right","toNode":"c7539a61e721eedb","toSide":"left"},
+		{"id":"dd4d4bbc92771065","fromNode":"758d811016bfad65","fromSide":"right","toNode":"02b643a00d00e395","toSide":"left"},
+		{"id":"cb60af67b8e113cd","fromNode":"758d811016bfad65","fromSide":"right","toNode":"dcf98360632d7daa","toSide":"left"},
+		{"id":"ec16b7fac079fedd","fromNode":"02b643a00d00e395","fromSide":"right","toNode":"2ea60af196fcc4d7","toSide":"left"},
+		{"id":"98a70e62624e5996","fromNode":"bbeabe82ab920303","fromSide":"right","toNode":"505044a66611d46b","toSide":"left"},
+		{"id":"871d7ab03fe3b690","fromNode":"bbeabe82ab920303","fromSide":"right","toNode":"c632f250c4341010","toSide":"left","label":" Đối mặt với khó khăn."},
+		{"id":"42ed1198403b3644","fromNode":"758d811016bfad65","fromSide":"right","toNode":"96c777a9a43eeae7","toSide":"left","label":"Về mặt tiền bạc, phương diện tài chính."}
+	]
 }

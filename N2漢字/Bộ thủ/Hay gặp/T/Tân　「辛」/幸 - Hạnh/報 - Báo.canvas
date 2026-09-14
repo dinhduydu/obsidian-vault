@@ -1,11 +1,27 @@
 {
 	"nodes":[
-		{"id":"c34f749afbda090b","x":-197,"y":-49,"width":250,"height":60,"type":"text","text":"報 - Báo"},
-		{"id":"22c812de697dee7e","x":-520,"y":-280,"width":131,"height":152,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas"},
-		{"id":"1d34480b03eabf85","x":-559,"y":80,"width":170,"height":233,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
+		{"id":"c34f749afbda090b","type":"text","text":"報 - Báo","x":-197,"y":-49,"width":250,"height":60},
+		{"id":"22c812de697dee7e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tân　「辛」/Tân　「辛」.canvas","x":-520,"y":-280,"width":131,"height":152},
+		{"id":"1d34480b03eabf85","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas","x":-559,"y":80,"width":170,"height":233},
+		{"id":"bf9570246a348412","x":380,"y":-277,"width":178,"height":149,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜報.md"},
+		{"id":"5f1cbad2fb27b38c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/注意報.md","x":880,"y":-629,"width":220,"height":192},
+		{"id":"caca8f28952eb977","type":"file","file":"Chữa đề/Learning_Profile/Collocation/注意報を発令する.md","x":1520,"y":-960,"width":280,"height":171},
+		{"id":"dcbeb25e61c78316","x":308,"y":151,"width":250,"height":60,"type":"text","text":"情報"},
+		{"id":"c990c670d591d92c","x":720,"y":211,"width":260,"height":149,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/情報を入手する.md"},
+		{"id":"c2081bdad068177c","x":720,"y":440,"width":320,"height":214,"type":"file","file":"Chữa đề/Learning_Profile/Reading/情報検索の条件照合.md"},
+		{"id":"7d9f0e6d13da4a53","x":720,"y":780,"width":180,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/Reading/情報検索.md"},
+		{"id":"7c233b85762ead03","x":1100,"y":0,"width":300,"height":122,"type":"file","file":"Chữa đề/Learning_Profile/Reading/情報検索の条件抽出.md"}
 	],
 	"edges":[
 		{"id":"2c8f149cd6f1692a","fromNode":"22c812de697dee7e","fromSide":"right","toNode":"c34f749afbda090b","toSide":"left"},
-		{"id":"4851f927cf4d2eaf","fromNode":"1d34480b03eabf85","fromSide":"right","toNode":"c34f749afbda090b","toSide":"left"}
+		{"id":"4851f927cf4d2eaf","fromNode":"1d34480b03eabf85","fromSide":"right","toNode":"c34f749afbda090b","toSide":"left"},
+		{"id":"a2da58a41e56d4df","fromNode":"bf9570246a348412","fromSide":"right","toNode":"5f1cbad2fb27b38c","toSide":"left","label":"Thông báo chú ý/Cảnh báo"},
+		{"id":"def8e01c2e77d265","fromNode":"5f1cbad2fb27b38c","fromSide":"right","toNode":"caca8f28952eb977","toSide":"left","label":"Ban bố cảnh báo/thông báo chú ý."},
+		{"id":"b70b637459ac9d60","fromNode":"c34f749afbda090b","fromSide":"right","toNode":"bf9570246a348412","toSide":"left","label":"hậu tố"},
+		{"id":"a5af33bcb42462da","fromNode":"c34f749afbda090b","fromSide":"right","toNode":"dcbeb25e61c78316","toSide":"left"},
+		{"id":"f5aac157652bcc59","fromNode":"dcbeb25e61c78316","fromSide":"right","toNode":"c990c670d591d92c","toSide":"left"},
+		{"id":"1ea0b0b78ead9b30","fromNode":"dcbeb25e61c78316","fromSide":"right","toNode":"c2081bdad068177c","toSide":"left"},
+		{"id":"7fc500322053f6d7","fromNode":"dcbeb25e61c78316","fromSide":"right","toNode":"7d9f0e6d13da4a53","toSide":"left"},
+		{"id":"745970ac82ebdcb1","fromNode":"dcbeb25e61c78316","fromSide":"right","toNode":"7c233b85762ead03","toSide":"left"}
 	]
 }

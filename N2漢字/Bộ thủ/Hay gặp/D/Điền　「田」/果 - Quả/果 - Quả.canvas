@@ -1,11 +1,29 @@
 {
 	"nodes":[
-		{"id":"c164849e4c9faee6","x":-78,"y":-28,"width":250,"height":60,"type":"text","text":"果 - Quả"},
-		{"id":"73a8eeba88f3ba59","x":-400,"y":-260,"width":149,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
-		{"id":"bc61a802e1d61518","x":-426,"y":80,"width":175,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+		{"id":"73a8eeba88f3ba59","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-400,"y":-260,"width":149,"height":135},
+		{"id":"bc61a802e1d61518","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-426,"y":80,"width":175,"height":179},
+		{"id":"febbb2fdb9e36c72","type":"file","file":"Chữa đề/Learning_Profile/Kanji/果たす.md","x":420,"y":-400,"width":288,"height":172},
+		{"id":"99e6fd5afc6198b5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/成果.md","x":415,"y":-31,"width":400,"height":400},
+		{"id":"e0edc30fb96bebd3","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/成果をあげる.md","x":1160,"y":-260,"width":400,"height":400},
+		{"id":"3f5cb24f83458e30","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/成果を上げる.md","x":1900,"y":-460,"width":360,"height":400},
+		{"id":"34d58166bb520002","type":"file","file":"Chữa đề/Learning_Profile/Collocation/成果につながる.md","x":1160,"y":260,"width":400,"height":400},
+		{"id":"c164849e4c9faee6","type":"text","text":"果 - Quả","x":-78,"y":-28,"width":250,"height":60},
+		{"id":"e838ebaa4c3e4cc7","type":"text","text":"果 - Quả","x":458,"y":880,"width":250,"height":60},
+		{"id":"cced67efa5342511","type":"file","file":"Chữa đề/Learning_Profile/Reading/劇場効果.md","x":1640,"y":1083,"width":400,"height":400},
+		{"id":"6c75383a09b031eb","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/逆効果.md","x":1160,"y":1420,"width":400,"height":400},
+		{"id":"1f1ca76644b92414","type":"text","text":"効果","x":780,"y":1023,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"06ddbb11a6798289","fromNode":"73a8eeba88f3ba59","fromSide":"right","toNode":"c164849e4c9faee6","toSide":"left"},
-		{"id":"8822733b37aefa32","fromNode":"bc61a802e1d61518","fromSide":"right","toNode":"c164849e4c9faee6","toSide":"left"}
+		{"id":"8822733b37aefa32","fromNode":"bc61a802e1d61518","fromSide":"right","toNode":"c164849e4c9faee6","toSide":"left"},
+		{"id":"c01a723d85e6fa8c","fromNode":"c164849e4c9faee6","fromSide":"right","toNode":"febbb2fdb9e36c72","toSide":"left","label":"Hoàn thành, thực hiện trọn vẹn."},
+		{"id":"b678e9afa35ddfd8","fromNode":"c164849e4c9faee6","fromSide":"right","toNode":"99e6fd5afc6198b5","toSide":"left"},
+		{"id":"c63e6dd5529463c6","fromNode":"99e6fd5afc6198b5","fromSide":"right","toNode":"e0edc30fb96bebd3","toSide":"left","label":"Đạt được thành quả."},
+		{"id":"153b96800cde159f","fromNode":"e0edc30fb96bebd3","fromSide":"right","toNode":"3f5cb24f83458e30","toSide":"left"},
+		{"id":"5b48fca0570cf7f3","fromNode":"99e6fd5afc6198b5","fromSide":"right","toNode":"34d58166bb520002","toSide":"left","label":"Dẫn đến kết quả/thành quả"},
+		{"id":"7541f2606d68f4dd","fromNode":"1f1ca76644b92414","fromSide":"right","toNode":"6c75383a09b031eb","toSide":"left","label":"Phản tác dụng, hiệu quả ngược lại với mong đợi."},
+		{"id":"8113357437b84fa0","fromNode":"c164849e4c9faee6","fromSide":"right","toNode":"e838ebaa4c3e4cc7","toSide":"left","label":"hậu tố"},
+		{"id":"882dfc372ac91683","fromNode":"1f1ca76644b92414","fromSide":"right","toNode":"cced67efa5342511","toSide":"left","label":"\"Hiệu ứng nhà hát\""},
+		{"id":"847a06d46c88509a","fromNode":"e838ebaa4c3e4cc7","fromSide":"right","toNode":"1f1ca76644b92414","toSide":"left"}
 	]
 }

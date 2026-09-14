@@ -1,11 +1,27 @@
 {
 	"nodes":[
-		{"id":"375c77249cc9ce7d","x":-95,"y":-53,"width":250,"height":60,"type":"text","text":"法 - Pháp"},
-		{"id":"2b4cced3f5f04ce6","x":-440,"y":140,"width":182,"height":158,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas"},
-		{"id":"9c6794c0522d840c","x":-499,"y":-243,"width":241,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"375c77249cc9ce7d","type":"text","text":"法 - Pháp","x":-95,"y":-53,"width":250,"height":60},
+		{"id":"2b4cced3f5f04ce6","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khư　「厶」/去 - Khứ/去 - Khứ.canvas","x":-440,"y":140,"width":182,"height":158},
+		{"id":"9c6794c0522d840c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-499,"y":-243,"width":241,"height":190},
+		{"id":"6ffd70f5c8f79370","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/〜法.md","x":360,"y":-213,"width":200,"height":160},
+		{"id":"c03aea4c1d8f6a13","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/文法.md","x":720,"y":-388,"width":171,"height":175},
+		{"id":"28963c07eb77b71b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/解決法.md","x":768,"y":-23,"width":247,"height":164},
+		{"id":"4186e59a61220f15","type":"text","text":"方法","x":765,"y":380,"width":250,"height":60},
+		{"id":"217d2a6b446ff796","type":"file","file":"Chữa đề/Learning_Profile/Collocation/対処方法.md","x":1240,"y":141,"width":298,"height":179},
+		{"id":"625db18501177093","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/建築方法.md","x":1240,"y":440,"width":269,"height":240},
+		{"id":"2ccb00fc261aaebd","type":"file","file":"Chữa đề/２０２６年/０６月２０２６年/Week1/06062026/500 無地語彙文法.canvas","x":1160,"y":-740,"width":280,"height":220},
+		{"id":"0a0a38661db1d866","type":"file","file":"Chữa đề/Learning_Profile/Kanji/分類法.md","x":1240,"y":-256,"width":298,"height":233}
 	],
 	"edges":[
 		{"id":"8544d6109f27b994","fromNode":"2b4cced3f5f04ce6","fromSide":"right","toNode":"375c77249cc9ce7d","toSide":"left"},
-		{"id":"f8e7ca4ac5ca30ec","fromNode":"9c6794c0522d840c","fromSide":"right","toNode":"375c77249cc9ce7d","toSide":"left"}
+		{"id":"f8e7ca4ac5ca30ec","fromNode":"9c6794c0522d840c","fromSide":"right","toNode":"375c77249cc9ce7d","toSide":"left"},
+		{"id":"187ce637fadb902f","fromNode":"375c77249cc9ce7d","fromSide":"right","toNode":"6ffd70f5c8f79370","toSide":"left"},
+		{"id":"800a871fa2b8fc74","fromNode":"6ffd70f5c8f79370","fromSide":"right","toNode":"c03aea4c1d8f6a13","toSide":"left"},
+		{"id":"195b0e41214ec5f3","fromNode":"6ffd70f5c8f79370","fromSide":"right","toNode":"28963c07eb77b71b","toSide":"left"},
+		{"id":"8d4315fc22be70e5","fromNode":"4186e59a61220f15","fromSide":"right","toNode":"625db18501177093","toSide":"left"},
+		{"id":"d42d28b46ee3dbde","fromNode":"6ffd70f5c8f79370","fromSide":"right","toNode":"0a0a38661db1d866","toSide":"left"},
+		{"id":"9a6b01d9a4872a76","fromNode":"4186e59a61220f15","fromSide":"right","toNode":"217d2a6b446ff796","toSide":"left"},
+		{"id":"bd277589fe9d2be3","fromNode":"6ffd70f5c8f79370","fromSide":"right","toNode":"4186e59a61220f15","toSide":"left"},
+		{"id":"02422746fb86e317","fromNode":"c03aea4c1d8f6a13","fromSide":"right","toNode":"2ccb00fc261aaebd","toSide":"left"}
 	]
 }
