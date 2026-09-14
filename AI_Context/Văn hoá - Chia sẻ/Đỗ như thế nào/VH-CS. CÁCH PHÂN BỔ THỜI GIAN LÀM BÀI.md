@@ -1,4 +1,3 @@
-✊CHIA SẺ CHI TIẾT CÁCH CĂN GIỜ VÀ TIP LÀM BÀI TỪNG DẠNG BÀI JLPT N2
 
 I. CÁCH PHÂN BỔ THỜI GIAN LÀM BÀI
 -  Phần Kiến thức ngôn ngữ (Hán tự - Từ vựng - Ngữ pháp) & Đọc hiểu của đề N2 thi chung với nhau với tổng thời gian làm bài lần lượt là 105. Còn phần nghe riêng biệt 50 phút.

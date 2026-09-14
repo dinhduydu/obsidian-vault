@@ -1,4 +1,3 @@
-TRƯỢT N2 VÌ LUYỆN ĐỀ KHÔNG ĐÚNG CÁCH…
 Luyện đề nhiều nhưng điểm vẫn không tăng, đâu là lý do?
 Kỳ thi JLPT tháng 7 đã công bố kết quả, nhiều bạn thắc mắc sao mình học nhiều, ôn thi nhiều mà vẫn trượt… thì đây là bài viết dành cho bạn. 
 

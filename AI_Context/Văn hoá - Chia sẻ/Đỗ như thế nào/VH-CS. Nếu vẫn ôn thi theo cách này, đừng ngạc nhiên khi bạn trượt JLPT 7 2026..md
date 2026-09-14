@@ -1,4 +1,4 @@
-Nếu vẫn ôn thi theo cách này, đừng ngạc nhiên khi bạn trượt JLPT 7/2026.
+
 Mình nói điều này không phải để dọa bởi mình đã từng trượt 2 lần N2 theo đúng cách này. Không phải vì đề quá khó mà vì cách ôn của mình có vấn đề:
 
 1️⃣  Học lan man, không biết mình yếu ở đâu
