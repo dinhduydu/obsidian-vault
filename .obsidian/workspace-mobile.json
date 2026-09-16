@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Context/Chưa đặt tên 2.md",
+                "file": "AI_Context/Chưa đặt tên.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chưa đặt tên 2"
+              "title": "Chưa đặt tên"
             }
           }
         ]
@@ -148,8 +148,8 @@
         "state": {
           "type": "infranodus-graph-view",
           "state": {},
-          "icon": "infranodus-icon",
-          "title": "InfraNodus Graph"
+          "icon": "lucide-ghost",
+          "title": "infranodus-graph-view"
         }
       }
     ],
@@ -164,16 +164,15 @@
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
       "bases:Tạo cơ sở mới": false,
-      "decks:Decks": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "decks:Decks": false
     }
   },
   "active": "22a0dfa519bc2189",
   "lastOpenFiles": [
+    "AI_Context/Chưa đặt tên.md",
     "AI_Context/Chưa đặt tên 1.md",
     "AI_Context/Chưa đặt tên 2.md",
     "N2語彙/Chưa đặt tên.md",
-    "AI_Context/Chưa đặt tên.md",
     "AI_Context/AI Discussion/AI. Thuật toán LAN TRUYỀN NGƯỢC.md",
     "AI_Context/AI Discussion/AI. Thiết kế Data Model để không mất lịch sử thay đổi khi data trên phần mềm được update.md",
     "AI_Context/AI Discussion/AI. Agent được trang bị đúng “vũ khí” nguy hiểm tới cỡ nào.md",
