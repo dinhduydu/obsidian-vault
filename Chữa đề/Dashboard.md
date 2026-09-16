@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 380
-- Total Knowledge Items: 4140
-- Correct: 2585
-- Wrong: 3277
-- Accuracy: 44.1%
+- Total Reviews: 382
+- Total Knowledge Items: 4166
+- Correct: 2593
+- Wrong: 3299
+- Accuracy: 44.0%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 42.0% (Correct 214 / Wrong 295)
+- Adverb: 41.8% (Correct 214 / Wrong 298)
 - Collocation: 44.6% (Correct 107 / Wrong 133)
-- CompoundVerb: 41.6% (Correct 117 / Wrong 164)
+- CompoundVerb: 41.5% (Correct 117 / Wrong 165)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 40.0% (Correct 175 / Wrong 263)
+- FixedExpression: 39.9% (Correct 175 / Wrong 264)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 49.8% (Correct 238 / Wrong 240)
-- Katakana: 46.1% (Correct 105 / Wrong 123)
+- Kanji: 49.4% (Correct 238 / Wrong 244)
+- Katakana: 45.7% (Correct 105 / Wrong 125)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 45.9% (Correct 783 / Wrong 924)
+- Vocabulary: 45.8% (Correct 791 / Wrong 935)
 
 ## 📚 Top Grammar
 
@@ -102,11 +102,11 @@
 - [[衣装]] (Score: 25)
 - [[演説]] (Score: 25)
 - [[寒気]] (Score: 25)
+- [[解放]] (Score: 20)
 - [[把握]] (Score: 20)
 - [[仮〜]] (Score: 20)
 - [[不〜]] (Score: 20)
 - [[額]] (Score: 20)
-- [[白髪]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -229,6 +229,8 @@
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
+- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
+- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
 - [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
 - [[1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG]]
@@ -244,5 +246,3 @@
 - [[11. Phân Tích câu 31 đến 41 của tệp 0307261-15-19.pdf]]
 - [[12. Phân Tích câu điền sao từ 41 đến 50]]
 - [[13. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP (Câu 42-50)]]
-- [[14. Phân Tích điền sao 54 55]]
-- [[15. Phân Tích câu 51-60 trong bài 0307261-24-27.pdf]]
