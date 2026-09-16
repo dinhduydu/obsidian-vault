@@ -1,9 +1,21 @@
 {
 	"nodes":[
-		{"id":"cc3d6728bd9d4d13","x":-132,"y":-33,"width":250,"height":60,"type":"text","text":"帯 - Đới"},
-		{"id":"99641d7944e9f798","x":-460,"y":120,"width":205,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas"}
+		{"id":"99641d7944e9f798","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/Cân　「巾」.canvas","x":-460,"y":120,"width":205,"height":130},
+		{"id":"cc3d6728bd9d4d13","type":"text","text":"帯 - Đới","x":-132,"y":-33,"width":250,"height":60},
+		{"id":"bb43ce03681b9525","type":"text","text":"帯 - Đới","x":940,"y":220,"width":250,"height":60},
+		{"id":"620769bd62324c21","x":280,"y":-544,"width":194,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/滞 - Trệ.canvas"},
+		{"id":"3ed36a4bb9e4a713","type":"file","file":"Chữa đề/Learning_Profile/Collocation/現実味を帯びる.md","x":280,"y":-300,"width":334,"height":178},
+		{"id":"b5dfa9a39569783f","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/世帯.md","x":1360,"y":-13,"width":213,"height":136},
+		{"id":"f1e422aa89cd595d","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/亜熱帯.md","x":1360,"y":197,"width":206,"height":107},
+		{"id":"32ae5c0e9bf87134","type":"file","file":"Chữa đề/Learning_Profile/Kanji/穀倉地帯.md","x":1360,"y":387,"width":240,"height":120}
 	],
 	"edges":[
-		{"id":"58e005547c1a2f2b","fromNode":"99641d7944e9f798","fromSide":"right","toNode":"cc3d6728bd9d4d13","toSide":"left"}
+		{"id":"58e005547c1a2f2b","fromNode":"99641d7944e9f798","fromSide":"right","toNode":"cc3d6728bd9d4d13","toSide":"left"},
+		{"id":"0709bbf043ccff47","fromNode":"cc3d6728bd9d4d13","fromSide":"right","toNode":"3ed36a4bb9e4a713","toSide":"left","label":" bắt đầu trở thành khả năng thực tế."},
+		{"id":"c51b5c241c45bac6","fromNode":"cc3d6728bd9d4d13","fromSide":"right","toNode":"bb43ce03681b9525","toSide":"left"},
+		{"id":"35d1dea9b92432d2","fromNode":"bb43ce03681b9525","fromSide":"right","toNode":"b5dfa9a39569783f","toSide":"left"},
+		{"id":"5e1b35f4b22c2b69","fromNode":"bb43ce03681b9525","fromSide":"right","toNode":"f1e422aa89cd595d","toSide":"left"},
+		{"id":"0c45de59865377ad","fromNode":"bb43ce03681b9525","fromSide":"right","toNode":"32ae5c0e9bf87134","toSide":"left"},
+		{"id":"d7306fa03061416a","fromNode":"cc3d6728bd9d4d13","fromSide":"right","toNode":"620769bd62324c21","toSide":"left"}
 	]
 }

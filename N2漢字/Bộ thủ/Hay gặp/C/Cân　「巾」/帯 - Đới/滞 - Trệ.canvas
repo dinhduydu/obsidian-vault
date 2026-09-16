@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"0dedb1b8cacac8bd","x":-131,"y":-53,"width":250,"height":60,"type":"text","text":"滞 - Trệ"},
-		{"id":"615ac8c3fdec43f2","x":-460,"y":100,"width":202,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/帯 - Đới.canvas"},
-		{"id":"2531f12e3e0c3321","x":-701,"y":-221,"width":241,"height":198,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"0dedb1b8cacac8bd","type":"text","text":"滞 - Trệ","x":-131,"y":-53,"width":250,"height":60},
+		{"id":"615ac8c3fdec43f2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/帯 - Đới.canvas","x":-460,"y":100,"width":202,"height":163},
+		{"id":"2531f12e3e0c3321","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-701,"y":-221,"width":241,"height":198},
+		{"id":"b4aae3e1e2e6afdf","type":"file","file":"Chữa đề/Learning_Profile/Collocation/渋滞がひどい.md","x":900,"y":-700,"width":241,"height":204},
+		{"id":"7762605c1680e491","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/渋滞.md","x":420,"y":-360,"width":225,"height":152}
 	],
 	"edges":[
 		{"id":"df93e411d969a787","fromNode":"615ac8c3fdec43f2","fromSide":"right","toNode":"0dedb1b8cacac8bd","toSide":"left"},
-		{"id":"64a0fd6c4a5143e2","fromNode":"2531f12e3e0c3321","fromSide":"right","toNode":"0dedb1b8cacac8bd","toSide":"left"}
+		{"id":"64a0fd6c4a5143e2","fromNode":"2531f12e3e0c3321","fromSide":"right","toNode":"0dedb1b8cacac8bd","toSide":"left"},
+		{"id":"5d403a1d39820376","fromNode":"0dedb1b8cacac8bd","fromSide":"right","toNode":"7762605c1680e491","toSide":"left","label":"Tắc đường, kẹt xe."},
+		{"id":"f200e987a77649b0","fromNode":"7762605c1680e491","fromSide":"right","toNode":"b4aae3e1e2e6afdf","toSide":"left","label":"Tắc đường nghiêm trọng."}
 	]
 }

@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"f3d914ea9ca3e582","x":-85,"y":-21,"width":250,"height":60,"type":"text","text":"渋 - Sáp"},
-		{"id":"29564542145fe130","x":-380,"y":100,"width":152,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas"},
-		{"id":"f3f5687d4257731b","x":-460,"y":-180,"width":232,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"f3d914ea9ca3e582","type":"text","text":"渋 - Sáp","x":-85,"y":-21,"width":250,"height":60},
+		{"id":"29564542145fe130","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/Chỉ　「止」.canvas","x":-380,"y":100,"width":152,"height":123},
+		{"id":"f3f5687d4257731b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-460,"y":-180,"width":232,"height":189},
+		{"id":"281549b1abf2f0e8","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/渋滞.md","x":400,"y":-280,"width":191,"height":141},
+		{"id":"512b1590222b9e4e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/滞 - Trệ.canvas","x":-40,"y":-440,"width":161,"height":104},
+		{"id":"ae86e645f8ca659b","type":"file","file":"Chữa đề/Learning_Profile/Collocation/渋滞がひどい.md","x":960,"y":-540,"width":227,"height":152}
 	],
 	"edges":[
 		{"id":"4d9aeba74bea95a8","fromNode":"29564542145fe130","fromSide":"right","toNode":"f3d914ea9ca3e582","toSide":"left"},
-		{"id":"4a03223dbc53df9a","fromNode":"f3f5687d4257731b","fromSide":"right","toNode":"f3d914ea9ca3e582","toSide":"left"}
+		{"id":"4a03223dbc53df9a","fromNode":"f3f5687d4257731b","fromSide":"right","toNode":"f3d914ea9ca3e582","toSide":"left"},
+		{"id":"4f07b119dda19dd0","fromNode":"f3d914ea9ca3e582","fromSide":"right","toNode":"281549b1abf2f0e8","toSide":"left","label":"Tắc đường, kẹt xe."},
+		{"id":"41bf3c3582eee152","fromNode":"512b1590222b9e4e","fromSide":"right","toNode":"281549b1abf2f0e8","toSide":"left"},
+		{"id":"647b7c23cea9cbc5","fromNode":"281549b1abf2f0e8","fromSide":"right","toNode":"ae86e645f8ca659b","toSide":"left","label":"Tắc đường nghiêm trọng."}
 	]
 }

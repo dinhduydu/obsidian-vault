@@ -1,15 +1,30 @@
 {
 	"nodes":[
-		{"id":"913dbb6f9891be34","type":"text","text":"Sắc　「色」","x":-252,"y":8,"width":250,"height":60},
+		{"id":"17b22a55a72c927b","x":1820,"y":380,"width":920,"height":900,"type":"group","label":"Từ vựng"},
 		{"id":"f63666f504a9c25b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/絶 - Tuyệt.canvas","x":180,"y":-260,"width":258,"height":179},
 		{"id":"35c4128e675c74ef","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-184,"y":-400,"width":182,"height":222},
-		{"id":"bdfc39a6b4720328","x":184,"y":160,"width":254,"height":177,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/艶 - Diễm.canvas"},
-		{"id":"b958799e35506099","x":-182,"y":267,"width":180,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/豊 - Phong.canvas"}
+		{"id":"bdfc39a6b4720328","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/艶 - Diễm.canvas","x":184,"y":160,"width":254,"height":177},
+		{"id":"b958799e35506099","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/豊 - Phong/豊 - Phong.canvas","x":-182,"y":267,"width":180,"height":141},
+		{"id":"913dbb6f9891be34","type":"text","text":"Sắc　「色」","x":-252,"y":8,"width":250,"height":60},
+		{"id":"6b93a7d2f4cc0bae","type":"text","text":"Sắc　「色」","x":800,"y":680,"width":250,"height":60},
+		{"id":"5214b2b6a10e0b49","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/特色.md","x":1840,"y":790,"width":252,"height":181},
+		{"id":"cb527a5b9d1f1e7b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/景色.md","x":1840,"y":1069,"width":214,"height":191},
+		{"id":"23b03d2eb27ff1ff","type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 2/一色 - Nhất Sắc.canvas","x":1240,"y":1400,"width":274,"height":180},
+		{"id":"afb8284aaa4a3cc6","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/紫色.md","x":1840,"y":500,"width":214,"height":151},
+		{"id":"9c0da411ad5bd1f3","type":"text","text":"政治色","x":2345,"y":486,"width":250,"height":60},
+		{"id":"2e48043e505c6077","type":"text","text":"国際色","x":2345,"y":591,"width":250,"height":60},
+		{"id":"28e3fd7b275dd79c","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜色をしている.md","x":2175,"y":-406,"width":340,"height":236}
 	],
 	"edges":[
 		{"id":"e0e86c7ae49b4130","fromNode":"913dbb6f9891be34","fromSide":"right","toNode":"f63666f504a9c25b","toSide":"left"},
 		{"id":"8ea480f3c117aa6a","fromNode":"35c4128e675c74ef","fromSide":"right","toNode":"f63666f504a9c25b","toSide":"left"},
 		{"id":"ec47e5d1b0b4b8f2","fromNode":"913dbb6f9891be34","fromSide":"right","toNode":"bdfc39a6b4720328","toSide":"left"},
-		{"id":"963137fc6dddeefa","fromNode":"b958799e35506099","fromSide":"right","toNode":"bdfc39a6b4720328","toSide":"left"}
+		{"id":"963137fc6dddeefa","fromNode":"b958799e35506099","fromSide":"right","toNode":"bdfc39a6b4720328","toSide":"left"},
+		{"id":"2d6db36fa357443a","fromNode":"913dbb6f9891be34","fromSide":"right","toNode":"6b93a7d2f4cc0bae","toSide":"left"},
+		{"id":"b9298f14f4f7c445","fromNode":"6b93a7d2f4cc0bae","fromSide":"right","toNode":"afb8284aaa4a3cc6","toSide":"left","label":"Màu tím."},
+		{"id":"4934306ab725aad8","fromNode":"6b93a7d2f4cc0bae","fromSide":"right","toNode":"5214b2b6a10e0b49","toSide":"left","label":"Đặc sắc, đặc tính, điểm nổi bật của một tổ chức hoặc vật thể."},
+		{"id":"a214c9b6cd8c86ac","fromNode":"6b93a7d2f4cc0bae","fromSide":"right","toNode":"cb527a5b9d1f1e7b","toSide":"left"},
+		{"id":"984557fb23ba9091","fromNode":"6b93a7d2f4cc0bae","fromSide":"right","toNode":"23b03d2eb27ff1ff","toSide":"left","label":" một màu • đồng nhất • cùng một xu hướng / không khí"},
+		{"id":"3c610062e3f935e1","fromNode":"6b93a7d2f4cc0bae","fromSide":"right","toNode":"28e3fd7b275dd79c","toSide":"left","label":"Dùng để mô tả đặc điểm màu sắc hoặc hình dáng (〜形をしている) mang tính bản chất/trạng thái của vật."}
 	]
 }
