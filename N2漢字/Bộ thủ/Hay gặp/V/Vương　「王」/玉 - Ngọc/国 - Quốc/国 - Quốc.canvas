@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1f77fd5d8c6418a7","x":-109,"y":-49,"width":250,"height":60,"type":"text","text":"国 - Quốc"},
+		{"id":"4e00a9125a759b7a","x":-340,"y":38,"width":156,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc/玉 - Ngọc.canvas"},
+		{"id":"aebc36c36b43874b","x":-330,"y":-220,"width":146,"height":107,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vi　「囗」/Vi　「囗」.canvas"}
+	],
+	"edges":[
+		{"id":"e23df442df573dd8","fromNode":"4e00a9125a759b7a","fromSide":"right","toNode":"1f77fd5d8c6418a7","toSide":"left"},
+		{"id":"c1e454acd0c23b49","fromNode":"aebc36c36b43874b","fromSide":"right","toNode":"1f77fd5d8c6418a7","toSide":"left"}
+	]
+}

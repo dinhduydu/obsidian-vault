@@ -11,14 +11,17 @@
             "id": "22c4c217fafb2d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/15092026/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/17092026/1. Đọc hiểu 1.canvas",
+                "viewState": {
+                  "x": 408.236729548036,
+                  "y": 676.465004500269,
+                  "zoom": -1.6666666666666665
+                }
               },
-              "icon": "lucide-file",
-              "title": "1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3"
+              "icon": "lucide-layout-dashboard",
+              "title": "1. Đọc hiểu 1"
             }
           }
         ]
@@ -55,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状",
+                "query": "追",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,11 +82,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 296.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/15092026/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3.md",
+                "file": "Chữa đề/２０２６年/０９月２０２６年/Week3/17092026/1. Đọc hiểu 1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,53 +181,52 @@
   },
   "active": "22c4c217fafb2d0f",
   "lastOpenFiles": [
-    "AI_Context/Chưa đặt tên.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3/16092026/Untitled.md",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 18/～状 - Trạng.canvas",
-    "Chữa đề/Learning_Profile/Kanji/〜状.md",
-    "N2漢字/Bộ thủ/Ít gặp/T/Tường　「爿」/丬 - Tường/状 - Trạng.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sinh　「生」/責 - Trách/漬 - Tí.canvas",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/11032026/3. Phân Tích N2_TIỀN-HẬU TỐ (P1).md",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/帯 - Đới.canvas",
-    "Chữa đề/Learning_Profile/Collocation/現実味を帯びる.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/3. Phân Tích N2_TIỀN-HẬU TỐ (P1).md",
-    "N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/帯 - Đới/滞 - Trệ.canvas",
-    "Chữa đề/Learning_Profile/Vocabulary/渋滞.md",
-    "N2漢字/Bộ thủ/Hay gặp/C/Chỉ　「止」/渋 - Sáp.canvas",
-    "Chữa đề/Learning_Profile/Collocation/渋滞がひどい.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 1.2.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/5. Phân Tích N2 Midterm Grammar Assessment Course 1.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/3. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 2.2.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/2. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 2.3.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/1. Phân Tích BÀI LÀM N2_TIỀN-HẬU TỐ (P3).md",
-    "Chữa đề/２０２６年/０２月２０２６年/Week4/28022026/1. Phân Tích PHÓ TỪ_TEST 1.md",
-    "Chữa đề/２０２６年/０２月２０２６年/Week4/28022026/2. Phân Tích PHÓ TỪ_TEST 2.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week3/16032026/1. Phân Tích BÀI LÀM N2_ĐỌC HIỂU Ý KIẾN TÁC GIẢ_TEST 1.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week3/16032026/2. Phân Tích BÀI LÀM N2_TIỀN-HẬU TỐ (P4).md",
-    "Chữa đề/Learning_Profile/Vocabulary/世帯.md",
-    "N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas",
-    "Chữa đề/Learning_Profile/FixedExpression/〜色をしている.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/3. Phân Tích N3_TRỢ TỪ_TEST 2.md",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 2/一色 - Nhất Sắc.canvas",
+    "Chữa đề/Learning_Profile/Vocabulary/考慮.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week3/17092026/1. Đọc hiểu 1.canvas",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/23012026/2. Phân Tích KÍNH NGỮ_TEST 3.md",
+    "N2漢字/Bộ thủ/Hay gặp/G/Giao　「交」/絞 - Giảo.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/甲 - Giáp/単 - Đơn/戦 - Chiến.canvas",
+    "N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/追 - Truy.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/前 - Tiền/前 - Tiền.canvas",
+    "Chữa đề/Learning_Profile/Collocation/用件を切り出す.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/20042026/4. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.1.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/17042026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2.md",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/兴 - Hưng/挙 - Cử.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜てから.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/5. Phân Tích N3_BÀI TEST GIỮA GIỜ_NGỮ PHÁP_BÀI 6.md",
+    "Chữa đề/Learning_Profile/Vocabulary/曖昧.md",
+    "N2語彙/Chưa đặt tên.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/28112025/2. Phân Tích N2_TEST TỪ VỰNG_BÀI 1.md",
+    "Chữa đề/Learning_Profile/Grammar/～かというと.md",
+    "Chữa đề/Learning_Profile/Grammar/〜れば〜ほど.md",
     "Chữa đề/２０２６年/０９月２０２６年/Week3/15092026/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3/16092026/1. Phân Tích N2_TIỀN-HẬU TỐ (P2).md",
-    "Chữa đề/Learning_Profile/Vocabulary/紫色.md",
-    "Chữa đề/Learning_Profile/Vocabulary/景色.md",
-    "Chữa đề/Learning_Profile/Vocabulary/特色.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/02122025/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3.md",
+    "N2文法/ところ・どころ/ところ.canvas",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/01052026/3. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (15).md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/10. Kính ngữ/10. Kính ngữ.md",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Chủ　「丶」/Chủ　「丶」.canvas",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/Chi　「支 」.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Tài　「才」/Tài　「才」.canvas",
+    "Chữa đề/Learning_Profile/Vocabulary/くせ.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/16062026/5. Phân Tích BÀI LÀM N2 NGÀY 9 - ÔN TẬP CHỌN TỪ (P1).md",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc",
+    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc/国 - Quốc",
+    "Chữa đề/Learning_Profile/Grammar/〜と思うと.md",
+    "Chữa đề/Learning_Profile/Grammar/〜していては.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 9.1.md",
+    "Chữa đề/Learning_Profile/Grammar/～ものだ.md",
+    "Chữa đề/Learning_Profile/Adverb/おおいにある.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/6. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 8.md",
+    "Chữa đề/Learning_Profile/Vocabulary/基準.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/20042026/1. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 43.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week3/17092026",
     "Chữa đề/２０２６年/０９月２０２６年/Week3/15092026",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尽 - Tận.canvas",
     "Chữa đề/２０２６年/０９月２０２６年/Week3/16092026",
     "Lộ_trình_ngữ_pháp_N2.png",
     "Chưa đặt tên.base",
     "Chưa đặt tên 1.base",
     "Chưa đặt tên 2.base",
-    "Chưa đặt tên.canvas",
     "AI_Context/Nghiên cứu khoa học/FreeWriting",
     "tools/dashboard/tempCodeRunnerFile.py",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3/14092026",
-    "Chữa đề/２０２６年/０９月２０２６年/Week3",
-    "Chữa đề/２０２６年/０９月２０２６年",
     "Pasted image 20260906235403.png",
     "Pasted image 20260906235057.png",
     "Pasted image 20260906233212.png",

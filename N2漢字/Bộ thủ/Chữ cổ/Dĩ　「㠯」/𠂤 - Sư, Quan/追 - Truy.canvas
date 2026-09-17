@@ -2,10 +2,22 @@
 	"nodes":[
 		{"id":"e9bbad3591cc034a","type":"text","text":"追 - Truy","x":-140,"y":-30,"width":250,"height":60},
 		{"id":"cb314aa75e4b626f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-420,"y":60,"width":138,"height":145},
-		{"id":"098917acb8751cc9","x":-500,"y":-280,"width":218,"height":182,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas"}
+		{"id":"098917acb8751cc9","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Dĩ　「㠯」/𠂤 - Sư, Quan/𠂤 - Sư, Quan.canvas","x":-500,"y":-280,"width":218,"height":182},
+		{"id":"d94e8ff0ca2808c7","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追い込む.md","x":300,"y":-280,"width":400,"height":115},
+		{"id":"542bf31f4dee7d85","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追い越す.md","x":300,"y":-87,"width":310,"height":147},
+		{"id":"5721ad715a55c029","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追い出す.md","x":300,"y":133,"width":266,"height":139},
+		{"id":"5a97576ac97a0675","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追いつける.md","x":300,"y":340,"width":246,"height":108},
+		{"id":"14e3f3712d6a6b8a","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追いかける.md","x":300,"y":540,"width":231,"height":99},
+		{"id":"fd278d4abaa72620","x":960,"y":-395,"width":260,"height":115,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追い込まれる.md"}
 	],
 	"edges":[
 		{"id":"9fe75303d3f50e7a","fromNode":"cb314aa75e4b626f","fromSide":"right","toNode":"e9bbad3591cc034a","toSide":"left"},
-		{"id":"6cf677cdeac0e7ac","fromNode":"098917acb8751cc9","fromSide":"right","toNode":"e9bbad3591cc034a","toSide":"left"}
+		{"id":"6cf677cdeac0e7ac","fromNode":"098917acb8751cc9","fromSide":"right","toNode":"e9bbad3591cc034a","toSide":"left"},
+		{"id":"1241f2b61dc95ffa","fromNode":"e9bbad3591cc034a","fromSide":"right","toNode":"d94e8ff0ca2808c7","toSide":"left"},
+		{"id":"b9b3c1ee8ba15b86","fromNode":"e9bbad3591cc034a","fromSide":"right","toNode":"542bf31f4dee7d85","toSide":"left"},
+		{"id":"08dd39d6dc8786d3","fromNode":"e9bbad3591cc034a","fromSide":"right","toNode":"5721ad715a55c029","toSide":"left"},
+		{"id":"ef390a74230408c5","fromNode":"e9bbad3591cc034a","fromSide":"right","toNode":"5a97576ac97a0675","toSide":"left"},
+		{"id":"87f1a5abfd053cad","fromNode":"e9bbad3591cc034a","fromSide":"right","toNode":"14e3f3712d6a6b8a","toSide":"left"},
+		{"id":"2ab0f55eaf93e912","fromNode":"d94e8ff0ca2808c7","fromSide":"right","toNode":"fd278d4abaa72620","toSide":"left"}
 	]
 }

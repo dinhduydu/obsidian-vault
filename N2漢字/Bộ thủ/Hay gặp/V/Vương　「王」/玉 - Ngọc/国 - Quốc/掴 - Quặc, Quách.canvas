@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"815b487408ab05c6","type":"text","text":"掴 - Quặc, Quách","x":-54,"y":-22,"width":250,"height":60},
+		{"id":"44fc3516af11076a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/玉 - Ngọc/国 - Quốc/国 - Quốc.canvas","x":-340,"y":120,"width":152,"height":116},
+		{"id":"5225fb8087b9fb02","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-340,"y":-146,"width":162,"height":124},
+		{"id":"c2107fed5573ebea","type":"text","text":"掴む","x":360,"y":-200,"width":250,"height":60},
+		{"id":"ec161a7f1f363a5c","type":"text","text":"つかむ","x":769,"y":-200,"width":250,"height":60},
+		{"id":"50308c3fd85a4103","type":"text","text":"掴め","x":360,"y":-22,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9e27b841bdc0174a","fromNode":"44fc3516af11076a","fromSide":"right","toNode":"815b487408ab05c6","toSide":"left"},
+		{"id":"82f019406712b997","fromNode":"5225fb8087b9fb02","fromSide":"right","toNode":"815b487408ab05c6","toSide":"left"},
+		{"id":"7d3b13f3015ca8c6","fromNode":"c2107fed5573ebea","fromSide":"right","toNode":"ec161a7f1f363a5c","toSide":"left"},
+		{"id":"ba0b90403098ebf7","fromNode":"815b487408ab05c6","fromSide":"right","toNode":"c2107fed5573ebea","toSide":"left"},
+		{"id":"e1ea6de7414fde46","fromNode":"815b487408ab05c6","fromSide":"right","toNode":"50308c3fd85a4103","toSide":"left"}
+	]
+}
