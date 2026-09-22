@@ -21,3 +21,5 @@ Quá khứ
 [[25. Thể từ điển + cấu trúc cơ bản]]
   ↓
 Cấu trúc mở rộng
+
+![[Pasted image 20260922214956.png]]
