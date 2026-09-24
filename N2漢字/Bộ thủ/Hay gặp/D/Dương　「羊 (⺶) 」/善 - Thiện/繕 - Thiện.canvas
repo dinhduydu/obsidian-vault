@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"608524a43134767e","x":-151,"y":-59,"width":250,"height":60,"type":"text","text":"繕 - Thiện"},
-		{"id":"dd9921e4aeb007a3","x":-500,"y":100,"width":163,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/善 - Thiện/善 - Thiện.canvas"},
-		{"id":"eefff2b8805081aa","x":-488,"y":-280,"width":151,"height":149,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"608524a43134767e","type":"text","text":"繕 - Thiện","x":-151,"y":-59,"width":250,"height":60},
+		{"id":"dd9921e4aeb007a3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/善 - Thiện/善 - Thiện.canvas","x":-500,"y":100,"width":163,"height":138},
+		{"id":"eefff2b8805081aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-488,"y":-280,"width":151,"height":149},
+		{"id":"b9af89184a4b8d42","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/修繕.md","x":480,"y":-540,"width":284,"height":245}
 	],
 	"edges":[
 		{"id":"d27c8f0af295bcc5","fromNode":"dd9921e4aeb007a3","fromSide":"right","toNode":"608524a43134767e","toSide":"left"},
-		{"id":"bedcd611741de1bb","fromNode":"eefff2b8805081aa","fromSide":"right","toNode":"608524a43134767e","toSide":"left"}
+		{"id":"bedcd611741de1bb","fromNode":"eefff2b8805081aa","fromSide":"right","toNode":"608524a43134767e","toSide":"left"},
+		{"id":"e423e39c388ae2f7","fromNode":"608524a43134767e","fromSide":"right","toNode":"b9af89184a4b8d42","toSide":"left","label":"Tu sửa, sửa chữa (công trình, nhà cửa, mái nhà, vật dụng bị hư hỏng)."}
 	]
 }
