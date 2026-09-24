@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"2588c2c24d64ee14","type":"file","file":"Chữa đề/２０２６年/０９月２０２６年/Week3/14092026/2. Phân Tích N2_ĐỌC HIỂU_TEST 2.md","x":-480,"y":-280,"width":400,"height":400},
+		{"id":"b979210b00d8200c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/ケチる.md","x":400,"y":-440,"width":285,"height":198},
+		{"id":"8ff2554211987cb0","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/先が見える.md","x":960,"y":-206,"width":358,"height":253},
+		{"id":"df0ad3abf56527fe","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/背伸びをする.md","x":960,"y":320,"width":286,"height":220},
+		{"id":"3adbfc3084e558e8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とは異なり.md","x":960,"y":680,"width":400,"height":400},
+		{"id":"92d72540371765cb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てはならない.md","x":560,"y":1200,"width":400,"height":400},
+		{"id":"02aeda85ffe9c168","x":560,"y":1800,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Reading/あてはまらないもの（否定条件の消去法）.md"}
+	],
+	"edges":[
+		{"id":"87dd8257175a125f","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"b979210b00d8200c","toSide":"left","label":"Tiết kiệm quá mức, hà tiện, keo kiệt."},
+		{"id":"6b6970f077ab8b6a","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"8ff2554211987cb0","toSide":"left","label":"Nhìn thấy trước tương lai / Hiểu rõ giới hạn và chặng đường còn lại của bản thân."},
+		{"id":"d50a844e1cf72357","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"df0ad3abf56527fe","toSide":"left"},
+		{"id":"b47fd227ecd240fb","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"3adbfc3084e558e8","toSide":"left"},
+		{"id":"b6a6d114ddad1081","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"92d72540371765cb","toSide":"left","label":"Không được... / Bắt buộc phải tránh... (biểu thị điều cấm đoán/điều phải tránh)."},
+		{"id":"f97169fa2d1eddac","fromNode":"2588c2c24d64ee14","fromSide":"right","toNode":"02aeda85ffe9c168","toSide":"left"}
+	]
+}
