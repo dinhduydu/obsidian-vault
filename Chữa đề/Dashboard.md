@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 382
-- Total Knowledge Items: 4166
-- Correct: 2593
-- Wrong: 3299
-- Accuracy: 44.0%
+- Total Reviews: 386
+- Total Knowledge Items: 4196
+- Correct: 2599
+- Wrong: 3347
+- Accuracy: 43.7%
 
 ## 🚨 Review Queue
 
@@ -52,22 +52,22 @@
 - [[模擬試験]] (Vocabulary) Wrong: 7
 - [[返事]] (FixedExpression) Wrong: 7
 - [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
-- [[〜ものの]] (Grammar) Wrong: 6
+- [[さっさと]] (Adverb) Wrong: 6
 
 ## 📈 Category Statistics
 
-- Adverb: 41.8% (Correct 214 / Wrong 298)
-- Collocation: 44.6% (Correct 107 / Wrong 133)
+- Adverb: 41.4% (Correct 214 / Wrong 303)
+- Collocation: 43.9% (Correct 107 / Wrong 137)
 - CompoundVerb: 41.5% (Correct 117 / Wrong 165)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 39.9% (Correct 175 / Wrong 264)
+- FixedExpression: 39.7% (Correct 175 / Wrong 266)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 49.4% (Correct 238 / Wrong 244)
-- Katakana: 45.7% (Correct 105 / Wrong 125)
+- Kanji: 49.2% (Correct 241 / Wrong 249)
+- Katakana: 45.1% (Correct 105 / Wrong 128)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 45.8% (Correct 791 / Wrong 935)
+- Vocabulary: 45.2% (Correct 794 / Wrong 964)
 
 ## 📚 Top Grammar
 
@@ -89,11 +89,11 @@
 - [[落ち込む]] (Score: 35)
 - [[必修パターン]] (Score: 35)
 - [[模擬試験]] (Score: 35)
+- [[逆効果]] (Score: 30)
 - [[無理]] (Score: 30)
 - [[悔やむ]] (Score: 30)
 - [[苦情]] (Score: 30)
 - [[見解]] (Score: 30)
-- [[持参]] (Score: 30)
 
 ## 📚 Top Kanji
 
@@ -102,11 +102,11 @@
 - [[衣装]] (Score: 25)
 - [[演説]] (Score: 25)
 - [[寒気]] (Score: 25)
+- [[対照]] (Score: 20)
 - [[解放]] (Score: 20)
 - [[把握]] (Score: 20)
 - [[仮〜]] (Score: 20)
 - [[不〜]] (Score: 20)
-- [[額]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -164,27 +164,27 @@
 
 - [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
+- [[移動手段]] (Score: 20)
+- [[成功を収める]] (Score: 20)
 - [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
 - [[苦情が出る]] (Score: 20)
 - [[火山の噴火]] (Score: 20)
 - [[責任を負わされる]] (Score: 20)
 - [[驚かせてやる]] (Score: 20)
-- [[危険にさらされる]] (Score: 20)
-- [[解像度を上げる]] (Score: 20)
 
 ## 📚 Top Adverb
 
-- [[さっさと]] (Score: 40)
 - [[どうしても]] (Score: 35)
 - [[とりあえず]] (Score: 35)
 - [[どうも]] (Score: 35)
+- [[さっさと]] (Score: 30)
 - [[つい]] (Score: 30)
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
 - [[一層]] (Score: 30)
+- [[たちまち]] (Score: 25)
 - [[よく]] (Score: 25)
-- [[もっとも]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -226,6 +226,10 @@
 
 ## 📅 Recent Reviews
 
+- [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P2)]]
+- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 8]]
+- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
+- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 10]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
@@ -242,7 +246,3 @@
 - [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[４．Phân Tích N2_BÀI TẬP ĐIỀN SAO (2)]]
-- [[10. Phân Tích điền sao N2 (0307261-15-19.pdf)]]
-- [[11. Phân Tích câu 31 đến 41 của tệp 0307261-15-19.pdf]]
-- [[12. Phân Tích câu điền sao từ 41 đến 50]]
-- [[13. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP (Câu 42-50)]]
