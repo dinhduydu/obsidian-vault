@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 386
-- Total Knowledge Items: 4196
-- Correct: 2599
-- Wrong: 3347
+- Total Reviews: 387
+- Total Knowledge Items: 4202
+- Correct: 2606
+- Wrong: 3360
 - Accuracy: 43.7%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 41.4% (Correct 214 / Wrong 303)
-- Collocation: 43.9% (Correct 107 / Wrong 137)
+- Adverb: 41.8% (Correct 218 / Wrong 303)
+- Collocation: 43.5% (Correct 107 / Wrong 139)
 - CompoundVerb: 41.5% (Correct 117 / Wrong 165)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 39.7% (Correct 175 / Wrong 266)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 49.2% (Correct 241 / Wrong 249)
-- Katakana: 45.1% (Correct 105 / Wrong 128)
+- Kanji: 48.8% (Correct 241 / Wrong 253)
+- Katakana: 45.3% (Correct 106 / Wrong 128)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 45.2% (Correct 794 / Wrong 964)
+- Vocabulary: 45.0% (Correct 796 / Wrong 971)
 
 ## 📚 Top Grammar
 
@@ -103,10 +103,10 @@
 - [[演説]] (Score: 25)
 - [[寒気]] (Score: 25)
 - [[対照]] (Score: 20)
+- [[行儀作法]] (Score: 20)
+- [[古典]] (Score: 20)
+- [[淡水]] (Score: 20)
 - [[解放]] (Score: 20)
-- [[把握]] (Score: 20)
-- [[仮〜]] (Score: 20)
-- [[不〜]] (Score: 20)
 
 ## 📚 Top Katakana
 
@@ -166,12 +166,12 @@
 - [[気がする]] (Score: 25)
 - [[移動手段]] (Score: 20)
 - [[成功を収める]] (Score: 20)
+- [[連絡している]] (Score: 20)
 - [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
 - [[苦情が出る]] (Score: 20)
 - [[火山の噴火]] (Score: 20)
 - [[責任を負わされる]] (Score: 20)
-- [[驚かせてやる]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -233,6 +233,7 @@
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
+- [[4. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
@@ -245,4 +246,3 @@
 - [[5. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 8]]
 - [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
 - [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
-- [[４．Phân Tích N2_BÀI TẬP ĐIỀN SAO (2)]]
