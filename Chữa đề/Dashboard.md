@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 387
-- Total Knowledge Items: 4202
-- Correct: 2606
-- Wrong: 3360
+- Total Reviews: 391
+- Total Knowledge Items: 4210
+- Correct: 2673
+- Wrong: 3444
 - Accuracy: 43.7%
 
 ## 🚨 Review Queue
@@ -24,35 +24,35 @@
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
+- [[連続]] | Vocabulary| Score: 45| Wrong: 9
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
-- [[〜というわけだ]] | Grammar| Score: 40| Wrong: 5
-- [[〜というものだ]] | Grammar| Score: 40| Wrong: 5
-- [[〜べき]] | Grammar| Score: 40| Wrong: 5
+- [[相続]] | Vocabulary| Score: 40| Wrong: 8
+- [[要点]] | Vocabulary| Score: 40| Wrong: 8
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 42
+- [[連続]] (Vocabulary) Wrong: 9
 - [[〜にすぎない]] (Grammar) Wrong: 9
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[相続]] (Vocabulary) Wrong: 8
+- [[要点]] (Vocabulary) Wrong: 8
+- [[無理]] (Vocabulary) Wrong: 8
 - [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
+- [[大工]] (Vocabulary) Wrong: 7
+- [[事実]] (Vocabulary) Wrong: 7
 - [[むしろ]] (Grammar) Wrong: 7
 - [[〜に限って]] (Grammar) Wrong: 7
 - [[〜がち]] (Grammar) Wrong: 7
 - [[〜まい]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
-- [[〜とは限らない]] (Grammar) Wrong: 7
-- [[必修パターン]] (Vocabulary) Wrong: 7
-- [[模擬試験]] (Vocabulary) Wrong: 7
-- [[返事]] (FixedExpression) Wrong: 7
-- [[〜受身形 (Ukemi)]] (Grammar) Wrong: 7
-- [[さっさと]] (Adverb) Wrong: 6
 
 ## 📈 Category Statistics
 
@@ -63,11 +63,11 @@
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 39.7% (Correct 175 / Wrong 266)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 48.8% (Correct 241 / Wrong 253)
+- Kanji: 48.7% (Correct 238 / Wrong 251)
 - Katakana: 45.3% (Correct 106 / Wrong 128)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 45.0% (Correct 796 / Wrong 971)
+- Vocabulary: 45.0% (Correct 866 / Wrong 1057)
 
 ## 📚 Top Grammar
 
@@ -86,14 +86,14 @@
 
 - [[]] (Score: 222)
 - [[& Kiến thức liên quan]] (Score: 55)
+- [[連続]] (Score: 45)
+- [[相続]] (Score: 40)
+- [[要点]] (Score: 40)
+- [[無理]] (Score: 40)
+- [[大工]] (Score: 35)
+- [[事実]] (Score: 35)
 - [[落ち込む]] (Score: 35)
 - [[必修パターン]] (Score: 35)
-- [[模擬試験]] (Score: 35)
-- [[逆効果]] (Score: 30)
-- [[無理]] (Score: 30)
-- [[悔やむ]] (Score: 30)
-- [[苦情]] (Score: 30)
-- [[見解]] (Score: 30)
 
 ## 📚 Top Kanji
 
@@ -230,6 +230,10 @@
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 8]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 10]]
+- [[1. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P4)]]
+- [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P5)]]
+- [[3. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P6)]]
+- [[4. Phân Tích Bài tập Từ vựng JLPT N2 25092026]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
@@ -242,7 +246,3 @@
 - [[2. Phân Tích Ngữ Pháp]]
 - [[2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3)]]
 - [[3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9]]
-- [[4. Phân Tích N2 - DAY 14 PRACTICE TEST]]
-- [[5. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 8]]
-- [[2. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
-- [[3. Phân Tích N2_NGÀY 25_ÔN TẬP NGỮ PHÁP NÂNG CAO (P4)]]
