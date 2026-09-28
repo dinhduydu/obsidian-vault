@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6fc1a8fb7846fe54","x":-124,"y":-28,"width":250,"height":60,"type":"text","text":"森 - Sâm"},
+		{"id":"82a10c5e554230a5","x":-480,"y":-59,"width":169,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+	],
+	"edges":[
+		{"id":"bab4f6fe5d168a1c","fromNode":"82a10c5e554230a5","fromSide":"right","toNode":"6fc1a8fb7846fe54","toSide":"left","label":"x3"}
+	]
+}

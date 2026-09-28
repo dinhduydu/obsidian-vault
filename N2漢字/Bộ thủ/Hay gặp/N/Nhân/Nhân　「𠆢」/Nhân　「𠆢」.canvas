@@ -7,8 +7,8 @@
 		{"id":"38e3744ad492b70a","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thực　「食」/Thực　「食」.canvas","x":200,"y":-360,"width":218,"height":205},
 		{"id":"46e33a8f685b7819","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/全 - Toàn/全 - Toàn.canvas","x":200,"y":100,"width":243,"height":215},
 		{"id":"53d7b20a3cfb0574","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas","x":-200,"y":340,"width":229,"height":204},
-		{"id":"05d3d4d2fd21e2f8","x":720,"y":-280,"width":144,"height":186,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas"},
-		{"id":"89adde50102101a8","x":1000,"y":-120,"width":204,"height":274,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/舎 - Xá.canvas"}
+		{"id":"05d3d4d2fd21e2f8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/Cát　「吉」.canvas","x":720,"y":-280,"width":144,"height":186},
+		{"id":"89adde50102101a8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/舎 - Xá/舎 - Xá.canvas","x":1000,"y":-120,"width":204,"height":274}
 	],
 	"edges":[
 		{"id":"7e783cd3d90f49c7","fromNode":"b04dded07785bfc8","fromSide":"left","toNode":"40515b0f93e4c811","toSide":"top"},

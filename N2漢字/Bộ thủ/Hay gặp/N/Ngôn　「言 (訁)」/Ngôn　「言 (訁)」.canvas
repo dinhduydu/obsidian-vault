@@ -21,7 +21,8 @@
 		{"id":"a607bd9ffed83350","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-154,"y":-562,"width":154,"height":119},
 		{"id":"cfa0f2ff5e8dac59","type":"text","text":"Ngôn　「言 (訁)」","x":600,"y":-712,"width":250,"height":60},
 		{"id":"47fbe29502f6193b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":671,"y":-559,"width":179,"height":158},
-		{"id":"746adce0552a9ca5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/信 - Tín.canvas","x":1189,"y":-580,"width":223,"height":106}
+		{"id":"746adce0552a9ca5","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/信 - Tín.canvas","x":1189,"y":-580,"width":223,"height":106},
+		{"id":"bf2dab44b9e5e849","x":-940,"y":-413,"width":400,"height":283,"type":"file","file":"Pasted image 20260928211725.png"}
 	],
 	"edges":[
 		{"id":"5e25a62afaedebb0","fromNode":"f58a13036f4e09f9","fromSide":"right","toNode":"fdd4309c2952ad00","toSide":"left"},

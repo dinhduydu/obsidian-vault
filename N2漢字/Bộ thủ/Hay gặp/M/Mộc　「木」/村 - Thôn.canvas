@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2bdc1496933a5fb4","type":"text","text":"村 - Thôn","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"c18a81493b7113e4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-380,"y":-200,"width":123,"height":103},
+		{"id":"4ce311eddede5a39","type":"text","text":"### 村（そん／むら）\n\n- Bộ thủ: **木（き）** — bộ Mộc\n- Nghĩa: làng","x":320,"y":-334,"width":250,"height":186}
+	],
+	"edges":[
+		{"id":"ab6ebb34ce3fbf80","fromNode":"c18a81493b7113e4","fromSide":"right","toNode":"2bdc1496933a5fb4","toSide":"left"},
+		{"id":"0059e7939ccd9ab4","fromNode":"2bdc1496933a5fb4","fromSide":"right","toNode":"4ce311eddede5a39","toSide":"left"}
+	]
+}

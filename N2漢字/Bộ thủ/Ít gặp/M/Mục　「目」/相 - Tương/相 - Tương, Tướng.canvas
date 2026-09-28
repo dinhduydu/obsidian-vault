@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b0a48e12c1343699","type":"text","text":"相 - Tương, Tướng","x":-147,"y":-43,"width":250,"height":60},
+		{"id":"9fefa6012aef0de5","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas","x":-500,"y":60,"width":179,"height":151},
+		{"id":"2f4b692aa50ce0cf","type":"text","text":"hướng đến đối tượng mà mắt mình nhìn đến","x":-535,"y":-240,"width":250,"height":60},
+		{"id":"44ef992d22b8bf0e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-722,"y":-79,"width":187,"height":132},
+		{"id":"84f71ec9fa4bc092","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/霜 - Sương.canvas","x":320,"y":-299,"width":206,"height":119},
+		{"id":"1fcdf22697d55e20","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vũ　「雨 」/Vũ　「雨 」.canvas","x":-22,"y":-520,"width":183,"height":169},
+		{"id":"02021c05d8233261","type":"text","text":"相応しい　「ふさわしい」： ","x":285,"y":371,"width":241,"height":60},
+		{"id":"ba3c9ead79b9db5b","type":"text","text":"phù hợp\nxứng đáng\ntương xứng\nthích hợp với địa vị, hoàn cảnh, mục đích","x":695,"y":237,"width":250,"height":164},
+		{"id":"324a7d675aa26c62","type":"text","text":"パーティに**相応**しい服","x":700,"y":137,"width":250,"height":60},
+		{"id":"5e4538cfbec263e7","type":"text","text":"スイカは夏に**ふさわしい**果物です。","x":700,"y":17,"width":327,"height":60}
+	],
+	"edges":[
+		{"id":"6bec690806e688bb","fromNode":"9fefa6012aef0de5","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"},
+		{"id":"d0b6db195f32a4f5","fromNode":"2f4b692aa50ce0cf","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"},
+		{"id":"3f42352c45848023","fromNode":"44ef992d22b8bf0e","fromSide":"right","toNode":"b0a48e12c1343699","toSide":"left"},
+		{"id":"8c0654eb85e744c0","fromNode":"b0a48e12c1343699","fromSide":"right","toNode":"84f71ec9fa4bc092","toSide":"left"},
+		{"id":"7ec3ef374b932677","fromNode":"1fcdf22697d55e20","fromSide":"right","toNode":"84f71ec9fa4bc092","toSide":"left"},
+		{"id":"d117dd911d85d695","fromNode":"02021c05d8233261","fromSide":"right","toNode":"ba3c9ead79b9db5b","toSide":"left"},
+		{"id":"cda5d8a0fa371558","fromNode":"02021c05d8233261","fromSide":"right","toNode":"324a7d675aa26c62","toSide":"left"},
+		{"id":"195715733bfe20da","fromNode":"02021c05d8233261","fromSide":"right","toNode":"5e4538cfbec263e7","toSide":"left"},
+		{"id":"26331060037a9b6d","fromNode":"b0a48e12c1343699","fromSide":"right","toNode":"02021c05d8233261","toSide":"left"}
+	]
+}

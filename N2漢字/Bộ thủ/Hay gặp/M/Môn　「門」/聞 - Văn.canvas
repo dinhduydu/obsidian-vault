@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5a9aeb84318c07de","x":-72,"y":-51,"width":250,"height":60,"type":"text","text":"聞 - Văn"},
+		{"id":"879a51a3205f7f71","x":-360,"y":-200,"width":141,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Môn　「門」/Môn　「門」.canvas"}
+	],
+	"edges":[
+		{"id":"893f5cd4c8674447","fromNode":"879a51a3205f7f71","fromSide":"right","toNode":"5a9aeb84318c07de","toSide":"left"}
+	]
+}

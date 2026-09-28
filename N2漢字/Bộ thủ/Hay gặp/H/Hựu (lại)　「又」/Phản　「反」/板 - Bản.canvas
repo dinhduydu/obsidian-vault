@@ -1,15 +1,19 @@
 {
 	"nodes":[
-		{"id":"4d2e6e5a0b1a6714","type":"group","x":10,"y":-138,"width":290,"height":277,"label":"板 - Bản"},
+		{"id":"4d2e6e5a0b1a6714","type":"group","x":10,"y":-138,"width":410,"height":277,"label":"板 - Bản"},
 		{"id":"0a1c5fe97eb4c7f6","type":"text","text":"俎板　「まないた」：","x":30,"y":-118,"width":250,"height":60},
 		{"id":"c3bec349d9757da9","type":"text","text":"板塀　「いたべい」：","x":30,"y":-58,"width":250,"height":57},
-		{"id":"ebca35b685d08298","type":"text","text":"黒板　「こくばん」：","x":30,"y":-1,"width":250,"height":60},
+		{"id":"ebca35b685d08298","type":"text","text":"黒板　「こくばん」： bảng đen","x":30,"y":-1,"width":350,"height":60},
 		{"id":"f30eaa89d86d528f","type":"text","text":"鉄板　「てっぱん」：","x":30,"y":59,"width":250,"height":60},
 		{"id":"49db411d00ff6a87","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-440,"y":89,"width":200,"height":161},
-		{"id":"d0186910405216d3","x":-455,"y":-190,"width":215,"height":161,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
+		{"id":"d0186910405216d3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas","x":-455,"y":-190,"width":215,"height":161},
+		{"id":"2a01402b7e845adb","type":"text","text":"- Tấm ván\n- Bảng","x":580,"y":-250,"width":250,"height":60},
+		{"id":"cbf574f425a83eca","type":"text","text":"- 看板（かんばん）: biển hiệu","x":580,"y":-65,"width":296,"height":72}
 	],
 	"edges":[
 		{"id":"254898220b0f5e1c","fromNode":"49db411d00ff6a87","fromSide":"right","toNode":"4d2e6e5a0b1a6714","toSide":"left"},
-		{"id":"a0cc7ce96b28bcd6","fromNode":"d0186910405216d3","fromSide":"right","toNode":"4d2e6e5a0b1a6714","toSide":"left"}
+		{"id":"a0cc7ce96b28bcd6","fromNode":"d0186910405216d3","fromSide":"right","toNode":"4d2e6e5a0b1a6714","toSide":"left"},
+		{"id":"1656fbb0c44ecda3","fromNode":"4d2e6e5a0b1a6714","fromSide":"right","toNode":"2a01402b7e845adb","toSide":"left"},
+		{"id":"eda1c280eb0d8c34","fromNode":"4d2e6e5a0b1a6714","fromSide":"right","toNode":"cbf574f425a83eca","toSide":"left"}
 	]
 }

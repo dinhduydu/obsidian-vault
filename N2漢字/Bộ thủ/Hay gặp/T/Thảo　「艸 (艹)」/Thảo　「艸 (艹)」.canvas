@@ -9,7 +9,8 @@
 		{"id":"2de7a51fea26e854","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/苦 - Khổ.canvas","x":355,"y":180,"width":180,"height":171},
 		{"id":"70fcad970c82334f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/荷 - Hà.canvas","x":700,"y":-700,"width":195,"height":167},
 		{"id":"c18b998d2de078f4","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Khả　「可 」/何 - Hà.canvas","x":260,"y":-900,"width":234,"height":200},
-		{"id":"1b31958667568364","x":-580,"y":-95,"width":193,"height":136,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas"}
+		{"id":"1b31958667568364","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/草 - Thảo.canvas","x":-580,"y":-95,"width":193,"height":136},
+		{"id":"de519e42e1a67413","x":-616,"y":210,"width":400,"height":283,"type":"file","file":"Pasted image 20260928211750.png"}
 	],
 	"edges":[
 		{"id":"395039f08a54d8af","fromNode":"41854e15f1aef991","fromSide":"right","toNode":"c322d631c241b68f","toSide":"left"},

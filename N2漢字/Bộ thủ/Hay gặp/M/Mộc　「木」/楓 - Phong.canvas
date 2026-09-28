@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4988ea3d10aa64a4","x":-41,"y":0,"width":201,"height":60,"type":"text","text":"楓 - Phong"},
+		{"id":"83486b62bc7294f4","x":-300,"y":-200,"width":134,"height":95,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"},
+		{"id":"414d74d55f7fe44a","x":-310,"y":100,"width":144,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phong　「風」/Phong　「風」.canvas"},
+		{"id":"7e309ad036568f03","x":280,"y":-117,"width":250,"height":60,"type":"text","text":"楓　「かえで」："}
+	],
+	"edges":[
+		{"id":"5defc2678a184210","fromNode":"83486b62bc7294f4","fromSide":"right","toNode":"4988ea3d10aa64a4","toSide":"left"},
+		{"id":"fead80c122220ca5","fromNode":"414d74d55f7fe44a","fromSide":"right","toNode":"4988ea3d10aa64a4","toSide":"left"},
+		{"id":"64a0911eab8fad51","fromNode":"4988ea3d10aa64a4","fromSide":"right","toNode":"7e309ad036568f03","toSide":"left"}
+	]
+}

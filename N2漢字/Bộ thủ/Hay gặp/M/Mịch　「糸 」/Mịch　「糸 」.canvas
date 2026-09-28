@@ -30,8 +30,9 @@
 		{"id":"5c5f93c705ec21e0","type":"text","text":"Mịch　「糸 」","x":-1900,"y":1540,"width":250,"height":60},
 		{"id":"1642765453e0280e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/絶 - Tuyệt.canvas","x":-1420,"y":1800,"width":220,"height":166},
 		{"id":"4f1f719b7bbed55d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sắc　「色」/Sắc　「色」.canvas","x":-1740,"y":1920,"width":209,"height":146},
-		{"id":"5213c6aa6b347040","x":-1380,"y":1200,"width":226,"height":204,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/継　「Kế」.canvas"},
-		{"id":"0c90f1f0f925027c","x":-1700,"y":1080,"width":165,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"5213c6aa6b347040","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phất　「𠃊」/𠚍　「Mễ + Phất」/継　「Kế」.canvas","x":-1380,"y":1200,"width":226,"height":204},
+		{"id":"0c90f1f0f925027c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-1700,"y":1080,"width":165,"height":154},
+		{"id":"9d225b50e9ee7f02","x":-1900,"y":440,"width":400,"height":300,"type":"file","file":"Pasted image 20260928211458.png"}
 	],
 	"edges":[
 		{"id":"9b9f078448643fc5","fromNode":"bd7846c7848a4560","fromSide":"right","toNode":"a368f7755541235e","toSide":"left"},

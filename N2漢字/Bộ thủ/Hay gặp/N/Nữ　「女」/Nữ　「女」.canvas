@@ -1,27 +1,26 @@
 {
 	"nodes":[
 		{"id":"5678b24a4b785455","type":"text","text":"Nữ　「女」","x":-112,"y":-20,"width":250,"height":60},
-		{"id":"f5031809a95c5e36","type":"text","text":"好 - Hảo","x":373,"y":-182,"width":250,"height":60},
-		{"id":"6e3fad1aa4ff79bf","type":"text","text":"好調　「こうちょう」：","x":761,"y":-294,"width":250,"height":60},
-		{"id":"60bd73febaa52136","type":"text","text":"- Tình trạng tốt.\n- Diễn biến thuận lợi.\n- Phong độ tốt, hoạt động hiệu quả.","x":1161,"y":-369,"width":250,"height":135},
-		{"id":"8c9470810cd36e1d","type":"text","text":"- Sức khỏe\n- Công việc\n- Kinh doanh\n- Máy móc\n- Thành tích thể thao","x":1621,"y":-479,"width":279,"height":178},
-		{"id":"e3455f36620d0f26","type":"text","text":"今年の売り上げは好調だ。\n→ Doanh số năm nay rất khả quan.\nチームは好調を維持している。\n→ Đội bóng đang duy trì phong độ tốt.\nエンジンは好調に動いている。\n→ Động cơ đang hoạt động tốt.\n景気は好調だ。\n→ Tình hình kinh tế đang thuận lợi.","x":2200,"y":-673,"width":280,"height":304},
-		{"id":"f1653752e2cc71f9","type":"text","text":"- 好き（すき）: thích\n- 好意（こうい）: thiện ý\n- 好物（こうぶつ）: món khoái khẩu","x":761,"y":-673,"width":370,"height":121},
-		{"id":"a4ce7e2911bb52a0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":79,"y":-352,"width":118,"height":101},
 		{"id":"6142387361b5074c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妄 - Vọng.canvas","x":761,"y":400,"width":157,"height":122},
 		{"id":"2ad8f7bcbe38cbd2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/安 - An/安 - An.canvas","x":373,"y":260,"width":163,"height":159},
-		{"id":"b90ef84351988761","x":440,"y":760,"width":174,"height":164,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妥 - Trảo.canvas"}
+		{"id":"b90ef84351988761","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妥 - Trảo.canvas","x":440,"y":760,"width":174,"height":164},
+		{"id":"cc7c37a0dbedf91c","type":"file","file":"Pasted image 20260928211143.png","x":1288,"y":-858,"width":400,"height":300},
+		{"id":"d6cbf94b483a6663","x":960,"y":-352,"width":139,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đài　「台」/始 - Thuỷ.canvas"},
+		{"id":"ea7fd497cd757141","x":960,"y":-592,"width":139,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kiêm　「兼」/嫌 - Hiềm.canvas"},
+		{"id":"f94a38a28dd11c1e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/好 - Hảo.canvas","x":694,"y":-1036,"width":206,"height":116},
+		{"id":"a4ce7e2911bb52a0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tử (con)　「子」/Tử (con)　「子」.canvas","x":971,"y":-1200,"width":118,"height":101},
+		{"id":"0acdfcb3ec05a384","x":1840,"y":-620,"width":149,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/妻 - Thê.canvas"},
+		{"id":"7e29c64445de9dbc","x":2220,"y":-500,"width":181,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/妻 - Thê/凄 - Thê.canvas"}
 	],
 	"edges":[
-		{"id":"72e213b19bac3ad6","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"f5031809a95c5e36","toSide":"left"},
-		{"id":"e2ff5ae2161c2653","fromNode":"f5031809a95c5e36","fromSide":"right","toNode":"6e3fad1aa4ff79bf","toSide":"left"},
-		{"id":"14c7230285d4735f","fromNode":"6e3fad1aa4ff79bf","fromSide":"right","toNode":"60bd73febaa52136","toSide":"left"},
-		{"id":"27f39e173b29cd9d","fromNode":"60bd73febaa52136","fromSide":"right","toNode":"8c9470810cd36e1d","toSide":"left"},
-		{"id":"909f1bad8c96394f","fromNode":"8c9470810cd36e1d","fromSide":"right","toNode":"e3455f36620d0f26","toSide":"left"},
-		{"id":"73595c4e3f21e561","fromNode":"f5031809a95c5e36","fromSide":"right","toNode":"f1653752e2cc71f9","toSide":"left"},
-		{"id":"c499397c984d6380","fromNode":"a4ce7e2911bb52a0","fromSide":"right","toNode":"f5031809a95c5e36","toSide":"left"},
 		{"id":"ae113df9dd8073db","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"2ad8f7bcbe38cbd2","toSide":"left"},
 		{"id":"1172da78e95a1b33","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"6142387361b5074c","toSide":"left"},
-		{"id":"d0ddc6eb3dcc72ba","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"b90ef84351988761","toSide":"left"}
+		{"id":"d0ddc6eb3dcc72ba","fromNode":"5678b24a4b785455","fromSide":"right","toNode":"b90ef84351988761","toSide":"left"},
+		{"id":"99966a0877da1071","fromNode":"cc7c37a0dbedf91c","fromSide":"left","toNode":"ea7fd497cd757141","toSide":"right"},
+		{"id":"db3ecbab132890b6","fromNode":"cc7c37a0dbedf91c","fromSide":"left","toNode":"d6cbf94b483a6663","toSide":"right"},
+		{"id":"eb429873a511bd61","fromNode":"cc7c37a0dbedf91c","fromSide":"left","toNode":"f94a38a28dd11c1e","toSide":"right"},
+		{"id":"f498cb9abeb49d73","fromNode":"a4ce7e2911bb52a0","fromSide":"left","toNode":"f94a38a28dd11c1e","toSide":"right"},
+		{"id":"b937103a2688eecb","fromNode":"cc7c37a0dbedf91c","fromSide":"right","toNode":"0acdfcb3ec05a384","toSide":"left"},
+		{"id":"f1b2655013131e88","fromNode":"0acdfcb3ec05a384","fromSide":"right","toNode":"7e29c64445de9dbc","toSide":"left"}
 	]
 }

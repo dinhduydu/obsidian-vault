@@ -21,7 +21,8 @@
 		{"id":"d5030f292253dddc","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Nguyệt　「月 」.canvas","x":160,"y":-630,"width":144,"height":140},
 		{"id":"51b29ce6b86a68c9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-200,"y":-799,"width":197,"height":138},
 		{"id":"18264d0baf671857","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas","x":1840,"y":420,"width":242,"height":148},
-		{"id":"335bb79180deebae","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/𤴓 - Thất.canvas","x":1440,"y":568,"width":215,"height":169}
+		{"id":"335bb79180deebae","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/𤴓 - Thất.canvas","x":1440,"y":568,"width":215,"height":169},
+		{"id":"6a151f87d0d41eb3","x":-600,"y":-379,"width":400,"height":283,"type":"file","file":"Pasted image 20260928211740.png"}
 	],
 	"edges":[
 		{"id":"35a614f8f4a3c341","fromNode":"631257b411dd2604","fromSide":"right","toNode":"9b2a9d0527d69476","toSide":"left","label":"明 - Minh"},

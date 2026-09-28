@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"84d6319b1d6aa8f6","x":-100,"y":-30,"width":250,"height":60,"type":"text","text":"箱 - Tương"},
-		{"id":"2e8e9c7e3de0d8be","x":-400,"y":180,"width":146,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương.canvas"},
+		{"id":"2e8e9c7e3de0d8be","x":-400,"y":180,"width":146,"height":97,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/相 - Tương/相 - Tương, Tướng.canvas"},
 		{"id":"fe0349974070c4d7","x":-445,"y":-240,"width":191,"height":110,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
 	],
 	"edges":[

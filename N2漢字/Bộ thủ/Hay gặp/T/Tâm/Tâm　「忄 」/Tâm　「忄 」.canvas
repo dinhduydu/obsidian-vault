@@ -7,7 +7,8 @@
 		{"id":"8354451489d86ac7","type":"text","text":"惰 - Noạ","x":340,"y":-40,"width":120,"height":60},
 		{"id":"aeeb6f7d21c28868","type":"text","text":"lười biếng","x":565,"y":-24,"width":250,"height":60},
 		{"id":"55159faf8f393970","type":"text","text":"慢 - Mạn","x":340,"y":176,"width":250,"height":60},
-		{"id":"fc37f1b6038a6eed","type":"text","text":"我慢\n（がまん）\n\n= chịu đựng, nhẫn nhịn\n\n漢越:\n我 = ngã\n慢 = mạn\n\n我慢が苦手\n= kém chịu đựng","x":740,"y":236,"width":473,"height":276}
+		{"id":"fc37f1b6038a6eed","type":"text","text":"我慢\n（がまん）\n\n= chịu đựng, nhẫn nhịn\n\n漢越:\n我 = ngã\n慢 = mạn\n\n我慢が苦手\n= kém chịu đựng","x":740,"y":236,"width":473,"height":276},
+		{"id":"8866f681e8ca6cca","x":-180,"y":300,"width":400,"height":283,"type":"file","file":"Pasted image 20260928211714.png"}
 	],
 	"edges":[
 		{"id":"84a6e183755d5f8d","fromNode":"ed73c33356ef53b6","fromSide":"right","toNode":"ccf069f1f9267280","toSide":"left"},

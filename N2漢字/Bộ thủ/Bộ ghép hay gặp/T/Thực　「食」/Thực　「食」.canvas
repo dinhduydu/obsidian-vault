@@ -9,7 +9,8 @@
 		{"id":"487604fa61e081a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/我 - Ngã/我 - Ngã.canvas","x":-136,"y":205,"width":143,"height":89},
 		{"id":"b6e2caab9475b6e6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/餌 - Nhị.canvas","x":272,"y":-218,"width":158,"height":135},
 		{"id":"ef25f8c39aa6d75b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khiếm　「欠 」/飲 - Ẩm.canvas","x":250,"y":341,"width":180,"height":138},
-		{"id":"bb00690189e8e9a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/飯 - Phạn.canvas","x":250,"y":560,"width":131,"height":120}
+		{"id":"bb00690189e8e9a9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/飯 - Phạn.canvas","x":250,"y":560,"width":131,"height":120},
+		{"id":"96bbf8e64b434e80","x":-895,"y":341,"width":400,"height":300,"type":"file","file":"Pasted image 20260928211616.png"}
 	],
 	"edges":[
 		{"id":"8db874801c332b86","fromNode":"8ac84b0ba269de46","fromSide":"left","toNode":"751850e76b21b57d","toSide":"right"},
