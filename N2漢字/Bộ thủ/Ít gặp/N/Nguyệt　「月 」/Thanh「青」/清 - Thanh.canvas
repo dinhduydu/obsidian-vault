@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"3e920923dcb42070","x":-98,"y":-52,"width":250,"height":60,"type":"text","text":"清 - Thanh"},
-		{"id":"48deb475796f71a0","x":-500,"y":200,"width":191,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"},
-		{"id":"87a0a36767b0d365","x":-495,"y":-280,"width":186,"height":194,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"3e920923dcb42070","type":"text","text":"清 - Thanh","x":-98,"y":-52,"width":250,"height":60},
+		{"id":"48deb475796f71a0","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":-500,"y":200,"width":191,"height":165},
+		{"id":"87a0a36767b0d365","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-495,"y":-280,"width":186,"height":194},
+		{"id":"aaf5bb07819efd78","x":300,"y":-345,"width":246,"height":131,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/清書.md"}
 	],
 	"edges":[
 		{"id":"42aa22c3185ba88f","fromNode":"48deb475796f71a0","fromSide":"right","toNode":"3e920923dcb42070","toSide":"left"},
-		{"id":"59a1fe2fa469d5dd","fromNode":"87a0a36767b0d365","fromSide":"right","toNode":"3e920923dcb42070","toSide":"left"}
+		{"id":"59a1fe2fa469d5dd","fromNode":"87a0a36767b0d365","fromSide":"right","toNode":"3e920923dcb42070","toSide":"left"},
+		{"id":"67b6391211ccb4f0","fromNode":"3e920923dcb42070","fromSide":"right","toNode":"aaf5bb07819efd78","toSide":"left"}
 	]
 }

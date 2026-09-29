@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"92dbed616d20e56e","x":-159,"y":-74,"width":250,"height":60,"type":"text","text":"精 - Tinh"},
-		{"id":"00260f2542fe8048","x":-500,"y":-240,"width":123,"height":105,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas"},
-		{"id":"1ddbc61b97c3918e","x":-522,"y":40,"width":145,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"}
+		{"id":"92dbed616d20e56e","type":"text","text":"精 - Tinh","x":-159,"y":-74,"width":250,"height":60},
+		{"id":"00260f2542fe8048","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/Mễ　「米」.canvas","x":-500,"y":-240,"width":123,"height":105},
+		{"id":"1ddbc61b97c3918e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":-522,"y":40,"width":145,"height":129},
+		{"id":"65f363cdfbd36958","x":240,"y":-200,"width":250,"height":60,"type":"text","text":"精神的"},
+		{"id":"80af379978553470","x":-121,"y":-400,"width":175,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/神 - Thần.canvas"}
 	],
 	"edges":[
 		{"id":"8a1aafe2eba7d452","fromNode":"00260f2542fe8048","fromSide":"right","toNode":"92dbed616d20e56e","toSide":"left"},
-		{"id":"1180c04335aff0b3","fromNode":"1ddbc61b97c3918e","fromSide":"right","toNode":"92dbed616d20e56e","toSide":"left"}
+		{"id":"1180c04335aff0b3","fromNode":"1ddbc61b97c3918e","fromSide":"right","toNode":"92dbed616d20e56e","toSide":"left"},
+		{"id":"ad7031d271a5cfe1","fromNode":"92dbed616d20e56e","fromSide":"right","toNode":"65f363cdfbd36958","toSide":"left"},
+		{"id":"ef0217561eb74247","fromNode":"80af379978553470","fromSide":"right","toNode":"65f363cdfbd36958","toSide":"left"}
 	]
 }

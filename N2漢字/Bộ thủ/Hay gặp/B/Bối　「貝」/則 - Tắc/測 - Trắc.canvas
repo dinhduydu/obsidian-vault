@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"e67fb1a7ce3628e4","x":-90,"y":-21,"width":250,"height":60,"type":"text","text":"測 - Trắc"},
-		{"id":"1d3bb700fb3577b4","x":-460,"y":-280,"width":189,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/則 - Tắc/則 - Tắc.canvas"},
-		{"id":"06345238f23c5bb3","x":-427,"y":80,"width":156,"height":203,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"e67fb1a7ce3628e4","type":"text","text":"測 - Trắc","x":-90,"y":-21,"width":250,"height":60},
+		{"id":"1d3bb700fb3577b4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/則 - Tắc/則 - Tắc.canvas","x":-460,"y":-280,"width":189,"height":169},
+		{"id":"06345238f23c5bb3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-427,"y":80,"width":156,"height":203},
+		{"id":"b613c2fa3a77d32f","type":"text","text":"測定\n（そくてい）\n\n= đo lường\n\n努力を測定する\n= đo lường nỗ lực","x":400,"y":60,"width":360,"height":220},
+		{"id":"bdb609e3a5cc30f6","x":0,"y":320,"width":192,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/Định　「定」.canvas"}
 	],
 	"edges":[
 		{"id":"bb7d898722b78986","fromNode":"1d3bb700fb3577b4","fromSide":"right","toNode":"e67fb1a7ce3628e4","toSide":"left"},
-		{"id":"b486a8184b001bee","fromNode":"06345238f23c5bb3","fromSide":"right","toNode":"e67fb1a7ce3628e4","toSide":"left"}
+		{"id":"b486a8184b001bee","fromNode":"06345238f23c5bb3","fromSide":"right","toNode":"e67fb1a7ce3628e4","toSide":"left"},
+		{"id":"b6393eaee04bd387","fromNode":"e67fb1a7ce3628e4","fromSide":"right","toNode":"b613c2fa3a77d32f","toSide":"left"},
+		{"id":"b52bafdb3f7c061f","fromNode":"bdb609e3a5cc30f6","fromSide":"right","toNode":"b613c2fa3a77d32f","toSide":"left"}
 	]
 }

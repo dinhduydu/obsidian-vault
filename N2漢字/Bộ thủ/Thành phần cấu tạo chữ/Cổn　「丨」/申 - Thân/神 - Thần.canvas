@@ -1,11 +1,27 @@
 {
 	"nodes":[
-		{"id":"028118f0d12e8633","x":-96,"y":-42,"width":250,"height":60,"type":"text","text":"神 - Thần"},
-		{"id":"666ca64c7980a7d2","x":-460,"y":180,"width":212,"height":192,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/申 - Thân.canvas"},
-		{"id":"c6ff8334114051ed","x":-471,"y":-360,"width":223,"height":172,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas"}
+		{"id":"028118f0d12e8633","type":"text","text":"神 - Thần","x":-96,"y":-42,"width":250,"height":60},
+		{"id":"666ca64c7980a7d2","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/申 - Thân/申 - Thân.canvas","x":-460,"y":180,"width":212,"height":192},
+		{"id":"c6ff8334114051ed","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/Thị (chỉ)　「礻」/Thị (chỉ)　「礻」.canvas","x":-471,"y":-360,"width":223,"height":172},
+		{"id":"985e9b7171e49b61","type":"text","text":"精神","x":398,"y":-492,"width":250,"height":60},
+		{"id":"a8a4c4b30d67b0b1","type":"text","text":"精神的","x":798,"y":-240,"width":250,"height":60},
+		{"id":"dfca1e54d619769c","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/フェアの精神.md","x":848,"y":-760,"width":400,"height":400},
+		{"id":"e943b6200eb48ed3","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/追い込む.md","x":903,"y":-80,"width":227,"height":133},
+		{"id":"a69ecd947b5ea52b","type":"text","text":"**Example**: 自分を精神的に**追い込む**.","x":1540,"y":-240,"width":250,"height":60},
+		{"id":"9ac4d3ef6417401c","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/神経が細かい.md","x":785,"y":280,"width":275,"height":180},
+		{"id":"f6cde4e3c4cd088f","type":"file","file":"Chữa đề/Learning_Profile/Collocation/太い神経.md","x":785,"y":660,"width":243,"height":174},
+		{"id":"50a89aaf53b68eea","type":"file","file":"Chữa đề/Learning_Profile/Kanji/神経.md","x":385,"y":480,"width":275,"height":171}
 	],
 	"edges":[
 		{"id":"8d69023b2afd6702","fromNode":"666ca64c7980a7d2","fromSide":"right","toNode":"028118f0d12e8633","toSide":"left"},
-		{"id":"4c306739cc0f8b36","fromNode":"c6ff8334114051ed","fromSide":"right","toNode":"028118f0d12e8633","toSide":"left"}
+		{"id":"4c306739cc0f8b36","fromNode":"c6ff8334114051ed","fromSide":"right","toNode":"028118f0d12e8633","toSide":"left"},
+		{"id":"4a564ae6d85278ae","fromNode":"028118f0d12e8633","fromSide":"right","toNode":"985e9b7171e49b61","toSide":"left","color":"5"},
+		{"id":"ceddd11661efdfc3","fromNode":"028118f0d12e8633","fromSide":"right","toNode":"50a89aaf53b68eea","toSide":"left","color":"5"},
+		{"id":"5f6c0c405395e071","fromNode":"50a89aaf53b68eea","fromSide":"right","toNode":"9ac4d3ef6417401c","toSide":"left","color":"5"},
+		{"id":"b1d23354cde9d5f4","fromNode":"50a89aaf53b68eea","fromSide":"right","toNode":"f6cde4e3c4cd088f","toSide":"left","color":"5"},
+		{"id":"c83437b035eee23b","fromNode":"985e9b7171e49b61","fromSide":"right","toNode":"a8a4c4b30d67b0b1","toSide":"left","color":"5"},
+		{"id":"3dc6ce356c394dfa","fromNode":"985e9b7171e49b61","fromSide":"right","toNode":"dfca1e54d619769c","toSide":"left","color":"5"},
+		{"id":"fb31592b069bfc37","fromNode":"a8a4c4b30d67b0b1","fromSide":"right","toNode":"a69ecd947b5ea52b","toSide":"left","color":"5"},
+		{"id":"a9b0c234d7a441c8","fromNode":"e943b6200eb48ed3","fromSide":"right","toNode":"a69ecd947b5ea52b","toSide":"left","label":"Dồn vào, ép vào (thế bí/con đường cùng)."}
 	]
 }
