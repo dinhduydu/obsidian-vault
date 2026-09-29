@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"ee26808d98e13b2d","x":-21,"y":-48,"width":250,"height":60,"type":"text","text":"崩 - Băng"},
-		{"id":"4a7da46cd3041160","x":-300,"y":60,"width":144,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/Bằng　「朋」.canvas"},
-		{"id":"a097e385d2400d25","x":-307,"y":-201,"width":151,"height":153,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+		{"id":"ee26808d98e13b2d","type":"text","text":"崩 - Băng","x":-21,"y":-48,"width":250,"height":60},
+		{"id":"4a7da46cd3041160","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Bằng　「朋」/Bằng　「朋」.canvas","x":-300,"y":60,"width":144,"height":96},
+		{"id":"a097e385d2400d25","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-307,"y":-201,"width":151,"height":153},
+		{"id":"9d84027ad3fe4581","x":400,"y":-300,"width":502,"height":193,"type":"text","text":"Lở, núi sạt gọi là băng. Nguyễn Du [阮攸] : Băng nhai quái thạch nộ tương hướng [崩崖怪石怒相向] (Chu hành tức sự [舟行即事]) Bờ núi lở, đá hình quái dị giận dữ nhìn nhau.\n\nHỏng, mất. Như băng hoại [崩壞] hư hỏng, đổ nát.\n\nVua thiên tử chết cũng gọi là băng."},
+		{"id":"6855d1995fd976c1","x":380,"y":40,"width":452,"height":334,"type":"text","text":"崩す ( くずす) - phá hủy; kéo đổ; làm rối loạn\n崩れ (くずれ) - đổ\n崩壊 ( ほうかい) - sự sụp đổ; sự tan tành .\n崩御 ( ほうぎょ) - sự băng hà .\n崩れる ( くずれる) - đổ nhào\n崩潰 (ほうかい) - đổ\n値崩れ ( ねくずれ) - sự sụt giá\n崩落 (ほうらく) - đổ\n山崩れ ( やまくずれ) - sự lở đất; lở đất\n雪崩 ( なだれ) - tuyết lở .\n煮崩れ ( にくずれ) - sự bở tơi khi đang nấu (thức ăn)\n突崩す () - sự ép"}
 	],
 	"edges":[
 		{"id":"2cb7f7a2e5ac657d","fromNode":"4a7da46cd3041160","fromSide":"right","toNode":"ee26808d98e13b2d","toSide":"left"},
-		{"id":"60592def0f3e94c2","fromNode":"a097e385d2400d25","fromSide":"right","toNode":"ee26808d98e13b2d","toSide":"left"}
+		{"id":"60592def0f3e94c2","fromNode":"a097e385d2400d25","fromSide":"right","toNode":"ee26808d98e13b2d","toSide":"left"},
+		{"id":"3fc577524ed2f4eb","fromNode":"ee26808d98e13b2d","fromSide":"right","toNode":"9d84027ad3fe4581","toSide":"left"},
+		{"id":"ea1fe3a20bd599c3","fromNode":"ee26808d98e13b2d","fromSide":"right","toNode":"6855d1995fd976c1","toSide":"left"}
 	]
 }
