@@ -1,15 +1,40 @@
 {
 	"nodes":[
-		{"id":"2f91247d26e91124","type":"text","text":"逸 - Dật","x":-123,"y":-44,"width":250,"height":60},
 		{"id":"d622b5e73ab605bf","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Kép　「𠂊」/免 - Miễn.canvas","x":-480,"y":-380,"width":170,"height":163},
 		{"id":"f97e0d926e389ad1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-498,"y":100,"width":188,"height":142},
-		{"id":"de15653545deea47","x":359,"y":-333,"width":250,"height":60,"type":"text","text":"目を逸らす(めをそらす) "},
-		{"id":"930fe451890dce09","x":60,"y":-536,"width":181,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas"}
+		{"id":"de15653545deea47","type":"text","text":"目を逸らす(めをそらす) ","x":359,"y":-333,"width":250,"height":60},
+		{"id":"930fe451890dce09","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/M/Mục　「目」/Mục　「目」.canvas","x":60,"y":-536,"width":181,"height":156},
+		{"id":"2f91247d26e91124","type":"text","text":"逸 - Dật","x":-123,"y":-44,"width":250,"height":60},
+		{"id":"521281b6da147bde","type":"text","text":"逸 - Dật","x":340,"y":320,"width":250,"height":60},
+		{"id":"4cff010d7f721c3f","x":855,"y":140,"width":445,"height":50,"type":"text","text":"Lầm lỗi. Như dâm dật [淫逸] dâm dục quá độ."},
+		{"id":"9a63102fa11a4c62","x":660,"y":20,"width":127,"height":83,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhâm　「壬」/淫 - Dâm.canvas"},
+		{"id":"3228ec6bdca3120b","x":855,"y":260,"width":609,"height":50,"type":"text","text":"Xổng ra. Như mã dật bất năng chỉ [馬逸不能止] ngựa xổng chẳng hay hãm lại.\n"},
+		{"id":"85c24fc32d3c831e","x":855,"y":400,"width":553,"height":60,"type":"text","text":"Ẩn dật. Như cử dật dân [舉逸民] cất những người ẩn dật lên."},
+		{"id":"64fcbd64207f6bfc","x":855,"y":520,"width":553,"height":60,"type":"text","text":"Phàm cái gì không câu nệ tục đời đều gọi là dật.  "},
+		{"id":"37d0a0a036bb9c56","x":1540,"y":460,"width":250,"height":60,"type":"text","text":"Như dật phẩm [逸品] phẩm cách khác đời,"},
+		{"id":"3810fcf6d790ad63","x":1540,"y":620,"width":250,"height":60,"type":"text","text":"dật hứng [逸興] hứng thú khác đời."},
+		{"id":"304e2cb83bbd7a82","x":855,"y":650,"width":505,"height":60,"type":"text","text":"\n\nRỗi nhàn. Như dật cư nhi vô giáo [逸居而無教] (Mạnh Tử [孟子]) rỗi nhàn mà không được dạy dỗ.\n"},
+		{"id":"4e97529f9d47b296","x":855,"y":780,"width":250,"height":60,"type":"text","text":"Buông thả."},
+		{"id":"9fdcb8de0e606159","x":855,"y":960,"width":467,"height":320,"type":"text","text":"逸事 (いつじ) - chuyện vặt\n俊逸 (しゅんいつ) - sự trội hơn\n逸出 (いっしゅつ) - sự trốn thoát; phương tiện để trốn thoát\n\n安逸 (あんいつ) - ăn không ngồi rồi; sự lười nhác\n後逸 (こういつ) - sự sai lầm\n逸らす ( そらす) - trốn; tránh; trốn tránh; nhắm trượt; nhìn theo hướng khác; lảng sang chuyện khác\n逸する (いっする) - trệch\n逸れる ( それる) - nhắm trượt; lảng sang chuyện khác\n逸れる ( はぐれる) - mất mát; lạc lối\n"},
+		{"id":"5695043a4b730da0","x":1900,"y":420,"width":250,"height":60,"type":"text","text":"逸品 ( いっぴん) - sản phẩm tuyệt vời (mỹ phẩm)"},
+		{"id":"b87c7d657bd43ccd","x":1220,"y":780,"width":250,"height":60,"type":"text","text":"放逸 (ほういつ) - sự bê tha"}
 	],
 	"edges":[
 		{"id":"6f4b9ed4b74a4e17","fromNode":"d622b5e73ab605bf","fromSide":"right","toNode":"2f91247d26e91124","toSide":"left"},
 		{"id":"d18817e1e38dee6d","fromNode":"f97e0d926e389ad1","fromSide":"right","toNode":"2f91247d26e91124","toSide":"left"},
 		{"id":"1e5ccfa98546d0cd","fromNode":"2f91247d26e91124","fromSide":"right","toNode":"de15653545deea47","toSide":"left","label":"Ngoảnh đi, tránh ánh nhìn"},
-		{"id":"189f4a615d564520","fromNode":"930fe451890dce09","fromSide":"right","toNode":"de15653545deea47","toSide":"left"}
+		{"id":"189f4a615d564520","fromNode":"930fe451890dce09","fromSide":"right","toNode":"de15653545deea47","toSide":"left"},
+		{"id":"4b7f4c8abdc930b8","fromNode":"521281b6da147bde","fromSide":"right","toNode":"4cff010d7f721c3f","toSide":"left","label":"淫逸"},
+		{"id":"2b8b0ba20983ef55","fromNode":"2f91247d26e91124","fromSide":"right","toNode":"521281b6da147bde","toSide":"left"},
+		{"id":"83ebf7a9fa85b52c","fromNode":"9a63102fa11a4c62","fromSide":"right","toNode":"4cff010d7f721c3f","toSide":"left"},
+		{"id":"401b84b2714b97ef","fromNode":"521281b6da147bde","fromSide":"right","toNode":"3228ec6bdca3120b","toSide":"left"},
+		{"id":"afa65d1b64ccf93e","fromNode":"521281b6da147bde","fromSide":"right","toNode":"85c24fc32d3c831e","toSide":"left"},
+		{"id":"6731d8f698397a51","fromNode":"64fcbd64207f6bfc","fromSide":"right","toNode":"37d0a0a036bb9c56","toSide":"left"},
+		{"id":"3747b17c4bf3eee5","fromNode":"64fcbd64207f6bfc","fromSide":"right","toNode":"3810fcf6d790ad63","toSide":"left"},
+		{"id":"4b475c5f9768f845","fromNode":"521281b6da147bde","fromSide":"right","toNode":"304e2cb83bbd7a82","toSide":"left"},
+		{"id":"8abc25081780e38b","fromNode":"521281b6da147bde","fromSide":"right","toNode":"4e97529f9d47b296","toSide":"left"},
+		{"id":"c0363cd7380396e0","fromNode":"521281b6da147bde","fromSide":"right","toNode":"9fdcb8de0e606159","toSide":"left"},
+		{"id":"281d0bc610a473f0","fromNode":"37d0a0a036bb9c56","fromSide":"right","toNode":"5695043a4b730da0","toSide":"left"},
+		{"id":"01ced1210d8298f6","fromNode":"4e97529f9d47b296","fromSide":"right","toNode":"b87c7d657bd43ccd","toSide":"left"}
 	]
 }

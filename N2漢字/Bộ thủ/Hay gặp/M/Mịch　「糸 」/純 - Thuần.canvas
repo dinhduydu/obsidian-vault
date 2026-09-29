@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ad159c735617141d","x":-420,"y":-117,"width":215,"height":130,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"},
+		{"id":"88f081e4ce161ba4","x":360,"y":-380,"width":191,"height":110,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 7/純 - Thuần.canvas"},
+		{"id":"6bea73c3ba53b9e4","x":-81,"y":-82,"width":250,"height":60,"type":"text","text":"純 - Thuần"},
+		{"id":"d9b6cf6c5be6b0d2","type":"text","text":"純 - Thuần","x":400,"y":120,"width":250,"height":60},
+		{"id":"65324d2ea7efdf87","x":780,"y":-40,"width":232,"height":121,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/純粋.md"},
+		{"id":"b87e4cedca61165b","x":780,"y":150,"width":262,"height":163,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/純情.md"},
+		{"id":"d9e5d30d09e9f3c0","x":780,"y":-501,"width":179,"height":121,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/純文学.md"},
+		{"id":"f11b642e03a06178","x":780,"y":-325,"width":137,"height":112,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/純国産.md"},
+		{"id":"45fea0d92100d36b","x":780,"y":380,"width":193,"height":130,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/単純.md"}
+	],
+	"edges":[
+		{"id":"7bccedfff0fe0e07","fromNode":"ad159c735617141d","fromSide":"right","toNode":"6bea73c3ba53b9e4","toSide":"left"},
+		{"id":"47c9f808ecd71dc5","fromNode":"6bea73c3ba53b9e4","fromSide":"right","toNode":"88f081e4ce161ba4","toSide":"left","label":"tiền tố"},
+		{"id":"4f5ffd956f642eeb","fromNode":"6bea73c3ba53b9e4","fromSide":"right","toNode":"d9b6cf6c5be6b0d2","toSide":"left"},
+		{"id":"7e282ad7afdd455c","fromNode":"d9b6cf6c5be6b0d2","fromSide":"right","toNode":"65324d2ea7efdf87","toSide":"left"},
+		{"id":"91d9c438156ba6a5","fromNode":"d9b6cf6c5be6b0d2","fromSide":"right","toNode":"b87e4cedca61165b","toSide":"left"},
+		{"id":"64d467ce67d56468","fromNode":"88f081e4ce161ba4","fromSide":"right","toNode":"d9e5d30d09e9f3c0","toSide":"left"},
+		{"id":"d2acb7a278a42490","fromNode":"88f081e4ce161ba4","fromSide":"right","toNode":"f11b642e03a06178","toSide":"left"},
+		{"id":"e726cf895b89dae5","fromNode":"d9b6cf6c5be6b0d2","fromSide":"right","toNode":"45fea0d92100d36b","toSide":"left"}
+	]
+}

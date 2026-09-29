@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"c657240f19500e27","x":-127,"y":-43,"width":250,"height":60,"type":"text","text":"遭 - Tao"},
-		{"id":"a17a1bccaa0b31c9","x":-580,"y":-320,"width":194,"height":166,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曹 - Tào/曹 - Tào.canvas"},
-		{"id":"7db6457dd80a77e0","x":-560,"y":40,"width":174,"height":173,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"}
+		{"id":"c657240f19500e27","type":"text","text":"遭 - Tao","x":-127,"y":-43,"width":250,"height":60},
+		{"id":"a17a1bccaa0b31c9","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Củng　「廾」/曲 - Khúc/曹 - Tào/曹 - Tào.canvas","x":-580,"y":-320,"width":194,"height":166},
+		{"id":"7db6457dd80a77e0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-560,"y":40,"width":174,"height":173},
+		{"id":"bade00a3102fe91a","x":200,"y":-120,"width":720,"height":50,"type":"text","text":"Gặp, vô ý mà gặp nhau gọi là tao. Như tao phùng ý ngoại [遭逢意外] gặp gỡ ý không ngờ tới."},
+		{"id":"abd9921008e43c72","x":200,"y":17,"width":250,"height":60,"type":"text","text":"Vòng. Như chu tao [周遭] khắp vòng."},
+		{"id":"77363d6a9f0758d7","x":200,"y":120,"width":250,"height":60,"type":"text","text":"Lượt. Như kỷ tao [幾遭] mấy lượt rồi ?"},
+		{"id":"d3ca42311b7afba8","x":205,"y":198,"width":435,"height":382,"type":"text","text":"遭う ( あう) - gặp; gặp phải\n遭遇 ( そうぐう) - cuộc chạm trán; sự bắt gặp thình lình; sự bắt gặp .\n遭難 ( そうなん) - thảm họa; đắm thuyền; tai nạn\n遭遇する ( そうぐうする) - đụng đầu .\n遭遇する ( そうぐう) - chạm trán; bắt gặp thình lình; bắt gặp\n遭遇戦 (そうぐうせん) - sự gặp gỡ\n事故に遭う ( じこにあう) - gặp tai nạn .\n遭難者 ( そうなんしゃ) - nạn nhân; người bị nạn\n遭難信号 ( そうなんしんごう) - tín hiệu cấp cứu; tín hiệu SOS\n危険に遭う ( きけんにあう) - liều\n大難に遭う ( だいなんにあう) - trầy trật .\n災難に遭う ( さいなんにあう) - gặp rủi ro"}
 	],
 	"edges":[
 		{"id":"ec42e634f17dcdb5","fromNode":"a17a1bccaa0b31c9","fromSide":"right","toNode":"c657240f19500e27","toSide":"left"},
-		{"id":"571265c424b43d30","fromNode":"7db6457dd80a77e0","fromSide":"right","toNode":"c657240f19500e27","toSide":"left"}
+		{"id":"571265c424b43d30","fromNode":"7db6457dd80a77e0","fromSide":"right","toNode":"c657240f19500e27","toSide":"left"},
+		{"id":"646dbffd4c5e3baa","fromNode":"c657240f19500e27","fromSide":"right","toNode":"bade00a3102fe91a","toSide":"left"},
+		{"id":"3a632335db7eafee","fromNode":"c657240f19500e27","fromSide":"right","toNode":"abd9921008e43c72","toSide":"left"},
+		{"id":"5f490912f09a2972","fromNode":"c657240f19500e27","fromSide":"right","toNode":"77363d6a9f0758d7","toSide":"left"},
+		{"id":"9c64444b715348ed","fromNode":"c657240f19500e27","fromSide":"right","toNode":"d3ca42311b7afba8","toSide":"left"}
 	]
 }
