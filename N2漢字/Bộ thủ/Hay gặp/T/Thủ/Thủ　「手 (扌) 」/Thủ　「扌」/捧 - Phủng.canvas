@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"812d905994707cf8","type":"text","text":"捧げる　「ささげる」: dắt díu, nâng đỡ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"8a39765789107885","x":-560,"y":140,"width":250,"height":60,"type":"text","text":"捧 - Phủng"}
+	],
+	"edges":[
+		{"id":"e4b9d85c30e5a6c5","fromNode":"8a39765789107885","fromSide":"right","toNode":"812d905994707cf8","toSide":"left"}
+	]
+}

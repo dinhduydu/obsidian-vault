@@ -3,13 +3,17 @@
 		{"id":"293237de62d5ebae","type":"text","text":"献 - Hiến","x":-115,"y":120,"width":250,"height":60},
 		{"id":"d997792ea250b5cb","type":"text","text":"南 - Nam","x":-515,"y":-80,"width":250,"height":60},
 		{"id":"258eb5c7d666e21e","type":"text","text":"献納　「けんのう」：biếu","x":265,"y":120,"width":250,"height":60},
-		{"id":"234fa59b1987c202","type":"text","text":"捧げる　「ささげる」","x":265,"y":-180,"width":250,"height":60},
-		{"id":"9faefa6d23890308","x":-508,"y":220,"width":243,"height":217,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas"}
+		{"id":"9faefa6d23890308","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/Khuyển　「犬」.canvas","x":-508,"y":220,"width":243,"height":217},
+		{"id":"2c845669200c1b41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/貢 - Cống.canvas","x":10,"y":460,"width":173,"height":135},
+		{"id":"e33af8b0ac8548ce","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/貢献.md","x":300,"y":316,"width":241,"height":144},
+		{"id":"6cdf2e9c9d1d5fa4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/納 - Nạp.canvas","x":79,"y":20,"width":104,"height":50}
 	],
 	"edges":[
-		{"id":"e1b0c9ad4bfc696d","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"258eb5c7d666e21e","toSide":"left"},
-		{"id":"a7a0bbaab5ab0657","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"234fa59b1987c202","toSide":"left"},
+		{"id":"e1b0c9ad4bfc696d","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"258eb5c7d666e21e","toSide":"left","color":"5"},
 		{"id":"a2fa3a52808e909e","fromNode":"d997792ea250b5cb","fromSide":"right","toNode":"293237de62d5ebae","toSide":"left"},
-		{"id":"b02d30fcfc1b2ab0","fromNode":"9faefa6d23890308","fromSide":"right","toNode":"293237de62d5ebae","toSide":"left"}
+		{"id":"b02d30fcfc1b2ab0","fromNode":"9faefa6d23890308","fromSide":"right","toNode":"293237de62d5ebae","toSide":"left"},
+		{"id":"bd6e7d506b304514","fromNode":"293237de62d5ebae","fromSide":"right","toNode":"e33af8b0ac8548ce","toSide":"left","color":"5","label":"こうけん"},
+		{"id":"5a8e53c593d65f92","fromNode":"2c845669200c1b41","fromSide":"right","toNode":"e33af8b0ac8548ce","toSide":"left"},
+		{"id":"375ea5f5d6185513","fromNode":"6cdf2e9c9d1d5fa4","fromSide":"right","toNode":"258eb5c7d666e21e","toSide":"left"}
 	]
 }

@@ -18,7 +18,7 @@
 		{"id":"de5f6f7a3e390cf7","fromNode":"a6e3b0e6219d3c85","fromSide":"right","toNode":"acdb2d01d082aa9b","toSide":"left","label":"thành ngữ"},
 		{"id":"f4abf49066ec5e5e","fromNode":"a6e3b0e6219d3c85","fromSide":"right","toNode":"001b2b4f8dc22251","toSide":"left","label":"từ vựng"},
 		{"id":"01ff21f7ee0b0bf1","fromNode":"e4ced2208d553da6","fromSide":"right","toNode":"18635939a60364ac","toSide":"left"},
-		{"id":"3ca9fab9713ada03","fromNode":"e4ced2208d553da6","fromSide":"right","toNode":"b3a5e31dc461b5a4","toSide":"left"},
+		{"id":"3ca9fab9713ada03","fromNode":"e4ced2208d553da6","fromSide":"right","toNode":"b3a5e31dc461b5a4","toSide":"left","label":"ちぢめる"},
 		{"id":"32a82bd69b95c1b0","fromNode":"001b2b4f8dc22251","fromSide":"right","toNode":"e4ced2208d553da6","toSide":"left","label":"V"},
 		{"id":"bcdaae9e52e48fb8","fromNode":"001b2b4f8dc22251","fromSide":"right","toNode":"695b025b50e135e6","toSide":"left"}
 	]

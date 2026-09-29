@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"067099a1f07d02bf","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"貢 - Cống"},
-		{"id":"bf8d2a854202f5b7","x":-400,"y":60,"width":148,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas"},
-		{"id":"28c5cab6e0d3b3d9","x":-435,"y":-240,"width":183,"height":145,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas"}
+		{"id":"067099a1f07d02bf","type":"text","text":"貢 - Cống","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"bf8d2a854202f5b7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/Bối　「貝」.canvas","x":-400,"y":60,"width":148,"height":86},
+		{"id":"28c5cab6e0d3b3d9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas","x":-435,"y":-240,"width":183,"height":145},
+		{"id":"db86ef7373969c7c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/貢献.md","x":260,"y":-224,"width":247,"height":114},
+		{"id":"1a1bd6abc62e3a18","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犬」/献 - Hiến.canvas","x":-125,"y":-440,"width":194,"height":123}
 	],
 	"edges":[
 		{"id":"28b504dc402062a0","fromNode":"bf8d2a854202f5b7","fromSide":"right","toNode":"067099a1f07d02bf","toSide":"left"},
-		{"id":"9459d3d108315662","fromNode":"28c5cab6e0d3b3d9","fromSide":"right","toNode":"067099a1f07d02bf","toSide":"left"}
+		{"id":"9459d3d108315662","fromNode":"28c5cab6e0d3b3d9","fromSide":"right","toNode":"067099a1f07d02bf","toSide":"left"},
+		{"id":"158dbe440817c3f1","fromNode":"067099a1f07d02bf","fromSide":"right","toNode":"db86ef7373969c7c","toSide":"left","label":"こうけん"},
+		{"id":"ba6042e676bea5cb","fromNode":"1a1bd6abc62e3a18","fromSide":"right","toNode":"db86ef7373969c7c","toSide":"left"}
 	]
 }
