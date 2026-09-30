@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"a35a92266edcf723","x":-183,"y":-46,"width":250,"height":60,"type":"text","text":"惨 - Thảm"},
-		{"id":"25cfd57e4d3cd53b","x":-480,"y":160,"width":149,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/参 - Tham.canvas"},
-		{"id":"056eff31d5b2153d","x":-489,"y":-196,"width":158,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas"}
+		{"id":"a35a92266edcf723","type":"text","text":"惨 - Thảm","x":-183,"y":-46,"width":250,"height":60},
+		{"id":"25cfd57e4d3cd53b","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/参 - Tham.canvas","x":-480,"y":160,"width":149,"height":117},
+		{"id":"056eff31d5b2153d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas","x":-489,"y":-196,"width":158,"height":150},
+		{"id":"e95d562669389656","type":"file","file":"Chữa đề/Learning_Profile/Kanji/惨状.md","x":240,"y":-254,"width":228,"height":133},
+		{"id":"79409f084236babf","type":"text","text":"THẢM \n1. đáng thương; đáng buồn \n2. sự đáng thương","x":180,"y":289,"width":288,"height":111},
+		{"id":"875b5c497bd879f8","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/惨め.md","x":380,"y":80,"width":286,"height":109}
 	],
 	"edges":[
 		{"id":"881506e53e03c1a3","fromNode":"25cfd57e4d3cd53b","fromSide":"right","toNode":"a35a92266edcf723","toSide":"left"},
-		{"id":"7f2186e904c540b1","fromNode":"056eff31d5b2153d","fromSide":"right","toNode":"a35a92266edcf723","toSide":"left"}
+		{"id":"7f2186e904c540b1","fromNode":"056eff31d5b2153d","fromSide":"right","toNode":"a35a92266edcf723","toSide":"left"},
+		{"id":"1fee890f86a9919f","fromNode":"a35a92266edcf723","fromSide":"right","toNode":"e95d562669389656","toSide":"left"},
+		{"id":"d2c52d507074a4fa","fromNode":"a35a92266edcf723","fromSide":"right","toNode":"875b5c497bd879f8","toSide":"left","label":"みじめ\n"},
+		{"id":"2073ed1a6c7a14db","fromNode":"a35a92266edcf723","fromSide":"right","toNode":"79409f084236babf","toSide":"left"}
 	]
 }

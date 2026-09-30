@@ -5,9 +5,12 @@
 		{"id":"acd8553251d33c00","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas","x":-620,"y":60,"width":224,"height":140},
 		{"id":"078ff85c475f7ed0","type":"text","text":"測定\n（そくてい）\n\n= đo lường\n\n努力を測定する\n= đo lường nỗ lực","x":120,"y":80,"width":360,"height":220},
 		{"id":"5827d158896c1354","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/B/Bối　「貝」/則 - Tắc/測 - Trắc.canvas","x":-220,"y":300,"width":170,"height":167},
-		{"id":"8bed410dbc88c5b7","x":224,"y":-660,"width":242,"height":150,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/定める.md"},
+		{"id":"8bed410dbc88c5b7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/定める.md","x":224,"y":-660,"width":242,"height":150},
 		{"id":"1a53a03de789fd3c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/一定.md","x":255,"y":-340,"width":225,"height":140},
-		{"id":"43893a52c36d54c4","x":224,"y":-1000,"width":249,"height":162,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/定価.md"}
+		{"id":"43893a52c36d54c4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/定価.md","x":224,"y":-1000,"width":249,"height":162},
+		{"id":"764bc64051b1ffbb","x":187,"y":460,"width":227,"height":164,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/活力を規定する.md"},
+		{"id":"443cf45538f40db5","x":285,"y":800,"width":250,"height":60,"type":"text","text":"規定"},
+		{"id":"96808dfa4ba74b23","x":466,"y":1020,"width":250,"height":50,"type":"text","text":"定規"}
 	],
 	"edges":[
 		{"id":"c6ec5f79f703cd12","fromNode":"0e81c48a29f0ba9e","fromSide":"right","toNode":"99c49d8290ca9050","toSide":"left"},
@@ -16,6 +19,9 @@
 		{"id":"a790ac49aa75c9ed","fromNode":"5827d158896c1354","fromSide":"right","toNode":"078ff85c475f7ed0","toSide":"left"},
 		{"id":"292dde755971d3f7","fromNode":"99c49d8290ca9050","fromSide":"right","toNode":"1a53a03de789fd3c","toSide":"left"},
 		{"id":"e5f021fea4b82263","fromNode":"99c49d8290ca9050","fromSide":"right","toNode":"8bed410dbc88c5b7","toSide":"left"},
-		{"id":"157a95f1de97767e","fromNode":"99c49d8290ca9050","fromSide":"right","toNode":"43893a52c36d54c4","toSide":"left"}
+		{"id":"157a95f1de97767e","fromNode":"99c49d8290ca9050","fromSide":"right","toNode":"43893a52c36d54c4","toSide":"left"},
+		{"id":"8f3b2a7b2456da66","fromNode":"99c49d8290ca9050","fromSide":"right","toNode":"764bc64051b1ffbb","toSide":"left"},
+		{"id":"2b17fccdf95098f5","fromNode":"443cf45538f40db5","fromSide":"bottom","toNode":"96808dfa4ba74b23","toSide":"left","label":"khác"},
+		{"id":"9363c028de504dd6","fromNode":"764bc64051b1ffbb","fromSide":"bottom","toNode":"443cf45538f40db5","toSide":"top"}
 	]
 }

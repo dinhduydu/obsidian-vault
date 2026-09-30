@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"fe9d07d65fd377a8","x":-140,"y":-24,"width":250,"height":60,"type":"text","text":"診 - Chẩn"},
-		{"id":"c056aef63e801d25","x":-420,"y":-240,"width":151,"height":103,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"}
+		{"id":"fe9d07d65fd377a8","type":"text","text":"診 - Chẩn","x":-140,"y":-24,"width":250,"height":60},
+		{"id":"90d640eb2deb97f3","x":280,"y":-160,"width":460,"height":80,"type":"text","text":"Xem xét. Như chẩn bệnh [診病] xem bệnh, chẩn mạch [診脈] xem mạch, v.v."},
+		{"id":"c056aef63e801d25","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas","x":-720,"y":49,"width":151,"height":103},
+		{"id":"47b06da551dad0f3","x":-480,"y":-197,"width":137,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas"},
+		{"id":"f7656ebf7d827be6","x":-480,"y":-356,"width":137,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Nhân　「𠆢」.canvas"},
+		{"id":"55f79d12050a9420","x":260,"y":60,"width":439,"height":228,"type":"text","text":"診る ( みる) - kiểm tra; khám (thuộc y học)\n代診 (だいしん) - người thay thế\n内診 ( ないしん) - Nội chẩn (y học)\n診察 ( しんさつ) - sự khám bệnh; khám bệnh .\n往診 ( おうしん) - việc bác sĩ đến khám tận nhà; bác sĩ đến khám tại gia; khám tại nhà; đi khám ngoài\n打診 ( だしん) - việc gõ để chuẩn đoán ; việc thăm dò .\n診断 ( しんだん) - sự chẩn đoán; chuẩn đoán ."}
 	],
 	"edges":[
-		{"id":"56affb2c8243ce45","fromNode":"c056aef63e801d25","fromSide":"right","toNode":"fe9d07d65fd377a8","toSide":"left"}
+		{"id":"56affb2c8243ce45","fromNode":"c056aef63e801d25","fromSide":"right","toNode":"fe9d07d65fd377a8","toSide":"left"},
+		{"id":"a00219bbb58ff492","fromNode":"fe9d07d65fd377a8","fromSide":"right","toNode":"90d640eb2deb97f3","toSide":"left"},
+		{"id":"232d65dbb41cc75e","fromNode":"47b06da551dad0f3","fromSide":"right","toNode":"fe9d07d65fd377a8","toSide":"left"},
+		{"id":"403b27b53a2bc408","fromNode":"f7656ebf7d827be6","fromSide":"right","toNode":"fe9d07d65fd377a8","toSide":"left"},
+		{"id":"8feb087eb7b502ba","fromNode":"fe9d07d65fd377a8","fromSide":"right","toNode":"55f79d12050a9420","toSide":"left"}
 	]
 }

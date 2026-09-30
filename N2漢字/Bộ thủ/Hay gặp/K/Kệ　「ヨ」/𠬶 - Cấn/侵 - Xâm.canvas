@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"4ed3ad307fd8665e","x":-24,"y":-37,"width":250,"height":60,"type":"text","text":"侵 - Xâm"},
-		{"id":"c4b6d3f832a296dc","x":-400,"y":-240,"width":181,"height":160,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas"},
-		{"id":"c642b6b3f9a325e2","x":-360,"y":80,"width":141,"height":141,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+		{"id":"4ed3ad307fd8665e","type":"text","text":"侵 - Xâm","x":-24,"y":-37,"width":250,"height":60},
+		{"id":"c4b6d3f832a296dc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/𠬶 - Cấn.canvas","x":-400,"y":-240,"width":181,"height":160},
+		{"id":"c642b6b3f9a325e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-360,"y":80,"width":141,"height":141},
+		{"id":"6b8cdcd93a9b3266","type":"text","text":"Tiến dần. Như xâm tầm [侵尋] dần dà.\n\nĐánh ngầm, ngầm đem binh vào bờ cõi nước khác gọi là xâm.\n\nBừng. Như xâm thần [侵晨] sáng tan sương rồi.\n\nXâm lấn, không phải của mình mà cứ lấn hiếp gọi là xâm. Như xâm đoạt [侵奪] lấn cướp, xâm chiếm [侵占] lấn lấy, v.v.","x":400,"y":-340,"width":733,"height":216},
+		{"id":"c15cf578ad305668","type":"text","text":"侵す ( おかす) - xâm nhập; vi phạm; tấn công\n侵入 ( しんにゅう) - sự xâm nhập; sự xâm lược; xâm nhập; xâm lược .\n侵冦 () - sự xâm lược\n\n侵害 ( しんがい) - sự vi phạm; sự xâm hại; sự xâm phạm\n侵掠 (しんりゃく) - sự xâm lược\n侵攻 (しんこう) - sự xâm lược\n侵犯 ( しんぱん) - xâm phạm .\n侵略 ( しんりゃく) - sự xâm lược\n侵蝕 (しんしょく) - sự vi phạm; sự xâm phạm\n侵食 ( しんしょく) - sự xâm phạm; sự lấn sang; sự xâm thực; xâm phạm; lấn sang; xâm thực .\n不可侵 ( ふかしん) - không thể xâm phạm .\n侵入する ( しんにゅうする) - đánh vào\n侵入する ( しんにゅう) - xâm nhập; xâm lược","x":406,"y":51,"width":754,"height":369},
+		{"id":"460df510dbd6aea4","x":406,"y":500,"width":250,"height":60,"type":"text","text":"侵奪 () - sự lấn chiếm"},
+		{"id":"61c8b12e871102ec","x":180,"y":620,"width":151,"height":104,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/I-隹 Truy/奪 - Đoạt.canvas"}
 	],
 	"edges":[
 		{"id":"bf94e01d6d77c406","fromNode":"c4b6d3f832a296dc","fromSide":"right","toNode":"4ed3ad307fd8665e","toSide":"left"},
-		{"id":"cf9b0fafbd783597","fromNode":"c642b6b3f9a325e2","fromSide":"right","toNode":"4ed3ad307fd8665e","toSide":"left"}
+		{"id":"cf9b0fafbd783597","fromNode":"c642b6b3f9a325e2","fromSide":"right","toNode":"4ed3ad307fd8665e","toSide":"left"},
+		{"id":"a9791a3c27eefd5b","fromNode":"4ed3ad307fd8665e","fromSide":"right","toNode":"6b8cdcd93a9b3266","toSide":"left"},
+		{"id":"92b907d3834dbe95","fromNode":"4ed3ad307fd8665e","fromSide":"right","toNode":"c15cf578ad305668","toSide":"left"},
+		{"id":"48c92680526b2b35","fromNode":"4ed3ad307fd8665e","fromSide":"right","toNode":"460df510dbd6aea4","toSide":"left"},
+		{"id":"879d22b7e2a849ed","fromNode":"61c8b12e871102ec","fromSide":"right","toNode":"460df510dbd6aea4","toSide":"left"}
 	]
 }

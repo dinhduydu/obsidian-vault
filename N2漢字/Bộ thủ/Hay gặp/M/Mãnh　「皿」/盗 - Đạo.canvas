@@ -4,12 +4,14 @@
 		{"id":"7fd7adcd4094c1e2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-440,"y":80,"width":129,"height":101},
 		{"id":"cf26a39485c1ccb7","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Thứ　「次」/Thứ　「次」.canvas","x":-472,"y":-190,"width":161,"height":159},
 		{"id":"e90955cebb55f448","type":"text","text":"強盗　「ごうとう」：cướp","x":380,"y":-61,"width":250,"height":60},
-		{"id":"bd166d74d13206fb","x":116,"y":-360,"width":193,"height":108,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/強 - Cương.canvas"}
+		{"id":"bd166d74d13206fb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cung　「弓」/強 - Cương.canvas","x":116,"y":-360,"width":193,"height":108},
+		{"id":"609802cb26c85e61","x":380,"y":60,"width":346,"height":359,"type":"text","text":"盗み ( ぬすみ) - Sự ăn trộm\n盗む ( ぬすむ) - ăn cắp\n盗人 ( ぬすっと) - Kẻ trộm; kẻ cắp; tên ăn trộm\n盗人 ( ぬすびと) - Kẻ trộm; kẻ cắp; tên ăn trộm\n盗伐 ( とうばつ) - sự chặt trộm\n盗作 ( とうさく) - đạo văn; bài viết ăn cắp\n偸盗 (ちゅうとう) - kẻ cướp; kẻ trộm\n剽盗 ( ひょうとう) - Kẻ cướp đường .\n盗取 (とと) - sự ăn trộm\n盗品 ( とうひん) - của cướp được\n盗塁 ( とうるい) - Sự ăn trộm"}
 	],
 	"edges":[
 		{"id":"2f00f5fa69072d6e","fromNode":"7fd7adcd4094c1e2","fromSide":"right","toNode":"a50841cca71c3bf0","toSide":"left"},
 		{"id":"f0751c12d8e31668","fromNode":"cf26a39485c1ccb7","fromSide":"right","toNode":"a50841cca71c3bf0","toSide":"left"},
 		{"id":"cadfadc84da7892c","fromNode":"a50841cca71c3bf0","fromSide":"right","toNode":"e90955cebb55f448","toSide":"left"},
-		{"id":"ef177116107e301d","fromNode":"bd166d74d13206fb","fromSide":"right","toNode":"e90955cebb55f448","toSide":"left"}
+		{"id":"ef177116107e301d","fromNode":"bd166d74d13206fb","fromSide":"right","toNode":"e90955cebb55f448","toSide":"left"},
+		{"id":"5f0794ee42658176","fromNode":"a50841cca71c3bf0","fromSide":"right","toNode":"609802cb26c85e61","toSide":"left"}
 	]
 }
