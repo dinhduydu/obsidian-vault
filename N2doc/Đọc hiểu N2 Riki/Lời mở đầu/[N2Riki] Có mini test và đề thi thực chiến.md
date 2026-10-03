@@ -1,2 +1,0 @@
-- Mini test để kiểm tra mức độ tiếp thu
-- Đề thi thực chiến để tổng ôn kiến thức, luyện phản xạ làm bài và chuẩn bị tốt hơn cho kỳ thi thật

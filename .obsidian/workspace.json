@@ -4,44 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ad59efcf7fd26e8b",
+        "id": "3da228abb5b49989",
         "type": "tabs",
         "children": [
           {
-            "id": "82698742c76f611a",
+            "id": "0afff4ee13203308",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/惨 - Thảm.canvas",
-                "viewState": {
-                  "x": 134.1335352667483,
-                  "y": 28.173059987311486,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "JPdoc/BJT/シャドーイング もっと話せる日本語 中～上級編　英語・中国語・ベトナム語訳付き.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "惨 - Thảm"
-            }
-          },
-          {
-            "id": "f4485bf162154166",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/愛 - Ái/愛 - Ái.canvas",
-                "viewState": {
-                  "x": 888.7018812792794,
-                  "y": -327.6987788657217,
-                  "zoom": 0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "愛 - Ái"
+              "icon": "lucide-file-text",
+              "title": "シャドーイング もっと話せる日本語 中～上級編　英語・中国語・ベトナム語訳付き"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -75,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "惨",
+                "query": "物置",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,12 +78,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -168,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Grammar/〜かのようだ.md",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +175,37 @@
       "decks:Decks": false
     }
   },
-  "active": "82698742c76f611a",
+  "active": "0afff4ee13203308",
   "lastOpenFiles": [
+    "N2文法/Tổng hợp ngữ pháp cơ bản/10. Kính ngữ/10. Kính ngữ.canvas",
+    "JPdoc/BJT/シャドーイング もっと話せる日本語 中～上級編　英語・中国語・ベトナム語訳付き.pdf",
+    "JPdoc/BJT",
+    "JPdoc/ThaoLeJLPT/BJT",
+    "bdb51467-2eda-45c8-ad5b-2e22ebb1b487.jpg",
+    "641523791_1691152572251242_4088437157348941464_n.jpg",
+    "9300f769-e8d9-4401-a916-99f1b7cc1315.jpg",
+    "4058c208-3ff3-4f74-9302-c30ab792157d.jpg",
+    "55a935a7-ef82-46c0-aec8-b5b77bc7fe18.jpg",
+    "33a150a4-5f30-4917-903a-acda1f61a73e.jpg",
+    "04bade0f-d5cf-4512-9515-eda692923a39.jpg",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/10. Kính ngữ/10. Kính ngữ.md",
+    "JPdoc/Tổng Hợp Ngữ Pháp Tiếng Nhật N2.pdf",
+    "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.canvas",
+    "JPdoc/Tổng hợp ngữ pháp N2 theo cụm.pdf",
+    "Chữa đề/Learning_Profile/Grammar/〜では.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week1/03112025/3. Phân Tích Kết Quả THAOLEJP_N2_NGỮ PHÁP NGOÀI CHƯƠNG TRÌNH (P1.2).md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/0. Link bài tập.md",
+    "N2漢字/Bộ thủ/Hay gặp/T/Trảo　「爪」/愛 - Ái/愛 - Ái.canvas",
+    "Chữa đề/２０２６年/０９月２０２６年/Week5/30092026/Untitled.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week5/30092026/0. Link bài tập.md",
+    "Pasted image 20261001221112.png",
+    "Chữa đề/２０２６年/０９月２０２６年/Week5/29092026/0. Link bài tập.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026",
+    "Chữa đề/２０２６年/１０月２０２６年/Week2",
+    "Chữa đề/２０２６年/１０月２０２６年/Week1",
+    "Chữa đề/２０２６年/１０月２０２６年",
+    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/惨 - Thảm.canvas",
     "FB_IMG_1790732991391.jpg",
     "AI_Context/Văn hoá - Chia sẻ/Chưa đặt tên.md",
     "AI_Context/Văn hoá - Chia sẻ/Chưa đặt tên 1.md",
@@ -206,54 +213,24 @@
     "AI_Context/Quảng cáo/Chưa đặt tên 1.md",
     "Chữa đề/Learning_Profile/Kanji/惨状.md",
     "Chữa đề/Learning_Profile/Vocabulary/惨め.md",
-    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/参 - Tham/惨 - Thảm.canvas",
     "Chữa đề/Learning_Profile/Adverb/いちいち.md",
     "N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas",
     "N2文法/Tổng hợp ngữ pháp N4/Untitled.md",
     "Pasted image 20260930212454.png",
-    "Pasted image 20260930212444.png",
-    "Pasted image 20260930212434.png",
-    "Pasted image 20260930212425.png",
-    "Pasted image 20260930212418.png",
-    "Pasted image 20260930212402.png",
-    "Pasted image 20260930212354.png",
-    "Pasted image 20260930212345.png",
-    "Pasted image 20260930212336.png",
-    "Pasted image 20260930212325.png",
     "N2文法/Tổng hợp ngữ pháp N4/Tổng hợp ngữ pháp N4 bằng hình ảnh.md",
     "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Định　「定」/Định　「定」.canvas",
     "N2漢字/Bộ thủ/Hay gặp/D/Dự　「予」/Dự　「予」.canvas",
     "Chữa đề/Learning_Profile/Collocation/活力を規定する.md",
     "N2語彙/Từ ghép/込む/込む.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week5/30092026/Untitled.md",
-    "Chữa đề/２０２６年/０９月２０２６年/Week5/30092026/0. Link bài tập.md",
     "N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/盗 - Đạo.canvas",
     "Chữa đề/２０２６年/０９月２０２６年/Week5/30092026",
     "N2漢字/Bộ thủ/Hay gặp/K/Kệ　「ヨ」/𠬶 - Cấn/侵 - Xâm.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/I-隹 Truy/奪 - Đoạt.canvas",
     "Chữa đề/Learning_Profile/Adverb/いかにも.md",
-    "N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/如 - Như.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/㐱 - Trân/診 - Chẩn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/持 - Trì.canvas",
     "Chữa đề/Learning_Profile/Vocabulary/大半.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week3/21062026/1. Phân Tích Phân tích bài làm JLPT N2 - Ôn tập Từ vựng (P1).md",
     "AI_Context/N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ.md",
     "N2語彙/220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week3/20042026/3. Phân Tích N2 Đọc hiểu ngắn - Bài 31.md",
-    "Chữa đề/Learning_Profile/Vocabulary/純粋.md",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Untitled.md",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/純",
-    "Chữa đề/Learning_Profile/Vocabulary/単純.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week5/28042026/2. Phân Tích N2_BÀI TẬP ĐIỀN SAO (7).md",
-    "Chữa đề/Learning_Profile/Collocation/純国産.md",
-    "Chữa đề/Learning_Profile/Vocabulary/純文学.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng",
-    "Chữa đề/Prompt/Prompt ngữ pháp",
-    "Chữa đề/Prompt/Prompt gen từ vựng",
-    "N2語彙/Từ láy/1. Từ láy, từ tượng thanh, tượng hình",
-    "Chữa đề/２０２６年/０９月２０２６年/Week5/29092026",
-    "Chữa đề/２０２６年/０９月２０２６年/Week5/28092026",
-    "Chữa đề/２０２６年/０９月２０２６年/Week5",
-    "Chữa đề/２０２６年/０９月２０２６年/Week4/26092026"
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/20042026/3. Phân Tích N2 Đọc hiểu ngắn - Bài 31.md"
   ]
 }

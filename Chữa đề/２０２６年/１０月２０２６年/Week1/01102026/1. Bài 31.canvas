@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"319168ed7021b25c","x":-540,"y":200,"width":825,"height":320,"type":"group","label":"B"},
+		{"id":"72ca9b67f42e7704","x":-540,"y":-220,"width":825,"height":300,"type":"group","label":"A"},
+		{"id":"1537f1a6ce2767fd","x":-520,"y":-200,"width":785,"height":120,"type":"text","text":"仕事の中で流れてくる情報の量は、日増しに多くなっている。毎日、机の上にファクスや手紙などの文書類、それにさまざまな印刷物も加わって、そのまま放置しておくと、まさに山積してくる。（中略）机は物置ではない点を、忘れてはいけない。机は書類を置いて読んだり、ものを書いたりするところである。\n\n"},
+		{"id":"134659af26923ad6","x":-520,"y":-40,"width":785,"height":100,"type":"text","text":"それ以外の目的のために、できるだけ使わないようにする。そのためには、書類は一度手に取ったら、読んで適切な処理が終わるまでは、ほかの書類は絶対に手にしないという原則にする必要がある。どうしてもその場で印座に処理できないものだけは、仕方がないので「未決書類入れ」に入れておく。"},
+		{"id":"37e80ceecd948b96","x":-520,"y":220,"width":785,"height":100,"type":"text","text":"机の上には、さまざまな書類が秩序なく置かれています。これらをきちんと整理しようと考えると、当然、ある程度の時間が必要になります。ですから、机の上に書類を置きっぱなしになるのは、きちんと分類することを考えすぎている結果でもあります。\n"},
+		{"id":"090bba241e7122fe","x":-520,"y":360,"width":785,"height":140,"type":"text","text":"では、どうすればいいかというと、答えはいたって簡単です。机にある書類を全部一つのボックスに入れてしまえばいいのです。ここで「ある程度、整理をしてからボックスに入れよう」と考えてはいけません。その時は、何の分類もしないまま放り込むのです。そうすると、机の上は一瞬で片付いてしまいます。"},
+		{"id":"e6330c65f8390c10","x":540,"y":-190,"width":580,"height":50,"type":"text","text":"15．A**では**、机を物置にしないためにどうすればいいと言っているか。"},
+		{"id":"fa8cb1e2ae766129","x":1240,"y":-386,"width":511,"height":66,"type":"text","text":"１ 机の上にファクスや手紙などの文書類、それにさまざまな印刷物を置かない。\n"},
+		{"id":"ad34cbdc7993423d","x":1240,"y":-249,"width":571,"height":50,"type":"text","text":"２ 使わないものを全部ボックスに入れて、必要なものだけを取り出す。\n"},
+		{"id":"ca20c1ae00356463","x":1240,"y":-140,"width":503,"height":56,"type":"text","text":"３ 印座に処理できないものでも机の上に置かないようにする。\n"},
+		{"id":"88dfc24550f30ead","x":1240,"y":-40,"width":503,"height":81,"type":"text","text":"４ 手元の書類をきちんと処理し終わってから、ほかの書類にとりかかる。"},
+		{"id":"582356f0011655c1","x":1133,"y":245,"width":721,"height":55,"type":"text","text":"２ AもBも、机の上に置かれたものを何の分類もしないまま、一つのボックスに入れるといいと言っている。"},
+		{"id":"398bda6a562f91aa","x":480,"y":334,"width":556,"height":50,"type":"text","text":"16．机の整理方法に対するA、Bの説明について、正しいのはどれか。\n"},
+		{"id":"3eaa2e9be3c596bb","x":1129,"y":140,"width":725,"height":50,"type":"text","text":"１ AもBも、机の上に置かれたものをきちんと分類して片付けなければならないと言っている。\n"},
+		{"id":"766c66570771af81","x":1133,"y":384,"width":721,"height":56,"type":"text","text":"３ Aは机の上を常にきちんと整理することが必要だと言い、Bは書類などを分類なしにボックスに入れることを勧めている。"},
+		{"id":"a3e8b9a9a07302a7","x":1133,"y":520,"width":721,"height":60,"type":"text","text":"４ Aは書類などを分類なしにボックスに入れることを勧め、Bは机の上を常にきちんと整理することが必要だと言っている。"},
+		{"id":"2953294261cc560d","x":340,"y":-458,"width":222,"height":105,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜では.md"}
+	],
+	"edges":[
+		{"id":"e45179a915ebfc40","fromNode":"72ca9b67f42e7704","fromSide":"right","toNode":"e6330c65f8390c10","toSide":"left"},
+		{"id":"89cea7282d8aea9b","fromNode":"e6330c65f8390c10","fromSide":"right","toNode":"fa8cb1e2ae766129","toSide":"left"},
+		{"id":"3051a632111ce5a9","fromNode":"e6330c65f8390c10","fromSide":"right","toNode":"ad34cbdc7993423d","toSide":"left"},
+		{"id":"34fadd67e8fca7e4","fromNode":"e6330c65f8390c10","fromSide":"right","toNode":"ca20c1ae00356463","toSide":"left"},
+		{"id":"b1cbbe059ba883a2","fromNode":"e6330c65f8390c10","fromSide":"right","toNode":"88dfc24550f30ead","toSide":"left"},
+		{"id":"5f152afc2bdafc09","fromNode":"72ca9b67f42e7704","fromSide":"right","toNode":"398bda6a562f91aa","toSide":"left"},
+		{"id":"9f44f5ee57849641","fromNode":"319168ed7021b25c","fromSide":"right","toNode":"398bda6a562f91aa","toSide":"left"},
+		{"id":"d14d7355d12562ab","fromNode":"398bda6a562f91aa","fromSide":"right","toNode":"3eaa2e9be3c596bb","toSide":"left"},
+		{"id":"aac9ea654bcbf942","fromNode":"398bda6a562f91aa","fromSide":"right","toNode":"582356f0011655c1","toSide":"left"},
+		{"id":"e0a87f633874b8bb","fromNode":"398bda6a562f91aa","fromSide":"right","toNode":"766c66570771af81","toSide":"left"},
+		{"id":"87f85d6f53ffec21","fromNode":"398bda6a562f91aa","fromSide":"right","toNode":"a3e8b9a9a07302a7","toSide":"left"},
+		{"id":"fb9247b65747f61d","fromNode":"2953294261cc560d","fromSide":"right","toNode":"e6330c65f8390c10","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+- Người học sẽ được làm quen với các dạng câu hỏi thường gặp như:
+	- chỉ thị từ
+	- Lý do
+	- Nội dung đúng,
+	- ý kiến tác giả
+	- ý nghĩa cụm từ
+- Luyện tập theo các dạng bài đọc tiêu biểu như:
+	- đoản văn
+	- trung văn
+	- ý kiến A-B
+	- trường văn
+	- tìm kiếm thông tin
+- Các sắp xếp này giúp bạn hiểu rõ từng dạng và biết cách xử lý hiệu quả hơn khi gặp trong đề thật.
