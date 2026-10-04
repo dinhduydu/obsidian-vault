@@ -239,7 +239,7 @@
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[4. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
-- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
+- [[Chữa đề/２０２６年/０９月２０２６年/Week3/16092026/1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
 - [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
 - [[1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG]]
