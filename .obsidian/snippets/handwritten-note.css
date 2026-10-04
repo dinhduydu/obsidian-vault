@@ -1,0 +1,132 @@
+/* Obsidian CSS snippet: handwritten-note
+   Enable under Settings → Appearance → CSS snippets.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Patrick+Hand+SC&display=swap');
+
+.handwritten-note {
+  --hand-font: "Patrick Hand", "Comic Sans MS", "Comic Sans", cursive;
+  --ink: #202020;
+  --purple: #7250d8;
+  --yellow: #fff0a6;
+  --blue: #b9e2f8;
+  --lavender: #d8c8ff;
+  --paper: #fffefa;
+
+  font-family: var(--hand-font);
+  color: var(--ink);
+  background: var(--paper);
+  font-size: 1.25rem;
+  line-height: 1.45;
+}
+
+/* Title */
+.handwritten-note h1 {
+  font-family: var(--hand-font);
+  font-size: 2.4rem;
+  font-weight: 600;
+  margin: 0 0 0.35em;
+  display: inline-block;
+  position: relative;
+}
+
+.handwritten-note h1::after {
+  content: "";
+  display: block;
+  height: 9px;
+  width: 100%;
+  margin-top: 5px;
+  background: var(--yellow);
+  border-radius: 8px;
+  transform: rotate(-1deg);
+}
+
+/* Big number / main statement */
+.handwritten-note h2 {
+  font-family: var(--hand-font);
+  color: var(--purple);
+  font-size: 4.4rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 0.95;
+  margin: 0.25em 0 0.15em;
+}
+
+.handwritten-note h3 {
+  font-family: var(--hand-font);
+  font-size: 1.65rem;
+  font-weight: 500;
+  margin-top: 1.4em;
+}
+
+/* Subtitle */
+.handwritten-note > p:first-of-type {
+  font-size: 1.45rem;
+}
+
+/* Question cards */
+.handwritten-note ul {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(150px, 1fr));
+  gap: 18px;
+  padding: 0;
+  margin-top: 1.2em;
+}
+
+.handwritten-note li {
+  list-style: none;
+  min-height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px 16px;
+  border: 2px solid #222;
+  border-radius: 18px;
+  background: var(--lavender);
+  font-size: 1.25rem;
+  line-height: 1.05;
+  transform: rotate(-1deg);
+  box-shadow: 0 1px 0 rgba(0,0,0,.05);
+}
+
+/* Alternate card colors */
+.handwritten-note li:nth-child(4n+2),
+.handwritten-note li:nth-child(4n+3) {
+  background: var(--yellow);
+}
+
+.handwritten-note li:nth-child(4n) {
+  background: var(--blue);
+}
+
+.handwritten-note li:nth-child(3n) {
+  transform: rotate(1deg);
+}
+
+/* Takeaway box */
+.handwritten-note blockquote {
+  border-left: 0;
+  border: 2px solid #222;
+  border-radius: 16px;
+  background: var(--yellow);
+  padding: 14px 20px;
+  font-size: 1.35rem;
+  transform: rotate(-0.5deg);
+}
+
+@media (max-width: 900px) {
+  .handwritten-note ul {
+    grid-template-columns: repeat(2, minmax(140px, 1fr));
+  }
+
+  .handwritten-note h2 {
+    font-size: 3.2rem;
+  }
+}
+
+@media (max-width: 550px) {
+  .handwritten-note ul {
+    grid-template-columns: 1fr;
+  }
+}

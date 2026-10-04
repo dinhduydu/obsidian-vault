@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - handwritten-note
+---
 1. Hiểu mindset Product  
 Không chỉ làm task được giao, mà cần thể hiện tư duy:  
 → “Feature này mang lại giá trị gì cho user?”  
