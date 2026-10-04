@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 391
-- Total Knowledge Items: 4210
-- Correct: 2673
-- Wrong: 3444
-- Accuracy: 43.7%
+- Total Reviews: 395
+- Total Knowledge Items: 4272
+- Correct: 2817
+- Wrong: 3500
+- Accuracy: 44.6%
 
 ## 🚨 Review Queue
 
@@ -25,11 +25,11 @@
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[連続]] | Vocabulary| Score: 45| Wrong: 9
+- [[衝突]] | Kanji| Score: 45| Wrong: 6
 - [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[相続]] | Vocabulary| Score: 40| Wrong: 8
-- [[要点]] | Vocabulary| Score: 40| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 41.8% (Correct 218 / Wrong 303)
-- Collocation: 43.5% (Correct 107 / Wrong 139)
-- CompoundVerb: 41.5% (Correct 117 / Wrong 165)
+- Adverb: 42.9% (Correct 228 / Wrong 303)
+- Collocation: 44.6% (Correct 112 / Wrong 139)
+- CompoundVerb: 41.0% (Correct 118 / Wrong 170)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 39.7% (Correct 175 / Wrong 266)
+- FixedExpression: 39.9% (Correct 174 / Wrong 262)
 - Grammar: 44.9% (Correct 699 / Wrong 857)
-- Kanji: 48.7% (Correct 238 / Wrong 251)
-- Katakana: 45.3% (Correct 106 / Wrong 128)
+- Kanji: 48.0% (Correct 248 / Wrong 269)
+- Katakana: 44.5% (Correct 106 / Wrong 132)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 45.0% (Correct 866 / Wrong 1057)
+- Vocabulary: 47.5% (Correct 985 / Wrong 1090)
 
 ## 📚 Top Grammar
 
@@ -90,26 +90,27 @@
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
+- [[傾向]] (Score: 40)
+- [[消火器]] (Score: 40)
+- [[修繕]] (Score: 35)
 - [[大工]] (Score: 35)
-- [[事実]] (Score: 35)
-- [[落ち込む]] (Score: 35)
-- [[必修パターン]] (Score: 35)
 
 ## 📚 Top Kanji
 
+- [[衝突]] (Score: 45)
 - [[改善]] (Score: 35)
+- [[貯蔵]] (Score: 25)
+- [[滲む]] (Score: 25)
+- [[怠惰]] (Score: 25)
+- [[遭遇]] (Score: 25)
 - [[外科]] (Score: 25)
 - [[衣装]] (Score: 25)
 - [[演説]] (Score: 25)
 - [[寒気]] (Score: 25)
-- [[対照]] (Score: 20)
-- [[行儀作法]] (Score: 20)
-- [[古典]] (Score: 20)
-- [[淡水]] (Score: 20)
-- [[解放]] (Score: 20)
 
 ## 📚 Top Katakana
 
+- [[シンプル]] (Score: 35)
 - [[テクニック]] (Score: 35)
 - [[タイミング]] (Score: 30)
 - [[ファスナー]] (Score: 30)
@@ -119,7 +120,6 @@
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
-- [[マイペース]] (Score: 25)
 
 ## 📚 Top Reading
 
@@ -136,6 +136,7 @@
 
 ## 📚 Top CompoundVerb
 
+- [[巡り会う]] (Score: 35)
 - [[見守る]] (Score: 30)
 - [[わき見運転]] (Score: 25)
 - [[教育実習]] (Score: 25)
@@ -145,7 +146,6 @@
 - [[透き通る]] (Score: 25)
 - [[追い込む]] (Score: 25)
 - [[打ち合わせる]] (Score: 25)
-- [[思い出す]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -226,6 +226,9 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
+- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
+- [[1. Phân Tích THAOLEJP_N2_TEST ĐỊNH KỲ LẦN 3_ TỪ VỰNG]]
 - [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P2)]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 8]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
@@ -234,15 +237,12 @@
 - [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P5)]]
 - [[3. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P6)]]
 - [[4. Phân Tích Bài tập Từ vựng JLPT N2 25092026]]
+- [[5. Phân Tích N2_TEST TỪ VỰNG_BÀI 11]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[4. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
-- [[Chữa đề/２０２６年/０９月２０２６年/Week3/16092026/1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
+- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
 - [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
-- [[1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG]]
-- [[2. Phân Tích Ngữ Pháp]]
-- [[2. Phân Tích kết quả học tập JLPT N2 - Ôn tập ngữ pháp nâng cao (P3)]]
-- [[3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9]]
