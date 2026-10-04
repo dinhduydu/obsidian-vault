@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 395
-- Total Knowledge Items: 4272
-- Correct: 2817
-- Wrong: 3500
+- Total Reviews: 396
+- Total Knowledge Items: 4278
+- Correct: 2822
+- Wrong: 3510
 - Accuracy: 44.6%
 
 ## 🚨 Review Queue
@@ -62,7 +62,7 @@
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 39.9% (Correct 174 / Wrong 262)
-- Grammar: 44.9% (Correct 699 / Wrong 857)
+- Grammar: 44.8% (Correct 704 / Wrong 867)
 - Kanji: 48.0% (Correct 248 / Wrong 269)
 - Katakana: 44.5% (Correct 106 / Wrong 132)
 - Keigo: 45.5% (Correct 30 / Wrong 36)
@@ -227,6 +227,7 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
+- [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
 - [[1. Phân Tích THAOLEJP_N2_TEST ĐỊNH KỲ LẦN 3_ TỪ VỰNG]]
 - [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P2)]]
@@ -245,4 +246,3 @@
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]
-- [[1. Phân Tích ÔN TẬP TỪ VỰNG NGỮ PHÁP_BÀI 8]]
