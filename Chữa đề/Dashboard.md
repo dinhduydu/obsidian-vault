@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 399
-- Total Knowledge Items: 4289
-- Correct: 2849
-- Wrong: 3531
+- Total Reviews: 402
+- Total Knowledge Items: 4297
+- Correct: 2879
+- Wrong: 3566
 - Accuracy: 44.7%
 
 ## 🚨 Review Queue
@@ -19,6 +19,7 @@
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
+- [[さっさと]] | Adverb| Score: 50| Wrong: 7
 - [[むしろ]] | Grammar| Score: 50| Wrong: 7
 - [[〜に限って]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
@@ -29,7 +30,6 @@
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
 - [[〜どころか]] | Grammar| Score: 40| Wrong: 5
-- [[相続]] | Vocabulary| Score: 40| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -47,27 +47,27 @@
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
+- [[さっさと]] (Adverb) Wrong: 7
 - [[大工]] (Vocabulary) Wrong: 7
 - [[事実]] (Vocabulary) Wrong: 7
 - [[〜がち]] (FixedExpression) Wrong: 7
 - [[むしろ]] (Grammar) Wrong: 7
 - [[〜に限って]] (Grammar) Wrong: 7
-- [[そこで]] (Conjunction) Wrong: 7
 
 ## 📈 Category Statistics
 
-- Adverb: 42.9% (Correct 228 / Wrong 304)
-- Collocation: 44.4% (Correct 112 / Wrong 140)
-- CompoundVerb: 41.0% (Correct 118 / Wrong 170)
+- Adverb: 43.5% (Correct 231 / Wrong 300)
+- Collocation: 44.5% (Correct 114 / Wrong 142)
+- CompoundVerb: 40.7% (Correct 118 / Wrong 172)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
 - FixedExpression: 39.6% (Correct 177 / Wrong 270)
 - Grammar: 44.9% (Correct 716 / Wrong 878)
-- Kanji: 48.0% (Correct 248 / Wrong 269)
-- Katakana: 44.5% (Correct 106 / Wrong 132)
+- Kanji: 47.7% (Correct 254 / Wrong 278)
+- Katakana: 44.8% (Correct 108 / Wrong 133)
 - Keigo: 46.3% (Correct 31 / Wrong 36)
-- Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 47.7% (Correct 996 / Wrong 1090)
+- Reading: 32.2% (Correct 66 / Wrong 139)
+- Vocabulary: 47.7% (Correct 1004 / Wrong 1102)
 
 ## 📚 Top Grammar
 
@@ -92,27 +92,26 @@
 - [[無理]] (Score: 40)
 - [[傾向]] (Score: 40)
 - [[消火器]] (Score: 40)
-- [[修繕]] (Score: 35)
-- [[大工]] (Score: 35)
+- [[苦情]] (Score: 35)
+- [[見解]] (Score: 35)
 
 ## 📚 Top Kanji
 
 - [[衝突]] (Score: 45)
+- [[一層]] (Score: 40)
 - [[改善]] (Score: 35)
+- [[頭脳]] (Score: 30)
 - [[貯蔵]] (Score: 25)
 - [[滲む]] (Score: 25)
 - [[怠惰]] (Score: 25)
 - [[遭遇]] (Score: 25)
 - [[外科]] (Score: 25)
 - [[衣装]] (Score: 25)
-- [[演説]] (Score: 25)
-- [[寒気]] (Score: 25)
 
 ## 📚 Top Katakana
 
+- [[タイミング]] (Score: 35)
 - [[シンプル]] (Score: 35)
-- [[テクニック]] (Score: 35)
-- [[タイミング]] (Score: 30)
 - [[ファスナー]] (Score: 30)
 - [[ブーム]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
@@ -120,32 +119,33 @@
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
+- [[マイペース]] (Score: 25)
 
 ## 📚 Top Reading
 
 - [[即時応答]] (Score: 55)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
+- [[勝敗]] (Score: 35)
 - [[筆者の考え]] (Score: 35)
 - [[全体理解]] (Score: 35)
 - [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
+- [[賢い]] (Score: 30)
+- [[刷る]] (Score: 30)
 - [[文脈判断]] (Score: 30)
-- [[全体としての内容]] (Score: 30)
-- [[Phân biệt Ko-So-A trong văn bản]] (Score: 30)
-- [[Loại trừ phương án mang tính tuyệt đối]] (Score: 30)
 
 ## 📚 Top CompoundVerb
 
 - [[巡り会う]] (Score: 35)
 - [[見守る]] (Score: 30)
-- [[わき見運転]] (Score: 25)
+- [[振り向く]] (Score: 25)
+- [[取り上げる]] (Score: 25)
 - [[教育実習]] (Score: 25)
 - [[着脱させる]] (Score: 25)
 - [[出しすぎ]] (Score: 25)
 - [[長引く]] (Score: 25)
 - [[透き通る]] (Score: 25)
 - [[追い込む]] (Score: 25)
-- [[打ち合わせる]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -175,16 +175,16 @@
 
 ## 📚 Top Adverb
 
+- [[さっさと]] (Score: 50)
 - [[どうしても]] (Score: 35)
 - [[とりあえず]] (Score: 35)
 - [[どうも]] (Score: 35)
-- [[さっさと]] (Score: 30)
 - [[つい]] (Score: 30)
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
-- [[一層]] (Score: 30)
 - [[たちまち]] (Score: 25)
 - [[よく]] (Score: 25)
+- [[もっとも]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -228,6 +228,9 @@
 
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[3. Phân Tích N2_TIỀN-HẬU TỐ (P4)]]
+- [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
+- [[5. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P5)]]
+- [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
@@ -243,6 +246,3 @@
 - [[5. Phân Tích N2_TEST TỪ VỰNG_BÀI 11]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
-- [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
-- [[4. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
-- [[5. Phân Tích N2_TEST NGỮ PHÁP_BÀI 1]]
