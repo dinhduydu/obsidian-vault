@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"f10170a223cdff97","type":"group","x":-660,"y":-400,"width":1180,"height":890,"color":"1","label":"⏱️ PHÂN NHÓM 1: THỜI GIAN & TẦN SUẤT (9 cặp từ)"},
+		{"id":"80d4e8c8d29e105d","type":"text","text":"## ⏱️ PHÂN NHÓM 1: THỜI GIAN & TẦN SUẤT\n*Các từ chỉ thời gian, tần suất, tiến trình và thời điểm.*\n\n**Tổng số**: 9 cặp từ đồng nghĩa","x":-620,"y":-360,"width":1100,"height":120,"color":"1"},
+		{"id":"a5a6eee6278dd8b3","type":"text","text":"### #8 この頃 ＝ 最近\n- **Cách đọc**: `このごろ` ＝ `さいきん`\n- **Nghĩa Việt**: **Gần đây; mới đây**\n- **Sắc thái**: *「この頃」thường nhấn mạnh thói quen, trạng thái ở hiện tại; 「最近」chỉ khoảng thời gian ngắn vừa qua.*","x":-620,"y":-220,"width":340,"height":190,"color":"1"},
+		{"id":"cef5ab65a161e2ae","type":"text","text":"### #36 延期 ＝ 後の別の日にやることになる\n- **Cách đọc**: `えんき` ＝ `のちのべつのひにやることになる`\n- **Nghĩa Việt**: **Hoãn lại (dời sang ngày khác)**\n- **Sắc thái**: *Thay đổi lịch trình sang thời điểm sau.*","x":-620,"y":10,"width":340,"height":190,"color":"1"},
+		{"id":"a6799650d75a265c","type":"text","text":"### #64 経つ ＝ 過ぎる\n- **Cách đọc**: `たつ` ＝ `すぎる`\n- **Nghĩa Việt**: **Trôi qua (thời gian)**\n- **Sắc thái**: *Chỉ khoảng thời gian trôi đi.*","x":-620,"y":240,"width":340,"height":190,"color":"1"},
+		{"id":"aa33e464e2728f35","type":"text","text":"### #10 さっき ＝ 少し前\n- **Cách đọc**: `さっき` ＝ `すこしまえ`\n- **Nghĩa Việt**: **Vừa nãy; cách đây một chút**\n- **Sắc thái**: *Dùng trong giao tiếp thân mật, chỉ quá khứ rất gần.*","x":-240,"y":-220,"width":340,"height":190,"color":"1"},
+		{"id":"0ea99aeeebc062ec","type":"text","text":"### #52 次第 ＝ 少しずつ\n- **Cách đọc**: `しだい` ＝ `すこしずつ`\n- **Nghĩa Việt**: **Dần dần; từng chút một**\n- **Sắc thái**: *Chỉ sự thay đổi diễn ra từ từ theo thời gian.*","x":-240,"y":10,"width":340,"height":190,"color":"1"},
+		{"id":"3f8f9a824dae6873","type":"text","text":"### #66 翌年 ＝ 次の年\n- **Cách đọc**: `よくねん` ＝ `つぎのとし`\n- **Nghĩa Việt**: **Năm sau; năm tiếp theo**\n- **Sắc thái**: *Dùng trong văn viết hoặc tường thuật thời gian.*","x":-240,"y":240,"width":340,"height":190,"color":"1"},
+		{"id":"23a7fe44dc3a234a","type":"text","text":"### #35 年中 ＝ いつも\n- **Cách đọc**: `ねんちゅう` ＝ `いつも`\n- **Nghĩa Việt**: **Suốt năm; lúc nào cũng**\n- **Sắc thái**: *「年中」nhấn mạnh tính liên tục suốt cả năm hoặc thói quen lặp đi lặp lại liên tục.*","x":140,"y":-220,"width":340,"height":190,"color":"1"},
+		{"id":"893449e196fa58b5","type":"text","text":"### #68 漸く ＝ やっと\n- **Cách đọc**: `ようやく` ＝ `やっと`\n- **Nghĩa Việt**: **Cuối cùng thì; sau bao nỗ lực**\n- **Sắc thái**: *Diễn tả kết quả đạt được sau thời gian dài chờ đợi/vất vả.*","x":140,"y":240,"width":340,"height":190,"color":"1"},
+		{"id":"4266316646770bdc","type":"text","text":"### #59 相変わらず ＝ 前と同じ\n- **Cách đọc**: `あいかわらず` ＝ `まえとおなじ`\n- **Nghĩa Việt**: **Vẫn như thế; không thay đổi so với trước**\n- **Sắc thái**: *Diễn tả trạng thái duy trì nguyên vẹn qua thời gian.*","x":140,"y":10,"width":340,"height":190,"color":"1"}
+	],
+	"edges":[
+		{"id":"fbe4680c7111e63c","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"a5a6eee6278dd8b3","toSide":"right"},
+		{"id":"7e81e388b3f4aa56","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"aa33e464e2728f35","toSide":"top"},
+		{"id":"89aa98d859419268","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"23a7fe44dc3a234a","toSide":"left"},
+		{"id":"7fb8c4ad27003a92","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"cef5ab65a161e2ae","toSide":"top"},
+		{"id":"dda4e84262197f90","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"0ea99aeeebc062ec","toSide":"top"},
+		{"id":"e20455bb0d6b839e","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"4266316646770bdc","toSide":"top"},
+		{"id":"e2670e75bbde9064","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"a6799650d75a265c","toSide":"top"},
+		{"id":"740c7b54e100fbd3","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"3f8f9a824dae6873","toSide":"top"},
+		{"id":"4270ac4139f2e2f4","fromNode":"80d4e8c8d29e105d","fromSide":"bottom","toNode":"893449e196fa58b5","toSide":"top"}
+	]
+}

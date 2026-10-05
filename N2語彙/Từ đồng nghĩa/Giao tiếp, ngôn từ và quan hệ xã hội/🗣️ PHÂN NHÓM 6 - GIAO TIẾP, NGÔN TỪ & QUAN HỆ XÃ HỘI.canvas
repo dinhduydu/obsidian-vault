@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"731c11e16f5b4212","type":"group","x":-1095,"y":-475,"width":2190,"height":950,"color":"6","label":"🗣️ PHÂN NHÓM 6: GIAO TIẾP, NGÔN TỪ & QUAN HỆ XÃ HỘI"},
+		{"id":"b77ea7fea62d6b76","type":"text","text":"## 🗣️ PHÂN NHÓM 6: GIAO TIẾP, NGÔN TỪ & QUAN HỆ XÃ HỘI\n*Số lượng: 15 cặp từ*","x":-1065,"y":-445,"width":550,"height":130,"color":"6"},
+		{"id":"d547076e5b3deadf","type":"text","text":"### #16 お詫びします（おわびします）\n**＝ 謝ります（あやまります）**\n- **Nghĩa**: Xin lỗi, tạ lỗi\n- **Sắc thái**: *Thể hiện sự hối lỗi*","x":-1065,"y":-265,"width":380,"height":200,"color":"6"},
+		{"id":"831fb1ecb0f7c25f","type":"text","text":"### #87 見解（けんかい）\n**＝ 考え方**\n- **Nghĩa**: Quan điểm, góc nhìn\n- **Sắc thái**: *Cách suy nghĩ cá nhân*","x":-1065,"y":-25,"width":380,"height":200,"color":"6"},
+		{"id":"6fe05ec14bb7cf4a","type":"text","text":"### #91 苦情（くじょう）\n**＝ 文句（もんく）**\n- **Nghĩa**: Phàn nàn, khiếu nại\n- **Sắc thái**: *Tỏ thái độ không hài lòng*","x":-645,"y":-25,"width":380,"height":200,"color":"6"},
+		{"id":"4821b5c4bb9dbbd8","type":"text","text":"### #93 納得できる\n**＝ もっともだと思う**\n- **Nghĩa**: Thấu hiểu, đồng tình\n- **Sắc thái**: *Chấp nhận lý do*","x":-225,"y":-25,"width":380,"height":200,"color":"6"},
+		{"id":"d2ceb64bae65c9c9","type":"text","text":"### #114 おしゃべり\n**＝ よく話す**\n- **Nghĩa**: Tán gẫu, nói nhiều\n- **Sắc thái**: *Nói chuyện phiếm*","x":195,"y":-25,"width":380,"height":200,"color":"6"},
+		{"id":"859db4208126653c","type":"text","text":"### #120 相互（そうご）\n**＝ 互い（たがい）**\n- **Nghĩa**: Hỗ trợ lẫn nhau\n- **Sắc thái**: *Quan điểm hai chiều*","x":615,"y":-25,"width":380,"height":200,"color":"6"},
+		{"id":"1d260c18ca0d1623","type":"text","text":"### #52 知識が乏しい\n**＝ 知識がほとんどない**\n- **Nghĩa**: Tri thức hạn hẹp\n- **Sắc thái**: *Hiểu biết ít*","x":-645,"y":-265,"width":380,"height":200,"color":"6"},
+		{"id":"2ec1bcffeb8b1329","type":"text","text":"### #55 囁く（ささやく）\n**＝ 小さな声で言う**\n- **Nghĩa**: Thì thầm\n- **Sắc thái**: *Nói nhỏ vào tai*","x":-225,"y":-265,"width":380,"height":200,"color":"6"},
+		{"id":"2b1687ccdd8d8f32","type":"text","text":"### #56 敬う（うやまう）\n**＝ 尊敬する（そんけいする）**\n- **Nghĩa**: Tôn kính, kính trọng\n- **Sắc thái**: *Kính trọng người trên*","x":195,"y":-265,"width":380,"height":200,"color":"6"},
+		{"id":"2a98d1ef227b8cd6","type":"text","text":"### #72 言付けを頼む\n**＝ 伝言を頼む（でんごんをたのむ）**\n- **Nghĩa**: Nhờ nhắn lời\n- **Sắc thái**: *Truyền đạt thông điệp*","x":615,"y":-265,"width":380,"height":200,"color":"6"},
+		{"id":"f737717beeeea026","type":"text","text":"### #137 連絡する\n**＝ つながる**\n- **Nghĩa**: Liên lạc, kết nối\n- **Sắc thái**: *Giữ trao đổi thông tin*","x":-1065,"y":215,"width":380,"height":200,"color":"6"},
+		{"id":"61ae4dd75eec6210","type":"text","text":"### #164 手を取る / 丁寧に\n**＝ しっかりと**\n- **Nghĩa**: Cẩn thận, hướng dẫn tận tình\n- **Sắc thái**: *Hỗ trợ sát sao*","x":-645,"y":215,"width":380,"height":200,"color":"6"},
+		{"id":"c2111c354e1a2f98","type":"text","text":"### #174 トピック\n**＝ 話題（わだい）**\n- **Nghĩa**: Chủ đề câu chuyện\n- **Sắc thái**: *Nội dung thảo luận*","x":-225,"y":215,"width":380,"height":200,"color":"6"},
+		{"id":"a4b5b94b38e14afd","type":"text","text":"### #176 担がれる（かつがれる）\n**＝ 騙される（だまされる）**\n- **Nghĩa**: Bị lừa gạt\n- **Sắc thái**: *Bị người khác xỏ mũi*","x":195,"y":215,"width":380,"height":200,"color":"6"},
+		{"id":"501a45adb6e81806","type":"text","text":"### #185 縁（えん）\n**＝ 関係（かんけい）**\n- **Nghĩa**: Mối quan hệ, duyên nợ\n- **Sắc thái**: *Sự gắn kết con người*","x":615,"y":215,"width":380,"height":200,"color":"6"}
+	],
+	"edges":[
+		{"id":"cb5e3b4b876c18d7","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"d547076e5b3deadf","toSide":"top"},
+		{"id":"eb0fbb24e746dfbe","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"1d260c18ca0d1623","toSide":"top"},
+		{"id":"7c481ed3685037ac","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"2ec1bcffeb8b1329","toSide":"top"},
+		{"id":"f828a1b3465fdcce","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"2b1687ccdd8d8f32","toSide":"top"},
+		{"id":"f89751d7e43c5ad2","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"2a98d1ef227b8cd6","toSide":"top"},
+		{"id":"d62e91beeee75893","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"831fb1ecb0f7c25f","toSide":"top"},
+		{"id":"181763ee61a7a45c","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"6fe05ec14bb7cf4a","toSide":"top"},
+		{"id":"c361295c2c4d40d5","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"4821b5c4bb9dbbd8","toSide":"top"},
+		{"id":"44711fd10f19c3b3","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"d2ceb64bae65c9c9","toSide":"top"},
+		{"id":"74a037ff86bdef36","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"859db4208126653c","toSide":"top"},
+		{"id":"e7db32652253b6ce","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"f737717beeeea026","toSide":"top"},
+		{"id":"160f44a1bc0956d6","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"61ae4dd75eec6210","toSide":"top"},
+		{"id":"0048363292bcc928","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"c2111c354e1a2f98","toSide":"top"},
+		{"id":"62cb29357f13849e","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"a4b5b94b38e14afd","toSide":"top"},
+		{"id":"b93a69024a92a130","fromNode":"b77ea7fea62d6b76","fromSide":"bottom","toNode":"501a45adb6e81806","toSide":"top"},
+		{"id":"6d9b8bff9eaf30f2","fromNode":"d547076e5b3deadf","fromSide":"right","toNode":"2a98d1ef227b8cd6","toSide":"left","color":"5","label":"Xin lỗi & Nhắn lời"}
+	]
+}

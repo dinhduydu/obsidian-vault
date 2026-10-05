@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"d5b34a0defa3d9fa","type":"group","x":-590,"y":-675,"width":1180,"height":1350,"color":"3","label":"❤️ PHÂN NHÓM 3: TRẠNG THÁI & CẢM XÚC (15 cặp từ)"},
+		{"id":"054cbe059243acb9","type":"text","text":"### #61 短気 ＝ すぐ怒る\n- **Cách đọc**: `たんき` ＝ `すぐおこる`\n- **Nghĩa Việt**: **Nóng tính; dễ nổi giận**\n- **Sắc thái**: *Tính cách thiếu kiên nhẫn, mau giận.*","x":-550,"y":425,"width":340,"height":190,"color":"3"},
+		{"id":"6b1450cf8bc854a8","type":"text","text":"### #67 草臥れる ＝ 疲れる\n- **Cách đọc**: `くたびれる` ＝ `つかれる`\n- **Nghĩa Việt**: **Mệt mỏi; kiệt sức**\n- **Sắc thái**: *「草臥れる」thường dùng cho thể lực rã rời sau quãng đường/công việc dài.*","x":-170,"y":425,"width":340,"height":190,"color":"3"},
+		{"id":"580756fda9d054bc","type":"text","text":"### #21 信じる ＝ 本当だと思う\n- **Cách đọc**: `しんじる` ＝ `ほんとうだとおもう`\n- **Nghĩa Việt**: **Tin tưởng là thật**\n- **Sắc thái**: *Đặt niềm tin vào sự thật hoặc con người.*","x":-550,"y":-35,"width":340,"height":190,"color":"3"},
+		{"id":"7667b473cb447082","type":"text","text":"### #38 得意 ＝ 上手\n- **Cách đọc**: `とくい` ＝ `じょうず`\n- **Nghĩa Việt**: **Giỏi; sở trường**\n- **Sắc thái**: *「得意」thường tự nói về bản thân; 「上手」dùng khen người khác.*","x":-170,"y":-35,"width":340,"height":190,"color":"3"},
+		{"id":"c34cbb3ecf8a71d5","type":"text","text":"## ❤️ PHÂN NHÓM 3: TRẠNG THÁI & CẢM XÚC\n*Các tính từ, từ chỉ cảm xúc, tính cách và trạng thái cơ thể.*\n\n**Tổng số**: 15 cặp từ đồng nghĩa","x":-550,"y":-635,"width":1100,"height":120,"color":"3"},
+		{"id":"aca12ea71bf69b71","type":"text","text":"### #72 退屈 ＝ つまらない\n- **Cách đọc**: `たいくつ` ＝ `つまらない`\n- **Nghĩa Việt**: **Chán nản; tẻ nhạt**\n- **Sắc thái**: *Cảm giác không có gì thú vị để làm.*","x":210,"y":425,"width":340,"height":190,"color":"3"},
+		{"id":"af84fdfe3aee5ce3","type":"text","text":"### #5 がっかり ＝ 残念\n- **Cách đọc**: `がっかり` ＝ `ざんねん`\n- **Nghĩa Việt**: **Thất vọng; đáng tiếc**\n- **Sắc thái**: *「がっかり」chỉ cảm giác hụt hẫng trực tiếp của bản thân.*","x":-550,"y":-495,"width":340,"height":190,"color":"3"},
+		{"id":"f62fb3a07aec3fca","type":"text","text":"### #6 きつい ＝ 大変\n- **Cách đọc**: `きつい` ＝ `たいへん`\n- **Nghĩa Việt**: **Vất vả; chật chội; vất vả khó khăn**\n- **Sắc thái**: *Áp lực về sức lực hoặc thời gian.*","x":-170,"y":-495,"width":340,"height":190,"color":"3"},
+		{"id":"bc6f27a5050f7294","type":"text","text":"### #13 そっと ＝ 静か\n- **Cách đọc**: `そっと` ＝ `しずか`\n- **Nghĩa Việt**: **Nhẹ nhàng; khẽ khàng**\n- **Sắc thái**: *Hành động nhẹ nhàng để không gây tiếng động hay chú ý.*","x":210,"y":-495,"width":340,"height":190,"color":"3"},
+		{"id":"a740f1dbb3ac3d68","type":"text","text":"### #40 恐ろしい ＝ 怖い\n- **Cách đọc**: `おそろしい` ＝ `こわい`\n- **Nghĩa Việt**: **Đáng sợ; kinh hãi**\n- **Sắc thái**: *Mức độ sợ hãi lớn do mối nguy hiểm gây ra.*","x":210,"y":-35,"width":340,"height":190,"color":"3"},
+		{"id":"130c891e32800dbe","type":"text","text":"### #41 感謝 ＝ お礼\n- **Cách đọc**: `かんしゃ` ＝ `おれい`\n- **Nghĩa Việt**: **Cảm ơn; biết ơn**\n- **Sắc thái**: *「感謝」chỉ tình cảm biết ơn sâu sắc; 「お礼」chỉ lời nói/món quà cảm ơn.*","x":-550,"y":195,"width":340,"height":190,"color":"3"},
+		{"id":"c7d4f9dd51a6285d","type":"text","text":"### #53 気に入り ＝ 好き\n- **Cách đọc**: `きにいり` ＝ `すき`\n- **Nghĩa Việt**: **Yêu thích; vừa ý**\n- **Sắc thái**: *Món đồ hoặc điều mà mình cảm thấy vừa lòng.*","x":-170,"y":195,"width":340,"height":190,"color":"3"},
+		{"id":"ee85159a7ca4349a","type":"text","text":"### #58 疑う ＝ 本当ではないと思っている\n- **Cách đọc**: `うたがう` ＝ `ほんとうではないとおもっている`\n- **Nghĩa Việt**: **Nghi ngờ; không tin là thật**\n- **Sắc thái**: *Cảm giác hoài nghi về sự thật.*","x":210,"y":195,"width":340,"height":190,"color":"3"},
+		{"id":"860d5991eae5fbb5","type":"text","text":"### #15 ぺこぺこ ＝ 空いてる\n- **Cách đọc**: `ぺこぺこ` ＝ `すいてる`\n- **Nghĩa Việt**: **Đói meo (bụng cồn cào)**\n- **Sắc thái**: *Từ tượng thanh diễn tả bụng rất đói.*","x":-550,"y":-265,"width":340,"height":190,"color":"3"},
+		{"id":"679fc3a42be7ca95","type":"text","text":"### #16 ぺらぺら ＝ 上手に話せる\n- **Cách đọc**: `ぺらぺら` ＝ `じょうずにはなせる`\n- **Nghĩa Việt**: **Nói trôi chảy; nói giỏi**\n- **Sắc thái**: *Khả năng nói ngoại ngữ hoặc giao tiếp lưu khoát.*","x":-170,"y":-265,"width":340,"height":190,"color":"3"},
+		{"id":"293061d15337ccb0","type":"text","text":"### #18 不安 ＝ 心配\n- **Cách đọc**: `ふあん` ＝ `しんぱい`\n- **Nghĩa Việt**: **Lo âu; lo lắng**\n- **Sắc thái**: *「不安」chỉ sự băn khoăn về tương lai chưa rõ ràng.*","x":210,"y":-265,"width":340,"height":190,"color":"3"}
+	],
+	"edges":[
+		{"id":"2cbdb3a14c8426c3","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"054cbe059243acb9","toSide":"top"},
+		{"id":"468bb2ed5fd58b75","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"6b1450cf8bc854a8","toSide":"top"},
+		{"id":"c1ffb13ccea6020a","fromNode":"f62fb3a07aec3fca","fromSide":"bottom","toNode":"6b1450cf8bc854a8","toSide":"top","color":"6","label":"Trạng thái mệt mỏi/vất vả (大変/疲れる)"},
+		{"id":"cd8fd97c48e4bcb6","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"580756fda9d054bc","toSide":"top"},
+		{"id":"78045ac1a0418687","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"7667b473cb447082","toSide":"top"},
+		{"id":"a5d004f636e1eec3","fromNode":"679fc3a42be7ca95","fromSide":"bottom","toNode":"7667b473cb447082","toSide":"top","color":"6","label":"Liên quan khả năng giỏi (上手に話せる/上手)"},
+		{"id":"cecfd1e745ccc487","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"af84fdfe3aee5ce3","toSide":"right"},
+		{"id":"37daecb092b5940a","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"f62fb3a07aec3fca","toSide":"top"},
+		{"id":"acb4b2fe390548e2","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"bc6f27a5050f7294","toSide":"left"},
+		{"id":"905d4a5458069f97","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"860d5991eae5fbb5","toSide":"top"},
+		{"id":"c332d73911192ce3","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"679fc3a42be7ca95","toSide":"top"},
+		{"id":"be62463127a93fea","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"293061d15337ccb0","toSide":"top"},
+		{"id":"afe0343647466766","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"a740f1dbb3ac3d68","toSide":"top"},
+		{"id":"2cf8b5ab0c9a5cfe","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"130c891e32800dbe","toSide":"top"},
+		{"id":"e7643d9ef0672e78","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"c7d4f9dd51a6285d","toSide":"top"},
+		{"id":"91867be3d860bd73","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"ee85159a7ca4349a","toSide":"top"},
+		{"id":"46141058f8c9ce02","fromNode":"c34cbb3ecf8a71d5","fromSide":"bottom","toNode":"aca12ea71bf69b71","toSide":"top"},
+		{"id":"4cd8ee808b6c51db","fromNode":"293061d15337ccb0","fromSide":"bottom","toNode":"a740f1dbb3ac3d68","toSide":"top","color":"6","label":"Tâm lý lo âu & sợ hãi (心配/怖い)"}
+	]
+}

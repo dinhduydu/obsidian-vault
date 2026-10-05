@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"8b1ec79db8d8b541","type":"group","x":-780,"y":-560,"width":1560,"height":1120,"color":"4","label":"📊 PHÂN NHÓM 4: MỨC ĐỘ, SỐ LƯỢNG & TÍNH CHẤT (16 cặp từ)"},
+		{"id":"51b134f4c2aabb77","type":"text","text":"### #63 約 ＝ 大体\n- **Cách đọc**: `やく` ＝ `だいたい`\n- **Nghĩa Việt**: **Khoảng; ước chừng**\n- **Sắc thái**: *Chỉ con số ước lượng gần đúng (ví dụ: khoảng 10km).*","x":-360,"y":310,"width":340,"height":190,"color":"4"},
+		{"id":"c31201d027d392b8","type":"text","text":"### #48 楽 ＝ 簡単\n- **Cách đọc**: `らく` ＝ `かんたん`\n- **Nghĩa Việt**: **Đơn giản; nhàn hạ; thoải mái**\n- **Sắc thái**: *Không tốn sức lực hay thời gian.*","x":-360,"y":80,"width":340,"height":190,"color":"4"},
+		{"id":"26f4d61d773a6b08","type":"text","text":"### #56 混雑 ＝ 客がたくさんいる\n- **Cách đọc**: `こんざつ` ＝ `きゃくがたくさんいる`\n- **Nghĩa Việt**: **Đông đúc; tắc nghẽn**\n- **Sắc thái**: *Tình trạng đông người, chật chội.*","x":20,"y":80,"width":340,"height":190,"color":"4"},
+		{"id":"c415d7a4b45865b9","type":"text","text":"### #57 減る ＝ 少なくなる\n- **Cách đọc**: `へる` ＝ `すくなくなる`\n- **Nghĩa Việt**: **Giảm đi; suy giảm**\n- **Sắc thái**: *Số lượng hay mức độ ít đi.*","x":400,"y":80,"width":340,"height":190,"color":"4"},
+		{"id":"ed516098028dfc07","type":"text","text":"### #65 絶対 ＝ 必ず\n- **Cách đọc**: `ぜったい` ＝ `かならず`\n- **Nghĩa Việt**: **Nhất định; tuyệt đối**\n- **Sắc thái**: *Khẳng định chắc chắn 100%.*","x":20,"y":310,"width":340,"height":190,"color":"4"},
+		{"id":"68561ba8bbf65e9b","type":"text","text":"### #71 輝く ＝ 光る\n- **Cách đọc**: `かがやく` ＝ `ひかる`\n- **Nghĩa Việt**: **Sáng lấp lánh; phát sáng**\n- **Sắc thái**: * Tỏa ra ánh sáng rực rỡ.*","x":400,"y":310,"width":340,"height":190,"color":"4"},
+		{"id":"c8d7e1d1df8e580c","type":"text","text":"### #60 眩しい ＝ 明るすぎる\n- **Cách đọc**: `まぶしい` ＝ `あかるすぎる`\n- **Nghĩa Việt**: **Chói mắt; quá sáng**\n- **Sắc thái**: *Ánh sáng vượt mức chịu đựng của mắt.*","x":-740,"y":310,"width":340,"height":190,"color":"4"},
+		{"id":"7589d50c3f236bb0","type":"text","text":"### #9 サイズ ＝ 大きさ\n- **Cách đọc**: `さいず` ＝ `おおきさ`\n- **Nghĩa Việt**: **Kích thước; cỡ**\n- **Sắc thái**: *Độ lớn của đồ vật/trang phục.*","x":20,"y":-380,"width":340,"height":190,"color":"4"},
+		{"id":"67a9db127f69cdaf","type":"text","text":"### #20 余り ＝ 多すぎて残りました\n- **Cách đọc**: `あまり` ＝ `おおすぎてのこりました`\n- **Nghĩa Việt**: **Dư thừa; còn sót lại nhiều**\n- **Sắc thái**: *Phần vượt quá nhu cầu nên còn lại.*","x":400,"y":-380,"width":340,"height":190,"color":"4"},
+		{"id":"5d44b2fd9721037d","type":"text","text":"### #23 全て ＝ 全部\n- **Cách đọc**: `すべて` ＝ `ぜんぶ`\n- **Nghĩa Việt**: **Tất cả; toàn bộ**\n- **Sắc thái**: *「全て」mang tính trang trọng hơn 「全部」.*","x":-360,"y":-150,"width":340,"height":190,"color":"4"},
+		{"id":"7f1c95ed218d6e7d","type":"text","text":"### #27 単純 ＝ 分かりやすい\n- **Cách đọc**: `たんじゅん` ＝ `わかりやすい`\n- **Nghĩa Việt**: **Đơn giản; dễ hiểu**\n- **Sắc thái**: *Không phức tạp, rõ ràng.*","x":20,"y":-150,"width":340,"height":190,"color":"4"},
+		{"id":"87c2f91e65def1f1","type":"text","text":"### #32 多少 ＝ ちょっと\n- **Cách đọc**: `たしょう` ＝ `ちょっと`\n- **Nghĩa Việt**: **Một chút; hơi hơi**\n- **Sắc thái**: *「多少」dùng trong văn viết/trang trọng hơn 「ちょっと」.*","x":400,"y":-150,"width":340,"height":190,"color":"4"},
+		{"id":"a190d7335318aa27","type":"text","text":"## 📊 PHÂN NHÓM 4: MỨC ĐỘ, SỐ LƯỢNG & TÍNH CHẤT\n*Các trạng từ, tính từ chỉ mức độ, quy mô, số lượng và thuộc tính.*\n\n**Tổng số**: 16 cặp từ đồng nghĩa","x":-740,"y":-520,"width":1480,"height":120,"color":"4"},
+		{"id":"378cf2d48f27be2a","type":"text","text":"### #1 あらゆる ＝ 全部\n- **Cách đọc**: `あらゆる` ＝ `ぜんぶ`\n- **Nghĩa Việt**: **Tất cả; mỗi mọi**\n- **Sắc thái**: *「あらゆる」đi trực tiếp với danh từ (mọi khía cạnh); 「全部」chỉ toàn bộ số lượng.*","x":-740,"y":-380,"width":340,"height":190,"color":"4"},
+		{"id":"96e32f3ad84a3893","type":"text","text":"### #2 おかしな ＝ へんな\n- **Cách đọc**: `おかしな` ＝ `へんな`\n- **Nghĩa Việt**: **Kỳ lạ; kỳ quái**\n- **Sắc thái**: *Khác thường, có điểm gây buồn cười hoặc nghi vấn.*","x":-360,"y":-380,"width":340,"height":190,"color":"4"},
+		{"id":"53887d7f28dfa64f","type":"text","text":"### #22 全く ＝ 全然\n- **Cách đọc**: `まったく` ＝ `ぜんぜん`\n- **Nghĩa Việt**: **Hoàn toàn (không)**\n- **Sắc thái**: *Thường đi với thể phủ định để nhấn mạnh sự không có gì.*","x":-740,"y":-150,"width":340,"height":190,"color":"4"},
+		{"id":"929a5ba369b21560","type":"text","text":"### #37 当然 ＝ もちろん\n- **Cách đọc**: `とうぜん` ＝ `もちろん`\n- **Nghĩa Việt**: **Đương nhiên; tất nhiên**\n- **Sắc thái**: *Hiển nhiên, không có gì phải nghi ngờ.*","x":-740,"y":80,"width":340,"height":190,"color":"4"}
+	],
+	"edges":[
+		{"id":"e2e5b3a2f89cdb72","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"51b134f4c2aabb77","toSide":"top"},
+		{"id":"09955080e72aa5b9","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"c31201d027d392b8","toSide":"top"},
+		{"id":"088cf02d76d62976","fromNode":"7f1c95ed218d6e7d","fromSide":"bottom","toNode":"c31201d027d392b8","toSide":"top","color":"6","label":"Tính chất đơn giản (分かりやすい/簡単)"},
+		{"id":"a5d40ccc8e7e8674","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"26f4d61d773a6b08","toSide":"top"},
+		{"id":"3cd1f04105ed7bda","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"c415d7a4b45865b9","toSide":"top"},
+		{"id":"28b3ac92e8f9c12d","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"ed516098028dfc07","toSide":"top"},
+		{"id":"f59fa6312451354b","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"68561ba8bbf65e9b","toSide":"top"},
+		{"id":"5f2d861a8e930077","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"c8d7e1d1df8e580c","toSide":"top"},
+		{"id":"397497c9f5366ee4","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"7589d50c3f236bb0","toSide":"top"},
+		{"id":"922b5df75440f129","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"67a9db127f69cdaf","toSide":"left"},
+		{"id":"f22da75acdb91276","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"5d44b2fd9721037d","toSide":"top"},
+		{"id":"42986de8fd02a2b8","fromNode":"378cf2d48f27be2a","fromSide":"bottom","toNode":"5d44b2fd9721037d","toSide":"top","color":"6","label":"Cùng đồng nghĩa 全部 (Tất cả)"},
+		{"id":"f0c4b63972ed6d5c","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"7f1c95ed218d6e7d","toSide":"top"},
+		{"id":"4d56fd6a139f9dbe","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"87c2f91e65def1f1","toSide":"top"},
+		{"id":"db61aac062958494","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"378cf2d48f27be2a","toSide":"right"},
+		{"id":"4a7f10d56817b3fa","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"96e32f3ad84a3893","toSide":"top"},
+		{"id":"032e96f56cae65fe","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"53887d7f28dfa64f","toSide":"top"},
+		{"id":"023a4639487d9a0b","fromNode":"a190d7335318aa27","fromSide":"bottom","toNode":"929a5ba369b21560","toSide":"top"}
+	]
+}
