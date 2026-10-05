@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"cca3b0b490a560df","type":"group","x":-1040,"y":-200,"width":960,"height":780,"label":"Đoản văn"},
+		{"id":"28ee8b570454b366","type":"text","text":"１ 悩みを抱えているとき、自分一人で悩むより他の人に相談したほうがいい。\n","x":736,"y":-36,"width":644,"height":50},
+		{"id":"4ef4e15a938cc26f","type":"text","text":"２ 悩んでいる人を慰めるにはその人の気持ちを考えて適切な言葉を選ぶべきだ。\n","x":736,"y":35,"width":644,"height":50},
+		{"id":"2bc52502e0d3caa7","type":"text","text":"４ 人は頑張りすぎると、悩みやストレスがたまるので、普段からのリラックスが必要だ。","x":736,"y":180,"width":704,"height":50},
+		{"id":"93917ec2c5d75d02","type":"text","text":"３ 一生懸命頑張っている人に頑張りすぎないようにアドバイスする必要がある。\n","x":736,"y":117,"width":644,"height":50},
+		{"id":"2e301b45c5fd72bc","type":"text","text":"この文章で筆者が一番言いたいことはどれか。","x":120,"y":-43,"width":545,"height":65},
+		{"id":"208e94252b724a29","type":"text","text":"どんな人でも、悩みを抱えているものです。","x":-1020,"y":-180,"width":400,"height":70},
+		{"id":"29533031fd6608d9","type":"text","text":"でもそれが極度に高まってしまうと「この悩み、誰に言ってもわかってもらえない、自分ひとりだけのもの」と、その気持ちを抱え込んでしまいます。","x":-1020,"y":-60,"width":620,"height":80},
+		{"id":"0ebe92d456dfd570","type":"text","text":"大事なのは、相手の気持ちを孤立させないこと。","x":-1020,"y":80,"width":460,"height":50},
+		{"id":"d5a3c80027cd4483","type":"text","text":"大切な人が悩んでいたら、「頑張って」よりも「頑張りすぎないで」と言ってあげましょう。","x":-1020,"y":180,"width":740,"height":60},
+		{"id":"c98f95b978ad979f","type":"text","text":"そうすることで、「あなたはいつも頑張っている」と相手の自尊心を満たすことができると同時に、「頑張らなくてもあなたには価値があるんだよ」という気持ちも伝えられるのです。","x":-1020,"y":420,"width":760,"height":80}
+	],
+	"edges":[
+		{"id":"8bb3ea17fb888928","fromNode":"2e301b45c5fd72bc","fromSide":"right","toNode":"28ee8b570454b366","toSide":"left"},
+		{"id":"4d5a4120a83793d1","fromNode":"2e301b45c5fd72bc","fromSide":"right","toNode":"4ef4e15a938cc26f","toSide":"left"},
+		{"id":"ad2adb54b1e00732","fromNode":"2e301b45c5fd72bc","fromSide":"right","toNode":"93917ec2c5d75d02","toSide":"left"},
+		{"id":"8704cb089cd16f87","fromNode":"2e301b45c5fd72bc","fromSide":"right","toNode":"2bc52502e0d3caa7","toSide":"left"},
+		{"id":"006dadcaee1f8e38","fromNode":"cca3b0b490a560df","fromSide":"right","toNode":"2e301b45c5fd72bc","toSide":"left"}
+	]
+}
