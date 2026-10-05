@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4e66103b665412e3","type":"file","file":"Pasted image 20260410081531.png","x":-1331,"y":228,"width":400,"height":224},
+		{"id":"4e959bc4fd83b903","type":"text","text":" によって","x":546,"y":-314,"width":250,"height":60},
+		{"id":"f4eab16c3c360095","type":"text","text":"によって","x":-579,"y":-317,"width":250,"height":59},
+		{"id":"6e4877a2eced861f","type":"text","text":"によると","x":-559,"y":173,"width":250,"height":60},
+		{"id":"70e7308d73f86a9c","type":"text","text":"によれば","x":-559,"y":433,"width":250,"height":60},
+		{"id":"d94c68bca5a3bbbb","type":"text","text":"にくると","x":-559,"y":313,"width":250,"height":60},
+		{"id":"70c2ca005310c653","type":"text","text":"Nによると","x":-77,"y":131,"width":250,"height":60},
+		{"id":"27f3b843a5324271","type":"text","text":"Cho biết nguồn tin trong câu kể lại đều nghe được","x":-52,"y":283,"width":250,"height":60},
+		{"id":"72d927d3ec436c75","type":"text","text":"天気予報によると、明日台風が関西に近づくらしい。","x":-79,"y":418,"width":442,"height":69},
+		{"id":"86f053206472f7d8","type":"text","text":"Lấy A làm phương thức","x":1081,"y":-492,"width":250,"height":60},
+		{"id":"cde5e716883015ac","type":"text","text":"A là nguyên nhân","x":1081,"y":-258,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6caf10f2e2c84094","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"f4eab16c3c360095","toSide":"left","label":"によって"},
+		{"id":"4e901eb61d31e356","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"6e4877a2eced861f","toSide":"left","label":"によると"},
+		{"id":"f17043e7637e7ad4","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"d94c68bca5a3bbbb","toSide":"left","label":"にくると"},
+		{"id":"fde2c3f3eb3a7ae9","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"70e7308d73f86a9c","toSide":"left","label":"によれば"},
+		{"id":"cbb87cb8c1c0d40f","fromNode":"4e959bc4fd83b903","fromSide":"right","toNode":"86f053206472f7d8","toSide":"left","label":" によって"},
+		{"id":"1e5ec38cb5c5082a","fromNode":"4e959bc4fd83b903","fromSide":"right","toNode":"cde5e716883015ac","toSide":"left","label":" によって"},
+		{"id":"d6cba9726da8e923","fromNode":"f4eab16c3c360095","fromSide":"right","toNode":"4e959bc4fd83b903","toSide":"left","label":" によって"},
+		{"id":"3b34b4452f576294","fromNode":"6e4877a2eced861f","fromSide":"right","toNode":"70c2ca005310c653","toSide":"left","label":"によると"},
+		{"id":"8a2f6547695be261","fromNode":"6e4877a2eced861f","fromSide":"right","toNode":"72d927d3ec436c75","toSide":"left","label":"によると"},
+		{"id":"8376760b805cf384","fromNode":"6e4877a2eced861f","fromSide":"right","toNode":"27f3b843a5324271","toSide":"left","label":"によると"}
+	]
+}

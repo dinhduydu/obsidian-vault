@@ -15,7 +15,7 @@
 		{"id":"0574f9942e5fed26","type":"text","text":"Vたとたん（に）","x":-340,"y":-1219,"width":250,"height":72},
 		{"id":"29109bc0cdccc5ec","type":"file","file":"Pasted image 20260410085131.png","x":-900,"y":-1700,"width":400,"height":223},
 		{"id":"b729eb198be3742b","type":"text","text":"あげく","x":-819,"y":-464,"width":250,"height":60},
-		{"id":"e842d12a9fdf1adc","type":"file","file":"N2文法/挙句・すえ/挙句.canvas","x":-1286,"y":-1080,"width":400,"height":400}
+		{"id":"e842d12a9fdf1adc","type":"file","file":"N2文法/挙句・すえ/あげく.canvas","x":-1286,"y":-1080,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"4cc897dda400354e","fromNode":"670cadcc24748ef9","fromSide":"left","toNode":"04eddd31fc605a28","toSide":"right","label":"Vたきり"},

@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 396
-- Total Knowledge Items: 4278
-- Correct: 2822
-- Wrong: 3510
+- Total Reviews: 398
+- Total Knowledge Items: 4289
+- Correct: 2839
+- Wrong: 3531
 - Accuracy: 44.6%
 
 ## 🚨 Review Queue
@@ -14,21 +14,21 @@
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
+- [[〜まい]] | Grammar| Score: 55| Wrong: 8
 - [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
 - [[むしろ]] | Grammar| Score: 50| Wrong: 7
 - [[〜に限って]] | Grammar| Score: 50| Wrong: 7
-- [[〜まい]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[連続]] | Vocabulary| Score: 45| Wrong: 9
 - [[衝突]] | Kanji| Score: 45| Wrong: 6
-- [[〜がち]] | Grammar| Score: 45| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 45| Wrong: 6
 - [[〜次第]] | Grammar| Score: 42| Wrong: 6
+- [[〜どころか]] | Grammar| Score: 40| Wrong: 5
 - [[相続]] | Vocabulary| Score: 40| Wrong: 8
 
 ## 🔥 Top Weak Points
@@ -42,45 +42,45 @@
 - [[相続]] (Vocabulary) Wrong: 8
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
+- [[〜まい]] (Grammar) Wrong: 8
 - [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[〜ざるを得ない]] (Grammar) Wrong: 8
 - [[大工]] (Vocabulary) Wrong: 7
 - [[事実]] (Vocabulary) Wrong: 7
+- [[〜がち]] (FixedExpression) Wrong: 7
 - [[むしろ]] (Grammar) Wrong: 7
 - [[〜に限って]] (Grammar) Wrong: 7
-- [[〜がち]] (Grammar) Wrong: 7
-- [[〜まい]] (Grammar) Wrong: 7
 - [[そこで]] (Conjunction) Wrong: 7
 
 ## 📈 Category Statistics
 
-- Adverb: 42.9% (Correct 228 / Wrong 303)
-- Collocation: 44.6% (Correct 112 / Wrong 139)
+- Adverb: 42.9% (Correct 228 / Wrong 304)
+- Collocation: 44.4% (Correct 112 / Wrong 140)
 - CompoundVerb: 41.0% (Correct 118 / Wrong 170)
 - Conjunction: 33.3% (Correct 54 / Wrong 108)
 - Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 39.9% (Correct 174 / Wrong 262)
-- Grammar: 44.8% (Correct 704 / Wrong 867)
+- FixedExpression: 39.6% (Correct 177 / Wrong 270)
+- Grammar: 44.9% (Correct 716 / Wrong 878)
 - Kanji: 48.0% (Correct 248 / Wrong 269)
 - Katakana: 44.5% (Correct 106 / Wrong 132)
-- Keigo: 45.5% (Correct 30 / Wrong 36)
+- Keigo: 46.3% (Correct 31 / Wrong 36)
 - Reading: 31.1% (Correct 57 / Wrong 126)
-- Vocabulary: 47.5% (Correct 985 / Wrong 1090)
+- Vocabulary: 47.5% (Correct 986 / Wrong 1090)
 
 ## 📚 Top Grammar
 
 - [[〜にすぎない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
+- [[〜まい]] (Score: 55)
 - [[〜にもかかわらず]] (Score: 55)
 - [[〜ざるを得ない]] (Score: 55)
 - [[むしろ]] (Score: 50)
 - [[〜に限って]] (Score: 50)
-- [[〜まい]] (Score: 50)
 - [[〜とは限らない]] (Score: 50)
-- [[〜がち]] (Score: 45)
+- [[〜ものの]] (Score: 45)
 
 ## 📚 Top Vocabulary
 
@@ -151,6 +151,7 @@
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
+- [[〜がち]] (Score: 35)
 - [[足を運ぶ]] (Score: 30)
 - [[駆け引き]] (Score: 25)
 - [[～を問わず]] (Score: 25)
@@ -158,7 +159,6 @@
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
 - [[明け方]] (Score: 25)
-- [[耳にする]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -167,11 +167,11 @@
 - [[移動手段]] (Score: 20)
 - [[成功を収める]] (Score: 20)
 - [[連絡している]] (Score: 20)
+- [[不安を持つ]] (Score: 20)
 - [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
 - [[苦情が出る]] (Score: 20)
 - [[火山の噴火]] (Score: 20)
-- [[責任を負わされる]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -226,6 +226,7 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
@@ -243,6 +244,5 @@
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
 - [[3. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
 - [[4. Phân Tích TEST TỪ VỰNG N2_BÀI 1]]
+- [[5. Phân Tích N2_TEST NGỮ PHÁP_BÀI 1]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 3]]
-- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
-- [[1. Phân Tích KẾT QUẢ KIỂM TRA NGỮ PHÁP N3 - BÀI 8]]

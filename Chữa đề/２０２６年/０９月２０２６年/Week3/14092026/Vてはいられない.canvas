@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b2c283df1133ea07","type":"text","text":"Vてはいられない","x":-144,"y":-31,"width":250,"height":60},
+		{"id":"bb4570b514928388","type":"text","text":"không thể tiếp tục làm V","x":265,"y":-190,"width":250,"height":60},
+		{"id":"9de8aedbfaa8eedc","type":"text","text":"do giới hạn chịu đựng","x":-160,"y":-400,"width":250,"height":60},
+		{"id":"3cc3d2631d0b0565","x":680,"y":-340,"width":320,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/～笑ってはいられない.md"}
+	],
+	"edges":[
+		{"id":"127d1d4fc6ffa540","fromNode":"b2c283df1133ea07","fromSide":"right","toNode":"bb4570b514928388","toSide":"left","color":"5"},
+		{"id":"dd92b080fd6cba25","fromNode":"9de8aedbfaa8eedc","fromSide":"right","toNode":"bb4570b514928388","toSide":"left","color":"1"},
+		{"id":"86204d5445dc143c","fromNode":"bb4570b514928388","fromSide":"right","toNode":"3cc3d2631d0b0565","toSide":"left"}
+	]
+}

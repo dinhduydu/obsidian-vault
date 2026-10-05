@@ -1,13 +1,21 @@
 {
 	"nodes":[
-		{"id":"6021b6ef8465851b","x":-61,"y":-41,"width":250,"height":60,"type":"text","text":"専 - Chuyên"},
-		{"id":"60587761e93d8c17","x":-400,"y":-67,"width":133,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas"},
-		{"id":"cc172d34d3e1163e","x":-439,"y":-280,"width":172,"height":115,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas"},
-		{"id":"fbf0c9e94998d369","x":-462,"y":140,"width":195,"height":220,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas"}
+		{"id":"3b10dfdadbe0e00c","type":"group","x":380,"y":180,"width":380,"height":400,"label":"専門"},
+		{"id":"6021b6ef8465851b","type":"text","text":"専 - Chuyên","x":-61,"y":-41,"width":250,"height":60},
+		{"id":"60587761e93d8c17","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/Điền　「田」.canvas","x":-400,"y":-67,"width":133,"height":112},
+		{"id":"cc172d34d3e1163e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/Thập　「十」.canvas","x":-439,"y":-280,"width":172,"height":115},
+		{"id":"fbf0c9e94998d369","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thốn　「寸」/Thốn　「寸」.canvas","x":-462,"y":140,"width":195,"height":220},
+		{"id":"5b89d43044892def","type":"text","text":"専業","x":400,"y":-310,"width":250,"height":60},
+		{"id":"fc828af74134fea5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/専念.md","x":400,"y":-46,"width":228,"height":131},
+		{"id":"3552a8e295c19486","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/専門家.md","x":400,"y":220,"width":240,"height":140},
+		{"id":"3d277923f7b2a9d1","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/専門用語.md","x":400,"y":440,"width":260,"height":120}
 	],
 	"edges":[
 		{"id":"fe648cbb63a5166d","fromNode":"60587761e93d8c17","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"},
 		{"id":"6d9b681eb6c30069","fromNode":"cc172d34d3e1163e","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"},
-		{"id":"359c2c1b54ae7f0c","fromNode":"fbf0c9e94998d369","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"}
+		{"id":"359c2c1b54ae7f0c","fromNode":"fbf0c9e94998d369","fromSide":"right","toNode":"6021b6ef8465851b","toSide":"left"},
+		{"id":"fc44f082954c37ad","fromNode":"6021b6ef8465851b","fromSide":"right","toNode":"5b89d43044892def","toSide":"left","label":"chuyên nghiệp"},
+		{"id":"d883dcefd0e29a3c","fromNode":"6021b6ef8465851b","fromSide":"right","toNode":"fc828af74134fea5","toSide":"left"},
+		{"id":"0f5004d158f1fb1d","fromNode":"6021b6ef8465851b","fromSide":"right","toNode":"3b10dfdadbe0e00c","toSide":"left"}
 	]
 }

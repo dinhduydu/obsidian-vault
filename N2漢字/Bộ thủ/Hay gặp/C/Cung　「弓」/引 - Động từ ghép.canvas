@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"eebc97982087a790","type":"group","x":-220,"y":-300,"width":800,"height":740,"label":"引　「ひき」"},
+		{"id":"66219755c0e6cfde","type":"text","text":"引きつる　「ひきつる」","x":-194,"y":141,"width":250,"height":60},
+		{"id":"33147428d7340246","type":"text","text":"Nhăn; nhăn nhó","x":202,"y":141,"width":250,"height":60},
+		{"id":"604d1866972278f3","type":"text","text":"引きつり","x":-200,"y":340,"width":250,"height":60},
+		{"id":"9ad5b062d15067ff","type":"text","text":"引き出し　「ひきだし」：ngăn kéo","x":-194,"y":-280,"width":300,"height":60},
+		{"id":"7b63bb5392763c2f","type":"text","text":"引き寄せる　「ひきよせる」","x":-194,"y":-84,"width":250,"height":60},
+		{"id":"5935489c9b7c4f0b","type":"text","text":"dành, giật, kéo lại, lôi cuốn; thu hút","x":232,"y":-84,"width":250,"height":60},
+		{"id":"9943c910b8cf5184","type":"text","text":"引 - Động từ ghép","x":-780,"y":40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cc2b16826ac5f084","fromNode":"66219755c0e6cfde","fromSide":"right","toNode":"33147428d7340246","toSide":"left"},
+		{"id":"9e9ed1f686be318c","fromNode":"604d1866972278f3","fromSide":"right","toNode":"33147428d7340246","toSide":"left"},
+		{"id":"c7b365f3f3d76be8","fromNode":"7b63bb5392763c2f","fromSide":"right","toNode":"5935489c9b7c4f0b","toSide":"left"},
+		{"id":"2fd9c067cb3a742f","fromNode":"9943c910b8cf5184","fromSide":"right","toNode":"eebc97982087a790","toSide":"left"}
+	]
+}
