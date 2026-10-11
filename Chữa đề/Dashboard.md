@@ -2,43 +2,45 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 402
-- Total Knowledge Items: 4297
-- Correct: 2879
-- Wrong: 3566
+- Total Reviews: 408
+- Total Knowledge Items: 4343
+- Correct: 2920
+- Wrong: 3609
 - Accuracy: 44.7%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 222| Wrong: 42
+- [[]] | Vocabulary| Score: 235| Wrong: 44
+- [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
+- [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 55| Wrong: 8
 - [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
-- [[〜ざるを得ない]] | Grammar| Score: 55| Wrong: 8
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
+- [[〜ものの]] | Grammar| Score: 50| Wrong: 7
 - [[むしろ]] | Grammar| Score: 50| Wrong: 7
 - [[〜に限って]] | Grammar| Score: 50| Wrong: 7
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
+- [[しかし]] | Conjunction| Score: 47| Wrong: 7
 - [[連続]] | Vocabulary| Score: 45| Wrong: 9
 - [[衝突]] | Kanji| Score: 45| Wrong: 6
-- [[〜ものの]] | Grammar| Score: 45| Wrong: 6
-- [[〜次第]] | Grammar| Score: 42| Wrong: 6
-- [[〜どころか]] | Grammar| Score: 40| Wrong: 5
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 42
+- [[]] (Vocabulary) Wrong: 44
+- [[〜ざるを得ない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
 - [[〜にすぎない]] (Grammar) Wrong: 9
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[〜がち]] (Grammar) Wrong: 8
 - [[相続]] (Vocabulary) Wrong: 8
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
@@ -46,45 +48,43 @@
 - [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
-- [[〜ざるを得ない]] (Grammar) Wrong: 8
 - [[さっさと]] (Adverb) Wrong: 7
+- [[しかし]] (Conjunction) Wrong: 7
+- [[〜ものの]] (Grammar) Wrong: 7
 - [[大工]] (Vocabulary) Wrong: 7
 - [[事実]] (Vocabulary) Wrong: 7
-- [[〜がち]] (FixedExpression) Wrong: 7
-- [[むしろ]] (Grammar) Wrong: 7
-- [[〜に限って]] (Grammar) Wrong: 7
 
 ## 📈 Category Statistics
 
-- Adverb: 43.5% (Correct 231 / Wrong 300)
+- Adverb: 43.6% (Correct 232 / Wrong 300)
 - Collocation: 44.5% (Correct 114 / Wrong 142)
-- CompoundVerb: 40.7% (Correct 118 / Wrong 172)
-- Conjunction: 33.3% (Correct 54 / Wrong 108)
-- Demonstratives: 42.9% (Correct 6 / Wrong 8)
-- FixedExpression: 39.6% (Correct 177 / Wrong 270)
-- Grammar: 44.9% (Correct 716 / Wrong 878)
-- Kanji: 47.7% (Correct 254 / Wrong 278)
-- Katakana: 44.8% (Correct 108 / Wrong 133)
-- Keigo: 46.3% (Correct 31 / Wrong 36)
-- Reading: 32.2% (Correct 66 / Wrong 139)
-- Vocabulary: 47.7% (Correct 1004 / Wrong 1102)
+- CompoundVerb: 40.8% (Correct 119 / Wrong 173)
+- Conjunction: 33.9% (Correct 56 / Wrong 109)
+- Demonstratives: 40.0% (Correct 6 / Wrong 9)
+- FixedExpression: 40.0% (Correct 175 / Wrong 263)
+- Grammar: 45.2% (Correct 738 / Wrong 895)
+- Kanji: 48.0% (Correct 266 / Wrong 288)
+- Katakana: 44.6% (Correct 108 / Wrong 134)
+- Keigo: 44.0% (Correct 33 / Wrong 42)
+- Reading: 31.6% (Correct 68 / Wrong 147)
+- Vocabulary: 47.6% (Correct 1005 / Wrong 1107)
 
 ## 📚 Top Grammar
 
+- [[〜ざるを得ない]] (Score: 60)
 - [[〜にすぎない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
+- [[〜がち]] (Score: 55)
 - [[〜まい]] (Score: 55)
 - [[〜にもかかわらず]] (Score: 55)
-- [[〜ざるを得ない]] (Score: 55)
+- [[〜ものの]] (Score: 50)
 - [[むしろ]] (Score: 50)
 - [[〜に限って]] (Score: 50)
-- [[〜とは限らない]] (Score: 50)
-- [[〜ものの]] (Score: 45)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 222)
+- [[]] (Score: 235)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[連続]] (Score: 45)
 - [[相続]] (Score: 40)
@@ -124,6 +124,7 @@
 ## 📚 Top Reading
 
 - [[即時応答]] (Score: 55)
+- [[敬語の文脈判断]] (Score: 40)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[勝敗]] (Score: 35)
 - [[筆者の考え]] (Score: 35)
@@ -132,7 +133,6 @@
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[賢い]] (Score: 30)
 - [[刷る]] (Score: 30)
-- [[文脈判断]] (Score: 30)
 
 ## 📚 Top CompoundVerb
 
@@ -151,7 +151,6 @@
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
-- [[〜がち]] (Score: 35)
 - [[足を運ぶ]] (Score: 30)
 - [[駆け引き]] (Score: 25)
 - [[～を問わず]] (Score: 25)
@@ -159,6 +158,7 @@
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
 - [[明け方]] (Score: 25)
+- [[耳にする]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -188,12 +188,12 @@
 
 ## 📚 Top Conjunction
 
+- [[しかし]] (Score: 47)
 - [[そこで]] (Score: 37)
 - [[それにしては]] (Score: 35)
 - [[要するに]] (Score: 35)
 - [[つまり]] (Score: 32)
 - [[つきましては]] (Score: 30)
-- [[しかし]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
 - [[とはいえ]] (Score: 30)
@@ -205,20 +205,20 @@
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
+- [[〜れる / 〜られる (尊敬)]] (Score: 20)
+- [[ご覧に入る]] (Score: 20)
+- [[される（受動敬語）]] (Score: 20)
+- [[召し上がる]] (Score: 20)
 - [[〜ご覧いただく]] (Score: 20)
 - [[〜させていただけないでしょうか]] (Score: 20)
-- [[お休みになる]] (Score: 20)
-- [[お休みになったら]] (Score: 20)
-- [[存じております]] (Score: 20)
-- [[おいでになる]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
+- [[その]] (Score: 25)
 - [[あんなに]] (Score: 20)
 - [[こんなに]] (Score: 15)
 - [[あの]] (Score: 15)
 - [[ああ]] (Score: 15)
-- [[その]] (Score: 15)
 - [[どこ]] (Score: 10)
 - [[そんな]] (Score: 5)
 - [[そう]] (Score: 0)
@@ -231,6 +231,12 @@
 - [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
 - [[5. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P5)]]
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
+- [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
+- [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
+- [[2. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-2-5.pdf)]]
+- [[3. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-6-10.pdf)]]
+- [[4. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp & Kính Ngữ Đọc Hiểu - Source 111020262-11-14.pdf)]]
+- [[5. Phân Tích Bài Làm Tiếng Nhật N2 (Đọc Hiểu - Source 111020263.pdf)]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
@@ -240,9 +246,3 @@
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 10]]
 - [[1. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P4)]]
-- [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P5)]]
-- [[3. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P6)]]
-- [[4. Phân Tích Bài tập Từ vựng JLPT N2 25092026]]
-- [[5. Phân Tích N2_TEST TỪ VỰNG_BÀI 11]]
-- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P1)]]
-- [[2. Phân Tích N2_ĐỌC HIỂU_TEST 2]]
