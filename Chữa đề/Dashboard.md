@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 417
-- Total Knowledge Items: 4406
+- Total Reviews: 418
+- Total Knowledge Items: 4414
 - Correct: 3074
-- Wrong: 3664
-- Accuracy: 45.6%
+- Wrong: 3676
+- Accuracy: 45.5%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.3% (Correct 255 / Wrong 320)
+- Adverb: 44.3% (Correct 255 / Wrong 321)
 - Collocation: 46.3% (Correct 125 / Wrong 145)
-- CompoundVerb: 42.8% (Correct 139 / Wrong 186)
-- Conjunction: 33.9% (Correct 56 / Wrong 109)
+- CompoundVerb: 42.6% (Correct 139 / Wrong 187)
+- Conjunction: 33.7% (Correct 56 / Wrong 110)
 - Demonstratives: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 41.2% (Correct 188 / Wrong 268)
-- Grammar: 45.4% (Correct 753 / Wrong 905)
+- FixedExpression: 41.1% (Correct 188 / Wrong 269)
+- Grammar: 45.4% (Correct 753 / Wrong 907)
 - Kanji: 49.7% (Correct 290 / Wrong 293)
-- Katakana: 49.6% (Correct 134 / Wrong 136)
+- Katakana: 49.4% (Correct 134 / Wrong 137)
 - Keigo: 44.0% (Correct 33 / Wrong 42)
-- Reading: 31.3% (Correct 67 / Wrong 147)
-- Vocabulary: 48.2% (Correct 1028 / Wrong 1104)
+- Reading: 31.2% (Correct 67 / Wrong 148)
+- Vocabulary: 48.1% (Correct 1028 / Wrong 1108)
 
 ## 📚 Top Grammar
 
@@ -119,7 +119,7 @@
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
 - [[テクニック]] (Score: 20)
-- [[ドメイン]] (Score: 20)
+- [[バーチャル]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -197,7 +197,7 @@
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
 - [[とはいえ]] (Score: 30)
-- [[実は]] (Score: 25)
+- [[ところが]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -232,6 +232,7 @@
 - [[5. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P5)]]
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
+- [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020261.pdf)]]
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
 - [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
 - [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
@@ -245,4 +246,3 @@
 - [[6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf]]
 - [[7. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-6-10.pdf]]
 - [[8. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-11-15.pdf]]
-- [[9. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-16-20.pdf]]
