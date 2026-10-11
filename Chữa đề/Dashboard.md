@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 408
-- Total Knowledge Items: 4343
-- Correct: 2920
-- Wrong: 3609
-- Accuracy: 44.7%
+- Total Reviews: 409
+- Total Knowledge Items: 4347
+- Correct: 2936
+- Wrong: 3615
+- Accuracy: 44.8%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 43.6% (Correct 232 / Wrong 300)
+- Adverb: 43.6% (Correct 236 / Wrong 305)
 - Collocation: 44.5% (Correct 114 / Wrong 142)
-- CompoundVerb: 40.8% (Correct 119 / Wrong 173)
+- CompoundVerb: 41.0% (Correct 120 / Wrong 173)
 - Conjunction: 33.9% (Correct 56 / Wrong 109)
 - Demonstratives: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 40.0% (Correct 175 / Wrong 263)
-- Grammar: 45.2% (Correct 738 / Wrong 895)
+- FixedExpression: 40.1% (Correct 176 / Wrong 263)
+- Grammar: 45.3% (Correct 740 / Wrong 895)
 - Kanji: 48.0% (Correct 266 / Wrong 288)
-- Katakana: 44.6% (Correct 108 / Wrong 134)
+- Katakana: 45.3% (Correct 111 / Wrong 134)
 - Keigo: 44.0% (Correct 33 / Wrong 42)
 - Reading: 31.6% (Correct 68 / Wrong 147)
-- Vocabulary: 47.6% (Correct 1005 / Wrong 1107)
+- Vocabulary: 47.7% (Correct 1010 / Wrong 1108)
 
 ## 📚 Top Grammar
 
@@ -113,13 +113,13 @@
 - [[タイミング]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[ファスナー]] (Score: 30)
-- [[ブーム]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
-- [[マイペース]] (Score: 25)
+- [[テクニック]] (Score: 20)
+- [[ドメイン]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -176,15 +176,15 @@
 ## 📚 Top Adverb
 
 - [[さっさと]] (Score: 50)
+- [[とりあえず]] (Score: 40)
 - [[どうしても]] (Score: 35)
-- [[とりあえず]] (Score: 35)
 - [[どうも]] (Score: 35)
 - [[つい]] (Score: 30)
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
-- [[たちまち]] (Score: 25)
-- [[よく]] (Score: 25)
-- [[もっとも]] (Score: 25)
+- [[相次いで]] (Score: 25)
+- [[ぶらぶら]] (Score: 25)
+- [[ぼんやり]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -237,6 +237,7 @@
 - [[3. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-6-10.pdf)]]
 - [[4. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp & Kính Ngữ Đọc Hiểu - Source 111020262-11-14.pdf)]]
 - [[5. Phân Tích Bài Làm Tiếng Nhật N2 (Đọc Hiểu - Source 111020263.pdf)]]
+- [[6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
 - [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
 - [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
@@ -245,4 +246,3 @@
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 8]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
 - [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 10]]
-- [[1. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P4)]]
