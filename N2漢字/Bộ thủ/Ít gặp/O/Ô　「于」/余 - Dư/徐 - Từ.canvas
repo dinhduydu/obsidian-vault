@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"e7c54db811556eef","x":-115,"y":-36,"width":250,"height":60,"type":"text","text":"徐 - Từ"},
-		{"id":"886ea67f2728f990","x":-540,"y":160,"width":240,"height":214,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas"},
-		{"id":"29bb447248288f6b","x":-503,"y":-400,"width":203,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"}
+		{"id":"e7c54db811556eef","type":"text","text":"徐 - Từ","x":-115,"y":-36,"width":250,"height":60},
+		{"id":"886ea67f2728f990","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/O/Ô　「于」/余 - Dư/余 - Dư.canvas","x":-540,"y":160,"width":240,"height":214},
+		{"id":"29bb447248288f6b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-503,"y":-400,"width":203,"height":190},
+		{"id":"c14b260210ea0e35","type":"file","file":"Chữa đề/Learning_Profile/Adverb/徐々に.md","x":320,"y":-305,"width":246,"height":118},
+		{"id":"ab5513e4eeb354c4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/上昇.md","x":820,"y":-640,"width":286,"height":183},
+		{"id":"d6a56a4c6a7494ac","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/回復.md","x":820,"y":-270,"width":274,"height":166},
+		{"id":"b41f62d76b48d532","x":820,"y":40,"width":250,"height":60,"type":"text","text":"変化"}
 	],
 	"edges":[
 		{"id":"92b42ca6d3bb7a04","fromNode":"886ea67f2728f990","fromSide":"right","toNode":"e7c54db811556eef","toSide":"left"},
-		{"id":"699a815e735e7db5","fromNode":"29bb447248288f6b","fromSide":"right","toNode":"e7c54db811556eef","toSide":"left"}
+		{"id":"699a815e735e7db5","fromNode":"29bb447248288f6b","fromSide":"right","toNode":"e7c54db811556eef","toSide":"left"},
+		{"id":"65f373ab5d20fd36","fromNode":"e7c54db811556eef","fromSide":"right","toNode":"c14b260210ea0e35","toSide":"left","label":"Dần dần, từng chút một."},
+		{"id":"ad08f7f188a7b47e","fromNode":"c14b260210ea0e35","fromSide":"right","toNode":"ab5513e4eeb354c4","toSide":"left"},
+		{"id":"23f9e57ea2711841","fromNode":"c14b260210ea0e35","fromSide":"right","toNode":"d6a56a4c6a7494ac","toSide":"left"},
+		{"id":"3377b358768d838e","fromNode":"c14b260210ea0e35","fromSide":"right","toNode":"b41f62d76b48d532","toSide":"left"}
 	]
 }

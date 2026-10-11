@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 409
-- Total Knowledge Items: 4347
-- Correct: 2936
-- Wrong: 3615
-- Accuracy: 44.8%
+- Total Reviews: 417
+- Total Knowledge Items: 4406
+- Correct: 3074
+- Wrong: 3664
+- Accuracy: 45.6%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 43.6% (Correct 236 / Wrong 305)
-- Collocation: 44.5% (Correct 114 / Wrong 142)
-- CompoundVerb: 41.0% (Correct 120 / Wrong 173)
+- Adverb: 44.3% (Correct 255 / Wrong 320)
+- Collocation: 46.3% (Correct 125 / Wrong 145)
+- CompoundVerb: 42.8% (Correct 139 / Wrong 186)
 - Conjunction: 33.9% (Correct 56 / Wrong 109)
 - Demonstratives: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 40.1% (Correct 176 / Wrong 263)
-- Grammar: 45.3% (Correct 740 / Wrong 895)
-- Kanji: 48.0% (Correct 266 / Wrong 288)
-- Katakana: 45.3% (Correct 111 / Wrong 134)
+- FixedExpression: 41.2% (Correct 188 / Wrong 268)
+- Grammar: 45.4% (Correct 753 / Wrong 905)
+- Kanji: 49.7% (Correct 290 / Wrong 293)
+- Katakana: 49.6% (Correct 134 / Wrong 136)
 - Keigo: 44.0% (Correct 33 / Wrong 42)
-- Reading: 31.6% (Correct 68 / Wrong 147)
-- Vocabulary: 47.7% (Correct 1010 / Wrong 1108)
+- Reading: 31.3% (Correct 67 / Wrong 147)
+- Vocabulary: 48.2% (Correct 1028 / Wrong 1104)
 
 ## 📚 Top Grammar
 
@@ -101,12 +101,12 @@
 - [[一層]] (Score: 40)
 - [[改善]] (Score: 35)
 - [[頭脳]] (Score: 30)
+- [[系統]] (Score: 25)
 - [[貯蔵]] (Score: 25)
 - [[滲む]] (Score: 25)
 - [[怠惰]] (Score: 25)
 - [[遭遇]] (Score: 25)
 - [[外科]] (Score: 25)
-- [[衣装]] (Score: 25)
 
 ## 📚 Top Katakana
 
@@ -136,32 +136,33 @@
 
 ## 📚 Top CompoundVerb
 
+- [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
+- [[割り込む]] (Score: 30)
 - [[見守る]] (Score: 30)
 - [[振り向く]] (Score: 25)
 - [[取り上げる]] (Score: 25)
+- [[受け入れる]] (Score: 25)
+- [[呼び止める]] (Score: 25)
+- [[差し支える]] (Score: 25)
 - [[教育実習]] (Score: 25)
-- [[着脱させる]] (Score: 25)
-- [[出しすぎ]] (Score: 25)
-- [[長引く]] (Score: 25)
-- [[透き通る]] (Score: 25)
-- [[追い込む]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
 - [[足を運ぶ]] (Score: 30)
+- [[ごちゃごちゃ]] (Score: 25)
 - [[駆け引き]] (Score: 25)
 - [[～を問わず]] (Score: 25)
 - [[～を込めて]] (Score: 25)
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
 - [[明け方]] (Score: 25)
-- [[耳にする]] (Score: 25)
 
 ## 📚 Top Collocation
 
+- [[焦点]] (Score: 25)
 - [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
 - [[移動手段]] (Score: 20)
@@ -171,7 +172,6 @@
 - [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
 - [[苦情が出る]] (Score: 20)
-- [[火山の噴火]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -179,12 +179,12 @@
 - [[とりあえず]] (Score: 40)
 - [[どうしても]] (Score: 35)
 - [[どうも]] (Score: 35)
+- [[とっくに]] (Score: 30)
+- [[さっぱり]] (Score: 30)
+- [[かつて]] (Score: 30)
 - [[つい]] (Score: 30)
 - [[今にも]] (Score: 30)
 - [[およそ]] (Score: 30)
-- [[相次いで]] (Score: 25)
-- [[ぶらぶら]] (Score: 25)
-- [[ぼんやり]] (Score: 25)
 
 ## 📚 Top Conjunction
 
@@ -233,16 +233,16 @@
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
+- [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
+- [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
+- [[12. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-31-35.pdf]]
+- [[13. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-36-40.pdf]]
+- [[14. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-41-46.pdf]]
 - [[2. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-2-5.pdf)]]
 - [[3. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-6-10.pdf)]]
 - [[4. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp & Kính Ngữ Đọc Hiểu - Source 111020262-11-14.pdf)]]
 - [[5. Phân Tích Bài Làm Tiếng Nhật N2 (Đọc Hiểu - Source 111020263.pdf)]]
 - [[6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf]]
-- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P2)]]
-- [[2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.1]]
-- [[1. Phân Tích N2_TIỀN-HẬU TỐ (P3)]]
-- [[1. Phân Tích THAOLEJP_N2_TEST ĐỊNH KỲ LẦN 3_ TỪ VỰNG]]
-- [[2. Phân Tích N2_CẶP TỪ DỄ NHẰM LẪN (P2)]]
-- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 8]]
-- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 9]]
-- [[1. Phân Tích N2_TEST TỪ VỰNG_BÀI 10]]
+- [[7. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-6-10.pdf]]
+- [[8. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-11-15.pdf]]
+- [[9. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-16-20.pdf]]
