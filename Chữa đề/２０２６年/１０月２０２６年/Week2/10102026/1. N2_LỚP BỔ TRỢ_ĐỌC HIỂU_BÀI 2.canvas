@@ -1,25 +1,27 @@
 {
 	"nodes":[
 		{"id":"8f32a7c9efd37a29","type":"group","x":-580,"y":-240,"width":950,"height":540,"label":"N2_LỚP BỔ TRỢ_ĐỌC HIỂU_BÀI 2"},
+		{"id":"811ecd2ce6685611","type":"text","text":"でも、実際にある昆虫を採るためには、その生態や食性、植物の状態について全て知らないといけない。","x":-560,"y":-60,"width":800,"height":60},
+		{"id":"30a9d68cc9f86b2e","type":"text","text":"（注1）昆虫採集：虫を採って集めること\n\n（注2）嫌悪感：強い不快感を持つこと\n\n（注3）バーチャル：仮想的、疑似的","x":-560,"y":360,"width":465,"height":171},
+		{"id":"181b0d8aab88f30e","type":"file","file":"Chữa đề/Learning_Profile/Kanji/図鑑 (ずかん).md","x":2240,"y":-311,"width":226,"height":100},
+		{"id":"2e8518fcc677793b","type":"text","text":"問　筆者は昆虫採集に対してどのように考えているか。","x":540,"y":-80,"width":495,"height":50},
+		{"id":"6d7abcdb4f19c33e","type":"text","text":"2 テレビや図鑑でも生き物を見ることはできるが、現実の自然に自分の体で触れるという点で意味は大きい。\nCho dù TV và hình minh hoạ có thể nhìn sinh động đến đâu, ","x":1180,"y":-140,"width":828,"height":60},
+		{"id":"bf5dc0aaa53304ca","type":"text","text":"4 命が軽く扱われている現実を昆虫採集や虫の生態の観察をすることを通して知るべきだ。\n","x":1180,"y":70,"width":828,"height":74},
+		{"id":"5f2dd08645abffbc","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/㐱 - Trân/珍 - Trân.canvas","x":840,"y":70,"width":166,"height":148},
 		{"id":"68091e1477bcfe02","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/昆虫 (こんちゅう).md","x":440,"y":-274,"width":193,"height":104},
+		{"id":"82d280f0ce7ca0ff","type":"text","text":"1 虫の命を奪うことに対し、かわいそうだと思う「生命の大切さ」を知るきっかけになるはずだ。\nĐối với việc tước đoạt mạng sống của công trùng, ","x":1180,"y":-240,"width":828,"height":54},
 		{"id":"e71ea8b750f7f3f6","type":"text","text":"何か一つが欠けても、その虫は見つけられない。結局、昆虫採集とは自然そのものを知り、自然環境の大切さを知ることへもつながるのである。","x":-560,"y":60,"width":910,"height":80},
 		{"id":"a383270b236bf0f8","type":"text","text":"ところが、ただテレビや図鑑を見ているだけではそうはいかない。バーチャル（注3）でない「現実」に触れる意味は大きいはずだ。","x":-560,"y":220,"width":900,"height":60},
 		{"id":"7af1c6542801602d","type":"text","text":"近頃、昆虫採集（注1）があまり行われなくなった理由の一つに、虫の命を奪うことへの嫌悪感（注2）があるのだという。かわいそうだという気持はわかる。\n\n","x":-560,"y":-220,"width":860,"height":100},
-		{"id":"811ecd2ce6685611","type":"text","text":"でも、実際にある昆虫を採るためには、その生態や食性、植物の状態について全て知らないといけない。","x":-560,"y":-60,"width":800,"height":60},
-		{"id":"30a9d68cc9f86b2e","type":"text","text":"（注1）昆虫採集：虫を採って集めること\n\n（注2）嫌悪感：強い不快感を持つこと\n\n（注3）バーチャル：仮想的、疑似的","x":-560,"y":360,"width":465,"height":171},
-		{"id":"2e8518fcc677793b","type":"text","text":"問　筆者は昆虫採集に対してどのように考えているか。","x":540,"y":-80,"width":495,"height":50},
 		{"id":"09f70a6b26c576f4","type":"file","file":"Chữa đề/Learning_Profile/Kanji/採集 (さいしゅう).md","x":673,"y":-520,"width":229,"height":169},
 		{"id":"69bcec3293527060","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/奪う.md","x":1060,"y":-500,"width":160,"height":109},
-		{"id":"82d280f0ce7ca0ff","type":"text","text":"1 虫の命を奪うことに対し、かわいそうだと思う「生命の大切さ」を知るきっかけになるはずだ。\nĐối với việc tước đoạt mạng sống của công trùng, ","x":1180,"y":-236,"width":828,"height":50},
-		{"id":"6d7abcdb4f19c33e","type":"text","text":"2 テレビや図鑑でも生き物を見ることはできるが、現実の自然に自分の体で触れるという点で意味は大きい。\nCho dù TV và hình minh hoạ có thể nhìn sinh động đến đâu, ","x":1180,"y":-130,"width":828,"height":50},
-		{"id":"c37d27ad60f5b9b8","type":"text","text":"3 テレビや図鑑で珍しい昆虫の生態を体系的に学ぶことができるから、わざわざ虫の命を奪う必要はない。\n","x":1180,"y":-30,"width":828,"height":50},
-		{"id":"bf5dc0aaa53304ca","type":"text","text":"4 命が軽く扱われている現実を昆虫採集や虫の生態の観察をすることを通して知るべきだ。","x":1180,"y":70,"width":828,"height":50},
-		{"id":"181b0d8aab88f30e","type":"file","file":"Chữa đề/Learning_Profile/Kanji/図鑑 (ずかん).md","x":2240,"y":-311,"width":226,"height":100}
+		{"id":"c37d27ad60f5b9b8","type":"text","text":"3 テレビや図鑑で珍しい昆虫の生態を体系的に学ぶことができるから、わざわざ虫の命を奪う必要はない。\nTừ việc có thể học có tính hệ thống","x":1180,"y":-30,"width":828,"height":70}
 	],
 	"edges":[
 		{"id":"3e132e1417bdaaaa","fromNode":"68091e1477bcfe02","fromSide":"right","toNode":"2e8518fcc677793b","toSide":"top"},
 		{"id":"f691f98dff7f0a9c","fromNode":"09f70a6b26c576f4","fromSide":"bottom","toNode":"2e8518fcc677793b","toSide":"top","label":"Hành động thu thập, sưu tầm (thường dùng cho mẫu vật, côn trùng, cây cỏ)."},
 		{"id":"4320fe1425ce6a9c","fromNode":"69bcec3293527060","fromSide":"right","toNode":"82d280f0ce7ca0ff","toSide":"left"},
-		{"id":"1d5fcf9d7b24db6b","fromNode":"181b0d8aab88f30e","fromSide":"left","toNode":"6d7abcdb4f19c33e","toSide":"right"}
+		{"id":"1d5fcf9d7b24db6b","fromNode":"181b0d8aab88f30e","fromSide":"left","toNode":"6d7abcdb4f19c33e","toSide":"right"},
+		{"id":"1575764c04139766","fromNode":"5f2dd08645abffbc","fromSide":"right","toNode":"c37d27ad60f5b9b8","toSide":"left"}
 	]
 }
