@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"bc1ee05bd16355b3","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ということで.md","x":261,"y":-368,"width":205,"height":68},
+		{"id":"d107a0206800b00e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことで.md","x":-619,"y":-168,"width":340,"height":260},
+		{"id":"bb32d50a7e1ff6af","type":"text","text":"Bằng việc... / Thông qua việc... (phương thức).","x":-1100,"y":-318,"width":250,"height":60},
+		{"id":"76c3cc87a55e1735","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ってことでいい.md","x":367,"y":140,"width":252,"height":164},
+		{"id":"2916872221da37dc","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということで.md","x":-140,"y":-640,"width":205,"height":114},
+		{"id":"30c482d7245ba37d","type":"text","text":"ことではない","x":0,"y":500,"width":250,"height":60},
+		{"id":"5d0970c6a92b9987","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限ったことではない.md","x":880,"y":840,"width":360,"height":117},
+		{"id":"9154989a10fd39c0","x":281,"y":1020,"width":338,"height":206,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に限る.md"}
+	],
+	"edges":[
+		{"id":"1747996be365dfb0","fromNode":"d107a0206800b00e","fromSide":"right","toNode":"bc1ee05bd16355b3","toSide":"left","color":"5"},
+		{"id":"ee3548fd9b9da9ff","fromNode":"d107a0206800b00e","fromSide":"right","toNode":"76c3cc87a55e1735","toSide":"left","color":"6","label":"Hiểu là... thì được nhỉ (Dùng để xác nhận một giả định của bản thân)."},
+		{"id":"1bcf364aff47525b","fromNode":"bb32d50a7e1ff6af","fromSide":"right","toNode":"d107a0206800b00e","toSide":"left","color":"3"},
+		{"id":"c5cd4276672012df","fromNode":"2916872221da37dc","fromSide":"right","toNode":"bc1ee05bd16355b3","toSide":"left"},
+		{"id":"6166709c07a2329a","fromNode":"d107a0206800b00e","fromSide":"right","toNode":"30c482d7245ba37d","toSide":"left","color":"5"},
+		{"id":"f882a1ae6b79ccfd","fromNode":"30c482d7245ba37d","fromSide":"right","toNode":"5d0970c6a92b9987","toSide":"left","color":"6","label":"Không chỉ riêng..., không giới hạn ở..."},
+		{"id":"d05d441f352ad180","fromNode":"9154989a10fd39c0","fromSide":"right","toNode":"5d0970c6a92b9987","toSide":"left","color":"2"}
+	]
+}

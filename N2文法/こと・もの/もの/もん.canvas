@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"be537056f1a60013","type":"file","file":"Pasted image 20260410082808.png","x":-740,"y":-431,"width":400,"height":226},
+		{"id":"0b5a6eac9cecf347","type":"file","file":"Pasted image 20260407221909.png","x":340,"y":32,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b6ccfda259a9bd11","fromNode":"be537056f1a60013","fromSide":"right","toNode":"0b5a6eac9cecf347","toSide":"left","label":"もん"}
+	]
+}

@@ -1,18 +1,37 @@
 {
 	"nodes":[
+		{"id":"fc5611d50998e55c","type":"group","x":49,"y":1120,"width":919,"height":521,"label":"〜べきものがある"},
+		{"id":"16c59c6a02ad5e7c","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～べきではない.md","x":594,"y":280,"width":249,"height":207},
+		{"id":"3da4d03bae764af0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～べきだ.md","x":501,"y":-540,"width":217,"height":143},
+		{"id":"f498e935131d7083","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜べきだった.md","x":1101,"y":-920,"width":200,"height":140},
+		{"id":"6a1775d7c986d5b6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しかるべきだ.md","x":1301,"y":-180,"width":191,"height":113},
 		{"id":"a7c96970fc99f235","type":"text","text":"べき","x":-181,"y":-21,"width":250,"height":60},
-		{"id":"b772bca5111e00b4","type":"text","text":"**V辞書形 + べき**\n\n→ diễn tả:\n\n- điều **nên làm**\n- điều **đáng ra phải làm**","x":-780,"y":-72,"width":250,"height":162},
-		{"id":"b1614be2a24f06bf","type":"text","text":"べく","x":-1458,"y":356,"width":250,"height":60},
-		{"id":"b81c32e4e1e40356","type":"file","file":"Pasted image 20260416120746.png","x":-1468,"y":-191,"width":271,"height":400},
+		{"id":"3a4079f4f7d954e9","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜べきものがある.md","x":649,"y":1220,"width":299,"height":159},
+		{"id":"4a615a60d51bcdaf","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものがある.md","x":69,"y":1460,"width":261,"height":130},
 		{"id":"e8f64f1440f60da2","type":"text","text":"べきか","x":-556,"y":-314,"width":250,"height":60},
-		{"id":"24b6c92883e98d9c","type":"text","text":"- Vる + べきか  \n    → có nên làm V không?","x":-700,"y":-520,"width":270,"height":82},
-		{"id":"dd7e98c3db295ffe","type":"text","text":"> 何をするべきか\n\n👉 Nghĩa là:  \n**“nên làm gì”**\n\n- 何をする = làm gì\n- べきか = có nên làm không → ở đây thành **“nên làm gì”**","x":-1020,"y":-860,"width":480,"height":199}
+		{"id":"b772bca5111e00b4","type":"text","text":"**V辞書形 + べき**\n\n→ diễn tả:\n\n- điều **nên làm**\n- điều **đáng ra phải làm**","x":-780,"y":-72,"width":250,"height":162},
+		{"id":"24b6c92883e98d9c","type":"text","text":"- Vる + べきか  \n    → có nên làm V không?","x":-972,"y":-500,"width":270,"height":82},
+		{"id":"563f0834cde355af","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":-351,"y":1640,"width":128,"height":98},
+		{"id":"9e4624816b7e499c","type":"file","file":"Chữa đề/Learning_Profile/Kanji/感心.md","x":-351,"y":1335,"width":210,"height":89},
+		{"id":"7507f3b0f7d1740b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/驚く.md","x":-351,"y":1063,"width":210,"height":157},
+		{"id":"dd7e98c3db295ffe","type":"text","text":"> 何をするべきか\n\n👉 Nghĩa là:  \n**“nên làm gì”**\n\n- 何をする = làm gì\n- べきか = có nên làm không → ở đây thành **“nên làm gì”**","x":-1572,"y":-800,"width":480,"height":199},
+		{"id":"b1614be2a24f06bf","type":"text","text":"べく","x":-1458,"y":356,"width":250,"height":60},
+		{"id":"b81c32e4e1e40356","type":"file","file":"Pasted image 20260416120746.png","x":-1468,"y":-191,"width":271,"height":400}
 	],
 	"edges":[
 		{"id":"37ced6bc26d90677","fromNode":"a7c96970fc99f235","fromSide":"left","toNode":"b772bca5111e00b4","toSide":"right"},
 		{"id":"0ac06f3d51acaf19","fromNode":"b1614be2a24f06bf","fromSide":"top","toNode":"b81c32e4e1e40356","toSide":"bottom"},
-		{"id":"d574d09249580b1d","fromNode":"a7c96970fc99f235","fromSide":"top","toNode":"e8f64f1440f60da2","toSide":"bottom"},
-		{"id":"e9acca51d62e88a7","fromNode":"e8f64f1440f60da2","fromSide":"top","toNode":"24b6c92883e98d9c","toSide":"bottom"},
-		{"id":"e192466355339292","fromNode":"24b6c92883e98d9c","fromSide":"top","toNode":"dd7e98c3db295ffe","toSide":"bottom"}
+		{"id":"d574d09249580b1d","fromNode":"a7c96970fc99f235","fromSide":"top","toNode":"e8f64f1440f60da2","toSide":"bottom","label":"có nên làm V không"},
+		{"id":"e9acca51d62e88a7","fromNode":"e8f64f1440f60da2","fromSide":"top","toNode":"24b6c92883e98d9c","toSide":"right","label":"có nên làm V không"},
+		{"id":"e192466355339292","fromNode":"24b6c92883e98d9c","fromSide":"left","toNode":"dd7e98c3db295ffe","toSide":"right"},
+		{"id":"a0642adfc0d8e029","fromNode":"a7c96970fc99f235","fromSide":"right","toNode":"3da4d03bae764af0","toSide":"left","label":"Nên/Cần phải (Chỉ bổn phận, đạo lý đương nhiên)."},
+		{"id":"8422dc320f2beeb2","fromNode":"a7c96970fc99f235","fromSide":"right","toNode":"16c59c6a02ad5e7c","toSide":"left","color":"5","label":"Không nên (Chỉ bổn phận hoặc lời khuyên mạnh mẽ)."},
+		{"id":"1f479ebc0c2946b7","fromNode":"3da4d03bae764af0","fromSide":"right","toNode":"f498e935131d7083","toSide":"left","color":"5","label":"Đáng lẽ ra nên làm gì đó (thể hiện sự hối hận)."},
+		{"id":"04749a7a281afb80","fromNode":"a7c96970fc99f235","fromSide":"right","toNode":"fc5611d50998e55c","toSide":"top","color":"5","label":"Có cảm giác rất..., quả là đáng...."},
+		{"id":"5b8a0e122392e2a1","fromNode":"4a615a60d51bcdaf","fromSide":"right","toNode":"3a4079f4f7d954e9","toSide":"left","color":"2","label":"Có cảm giác... / Có gì đó rất..."},
+		{"id":"2c57b3deb099d5ec","fromNode":"563f0834cde355af","fromSide":"right","toNode":"4a615a60d51bcdaf","toSide":"left"},
+		{"id":"b7d112efa1c61f7a","fromNode":"7507f3b0f7d1740b","fromSide":"right","toNode":"fc5611d50998e55c","toSide":"left","color":"2"},
+		{"id":"3ebfd8c2026ef2cc","fromNode":"3da4d03bae764af0","fromSide":"right","toNode":"6a1775d7c986d5b6","toSide":"left","color":"4","label":"Lẽ đương nhiên là phải..., nên làm..."},
+		{"id":"de32cbecadfb60e1","fromNode":"9e4624816b7e499c","fromSide":"right","toNode":"fc5611d50998e55c","toSide":"left","color":"2"}
 	]
 }

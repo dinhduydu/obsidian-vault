@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8059c374b783f1d5","type":"text","text":"ものと","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d22d03ea474b839e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものと思われる.md","x":460,"y":-340,"width":320,"height":120},
+		{"id":"528599ee58afc846","type":"text","text":"Cách diễn đạt trang trọng, khách quan trong tin tức, báo cáo.","x":-245,"y":-520,"width":490,"height":50},
+		{"id":"38844d740a6aafae","type":"text","text":"Vるものと決めつけている","x":700,"y":362,"width":250,"height":60},
+		{"id":"367de573a02137cd","type":"file","file":"Pasted image 20260504020809.png","x":1460,"y":246,"width":400,"height":292}
+	],
+	"edges":[
+		{"id":"a21a938c2545beb9","fromNode":"8059c374b783f1d5","fromSide":"right","toNode":"d22d03ea474b839e","toSide":"left","color":"6","label":"Được cho là... / Có lẽ là..."},
+		{"id":"98d16a99768fa6f9","fromNode":"528599ee58afc846","fromSide":"right","toNode":"d22d03ea474b839e","toSide":"left"},
+		{"id":"16057fd9117be063","fromNode":"38844d740a6aafae","fromSide":"right","toNode":"367de573a02137cd","toSide":"left","label":"Vるものと決めつけている"},
+		{"id":"10e5745843cf6c31","fromNode":"8059c374b783f1d5","fromSide":"right","toNode":"38844d740a6aafae","toSide":"left","label":"Vるものと決めつけている"}
+	]
+}

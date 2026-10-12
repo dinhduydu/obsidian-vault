@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3d313c7f2d89154c","type":"text","text":"ことなら","x":-104,"y":-32,"width":250,"height":60},
+		{"id":"f390efa7b5d9f828","x":-540,"y":-260,"width":250,"height":60,"type":"text","text":"Nếu đó là trường hợp ..."}
+	],
+	"edges":[
+		{"id":"096ad95f73beef8d","fromNode":"f390efa7b5d9f828","fromSide":"right","toNode":"3d313c7f2d89154c","toSide":"left","color":"3"}
+	]
+}

@@ -8,7 +8,7 @@
 		{"id":"7d00ae7cf9108417","type":"text","text":"（I）グループ：うー＞える\n（II）グループ：られる\n（III）グループ：できる・こられる","x":732,"y":-345,"width":348,"height":105},
 		{"id":"8cfefb7eb6ad4a2e","type":"text","text":"可能","x":-320,"y":-169,"width":250,"height":60},
 		{"id":"acd2425eaec2a455","x":-740,"y":-566,"width":250,"height":60,"type":"text","text":"V可能"},
-		{"id":"0d7706f08da8b5c0","x":-340,"y":-920,"width":205,"height":129,"type":"file","file":"N2文法/こと・もの/もの.canvas"}
+		{"id":"0d7706f08da8b5c0","x":-340,"y":-920,"width":205,"height":129,"type":"file","file":"N2文法/こと・もの/もの/もの.canvas"}
 	],
 	"edges":[
 		{"id":"90ee03711d3ea447","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"0c8f4d66755eea4a","toSide":"left"},

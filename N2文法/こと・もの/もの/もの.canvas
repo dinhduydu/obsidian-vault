@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"2d1854c1bb274c42","type":"text","text":"「N2」もの","x":-1445,"y":-35,"width":250,"height":60},
+		{"id":"c3dcef0ac44421c4","type":"file","file":"Pasted image 20260410082808.png","x":640,"y":-1643,"width":400,"height":226},
+		{"id":"4da85d2c8bf26ecb","type":"text","text":"もの","x":3195,"y":-39,"width":250,"height":60},
+		{"id":"315d3778ff341311","type":"file","file":"N2文法/こと・もの/もの/もん.canvas","x":1960,"y":-1200,"width":400,"height":400},
+		{"id":"7978099c9bea54c3","type":"file","file":"N2文法/こと・もの/もの/ものか.canvas","x":4040,"y":-980,"width":400,"height":400},
+		{"id":"df0c312d5946cc5b","type":"file","file":"N2文法/こと・もの/もの/ものの.canvas","x":4885,"y":480,"width":400,"height":400},
+		{"id":"c36696a02c827cd6","type":"file","file":"N2文法/こと・もの/もの/ものがある.canvas","x":2260,"y":720,"width":283,"height":153},
+		{"id":"3567f350615ac435","type":"file","file":"N2文法/こと・もの/もの/ものなら.canvas","x":-1312,"y":634,"width":400,"height":400},
+		{"id":"4f7bb229eb72fe30","type":"file","file":"N2文法/こと・もの/もの/ものだ.canvas","x":-1920,"y":280,"width":272,"height":177},
+		{"id":"7640d36d45a03eba","type":"file","file":"N2文法/こと・もの/もの/というもの.canvas","x":-1195,"y":-500,"width":232,"height":234},
+		{"id":"e1042eb26b8cc70d","type":"file","file":"Pasted image 20260410083523.png","x":-800,"y":-800,"width":400,"height":220},
+		{"id":"5a63f38284b905cc","x":-2519,"y":-841,"width":400,"height":400,"type":"file","file":"N2文法/こと・もの/もの/ものには.canvas"},
+		{"id":"704f7d6eab96e86e","x":3840,"y":928,"width":400,"height":400,"type":"file","file":"N2文法/こと・もの/もの/ものと.canvas"}
+	],
+	"edges":[
+		{"id":"2a839aaf975efa11","fromNode":"4da85d2c8bf26ecb","fromSide":"top","toNode":"315d3778ff341311","toSide":"right","color":"5","label":"もん - Bởi vì, là do"},
+		{"id":"94263f8addf2856e","fromNode":"c3dcef0ac44421c4","fromSide":"right","toNode":"315d3778ff341311","toSide":"left","label":"もん"},
+		{"id":"c99880c55e7fb3f0","fromNode":"4da85d2c8bf26ecb","fromSide":"right","toNode":"7978099c9bea54c3","toSide":"left","color":"5","label":"ものか：Tuyệt đối không, không đời nào"},
+		{"id":"c01897cab408c025","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"c36696a02c827cd6","toSide":"right","color":"5","label":"〜ものがある　ー　Có cảm giác... / Có gì đó rất..."},
+		{"id":"c674b624f20cb23f","fromNode":"4da85d2c8bf26ecb","fromSide":"left","toNode":"2d1854c1bb274c42","toSide":"right","color":"4","label":"「N2」もの"},
+		{"id":"36791749945d8da0","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"df0c312d5946cc5b","toSide":"left","color":"5","label":"ものの: Mặc dù"},
+		{"id":"00b8f28c866a5263","fromNode":"2d1854c1bb274c42","fromSide":"bottom","toNode":"3567f350615ac435","toSide":"top","label":"ものなら - Nếu có thể thì"},
+		{"id":"5a30665d5247494d","fromNode":"2d1854c1bb274c42","fromSide":"left","toNode":"4f7bb229eb72fe30","toSide":"right","color":"5"},
+		{"id":"018360eb8e4cc0f1","fromNode":"2d1854c1bb274c42","fromSide":"top","toNode":"7640d36d45a03eba","toSide":"left","color":"5"},
+		{"id":"460537a1c1db34e8","fromNode":"7640d36d45a03eba","fromSide":"right","toNode":"e1042eb26b8cc70d","toSide":"left"},
+		{"id":"89bf287985810274","fromNode":"2d1854c1bb274c42","fromSide":"top","toNode":"5a63f38284b905cc","toSide":"bottom","color":"5","label":"Đối với những thứ"},
+		{"id":"f64dd80f9af156ab","fromNode":"4da85d2c8bf26ecb","fromSide":"bottom","toNode":"704f7d6eab96e86e","toSide":"left","color":"5"}
+	]
+}

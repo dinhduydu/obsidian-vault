@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"330a072c089ae997","type":"text","text":"ものには","x":-97,"y":-51,"width":250,"height":60},
+		{"id":"96e9969acde1a3af","type":"text","text":"Đối với những thứ","x":-560,"y":-320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"337991cb14d246d4","fromNode":"96e9969acde1a3af","fromSide":"right","toNode":"330a072c089ae997","toSide":"left","color":"3"}
+	]
+}

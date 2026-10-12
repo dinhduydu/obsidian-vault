@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"531197f068f9474d","type":"group","x":-1387,"y":-599,"width":2774,"height":1198,"color":"6","label":"ものか：Tuyệt đối không, không đời nào"},
+		{"id":"67f138bde0a200e9","type":"text","text":"ものか","x":-1367,"y":119,"width":250,"height":50},
+		{"id":"ec13d450acc3fb11","type":"file","file":"N2文法/はず・わけ/わけ.canvas","x":-248,"y":-579,"width":185,"height":50},
+		{"id":"543488f2f58cd08c","type":"text","text":"ないものか","x":1117,"y":-249,"width":250,"height":60},
+		{"id":"4c4b64833905f214","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":1192,"y":-554,"width":101,"height":100},
+		{"id":"f44c838484487574","type":"file","file":"Pasted image 20260410083052.png","x":-358,"y":328,"width":460,"height":251},
+		{"id":"c193d76d1bc2396d","type":"file","file":"Pasted image 20260410080146.png","x":-356,"y":-319,"width":400,"height":200},
+		{"id":"afde12ffe155085c","type":"text","text":"ものか","x":461,"y":-249,"width":250,"height":60},
+		{"id":"01c353470fbf376b","type":"text","text":"ものではないのか","x":757,"y":424,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"feda4b683089d1eb","fromNode":"67f138bde0a200e9","fromSide":"right","toNode":"c193d76d1bc2396d","toSide":"left","label":"ものか"},
+		{"id":"daf60cffdf391178","fromNode":"67f138bde0a200e9","fromSide":"right","toNode":"f44c838484487574","toSide":"left","label":"ものではないのか"},
+		{"id":"81024e776aea51cb","fromNode":"f44c838484487574","fromSide":"right","toNode":"01c353470fbf376b","toSide":"left","label":"「もの＋ではないのか」"},
+		{"id":"c1103d9c66940e82","fromNode":"c193d76d1bc2396d","fromSide":"right","toNode":"afde12ffe155085c","toSide":"left","label":"ものか"},
+		{"id":"b88308dadd1d33cb","fromNode":"ec13d450acc3fb11","fromSide":"bottom","toNode":"c193d76d1bc2396d","toSide":"top","label":"わけがない"},
+		{"id":"f8fc5ad63197c760","fromNode":"afde12ffe155085c","fromSide":"right","toNode":"543488f2f58cd08c","toSide":"left","label":"「ない＋ものか」"},
+		{"id":"29f67bd6de86a13f","fromNode":"543488f2f58cd08c","fromSide":"top","toNode":"4c4b64833905f214","toSide":"bottom"}
+	]
+}

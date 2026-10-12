@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"542d85c27d357a4f","type":"group","x":-1325,"y":-903,"width":1725,"height":943,"color":"5","label":"ものなら"},
+		{"id":"802a2a210823811a","type":"text","text":"Use to express: st  that should not be happened and the unfavorable situation when it happens","x":-473,"y":473,"width":250,"height":115},
+		{"id":"b900caeeff66d64a","type":"file","file":"Pasted image 20260410083432.png","x":-785,"y":-883,"width":560,"height":306},
+		{"id":"57b4ddff94efe159","type":"file","file":"Pasted image 20260407221951.png","x":-1305,"y":-370,"width":260,"height":260},
+		{"id":"cca2d43464555e51","type":"text","text":"うちの犬は、外です小士でも音が**しようものなら**、すごい勢いで吠える。","x":-1185,"y":810,"width":343,"height":73},
+		{"id":"819905beecaf612a","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":320,"y":-1240,"width":205,"height":120},
+		{"id":"11997656f25bebcd","type":"text","text":"Đưa ra thách thức","x":1055,"y":-1600,"width":250,"height":60},
+		{"id":"d69aa0da4c2e3048","type":"text","text":"Khát vọng viển vông","x":1060,"y":-1020,"width":250,"height":60},
+		{"id":"271b4ef61de6aa45","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":860,"y":-180,"width":200,"height":180}
+	],
+	"edges":[
+		{"id":"36cbd9ae2aab1deb","fromNode":"57b4ddff94efe159","fromSide":"bottom","toNode":"802a2a210823811a","toSide":"left","label":"ものなら"},
+		{"id":"0e33bbda9de7df76","fromNode":"b900caeeff66d64a","fromSide":"bottom","toNode":"57b4ddff94efe159","toSide":"top","label":"ものなら"},
+		{"id":"225afc690fbac7d1","fromNode":"802a2a210823811a","fromSide":"bottom","toNode":"cca2d43464555e51","toSide":"right","label":"Vようものなら"},
+		{"id":"2958635800730d10","fromNode":"b900caeeff66d64a","fromSide":"bottom","toNode":"271b4ef61de6aa45","toSide":"top","color":"3","label":"Vようものなら"},
+		{"id":"3205bcde76daf6ea","fromNode":"b900caeeff66d64a","fromSide":"right","toNode":"819905beecaf612a","toSide":"left","label":"V可能ものなら"},
+		{"id":"08c0e7d108366717","fromNode":"271b4ef61de6aa45","fromSide":"bottom","toNode":"802a2a210823811a","toSide":"top","label":"Vようものなら"},
+		{"id":"a318fe3d37117d46","fromNode":"819905beecaf612a","fromSide":"right","toNode":"11997656f25bebcd","toSide":"left","color":"3","label":"V可能ものなら"},
+		{"id":"d78b8b58652b991d","fromNode":"819905beecaf612a","fromSide":"right","toNode":"d69aa0da4c2e3048","toSide":"left","color":"3","label":"V可能ものなら"}
+	]
+}

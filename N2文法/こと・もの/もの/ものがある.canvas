@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"17676b8c6a5d3e78","type":"group","x":-197,"y":-296,"width":850,"height":540,"color":"2","label":"〜ものがある　ー　Có cảm giác... / Có gì đó rất..."},
+		{"id":"51d02faee359d10c","type":"text","text":"ものがある","x":383,"y":-66,"width":250,"height":60},
+		{"id":"d106b061c41fc95b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものがある.md","x":-177,"y":-176,"width":400,"height":400},
+		{"id":"faa9f1562bd094eb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜べきものがある.md","x":-597,"y":114,"width":265,"height":221}
+	],
+	"edges":[
+		{"id":"566320b58d9509f6","fromNode":"51d02faee359d10c","fromSide":"left","toNode":"d106b061c41fc95b","toSide":"right"},
+		{"id":"a034dfe39798a9e4","fromNode":"d106b061c41fc95b","fromSide":"left","toNode":"faa9f1562bd094eb","toSide":"right"}
+	]
+}
