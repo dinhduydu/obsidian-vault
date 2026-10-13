@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5e58b93c51f4e74c","type":"group","x":-1070,"y":-678,"width":1260,"height":1357,"color":"5","label":"だけだ　ー　Chỉ còn cách"},
+		{"id":"e87a4dfc37a6cddd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけだ (Chỉ là_Chỉ đơn giản là).md","x":-1010,"y":118,"width":400,"height":400},
+		{"id":"e68d5b4934745c56","type":"file","file":"N2文法/のみ.canvas","x":-462,"y":356,"width":252,"height":54},
+		{"id":"0fff16d718298ab7","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":-1050,"y":-276,"width":270,"height":92},
+		{"id":"0dfa5c9737829bdc","type":"text","text":"～が~だけだ","x":-690,"y":-484,"width":250,"height":60},
+		{"id":"761124f97e1fd637","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりだ.md","x":670,"y":-655,"width":400,"height":400},
+		{"id":"d460cb06d6649245","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.canvas","x":-210,"y":-578,"width":253,"height":246},
+		{"id":"1e8e83983de835a8","type":"file","file":"Pasted image 20260409002811.png","x":-337,"y":-184,"width":507,"height":247}
+	],
+	"edges":[
+		{"id":"2fa833b25c274d4a","fromNode":"0fff16d718298ab7","fromSide":"bottom","toNode":"e87a4dfc37a6cddd","toSide":"top","label":"〜だけだ (Chỉ là_Chỉ đơn giản là)"},
+		{"id":"99f7287ecb309584","fromNode":"1e8e83983de835a8","fromSide":"bottom","toNode":"e68d5b4934745c56","toSide":"top","label":"のみだ　ー　trang trọng, văn viết"},
+		{"id":"2b7a1dea6b700c79","fromNode":"1e8e83983de835a8","fromSide":"top","toNode":"d460cb06d6649245","toSide":"bottom","label":"ばかりだ"},
+		{"id":"e65ff2fd5a35733e","fromNode":"0fff16d718298ab7","fromSide":"right","toNode":"1e8e83983de835a8","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
+		{"id":"8210ffd7b18421e8","fromNode":"0fff16d718298ab7","fromSide":"top","toNode":"0dfa5c9737829bdc","toSide":"left","label":"～が~だけだ"},
+		{"id":"d6146cce3aa12405","fromNode":"d460cb06d6649245","fromSide":"right","toNode":"761124f97e1fd637","toSide":"left","label":"〜ばかりだ"}
+	]
+}

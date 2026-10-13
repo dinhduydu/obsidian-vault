@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3b1c74db7e6d17f7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/ある.md","x":-600,"y":-260,"width":234,"height":97},
+		{"id":"0e494e4aae428318","type":"text","text":"でもある","x":-120,"y":40,"width":250,"height":60},
+		{"id":"6fdeeced8e19f430","type":"file","file":"N2文法/こと・もの/こと/こともある.canvas","x":-120,"y":-279,"width":257,"height":136},
+		{"id":"499e99e88aa5c99d","type":"file","file":"N2文法/こと・もの/もの/ものがある.canvas","x":-120,"y":-600,"width":283,"height":152}
+	],
+	"edges":[
+		{"id":"a67f920c297722ef","fromNode":"3b1c74db7e6d17f7","fromSide":"right","toNode":"0e494e4aae428318","toSide":"left","color":"5","label":"Ngoài ra còn có"},
+		{"id":"29d68d80b579b225","fromNode":"3b1c74db7e6d17f7","fromSide":"right","toNode":"499e99e88aa5c99d","toSide":"left"},
+		{"id":"4804193109fd9863","fromNode":"3b1c74db7e6d17f7","fromSide":"right","toNode":"6fdeeced8e19f430","toSide":"left","label":"Thỉnh thoảng"}
+	]
+}

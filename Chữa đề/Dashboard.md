@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 418
-- Total Knowledge Items: 4414
-- Correct: 3074
-- Wrong: 3676
-- Accuracy: 45.5%
+- Total Reviews: 419
+- Total Knowledge Items: 4424
+- Correct: 3086
+- Wrong: 3684
+- Accuracy: 45.6%
 
 ## 🚨 Review Queue
 
@@ -15,6 +15,7 @@
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
+- [[そこで]] | Conjunction| Score: 55| Wrong: 8
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 55| Wrong: 8
 - [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
@@ -29,7 +30,6 @@
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[しかし]] | Conjunction| Score: 47| Wrong: 7
 - [[連続]] | Vocabulary| Score: 45| Wrong: 9
-- [[衝突]] | Kanji| Score: 45| Wrong: 6
 
 ## 🔥 Top Weak Points
 
@@ -40,6 +40,7 @@
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[そこで]] (Conjunction) Wrong: 8
 - [[〜がち]] (Grammar) Wrong: 8
 - [[相続]] (Vocabulary) Wrong: 8
 - [[要点]] (Vocabulary) Wrong: 8
@@ -52,22 +53,21 @@
 - [[しかし]] (Conjunction) Wrong: 7
 - [[〜ものの]] (Grammar) Wrong: 7
 - [[大工]] (Vocabulary) Wrong: 7
-- [[事実]] (Vocabulary) Wrong: 7
 
 ## 📈 Category Statistics
 
-- Adverb: 44.3% (Correct 255 / Wrong 321)
+- Adverb: 44.6% (Correct 258 / Wrong 321)
 - Collocation: 46.3% (Correct 125 / Wrong 145)
-- CompoundVerb: 42.6% (Correct 139 / Wrong 187)
-- Conjunction: 33.7% (Correct 56 / Wrong 110)
+- CompoundVerb: 43.0% (Correct 141 / Wrong 187)
+- Conjunction: 33.9% (Correct 57 / Wrong 111)
 - Demonstratives: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 41.1% (Correct 188 / Wrong 269)
-- Grammar: 45.4% (Correct 753 / Wrong 907)
+- FixedExpression: 41.3% (Correct 189 / Wrong 269)
+- Grammar: 45.3% (Correct 757 / Wrong 914)
 - Kanji: 49.7% (Correct 290 / Wrong 293)
 - Katakana: 49.4% (Correct 134 / Wrong 137)
 - Keigo: 44.0% (Correct 33 / Wrong 42)
 - Reading: 31.2% (Correct 67 / Wrong 148)
-- Vocabulary: 48.1% (Correct 1028 / Wrong 1108)
+- Vocabulary: 48.2% (Correct 1029 / Wrong 1108)
 
 ## 📚 Top Grammar
 
@@ -188,8 +188,8 @@
 
 ## 📚 Top Conjunction
 
+- [[そこで]] (Score: 55)
 - [[しかし]] (Score: 47)
-- [[そこで]] (Score: 37)
 - [[それにしては]] (Score: 35)
 - [[要するに]] (Score: 35)
 - [[つまり]] (Score: 32)
@@ -233,6 +233,7 @@
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020261.pdf)]]
+- [[2. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020262.pdf)]]
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
 - [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
 - [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
@@ -245,4 +246,3 @@
 - [[5. Phân Tích Bài Làm Tiếng Nhật N2 (Đọc Hiểu - Source 111020263.pdf)]]
 - [[6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf]]
 - [[7. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-6-10.pdf]]
-- [[8. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-11-15.pdf]]

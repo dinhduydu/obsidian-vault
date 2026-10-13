@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"889a0dc422bbf001","type":"group","x":-902,"y":-628,"width":1805,"height":1256,"label":"9. Bất chấp"},
+		{"id":"763f591bb5f0c83b","type":"file","file":"Pasted image 20260412204205.png","x":374,"y":329,"width":509,"height":279},
+		{"id":"5062133a762ba051","type":"file","file":"Pasted image 20260412205548.png","x":-151,"y":-128,"width":400,"height":198},
+		{"id":"8ac9ca0f7a415935","type":"file","file":"Pasted image 20260412205630.png","x":-882,"y":-608,"width":400,"height":195},
+		{"id":"29c4d72b4f2bb259","x":-1400,"y":233,"width":286,"height":193,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にもかかわらず.md"},
+		{"id":"44d9f2a6944c5922","x":-1480,"y":-413,"width":329,"height":265,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にかかわらず.md"}
+	],
+	"edges":[
+		{"id":"e1d5fc18e77f8050","fromNode":"763f591bb5f0c83b","fromSide":"top","toNode":"5062133a762ba051","toSide":"right","label":"にかかわらず"},
+		{"id":"8d88511dd43abb42","fromNode":"5062133a762ba051","fromSide":"left","toNode":"8ac9ca0f7a415935","toSide":"right","label":"にかかわらず"},
+		{"id":"a73d68c78637621f","fromNode":"889a0dc422bbf001","fromSide":"left","toNode":"29c4d72b4f2bb259","toSide":"right"},
+		{"id":"fa8ebb91a0385938","fromNode":"889a0dc422bbf001","fromSide":"left","toNode":"44d9f2a6944c5922","toSide":"right"}
+	]
+}

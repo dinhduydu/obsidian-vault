@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"fa8fa375b8a172c5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ほど...ない.md","x":-380,"y":-200,"width":272,"height":117},
+		{"id":"a2ebfddcf2be4343","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ほどではない.md","x":-960,"y":-395,"width":302,"height":183},
+		{"id":"f077df6b07889ebb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ほど〜はない.md","x":-938,"y":-23,"width":280,"height":140},
+		{"id":"acecc31936ccfe23","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":424,"y":-23,"width":336,"height":270},
+		{"id":"55b661796898233f","type":"file","file":"N2文法/くらい・ほど/ほど/ほど.canvas","x":424,"y":-660,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d24270e74be80c6b","fromNode":"fa8fa375b8a172c5","fromSide":"left","toNode":"a2ebfddcf2be4343","toSide":"right","color":"5"},
+		{"id":"41c2987fb9c5365d","fromNode":"acecc31936ccfe23","fromSide":"left","toNode":"fa8fa375b8a172c5","toSide":"right","color":"2","label":"Không đến mức như là...."},
+		{"id":"df53061437206acb","fromNode":"55b661796898233f","fromSide":"left","toNode":"fa8fa375b8a172c5","toSide":"right","color":"2","label":"Không đến mức như là...."},
+		{"id":"30f4dd5765ea42f8","fromNode":"fa8fa375b8a172c5","fromSide":"left","toNode":"f077df6b07889ebb","toSide":"right","color":"5"}
+	]
+}

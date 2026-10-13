@@ -112,10 +112,10 @@
 		{"id":"7d298a65ccd47159","type":"text","text":"Vてでも","x":-320,"y":401,"width":250,"height":60},
 		{"id":"798583bfa0babf8d","type":"file","file":"Pasted image 20260517131237.png","x":-3300,"y":416,"width":398,"height":85},
 		{"id":"ac1e792f7688268c","type":"file","file":"Pasted image 20260517143753.png","x":1045,"y":-1803,"width":400,"height":62},
-		{"id":"aeeae6779604096f","x":4960,"y":-2626,"width":400,"height":400,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/VてあげるーVてもらうーVてくれる.canvas"},
-		{"id":"c586397c92eb5510","x":5580,"y":-2980,"width":237,"height":159,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/Vて上げる.canvas"},
-		{"id":"bb34d851aeebd313","x":5580,"y":-2626,"width":254,"height":157,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/もらう/Vてもらう.canvas"},
-		{"id":"1419370f88eb3a28","x":5580,"y":-2340,"width":274,"height":206,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/Vてくれる.canvas"}
+		{"id":"aeeae6779604096f","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/VてあげるーVてもらうーVてくれる.canvas","x":4960,"y":-2626,"width":400,"height":400},
+		{"id":"c586397c92eb5510","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/Vて上げる.canvas","x":5580,"y":-2980,"width":237,"height":159},
+		{"id":"bb34d851aeebd313","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/もらう/Vてもらう.canvas","x":5580,"y":-2626,"width":254,"height":157},
+		{"id":"1419370f88eb3a28","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/Vてくれる.canvas","x":5580,"y":-2340,"width":274,"height":206}
 	],
 	"edges":[
 		{"id":"519587cf028e11c6","fromNode":"8414916f72c4771b","fromSide":"top","toNode":"3bc2fd0607231724","toSide":"bottom","label":"Vてしまう　"},
