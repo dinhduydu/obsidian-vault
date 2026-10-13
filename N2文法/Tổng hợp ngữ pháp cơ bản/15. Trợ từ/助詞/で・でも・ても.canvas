@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c1e44fd41806a944","type":"text","text":"で","x":-380,"y":-76,"width":250,"height":60},
-		{"id":"c8c08fd2388f24b9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて.canvas","x":-900,"y":360,"width":160,"height":120},
+		{"id":"c8c08fd2388f24b9","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-900,"y":360,"width":160,"height":120},
 		{"id":"8f0bf61017b908d0","type":"text","text":"Vて\nAいー＞くて\nAなー＞で\nNで","x":-1227,"y":723,"width":250,"height":117},
 		{"id":"56b4eb445ff4a096","type":"text","text":"Diễn tả nguyên nhân, lý do","x":-1477,"y":1040,"width":250,"height":60},
 		{"id":"bddd8bbde5545e4d","type":"text","text":"Cảm tạ, xin lỗi","x":-1670,"y":1259,"width":250,"height":60},

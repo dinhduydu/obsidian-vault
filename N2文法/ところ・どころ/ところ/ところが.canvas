@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cb39ad9b5cc455bf","type":"text","text":"ところが","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7e18c6e29e5a4ceb","x":-620,"y":-140,"width":250,"height":60,"type":"text","text":"Làm A nhưng bất ngờ nhận được kết quả B ngược lại"}
+	],
+	"edges":[
+		{"id":"070c6bb3c539357d","fromNode":"7e18c6e29e5a4ceb","fromSide":"right","toNode":"cb39ad9b5cc455bf","toSide":"left","color":"3"}
+	]
+}

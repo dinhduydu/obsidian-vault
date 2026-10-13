@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fb33342f40410445","type":"text","text":"ところに","x":-350,"y":28,"width":250,"height":60},
+		{"id":"3b4174e1a8455249","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-280,"y":-340,"width":190,"height":100},
+		{"id":"c34db1925d84337e","type":"text","text":"Vている＋ところに","x":120,"y":-160,"width":250,"height":60},
+		{"id":"4832fcd8623e4a24","type":"text","text":"Vた＋ところに","x":140,"y":260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cdd747a47017c6d9","fromNode":"fb33342f40410445","fromSide":"right","toNode":"c34db1925d84337e","toSide":"left","color":"3"},
+		{"id":"e2bb18ca77403d97","fromNode":"fb33342f40410445","fromSide":"right","toNode":"4832fcd8623e4a24","toSide":"left","color":"3","label":"Vた＋ところに"},
+		{"id":"a560ea572bf3cce3","fromNode":"3b4174e1a8455249","fromSide":"right","toNode":"c34db1925d84337e","toSide":"left","color":"3","label":"Vている＋ところに"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"09f5a0fab13630c1","type":"text","text":"Vるところ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7a37a94e949f0954","type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-るところだった.md","x":420,"y":160,"width":300,"height":100},
+		{"id":"4ff4e26f463f99af","type":"file","file":"Pasted image 20260412213052.png","x":-720,"y":-380,"width":400,"height":215},
+		{"id":"cd1224c1bed75520","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ているところ.md","x":460,"y":-680,"width":274,"height":103},
+		{"id":"9f642abbe1415a88","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/至るところ.md","x":580,"y":-240,"width":220,"height":52},
+		{"id":"fb77b4eec04c9880","type":"file","file":"N2文法/ところ・どころ/ところ/ところだ.canvas","x":-160,"y":340,"width":250,"height":122}
+	],
+	"edges":[
+		{"id":"9f6b30f5b5f7ccf0","fromNode":"09f5a0fab13630c1","fromSide":"right","toNode":"7a37a94e949f0954","toSide":"left","color":"5","label":"Suýt nữa thì..."},
+		{"id":"4d23a3eb19f14171","fromNode":"4ff4e26f463f99af","fromSide":"right","toNode":"09f5a0fab13630c1","toSide":"left","color":"3","label":"Vừa mới kết thúc"},
+		{"id":"425c56bd486a77b4","fromNode":"09f5a0fab13630c1","fromSide":"right","toNode":"9f642abbe1415a88","toSide":"left","color":"6","label":"Khắp nơi, mọi nơi, đi đâu cũng thấy."},
+		{"id":"89b43ab9a579608a","fromNode":"09f5a0fab13630c1","fromSide":"right","toNode":"cd1224c1bed75520","toSide":"left","color":"6"},
+		{"id":"1004b5a8ad82c610","fromNode":"fb77b4eec04c9880","fromSide":"right","toNode":"7a37a94e949f0954","toSide":"left","color":"2"}
+	]
+}

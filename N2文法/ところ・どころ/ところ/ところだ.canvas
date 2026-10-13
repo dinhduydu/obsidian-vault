@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"70fac68f8b877315","type":"text","text":"ところだ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2f518a0ada3c11cb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ところだった.md","x":340,"y":-320,"width":365,"height":126},
+		{"id":"5c51450e05a3fe6f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-るところだった.md","x":840,"y":-460,"width":297,"height":114},
+		{"id":"9a5f0cf5ace1bc41","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜といったところだ.md","x":460,"y":0,"width":339,"height":121},
+		{"id":"fa33ad9cc49c1aa3","type":"text","text":"A+Vた＋ところだ","x":480,"y":300,"width":250,"height":61},
+		{"id":"fef471d3eaa59fc1","x":348,"y":-660,"width":224,"height":87,"type":"file","file":"N2文法/ところ・どころ/ところ/V　＋　ところ/Vているところ.canvas"}
+	],
+	"edges":[
+		{"id":"a8e76ff7d0faf1b1","fromNode":"70fac68f8b877315","fromSide":"right","toNode":"2f518a0ada3c11cb","toSide":"left","color":"5"},
+		{"id":"a1d916203d797b58","fromNode":"2f518a0ada3c11cb","fromSide":"right","toNode":"5c51450e05a3fe6f","toSide":"left"},
+		{"id":"ab08645026c73d90","fromNode":"70fac68f8b877315","fromSide":"right","toNode":"9a5f0cf5ace1bc41","toSide":"left","color":"5"},
+		{"id":"3b17f5a648bfcbbd","fromNode":"70fac68f8b877315","fromSide":"right","toNode":"fa33ad9cc49c1aa3","toSide":"left","label":"Từ bây giờ sẽ làm A"},
+		{"id":"d3bc95ae0a96c420","fromNode":"fef471d3eaa59fc1","fromSide":"right","toNode":"5c51450e05a3fe6f","toSide":"left","color":"3"}
+	]
+}

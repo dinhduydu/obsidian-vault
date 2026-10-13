@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7c6a084466564594","type":"text","text":"学生のときによく通った喫茶店やお菓子屋、楽器店などが今もまだ（　　）なつかしかったと西田さんは語る。\nÔng Nisida nói rằng ông vẫn cảm thấy hoài niệm về những quán cà phê, cửa hàng bánh ngọt và cửa hàng nhạc cụ mà ông từng lui tới khi còn là sinh viên","x":-166,"y":9,"width":846,"height":91},
+		{"id":"aceda37bae4b1d80","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/営業.md","x":520,"y":-280,"width":200,"height":103},
+		{"id":"ec643d5015c7239c","x":460,"y":280,"width":440,"height":440,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N5/みんな日本語１/20. ～ています/20. ～ています.md"},
+		{"id":"0eba29475aaaba40","type":"text","text":"1 営業して\n2 営業していなくて\n3 営業しなくて\n4 営業していて","x":980,"y":-14,"width":282,"height":138},
+		{"id":"fbcb7df21ae12f17","x":1500,"y":-100,"width":250,"height":60,"type":"text","text":"営業していて"}
+	],
+	"edges":[
+		{"id":"1d69b50e8db20962","fromNode":"aceda37bae4b1d80","fromSide":"right","toNode":"0eba29475aaaba40","toSide":"left","label":"えいぎょう (kinh doanh)."},
+		{"id":"123d81feed459e7c","fromNode":"7c6a084466564594","fromSide":"right","toNode":"0eba29475aaaba40","toSide":"left"},
+		{"id":"51c52c796042af8f","fromNode":"ec643d5015c7239c","fromSide":"right","toNode":"0eba29475aaaba40","toSide":"left"},
+		{"id":"e5cecb216e8c37d9","fromNode":"0eba29475aaaba40","fromSide":"right","toNode":"fbcb7df21ae12f17","toSide":"left"}
+	]
+}

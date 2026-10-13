@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"90741f538f2d85a0","type":"text","text":"にしたところで","x":-582,"y":250,"width":250,"height":60},
+		{"id":"4aad32917455b276","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":-1062,"y":-310,"width":300,"height":176},
+		{"id":"ef23407888b5c023","type":"text","text":"ところで","x":113,"y":260,"width":250,"height":50},
+		{"id":"7fb209a0298faf2c","type":"file","file":"Pasted image 20260412213254.png","x":664,"y":-130,"width":399,"height":219},
+		{"id":"a8f7fd9e9962b02e","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ところで.md","x":53,"y":-480,"width":310,"height":214},
+		{"id":"fde0a32653a39260","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たところで.md","x":664,"y":440,"width":361,"height":118},
+		{"id":"0536dd4c2086c76e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たところで ... ない.md","x":1420,"y":620,"width":302,"height":177},
+		{"id":"070688212d25d5aa","type":"text","text":"Vế sau thường là đánh giá tiêu cực hoặc phủ định.","x":238,"y":700,"width":250,"height":60},
+		{"id":"192b1d77fef1311a","type":"file","file":"Pasted image 20260410083936.png","x":1540,"y":220,"width":496,"height":272}
+	],
+	"edges":[
+		{"id":"53cd220f2553121d","fromNode":"90741f538f2d85a0","fromSide":"left","toNode":"4aad32917455b276","toSide":"right","label":"にしたところで"},
+		{"id":"679202ec9cee163a","fromNode":"ef23407888b5c023","fromSide":"left","toNode":"90741f538f2d85a0","toSide":"right","label":"にした＋ところで"},
+		{"id":"c885c704bdecfe06","fromNode":"ef23407888b5c023","fromSide":"top","toNode":"7fb209a0298faf2c","toSide":"left","label":"ところで"},
+		{"id":"0f82e63ea8205fe0","fromNode":"a8f7fd9e9962b02e","fromSide":"right","toNode":"7fb209a0298faf2c","toSide":"left","color":"3","label":"Nhân tiện thì"},
+		{"id":"cb7f78ace9f48d96","fromNode":"ef23407888b5c023","fromSide":"right","toNode":"fde0a32653a39260","toSide":"left","color":"5","label":"Cho dù... thì cũng không."},
+		{"id":"7fd469ad1a8b2a3d","fromNode":"fde0a32653a39260","fromSide":"right","toNode":"0536dd4c2086c76e","toSide":"left","color":"4","label":"Cho dù... thì cũng không."},
+		{"id":"b5ca23313a5ce349","fromNode":"070688212d25d5aa","fromSide":"right","toNode":"fde0a32653a39260","toSide":"left","color":"3"},
+		{"id":"4c776369bea4baf0","fromNode":"fde0a32653a39260","fromSide":"right","toNode":"192b1d77fef1311a","toSide":"left","label":"Dù có thì cũng không"}
+	]
+}

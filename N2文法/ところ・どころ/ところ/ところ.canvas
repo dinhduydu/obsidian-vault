@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"fec32141cf12e62b","type":"file","file":"Pasted image 20260412212644.png","x":-1220,"y":-410,"width":400,"height":92},
+		{"id":"9f89fb96333c7a70","type":"text","text":"「N2」ところ","x":-1132,"y":-10,"width":225,"height":60},
+		{"id":"54b58a45854f5151","type":"text","text":"「N2」ところ","x":-1600,"y":-1480,"width":250,"height":60},
+		{"id":"b33320578949c07c","type":"file","file":"Pasted image 20260412213330.png","x":-1875,"y":-2480,"width":400,"height":223},
+		{"id":"a11636b2279ba894","type":"text","text":"「N３」ところ","x":-475,"y":-1120,"width":250,"height":50},
+		{"id":"49ca8cc8c147eb2a","type":"file","file":"Pasted image 20260412213052.png","x":845,"y":-1732,"width":400,"height":215},
+		{"id":"e66c1ec2a164b5b8","type":"file","file":"N2文法/ところ・どころ/ところ/ところで.canvas","x":-920,"y":-2340,"width":196,"height":100},
+		{"id":"9806240f92d5470d","type":"file","file":"N2文法/ところ・どころ/ところ/ところを.canvas","x":-1170,"y":-1480,"width":300,"height":262},
+		{"id":"ab296900fd4092ac","type":"file","file":"N2文法/ところ・どころ/ところ/ところから.canvas","x":-1102,"y":-1020,"width":282,"height":157},
+		{"id":"30a4406313940999","type":"file","file":"N2文法/ところ・どころ/ところ/ところまでで.canvas","x":60,"y":-760,"width":297,"height":143},
+		{"id":"a7f3e270e411d20d","type":"file","file":"N2文法/ところ・どころ/ところ/ところから.canvas","x":-2080,"y":-1840,"width":266,"height":140},
+		{"id":"0ed4d8498cdc59bb","type":"file","file":"N2文法/ところ・どころ/ところ/V　＋　ところ/Vたところ.canvas","x":460,"y":-1340,"width":215,"height":107},
+		{"id":"72da5e99e901d752","type":"file","file":"N2文法/ところ・どころ/ところ/V　＋　ところ/Vるところ.canvas","x":157,"y":-1940,"width":218,"height":80},
+		{"id":"222e041acb64c2cc","type":"file","file":"N2文法/ところ・どころ/ところ/V　＋　ところ/Vているところ.canvas","x":110,"y":-1675,"width":240,"height":102},
+		{"id":"d0d283758162c5e6","type":"file","file":"N2文法/ところ・どころ/ところ/ところだ.canvas","x":67,"y":-1040,"width":199,"height":88},
+		{"id":"00e2844d30193693","type":"file","file":"N2文法/ところ・どころ/ところ/ところへ・に/ところへ・に.canvas","x":-1780,"y":-92,"width":227,"height":165},
+		{"id":"19b8a68fb814b11e","type":"file","file":"Pasted image 20260410083936.png","x":1080,"y":-1176,"width":496,"height":272}
+	],
+	"edges":[
+		{"id":"8b6fbf34d451906f","fromNode":"a11636b2279ba894","fromSide":"left","toNode":"9806240f92d5470d","toSide":"right","color":"5","label":"Trong lúc... / Vào lúc..."},
+		{"id":"4db0ada5954bbc0b","fromNode":"a11636b2279ba894","fromSide":"top","toNode":"e66c1ec2a164b5b8","toSide":"bottom","color":"5","label":"ところで"},
+		{"id":"94c0ce669c14b3b4","fromNode":"54b58a45854f5151","fromSide":"top","toNode":"b33320578949c07c","toSide":"top","label":"ところだった"},
+		{"id":"07cd0a1ac2a3ffee","fromNode":"fec32141cf12e62b","fromSide":"bottom","toNode":"9f89fb96333c7a70","toSide":"top","label":"「N2」ところ"},
+		{"id":"3b559f6f09d7e8c1","fromNode":"fec32141cf12e62b","fromSide":"right","toNode":"a11636b2279ba894","toSide":"left","color":"3","label":"「N３」ところ"},
+		{"id":"ad4cb91c47565089","fromNode":"fec32141cf12e62b","fromSide":"top","toNode":"54b58a45854f5151","toSide":"bottom","label":"「N2」ところ"},
+		{"id":"3d53b7d5c14cb65d","fromNode":"54b58a45854f5151","fromSide":"left","toNode":"a7f3e270e411d20d","toSide":"right","label":"ところから"},
+		{"id":"f43c1c6d2d3966a8","fromNode":"9f89fb96333c7a70","fromSide":"bottom","toNode":"00e2844d30193693","toSide":"right","color":"5","label":"ところへ・に"},
+		{"id":"528b1ea7f62bd186","fromNode":"a11636b2279ba894","fromSide":"right","toNode":"222e041acb64c2cc","toSide":"left","color":"5","label":"Vている＋ところ"},
+		{"id":"250a9463f09acdf9","fromNode":"a11636b2279ba894","fromSide":"right","toNode":"0ed4d8498cdc59bb","toSide":"left","color":"5","label":"Vた＋ところ"},
+		{"id":"84f83f7104465192","fromNode":"a11636b2279ba894","fromSide":"right","toNode":"d0d283758162c5e6","toSide":"left","label":"ところだ"},
+		{"id":"25a9b2765d646204","fromNode":"a11636b2279ba894","fromSide":"right","toNode":"72da5e99e901d752","toSide":"left","color":"5","label":"Vるところ"},
+		{"id":"137e7f654442645f","fromNode":"72da5e99e901d752","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"left","label":"Vるところ"},
+		{"id":"2760b2364c782cb2","fromNode":"222e041acb64c2cc","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"left","label":"Vているところ"},
+		{"id":"8bf6e7961c1cc518","fromNode":"a11636b2279ba894","fromSide":"left","toNode":"ab296900fd4092ac","toSide":"right","color":"5"},
+		{"id":"f075a3c3a636dc96","fromNode":"a11636b2279ba894","fromSide":"right","toNode":"30a4406313940999","toSide":"left","color":"5"},
+		{"id":"49a4599590a47c3c","fromNode":"0ed4d8498cdc59bb","fromSide":"right","toNode":"49ca8cc8c147eb2a","toSide":"left"},
+		{"id":"2b0052ccb3ac8c6a","fromNode":"0ed4d8498cdc59bb","fromSide":"right","toNode":"19b8a68fb814b11e","toSide":"left","color":"4"}
+	]
+}

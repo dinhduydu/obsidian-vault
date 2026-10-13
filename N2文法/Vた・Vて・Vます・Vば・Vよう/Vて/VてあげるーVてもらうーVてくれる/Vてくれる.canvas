@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"72448a23c6350473","type":"text","text":"（Nを）あげる～てあげる\n（Nを）もらう～てもらう\n（Nを）くれる～てくれる","x":-1774,"y":232,"width":250,"height":102},
+		{"id":"e23d5a8448e324a4","type":"text","text":"くれる","x":-1115,"y":51,"width":250,"height":60,"color":"4"},
+		{"id":"771164fbaaacee6c","type":"file","file":"Pasted image 20260505210130.png","x":-1115,"y":376,"width":244,"height":184},
+		{"id":"a4c9e064bc0a3d8e","type":"text","text":"（上が）Vてくださる","x":-560,"y":-320,"width":250,"height":60},
+		{"id":"f758d825cfddf7e0","type":"text","text":"Dùng khi cho đối phương biết 1 cách gián tiếp nội dung mình được nhờ vả","x":-741,"y":700,"width":362,"height":60},
+		{"id":"c34a4fb8ba6832a9","type":"text","text":"Vてくれといわれる","x":-200,"y":470,"width":250,"height":60},
+		{"id":"856473081db8dfd6","type":"text","text":"母に今日ははやく帰ってきてくれと言われる。","x":216,"y":200,"width":250,"height":60},
+		{"id":"b8fe8c9a5f120dac","type":"text","text":"友達にケーキをつくってくれとたのまれた。","x":257,"y":800,"width":250,"height":60},
+		{"id":"30b09f52c1e70e0d","type":"text","text":"Thể hiện sự kính trọng với bề trên","x":-990,"y":-520,"width":250,"height":60},
+		{"id":"22b54610d8d027f4","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/VてあげるーVてもらうーVてくれる.canvas","x":-2200,"y":232,"width":197,"height":95}
+	],
+	"edges":[
+		{"id":"cfcd077e6dfc577a","fromNode":"72448a23c6350473","fromSide":"right","toNode":"e23d5a8448e324a4","toSide":"left","color":"4","label":"Vてくれる"},
+		{"id":"45c809c974a74f17","fromNode":"22b54610d8d027f4","fromSide":"right","toNode":"72448a23c6350473","toSide":"left"},
+		{"id":"267774e4450bfaad","fromNode":"e23d5a8448e324a4","fromSide":"right","toNode":"a4c9e064bc0a3d8e","toSide":"left","color":"5","label":"（上が）Vてくださる"},
+		{"id":"4bb1a791c4535b6a","fromNode":"e23d5a8448e324a4","fromSide":"right","toNode":"c34a4fb8ba6832a9","toSide":"left","color":"5","label":"Vてくれといわれる"},
+		{"id":"434c9dcf1e36e92d","fromNode":"e23d5a8448e324a4","fromSide":"bottom","toNode":"771164fbaaacee6c","toSide":"top","label":"Vてくれた"},
+		{"id":"f06dab8511e35bbd","fromNode":"c34a4fb8ba6832a9","fromSide":"right","toNode":"b8fe8c9a5f120dac","toSide":"left","color":"6","label":"Vてくれといわれる"},
+		{"id":"6013c5b1c7454a84","fromNode":"c34a4fb8ba6832a9","fromSide":"right","toNode":"856473081db8dfd6","toSide":"left","color":"6","label":"Vてくれといわれる"},
+		{"id":"d80ffd0d95973766","fromNode":"f758d825cfddf7e0","fromSide":"right","toNode":"c34a4fb8ba6832a9","toSide":"left","color":"3"},
+		{"id":"a9644eede413da66","fromNode":"30b09f52c1e70e0d","fromSide":"right","toNode":"a4c9e064bc0a3d8e","toSide":"left","color":"3"}
+	]
+}

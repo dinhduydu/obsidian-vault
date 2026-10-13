@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d4142e96bb54967d","x":-131,"y":-54,"width":631,"height":94,"type":"text","text":"山田「原田さん、この書類、ここにもサインを（　　）ですか。」\n\n　原田「あ、すみません。すぐします。」"},
+		{"id":"aca3bd708fcba622","x":640,"y":-73,"width":289,"height":132,"type":"text","text":"1 してくれたらいい\n2 してあげてもいい\n3 してやったらいい\n4 してもらってもいい\n"},
+		{"id":"05d268edea48032c","x":1200,"y":-200,"width":214,"height":159,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てもらう.md"},
+		{"id":"dfdca318811abec7","x":278,"y":-360,"width":222,"height":146,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas"}
+	],
+	"edges":[
+		{"id":"c938e6ddffb12473","fromNode":"d4142e96bb54967d","fromSide":"right","toNode":"aca3bd708fcba622","toSide":"left"},
+		{"id":"afc302021700ada4","fromNode":"aca3bd708fcba622","fromSide":"right","toNode":"05d268edea48032c","toSide":"left"},
+		{"id":"f91d569286dbbd5e","fromNode":"dfdca318811abec7","fromSide":"right","toNode":"aca3bd708fcba622","toSide":"left"}
+	]
+}

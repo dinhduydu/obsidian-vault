@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"2f8be60b047b423c","type":"file","file":"Pasted image 20260412213401.png","x":-1002,"y":1089,"width":399,"height":209},
+		{"id":"59f157d80529d798","type":"file","file":"Pasted image 20260412213512.png","x":-1002,"y":615,"width":399,"height":233},
+		{"id":"474bff0780e4b094","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ところを.md","x":260,"y":1480,"width":291,"height":160},
+		{"id":"2554bf1eb84c8d12","type":"file","file":"N2文法/ところ・どころ/ところ/ところで.canvas","x":-1442,"y":1480,"width":400,"height":400},
+		{"id":"f4249e0f0c6aa5df","type":"file","file":"Pasted image 20260412213254.png","x":-840,"y":2120,"width":399,"height":219},
+		{"id":"284f208730c9c4bd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ところを見ると.md","x":-171,"y":1826,"width":219,"height":109},
+		{"id":"ee0b809b8d751820","type":"file","file":"Pasted image 20260412213141.png","x":206,"y":1089,"width":400,"height":216},
+		{"id":"4a0aa041ca99fec0","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/お忙しいところを.md","x":1100,"y":1877,"width":317,"height":116},
+		{"id":"e91afc015352e9a0","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/見る.md","x":880,"y":860,"width":242,"height":183},
+		{"id":"71508c8d0ae52ffa","type":"text","text":"見つかる","x":880,"y":1080,"width":250,"height":60},
+		{"id":"83c8780b255d2bd8","type":"text","text":"捕まる","x":880,"y":1200,"width":250,"height":60},
+		{"id":"0f9189357e32ef15","type":"text","text":"助ける","x":880,"y":1340,"width":250,"height":60},
+		{"id":"04b2e403ebcd275e","type":"file","file":"Pasted image 20260517110358.png","x":1520,"y":1380,"width":400,"height":96}
+	],
+	"edges":[
+		{"id":"e1dfd017e9fe4d5c","fromNode":"ee0b809b8d751820","fromSide":"left","toNode":"2f8be60b047b423c","toSide":"right","color":"3","label":"So sánh\nところを\nところに・へ\nところで"},
+		{"id":"990fe8323a3782d0","fromNode":"ee0b809b8d751820","fromSide":"left","toNode":"59f157d80529d798","toSide":"right","color":"3","label":"ところを"},
+		{"id":"39768988185aee2f","fromNode":"83c8780b255d2bd8","fromSide":"right","toNode":"04b2e403ebcd275e","toSide":"left","label":"Vたところを捕まえる"},
+		{"id":"f0e5967c64361cab","fromNode":"284f208730c9c4bd","fromSide":"left","toNode":"f4249e0f0c6aa5df","toSide":"right","color":"3","label":"ところをみると"},
+		{"id":"425a8790485b2595","fromNode":"f4249e0f0c6aa5df","fromSide":"left","toNode":"2554bf1eb84c8d12","toSide":"right","color":"3","label":"Cho dù... thì cũng không."},
+		{"id":"444d5b3cb74eef4d","fromNode":"ee0b809b8d751820","fromSide":"bottom","toNode":"474bff0780e4b094","toSide":"top","color":"4","label":"Trong lúc... / Vào lúc..."},
+		{"id":"2e6f29e98b247066","fromNode":"2f8be60b047b423c","fromSide":"bottom","toNode":"2554bf1eb84c8d12","toSide":"right","color":"3"},
+		{"id":"c4191d6242737889","fromNode":"474bff0780e4b094","fromSide":"left","toNode":"284f208730c9c4bd","toSide":"right","color":"6","label":"Nhìn vào/Căn cứ vào... mà đoán."},
+		{"id":"2217a0a28df828b7","fromNode":"474bff0780e4b094","fromSide":"right","toNode":"4a0aa041ca99fec0","toSide":"left","color":"6","label":"Trong lúc anh/chị đang bận rộn."},
+		{"id":"f5139281360d6e72","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"e91afc015352e9a0","toSide":"left","color":"6"},
+		{"id":"96cec54fec58c204","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"71508c8d0ae52ffa","toSide":"left","color":"6"},
+		{"id":"885180d793021a69","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"83c8780b255d2bd8","toSide":"left","color":"6"},
+		{"id":"e7cb82a5e312d96c","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"0f9189357e32ef15","toSide":"left","color":"6"}
+	]
+}

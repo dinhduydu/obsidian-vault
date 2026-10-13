@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5bd37786031e9301","type":"text","text":"Vているところ","x":-340,"y":80,"width":250,"height":60},
+		{"id":"f06eca3c6aa7db30","type":"file","file":"Pasted image 20260412213052.png","x":-1020,"y":-260,"width":400,"height":215},
+		{"id":"a9e242d74a959b35","type":"text","text":"A+Vている＋ところだ","x":140,"y":-182,"width":250,"height":60},
+		{"id":"5d36968072596a5c","type":"file","file":"N2文法/ところ・どころ/ところ/ところだ.canvas","x":-362,"y":-400,"width":272,"height":116},
+		{"id":"1ff401f9f56a7c25","type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-るところだった.md","x":680,"y":-440,"width":297,"height":114},
+		{"id":"af40787c154fbadd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ているところ.md","x":127,"y":260,"width":277,"height":107}
+	],
+	"edges":[
+		{"id":"717618755b50f21a","fromNode":"f06eca3c6aa7db30","fromSide":"right","toNode":"5bd37786031e9301","toSide":"left","color":"3","label":"Đúng vào lúc"},
+		{"id":"78646e8faaf5666c","fromNode":"5bd37786031e9301","fromSide":"right","toNode":"a9e242d74a959b35","toSide":"left","color":"5"},
+		{"id":"1f6cc7a7421ce40e","fromNode":"5d36968072596a5c","fromSide":"right","toNode":"a9e242d74a959b35","toSide":"left","color":"2","label":"Bây giờ đang làm "},
+		{"id":"8efb00fc6fb4a92f","fromNode":"a9e242d74a959b35","fromSide":"right","toNode":"1ff401f9f56a7c25","toSide":"left","color":"5"},
+		{"id":"04d0aa0cfae02d52","fromNode":"5bd37786031e9301","fromSide":"right","toNode":"af40787c154fbadd","toSide":"left","color":"4"}
+	]
+}

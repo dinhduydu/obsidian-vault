@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"7f4ed3614f905903","type":"text","text":"木村さんはコンピューターの（　　）、なんでも知っています。","x":-640,"y":67,"width":579,"height":68},
+		{"id":"a3222d675644d2f3","type":"text","text":"1 ものなら\n2 ものには\n3 ことなら\n4 ことには","x":140,"y":-180,"width":380,"height":160},
+		{"id":"6ae9071c31020a3f","type":"file","file":"N2文法/こと・もの/もの/ものなら.canvas","x":820,"y":-880,"width":201,"height":167},
+		{"id":"9f6a21a9d4fe809c","type":"file","file":"N2文法/こと・もの/こと/ことに.canvas","x":617,"y":900,"width":278,"height":195},
+		{"id":"bdfb595ad69f75b5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことには.md","x":1120,"y":620,"width":273,"height":194},
+		{"id":"211db1a406f8eba2","type":"file","file":"N2文法/こと・もの/こと/ことなら.canvas","x":1095,"y":80,"width":287,"height":225},
+		{"id":"15d310d4aaecd7ef","type":"file","file":"N2文法/こと・もの/もの/ものには.canvas","x":1182,"y":-580,"width":400,"height":400},
+		{"id":"b98320dbd60790b8","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":400,"y":-1120,"width":153,"height":127},
+		{"id":"8d0c91a6cd6a7814","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":260,"y":-893,"width":200,"height":180}
+	],
+	"edges":[
+		{"id":"5bbfa5a96582985f","fromNode":"a3222d675644d2f3","fromSide":"right","toNode":"6ae9071c31020a3f","toSide":"left","color":"1","label":"Nếu có thể thì"},
+		{"id":"1754633dcc6e3d83","fromNode":"7f4ed3614f905903","fromSide":"right","toNode":"a3222d675644d2f3","toSide":"left"},
+		{"id":"a60653c85bac37d7","fromNode":"a3222d675644d2f3","fromSide":"right","toNode":"15d310d4aaecd7ef","toSide":"left","label":"Đối với những thứ"},
+		{"id":"12d24cea6055b6b0","fromNode":"a3222d675644d2f3","fromSide":"right","toNode":"211db1a406f8eba2","toSide":"left","label":"Nếu đó là trường hợp ..."},
+		{"id":"39412f8cf53e834b","fromNode":"9f6a21a9d4fe809c","fromSide":"right","toNode":"bdfb595ad69f75b5","toSide":"left","label":"Nếu không... (đi với thể phủ định ở vế sau)."},
+		{"id":"669ed3a7c1d8d2c1","fromNode":"a3222d675644d2f3","fromSide":"right","toNode":"bdfb595ad69f75b5","toSide":"left","color":"1"},
+		{"id":"015e1f988b7f8811","fromNode":"b98320dbd60790b8","fromSide":"right","toNode":"6ae9071c31020a3f","toSide":"left","color":"3"},
+		{"id":"b745300605c01e9f","fromNode":"8d0c91a6cd6a7814","fromSide":"right","toNode":"6ae9071c31020a3f","toSide":"left","color":"3"}
+	]
+}

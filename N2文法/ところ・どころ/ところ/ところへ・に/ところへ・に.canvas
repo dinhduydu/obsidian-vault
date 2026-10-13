@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ebaacabf2190c960","type":"file","file":"Pasted image 20260412213207.png","x":-384,"y":-507,"width":814,"height":440},
+		{"id":"4914d4444e8beae4","type":"file","file":"N2文法/ところ・どころ/ところ/ところへ・に/ところへ.canvas","x":-930,"y":80,"width":298,"height":67},
+		{"id":"51b8f78321386adc","x":395,"y":77,"width":273,"height":140,"type":"file","file":"N2文法/ところ・どころ/ところ/ところへ・に/ところに.canvas"},
+		{"id":"338ea40c1577408b","type":"file","file":"Pasted image 20260412213401.png","x":-1160,"y":-840,"width":399,"height":209},
+		{"id":"b01e72fed031b8f5","x":-1580,"y":-949,"width":199,"height":109,"type":"file","file":"N2文法/ところ・どころ/ところ/ところで.canvas"},
+		{"id":"57b9825812a91e76","x":-1613,"y":-631,"width":232,"height":132,"type":"file","file":"N2文法/ところ・どころ/ところ/ところを.canvas"}
+	],
+	"edges":[
+		{"id":"d03af612c1924059","fromNode":"ebaacabf2190c960","fromSide":"left","toNode":"338ea40c1577408b","toSide":"right","color":"3","label":"ところへ・に"},
+		{"id":"59a9a230a147464d","fromNode":"ebaacabf2190c960","fromSide":"bottom","toNode":"4914d4444e8beae4","toSide":"right","color":"5","label":"ところへ"},
+		{"id":"60e4d8b14fccc090","fromNode":"ebaacabf2190c960","fromSide":"bottom","toNode":"51b8f78321386adc","toSide":"left","color":"5"},
+		{"id":"6a7302cf1361b10c","fromNode":"b01e72fed031b8f5","fromSide":"right","toNode":"338ea40c1577408b","toSide":"left","color":"3"},
+		{"id":"6a201adc15c5a067","fromNode":"57b9825812a91e76","fromSide":"right","toNode":"338ea40c1577408b","toSide":"left","color":"3"}
+	]
+}

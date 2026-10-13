@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b882674d373e8adf","type":"text","text":"ところから","x":68,"y":53,"width":250,"height":60},
+		{"id":"b1fb36d361616d60","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ところから.md","x":-680,"y":540,"width":348,"height":160},
+		{"id":"76b92ab452de5a32","type":"file","file":"Pasted image 20260505212721.png","x":680,"y":280,"width":400,"height":243},
+		{"id":"a810d6a2323f7a9e","x":240,"y":560,"width":250,"height":60,"type":"text","text":"Vる　＋"}
+	],
+	"edges":[
+		{"id":"f94975d6bb93a71c","fromNode":"b882674d373e8adf","fromSide":"right","toNode":"76b92ab452de5a32","toSide":"left","color":"6","label":"ところから"},
+		{"id":"b5619f3aecabd293","fromNode":"b882674d373e8adf","fromSide":"left","toNode":"b1fb36d361616d60","toSide":"right","color":"3","label":"Dùng để chỉ căn cứ, lý do hoặc nguồn gốc để đưa ra một phán đoán hoặc tên gọi."},
+		{"id":"bc170d1c9b9b194b","fromNode":"a810d6a2323f7a9e","fromSide":"right","toNode":"76b92ab452de5a32","toSide":"left","color":"2"}
+	]
+}

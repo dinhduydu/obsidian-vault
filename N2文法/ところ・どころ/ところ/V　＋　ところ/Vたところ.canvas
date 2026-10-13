@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"586022d29f06a1ae","type":"text","text":"Vたところ","x":-1248,"y":-156,"width":250,"height":60},
+		{"id":"7a5a91504b4c5c7d","type":"text","text":"Vたところ**が**","x":-653,"y":272,"width":302,"height":50},
+		{"id":"4fb217739d4311ea","type":"text","text":"Nhân dịp làm A thì đã thay đổi/phát hiện ra","x":-1760,"y":-660,"width":250,"height":60},
+		{"id":"78f372bd734fafe2","type":"text","text":"Sau khi thử làm A thì nhận được (phát  hiện) kết quả B","x":-1800,"y":180,"width":268,"height":98},
+		{"id":"d7752810e85963f6","type":"file","file":"N2文法/ところ・どころ/ところ/ところが.canvas","x":-1200,"y":680,"width":231,"height":63},
+		{"id":"58575c9d8d422639","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たところで.md","x":160,"y":-630,"width":280,"height":162},
+		{"id":"c4cc50a65378ebb2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たところで ... ない.md","x":880,"y":-1000,"width":316,"height":105},
+		{"id":"a9a66ecad8e63942","type":"text","text":"枕を**かえたところ**、よく眠れるようになった。","x":-90,"y":-1000,"width":250,"height":60},
+		{"id":"78846f678aedcdfb","type":"file","file":"Pasted image 20260410075032.png","x":680,"y":-265,"width":400,"height":219},
+		{"id":"8ccdcf4cc5bfe902","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～たところ.md","x":-653,"y":-611,"width":226,"height":124},
+		{"id":"011db9f3e4ecc239","type":"file","file":"N2文法/ところ・どころ/ところ/ところで.canvas","x":-205,"y":-840,"width":231,"height":81},
+		{"id":"88fd203397cd70ec","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜といったところだ.md","x":-180,"y":-255,"width":340,"height":100},
+		{"id":"721e3c8ba917e5f0","type":"text","text":"Từ bây giờ sẽ làm A","x":-1144,"y":322,"width":250,"height":60},
+		{"id":"ab09da1d7a0955e9","type":"file","file":"N2文法/ところ・どころ/ところ/ところだ.canvas","x":-654,"y":-96,"width":229,"height":86},
+		{"id":"9df9c40c9488f985","type":"text","text":"A+Vた＋ところだ","x":-654,"y":120,"width":227,"height":61}
+	],
+	"edges":[
+		{"id":"e8d6b27c0daeea03","fromNode":"7a5a91504b4c5c7d","fromSide":"right","toNode":"78846f678aedcdfb","toSide":"bottom","color":"3","label":"Vた＋ところ＋が"},
+		{"id":"9a5bc02a788ddeaa","fromNode":"8ccdcf4cc5bfe902","fromSide":"right","toNode":"78846f678aedcdfb","toSide":"left","color":"3","label":"Vた＋ところ"},
+		{"id":"26ab41dcf47e2dc1","fromNode":"58575c9d8d422639","fromSide":"right","toNode":"78846f678aedcdfb","toSide":"top","color":"3","label":"Vた＋ところ＋で"},
+		{"id":"7058cffee58e10c9","fromNode":"78f372bd734fafe2","fromSide":"right","toNode":"586022d29f06a1ae","toSide":"left","color":"3","label":"Vたところ"},
+		{"id":"ac03d692a6e366de","fromNode":"4fb217739d4311ea","fromSide":"right","toNode":"586022d29f06a1ae","toSide":"left","color":"3","label":"Vたところ"},
+		{"id":"5d35d99e289922bc","fromNode":"011db9f3e4ecc239","fromSide":"right","toNode":"58575c9d8d422639","toSide":"left","color":"3","label":"Dẫu cho có làm A thì cũng vô dụng"},
+		{"id":"57ef5794f36bd9f6","fromNode":"d7752810e85963f6","fromSide":"right","toNode":"7a5a91504b4c5c7d","toSide":"left","color":"3","label":"Làm A nhưng bất ngờ nhận được kết quả B ngược lại"},
+		{"id":"9a0f7b8735f58e5d","fromNode":"586022d29f06a1ae","fromSide":"right","toNode":"7a5a91504b4c5c7d","toSide":"left","color":"5"},
+		{"id":"eb1f6b0e33c784be","fromNode":"8ccdcf4cc5bfe902","fromSide":"right","toNode":"a9a66ecad8e63942","toSide":"left","color":"6"},
+		{"id":"8a60ebcddc6f7d75","fromNode":"586022d29f06a1ae","fromSide":"right","toNode":"8ccdcf4cc5bfe902","toSide":"left","color":"4","label":"Sau khi làm... thì nhận ra kết quả/thông tin"},
+		{"id":"28c97f1794d1e72e","fromNode":"8ccdcf4cc5bfe902","fromSide":"right","toNode":"58575c9d8d422639","toSide":"left","color":"5","label":"Cho dù... thì cũng không."},
+		{"id":"220fb6d1647e6b1b","fromNode":"58575c9d8d422639","fromSide":"right","toNode":"c4cc50a65378ebb2","toSide":"left","color":"4","label":"Dù có làm... thì cũng không/cũng vô ích."},
+		{"id":"1e0282c4960e410e","fromNode":"8ccdcf4cc5bfe902","fromSide":"right","toNode":"88fd203397cd70ec","toSide":"left","color":"6"},
+		{"id":"3c31a8ab595fdcd5","fromNode":"ab09da1d7a0955e9","fromSide":"right","toNode":"88fd203397cd70ec","toSide":"left","color":"3","label":"Chỉ khoảng, tầm khoảng (không nhiều lắm)."},
+		{"id":"bc8315e23bcc4ae4","fromNode":"586022d29f06a1ae","fromSide":"right","toNode":"9df9c40c9488f985","toSide":"left","color":"3"},
+		{"id":"615297aaea2daa90","fromNode":"ab09da1d7a0955e9","fromSide":"bottom","toNode":"9df9c40c9488f985","toSide":"top","color":"3"},
+		{"id":"77f71e52238c9753","fromNode":"721e3c8ba917e5f0","fromSide":"right","toNode":"9df9c40c9488f985","toSide":"left","color":"3"}
+	]
+}

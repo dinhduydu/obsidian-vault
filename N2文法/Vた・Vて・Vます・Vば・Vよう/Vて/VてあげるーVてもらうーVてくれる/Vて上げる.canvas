@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"14f2dc8d5787f1bf","type":"text","text":"Vて上げる","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"2e02abd7c9b82f9b","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜させてあげる.md","x":440,"y":-400,"width":340,"height":220},
+		{"id":"a2cbb5e46a271b80","type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あげる.md","x":-1020,"y":-880,"width":372,"height":346},
+		{"id":"165b89e71246072a","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/19. Động từ/19.3. Loại động từ/あげる.canvas","x":-380,"y":-1140,"width":340,"height":340},
+		{"id":"3678013d83fdc90c","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜させてあげられる.md","x":1020,"y":-580,"width":320,"height":180}
+	],
+	"edges":[
+		{"id":"ccedfd62cb817880","fromNode":"a2cbb5e46a271b80","fromSide":"right","toNode":"14f2dc8d5787f1bf","toSide":"left","color":"3","label":"Mang nghĩa cho, biếu tặng"},
+		{"id":"df9c201e49cde6e9","fromNode":"14f2dc8d5787f1bf","fromSide":"right","toNode":"2e02abd7c9b82f9b","toSide":"left","color":"5","label":"Cho phép ai đó làm gì (mang tính chất làm lợi cho đối phương)."},
+		{"id":"f3a186105f766dc9","fromNode":"a2cbb5e46a271b80","fromSide":"right","toNode":"165b89e71246072a","toSide":"left","color":"5"},
+		{"id":"11bf28afe0de0fee","fromNode":"2e02abd7c9b82f9b","fromSide":"right","toNode":"3678013d83fdc90c","toSide":"left","color":"5"}
+	]
+}

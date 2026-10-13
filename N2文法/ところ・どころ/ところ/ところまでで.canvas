@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"38c732d6c9daba69","type":"text","text":"3課の文法の練習問題を解いたところまでで終わったよ。\n\n","x":-40,"y":-200,"width":468,"height":50},
+		{"id":"6affd9a5fd9b115e","x":-935,"y":55,"width":250,"height":60,"type":"text","text":"〜ところまでで終わる"},
+		{"id":"23b85b33bc55b69a","type":"text","text":"ところまでで","x":-1400,"y":264,"width":250,"height":60},
+		{"id":"6fec43ec63392bf6","x":680,"y":-360,"width":640,"height":100,"type":"text","text":"解いたところ = chỗ đã giải\nまでで = đến đó thì dừng\n=> “Đã dừng ở phần giải bài tập ngữ pháp của bài 3.”\n\n"},
+		{"id":"564e6eb8306ffa6d","x":680,"y":-120,"width":511,"height":84,"type":"text","text":"A: Buổi học tuần trước học tới đâu rồi?\nB: Đã học tới phần giải bài tập ngữ pháp của bài 3 thì kết thúc."}
+	],
+	"edges":[
+		{"id":"83d91886dd37d469","fromNode":"23b85b33bc55b69a","fromSide":"right","toNode":"6affd9a5fd9b115e","toSide":"left","label":"đến đó thì dừng"},
+		{"id":"4dca8f8384e337ad","fromNode":"38c732d6c9daba69","fromSide":"right","toNode":"6fec43ec63392bf6","toSide":"left","label":"Giải thích"},
+		{"id":"bb11ba940d21e560","fromNode":"6affd9a5fd9b115e","fromSide":"right","toNode":"38c732d6c9daba69","toSide":"left","label":"kết thúc ở chỗ / dừng lại ở đoạn"},
+		{"id":"8350ad73a04a9973","fromNode":"38c732d6c9daba69","fromSide":"right","toNode":"564e6eb8306ffa6d","toSide":"left","label":"Dịch"}
+	]
+}
