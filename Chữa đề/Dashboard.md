@@ -2,7 +2,7 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 419
+- Total Reviews: 427
 - Total Knowledge Items: 4424
 - Correct: 3086
 - Wrong: 3684
@@ -226,6 +226,14 @@
 
 ## 📅 Recent Reviews
 
+- [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
+- [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
+- [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI な]]
+- [[3. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.1]]
+- [[4. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 18]]
+- [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.2]]
+- [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
+- [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[3. Phân Tích N2_TIỀN-HẬU TỐ (P4)]]
 - [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
@@ -238,11 +246,3 @@
 - [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
 - [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
 - [[12. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-31-35.pdf]]
-- [[13. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-36-40.pdf]]
-- [[14. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-41-46.pdf]]
-- [[2. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-2-5.pdf)]]
-- [[3. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp - Source 111020262-6-10.pdf)]]
-- [[4. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp & Kính Ngữ Đọc Hiểu - Source 111020262-11-14.pdf)]]
-- [[5. Phân Tích Bài Làm Tiếng Nhật N2 (Đọc Hiểu - Source 111020263.pdf)]]
-- [[6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf]]
-- [[7. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-6-10.pdf]]
