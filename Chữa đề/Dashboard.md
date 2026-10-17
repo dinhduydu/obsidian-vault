@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 427
-- Total Knowledge Items: 4424
-- Correct: 3086
-- Wrong: 3684
+- Total Reviews: 428
+- Total Knowledge Items: 4435
+- Correct: 3099
+- Wrong: 3693
 - Accuracy: 45.6%
 
 ## 🚨 Review Queue
@@ -63,11 +63,11 @@
 - Demonstratives: 40.0% (Correct 6 / Wrong 9)
 - FixedExpression: 41.3% (Correct 189 / Wrong 269)
 - Grammar: 45.3% (Correct 757 / Wrong 914)
-- Kanji: 49.7% (Correct 290 / Wrong 293)
+- Kanji: 49.8% (Correct 294 / Wrong 296)
 - Katakana: 49.4% (Correct 134 / Wrong 137)
 - Keigo: 44.0% (Correct 33 / Wrong 42)
-- Reading: 31.2% (Correct 67 / Wrong 148)
-- Vocabulary: 48.2% (Correct 1029 / Wrong 1108)
+- Reading: 32.0% (Correct 70 / Wrong 149)
+- Vocabulary: 48.2% (Correct 1035 / Wrong 1113)
 
 ## 📚 Top Grammar
 
@@ -131,8 +131,8 @@
 - [[全体理解]] (Score: 35)
 - [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
-- [[賢い]] (Score: 30)
 - [[刷る]] (Score: 30)
+- [[文脈判断]] (Score: 30)
 
 ## 📚 Top CompoundVerb
 
@@ -227,6 +227,7 @@
 ## 📅 Recent Reviews
 
 - [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
+- [[2.1. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
 - [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI な]]
 - [[3. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.1]]
@@ -245,4 +246,3 @@
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
 - [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
 - [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
-- [[12. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-31-35.pdf]]
