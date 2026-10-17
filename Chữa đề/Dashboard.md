@@ -2,18 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 434
-- Total Knowledge Items: 4551
+- Total Reviews: 437
+- Total Knowledge Items: 4566
 - Correct: 3163
-- Wrong: 3874
-- Accuracy: 44.9%
+- Wrong: 3934
+- Accuracy: 44.6%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
 - [[〜にもかかわらず]] | Grammar| Score: 62| Wrong: 10
+- [[〜にすぎない]] | Grammar| Score: 60| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
-- [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
@@ -35,9 +35,9 @@
 
 - [[]] (Vocabulary) Wrong: 44
 - [[〜にもかかわらず]] (Grammar) Wrong: 10
+- [[〜にすぎない]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
-- [[〜にすぎない]] (Grammar) Wrong: 9
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
@@ -58,11 +58,11 @@
 
 - Adverb: 38.2% (Correct 260 / Wrong 420)
 - Collocation: 46.9% (Correct 129 / Wrong 146)
-- CompoundVerb: 43.1% (Correct 143 / Wrong 189)
+- CompoundVerb: 43.1% (Correct 140 / Wrong 185)
 - Conjunction: 33.9% (Correct 59 / Wrong 115)
 - Demonstratives: 41.2% (Correct 7 / Wrong 10)
-- FixedExpression: 41.2% (Correct 190 / Wrong 271)
-- Grammar: 45.1% (Correct 769 / Wrong 936)
+- FixedExpression: 41.4% (Correct 189 / Wrong 267)
+- Grammar: 43.5% (Correct 773 / Wrong 1004)
 - Kanji: 50.6% (Correct 302 / Wrong 295)
 - Katakana: 49.1% (Correct 135 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
@@ -72,8 +72,8 @@
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 62)
-- [[〜ざるを得ない]] (Score: 60)
 - [[〜にすぎない]] (Score: 60)
+- [[〜ざるを得ない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
 - [[〜がち]] (Score: 55)
@@ -236,6 +236,9 @@
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.2]]
 - [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
+- [[1. Phân Tích Ngữ pháp N3 1.pdf]]
+- [[1.2 Phân Tích Ngữ pháp N3 2]]
+- [[1.3. Phân Tích Ngữ pháp N3 3]]
 - [[2.1.1. Phân Tích Từ láy thông dụng 1]]
 - [[2.1.1. Phân Tích Từ láy thông dụng]]
 - [[2.2.1. Phân Tích Từ láy thông dụng 2]]
@@ -244,6 +247,3 @@
 - [[2.4.1. Phân Tích Từ láy thông dụng 4]]
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[3. Phân Tích N2_TIỀN-HẬU TỐ (P4)]]
-- [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
-- [[5. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P5)]]
-- [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]

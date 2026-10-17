@@ -44,7 +44,7 @@ Với mỗi item thuộc **Adverb, Katakana, CompoundVerb, FixedExpression, Coll
 - **Priority:** High / Medium / Low
     
 
-Chỉ ghi số lần đúng/sai và ngày khi có dữ liệu xác minh; nếu thiếu, ghi `Unknown`. Đánh giá Mastery và Priority dựa trên bằng chứng thực tế, không suy diễn rằng một câu đúng đồng nghĩa đã thành thạo. Không bỏ sót item hoặc tạo item mới trong Learning Profile.
+Đánh giá Mastery và Priority dựa trên bằng chứng thực tế, không suy diễn rằng một câu đúng đồng nghĩa đã thành thạo. Không bỏ sót item hoặc tạo item mới trong Learning Profile.
 
 **Error Analysis** phải phân tích từng lỗi, đặc biệt là lỗi ngữ pháp: đáp án đã chọn, đáp án đúng, nguyên nhân sai, dấu hiệu nhận biết và cách phân biệt.
 
