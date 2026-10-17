@@ -39,14 +39,17 @@
             "id": "e61f001177ecafae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/編 -  Biên.canvas",
+                "viewState": {
+                  "x": 836.8255586126402,
+                  "y": 289.602689984379,
+                  "zoom": 0.6539447676267571
+                }
               },
-              "icon": "lucide-file",
-              "title": "1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59"
+              "icon": "lucide-layout-dashboard",
+              "title": "編 -  Biên"
             }
           }
         ],
@@ -85,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "若々しい",
+                "query": "編",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,15 +212,20 @@
   },
   "active": "e61f001177ecafae",
   "lastOpenFiles": [
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/25062026/1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/03122025/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 4.md",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/編 -  Biên.canvas",
+    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/2. Phân Tích Ngữ Pháp.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/編み出す.md",
     "Chữa đề/Learning_Profile/Grammar/〜以上に.md",
     "Chữa đề/Learning_Profile/Grammar/〜ではなく.md",
     "Chữa đề/Learning_Profile/Vocabulary/弟子.md",
     "Chữa đề/Learning_Profile/Vocabulary/覚悟.md",
     "Chữa đề/Learning_Profile/Vocabulary/独学.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/編み出す.md",
     "Chữa đề/Learning_Profile/Reading/独学と勉強の仕方.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/0. Link bài tập.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59.md",
     "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
     "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.1.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec/1.2 Phân Tích Ngữ pháp N3 2.md",
@@ -230,10 +239,6 @@
     "Chữa đề/Learning_Profile/Grammar/〜みたいだ.md",
     "Chữa đề/Learning_Profile/Grammar/〜しか〜ない.md",
     "Chữa đề/Learning_Profile/Grammar/〜にかわって.md",
-    "Chữa đề/Learning_Profile/Grammar/〜に比べて.md",
-    "Chữa đề/Learning_Profile/Grammar/〜について.md",
-    "Chữa đề/Learning_Profile/Grammar/〜最中に.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ばかりいる.md",
     "Pasted image 20261017175257.png",
     "Pasted image 20261017175248.png",
     "Pasted image 20261017175235.png",
@@ -248,7 +253,6 @@
     "Pasted image 20261017162311.png",
     "Pasted image 20261017162300.png",
     "Pasted image 20261017162249.png",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/編 -  Biên.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week2/09102026/N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 2/Câu 5.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/18102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026",

@@ -1,11 +1,23 @@
 {
 	"nodes":[
-		{"id":"02c8c315952694ce","x":-78,"y":-26,"width":250,"height":60,"type":"text","text":"編 - Biên"},
-		{"id":"990148d585d7e40c","x":-400,"y":-260,"width":154,"height":159,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/扁 - Biển, Thiên.canvas"},
-		{"id":"f22f682a329c0083","x":-470,"y":60,"width":224,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"02c8c315952694ce","type":"text","text":"編 - Biên","x":-78,"y":-26,"width":250,"height":60},
+		{"id":"990148d585d7e40c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/扁 - Biển, Thiên.canvas","x":-400,"y":-260,"width":154,"height":159},
+		{"id":"f22f682a329c0083","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-470,"y":60,"width":224,"height":206},
+		{"id":"dad7a9a63e6616f1","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/編み出す.md","x":320,"y":-360,"width":281,"height":150},
+		{"id":"93ed8e7ff223c75e","type":"text","text":"編集","x":320,"y":120,"width":250,"height":60},
+		{"id":"fdc542ec2c76c849","type":"text","text":"Example: 編集者の感性が**映し出されて**いる。","x":720,"y":40,"width":414,"height":59},
+		{"id":"c36cef4ca7a10859","type":"text","text":"いいたいことが頭に浮かんだら、書き留めることにします。返事に自分の考えを書いてくれるというなら大歓迎だし、またこのノートが「戦争と平和」くらいの長編になるまで返事はおあずけというのなら、それも結構。","x":184,"y":444,"width":556,"height":136},
+		{"id":"5138baeb7de2ca1e","type":"text","text":"長編","x":82,"y":312,"width":250,"height":60},
+		{"id":"df06a2ecf1605eb9","x":720,"y":240,"width":496,"height":53,"type":"text","text":"**Example:** スマホで撮影した動画をアプリで編集した."}
 	],
 	"edges":[
 		{"id":"93fd78a30bcbd29d","fromNode":"990148d585d7e40c","fromSide":"right","toNode":"02c8c315952694ce","toSide":"left"},
-		{"id":"52df4d50ad91aaea","fromNode":"f22f682a329c0083","fromSide":"right","toNode":"02c8c315952694ce","toSide":"left"}
+		{"id":"52df4d50ad91aaea","fromNode":"f22f682a329c0083","fromSide":"right","toNode":"02c8c315952694ce","toSide":"left"},
+		{"id":"f65526c56b994804","fromNode":"02c8c315952694ce","fromSide":"right","toNode":"dad7a9a63e6616f1","toSide":"left"},
+		{"id":"648fae8813dc4300","fromNode":"02c8c315952694ce","fromSide":"right","toNode":"93ed8e7ff223c75e","toSide":"left"},
+		{"id":"f6ad7f9dcbb09622","fromNode":"93ed8e7ff223c75e","fromSide":"right","toNode":"fdc542ec2c76c849","toSide":"left"},
+		{"id":"21d3b7043ca5a716","fromNode":"5138baeb7de2ca1e","fromSide":"right","toNode":"c36cef4ca7a10859","toSide":"left"},
+		{"id":"aa1a6ab4ef5d820b","fromNode":"02c8c315952694ce","fromSide":"right","toNode":"5138baeb7de2ca1e","toSide":"left"},
+		{"id":"87c85fc0450f77d4","fromNode":"93ed8e7ff223c75e","fromSide":"right","toNode":"df06a2ecf1605eb9","toSide":"left"}
 	]
 }
