@@ -2,7 +2,7 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 428
+- Total Reviews: 432
 - Total Knowledge Items: 4496
 - Correct: 3163
 - Wrong: 3758
@@ -236,6 +236,10 @@
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.2]]
 - [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
+- [[2.1.1. Phân Tích Từ láy thông dụng 1]]
+- [[2.2.1. Phân Tích Từ láy thông dụng 2]]
+- [[2.3.1. Phân Tích Từ láy thông dụng 3]]
+- [[2.4.1. Phân Tích Từ láy thông dụng 4]]
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[3. Phân Tích N2_TIỀN-HẬU TỐ (P4)]]
 - [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
@@ -243,7 +247,3 @@
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
 - [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020261.pdf)]]
-- [[2. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020262.pdf)]]
-- [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Từ Vựng - Test Định Kỳ Lần 4)]]
-- [[10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf]]
-- [[11. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-26-30.pdf]]
