@@ -3,14 +3,15 @@
 ## 🎯 Overall
 
 - Total Reviews: 428
-- Total Knowledge Items: 4435
-- Correct: 3099
-- Wrong: 3693
+- Total Knowledge Items: 4466
+- Correct: 3140
+- Wrong: 3742
 - Accuracy: 45.6%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
+- [[〜にもかかわらず]] | Grammar| Score: 62| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
@@ -18,7 +19,6 @@
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[〜まい]] | Grammar| Score: 55| Wrong: 8
-- [[〜にもかかわらず]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
@@ -29,11 +29,12 @@
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[しかし]] | Conjunction| Score: 47| Wrong: 7
-- [[連続]] | Vocabulary| Score: 45| Wrong: 9
+- [[つまり]] | Conjunction| Score: 45| Wrong: 6
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 44
+- [[〜にもかかわらず]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
 - [[〜にすぎない]] (Grammar) Wrong: 9
@@ -46,7 +47,6 @@
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
 - [[〜まい]] (Grammar) Wrong: 8
-- [[〜にもかかわらず]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[さっさと]] (Adverb) Wrong: 7
@@ -57,27 +57,27 @@
 ## 📈 Category Statistics
 
 - Adverb: 44.6% (Correct 258 / Wrong 321)
-- Collocation: 46.3% (Correct 125 / Wrong 145)
-- CompoundVerb: 43.0% (Correct 141 / Wrong 187)
-- Conjunction: 33.9% (Correct 57 / Wrong 111)
-- Demonstratives: 40.0% (Correct 6 / Wrong 9)
-- FixedExpression: 41.3% (Correct 189 / Wrong 269)
-- Grammar: 45.3% (Correct 757 / Wrong 914)
-- Kanji: 49.8% (Correct 294 / Wrong 296)
-- Katakana: 49.4% (Correct 134 / Wrong 137)
-- Keigo: 44.0% (Correct 33 / Wrong 42)
-- Reading: 32.0% (Correct 70 / Wrong 149)
-- Vocabulary: 48.2% (Correct 1035 / Wrong 1113)
+- Collocation: 46.5% (Correct 126 / Wrong 145)
+- CompoundVerb: 42.7% (Correct 141 / Wrong 189)
+- Conjunction: 33.5% (Correct 58 / Wrong 115)
+- Demonstratives: 37.5% (Correct 6 / Wrong 10)
+- FixedExpression: 41.3% (Correct 191 / Wrong 271)
+- Grammar: 45.1% (Correct 767 / Wrong 935)
+- Kanji: 50.5% (Correct 300 / Wrong 294)
+- Katakana: 49.3% (Correct 135 / Wrong 139)
+- Keigo: 44.2% (Correct 34 / Wrong 43)
+- Reading: 34.1% (Correct 78 / Wrong 151)
+- Vocabulary: 48.1% (Correct 1046 / Wrong 1129)
 
 ## 📚 Top Grammar
 
+- [[〜にもかかわらず]] (Score: 62)
 - [[〜ざるを得ない]] (Score: 60)
 - [[〜にすぎない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
 - [[〜がち]] (Score: 55)
 - [[〜まい]] (Score: 55)
-- [[〜にもかかわらず]] (Score: 55)
 - [[〜ものの]] (Score: 50)
 - [[むしろ]] (Score: 50)
 - [[〜に限って]] (Score: 50)
@@ -92,8 +92,8 @@
 - [[無理]] (Score: 40)
 - [[傾向]] (Score: 40)
 - [[消火器]] (Score: 40)
+- [[つらい]] (Score: 35)
 - [[苦情]] (Score: 35)
-- [[見解]] (Score: 35)
 
 ## 📚 Top Kanji
 
@@ -118,8 +118,8 @@
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
-- [[テクニック]] (Score: 20)
-- [[バーチャル]] (Score: 20)
+- [[スリム]] (Score: 20)
+- [[チェックする]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -140,25 +140,25 @@
 - [[巡り会う]] (Score: 35)
 - [[割り込む]] (Score: 30)
 - [[見守る]] (Score: 30)
+- [[食べかけ]] (Score: 25)
+- [[耐えぬく]] (Score: 25)
 - [[振り向く]] (Score: 25)
 - [[取り上げる]] (Score: 25)
 - [[受け入れる]] (Score: 25)
 - [[呼び止める]] (Score: 25)
-- [[差し支える]] (Score: 25)
-- [[教育実習]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
 - [[足を運ぶ]] (Score: 30)
+- [[〜を目的として]] (Score: 25)
 - [[ごちゃごちゃ]] (Score: 25)
 - [[駆け引き]] (Score: 25)
 - [[～を問わず]] (Score: 25)
 - [[～を込めて]] (Score: 25)
 - [[～とする]] (Score: 25)
 - [[身が引き締まる思い]] (Score: 25)
-- [[明け方]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -190,18 +190,18 @@
 
 - [[そこで]] (Score: 55)
 - [[しかし]] (Score: 47)
+- [[つまり]] (Score: 45)
+- [[とはいえ]] (Score: 35)
 - [[それにしては]] (Score: 35)
 - [[要するに]] (Score: 35)
-- [[つまり]] (Score: 32)
+- [[したがって]] (Score: 30)
 - [[つきましては]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
-- [[とはいえ]] (Score: 30)
-- [[ところが]] (Score: 25)
 
 ## 📚 Top Keigo
 
-- [[いらっしゃる]] (Score: 25)
+- [[おっしゃる]] (Score: 25)
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
@@ -215,6 +215,7 @@
 ## 📚 Top Demonstratives
 
 - [[その]] (Score: 25)
+- [[同じような]] (Score: 20)
 - [[あんなに]] (Score: 20)
 - [[こんなに]] (Score: 15)
 - [[あの]] (Score: 15)
