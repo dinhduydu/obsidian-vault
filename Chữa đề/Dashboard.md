@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 432
-- Total Knowledge Items: 4496
+- Total Reviews: 434
+- Total Knowledge Items: 4551
 - Correct: 3163
-- Wrong: 3758
-- Accuracy: 45.7%
+- Wrong: 3874
+- Accuracy: 44.9%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.8% (Correct 260 / Wrong 321)
+- Adverb: 38.2% (Correct 260 / Wrong 420)
 - Collocation: 46.9% (Correct 129 / Wrong 146)
 - CompoundVerb: 43.1% (Correct 143 / Wrong 189)
 - Conjunction: 33.9% (Correct 59 / Wrong 115)
 - Demonstratives: 41.2% (Correct 7 / Wrong 10)
 - FixedExpression: 41.2% (Correct 190 / Wrong 271)
 - Grammar: 45.1% (Correct 769 / Wrong 936)
-- Kanji: 50.5% (Correct 302 / Wrong 296)
+- Kanji: 50.6% (Correct 302 / Wrong 295)
 - Katakana: 49.1% (Correct 135 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
 - Reading: 35.2% (Correct 83 / Wrong 153)
-- Vocabulary: 48.0% (Correct 1052 / Wrong 1138)
+- Vocabulary: 47.6% (Correct 1052 / Wrong 1156)
 
 ## 📚 Top Grammar
 
@@ -177,14 +177,14 @@
 
 - [[さっさと]] (Score: 50)
 - [[とりあえず]] (Score: 40)
+- [[うとうと]] (Score: 35)
 - [[どうしても]] (Score: 35)
 - [[どうも]] (Score: 35)
+- [[ぎりぎり]] (Score: 30)
 - [[とっくに]] (Score: 30)
 - [[さっぱり]] (Score: 30)
 - [[かつて]] (Score: 30)
 - [[つい]] (Score: 30)
-- [[今にも]] (Score: 30)
-- [[およそ]] (Score: 30)
 
 ## 📚 Top Conjunction
 
@@ -237,13 +237,13 @@
 - [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
 - [[2.1.1. Phân Tích Từ láy thông dụng 1]]
+- [[2.1.1. Phân Tích Từ láy thông dụng]]
 - [[2.2.1. Phân Tích Từ láy thông dụng 2]]
 - [[2.3.1. Phân Tích Từ láy thông dụng 3]]
+- [[2.3.1. Phân Tích Từ láy thông dụng]]
 - [[2.4.1. Phân Tích Từ láy thông dụng 4]]
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
 - [[3. Phân Tích N2_TIỀN-HẬU TỐ (P4)]]
 - [[4. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P4)]]
 - [[5. Phân Tích N2_TỔNG ÔN TỪ VỰNG BÀI 1 (P5)]]
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 1]]
-- [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 1]]
-- [[1. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020261.pdf)]]
