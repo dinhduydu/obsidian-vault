@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 438
-- Total Knowledge Items: 4573
+- Total Reviews: 439
+- Total Knowledge Items: 4581
 - Correct: 3163
-- Wrong: 3942
+- Wrong: 3951
 - Accuracy: 44.5%
 
 ## 🚨 Review Queue
@@ -57,17 +57,17 @@
 ## 📈 Category Statistics
 
 - Adverb: 38.2% (Correct 260 / Wrong 420)
-- Collocation: 46.9% (Correct 129 / Wrong 146)
-- CompoundVerb: 42.9% (Correct 140 / Wrong 186)
+- Collocation: 46.7% (Correct 129 / Wrong 147)
+- CompoundVerb: 42.7% (Correct 140 / Wrong 188)
 - Conjunction: 33.9% (Correct 59 / Wrong 115)
 - Demonstratives: 41.2% (Correct 7 / Wrong 10)
 - FixedExpression: 41.4% (Correct 189 / Wrong 267)
-- Grammar: 43.4% (Correct 773 / Wrong 1007)
+- Grammar: 43.4% (Correct 773 / Wrong 1010)
 - Kanji: 50.6% (Correct 302 / Wrong 295)
 - Katakana: 49.1% (Correct 135 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 35.0% (Correct 83 / Wrong 154)
-- Vocabulary: 47.6% (Correct 1052 / Wrong 1159)
+- Reading: 34.9% (Correct 83 / Wrong 155)
+- Vocabulary: 47.5% (Correct 1052 / Wrong 1161)
 
 ## 📚 Top Grammar
 
@@ -237,6 +237,7 @@
 - [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59]]
+- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60]]
 - [[1. Phân Tích Ngữ pháp N3 1.pdf]]
 - [[1.2 Phân Tích Ngữ pháp N3 2]]
 - [[1.3. Phân Tích Ngữ pháp N3 3]]
@@ -246,4 +247,3 @@
 - [[2.3.1. Phân Tích Từ láy thông dụng 3]]
 - [[2.3.1. Phân Tích Từ láy thông dụng]]
 - [[2.4.1. Phân Tích Từ láy thông dụng 4]]
-- [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 10.2]]
