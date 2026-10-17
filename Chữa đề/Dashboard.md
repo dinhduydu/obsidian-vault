@@ -3,10 +3,10 @@
 ## 🎯 Overall
 
 - Total Reviews: 428
-- Total Knowledge Items: 4466
-- Correct: 3140
-- Wrong: 3742
-- Accuracy: 45.6%
+- Total Knowledge Items: 4496
+- Correct: 3163
+- Wrong: 3758
+- Accuracy: 45.7%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.6% (Correct 258 / Wrong 321)
-- Collocation: 46.5% (Correct 126 / Wrong 145)
-- CompoundVerb: 42.7% (Correct 141 / Wrong 189)
-- Conjunction: 33.5% (Correct 58 / Wrong 115)
-- Demonstratives: 37.5% (Correct 6 / Wrong 10)
-- FixedExpression: 41.3% (Correct 191 / Wrong 271)
-- Grammar: 45.1% (Correct 767 / Wrong 935)
-- Kanji: 50.5% (Correct 300 / Wrong 294)
-- Katakana: 49.3% (Correct 135 / Wrong 139)
+- Adverb: 44.8% (Correct 260 / Wrong 321)
+- Collocation: 46.9% (Correct 129 / Wrong 146)
+- CompoundVerb: 43.1% (Correct 143 / Wrong 189)
+- Conjunction: 33.9% (Correct 59 / Wrong 115)
+- Demonstratives: 41.2% (Correct 7 / Wrong 10)
+- FixedExpression: 41.2% (Correct 190 / Wrong 271)
+- Grammar: 45.1% (Correct 769 / Wrong 936)
+- Kanji: 50.5% (Correct 302 / Wrong 296)
+- Katakana: 49.1% (Correct 135 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 34.1% (Correct 78 / Wrong 151)
-- Vocabulary: 48.1% (Correct 1046 / Wrong 1129)
+- Reading: 35.2% (Correct 83 / Wrong 153)
+- Vocabulary: 48.0% (Correct 1052 / Wrong 1138)
 
 ## 📚 Top Grammar
 
@@ -119,7 +119,7 @@
 - [[コスト]] (Score: 25)
 - [[スムーズに]] (Score: 25)
 - [[スリム]] (Score: 20)
-- [[チェックする]] (Score: 20)
+- [[ハンサムな]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -222,8 +222,8 @@
 - [[ああ]] (Score: 15)
 - [[どこ]] (Score: 10)
 - [[そんな]] (Score: 5)
+- [[これと同じこと]] (Score: 0)
 - [[そう]] (Score: 0)
-- [[この]] (Score: 0)
 
 ## 📅 Recent Reviews
 
