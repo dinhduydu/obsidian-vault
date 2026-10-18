@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"84f19f47049b7318","type":"text","text":"冴 - Ngà","x":-96,"y":-28,"width":250,"height":60},
+		{"id":"660151ecb8c699c9","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/B/Băng　「冫」/Băng　「冫」.canvas","x":-609,"y":200,"width":198,"height":155},
+		{"id":"6c40ede8e086ee52","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nha　「牙」/Nha　「牙」.canvas","x":-543,"y":-260,"width":132,"height":101},
+		{"id":"74d37ebd2c14f47f","type":"text","text":"頭が冴える（あたまがさえる）: đầu óc minh mẫn, tỉnh táo.","x":240,"y":-239,"width":420,"height":80},
+		{"id":"1b0d425073a5c49a","x":280,"y":80,"width":480,"height":60,"type":"text","text":"冴えない（さえない）: không nổi bật, không được như ý."}
+	],
+	"edges":[
+		{"id":"2a1cbea237650002","fromNode":"6c40ede8e086ee52","fromSide":"right","toNode":"84f19f47049b7318","toSide":"left","color":"3","label":" hàm răng sắc lạnh như băng, giúp liên tưởng đến sự sắc bén."},
+		{"id":"4c5349cf2e7e2549","fromNode":"660151ecb8c699c9","fromSide":"right","toNode":"84f19f47049b7318","toSide":"left","color":"3","label":"Ý nghĩa: sáng suốt, sắc bén, tỉnh táo; cũng có nghĩa là không khí lạnh trong trẻo."},
+		{"id":"72063bc2ea26bdf5","fromNode":"84f19f47049b7318","fromSide":"right","toNode":"74d37ebd2c14f47f","toSide":"left"},
+		{"id":"7ca8d9fca825d17e","fromNode":"84f19f47049b7318","fromSide":"right","toNode":"1b0d425073a5c49a","toSide":"left"}
+	]
+}

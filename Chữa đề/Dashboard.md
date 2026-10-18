@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 442
-- Total Knowledge Items: 4598
-- Correct: 3176
-- Wrong: 3974
-- Accuracy: 44.4%
+- Total Reviews: 443
+- Total Knowledge Items: 4603
+- Correct: 3186
+- Wrong: 3977
+- Accuracy: 44.5%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.2% (Correct 262 / Wrong 423)
-- Collocation: 46.6% (Correct 129 / Wrong 148)
+- Adverb: 38.1% (Correct 263 / Wrong 427)
+- Collocation: 46.8% (Correct 130 / Wrong 148)
 - CompoundVerb: 42.7% (Correct 140 / Wrong 188)
-- Conjunction: 34.3% (Correct 60 / Wrong 115)
+- Conjunction: 35.5% (Correct 61 / Wrong 111)
 - Demonstratives: 43.8% (Correct 7 / Wrong 9)
-- FixedExpression: 41.5% (Correct 190 / Wrong 268)
-- Grammar: 43.2% (Correct 780 / Wrong 1024)
+- FixedExpression: 41.6% (Correct 191 / Wrong 268)
+- Grammar: 43.2% (Correct 781 / Wrong 1026)
 - Kanji: 50.6% (Correct 302 / Wrong 295)
-- Katakana: 49.1% (Correct 135 / Wrong 140)
+- Katakana: 49.3% (Correct 136 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 34.7% (Correct 84 / Wrong 158)
-- Vocabulary: 47.5% (Correct 1053 / Wrong 1163)
+- Reading: 34.6% (Correct 84 / Wrong 159)
+- Vocabulary: 47.6% (Correct 1057 / Wrong 1163)
 
 ## 📚 Top Grammar
 
@@ -193,11 +193,11 @@
 - [[つまり]] (Score: 45)
 - [[とはいえ]] (Score: 35)
 - [[それにしては]] (Score: 35)
-- [[要するに]] (Score: 35)
 - [[したがって]] (Score: 30)
 - [[つきましては]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
+- [[ところが]] (Score: 25)
 
 ## 📚 Top Keigo
 
@@ -228,6 +228,7 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
+- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
 - [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[2.1. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
@@ -246,4 +247,3 @@
 - [[1.3. Phân Tích Ngữ pháp N3 3]]
 - [[2.1.1. Phân Tích Từ láy thông dụng 1]]
 - [[2.1.1. Phân Tích Từ láy thông dụng]]
-- [[2.2.1. Phân Tích Từ láy thông dụng 2]]

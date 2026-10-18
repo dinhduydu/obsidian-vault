@@ -12,7 +12,8 @@
 		{"id":"71508c8d0ae52ffa","type":"text","text":"見つかる","x":880,"y":1080,"width":250,"height":60},
 		{"id":"83c8780b255d2bd8","type":"text","text":"捕まる","x":880,"y":1200,"width":250,"height":60},
 		{"id":"0f9189357e32ef15","type":"text","text":"助ける","x":880,"y":1340,"width":250,"height":60},
-		{"id":"04b2e403ebcd275e","type":"file","file":"Pasted image 20260517110358.png","x":1520,"y":1380,"width":400,"height":96}
+		{"id":"04b2e403ebcd275e","type":"file","file":"Pasted image 20260517110358.png","x":1520,"y":1380,"width":400,"height":96},
+		{"id":"9f82b406a40fad38","x":1320,"y":620,"width":462,"height":60,"type":"text","text":"他の人のいい**ところを観察している**かどうかの違い"}
 	],
 	"edges":[
 		{"id":"e1dfd017e9fe4d5c","fromNode":"ee0b809b8d751820","fromSide":"left","toNode":"2f8be60b047b423c","toSide":"right","color":"3","label":"So sánh\nところを\nところに・へ\nところで"},
@@ -27,6 +28,7 @@
 		{"id":"f5139281360d6e72","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"e91afc015352e9a0","toSide":"left","color":"6"},
 		{"id":"96cec54fec58c204","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"71508c8d0ae52ffa","toSide":"left","color":"6"},
 		{"id":"885180d793021a69","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"83c8780b255d2bd8","toSide":"left","color":"6"},
-		{"id":"e7cb82a5e312d96c","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"0f9189357e32ef15","toSide":"left","color":"6"}
+		{"id":"e7cb82a5e312d96c","fromNode":"ee0b809b8d751820","fromSide":"right","toNode":"0f9189357e32ef15","toSide":"left","color":"6"},
+		{"id":"f902406b2c7a7d35","fromNode":"e91afc015352e9a0","fromSide":"right","toNode":"9f82b406a40fad38","toSide":"left"}
 	]
 }

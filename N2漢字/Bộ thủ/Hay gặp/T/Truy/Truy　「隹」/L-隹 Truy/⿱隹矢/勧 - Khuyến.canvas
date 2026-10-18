@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"297a4ee94e3da888","x":-86,"y":-9,"width":250,"height":60,"type":"text","text":"勧 - Khuyến"},
-		{"id":"8897eba5bb467d9b","x":-460,"y":-50,"width":198,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+		{"id":"297a4ee94e3da888","type":"text","text":"勧 - Khuyến","x":-86,"y":-9,"width":250,"height":60},
+		{"id":"8897eba5bb467d9b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-460,"y":-50,"width":198,"height":143},
+		{"id":"c49cce1ad65c5afa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/L-隹 Truy/⿱隹矢/⿱隹矢.canvas","x":-420,"y":-240,"width":140,"height":140},
+		{"id":"dcf0611aac4ff667","x":340,"y":-300,"width":220,"height":171,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/勧誘.md"}
 	],
 	"edges":[
-		{"id":"e483b50f78295eea","fromNode":"8897eba5bb467d9b","fromSide":"right","toNode":"297a4ee94e3da888","toSide":"left"}
+		{"id":"e483b50f78295eea","fromNode":"8897eba5bb467d9b","fromSide":"right","toNode":"297a4ee94e3da888","toSide":"left"},
+		{"id":"85a5120e7afc60fb","fromNode":"c49cce1ad65c5afa","fromSide":"right","toNode":"297a4ee94e3da888","toSide":"left"},
+		{"id":"2b8278401e647237","fromNode":"297a4ee94e3da888","fromSide":"right","toNode":"dcf0611aac4ff667","toSide":"left"}
 	]
 }

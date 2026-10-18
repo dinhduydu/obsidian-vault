@@ -3,11 +3,15 @@
 		{"id":"cd0496d60c7c4a6b","type":"text","text":"滅 - Diệt","x":-136,"y":-27,"width":250,"height":60},
 		{"id":"e741d0e0d5e9d8ce","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「火」/Hoả　「火」.canvas","x":-541,"y":140,"width":152,"height":154},
 		{"id":"c20ca713edee14b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-547,"y":400,"width":158,"height":201},
-		{"id":"1a3fd25704598035","x":-564,"y":-194,"width":193,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戌 - Tuất/戌 - Tuất.canvas"}
+		{"id":"1a3fd25704598035","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戌 - Tuất/戌 - Tuất.canvas","x":-564,"y":-194,"width":193,"height":197},
+		{"id":"f29e37a0766669e4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/滅入る.md","x":280,"y":-420,"width":284,"height":135},
+		{"id":"b2552f60d35d2ced","type":"text","text":"滅入る：元気がなくなり、暗い気持ちになる","x":820,"y":-520,"width":408,"height":55}
 	],
 	"edges":[
 		{"id":"0b554c664e8d0cf6","fromNode":"e741d0e0d5e9d8ce","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"},
 		{"id":"65a41ace6d695ba6","fromNode":"c20ca713edee14b0","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"},
-		{"id":"1a44a045560a4bf2","fromNode":"1a3fd25704598035","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"}
+		{"id":"1a44a045560a4bf2","fromNode":"1a3fd25704598035","fromSide":"right","toNode":"cd0496d60c7c4a6b","toSide":"left"},
+		{"id":"c26cb3b507dba58d","fromNode":"f29e37a0766669e4","fromSide":"right","toNode":"b2552f60d35d2ced","toSide":"left","label":"cảm thấy chán nản"},
+		{"id":"0adc1ec5cb75457a","fromNode":"cd0496d60c7c4a6b","fromSide":"right","toNode":"f29e37a0766669e4","toSide":"left","label":"cảm thấy chán nản"}
 	]
 }
