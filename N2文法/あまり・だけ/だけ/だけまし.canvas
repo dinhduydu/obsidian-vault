@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71aa37f999f349d6","type":"group","x":-539,"y":-270,"width":1079,"height":541,"color":"4","label":"だけまし　ー　So sánh tối thiểu / Chọn phương án ít tệ hơn"},
+		{"id":"e030f1ccdf9397d6","type":"text","text":"だけまし","x":270,"y":88,"width":250,"height":65},
+		{"id":"d299268e29651ca7","type":"text","text":"まだまし","x":-19,"y":-99,"width":250,"height":60},
+		{"id":"47b19e367d557b6a","type":"text","text":"ほうがまし","x":-19,"y":61,"width":250,"height":60},
+		{"id":"2927d5cebe644bc2","type":"text","text":"よりまし","x":-48,"y":-233,"width":250,"height":60},
+		{"id":"a02c7aef781264f1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいなら.md","x":-519,"y":-132,"width":400,"height":400}
+	],
+	"edges":[]
+}

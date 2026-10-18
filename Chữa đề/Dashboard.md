@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 439
-- Total Knowledge Items: 4581
-- Correct: 3163
-- Wrong: 3951
-- Accuracy: 44.5%
+- Total Reviews: 442
+- Total Knowledge Items: 4598
+- Correct: 3176
+- Wrong: 3974
+- Accuracy: 44.4%
 
 ## 🚨 Review Queue
 
@@ -18,7 +18,6 @@
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
-- [[〜まい]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
@@ -30,6 +29,7 @@
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
 - [[しかし]] | Conjunction| Score: 47| Wrong: 7
 - [[つまり]] | Conjunction| Score: 45| Wrong: 6
+- [[〜ようがない]] | Grammar| Score: 45| Wrong: 6
 
 ## 🔥 Top Weak Points
 
@@ -41,12 +41,12 @@
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
+- [[〜まい]] (Grammar) Wrong: 8
 - [[そこで]] (Conjunction) Wrong: 8
 - [[〜がち]] (Grammar) Wrong: 8
 - [[相続]] (Vocabulary) Wrong: 8
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
-- [[〜まい]] (Grammar) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 - [[さっさと]] (Adverb) Wrong: 7
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.2% (Correct 260 / Wrong 420)
-- Collocation: 46.7% (Correct 129 / Wrong 147)
+- Adverb: 38.2% (Correct 262 / Wrong 423)
+- Collocation: 46.6% (Correct 129 / Wrong 148)
 - CompoundVerb: 42.7% (Correct 140 / Wrong 188)
-- Conjunction: 33.9% (Correct 59 / Wrong 115)
-- Demonstratives: 41.2% (Correct 7 / Wrong 10)
-- FixedExpression: 41.4% (Correct 189 / Wrong 267)
-- Grammar: 43.4% (Correct 773 / Wrong 1010)
+- Conjunction: 34.3% (Correct 60 / Wrong 115)
+- Demonstratives: 43.8% (Correct 7 / Wrong 9)
+- FixedExpression: 41.5% (Correct 190 / Wrong 268)
+- Grammar: 43.2% (Correct 780 / Wrong 1024)
 - Kanji: 50.6% (Correct 302 / Wrong 295)
 - Katakana: 49.1% (Correct 135 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 34.9% (Correct 83 / Wrong 155)
-- Vocabulary: 47.5% (Correct 1052 / Wrong 1161)
+- Reading: 34.7% (Correct 84 / Wrong 158)
+- Vocabulary: 47.5% (Correct 1053 / Wrong 1163)
 
 ## 📚 Top Grammar
 
@@ -77,23 +77,23 @@
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
 - [[〜がち]] (Score: 55)
-- [[〜まい]] (Score: 55)
 - [[〜ものの]] (Score: 50)
 - [[むしろ]] (Score: 50)
 - [[〜に限って]] (Score: 50)
+- [[〜とは限らない]] (Score: 50)
 
 ## 📚 Top Vocabulary
 
 - [[]] (Score: 235)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[連続]] (Score: 45)
+- [[苦情]] (Score: 40)
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
 - [[傾向]] (Score: 40)
 - [[消火器]] (Score: 40)
 - [[つらい]] (Score: 35)
-- [[苦情]] (Score: 35)
 
 ## 📚 Top Kanji
 
@@ -215,7 +215,6 @@
 ## 📚 Top Demonstratives
 
 - [[その]] (Score: 25)
-- [[同じような]] (Score: 20)
 - [[あんなに]] (Score: 20)
 - [[こんなに]] (Score: 15)
 - [[あの]] (Score: 15)
@@ -224,9 +223,11 @@
 - [[そんな]] (Score: 5)
 - [[これと同じこと]] (Score: 0)
 - [[そう]] (Score: 0)
+- [[この]] (Score: 0)
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
 - [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[2.1. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
@@ -236,6 +237,8 @@
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.2]]
 - [[2. Phân Tích N2_TV_ĐỘNG TỪ]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3]]
+- [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.1]]
+- [[2. Phân Tích N2_ĐỌC HIỂU_TEST 6]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60]]
 - [[1. Phân Tích Ngữ pháp N3 1.pdf]]
@@ -244,6 +247,3 @@
 - [[2.1.1. Phân Tích Từ láy thông dụng 1]]
 - [[2.1.1. Phân Tích Từ láy thông dụng]]
 - [[2.2.1. Phân Tích Từ láy thông dụng 2]]
-- [[2.3.1. Phân Tích Từ láy thông dụng 3]]
-- [[2.3.1. Phân Tích Từ láy thông dụng]]
-- [[2.4.1. Phân Tích Từ láy thông dụng 4]]

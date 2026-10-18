@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"baba1747b948e546","type":"file","file":"N2文法/しか.canvas","x":94,"y":-125,"width":279,"height":130},
+		{"id":"6372c44e826867e9","type":"text","text":"だけしか","x":-372,"y":-120,"width":250,"height":60},
+		{"id":"6e8d420b997bd132","type":"text","text":"Giới hạn số lượng","x":-364,"y":65,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"978fcfb48e4c3d3f","fromNode":"baba1747b948e546","fromSide":"left","toNode":"6372c44e826867e9","toSide":"right"},
+		{"id":"28c8247a68d76c54","fromNode":"6372c44e826867e9","fromSide":"bottom","toNode":"6e8d420b997bd132","toSide":"top"}
+	]
+}

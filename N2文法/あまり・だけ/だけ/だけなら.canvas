@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b594de7eb13759a6","type":"group","x":-920,"y":-551,"width":1840,"height":1102,"color":"3","label":"だけなら　ー　Nếu chỉ là... (thì được/có thể"},
+		{"id":"5058c53dc0aa7666","type":"group","x":-760,"y":131,"width":760,"height":380,"color":"3","label":"〜だけでよければ　ー　Nếu chỉ cần... là được/ổn thì..."},
+		{"id":"92a4e219c6b2095c","type":"text","text":"## Nhóm\n\n> **Điều kiện / Giả định / Giới hạn điều kiện**","x":140,"y":-531,"width":290,"height":219},
+		{"id":"7e97ce7d013902ea","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけでよければ.md","x":-298,"y":191,"width":278,"height":240},
+		{"id":"c17935fb8ce5ae44","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜だけでよければ.md","x":-740,"y":251,"width":314,"height":218},
+		{"id":"616f03ebe6f22b2a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/だけなら.md","x":500,"y":-422,"width":400,"height":400}
+	],
+	"edges":[]
+}

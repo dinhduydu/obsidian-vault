@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"191a773ff1a775b3","type":"group","x":-1274,"y":-570,"width":1979,"height":1140,"color":"2","label":"〜だけあって　ー　Quả đúng là/Thảo nào (tương xứng với kỳ vọng)."},
+		{"id":"791eac73b3b4ee75","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけあって.md","x":-1235,"y":110,"width":400,"height":400},
+		{"id":"eec80d22886a2299","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけのことはある.md","x":-1234,"y":-505,"width":400,"height":400},
+		{"id":"811ce18f5dc56022","type":"file","file":"Chữa đề/Learning_Profile/Adverb/さすが.md","x":-715,"y":110,"width":400,"height":400},
+		{"id":"564a9cd380cc937d","type":"text","text":"だけあって","x":-440,"y":-530,"width":250,"height":50},
+		{"id":"c6da643039171bc2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけのことはある.md","x":366,"y":-150,"width":280,"height":260},
+		{"id":"9794608089797843","type":"file","file":"N2文法/こと・もの/こと/こと.canvas","x":1026,"y":225,"width":249,"height":171}
+	],
+	"edges":[
+		{"id":"4313b97efedaac9d","fromNode":"564a9cd380cc937d","fromSide":"bottom","toNode":"791eac73b3b4ee75","toSide":"top","label":"〜だけあって"},
+		{"id":"8dec3ef7d6ed5200","fromNode":"564a9cd380cc937d","fromSide":"bottom","toNode":"811ce18f5dc56022","toSide":"top","label":"さすが"},
+		{"id":"83648b4a39b2a7da","fromNode":"564a9cd380cc937d","fromSide":"bottom","toNode":"c6da643039171bc2","toSide":"top","label":"〜だけのことはある　ー　\nChẳng trách, thảo nào, bõ công (xứng đáng với kỳ vọng/giá trị)."},
+		{"id":"d44b497ce9497781","fromNode":"c6da643039171bc2","fromSide":"right","toNode":"9794608089797843","toSide":"left","label":"だけのことはある"}
+	]
+}

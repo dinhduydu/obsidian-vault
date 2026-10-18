@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"12e3dc03368e6771","type":"group","x":-1020,"y":-835,"width":2040,"height":1670,"color":"3","label":"だけでなく　ー　Không chỉ"},
+		{"id":"86f42b5ee61248b2","type":"file","file":"Pasted image 20260412205430.png","x":1,"y":-200,"width":736,"height":393},
+		{"id":"ce5f4102df5b3980","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":-860,"y":-815,"width":400,"height":400},
+		{"id":"a72d0315fdbf61ab","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/から.canvas","x":-1000,"y":-200,"width":400,"height":400},
+		{"id":"c04d6b6d80a3ed29","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりか.md","x":-399,"y":395,"width":400,"height":400},
+		{"id":"d72ad633a66aee84","type":"file","file":"N2文法/のみ.canvas","x":600,"y":415,"width":400,"height":400},
+		{"id":"e56fdab399ed748e","type":"file","file":"N2文法/あまり・だけ/だけ/だけで.canvas","x":1918,"y":-791,"width":400,"height":400},
+		{"id":"a6c6b557dfa2255e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけでなく.md","x":1718,"y":360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"7e1a3184f99bcf69","fromNode":"86f42b5ee61248b2","fromSide":"bottom","toNode":"d72ad633a66aee84","toSide":"top","label":"のみならず"},
+		{"id":"cb66b6fa4021948e","fromNode":"86f42b5ee61248b2","fromSide":"top","toNode":"ce5f4102df5b3980","toSide":"bottom","label":"のに\nに決まってる"},
+		{"id":"3a8389b3328043bb","fromNode":"86f42b5ee61248b2","fromSide":"left","toNode":"a72d0315fdbf61ab","toSide":"right","label":"からみりと"},
+		{"id":"9a40cf45d6a7464d","fromNode":"86f42b5ee61248b2","fromSide":"bottom","toNode":"c04d6b6d80a3ed29","toSide":"top"},
+		{"id":"08c604d0149a27de","fromNode":"e56fdab399ed748e","fromSide":"left","toNode":"12e3dc03368e6771","toSide":"right","color":"3"},
+		{"id":"7139e2120655e78c","fromNode":"12e3dc03368e6771","fromSide":"right","toNode":"a6c6b557dfa2255e","toSide":"left","color":"5"}
+	]
+}

@@ -1,20 +1,17 @@
 {
 	"nodes":[
-		{"id":"5e58b93c51f4e74c","type":"group","x":-1070,"y":-678,"width":1260,"height":1357,"color":"5","label":"だけだ　ー　Chỉ còn cách"},
-		{"id":"e87a4dfc37a6cddd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけだ (Chỉ là_Chỉ đơn giản là).md","x":-1010,"y":118,"width":400,"height":400},
-		{"id":"e68d5b4934745c56","type":"file","file":"N2文法/のみ.canvas","x":-462,"y":356,"width":252,"height":54},
-		{"id":"0fff16d718298ab7","type":"text","text":"だけだ\nChỉ còn cách, không còn sự lựa chọn hay hành động khác","x":-1050,"y":-276,"width":270,"height":92},
-		{"id":"0dfa5c9737829bdc","type":"text","text":"～が~だけだ","x":-690,"y":-484,"width":250,"height":60},
-		{"id":"761124f97e1fd637","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりだ.md","x":670,"y":-655,"width":400,"height":400},
-		{"id":"d460cb06d6649245","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.canvas","x":-210,"y":-578,"width":253,"height":246},
-		{"id":"1e8e83983de835a8","type":"file","file":"Pasted image 20260409002811.png","x":-337,"y":-184,"width":507,"height":247}
+		{"id":"d3c8d503bdeb272b","type":"group","x":-90,"y":-7,"width":696,"height":566,"color":"1","label":"だけに　ー　Chính vì... nên càng... "},
+		{"id":"6a5c60e47e31ec5a","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それだけに.md","x":-70,"y":311,"width":286,"height":228},
+		{"id":"0905f6e2d5c8e86a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～だけに.md","x":-70,"y":59,"width":246,"height":181},
+		{"id":"7e3f2aff97c45b7f","type":"text","text":"だけに","x":-546,"y":-227,"width":250,"height":60},
+		{"id":"43c684b0102df3db","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけに.md","x":316,"y":59,"width":270,"height":252},
+		{"id":"837242639431c470","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ためだけに.md","x":316,"y":379,"width":270,"height":160},
+		{"id":"9cf72a1b3a067ac8","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":129,"y":-471,"width":200,"height":127},
+		{"id":"31f467bcb10b8b00","type":"file","file":"Pasted image 20260409080213.png","x":-605,"y":-558,"width":399,"height":214}
 	],
 	"edges":[
-		{"id":"2fa833b25c274d4a","fromNode":"0fff16d718298ab7","fromSide":"bottom","toNode":"e87a4dfc37a6cddd","toSide":"top","label":"〜だけだ (Chỉ là_Chỉ đơn giản là)"},
-		{"id":"99f7287ecb309584","fromNode":"1e8e83983de835a8","fromSide":"bottom","toNode":"e68d5b4934745c56","toSide":"top","label":"のみだ　ー　trang trọng, văn viết"},
-		{"id":"2b7a1dea6b700c79","fromNode":"1e8e83983de835a8","fromSide":"top","toNode":"d460cb06d6649245","toSide":"bottom","label":"ばかりだ"},
-		{"id":"e65ff2fd5a35733e","fromNode":"0fff16d718298ab7","fromSide":"right","toNode":"1e8e83983de835a8","toSide":"left","label":"＝Vるばかりだ\nCảm xúc, chờ đợi"},
-		{"id":"8210ffd7b18421e8","fromNode":"0fff16d718298ab7","fromSide":"top","toNode":"0dfa5c9737829bdc","toSide":"left","label":"～が~だけだ"},
-		{"id":"d6146cce3aa12405","fromNode":"d460cb06d6649245","fromSide":"right","toNode":"761124f97e1fd637","toSide":"left","label":"〜ばかりだ"}
+		{"id":"222f8047e15e363f","fromNode":"7e3f2aff97c45b7f","fromSide":"bottom","toNode":"d3c8d503bdeb272b","toSide":"left","label":"だけに　ー　Chính vì... nên càng... "},
+		{"id":"c0b0ba0ae8367673","fromNode":"7e3f2aff97c45b7f","fromSide":"right","toNode":"9cf72a1b3a067ac8","toSide":"left"},
+		{"id":"631ab8a680490d2a","fromNode":"31f467bcb10b8b00","fromSide":"bottom","toNode":"7e3f2aff97c45b7f","toSide":"top","label":"だけに"}
 	]
 }

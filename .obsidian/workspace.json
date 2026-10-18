@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0afff4ee13203308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week3/15102026/3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3"
-            }
-          },
-          {
-            "id": "9f82dab507391e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec/2.1. Từ láy thông dụng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Từ láy thông dụng"
-            }
-          },
-          {
             "id": "e61f001177ecafae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60.md",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60"
+              "title": "1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1."
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -85,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "編",
+                "query": "とうとう",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -208,33 +179,44 @@
   },
   "active": "e61f001177ecafae",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Collocation/最高速度.md",
-    "Chữa đề/Learning_Profile/Vocabulary/単位.md",
-    "Chữa đề/Learning_Profile/Vocabulary/風速.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/巻き起こす.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/言い換える.md",
-    "Chữa đề/Learning_Profile/Grammar/〜と言ったらどうだろう.md",
-    "Chữa đề/Learning_Profile/Grammar/〜といえば.md",
-    "Chữa đề/Learning_Profile/Reading/数値の言い換えとイメージ化.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/2. Đọc hiểu bài 60.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60.md",
+    "Chữa đề/Learning_Profile/Adverb/わざわざ.md",
+    "Chữa đề/Learning_Profile/Grammar/〜のおそれがある.md",
+    "Chữa đề/Learning_Profile/Reading/落ち葉の危険性と枝切りの一番の理由.md",
+    "Chữa đề/Learning_Profile/Grammar/〜のごとく.md",
+    "Chữa đề/Learning_Profile/Vocabulary/必要不可欠.md",
+    "Chữa đề/Learning_Profile/Reading/フィクションと生きる力.md",
+    "Chữa đề/Learning_Profile/Vocabulary/区別.md",
+    "Chữa đề/Learning_Profile/Vocabulary/読点.md",
+    "Chữa đề/Learning_Profile/FixedExpression/同じような.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ばかりではなく.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/14102026/1..md",
+    "N2文法/あまり・だけ/だけ/だけ.canvas",
+    "N2文法/あまり・だけ/だけ/だけまし.canvas",
+    "N2文法/あまり・だけ/だけ/〜だけのことはある.canvas",
+    "N2文法/あまり・だけ/だけ/だけあって.canvas",
+    "N2文法/あまり・だけ/だけ/だけしか.canvas",
+    "N2文法/あまり・だけ/だけ/だけでなく.canvas",
+    "N2文法/あまり・だけ/だけ/だけで.canvas",
+    "N2文法/あまり・だけ/だけ/だけなら.canvas",
+    "N2文法/あまり・だけ/だけ/だけに.canvas",
+    "N2文法/あまり・だけ/だけ/だけ　ー　Knowledge Graph.md",
+    "N2文法/あまり・だけ/だけ/だけだ.canvas",
     "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/0. Link bài tập.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/1. Đọc hiểu bài 59.md",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/冊 - Sách/扁 - Biển, Thiên/編 -  Biên.canvas",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/25062026/1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026/1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/03122025/1. Phân Tích N2_TEST TỪ VỰNG_BÀI 4.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/1. Phân Tích ĐỌC DỊCH + PHÂN TÍCH NGỮ PHÁP VÀ TỪ VỰNG.md",
-    "Chữa đề/２０２６年/０７月２０２６年/Week2/08072026/2. Phân Tích Ngữ Pháp.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/編み出す.md",
-    "Chữa đề/Learning_Profile/Grammar/〜以上に.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ではなく.md",
-    "Chữa đề/Learning_Profile/Vocabulary/弟子.md",
-    "Chữa đề/Learning_Profile/Vocabulary/覚悟.md",
-    "Chữa đề/Learning_Profile/Vocabulary/独学.md",
-    "Chữa đề/Learning_Profile/Reading/独学と勉強の仕方.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1..md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.1.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/2. Phân Tích N2_ĐỌC HIỂU_TEST 6.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/0. Link bài tập.md",
+    "Chữa đề/Learning_Profile/Adverb/すっかり.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/24062026/6. Phân Tích N2_NGÀY 17_ÔN TẬP TỪ VỰNG (P4).md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/1. Phân Tích N2_BÀI TẬP 1.1.md",
+    "Chữa đề/Learning_Profile/Conjunction/ただし.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week1/07032026/5. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 9.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week1/07012026/3. Phân Tích N2_ĐỌC HIỂU NGỮ PHÁP_TEST 1.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/15102026/3. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4",
     "Pasted image 20261017175257.png",
     "Pasted image 20261017175248.png",
     "Pasted image 20261017175235.png",
@@ -243,26 +225,15 @@
     "Pasted image 20261017175156.png",
     "Pasted image 20261017175143.png",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch03.canvas",
-    "N2語彙/Từ đồng nghĩa/Trạng thái, cảm xúc, tính cách/❤️ PHÂN NHÓM 3 - TRẠNG THÁI, CẢM XÚC & TÍNH CÁCH.canvas",
-    "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
     "Pasted image 20261017162311.png",
     "Pasted image 20261017162300.png",
     "Pasted image 20261017162249.png",
-    "Chữa đề/２０２６年/１０月２０２６年/Week2/09102026/N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 2/Câu 5.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/18102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026",
     "N2読解/Từ nối",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/15102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/14102026",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/13102026",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/Vて上げる.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/VてあげるーVてもらうーVてくれる/VてあげるーVてもらうーVてくれる.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week2/09102026/N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 2/Câu 7.canvas",
-    "N2文法/ところ・どころ/ところ/ところが.canvas",
-    "N2文法/あまり・だけ/だけ",
-    "N2文法/ない・いう・しまう/ない"
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/13102026"
   ]
 }

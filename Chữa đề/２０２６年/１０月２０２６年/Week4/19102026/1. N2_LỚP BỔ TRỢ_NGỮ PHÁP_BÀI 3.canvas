@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"630a457203c430d2","type":"text","text":"1.\n\n*\n1 điểm\n1 からは\n2 までは\n3 には\n4 とは","x":300,"y":-1040,"width":217,"height":237},
+		{"id":"801885eeba39bfad","type":"text","text":"\n2.\n\n*\n1 điểm\n1 同じような\n2 間違いない\n3 あのような\n4 いちばんいい","x":-1060,"y":-520,"width":250,"height":200},
+		{"id":"16da2506e67d62f1","type":"text","text":"\n\n\n\n\n\n\n\n　　  ( 2 ) 例として「私が大好きなお母さん。」 という文がある。 一つは 「私がお母さんを大好きだと思っている。」 という意味で、もう一つは「お母さんが私を大好きだと思っている。」という意味である。( 3 ) 、この例の場合には読点を打った ( 4 )  意味の区別がしにくい。 一つ目の意味を伝えたいなら 「私の大好きなお母さん。」、二つ目の意味を伝えたいなら「私を大好きなお母さん。」と  ( 5  )  、意味の区別ができる。","x":-640,"y":-420,"width":765,"height":160},
+		{"id":"6d82f62f7e457dc1","type":"text","text":"3.\n\n*\n1 điểm\n1 すっかり\n2 ずいぶん\n3 とうとう\n4 ただし","x":-1036,"y":-260,"width":203,"height":226},
+		{"id":"28c5e34ab545c7a5","type":"text","text":"5.\n\n*\n1 điểm\n1 なると\n2 すると\n3 なっても\n4 しても","x":420,"y":-260,"width":220,"height":226},
+		{"id":"dcd2304307eefe11","type":"text","text":"\n4.\n\n*\n1 điểm\n1 だけでは\n2 だけではなく\n3 ばかりでは\n4 ばかりではなく","x":264,"y":-620,"width":266,"height":270},
+		{"id":"2d82303c8aefc933","type":"text","text":"　　「私は太郎さんと花子さんに明日の予定を説明した。」 という文には、二つの意味がある。 一つは「私は太郎さんと花子さんの二人に明日の予定を説明した。」 という意味で、もう一つは「私は太郎さんと二人で花子さんに明日の予定を説明した。」という意味である。 意味の区別をはっきりさせる  ( 1 ) 、一つ目の意味ならば、「私「は」のあとに読点を打つという方法がある。\n\n","x":-695,"y":-1021,"width":820,"height":200},
+		{"id":"1c3385998598db92","type":"file","file":"Chữa đề/Learning_Profile/Adverb/とうとう.md","x":-1520,"y":80,"width":197,"height":107},
+		{"id":"265dd834a3befc5c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/すっかり.md","x":-1558,"y":-380,"width":235,"height":120},
+		{"id":"ec1e3adc98fa0482","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ただし.md","x":-1539,"y":-203,"width":197,"height":113},
+		{"id":"59e86f67c459156f","x":840,"y":-704,"width":191,"height":84,"type":"file","file":"N2文法/あまり・だけ/だけ/だけ.canvas"},
+		{"id":"1995628911acab2f","x":840,"y":-462,"width":174,"height":84,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.canvas"}
+	],
+	"edges":[
+		{"id":"642e2f974b21f60a","fromNode":"16da2506e67d62f1","fromSide":"right","toNode":"28c5e34ab545c7a5","toSide":"left"},
+		{"id":"d4230a6f6de5ecc4","fromNode":"2d82303c8aefc933","fromSide":"right","toNode":"630a457203c430d2","toSide":"left"},
+		{"id":"bb9deca7ed4ecaab","fromNode":"801885eeba39bfad","fromSide":"right","toNode":"16da2506e67d62f1","toSide":"left"},
+		{"id":"bf33eca67d8b1ef9","fromNode":"6d82f62f7e457dc1","fromSide":"right","toNode":"16da2506e67d62f1","toSide":"left"},
+		{"id":"27817fa80eab52fc","fromNode":"16da2506e67d62f1","fromSide":"right","toNode":"dcd2304307eefe11","toSide":"left"},
+		{"id":"c7ebb0f8e952c120","fromNode":"6d82f62f7e457dc1","fromSide":"left","toNode":"1c3385998598db92","toSide":"right","label":"Cuối cùng thì (sau nhiều nỗ lực/vất vả)."},
+		{"id":"10118934d09d41b3","fromNode":"6d82f62f7e457dc1","fromSide":"left","toNode":"ec1e3adc98fa0482","toSide":"right","label":"Nhưng/Với điều kiện là."},
+		{"id":"bcfe75af640f7dee","fromNode":"6d82f62f7e457dc1","fromSide":"left","toNode":"265dd834a3befc5c","toSide":"right","label":"Hoàn toàn, sạch sành sanh."},
+		{"id":"82bf87d06c61b0e5","fromNode":"dcd2304307eefe11","fromSide":"right","toNode":"59e86f67c459156f","toSide":"left"},
+		{"id":"75409eb95e5fd0a1","fromNode":"dcd2304307eefe11","fromSide":"right","toNode":"1995628911acab2f","toSide":"left"}
+	]
+}

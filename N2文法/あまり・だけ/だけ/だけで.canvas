@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0af7a2191f71b922","type":"group","x":-938,"y":-245,"width":1876,"height":491,"color":"3","label":"だけで ー　Chỉ với"},
+		{"id":"5e91299237b07089","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だけで.md","x":-88,"y":-147,"width":270,"height":250},
+		{"id":"5328ce20b9530bd9","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/想像するだけで.md","x":-729,"y":-22,"width":307,"height":248},
+		{"id":"de7ea3ceb6fd2a0f","type":"text","text":"だけで","x":668,"y":-52,"width":250,"height":60},
+		{"id":"3f3f6dc385f6f1a6","type":"text","text":"だけでなく","x":382,"y":166,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d2f6825113b12a4c","fromNode":"5e91299237b07089","fromSide":"left","toNode":"5328ce20b9530bd9","toSide":"right","label":"想像するだけで"},
+		{"id":"f1a453103d4ed00e","fromNode":"de7ea3ceb6fd2a0f","fromSide":"left","toNode":"5e91299237b07089","toSide":"right"},
+		{"id":"e2c7e06bcb2f5334","fromNode":"de7ea3ceb6fd2a0f","fromSide":"bottom","toNode":"3f3f6dc385f6f1a6","toSide":"top","label":"だけでなく"}
+	]
+}
