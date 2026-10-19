@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 443
-- Total Knowledge Items: 4603
-- Correct: 3186
-- Wrong: 3977
-- Accuracy: 44.5%
+- Total Reviews: 449
+- Total Knowledge Items: 4632
+- Correct: 3226
+- Wrong: 4013
+- Accuracy: 44.6%
 
 ## 🚨 Review Queue
 
@@ -16,10 +16,13 @@
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
+- [[〜まい]] | Grammar| Score: 57| Wrong: 9
+- [[〜ようがない]] | Grammar| Score: 55| Wrong: 8
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
+- [[つまり]] | Conjunction| Score: 50| Wrong: 7
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
 - [[〜ものの]] | Grammar| Score: 50| Wrong: 7
 - [[むしろ]] | Grammar| Score: 50| Wrong: 7
@@ -27,21 +30,19 @@
 - [[〜とは限らない]] | Grammar| Score: 50| Wrong: 7
 - [[最もよいもの]] | FixedExpression| Score: 50| Wrong: 9
 - [[返事]] | FixedExpression| Score: 50| Wrong: 7
-- [[しかし]] | Conjunction| Score: 47| Wrong: 7
-- [[つまり]] | Conjunction| Score: 45| Wrong: 6
-- [[〜ようがない]] | Grammar| Score: 45| Wrong: 6
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 44
 - [[〜にもかかわらず]] (Grammar) Wrong: 10
 - [[〜にすぎない]] (Grammar) Wrong: 10
+- [[〜まい]] (Grammar) Wrong: 9
 - [[〜ざるを得ない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
 - [[〜にほかならない]] (Grammar) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
-- [[〜まい]] (Grammar) Wrong: 8
+- [[〜ようがない]] (Grammar) Wrong: 8
 - [[そこで]] (Conjunction) Wrong: 8
 - [[〜がち]] (Grammar) Wrong: 8
 - [[相続]] (Vocabulary) Wrong: 8
@@ -49,25 +50,24 @@
 - [[無理]] (Vocabulary) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
 - [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
+- [[つまり]] (Conjunction) Wrong: 7
 - [[さっさと]] (Adverb) Wrong: 7
 - [[しかし]] (Conjunction) Wrong: 7
-- [[〜ものの]] (Grammar) Wrong: 7
-- [[大工]] (Vocabulary) Wrong: 7
 
 ## 📈 Category Statistics
 
-- Adverb: 38.1% (Correct 263 / Wrong 427)
-- Collocation: 46.8% (Correct 130 / Wrong 148)
-- CompoundVerb: 42.7% (Correct 140 / Wrong 188)
-- Conjunction: 35.5% (Correct 61 / Wrong 111)
+- Adverb: 38.6% (Correct 279 / Wrong 443)
+- Collocation: 47.2% (Correct 133 / Wrong 149)
+- CompoundVerb: 42.7% (Correct 143 / Wrong 192)
+- Conjunction: 35.3% (Correct 60 / Wrong 110)
 - Demonstratives: 43.8% (Correct 7 / Wrong 9)
-- FixedExpression: 41.6% (Correct 191 / Wrong 268)
-- Grammar: 43.2% (Correct 781 / Wrong 1026)
-- Kanji: 50.6% (Correct 302 / Wrong 295)
+- FixedExpression: 41.7% (Correct 192 / Wrong 268)
+- Grammar: 43.2% (Correct 789 / Wrong 1038)
+- Kanji: 50.8% (Correct 307 / Wrong 297)
 - Katakana: 49.3% (Correct 136 / Wrong 140)
 - Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 34.6% (Correct 84 / Wrong 159)
-- Vocabulary: 47.6% (Correct 1057 / Wrong 1163)
+- Reading: 33.6% (Correct 80 / Wrong 158)
+- Vocabulary: 47.8% (Correct 1066 / Wrong 1166)
 
 ## 📚 Top Grammar
 
@@ -76,11 +76,11 @@
 - [[〜ざるを得ない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
+- [[〜まい]] (Score: 57)
+- [[〜ようがない]] (Score: 55)
 - [[〜がち]] (Score: 55)
 - [[〜ものの]] (Score: 50)
 - [[むしろ]] (Score: 50)
-- [[〜に限って]] (Score: 50)
-- [[〜とは限らない]] (Score: 50)
 
 ## 📚 Top Vocabulary
 
@@ -140,12 +140,12 @@
 - [[巡り会う]] (Score: 35)
 - [[割り込む]] (Score: 30)
 - [[見守る]] (Score: 30)
+- [[裏切る]] (Score: 25)
 - [[食べかけ]] (Score: 25)
 - [[耐えぬく]] (Score: 25)
 - [[振り向く]] (Score: 25)
 - [[取り上げる]] (Score: 25)
 - [[受け入れる]] (Score: 25)
-- [[呼び止める]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -165,32 +165,32 @@
 - [[焦点]] (Score: 25)
 - [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
+- [[力強い]] (Score: 20)
 - [[移動手段]] (Score: 20)
 - [[成功を収める]] (Score: 20)
 - [[連絡している]] (Score: 20)
 - [[不安を持つ]] (Score: 20)
 - [[信用 को 築く]] (Score: 20)
 - [[ビザを延長する]] (Score: 20)
-- [[苦情が出る]] (Score: 20)
 
 ## 📚 Top Adverb
 
 - [[さっさと]] (Score: 50)
 - [[とりあえず]] (Score: 40)
+- [[さっぱり]] (Score: 35)
 - [[うとうと]] (Score: 35)
 - [[どうしても]] (Score: 35)
 - [[どうも]] (Score: 35)
+- [[なお]] (Score: 30)
+- [[案外]] (Score: 30)
+- [[いきなり]] (Score: 30)
 - [[ぎりぎり]] (Score: 30)
-- [[とっくに]] (Score: 30)
-- [[さっぱり]] (Score: 30)
-- [[かつて]] (Score: 30)
-- [[つい]] (Score: 30)
 
 ## 📚 Top Conjunction
 
 - [[そこで]] (Score: 55)
+- [[つまり]] (Score: 50)
 - [[しかし]] (Score: 47)
-- [[つまり]] (Score: 45)
 - [[とはいえ]] (Score: 35)
 - [[それにしては]] (Score: 35)
 - [[したがって]] (Score: 30)
@@ -229,6 +229,12 @@
 
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
+- [[4. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 43 (THAOLEJP).]]
+- [[5. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.2]]
+- [[6. Phân Tích N2_TV_PHÓ TỪ.]]
+- [[7. Phân Tích N2_TV_BÀI TẬP TỔNG HỢP 1.]]
+- [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
+- [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
 - [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[2.1. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
 - [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
@@ -241,9 +247,3 @@
 - [[1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.1]]
 - [[2. Phân Tích N2_ĐỌC HIỂU_TEST 6]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 59]]
-- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 60]]
-- [[1. Phân Tích Ngữ pháp N3 1.pdf]]
-- [[1.2 Phân Tích Ngữ pháp N3 2]]
-- [[1.3. Phân Tích Ngữ pháp N3 3]]
-- [[2.1.1. Phân Tích Từ láy thông dụng 1]]
-- [[2.1.1. Phân Tích Từ láy thông dụng]]
