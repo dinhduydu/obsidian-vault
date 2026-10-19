@@ -3,7 +3,7 @@ Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Act
   
 Knowledge Extracted bắt buộc chia category:  
 Vocabulary, Kanji, Katakana, Grammar, Particle, Reading, CompoundVerb, Adverb, Conjunction, FixedExpression, Collocation, Keigo, Kenjougo, Demonstratives.  
-  
+
 Mỗi item trong Knowledge Extracted bắt buộc viết đúng format:  
 ### CATEGORY | ITEM_NAME  
 Ví dụ: 
@@ -19,6 +19,7 @@ hoặc
 - **Why Wrong:** Người làm đúng câu này, nhận diện được "sách" là trung gian của tri thức.
 - **One-line Summary:** Diễn tả việc đạt được gì đó qua trung gian hoặc một trạng thái suốt một thời gian.
 
+**Ngôn ngữ:** Giải thích chủ yếu bằng tiếng Việt  để dễ hiểu và ghi nhớ, có thể thêm nghĩa tiếng Anh khi cần.
 
 Không viết "Grammar:" hoặc "ITEM:" hoặc gộp nhiều kiến thức trong 1 item.  
 Mọi item phải có: Meaning, Trigger, Contrast, One-line Summary.

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"514e5e38b5e7e248","x":-500,"y":-240,"width":250,"height":393,"type":"text","text":"![[Pasted image 20261019162405.png]]"},
+		{"id":"8da90a29288c03a5","x":-860,"y":-280,"width":140,"height":120,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.canvas"}
+	],
+	"edges":[
+		{"id":"0354114d447d512e","fromNode":"8da90a29288c03a5","fromSide":"right","toNode":"514e5e38b5e7e248","toSide":"left"}
+	]
+}

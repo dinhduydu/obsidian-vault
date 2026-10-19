@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"497877b6f3bd7f1b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりに.md","x":-620,"y":414,"width":400,"height":400},
+		{"id":"71eb0146a767f51b","type":"file","file":"Pasted image 20260412204712.png","x":220,"y":242,"width":400,"height":217},
+		{"id":"3f64e4b195383f0b","type":"file","file":"Pasted image 20260410083916.png","x":220,"y":669,"width":400,"height":176},
+		{"id":"75320a316757e08e","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.md","x":-1200,"y":548,"width":334,"height":297}
+	],
+	"edges":[
+		{"id":"6f51fe2c09408e17","fromNode":"497877b6f3bd7f1b","fromSide":"right","toNode":"71eb0146a767f51b","toSide":"left","label":"ばかりか・ばかりに"},
+		{"id":"463bc6b6883707a6","fromNode":"497877b6f3bd7f1b","fromSide":"right","toNode":"3f64e4b195383f0b","toSide":"left","label":"ばかりに"},
+		{"id":"e04a4f32901ec0d3","fromNode":"75320a316757e08e","fromSide":"right","toNode":"497877b6f3bd7f1b","toSide":"left"}
+	]
+}

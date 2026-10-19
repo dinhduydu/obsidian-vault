@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"013c9f2826e2ef04","x":-162,"y":-50,"width":250,"height":50,"type":"text","text":""},
-		{"id":"4c9441d98c8689df","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Vたばかり"}
+		{"id":"efef9401f22d2c8b","type":"group","x":-363,"y":-133,"width":726,"height":267,"label":"Vたばかり　ー　Vừa mới"},
+		{"id":"b542cd19440ab360","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりの.md","x":-329,"y":-75,"width":246,"height":164},
+		{"id":"dc6305b6472e2d55","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たばかり.md","x":20,"y":-75,"width":323,"height":189}
 	],
 	"edges":[]
 }

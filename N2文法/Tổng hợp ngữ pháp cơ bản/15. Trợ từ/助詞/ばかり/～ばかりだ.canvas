@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2f73614454b9f687","type":"group","x":-945,"y":37,"width":875,"height":407,"color":"2","label":"ばかりだ　ー　Chỉ còn"},
+		{"id":"bd4a36416d1013a2","type":"group","x":-330,"y":-443,"width":759,"height":268,"color":"5","label":"〜ばかりだ　ー　Cứ, ngày càng..."},
+		{"id":"e1341c7ff73180a9","type":"file","file":"N2文法/のみ.canvas","x":-925,"y":77,"width":163,"height":122},
+		{"id":"0ebee18fc566b692","type":"file","file":"N2文法/あまり・だけ/だけ/だけ.canvas","x":-894,"y":297,"width":132,"height":127},
+		{"id":"75f0a8e5db7ea041","type":"file","file":"Pasted image 20260409002756.png","x":-490,"y":165,"width":400,"height":195},
+		{"id":"4241a798399fa5b9","type":"text","text":"Grammar | 〜ばかりだ\n\n- **Meaning:** Cứ dần dần theo hướng (thường là xấu).","x":168,"y":-367,"width":250,"height":160},
+		{"id":"658b533cd75f1724","type":"text","text":"ばかりだ","x":695,"y":217,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2c40ccffcd9f188f","fromNode":"658b533cd75f1724","fromSide":"left","toNode":"2f73614454b9f687","toSide":"right","label":"ばかりだ・だけだ・のみだ"},
+		{"id":"878587df2ccfc5c4","fromNode":"658b533cd75f1724","fromSide":"left","toNode":"bd4a36416d1013a2","toSide":"right","label":"ばかりだ"},
+		{"id":"168973582aa3f11f","fromNode":"75f0a8e5db7ea041","fromSide":"left","toNode":"e1341c7ff73180a9","toSide":"right","label":"のみ"},
+		{"id":"3f76b629cfe2cea6","fromNode":"75f0a8e5db7ea041","fromSide":"left","toNode":"0ebee18fc566b692","toSide":"right","label":"だけ"}
+	]
+}
