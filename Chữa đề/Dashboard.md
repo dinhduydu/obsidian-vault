@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 513
+- Total Reviews: 514
 - Total Knowledge Items: 5386
-- Correct: 3238
-- Wrong: 5447
+- Correct: 3250
+- Wrong: 5456
 - Accuracy: 37.3%
 
 ## 🚨 Review Queue
@@ -56,13 +56,13 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 33.7% (Correct 282 / Wrong 555)
+- Adverb: 33.8% (Correct 284 / Wrong 555)
 - Collocation: 36.4% (Correct 135 / Wrong 236)
 - CompoundVerb: 33.1% (Correct 143 / Wrong 289)
-- Conjunction: 25.6% (Correct 62 / Wrong 180)
+- Conjunction: 25.5% (Correct 62 / Wrong 181)
 - Demonstratives: 10.0% (Correct 8 / Wrong 72)
 - FixedExpression: 34.7% (Correct 183 / Wrong 345)
-- Grammar: 36.1% (Correct 799 / Wrong 1417)
+- Grammar: 36.2% (Correct 809 / Wrong 1425)
 - Kanji: 42.4% (Correct 318 / Wrong 432)
 - Katakana: 35.9% (Correct 136 / Wrong 243)
 - Keigo: 25.5% (Correct 36 / Wrong 105)
@@ -237,6 +237,7 @@
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
 - [[2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41]]
+- [[2.1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.]]
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
 - [[10. Phân Tích N2_3_180326-11-12.pdf]]
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]
@@ -246,4 +247,3 @@
 - [[15. Phân Tích N2_4_200326-3-5.pdf]]
 - [[16. Phân Tích N2_4_200326-6-9.pdf]]
 - [[17. Phân Tích N2_4_200326-10-13.pdf]]
-- [[18. Phân Tích N2_4_200326-14-16.pdf]]
