@@ -2,17 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 468
-- Total Knowledge Items: 4855
+- Total Reviews: 473
+- Total Knowledge Items: 4923
 - Correct: 3226
-- Wrong: 4408
-- Accuracy: 42.3%
+- Wrong: 4510
+- Accuracy: 41.7%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
 - [[〜からといって]] | Grammar| Score: 65| Wrong: 10
+- [[〜ものの]] | Grammar| Score: 65| Wrong: 10
 - [[〜にもかかわらず]] | Grammar| Score: 62| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
@@ -22,7 +23,6 @@
 - [[つまり]] | Conjunction| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[〜とは限らない]] | Grammar| Score: 55| Wrong: 8
-- [[〜ものの]] | Grammar| Score: 55| Wrong: 8
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
@@ -36,6 +36,7 @@
 - [[]] (Vocabulary) Wrong: 44
 - [[〜にすぎない]] (Grammar) Wrong: 11
 - [[〜からといって]] (Grammar) Wrong: 10
+- [[〜ものの]] (Grammar) Wrong: 10
 - [[〜にもかかわらず]] (Grammar) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 9
 - [[〜ざるを得ない]] (Grammar) Wrong: 9
@@ -47,7 +48,6 @@
 - [[つまり]] (Conjunction) Wrong: 8
 - [[〜からには]] (Grammar) Wrong: 8
 - [[〜とは限らない]] (Grammar) Wrong: 8
-- [[〜ものの]] (Grammar) Wrong: 8
 - [[そこで]] (Conjunction) Wrong: 8
 - [[〜がち]] (Grammar) Wrong: 8
 - [[相続]] (Vocabulary) Wrong: 8
@@ -56,23 +56,24 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.3% (Correct 279 / Wrong 468)
-- Collocation: 43.8% (Correct 134 / Wrong 172)
-- CompoundVerb: 39.9% (Correct 143 / Wrong 215)
-- Conjunction: 32.3% (Correct 60 / Wrong 126)
-- Demonstratives: 19.4% (Correct 7 / Wrong 29)
-- FixedExpression: 39.2% (Correct 187 / Wrong 290)
-- Grammar: 40.2% (Correct 791 / Wrong 1176)
-- Kanji: 49.0% (Correct 304 / Wrong 317)
-- Katakana: 45.8% (Correct 136 / Wrong 161)
-- Keigo: 38.7% (Correct 36 / Wrong 57)
-- Reading: 31.4% (Correct 80 / Wrong 175)
-- Vocabulary: 46.7% (Correct 1069 / Wrong 1222)
+- Adverb: 37.0% (Correct 279 / Wrong 476)
+- Collocation: 42.7% (Correct 134 / Wrong 180)
+- CompoundVerb: 39.3% (Correct 143 / Wrong 221)
+- Conjunction: 31.6% (Correct 60 / Wrong 130)
+- Demonstratives: 17.5% (Correct 7 / Wrong 33)
+- FixedExpression: 38.7% (Correct 187 / Wrong 296)
+- Grammar: 39.6% (Correct 791 / Wrong 1206)
+- Kanji: 48.6% (Correct 304 / Wrong 322)
+- Katakana: 44.9% (Correct 136 / Wrong 167)
+- Keigo: 37.5% (Correct 36 / Wrong 60)
+- Reading: 31.0% (Correct 80 / Wrong 178)
+- Vocabulary: 46.3% (Correct 1069 / Wrong 1241)
 
 ## 📚 Top Grammar
 
 - [[〜にすぎない]] (Score: 70)
 - [[〜からといって]] (Score: 65)
+- [[〜ものの]] (Score: 65)
 - [[〜にもかかわらず]] (Score: 62)
 - [[〜ざるを得ない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
@@ -80,7 +81,6 @@
 - [[〜まい]] (Score: 57)
 - [[〜ようがない]] (Score: 55)
 - [[〜からには]] (Score: 55)
-- [[〜とは限らない]] (Score: 55)
 
 ## 📚 Top Vocabulary
 
@@ -105,8 +105,8 @@
 - [[盗]] (Score: 25)
 - [[破]] (Score: 25)
 - [[巻]] (Score: 25)
+- [[看護師（かんごし）]] (Score: 25)
 - [[系統]] (Score: 25)
-- [[貯蔵]] (Score: 25)
 
 ## 📚 Top Katakana
 
@@ -117,9 +117,9 @@
 - [[アパート]] (Score: 25)
 - [[ビル]] (Score: 25)
 - [[プラン]] (Score: 25)
+- [[ヒーター]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
-- [[ギャング]] (Score: 25)
 
 ## 📚 Top Reading
 
@@ -156,13 +156,14 @@
 - [[よくも平気でいられるよね]] (Score: 25)
 - [[体を壊す]] (Score: 25)
 - [[身につく]] (Score: 25)
+- [[一途をたどる（いちずをたどる）]] (Score: 25)
 - [[〜を目的として]] (Score: 25)
 - [[ごちゃごちゃ]] (Score: 25)
-- [[駆け引き]] (Score: 25)
 
 ## 📚 Top Collocation
 
 - [[身が引き締まる思い]] (Score: 35)
+- [[文句を言う（もんくをいう）]] (Score: 30)
 - [[役割を果たす]] (Score: 25)
 - [[焦点]] (Score: 25)
 - [[騒音を防止する]] (Score: 25)
@@ -171,11 +172,11 @@
 - [[申し訳ないと思っている]] (Score: 20)
 - [[招待状の返事を出す]] (Score: 20)
 - [[試験の結果を気にする]] (Score: 20)
-- [[試験 Results を気にする]] (Score: 20)
 
 ## 📚 Top Adverb
 
 - [[さっさと]] (Score: 50)
+- [[すっかり]] (Score: 40)
 - [[とりあえず]] (Score: 40)
 - [[さっぱり]] (Score: 35)
 - [[かえって]] (Score: 35)
@@ -184,7 +185,6 @@
 - [[どうも]] (Score: 35)
 - [[なお]] (Score: 30)
 - [[案外]] (Score: 30)
-- [[いきなり]] (Score: 30)
 
 ## 📚 Top Conjunction
 
@@ -195,9 +195,9 @@
 - [[とはいえ]] (Score: 35)
 - [[それにしては]] (Score: 35)
 - [[ところが]] (Score: 30)
+- [[というのは]] (Score: 30)
 - [[つきましては]] (Score: 30)
 - [[それで]] (Score: 30)
-- [[それにしても]] (Score: 30)
 
 ## 📚 Top Keigo
 
@@ -216,9 +216,9 @@
 
 - [[この]] (Score: 35)
 - [[その]] (Score: 35)
+- [[こんな]] (Score: 30)
 - [[あんなに]] (Score: 30)
 - [[ただ]] (Score: 30)
-- [[こんな]] (Score: 25)
 - [[あの]] (Score: 25)
 - [[それまで]] (Score: 20)
 - [[あそこ]] (Score: 20)
