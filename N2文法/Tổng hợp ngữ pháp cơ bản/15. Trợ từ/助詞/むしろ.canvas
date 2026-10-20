@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"92fed83f18211b0d","x":-64,"y":-25,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/むしろ.md"}
+		{"id":"081b21c6c2bfbf0f","x":-860,"y":280,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/むしろ.md"},
+		{"id":"92fed83f18211b0d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/むしろ.md","x":80,"y":280,"width":400,"height":400},
+		{"id":"7819862a09798e7b","x":-400,"y":-420,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/むしろ.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"428357a1203c3579","fromNode":"7819862a09798e7b","fromSide":"bottom","toNode":"081b21c6c2bfbf0f","toSide":"top","color":"4"},
+		{"id":"275a05eeb6848ab4","fromNode":"081b21c6c2bfbf0f","fromSide":"right","toNode":"92fed83f18211b0d","toSide":"left","color":"4"},
+		{"id":"93177cab2148b71c","fromNode":"92fed83f18211b0d","fromSide":"top","toNode":"7819862a09798e7b","toSide":"bottom","color":"4"}
+	]
 }

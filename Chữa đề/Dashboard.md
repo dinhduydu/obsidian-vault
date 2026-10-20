@@ -235,7 +235,7 @@
 - [[7. Phân Tích N2_TV_BÀI TẬP TỔNG HỢP 1.]]
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
-- [[1. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
+- [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
 - [[10. Phân Tích N2_3_180326-11-12.pdf]]
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]

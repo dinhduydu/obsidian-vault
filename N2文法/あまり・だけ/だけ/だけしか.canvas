@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"baba1747b948e546","type":"file","file":"N2文法/しか.canvas","x":94,"y":-125,"width":279,"height":130},
 		{"id":"6372c44e826867e9","type":"text","text":"だけしか","x":-372,"y":-120,"width":250,"height":60},
-		{"id":"6e8d420b997bd132","type":"text","text":"Giới hạn số lượng","x":-364,"y":65,"width":250,"height":60}
+		{"id":"baba1747b948e546","type":"file","file":"N2文法/しか.canvas","x":117,"y":-400,"width":279,"height":130},
+		{"id":"820a4a982a8a6337","x":117,"y":-20,"width":206,"height":67,"type":"file","file":"N2文法/あまり・だけ/だけ/だけ.canvas"}
 	],
 	"edges":[
-		{"id":"978fcfb48e4c3d3f","fromNode":"baba1747b948e546","fromSide":"left","toNode":"6372c44e826867e9","toSide":"right"},
-		{"id":"28c8247a68d76c54","fromNode":"6372c44e826867e9","fromSide":"bottom","toNode":"6e8d420b997bd132","toSide":"top"}
+		{"id":"978fcfb48e4c3d3f","fromNode":"baba1747b948e546","fromSide":"left","toNode":"6372c44e826867e9","toSide":"right","color":"2","label":"Giới hạn số lượng"},
+		{"id":"31d8fc4efd227919","fromNode":"820a4a982a8a6337","fromSide":"left","toNode":"6372c44e826867e9","toSide":"right","color":"5"}
 	]
 }

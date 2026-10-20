@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5f393fc81b80078a","type":"group","x":-259,"y":-1060,"width":1099,"height":740,"label":"A＋くらいなら、むしろ＋B"},
+		{"id":"23f92ac71a789244","type":"group","x":-520,"y":-100,"width":439,"height":422,"color":"1","label":"くらいなら　ー　Nếu A... thì... B còn tốt hơn,"},
+		{"id":"9cde68cbe89fdd82","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいなら.md","x":280,"y":-560,"width":313,"height":187},
+		{"id":"b081298815d08967","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/むしろ.canvas","x":-239,"y":-960,"width":202,"height":216},
+		{"id":"51f4c376cfafda96","type":"file","file":"Pasted image 20260409003105.png","x":-500,"y":80,"width":399,"height":222},
+		{"id":"7bff4a700ea34b0c","type":"text","text":"くらいなら","x":-425,"y":-80,"width":250,"height":60},
+		{"id":"22e46dff6be63024","type":"text","text":"Dùng khi so sánh hai sự việc và khẳng định cái sau mới là cái phù hợp hoặc đúng đắn hơn.","x":-1020,"y":-940,"width":388,"height":88},
+		{"id":"5db563d3d307320a","type":"file","file":"N2文法/くらい・ほど/くらい/くらい.canvas","x":-1020,"y":-579,"width":309,"height":226},
+		{"id":"110474c68d7f80da","type":"text","text":"Dùng trong **so sánh chọn lựa tiêu cực**, vế A là tình huống rất ghét/bất mãn, vế B là lựa chọn thà chấp nhận còn hơn phải làm A.","x":-1052,"y":-1260,"width":420,"height":110}
+	],
+	"edges":[
+		{"id":"213da0922a087d2b","fromNode":"7bff4a700ea34b0c","fromSide":"bottom","toNode":"51f4c376cfafda96","toSide":"top"},
+		{"id":"88ff1b2a6fcdb507","fromNode":"23f92ac71a789244","fromSide":"right","toNode":"9cde68cbe89fdd82","toSide":"left","color":"5","label":"Nếu phải... thì thà... còn hơn."},
+		{"id":"a780416ba35561ce","fromNode":"b081298815d08967","fromSide":"right","toNode":"9cde68cbe89fdd82","toSide":"left","color":"2","label":"嫌な勉強をするくらいなら、むしろ働いたほうがいい。"},
+		{"id":"af6aae9f6819d466","fromNode":"22e46dff6be63024","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left","color":"3"},
+		{"id":"12ef378f516e96c8","fromNode":"5db563d3d307320a","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left","color":"5"},
+		{"id":"f09ca9c7597cf25c","fromNode":"110474c68d7f80da","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left"}
+	]
+}

@@ -1,27 +1,30 @@
 {
 	"nodes":[
-		{"id":"71ac4b24484461c5","type":"text","text":"でしかない。","x":-132,"y":-67,"width":250,"height":50},
-		{"id":"3263d83785bcaed9","type":"text","text":"Chỉ\n","x":-177,"y":69,"width":250,"height":60},
-		{"id":"0a5dbf110a90925d","type":"text","text":"しかない","x":-70,"y":-316,"width":250,"height":60},
+		{"id":"5add0f87b785f21b","type":"group","x":540,"y":-540,"width":691,"height":215,"label":"Cách chia"},
+		{"id":"22925dd38046c45f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しか〜ない.md","x":-1584,"y":-437,"width":281,"height":157},
+		{"id":"2a8ead8a60772245","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しかあるまい.md","x":-2560,"y":132,"width":337,"height":182},
+		{"id":"ccdcae9e2d1324fc","type":"file","file":"N2文法/まい.canvas","x":-2020,"y":340,"width":328,"height":94},
 		{"id":"82f94190a8a58b97","type":"text","text":"しか","x":-54,"y":-553,"width":250,"height":60},
-		{"id":"10f7b6a501240e83","type":"file","file":"N2文法/あまり・だけ/だけ/だけ.canvas","x":-600,"y":-1040,"width":400,"height":400},
-		{"id":"388ed412568c2baf","type":"text","text":"しかある","x":-718,"y":-437,"width":250,"height":60},
-		{"id":"7f823cf039b73857","type":"text","text":"Dùng khi muốn nói không có cách nào khác nên chọn A\n","x":334,"y":-437,"width":286,"height":56},
-		{"id":"0a98e05f20791cc1","type":"text","text":"V辞書形＋しかない","x":720,"y":-522,"width":250,"height":60},
-		{"id":"2bc7b7a2e2c41dc8","type":"text","text":"Nしかない","x":735,"y":-407,"width":250,"height":60},
-		{"id":"96711b9e0fc7fd0d","type":"text","text":"しかあるまい","x":-1260,"y":-437,"width":250,"height":60},
-		{"id":"ccdcae9e2d1324fc","x":-1780,"y":-454,"width":328,"height":94,"type":"file","file":"N2文法/まい.canvas"}
+		{"id":"d1287b3bf1d083ab","type":"file","file":"N2文法/あまり・だけ/だけ/だけしか.canvas","x":-500,"y":-1040,"width":193,"height":129},
+		{"id":"7f823cf039b73857","type":"text","text":"Dùng khi muốn nói không có cách nào khác nên chọn A\n","x":560,"y":-435,"width":286,"height":56},
+		{"id":"0a98e05f20791cc1","type":"text","text":"V辞書形＋しかない","x":946,"y":-520,"width":250,"height":60},
+		{"id":"2bc7b7a2e2c41dc8","type":"text","text":"Nしかない","x":961,"y":-405,"width":250,"height":60},
+		{"id":"10f7b6a501240e83","type":"file","file":"N2文法/あまり・だけ/だけ/だけ.canvas","x":-180,"y":-1160,"width":160,"height":100},
+		{"id":"c911608f2b0b113c","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜としか言いようがない.md","x":408,"y":-1260,"width":273,"height":158},
+		{"id":"a8e7b7f77af884ed","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～でしかない.md","x":499,"y":260,"width":346,"height":163},
+		{"id":"72391c5cd09613e8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しかない.md","x":-83,"y":-80,"width":308,"height":219}
 	],
 	"edges":[
-		{"id":"73bef10124ad7e82","fromNode":"71ac4b24484461c5","fromSide":"bottom","toNode":"3263d83785bcaed9","toSide":"top"},
-		{"id":"f045095f6d771fcf","fromNode":"0a5dbf110a90925d","fromSide":"bottom","toNode":"71ac4b24484461c5","toSide":"top"},
-		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"0a5dbf110a90925d","toSide":"top","label":"しかない"},
-		{"id":"c230e158188420b2","fromNode":"10f7b6a501240e83","fromSide":"right","toNode":"82f94190a8a58b97","toSide":"top","label":"だけしか"},
-		{"id":"6290c2c28640a7b9","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"388ed412568c2baf","toSide":"right","label":"しかある"},
-		{"id":"9333ef1bed47ece0","fromNode":"388ed412568c2baf","fromSide":"left","toNode":"96711b9e0fc7fd0d","toSide":"right","label":"しかある"},
-		{"id":"36f3f10a08e534cd","fromNode":"0a5dbf110a90925d","fromSide":"right","toNode":"7f823cf039b73857","toSide":"left"},
+		{"id":"f045095f6d771fcf","fromNode":"72391c5cd09613e8","fromSide":"right","toNode":"a8e7b7f77af884ed","toSide":"left","color":"5","label":"Chẳng qua chỉ là..., không hơn không kém."},
+		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"72391c5cd09613e8","toSide":"top","color":"5","label":"Chỉ còn cách... / Không còn cách nào khác ngoài...."},
 		{"id":"1fbf8c0f6c479396","fromNode":"7f823cf039b73857","fromSide":"right","toNode":"0a98e05f20791cc1","toSide":"left"},
 		{"id":"e655d94b91bbc1c1","fromNode":"7f823cf039b73857","fromSide":"right","toNode":"2bc7b7a2e2c41dc8","toSide":"left"},
-		{"id":"fcfe44237e8b7bcc","fromNode":"96711b9e0fc7fd0d","fromSide":"left","toNode":"ccdcae9e2d1324fc","toSide":"right"}
+		{"id":"ebc3e8962262a7f0","fromNode":"22925dd38046c45f","fromSide":"left","toNode":"2a8ead8a60772245","toSide":"right","color":"5","label":"Have no choice but to, must / Chắc chỉ còn cách, không còn lựa chọn nào khác ngoài."},
+		{"id":"eb26f2e6f2b80df4","fromNode":"ccdcae9e2d1324fc","fromSide":"left","toNode":"2a8ead8a60772245","toSide":"right","color":"2"},
+		{"id":"3913a2d92f0cfcff","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"22925dd38046c45f","toSide":"right","color":"5","label":"Have no choice but to, can only / Không còn cách nào khác, chỉ có thể..."},
+		{"id":"8083f890b0ffa9c5","fromNode":"82f94190a8a58b97","fromSide":"right","toNode":"c911608f2b0b113c","toSide":"left","color":"5","label":"Chỉ có thể nói là... / Chỉ có thể gọi là... (Can only be described as)."},
+		{"id":"342eaea75b9c718a","fromNode":"5add0f87b785f21b","fromSide":"left","toNode":"72391c5cd09613e8","toSide":"right","color":"3"},
+		{"id":"a3fcaa7d8946073e","fromNode":"10f7b6a501240e83","fromSide":"left","toNode":"d1287b3bf1d083ab","toSide":"right"},
+		{"id":"c230e158188420b2","fromNode":"82f94190a8a58b97","fromSide":"top","toNode":"d1287b3bf1d083ab","toSide":"right","color":"5","label":"Giới hạn số lượng"}
 	]
 }

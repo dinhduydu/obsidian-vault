@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ddd96dda9d9fc494","type":"file","file":"Pasted image 20260505210058.png","x":-15,"y":-192,"width":400,"height":299},
+		{"id":"2dafa5f16b45adf1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいだ.md","x":-385,"y":23,"width":245,"height":169},
+		{"id":"ca5ebfe2d08b015c","type":"file","file":"Pasted image 20260409002931.png","x":-15,"y":192,"width":400,"height":216}
+	],
+	"edges":[
+		{"id":"6ae2a82e7d316aea","fromNode":"2dafa5f16b45adf1","fromSide":"right","toNode":"ddd96dda9d9fc494","toSide":"left","color":"6"},
+		{"id":"da5f0f68daa53dc6","fromNode":"2dafa5f16b45adf1","fromSide":"right","toNode":"ca5ebfe2d08b015c","toSide":"left","color":"3"}
+	]
+}

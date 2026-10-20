@@ -3,13 +3,23 @@
 		{"id":"b2d9a3ebb77b0692","type":"text","text":"勤 - Cần","x":-148,"y":-21,"width":250,"height":60},
 		{"id":"282f4b54daecebb8","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/Cận　「堇」.canvas","x":-620,"y":-360,"width":156,"height":169},
 		{"id":"cf2d5fd3e65b571c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-630,"y":100,"width":166,"height":159},
-		{"id":"f0d12a2c0df7dc00","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/勤勉.md","x":320,"y":-400,"width":259,"height":160},
-		{"id":"c7de07194b25320b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/出勤.md","x":520,"y":160,"width":292,"height":161}
+		{"id":"c7de07194b25320b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/出勤.md","x":520,"y":160,"width":292,"height":161},
+		{"id":"a070d75290422424","type":"file","file":"Chữa đề/Learning_Profile/Kanji/欠勤.md","x":960,"y":-42,"width":191,"height":102},
+		{"id":"4c61865f06adb387","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/無断欠勤.md","x":1400,"y":-360,"width":223,"height":150},
+		{"id":"4a0ee8b6e41ebaa2","type":"file","file":"Chữa đề/Learning_Profile/Collocation/無断欠勤する.md","x":1900,"y":-600,"width":322,"height":164},
+		{"id":"b5c3c661cb49454c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/皆勤賞.md","x":579,"y":680,"width":338,"height":235},
+		{"id":"f0d12a2c0df7dc00","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/勤勉.md","x":520,"y":-400,"width":259,"height":160},
+		{"id":"d6ff558e3aebf75f","x":560,"y":-700,"width":514,"height":66,"type":"text","text":"勤め ( つとめ) - công việc; công vụ; nhiệm vụ; nghĩa vụ; công tác"}
 	],
 	"edges":[
 		{"id":"fe9ae11101b215c8","fromNode":"282f4b54daecebb8","fromSide":"right","toNode":"b2d9a3ebb77b0692","toSide":"left"},
 		{"id":"3aeb6ef1fcf3bf45","fromNode":"cf2d5fd3e65b571c","fromSide":"right","toNode":"b2d9a3ebb77b0692","toSide":"left"},
-		{"id":"0921b4e4f8e6ff0a","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"f0d12a2c0df7dc00","toSide":"left","label":"Cần cù, chăm chỉ."},
-		{"id":"dc34a9d2badf1936","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"c7de07194b25320b","toSide":"left","label":"Đi làm."}
+		{"id":"0921b4e4f8e6ff0a","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"f0d12a2c0df7dc00","toSide":"left","color":"6","label":"Cần cù, chăm chỉ."},
+		{"id":"dc34a9d2badf1936","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"c7de07194b25320b","toSide":"left","color":"6","label":"Đi làm."},
+		{"id":"a5dafd746fb52483","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"a070d75290422424","toSide":"left","color":"6","label":"Sự nghỉ làm không phép (Absence without notice)."},
+		{"id":"02bda98d2e7d2bc7","fromNode":"4c61865f06adb387","fromSide":"right","toNode":"4a0ee8b6e41ebaa2","toSide":"left","color":"5","label":"Nghỉ làm không phép (Be absent without authorization)."},
+		{"id":"ae5bd33c6bb48dd3","fromNode":"a070d75290422424","fromSide":"right","toNode":"4c61865f06adb387","toSide":"left","color":"5","label":"Sự nghỉ làm không phép (Absence without notice)."},
+		{"id":"ef9972447bd5744e","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"b5c3c661cb49454c","toSide":"left","color":"6","label":"giải chuyên cần"},
+		{"id":"9b4763bdf9b33938","fromNode":"b2d9a3ebb77b0692","fromSide":"right","toNode":"d6ff558e3aebf75f","toSide":"left","color":"6","label":"công việc; công vụ; nhiệm vụ; nghĩa vụ; công tác"}
 	]
 }

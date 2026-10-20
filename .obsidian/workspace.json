@@ -11,17 +11,14 @@
             "id": "e61f001177ecafae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
-                "viewState": {
-                  "x": -185.43496958196,
-                  "y": -331.0029478696989,
-                  "zoom": 0.1566537265723924
-                }
+                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "送 - Tống"
+              "icon": "lucide-file",
+              "title": "次第に"
             }
           }
         ],
@@ -59,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "送",
+                "query": "次第に",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
+                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
+                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,41 +179,45 @@
   },
   "active": "e61f001177ecafae",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Kanji/送料.md",
-    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/送 - Tống.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/1. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4..md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/〜きる.md",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/料 - Liệu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/類 - Loại.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/粉 - Phấn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mễ　「米」/来 - Lai.canvas",
-    "Chữa đề/Learning_Profile/CompoundVerb/持ち出す.md",
-    "Chữa đề/Learning_Profile/Vocabulary/料理を分ける.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week1/03062026/3. Phân Tích N2_聴解_必修パターン_模擬試験_問題5.md",
-    "Chữa đề/Learning_Profile/Vocabulary/料理を調べる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/料理を食べる.md",
-    "Chữa đề/Learning_Profile/Kanji/伝統料理.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week4/26122025/5. Phân Tích Cấu trúc sắp xếp câu.md",
-    "Chữa đề/Learning_Profile/Vocabulary/料理を作る.md",
-    "Chữa đề/Learning_Profile/Reading/給料からの差し引き（きゅうりょうからのさしひき）.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/8. Phân Tích N2_6_2026-4.pdf.md",
-    "Chữa đề/Learning_Profile/Collocation/給料から差し引く（きゅうりょうからさしひく）.md",
-    "Chữa đề/Learning_Profile/Vocabulary/慰謝料（いしゃりょう）.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/19. Phân Tích N2_8-1-2.pdf.md",
-    "Chữa đề/Learning_Profile/Collocation/手数料.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/6. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 8.md",
-    "Chữa đề/Learning_Profile/Vocabulary/更新料.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week2/09062026/6. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 4.md",
-    "Chữa đề/Learning_Profile/Kanji/顔料.md",
-    "N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/刺 - Thích.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/名 - Danh.canvas",
-    "Chữa đề/Learning_Profile/Collocation/名前をよぶ.md",
-    "Chữa đề/２０２６年/０１月２０２６年/Week2/12012026/2. Phân Tích N3_BỊ ĐỘNG, SAI KHIẾN (P3).md",
-    "Chữa đề/Learning_Profile/Collocation/名前をまちがえる.md",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 2/大 - Đại.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/D/Đại (lớn)　「大」/Đại (lớn)　「大」.canvas",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
+    "Chữa đề/Learning_Profile/Adverb/次第に.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
+    "N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/勤 - Cần.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜はもちろん.md",
+    "Chữa đề/Learning_Profile/Vocabulary/皆勤賞.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/17. Phân Tích N2_4_200326-10-13.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/無断欠勤.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/15. Phân Tích N2_12-1-4.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/無断欠勤する.md",
+    "Chữa đề/Learning_Profile/Kanji/欠勤.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week3/17092026/1. Đọc hiểu 1.canvas",
+    "N2文法/くらい・ほど/くらい/くらい.canvas",
+    "N2文法/くらい・ほど/くらい/〜くらいなら.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜ないくらい.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 13.md",
+    "Chữa đề/Learning_Profile/Grammar/〜あるくらいだ.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/23122025/4. Phân Tích N3_TEST NGỮ PHÁP_BÀI 2.md",
+    "Chữa đề/Learning_Profile/Grammar/〜くらい／〜くらいだ.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/2. Phân Tích N2_1_2026-1-7-6-7.pdf.md",
+    "N2文法/くらい・ほど/くらい/くらいだ.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/むしろ.canvas",
+    "Chữa đề/Learning_Profile/Adverb/むしろ.md",
+    "N2文法/くらい・ほど/くらい/Untitled",
+    "N2文法/くらい・ほど/くらい",
+    "Untitled 22.base",
+    "Chữa đề/Learning_Profile/Kenjougo/まいります.md",
+    "Chữa đề/Learning_Profile/FixedExpression/力を入れてまいりました.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/24122025/2. Phân Tích N3_TEST NGỮ PHÁP_BÀI 3.md",
+    "N2文法/しか.canvas",
+    "N2文法/あまり・だけ/だけ/だけしか.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜しかない.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18).md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week4/24042026/1. Phân Tích Kết Quả N2_TEST NGỮ PHÁP_BÀI 12.2.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.1.md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/Adverb Navigation.canvas",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/Vたばかり.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.13-14",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/Untitled",
@@ -232,10 +233,7 @@
     "Pasted image 20261019163416.png",
     "Pasted image 20261019163412.png",
     "Pasted image 20261019163338.png",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec",
     "Pasted image 20261019162405.png",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/Untitled",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026",
     "Pasted image 20261017175257.png"
   ]
 }
