@@ -1,11 +1,43 @@
 {
 	"nodes":[
-		{"id":"b79bb31e796e3801","x":-99,"y":-34,"width":250,"height":60,"type":"text","text":"名 - Danh"},
-		{"id":"b35b20838af25d80","x":-380,"y":-220,"width":130,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas"},
-		{"id":"f692dd2184f212a2","x":-400,"y":80,"width":150,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas"}
+		{"id":"3112ab98124c219e","type":"group","x":2320,"y":1320,"width":931,"height":850,"color":"6","label":"名前"},
+		{"id":"f33999e78d3ad854","x":900,"y":20,"width":714,"height":258,"color":"6","type":"group","label":"名刺"},
+		{"id":"b35b20838af25d80","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/Tịch　「夕」.canvas","x":-380,"y":-220,"width":130,"height":118},
+		{"id":"f692dd2184f212a2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-400,"y":80,"width":150,"height":127},
+		{"id":"37ad94b9161e27b5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名画.md","x":320,"y":-240,"width":230,"height":113},
+		{"id":"a981c48e44f9953e","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名所.md","x":457,"y":313,"width":226,"height":149},
+		{"id":"b79bb31e796e3801","type":"text","text":"名 - Danh","x":-99,"y":-34,"width":250,"height":60},
+		{"id":"cce0033a6d668675","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名字.md","x":520,"y":560,"width":305,"height":214},
+		{"id":"0cec3d9c5d90336a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/刺 - Thích.canvas","x":258,"y":180,"width":125,"height":108},
+		{"id":"5db4ea1c1f2b2bef","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名器.md","x":520,"y":980,"width":260,"height":222},
+		{"id":"1390d5af7936f22b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名人.md","x":520,"y":1380,"width":200,"height":81},
+		{"id":"197fb54ca0b50449","type":"text","text":"名 - Danh","x":-100,"y":820,"width":250,"height":60},
+		{"id":"2da355522382f8be","type":"text","text":"名 - Danh","x":1480,"y":820,"width":250,"height":60},
+		{"id":"e9dd46299f639dca","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名演説.md","x":2000,"y":560,"width":211,"height":102},
+		{"id":"2de7b839c5e51cb5","type":"text","text":"名前","x":2340,"y":1550,"width":250,"height":60},
+		{"id":"80249e4934a29da9","type":"file","file":"Chữa đề/Learning_Profile/Collocation/名前をまちがえる.md","x":2831,"y":1380,"width":400,"height":400},
+		{"id":"37dcf3fc44e30b0e","type":"file","file":"Chữa đề/Learning_Profile/Collocation/名前をよぶ.md","x":2831,"y":1980,"width":316,"height":170},
+		{"id":"3e72803a01af5006","type":"file","file":"Chữa đề/Learning_Profile/Collocation/名刺を出す.md","x":1326,"y":40,"width":268,"height":119},
+		{"id":"7e11a49e841dc15d","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名刺.md","x":920,"y":50,"width":198,"height":99},
+		{"id":"997c8e572fd3753c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名物.md","x":825,"y":-188,"width":183,"height":122}
 	],
 	"edges":[
 		{"id":"81ffac581101db84","fromNode":"b35b20838af25d80","fromSide":"right","toNode":"b79bb31e796e3801","toSide":"left"},
-		{"id":"461f96af8688cbc3","fromNode":"f692dd2184f212a2","fromSide":"right","toNode":"b79bb31e796e3801","toSide":"left"}
+		{"id":"461f96af8688cbc3","fromNode":"f692dd2184f212a2","fromSide":"right","toNode":"b79bb31e796e3801","toSide":"left"},
+		{"id":"28b414a8b085bb31","fromNode":"b79bb31e796e3801","fromSide":"right","toNode":"37ad94b9161e27b5","toSide":"left","color":"6"},
+		{"id":"b9732596bbeb8b2d","fromNode":"b79bb31e796e3801","fromSide":"right","toNode":"f33999e78d3ad854","toSide":"left","color":"6"},
+		{"id":"423d305db290c07b","fromNode":"0cec3d9c5d90336a","fromSide":"right","toNode":"f33999e78d3ad854","toSide":"left","color":"2"},
+		{"id":"6f3f07e45ec5aa8c","fromNode":"b79bb31e796e3801","fromSide":"right","toNode":"997c8e572fd3753c","toSide":"left","color":"6"},
+		{"id":"97ae9a8de13f00cb","fromNode":"b79bb31e796e3801","fromSide":"right","toNode":"a981c48e44f9953e","toSide":"left","color":"6"},
+		{"id":"dc00f49702c6c715","fromNode":"197fb54ca0b50449","fromSide":"right","toNode":"cce0033a6d668675","toSide":"left","color":"6"},
+		{"id":"79f86e129adf76fa","fromNode":"b79bb31e796e3801","fromSide":"bottom","toNode":"197fb54ca0b50449","toSide":"top","color":"4"},
+		{"id":"49c743863523281e","fromNode":"197fb54ca0b50449","fromSide":"right","toNode":"5db4ea1c1f2b2bef","toSide":"left","color":"6"},
+		{"id":"90fd556b8d70edce","fromNode":"197fb54ca0b50449","fromSide":"right","toNode":"1390d5af7936f22b","toSide":"left","color":"6"},
+		{"id":"d5b355fd94c173eb","fromNode":"197fb54ca0b50449","fromSide":"right","toNode":"2da355522382f8be","toSide":"left","color":"4"},
+		{"id":"e9e052d0c4e1aaaa","fromNode":"2da355522382f8be","fromSide":"right","toNode":"e9dd46299f639dca","toSide":"left","color":"6"},
+		{"id":"a199e23bc796f162","fromNode":"7e11a49e841dc15d","fromSide":"right","toNode":"3e72803a01af5006","toSide":"left","color":"6"},
+		{"id":"cf2acba161280fdc","fromNode":"2da355522382f8be","fromSide":"right","toNode":"2de7b839c5e51cb5","toSide":"left","color":"6"},
+		{"id":"a779897671b0fc89","fromNode":"2de7b839c5e51cb5","fromSide":"right","toNode":"80249e4934a29da9","toSide":"left","color":"5","label":"Nhầm tên."},
+		{"id":"046793acd14a464c","fromNode":"2de7b839c5e51cb5","fromSide":"right","toNode":"37dcf3fc44e30b0e","toSide":"left","color":"5","label":"Gọi tên."}
 	]
 }

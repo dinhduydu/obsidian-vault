@@ -4,12 +4,16 @@
 		{"id":"6adee5a16b712cc1","type":"text","text":"人生を送る","x":-55,"y":-30,"width":250,"height":60},
 		{"id":"915e21932a7c701b","type":"text","text":"sống cuộc đời","x":461,"y":-30,"width":250,"height":60},
 		{"id":"97efd67e6c6ae794","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/Bát　「丷」.canvas","x":-1016,"y":-300,"width":94,"height":70},
-		{"id":"b044748165e1b5f9","x":-1016,"y":-30,"width":151,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/关 - Tống.canvas"}
+		{"id":"b044748165e1b5f9","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「丷」/关 - Tống/关 - Tống.canvas","x":-1016,"y":-30,"width":151,"height":138},
+		{"id":"31c039190c7387e5","type":"text","text":"送了","x":-100,"y":-360,"width":250,"height":60},
+		{"id":"9c53e2a61eb82d6a","type":"file","file":"Chữa đề/Learning_Profile/Kanji/送料.md","x":-120,"y":-680,"width":215,"height":87}
 	],
 	"edges":[
-		{"id":"8a84488a98ffe77a","fromNode":"addbe4860198ebaf","fromSide":"right","toNode":"6adee5a16b712cc1","toSide":"left"},
+		{"id":"8a84488a98ffe77a","fromNode":"addbe4860198ebaf","fromSide":"right","toNode":"6adee5a16b712cc1","toSide":"left","color":"6"},
 		{"id":"85ff1bd169ad72a1","fromNode":"6adee5a16b712cc1","fromSide":"right","toNode":"915e21932a7c701b","toSide":"left"},
 		{"id":"278487e4d28f7726","fromNode":"97efd67e6c6ae794","fromSide":"right","toNode":"addbe4860198ebaf","toSide":"left"},
-		{"id":"aadddf204d01c863","fromNode":"b044748165e1b5f9","fromSide":"right","toNode":"addbe4860198ebaf","toSide":"left"}
+		{"id":"aadddf204d01c863","fromNode":"b044748165e1b5f9","fromSide":"right","toNode":"addbe4860198ebaf","toSide":"left"},
+		{"id":"f0f53fc106da6ead","fromNode":"addbe4860198ebaf","fromSide":"right","toNode":"31c039190c7387e5","toSide":"left","color":"6","label":"そうりょう - Việc gửi hoàn tất"},
+		{"id":"85d0339eef67403b","fromNode":"addbe4860198ebaf","fromSide":"right","toNode":"9c53e2a61eb82d6a","toSide":"left","color":"6","label":"Cước phí vận chuyển, phí gửi hàng (Postage, shipping fee)."}
 	]
 }

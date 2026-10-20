@@ -3,11 +3,11 @@
 		{"id":"c2101cc18d7efab4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/多 - Đa.canvas","x":318,"y":120,"width":209,"height":126},
 		{"id":"2837e805828385b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoà　「禾」/移 - Di.canvas","x":328,"y":420,"width":188,"height":167},
 		{"id":"4487a7eb2f613560","type":"text","text":"Tịch　「夕」","x":-100,"y":153,"width":250,"height":60},
-		{"id":"cfd551814d81f18e","x":328,"y":-220,"width":185,"height":125,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/夢 - Mộng.canvas"}
+		{"id":"cfd551814d81f18e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/夢 - Mộng.canvas","x":328,"y":-220,"width":185,"height":125}
 	],
 	"edges":[
-		{"id":"b87a6df6c478358b","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"cfd551814d81f18e","toSide":"left"},
-		{"id":"4700ccc793a31c02","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"c2101cc18d7efab4","toSide":"left"},
-		{"id":"dbb17a32f6fbb5f2","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"2837e805828385b0","toSide":"left"}
+		{"id":"b87a6df6c478358b","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"cfd551814d81f18e","toSide":"left","color":"5"},
+		{"id":"4700ccc793a31c02","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"c2101cc18d7efab4","toSide":"left","color":"5"},
+		{"id":"dbb17a32f6fbb5f2","fromNode":"4487a7eb2f613560","fromSide":"right","toNode":"2837e805828385b0","toSide":"left","color":"5"}
 	]
 }

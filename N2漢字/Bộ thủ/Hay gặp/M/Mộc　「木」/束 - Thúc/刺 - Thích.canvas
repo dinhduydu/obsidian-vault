@@ -1,11 +1,23 @@
 {
 	"nodes":[
-		{"id":"1f0edef101d20aa4","x":-80,"y":-63,"width":250,"height":60,"type":"text","text":"刺 - Thích"},
-		{"id":"ad087a80ee1cfaa6","x":-480,"y":-220,"width":121,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas"},
-		{"id":"dba52c0946dd11ed","x":-460,"y":100,"width":120,"height":138,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas"}
+		{"id":"1f0edef101d20aa4","type":"text","text":"刺 - Thích","x":-80,"y":-63,"width":250,"height":60},
+		{"id":"ad087a80ee1cfaa6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/束 - Thúc/束 - Thúc.canvas","x":-480,"y":-220,"width":121,"height":142},
+		{"id":"dba52c0946dd11ed","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刀 」/Đao　「刀 」.canvas","x":-460,"y":100,"width":120,"height":138},
+		{"id":"6f7b3f485ade9198","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/刺激.md","x":420,"y":-460,"width":251,"height":138},
+		{"id":"63fe1792c4182897","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/名刺.md","x":420,"y":-234,"width":287,"height":201},
+		{"id":"7cd52f8150c95eab","type":"file","file":"Chữa đề/Learning_Profile/Collocation/名刺を出す.md","x":940,"y":-277,"width":238,"height":199},
+		{"id":"bc6461dbde4e3bfe","type":"file","file":"Chữa đề/Learning_Profile/Kanji/名刺.md","x":940,"y":40,"width":266,"height":180},
+		{"id":"f1b33ee8e9f04be2","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/(⿰方...)/放 - Phóng/Kích　「敫」/激 - Kích.canvas","x":20,"y":-560,"width":146,"height":72},
+		{"id":"8b724dd3823a4e12","x":-74,"y":-383,"width":189,"height":122,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tịch　「夕」/名 - Danh.canvas"}
 	],
 	"edges":[
 		{"id":"f4fbf471bdf1e695","fromNode":"ad087a80ee1cfaa6","fromSide":"right","toNode":"1f0edef101d20aa4","toSide":"left"},
-		{"id":"b71501013ebd669b","fromNode":"dba52c0946dd11ed","fromSide":"right","toNode":"1f0edef101d20aa4","toSide":"left"}
+		{"id":"b71501013ebd669b","fromNode":"dba52c0946dd11ed","fromSide":"right","toNode":"1f0edef101d20aa4","toSide":"left"},
+		{"id":"614da169c0921069","fromNode":"1f0edef101d20aa4","fromSide":"right","toNode":"6f7b3f485ade9198","toSide":"left","color":"6","label":"Kích thích, sự hưng phấn."},
+		{"id":"083ed45c79c1e606","fromNode":"1f0edef101d20aa4","fromSide":"right","toNode":"63fe1792c4182897","toSide":"left","color":"6"},
+		{"id":"05038a5687228c98","fromNode":"63fe1792c4182897","fromSide":"right","toNode":"7cd52f8150c95eab","toSide":"left","color":"5"},
+		{"id":"f84cb805c21d843f","fromNode":"63fe1792c4182897","fromSide":"right","toNode":"bc6461dbde4e3bfe","toSide":"left","color":"4"},
+		{"id":"cd7c3b8b6d8d4145","fromNode":"f1b33ee8e9f04be2","fromSide":"right","toNode":"6f7b3f485ade9198","toSide":"left","color":"2"},
+		{"id":"05cb902a296a25fd","fromNode":"8b724dd3823a4e12","fromSide":"right","toNode":"63fe1792c4182897","toSide":"left","color":"2"}
 	]
 }
