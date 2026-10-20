@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 511
-- Total Knowledge Items: 5373
-- Correct: 3226
-- Wrong: 5425
-- Accuracy: 37.3%
+- Total Reviews: 512
+- Total Knowledge Items: 5378
+- Correct: 3227
+- Wrong: 5439
+- Accuracy: 37.2%
 
 ## 🚨 Review Queue
 
@@ -26,10 +26,10 @@
 - [[〜に違いない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[つまり]] | Conjunction| Score: 55| Wrong: 8
+- [[すっかり]] | Adverb| Score: 55| Wrong: 8
 - [[この]] | Demonstratives| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[しかし]] | Conjunction| Score: 55| Wrong: 8
-- [[〜どころではない]] | Grammar| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -51,23 +51,23 @@
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[つまり]] (Conjunction) Wrong: 8
+- [[すっかり]] (Adverb) Wrong: 8
 - [[この]] (Demonstratives) Wrong: 8
-- [[〜からには]] (Grammar) Wrong: 8
 
 ## 📈 Category Statistics
 
-- Adverb: 33.8% (Correct 278 / Wrong 545)
-- Collocation: 36.6% (Correct 135 / Wrong 234)
-- CompoundVerb: 33.3% (Correct 143 / Wrong 287)
+- Adverb: 33.7% (Correct 278 / Wrong 548)
+- Collocation: 36.4% (Correct 135 / Wrong 236)
+- CompoundVerb: 33.1% (Correct 143 / Wrong 289)
 - Conjunction: 25.7% (Correct 62 / Wrong 179)
 - Demonstratives: 10.0% (Correct 8 / Wrong 72)
 - FixedExpression: 34.7% (Correct 183 / Wrong 345)
 - Grammar: 35.9% (Correct 792 / Wrong 1417)
-- Kanji: 43.0% (Correct 318 / Wrong 422)
+- Kanji: 42.4% (Correct 318 / Wrong 432)
 - Katakana: 35.9% (Correct 136 / Wrong 243)
 - Keigo: 25.5% (Correct 36 / Wrong 105)
 - Reading: 25.4% (Correct 80 / Wrong 235)
-- Vocabulary: 44.0% (Correct 1055 / Wrong 1341)
+- Vocabulary: 44.1% (Correct 1056 / Wrong 1338)
 
 ## 📚 Top Grammar
 
@@ -100,13 +100,13 @@
 - [[衝突]] (Score: 45)
 - [[悔しい]] (Score: 40)
 - [[一層]] (Score: 40)
+- [[支える]] (Score: 35)
 - [[用心]] (Score: 35)
 - [[改善]] (Score: 35)
 - [[相違]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
 - [[幻想的]] (Score: 30)
-- [[頭脳]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -140,12 +140,12 @@
 - [[思い出す]] (Score: 35)
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
+- [[思いつく]] (Score: 30)
 - [[引き受ける]] (Score: 30)
 - [[飛び上がる]] (Score: 30)
 - [[言いようがない]] (Score: 30)
 - [[やり抜く]] (Score: 30)
 - [[割り込む]] (Score: 30)
-- [[見守る]] (Score: 30)
 
 ## 📚 Top FixedExpression
 
@@ -175,7 +175,7 @@
 
 ## 📚 Top Adverb
 
-- [[すっかり]] (Score: 50)
+- [[すっかり]] (Score: 55)
 - [[さっさと]] (Score: 50)
 - [[ますます]] (Score: 45)
 - [[とにかく]] (Score: 40)
@@ -235,6 +235,7 @@
 - [[7. Phân Tích N2_TV_BÀI TẬP TỔNG HỢP 1.]]
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
+- [[1. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
 - [[10. Phân Tích N2_3_180326-11-12.pdf]]
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]
@@ -246,4 +247,3 @@
 - [[17. Phân Tích N2_4_200326-10-13.pdf]]
 - [[18. Phân Tích N2_4_200326-14-16.pdf]]
 - [[19. Phân Tích N2_4_200326-17-18.pdf]]
-- [[2. Phân Tích N2_1_2026-1-7-6-7.pdf]]
