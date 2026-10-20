@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 512
-- Total Knowledge Items: 5378
-- Correct: 3227
-- Wrong: 5439
-- Accuracy: 37.2%
+- Total Reviews: 513
+- Total Knowledge Items: 5386
+- Correct: 3238
+- Wrong: 5447
+- Accuracy: 37.3%
 
 ## 🚨 Review Queue
 
@@ -25,8 +25,8 @@
 - [[〜どころか]] | Grammar| Score: 60| Wrong: 9
 - [[〜に違いない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
-- [[つまり]] | Conjunction| Score: 55| Wrong: 8
 - [[すっかり]] | Adverb| Score: 55| Wrong: 8
+- [[つまり]] | Conjunction| Score: 55| Wrong: 8
 - [[この]] | Demonstratives| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[しかし]] | Conjunction| Score: 55| Wrong: 8
@@ -50,19 +50,19 @@
 - [[連続]] (Vocabulary) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
-- [[つまり]] (Conjunction) Wrong: 8
 - [[すっかり]] (Adverb) Wrong: 8
+- [[つまり]] (Conjunction) Wrong: 8
 - [[この]] (Demonstratives) Wrong: 8
 
 ## 📈 Category Statistics
 
-- Adverb: 33.7% (Correct 278 / Wrong 548)
+- Adverb: 33.7% (Correct 282 / Wrong 555)
 - Collocation: 36.4% (Correct 135 / Wrong 236)
 - CompoundVerb: 33.1% (Correct 143 / Wrong 289)
-- Conjunction: 25.7% (Correct 62 / Wrong 179)
+- Conjunction: 25.6% (Correct 62 / Wrong 180)
 - Demonstratives: 10.0% (Correct 8 / Wrong 72)
 - FixedExpression: 34.7% (Correct 183 / Wrong 345)
-- Grammar: 35.9% (Correct 792 / Wrong 1417)
+- Grammar: 36.1% (Correct 799 / Wrong 1417)
 - Kanji: 42.4% (Correct 318 / Wrong 432)
 - Katakana: 35.9% (Correct 136 / Wrong 243)
 - Keigo: 25.5% (Correct 36 / Wrong 105)
@@ -183,8 +183,8 @@
 - [[とりあえず]] (Score: 40)
 - [[結局]] (Score: 37)
 - [[さっぱり]] (Score: 35)
+- [[むしろ]] (Score: 35)
 - [[たった]] (Score: 35)
-- [[あれこれ]] (Score: 35)
 
 ## 📚 Top Conjunction
 
@@ -228,6 +228,7 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
+- [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
 - [[4. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 43 (THAOLEJP).]]
 - [[5. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.2]]
@@ -235,7 +236,7 @@
 - [[7. Phân Tích N2_TV_BÀI TẬP TỔNG HỢP 1.]]
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
-- [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
+- [[2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41]]
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
 - [[10. Phân Tích N2_3_180326-11-12.pdf]]
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]
@@ -246,4 +247,3 @@
 - [[16. Phân Tích N2_4_200326-6-9.pdf]]
 - [[17. Phân Tích N2_4_200326-10-13.pdf]]
 - [[18. Phân Tích N2_4_200326-14-16.pdf]]
-- [[19. Phân Tích N2_4_200326-17-18.pdf]]

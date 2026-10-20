@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"e64cb57daf36bc55","x":-141,"y":-23,"width":250,"height":60,"type":"text","text":"剛 - Cương"},
-		{"id":"c83379df56b0fce9","x":-520,"y":-240,"width":162,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/岡 - Cương.canvas"},
-		{"id":"1924594876ab7e02","x":-524,"y":80,"width":166,"height":156,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"}
+		{"id":"e64cb57daf36bc55","type":"text","text":"剛 - Cương","x":-141,"y":-23,"width":250,"height":60},
+		{"id":"c83379df56b0fce9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/岡 - Cương.canvas","x":-520,"y":-240,"width":162,"height":147},
+		{"id":"1924594876ab7e02","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas","x":-524,"y":80,"width":166,"height":156},
+		{"id":"2db5c6c591a08d31","type":"text","text":"Từ vựng hay gặp (11)\n剛健 ( ごうけん) - khoẻ mạnh; chắc chắn; vững chãi\n内剛 ( ないごう) - nội nhu ngoại cương\n剛勇 ( ごうゆう) - dũng cảm; anh dũng\n強剛 (つよつよし) - người kỳ cựu\n剛強 (つよしきょう) - sức mạnh\n剛性 ( ごうせい) - cứng; cứng rắn; khó làm\n剛情 ( ごうじょう) - tính bướng bỉnh .\n剛愎 (ごうふく) - tính bướng bỉnh\n剛毅 (ごうき) - sự chịu đựng ngoan cường; sự dũng cảm chịu đựng\n剛毛 (ごうもう) - lông cứng\n剛気 ( ごうき) - sự can đảm; sự cứng rắn; can đảm; cứng rắn .","x":280,"y":-420,"width":595,"height":336},
+		{"id":"fd873ef2203fddbf","type":"text","text":"Từ vựng On (20)\n剛毅 (ごうき) - Sự dũng cảm\n剛気 (ごうき) - Sự can đảm\n補剛 (ほごう) - Vật liệu cứng\n内剛 (ないごう) - Nội nhu ngoại cương\n剛体 (ごうたい) - Vật ở thể rắn\n剛健 (ごうけん) - Khoẻ mạnh\n剛力 (ごうりき) - Sức mạnh hercules\n剛勇 (ごうゆう) - Dũng cảm\n剛性 (ごうせい) - Cứng\n剛愎 (ごうふく) - Tính bướng bỉnh\n剛毛 (ごうもう) - Dựng đứng lên\n剛胆 (ごうたん) - Tính dũng cảm\n剛腹 (ごうふく) - Tính bướng bỉnh\n剛情 (ごうじょう) - Tính bướng bỉnh\n剛球 (ごうきゅう) - Sự than khóc\n剛直 (ごうちょく) - Sự toàn vẹn\n剛腕 (ごうわん) - Tư thế khoan tay ung dung\n金剛不壊 (こんごうふえ) - Vững chắc\n金剛力 (こんごうりき) - Sức mạnh phi thường (khỏe như thần Hercules)\n金剛手 (こんごうしゅ) - Rượu cốc tay","x":280,"y":-23,"width":455,"height":556}
 	],
 	"edges":[
-		{"id":"33b8629adf53ce1f","fromNode":"c83379df56b0fce9","fromSide":"right","toNode":"e64cb57daf36bc55","toSide":"left"},
-		{"id":"6ab923f8d5197b5d","fromNode":"1924594876ab7e02","fromSide":"right","toNode":"e64cb57daf36bc55","toSide":"left"}
+		{"id":"33b8629adf53ce1f","fromNode":"c83379df56b0fce9","fromSide":"right","toNode":"e64cb57daf36bc55","toSide":"left","color":"5"},
+		{"id":"6ab923f8d5197b5d","fromNode":"1924594876ab7e02","fromSide":"right","toNode":"e64cb57daf36bc55","toSide":"left","color":"2"},
+		{"id":"37560947f93d15aa","fromNode":"e64cb57daf36bc55","fromSide":"right","toNode":"2db5c6c591a08d31","toSide":"left","color":"6"},
+		{"id":"646df88eb417da68","fromNode":"e64cb57daf36bc55","fromSide":"right","toNode":"fd873ef2203fddbf","toSide":"left","color":"6"}
 	]
 }

@@ -11,17 +11,14 @@
             "id": "e61f001177ecafae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2文法/こと・もの/こと/こと.canvas",
-                "viewState": {
-                  "x": -188.4804119552381,
-                  "y": 1894.5298096548454,
-                  "zoom": -0.10313995863003045
-                }
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "こと"
+              "icon": "lucide-file",
+              "title": "2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41"
             }
           }
         ],
@@ -59,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "しかできない",
+                "query": "恥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N2文法/こと・もの/こと/ないこと.canvas",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,45 +176,46 @@
       "decks:Decks": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "e61f001177ecafae",
   "lastOpenFiles": [
+    "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB2.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/1. N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 4.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/恥 - Sỉ.canvas",
+    "Chữa đề/Learning_Profile/Kanji/恥ずかしい.md",
+    "Chữa đề/Learning_Profile/Grammar/恥ずかしがらずに.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/03072026/12. Phân Tích câu điền sao từ 41 đến 50.md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week1/01052026/4. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (16).md",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/剛 - Cương.canvas",
+    "Chữa đề/Learning_Profile/Adverb/そのまま.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/12. Phân Tích N2_11-7-8.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ことしかできない.md",
+    "Chữa đề/Learning_Profile/Vocabulary/わがままな.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/4. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 6.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/14102026/2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI な.md",
+    "Chữa đề/Learning_Profile/Vocabulary/わがまま.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/7. Phân Tích N2_6_2026-3.pdf.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026/2. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 11.md",
+    "Chữa đề/Learning_Profile/Adverb/ありのまま.md",
+    "Chữa đề/Learning_Profile/Grammar/〜まま.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week2/09022026/3. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 4.md",
     "N2文法/こと・もの/こと/こと.canvas",
+    "N2文法/こと・もの/こと/ないこと.canvas",
     "N2文法/こと・もの/こと/ということ.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜しかあるまい.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ことしかできない.md",
     "Chữa đề/Learning_Profile/Grammar/ということ.md",
-    "N2文法/こと・もの/こと/ないこと.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜ということだ.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/13032026/3. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 2.2.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/3. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 2.md",
     "Chữa đề/Learning_Profile/Grammar/～ということだ.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/27062026/1. Phân Tích N2_NGÀY 20_ÔN TẬP NGỮ PHÁP CƠ BẢN.md",
     "N2文法/こと・もの/こと/ことは.canvas",
     "N2文法/こと・もの/こと/ことはない.canvas",
     "N2文法/こと・もの/こと/ことだ.canvas",
     "N2文法/こと・もの/こと/ことから.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜ことだし.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 13.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/16. Phân Tích N2_7-5-6.pdf.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week1/01042026/2. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 10.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/26062026/6. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1).md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/26062026/7. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN (P1).md",
-    "N2文法/こと・もの/こと/ことで.canvas",
-    "N2文法/こと・もの/こと/ことなら.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜のことなら.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week2/10102026/2. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020262.pdf).md",
-    "N2文法/こと・もの/こと/ことが.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜ことか.md",
-    "Chữa đề/Learning_Profile/Reading/現場を見ないことには判断できない要素がある.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/17. Phân Tích N2_7-7-8.pdf.md",
-    "Chữa đề/Learning_Profile/FixedExpression/信じられないことに.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week5/28042026/2. Phân Tích N2_BÀI TẬP ĐIỀN SAO (7).md",
     "N2文法/はず・わけ/はず",
     "N2文法/はず・わけ/わけ",
-    "Chữa đề/Learning_Profile/Grammar/～わけにはいかない.md",
-    "Chữa đề/Learning_Profile/Adverb/なんて.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week3/20032026/2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 4.1.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026/2. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 11.md",
     "N2文法/くらい・ほど/くらい/Untitled",
     "N2文法/くらい・ほど/くらい",
     "Untitled 22.base",
