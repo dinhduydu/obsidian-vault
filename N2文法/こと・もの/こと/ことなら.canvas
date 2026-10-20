@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"3d313c7f2d89154c","type":"text","text":"ことなら","x":-104,"y":-32,"width":250,"height":60},
-		{"id":"f390efa7b5d9f828","x":-540,"y":-260,"width":250,"height":60,"type":"text","text":"Nếu đó là trường hợp ..."}
+		{"id":"f390efa7b5d9f828","type":"text","text":"Nếu đó là trường hợp ...","x":-540,"y":-260,"width":250,"height":60},
+		{"id":"74d1d021fd846b3b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のことなら.md","x":560,"y":240,"width":381,"height":170}
 	],
 	"edges":[
-		{"id":"096ad95f73beef8d","fromNode":"f390efa7b5d9f828","fromSide":"right","toNode":"3d313c7f2d89154c","toSide":"left","color":"3"}
+		{"id":"096ad95f73beef8d","fromNode":"f390efa7b5d9f828","fromSide":"right","toNode":"3d313c7f2d89154c","toSide":"left","color":"3"},
+		{"id":"af0923c828ddd2e2","fromNode":"3d313c7f2d89154c","fromSide":"right","toNode":"74d1d021fd846b3b","toSide":"left","color":"5","label":"Nếu là về..., Nếu hỏi về... (chỉ lĩnh vực, đối tượng mà ai đó am hiểu tường tận)."}
 	]
 }

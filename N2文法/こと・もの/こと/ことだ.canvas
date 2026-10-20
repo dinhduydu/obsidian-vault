@@ -9,17 +9,21 @@
 		{"id":"6dfced05ca834ae3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のことだから.md","x":-94,"y":-520,"width":277,"height":169},
 		{"id":"3a853641d1a3b9e4","type":"text","text":"Truyền đạt quan niệm, nhận xét hay lời khuyên của người nói","x":-840,"y":300,"width":250,"height":91},
 		{"id":"056d263ae94c2ddd","type":"text","text":"夢を叶えたいなら、一生懸命努力することだ。","x":-300,"y":640,"width":250,"height":60},
-		{"id":"d8115e7ec1d1326f","type":"text","text":"Danh từ　＋","x":-460,"y":-620,"width":250,"height":60}
+		{"id":"d8bbb0eee084bf21","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことだし.md","x":-2040,"y":640,"width":343,"height":267},
+		{"id":"77f228857ff15705","type":"file","file":"Pasted image 20260410084910.png","x":-2840,"y":232,"width":400,"height":227},
+		{"id":"d8115e7ec1d1326f","type":"text","text":"Danh từ　＋　のこと","x":-669,"y":-640,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"79cc8ef39d1e094e","fromNode":"3a853641d1a3b9e4","fromSide":"right","toNode":"056d263ae94c2ddd","toSide":"left","label":"ことだ"},
-		{"id":"627c2ba923e34a9a","fromNode":"a479ac909922231d","fromSide":"right","toNode":"3a853641d1a3b9e4","toSide":"left","label":"ことだ"},
+		{"id":"627c2ba923e34a9a","fromNode":"a479ac909922231d","fromSide":"right","toNode":"3a853641d1a3b9e4","toSide":"left","color":"3","label":"ことだ"},
 		{"id":"cece25ce471eddaa","fromNode":"a479ac909922231d","fromSide":"right","toNode":"e36a23c0a8e89ab1","toSide":"left","color":"5"},
 		{"id":"a4bc226bfbb16df8","fromNode":"255ead94ca06142e","fromSide":"right","toNode":"e36a23c0a8e89ab1","toSide":"left","color":"2","label":"N chỉ người　+　の　＋"},
 		{"id":"06ddb9e4942d6376","fromNode":"e36a23c0a8e89ab1","fromSide":"right","toNode":"97c0e6562231db10","toSide":"left","label":"ことだから"},
 		{"id":"4e51196cebba286f","fromNode":"a479ac909922231d","fromSide":"right","toNode":"8a67e79ef217c177","toSide":"left","color":"6","label":"Nhấn mạnh khả năng có thể thực hiện được cả những việc như thế (trong văn nói)."},
 		{"id":"50c0413f0e3c7f30","fromNode":"e8cdcbfe0f3f2570","fromSide":"right","toNode":"a479ac909922231d","toSide":"left","color":"3"},
 		{"id":"797d65dc3ea4b9a8","fromNode":"6dfced05ca834ae3","fromSide":"right","toNode":"e36a23c0a8e89ab1","toSide":"left","color":"3","label":"Vì là... (nêu đặc điểm bản chất của một người để đưa ra suy luận)."},
-		{"id":"bc7891974de9368e","fromNode":"d8115e7ec1d1326f","fromSide":"right","toNode":"6dfced05ca834ae3","toSide":"left"}
+		{"id":"bc7891974de9368e","fromNode":"d8115e7ec1d1326f","fromSide":"right","toNode":"6dfced05ca834ae3","toSide":"left","color":"3","label":"のことだから"},
+		{"id":"5130df952b0fd151","fromNode":"a479ac909922231d","fromSide":"bottom","toNode":"d8bbb0eee084bf21","toSide":"top","color":"5","label":"Vì... (đưa ra một trong nhiều lý do)."},
+		{"id":"155cc87749b4ab60","fromNode":"77f228857ff15705","fromSide":"right","toNode":"d8bbb0eee084bf21","toSide":"top","color":"3","label":"Vì cũng... nên... (Nêu lý do tiêu biểu để đề xuất, rủ rê)."}
 	]
 }

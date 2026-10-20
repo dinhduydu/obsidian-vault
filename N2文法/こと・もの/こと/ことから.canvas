@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5690e3bed4ea7260","type":"group","x":-379,"y":-51,"width":759,"height":102,"color":"2","label":"ことから"},
+		{"id":"bdcf6a1f94613b5d","type":"text","text":"ことから","x":-359,"y":-31,"width":250,"height":60},
+		{"id":"b65294cf1fd56d9b","type":"text","text":"trình bày lý do hay nguyên cớ của câu theo sau","x":110,"y":-31,"width":250,"height":62},
+		{"id":"58b9f2774a495d2b","type":"file","file":"Pasted image 20260410084839.png","x":620,"y":-300,"width":400,"height":217}
+	],
+	"edges":[
+		{"id":"578fe8de8d4e7dc2","fromNode":"bdcf6a1f94613b5d","fromSide":"right","toNode":"b65294cf1fd56d9b","toSide":"left","label":"ことから"},
+		{"id":"1c87a21a75027c9e","fromNode":"5690e3bed4ea7260","fromSide":"right","toNode":"58b9f2774a495d2b","toSide":"left"}
+	]
+}

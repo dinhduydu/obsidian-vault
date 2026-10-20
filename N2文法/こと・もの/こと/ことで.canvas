@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"1829d2410da2ccb1","x":-1900,"y":-60,"width":1009,"height":253,"type":"group","label":"ことで"},
 		{"id":"bc1ee05bd16355b3","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ということで.md","x":261,"y":-368,"width":205,"height":68},
 		{"id":"d107a0206800b00e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことで.md","x":-619,"y":-168,"width":340,"height":260},
 		{"id":"bb32d50a7e1ff6af","type":"text","text":"Bằng việc... / Thông qua việc... (phương thức).","x":-1100,"y":-318,"width":250,"height":60},
@@ -7,7 +8,11 @@
 		{"id":"2916872221da37dc","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということで.md","x":-140,"y":-640,"width":205,"height":114},
 		{"id":"30c482d7245ba37d","type":"text","text":"ことではない","x":0,"y":500,"width":250,"height":60},
 		{"id":"5d0970c6a92b9987","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限ったことではない.md","x":880,"y":840,"width":360,"height":117},
-		{"id":"9154989a10fd39c0","x":281,"y":1020,"width":338,"height":206,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に限る.md"}
+		{"id":"9154989a10fd39c0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に限る.md","x":281,"y":1020,"width":338,"height":206},
+		{"id":"bc77de0f6739c29b","type":"text","text":"bằng việc nào đó","x":-1552,"y":-18,"width":250,"height":60},
+		{"id":"21fb39bf64c8da04","type":"text","text":"で","x":-1552,"y":113,"width":250,"height":60},
+		{"id":"6c93bfc4e2054e23","type":"text","text":"Vì lý do A -> kết quả B","x":-1161,"y":113,"width":250,"height":60},
+		{"id":"b58235cb9667cd67","type":"text","text":"ことで","x":-1880,"y":42,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1747996be365dfb0","fromNode":"d107a0206800b00e","fromSide":"right","toNode":"bc1ee05bd16355b3","toSide":"left","color":"5"},
@@ -16,6 +21,10 @@
 		{"id":"c5cd4276672012df","fromNode":"2916872221da37dc","fromSide":"right","toNode":"bc1ee05bd16355b3","toSide":"left"},
 		{"id":"6166709c07a2329a","fromNode":"d107a0206800b00e","fromSide":"right","toNode":"30c482d7245ba37d","toSide":"left","color":"5"},
 		{"id":"f882a1ae6b79ccfd","fromNode":"30c482d7245ba37d","fromSide":"right","toNode":"5d0970c6a92b9987","toSide":"left","color":"6","label":"Không chỉ riêng..., không giới hạn ở..."},
-		{"id":"d05d441f352ad180","fromNode":"9154989a10fd39c0","fromSide":"right","toNode":"5d0970c6a92b9987","toSide":"left","color":"2"}
+		{"id":"d05d441f352ad180","fromNode":"9154989a10fd39c0","fromSide":"right","toNode":"5d0970c6a92b9987","toSide":"left","color":"2"},
+		{"id":"d774794319a0a5f0","fromNode":"b58235cb9667cd67","fromSide":"right","toNode":"bc77de0f6739c29b","toSide":"left"},
+		{"id":"99ae3db9a896957a","fromNode":"21fb39bf64c8da04","fromSide":"right","toNode":"6c93bfc4e2054e23","toSide":"left"},
+		{"id":"fc6c968626181d22","fromNode":"b58235cb9667cd67","fromSide":"right","toNode":"21fb39bf64c8da04","toSide":"left"},
+		{"id":"ce665a7079e1e866","fromNode":"1829d2410da2ccb1","fromSide":"right","toNode":"d107a0206800b00e","toSide":"left","color":"3"}
 	]
 }

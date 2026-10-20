@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"c1441e4fd7099d17","type":"group","x":-1460,"y":-901,"width":2920,"height":1803,"label":"ことはない"},
+		{"id":"b1519ed29a88dec6","type":"text","text":"Dùng khi tránh khẳng định","x":579,"y":-222,"width":250,"height":60},
+		{"id":"7b173a3876f544e0","type":"text","text":"Ý chỉ nói cũng có khả năng A","x":591,"y":-72,"width":269,"height":60},
+		{"id":"af462b9e828d63ea","type":"text","text":"Không thể nói là tuyệt đối không","x":608,"y":55,"width":250,"height":60},
+		{"id":"f8d97a97ec70af9a","type":"file","file":"Pasted image 20260508223050.png","x":-60,"y":-609,"width":399,"height":113},
+		{"id":"f818d4f1d00ab605","type":"text","text":"「N3」ことはない","x":-700,"y":-881,"width":250,"height":60},
+		{"id":"4b7df1076cbaddc4","type":"text","text":"まだ時間があるから、諦めることはない。","x":608,"y":-881,"width":389,"height":60},
+		{"id":"a1c93102a9d5a6b7","type":"file","file":"N2文法/こと・もの/こと/ことは.canvas","x":-1980,"y":-320,"width":251,"height":155},
+		{"id":"890b4edad2d19b7b","type":"file","file":"Pasted image 20260410085039.png","x":0,"y":-220,"width":399,"height":217},
+		{"id":"81e916d00edc3766","type":"text","text":"ことはない","x":-1440,"y":-142,"width":250,"height":60},
+		{"id":"945b1d3b824511c7","type":"file","file":"Pasted image 20260412211810.png","x":28,"y":145,"width":399,"height":219},
+		{"id":"63e19303835c140a","type":"text","text":"Dùng khi nói ko cần làm","x":44,"y":-881,"width":250,"height":60},
+		{"id":"c1b5dda328738427","type":"text","text":"にこしたことはない","x":-692,"y":225,"width":250,"height":60},
+		{"id":"86b46e00b9c2c333","type":"text","text":"ないことはない","x":-692,"y":-142,"width":250,"height":60},
+		{"id":"7898549c81088abe","type":"text","text":"ないこともない","x":-692,"y":571,"width":250,"height":60},
+		{"id":"6c33ff90b371f95b","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":28,"y":691,"width":227,"height":191},
+		{"id":"929be37eb558eb85","type":"text","text":"カラオケはあまり得意ではありませんが、行かないこともありません。","x":980,"y":-252,"width":340,"height":60},
+		{"id":"ba0fdb0d43fe175e","type":"text","text":"妻：「忙しくなかったら手伝って。\n夫：「いそがしくないことはないけど、てつだうよ。」","x":1001,"y":-90,"width":439,"height":50},
+		{"id":"b7a5bfe3b7a277be","type":"file","file":"Pasted image 20260409075941.png","x":-2180,"y":38,"width":400,"height":214}
+	],
+	"edges":[
+		{"id":"4612742989f9c91e","fromNode":"c1b5dda328738427","fromSide":"right","toNode":"945b1d3b824511c7","toSide":"left","label":"にこしたことはない"},
+		{"id":"f488d52563b51cb1","fromNode":"c1b5dda328738427","fromSide":"right","toNode":"6c33ff90b371f95b","toSide":"left"},
+		{"id":"b9d400ce76d1f50e","fromNode":"81e916d00edc3766","fromSide":"right","toNode":"c1b5dda328738427","toSide":"left","label":"に越したことはない"},
+		{"id":"744ac53f0b3b5bc5","fromNode":"f818d4f1d00ab605","fromSide":"right","toNode":"63e19303835c140a","toSide":"left","label":"ことはない"},
+		{"id":"fb0a1f929b5f4e89","fromNode":"f818d4f1d00ab605","fromSide":"bottom","toNode":"86b46e00b9c2c333","toSide":"top","label":"ないことはない"},
+		{"id":"8918224aca6be416","fromNode":"81e916d00edc3766","fromSide":"right","toNode":"f818d4f1d00ab605","toSide":"left","label":"ことはない"},
+		{"id":"242967cce058ed9f","fromNode":"63e19303835c140a","fromSide":"right","toNode":"4b7df1076cbaddc4","toSide":"left","label":"ことはない"},
+		{"id":"d9339bec49da5153","fromNode":"86b46e00b9c2c333","fromSide":"right","toNode":"f8d97a97ec70af9a","toSide":"left","label":"ないことはない"},
+		{"id":"a7fc8df9758d00ca","fromNode":"890b4edad2d19b7b","fromSide":"right","toNode":"b1519ed29a88dec6","toSide":"left"},
+		{"id":"e2e094f0d3813986","fromNode":"890b4edad2d19b7b","fromSide":"right","toNode":"7b173a3876f544e0","toSide":"left"},
+		{"id":"ebd957901f35af7e","fromNode":"890b4edad2d19b7b","fromSide":"right","toNode":"af462b9e828d63ea","toSide":"left"},
+		{"id":"774fbf868ef81e55","fromNode":"86b46e00b9c2c333","fromSide":"right","toNode":"890b4edad2d19b7b","toSide":"left","label":"ないことはない"},
+		{"id":"0b7336e9fc806e56","fromNode":"81e916d00edc3766","fromSide":"right","toNode":"86b46e00b9c2c333","toSide":"left","label":"ないことはない"},
+		{"id":"0f4d2b18b039c18b","fromNode":"81e916d00edc3766","fromSide":"bottom","toNode":"7898549c81088abe","toSide":"left","label":"ないこともない"},
+		{"id":"23e427a8f5e8ad85","fromNode":"b1519ed29a88dec6","fromSide":"right","toNode":"929be37eb558eb85","toSide":"left"},
+		{"id":"682518bac55b0b82","fromNode":"b1519ed29a88dec6","fromSide":"right","toNode":"ba0fdb0d43fe175e","toSide":"left"},
+		{"id":"907880fa9bc440be","fromNode":"a1c93102a9d5a6b7","fromSide":"right","toNode":"81e916d00edc3766","toSide":"left","color":"5"},
+		{"id":"a17ddac56c8539e9","fromNode":"b7a5bfe3b7a277be","fromSide":"right","toNode":"81e916d00edc3766","toSide":"left","color":"3"}
+	]
+}

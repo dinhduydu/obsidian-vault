@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a78a82d4702f2a2b","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-259,"y":64,"width":255,"height":216},
+		{"id":"902c7194feecd8bd","type":"text","text":"ということ","x":-1175,"y":142,"width":250,"height":60},
+		{"id":"43078b2fb86c5701","type":"file","file":"N2文法/こと・もの/こと/ことだ.canvas","x":-180,"y":-280,"width":238,"height":124},
+		{"id":"c67c99b4ef53c26a","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ということは.md","x":-700,"y":460,"width":243,"height":99},
+		{"id":"a427318dd7badc4a","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ということで.md","x":-680,"y":-218,"width":246,"height":155},
+		{"id":"71ce6521d6bf2c53","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ということだ.md","x":480,"y":101,"width":226,"height":142},
+		{"id":"9f5c2b0bfc84ffae","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということよりも〜.md","x":-700,"y":700,"width":287,"height":120},
+		{"id":"dac84817124fbf2b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということになる.md","x":-1640,"y":437,"width":287,"height":145},
+		{"id":"29b8a9fa24ca334a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということだ.md","x":840,"y":-28,"width":400,"height":400},
+		{"id":"c1b8f3eb2b421ed5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/ということ.md","x":-2080,"y":-280,"width":363,"height":184}
+	],
+	"edges":[
+		{"id":"b0a3add9820121e0","fromNode":"a78a82d4702f2a2b","fromSide":"right","toNode":"71ce6521d6bf2c53","toSide":"left","color":"5","label":"Có nghĩa là... / Nghe nói là..."},
+		{"id":"a1fc51a230824fec","fromNode":"43078b2fb86c5701","fromSide":"right","toNode":"71ce6521d6bf2c53","toSide":"left","color":"3","label":"Truyền đạt ý, quan điểm chung của nhiều người"},
+		{"id":"1db1af18ecf74e72","fromNode":"902c7194feecd8bd","fromSide":"right","toNode":"a78a82d4702f2a2b","toSide":"left","label":"という＋ことだ"},
+		{"id":"161bfa43112d9fb9","fromNode":"902c7194feecd8bd","fromSide":"right","toNode":"c67c99b4ef53c26a","toSide":"left","color":"5"},
+		{"id":"e7e2821780ca80e3","fromNode":"902c7194feecd8bd","fromSide":"right","toNode":"a427318dd7badc4a","toSide":"left","color":"5"},
+		{"id":"82d1ab0e6f197b84","fromNode":"902c7194feecd8bd","fromSide":"right","toNode":"9f5c2b0bfc84ffae","toSide":"left","color":"5"},
+		{"id":"e467464ac845df1b","fromNode":"902c7194feecd8bd","fromSide":"left","toNode":"dac84817124fbf2b","toSide":"right","color":"5"},
+		{"id":"5263ed159ccd6ab7","fromNode":"71ce6521d6bf2c53","fromSide":"right","toNode":"29b8a9fa24ca334a","toSide":"left","color":"4"},
+		{"id":"ecc38b7c0a023e8c","fromNode":"c1b8f3eb2b421ed5","fromSide":"right","toNode":"902c7194feecd8bd","toSide":"left","color":"3","label":"Nghe nói là / Sự việc là (Truyền tin)."}
+	]
+}

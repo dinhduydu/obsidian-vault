@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"4d7546dc24c883f7","type":"group","x":-1175,"y":-565,"width":2350,"height":1131,"label":"ことが"},
+		{"id":"94861ffb945c4f2e","type":"text","text":"ことができる\nDiễn tả khả năng\nCó năng lực hoặc trạng thái sẵn sàng để làm","x":188,"y":9,"width":250,"height":114},
+		{"id":"0efa3f3cc3b80d10","type":"text","text":"ことが","x":905,"y":38,"width":250,"height":60},
+		{"id":"a6f4c65fc7a844cd","type":"text","text":"「N4]　こと","x":905,"y":486,"width":250,"height":60},
+		{"id":"5b1d21b026d490ae","type":"text","text":"ことがある\nThỉnh thoảng mới xảy ra\nThỉnh thoảng mới làm","x":477,"y":-277,"width":250,"height":101},
+		{"id":"67c612264b62b775","type":"text","text":"Vたことがある\nCó kinh nghiệm làm","x":-485,"y":-497,"width":250,"height":60},
+		{"id":"9f01aa1da3d63ab0","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas","x":-1155,"y":-545,"width":260,"height":157}
+	],
+	"edges":[
+		{"id":"445d2045cfcdf157","fromNode":"0efa3f3cc3b80d10","fromSide":"left","toNode":"94861ffb945c4f2e","toSide":"right","label":"ことができる"},
+		{"id":"2d55305e38ffed0a","fromNode":"0efa3f3cc3b80d10","fromSide":"top","toNode":"5b1d21b026d490ae","toSide":"right","label":"ことがある"},
+		{"id":"e52cfba2d0e70b92","fromNode":"a6f4c65fc7a844cd","fromSide":"top","toNode":"0efa3f3cc3b80d10","toSide":"bottom","label":"ことが"},
+		{"id":"600454d104c25470","fromNode":"5b1d21b026d490ae","fromSide":"left","toNode":"67c612264b62b775","toSide":"right","label":"Vたことがある"},
+		{"id":"0f30222d2876da11","fromNode":"67c612264b62b775","fromSide":"left","toNode":"9f01aa1da3d63ab0","toSide":"right","label":"Vたことがある"}
+	]
+}
