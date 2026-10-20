@@ -7,9 +7,9 @@
 		{"id":"5a303f49497ea2fb","type":"file","file":"Pasted image 20260409005041.png","x":560,"y":560,"width":716,"height":391},
 		{"id":"afaba88770c55f18","type":"text","text":"はず","x":-108,"y":-173,"width":250,"height":60},
 		{"id":"0debfdf02376b935","type":"text","text":"Nのはずだ","x":578,"y":237,"width":250,"height":60},
-		{"id":"f464a55e13adc26a","x":-1091,"y":348,"width":250,"height":60,"type":"text","text":"はずだった"},
-		{"id":"2a2335984ba26136","x":-1556,"y":258,"width":250,"height":60,"type":"text","text":"Lẽ ra là như thế nào đó"},
-		{"id":"cac2c589d87b0f90","x":-2200,"y":177,"width":400,"height":81,"type":"file","file":"Pasted image 20260517111515.png"}
+		{"id":"f464a55e13adc26a","type":"text","text":"はずだった","x":-1091,"y":348,"width":250,"height":60},
+		{"id":"2a2335984ba26136","type":"text","text":"Lẽ ra là như thế nào đó","x":-1556,"y":258,"width":250,"height":60},
+		{"id":"cac2c589d87b0f90","type":"file","file":"Pasted image 20260517111515.png","x":-2200,"y":177,"width":398,"height":81}
 	],
 	"edges":[
 		{"id":"eb8ac403781a6741","fromNode":"d54db750aebe9dc4","fromSide":"right","toNode":"5a303f49497ea2fb","toSide":"left"},

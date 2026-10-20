@@ -11,14 +11,17 @@
             "id": "e61f001177ecafae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
-                "mode": "source",
-                "source": false
+                "file": "N2文法/はず・わけ/はず/はず.canvas",
+                "viewState": {
+                  "x": -462,
+                  "y": 382.5,
+                  "zoom": -1.5191729393797502
+                }
               },
-              "icon": "lucide-file",
-              "title": "次第に"
+              "icon": "lucide-layout-dashboard",
+              "title": "はず"
             }
           }
         ],
@@ -56,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "次第に",
+                "query": "わけ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,8 +83,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
+                "file": "N2文法/はず・わけ/はず/はず.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chữa đề/Learning_Profile/Adverb/次第に.md",
+                "file": "N2文法/はず・わけ/はず/はず.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,10 +179,22 @@
       "decks:Decks": false
     }
   },
-  "active": "e61f001177ecafae",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
+    "N2文法/はず・わけ/はず",
+    "N2文法/はず・わけ/わけ/わけ.canvas",
+    "N2文法/はず・わけ/わけ",
+    "Chữa đề/Learning_Profile/Grammar/～わけにはいかない.md",
+    "Chữa đề/Learning_Profile/Adverb/なんて.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/20032026/2. Phân Tích N2_TEST NGỮ PHÁP_BÀI 4.1.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week4/25032026/2. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 11.md",
+    "Chữa đề/Learning_Profile/Reading/タバコなんてものは百害あって一利なしだ.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/14. Phân Tích N2_4_200326-1-2.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/14102026/1..md",
+    "Chữa đề/Learning_Profile/Grammar/〜なんて.md",
+    "Chữa đề/Learning_Profile/Grammar/～なんていう.md",
     "Chữa đề/Learning_Profile/Adverb/次第に.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/5. Phân Tích Bài kiểm tra về phó từ (Adverbs) cấp độ N3 - Test 2..md",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/22062026/4. Phân Tích Phó từ (Adverbs) và Đại từ chỉ thị (Demonstratives).md",
     "N2漢字/Bộ thủ/Chữ cổ/Cận　「堇」/勤 - Cần.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜はもちろん.md",
@@ -200,31 +214,19 @@
     "Chữa đề/Learning_Profile/Grammar/〜くらい／〜くらいだ.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/2. Phân Tích N2_1_2026-1-7-6-7.pdf.md",
     "N2文法/くらい・ほど/くらい/くらいだ.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/むしろ.canvas",
-    "Chữa đề/Learning_Profile/Adverb/むしろ.md",
     "N2文法/くらい・ほど/くらい/Untitled",
     "N2文法/くらい・ほど/くらい",
     "Untitled 22.base",
-    "Chữa đề/Learning_Profile/Kenjougo/まいります.md",
-    "Chữa đề/Learning_Profile/FixedExpression/力を入れてまいりました.md",
-    "Chữa đề/２０２６年/０６月２０２６年/Week3/15062026/3. Phân Tích BÀI LÀM N2 ĐỌC HIỂU NGẮN - BÀI 44.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week4/24122025/2. Phân Tích N3_TEST NGỮ PHÁP_BÀI 3.md",
     "N2文法/しか.canvas",
     "N2文法/あまり・だけ/だけ/だけしか.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜しかない.md",
-    "Chữa đề/２０２６年/０５月２０２６年/Week1/02052026/1. Phân Tích Kết Quả N2_BÀI TẬP ĐIỀN SAO (18).md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week4/24042026/1. Phân Tích Kết Quả N2_TEST NGỮ PHÁP_BÀI 12.2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/1. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.1.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Phân loại phó từ/Adverb Navigation.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/Vたばかり.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.13-14",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/Untitled",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/Untitled",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4",
     "Pasted image 20261019163449.png",
     "Pasted image 20261019163444.png",
     "Pasted image 20261019163433.png",

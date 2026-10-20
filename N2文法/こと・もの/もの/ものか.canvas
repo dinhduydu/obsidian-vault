@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"531197f068f9474d","type":"group","x":-1387,"y":-599,"width":2774,"height":1198,"color":"6","label":"ものか：Tuyệt đối không, không đời nào"},
 		{"id":"67f138bde0a200e9","type":"text","text":"ものか","x":-1367,"y":119,"width":250,"height":50},
-		{"id":"ec13d450acc3fb11","type":"file","file":"N2文法/はず・わけ/わけ.canvas","x":-248,"y":-579,"width":185,"height":50},
+		{"id":"ec13d450acc3fb11","type":"file","file":"N2文法/はず・わけ/わけ/わけ.canvas","x":-248,"y":-579,"width":185,"height":50},
 		{"id":"543488f2f58cd08c","type":"text","text":"ないものか","x":1117,"y":-249,"width":250,"height":60},
 		{"id":"4c4b64833905f214","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":1192,"y":-554,"width":101,"height":100},
 		{"id":"f44c838484487574","type":"file","file":"Pasted image 20260410083052.png","x":-358,"y":328,"width":460,"height":251},
