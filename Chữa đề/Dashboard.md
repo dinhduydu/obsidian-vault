@@ -2,23 +2,24 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 462
-- Total Knowledge Items: 4785
+- Total Reviews: 468
+- Total Knowledge Items: 4855
 - Correct: 3226
-- Wrong: 4298
-- Accuracy: 42.9%
+- Wrong: 4408
+- Accuracy: 42.3%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
+- [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
 - [[〜からといって]] | Grammar| Score: 65| Wrong: 10
 - [[〜にもかかわらず]] | Grammar| Score: 62| Wrong: 10
-- [[〜にすぎない]] | Grammar| Score: 60| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
 - [[〜にほかならない]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[〜まい]] | Grammar| Score: 57| Wrong: 9
 - [[〜ようがない]] | Grammar| Score: 55| Wrong: 8
+- [[つまり]] | Conjunction| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[〜とは限らない]] | Grammar| Score: 55| Wrong: 8
 - [[〜ものの]] | Grammar| Score: 55| Wrong: 8
@@ -26,17 +27,16 @@
 - [[〜がち]] | Grammar| Score: 55| Wrong: 8
 - [[即時応答]] | Reading| Score: 55| Wrong: 8
 - [[& Kiến thức liên quan]] | Vocabulary| Score: 55| Wrong: 8
-- [[つまり]] | Conjunction| Score: 50| Wrong: 7
+- [[〜において]] | Grammar| Score: 50| Wrong: 7
 - [[〜こそ]] | Grammar| Score: 50| Wrong: 7
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
-- [[むしろ]] | Grammar| Score: 50| Wrong: 7
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 44
+- [[〜にすぎない]] (Grammar) Wrong: 11
 - [[〜からといって]] (Grammar) Wrong: 10
 - [[〜にもかかわらず]] (Grammar) Wrong: 10
-- [[〜にすぎない]] (Grammar) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 9
 - [[〜ざるを得ない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
@@ -44,6 +44,7 @@
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[〜ようがない]] (Grammar) Wrong: 8
+- [[つまり]] (Conjunction) Wrong: 8
 - [[〜からには]] (Grammar) Wrong: 8
 - [[〜とは限らない]] (Grammar) Wrong: 8
 - [[〜ものの]] (Grammar) Wrong: 8
@@ -52,28 +53,27 @@
 - [[相続]] (Vocabulary) Wrong: 8
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
-- [[即時応答]] (Reading) Wrong: 8
 
 ## 📈 Category Statistics
 
-- Adverb: 37.8% (Correct 279 / Wrong 459)
-- Collocation: 44.8% (Correct 134 / Wrong 165)
-- CompoundVerb: 40.7% (Correct 143 / Wrong 208)
-- Conjunction: 33.3% (Correct 60 / Wrong 120)
-- Demonstratives: 22.6% (Correct 7 / Wrong 24)
-- FixedExpression: 40.0% (Correct 189 / Wrong 283)
-- Grammar: 40.7% (Correct 791 / Wrong 1151)
-- Kanji: 49.9% (Correct 306 / Wrong 307)
-- Katakana: 47.2% (Correct 136 / Wrong 152)
-- Keigo: 40.0% (Correct 34 / Wrong 51)
-- Reading: 32.1% (Correct 80 / Wrong 169)
-- Vocabulary: 46.9% (Correct 1067 / Wrong 1209)
+- Adverb: 37.3% (Correct 279 / Wrong 468)
+- Collocation: 43.8% (Correct 134 / Wrong 172)
+- CompoundVerb: 39.9% (Correct 143 / Wrong 215)
+- Conjunction: 32.3% (Correct 60 / Wrong 126)
+- Demonstratives: 19.4% (Correct 7 / Wrong 29)
+- FixedExpression: 39.2% (Correct 187 / Wrong 290)
+- Grammar: 40.2% (Correct 791 / Wrong 1176)
+- Kanji: 49.0% (Correct 304 / Wrong 317)
+- Katakana: 45.8% (Correct 136 / Wrong 161)
+- Keigo: 38.7% (Correct 36 / Wrong 57)
+- Reading: 31.4% (Correct 80 / Wrong 175)
+- Vocabulary: 46.7% (Correct 1069 / Wrong 1222)
 
 ## 📚 Top Grammar
 
+- [[〜にすぎない]] (Score: 70)
 - [[〜からといって]] (Score: 65)
 - [[〜にもかかわらず]] (Score: 62)
-- [[〜にすぎない]] (Score: 60)
 - [[〜ざるを得ない]] (Score: 60)
 - [[〜にほかならない]] (Score: 60)
 - [[〜あまり]] (Score: 60)
@@ -113,13 +113,13 @@
 - [[タイミング]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[ファスナー]] (Score: 30)
+- [[マンション]] (Score: 25)
 - [[アパート]] (Score: 25)
 - [[ビル]] (Score: 25)
 - [[プラン]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
-- [[コスト]] (Score: 25)
 
 ## 📚 Top Reading
 
@@ -188,8 +188,8 @@
 
 ## 📚 Top Conjunction
 
+- [[つまり]] (Score: 55)
 - [[そこで]] (Score: 55)
-- [[つまり]] (Score: 50)
 - [[しかし]] (Score: 47)
 - [[したがって]] (Score: 35)
 - [[とはいえ]] (Score: 35)
@@ -201,29 +201,29 @@
 
 ## 📚 Top Keigo
 
+- [[おっしゃる]] (Score: 30)
 - [[避けた方が賢明です]] (Score: 25)
 - [[おいでになる]] (Score: 25)
-- [[おっしゃる]] (Score: 25)
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
 - [[申し訳なく存ずる]] (Score: 20)
 - [[でいらっしゃいますか]] (Score: 20)
-- [[教えてもらう]] (Score: 20)
-- [[拝見する]] (Score: 20)
+- [[お上手ですね]] (Score: 20)
+- [[わが国]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
+- [[この]] (Score: 35)
 - [[その]] (Score: 35)
-- [[この]] (Score: 30)
+- [[あんなに]] (Score: 30)
 - [[ただ]] (Score: 30)
+- [[こんな]] (Score: 25)
+- [[あの]] (Score: 25)
 - [[それまで]] (Score: 20)
-- [[こんな]] (Score: 20)
 - [[あそこ]] (Score: 20)
+- [[あの人]] (Score: 20)
 - [[こちら]] (Score: 20)
-- [[以上のような次第で]] (Score: 20)
-- [[当時]] (Score: 20)
-- [[どの]] (Score: 20)
 
 ## 📅 Recent Reviews
 
@@ -240,10 +240,10 @@
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]
 - [[12. Phân Tích N2_3_180326-17-20.pdf]]
 - [[13. Phân Tích N2_3_180326-21-26.pdf]]
+- [[14. Phân Tích N2_4_200326-1-2.pdf]]
+- [[15. Phân Tích N2_4_200326-3-5.pdf]]
+- [[16. Phân Tích N2_4_200326-6-9.pdf]]
+- [[17. Phân Tích N2_4_200326-10-13.pdf]]
+- [[18. Phân Tích N2_4_200326-14-16.pdf]]
+- [[19. Phân Tích N2_4_200326-17-18.pdf]]
 - [[2. Phân Tích N2_1_2026-1-7-6-7.pdf]]
-- [[3. Phân Tích N2_2_13_03_26-1-3.pdf]]
-- [[4. Phân Tích N2_2_13_03_26-4-6.pdf]]
-- [[5. Phân Tích N2_2_13_03_26-7-10.pdf]]
-- [[6. Phân Tích N2_2_13_03_26-11-13.pdf]]
-- [[7. Phân Tích N2_3_180326-1-2.pdf]]
-- [[8. Phân Tích N2_3_180326-3-5.pdf]]

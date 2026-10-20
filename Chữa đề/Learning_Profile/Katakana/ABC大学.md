@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# ABC大学
+
+Category: Katakana
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: Low
+Priority: High
+
+## Related Reviews
+
+- [[19. Phân Tích N2_4_200326-17-18.pdf]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
