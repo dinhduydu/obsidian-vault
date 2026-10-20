@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/5. Phân Tích N2_2_13_03_26-7-10.pdf.md",
+                "file": "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Phân Tích N2_2_13_03_26-7-10.pdf"
+              "title": "Prompt Gen DB 2"
+            }
+          },
+          {
+            "id": "0f776e650653aafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt Gen DB 2"
             }
           }
         ],
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week1/01102026/1. Bài 31.canvas",
+                "file": "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/5. Phân Tích N2_2_13_03_26-7-10.pdf.md",
+                "file": "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -158,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,33 +192,34 @@
   },
   "active": "e61f001177ecafae",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/6. Phân Tích.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/5. Phân Tích N2_2_13_03_26-7-10.pdf.md",
-    "Chữa đề/Prompt/Prompt ngữ pháp/Prompt Gen DB 2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/4. Phân Tích N2_2_13_03_26-4-6.pdf.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/3. Phân Tích N2_2_13_03_26-1-3.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/2. Phân Tích N2_1_2026-1-7-6-7.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/1. Phân Tích N2_1_2026-1-7-1-5.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/13. Phân Tích N2_3_180326-21-26.pdf.md",
+    "Chữa đề/Learning_Profile/Katakana/カセットテープ.md",
+    "Chữa đề/Learning_Profile/Kanji/劣.md",
+    "Chữa đề/Learning_Profile/Vocabulary/タワーマンション.md",
+    "Chữa đề/Learning_Profile/Vocabulary/廃業率.md",
+    "Chữa đề/Learning_Profile/Vocabulary/アナログソース.md",
+    "Chữa đề/Learning_Profile/Grammar/〜というところだ.md",
+    "Chữa đề/Learning_Profile/Grammar/〜たところが.md",
+    "Chữa đề/Learning_Profile/Demonstratives/どの.md",
+    "Chữa đề/Learning_Profile/Keigo/拝見する.md",
+    "Chữa đề/Learning_Profile/Collocation/信頼が成り立つ.md",
+    "Chữa đề/Learning_Profile/FixedExpression/失敗をおそれず.md",
+    "Chữa đề/Learning_Profile/Conjunction/とか.md",
+    "Chữa đề/Learning_Profile/Adverb/積極的に.md",
+    "Chữa đề/Learning_Profile/Reading/男性の草食化という現象.md",
+    "Chữa đề/Learning_Profile/Katakana/マニュアル.md",
+    "Chữa đề/Learning_Profile/Kanji/信.md",
+    "Chữa đề/Learning_Profile/Kanji/恐.md",
+    "Chữa đề/Learning_Profile/Vocabulary/赤字.md",
+    "Chữa đề/Learning_Profile/Vocabulary/草食化.md",
+    "Chữa đề/Learning_Profile/Vocabulary/誤解.md",
+    "Chữa đề/Learning_Profile/Grammar/〜にとっての.md",
+    "Chữa đề/Learning_Profile/Grammar/〜に沿った.md",
+    "Chữa đề/Learning_Profile/Grammar/〜恐れず（に）.md",
+    "Chữa đề/Learning_Profile/Grammar/〜意向形＋と.md",
+    "Chữa đề/Learning_Profile/Keigo/教えてもらう.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec/Untitled",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_Spec",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.1.md",
-    "Chữa đề/Prompt/Prompt gen từ vựng/Prompt gen từ đồng nghĩa.md",
-    "Chữa đề/Prompt/Prompt ngữ pháp/Phân loại Ngữ pháp JLPT (N3–N1) theo nguyên nhân khiến người học chọn sai.md",
-    "Canvas decks/Making-it-fair.md",
-    "AI_Context/Untitled 1.md",
-    "AI_Context/Untitled.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方)..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/4. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/3. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/2. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/1. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF)..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/7. Phân Tích N2_TV_BÀI TẬP TỔNG HỢP 1..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/6. Phân Tích N2_TV_PHÓ TỪ..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/5. Phân Tích N2_TEST NGỮ PHÁP_BÀI 12.2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/4. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 43 (THAOLEJP)..md",
-    "Chữa đề/Learning_Profile/Grammar/〜のおそれがある.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026/2. Phân Tích N2_ĐỌC HIỂU_TEST 6.md",
     "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 2/一色 - Nhất Sắc.canvas",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/3. N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 62.canvas",
@@ -232,7 +247,6 @@
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/18102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026",
-    "N2読解/Từ nối"
+    "Chữa đề/２０２６年/１０月２０２６年/Week3/16102026"
   ]
 }

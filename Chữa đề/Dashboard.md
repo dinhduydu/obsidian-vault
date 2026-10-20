@@ -2,15 +2,16 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 455
-- Total Knowledge Items: 4693
+- Total Reviews: 462
+- Total Knowledge Items: 4785
 - Correct: 3226
-- Wrong: 4117
-- Accuracy: 43.9%
+- Wrong: 4298
+- Accuracy: 42.9%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
+- [[〜からといって]] | Grammar| Score: 65| Wrong: 10
 - [[〜にもかかわらず]] | Grammar| Score: 62| Wrong: 10
 - [[〜にすぎない]] | Grammar| Score: 60| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 9
@@ -18,7 +19,7 @@
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[〜まい]] | Grammar| Score: 57| Wrong: 9
 - [[〜ようがない]] | Grammar| Score: 55| Wrong: 8
-- [[〜からといって]] | Grammar| Score: 55| Wrong: 8
+- [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[〜とは限らない]] | Grammar| Score: 55| Wrong: 8
 - [[〜ものの]] | Grammar| Score: 55| Wrong: 8
 - [[そこで]] | Conjunction| Score: 55| Wrong: 8
@@ -29,11 +30,11 @@
 - [[〜こそ]] | Grammar| Score: 50| Wrong: 7
 - [[さっさと]] | Adverb| Score: 50| Wrong: 7
 - [[むしろ]] | Grammar| Score: 50| Wrong: 7
-- [[〜に限って]] | Grammar| Score: 50| Wrong: 7
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 44
+- [[〜からといって]] (Grammar) Wrong: 10
 - [[〜にもかかわらず]] (Grammar) Wrong: 10
 - [[〜にすぎない]] (Grammar) Wrong: 10
 - [[〜まい]] (Grammar) Wrong: 9
@@ -43,7 +44,7 @@
 - [[〜あまり]] (Grammar) Wrong: 9
 - [[最もよいもの]] (FixedExpression) Wrong: 9
 - [[〜ようがない]] (Grammar) Wrong: 8
-- [[〜からといって]] (Grammar) Wrong: 8
+- [[〜からには]] (Grammar) Wrong: 8
 - [[〜とは限らない]] (Grammar) Wrong: 8
 - [[〜ものの]] (Grammar) Wrong: 8
 - [[そこで]] (Conjunction) Wrong: 8
@@ -52,25 +53,25 @@
 - [[要点]] (Vocabulary) Wrong: 8
 - [[無理]] (Vocabulary) Wrong: 8
 - [[即時応答]] (Reading) Wrong: 8
-- [[& Kiến thức liên quan]] (Vocabulary) Wrong: 8
 
 ## 📈 Category Statistics
 
-- Adverb: 38.4% (Correct 279 / Wrong 448)
-- Collocation: 46.0% (Correct 133 / Wrong 156)
-- CompoundVerb: 41.8% (Correct 143 / Wrong 199)
-- Conjunction: 35.1% (Correct 60 / Wrong 111)
-- Demonstratives: 30.4% (Correct 7 / Wrong 16)
-- FixedExpression: 41.3% (Correct 191 / Wrong 272)
-- Grammar: 41.9% (Correct 790 / Wrong 1095)
-- Kanji: 50.8% (Correct 307 / Wrong 297)
-- Katakana: 49.1% (Correct 136 / Wrong 141)
-- Keigo: 44.2% (Correct 34 / Wrong 43)
-- Reading: 33.5% (Correct 80 / Wrong 159)
-- Vocabulary: 47.5% (Correct 1066 / Wrong 1180)
+- Adverb: 37.8% (Correct 279 / Wrong 459)
+- Collocation: 44.8% (Correct 134 / Wrong 165)
+- CompoundVerb: 40.7% (Correct 143 / Wrong 208)
+- Conjunction: 33.3% (Correct 60 / Wrong 120)
+- Demonstratives: 22.6% (Correct 7 / Wrong 24)
+- FixedExpression: 40.0% (Correct 189 / Wrong 283)
+- Grammar: 40.7% (Correct 791 / Wrong 1151)
+- Kanji: 49.9% (Correct 306 / Wrong 307)
+- Katakana: 47.2% (Correct 136 / Wrong 152)
+- Keigo: 40.0% (Correct 34 / Wrong 51)
+- Reading: 32.1% (Correct 80 / Wrong 169)
+- Vocabulary: 46.9% (Correct 1067 / Wrong 1209)
 
 ## 📚 Top Grammar
 
+- [[〜からといって]] (Score: 65)
 - [[〜にもかかわらず]] (Score: 62)
 - [[〜にすぎない]] (Score: 60)
 - [[〜ざるを得ない]] (Score: 60)
@@ -78,9 +79,8 @@
 - [[〜あまり]] (Score: 60)
 - [[〜まい]] (Score: 57)
 - [[〜ようがない]] (Score: 55)
-- [[〜からといって]] (Score: 55)
+- [[〜からには]] (Score: 55)
 - [[〜とは限らない]] (Score: 55)
-- [[〜ものの]] (Score: 55)
 
 ## 📚 Top Vocabulary
 
@@ -93,7 +93,7 @@
 - [[無理]] (Score: 40)
 - [[傾向]] (Score: 40)
 - [[消火器]] (Score: 40)
-- [[つらい]] (Score: 35)
+- [[誤解]] (Score: 35)
 
 ## 📚 Top Kanji
 
@@ -101,25 +101,25 @@
 - [[一層]] (Score: 40)
 - [[改善]] (Score: 35)
 - [[頭脳]] (Score: 30)
+- [[裕]] (Score: 25)
+- [[盗]] (Score: 25)
+- [[破]] (Score: 25)
+- [[巻]] (Score: 25)
 - [[系統]] (Score: 25)
 - [[貯蔵]] (Score: 25)
-- [[滲む]] (Score: 25)
-- [[怠惰]] (Score: 25)
-- [[遭遇]] (Score: 25)
-- [[外科]] (Score: 25)
 
 ## 📚 Top Katakana
 
 - [[タイミング]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[ファスナー]] (Score: 30)
+- [[アパート]] (Score: 25)
+- [[ビル]] (Score: 25)
+- [[プラン]] (Score: 25)
 - [[オーケストラ]] (Score: 25)
 - [[カーブ]] (Score: 25)
 - [[ギャング]] (Score: 25)
 - [[コスト]] (Score: 25)
-- [[スムーズに]] (Score: 25)
-- [[ハイキング]] (Score: 20)
-- [[スリム]] (Score: 20)
 
 ## 📚 Top Reading
 
@@ -139,39 +139,39 @@
 - [[取り組む]] (Score: 35)
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
+- [[引き受ける]] (Score: 30)
+- [[飛び上がる]] (Score: 30)
 - [[割り込む]] (Score: 30)
 - [[見守る]] (Score: 30)
 - [[裏切る]] (Score: 25)
 - [[引き締まる]] (Score: 25)
-- [[食べかけ]] (Score: 25)
-- [[耐えぬく]] (Score: 25)
-- [[振り向く]] (Score: 25)
+- [[持ち込む]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
 - [[足を運ぶ]] (Score: 30)
+- [[体調を崩さないように]] (Score: 25)
+- [[よくも平気でいられるよね]] (Score: 25)
+- [[体を壊す]] (Score: 25)
 - [[身につく]] (Score: 25)
 - [[〜を目的として]] (Score: 25)
 - [[ごちゃごちゃ]] (Score: 25)
 - [[駆け引き]] (Score: 25)
-- [[～を問わず]] (Score: 25)
-- [[～を込めて]] (Score: 25)
-- [[～とする]] (Score: 25)
 
 ## 📚 Top Collocation
 
 - [[身が引き締まる思い]] (Score: 35)
+- [[役割を果たす]] (Score: 25)
 - [[焦点]] (Score: 25)
 - [[騒音を防止する]] (Score: 25)
 - [[気がする]] (Score: 25)
 - [[力強い]] (Score: 20)
-- [[信頼があってはじめて]] (Score: 20)
-- [[結論を出す]] (Score: 20)
-- [[体を壊す]] (Score: 20)
-- [[移動手段]] (Score: 20)
-- [[成功を収める]] (Score: 20)
+- [[申し訳ないと思っている]] (Score: 20)
+- [[招待状の返事を出す]] (Score: 20)
+- [[試験の結果を気にする]] (Score: 20)
+- [[試験 Results を気にする]] (Score: 20)
 
 ## 📚 Top Adverb
 
@@ -191,39 +191,39 @@
 - [[そこで]] (Score: 55)
 - [[つまり]] (Score: 50)
 - [[しかし]] (Score: 47)
+- [[したがって]] (Score: 35)
 - [[とはいえ]] (Score: 35)
 - [[それにしては]] (Score: 35)
-- [[したがって]] (Score: 30)
+- [[ところが]] (Score: 30)
 - [[つきましては]] (Score: 30)
 - [[それで]] (Score: 30)
 - [[それにしても]] (Score: 30)
-- [[ところが]] (Score: 25)
 
 ## 📚 Top Keigo
 
+- [[避けた方が賢明です]] (Score: 25)
+- [[おいでになる]] (Score: 25)
 - [[おっしゃる]] (Score: 25)
 - [[お待ちしておりました]] (Score: 25)
 - [[いらっしゃいます]] (Score: 25)
 - [[なさる]] (Score: 25)
-- [[〜れる / 〜られる (尊敬)]] (Score: 20)
-- [[ご覧に入る]] (Score: 20)
-- [[される（受動敬語）]] (Score: 20)
-- [[召し上がる]] (Score: 20)
-- [[〜ご覧いただく]] (Score: 20)
-- [[〜させていただけないでしょうか]] (Score: 20)
+- [[申し訳なく存ずる]] (Score: 20)
+- [[でいらっしゃいますか]] (Score: 20)
+- [[教えてもらう]] (Score: 20)
+- [[拝見する]] (Score: 20)
 
 ## 📚 Top Demonstratives
 
+- [[その]] (Score: 35)
+- [[この]] (Score: 30)
 - [[ただ]] (Score: 30)
-- [[その]] (Score: 25)
 - [[それまで]] (Score: 20)
+- [[こんな]] (Score: 20)
+- [[あそこ]] (Score: 20)
 - [[こちら]] (Score: 20)
 - [[以上のような次第で]] (Score: 20)
 - [[当時]] (Score: 20)
-- [[あんなに]] (Score: 20)
-- [[こんなに]] (Score: 15)
-- [[あの]] (Score: 15)
-- [[ああ]] (Score: 15)
+- [[どの]] (Score: 20)
 
 ## 📅 Recent Reviews
 
@@ -236,14 +236,14 @@
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
+- [[10. Phân Tích N2_3_180326-11-12.pdf]]
+- [[11. Phân Tích N2_3_180326-13-16.pdf]]
+- [[12. Phân Tích N2_3_180326-17-20.pdf]]
+- [[13. Phân Tích N2_3_180326-21-26.pdf]]
 - [[2. Phân Tích N2_1_2026-1-7-6-7.pdf]]
 - [[3. Phân Tích N2_2_13_03_26-1-3.pdf]]
 - [[4. Phân Tích N2_2_13_03_26-4-6.pdf]]
 - [[5. Phân Tích N2_2_13_03_26-7-10.pdf]]
-- [[6. Phân Tích]]
-- [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
-- [[2.1. Phân Tích N2_TV_TÍNH TỪ ĐUÔI い]]
-- [[3. Phân Tích N2_ĐỌC HIỂU DÀI_BÀI 20]]
-- [[2. Phân Tích N2_TV_TÍNH TỪ ĐUÔI な]]
-- [[3. Phân Tích N2_TEST NGỮ PHÁP_BÀI 11.1]]
-- [[4. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 18]]
+- [[6. Phân Tích N2_2_13_03_26-11-13.pdf]]
+- [[7. Phân Tích N2_3_180326-1-2.pdf]]
+- [[8. Phân Tích N2_3_180326-3-5.pdf]]

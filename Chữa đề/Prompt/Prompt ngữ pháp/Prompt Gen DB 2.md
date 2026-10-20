@@ -1,8 +1,14 @@
 Phân tích chuyên sâu ngữ pháp JLPT N2, xuất Markdown thuần cho Obsidian gồm: Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.
 
-**Knowledge Extracted** chia category: Vocabulary, Kanji, Katakana, Grammar, Particle, Reading, CompoundVerb, Adverb, Conjunction, FixedExpression, Collocation, Keigo, Kenjougo, Demonstratives.
+Knowledge Extracted bắt buộc chia category:  
+Vocabulary, Kanji, Katakana, Grammar, Particle, Reading, CompoundVerb, Adverb, Conjunction, FixedExpression, Collocation, Keigo, Kenjougo, Demonstratives.  
 
-Mỗi item dùng đúng format `### CATEGORY | ITEM_NAME`, không gộp nhiều kiến thức.
+Mỗi item trong Knowledge Extracted bắt buộc viết đúng format, không gộp nhiều kiến thức.:  
+### CATEGORY | ITEM_NAME  
+Ví dụ: 
+### Grammar | 〜ざるを得ない  
+hoặc 
+### Grammar | 〜を通じて
 
 Mọi item gồm:
 - **Meaning:** Nghĩa tiếng Việt, thêm tiếng Anh nếu hữu ích.
@@ -25,21 +31,13 @@ Riêng Grammar bổ sung:
 **Learning Profile:** Tạo cho 100% item trong Knowledge Extracted, giữ nguyên tên và format:
 
 ### CATEGORY | ITEM_NAME
-- **Correct:** +N
-- **Wrong:** +N
-- **Last Seen:** YYYY-MM-DD
-- **Mastery:** High / Medium / Low
-- **Priority:** High / Medium / Low
+- Correct: +N
+- Wrong: +N
+- Last Seen: YYYY-MM-DD
+- Mastery: High / Medium / Low
+- Priority: High / Medium / Low
 
 Item chưa có dữ liệu lịch sử: mặc định Correct +0, Wrong +1, Last Seen là ngày phân tích, Mastery Low, Priority High. Không tự tạo số liệu lịch sử cho item đã có dữ liệu.
 
-Với Adverb, Katakana, CompoundVerb, FixedExpression, Collocation, Demonstratives, bổ sung **Meaning, Usage, Example**.
-
-**Quy tắc đầu ra:**
-- Giải thích chủ yếu bằng tiếng Việt, Markdown thuần tương thích Obsidian.
-- Không thêm lời dẫn, không viết `Grammar:` hoặc `ITEM:`.
-- Mỗi kiến thức có item riêng; mọi ngữ pháp được đề cập phải có mặt trong cả Knowledge Extracted và Learning Profile.
-- Không tạo item chung chung, không trùng lặp nội dung.
-- Summary tổng hợp điểm phân biệt; Error Analysis nêu lỗi thực tế hoặc lỗi phổ biến; Weak Points xác định cặp dễ nhầm; Action Next đề xuất nội dung ôn tập.
-- Chỉ khẳng định cấp độ JLPT khi có căn cứ.
-- Ưu tiên chất lượng phân biệt ngữ pháp, không mở rộng lan man.
+Adverb, Katakana, CompoundVerb, FixedExpression, Collocation, Demonstratives phải ghi thêm Meaning, Usage, Example.  
+Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật cụ thể.
