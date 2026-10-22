@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f67c7c34eabb8510","type":"group","x":-395,"y":-135,"width":790,"height":270,"color":"3","label":"ようだ"},
+		{"id":"cf5da961e60e665e","type":"text","text":"ようだ","x":-375,"y":55,"width":250,"height":60},
+		{"id":"557a04b7e9387dc0","type":"text","text":"Vるようだ","x":125,"y":55,"width":250,"height":60},
+		{"id":"b84f843c56787899","type":"text","text":"Vますようだ","x":125,"y":-115,"width":250,"height":60},
+		{"id":"b5a668611b16af43","x":920,"y":-195,"width":278,"height":160,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かのようだ.md"}
+	],
+	"edges":[
+		{"id":"dbf21ced6ef6bff5","fromNode":"cf5da961e60e665e","fromSide":"right","toNode":"b84f843c56787899","toSide":"left","label":"Vますようだ"},
+		{"id":"cdf6f2a4fbd02479","fromNode":"cf5da961e60e665e","fromSide":"right","toNode":"557a04b7e9387dc0","toSide":"left","label":"Vるようだ"},
+		{"id":"004cced2a8edcb49","fromNode":"f67c7c34eabb8510","fromSide":"right","toNode":"b5a668611b16af43","toSide":"left"}
+	]
+}

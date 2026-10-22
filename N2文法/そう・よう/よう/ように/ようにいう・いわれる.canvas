@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d6fda960d055ac5f","type":"text","text":"ようにいう・いわれる","x":-403,"y":-30,"width":250,"height":60},
+		{"id":"be99b0216f939159","type":"text","text":"Nói/Bị nói về việc cấm đoán hoặc mệnh lệnh","x":153,"y":-30,"width":250,"height":60},
+		{"id":"10724310b64777c8","x":-740,"y":-220,"width":203,"height":117,"type":"file","file":"N2文法/そう・よう/よう/ように/ように.canvas"}
+	],
+	"edges":[
+		{"id":"39c703d0147c7ecf","fromNode":"d6fda960d055ac5f","fromSide":"right","toNode":"be99b0216f939159","toSide":"left"},
+		{"id":"529282f2f9509424","fromNode":"10724310b64777c8","fromSide":"right","toNode":"d6fda960d055ac5f","toSide":"left","color":"5"}
+	]
+}

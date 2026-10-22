@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"aec27c40a1841006","type":"group","x":-1145,"y":-430,"width":2291,"height":860,"color":"5","label":"ような"},
+		{"id":"fda9298acfb66556","type":"text","text":"　ような","x":-1125,"y":350,"width":250,"height":60},
+		{"id":"0c34c66c09efc954","type":"text","text":"Không phải:\n\n“cuộc sống giống như…”\n\nMà là:\n\n“cuộc sống sao cho điều đúng nhiều hơn”\n\nỞ đây:\n\nような mang sắc thái:\n“theo kiểu”, “hướng tới trạng thái”","x":775,"y":-330,"width":351,"height":331},
+		{"id":"b68ff62ae9dd8a4d","type":"text","text":"正しいことのほうが多くなるような生活","x":215,"y":30,"width":400,"height":60},
+		{"id":"9c9120837574b510","type":"text","text":"VるようなN","x":-265,"y":30,"width":250,"height":60},
+		{"id":"6f6230c39c51d4d9","type":"file","file":"Pasted image 20260505213225.png","x":-415,"y":-410,"width":400,"height":261},
+		{"id":"c5fdc57cd45e04b6","type":"text","text":"なN","x":-908,"y":30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"eadc6ca4e28e0064","fromNode":"b68ff62ae9dd8a4d","fromSide":"right","toNode":"0c34c66c09efc954","toSide":"left","label":"VるようなN"},
+		{"id":"bbc6793f0697d400","fromNode":"9c9120837574b510","fromSide":"right","toNode":"b68ff62ae9dd8a4d","toSide":"left","label":"VるようなN"},
+		{"id":"d779fff48435edb6","fromNode":"c5fdc57cd45e04b6","fromSide":"right","toNode":"9c9120837574b510","toSide":"left","label":"VるようなN"},
+		{"id":"6a129e7b939467cb","fromNode":"c5fdc57cd45e04b6","fromSide":"top","toNode":"6f6230c39c51d4d9","toSide":"left","label":"VるようなN"},
+		{"id":"ce440dfa23d31027","fromNode":"fda9298acfb66556","fromSide":"top","toNode":"c5fdc57cd45e04b6","toSide":"left","label":"　ような"}
+	]
+}

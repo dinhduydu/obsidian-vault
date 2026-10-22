@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4eb104f5d9159ecb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜以上（は）.md","x":230,"y":-5,"width":400,"height":400},
+		{"id":"a170136a2f54588e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～以上は.md","x":-629,"y":-285,"width":400,"height":400},
+		{"id":"8f51841b2318e373","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜以上は.md","x":-120,"y":-685,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"7e81f814126af7d5","fromNode":"a170136a2f54588e","fromSide":"right","toNode":"8f51841b2318e373","toSide":"left"},
+		{"id":"d64e31e1f582567e","fromNode":"a170136a2f54588e","fromSide":"right","toNode":"4eb104f5d9159ecb","toSide":"left"}
+	]
+}

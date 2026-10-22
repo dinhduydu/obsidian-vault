@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"10f3ec2e5cb13538","type":"group","x":-554,"y":-480,"width":1109,"height":961,"color":"2","label":"ようなら"},
+		{"id":"1a45c4ca5ed709e8","type":"text","text":"　忙しいようなら、残りの仕事を手伝います。","x":285,"y":401,"width":250,"height":60},
+		{"id":"b2acf307ad832434","type":"text","text":"ようなら","x":-534,"y":-460,"width":250,"height":60},
+		{"id":"5f56e5ae1e03ebeb","type":"text","text":"Dùng khi nghĩ đến quan điểm hay cảm xúc của đối phương và cho lời khuyên:","x":-458,"y":154,"width":348,"height":75},
+		{"id":"c773b8a1509cb95e","type":"text","text":"trong trường hợp A thì nên B","x":-110,"y":321,"width":290,"height":59},
+		{"id":"75b73cf8e4242be8","type":"file","file":"Pasted image 20260410083506.png","x":-35,"y":-279,"width":400,"height":220}
+	],
+	"edges":[
+		{"id":"3b0864d4c8bf55ed","fromNode":"c773b8a1509cb95e","fromSide":"right","toNode":"1a45c4ca5ed709e8","toSide":"left"},
+		{"id":"8bb4d9117c7ba738","fromNode":"b2acf307ad832434","fromSide":"right","toNode":"75b73cf8e4242be8","toSide":"top","label":"ようなら・ようだったら"},
+		{"id":"d4c916fefd00d1f4","fromNode":"b2acf307ad832434","fromSide":"bottom","toNode":"5f56e5ae1e03ebeb","toSide":"top"},
+		{"id":"158e3d189df3e5da","fromNode":"5f56e5ae1e03ebeb","fromSide":"right","toNode":"c773b8a1509cb95e","toSide":"left"}
+	]
+}

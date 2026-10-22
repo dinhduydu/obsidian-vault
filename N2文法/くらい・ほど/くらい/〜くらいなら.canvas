@@ -8,7 +8,8 @@
 		{"id":"7bff4a700ea34b0c","type":"text","text":"くらいなら","x":-425,"y":-80,"width":250,"height":60},
 		{"id":"22e46dff6be63024","type":"text","text":"Dùng khi so sánh hai sự việc và khẳng định cái sau mới là cái phù hợp hoặc đúng đắn hơn.","x":-1020,"y":-940,"width":388,"height":88},
 		{"id":"5db563d3d307320a","type":"file","file":"N2文法/くらい・ほど/くらい/くらい.canvas","x":-1020,"y":-579,"width":309,"height":226},
-		{"id":"110474c68d7f80da","type":"text","text":"Dùng trong **so sánh chọn lựa tiêu cực**, vế A là tình huống rất ghét/bất mãn, vế B là lựa chọn thà chấp nhận còn hơn phải làm A.","x":-1052,"y":-1260,"width":420,"height":110}
+		{"id":"110474c68d7f80da","type":"text","text":"Dùng trong **so sánh chọn lựa tiêu cực**, vế A là tình huống rất ghét/bất mãn, vế B là lựa chọn thà chấp nhận còn hơn phải làm A.","x":-1052,"y":-1260,"width":420,"height":110},
+		{"id":"793761ae5ed48e69","type":"text","text":"くらいならと","x":85,"y":176,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"213da0922a087d2b","fromNode":"7bff4a700ea34b0c","fromSide":"bottom","toNode":"51f4c376cfafda96","toSide":"top"},
@@ -16,6 +17,7 @@
 		{"id":"a780416ba35561ce","fromNode":"b081298815d08967","fromSide":"right","toNode":"9cde68cbe89fdd82","toSide":"left","color":"2","label":"嫌な勉強をするくらいなら、むしろ働いたほうがいい。"},
 		{"id":"af6aae9f6819d466","fromNode":"22e46dff6be63024","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left","color":"3"},
 		{"id":"12ef378f516e96c8","fromNode":"5db563d3d307320a","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left","color":"5"},
-		{"id":"f09ca9c7597cf25c","fromNode":"110474c68d7f80da","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left"}
+		{"id":"f09ca9c7597cf25c","fromNode":"110474c68d7f80da","fromSide":"right","toNode":"5f393fc81b80078a","toSide":"left"},
+		{"id":"eb1d96f0ef1aa571","fromNode":"23f92ac71a789244","fromSide":"right","toNode":"793761ae5ed48e69","toSide":"left"}
 	]
 }

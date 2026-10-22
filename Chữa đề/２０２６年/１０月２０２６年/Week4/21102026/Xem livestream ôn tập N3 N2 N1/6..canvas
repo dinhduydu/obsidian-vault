@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"fb507a7696075743","type":"group","x":1000,"y":0,"width":1120,"height":740,"label":"てもかまわない"},
+		{"id":"50c25c3be03378a3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に越したことはない.md","x":480,"y":420,"width":325,"height":240},
+		{"id":"7a12f8b8cf19285b","type":"text","text":"Càng bán càng lỗ","x":393,"y":-280,"width":250,"height":60},
+		{"id":"fa8d0701884fe3fb","type":"file","file":"Pasted image 20261021171444.png","x":-300,"y":-100,"width":400,"height":275},
+		{"id":"af889e0d58096a0a","type":"text","text":"てもかまわない","x":1060,"y":235,"width":250,"height":60},
+		{"id":"5aa19e937a185e00","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かまわない.md","x":1756,"y":486,"width":248,"height":174},
+		{"id":"750cf3c5ec0e2917","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ても.md","x":1756,"y":38,"width":201,"height":174}
+	],
+	"edges":[
+		{"id":"bf2de1070125e0cf","fromNode":"fa8d0701884fe3fb","fromSide":"right","toNode":"7a12f8b8cf19285b","toSide":"left"},
+		{"id":"0e89344f73ab792e","fromNode":"fa8d0701884fe3fb","fromSide":"right","toNode":"50c25c3be03378a3","toSide":"left","color":"1","label":"... là tốt nhất / Không gì tốt hơn là... / ... thì vẫn hơn (Nothing is better than / Best to)."},
+		{"id":"f8af7dd630c064e4","fromNode":"fa8d0701884fe3fb","fromSide":"right","toNode":"af889e0d58096a0a","toSide":"left","color":"1"},
+		{"id":"0117f7e68b33e263","fromNode":"af889e0d58096a0a","fromSide":"right","toNode":"750cf3c5ec0e2917","toSide":"left","color":"2","label":"Dù có... cũng (không)."},
+		{"id":"8e2a169d8cf82a90","fromNode":"af889e0d58096a0a","fromSide":"right","toNode":"5aa19e937a185e00","toSide":"left","color":"2","label":"Diễn tả sự không nề hà, không bận tâm về một trạng thái hoặc kết quả nào đó."}
+	]
+}

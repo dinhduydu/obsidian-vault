@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"22dd6d6b182472bc","type":"text","text":"![[Pasted image 20261021142857.png]]","x":-320,"y":-120,"width":305,"height":180},
+		{"id":"7ce2b5903300288d","type":"text","text":"Trợ từ 「も」nằm giữa vế A và vế B + ","x":120,"y":-220,"width":250,"height":60},
+		{"id":"82c76744f5224f15","type":"text","text":"Vế B có yếu tố bổ sung thêm thông tin","x":120,"y":-60,"width":250,"height":60},
+		{"id":"c98bff7b5403508f","type":"text","text":"Không những A hơn thế còn B","x":500,"y":-117,"width":250,"height":60},
+		{"id":"2930ae5ba8c6db7b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜うえに.md","x":1040,"y":-350,"width":280,"height":130},
+		{"id":"48df2fb5b9ff6d39","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ために.md","x":209,"y":340,"width":323,"height":181},
+		{"id":"f64e0e55ea5846a7","type":"file","file":"N2文法/こと・もの/もの/ものの.canvas","x":-940,"y":207,"width":268,"height":224}
+	],
+	"edges":[
+		{"id":"5e8c7c62bd889d2c","fromNode":"22dd6d6b182472bc","fromSide":"right","toNode":"7ce2b5903300288d","toSide":"left","color":"2"},
+		{"id":"1df03f2235092382","fromNode":"7ce2b5903300288d","fromSide":"right","toNode":"c98bff7b5403508f","toSide":"left","color":"2"},
+		{"id":"16616d4ae12b64ca","fromNode":"82c76744f5224f15","fromSide":"right","toNode":"c98bff7b5403508f","toSide":"left","color":"5"},
+		{"id":"22f4e219ea6f82ee","fromNode":"c98bff7b5403508f","fromSide":"right","toNode":"2930ae5ba8c6db7b","toSide":"left","color":"3","label":"Không chỉ... mà còn / Thêm vào đó."},
+		{"id":"53d8f692aa17c4be","fromNode":"22dd6d6b182472bc","fromSide":"right","toNode":"48df2fb5b9ff6d39","toSide":"left","color":"1","label":" Because of / In order to / Vì, do; Để."},
+		{"id":"6978eab7e21756a0","fromNode":"7ce2b5903300288d","fromSide":"bottom","toNode":"82c76744f5224f15","toSide":"top","color":"4"},
+		{"id":"4ec1d9a3abd30cab","fromNode":"22dd6d6b182472bc","fromSide":"left","toNode":"f64e0e55ea5846a7","toSide":"right","color":"1","label":"Mặc dù... nhưng (thực tế lại khác).\nVế A >< Vế B"}
+	]
+}

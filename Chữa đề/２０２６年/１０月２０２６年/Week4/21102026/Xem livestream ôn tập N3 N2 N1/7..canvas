@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"302f5d20d57377c0","x":0,"y":0,"width":400,"height":193,"type":"file","file":"Pasted image 20261021171655.png"},
+		{"id":"f34053a3e0279d5a","x":-362,"y":30,"width":250,"height":60,"type":"text","text":"Hỏi động từ, tìm trợ từ đi kèm"}
+	],
+	"edges":[
+		{"id":"6464369567d3023c","fromNode":"302f5d20d57377c0","fromSide":"left","toNode":"f34053a3e0279d5a","toSide":"right"}
+	]
+}

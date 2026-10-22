@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b282e6e22806f599","type":"text","text":"Cảm thấy, dường như là","x":-177,"y":78,"width":250,"height":60},
+		{"id":"2534d47800aeade3","type":"text","text":"ように思える","x":-73,"y":-138,"width":250,"height":56},
+		{"id":"8e9e74830fc16295","x":220,"y":-420,"width":250,"height":125,"type":"file","file":"N2文法/そう・よう/よう/ように/ように.canvas"}
+	],
+	"edges":[
+		{"id":"333a8bb5f1727c3d","fromNode":"2534d47800aeade3","fromSide":"bottom","toNode":"b282e6e22806f599","toSide":"top","label":"ように思える"},
+		{"id":"569ac6eb78e1064b","fromNode":"8e9e74830fc16295","fromSide":"left","toNode":"2534d47800aeade3","toSide":"top","color":"5"}
+	]
+}

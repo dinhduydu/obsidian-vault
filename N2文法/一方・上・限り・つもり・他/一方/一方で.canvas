@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"79f812b520b453d3","type":"group","x":-541,"y":-640,"width":1082,"height":1280,"color":"1","label":"一方で　ー　 Mặt khác, bên cạnh, trong khi đó..."},
+		{"id":"bbf70780adc38849","type":"text","text":"Mặt khác","x":-510,"y":-620,"width":250,"height":60},
+		{"id":"27335a0237bcb6c6","type":"text","text":"一方である。","x":-899,"y":991,"width":250,"height":60},
+		{"id":"77cd26b1de73c0ca","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方だ.canvas","x":-1440,"y":500,"width":285,"height":238},
+		{"id":"f401968d5b8f8148","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/一方で.md","x":-1440,"y":-191,"width":278,"height":193},
+		{"id":"342d945520353143","type":"text","text":"Thể hiện rằng 2 việc nào đó được tiến hành song song nhau","x":-521,"y":-420,"width":272,"height":89},
+		{"id":"dedfbd982b05b7ee","type":"text","text":"一方で","x":-510,"y":140,"width":250,"height":60},
+		{"id":"efd06d330b291d59","type":"text","text":"一方で\n反面・半面","x":-510,"y":412,"width":250,"height":60},
+		{"id":"4a0c41fef6582bce","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/一方では.md","x":-2200,"y":-540,"width":291,"height":195},
+		{"id":"10b107a2be58dd87","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-2220,"y":120,"width":238,"height":173},
+		{"id":"acd02545842a9c58","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/～反面.canvas","x":980,"y":640,"width":231,"height":149},
+		{"id":"ae3e28d7f49bbd6d","type":"text","text":"Dùng trong trường hợp so sánh 2 việc nào đó có liên quan đến nhau","x":-195,"y":-78,"width":250,"height":88},
+		{"id":"7b8097d3672006da","type":"file","file":"Pasted image 20260409001744.png","x":121,"y":336,"width":400,"height":224}
+	],
+	"edges":[
+		{"id":"b85c156a58e9cd85","fromNode":"dedfbd982b05b7ee","fromSide":"top","toNode":"342d945520353143","toSide":"bottom","label":"一方で"},
+		{"id":"e855849486d50b3d","fromNode":"dedfbd982b05b7ee","fromSide":"top","toNode":"ae3e28d7f49bbd6d","toSide":"bottom","label":"一方で"},
+		{"id":"947c055782211d9b","fromNode":"efd06d330b291d59","fromSide":"top","toNode":"dedfbd982b05b7ee","toSide":"bottom","label":"一方で"},
+		{"id":"681febf4ecd7bd3d","fromNode":"efd06d330b291d59","fromSide":"right","toNode":"7b8097d3672006da","toSide":"left","label":"一方で"},
+		{"id":"6908c3023dadf871","fromNode":"342d945520353143","fromSide":"top","toNode":"bbf70780adc38849","toSide":"bottom","label":"一方で"},
+		{"id":"4ff85d3ac0be47b6","fromNode":"7b8097d3672006da","fromSide":"right","toNode":"acd02545842a9c58","toSide":"left","color":"3"},
+		{"id":"e85bde13d084ef80","fromNode":"dedfbd982b05b7ee","fromSide":"left","toNode":"f401968d5b8f8148","toSide":"right","color":"4","label":"Mặt khác, ngược lại (dùng nối hai vế đối lập hoặc hai mặt của vấn đề)."},
+		{"id":"adafd9bce6812905","fromNode":"f401968d5b8f8148","fromSide":"left","toNode":"4a0c41fef6582bce","toSide":"right","color":"5","label":"Mặt khác, bên cạnh đó (On the other hand)."},
+		{"id":"95006bd45c7ae1db","fromNode":"77cd26b1de73c0ca","fromSide":"right","toNode":"dedfbd982b05b7ee","toSide":"left","color":"2","label":"đứng giữa câu, nối giữa các vế khác"},
+		{"id":"f963da700bb53eca","fromNode":"10b107a2be58dd87","fromSide":"right","toNode":"77cd26b1de73c0ca","toSide":"left","color":"2","label":"Phương hướng, thay đổi theo 1 xu hướng"},
+		{"id":"8e9fb5e7a4be6af7","fromNode":"10b107a2be58dd87","fromSide":"right","toNode":"f401968d5b8f8148","toSide":"left","color":"2","label":"Phương diện, 1 mặt như thế này, mặt khác như thế kia"},
+		{"id":"808e5f21f641bac3","fromNode":"77cd26b1de73c0ca","fromSide":"right","toNode":"27335a0237bcb6c6","toSide":"left","color":"4"}
+	]
+}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3da228abb5b49989",
+        "id": "a232660ecf499bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "e61f001177ecafae",
+            "id": "b36da61dc2495019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week3/18102026/0. Link bài tập.md",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/0. Link bài tập.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "恥",
+                "query": "としたら",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,6 +78,23 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e61f001177ecafae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "N2文法/一方・上・限り・つもり・他/上/うえは.canvas",
+                "viewState": {
+                  "x": -405.27259130787274,
+                  "y": 3.7734363672171494,
+                  "zoom": -1.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "うえは"
             }
           }
         ]
@@ -119,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2.1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41..md",
+                "file": "Chữa đề/Learning_Profile/Grammar/〜としたら.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,11 +175,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,63 +194,63 @@
       "decks:Decks": false
     }
   },
-  "active": "e61f001177ecafae",
+  "active": "b36da61dc2495019",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec/2.4.1. Phân Tích Từ láy thông dụng 4.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/18102026/0. Link bài tập.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/25102026/0. Lịch thi thử.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/1. Thi thử N2 FPT.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/1. Phân Tích Thi thử N2 FPT1..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/25102026",
-    "Chữa đề/Learning_Profile/FixedExpression/〜はもうやったからいいや.md",
-    "Chữa đề/Learning_Profile/FixedExpression/〜ましょうか.md",
-    "Chữa đề/Learning_Profile/Reading/主張・意見の把握.md",
-    "Chữa đề/Learning_Profile/Reading/統合理解.md",
-    "Chữa đề/Learning_Profile/Grammar/〜なければならない.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/0. Link bài tập.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/22102026/0. Link bài tập.md",
     "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/2. Phân Tích N5230326-3-4.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/1. Phân Tích N2 bài N5 1-2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/3. Phân Tích N2 - Bài 5 - 230326-5-6.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/4. Phân Tích N5230326-7-10.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/5. Phân Tích N5230326-11-12.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/19. Phân Tích N2_4_200326-17-18.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/3. Phân Tích N2_2_13_03_26-1-3.pdf.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/2. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/1. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/4. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026_Spec/3. 100 Phó từ N2.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/4. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 43 (THAOLEJP)..md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/3. N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 62.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/2. N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec/2.3.1. Phân Tích Từ láy thông dụng 3.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week3/17102026_Spec/doc",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/1. N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 4.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Nhĩ　「耳」/恥 - Sỉ.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Quynh　「冂」/岡 - Cương/剛 - Cương.canvas",
-    "N2文法/こと・もの/こと/こと.canvas",
-    "N2文法/こと・もの/こと/ないこと.canvas",
-    "N2文法/こと・もの/こと/ということ.canvas",
-    "N2文法/こと・もの/こと/ことは.canvas",
-    "N2文法/こと・もの/こと/ことはない.canvas",
-    "N2文法/はず・わけ/はず",
-    "N2文法/はず・わけ/わけ",
-    "N2文法/くらい・ほど/くらい/Untitled",
-    "N2文法/くらい・ほど/くらい",
-    "Untitled 22.base",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.13-14",
-    "Pasted image 20261019163449.png",
-    "Pasted image 20261019163444.png",
-    "Pasted image 20261019163433.png",
-    "Pasted image 20261019163429.png",
-    "Pasted image 20261019163420.png",
-    "Pasted image 20261019163416.png",
-    "Pasted image 20261019163412.png",
-    "Pasted image 20261019163338.png",
-    "Pasted image 20261019162405.png",
-    "Pasted image 20261017175257.png"
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/5. Phân Tích.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/4. Phân Tích PHÓ TỪ_TEST 1.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/3. Phân Tích N2_BÀI TẬP ĐIỀN SAO (70)..md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/22102026",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB2.md",
+    "Chữa đề/Learning_Profile/Grammar/〜としたら.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week4/21042026/1. Phân Tích Bài Làm N2_TEST NGỮ PHÁP_BÀI 11.2.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/10. Phân Tích N2_3_180326-11-12.pdf.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/16032026/3. Phân Tích BÀI LÀM N2_TEST NGỮ PHÁP_BÀI 3.1.md",
+    "Chữa đề/２０２６年/０３月２０２６年/Week3/18032026/3. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 6.md",
+    "N2文法/くらい・ほど/くらい/〜くらいなら.canvas",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/9. Phân Tích N2_3_180326-6-10.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜くらいなら.md",
+    "Chữa đề/２０２６年/０９月２０２６年/Week5/28092026/1. Phân Tích THAOLEJP_N2_TEST ĐỊNH KỲ LẦN 3_ TỪ VỰNG.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1..md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/1. N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3.canvas",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/19102026/0. Link bài tập.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/Xem livestream ôn tập N3 N2 N1/6..canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜かまわない.md",
+    "Chữa đề/Learning_Profile/Grammar/～ても.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week1/01072026/3. Phân Tích N2 - TỔNG ÔN NGỮ PHÁP BÀI 9.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week2/09012026/1. Phân Tích N2_TRỢ TỪ_TEST 1.md",
+    "Chữa đề/Learning_Profile/Grammar/〜に越したことはない.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.13-14/2. Phân Tích N2_13-4-5.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/Xem livestream ôn tập N3 N2 N1/5..canvas",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/Xem livestream ôn tập N3 N2 N1/4. Ôn tập.canvas",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/Xem livestream ôn tập N3 N2 N1/7..canvas",
+    "Pasted image 20261021171655.png",
+    "Pasted image 20261021171444.png",
+    "Pasted image 20261021171424.png",
+    "N2語彙/Phó từ/Untitled.md",
+    "Pasted image 20261021164236.png",
+    "N2語彙/Từ đồng nghĩa/Giao tiếp, ngôn từ và quan hệ xã hội/🗣️ PHÂN NHÓM 6 - GIAO TIẾP, NGÔN TỪ & QUAN HỆ XÃ HỘI.canvas",
+    "N2語彙/Phó từ",
+    "N2語彙/Từ đồng nghĩa/Danh từ, cấu trúc và quy định/🏷️ PHÂN NHÓM 5 - DANH TỪ, QUY ĐỊNH & KHÁI NIỆM (17 cặp từ).canvas",
+    "N2語彙/Từ đồng nghĩa/Danh từ, cấu trúc và quy định/🏷️ PHÂN NHÓM 5 - DANH TỪ, CẤU TRÚC & QUY ĐỊNH.canvas",
+    "N2文法/Điền sao/Cách kết nối với những phó từ đi với dạng ngữ pháp cố định.md",
+    "N2文法/Điền sao/Để ý trợ từ は、が để xác định thành phần vị ngữ.md",
+    "N2文法/Điền sao/Kết cấu trợ từ, từ loại trong câu.md",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 16/良 - Lương.canvas",
+    "Pasted image 20261021164002.png",
+    "Pasted image 20261021163958.png",
+    "N2文法/そう・よう/よう/ようだ",
+    "N2文法/そう・よう/よう/ように",
+    "N2文法/そう・よう/よう",
+    "Pasted image 20261021150343.png",
+    "N2文法/一方・上・限り・つもり・他/上",
+    "Pasted image 20261021145125.png",
+    "Pasted image 20261021144713.png",
+    "N2文法/一方・上・限り・つもり・他/一方",
+    "Pasted image 20261021143704.png",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026/Xem livestream ôn tập N3 N2 N1",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/25102026",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/21102026"
   ]
 }

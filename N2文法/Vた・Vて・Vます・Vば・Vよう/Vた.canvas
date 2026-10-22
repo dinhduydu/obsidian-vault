@@ -8,7 +8,7 @@
 		{"id":"288e9825c7199a33","type":"text","text":"Vたまま　","x":565,"y":-570,"width":250,"height":60},
 		{"id":"4c6cf34d958a89c8","type":"text","text":"まま","x":852,"y":-850,"width":250,"height":60},
 		{"id":"d583a38b0260404b","type":"text","text":"Việc (nên thay đổi) không thay đổi mà vẫn tiếp tục","x":550,"y":-1043,"width":250,"height":60},
-		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限り・つもり・他/上.canvas","x":722,"y":-159,"width":260,"height":230},
+		{"id":"4ffc64a44c09ef6e","type":"file","file":"N2文法/一方・上・限り・つもり・他/上/上.canvas","x":722,"y":-159,"width":260,"height":230},
 		{"id":"f71336f3484ee34d","type":"text","text":"do A then do B","x":1140,"y":-74,"width":250,"height":60},
 		{"id":"678edde220289337","type":"text","text":"「N４」Vた","x":1361,"y":565,"width":250,"height":60},
 		{"id":"10de499c3edb6476","type":"text","text":"VたN","x":1880,"y":565,"width":250,"height":60},

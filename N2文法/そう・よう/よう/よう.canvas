@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b49667dacc178a1f","type":"file","file":"N2文法/そう・よう/よう/ようだ/ようだ.canvas","x":340,"y":-260,"width":250,"height":139},
+		{"id":"f66cc3f5b9396963","type":"file","file":"N2文法/そう・よう/よう/ように/ように.canvas","x":1500,"y":-100,"width":320,"height":265},
+		{"id":"908075991677c442","type":"text","text":"よう","x":-117,"y":1,"width":250,"height":60},
+		{"id":"93969b7d649004c3","type":"file","file":"N2文法/そう・よう/よう/ようなら.canvas","x":235,"y":280,"width":400,"height":400},
+		{"id":"0688eb386006ae46","type":"file","file":"N2文法/そう・よう/よう/ようがない.canvas","x":-900,"y":400,"width":255,"height":240},
+		{"id":"a75d963f0a6e0897","type":"file","file":"N2文法/そう・よう/よう/ようと.canvas","x":340,"y":-560,"width":184,"height":159},
+		{"id":"90967cab63328a76","type":"file","file":"N2文法/そう・よう/よう/ような.canvas","x":140,"y":-1020,"width":248,"height":199},
+		{"id":"e6fffb6c1faca861","x":-772,"y":-504,"width":295,"height":207,"type":"file","file":"N2文法/そう・よう/よう/ようか.canvas"}
+	],
+	"edges":[
+		{"id":"7437e27dd6351515","fromNode":"908075991677c442","fromSide":"right","toNode":"f66cc3f5b9396963","toSide":"left","color":"5","label":"ように"},
+		{"id":"b851ea4063bbc003","fromNode":"908075991677c442","fromSide":"top","toNode":"90967cab63328a76","toSide":"left","color":"5","label":"ような"},
+		{"id":"60919b503f9756cd","fromNode":"908075991677c442","fromSide":"top","toNode":"a75d963f0a6e0897","toSide":"left","color":"5","label":"Vるようとする"},
+		{"id":"f3131d4d27f00c56","fromNode":"908075991677c442","fromSide":"bottom","toNode":"0688eb386006ae46","toSide":"top","color":"5","label":"ようがない"},
+		{"id":"066390f5e4a71ac4","fromNode":"908075991677c442","fromSide":"left","toNode":"e6fffb6c1faca861","toSide":"right"},
+		{"id":"4dfa2f81d15a01a7","fromNode":"908075991677c442","fromSide":"bottom","toNode":"93969b7d649004c3","toSide":"top","color":"5"},
+		{"id":"517fa0113ac2cccc","fromNode":"908075991677c442","fromSide":"right","toNode":"b49667dacc178a1f","toSide":"left","color":"5"}
+	]
+}

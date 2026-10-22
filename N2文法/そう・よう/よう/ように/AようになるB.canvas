@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"520ea4e9ae8bb887","type":"text","text":"Chỉ sự thay đổi","x":-92,"y":-109,"width":250,"height":60},
+		{"id":"7a730dd91d39b041","type":"text","text":"時間をかけさえすればきっと信用するようになるわよ。","x":98,"y":189,"width":314,"height":58},
+		{"id":"c0fd788494f0dbc2","type":"text","text":"If you give it some time, you will be able to trust me.","x":505,"y":172,"width":250,"height":60},
+		{"id":"9dc8fdab126fbf6b","type":"text","text":"増える","x":951,"y":78,"width":250,"height":60},
+		{"id":"de6f540021f04a25","type":"text","text":"変わる","x":961,"y":-123,"width":250,"height":60},
+		{"id":"ef18d63ff65709fe","type":"text","text":"減る","x":1006,"y":-21,"width":250,"height":60},
+		{"id":"2b083e7ae22b615c","type":"file","file":"Pasted image 20260504021327.png","x":589,"y":-498,"width":400,"height":306},
+		{"id":"e97cada723b2b82d","type":"text","text":"Diễn tả sự thay đổi","x":589,"y":-33,"width":250,"height":60},
+		{"id":"d1bb13ba973cb4df","type":"text","text":"AようになるB","x":-1256,"y":-21,"width":250,"height":60},
+		{"id":"b5271d21a3631cf3","type":"text","text":"ようになる","x":-811,"y":-21,"width":250,"height":60},
+		{"id":"5c3efe2b4e906af4","type":"text","text":"không sử dụng với","x":-11,"y":-21,"width":250,"height":60},
+		{"id":"660966c5d6cb9315","type":"text","text":"Trước đó thì chưa có, nhưng bây giờ là có","x":-446,"y":-21,"width":250,"height":60},
+		{"id":"397a26cd8f913d39","type":"text","text":"ようになくなる","x":-811,"y":420,"width":250,"height":60},
+		{"id":"ad25378876333d4d","type":"text","text":"Trước đó là có, nhưng bây giờ là không có","x":-414,"y":420,"width":250,"height":60},
+		{"id":"b7bec61067352329","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようになる.md","x":-1740,"y":-320,"width":231,"height":127},
+		{"id":"0bc8bca74d46af13","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/食えるようになる.md","x":-2280,"y":-560,"width":262,"height":176}
+	],
+	"edges":[
+		{"id":"2281fa52af0b4b80","fromNode":"660966c5d6cb9315","fromSide":"right","toNode":"520ea4e9ae8bb887","toSide":"left"},
+		{"id":"1213255ce0d1c235","fromNode":"7a730dd91d39b041","fromSide":"right","toNode":"c0fd788494f0dbc2","toSide":"left"},
+		{"id":"fcff48d8d4fb7b73","fromNode":"660966c5d6cb9315","fromSide":"right","toNode":"7a730dd91d39b041","toSide":"left","label":"ようになる"},
+		{"id":"9178b1fc8f1f6045","fromNode":"e97cada723b2b82d","fromSide":"right","toNode":"9dc8fdab126fbf6b","toSide":"left"},
+		{"id":"7505c869c462c591","fromNode":"e97cada723b2b82d","fromSide":"right","toNode":"de6f540021f04a25","toSide":"left"},
+		{"id":"18f3ae6000bddf37","fromNode":"e97cada723b2b82d","fromSide":"right","toNode":"ef18d63ff65709fe","toSide":"left"},
+		{"id":"1f51e482b82efbe4","fromNode":"5c3efe2b4e906af4","fromSide":"right","toNode":"2b083e7ae22b615c","toSide":"left","label":"ようになる"},
+		{"id":"247e6c8b3ff0e1bc","fromNode":"5c3efe2b4e906af4","fromSide":"right","toNode":"e97cada723b2b82d","toSide":"left","label":"ようになる"},
+		{"id":"e26f60d24eb2bf63","fromNode":"d1bb13ba973cb4df","fromSide":"right","toNode":"b5271d21a3631cf3","toSide":"left","label":"ようになる"},
+		{"id":"c66b19c93c700355","fromNode":"d1bb13ba973cb4df","fromSide":"right","toNode":"397a26cd8f913d39","toSide":"left","label":"ようになくなる"},
+		{"id":"44e46e5e957d9356","fromNode":"b5271d21a3631cf3","fromSide":"right","toNode":"660966c5d6cb9315","toSide":"left"},
+		{"id":"be68d430f79e7c9e","fromNode":"660966c5d6cb9315","fromSide":"right","toNode":"5c3efe2b4e906af4","toSide":"left"},
+		{"id":"465e7ea76f120609","fromNode":"397a26cd8f913d39","fromSide":"right","toNode":"ad25378876333d4d","toSide":"left"},
+		{"id":"875904ccbaffccbc","fromNode":"d1bb13ba973cb4df","fromSide":"left","toNode":"b7bec61067352329","toSide":"right","color":"4","label":"Come to be able to, reach a point where / Trở nên có thể, dần dần làm được."},
+		{"id":"5f96a8958d65a1f8","fromNode":"b7bec61067352329","fromSide":"left","toNode":"0bc8bca74d46af13","toSide":"right","color":"6","label":"Có thể kiếm sống được."}
+	]
+}

@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 515
-- Total Knowledge Items: 5389
-- Correct: 3250
-- Wrong: 5472
-- Accuracy: 37.3%
+- Total Reviews: 518
+- Total Knowledge Items: 5401
+- Correct: 3273
+- Wrong: 5482
+- Accuracy: 37.4%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 33.8% (Correct 284 / Wrong 555)
-- Collocation: 36.4% (Correct 135 / Wrong 236)
+- Adverb: 34.7% (Correct 299 / Wrong 562)
+- Collocation: 36.7% (Correct 137 / Wrong 236)
 - CompoundVerb: 33.1% (Correct 143 / Wrong 289)
 - Conjunction: 24.9% (Correct 62 / Wrong 187)
 - Demonstratives: 9.8% (Correct 8 / Wrong 74)
-- FixedExpression: 34.6% (Correct 184 / Wrong 348)
-- Grammar: 36.1% (Correct 808 / Wrong 1428)
+- FixedExpression: 34.6% (Correct 185 / Wrong 349)
+- Grammar: 36.3% (Correct 814 / Wrong 1430)
 - Kanji: 42.4% (Correct 318 / Wrong 432)
 - Katakana: 35.9% (Correct 136 / Wrong 243)
 - Keigo: 25.5% (Correct 36 / Wrong 105)
 - Reading: 25.2% (Correct 80 / Wrong 238)
-- Vocabulary: 44.1% (Correct 1056 / Wrong 1337)
+- Vocabulary: 44.1% (Correct 1055 / Wrong 1337)
 
 ## 📚 Top Grammar
 
@@ -182,9 +182,9 @@
 - [[まるで]] (Score: 40)
 - [[とりあえず]] (Score: 40)
 - [[結局]] (Score: 37)
+- [[いきなり]] (Score: 35)
 - [[さっぱり]] (Score: 35)
 - [[むしろ]] (Score: 35)
-- [[たった]] (Score: 35)
 
 ## 📚 Top Conjunction
 

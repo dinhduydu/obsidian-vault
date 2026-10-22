@@ -6,7 +6,8 @@
 		{"id":"ef5b0f75703cd048","type":"file","file":"Pasted image 20260410083413.png","x":1295,"y":-316,"width":396,"height":213},
 		{"id":"8700a2ab26dc1b2c","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-779,"y":800,"width":199,"height":237},
 		{"id":"7b9881abc64986dc","type":"file","file":"Pasted image 20260410083523.png","x":60,"y":80,"width":397,"height":218},
-		{"id":"f10ea942ee765f94","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とはいうものの.md","x":680,"y":-266,"width":254,"height":114}
+		{"id":"f10ea942ee765f94","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とはいうものの.md","x":680,"y":-266,"width":254,"height":114},
+		{"id":"bd667ce413b61753","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものの ↔ 〜とはいえ.md","x":720,"y":-1480,"width":353,"height":194}
 	],
 	"edges":[
 		{"id":"6f976b14e274ed98","fromNode":"5088adf148ba3478","fromSide":"right","toNode":"f10ea942ee765f94","toSide":"left","color":"2","label":"Tuy nói là... nhưng thực tế là..."},
@@ -15,6 +16,7 @@
 		{"id":"711aa57da8e41450","fromNode":"7b9881abc64986dc","fromSide":"right","toNode":"f10ea942ee765f94","toSide":"bottom","color":"4","label":"とはいうものの"},
 		{"id":"df6dcaeb28cd3c2b","fromNode":"f10ea942ee765f94","fromSide":"right","toNode":"ef5b0f75703cd048","toSide":"left","color":"4","label":"とはいうものの"},
 		{"id":"bde30e984eb759b3","fromNode":"5088adf148ba3478","fromSide":"right","toNode":"dc33e50c974fb31b","toSide":"left","color":"4","label":"Mặc dù... nhưng (thực tế lại khác)."},
-		{"id":"4e0722bd1b23dfe9","fromNode":"17b0c134fed1d33f","fromSide":"right","toNode":"7b9881abc64986dc","toSide":"left"}
+		{"id":"4e0722bd1b23dfe9","fromNode":"17b0c134fed1d33f","fromSide":"right","toNode":"7b9881abc64986dc","toSide":"left"},
+		{"id":"424765bf881d0d3c","fromNode":"dc33e50c974fb31b","fromSide":"right","toNode":"bd667ce413b61753","toSide":"left","color":"6","label":" Mặc dù A... nhưng thực tế B / Dù nói là A đi nữa nhưng B."}
 	]
 }

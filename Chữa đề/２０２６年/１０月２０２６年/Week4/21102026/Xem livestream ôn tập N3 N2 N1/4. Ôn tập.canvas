@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"e29edec3f297cf5c","type":"group","x":700,"y":-642,"width":840,"height":256,"label":"Dự định làm hết sức"},
+		{"id":"fcaba55578bbe7e9","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/尽くす.md","x":720,"y":-545,"width":278,"height":139},
+		{"id":"a8d03cd1f2dc5ea0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～つもり.md","x":1260,"y":-622,"width":260,"height":154},
+		{"id":"1007a7a6b3d68d0b","type":"file","file":"Pasted image 20261021145125.png","x":-360,"y":-160,"width":400,"height":191},
+		{"id":"64530d21526bf474","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尽 - Tận.canvas","x":360,"y":-360,"width":227,"height":111},
+		{"id":"4ec0852268e6c3e0","type":"file","file":"N2文法/一方・上・限り・つもり・他/上/うえは.canvas","x":360,"y":160,"width":362,"height":303}
+	],
+	"edges":[
+		{"id":"0269e9be96734fa1","fromNode":"1007a7a6b3d68d0b","fromSide":"right","toNode":"64530d21526bf474","toSide":"left","color":"5","label":"Cống hiến, hết lòng, dốc sức vì ai đó."},
+		{"id":"712df4580a437ec3","fromNode":"64530d21526bf474","fromSide":"right","toNode":"fcaba55578bbe7e9","toSide":"left","color":"6"},
+		{"id":"9db8a33e0b893337","fromNode":"fcaba55578bbe7e9","fromSide":"right","toNode":"a8d03cd1f2dc5ea0","toSide":"left","color":"3","label":"hay đi với"},
+		{"id":"72845f5ac1971f2d","fromNode":"1007a7a6b3d68d0b","fromSide":"right","toNode":"4ec0852268e6c3e0","toSide":"left","color":"5","label":"1 Khi A thì sẽ làm B hết sức"}
+	]
+}

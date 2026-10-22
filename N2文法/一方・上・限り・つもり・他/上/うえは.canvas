@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"62a35d0b86de21ac","type":"group","x":-560,"y":840,"width":1460,"height":712,"color":"2","label":"上は　ー　Quyết tâm tuyệt đối"},
+		{"id":"d12ec43933fb3757","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/から.canvas","x":320,"y":1132,"width":400,"height":400},
+		{"id":"ac23354d54daf118","type":"file","file":"Pasted image 20260409002551.png","x":-1009,"y":1175,"width":638,"height":314},
+		{"id":"ef881844f644844f","type":"text","text":"Vる・Vた上は\n1 khi đã A thì đương nhiên B","x":-200,"y":1302,"width":250,"height":60},
+		{"id":"af0e9931f0b1f672","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜うえは.md","x":-127,"y":139,"width":355,"height":282},
+		{"id":"e0ccd436f37f3f11","type":"file","file":"Pasted image 20260410075644.png","x":0,"y":860,"width":400,"height":108},
+		{"id":"b869bf14e4e87faf","type":"file","file":"N2文法/一方・上・限り・つもり・他/上/上.canvas","x":-690,"y":57,"width":230,"height":164}
+	],
+	"edges":[
+		{"id":"1fa423268dba2528","fromNode":"d12ec43933fb3757","fromSide":"top","toNode":"e0ccd436f37f3f11","toSide":"bottom"},
+		{"id":"48ddcfb793c312b5","fromNode":"ef881844f644844f","fromSide":"right","toNode":"d12ec43933fb3757","toSide":"left","label":"＝からには"},
+		{"id":"7be8fc92e5a3ce10","fromNode":"ef881844f644844f","fromSide":"top","toNode":"e0ccd436f37f3f11","toSide":"left"},
+		{"id":"585d88b850726ef9","fromNode":"ac23354d54daf118","fromSide":"right","toNode":"ef881844f644844f","toSide":"left","label":"上は"},
+		{"id":"0e6767dd863105fa","fromNode":"af0e9931f0b1f672","fromSide":"bottom","toNode":"62a35d0b86de21ac","toSide":"top","color":"4","label":"Một khi đã... thì (thể hiện quyết tâm hoặc trách nhiệm)"},
+		{"id":"8f3d2cd3971de66d","fromNode":"b869bf14e4e87faf","fromSide":"right","toNode":"af0e9931f0b1f672","toSide":"left","color":"5"}
+	]
+}

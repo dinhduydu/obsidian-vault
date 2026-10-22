@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0428ebab8b639f63","type":"file","file":"Pasted image 20260409003135.png","x":151,"y":-100,"width":400,"height":200},
+		{"id":"c8a8bd87f90a6ace","type":"text","text":"Vるようとする","x":-550,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"882251870c99d027","fromNode":"c8a8bd87f90a6ace","fromSide":"right","toNode":"0428ebab8b639f63","toSide":"left","label":"Vるようとする"}
+	]
+}

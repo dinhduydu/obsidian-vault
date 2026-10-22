@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"6df75a1aad176a46","type":"link","url":"https://docs.google.com/forms/d/e/1FAIpQLSeMfM--Y_eKrlgTNon8JvUynOc4ZFrs2HAr941GlTOIeunrNQ/viewform?fbzx=7564806341692580154","x":-440,"y":-700,"width":280,"height":270},
-		{"id":"cbfd5f7aa0ef153d","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方.canvas","x":-464,"y":-160,"width":304,"height":90},
+		{"id":"cbfd5f7aa0ef153d","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方.canvas","x":-464,"y":-160,"width":304,"height":90},
 		{"id":"dae9b21e2dd05192","type":"text","text":"**01．〜⼀⽅だ:** Ngày càng...","x":-40,"y":-300,"width":250,"height":60},
 		{"id":"f25cc589d18f34c6","type":"text","text":"**02．〜⼀⽅で:** Mặt khác, bên cạnh, trong khi đó...","x":-40,"y":-145,"width":250,"height":60},
 		{"id":"92034007e690ab03","type":"text","text":"**03．〜反⾯∕半⾯:** Mặt khác, được mặt này thì mặt kia lại ~","x":300,"y":-145,"width":250,"height":60},
@@ -12,7 +12,7 @@
 		{"id":"e16cb0fbd9a91b8b","type":"text","text":"**07．〜た上（で）:** Sau khi A... thì B","x":0,"y":465,"width":460,"height":60},
 		{"id":"bc0f13eaeb679f7d","type":"text","text":"**08．〜上（で）:** Trong quá trình, trường hợp, khi thực hiện V...","x":0,"y":580,"width":540,"height":50},
 		{"id":"b1d4dca0a575ba6b","type":"text","text":"**09．〜上で（は）∕〜上（は）:** Xét trên, xét trên phương diện, trên/ trong...","x":0,"y":700,"width":580,"height":50},
-		{"id":"298ac666577b3254","type":"file","file":"N2文法/一方・上・限り・つもり・他/上.canvas","x":-320,"y":553,"width":180,"height":105},
+		{"id":"298ac666577b3254","type":"file","file":"N2文法/一方・上・限り・つもり・他/上/上.canvas","x":-320,"y":553,"width":180,"height":105},
 		{"id":"17c73d334ba917f3","type":"text","text":"**10．〜上は:** Một khi đã A thì làm B là đương nhiên","x":0,"y":840,"width":468,"height":55},
 		{"id":"fa76677f54976363","type":"text","text":"**11．〜（よ）うとする:** Định, cố, muốn... làm việc gì đó,","x":880,"y":249,"width":530,"height":54},
 		{"id":"ca8893ffdbe53037","type":"text","text":"**12．〜思い:** Suy nghĩ, cảm thấy...,","x":880,"y":380,"width":320,"height":50},

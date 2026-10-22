@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f50b0f73db1809f3","type":"file","file":"Pasted image 20261021144713.png","x":-300,"y":-160,"width":399,"height":179},
+		{"id":"40c112dc704d83f8","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方で.canvas","x":560,"y":-460,"width":252,"height":178}
+	],
+	"edges":[
+		{"id":"f3f64b6a9c42c952","fromNode":"f50b0f73db1809f3","fromSide":"right","toNode":"40c112dc704d83f8","toSide":"left","label":"Mặt khác, ngược lại (dùng nối hai vế đối lập hoặc hai mặt của vấn đề)."}
+	]
+}

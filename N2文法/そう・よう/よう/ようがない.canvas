@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"30a6a4e77f0be978","type":"group","x":-566,"y":-709,"width":2780,"height":1419,"color":"1","label":"ようがない"},
+		{"id":"e588c96e97dd1721","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない.md","x":-1450,"y":-197,"width":400,"height":400},
+		{"id":"39a151701cebe504","type":"text","text":"ようがない","x":1019,"y":-609,"width":250,"height":60},
+		{"id":"8415866f0db59f28","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たとえようがない.md","x":-2213,"y":-343,"width":400,"height":400},
+		{"id":"fc38cba7d6954bdf","type":"text","text":"ようがない","x":1524,"y":30,"width":140,"height":60},
+		{"id":"eb4177f4ff3f6324","type":"text","text":"ほうかない","x":1602,"y":-361,"width":250,"height":60},
+		{"id":"9a96418d40cb4a67","type":"file","file":"Pasted image 20260410084431.png","x":213,"y":-293,"width":461,"height":229},
+		{"id":"56ce53f6dcf7d9ee","type":"file","file":"Pasted image 20260410084100.png","x":-546,"y":-280,"width":399,"height":204},
+		{"id":"1563a0da17b6bf8c","type":"file","file":"Pasted image 20260412210706.png","x":944,"y":-270,"width":400,"height":219},
+		{"id":"954bf4f613ec79cb","type":"file","file":"Pasted image 20260412210728.png","x":944,"y":90,"width":400,"height":223},
+		{"id":"7f8d8c10102f1019","type":"text","text":"dù muốn làm A nhưng không được, ko có cách làm","x":1944,"y":630,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"038e662d9f7196cb","fromNode":"30a6a4e77f0be978","fromSide":"left","toNode":"e588c96e97dd1721","toSide":"right","label":"ようがない"},
+		{"id":"b990040dbebbe439","fromNode":"1563a0da17b6bf8c","fromSide":"right","toNode":"fc38cba7d6954bdf","toSide":"left","label":"ようがない"},
+		{"id":"87347afbde09c6f1","fromNode":"1563a0da17b6bf8c","fromSide":"right","toNode":"eb4177f4ff3f6324","toSide":"left","label":"ほうかない"},
+		{"id":"6e41615e94ff77e5","fromNode":"39a151701cebe504","fromSide":"bottom","toNode":"1563a0da17b6bf8c","toSide":"top","label":"ようがない"},
+		{"id":"14b8fdae0beb5ff0","fromNode":"e588c96e97dd1721","fromSide":"left","toNode":"8415866f0db59f28","toSide":"right","label":"〜たとえようがない"},
+		{"id":"d03a7510fdc778c0","fromNode":"9a96418d40cb4a67","fromSide":"left","toNode":"56ce53f6dcf7d9ee","toSide":"right","label":"ようがない"},
+		{"id":"00b25802e5686e67","fromNode":"39a151701cebe504","fromSide":"left","toNode":"9a96418d40cb4a67","toSide":"top","label":"ようがない"},
+		{"id":"00cd6ce9f1d5440b","fromNode":"954bf4f613ec79cb","fromSide":"right","toNode":"fc38cba7d6954bdf","toSide":"left","label":"ようがない"},
+		{"id":"b8a46d8c374994bb","fromNode":"fc38cba7d6954bdf","fromSide":"right","toNode":"7f8d8c10102f1019","toSide":"left","label":"Dùng khi nhấn mạnh điều bất khả thi"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b3662b3a7f37a671","type":"file","file":"Pasted image 20261021143704.png","x":-460,"y":-100,"width":399,"height":173},
+		{"id":"a4d312c3e98f5da7","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜一方だ.md","x":180,"y":-780,"width":374,"height":335},
+		{"id":"90b328eea5419449","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～一方だ.md","x":-580,"y":-1100,"width":400,"height":400},
+		{"id":"07f6c75914a3ecdb","type":"text","text":"あがる一方だ","x":304,"y":280,"width":250,"height":60},
+		{"id":"21555e3ec2556017","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方.canvas","x":-428,"y":340,"width":367,"height":264},
+		{"id":"3b3c4ca6a2e5e431","type":"file","file":"Pasted image 20260409001613.png","x":-1360,"y":604,"width":643,"height":331}
+	],
+	"edges":[
+		{"id":"a722027a9742c9dd","fromNode":"b3662b3a7f37a671","fromSide":"right","toNode":"a4d312c3e98f5da7","toSide":"left","color":"5","label":"Ngày càng... (Sự thay đổi theo một chiều hướng)."},
+		{"id":"ad70d18b0339b8f6","fromNode":"90b328eea5419449","fromSide":"right","toNode":"a4d312c3e98f5da7","toSide":"left","color":"4"},
+		{"id":"7708da413fa8f2a4","fromNode":"b3662b3a7f37a671","fromSide":"right","toNode":"07f6c75914a3ecdb","toSide":"left","color":"5","label":"coi \n「一方」 là danh từ"},
+		{"id":"a5c938a92adf2885","fromNode":"3b3c4ca6a2e5e431","fromSide":"right","toNode":"21555e3ec2556017","toSide":"left","color":"3","label":"Vる一方だ"},
+		{"id":"64fccc5cd4663369","fromNode":"21555e3ec2556017","fromSide":"right","toNode":"07f6c75914a3ecdb","toSide":"left","color":"3"}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"7e607112a340013a","type":"group","x":-1174,"y":-258,"width":2349,"height":517,"color":"3","label":"反面　ー　Mặt khác, được mặt này thì mặt kia lại ~"},
+		{"id":"0744e9633e981c7a","type":"text","text":"Aなだ：だー＞な・である\nNだ：だー＞である","x":905,"y":179,"width":250,"height":60},
+		{"id":"843e3c59cbe80fb1","type":"text","text":"普通形＋反面","x":903,"y":69,"width":250,"height":60},
+		{"id":"1e59c2ee83923b90","type":"text","text":"Biểu ý có 2 mặt mang tính chất khác nhau rằng có mặt A, nhưng cũng có cả mặt B","x":529,"y":118,"width":250,"height":107},
+		{"id":"905896364798098a","type":"text","text":"「N3」～反面","x":-91,"y":141,"width":250,"height":60},
+		{"id":"8d8df3e880393e0a","type":"file","file":"Pasted image 20260409001448.png","x":-1154,"y":-238,"width":400,"height":239}
+	],
+	"edges":[
+		{"id":"af2c5900b4b07cdc","fromNode":"1e59c2ee83923b90","fromSide":"right","toNode":"843e3c59cbe80fb1","toSide":"left","label":"反面"},
+		{"id":"fcf9ea2dd5f42744","fromNode":"1e59c2ee83923b90","fromSide":"right","toNode":"0744e9633e981c7a","toSide":"left","label":"反面"},
+		{"id":"ea8d7e1292967403","fromNode":"905896364798098a","fromSide":"right","toNode":"1e59c2ee83923b90","toSide":"left","label":"反面"},
+		{"id":"44e5854591765efe","fromNode":"905896364798098a","fromSide":"left","toNode":"8d8df3e880393e0a","toSide":"right","label":"反面"}
+	]
+}

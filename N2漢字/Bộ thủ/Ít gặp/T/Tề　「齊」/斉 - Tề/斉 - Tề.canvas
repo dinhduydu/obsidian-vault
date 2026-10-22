@@ -1,13 +1,21 @@
 {
 	"nodes":[
-		{"id":"77d6a13b2070c38b","type":"text","text":"斉 - Tề","x":-88,"y":-63,"width":250,"height":60},
 		{"id":"f475c48704017f07","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/Tề　「齊」.canvas","x":-400,"y":-114,"width":160,"height":162},
-		{"id":"f70465f05766af4d","x":320,"y":-340,"width":188,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/済 - Tế.canvas"},
-		{"id":"2772b01669dc1d67","x":329,"y":-3,"width":170,"height":206,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/剤 - Tễ.canvas"}
+		{"id":"f70465f05766af4d","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/済 - Tế.canvas","x":320,"y":-340,"width":188,"height":195},
+		{"id":"2772b01669dc1d67","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Tề　「齊」/斉 - Tề/剤 - Tễ.canvas","x":329,"y":-3,"width":170,"height":206},
+		{"id":"77d6a13b2070c38b","type":"text","text":"斉 - Tề","x":-88,"y":-63,"width":250,"height":60},
+		{"id":"2be34f85f085b727","type":"text","text":"斉 - Tề","x":-88,"y":620,"width":250,"height":60},
+		{"id":"12b26d1fc588556e","x":414,"y":320,"width":258,"height":197,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/いっせいに.md"},
+		{"id":"848376b0fb072d04","x":93,"y":144,"width":138,"height":118,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas"},
+		{"id":"10e235df0b67ffc6","x":60,"y":-396,"width":154,"height":112,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
 	],
 	"edges":[
 		{"id":"fecabd248306b48f","fromNode":"f475c48704017f07","fromSide":"right","toNode":"77d6a13b2070c38b","toSide":"left"},
-		{"id":"8edd575ee9da810e","fromNode":"77d6a13b2070c38b","fromSide":"right","toNode":"f70465f05766af4d","toSide":"left"},
-		{"id":"3f2166a1d7b6ecef","fromNode":"77d6a13b2070c38b","fromSide":"right","toNode":"2772b01669dc1d67","toSide":"left"}
+		{"id":"8edd575ee9da810e","fromNode":"77d6a13b2070c38b","fromSide":"right","toNode":"f70465f05766af4d","toSide":"left","color":"5"},
+		{"id":"3f2166a1d7b6ecef","fromNode":"77d6a13b2070c38b","fromSide":"right","toNode":"2772b01669dc1d67","toSide":"left","color":"5"},
+		{"id":"c6d29b437c1f370c","fromNode":"77d6a13b2070c38b","fromSide":"bottom","toNode":"2be34f85f085b727","toSide":"top","color":"4"},
+		{"id":"28bedcba2905493e","fromNode":"2be34f85f085b727","fromSide":"right","toNode":"12b26d1fc588556e","toSide":"left","color":"5","label":"一斉に"},
+		{"id":"6005dadef1387643","fromNode":"848376b0fb072d04","fromSide":"right","toNode":"2772b01669dc1d67","toSide":"left","color":"2"},
+		{"id":"4d02f4ae0f601673","fromNode":"10e235df0b67ffc6","fromSide":"right","toNode":"f70465f05766af4d","toSide":"left","color":"2"}
 	]
 }

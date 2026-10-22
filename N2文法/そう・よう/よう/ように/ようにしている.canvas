@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"69f9ab8c3a9c7eeb","type":"text","text":"ようにしている","x":-320,"y":91,"width":250,"height":60},
+		{"id":"d6d43e7b28dc1471","type":"text","text":"Dùng khi truyền đạt việc luôn cố gắng làm vì lý do hay mục tiêu nào đó, hoặc để nói về thói quen của mình","x":-680,"y":-130,"width":318,"height":95},
+		{"id":"5828fdd60d83b725","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":159,"y":-329,"width":245,"height":85},
+		{"id":"f46da965b63e136d","type":"text","text":"体のために、野菜をたくさんたべるようにしている。","x":159,"y":-35,"width":250,"height":60},
+		{"id":"7983b7d593cf5dca","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":-70,"y":-209,"width":71,"height":50},
+		{"id":"8d879128cf627aa4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにしている.md","x":320,"y":380,"width":280,"height":120}
+	],
+	"edges":[
+		{"id":"1662a09f145bc2a0","fromNode":"d6d43e7b28dc1471","fromSide":"right","toNode":"69f9ab8c3a9c7eeb","toSide":"left","color":"3"},
+		{"id":"6252418ab9719c0e","fromNode":"5828fdd60d83b725","fromSide":"bottom","toNode":"f46da965b63e136d","toSide":"top","label":"Vている"},
+		{"id":"ab802eb15f9dea80","fromNode":"7983b7d593cf5dca","fromSide":"right","toNode":"f46da965b63e136d","toSide":"left","label":"にする"},
+		{"id":"1f949df65929e0a9","fromNode":"69f9ab8c3a9c7eeb","fromSide":"right","toNode":"f46da965b63e136d","toSide":"left","color":"6"},
+		{"id":"767f62c341bf580f","fromNode":"69f9ab8c3a9c7eeb","fromSide":"right","toNode":"8d879128cf627aa4","toSide":"left","color":"4","label":"Diễn tả sự nỗ lực, cố gắng thực hiện một thói quen hoặc hành động đều đặn."}
+	]
+}

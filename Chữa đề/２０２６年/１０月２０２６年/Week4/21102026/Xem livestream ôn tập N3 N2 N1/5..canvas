@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b3e432bac3422838","type":"file","file":"Pasted image 20261021150343.png","x":0,"y":0,"width":400,"height":167},
+		{"id":"da30c8f070c9cea9","type":"file","file":"Chữa đề/Learning_Profile/Adverb/いっせいに.md","x":740,"y":-300,"width":181,"height":102},
+		{"id":"64810c10cd3cd551","type":"text","text":"うれしい限りだ： vô cùng vui mừng","x":-566,"y":-105,"width":250,"height":60},
+		{"id":"5e725354f4cc4be4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜がちだ.md","x":-844,"y":340,"width":278,"height":193},
+		{"id":"4f0a00cc6aee1b56","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かのようだ.md","x":831,"y":167,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8a7b04c5b0b29845","fromNode":"b3e432bac3422838","fromSide":"top","toNode":"da30c8f070c9cea9","toSide":"left","color":"6","label":"Nhiều đối tượng thực hiện cùng một hành động tại một thời điểm."},
+		{"id":"0d23f2a49081591f","fromNode":"b3e432bac3422838","fromSide":"left","toNode":"64810c10cd3cd551","toSide":"right","color":"1"},
+		{"id":"4525a01b27e25cb9","fromNode":"b3e432bac3422838","fromSide":"left","toNode":"5e725354f4cc4be4","toSide":"right","color":"1","label":"Thường hay..., Có xu hướng... (Apt to / Tend to - dùng cho việc tiêu cực/không tốt).\n\nVます＋がちだ"},
+		{"id":"33c6b28975802fb7","fromNode":"b3e432bac3422838","fromSide":"right","toNode":"4f0a00cc6aee1b56","toSide":"left","label":"Cứ như là... (So sánh ví von một sự việc không có thật trong thực tế)."}
+	]
+}
