@@ -2,18 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 518
-- Total Knowledge Items: 5401
-- Correct: 3273
-- Wrong: 5482
+- Total Reviews: 521
+- Total Knowledge Items: 5417
+- Correct: 3292
+- Wrong: 5520
 - Accuracy: 37.4%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 235| Wrong: 44
 - [[したがって]] | Conjunction| Score: 90| Wrong: 15
+- [[〜ようがない]] | Grammar| Score: 80| Wrong: 13
 - [[〜にもかかわらず]] | Grammar| Score: 80| Wrong: 13
-- [[〜ようがない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
@@ -35,9 +35,9 @@
 
 - [[]] (Vocabulary) Wrong: 44
 - [[したがって]] (Conjunction) Wrong: 15
+- [[〜ようがない]] (Grammar) Wrong: 13
 - [[〜にもかかわらず]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 12
-- [[〜ようがない]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[〜にすぎない]] (Grammar) Wrong: 11
 - [[〜にほかならない]] (Grammar) Wrong: 11
@@ -56,23 +56,23 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 34.7% (Correct 299 / Wrong 562)
+- Adverb: 34.4% (Correct 303 / Wrong 579)
 - Collocation: 36.7% (Correct 137 / Wrong 236)
 - CompoundVerb: 33.1% (Correct 143 / Wrong 289)
 - Conjunction: 24.9% (Correct 62 / Wrong 187)
 - Demonstratives: 9.8% (Correct 8 / Wrong 74)
-- FixedExpression: 34.6% (Correct 185 / Wrong 349)
-- Grammar: 36.3% (Correct 814 / Wrong 1430)
-- Kanji: 42.4% (Correct 318 / Wrong 432)
+- FixedExpression: 34.4% (Correct 186 / Wrong 354)
+- Grammar: 36.3% (Correct 820 / Wrong 1438)
+- Kanji: 42.3% (Correct 323 / Wrong 440)
 - Katakana: 35.9% (Correct 136 / Wrong 243)
-- Keigo: 25.5% (Correct 36 / Wrong 105)
-- Reading: 25.2% (Correct 80 / Wrong 238)
-- Vocabulary: 44.1% (Correct 1055 / Wrong 1337)
+- Keigo: 26.1% (Correct 37 / Wrong 105)
+- Reading: 24.9% (Correct 79 / Wrong 238)
+- Vocabulary: 44.2% (Correct 1058 / Wrong 1337)
 
 ## 📚 Top Grammar
 
+- [[〜ようがない]] (Score: 80)
 - [[〜にもかかわらず]] (Score: 80)
-- [[〜ようがない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
 - [[〜まい]] (Score: 72)
 - [[〜にすぎない]] (Score: 70)
@@ -176,15 +176,15 @@
 ## 📚 Top Adverb
 
 - [[すっかり]] (Score: 55)
+- [[ますます]] (Score: 50)
 - [[さっさと]] (Score: 50)
-- [[ますます]] (Score: 45)
+- [[今にも]] (Score: 45)
 - [[とにかく]] (Score: 40)
 - [[まるで]] (Score: 40)
+- [[とても]] (Score: 40)
+- [[どうも]] (Score: 40)
 - [[とりあえず]] (Score: 40)
 - [[結局]] (Score: 37)
-- [[いきなり]] (Score: 35)
-- [[さっぱり]] (Score: 35)
-- [[むしろ]] (Score: 35)
 
 ## 📚 Top Conjunction
 
