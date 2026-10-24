@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 521
-- Total Knowledge Items: 5417
-- Correct: 3292
-- Wrong: 5520
-- Accuracy: 37.4%
+- Total Reviews: 524
+- Total Knowledge Items: 5426
+- Correct: 3312
+- Wrong: 5530
+- Accuracy: 37.5%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 34.4% (Correct 303 / Wrong 579)
+- Adverb: 34.5% (Correct 307 / Wrong 583)
 - Collocation: 36.7% (Correct 137 / Wrong 236)
 - CompoundVerb: 33.1% (Correct 143 / Wrong 289)
 - Conjunction: 24.9% (Correct 62 / Wrong 187)
 - Demonstratives: 9.8% (Correct 8 / Wrong 74)
 - FixedExpression: 34.4% (Correct 186 / Wrong 354)
 - Grammar: 36.3% (Correct 820 / Wrong 1438)
-- Kanji: 42.3% (Correct 323 / Wrong 440)
-- Katakana: 35.9% (Correct 136 / Wrong 243)
+- Kanji: 42.5% (Correct 324 / Wrong 439)
+- Katakana: 35.9% (Correct 138 / Wrong 246)
 - Keigo: 26.1% (Correct 37 / Wrong 105)
 - Reading: 24.9% (Correct 79 / Wrong 238)
-- Vocabulary: 44.2% (Correct 1058 / Wrong 1337)
+- Vocabulary: 44.4% (Correct 1071 / Wrong 1341)
 
 ## 📚 Top Grammar
 
@@ -91,9 +91,9 @@
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
-- [[傾向]] (Score: 40)
 - [[消火器]] (Score: 40)
 - [[誤解]] (Score: 35)
+- [[負担]] (Score: 35)
 
 ## 📚 Top Kanji
 
