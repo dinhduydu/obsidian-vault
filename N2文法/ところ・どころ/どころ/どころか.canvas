@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"82cf98632cb7b896","type":"file","file":"Pasted image 20260412125732.png","x":200,"y":110,"width":400,"height":381},
+		{"id":"d11ccbd0d056c18d","type":"file","file":"Pasted image 20260412131020.png","x":200,"y":-490,"width":400,"height":397},
+		{"id":"4300b566a6c93d56","type":"file","file":"Pasted image 20260412131925.png","x":-599,"y":194,"width":400,"height":213},
+		{"id":"3c4ca50e4278e7ef","x":1200,"y":362,"width":348,"height":259,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/どころか.md"},
+		{"id":"d8759520bdb47023","x":1860,"y":151,"width":323,"height":211,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それどころか.md"},
+		{"id":"e76c80542948c770","x":660,"y":680,"width":329,"height":239,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜どころか.md"},
+		{"id":"d1154287fd107503","x":1940,"y":621,"width":700,"height":219,"type":"file","file":"Chữa đề/Learning_Profile/Reading/雨は弱まるどころかさらに強さを増している状態だ.md"}
+	],
+	"edges":[
+		{"id":"d1c6f6b389c33d23","fromNode":"82cf98632cb7b896","fromSide":"left","toNode":"4300b566a6c93d56","toSide":"right","label":"どころか"},
+		{"id":"c3b532f91710be82","fromNode":"d11ccbd0d056c18d","fromSide":"bottom","toNode":"82cf98632cb7b896","toSide":"top","label":"どころか"},
+		{"id":"b81cf592fe3c8c25","fromNode":"3c4ca50e4278e7ef","fromSide":"left","toNode":"82cf98632cb7b896","toSide":"right","color":"4"},
+		{"id":"8c79719716daa904","fromNode":"3c4ca50e4278e7ef","fromSide":"right","toNode":"d8759520bdb47023","toSide":"left","color":"5"},
+		{"id":"abdda67b39160bcc","fromNode":"3c4ca50e4278e7ef","fromSide":"left","toNode":"e76c80542948c770","toSide":"right","color":"4"},
+		{"id":"fecc98fbf9f11e83","fromNode":"3c4ca50e4278e7ef","fromSide":"right","toNode":"d1154287fd107503","toSide":"left","color":"6"}
+	]
+}

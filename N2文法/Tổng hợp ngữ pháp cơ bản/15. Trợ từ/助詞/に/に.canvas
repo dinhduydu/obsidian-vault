@@ -143,14 +143,7 @@
 		{"id":"03add3d32a6e628b","type":"text","text":"を通して・を通じて","x":-5501,"y":-84,"width":250,"height":60},
 		{"id":"54fabb2ee97ff69b","type":"text","text":"にわたって・にわたり","x":-5175,"y":-84,"width":250,"height":60},
 		{"id":"c567205c896b30a8","type":"file","file":"Pasted image 20260412131319.png","x":1069,"y":228,"width":399,"height":219},
-		{"id":"07ddc67d63c673c2","type":"file","file":"Pasted image 20260410081805.png","x":1129,"y":1867,"width":400,"height":220},
-		{"id":"7612058076975226","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":1689,"y":2065,"width":400,"height":400},
-		{"id":"9d11c1f07f9a22c0","type":"text","text":"にかけては","x":1730,"y":1807,"width":250,"height":60},
 		{"id":"293d5be22713533e","type":"text","text":"とおりに","x":-1009,"y":1480,"width":250,"height":60},
-		{"id":"73cbfb73fed23f13","type":"text","text":"につれて","x":1730,"y":1237,"width":250,"height":60},
-		{"id":"fd9a47e26ff46cf9","type":"text","text":"Dùng khi muốn truyền đạt về sự biến đổi theo tỷ lệ tương quan","x":2206,"y":1160,"width":250,"height":107},
-		{"id":"a7f5f809506ef20f","type":"file","file":"Pasted image 20260412204644.png","x":889,"y":1206,"width":400,"height":182},
-		{"id":"efa8f435e1f58e29","type":"text","text":"A tiến triển thì B cũng thay đổi","x":2824,"y":1206,"width":250,"height":60},
 		{"id":"f066cdbaf976825d","type":"file","file":"Pasted image 20260427210348.png","x":-7043,"y":-7627,"width":764,"height":167},
 		{"id":"0ee0a0f942d43576","type":"file","file":"Pasted image 20260427205546.png","x":-5980,"y":-7915,"width":400,"height":313},
 		{"id":"55829f4138a671c7","type":"text","text":"Marks a specific point in time\n(Monday, 3pm, 2026, July)","x":-7119,"y":-7799,"width":269,"height":56},
@@ -240,7 +233,9 @@
 		{"id":"194040d653ba77db","type":"text","text":"| 際に       |     |\n| -------- | --- |\n| ～にともなって  |     |\n| ～に関して    |     |\n| ～に反して    |     |\n| めったいに～ない |     |\n| ～くせに     |     |\n| とともに     |     |\n\n","x":-280,"y":3404,"width":730,"height":400},
 		{"id":"6ebf3e256f8bb95f","type":"text","text":"～にともなって","x":-969,"y":4028,"width":250,"height":60},
 		{"id":"bc3acda966feb7eb","type":"text","text":"| ～につき～   |     |\n| ------- | --- |\n| から～にかけて |     |\n| 代わりに    |     |\n| ～最中に    |     |\n| ～について   |     |\n| ～わりに    |     |\n\n\n","x":-4181,"y":3280,"width":730,"height":400},
-		{"id":"b182de46e4de386b","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/による.canvas","x":-180,"y":-2100,"width":276,"height":190}
+		{"id":"7cd60dcda546dbd1","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/にかけては/にかけては.canvas","x":560,"y":1499,"width":400,"height":400},
+		{"id":"b26709a08daaf394","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/につれて/につれて.canvas","x":487,"y":1080,"width":273,"height":180},
+		{"id":"b182de46e4de386b","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/による/による.canvas","x":240,"y":-1640,"width":276,"height":190}
 	],
 	"edges":[
 		{"id":"3518a618fd8a32f1","fromNode":"26c41b7fa7f11dee","fromSide":"bottom","toNode":"52fd98569dafb3c6","toSide":"top","label":"において・における"},
@@ -260,13 +255,11 @@
 		{"id":"d69960f9d6f86d0c","fromNode":"6b7583c13e59afc8","fromSide":"top","toNode":"d9f18dabf23a9f22","toSide":"top","label":"にわったて"},
 		{"id":"644fba32f111763f","fromNode":"d9f18dabf23a9f22","fromSide":"bottom","toNode":"54fabb2ee97ff69b","toSide":"top"},
 		{"id":"7a0edf23fbadb982","fromNode":"d9f18dabf23a9f22","fromSide":"bottom","toNode":"03add3d32a6e628b","toSide":"top"},
-		{"id":"f21e9e58a5a9eece","fromNode":"26c41b7fa7f11dee","fromSide":"right","toNode":"07ddc67d63c673c2","toSide":"top","label":"にかけては"},
-		{"id":"34f58f7c513a1820","fromNode":"07ddc67d63c673c2","fromSide":"right","toNode":"9d11c1f07f9a22c0","toSide":"left"},
+		{"id":"f21e9e58a5a9eece","fromNode":"26c41b7fa7f11dee","fromSide":"right","toNode":"7cd60dcda546dbd1","toSide":"left","color":"5","label":"にかけては"},
 		{"id":"3b0b93c01a090f9f","fromNode":"c6de7f37419e9ba1","fromSide":"bottom","toNode":"a464f7ae2523bef0","toSide":"top","label":"にすぎない"},
 		{"id":"dc84e053f6df9276","fromNode":"64fa92050e2cdea4","fromSide":"right","toNode":"a21293cadbc2c5fd","toSide":"left"},
 		{"id":"44b4d923217aeabd","fromNode":"64fa92050e2cdea4","fromSide":"right","toNode":"1061884bf6d6f84c","toSide":"top"},
 		{"id":"252e1f58061e8be7","fromNode":"64fa92050e2cdea4","fromSide":"right","toNode":"be8f48450caed753","toSide":"left"},
-		{"id":"63d147e9cd44726a","fromNode":"07ddc67d63c673c2","fromSide":"right","toNode":"7612058076975226","toSide":"left"},
 		{"id":"1e577cf6545a62a7","fromNode":"2ff5a2332f23abb2","fromSide":"left","toNode":"c567205c896b30a8","toSide":"left","label":"にしては"},
 		{"id":"1440295d9782b2a7","fromNode":"c567205c896b30a8","fromSide":"right","toNode":"4aececcfd7fdf88a","toSide":"left","label":"にしては"},
 		{"id":"6b4c69de3c9f6713","fromNode":"b4561acb9ba83a27","fromSide":"left","toNode":"c21f268407a453da","toSide":"right","label":"ゆえに"},
@@ -275,7 +268,6 @@
 		{"id":"e4c1778df6b6e644","fromNode":"04437131b1c86ff1","fromSide":"left","toNode":"c9d9f5cd36eb5a40","toSide":"right","label":"に違いない"},
 		{"id":"366d3de2efb755f3","fromNode":"86530a6544cc9ea8","fromSide":"right","toNode":"5213861ee500e136","toSide":"left","label":"にかかわず"},
 		{"id":"95a8dedb68d4f85b","fromNode":"417fd18988526f59","fromSide":"right","toNode":"2efaeea61b5644ee","toSide":"left","label":"にしたら・にすれば・にしても"},
-		{"id":"7690b0d7e853147b","fromNode":"26c41b7fa7f11dee","fromSide":"right","toNode":"a7f5f809506ef20f","toSide":"left","label":"につれて"},
 		{"id":"335be018ed2d9f23","fromNode":"14e5c8d5f4c3dfdb","fromSide":"right","toNode":"f2cd76fff7bd2f57","toSide":"right","label":"に基（もと）づいて"},
 		{"id":"c4abea8d0d282bc8","fromNode":"2b658f754268e6c4","fromSide":"top","toNode":"e785d1f109152f5a","toSide":"right","label":"に決まってる"},
 		{"id":"74b081ddd93b256a","fromNode":"b4561acb9ba83a27","fromSide":"top","toNode":"86530a6544cc9ea8","toSide":"left","label":"にかかわらず"},
@@ -380,9 +372,6 @@
 		{"id":"354a5e6e82b2322d","fromNode":"ff79c950912d9270","fromSide":"bottom","toNode":"a22402f7ab247dec","toSide":"top","label":"代わりに"},
 		{"id":"1c35b4cc1c9d3446","fromNode":"ff79c950912d9270","fromSide":"top","toNode":"6b598c86fa48a9aa","toSide":"left","label":"とともに"},
 		{"id":"87d83698b5015196","fromNode":"ff79c950912d9270","fromSide":"top","toNode":"4baafea772a6e735","toSide":"bottom","label":"～くせに"},
-		{"id":"60a85a976e96e38e","fromNode":"a7f5f809506ef20f","fromSide":"right","toNode":"73cbfb73fed23f13","toSide":"left","label":"につれて"},
-		{"id":"08f3fb7c71fca120","fromNode":"73cbfb73fed23f13","fromSide":"right","toNode":"fd9a47e26ff46cf9","toSide":"left"},
-		{"id":"439a552c4c8d7286","fromNode":"fd9a47e26ff46cf9","fromSide":"right","toNode":"efa8f435e1f58e29","toSide":"left"},
 		{"id":"d8eeb66723f51ded","fromNode":"ff79c950912d9270","fromSide":"left","toNode":"f1497391efab80c6","toSide":"right","label":"～について"},
 		{"id":"e5a611f244dec0e4","fromNode":"480bf6c26036c38d","fromSide":"right","toNode":"1ff283711b005928","toSide":"left","label":"～際に"},
 		{"id":"bdba084cfd10e01d","fromNode":"d7c410f62678f910","fromSide":"bottom","toNode":"1ff283711b005928","toSide":"left","label":"に際して"},
@@ -486,6 +475,7 @@
 		{"id":"9940d201831b6c9d","fromNode":"04437131b1c86ff1","fromSide":"left","toNode":"6fc9ce1f32a37f87","toSide":"right","label":"に向かって"},
 		{"id":"0e52deacd26fd1ae","fromNode":"6fc9ce1f32a37f87","fromSide":"left","toNode":"b0b49ff708f55a33","toSide":"right","label":"に向かって"},
 		{"id":"74856f35fbe083c7","fromNode":"1f2232250a1862f2","fromSide":"left","toNode":"98a65bac3da4dd88","toSide":"right"},
-		{"id":"ca11a87474fecf5f","fromNode":"888232e05f82701a","fromSide":"top","toNode":"b182de46e4de386b","toSide":"left","label":"による"}
+		{"id":"ca11a87474fecf5f","fromNode":"888232e05f82701a","fromSide":"top","toNode":"b182de46e4de386b","toSide":"left","color":"5","label":"による"},
+		{"id":"7690b0d7e853147b","fromNode":"26c41b7fa7f11dee","fromSide":"right","toNode":"b26709a08daaf394","toSide":"left","color":"5","label":"につれて"}
 	]
 }

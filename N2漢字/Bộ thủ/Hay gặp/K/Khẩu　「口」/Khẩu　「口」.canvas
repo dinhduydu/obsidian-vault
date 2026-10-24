@@ -16,7 +16,20 @@
 		{"id":"c84ecdb0c0810c0d","type":"text","text":"Khẩu　「口」","x":1960,"y":-614,"width":250,"height":60},
 		{"id":"1ab3273237e1e81b","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/P/Phu　「夫」/Phu　「夫」.canvas","x":1929,"y":-1200,"width":156,"height":126},
 		{"id":"51c729246238faa9","type":"file","file":"Pasted image 20260928205921.png","x":1482,"y":-413,"width":283,"height":400},
-		{"id":"93fa1bc7f61ce1a6","x":1000,"y":-800,"width":400,"height":300,"type":"file","file":"Pasted image 20260928211128.png"}
+		{"id":"93fa1bc7f61ce1a6","type":"file","file":"Pasted image 20260928211128.png","x":1000,"y":-800,"width":400,"height":300},
+		{"id":"6eba28500ecced33","x":700,"y":880,"width":400,"height":266,"type":"file","file":"Pasted image 20261024164732.png"},
+		{"id":"516bbab165180423","x":700,"y":1146,"width":400,"height":260,"type":"file","file":"Pasted image 20261024164739.png"},
+		{"id":"b521b6b622816eec","x":700,"y":1406,"width":400,"height":264,"type":"file","file":"Pasted image 20261024164744.png"},
+		{"id":"dbc1a4f336522b6d","x":1500,"y":892,"width":400,"height":254,"type":"file","file":"Pasted image 20261024164808.png"},
+		{"id":"abb6db6a7430cd7f","x":1100,"y":1409,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164801.png"},
+		{"id":"2fd776bf93bdcbf8","x":1100,"y":1146,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164757.png"},
+		{"id":"3ab3023f9ac7d546","x":1500,"y":1144,"width":400,"height":258,"type":"file","file":"Pasted image 20261024164822.png"},
+		{"id":"8b5347d6868073e8","x":1500,"y":1410,"width":400,"height":258,"type":"file","file":"Pasted image 20261024164827.png"},
+		{"id":"28f210e74b7647da","x":1900,"y":892,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164834.png"},
+		{"id":"5d6758379f0ab7c3","x":1900,"y":1150,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164839.png"},
+		{"id":"17886192a0603193","x":1900,"y":1402,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164843.png"},
+		{"id":"952f05b89de294c0","x":1100,"y":539,"width":400,"height":264,"type":"file","file":"Pasted image 20261024164752.png"},
+		{"id":"e5f13b198f1272cd","x":1100,"y":280,"width":400,"height":259,"type":"file","file":"Pasted image 20261024164854.png"}
 	],
 	"edges":[
 		{"id":"2c1e99c616febfc9","fromNode":"68a738dca89dd93d","fromSide":"right","toNode":"a1bed289ff68db26","toSide":"left"},

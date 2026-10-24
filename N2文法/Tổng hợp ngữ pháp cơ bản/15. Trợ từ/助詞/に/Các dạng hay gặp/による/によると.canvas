@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"df5f609a28996d08","type":"group","x":-241,"y":230,"width":383,"height":260,"color":"1","label":"Căn cứ theo 1 nguồn thông tin"},
+		{"id":"6d7a0a7e49761a55","type":"text","text":"天気予報によると、明日台風が関西に近づくらしい。","x":259,"y":44,"width":442,"height":69},
+		{"id":"3e17bb0d2abdd658","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/それによると.md","x":241,"y":-489,"width":239,"height":172},
+		{"id":"2dc4739e270a52bc","type":"text","text":"によると","x":-700,"y":-177,"width":250,"height":60},
+		{"id":"6dd4b37ce5e44bc6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜によると.md","x":-161,"y":-364,"width":204,"height":94},
+		{"id":"e1de3dcb9ca8bcbb","type":"text","text":"にくると","x":-221,"y":250,"width":250,"height":60},
+		{"id":"5c636df96d3dc291","type":"text","text":"によれば","x":-221,"y":390,"width":250,"height":60},
+		{"id":"5cb630b88888b2ff","x":-1220,"y":-406,"width":250,"height":179,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/による/による.canvas"}
+	],
+	"edges":[
+		{"id":"6edcd71f5607ac30","fromNode":"2dc4739e270a52bc","fromSide":"right","toNode":"df5f609a28996d08","toSide":"left","color":"1","label":"Căn cứ theo 1 nguồn thông tin"},
+		{"id":"57453e4885bf40b3","fromNode":"6dd4b37ce5e44bc6","fromSide":"right","toNode":"6d7a0a7e49761a55","toSide":"left","color":"6","label":"によると"},
+		{"id":"8c9bfe8ea8073a8f","fromNode":"6dd4b37ce5e44bc6","fromSide":"right","toNode":"3e17bb0d2abdd658","toSide":"left","color":"5"},
+		{"id":"d9af3e230dd2ad99","fromNode":"2dc4739e270a52bc","fromSide":"right","toNode":"6dd4b37ce5e44bc6","toSide":"left","color":"4","label":"Cho biết nguồn tin trong câu kể lại đều nghe được"},
+		{"id":"60b89d8df4889ed9","fromNode":"5cb630b88888b2ff","fromSide":"right","toNode":"2dc4739e270a52bc","toSide":"left"}
+	]
+}

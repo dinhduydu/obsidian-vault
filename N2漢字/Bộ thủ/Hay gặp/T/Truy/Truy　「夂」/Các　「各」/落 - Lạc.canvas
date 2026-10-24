@@ -1,15 +1,41 @@
 {
 	"nodes":[
-		{"id":"61bc23efd420c671","x":-132,"y":-13,"width":250,"height":60,"type":"text","text":"落 - Lạc"},
-		{"id":"147a179141772477","x":-727,"y":-189,"width":250,"height":60,"type":"text","text":"rơi xuống"},
-		{"id":"9e118de1de93273b","x":-633,"y":47,"width":156,"height":163,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas"},
-		{"id":"4903d11215c0ccca","x":-380,"y":-245,"width":144,"height":86,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas"},
-		{"id":"d5727b07aab37d25","x":-860,"y":-48,"width":161,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"61bc23efd420c671","type":"text","text":"落 - Lạc","x":-132,"y":-13,"width":250,"height":60},
+		{"id":"147a179141772477","type":"text","text":"rơi xuống","x":-727,"y":-189,"width":250,"height":60},
+		{"id":"9e118de1de93273b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「夂」/Các　「各」/Các　「各」.canvas","x":-633,"y":47,"width":156,"height":163},
+		{"id":"4903d11215c0ccca","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thảo　「艸 (艹)」/Thảo　「艸 (艹)」.canvas","x":-380,"y":-245,"width":144,"height":86},
+		{"id":"d5727b07aab37d25","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-860,"y":-48,"width":161,"height":131},
+		{"id":"06082869a9025867","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/落差.md","x":380,"y":-380,"width":267,"height":144},
+		{"id":"a059161a7f8b1b22","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/落ちる (Tự động từ).md","x":410,"y":320,"width":350,"height":235},
+		{"id":"a8d5922289f3b473","type":"file","file":"Chữa đề/Learning_Profile/Collocation/質が落ちる.md","x":1060,"y":900,"width":400,"height":236},
+		{"id":"39c9e2517932ae62","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/落ち込む.md","x":1460,"y":480,"width":340,"height":201},
+		{"id":"24a1f98037adc0ef","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/欠落.md","x":404,"y":-1120,"width":356,"height":218},
+		{"id":"2229fa946c1fbde2","type":"text","text":"落とす","x":-840,"y":1280,"width":250,"height":60},
+		{"id":"69339f414b6e4051","type":"file","file":"Chữa đề/Learning_Profile/Collocation/さびを落とす.md","x":-120,"y":1080,"width":360,"height":180},
+		{"id":"cbf93be1a7db1452","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/見落とす.md","x":-120,"y":1460,"width":324,"height":140},
+		{"id":"192b5ed9ffd138fd","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/雷を落とす.md","x":-120,"y":1740,"width":321,"height":173},
+		{"id":"1e25371162a3e509","type":"file","file":"Chữa đề/Learning_Profile/Reading/落ち葉の危険性と枝切りの一番の理由.md","x":1900,"y":40,"width":670,"height":147},
+		{"id":"5ee7aa3752d55596","type":"file","file":"Chữa đề/Learning_Profile/Reading/鏡と現実の自分の落差.md","x":2320,"y":-346,"width":320,"height":76},
+		{"id":"3c0f31b527f3c806","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/落ち着く.md","x":920,"y":-754,"width":340,"height":180},
+		{"id":"727ae4f8995cb542","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/落ち着いた.md","x":1760,"y":-1011,"width":280,"height":154}
 	],
 	"edges":[
-		{"id":"e60482e971069d70","fromNode":"147a179141772477","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
-		{"id":"9e623f5004961d04","fromNode":"9e118de1de93273b","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
-		{"id":"6c55396b8d6c842a","fromNode":"4903d11215c0ccca","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"},
-		{"id":"b3b3206ac82b20f4","fromNode":"d5727b07aab37d25","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left"}
+		{"id":"e60482e971069d70","fromNode":"147a179141772477","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left","color":"2"},
+		{"id":"9e623f5004961d04","fromNode":"9e118de1de93273b","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left","color":"5"},
+		{"id":"6c55396b8d6c842a","fromNode":"4903d11215c0ccca","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left","color":"3"},
+		{"id":"b3b3206ac82b20f4","fromNode":"d5727b07aab37d25","fromSide":"right","toNode":"61bc23efd420c671","toSide":"left","color":"3"},
+		{"id":"f47ffbfc8d0a77e9","fromNode":"61bc23efd420c671","fromSide":"right","toNode":"06082869a9025867","toSide":"left","color":"6","label":"Gap, disparity, drop / Khoảng cách, sự chênh lệch, sự chênh lệch mức độ."},
+		{"id":"83f7284fc182b5fd","fromNode":"a059161a7f8b1b22","fromSide":"right","toNode":"39c9e2517932ae62","toSide":"left","label":"Buồn bã, suy sụp tinh thần."},
+		{"id":"fe0b358cadf6a356","fromNode":"06082869a9025867","fromSide":"right","toNode":"3c0f31b527f3c806","toSide":"left","label":"Bình tĩnh, ổn định."},
+		{"id":"5aa7bd4b0b44d653","fromNode":"3c0f31b527f3c806","fromSide":"right","toNode":"727ae4f8995cb542","toSide":"left","label":"Điềm tĩnh, thanh thản, (giọng nói) trầm ấm."},
+		{"id":"b3cccaf3ce7fea79","fromNode":"61bc23efd420c671","fromSide":"right","toNode":"24a1f98037adc0ef","toSide":"left","color":"6","label":" Sự thiếu sót, khiếm khuyết (thông tin)."},
+		{"id":"2de406021e4813f3","fromNode":"61bc23efd420c671","fromSide":"right","toNode":"a059161a7f8b1b22","toSide":"left","color":"6","label":"Rơi, rớt (Hành động tự nhiên)."},
+		{"id":"59b086348bf57bb6","fromNode":"a059161a7f8b1b22","fromSide":"right","toNode":"1e25371162a3e509","toSide":"left","label":" Identifying the primary reason for requesting tree trimming based on safety hazards / Đọc hiểu lý do quan trọng nhất khi xin cắt cành cây dựa trên từ nối nhấn mạnh."},
+		{"id":"459efc109ae7e0e7","fromNode":"a059161a7f8b1b22","fromSide":"right","toNode":"a8d5922289f3b473","toSide":"left","label":"Chất lượng giảm sút."},
+		{"id":"9067912e2c7860d7","fromNode":"61bc23efd420c671","fromSide":"bottom","toNode":"2229fa946c1fbde2","toSide":"top","color":"6"},
+		{"id":"64abfc81921eedbe","fromNode":"2229fa946c1fbde2","fromSide":"right","toNode":"69339f414b6e4051","toSide":"left","color":"6"},
+		{"id":"6d0234b17d6eed46","fromNode":"2229fa946c1fbde2","fromSide":"right","toNode":"cbf93be1a7db1452","toSide":"left","color":"6"},
+		{"id":"cc1d53825e3476ec","fromNode":"2229fa946c1fbde2","fromSide":"right","toNode":"192b5ed9ffd138fd","toSide":"left","color":"6"},
+		{"id":"65134e73b9174753","fromNode":"06082869a9025867","fromSide":"right","toNode":"5ee7aa3752d55596","toSide":"left","label":"Comprehending the gap between one's mirror reflection and real appearance / Đọc hiểu sự chênh lệch giữa khuôn mặt khi soi gương và khuôn mặt thực tế trong đời sống."}
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e9aca5ff444f18c9","type":"file","file":"Pasted image 20260412125744.png","x":780,"y":-310,"width":400,"height":382},
+		{"id":"c50daacf3c3c5260","type":"file","file":"Pasted image 20260412213437.png","x":-1180,"y":49,"width":480,"height":262},
+		{"id":"d41e7a20f0892750","type":"file","file":"Pasted image 20260412130521.png","x":-1099,"y":-162,"width":399,"height":87},
+		{"id":"514d213f137a197c","type":"file","file":"Pasted image 20260412212705.png","x":-219,"y":-162,"width":400,"height":97}
+	],
+	"edges":[
+		{"id":"d450082553f72eca","fromNode":"e9aca5ff444f18c9","fromSide":"left","toNode":"514d213f137a197c","toSide":"right","label":"どころではない"},
+		{"id":"e035f6983c2f6090","fromNode":"514d213f137a197c","fromSide":"left","toNode":"c50daacf3c3c5260","toSide":"right","label":"どころではない"},
+		{"id":"f95d11643734a040","fromNode":"514d213f137a197c","fromSide":"left","toNode":"d41e7a20f0892750","toSide":"right","label":"どころではない"}
+	]
+}

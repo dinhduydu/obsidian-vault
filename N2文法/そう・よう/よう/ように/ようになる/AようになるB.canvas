@@ -15,7 +15,10 @@
 		{"id":"397a26cd8f913d39","type":"text","text":"ようになくなる","x":-811,"y":420,"width":250,"height":60},
 		{"id":"ad25378876333d4d","type":"text","text":"Trước đó là có, nhưng bây giờ là không có","x":-414,"y":420,"width":250,"height":60},
 		{"id":"b7bec61067352329","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようになる.md","x":-1740,"y":-320,"width":231,"height":127},
-		{"id":"0bc8bca74d46af13","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/食えるようになる.md","x":-2280,"y":-560,"width":262,"height":176}
+		{"id":"0bc8bca74d46af13","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/食えるようになる.md","x":-2280,"y":-560,"width":262,"height":176},
+		{"id":"22eb3aaf12f419f3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようになる.md","x":-761,"y":840,"width":400,"height":400},
+		{"id":"13815f68590e9c02","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/食えるようになる.md","x":158,"y":840,"width":337,"height":247},
+		{"id":"98d691b7c67b6e56","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ように + なる_なっている.md","x":-60,"y":1320,"width":339,"height":296}
 	],
 	"edges":[
 		{"id":"2281fa52af0b4b80","fromNode":"660966c5d6cb9315","fromSide":"right","toNode":"520ea4e9ae8bb887","toSide":"left"},
@@ -32,6 +35,9 @@
 		{"id":"be68d430f79e7c9e","fromNode":"660966c5d6cb9315","fromSide":"right","toNode":"5c3efe2b4e906af4","toSide":"left"},
 		{"id":"465e7ea76f120609","fromNode":"397a26cd8f913d39","fromSide":"right","toNode":"ad25378876333d4d","toSide":"left"},
 		{"id":"875904ccbaffccbc","fromNode":"d1bb13ba973cb4df","fromSide":"left","toNode":"b7bec61067352329","toSide":"right","color":"4","label":"Come to be able to, reach a point where / Trở nên có thể, dần dần làm được."},
-		{"id":"5f96a8958d65a1f8","fromNode":"b7bec61067352329","fromSide":"left","toNode":"0bc8bca74d46af13","toSide":"right","color":"6","label":"Có thể kiếm sống được."}
+		{"id":"5f96a8958d65a1f8","fromNode":"b7bec61067352329","fromSide":"left","toNode":"0bc8bca74d46af13","toSide":"right","color":"6","label":"Có thể kiếm sống được."},
+		{"id":"ab803075fe67a572","fromNode":"d1bb13ba973cb4df","fromSide":"bottom","toNode":"22eb3aaf12f419f3","toSide":"left","label":"〜ようになる\n\nCome to be able to, reach a point where / Trở nên có thể, dần dần làm được."},
+		{"id":"b80e74007c3face9","fromNode":"22eb3aaf12f419f3","fromSide":"right","toNode":"13815f68590e9c02","toSide":"left","label":"Có thể kiếm sống được."},
+		{"id":"f0fd9335f929f434","fromNode":"22eb3aaf12f419f3","fromSide":"right","toNode":"98d691b7c67b6e56","toSide":"left"}
 	]
 }

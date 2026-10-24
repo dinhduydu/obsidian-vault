@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bfe3636e84ebcef9","type":"file","file":"Chữa đề/Learning_Profile/Collocation/遠くを見るようにする.md","x":640,"y":300,"width":366,"height":301},
+		{"id":"152ea7fba86f12e8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにする.md","x":760,"y":-250,"width":347,"height":161},
+		{"id":"415d63a35553be12","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにしている.md","x":1520,"y":-600,"width":371,"height":184},
+		{"id":"3202c0de831f8876","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにしておく.md","x":1580,"y":60,"width":348,"height":192},
+		{"id":"df9b6eee5596f880","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ようにする.md","x":-740,"y":-169,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c4ea5228cfbdfcdc","fromNode":"df9b6eee5596f880","fromSide":"right","toNode":"152ea7fba86f12e8","toSide":"left","color":"4","label":"Try to, make an effort to / Cố gắng, nỗ lực để làm (hoặc không làm)."},
+		{"id":"ada8ff01bcfcd77f","fromNode":"df9b6eee5596f880","fromSide":"right","toNode":"bfe3636e84ebcef9","toSide":"left","color":"6","label":"Tập thói quen nhìn ra xa (To make a habit of looking into the distance)."},
+		{"id":"a28e96cb2359653b","fromNode":"152ea7fba86f12e8","fromSide":"right","toNode":"415d63a35553be12","toSide":"left","color":"5","label":"Diễn tả sự nỗ lực, cố gắng thực hiện một thói quen hoặc hành động đều đặn."},
+		{"id":"b9f6c928d1069eb2","fromNode":"152ea7fba86f12e8","fromSide":"right","toNode":"3202c0de831f8876","toSide":"left","color":"5","label":"Làm sẵn cái gì đó để... (phục vụ mục đích sau này)."}
+	]
+}

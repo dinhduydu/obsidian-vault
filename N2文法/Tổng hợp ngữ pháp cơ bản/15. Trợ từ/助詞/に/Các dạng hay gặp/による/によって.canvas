@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"8bad1e1f01784223","type":"text","text":"によって","x":-1159,"y":620,"width":250,"height":59},
+		{"id":"e5a111a995214e97","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜によって...はじめて.md","x":-80,"y":-683,"width":313,"height":181},
+		{"id":"0ea59093d6376a28","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜によってしか.md","x":233,"y":-243,"width":284,"height":95},
+		{"id":"949121007ac05cb6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜によって.md","x":-600,"y":237,"width":231,"height":88},
+		{"id":"90d7a0a90ec9c0e1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜によって（は）.md","x":358,"y":198,"width":319,"height":166},
+		{"id":"a1257c5394cb7fa2","type":"text","text":"`N + によって（は）`. Thường vế sau đi với khả năng `〜かもしれない`.","x":820,"y":110,"width":339,"height":88},
+		{"id":"4227c14eeb8636f0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かもしれない.md","x":397,"y":-43,"width":242,"height":103},
+		{"id":"24af1c46493c59d8","type":"text","text":"4. A là nguyên nhân","x":-2020,"y":1,"width":250,"height":60},
+		{"id":"ecdcffadccd04129","type":"text","text":"2. Lấy A làm phương thức","x":-2060,"y":400,"width":250,"height":60},
+		{"id":"10144148ce581dbb","type":"file","file":"Pasted image 20260410081531.png","x":-2135,"y":679,"width":400,"height":224}
+	],
+	"edges":[
+		{"id":"b7a7d9207e8314da","fromNode":"8bad1e1f01784223","fromSide":"right","toNode":"949121007ac05cb6","toSide":"left","color":"4","label":"3. Bằng cách, thông qua (phương tiện, phương pháp)."},
+		{"id":"3d2ac175ea7b0963","fromNode":"949121007ac05cb6","fromSide":"right","toNode":"e5a111a995214e97","toSide":"left","color":"6","label":"3. Diễn tả ý nghĩa \"nhờ vào việc... mà lần đầu tiên/mới có thể...\", nhấn mạnh phương tiện dẫn đến một khả năng mới."},
+		{"id":"1848ebad515efed9","fromNode":"949121007ac05cb6","fromSide":"right","toNode":"0ea59093d6376a28","toSide":"left","color":"6"},
+		{"id":"b9e188901026bb17","fromNode":"ecdcffadccd04129","fromSide":"right","toNode":"8bad1e1f01784223","toSide":"left","color":"3","label":" によって"},
+		{"id":"5c232da358a05e32","fromNode":"24af1c46493c59d8","fromSide":"right","toNode":"8bad1e1f01784223","toSide":"left","color":"3","label":" によって"},
+		{"id":"5b49cb19e41f0d81","fromNode":"949121007ac05cb6","fromSide":"right","toNode":"90d7a0a90ec9c0e1","toSide":"left","color":"6","label":"1. Tùy thuộc vào... / Tùy theo... (Depending on)."},
+		{"id":"81f88518f61c7aac","fromNode":"90d7a0a90ec9c0e1","fromSide":"right","toNode":"a1257c5394cb7fa2","toSide":"left","color":"3"},
+		{"id":"c5feb50bdf65a2e9","fromNode":"4227c14eeb8636f0","fromSide":"right","toNode":"a1257c5394cb7fa2","toSide":"left","color":"2"},
+		{"id":"8785263dc2431d1c","fromNode":"10144148ce581dbb","fromSide":"right","toNode":"8bad1e1f01784223","toSide":"left","color":"3"}
+	]
+}

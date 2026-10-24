@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ec455c035442228e","type":"group","x":-267,"y":-234,"width":934,"height":598,"color":"6","label":"〜次第 (Ngay sau khi)"},
+		{"id":"009bffffdaaad932","type":"file","file":"Pasted image 20260409080102.png","x":248,"y":186,"width":399,"height":158},
+		{"id":"0f4096eab8f0d3f7","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第.md","x":-227,"y":-69,"width":330,"height":255},
+		{"id":"762aabac50924053","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas","x":-667,"y":-363,"width":245,"height":164},
+		{"id":"1e8bf7f445e750b9","type":"file","file":"Chữa đề/Learning_Profile/Grammar/V-masu + 次第 (Ngay sau khi).md","x":-1068,"y":218,"width":401,"height":252}
+	],
+	"edges":[
+		{"id":"826be72442483b31","fromNode":"ec455c035442228e","fromSide":"left","toNode":"762aabac50924053","toSide":"right","label":"Vます"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"495aca1f3311120d","type":"group","x":-412,"y":-446,"width":824,"height":893,"color":"5","label":"〜次第だ　ー　Tuỳ thuộc vào"},
+		{"id":"5f7a29238b720a97","type":"text","text":"次第だ","x":142,"y":350,"width":250,"height":64},
+		{"id":"7ac335d8f9c07257","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第だ.md","x":-392,"y":94,"width":400,"height":333},
+		{"id":"62892403358f5e0d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第です.md","x":-392,"y":-351,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d9f23195ddaf176a","fromNode":"5f7a29238b720a97","fromSide":"left","toNode":"7ac335d8f9c07257","toSide":"right"},
+		{"id":"275280612ac6aa55","fromNode":"5f7a29238b720a97","fromSide":"left","toNode":"62892403358f5e0d","toSide":"right"}
+	]
+}

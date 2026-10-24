@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2ca7388afe1c4e65","type":"group","x":-942,"y":-370,"width":1885,"height":740,"color":"2","label":"次第では　ー　Tùy vào... mà có thể"},
+		{"id":"02d74e56585aa114","type":"text","text":"次第で","x":593,"y":-320,"width":250,"height":60},
+		{"id":"394c36f3142c6bad","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第で.md","x":81,"y":-290,"width":400,"height":400},
+		{"id":"182376bb31c411b6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜次第では.md","x":-537,"y":-130,"width":400,"height":480}
+	],
+	"edges":[
+		{"id":"4f057aadacbdc0c2","fromNode":"02d74e56585aa114","fromSide":"left","toNode":"394c36f3142c6bad","toSide":"right"},
+		{"id":"5552ab85f04ef995","fromNode":"394c36f3142c6bad","fromSide":"left","toNode":"182376bb31c411b6","toSide":"right"}
+	]
+}

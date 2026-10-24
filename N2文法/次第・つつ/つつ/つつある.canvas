@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2fecaa29b5be9c14","type":"text","text":"つつある","x":195,"y":-60,"width":250,"height":60},
+		{"id":"449d812238ed6b01","type":"file","file":"Pasted image 20260412132028.png","x":-445,"y":-105,"width":400,"height":210},
+		{"id":"69796aa3cb29f09a","x":-360,"y":-460,"width":352,"height":260,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜つつある.md"}
+	],
+	"edges":[
+		{"id":"154b896ab4d78354","fromNode":"2fecaa29b5be9c14","fromSide":"left","toNode":"449d812238ed6b01","toSide":"right","label":"つつある"},
+		{"id":"ca1a14355609e51b","fromNode":"2fecaa29b5be9c14","fromSide":"left","toNode":"69796aa3cb29f09a","toSide":"right"}
+	]
+}

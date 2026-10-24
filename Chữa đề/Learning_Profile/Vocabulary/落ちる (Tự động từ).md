@@ -18,5 +18,7 @@ Priority: Low
 
 <!-- USER_START -->
 
+Vocabulary | 落ちる (Tự động từ)
 
+Rơi, rớt (Hành động tự nhiên).
 <!-- USER_END -->

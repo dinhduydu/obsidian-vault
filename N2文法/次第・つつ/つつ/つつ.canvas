@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9061202243ceef57","type":"file","file":"Pasted image 20260410081859.png","x":220,"y":-380,"width":400,"height":227},
+		{"id":"6889be25c38dd1dc","type":"file","file":"N2文法/挙句・すえ/末.canvas","x":-445,"y":-787,"width":400,"height":400},
+		{"id":"7e124795c2f538d7","type":"text","text":"つつ","x":940,"y":-296,"width":250,"height":60},
+		{"id":"71405f4419bf588b","type":"file","file":"Pasted image 20260412132335.png","x":1240,"y":20,"width":399,"height":215},
+		{"id":"c3f1d91261d4803a","type":"text","text":"　mặc dù","x":1198,"y":-816,"width":250,"height":60},
+		{"id":"a7ab0065da89bf0e","type":"file","file":"N2文法/次第・つつ/つつ/つつある.canvas","x":-445,"y":-80,"width":252,"height":157},
+		{"id":"121dd9f2f965857e","type":"file","file":"N2文法/次第・つつ/つつ/つつながら.canvas","x":558,"y":-580,"width":191,"height":144},
+		{"id":"e3789b2371a2065b","x":2320,"y":-466,"width":400,"height":400,"type":"file","file":"N2文法/次第・つつ/つつ/つつ（も）.canvas"}
+	],
+	"edges":[
+		{"id":"ebe1a4158c327ea1","fromNode":"9061202243ceef57","fromSide":"left","toNode":"6889be25c38dd1dc","toSide":"right"},
+		{"id":"2ebd30dc88ba4209","fromNode":"9061202243ceef57","fromSide":"left","toNode":"a7ab0065da89bf0e","toSide":"right","color":"5","label":"つつある"},
+		{"id":"aaef0827af147599","fromNode":"7e124795c2f538d7","fromSide":"left","toNode":"9061202243ceef57","toSide":"right"},
+		{"id":"854631f0f3425f70","fromNode":"7e124795c2f538d7","fromSide":"bottom","toNode":"71405f4419bf588b","toSide":"left","label":"つつ"},
+		{"id":"e5fb1b529c782af2","fromNode":"7e124795c2f538d7","fromSide":"top","toNode":"121dd9f2f965857e","toSide":"right","label":"つつながら"},
+		{"id":"6e8ff6a7b361b54e","fromNode":"7e124795c2f538d7","fromSide":"top","toNode":"c3f1d91261d4803a","toSide":"bottom","label":"つつ"},
+		{"id":"58d96d03deee4b86","fromNode":"7e124795c2f538d7","fromSide":"right","toNode":"e3789b2371a2065b","toSide":"left","label":" Mặc dù A nhưng B (Dù suy nghĩ/biết A nhưng hành động B lại trái ngược)."}
+	]
+}

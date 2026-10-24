@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4e66103b665412e3","type":"file","file":"Pasted image 20260410081531.png","x":-1331,"y":228,"width":400,"height":224},
+		{"id":"70c2ca005310c653","type":"text","text":"Nによると","x":-1720,"y":60,"width":250,"height":60},
+		{"id":"785984675b4abfdc","x":-480,"y":60,"width":279,"height":221,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/による/によると.canvas"},
+		{"id":"97763d5ac0566169","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/による/によって.canvas","x":-520,"y":-500,"width":359,"height":228}
+	],
+	"edges":[
+		{"id":"6caf10f2e2c84094","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"97763d5ac0566169","toSide":"left","color":"5","label":"によって"},
+		{"id":"4e901eb61d31e356","fromNode":"4e66103b665412e3","fromSide":"right","toNode":"785984675b4abfdc","toSide":"left","color":"5","label":"によると"},
+		{"id":"3b34b4452f576294","fromNode":"70c2ca005310c653","fromSide":"right","toNode":"4e66103b665412e3","toSide":"left","color":"3","label":"によると"}
+	]
+}

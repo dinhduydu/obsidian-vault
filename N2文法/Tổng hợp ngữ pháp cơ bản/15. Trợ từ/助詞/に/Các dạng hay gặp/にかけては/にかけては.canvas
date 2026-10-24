@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a4aeda9cc61af292","type":"file","file":"Pasted image 20260410081805.png","x":-480,"y":-269,"width":400,"height":220},
+		{"id":"70e8f6ade7dadd5f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にかけては.md","x":-1140,"y":-680,"width":290,"height":194},
+		{"id":"4a57e9ce73bcbae6","type":"text","text":"Vế sau thường đi với thành ngữ đánh giá cao như `右に出るものはいない`, `引けを取らない`.","x":102,"y":-560,"width":538,"height":75}
+	],
+	"edges":[
+		{"id":"c8f4b851fcd2b28d","fromNode":"a4aeda9cc61af292","fromSide":"right","toNode":"4a57e9ce73bcbae6","toSide":"left","color":"6"},
+		{"id":"1396a4392b40af9f","fromNode":"70e8f6ade7dadd5f","fromSide":"right","toNode":"a4aeda9cc61af292","toSide":"left","color":"4","label":"Nếu nói về mặt / riêng về mặt... thì (nói về khía cạnh năng lực đỉnh nhất) (When it comes to...)."}
+	]
+}

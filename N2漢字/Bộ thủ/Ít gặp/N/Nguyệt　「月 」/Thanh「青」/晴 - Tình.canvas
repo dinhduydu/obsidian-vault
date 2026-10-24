@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"0c2facce8a0e3ed4","x":-185,"y":-25,"width":250,"height":60,"type":"text","text":"晴 - Tình"},
-		{"id":"d2fae702c80edeb4","x":-440,"y":100,"width":134,"height":128,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas"},
-		{"id":"101eaeb258db4b1a","x":-449,"y":-200,"width":143,"height":121,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas"}
+		{"id":"0c2facce8a0e3ed4","type":"text","text":"晴 - Tình","x":-185,"y":-25,"width":250,"height":60},
+		{"id":"d2fae702c80edeb4","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nguyệt　「月 」/Thanh「青」/Thanh「青」.canvas","x":-440,"y":100,"width":134,"height":128},
+		{"id":"101eaeb258db4b1a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhật　「日」/Nhật　「日」.canvas","x":-449,"y":-200,"width":143,"height":121},
+		{"id":"a04a7dd454c01193","type":"text","text":"気晴らし：うっとうしい気分を晴らすこと","x":260,"y":-230,"width":380,"height":50},
+		{"id":"faef34391f6cf691","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/晴雨.md","x":385,"y":260,"width":321,"height":96}
 	],
 	"edges":[
 		{"id":"32db62dee8156475","fromNode":"d2fae702c80edeb4","fromSide":"right","toNode":"0c2facce8a0e3ed4","toSide":"left"},
-		{"id":"d14c6a6a0d0565c2","fromNode":"101eaeb258db4b1a","fromSide":"right","toNode":"0c2facce8a0e3ed4","toSide":"left"}
+		{"id":"d14c6a6a0d0565c2","fromNode":"101eaeb258db4b1a","fromSide":"right","toNode":"0c2facce8a0e3ed4","toSide":"left"},
+		{"id":"4bbf30ade69f0c10","fromNode":"0c2facce8a0e3ed4","fromSide":"right","toNode":"a04a7dd454c01193","toSide":"left"},
+		{"id":"51843060d398265d","fromNode":"0c2facce8a0e3ed4","fromSide":"right","toNode":"faef34391f6cf691","toSide":"left","color":"6","label":"Nắng hay mưa (Chỉ tình trạng thời tiết bất kể thế nào)."}
 	]
 }
