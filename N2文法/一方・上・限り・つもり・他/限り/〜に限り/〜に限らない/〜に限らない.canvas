@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"84e8803c0e5e5c17","type":"text","text":"〜に限らない","x":420,"y":-230,"width":250,"height":60},
+		{"id":"a727d4df1b54fbd4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限らない.md","x":-400,"y":-80,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d57ca9f13a1c68b6","fromNode":"84e8803c0e5e5c17","fromSide":"left","toNode":"a727d4df1b54fbd4","toSide":"right","label":"Không chỉ, không hẳn là."}
+	]
+}

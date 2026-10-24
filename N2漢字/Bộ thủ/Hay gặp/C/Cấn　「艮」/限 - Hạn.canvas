@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"6a226e274828180a","x":-80,"y":-28,"width":250,"height":60,"type":"text","text":"限 - Hạn"},
-		{"id":"8c11d82c9f529a6c","x":-380,"y":140,"width":162,"height":150,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas"},
-		{"id":"ce7442984cf17146","x":-370,"y":-260,"width":152,"height":146,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+		{"id":"6a226e274828180a","type":"text","text":"限 - Hạn","x":-80,"y":-28,"width":250,"height":60},
+		{"id":"8c11d82c9f529a6c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/Cấn　「艮」.canvas","x":-380,"y":140,"width":162,"height":150},
+		{"id":"ce7442984cf17146","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas","x":-370,"y":-260,"width":152,"height":146},
+		{"id":"3072e6ab8e5ea44b","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/限り.canvas","x":360,"y":-280,"width":251,"height":146},
+		{"id":"a9dbf04ecd5d252f","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/限界.md","x":420,"y":85,"width":297,"height":205},
+		{"id":"9a3631978d487c6f","type":"file","file":"Chữa đề/Learning_Profile/Collocation/限界を超える.md","x":1080,"y":290,"width":334,"height":234}
 	],
 	"edges":[
-		{"id":"21048f7d41f7b8da","fromNode":"8c11d82c9f529a6c","fromSide":"right","toNode":"6a226e274828180a","toSide":"left"},
-		{"id":"5dc0cc3dac7d0378","fromNode":"ce7442984cf17146","fromSide":"right","toNode":"6a226e274828180a","toSide":"left"}
+		{"id":"21048f7d41f7b8da","fromNode":"8c11d82c9f529a6c","fromSide":"right","toNode":"6a226e274828180a","toSide":"left","color":"5"},
+		{"id":"5dc0cc3dac7d0378","fromNode":"ce7442984cf17146","fromSide":"right","toNode":"6a226e274828180a","toSide":"left","color":"2"},
+		{"id":"fd0a5a11e5a7bb91","fromNode":"6a226e274828180a","fromSide":"right","toNode":"3072e6ab8e5ea44b","toSide":"left","color":"5","label":"ngữ pháp"},
+		{"id":"875cf9b8f780fbc8","fromNode":"6a226e274828180a","fromSide":"right","toNode":"a9dbf04ecd5d252f","toSide":"left","color":"6"},
+		{"id":"a54bf721308f3428","fromNode":"a9dbf04ecd5d252f","fromSide":"right","toNode":"9a3631978d487c6f","toSide":"left","color":"5","label":"Vượt quá giới hạn."}
 	]
 }

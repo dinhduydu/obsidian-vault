@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "N2文法/一方・上・限り・つもり・他/限り/〜に限らない/Nに限らず.canvas",
+                "file": "N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない/〜に限らない.canvas",
                 "viewState": {
-                  "x": 0.5,
-                  "y": 0,
+                  "x": 135,
+                  "y": 45,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Nに限らず"
+              "title": "〜に限らない"
             }
           }
         ],
@@ -197,30 +197,33 @@
       "decks:Decks": false
     }
   },
-  "active": "ae8df1c00b096584",
+  "active": "b36da61dc2495019",
   "lastOpenFiles": [
-    "N2文法/一方・上・限り・つもり・他/限り/〜に限らない/〜に限らない.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜に限らない.md",
-    "N2文法/一方・上・限り・つもり・他/限り/〜に限らない/Nに限らず.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない/〜に限らない.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/C/Cấn　「艮」/限 - Hạn.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/限り.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/限りは.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/ない限り.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/N限りで.canvas",
+    "N2文法/一方・上・限り・つもり・他/限り/〜に限り",
+    "Chữa đề/Learning_Profile/Collocation/限界を超える.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week4/24042026/3. Phân Tích Kết Quả N2_ĐỌC HIỂU TRUNG VĂN_TEST 1.md",
+    "N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない/Nに限らず.canvas",
     "N2文法/一方・上・限り・つもり・他/つもり/つもりだ.canvas",
     "N2文法/一方・上・限り・つもり・他/つもり/つもりだった.canvas",
     "N2文法/一方・上・限り・つもり・他/つもり/つもりで.canvas",
     "Chữa đề/２０２６年/０２月２０２６年/Week4/27022026/2. Phân Tích PHÓ TỪ_TEST 2.md",
     "Chữa đề/Learning_Profile/Grammar/〜つもりだった.md",
     "Chữa đề/２０２６年/０６月２０２６年/Week4/29062026/4. Phân Tích PHÂN TÍCH KẾT QUẢ HỌC TẬP JLPT N2 - TỪ ĐỒNG NGHĨA (P1).md",
-    "N2文法/一方・上・限り・つもり・他/つもり/つもり.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜つもりでも.md",
     "Chữa đề/Learning_Profile/Grammar/〜つもりで.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/12. Phân Tích N2_3_180326-17-20.pdf.md",
-    "N2文法/一方・上・限り・つもり・他/限り/限り.canvas",
-    "N2文法/一方・上・限り・つもり・他/限り/〜とは限らない.canvas",
     "N2文法/一方・上・限り・つもり・他/限り/📌 限り　ー　Giới hạn Phạm vi.md",
-    "N2文法/一方・上・限り・つもり・他/限り/限りは.canvas",
-    "N2文法/一方・上・限り・つもり・他/限り/に限る.canvas",
     "Chữa đề/Learning_Profile/Grammar/〜に限って.md",
     "Chữa đề/Learning_Profile/Grammar/〜に限る.md",
     "N2文法/一方・上・限り・つもり・他/限り/に限る",
-    "N2文法/一方・上・限り・つもり・他/限り/〜に限らない",
+    "N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない",
     "Chữa đề/Learning_Profile/Grammar/〜に限り.md",
     "N2文法/一方・上・限り・つもり・他/上/Tổng hợp 上.md",
     "N2文法/一方・上・限り・つもり・他/つもり",
@@ -239,8 +242,6 @@
     "AI_Context/4 mẫu ngữ pháp JLPT N2–N1 NGÀY 8.md",
     "AI_Context/Tóm Gọn 16 Khái Niệm Concurrency Từ Một Bài Toán Bán Vé Duy Nhất.md",
     "AI_Context/HỌC TỪ VỰNG TIẾNG NHẬT MÃI KHÔNG THÀNH PHẢN XẠ. THỬ HỌC THEO CỤM ĐỂ DÙNG TỪ TỰ NHIÊN HƠN.md",
-    "AI_Context/10 NGỮ PHÁP「訳（わけ）」CỰC HAY GẶP.md",
-    "AI_Context/30 mẫu ngữ pháp trọng tâm khi ôn JLPT N3 - Phần 1.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/24102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/23102026",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/22102026",
@@ -248,7 +249,6 @@
     "Pasted image 20261021171444.png",
     "Pasted image 20261021171424.png",
     "Pasted image 20261021164236.png",
-    "N2語彙/Phó từ",
     "Pasted image 20261021164002.png",
     "Pasted image 20261021163958.png",
     "Pasted image 20261021150343.png",
