@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0bacf81a2ae0612c","type":"text","text":"Nの上では\nKhung tham chiếu -> xét trên phương diện","x":-13,"y":313,"width":250,"height":86},
+		{"id":"193cfb2ff32c9b15","type":"file","file":"Pasted image 20260409002551.png","x":-13,"y":-138,"width":638,"height":314},
+		{"id":"2b3b83f7f5209861","type":"file","file":"Pasted image 20260409002220.png","x":-680,"y":-520,"width":503,"height":317}
+	],
+	"edges":[
+		{"id":"811a7c984be1aba1","fromNode":"2b3b83f7f5209861","fromSide":"bottom","toNode":"193cfb2ff32c9b15","toSide":"top","label":"上では"},
+		{"id":"97074808cef9f469","fromNode":"193cfb2ff32c9b15","fromSide":"bottom","toNode":"0bacf81a2ae0612c","toSide":"top"}
+	]
+}

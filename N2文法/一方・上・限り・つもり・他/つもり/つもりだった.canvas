@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"97537cd137c7d0e2","type":"text","text":"つもりだった","x":81,"y":-140,"width":250,"height":60},
+		{"id":"cfcb67f4bbfa80dd","type":"text","text":"Vたつもり～","x":-300,"y":-140,"width":250,"height":60},
+		{"id":"99119eaade55866a","type":"text","text":"Aい＋つもりだった\nAな＋つもりだった\nNの＋つもりだった","x":-331,"y":42,"width":250,"height":98},
+		{"id":"dbbb824a087d2ddb","x":-740,"y":-353,"width":302,"height":213,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜つもりだった.md"}
+	],
+	"edges":[
+		{"id":"eddd50914ac4e89f","fromNode":"97537cd137c7d0e2","fromSide":"left","toNode":"cfcb67f4bbfa80dd","toSide":"right"},
+		{"id":"0d01d148b89ddc2b","fromNode":"97537cd137c7d0e2","fromSide":"left","toNode":"99119eaade55866a","toSide":"right"},
+		{"id":"a6af760d81961b46","fromNode":"cfcb67f4bbfa80dd","fromSide":"left","toNode":"dbbb824a087d2ddb","toSide":"right"}
+	]
+}

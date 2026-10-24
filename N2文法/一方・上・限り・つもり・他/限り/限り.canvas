@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"21bb39d8ae5fa25d","type":"group","x":0,"y":1120,"width":2175,"height":900,"color":"3","label":"Trong phạm vi"},
+		{"id":"beb52c42b8399db7","type":"group","x":1440,"y":-1560,"width":1115,"height":400,"color":"6","label":"Nに限らず　ー　Không chỉ A mà còn B"},
+		{"id":"f169e4153434b1ee","type":"group","x":-2540,"y":320,"width":1473,"height":227,"color":"2","label":"ない限り　ー　câu điều kiện"},
+		{"id":"909d7624f6d27cd2","type":"text","text":"　N限り","x":-222,"y":-31,"width":250,"height":60},
+		{"id":"0e594e74fb02626a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限り.md","x":327,"y":1305,"width":400,"height":400},
+		{"id":"f35f5e91665bdf30","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/N限りで.canvas","x":1276,"y":1305,"width":224,"height":175},
+		{"id":"ec08b15b6d7a7c64","type":"file","file":"Pasted image 20260410084134.png","x":510,"y":-705,"width":400,"height":221},
+		{"id":"039c24413d5e4912","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/Nに限って.canvas","x":1620,"y":-705,"width":400,"height":400},
+		{"id":"907a3c367d554a10","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/〜に限らない/〜に限らない.canvas","x":2178,"y":-997,"width":359,"height":292},
+		{"id":"912f47ff43caae15","type":"text","text":"と・は・たら","x":-540,"y":438,"width":250,"height":60},
+		{"id":"fb7f46ddaddff9d6","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/ない限り.canvas","x":-1252,"y":120,"width":235,"height":181},
+		{"id":"81d815fbba0382e1","type":"text","text":"ない限り","x":-1337,"y":378,"width":250,"height":60},
+		{"id":"8260f4d6c7c4bbae","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/限りは.canvas","x":310,"y":-1520,"width":400,"height":400},
+		{"id":"ed89dcf9304c91fd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限らず.md","x":2092,"y":-1495,"width":320,"height":250},
+		{"id":"d00775cafeba40c8","type":"text","text":"Nに限らず","x":1460,"y":-1400,"width":250,"height":60},
+		{"id":"f28e2cffb50d9921","x":1160,"y":-201,"width":400,"height":400,"type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/〜とは限らない.canvas"},
+		{"id":"fa3c647168167e0e","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/に限る.canvas","x":-1017,"y":-705,"width":347,"height":257},
+		{"id":"8449df198fb53a32","type":"text","text":"câu điều kiện","x":-1860,"y":467,"width":250,"height":60},
+		{"id":"fc6e38f8342d3f5d","type":"text","text":"Collocation | 対策を考える\n\n- **Meaning:** Suy nghĩ đối sách / Tìm phương án giải quyết.\n- **Usage:** Dùng khi đối mặt với các vấn đề cần xử lý ngay để ngăn chặn hậu quả.\n- **Example:** 何か**対策を考えない限り**、今後も人口は減るだろう.","x":-2520,"y":340,"width":551,"height":187}
+	],
+	"edges":[
+		{"id":"78ec62d911f5094e","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"912f47ff43caae15","toSide":"top","label":"間違い"},
+		{"id":"f8f2571d19403c15","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"d00775cafeba40c8","toSide":"left","color":"5","label":"Nに限らず　ー　Không chỉ A mà còn B"},
+		{"id":"73e9e3ff257a0190","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"039c24413d5e4912","toSide":"left","color":"5","label":"Nに限って　ー　Đúng lúc"},
+		{"id":"3efdf72075a1c03a","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"f35f5e91665bdf30","toSide":"top","color":"5","label":"N限りで　ー　Trong phạm vi"},
+		{"id":"7c1ded47aeb0b72a","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"ec08b15b6d7a7c64","toSide":"left","label":"Nに限り"},
+		{"id":"e785205ede7cdf97","fromNode":"909d7624f6d27cd2","fromSide":"top","toNode":"fa3c647168167e0e","toSide":"right","color":"5","label":"に限る　ー　A là tốt nhất"},
+		{"id":"85851e682086383e","fromNode":"909d7624f6d27cd2","fromSide":"right","toNode":"f28e2cffb50d9921","toSide":"left","color":"5","label":"〜とは限らない - Không hẳn là, không nhất thiết là."},
+		{"id":"ca3bdc8ac759ea7f","fromNode":"909d7624f6d27cd2","fromSide":"left","toNode":"fb7f46ddaddff9d6","toSide":"right","color":"5","label":"ない限り"},
+		{"id":"9eb6bdccb71a3919","fromNode":"81d815fbba0382e1","fromSide":"left","toNode":"8449df198fb53a32","toSide":"right","label":"ない限り"},
+		{"id":"695fe9db32406861","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"8260f4d6c7c4bbae","toSide":"left","color":"5","label":"限りは　ー　Chừng nào"},
+		{"id":"2b674c5cd4bf4b20","fromNode":"d00775cafeba40c8","fromSide":"right","toNode":"ed89dcf9304c91fd","toSide":"left","label":"〜に限らず"},
+		{"id":"979bed8766a17a07","fromNode":"909d7624f6d27cd2","fromSide":"bottom","toNode":"0e594e74fb02626a","toSide":"top","color":"5","label":"〜に限り　\n\nChỉ giới hạn trong... / Chỉ dành riêng cho..."},
+		{"id":"9e4935730e3f3bd3","fromNode":"8449df198fb53a32","fromSide":"left","toNode":"fc6e38f8342d3f5d","toSide":"right"},
+		{"id":"7cddfddafa3184bf","fromNode":"ec08b15b6d7a7c64","fromSide":"right","toNode":"907a3c367d554a10","toSide":"left","color":"5"}
+	]
+}

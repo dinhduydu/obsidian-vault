@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"884f63f178fd8d26","type":"group","x":-660,"y":-190,"width":1320,"height":380,"color":"4","label":"Nに限って　ー　Đúng lúc"},
+		{"id":"d6fe01d166efd9b3","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/に.canvas","x":-220,"y":-78,"width":232,"height":136},
+		{"id":"3ac1d8e7bf8d21e0","type":"text","text":"Nに限って","x":-640,"y":-50,"width":250,"height":70},
+		{"id":"f77d9b629e4bb035","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限って.md","x":-515,"y":520,"width":275,"height":139}
+	],
+	"edges":[
+		{"id":"04832e8ae9205a41","fromNode":"3ac1d8e7bf8d21e0","fromSide":"right","toNode":"d6fe01d166efd9b3","toSide":"left","label":"〜に限って"},
+		{"id":"77b7e24b129723e6","fromNode":"884f63f178fd8d26","fromSide":"bottom","toNode":"f77d9b629e4bb035","toSide":"top","label":"Đúng vào lúc... thì lại (không may) / Chỉ riêng..."}
+	]
+}

@@ -2,10 +2,16 @@
 	"nodes":[
 		{"id":"4eb104f5d9159ecb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜以上（は）.md","x":230,"y":-5,"width":400,"height":400},
 		{"id":"a170136a2f54588e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～以上は.md","x":-629,"y":-285,"width":400,"height":400},
-		{"id":"8f51841b2318e373","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜以上は.md","x":-120,"y":-685,"width":400,"height":400}
+		{"id":"8f51841b2318e373","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜以上は.md","x":-120,"y":-685,"width":400,"height":400},
+		{"id":"bb8742076d09f76a","type":"text","text":"以","x":-1700,"y":517,"width":250,"height":60},
+		{"id":"27d958333f209086","type":"text","text":"以来","x":-1233,"y":620,"width":250,"height":60},
+		{"id":"dad53c22353a9137","type":"text","text":"~以上","x":-1233,"y":220,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7e81f814126af7d5","fromNode":"a170136a2f54588e","fromSide":"right","toNode":"8f51841b2318e373","toSide":"left"},
-		{"id":"d64e31e1f582567e","fromNode":"a170136a2f54588e","fromSide":"right","toNode":"4eb104f5d9159ecb","toSide":"left"}
+		{"id":"d64e31e1f582567e","fromNode":"a170136a2f54588e","fromSide":"right","toNode":"4eb104f5d9159ecb","toSide":"left"},
+		{"id":"4f14ddd5dd601415","fromNode":"bb8742076d09f76a","fromSide":"right","toNode":"27d958333f209086","toSide":"left"},
+		{"id":"48b4f2789554659e","fromNode":"bb8742076d09f76a","fromSide":"right","toNode":"dad53c22353a9137","toSide":"left","color":"5","label":"~以上"},
+		{"id":"1abfcb9352a3d423","fromNode":"dad53c22353a9137","fromSide":"right","toNode":"a170136a2f54588e","toSide":"left","color":"4"}
 	]
 }

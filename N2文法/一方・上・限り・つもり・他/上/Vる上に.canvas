@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b0717cbf66849ae9","type":"group","x":-650,"y":-309,"width":1301,"height":619,"color":"6","label":"Vる上に　ー　Không chỉ A mà còn B"},
+		{"id":"8f07c9c4951f1ed6","type":"text","text":"上に\nKhông chỉ A mà còn B","x":-95,"y":230,"width":250,"height":60},
+		{"id":"ce68c972d3efb057","type":"file","file":"Pasted image 20260409002204.png","x":-170,"y":-110,"width":400,"height":221},
+		{"id":"c6f1bf17a183c304","type":"text","text":"A và B ko trái ngược nhau","x":381,"y":203,"width":250,"height":60},
+		{"id":"be8c95d9d710ad74","type":"file","file":"Pasted image 20260409002441.png","x":-630,"y":-289,"width":395,"height":400},
+		{"id":"594328823d9c3900","type":"file","file":"N2文法/一方・上・限り・つもり・他/上/上.canvas","x":1080,"y":-800,"width":293,"height":194},
+		{"id":"335cfaa5382d7431","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜上に.md","x":-1380,"y":-69,"width":349,"height":299}
+	],
+	"edges":[
+		{"id":"5ebc851305ad6a1f","fromNode":"8f07c9c4951f1ed6","fromSide":"top","toNode":"ce68c972d3efb057","toSide":"bottom"},
+		{"id":"3003350b416b4d1f","fromNode":"8f07c9c4951f1ed6","fromSide":"left","toNode":"be8c95d9d710ad74","toSide":"bottom","label":"Vる上に"},
+		{"id":"60accb367b91fb85","fromNode":"8f07c9c4951f1ed6","fromSide":"right","toNode":"c6f1bf17a183c304","toSide":"left"},
+		{"id":"af9d746795736816","fromNode":"594328823d9c3900","fromSide":"left","toNode":"b0717cbf66849ae9","toSide":"right","color":"5"},
+		{"id":"a1bd8fa22dd2e61e","fromNode":"b0717cbf66849ae9","fromSide":"left","toNode":"335cfaa5382d7431","toSide":"right","color":"5"}
+	]
+}

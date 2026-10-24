@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e5a71c2857d50fdb","type":"group","x":-736,"y":-113,"width":1473,"height":227,"color":"2","label":"ない限り　ー　câu điều kiện"},
+		{"id":"8ed287d7e847a0fd","type":"text","text":"ない限り","x":467,"y":-55,"width":250,"height":60},
+		{"id":"4114bb7266b1020e","type":"text","text":"câu điều kiện","x":-56,"y":34,"width":250,"height":60},
+		{"id":"5f4a5fe12c2e29b6","type":"text","text":"Collocation | 対策を考える\n\n- **Meaning:** Suy nghĩ đối sách / Tìm phương án giải quyết.\n- **Usage:** Dùng khi đối mặt với các vấn đề cần xử lý ngay để ngăn chặn hậu quả.\n- **Example:** 何か**対策を考えない限り**、今後も人口は減るだろう.","x":-716,"y":-93,"width":551,"height":187},
+		{"id":"ced13533a50aba15","type":"file","file":"Pasted image 20260410084235.png","x":-365,"y":240,"width":400,"height":216}
+	],
+	"edges":[
+		{"id":"0067eef441569900","fromNode":"8ed287d7e847a0fd","fromSide":"left","toNode":"4114bb7266b1020e","toSide":"right","label":"ない限り"},
+		{"id":"bff0d8b7e11bce76","fromNode":"4114bb7266b1020e","fromSide":"left","toNode":"5f4a5fe12c2e29b6","toSide":"right"}
+	]
+}

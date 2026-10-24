@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2656f2751a43bca1","type":"group","x":-329,"y":-318,"width":659,"height":637,"label":"限りは　ー　Chừng nào"},
+		{"id":"92772d7ce684bbeb","type":"text","text":"限りは","x":60,"y":-298,"width":250,"height":60},
+		{"id":"b263855f9fcd052d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜限りは.md","x":-309,"y":-101,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ce493fdfec3d6aee","fromNode":"92772d7ce684bbeb","fromSide":"bottom","toNode":"b263855f9fcd052d","toSide":"top"}
+	]
+}

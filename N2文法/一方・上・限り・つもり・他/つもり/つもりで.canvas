@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4a90cce025e3abbc","type":"file","file":"Pasted image 20260410075138.png","x":520,"y":280,"width":511,"height":278},
+		{"id":"877c1c19f1dd5deb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜つもりで.md","x":-140,"y":-100,"width":345,"height":320},
+		{"id":"f99ef8cb360121f3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜つもりでも.md","x":-720,"y":-280,"width":333,"height":265}
+	],
+	"edges":[
+		{"id":"346506f9fa35a3ce","fromNode":"4a90cce025e3abbc","fromSide":"left","toNode":"877c1c19f1dd5deb","toSide":"right","color":"3"},
+		{"id":"b6b669fa72870282","fromNode":"877c1c19f1dd5deb","fromSide":"left","toNode":"f99ef8cb360121f3","toSide":"right"}
+	]
+}

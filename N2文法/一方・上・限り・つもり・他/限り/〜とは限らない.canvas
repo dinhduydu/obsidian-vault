@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"7dd98218c2677958","type":"group","x":-1273,"y":-760,"width":1489,"height":474,"color":"1","label":"〜とは限らない - Không hẳn là, không nhất thiết là."},
+		{"id":"69ed5d56e00a8440","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜からといって.md","x":240,"y":-66,"width":400,"height":400},
+		{"id":"509a34fa648fafbb","type":"file","file":"Pasted image 20260410084342.png","x":-1253,"y":-702,"width":501,"height":263},
+		{"id":"993d0590a8f567c7","type":"file","file":"Pasted image 20260410075823.png","x":-424,"y":-626,"width":400,"height":105},
+		{"id":"a49198846dbe1e52","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜わけではない.md","x":873,"y":216,"width":400,"height":400},
+		{"id":"5acb3f0d391c7624","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とは限らない.md","x":873,"y":-266,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"87e92a74c9102fc7","fromNode":"69ed5d56e00a8440","fromSide":"right","toNode":"a49198846dbe1e52","toSide":"left"},
+		{"id":"6a03b98a26b88e2b","fromNode":"69ed5d56e00a8440","fromSide":"right","toNode":"5acb3f0d391c7624","toSide":"left"},
+		{"id":"cb746ca94abbfa7d","fromNode":"993d0590a8f567c7","fromSide":"right","toNode":"69ed5d56e00a8440","toSide":"left"},
+		{"id":"9de665ad1d29d7c1","fromNode":"509a34fa648fafbb","fromSide":"right","toNode":"993d0590a8f567c7","toSide":"left","label":"とはかぎらない"}
+	]
+}

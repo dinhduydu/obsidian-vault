@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71112d3d7eaf9792","type":"text","text":"phía ~ / cái ~ hơn","x":-185,"y":-27,"width":250,"height":50},
+		{"id":"12cc4208b31d1e5c","type":"text","text":"正しいことのほうが多くなるような生活を持たなければ","x":361,"y":-27,"width":341,"height":54},
+		{"id":"4d889e7dc9b978f5","type":"text","text":"～のほう","x":-702,"y":-25,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"21fa1b82b5b63661","fromNode":"71112d3d7eaf9792","fromSide":"right","toNode":"12cc4208b31d1e5c","toSide":"left","label":"～のほう"},
+		{"id":"eee961011f0b322f","fromNode":"4d889e7dc9b978f5","fromSide":"right","toNode":"71112d3d7eaf9792","toSide":"left","label":"～のほう"}
+	]
+}

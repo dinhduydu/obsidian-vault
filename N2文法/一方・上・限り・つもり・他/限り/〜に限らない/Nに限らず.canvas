@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c7c66ef57fcb3425","type":"group","x":-557,"y":-200,"width":1115,"height":400,"color":"6","label":"Nに限らず　ー　Không chỉ A mà còn B"},
+		{"id":"26db339dab907d42","type":"text","text":"Nに限らず","x":-537,"y":-40,"width":250,"height":60},
+		{"id":"02277cd36c3e55e6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限らず.md","x":95,"y":-135,"width":320,"height":250}
+	],
+	"edges":[
+		{"id":"39dff223aa668aa0","fromNode":"26db339dab907d42","fromSide":"right","toNode":"02277cd36c3e55e6","toSide":"left","label":"〜に限らず"}
+	]
+}

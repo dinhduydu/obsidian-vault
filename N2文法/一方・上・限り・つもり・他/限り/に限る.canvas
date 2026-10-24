@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"28116437ef58466a","type":"text","text":"Aい・Aな","x":-518,"y":-144,"width":250,"height":60},
+		{"id":"98f6bb4c1ca0613a","type":"file","file":"Pasted image 20260410084301.png","x":-70,"y":-375,"width":400,"height":234},
+		{"id":"e6f787bd463227f3","type":"text","text":"N","x":-518,"y":-253,"width":250,"height":60},
+		{"id":"ef8d3a15c268aad6","type":"text","text":"Vない","x":-518,"y":-344,"width":250,"height":60},
+		{"id":"7a8e16982cdb8948","type":"text","text":"Vる","x":-518,"y":-435,"width":250,"height":60},
+		{"id":"252a18160a5640b2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に限る.md","x":-393,"y":35,"width":400,"height":400},
+		{"id":"4959ae98da643892","type":"text","text":"に限る","x":269,"y":5,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b0c0a11c9fca3ecf","fromNode":"28116437ef58466a","fromSide":"right","toNode":"98f6bb4c1ca0613a","toSide":"left"},
+		{"id":"25e3a99f60aabc1f","fromNode":"4959ae98da643892","fromSide":"top","toNode":"98f6bb4c1ca0613a","toSide":"bottom","label":"に限る"},
+		{"id":"531d5c86d0376614","fromNode":"7a8e16982cdb8948","fromSide":"right","toNode":"98f6bb4c1ca0613a","toSide":"left"},
+		{"id":"c5cd0f65dfbd5f89","fromNode":"ef8d3a15c268aad6","fromSide":"right","toNode":"98f6bb4c1ca0613a","toSide":"left"},
+		{"id":"386720eac8e22b7c","fromNode":"e6f787bd463227f3","fromSide":"right","toNode":"98f6bb4c1ca0613a","toSide":"left"},
+		{"id":"15d6f18d27743a60","fromNode":"4959ae98da643892","fromSide":"left","toNode":"252a18160a5640b2","toSide":"right","label":" ...là tốt nhất / ...là nhất."}
+	]
+}

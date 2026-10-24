@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"57b9fb22ca79f196","type":"group","x":-1212,"y":-346,"width":2404,"height":903,"color":"2","label":"Vる上で　ー　B là cần thiết để A xảy ra"},
+		{"id":"5e1f01eca556834f","type":"text","text":"Trong công việc","x":-1192,"y":149,"width":250,"height":60},
+		{"id":"a4cbe8bc22c4d2b1","type":"text","text":"仕事をする**上で**大切なのは、周りとのコミュニケーションです。","x":-705,"y":123,"width":250,"height":112},
+		{"id":"1eba98d8032c9049","type":"text","text":"A = 仕事","x":-860,"y":-32,"width":250,"height":60},
+		{"id":"b5e40b6e0de17edf","type":"text","text":"B = コミュニケーション\n","x":-512,"y":-43,"width":250,"height":60},
+		{"id":"c37d130a60517b5b","type":"text","text":"Used to express the fact that","x":248,"y":-3,"width":250,"height":60},
+		{"id":"b035b482a4eb2d88","type":"text","text":"Quá trình","x":-530,"y":-556,"width":250,"height":60},
+		{"id":"b4d4ec3682dfb56e","type":"file","file":"Pasted image 20260409003551.png","x":743,"y":-326,"width":398,"height":116},
+		{"id":"f3b7af92d3172f15","type":"text","text":"Vる上で","x":942,"y":235,"width":250,"height":94},
+		{"id":"c1d98935f0150768","type":"file","file":"Pasted image 20260409003220.png","x":1520,"y":-268,"width":861,"height":351},
+		{"id":"103879ae618a358d","type":"text","text":"B is important or necessary in order for A to happen","x":-132,"y":149,"width":250,"height":60},
+		{"id":"a8eec927822acfd6","type":"text","text":"Trong quá trình","x":248,"y":477,"width":250,"height":60},
+		{"id":"ce43b1dbf7ad8fdd","type":"file","file":"Pasted image 20260409002551.png","x":743,"y":880,"width":638,"height":314}
+	],
+	"edges":[
+		{"id":"d543cdfdfa348cb1","fromNode":"a4cbe8bc22c4d2b1","fromSide":"left","toNode":"5e1f01eca556834f","toSide":"right","label":"Vる上で"},
+		{"id":"6eaf4f8445470cf8","fromNode":"a4cbe8bc22c4d2b1","fromSide":"top","toNode":"b5e40b6e0de17edf","toSide":"bottom"},
+		{"id":"4f5509a14f893474","fromNode":"a4cbe8bc22c4d2b1","fromSide":"top","toNode":"1eba98d8032c9049","toSide":"bottom"},
+		{"id":"8b7c152ac938417b","fromNode":"103879ae618a358d","fromSide":"left","toNode":"a4cbe8bc22c4d2b1","toSide":"right","label":"Vる上で"},
+		{"id":"74d370f17ea518cd","fromNode":"a8eec927822acfd6","fromSide":"left","toNode":"a4cbe8bc22c4d2b1","toSide":"right"},
+		{"id":"b5a466ce5b8ece29","fromNode":"b5e40b6e0de17edf","fromSide":"top","toNode":"1eba98d8032c9049","toSide":"top","label":"B là cần thiết để A xảy ra"},
+		{"id":"0ed3381e6904d9e6","fromNode":"c37d130a60517b5b","fromSide":"left","toNode":"103879ae618a358d","toSide":"right","label":"Vる上で"},
+		{"id":"d833938a7e6081ce","fromNode":"f3b7af92d3172f15","fromSide":"left","toNode":"c37d130a60517b5b","toSide":"right","label":"Vる上で"},
+		{"id":"57991c226dba6962","fromNode":"f3b7af92d3172f15","fromSide":"left","toNode":"a8eec927822acfd6","toSide":"right","label":"Vる上で"},
+		{"id":"edaa13f1212415b3","fromNode":"c1d98935f0150768","fromSide":"left","toNode":"b4d4ec3682dfb56e","toSide":"right"},
+		{"id":"c38a36bb4e7aa970","fromNode":"c1d98935f0150768","fromSide":"left","toNode":"f3b7af92d3172f15","toSide":"right"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"659dd0e0d409fe3b","type":"group","x":-1075,"y":-1070,"width":2150,"height":2140,"color":"4","label":"Vた上で　ー　Sau khi thực hiện A thì B"},
+		{"id":"d328a652e2980952","type":"text","text":"Nの上で","x":-935,"y":797,"width":250,"height":60},
+		{"id":"aeaec9b308e79194","type":"file","file":"Pasted image 20260409002400.png","x":-115,"y":-410,"width":400,"height":124},
+		{"id":"7aefa35c644526f9","type":"text","text":"first do A then do B","x":-790,"y":-378,"width":250,"height":60},
+		{"id":"3946dc12c974cff9","type":"file","file":"Pasted image 20260409003220.png","x":-1055,"y":29,"width":861,"height":351},
+		{"id":"43606395548eb9f5","type":"text","text":"Vた・Nの上で\nSau khi xong A(QK) mới tới B","x":805,"y":169,"width":250,"height":111},
+		{"id":"6dc436825ae23a00","type":"file","file":"Pasted image 20260409002511.png","x":-127,"y":627,"width":400,"height":399},
+		{"id":"94bca10da620c927","type":"file","file":"Pasted image 20260409003319.png","x":-506,"y":-1050,"width":697,"height":332}
+	],
+	"edges":[
+		{"id":"a6a0eaa4220f0966","fromNode":"43606395548eb9f5","fromSide":"top","toNode":"94bca10da620c927","toSide":"right","label":"上で"},
+		{"id":"f38f4118c0222deb","fromNode":"aeaec9b308e79194","fromSide":"left","toNode":"7aefa35c644526f9","toSide":"right","label":"Vた上で"},
+		{"id":"076ee08f8dcd8f03","fromNode":"43606395548eb9f5","fromSide":"left","toNode":"aeaec9b308e79194","toSide":"right","label":"Vた上で"},
+		{"id":"bf5cbd8878fc45bc","fromNode":"43606395548eb9f5","fromSide":"left","toNode":"3946dc12c974cff9","toSide":"right","label":"Vる・Vた上で"},
+		{"id":"7a055ace914f9a89","fromNode":"43606395548eb9f5","fromSide":"bottom","toNode":"6dc436825ae23a00","toSide":"right","label":"Vた・Nの上で"},
+		{"id":"5608fa3240f1a0a9","fromNode":"6dc436825ae23a00","fromSide":"left","toNode":"d328a652e2980952","toSide":"right","label":"Nの上で"}
+	]
+}

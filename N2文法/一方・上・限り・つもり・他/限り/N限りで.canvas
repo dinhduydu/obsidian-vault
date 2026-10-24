@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"689e274248fa4449","type":"group","x":-890,"y":-450,"width":1780,"height":900,"color":"3","label":"N限りで　ー　Trong phạm vi"},
+		{"id":"e2a21507bd57741d","type":"text","text":"N限りで","x":-570,"y":-430,"width":250,"height":60},
+		{"id":"a3d9a08a5682b629","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜限りで.md","x":-95,"y":-144,"width":400,"height":400},
+		{"id":"2d05ed44612ebe57","type":"text","text":"N限りでは","x":-20,"y":-430,"width":250,"height":60},
+		{"id":"3dd27d0948456472","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜限りでは.md","x":466,"y":-344,"width":400,"height":400},
+		{"id":"642b3dd478dab3c6","type":"file","file":"Pasted image 20260410084235.png","x":-770,"y":0,"width":400,"height":216}
+	],
+	"edges":[
+		{"id":"794ce037477b2c1b","fromNode":"e2a21507bd57741d","fromSide":"right","toNode":"2d05ed44612ebe57","toSide":"left","label":"N限りでは"},
+		{"id":"e95385c9feb5385d","fromNode":"e2a21507bd57741d","fromSide":"right","toNode":"a3d9a08a5682b629","toSide":"left","label":"〜限りで"},
+		{"id":"1f3101e9f275a152","fromNode":"2d05ed44612ebe57","fromSide":"right","toNode":"3dd27d0948456472","toSide":"left","label":"〜限りでは"}
+	]
+}

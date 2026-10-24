@@ -3,17 +3,15 @@
 		{"id":"e1d71833392ff425","type":"text","text":"一方","x":-175,"y":-48,"width":250,"height":60},
 		{"id":"4547406fde6fe1ee","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方だ.canvas","x":-900,"y":-395,"width":292,"height":206},
 		{"id":"3dc23bd4dfb459c2","type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/一方で.canvas","x":560,"y":-543,"width":343,"height":297},
-		{"id":"3170678ecfbf8681","type":"text","text":"phía ~ / cái ~ hơn","x":1077,"y":520,"width":250,"height":50},
-		{"id":"4522793e28cf034e","type":"text","text":"正しいことのほうが多くなるような生活を持たなければ","x":1623,"y":520,"width":341,"height":54},
-		{"id":"f1c0fb15d9af89de","type":"text","text":"～のほう","x":560,"y":522,"width":250,"height":50},
-		{"id":"3f3218fa449d5d57","type":"text","text":"方","x":-50,"y":485,"width":250,"height":60}
+		{"id":"11f75ed7032ee98d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「方」/Phương　「方」.canvas","x":-600,"y":160,"width":242,"height":147},
+		{"id":"d4b69c4d7b26d31e","x":443,"y":440,"width":289,"height":141,"type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/～のほう.canvas"},
+		{"id":"744474873cb02bd3","x":443,"y":160,"width":298,"height":155,"type":"file","file":"N2文法/一方・上・限り・つもり・他/一方/ほか.canvas"}
 	],
 	"edges":[
 		{"id":"a5a7a98fd6a61ea9","fromNode":"e1d71833392ff425","fromSide":"left","toNode":"4547406fde6fe1ee","toSide":"right","color":"5","label":"一方だ　ー　Ngày càng..."},
-		{"id":"b2e48a6de00c7a2d","fromNode":"e1d71833392ff425","fromSide":"bottom","toNode":"f1c0fb15d9af89de","toSide":"left","label":"方"},
-		{"id":"4027354931ceb746","fromNode":"f1c0fb15d9af89de","fromSide":"right","toNode":"3170678ecfbf8681","toSide":"left","label":"～のほう"},
-		{"id":"ccb34440da1fb527","fromNode":"3170678ecfbf8681","fromSide":"right","toNode":"4522793e28cf034e","toSide":"left","label":"～のほう"},
-		{"id":"7d18bf26afafaa54","fromNode":"3f3218fa449d5d57","fromSide":"left","toNode":"e1d71833392ff425","toSide":"bottom"},
-		{"id":"f2c21296bbb17add","fromNode":"e1d71833392ff425","fromSide":"right","toNode":"3dc23bd4dfb459c2","toSide":"left","color":"5","label":"一方で　ー　 Mặt khác, bên cạnh, trong khi đó..."}
+		{"id":"b2e48a6de00c7a2d","fromNode":"e1d71833392ff425","fromSide":"bottom","toNode":"d4b69c4d7b26d31e","toSide":"left","color":"5","label":"方"},
+		{"id":"7d18bf26afafaa54","fromNode":"11f75ed7032ee98d","fromSide":"right","toNode":"e1d71833392ff425","toSide":"bottom","color":"2"},
+		{"id":"f2c21296bbb17add","fromNode":"e1d71833392ff425","fromSide":"right","toNode":"3dc23bd4dfb459c2","toSide":"left","color":"5","label":"一方で　ー　 Mặt khác, bên cạnh, trong khi đó..."},
+		{"id":"2296638da2a55dae","fromNode":"e1d71833392ff425","fromSide":"bottom","toNode":"744474873cb02bd3","toSide":"left","color":"5"}
 	]
 }
