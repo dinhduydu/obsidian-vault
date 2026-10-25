@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 未経験者OK
+
+Category: FixedExpression
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[6. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY 251020262-5-7.pdf]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

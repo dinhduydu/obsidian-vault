@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 524
-- Total Knowledge Items: 5426
-- Correct: 3312
-- Wrong: 5530
+- Total Reviews: 537
+- Total Knowledge Items: 5488
+- Correct: 3361
+- Wrong: 5590
 - Accuracy: 37.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 235| Wrong: 44
+- [[]] | Vocabulary| Score: 240| Wrong: 45
 - [[したがって]] | Conjunction| Score: 90| Wrong: 15
 - [[〜ようがない]] | Grammar| Score: 80| Wrong: 13
 - [[〜にもかかわらず]] | Grammar| Score: 80| Wrong: 13
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 44
+- [[]] (Vocabulary) Wrong: 45
 - [[したがって]] (Conjunction) Wrong: 15
 - [[〜ようがない]] (Grammar) Wrong: 13
 - [[〜にもかかわらず]] (Grammar) Wrong: 13
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 34.5% (Correct 307 / Wrong 583)
-- Collocation: 36.7% (Correct 137 / Wrong 236)
-- CompoundVerb: 33.1% (Correct 143 / Wrong 289)
-- Conjunction: 24.9% (Correct 62 / Wrong 187)
-- Demonstratives: 9.8% (Correct 8 / Wrong 74)
-- FixedExpression: 34.4% (Correct 186 / Wrong 354)
-- Grammar: 36.3% (Correct 820 / Wrong 1438)
-- Kanji: 42.5% (Correct 324 / Wrong 439)
-- Katakana: 35.9% (Correct 138 / Wrong 246)
-- Keigo: 26.1% (Correct 37 / Wrong 105)
-- Reading: 24.9% (Correct 79 / Wrong 238)
-- Vocabulary: 44.4% (Correct 1071 / Wrong 1341)
+- Adverb: 34.7% (Correct 311 / Wrong 586)
+- Collocation: 36.8% (Correct 141 / Wrong 242)
+- CompoundVerb: 33.3% (Correct 146 / Wrong 293)
+- Conjunction: 25.3% (Correct 64 / Wrong 189)
+- Demonstratives: 10.5% (Correct 9 / Wrong 77)
+- FixedExpression: 34.4% (Correct 187 / Wrong 357)
+- Grammar: 36.4% (Correct 830 / Wrong 1450)
+- Kanji: 42.4% (Correct 325 / Wrong 442)
+- Katakana: 36.0% (Correct 139 / Wrong 247)
+- Keigo: 26.9% (Correct 39 / Wrong 106)
+- Reading: 24.7% (Correct 78 / Wrong 238)
+- Vocabulary: 44.5% (Correct 1092 / Wrong 1363)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 235)
+- [[]] (Score: 240)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[連続]] (Score: 45)
 - [[苦情]] (Score: 40)
@@ -102,11 +102,11 @@
 - [[一層]] (Score: 40)
 - [[支える]] (Score: 35)
 - [[用心]] (Score: 35)
+- [[行方]] (Score: 35)
 - [[改善]] (Score: 35)
 - [[相違]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
-- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -132,11 +132,12 @@
 - [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
 - [[レストランの評価と個人の好み]] (Score: 30)
-- [[刷る]] (Score: 30)
+- [[主張・意見の把握]] (Score: 30)
 
 ## 📚 Top CompoundVerb
 
 - [[取り組む]] (Score: 40)
+- [[落ち込む]] (Score: 40)
 - [[思い出す]] (Score: 35)
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
@@ -145,7 +146,6 @@
 - [[飛び上がる]] (Score: 30)
 - [[言いようがない]] (Score: 30)
 - [[やり抜く]] (Score: 30)
-- [[割り込む]] (Score: 30)
 
 ## 📚 Top FixedExpression
 
@@ -221,9 +221,9 @@
 - [[あの]] (Score: 40)
 - [[そんな]] (Score: 40)
 - [[ただ]] (Score: 30)
+- [[そうして]] (Score: 25)
 - [[それまで]] (Score: 20)
 - [[あそこ]] (Score: 20)
-- [[あの人]] (Score: 20)
 
 ## 📅 Recent Reviews
 
