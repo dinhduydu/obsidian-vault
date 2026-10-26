@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"c2b581094d779356","x":-62,"y":-31,"width":250,"height":60,"type":"text","text":"際 - Tế"},
-		{"id":"be11b18ea406c996","x":-340,"y":-240,"width":158,"height":180,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/祭 - Tế - Sái.canvas"},
-		{"id":"6fae57eaf2138ac7","x":-560,"y":-105,"width":179,"height":209,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas"}
+		{"id":"c2b581094d779356","type":"text","text":"際 - Tế","x":-62,"y":-31,"width":250,"height":60},
+		{"id":"be11b18ea406c996","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị (chỉ)　「示 (礻) 」/祭 - Tế - Sái/祭 - Tế - Sái.canvas","x":-340,"y":-240,"width":158,"height":180},
+		{"id":"6fae57eaf2138ac7","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/A/Ấp (Phụ)　「邑 (⻏)」/Ấp (Phụ)　「邑 (⻏)」.canvas","x":-560,"y":-105,"width":179,"height":209},
+		{"id":"3254bd53e5251334","type":"text","text":"文法","x":680,"y":-531,"width":250,"height":60},
+		{"id":"507ded28ea84d05a","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/に際して/際に.canvas","x":1340,"y":-789,"width":189,"height":91},
+		{"id":"c0cbcea1f462c77b","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/に際して/に際して.canvas","x":1400,"y":-240,"width":349,"height":164}
 	],
 	"edges":[
 		{"id":"c5348527247cff7f","fromNode":"be11b18ea406c996","fromSide":"right","toNode":"c2b581094d779356","toSide":"left"},
-		{"id":"284c1603bef7dafe","fromNode":"6fae57eaf2138ac7","fromSide":"right","toNode":"c2b581094d779356","toSide":"left"}
+		{"id":"284c1603bef7dafe","fromNode":"6fae57eaf2138ac7","fromSide":"right","toNode":"c2b581094d779356","toSide":"left"},
+		{"id":"3af36c9746f034f4","fromNode":"3254bd53e5251334","fromSide":"right","toNode":"507ded28ea84d05a","toSide":"left","color":"5","label":"～際に\nKhi / Vào lúc... (Cách nói cứng của とき) (When / On the occasion of)."},
+		{"id":"bd34008980effb30","fromNode":"c2b581094d779356","fromSide":"right","toNode":"3254bd53e5251334","toSide":"left"},
+		{"id":"8fa4462ad21e67d1","fromNode":"3254bd53e5251334","fromSide":"right","toNode":"c0cbcea1f462c77b","toSide":"left","color":"5","label":"Nhân dịp / Sắp sửa / Trước khi diễn ra sự kiện (On the occasion of / Prior to)."}
 	]
 }

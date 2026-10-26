@@ -3,11 +3,13 @@
 		{"id":"3b892e593026a47c","type":"text","text":"につれて","x":-251,"y":-37,"width":250,"height":60},
 		{"id":"cd2f53853baf82dd","type":"text","text":"Dùng khi muốn truyền đạt về sự biến đổi theo tỷ lệ tương quan","x":225,"y":-114,"width":250,"height":107},
 		{"id":"b6ad7258602bc310","type":"file","file":"Pasted image 20260412204644.png","x":-1092,"y":-68,"width":400,"height":182},
-		{"id":"c898fb01096b321c","type":"text","text":"A tiến triển thì B cũng thay đổi","x":843,"y":-68,"width":250,"height":60}
+		{"id":"c898fb01096b321c","type":"text","text":"A tiến triển thì B cũng thay đổi","x":843,"y":-68,"width":250,"height":60},
+		{"id":"1ab26ee94a7af146","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜につれて.md","x":225,"y":220,"width":305,"height":130}
 	],
 	"edges":[
 		{"id":"a81967e37fb6f562","fromNode":"3b892e593026a47c","fromSide":"right","toNode":"cd2f53853baf82dd","toSide":"left"},
 		{"id":"4dbe961771e70def","fromNode":"b6ad7258602bc310","fromSide":"right","toNode":"3b892e593026a47c","toSide":"left","label":"につれて"},
-		{"id":"48b93c39ded5e0df","fromNode":"cd2f53853baf82dd","fromSide":"right","toNode":"c898fb01096b321c","toSide":"left"}
+		{"id":"48b93c39ded5e0df","fromNode":"cd2f53853baf82dd","fromSide":"right","toNode":"c898fb01096b321c","toSide":"left"},
+		{"id":"fccbaf6a224a6e41","fromNode":"3b892e593026a47c","fromSide":"right","toNode":"1ab26ee94a7af146","toSide":"left","color":"4","label":"Càng... càng... (A thay đổi kéo theo B thay đổi một chiều)."}
 	]
 }

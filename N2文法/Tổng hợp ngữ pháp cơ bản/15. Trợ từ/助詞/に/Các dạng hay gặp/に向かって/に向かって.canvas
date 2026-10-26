@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"cce0c9471bb83317","type":"text","text":"に向かって","x":191,"y":-30,"width":250,"height":60},
+		{"id":"5183aeb5bc624164","type":"file","file":"Pasted image 20260517131237.png","x":-440,"y":-42,"width":398,"height":85},
+		{"id":"2a025976dccffae2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に向かって.md","x":840,"y":200,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a160fe839bd92e72","fromNode":"cce0c9471bb83317","fromSide":"left","toNode":"5183aeb5bc624164","toSide":"right","label":"に向かって"},
+		{"id":"cecb1d33e2ed8299","fromNode":"cce0c9471bb83317","fromSide":"right","toNode":"2a025976dccffae2","toSide":"left","color":"4","label":" Nghĩa: Hướng về phía/đối với.\nCách dùng: N + に向かって.\n\n"}
+	]
+}

@@ -1,16 +1,20 @@
 {
 	"nodes":[
-		{"id":"f825dd741229abae","type":"group","x":32,"y":-167,"width":290,"height":335,"label":"仮 - Giả"},
-		{"id":"620b0d371187edf0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-322,"y":-65,"width":189,"height":128},
-		{"id":"9e37dbee53d7b2b6","type":"text","text":"仮歯　「かりは」：","x":52,"y":-147,"width":250,"height":60},
-		{"id":"8decfc95c5923645","type":"text","text":"仮病　「けびょう」：","x":52,"y":-87,"width":250,"height":60},
-		{"id":"5218493e3650deb0","type":"text","text":"仮定　「かてい」：","x":52,"y":-27,"width":250,"height":60},
-		{"id":"9efd3182af819152","type":"text","text":"仮名　「かめい」：","x":52,"y":33,"width":250,"height":60},
-		{"id":"5a8c988da7e0ac5a","type":"text","text":"仮住まい　「かりずまい」：","x":52,"y":88,"width":250,"height":60},
-		{"id":"987ff542c42b421f","x":-301,"y":-260,"width":147,"height":76,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas"}
+		{"id":"f825dd741229abae","type":"group","x":200,"y":-300,"width":290,"height":335,"label":"仮 - Giả"},
+		{"id":"f95afa74f2876b20","x":-473,"y":-28,"width":250,"height":60,"type":"text","text":"仮 - Giả"},
+		{"id":"620b0d371187edf0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-880,"y":142,"width":189,"height":128},
+		{"id":"987ff542c42b421f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas","x":-838,"y":-133,"width":147,"height":76},
+		{"id":"928a8a6898f9e101","type":"file","file":"Chữa đề/Learning_Profile/Kanji/仮説.md","x":302,"y":480,"width":219,"height":117},
+		{"id":"8decfc95c5923645","type":"text","text":"仮病　「けびょう」：","x":220,"y":-220,"width":250,"height":60},
+		{"id":"5218493e3650deb0","type":"text","text":"仮定　「かてい」：","x":220,"y":-160,"width":250,"height":60},
+		{"id":"9efd3182af819152","type":"text","text":"仮名　「かめい」：","x":220,"y":-100,"width":250,"height":60},
+		{"id":"5a8c988da7e0ac5a","type":"text","text":"仮住まい　「かりずまい」：","x":220,"y":-45,"width":250,"height":60},
+		{"id":"9e37dbee53d7b2b6","type":"text","text":"仮歯　「かりは」：","x":220,"y":-280,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"a2ecffa19b09740e","fromNode":"620b0d371187edf0","fromSide":"right","toNode":"f825dd741229abae","toSide":"left"},
-		{"id":"30e8780a5dafcee7","fromNode":"987ff542c42b421f","fromSide":"right","toNode":"f825dd741229abae","toSide":"left"}
+		{"id":"a2ecffa19b09740e","fromNode":"620b0d371187edf0","fromSide":"right","toNode":"f95afa74f2876b20","toSide":"left"},
+		{"id":"30e8780a5dafcee7","fromNode":"987ff542c42b421f","fromSide":"right","toNode":"f95afa74f2876b20","toSide":"left"},
+		{"id":"948d0b56ff78be26","fromNode":"f95afa74f2876b20","fromSide":"right","toNode":"928a8a6898f9e101","toSide":"left","color":"6","label":"Giả thuyết, dự đoán ban đầu chưa chứng minh (Hypothesis)."},
+		{"id":"38855b83a9752a0c","fromNode":"f95afa74f2876b20","fromSide":"right","toNode":"f825dd741229abae","toSide":"left","color":"6"}
 	]
 }

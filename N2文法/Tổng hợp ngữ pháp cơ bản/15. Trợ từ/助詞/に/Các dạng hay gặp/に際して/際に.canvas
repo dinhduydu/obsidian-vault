@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ff4e0c4f3cf5fbdc","type":"text","text":"際に","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1a1fd7c2c92451e3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜際に.md","x":580,"y":-440,"width":300,"height":130},
+		{"id":"e7cf1302574cec6f","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/非常の際に.md","x":1280,"y":-760,"width":247,"height":154}
+	],
+	"edges":[
+		{"id":"c3b8f7dfc5bae319","fromNode":"ff4e0c4f3cf5fbdc","fromSide":"right","toNode":"1a1fd7c2c92451e3","toSide":"left","label":"Khi / Vào lúc... (Cách nói cứng của とき) (When / On the occasion of)."},
+		{"id":"19b66310713e3b80","fromNode":"1a1fd7c2c92451e3","fromSide":"right","toNode":"e7cf1302574cec6f","toSide":"left","label":"Trong trường hợp khẩn cấp / Khi có sự cố bất ngờ (In case of emergency)."}
+	]
+}

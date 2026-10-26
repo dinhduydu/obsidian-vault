@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"000114f7b66d0b30","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"提 - Đề"},
-		{"id":"1826c7be641631b3","x":-360,"y":-140,"width":127,"height":77,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"},
-		{"id":"28ca7de99c4c9d61","x":-377,"y":30,"width":144,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas"}
+		{"id":"f81bf83df45cb25b","type":"file","file":"Chữa đề/Learning_Profile/Kanji/提供.md","x":440,"y":-147,"width":274,"height":147},
+		{"id":"a182c19a10cf9635","type":"file","file":"Chữa đề/Learning_Profile/Collocation/機会を提供する.md","x":920,"y":135,"width":315,"height":189},
+		{"id":"3a9c5903f61644eb","type":"file","file":"Chữa đề/Learning_Profile/Keigo/提供なさる.md","x":964,"y":-407,"width":227,"height":145},
+		{"id":"000114f7b66d0b30","type":"text","text":"提 - Đề","x":-128,"y":105,"width":250,"height":60},
+		{"id":"1826c7be641631b3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-363,"y":-5,"width":127,"height":77},
+		{"id":"28ca7de99c4c9d61","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/是 - Thị.canvas","x":-380,"y":165,"width":144,"height":147},
+		{"id":"84e88e4bf1b08dfa","x":49,"y":-262,"width":146,"height":74,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/供 - Cung.canvas"}
 	],
 	"edges":[
 		{"id":"9b37eb3838bb2873","fromNode":"1826c7be641631b3","fromSide":"right","toNode":"000114f7b66d0b30","toSide":"left"},
-		{"id":"0f48e9787a70c8eb","fromNode":"28ca7de99c4c9d61","fromSide":"right","toNode":"000114f7b66d0b30","toSide":"left"}
+		{"id":"0f48e9787a70c8eb","fromNode":"28ca7de99c4c9d61","fromSide":"right","toNode":"000114f7b66d0b30","toSide":"left"},
+		{"id":"56b9072170cf2ba7","fromNode":"f81bf83df45cb25b","fromSide":"right","toNode":"3a9c5903f61644eb","toSide":"left","color":"5","label":"Cung cấp / Tạo điều kiện (Tôn kính ngữ)."},
+		{"id":"a14b59fbd4b42083","fromNode":"f81bf83df45cb25b","fromSide":"right","toNode":"a182c19a10cf9635","toSide":"left","color":"6","label":"Cung cấp / Tạo cơ hội (Provide opportunity)."},
+		{"id":"0c83d7b824f3528d","fromNode":"000114f7b66d0b30","fromSide":"right","toNode":"f81bf83df45cb25b","toSide":"left","color":"6","label":"Cung cấp, tài trợ, tạo điều kiện (Offer / Provide)."},
+		{"id":"f92a5ee189c8bfce","fromNode":"84e88e4bf1b08dfa","fromSide":"right","toNode":"f81bf83df45cb25b","toSide":"left"}
 	]
 }

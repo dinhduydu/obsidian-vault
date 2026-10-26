@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"10a6b5c5aac138a4","type":"text","text":"とともに","x":-239,"y":-26,"width":250,"height":60},
+		{"id":"677667adf9780565","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とともに.md","x":200,"y":-360,"width":240,"height":141},
+		{"id":"ac5e659b2cfc7492","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/〜とともに.md","x":380,"y":160,"width":211,"height":110}
+	],
+	"edges":[
+		{"id":"9a7b0a2f8f27b78a","fromNode":"10a6b5c5aac138a4","fromSide":"right","toNode":"677667adf9780565","toSide":"left","label":"Cùng với (A thay đổi dẫn đến B thay đổi song song)."},
+		{"id":"8bf8dbf8f6d8a724","fromNode":"10a6b5c5aac138a4","fromSide":"right","toNode":"ac5e659b2cfc7492","toSide":"left","label":"Cùng với..., Song song với... (Biến đổi đồng thời)."}
+	]
+}

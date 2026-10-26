@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1cfa6f9fe84bb7ec","type":"text","text":"に際して","x":-132,"y":-35,"width":265,"height":71},
+		{"id":"1b1b504f7942fbd3","type":"file","file":"Pasted image 20260410081502.png","x":500,"y":-320,"width":399,"height":208},
+		{"id":"ffceb9f7c59db429","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に際して.md","x":380,"y":240,"width":286,"height":77}
+	],
+	"edges":[
+		{"id":"93fe45b759b1014d","fromNode":"1cfa6f9fe84bb7ec","fromSide":"right","toNode":"1b1b504f7942fbd3","toSide":"left","label":"に際して\nDùng cho sự việc bình thường, lẫn đặc biệt\nCó thể lặp lại nhiều lần"},
+		{"id":"1d361314432a5e07","fromNode":"1cfa6f9fe84bb7ec","fromSide":"right","toNode":"ffceb9f7c59db429","toSide":"left","color":"4","label":"Nhân dịp / Sắp sửa / Trước khi diễn ra sự kiện (On the occasion of / Prior to)."}
+	]
+}

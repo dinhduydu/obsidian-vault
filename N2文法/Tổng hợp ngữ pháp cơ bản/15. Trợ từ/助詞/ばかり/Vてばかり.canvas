@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d44a07b4661afdd7","type":"group","x":-1063,"y":-527,"width":2546,"height":602,"label":"Vてばかり: Chỉ một hành động lặp đi lặp lại hoặc chiếm phần lớn thời gian."},
+		{"id":"136d0b069f230bf3","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-1483,"y":235,"width":400,"height":400},
+		{"id":"6ed9e4805d15e2ba","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てばかりもいられない.md","x":-363,"y":-385,"width":400,"height":400},
+		{"id":"38b9ea89966c8dfd","type":"text","text":"Vてばかりいると","x":-543,"y":275,"width":250,"height":60},
+		{"id":"ce8fe2eac5818861","type":"text","text":"Vてばかり","x":-974,"y":-430,"width":250,"height":60},
+		{"id":"d5071596ef58bb28","type":"text","text":"Vてばかりいる","x":-974,"y":-45,"width":250,"height":60},
+		{"id":"6861790754837293","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/寝てばかり.md","x":-363,"y":-985,"width":400,"height":400},
+		{"id":"18d76719904f67bd","type":"file","file":"Pasted image 20260504021113.png","x":-924,"y":585,"width":400,"height":299},
+		{"id":"58687a0eea1d712a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てばかりいると.md","x":-383,"y":585,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a136190846c9028a","fromNode":"ce8fe2eac5818861","fromSide":"right","toNode":"6861790754837293","toSide":"left","label":"Vてばかり"},
+		{"id":"089ee7db6ff43a1c","fromNode":"ce8fe2eac5818861","fromSide":"bottom","toNode":"d5071596ef58bb28","toSide":"top","label":"Vてばかりいる"},
+		{"id":"0c998fa50274e4f4","fromNode":"ce8fe2eac5818861","fromSide":"right","toNode":"6ed9e4805d15e2ba","toSide":"left","label":"〜てばかりもいられない"},
+		{"id":"08dd2dbe558e23ab","fromNode":"d5071596ef58bb28","fromSide":"bottom","toNode":"136d0b069f230bf3","toSide":"top","label":"Vてばかりいる"},
+		{"id":"70a4db18f77bf1a3","fromNode":"d5071596ef58bb28","fromSide":"bottom","toNode":"38b9ea89966c8dfd","toSide":"top","label":"Vてばかりいると"},
+		{"id":"0a8b20b54042fb88","fromNode":"38b9ea89966c8dfd","fromSide":"bottom","toNode":"18d76719904f67bd","toSide":"top","label":"Vてばかりいると"},
+		{"id":"58205073c891aab8","fromNode":"38b9ea89966c8dfd","fromSide":"right","toNode":"58687a0eea1d712a","toSide":"top"}
+	]
+}

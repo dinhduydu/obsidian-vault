@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"92ed6487cf9859c9","type":"text","text":"に違いない","x":74,"y":-21,"width":250,"height":60},
+		{"id":"6bcf9a4b854f73a6","type":"text","text":"Truyền đạt điều mình tin tưởng","x":-376,"y":-90,"width":250,"height":60},
+		{"id":"56aad0bbfb8b70f5","type":"text","text":"Độ chắc chắn cao hơn:　と思う、だろう","x":-781,"y":-149,"width":250,"height":60},
+		{"id":"c0701f50be0fda46","type":"text","text":"今年も冬になると、湖が凍るに違いない。","x":-1285,"y":-235,"width":250,"height":60},
+		{"id":"e3c22b5e827886b0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に違いない.md","x":-440,"y":340,"width":222,"height":111},
+		{"id":"dec361bc61aba821","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に違いない.md","x":-498,"y":600,"width":280,"height":186},
+		{"id":"c33ebfb9f3eb656e","type":"file","file":"Pasted image 20260409005041.png","x":740,"y":-412,"width":716,"height":391}
+	],
+	"edges":[
+		{"id":"ae66343220afeeb0","fromNode":"c33ebfb9f3eb656e","fromSide":"left","toNode":"92ed6487cf9859c9","toSide":"right","label":"に違いない\nChắc chắn là"},
+		{"id":"1bdfa2ded02f40ad","fromNode":"92ed6487cf9859c9","fromSide":"left","toNode":"6bcf9a4b854f73a6","toSide":"right","label":"に違いない"},
+		{"id":"46c8f5a92b3ea9a2","fromNode":"6bcf9a4b854f73a6","fromSide":"left","toNode":"56aad0bbfb8b70f5","toSide":"right","label":"に違いない"},
+		{"id":"641db2f97b8f3134","fromNode":"56aad0bbfb8b70f5","fromSide":"left","toNode":"c0701f50be0fda46","toSide":"right","label":"に違いない"},
+		{"id":"09f08a0ba93bf86d","fromNode":"92ed6487cf9859c9","fromSide":"left","toNode":"e3c22b5e827886b0","toSide":"right","color":"4"},
+		{"id":"e5b8779261c3f782","fromNode":"92ed6487cf9859c9","fromSide":"left","toNode":"dec361bc61aba821","toSide":"right","color":"4","label":"Must be, bound to be / Chắc chắn là, hẳn là, nhất định là."}
+	]
+}

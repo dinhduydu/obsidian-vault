@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cb8ceb3b4997cd6d","type":"text","text":"～につき～","x":398,"y":-76,"width":250,"height":60},
+		{"id":"dc2889d57ae59504","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜につき.md","x":-158,"y":-400,"width":188,"height":120},
+		{"id":"b4172a4fdaa5c2f2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜につき（〜につきまして）.md","x":-920,"y":-760,"width":316,"height":147},
+		{"id":"10385499555d1e37","type":"text","text":"Ứng với mỗi đơn vị ở A","x":-158,"y":160,"width":250,"height":60},
+		{"id":"7c0600832f04aa7b","type":"text","text":"A là số lượng vật, chi phí, thời gian","x":-648,"y":160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a3a2d8282af774c7","fromNode":"cb8ceb3b4997cd6d","fromSide":"left","toNode":"10385499555d1e37","toSide":"right","color":"4","label":"～につき～\nCứ mỗi... (chỉ tỉ lệ)."},
+		{"id":"9c8fa3d14f325598","fromNode":"10385499555d1e37","fromSide":"left","toNode":"7c0600832f04aa7b","toSide":"right","label":"～につき～"},
+		{"id":"deed1f3f616fe1e0","fromNode":"cb8ceb3b4997cd6d","fromSide":"left","toNode":"dc2889d57ae59504","toSide":"right","color":"4","label":"Vì lý do/ Nhân dịp..."},
+		{"id":"78750424c5cdc8a2","fromNode":"dc2889d57ae59504","fromSide":"left","toNode":"b4172a4fdaa5c2f2","toSide":"right","color":"5","label":"Về việc..., Liên quan đến... (Dạng trang trọng của 〜について)."}
+	]
+}

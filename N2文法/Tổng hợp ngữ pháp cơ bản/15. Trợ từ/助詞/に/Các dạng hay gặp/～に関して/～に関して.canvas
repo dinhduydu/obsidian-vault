@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b3dce506e9901b26","type":"text","text":"～に関して","x":-629,"y":-53,"width":250,"height":60},
+		{"id":"5e373b2eef87d919","type":"text","text":"Dùng khi nêu hoặc đặt câu hỏi về việc có liên quan, xoay quanh 1 nội dung nào đó","x":-115,"y":80,"width":415,"height":64},
+		{"id":"ca537f266151b039","type":"text","text":"日本でアニメに関する仕事をしたいと思います。","x":440,"y":-23,"width":250,"height":60},
+		{"id":"c098c970f690aff4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に関して.md","x":-115,"y":-440,"width":300,"height":140}
+	],
+	"edges":[
+		{"id":"7d764b89a18813d2","fromNode":"5e373b2eef87d919","fromSide":"right","toNode":"ca537f266151b039","toSide":"left"},
+		{"id":"0ab2c526251b1352","fromNode":"b3dce506e9901b26","fromSide":"right","toNode":"5e373b2eef87d919","toSide":"left","label":"～に関して"},
+		{"id":"f94d56127c9e9d73","fromNode":"b3dce506e9901b26","fromSide":"right","toNode":"c098c970f690aff4","toSide":"left","color":"4","label":"Regarding, concerning / Liên quan đến, về."}
+	]
+}

@@ -1,13 +1,15 @@
 {
 	"nodes":[
-		{"id":"fd6b45a1d47e8fba","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"従 - Tùng"},
-		{"id":"afef38a873921df3","x":-440,"y":-220,"width":182,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas"},
-		{"id":"bf1fdc6d3416ef10","x":-620,"y":-30,"width":117,"height":111,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas"},
-		{"id":"c8354b1c64243c79","x":-418,"y":81,"width":160,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas"}
+		{"id":"fd6b45a1d47e8fba","type":"text","text":"従 - Tùng","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"afef38a873921df3","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Bát/Bát　「八」/Bát　「八」.canvas","x":-440,"y":-220,"width":182,"height":133},
+		{"id":"bf1fdc6d3416ef10","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/X/Xích　「彳」/Xích　「彳」.canvas","x":-620,"y":-30,"width":117,"height":111},
+		{"id":"c8354b1c64243c79","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chính　「正」/Chính　「正」.canvas","x":-418,"y":81,"width":160,"height":157},
+		{"id":"a212d5aa1394f8cd","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/したがって.md","x":680,"y":-540,"width":325,"height":140}
 	],
 	"edges":[
 		{"id":"adff3b6a7625bf42","fromNode":"afef38a873921df3","fromSide":"right","toNode":"fd6b45a1d47e8fba","toSide":"left"},
 		{"id":"1ecd929db185e869","fromNode":"bf1fdc6d3416ef10","fromSide":"right","toNode":"fd6b45a1d47e8fba","toSide":"left"},
-		{"id":"2445660c6c84895d","fromNode":"c8354b1c64243c79","fromSide":"right","toNode":"fd6b45a1d47e8fba","toSide":"left"}
+		{"id":"2445660c6c84895d","fromNode":"c8354b1c64243c79","fromSide":"right","toNode":"fd6b45a1d47e8fba","toSide":"left"},
+		{"id":"24aec9d6a90efd5b","fromNode":"fd6b45a1d47e8fba","fromSide":"right","toNode":"a212d5aa1394f8cd","toSide":"left","label":"Do đó, vì vậy (Therefore / Consequently - văn viết trang trọng)."}
 	]
 }

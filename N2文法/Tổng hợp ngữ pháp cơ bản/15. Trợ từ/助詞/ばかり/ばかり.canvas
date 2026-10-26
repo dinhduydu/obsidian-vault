@@ -1,40 +1,24 @@
 {
 	"nodes":[
-		{"id":"7761c2cda17161ea","type":"group","x":400,"y":998,"width":2546,"height":602,"label":"Vてばかり: Chỉ một hành động lặp đi lặp lại hoặc chiếm phần lớn thời gian."},
 		{"id":"49b0b8af399b1d8a","type":"group","x":-1460,"y":820,"width":909,"height":787,"label":"Quan niệm sai lầm phổ biến"},
 		{"id":"7353ee59fe83602b","type":"text","text":"ばかり","x":-153,"y":-22,"width":133,"height":60},
-		{"id":"3f34f8a053052878","type":"text","text":"Grammar | 〜ばかりだ\n\n- **Meaning:** Cứ dần dần theo hướng (thường là xấu).","x":-1127,"y":-764,"width":250,"height":160},
 		{"id":"57c1b630d4b985bc","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/Vたばかり.canvas","x":-1002,"y":200,"width":297,"height":209},
-		{"id":"063b8f8c9a754f53","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりで.canvas","x":500,"y":-1189,"width":400,"height":400},
-		{"id":"4f49a9a39a1a73bf","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりか.canvas","x":534,"y":-658,"width":332,"height":264},
 		{"id":"dac621ef3f405097","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりに.canvas","x":534,"y":-228,"width":297,"height":251},
+		{"id":"4f49a9a39a1a73bf","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりか.canvas","x":700,"y":-660,"width":332,"height":264},
+		{"id":"d518eccaf0713e94","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/～ばかりだ.canvas","x":-1309,"y":-494,"width":345,"height":200},
+		{"id":"dbb719b6d78b3992","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/Vてばかり.canvas","x":576,"y":540,"width":327,"height":234},
+		{"id":"063b8f8c9a754f53","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりで.canvas","x":300,"y":-1280,"width":400,"height":400},
 		{"id":"b40dd9415b4b655d","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":-1440,"y":840,"width":303,"height":285},
-		{"id":"2c3fd09077026b75","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものだとばかり.md","x":-971,"y":1187,"width":400,"height":400},
-		{"id":"3217c842c9049829","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/寝てばかり.md","x":1100,"y":540,"width":400,"height":400},
-		{"id":"7da026b3ec0f296e","type":"text","text":"Vてばかり","x":489,"y":1095,"width":250,"height":60},
-		{"id":"8fd45b4951c0e296","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てばかりもいられない.md","x":1100,"y":1140,"width":400,"height":400},
-		{"id":"6029218151d7cd50","type":"text","text":"Vてばかりいる","x":489,"y":1480,"width":250,"height":60},
-		{"id":"51f444f1426796df","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-20,"y":1760,"width":400,"height":400},
-		{"id":"ece88324418048dc","type":"file","file":"Pasted image 20260504021113.png","x":539,"y":2110,"width":400,"height":299},
-		{"id":"bb5c69ac6458b61a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てばかりいると.md","x":1080,"y":2110,"width":400,"height":400},
-		{"id":"83ca6930409b9b9a","type":"text","text":"Vてばかりいると","x":920,"y":1800,"width":250,"height":60},
-		{"id":"d518eccaf0713e94","x":-1309,"y":-494,"width":345,"height":200,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/～ばかりだ.canvas"}
+		{"id":"2c3fd09077026b75","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものだとばかり.md","x":-971,"y":1187,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"d518eccaf0713e94","toSide":"right","label":"〜ばかりだ　ー　Cứ, ngày càng..."},
-		{"id":"f51b407fc75145b7","fromNode":"7da026b3ec0f296e","fromSide":"bottom","toNode":"6029218151d7cd50","toSide":"top","label":"Vてばかりいる"},
-		{"id":"a14b315147a27365","fromNode":"6029218151d7cd50","fromSide":"bottom","toNode":"51f444f1426796df","toSide":"top","label":"Vてばかりいる"},
-		{"id":"1c7131adcbbafbe4","fromNode":"6029218151d7cd50","fromSide":"bottom","toNode":"83ca6930409b9b9a","toSide":"top","label":"Vてばかりいると"},
-		{"id":"85b0a751e8f2a451","fromNode":"83ca6930409b9b9a","fromSide":"bottom","toNode":"ece88324418048dc","toSide":"top","label":"Vてばかりいると"},
-		{"id":"4b08db2f8ef11bad","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"57c1b630d4b985bc","toSide":"right","label":"Vたばかり　ー　Vừa mới"},
-		{"id":"aea7bca6bbd5261e","fromNode":"83ca6930409b9b9a","fromSide":"right","toNode":"bb5c69ac6458b61a","toSide":"top"},
-		{"id":"d80a8933cebe126e","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"063b8f8c9a754f53","toSide":"left","label":"〜ばかりで"},
+		{"id":"5b9b15a76cc4bcb7","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"d518eccaf0713e94","toSide":"right","color":"5","label":"〜ばかりだ\nCứ, ngày càng...　(thường là xấu)."},
+		{"id":"4b08db2f8ef11bad","fromNode":"7353ee59fe83602b","fromSide":"left","toNode":"57c1b630d4b985bc","toSide":"right","color":"5","label":"Vたばかり　ー　Vừa mới"},
+		{"id":"d80a8933cebe126e","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"063b8f8c9a754f53","toSide":"left","label":"〜ばかりで\nDiễn tả một xu hướng hoặc trạng thái cứ tiếp diễn theo một chiều hướng (thường là tiêu cực) hoặc diễn tả sự tương phản về kết quả."},
 		{"id":"6e4166fcd164f526","fromNode":"7353ee59fe83602b","fromSide":"right","toNode":"dac621ef3f405097","toSide":"left","label":"ばかりに\nnguyên nhân A kết quả B xấu"},
-		{"id":"89c1b27ec233fca9","fromNode":"7353ee59fe83602b","fromSide":"bottom","toNode":"2c3fd09077026b75","toSide":"top"},
-		{"id":"913f4f82a717e0ae","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"4f49a9a39a1a73bf","toSide":"left"},
+		{"id":"89c1b27ec233fca9","fromNode":"7353ee59fe83602b","fromSide":"bottom","toNode":"2c3fd09077026b75","toSide":"top","color":"5"},
+		{"id":"913f4f82a717e0ae","fromNode":"7353ee59fe83602b","fromSide":"top","toNode":"4f49a9a39a1a73bf","toSide":"left","label":"〜ばかりか\n Không chỉ... mà còn (văn viết của ~bakari de naku).\n\n"},
 		{"id":"3c9910389d3ef712","fromNode":"b40dd9415b4b655d","fromSide":"right","toNode":"2c3fd09077026b75","toSide":"top"},
-		{"id":"5eba91f568f90bc5","fromNode":"7353ee59fe83602b","fromSide":"bottom","toNode":"7da026b3ec0f296e","toSide":"top"},
-		{"id":"d86a8c0165705e8f","fromNode":"7da026b3ec0f296e","fromSide":"right","toNode":"3217c842c9049829","toSide":"left","label":"Vてばかり"},
-		{"id":"4912ca81f140654f","fromNode":"7da026b3ec0f296e","fromSide":"right","toNode":"8fd45b4951c0e296","toSide":"left","label":"〜てばかりもいられない"}
+		{"id":"5eba91f568f90bc5","fromNode":"7353ee59fe83602b","fromSide":"bottom","toNode":"dbb719b6d78b3992","toSide":"left","label":"Vてばかり: Chỉ một hành động lặp đi lặp lại hoặc chiếm phần lớn thời gian."}
 	]
 }

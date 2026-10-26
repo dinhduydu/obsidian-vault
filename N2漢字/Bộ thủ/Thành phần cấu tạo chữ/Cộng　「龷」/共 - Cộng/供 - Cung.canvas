@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"552c99f058667977","x":-77,"y":-69,"width":250,"height":60,"type":"text","text":"供 - Cung"},
-		{"id":"bf5847ea9917505c","x":-420,"y":-231,"width":174,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas"},
-		{"id":"a5c8a36fda5c406d","x":-402,"y":40,"width":156,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas"}
+		{"id":"552c99f058667977","type":"text","text":"供 - Cung","x":-77,"y":-69,"width":250,"height":60},
+		{"id":"bf5847ea9917505c","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cộng　「龷」/共 - Cộng/共 - Cộng.canvas","x":-420,"y":-231,"width":174,"height":162},
+		{"id":"a5c8a36fda5c406d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-402,"y":40,"width":156,"height":144},
+		{"id":"e1f1735b5d4af6c5","type":"file","file":"Chữa đề/Learning_Profile/Kanji/提供.md","x":440,"y":37,"width":274,"height":147},
+		{"id":"ed24169fc821ef4c","type":"file","file":"Chữa đề/Learning_Profile/Collocation/機会を提供する.md","x":920,"y":319,"width":315,"height":189},
+		{"id":"1964f9810a889b2f","type":"file","file":"Chữa đề/Learning_Profile/Keigo/提供なさる.md","x":964,"y":-223,"width":227,"height":145},
+		{"id":"0707d017530698c7","x":48,"y":300,"width":175,"height":135,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tẩu　「走」/𤴓 - Thất/提 - Đề.canvas"}
 	],
 	"edges":[
 		{"id":"36aed0c8ce9178cd","fromNode":"bf5847ea9917505c","fromSide":"right","toNode":"552c99f058667977","toSide":"left"},
-		{"id":"08dfba37b8aa8647","fromNode":"a5c8a36fda5c406d","fromSide":"right","toNode":"552c99f058667977","toSide":"left"}
+		{"id":"08dfba37b8aa8647","fromNode":"a5c8a36fda5c406d","fromSide":"right","toNode":"552c99f058667977","toSide":"left"},
+		{"id":"4f3f93561b4e66bb","fromNode":"e1f1735b5d4af6c5","fromSide":"right","toNode":"1964f9810a889b2f","toSide":"left","color":"5","label":"Cung cấp / Tạo điều kiện (Tôn kính ngữ)."},
+		{"id":"7bcb0e81be31cf71","fromNode":"e1f1735b5d4af6c5","fromSide":"right","toNode":"ed24169fc821ef4c","toSide":"left","color":"6","label":"Cung cấp / Tạo cơ hội (Provide opportunity)."},
+		{"id":"383c51acb601919f","fromNode":"552c99f058667977","fromSide":"right","toNode":"e1f1735b5d4af6c5","toSide":"left"},
+		{"id":"5fc6d91724d63b82","fromNode":"0707d017530698c7","fromSide":"right","toNode":"e1f1735b5d4af6c5","toSide":"left"}
 	]
 }

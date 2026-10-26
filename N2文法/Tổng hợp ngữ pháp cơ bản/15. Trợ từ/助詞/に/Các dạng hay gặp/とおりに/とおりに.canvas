@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d4d4772c7c380a45","type":"text","text":"とおりに","x":-68,"y":-43,"width":250,"height":60},
+		{"id":"a604e0ace6d2bd8d","x":460,"y":-300,"width":266,"height":139,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とおりに.md"},
+		{"id":"ea2e88f516f488bd","x":460,"y":40,"width":270,"height":158,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜のとおりに.md"}
+	],
+	"edges":[
+		{"id":"3f96987a7d6118b6","fromNode":"d4d4772c7c380a45","fromSide":"right","toNode":"a604e0ace6d2bd8d","toSide":"left","label":"とおりに"},
+		{"id":"7f92e363616fe9ad","fromNode":"d4d4772c7c380a45","fromSide":"right","toNode":"ea2e88f516f488bd","toSide":"left","label":"どおりに"}
+	]
+}

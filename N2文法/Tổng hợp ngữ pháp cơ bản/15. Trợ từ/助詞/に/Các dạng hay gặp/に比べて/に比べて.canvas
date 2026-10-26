@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b502ff77c55f3f60","type":"text","text":"に比べて","x":-653,"y":112,"width":250,"height":60},
+		{"id":"8d52036dee393816","type":"text","text":"Dùng khi nói ý so sánh với thứ khác","x":-287,"y":50,"width":250,"height":60},
+		{"id":"7ad186edd8ce456c","type":"text","text":"Nに比べて","x":71,"y":-63,"width":250,"height":60},
+		{"id":"c96a907cd61a8752","type":"text","text":"この町のお年寄りは若者に比べて元気で活動的だ。","x":404,"y":-171,"width":250,"height":60},
+		{"id":"d9c3dd2215537f6e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に比べて.md","x":-140,"y":460,"width":247,"height":133}
+	],
+	"edges":[
+		{"id":"62955c3e66aad491","fromNode":"b502ff77c55f3f60","fromSide":"right","toNode":"8d52036dee393816","toSide":"left"},
+		{"id":"60aef49d4c18ac74","fromNode":"8d52036dee393816","fromSide":"right","toNode":"7ad186edd8ce456c","toSide":"left"},
+		{"id":"6ec660fb4e2ef311","fromNode":"7ad186edd8ce456c","fromSide":"right","toNode":"c96a907cd61a8752","toSide":"left"},
+		{"id":"b7ac372d95c53853","fromNode":"b502ff77c55f3f60","fromSide":"right","toNode":"d9c3dd2215537f6e","toSide":"left","color":"4","label":"Compared to / So với, so sánh với."}
+	]
+}

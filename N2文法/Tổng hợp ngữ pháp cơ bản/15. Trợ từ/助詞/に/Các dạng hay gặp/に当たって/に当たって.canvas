@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"372934ee96afb584","type":"text","text":"に当たって","x":-960,"y":291,"width":250,"height":60},
+		{"id":"69449bdc7f86d4c9","type":"file","file":"Pasted image 20260410081324.png","x":-180,"y":-60,"width":400,"height":211},
+		{"id":"0f65622df67277fa","type":"text","text":"にあたり","x":-1640,"y":60,"width":250,"height":60},
+		{"id":"1240e3f95a15fcf7","type":"file","file":"Pasted image 20260410082125.png","x":-835,"y":-580,"width":505,"height":226},
+		{"id":"a2e4e55bf8843c97","type":"file","file":"Pasted image 20260410081502.png","x":640,"y":291,"width":399,"height":208},
+		{"id":"ea3660989cdf568b","type":"text","text":"Sự kiện trọng đại, có chuẩn bị","x":720,"y":-320,"width":250,"height":60},
+		{"id":"0c45900b63c3a58d","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/に際して/に際して.canvas","x":-68,"y":640,"width":177,"height":105}
+	],
+	"edges":[
+		{"id":"811ce77109a5bd2b","fromNode":"69449bdc7f86d4c9","fromSide":"right","toNode":"a2e4e55bf8843c97","toSide":"left","color":"3","label":"に当たって\nSự kiện trọng đại, ít gặp trong đời\nNhấn mạnh sự chuẩn bị trước"},
+		{"id":"9ef9e8e2131170fb","fromNode":"372934ee96afb584","fromSide":"right","toNode":"69449bdc7f86d4c9","toSide":"left","color":"3","label":"に当たって\nNhân dịp, sắp sửa"},
+		{"id":"8a1d65185386acbf","fromNode":"0f65622df67277fa","fromSide":"right","toNode":"372934ee96afb584","toSide":"left","color":"5"},
+		{"id":"0f26f58a5b402986","fromNode":"0f65622df67277fa","fromSide":"right","toNode":"1240e3f95a15fcf7","toSide":"left","color":"3","label":"Sự kiện trọng đại, có chuẩn bị"},
+		{"id":"b5da3f35d3cf66ee","fromNode":"0c45900b63c3a58d","fromSide":"right","toNode":"a2e4e55bf8843c97","toSide":"left","color":"1","label":"に際して\nDùng cho sự việc bình thường, lẫn đặc biệt\nCó thể lặp lại nhiều lần"},
+		{"id":"293b713a8af7f91c","fromNode":"69449bdc7f86d4c9","fromSide":"right","toNode":"ea3660989cdf568b","toSide":"left","color":"4"},
+		{"id":"a273d73c9c93027a","fromNode":"1240e3f95a15fcf7","fromSide":"right","toNode":"ea3660989cdf568b","toSide":"left","color":"4"}
+	]
+}

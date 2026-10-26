@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c8898f0a00507a7a","type":"text","text":"～に反して","x":-692,"y":-110,"width":250,"height":60},
+		{"id":"9ac98676fe23b767","type":"text","text":"Trái ngược với A, khác với A","x":-145,"y":-251,"width":250,"height":60},
+		{"id":"34c28eb851888813","type":"file","file":"Pasted image 20260412204224.png","x":-71,"y":26,"width":400,"height":226},
+		{"id":"dbd3afa23111774d","type":"text","text":"A là N liên quan đến dự đoán, mong đợi","x":442,"y":-110,"width":250,"height":60},
+		{"id":"5b1f516b0ac31b90","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～に反して.md","x":-145,"y":-660,"width":259,"height":174},
+		{"id":"53ad8d3ac5ff801b","x":-1200,"y":-360,"width":250,"height":60,"type":"text","text":"期待 (kỳ vọng), 予想 (dự đoán), 計画 (kế hoạch)."}
+	],
+	"edges":[
+		{"id":"4f4e5fd42d572ad6","fromNode":"c8898f0a00507a7a","fromSide":"right","toNode":"9ac98676fe23b767","toSide":"left","label":"～に反して"},
+		{"id":"4e288b892a3404f0","fromNode":"c8898f0a00507a7a","fromSide":"right","toNode":"34c28eb851888813","toSide":"left","label":"～に反して"},
+		{"id":"ff09ba00f763f8ae","fromNode":"9ac98676fe23b767","fromSide":"right","toNode":"dbd3afa23111774d","toSide":"left","label":"～に反して"},
+		{"id":"31f1b499c9548f4a","fromNode":"c8898f0a00507a7a","fromSide":"right","toNode":"5b1f516b0ac31b90","toSide":"left","label":"Trái với... (dự đoán, kỳ vọng)."},
+		{"id":"ceb1fd904ab731ed","fromNode":"53ad8d3ac5ff801b","fromSide":"right","toNode":"c8898f0a00507a7a","toSide":"left","label":"期待 (kỳ vọng), 予想 (dự đoán), 計画 (kế hoạch)."}
+	]
+}

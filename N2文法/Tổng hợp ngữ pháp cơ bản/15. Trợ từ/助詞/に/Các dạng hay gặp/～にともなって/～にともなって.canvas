@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9210099b3298a908","type":"text","text":"Do sự ảnh hưởng, biến đổi của A -> sự biến đổi của B diễn ra","x":-234,"y":-54,"width":250,"height":87},
+		{"id":"f5244ea9b99a0da7","type":"text","text":"会社が大きくなるのにともなって、社員もふえた。","x":366,"y":-137,"width":465,"height":50},
+		{"id":"46498ec046fb0fc4","type":"text","text":"時代の変化にともない、人人の考え方も変わる。","x":396,"y":52,"width":435,"height":60},
+		{"id":"82e9ba460d4c4bac","type":"text","text":"～にともなって","x":-743,"y":-197,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7e65b2288cd6d92e","fromNode":"9210099b3298a908","fromSide":"right","toNode":"f5244ea9b99a0da7","toSide":"left","label":"～にともなって"},
+		{"id":"91a9fe63bad30820","fromNode":"9210099b3298a908","fromSide":"right","toNode":"46498ec046fb0fc4","toSide":"left","label":"～にともなって"},
+		{"id":"f3b27b1714ca5354","fromNode":"82e9ba460d4c4bac","fromSide":"right","toNode":"9210099b3298a908","toSide":"left","label":"～にともなって"}
+	]
+}

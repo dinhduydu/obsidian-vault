@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"304ea3cbbedde95c","type":"text","text":"～ついでに","x":-755,"y":-4,"width":250,"height":60},
+		{"id":"095b1cae24f6f56f","type":"text","text":"V辞書形＋ついでに","x":-404,"y":-81,"width":250,"height":60},
+		{"id":"d21cfd5b4e50e0c3","type":"text","text":"Nする：するー＞の＋ついでに","x":-398,"y":57,"width":250,"height":60},
+		{"id":"1a1c9815937891d8","type":"text","text":"Nhân cơ hội làm A thì thực hiện B luôn","x":27,"y":-89,"width":250,"height":60},
+		{"id":"990c4b9ed083e6ae","type":"text","text":"妹：「ちょっと散歩してくるよ。\n姉：「ついでにcombiniでアイスをかってきて。」","x":378,"y":-117,"width":378,"height":58},
+		{"id":"9ed4df04f16efdec","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ついでに.md","x":-219,"y":460,"width":371,"height":173}
+	],
+	"edges":[
+		{"id":"928ae52cadb1b6e7","fromNode":"304ea3cbbedde95c","fromSide":"right","toNode":"095b1cae24f6f56f","toSide":"left"},
+		{"id":"6d40c6d9ada4bdc4","fromNode":"304ea3cbbedde95c","fromSide":"right","toNode":"d21cfd5b4e50e0c3","toSide":"left"},
+		{"id":"49e1329c6714023f","fromNode":"095b1cae24f6f56f","fromSide":"right","toNode":"1a1c9815937891d8","toSide":"left"},
+		{"id":"c3e6494df0669dc7","fromNode":"1a1c9815937891d8","fromSide":"right","toNode":"990c4b9ed083e6ae","toSide":"left"},
+		{"id":"b27fd73f62e27794","fromNode":"304ea3cbbedde95c","fromSide":"right","toNode":"9ed4df04f16efdec","toSide":"left","color":"4","label":" While doing A, take the opportunity to do B / Nhân tiện, tiện thể."}
+	]
+}
