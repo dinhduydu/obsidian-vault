@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"88f6c45b30379062","type":"text","text":"以下は、鉄道アナリストが書いたエッセイである。\n\n列車の移動\n\n　列車の移動は狭い座席にずっと座り続けなくてはならず不快で、運賃・料金も高い。クルマはゆったりした座席だし、自由に道路を走り回れる。高速道路も整備され、クルマ移動のほうがいいと思っている人は多い。クルマ利用（1） していると、列車の移動は苦しいばかりで利用したくないと思ってしまう。\n\nCâu điều kiện nếu A thì việc sử dụng ô tô chỉ ngày càng khổ sở","x":-360,"y":-620,"width":900,"height":280},
+		{"id":"bc42498829168a2e","type":"text","text":"\n　ところが、最近の列車は快適になった。グリーン車もさらに快適さが増している。また、クルマは事故の危険がずっとついて回る。運転しながらの飲食は（2）、ゆっくり味わうことはできない。飲酒は絶対にご法度（注1）である。とくに熟年になると長距離運転は敬遠（注2）したくなる。\n　Không thể nào uống nước 1 cách thư thả, chậm rãi\n　Vừa ăn vừa lái xe ... ko thể thực hiện 1 cách chậm rãi","x":-360,"y":-320,"width":900,"height":160},
+		{"id":"3bd84e63068e0f2c","type":"text","text":"1 こそ\n2 まで\n3 ばかり(Nếu chỉ toàn sử dụng oto)\n4 さえ","x":741,"y":-687,"width":320,"height":134},
+		{"id":"3ae4152e24a092f7","type":"text","text":"1 できないことはないが\n2 できるはずもないが (không gì là không thể)\n3 しようもないが\n4 しづらくはないが","x":760,"y":-407,"width":339,"height":135},
+		{"id":"ee6dc6de375a5367","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てはならない.md","x":-1260,"y":-840,"width":260,"height":188},
+		{"id":"fd3c99d926949607","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようがない／ようもない.md","x":1580,"y":-240,"width":217,"height":145},
+		{"id":"bcb33a01c39181d2","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/が.canvas","x":1608,"y":-508,"width":161,"height":168},
+		{"id":"04681fa20f341717","type":"text","text":"1 当然である\n2 自然である\n3 こうである\n4 そうである","x":779,"y":1140,"width":320,"height":120},
+		{"id":"f6fb5901a2abab7b","type":"text","text":"1 したがる (Người khác muốn làm)\n2 してほしい\n3 すべきである\n4 しかねる","x":757,"y":442,"width":320,"height":120},
+		{"id":"9409fef7f1bb550e","type":"text","text":"\n　通勤電車についても、苦しいばかりで、できるならクルマで通勤したいという人は多い。 （3）地方都市ではクルマ社会になっていて、列車通勤は少なくなっている。\n　Có sự thay đổi nhưng đã xảy ra rồi\n　Hiện tại tiếp diễn\n　Hành động đang xảy ra\n　Hành động đã xảy ra nhưng còn lưu lại kết quả\n\n　大都市でも渋滞をものともせずクルマ通勤している人は多い。朝夕の高速道路の渋滞がそれを証明している。そして営業活動でもクルマを利用（4）。\n\nNをともせず・ともせずに：bất chấp A để làm B -> thể hiện sự dũng cảm\nbất chấp đi làm bằng ô tô\nNをよそに: mặc kệ A vẫn làm B (mặc kệ bố mẹ để kết hôn) -> tiêu cực\n\nKo nên đi làm bằng ô tô vì kẹt xe","x":-380,"y":40,"width":918,"height":440},
+		{"id":"7617cb8803b14507","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はずがない.md","x":1689,"y":40,"width":220,"height":142},
+		{"id":"ff1395fcb6035bca","type":"text","text":"1 それとも\n2 すでに\n3 ちょうど\n4 そのうち","x":770,"y":80,"width":319,"height":138},
+		{"id":"a0aa6ebef4b6494a","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それとも.md","x":1283,"y":80,"width":248,"height":126},
+		{"id":"4d549f60d515e2b1","type":"file","file":"Chữa đề/Learning_Profile/Adverb/すでに.md","x":2180,"y":400,"width":217,"height":122},
+		{"id":"6b1a9c759f9a3f78","type":"file","file":"Chữa đề/Learning_Profile/Adverb/そのうち.md","x":1424,"y":580,"width":265,"height":133},
+		{"id":"c81316795a985aca","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/渋滞.md","x":-880,"y":0,"width":230,"height":207},
+		{"id":"ba691799387e93fe","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てほしい.md","x":1340,"y":880,"width":279,"height":191},
+		{"id":"c49843c040cf0726","x":-740,"y":780,"width":250,"height":60,"type":"text","text":"特急: tàu nhanh"},
+		{"id":"46188d4027ad6781","type":"text","text":"　ところが、このごろはかならず座って通勤できる列車が増えた。いわゆる「通勤ライナー」である。ほとんどが特急車両を使い、座席保証のライナー券を購入して利用する。それがないところでも安い特急料金制度を利用して特急で通勤できるようになった。これは私鉄でも（5） 。また首都圏では普通列車のグリーン車も普及し始めている。\n\n（注1）    ご法度：禁止されていること\n\n（注2）   敬遠する：かかわりを持たないようにすること","x":-382,"y":660,"width":920,"height":210},
+		{"id":"d3bfa7d1bace1b89","x":-740,"y":600,"width":250,"height":60,"type":"text","text":"このごろ: dạo gần đây"}
+	],
+	"edges":[
+		{"id":"e6de2d052b83bb19","fromNode":"88f6c45b30379062","fromSide":"right","toNode":"3bd84e63068e0f2c","toSide":"left"},
+		{"id":"a3f22d3565298432","fromNode":"bc42498829168a2e","fromSide":"right","toNode":"3ae4152e24a092f7","toSide":"left"},
+		{"id":"d095ca2144633c9b","fromNode":"9409fef7f1bb550e","fromSide":"right","toNode":"ff1395fcb6035bca","toSide":"left"},
+		{"id":"36fa34f3cc62138e","fromNode":"9409fef7f1bb550e","fromSide":"right","toNode":"f6fb5901a2abab7b","toSide":"left","label":"したがる"},
+		{"id":"b3631a4624397fac","fromNode":"46188d4027ad6781","fromSide":"right","toNode":"04681fa20f341717","toSide":"left","label":"そうである"},
+		{"id":"46c9114f1fe7121c","fromNode":"ee6dc6de375a5367","fromSide":"right","toNode":"88f6c45b30379062","toSide":"left","label":"てはならず不快で\nKhông được... / Bắt buộc phải tránh... (biểu thị điều cấm đoán/điều phải tránh)."},
+		{"id":"2253e95106c68611","fromNode":"3ae4152e24a092f7","fromSide":"right","toNode":"bcb33a01c39181d2","toSide":"left","label":"dùng để đưa ra sự đối lập giữa A và B"},
+		{"id":"460d973a8ec78503","fromNode":"3ae4152e24a092f7","fromSide":"right","toNode":"fd3c99d926949607","toSide":"left","label":"Không thể... / Không có cách nào để V."},
+		{"id":"9b7a15833aba1cfb","fromNode":"3ae4152e24a092f7","fromSide":"right","toNode":"7617cb8803b14507","toSide":"left"},
+		{"id":"77d2e95c138c00d3","fromNode":"ff1395fcb6035bca","fromSide":"right","toNode":"6b1a9c759f9a3f78","toSide":"left","label":"Diễn tả một sự thay đổi xảy ra theo thời gian.\nDùng ở thì tương lai gần"},
+		{"id":"259ee5552562ad7e","fromNode":"ff1395fcb6035bca","fromSide":"right","toNode":"a0aa6ebef4b6494a","toSide":"left"},
+		{"id":"9c3a5b21518ea5ce","fromNode":"ff1395fcb6035bca","fromSide":"right","toNode":"4d549f60d515e2b1","toSide":"left","label":"Sự thay đổi đã được diễn ra\nDùng để nhấn mạnh một sự việc đã hoàn tất trước một thời điểm nào đó.\nVた or　Vている＋すでに"},
+		{"id":"57df0397ae96095e","fromNode":"c81316795a985aca","fromSide":"right","toNode":"9409fef7f1bb550e","toSide":"left","label":"Tắc đường, kẹt xe."},
+		{"id":"b495cde1aa053983","fromNode":"f6fb5901a2abab7b","fromSide":"right","toNode":"ba691799387e93fe","toSide":"left","label":"Tôi muốn ai đó làm việc gì (Want someone to do something)."},
+		{"id":"ba80d4598a6f3f29","fromNode":"c49843c040cf0726","fromSide":"right","toNode":"46188d4027ad6781","toSide":"left"},
+		{"id":"a107d2b1d5d23758","fromNode":"d3bfa7d1bace1b89","fromSide":"right","toNode":"46188d4027ad6781","toSide":"left"}
+	]
+}
