@@ -19,12 +19,14 @@ II. Nhóm “cảm xúc – tâm trạng” (rất quan trọng)
 • 気持ちいい: dễ chịu  
 • 気持ち悪い（きもちわるい）: ghê, khó chịu  
 • 気が楽（きがらく）: thoải mái  
-• 気楽（きらく）: vô tư, thoải mái  
+• 気楽（きらく）: vô tư, thoải mái
+- もらうお金は少なくても気楽な仕事のほうがいい。
+• 気楽に生きる：sống 1 cách thoải mái
 • 気まずい: ngượng ngùng, khó xử  
 • 気の毒（きのどく）: đáng thương  
 • 気になる: để tâm, tò mò  
 • 気にする: bận tâm  
-• 気に入る: thích  
+• 気に入る: thích
   
 ---  
   

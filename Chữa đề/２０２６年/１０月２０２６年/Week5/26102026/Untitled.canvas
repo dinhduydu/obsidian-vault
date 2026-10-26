@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"00d266abd398c128","type":"text","text":"1．\n\n*\n1 điểm\n1 とすれば\n2 としても (chọn vì có いくら・どんな)\n3 だけに\n4 ばかりに","x":540,"y":-580,"width":529,"height":241},
+		{"id":"db0dfdbfe793fe93","type":"text","text":"2．\n\n*\n1 điểm\n1 そうすると\n2 そうとあれば\n3 そうでないと\n4 そういえば","x":540,"y":-300,"width":569,"height":261},
+		{"id":"8ca6e11730281c0b","type":"text","text":"1 にしろ\n2 としたら\n3 とはいうものの\n4 にもかかわらず","x":540,"y":60,"width":459,"height":156},
+		{"id":"2194a5b3acd5050f","type":"text","text":"以下は、雑誌のコラムである。\n\n外食する際の心がけ\n\n　外食をする際、特に評判の店や話題の店に初めて出かけるときに心がけていることがいくつかある。まず、あらかじめ批判的にならないこと。あるいは逆に、過度な期待をして行かないこと。どんなに有名な店である（1） 、心を「無」にしてその料理に向かうべきだ。なかなか予約が取れない店などに出かけるときは、期待に胸がふくらむのもわかる。ただし、期待はしてもいいけれど、「こういう味であるはず」「こんな店であるはず」という思い込みはよくない。自分を無にし、料理に対して素直になること。（2）、料理の味を本当に楽しむことはできない。\n\nNên bỏ cái tôi của mình và thành thật với món ăn đó\nNên .. Không thể -> Nếu ko -> そうでないと","x":-580,"y":-460,"width":940,"height":320},
+		{"id":"d1039a5f0d2e833c","type":"file","file":"Chữa đề/Learning_Profile/Katakana/ぺちゃくちゃ.md","x":-1680,"y":-62,"width":640,"height":400},
+		{"id":"08fb04b6644b64e4","type":"text","text":"\n\n　他にも私が日頃から食事に出かけるときに心がけていることがある。食事中、料理が出されている（3）ぺちゃくちゃしゃべる人とは食べに行かないことだ。料理には、食べごろというものがある。例えばにぎり寿司は、出された瞬間が最もおいしい。酒を飲んだりしゃべったりしていて寿司をそのまま置いておくことは、食べごろを逃すこと（4）。\n\nNgười nói liên hồi, món ăn được đưa ra mà vẫn ko ngừng nói\n-> thế nhưng mà\n\nCái việc đấy mà ... bỏ lỡ thời điểm ăn ngon\nViệc A chính là B\nA　は　B　です。\nMẫu ngữ pháp tương tự đuôi danh từ","x":-580,"y":60,"width":940,"height":260},
+		{"id":"bcfe68b12fceaac3","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/そうでないと.md","x":1440,"y":-529,"width":285,"height":229},
+		{"id":"5bf83a38476b83dd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～にしろ.md","x":2000,"y":-242,"width":273,"height":145},
+		{"id":"fc19bc804b935980","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/にもかかわらず.md","x":2540,"y":50,"width":265,"height":176},
+		{"id":"dde5bbf3926293ce","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/とはいうものの.md","x":2500,"y":392,"width":400,"height":400},
+		{"id":"947fc2e91ad74ee4","type":"text","text":"とはいっても","x":3140,"y":362,"width":250,"height":60},
+		{"id":"3620f9db8c4cabdb","type":"text","text":"1 次第 (bởi )\n2 なり\n3 ながら (mặc dù)\n4 どおり(theo như dự định, kế hoạch, mong muốn)","x":526,"y":880,"width":309,"height":144},
+		{"id":"d3374dfea2b942e6","type":"text","text":"1 にほかならない\n2 にすぎない\n3 に越したことはない\n4 にはあたらない","x":550,"y":520,"width":439,"height":184},
+		{"id":"6701a394564652d6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜としても.md","x":1430,"y":-920,"width":306,"height":159},
+		{"id":"bea23568dced57b7","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に越したことはない.md","x":1684,"y":1120,"width":240,"height":150},
+		{"id":"9740fabe73c4907d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にほかならない.md","x":1684,"y":612,"width":322,"height":216},
+		{"id":"25a0f8ba13f6ee80","type":"text","text":"　また、料理や料理人あるいは食材に対して敬意を持てない人とも、あまり食卓を共にしたくない。料理に対する批評や知識をいろいろと言われるのも困る。それを聞かされることほど苦痛なものはない。かといって、おいしいものを食べながら、無表情で無反応な人もつまらない。その人（5） の感想がほしい。おいしくものをいただくのは、心に余裕が必要なのだ。","x":-580,"y":902,"width":940,"height":100},
+		{"id":"ef769701f3acbdd8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜なりの.md","x":1080,"y":1270,"width":281,"height":180}
+	],
+	"edges":[
+		{"id":"3eebb1f7aab5e76d","fromNode":"db0dfdbfe793fe93","fromSide":"right","toNode":"bcfe68b12fceaac3","toSide":"left","color":"4","label":" Nếu không thì, nếu không như vậy thì."},
+		{"id":"062da5e945a5f5e9","fromNode":"d1039a5f0d2e833c","fromSide":"right","toNode":"08fb04b6644b64e4","toSide":"left","label":"Tiếng nói chuyện huyên thuyên, liến thoắng."},
+		{"id":"2a11343319f07344","fromNode":"08fb04b6644b64e4","fromSide":"right","toNode":"8ca6e11730281c0b","toSide":"left"},
+		{"id":"762205da5a3f1a5b","fromNode":"08fb04b6644b64e4","fromSide":"right","toNode":"d3374dfea2b942e6","toSide":"left"},
+		{"id":"f6ba1cf6f4d5afa1","fromNode":"d3374dfea2b942e6","fromSide":"right","toNode":"bea23568dced57b7","toSide":"left","label":"Đưa ra lời khuyên... là tốt nhất / Không gì tốt hơn là... / ... thì vẫn hơn (Nothing is better than / Best to)."},
+		{"id":"b1207ba82ec87d12","fromNode":"25a0f8ba13f6ee80","fromSide":"right","toNode":"3620f9db8c4cabdb","toSide":"left"},
+		{"id":"809d54e5139dad09","fromNode":"8ca6e11730281c0b","fromSide":"right","toNode":"fc19bc804b935980","toSide":"left","color":"4","label":"Mặc dù... nhưng... / Cho dù... thế mà... (Despite / In spite of)."},
+		{"id":"5abc23374e6fcc84","fromNode":"2194a5b3acd5050f","fromSide":"right","toNode":"00d266abd398c128","toSide":"left"},
+		{"id":"72510e175a94fd87","fromNode":"2194a5b3acd5050f","fromSide":"right","toNode":"db0dfdbfe793fe93","toSide":"left"},
+		{"id":"10c0b82296d64e79","fromNode":"8ca6e11730281c0b","fromSide":"right","toNode":"5bf83a38476b83dd","toSide":"left","label":"Cho dù là... hay là... (dùng để liệt kê các ví dụ cùng loại).\nGiả sử"},
+		{"id":"bce0a1864436f9cc","fromNode":"8ca6e11730281c0b","fromSide":"right","toNode":"dde5bbf3926293ce","toSide":"left","label":"Mặc dù nói là thế nhưng..., Mặc dù vậy... (Thừa nhận sự thật/ý kiến ở vế 1 nhưng vế 2 đưa ra thực tế/suy nghĩ trái ngược)."},
+		{"id":"c2d5b51f34c2f8d6","fromNode":"dde5bbf3926293ce","fromSide":"right","toNode":"947fc2e91ad74ee4","toSide":"left","color":"4"},
+		{"id":"75d7779891369dc3","fromNode":"00d266abd398c128","fromSide":"right","toNode":"6701a394564652d6","toSide":"left","color":"4"},
+		{"id":"9e84ab91c90a4c16","fromNode":"d3374dfea2b942e6","fromSide":"right","toNode":"9740fabe73c4907d","toSide":"left","color":"4","label":"Đi sau N\nA chính là B\n\nChính là... / Chính vì... chứ không thể là gì khác."},
+		{"id":"62864c90565f6f49","fromNode":"3620f9db8c4cabdb","fromSide":"right","toNode":"ef769701f3acbdd8","toSide":"left","color":"4","label":"Theo cách của.../ Riêng của..."}
+	]
+}
