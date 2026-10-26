@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"f21e79a81cca7247","x":-110,"y":-43,"width":250,"height":60,"type":"text","text":"うっかり"}
+		{"id":"f21e79a81cca7247","type":"text","text":"うっかり","x":-110,"y":-43,"width":250,"height":60},
+		{"id":"e76f736d3dc8c353","type":"text","text":"＋てしまった","x":271,"y":-227,"width":250,"height":60},
+		{"id":"1103ee8a37dd5e3b","x":300,"y":40,"width":250,"height":60,"type":"text","text":"9. うっかり忘れる：vô tình quên"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b2c0eda1fb02de4b","fromNode":"f21e79a81cca7247","fromSide":"right","toNode":"e76f736d3dc8c353","toSide":"left"},
+		{"id":"3bdf4a4aa794dbeb","fromNode":"f21e79a81cca7247","fromSide":"right","toNode":"1103ee8a37dd5e3b","toSide":"left"}
+	]
 }

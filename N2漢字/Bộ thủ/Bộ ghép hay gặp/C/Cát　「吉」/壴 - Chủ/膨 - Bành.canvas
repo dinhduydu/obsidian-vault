@@ -4,10 +4,12 @@
 		{"id":"b0879fb9b05ebaef","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cát　「吉」/壴 - Chủ/壴 - Chủ.canvas","x":-340,"y":-200,"width":103,"height":127},
 		{"id":"5f1bd0d867462275","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-420,"y":120,"width":177,"height":197},
 		{"id":"114e3138dff96d86","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/S/Sam　「彡」/Sam　「彡」.canvas","x":-620,"y":-59,"width":114,"height":121},
-		{"id":"a24d7222f3cd44d5","x":258,"y":-95,"width":250,"height":60,"type":"text","text":"膨大 ( ぼうだい) - lớn lên; to ra; khổng lồ"},
-		{"id":"4af51a6446548502","x":258,"y":40,"width":250,"height":60,"type":"text","text":"膨張 ( ぼうちょう) - sự bành trướng; sự tăng gia; sự mở rộng; sự giãn nở"},
-		{"id":"fb096667af4abd38","x":258,"y":-260,"width":250,"height":60,"type":"text","text":"膨れる ( ふくれる) - bành trướng; to lên; phồng ra; phễnh ra"},
-		{"id":"23d7b680c7fe1f45","x":280,"y":-420,"width":250,"height":60,"type":"text","text":"水膨れ (みずふくれ) - vết bỏng giộp; chỗ giộp da; chỗ phồng da"}
+		{"id":"a24d7222f3cd44d5","type":"text","text":"膨大 ( ぼうだい) - lớn lên; to ra; khổng lồ","x":258,"y":-95,"width":250,"height":60},
+		{"id":"4af51a6446548502","type":"text","text":"膨張 ( ぼうちょう) - sự bành trướng; sự tăng gia; sự mở rộng; sự giãn nở","x":258,"y":40,"width":250,"height":60},
+		{"id":"fb096667af4abd38","type":"text","text":"膨れる ( ふくれる) - bành trướng; to lên; phồng ra; phễnh ra","x":258,"y":-260,"width":250,"height":60},
+		{"id":"23d7b680c7fe1f45","type":"text","text":"水膨れ (みずふくれ) - vết bỏng giộp; chỗ giộp da; chỗ phồng da","x":280,"y":-420,"width":250,"height":60},
+		{"id":"5344c8632928037d","x":900,"y":-90,"width":420,"height":50,"type":"text","text":"この国は膨大な天然資源に恵(めぐ)まれている。\nĐất nước này được thiên nhiên ưu đãi nguồn tài nguyên to lớn (nhìn thấy bằng mắt)"},
+		{"id":"afabd2183ab92f77","x":700,"y":-200,"width":123,"height":80,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Điền　「田」/思 - Tư/恵 - Huệ/恵 - Huệ.canvas"}
 	],
 	"edges":[
 		{"id":"ca0823dc5b3f7d83","fromNode":"b0879fb9b05ebaef","fromSide":"right","toNode":"5594094f8b2dcfc4","toSide":"left"},
@@ -16,6 +18,8 @@
 		{"id":"4e81f612bb0a5f8b","fromNode":"5594094f8b2dcfc4","fromSide":"right","toNode":"a24d7222f3cd44d5","toSide":"left"},
 		{"id":"f6a1ac65d8c2b684","fromNode":"5594094f8b2dcfc4","fromSide":"right","toNode":"4af51a6446548502","toSide":"left"},
 		{"id":"64476af5f0bf75ab","fromNode":"5594094f8b2dcfc4","fromSide":"right","toNode":"fb096667af4abd38","toSide":"left"},
-		{"id":"021510828f840e27","fromNode":"5594094f8b2dcfc4","fromSide":"right","toNode":"23d7b680c7fe1f45","toSide":"left"}
+		{"id":"021510828f840e27","fromNode":"5594094f8b2dcfc4","fromSide":"right","toNode":"23d7b680c7fe1f45","toSide":"left"},
+		{"id":"1d17205a5e0e9771","fromNode":"a24d7222f3cd44d5","fromSide":"right","toNode":"5344c8632928037d","toSide":"left","label":"Vật chất"},
+		{"id":"1ba1f2b84537682e","fromNode":"afabd2183ab92f77","fromSide":"right","toNode":"5344c8632928037d","toSide":"left"}
 	]
 }

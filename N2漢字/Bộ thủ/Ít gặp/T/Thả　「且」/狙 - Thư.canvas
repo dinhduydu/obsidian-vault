@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"1beff53f49df4c78","x":-213,"y":-49,"width":250,"height":60,"type":"text","text":"狙 - Thư"},
-		{"id":"f68909f5c94ddb7a","x":-520,"y":80,"width":173,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas"}
+		{"id":"1beff53f49df4c78","type":"text","text":"狙 - Thư","x":-213,"y":-49,"width":250,"height":60},
+		{"id":"f68909f5c94ddb7a","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thả　「且」/Thả　「且」.canvas","x":-520,"y":80,"width":173,"height":123},
+		{"id":"1fa24dc3303c904f","type":"text","text":"彼は次期社長のいすをねらっている。","x":280,"y":-300,"width":250,"height":60},
+		{"id":"3d022268b4a231ad","x":280,"y":-44,"width":250,"height":50,"type":"text","text":"狙い（ねらい） ＝目的 Đích nhắm, mục đích"}
 	],
 	"edges":[
-		{"id":"c3014a53b9d26aa0","fromNode":"f68909f5c94ddb7a","fromSide":"right","toNode":"1beff53f49df4c78","toSide":"left"}
+		{"id":"c3014a53b9d26aa0","fromNode":"f68909f5c94ddb7a","fromSide":"right","toNode":"1beff53f49df4c78","toSide":"left"},
+		{"id":"7d6258aaea4431b5","fromNode":"1beff53f49df4c78","fromSide":"right","toNode":"1fa24dc3303c904f","toSide":"left","label":"ねらう: nhắm tới"},
+		{"id":"9d039cb463da567a","fromNode":"1beff53f49df4c78","fromSide":"right","toNode":"3d022268b4a231ad","toSide":"left"}
 	]
 }
