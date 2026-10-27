@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"92d7fe2441d89469","type":"text","text":"うちに","x":650,"y":-29,"width":250,"height":60},
+		{"id":"a9b8b7a408d6d29d","type":"text","text":"「N3」うちに","x":75,"y":174,"width":250,"height":60},
+		{"id":"1e7c52f8d47c08de","type":"text","text":"V辞書形＋うちに","x":-340,"y":137,"width":250,"height":60},
+		{"id":"c5b110867c47fc98","type":"text","text":"Vない＋うちに","x":-340,"y":257,"width":250,"height":60},
+		{"id":"6f611a8f345f721d","type":"text","text":"Vている","x":-340,"y":417,"width":250,"height":60},
+		{"id":"7a962daf69e49ffd","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-900,"y":392,"width":200,"height":110},
+		{"id":"e591416d331122d4","type":"text","text":"Aい・Aな・Nのうちに","x":-322,"y":643,"width":250,"height":60},
+		{"id":"d5beef33b2ab219a","type":"text","text":"かのうちに","x":20,"y":-203,"width":250,"height":60},
+		{"id":"19f8521a6543f414","type":"file","file":"Pasted image 20260505213049.png","x":-500,"y":-703,"width":400,"height":262},
+		{"id":"0928b03ef3ef9115","type":"text","text":"Số lượng thời gian+うちに+もしない","x":1398,"y":-490,"width":250,"height":60},
+		{"id":"8bb4e8ed0822eba0","type":"text","text":"thời gian ngắn, chưa đến bao lâu thì đã có sự thay đổi B","x":1957,"y":-564,"width":250,"height":60},
+		{"id":"015af759e1900aea","type":"text","text":"何か月もしないうちに","x":1962,"y":-422,"width":250,"height":60},
+		{"id":"b12ce57acfc17b1a","type":"text","text":"か～ないかうちに","x":1343,"y":312,"width":250,"height":60},
+		{"id":"be67da94aee83f29","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":2003,"y":200,"width":79,"height":50},
+		{"id":"26c242f83216e8da","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":2003,"y":480,"width":108,"height":50}
+	],
+	"edges":[
+		{"id":"d3f51641e5b32627","fromNode":"92d7fe2441d89469","fromSide":"left","toNode":"d5beef33b2ab219a","toSide":"right","label":"かのうちに"},
+		{"id":"184dcd167f887292","fromNode":"92d7fe2441d89469","fromSide":"left","toNode":"a9b8b7a408d6d29d","toSide":"right","label":"「N3」うちに"},
+		{"id":"5e31b5da8c5be19f","fromNode":"a9b8b7a408d6d29d","fromSide":"left","toNode":"1e7c52f8d47c08de","toSide":"right"},
+		{"id":"123413e1909af72c","fromNode":"a9b8b7a408d6d29d","fromSide":"left","toNode":"c5b110867c47fc98","toSide":"right"},
+		{"id":"4dfa50275bb9e330","fromNode":"a9b8b7a408d6d29d","fromSide":"left","toNode":"6f611a8f345f721d","toSide":"right"},
+		{"id":"7116e326c0ef20a1","fromNode":"a9b8b7a408d6d29d","fromSide":"left","toNode":"e591416d331122d4","toSide":"right"},
+		{"id":"7a38beae30db1fe1","fromNode":"7a962daf69e49ffd","fromSide":"right","toNode":"6f611a8f345f721d","toSide":"left"},
+		{"id":"c489faaac7a6717a","fromNode":"d5beef33b2ab219a","fromSide":"top","toNode":"19f8521a6543f414","toSide":"right","label":"かのうちに"},
+		{"id":"ec49b90101585780","fromNode":"92d7fe2441d89469","fromSide":"right","toNode":"b12ce57acfc17b1a","toSide":"left","label":"か～ないかうちに"},
+		{"id":"3dbe3875923b00c1","fromNode":"92d7fe2441d89469","fromSide":"right","toNode":"0928b03ef3ef9115","toSide":"left","label":"Số lượng thời gian+うちに\n+もしない"},
+		{"id":"66ee2f1b598a3817","fromNode":"b12ce57acfc17b1a","fromSide":"right","toNode":"be67da94aee83f29","toSide":"left","label":"か～ないかうちに"},
+		{"id":"ece138992941f621","fromNode":"b12ce57acfc17b1a","fromSide":"right","toNode":"26c242f83216e8da","toSide":"left","label":"か～ないかうちに"},
+		{"id":"c0f65f44712772e1","fromNode":"0928b03ef3ef9115","fromSide":"right","toNode":"8bb4e8ed0822eba0","toSide":"left"},
+		{"id":"bbf307cda429403e","fromNode":"0928b03ef3ef9115","fromSide":"right","toNode":"015af759e1900aea","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"69b4c3e1a10c7885","type":"text","text":"そのうち","x":-510,"y":-181,"width":250,"height":60},
+		{"id":"40e3232939a40f78","type":"text","text":"つまらないと感じたものも、続けてみると**そのうち**楽しくなってくる","x":-71,"y":-181,"width":582,"height":50},
+		{"id":"c75310672b1004f1","type":"text","text":"Chỉ tương lai, kết quả phía sau","x":-56,"y":-344,"width":250,"height":60},
+		{"id":"54ce62060fbaa9ef","type":"file","file":"Chữa đề/Learning_Profile/Adverb/そのうち.md","x":-94,"y":-56,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5b0333a5385c50bf","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left"},
+		{"id":"08233f83fb2004b9","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"c75310672b1004f1","toSide":"left"},
+		{"id":"9e62e665c5d228d3","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"54ce62060fbaa9ef","toSide":"left"}
+	]
+}

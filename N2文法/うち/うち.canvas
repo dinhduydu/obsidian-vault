@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3675d42eeb01b0ff","type":"file","file":"N2文法/うち/うちに.canvas","x":-180,"y":260,"width":237,"height":115},
+		{"id":"26b7f0ac5f9873ec","type":"text","text":"うち","x":260,"y":288,"width":250,"height":60},
+		{"id":"7e6ba75ec1987bb5","x":705,"y":243,"width":365,"height":149,"type":"file","file":"N2文法/うち/そのうち.canvas"}
+	],
+	"edges":[
+		{"id":"3c537b5b1f5c0289","fromNode":"26b7f0ac5f9873ec","fromSide":"left","toNode":"3675d42eeb01b0ff","toSide":"right"},
+		{"id":"4b95db3d5b56d549","fromNode":"26b7f0ac5f9873ec","fromSide":"right","toNode":"7e6ba75ec1987bb5","toSide":"left"}
+	]
+}

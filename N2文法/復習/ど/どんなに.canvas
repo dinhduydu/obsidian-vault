@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"8a1110646bcf825e","type":"text","text":"どんな","x":1030,"y":-548,"width":250,"height":50},
+		{"id":"c05ec4063978c59e","type":"text","text":"どんなに・いくら～ても","x":522,"y":-266,"width":250,"height":60},
+		{"id":"eeeaad8144a18e71","type":"text","text":"ても","x":159,"y":-63,"width":138,"height":50},
+		{"id":"e5fc0e80596e2861","type":"text","text":"Vても\nAいー＞ても\nAなー＞でも\nNでも","x":635,"y":-67,"width":250,"height":115},
+		{"id":"f40469d3728030ba","type":"text","text":"Diễn tả cho dù ~ ở mức độ cao thì cũng sẽ xảy ra, sẽ làm","x":924,"y":-13,"width":250,"height":101},
+		{"id":"a2396fdc887c96c4","type":"text","text":"でも","x":310,"y":247,"width":250,"height":60},
+		{"id":"3ce0083c4039e7b1","type":"text","text":"疑問詞＋でも\n（いつでも；どこでも；だれでも）","x":16,"y":459,"width":321,"height":89},
+		{"id":"784467cbc5d27388","type":"text","text":"どんなに","x":-443,"y":-326,"width":250,"height":60},
+		{"id":"364b8dcace62fd38","type":"text","text":"Nhấn mạnh mức độ","x":-854,"y":-392,"width":250,"height":60},
+		{"id":"39076992c62efbfa","type":"text","text":"Cho biết dù là điều kiện, tình huống, trạng thái nào thì cũng ko ảnh hưởng sự việc phía sau","x":-867,"y":-272,"width":250,"height":120},
+		{"id":"1451e7630aa6fc1f","type":"text","text":"Diễn tả việc xảy ra trái ngược với việc được cho là đương nhiên và làm việc trái ngược","x":-196,"y":-34,"width":250,"height":122},
+		{"id":"ea53f18d6043c2af","type":"text","text":"いくら","x":-888,"y":3,"width":250,"height":60},
+		{"id":"d25def3af0fd4f76","type":"text","text":"Nhấn mạnh sô","x":-1280,"y":-54,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"56cb2b57f0538ae3","fromNode":"8a1110646bcf825e","fromSide":"bottom","toNode":"c05ec4063978c59e","toSide":"top","label":"どんなに・いくら"},
+		{"id":"f23b7ece6cbb126f","fromNode":"c05ec4063978c59e","fromSide":"bottom","toNode":"eeeaad8144a18e71","toSide":"top","label":"ても"},
+		{"id":"c3114cc52e652241","fromNode":"c05ec4063978c59e","fromSide":"bottom","toNode":"e5fc0e80596e2861","toSide":"top"},
+		{"id":"d6edbb0415f67733","fromNode":"c05ec4063978c59e","fromSide":"bottom","toNode":"f40469d3728030ba","toSide":"top"},
+		{"id":"f2b3021fee152887","fromNode":"c05ec4063978c59e","fromSide":"left","toNode":"784467cbc5d27388","toSide":"right","label":"どんなに"},
+		{"id":"053e31af7dd73e66","fromNode":"c05ec4063978c59e","fromSide":"left","toNode":"ea53f18d6043c2af","toSide":"right","label":"いくら"},
+		{"id":"55414fe8a098e8de","fromNode":"eeeaad8144a18e71","fromSide":"left","toNode":"1451e7630aa6fc1f","toSide":"right"},
+		{"id":"4aa55f96b178f950","fromNode":"a2396fdc887c96c4","fromSide":"top","toNode":"e5fc0e80596e2861","toSide":"bottom"},
+		{"id":"a9a1334473610abb","fromNode":"a2396fdc887c96c4","fromSide":"bottom","toNode":"3ce0083c4039e7b1","toSide":"top"},
+		{"id":"0dcb830d523d5317","fromNode":"784467cbc5d27388","fromSide":"left","toNode":"364b8dcace62fd38","toSide":"right"},
+		{"id":"8588aa5e23dde5e5","fromNode":"784467cbc5d27388","fromSide":"left","toNode":"39076992c62efbfa","toSide":"right"},
+		{"id":"d4b12a721edf2b17","fromNode":"ea53f18d6043c2af","fromSide":"left","toNode":"d25def3af0fd4f76","toSide":"right"}
+	]
+}

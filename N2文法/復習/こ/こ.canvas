@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1f4836f50b7c6607","type":"text","text":"こ","x":119,"y":-64,"width":250,"height":60},
+		{"id":"f5752f7ced49ce0f","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/こそ.canvas","x":-769,"y":-336,"width":400,"height":400},
+		{"id":"6113be3763a4f93c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/こう.md","x":660,"y":-700,"width":261,"height":143},
+		{"id":"858077fc93eb13ce","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/こうした.md","x":1120,"y":-980,"width":263,"height":101},
+		{"id":"f542233a0ae91cb1","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/こうして.md","x":1140,"y":-557,"width":328,"height":126},
+		{"id":"94699733fd17e682","type":"text","text":"`指示代名詞「こうした」 ＋ 名詞`.","x":671,"y":-1080,"width":289,"height":60},
+		{"id":"5910fc050238a1f9","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/こんな.md","x":800,"y":169,"width":370,"height":149},
+		{"id":"6ff7e30f25052ae0","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/こんなに.md","x":1420,"y":182,"width":344,"height":123},
+		{"id":"edf7768f1bcaa33a","x":100,"y":318,"width":289,"height":177,"type":"file","file":"N2文法/復習/こ/これ.canvas"}
+	],
+	"edges":[
+		{"id":"9d2d840985e0f837","fromNode":"1f4836f50b7c6607","fromSide":"bottom","toNode":"edf7768f1bcaa33a","toSide":"top","label":"これ → cái này"},
+		{"id":"5c44cffa4fe4126e","fromNode":"1f4836f50b7c6607","fromSide":"left","toNode":"f5752f7ced49ce0f","toSide":"right","label":"こそ"},
+		{"id":"06751b1be874be18","fromNode":"6113be3763a4f93c","fromSide":"right","toNode":"858077fc93eb13ce","toSide":"left","label":"Những... như thế này (Such / These kinds of)."},
+		{"id":"d27007e26f032e98","fromNode":"6113be3763a4f93c","fromSide":"right","toNode":"f542233a0ae91cb1","toSide":"left"},
+		{"id":"0c54f12b914cb3d5","fromNode":"94699733fd17e682","fromSide":"right","toNode":"858077fc93eb13ce","toSide":"left"},
+		{"id":"a55e4499d481dd89","fromNode":"1f4836f50b7c6607","fromSide":"right","toNode":"6113be3763a4f93c","toSide":"left","label":"こう＋V"},
+		{"id":"1c44c2080c0bfa7b","fromNode":"1f4836f50b7c6607","fromSide":"right","toNode":"5910fc050238a1f9","toSide":"left"},
+		{"id":"ef97824a9fbac9e5","fromNode":"5910fc050238a1f9","fromSide":"right","toNode":"6ff7e30f25052ae0","toSide":"left"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4d88670b7acf8399","type":"text","text":"どう","x":302,"y":436,"width":250,"height":60},
+		{"id":"adbbfe850774806e","type":"text","text":"～たらどう（ですか）","x":-282,"y":205,"width":250,"height":60},
+		{"id":"bb7cb4396fb89d74","type":"text","text":"たら","x":-467,"y":-96,"width":250,"height":60},
+		{"id":"e0e71e5d63d54b74","type":"text","text":"たらいかがですか","x":134,"y":-212,"width":250,"height":60},
+		{"id":"0ceb55c92bc21815","type":"text","text":"どうか","x":922,"y":336,"width":250,"height":60},
+		{"id":"3abed4396fbdb662","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-1172,"y":-496,"width":400,"height":400},
+		{"id":"5f3401e003c2cb2c","type":"text","text":"どうVても","x":797,"y":680,"width":250,"height":60},
+		{"id":"9d51777647c32e94","type":"text","text":"（Nが）どう考えてもおかしくはないか。","x":731,"y":856,"width":382,"height":50}
+	],
+	"edges":[
+		{"id":"00736d03f7850c75","fromNode":"4d88670b7acf8399","fromSide":"left","toNode":"adbbfe850774806e","toSide":"right","label":"～たらどう（ですか）"},
+		{"id":"d3f9b40d7bf0864a","fromNode":"4d88670b7acf8399","fromSide":"right","toNode":"0ceb55c92bc21815","toSide":"left","label":"どうか"},
+		{"id":"f5493aefc09b6243","fromNode":"bb7cb4396fb89d74","fromSide":"bottom","toNode":"adbbfe850774806e","toSide":"top"},
+		{"id":"3e72f3feed312b0a","fromNode":"bb7cb4396fb89d74","fromSide":"right","toNode":"e0e71e5d63d54b74","toSide":"left"},
+		{"id":"11ad46f05b46b00a","fromNode":"bb7cb4396fb89d74","fromSide":"left","toNode":"3abed4396fbdb662","toSide":"right","label":"Vてみたらどう"},
+		{"id":"0042e7c6b9d27eac","fromNode":"5f3401e003c2cb2c","fromSide":"bottom","toNode":"9d51777647c32e94","toSide":"top"},
+		{"id":"9cc551ec36bb6383","fromNode":"4d88670b7acf8399","fromSide":"right","toNode":"5f3401e003c2cb2c","toSide":"left"}
+	]
+}
