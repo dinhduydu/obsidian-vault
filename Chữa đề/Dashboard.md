@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 542
-- Total Knowledge Items: 5530
-- Correct: 3405
-- Wrong: 5641
+- Total Reviews: 543
+- Total Knowledge Items: 5538
+- Correct: 3423
+- Wrong: 5669
 - Accuracy: 37.6%
 
 ## 🚨 Review Queue
@@ -18,6 +18,7 @@
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
+- [[語彙の文脈規定]] | Reading| Score: 65| Wrong: 10
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 10
@@ -29,7 +30,6 @@
 - [[すっかり]] | Adverb| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[〜こそ]] | Grammar| Score: 55| Wrong: 8
-- [[〜どころではない]] | Grammar| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -41,6 +41,7 @@
 - [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[〜にすぎない]] (Grammar) Wrong: 11
+- [[語彙の文脈規定]] (Reading) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
@@ -52,22 +53,21 @@
 - [[〜に違いない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
 - [[〜あまり]] (Grammar) Wrong: 9
-- [[最もよいもの]] (FixedExpression) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 34.8% (Correct 316 / Wrong 591)
-- Collocation: 36.9% (Correct 143 / Wrong 245)
-- CompoundVerb: 33.0% (Correct 146 / Wrong 297)
-- Conjunction: 25.8% (Correct 66 / Wrong 190)
-- Demonstratives: 12.2% (Correct 11 / Wrong 79)
-- FixedExpression: 34.5% (Correct 189 / Wrong 359)
-- Grammar: 36.3% (Correct 833 / Wrong 1459)
-- Kanji: 42.7% (Correct 331 / Wrong 444)
-- Katakana: 36.1% (Correct 141 / Wrong 250)
+- Adverb: 35.3% (Correct 318 / Wrong 584)
+- Collocation: 36.4% (Correct 143 / Wrong 250)
+- CompoundVerb: 33.5% (Correct 149 / Wrong 296)
+- Conjunction: 25.9% (Correct 68 / Wrong 195)
+- Demonstratives: 11.6% (Correct 11 / Wrong 84)
+- FixedExpression: 34.4% (Correct 189 / Wrong 361)
+- Grammar: 36.3% (Correct 834 / Wrong 1461)
+- Kanji: 43.5% (Correct 343 / Wrong 445)
+- Katakana: 36.5% (Correct 144 / Wrong 250)
 - Keigo: 26.9% (Correct 39 / Wrong 106)
-- Reading: 26.1% (Correct 88 / Wrong 249)
-- Vocabulary: 44.5% (Correct 1102 / Wrong 1372)
+- Reading: 26.2% (Correct 92 / Wrong 259)
+- Vocabulary: 44.2% (Correct 1093 / Wrong 1378)
 
 ## 📚 Top Grammar
 
@@ -123,6 +123,7 @@
 
 ## 📚 Top Reading
 
+- [[語彙の文脈規定]] (Score: 65)
 - [[即時応答]] (Score: 55)
 - [[語彙の文脈的用法把握]] (Score: 45)
 - [[敬語の文脈判断]] (Score: 40)
@@ -132,7 +133,6 @@
 - [[全体理解]] (Score: 35)
 - [[質問とせんたくし]] (Score: 35)
 - [[Hệ thống Ko-So-A-Do trong liên kết văn bản]] (Score: 32)
-- [[レストランの評価と個人の好み]] (Score: 30)
 
 ## 📚 Top CompoundVerb
 
@@ -151,6 +151,7 @@
 
 - [[最もよいもの]] (Score: 50)
 - [[返事]] (Score: 50)
+- [[ため息をつく]] (Score: 30)
 - [[お忙しいところを]] (Score: 30)
 - [[もってのほかだ]] (Score: 30)
 - [[足を運ぶ]] (Score: 30)
@@ -158,11 +159,11 @@
 - [[体調を崩さないように]] (Score: 25)
 - [[よくも平気でいられるよね]] (Score: 25)
 - [[体を壊す]] (Score: 25)
-- [[身につく]] (Score: 25)
 
 ## 📚 Top Collocation
 
 - [[身が引き締まる思い]] (Score: 35)
+- [[専門用語]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[文句を言う]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
@@ -171,7 +172,6 @@
 - [[行列ができる]] (Score: 25)
 - [[保険に入る（ほけんにはいる）]] (Score: 25)
 - [[体調を崩す（たいちょうをくずす）]] (Score: 25)
-- [[問題を解決する（もんだいをかいけつする）]] (Score: 25)
 
 ## 📚 Top Adverb
 
@@ -179,12 +179,12 @@
 - [[ますます]] (Score: 50)
 - [[さっさと]] (Score: 50)
 - [[今にも]] (Score: 45)
-- [[とにかく]] (Score: 40)
 - [[まるで]] (Score: 40)
 - [[とても]] (Score: 40)
 - [[どうも]] (Score: 40)
 - [[とりあえず]] (Score: 40)
 - [[結局]] (Score: 37)
+- [[案外]] (Score: 35)
 
 ## 📚 Top Conjunction
 
@@ -217,13 +217,13 @@
 - [[この]] (Score: 47)
 - [[その]] (Score: 45)
 - [[あんなに]] (Score: 45)
+- [[あれこれ]] (Score: 40)
 - [[こんな]] (Score: 40)
 - [[あの]] (Score: 40)
 - [[そんな]] (Score: 40)
 - [[ただ]] (Score: 30)
 - [[こうした]] (Score: 25)
 - [[そうして]] (Score: 25)
-- [[それまで]] (Score: 20)
 
 ## 📅 Recent Reviews
 
@@ -232,6 +232,7 @@
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
 - [[4. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 20)]]
 - [[5. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 16)]]
+- [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
 - [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
@@ -246,4 +247,3 @@
 - [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
 - [[10. Phân Tích N2_3_180326-11-12.pdf]]
 - [[11. Phân Tích N2_3_180326-13-16.pdf]]
-- [[12. Phân Tích N2_3_180326-17-20.pdf]]
