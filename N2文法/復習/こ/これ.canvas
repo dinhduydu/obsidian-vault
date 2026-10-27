@@ -2,26 +2,28 @@
 	"nodes":[
 		{"id":"98928a6593ca4957","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これ.md","x":-498,"y":-418,"width":307,"height":109},
 		{"id":"206f42c2b2672348","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これだけ.md","x":1044,"y":-418,"width":263,"height":106},
-		{"id":"2c0bf8e090ead6ff","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これら.md","x":33,"y":-628,"width":356,"height":110},
-		{"id":"a5c78d579feaf53e","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あれこれ.md","x":-1332,"y":-628,"width":374,"height":127},
-		{"id":"76d364dc8afe15ed","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これでも.md","x":421,"y":292,"width":321,"height":93},
-		{"id":"d07b90585e5292c3","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これは.md","x":528,"y":-188,"width":322,"height":136},
-		{"id":"cab7cfc2fca3ff55","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これには.md","x":1003,"y":-172,"width":329,"height":105},
-		{"id":"86767e395c2a7cdd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これでは.md","x":1003,"y":72,"width":279,"height":92},
 		{"id":"7b0c098078dcb147","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/これまでどおり.md","x":-1029,"y":72,"width":335,"height":170},
 		{"id":"a3038d90653b06d8","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/これまで以上に.md","x":-1005,"y":-121,"width":288,"height":109},
-		{"id":"c6e3b785abc91be1","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これと同じこと.md","x":-879,"y":412,"width":325,"height":216}
+		{"id":"c6e3b785abc91be1","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これと同じこと.md","x":-879,"y":412,"width":325,"height":216},
+		{"id":"3faa097d826f7b28","type":"text","text":"`これ` thay thế trực tiếp cho hành vi được nhắc tới ở mệnh đề trước đó","x":-1370,"y":-900,"width":412,"height":102},
+		{"id":"a5c78d579feaf53e","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あれこれ.md","x":-1300,"y":-372,"width":374,"height":127},
+		{"id":"2c0bf8e090ead6ff","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これら.md","x":333,"y":-780,"width":356,"height":110},
+		{"id":"d07b90585e5292c3","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/これは.md","x":1044,"y":-49,"width":322,"height":136},
+		{"id":"cab7cfc2fca3ff55","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これには.md","x":1519,"y":-33,"width":329,"height":105},
+		{"id":"86767e395c2a7cdd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これでは.md","x":1519,"y":211,"width":279,"height":92},
+		{"id":"76d364dc8afe15ed","type":"file","file":"Chữa đề/Learning_Profile/Grammar/これでも.md","x":420,"y":520,"width":321,"height":93}
 	],
 	"edges":[
-		{"id":"17c6b522e46f5e86","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"206f42c2b2672348","toSide":"left","label":"Đến mức này, Như thế này (To this extent / So much)."},
-		{"id":"b741088cdb3b0459","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"2c0bf8e090ead6ff","toSide":"left"},
-		{"id":"8324ecb7b972b653","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"d07b90585e5292c3","toSide":"left"},
+		{"id":"17c6b522e46f5e86","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"206f42c2b2672348","toSide":"left","color":"5","label":"Đến mức này, Như thế này (To this extent / So much)."},
+		{"id":"b741088cdb3b0459","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"2c0bf8e090ead6ff","toSide":"left","color":"5","label":"Những điều này, những việc này (These)."},
+		{"id":"8324ecb7b972b653","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"d07b90585e5292c3","toSide":"left","label":"Điều này / Việc này (Từ chỉ thị dùng để thay thế cho toàn bộ sự việc hay giải pháp vừa nêu ở câu liền trước)."},
 		{"id":"1996649372e494e7","fromNode":"98928a6593ca4957","fromSide":"left","toNode":"a5c78d579feaf53e","toSide":"right"},
 		{"id":"a5f360815b7ae6eb","fromNode":"98928a6593ca4957","fromSide":"right","toNode":"76d364dc8afe15ed","toSide":"left"},
 		{"id":"e7daf9bf443c2960","fromNode":"98928a6593ca4957","fromSide":"bottom","toNode":"7b0c098078dcb147","toSide":"right"},
 		{"id":"8802f24706c5f30b","fromNode":"98928a6593ca4957","fromSide":"bottom","toNode":"a3038d90653b06d8","toSide":"right"},
 		{"id":"e842c30eb6027263","fromNode":"98928a6593ca4957","fromSide":"bottom","toNode":"c6e3b785abc91be1","toSide":"right"},
 		{"id":"c8950451f7274763","fromNode":"d07b90585e5292c3","fromSide":"right","toNode":"cab7cfc2fca3ff55","toSide":"left"},
-		{"id":"123d05fb1c16359a","fromNode":"d07b90585e5292c3","fromSide":"right","toNode":"86767e395c2a7cdd","toSide":"left"}
+		{"id":"123d05fb1c16359a","fromNode":"d07b90585e5292c3","fromSide":"right","toNode":"86767e395c2a7cdd","toSide":"left"},
+		{"id":"0eeb04eef294df15","fromNode":"3faa097d826f7b28","fromSide":"right","toNode":"98928a6593ca4957","toSide":"left","color":"3"}
 	]
 }

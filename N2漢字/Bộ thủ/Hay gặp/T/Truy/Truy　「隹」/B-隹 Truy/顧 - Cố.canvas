@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"5cc06e1ec8acc1bc","x":-79,"y":-68,"width":250,"height":60,"type":"text","text":"顧 - Cố"},
-		{"id":"9bb31ccbafa63e10","x":-400,"y":-240,"width":166,"height":162,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/B-隹 Truy/雇 - Cố.canvas"},
-		{"id":"4987f8a1dfd73343","x":-364,"y":60,"width":130,"height":131,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas"}
+		{"id":"5cc06e1ec8acc1bc","type":"text","text":"顧 - Cố","x":-79,"y":-68,"width":250,"height":60},
+		{"id":"9bb31ccbafa63e10","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Truy/Truy　「隹」/B-隹 Truy/雇 - Cố.canvas","x":-400,"y":-240,"width":166,"height":162},
+		{"id":"4987f8a1dfd73343","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/Hiệt　「頁 」.canvas","x":-364,"y":60,"width":130,"height":131},
+		{"id":"4eb79702608bd019","type":"file","file":"Chữa đề/Learning_Profile/Kanji/顧みる.md","x":380,"y":-301,"width":236,"height":122},
+		{"id":"eeea1a485808f555","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/顧問.md","x":376,"y":60,"width":240,"height":179}
 	],
 	"edges":[
 		{"id":"48ed553cfe3c8fd3","fromNode":"9bb31ccbafa63e10","fromSide":"right","toNode":"5cc06e1ec8acc1bc","toSide":"left"},
-		{"id":"fd4052bae656afc0","fromNode":"4987f8a1dfd73343","fromSide":"right","toNode":"5cc06e1ec8acc1bc","toSide":"left"}
+		{"id":"fd4052bae656afc0","fromNode":"4987f8a1dfd73343","fromSide":"right","toNode":"5cc06e1ec8acc1bc","toSide":"left"},
+		{"id":"f4e9aa46649a7576","fromNode":"5cc06e1ec8acc1bc","fromSide":"right","toNode":"4eb79702608bd019","toSide":"left"},
+		{"id":"f39087a0aebcdaa0","fromNode":"5cc06e1ec8acc1bc","fromSide":"right","toNode":"eeea1a485808f555","toSide":"left","label":"Danh từ (Cố vấn)."}
 	]
 }

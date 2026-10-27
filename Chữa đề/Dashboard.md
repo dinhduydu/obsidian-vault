@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 546
-- Total Knowledge Items: 5568
+- Total Reviews: 547
+- Total Knowledge Items: 5580
 - Correct: 3465
-- Wrong: 5669
-- Accuracy: 37.9%
+- Wrong: 5690
+- Accuracy: 37.8%
 
 ## 🚨 Review Queue
 
@@ -22,6 +22,7 @@
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 10
+- [[〜がち]] | Grammar| Score: 60| Wrong: 9
 - [[つまり]] | Conjunction| Score: 60| Wrong: 9
 - [[しかし]] | Conjunction| Score: 60| Wrong: 9
 - [[〜どころか]] | Grammar| Score: 60| Wrong: 9
@@ -29,7 +30,6 @@
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[すっかり]] | Adverb| Score: 55| Wrong: 8
 - [[〜からには]] | Grammar| Score: 55| Wrong: 8
-- [[〜こそ]] | Grammar| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -41,33 +41,33 @@
 - [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[〜にすぎない]] (Grammar) Wrong: 11
+- [[その]] (Demonstratives) Wrong: 10
 - [[語彙の文脈規定]] (Reading) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
 - [[この]] (Demonstratives) Wrong: 9
-- [[その]] (Demonstratives) Wrong: 9
+- [[〜がち]] (Grammar) Wrong: 9
 - [[つまり]] (Conjunction) Wrong: 9
 - [[しかし]] (Conjunction) Wrong: 9
 - [[〜どころか]] (Grammar) Wrong: 9
 - [[〜に違いない]] (Grammar) Wrong: 9
 - [[連続]] (Vocabulary) Wrong: 9
-- [[〜あまり]] (Grammar) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 35.5% (Correct 321 / Wrong 584)
-- Collocation: 36.4% (Correct 143 / Wrong 250)
-- CompoundVerb: 33.9% (Correct 152 / Wrong 296)
+- Adverb: 35.4% (Correct 321 / Wrong 586)
+- Collocation: 36.3% (Correct 143 / Wrong 251)
+- CompoundVerb: 33.9% (Correct 152 / Wrong 297)
 - Conjunction: 25.9% (Correct 68 / Wrong 195)
-- Demonstratives: 11.6% (Correct 11 / Wrong 84)
-- FixedExpression: 34.5% (Correct 190 / Wrong 361)
-- Grammar: 36.3% (Correct 834 / Wrong 1461)
-- Kanji: 43.9% (Correct 344 / Wrong 439)
-- Katakana: 36.9% (Correct 146 / Wrong 250)
+- Demonstratives: 11.3% (Correct 11 / Wrong 86)
+- FixedExpression: 34.4% (Correct 190 / Wrong 362)
+- Grammar: 36.3% (Correct 834 / Wrong 1464)
+- Kanji: 43.9% (Correct 344 / Wrong 440)
+- Katakana: 36.7% (Correct 146 / Wrong 252)
 - Keigo: 26.9% (Correct 39 / Wrong 106)
-- Reading: 26.2% (Correct 92 / Wrong 259)
-- Vocabulary: 44.8% (Correct 1125 / Wrong 1384)
+- Reading: 26.0% (Correct 92 / Wrong 262)
+- Vocabulary: 44.7% (Correct 1125 / Wrong 1389)
 
 ## 📚 Top Grammar
 
@@ -80,7 +80,7 @@
 - [[〜とは限らない]] (Score: 65)
 - [[〜ものの]] (Score: 65)
 - [[〜ざるを得ない]] (Score: 65)
-- [[〜どころか]] (Score: 60)
+- [[〜がち]] (Score: 60)
 
 ## 📚 Top Vocabulary
 
@@ -214,8 +214,8 @@
 
 ## 📚 Top Demonstratives
 
+- [[その]] (Score: 50)
 - [[この]] (Score: 47)
-- [[その]] (Score: 45)
 - [[あんなに]] (Score: 45)
 - [[あれこれ]] (Score: 40)
 - [[こんな]] (Score: 40)
@@ -223,7 +223,7 @@
 - [[そんな]] (Score: 40)
 - [[ただ]] (Score: 30)
 - [[こうした]] (Score: 25)
-- [[そうして]] (Score: 25)
+- [[これ]] (Score: 25)
 
 ## 📅 Recent Reviews
 
@@ -233,6 +233,7 @@
 - [[4. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 20)]]
 - [[5. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 16)]]
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
+- [[7. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 74]]
 - [[1. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 1)]]
 - [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
 - [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
@@ -246,4 +247,3 @@
 - [[8. Phân Tích N2_TV_TỪ VỰNG và TỪ ĐỒNG NGHĨA (FILE 191020267-6-10.PDF).]]
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
 - [[2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41]]
-- [[2.1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.]]
