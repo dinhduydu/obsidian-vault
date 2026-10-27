@@ -17,9 +17,9 @@
 		{"id":"aa6a3c9a8f97e4cf","type":"text","text":"Vますそうとしても","x":1740,"y":793,"width":250,"height":60},
 		{"id":"afa8a6d7fe57a633","type":"file","file":"Pasted image 20260504020551.png","x":2640,"y":678,"width":400,"height":291},
 		{"id":"013a18d874c5328f","type":"text","text":"そう","x":-890,"y":-200,"width":250,"height":60},
-		{"id":"59ed64abfa138239","x":244,"y":480,"width":250,"height":60,"type":"text","text":"Vますそう"},
-		{"id":"59820367ee1a0d0c","x":-890,"y":430,"width":250,"height":50,"type":"text","text":"Nそうに"},
-		{"id":"52bdcb642892ccd9","x":-828,"y":592,"width":250,"height":60,"type":"text","text":"Nげ"}
+		{"id":"59ed64abfa138239","type":"text","text":"Vますそう","x":244,"y":480,"width":250,"height":60},
+		{"id":"59820367ee1a0d0c","type":"text","text":"Nそうに","x":-890,"y":430,"width":250,"height":50},
+		{"id":"52bdcb642892ccd9","type":"text","text":"Nげ","x":-828,"y":592,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"61f5759fceaf4e30","fromNode":"013a18d874c5328f","fromSide":"right","toNode":"e600f86b375a2e25","toSide":"left","label":"そうだ"},

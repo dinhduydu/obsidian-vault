@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"55b3531fb858970d","type":"text","text":"さえ","x":104,"y":-350,"width":250,"height":60},
+		{"id":"47e7687c9d02d7de","type":"text","text":"さえば","x":111,"y":-172,"width":250,"height":60},
+		{"id":"7281584d36e5f93a","type":"text","text":"すら","x":-435,"y":-351,"width":250,"height":60},
+		{"id":"ba7e6a210017a078","type":"file","file":"Pasted image 20260409075912.png","x":36,"y":138,"width":400,"height":214}
+	],
+	"edges":[
+		{"id":"9e5e8a6d12896456","fromNode":"55b3531fb858970d","fromSide":"bottom","toNode":"47e7687c9d02d7de","toSide":"top","label":"さえば"},
+		{"id":"f3fa193d0a705cc7","fromNode":"55b3531fb858970d","fromSide":"left","toNode":"7281584d36e5f93a","toSide":"right"},
+		{"id":"9644c1c614ec0346","fromNode":"47e7687c9d02d7de","fromSide":"bottom","toNode":"ba7e6a210017a078","toSide":"top","label":"さえば"}
+	]
+}

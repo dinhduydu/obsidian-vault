@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a9636b07b380c946","type":"text","text":"「N3」さえ","x":613,"y":150,"width":265,"height":50},
+		{"id":"9eefd7dc72b30669","type":"text","text":"Dùng khi muốn nói A cũng vậy nên những thứ / người khác tất nhiên cũng vậy - từ 1 ví dụ mang tính cực đoan","x":1080,"y":57,"width":400,"height":93},
+		{"id":"8969074e5129dcd0","x":1087,"y":380,"width":393,"height":145,"type":"file","file":"N2文法/さえ・より/さえ/さえば.canvas"},
+		{"id":"30768a3dcb516b5b","x":1660,"y":175,"width":225,"height":113,"type":"file","file":"N2文法/さえ・より/さえ/でさえ.canvas"}
+	],
+	"edges":[
+		{"id":"c7004426436db617","fromNode":"a9636b07b380c946","fromSide":"right","toNode":"9eefd7dc72b30669","toSide":"left"},
+		{"id":"28efbee036c73e6c","fromNode":"9eefd7dc72b30669","fromSide":"right","toNode":"30768a3dcb516b5b","toSide":"left"},
+		{"id":"84997f14f6898af9","fromNode":"a9636b07b380c946","fromSide":"right","toNode":"8969074e5129dcd0","toSide":"left"}
+	]
+}

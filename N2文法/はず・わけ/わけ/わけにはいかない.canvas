@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b9d22e3fdd729c31","type":"group","x":-950,"y":-278,"width":1900,"height":556,"color":"1","label":"わけにはいかない　ー　không thể làm V"},
+		{"id":"b198db8d33d679a9","type":"group","x":-625,"y":-123,"width":820,"height":165,"color":"2","label":"V辞書形＋わけにはいかない　ー　không thể làm V"},
+		{"id":"c8ed37abd134e8c2","type":"group","x":-590,"y":116,"width":706,"height":113,"color":"4","label":"Vない＋わけにはいかない　ー　Phải làm V"},
+		{"id":"3f705145e66dba4b","type":"text","text":"Dùng khi muốn nói do thường thức, quy tắc xã hội, sự tình nào đó nên không thể làm V","x":-195,"y":-103,"width":370,"height":100},
+		{"id":"4acb9e27e1111413","type":"text","text":"Phải làm V","x":-154,"y":136,"width":250,"height":60},
+		{"id":"3ccac8786ff3a434","type":"text","text":"わけにはいかない","x":-930,"y":93,"width":250,"height":64},
+		{"id":"ca76fb856350afd3","type":"text","text":"V辞書形＋わけにはいかない","x":-605,"y":-28,"width":250,"height":50},
+		{"id":"dd6dd5a987302383","type":"text","text":"Vない＋わけにはいかない","x":-570,"y":149,"width":250,"height":60},
+		{"id":"fb0b4b5b3b975f58","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜わけにはいかない.md","x":350,"y":-191,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e514b98be9f2075a","fromNode":"ca76fb856350afd3","fromSide":"right","toNode":"3f705145e66dba4b","toSide":"left"},
+		{"id":"53fae97ea2c2242c","fromNode":"dd6dd5a987302383","fromSide":"right","toNode":"4acb9e27e1111413","toSide":"left"},
+		{"id":"8c98cc5979c2aab6","fromNode":"3ccac8786ff3a434","fromSide":"right","toNode":"ca76fb856350afd3","toSide":"left"},
+		{"id":"20b8dbc9de1335b6","fromNode":"3ccac8786ff3a434","fromSide":"right","toNode":"dd6dd5a987302383","toSide":"left"}
+	]
+}

@@ -10,7 +10,7 @@
 		{"id":"ba59422ef959f2f4","type":"group","x":1940,"y":1700,"width":761,"height":599,"label":"〜というと　ー　Xác nhận lại thông tin/Hễ nói đến"},
 		{"id":"27c77713795d2b6c","x":4880,"y":-410,"width":860,"height":349,"type":"group","label":"nói / gọi / trích dẫn / giải thích"},
 		{"id":"4fe3ce3ad3a928a1","type":"text","text":"ということは","x":3562,"y":-629,"width":250,"height":60},
-		{"id":"3d96fe60c7d5ed54","type":"file","file":"N2文法/さえ・より/より.canvas","x":-3039,"y":-24,"width":262,"height":140},
+		{"id":"3d96fe60c7d5ed54","type":"file","file":"N2文法/さえ・より/より/より.canvas","x":-3039,"y":-24,"width":262,"height":140},
 		{"id":"18adb54dead3503a","type":"text","text":"Dùng khi muốn nói cách nói A cũng đúng nhưng B thì thích hợp hơn","x":-3411,"y":152,"width":250,"height":82},
 		{"id":"1397b9137fdd16da","type":"text","text":"夢を諦めるのは、残念というより悔しい。","x":-3729,"y":46,"width":250,"height":60},
 		{"id":"181394d70055e348","type":"text","text":"Ko phải A mà đúng hơn là B","x":-3444,"y":430,"width":250,"height":60},

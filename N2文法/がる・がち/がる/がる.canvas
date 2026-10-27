@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a9c6739418b50574","type":"text","text":"がる","x":149,"y":-82,"width":250,"height":60},
+		{"id":"1fd0fbafa369d8f2","type":"text","text":"Vたい：いー＞がる","x":-393,"y":-246,"width":250,"height":60},
+		{"id":"9e9e7423d899dd86","type":"text","text":"Aい：いー＞がる","x":-393,"y":14,"width":250,"height":60},
+		{"id":"42b35e92f1033bb0","type":"text","text":"Aな：なー＞がる","x":-398,"y":187,"width":250,"height":60},
+		{"id":"2c4fe210e3471a13","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たがる.md","x":-1000,"y":-580,"width":258,"height":98},
+		{"id":"c1beefdfcfc35fe5","type":"file","file":"N2文法/がる・がち/がち/がち.canvas","x":760,"y":-380,"width":260,"height":134}
+	],
+	"edges":[
+		{"id":"a67560c14531245b","fromNode":"a9c6739418b50574","fromSide":"left","toNode":"1fd0fbafa369d8f2","toSide":"right","label":"Vたがる"},
+		{"id":"712262e8cd222981","fromNode":"a9c6739418b50574","fromSide":"left","toNode":"9e9e7423d899dd86","toSide":"right","label":"Aがる"},
+		{"id":"1032ddb004051ffe","fromNode":"a9c6739418b50574","fromSide":"left","toNode":"42b35e92f1033bb0","toSide":"right","label":"Aがる"},
+		{"id":"4c97a332ab65c4cb","fromNode":"1fd0fbafa369d8f2","fromSide":"left","toNode":"2c4fe210e3471a13","toSide":"right","label":"Có xu hướng muốn..., Tỏ ra muốn... (Chỉ xu hướng, tâm lý chung của bên thứ ba hoặc đám đông người trong xã hội)."},
+		{"id":"8510c2078d6683b4","fromNode":"c1beefdfcfc35fe5","fromSide":"left","toNode":"a9c6739418b50574","toSide":"right","color":"5"}
+	]
+}

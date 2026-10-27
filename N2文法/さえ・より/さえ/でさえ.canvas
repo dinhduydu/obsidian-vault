@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"540e70066187e566","type":"text","text":"でさえ","x":-137,"y":229,"width":250,"height":60},
+		{"id":"511a7abd70214767","type":"file","file":"Pasted image 20260409080415.png","x":-212,"y":-62,"width":400,"height":211},
+		{"id":"22c592ccff08be7f","type":"file","file":"Pasted image 20260409080224.png","x":-212,"y":-362,"width":400,"height":206},
+		{"id":"2fc9a5565f7c17b9","type":"text","text":"ただでさえ","x":-878,"y":149,"width":250,"height":60},
+		{"id":"3bb5ad33099dd598","type":"text","text":"～たら～で","x":-1424,"y":78,"width":250,"height":60},
+		{"id":"08e0c3f7e5ca45ca","type":"file","file":"Pasted image 20260409080659.png","x":575,"y":155,"width":400,"height":208},
+		{"id":"2579b7e54fd81b94","type":"text","text":"Nでさえ","x":667,"y":-90,"width":250,"height":60},
+		{"id":"7d4cea9e9dd27a70","type":"text","text":"Ngay cả N","x":1175,"y":-90,"width":250,"height":60},
+		{"id":"8655c91f9725df22","type":"text","text":"Dùng khi muốn nói A cũng vậy nên những thứ / người khác tất nhiên cũng vậy - từ 1 ví dụ mang tính cực đoan","x":-87,"y":560,"width":400,"height":93}
+	],
+	"edges":[
+		{"id":"3f71cda924cc3591","fromNode":"540e70066187e566","fromSide":"right","toNode":"08e0c3f7e5ca45ca","toSide":"left","label":"でさえ"},
+		{"id":"e8432679bc7c660b","fromNode":"540e70066187e566","fromSide":"left","toNode":"2fc9a5565f7c17b9","toSide":"right","label":"ただでさえ"},
+		{"id":"0bd9d1a04a055262","fromNode":"540e70066187e566","fromSide":"right","toNode":"2579b7e54fd81b94","toSide":"left","label":"Nでさえ"},
+		{"id":"8bc1131b90d4b296","fromNode":"511a7abd70214767","fromSide":"bottom","toNode":"540e70066187e566","toSide":"top"},
+		{"id":"c63989ae5c7be898","fromNode":"22c592ccff08be7f","fromSide":"bottom","toNode":"511a7abd70214767","toSide":"top"},
+		{"id":"f0640fdb89862232","fromNode":"2fc9a5565f7c17b9","fromSide":"left","toNode":"3bb5ad33099dd598","toSide":"right"},
+		{"id":"e12e6a8e35804dab","fromNode":"2579b7e54fd81b94","fromSide":"right","toNode":"7d4cea9e9dd27a70","toSide":"left","label":"Nでさえ"},
+		{"id":"0a6b21fe6c4f8075","fromNode":"8655c91f9725df22","fromSide":"right","toNode":"08e0c3f7e5ca45ca","toSide":"left"}
+	]
+}

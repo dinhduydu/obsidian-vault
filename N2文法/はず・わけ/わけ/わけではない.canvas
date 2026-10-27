@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"21c954309d0bb8f5","type":"group","x":-388,"y":-274,"width":1483,"height":665,"color":"5","label":"わけではない　ー　Không hẳn là"},
+		{"id":"cd7f0e7e8ad86383","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とは限らない.md","x":-1094,"y":-391,"width":400,"height":400},
+		{"id":"4f816d7494c2e064","type":"text","text":"わけではない","x":232,"y":-54,"width":250,"height":60},
+		{"id":"801f8f95bc01e15b","type":"file","file":"Pasted image 20260517144103.png","x":-368,"y":-254,"width":400,"height":115},
+		{"id":"b4dd2f9bd1f5f600","type":"file","file":"Pasted image 20260410075807.png","x":675,"y":266,"width":400,"height":105}
+	],
+	"edges":[
+		{"id":"a06f94addedbb9f1","fromNode":"21c954309d0bb8f5","fromSide":"left","toNode":"cd7f0e7e8ad86383","toSide":"right","label":"〜とは限らない"},
+		{"id":"c7900d2de0b190c3","fromNode":"4f816d7494c2e064","fromSide":"left","toNode":"801f8f95bc01e15b","toSide":"right","label":"わけではない"},
+		{"id":"5ea1c2bdae61821f","fromNode":"b4dd2f9bd1f5f600","fromSide":"top","toNode":"4f816d7494c2e064","toSide":"right","label":"わけではない"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"c7587f56b9bb9f9a","type":"group","x":-1520,"y":-500,"width":3040,"height":1000,"color":"6","label":"わけだ　ー　Thảo nào"},
+		{"id":"152a1c8a776cb01d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜わけだ.md","x":980,"y":-384,"width":400,"height":400},
+		{"id":"5b59a7c4a2018926","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜わけです.md","x":980,"y":40,"width":400,"height":400},
+		{"id":"a3c51655f248e579","type":"text","text":"Dùng khi muốn nói đã hiểu nguyên nhân, lý do của A sau khi biết thông tin","x":-135,"y":240,"width":250,"height":90},
+		{"id":"add350b81191f099","type":"text","text":"「N3]　Aわけだ","x":-564,"y":350,"width":250,"height":60},
+		{"id":"9800830fa784bf4a","type":"text","text":"Aなだ：だー＞な＋わけだ\nNだ：だー＞な＋わけだ","x":224,"y":297,"width":250,"height":60},
+		{"id":"816c30e95852515f","type":"text","text":"普通形＋わけだ","x":225,"y":178,"width":250,"height":60},
+		{"id":"3fd58ca446108dfc","type":"file","file":"Pasted image 20260409005115.png","x":-1460,"y":-180,"width":715,"height":391},
+		{"id":"fea38a9b6a9b3482","type":"file","file":"N2文法/はず・わけ/はず/はず.canvas","x":-2200,"y":-440,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6cf690ccf55e370a","fromNode":"3fd58ca446108dfc","fromSide":"bottom","toNode":"add350b81191f099","toSide":"top","label":"わけだ"},
+		{"id":"f4b894e017b23754","fromNode":"a3c51655f248e579","fromSide":"right","toNode":"816c30e95852515f","toSide":"left"},
+		{"id":"66dad32695220a54","fromNode":"a3c51655f248e579","fromSide":"right","toNode":"9800830fa784bf4a","toSide":"left"},
+		{"id":"52e2512b24144229","fromNode":"add350b81191f099","fromSide":"right","toNode":"a3c51655f248e579","toSide":"left"},
+		{"id":"e65d1f5f8b218237","fromNode":"816c30e95852515f","fromSide":"right","toNode":"152a1c8a776cb01d","toSide":"left","label":"〜わけだ"},
+		{"id":"195ac1a3ca544c85","fromNode":"816c30e95852515f","fromSide":"right","toNode":"5b59a7c4a2018926","toSide":"left","label":"〜わけです"},
+		{"id":"e6910663a9ffc67c","fromNode":"fea38a9b6a9b3482","fromSide":"right","toNode":"3fd58ca446108dfc","toSide":"left","label":"はずだ"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b851fd10100d8a3e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ば～ほど.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"8d4153418e73b888","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ほど.md","x":-800,"y":-420,"width":296,"height":154},
+		{"id":"d54aeeb49a225d62","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜れば〜ほど.md","x":1200,"y":720,"width":250,"height":74},
+		{"id":"ad26b26c84eecfd4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜れば〜なるほど.md","x":1940,"y":960,"width":265,"height":92}
+	],
+	"edges":[
+		{"id":"710e91e4b145d2dc","fromNode":"b851fd10100d8a3e","fromSide":"right","toNode":"d54aeeb49a225d62","toSide":"left","label":"Ý nghĩa: Càng... càng...\nDiễn tả sự thay đổi về mức độ của vế sau tương ứng với sự thay đổi của vế trước.\n\n"},
+		{"id":"363f68ba29e5fead","fromNode":"d54aeeb49a225d62","fromSide":"right","toNode":"ad26b26c84eecfd4","toSide":"left","label":"Càng... càng..."},
+		{"id":"0031994ce82c4ca5","fromNode":"8d4153418e73b888","fromSide":"right","toNode":"b851fd10100d8a3e","toSide":"left"}
+	]
+}

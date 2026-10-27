@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"2c092303cc5ae0be","type":"text","text":"より","x":-178,"y":-51,"width":250,"height":60},
+		{"id":"3b8b5b9d5d8d325d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/というより.md","x":-1240,"y":-623,"width":400,"height":400},
+		{"id":"e5b2b2faa27c2494","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/という.canvas","x":-682,"y":-1080,"width":254,"height":129},
+		{"id":"558f0c574ef79114","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-280,"y":-1360,"width":243,"height":200},
+		{"id":"d854e7052ddec33c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/より一層.md","x":600,"y":320,"width":313,"height":110},
+		{"id":"87ee0dcc41c17c41","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもとより.md","x":600,"y":1100,"width":318,"height":115},
+		{"id":"7bcf4427da89795f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜よりもずっと.md","x":-740,"y":580,"width":257,"height":90},
+		{"id":"801edd789cb4265f","type":"text","text":"Không ai là hoàn hảo, nhưng nên sống sao cho điều đúng nhiều hơn sai lầm.","x":-140,"y":-500,"width":266,"height":90},
+		{"id":"9446f7ba8ece16bc","type":"text","text":"完璧な人はいないが、あやまち**より**正しいことのほうが多い生活をするべきだ。","x":379,"y":-480,"width":756,"height":50},
+		{"id":"dde3475e18ddd1dc","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜よりほかない.md","x":940,"y":-86,"width":325,"height":131},
+		{"id":"fa6b4baac31041ab","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもちろん／はもとより.md","x":1380,"y":1215,"width":380,"height":165},
+		{"id":"b4e0652dfcac0bc4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもちろん.md","x":740,"y":1620,"width":234,"height":122},
+		{"id":"60d1cb4d7259d722","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～というより.md","x":-1980,"y":-780,"width":322,"height":213},
+		{"id":"1bb083dfa5919962","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜よりほかはない.md","x":1660,"y":-400,"width":320,"height":114}
+	],
+	"edges":[
+		{"id":"f4ff920998413e50","fromNode":"e5b2b2faa27c2494","fromSide":"left","toNode":"3b8b5b9d5d8d325d","toSide":"right","label":"というより"},
+		{"id":"5b4f91ee010a0bc6","fromNode":"2c092303cc5ae0be","fromSide":"right","toNode":"9446f7ba8ece16bc","toSide":"left","color":"6","label":"より"},
+		{"id":"65f3419ef897d0a1","fromNode":"801edd789cb4265f","fromSide":"right","toNode":"9446f7ba8ece16bc","toSide":"left","label":"より"},
+		{"id":"38841ee044ea6903","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"3b8b5b9d5d8d325d","toSide":"right","color":"5","label":"(Nên nói là)... thì đúng hơn."},
+		{"id":"1f29b749aa5fd295","fromNode":"558f0c574ef79114","fromSide":"left","toNode":"e5b2b2faa27c2494","toSide":"right"},
+		{"id":"cca8091fd467bf3f","fromNode":"2c092303cc5ae0be","fromSide":"right","toNode":"d854e7052ddec33c","toSide":"left","color":"5","label":"Hơn hẳn một bậc, thêm nữa.\nNhấn mạnh sự gia tăng về mức độ của một trạng thái hoặc hành động."},
+		{"id":"07f14aaf8fa6a856","fromNode":"2c092303cc5ae0be","fromSide":"right","toNode":"87ee0dcc41c17c41","toSide":"left","color":"5","label":"N + はもとより\nKhông chỉ... (mà ngay cả... cũng) / A thì là lẽ đương nhiên rồi, B cũng..."},
+		{"id":"50cba63ed6adb7f5","fromNode":"2c092303cc5ae0be","fromSide":"left","toNode":"7bcf4427da89795f","toSide":"right","color":"5","label":"Hơn hẳn so với... (Cấu trúc so sánh nhấn mạnh mức độ vượt trội)."},
+		{"id":"10a4f397a70fbd50","fromNode":"2c092303cc5ae0be","fromSide":"right","toNode":"dde3475e18ddd1dc","toSide":"left","color":"5","label":"Chẳng còn cách nào khác là phải....\n-> Khẳng định là có làm"},
+		{"id":"34caff53da40dca4","fromNode":"87ee0dcc41c17c41","fromSide":"right","toNode":"fa6b4baac31041ab","toSide":"left","color":"5"},
+		{"id":"4e1abdc6709d80d1","fromNode":"b4e0652dfcac0bc4","fromSide":"right","toNode":"fa6b4baac31041ab","toSide":"left","label":" Diễn tả ý nghĩa \"A là đương nhiên, nhưng hơn thế nữa B cũng...\", dùng để nhấn mạnh mức độ mở rộng của sự việc."},
+		{"id":"812ee21e015f3237","fromNode":"3b8b5b9d5d8d325d","fromSide":"left","toNode":"60d1cb4d7259d722","toSide":"right","color":"4","label":"(Nên nói là)... thì đúng hơn."},
+		{"id":"f064cd2b3f416eef","fromNode":"dde3475e18ddd1dc","fromSide":"right","toNode":"1bb083dfa5919962","toSide":"left","color":"5","label":"Không còn cách nào khác ngoài việc..."}
+	]
+}

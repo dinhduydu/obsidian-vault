@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2acec2b09e29b98b","type":"group","x":-605,"y":-328,"width":1820,"height":557,"color":"2","label":"～わけがない　ー　Không đời nào/ Chắc chắn không..."},
+		{"id":"eaed7133512409c2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜わけがない.md","x":-1485,"y":-508,"width":400,"height":400},
+		{"id":"ccd87c1abffc90c2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものか.md","x":-1485,"y":109,"width":400,"height":400},
+		{"id":"9cfab16b159e0edd","type":"text","text":"Nhất định là A","x":-585,"y":49,"width":250,"height":60},
+		{"id":"c85b7e0c17801c30","type":"text","text":"Vì tin chắc tuyệt đối không A","x":-474,"y":-308,"width":250,"height":50},
+		{"id":"0855150f83352bc6","type":"text","text":"Diễn đạt mang tính chủ quan","x":-458,"y":-131,"width":250,"height":60},
+		{"id":"5d5895c5501cfec2","type":"text","text":"～ないわけがない","x":-138,"y":160,"width":250,"height":60},
+		{"id":"bd07415a3b725e7f","type":"text","text":"Phủ định mạnh mẽ","x":-74,"y":-239,"width":250,"height":60},
+		{"id":"e516e5a5489f6319","type":"text","text":"～わけがない","x":318,"y":-104,"width":250,"height":60},
+		{"id":"8473972834c1369c","type":"text","text":"わけ","x":1235,"y":-227,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"900df46de088cd42","fromNode":"2acec2b09e29b98b","fromSide":"left","toNode":"ccd87c1abffc90c2","toSide":"right","label":"ものか"},
+		{"id":"e4d3729e24673a49","fromNode":"2acec2b09e29b98b","fromSide":"left","toNode":"eaed7133512409c2","toSide":"right","label":"〜わけがない"},
+		{"id":"858390747f6d7db2","fromNode":"5d5895c5501cfec2","fromSide":"left","toNode":"9cfab16b159e0edd","toSide":"right","label":"Nhất định là A"},
+		{"id":"e151f7d2c44f0261","fromNode":"bd07415a3b725e7f","fromSide":"left","toNode":"c85b7e0c17801c30","toSide":"right","label":"Vì tin chắc tuyệt đối không A"},
+		{"id":"9faa69d1ef14b4ba","fromNode":"bd07415a3b725e7f","fromSide":"left","toNode":"0855150f83352bc6","toSide":"right","label":"Diễn đạt mang tính chủ quan"},
+		{"id":"3201b223f6e20bf2","fromNode":"e516e5a5489f6319","fromSide":"left","toNode":"5d5895c5501cfec2","toSide":"right","label":"～ないわけがない"},
+		{"id":"ac71816d31d5a788","fromNode":"e516e5a5489f6319","fromSide":"left","toNode":"bd07415a3b725e7f","toSide":"right","label":"Phủ định mạnh mẽ"},
+		{"id":"1a47ca0bb5f32737","fromNode":"8473972834c1369c","fromSide":"left","toNode":"e516e5a5489f6319","toSide":"right","label":"～わけがない"}
+	]
+}
