@@ -1,11 +1,32 @@
 {
 	"nodes":[
+		{"id":"310d5193bcf0e2e3","x":320,"y":520,"width":366,"height":757,"type":"group","label":"経済"},
 		{"id":"0440e099e7827068","type":"text","text":"経 - Kinh","x":-309,"y":-30,"width":250,"height":60},
-		{"id":"80ffdd925795eb4a","type":"text","text":"神経","x":59,"y":-30,"width":250,"height":60},
-		{"id":"c5e81851a0c1e5d3","x":-640,"y":160,"width":135,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"c5e81851a0c1e5d3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-640,"y":160,"width":135,"height":117},
+		{"id":"89b3d261962fa68a","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Thánh　「圣」/経 - Kinh.canvas","x":300,"y":-840,"width":209,"height":119},
+		{"id":"c49818d6b40322d0","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Cổn　「丨」/由 - Do/由 - Do.canvas","x":375,"y":-1540,"width":269,"height":152},
+		{"id":"a9850681b0d4b3f6","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/経由.md","x":960,"y":-1531,"width":219,"height":135},
+		{"id":"9d26d7f95b733235","type":"file","file":"Chữa đề/Learning_Profile/Collocation/経験を積む.md","x":1616,"y":-397,"width":320,"height":272},
+		{"id":"cfe69752fc82108f","type":"file","file":"Chữa đề/Learning_Profile/Kanji/経験.md","x":960,"y":-931,"width":338,"height":302},
+		{"id":"5a1f3e8c6c444604","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/経験者.md","x":1600,"y":-874,"width":352,"height":188},
+		{"id":"238a6cae23014740","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/未経験者OK.md","x":2220,"y":-920,"width":330,"height":280},
+		{"id":"ac9b20292e5cb8bd","type":"file","file":"Chữa đề/Learning_Profile/Kanji/神経.md","x":300,"y":-200,"width":400,"height":400},
+		{"id":"bf09042644d3be47","x":1500,"y":-1531,"width":248,"height":137,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/香港を経由する.md"},
+		{"id":"0a53cc627115fa1c","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/経済摩擦.md","x":380,"y":580,"width":260,"height":140},
+		{"id":"22c7b079c96bc5eb","x":380,"y":820,"width":286,"height":147,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/経済界.md"},
+		{"id":"f7305cf819d57904","x":380,"y":1100,"width":265,"height":157,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/経済学.md"}
 	],
 	"edges":[
-		{"id":"fb9369cd278820c2","fromNode":"0440e099e7827068","fromSide":"right","toNode":"80ffdd925795eb4a","toSide":"left"},
-		{"id":"bae4a626470f50ed","fromNode":"c5e81851a0c1e5d3","fromSide":"right","toNode":"0440e099e7827068","toSide":"left"}
+		{"id":"fb9369cd278820c2","fromNode":"0440e099e7827068","fromSide":"right","toNode":"ac9b20292e5cb8bd","toSide":"left"},
+		{"id":"bae4a626470f50ed","fromNode":"c5e81851a0c1e5d3","fromSide":"right","toNode":"0440e099e7827068","toSide":"left"},
+		{"id":"34a6403c40f377e2","fromNode":"0440e099e7827068","fromSide":"right","toNode":"89b3d261962fa68a","toSide":"left","color":"4"},
+		{"id":"a484b36702b0232c","fromNode":"89b3d261962fa68a","fromSide":"right","toNode":"a9850681b0d4b3f6","toSide":"left","color":"6","label":" Quá cảnh, đi qua trạm trung gian (Via). Hán tự: 経 (KINH) + 由 (DO)."},
+		{"id":"ff900eb69c1b76c1","fromNode":"c49818d6b40322d0","fromSide":"right","toNode":"a9850681b0d4b3f6","toSide":"left","color":"3"},
+		{"id":"c7f5f167794d551e","fromNode":"89b3d261962fa68a","fromSide":"right","toNode":"cfe69752fc82108f","toSide":"left"},
+		{"id":"1545a7e2a88a3e5c","fromNode":"cfe69752fc82108f","fromSide":"right","toNode":"5a1f3e8c6c444604","toSide":"left"},
+		{"id":"92112ae00a236044","fromNode":"5a1f3e8c6c444604","fromSide":"right","toNode":"238a6cae23014740","toSide":"left"},
+		{"id":"30b0e0ebdc743712","fromNode":"cfe69752fc82108f","fromSide":"right","toNode":"9d26d7f95b733235","toSide":"left"},
+		{"id":"0f0042ec5387bb6b","fromNode":"0440e099e7827068","fromSide":"right","toNode":"310d5193bcf0e2e3","toSide":"left"},
+		{"id":"9dea78f61a17e2be","fromNode":"a9850681b0d4b3f6","fromSide":"right","toNode":"bf09042644d3be47","toSide":"left"}
 	]
 }

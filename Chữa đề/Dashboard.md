@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 543
-- Total Knowledge Items: 5538
-- Correct: 3423
+- Total Reviews: 546
+- Total Knowledge Items: 5568
+- Correct: 3465
 - Wrong: 5669
-- Accuracy: 37.6%
+- Accuracy: 37.9%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.3% (Correct 318 / Wrong 584)
+- Adverb: 35.5% (Correct 321 / Wrong 584)
 - Collocation: 36.4% (Correct 143 / Wrong 250)
-- CompoundVerb: 33.5% (Correct 149 / Wrong 296)
+- CompoundVerb: 33.9% (Correct 152 / Wrong 296)
 - Conjunction: 25.9% (Correct 68 / Wrong 195)
 - Demonstratives: 11.6% (Correct 11 / Wrong 84)
-- FixedExpression: 34.4% (Correct 189 / Wrong 361)
+- FixedExpression: 34.5% (Correct 190 / Wrong 361)
 - Grammar: 36.3% (Correct 834 / Wrong 1461)
-- Kanji: 43.5% (Correct 343 / Wrong 445)
-- Katakana: 36.5% (Correct 144 / Wrong 250)
+- Kanji: 43.9% (Correct 344 / Wrong 439)
+- Katakana: 36.9% (Correct 146 / Wrong 250)
 - Keigo: 26.9% (Correct 39 / Wrong 106)
 - Reading: 26.2% (Correct 92 / Wrong 259)
-- Vocabulary: 44.2% (Correct 1093 / Wrong 1378)
+- Vocabulary: 44.8% (Correct 1125 / Wrong 1384)
 
 ## 📚 Top Grammar
 
@@ -97,7 +97,6 @@
 
 ## 📚 Top Kanji
 
-- [[衝突]] (Score: 45)
 - [[悔しい]] (Score: 40)
 - [[一層]] (Score: 40)
 - [[支える]] (Score: 35)
@@ -107,6 +106,7 @@
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
 - [[幻想的]] (Score: 30)
+- [[頭脳]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -233,6 +233,9 @@
 - [[4. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 20)]]
 - [[5. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 16)]]
 - [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
+- [[1. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 1)]]
+- [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
+- [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
 - [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
@@ -244,6 +247,3 @@
 - [[9. Phân Tích Mondai 6 - Cách dùng từ trong câu (言葉の使い方).]]
 - [[2. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41]]
 - [[2.1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41.]]
-- [[1. Phân Tích N2_1_2026-1-7-1-5.pdf]]
-- [[10. Phân Tích N2_3_180326-11-12.pdf]]
-- [[11. Phân Tích N2_3_180326-13-16.pdf]]

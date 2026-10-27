@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"5036966c6af510e2","x":-84,"y":-35,"width":250,"height":60,"type":"text","text":"埋 - Mai"},
-		{"id":"34067cfb6c8f93e3","x":-400,"y":25,"width":120,"height":93,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"},
-		{"id":"8168247070103c84","x":-680,"y":-71,"width":148,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"}
+		{"id":"5036966c6af510e2","type":"text","text":"埋 - Mai","x":-84,"y":-35,"width":250,"height":60},
+		{"id":"34067cfb6c8f93e3","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas","x":-400,"y":25,"width":120,"height":93},
+		{"id":"8168247070103c84","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-680,"y":-71,"width":148,"height":133},
+		{"id":"7cff22b6c437399c","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/埋め合わせる.md","x":560,"y":-420,"width":264,"height":178},
+		{"id":"0327bffa1e187069","x":-20,"y":-568,"width":209,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合 - Hợp.canvas"}
 	],
 	"edges":[
 		{"id":"e9d12455137fd7a4","fromNode":"34067cfb6c8f93e3","fromSide":"right","toNode":"5036966c6af510e2","toSide":"left"},
-		{"id":"2bc4f03daea6b32e","fromNode":"8168247070103c84","fromSide":"right","toNode":"5036966c6af510e2","toSide":"left"}
+		{"id":"2bc4f03daea6b32e","fromNode":"8168247070103c84","fromSide":"right","toNode":"5036966c6af510e2","toSide":"left"},
+		{"id":"6bf555375f871410","fromNode":"5036966c6af510e2","fromSide":"right","toNode":"7cff22b6c437399c","toSide":"left","color":"5","label":" Bù đắp, lấp đầy (khoảng trống, thiệt hại)."},
+		{"id":"ccf8c433da319192","fromNode":"0327bffa1e187069","fromSide":"right","toNode":"7cff22b6c437399c","toSide":"left","color":"3"}
 	]
 }

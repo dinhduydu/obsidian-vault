@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"03cf05ddbfa5ec50","type":"text","text":"合わせる","x":-1389,"y":-363,"width":250,"height":60},
+		{"id":"f0b02006aaab382b","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/待ち合わせる.md","x":-825,"y":137,"width":320,"height":176},
+		{"id":"24fcd1c91e0361cc","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/問い合わせる.md","x":17,"y":-395,"width":286,"height":124},
+		{"id":"8e9578dbd3980409","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/埋め合わせる.md","x":17,"y":-832,"width":264,"height":178},
+		{"id":"6165c86785dc1323","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/組み合わせる.md","x":-770,"y":-832,"width":280,"height":131},
+		{"id":"667bcf3a7268759d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/埋 - Mai.canvas","x":-430,"y":-995,"width":246,"height":163},
+		{"id":"342de77dfde3a024","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/問い合わせる（といあわせる）.md","x":1029,"y":-420,"width":361,"height":174},
+		{"id":"79edbf270e47cce7","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/打ち合わせる.md","x":-251,"y":-123,"width":288,"height":139},
+		{"id":"9098f3a90444e517","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/待ち合わせる（まちあわせる）.md","x":129,"y":174,"width":402,"height":103},
+		{"id":"f1ff74bea46d82e8","type":"file","file":"Chữa đề/Learning_Profile/Collocation/用途に合わせる.md","x":-270,"y":817,"width":399,"height":179},
+		{"id":"413da693c9a26888","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/用途に合わせる.md","x":-810,"y":834,"width":335,"height":145}
+	],
+	"edges":[
+		{"id":"00a3a2d74e8a1a8b","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"6165c86785dc1323","toSide":"left","label":"Ghép lại, kết hợp nhiều ca làm/điều kiện với nhau (To combine)."},
+		{"id":"734007db6d0298ff","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"79edbf270e47cce7","toSide":"left","label":"Thống nhất ý kiến hoặc kế hoạch trước khi một sự kiện hay cuộc họp diễn ra."},
+		{"id":"ac095bf58484a51d","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"f0b02006aaab382b","toSide":"left","label":"Thỏa thuận về thời gian và địa điểm để gặp ai đó."},
+		{"id":"1d803ac75377220e","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"413da693c9a26888","toSide":"left"},
+		{"id":"ff6ada09b7b07dd1","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"24fcd1c91e0361cc","toSide":"left","label":"Liên hệ qua điện thoại hoặc văn bản để tìm hiểu chi tiết về vấn đề gì đó."},
+		{"id":"09d06f4cf57626bf","fromNode":"03cf05ddbfa5ec50","fromSide":"right","toNode":"8e9578dbd3980409","toSide":"left","label":" Bù đắp, lấp đầy (khoảng trống, thiệt hại)."},
+		{"id":"2507c1051b86e2e4","fromNode":"f0b02006aaab382b","fromSide":"right","toNode":"9098f3a90444e517","toSide":"left","label":"Dùng khi hai hay nhiều người hẹn gặp nhau tại một địa điểm.\n(To meet up)."},
+		{"id":"c10f2fb5ba7dff6b","fromNode":"24fcd1c91e0361cc","fromSide":"right","toNode":"342de77dfde3a024","toSide":"left","label":"Hỏi thăm, liên lạc hỏi thông tin (To inquire)."},
+		{"id":"66c49ffd16926b70","fromNode":"667bcf3a7268759d","fromSide":"right","toNode":"8e9578dbd3980409","toSide":"left"},
+		{"id":"a2cabb9e5ab360aa","fromNode":"413da693c9a26888","fromSide":"right","toNode":"f1ff74bea46d82e8","toSide":"left"}
+	]
+}

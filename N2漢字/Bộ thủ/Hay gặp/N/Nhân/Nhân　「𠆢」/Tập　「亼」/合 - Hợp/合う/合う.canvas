@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"5b57f537d4db66d7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/触れ合う（ふれあう）.md","x":-1360,"y":-306,"width":314,"height":112},
+		{"id":"8cb3db16e593ef93","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/話し合う（はなしあう）.md","x":-1417,"y":65,"width":371,"height":175},
+		{"id":"a6b00acca8205617","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/交わし合う.md","x":-1373,"y":751,"width":327,"height":69},
+		{"id":"d61df2e050797009","type":"text","text":"合う","x":-640,"y":180,"width":250,"height":60},
+		{"id":"bf74bb6b3c076830","type":"text","text":"合う","x":-640,"y":1560,"width":250,"height":60},
+		{"id":"ebe6d9924f8304d5","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/向き合う.md","x":-142,"y":-640,"width":298,"height":109},
+		{"id":"03b9a44300fc4863","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/間に合う.md","x":400,"y":-376,"width":311,"height":126},
+		{"id":"1678987b318a33e9","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/似合う.md","x":900,"y":-100,"width":277,"height":87},
+		{"id":"b28177f3c869dde3","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/愛し合う.md","x":1720,"y":140,"width":274,"height":102},
+		{"id":"dc0b2c70ae7730a4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/付き合う.md","x":1039,"y":480,"width":342,"height":98},
+		{"id":"27878c87f7f5b401","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/言い合う.md","x":120,"y":720,"width":339,"height":145},
+		{"id":"c7b3312c44a6c4e0","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り組み合う.md","x":240,"y":1300,"width":366,"height":166},
+		{"id":"01f1edb655915cc2","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り組む.md","x":-420,"y":940,"width":329,"height":181},
+		{"id":"b7d63dc1e7671b56","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/助け合う（たすけあう）.md","x":-1640,"y":460,"width":305,"height":130}
+	],
+	"edges":[
+		{"id":"8ef1607e0f50d420","fromNode":"d61df2e050797009","fromSide":"right","toNode":"03b9a44300fc4863","toSide":"left","label":"Kịp giờ, kịp thời hạn."},
+		{"id":"a83b9cac1f76cfac","fromNode":"d61df2e050797009","fromSide":"right","toNode":"1678987b318a33e9","toSide":"left","label":"Hợp, vừa vặn, phù hợp (trang phục, phong cách) (To suit / To match)."},
+		{"id":"48822d1d4433ee58","fromNode":"d61df2e050797009","fromSide":"right","toNode":"b28177f3c869dde3","toSide":"left","label":"こいし合う (Yêu nhau)"},
+		{"id":"34cd5610e80af769","fromNode":"d61df2e050797009","fromSide":"right","toNode":"dc0b2c70ae7730a4","toSide":"left","label":"Diễn tả mối quan hệ yêu đương hoặc việc tham gia cùng người khác trong một hoạt động xã hội."},
+		{"id":"2c7c914d0c4a1133","fromNode":"d61df2e050797009","fromSide":"right","toNode":"27878c87f7f5b401","toSide":"left","label":" Nói qua lại, tranh luận, cãi cọ."},
+		{"id":"8834b37894f2145e","fromNode":"d61df2e050797009","fromSide":"right","toNode":"ebe6d9924f8304d5","toSide":"left","label":" Đối mặt, đối diện, nhìn nhận thẳng thắn."},
+		{"id":"43b4a3b6d87e2c82","fromNode":"d61df2e050797009","fromSide":"left","toNode":"5b57f537d4db66d7","toSide":"right"},
+		{"id":"b0cf6ac10443d318","fromNode":"d61df2e050797009","fromSide":"left","toNode":"8cb3db16e593ef93","toSide":"right","label":"Trao đổi, thảo luận, bàn bạc với nhau (To discuss together)."},
+		{"id":"8b55cf9734c76f2a","fromNode":"d61df2e050797009","fromSide":"left","toNode":"b7d63dc1e7671b56","toSide":"right","label":"Giúp đỡ lẫn nhau, tương trợ (To help each other)."},
+		{"id":"be781898b479a794","fromNode":"d61df2e050797009","fromSide":"left","toNode":"a6b00acca8205617","toSide":"right","label":"Trao đổi qua lại lẫn nhau."},
+		{"id":"5c6779a50eaedbde","fromNode":"d61df2e050797009","fromSide":"bottom","toNode":"bf74bb6b3c076830","toSide":"top","color":"4"},
+		{"id":"2f9b33cffed76d92","fromNode":"bf74bb6b3c076830","fromSide":"right","toNode":"c7b3312c44a6c4e0","toSide":"left","label":"Cùng nhau nỗ lực, cùng nhau vật lộn/thi đấu."},
+		{"id":"66549cba6d0ec891","fromNode":"01f1edb655915cc2","fromSide":"right","toNode":"c7b3312c44a6c4e0","toSide":"left","color":"3","label":"Bắt tay vào làm, nỗ lực giải quyết (Tackle / Work on)."}
+	]
+}

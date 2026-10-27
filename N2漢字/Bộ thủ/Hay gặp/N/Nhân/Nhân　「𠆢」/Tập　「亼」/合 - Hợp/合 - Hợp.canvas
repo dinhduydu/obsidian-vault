@@ -1,15 +1,33 @@
 {
 	"nodes":[
-		{"id":"4e57d11c3491145f","type":"text","text":"合 - Hợp","x":-660,"y":15,"width":250,"height":60},
-		{"id":"b17411be26504a6f","type":"text","text":"合図「あいず」：Hiệu lệnh","x":-204,"y":-74,"width":250,"height":60},
-		{"id":"d2ada15ce4ce8a59","type":"text","text":" 彼は指を唇に立てて、「静かに」と仲間に**合図**を送った。\n","x":193,"y":-69,"width":468,"height":50},
 		{"id":"c1724cef999de612","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-940,"y":180,"width":131,"height":78},
-		{"id":"e8c7b1ad5e4b4ecc","x":-987,"y":-206,"width":178,"height":137,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas"}
+		{"id":"e8c7b1ad5e4b4ecc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/Tập　「亼」.canvas","x":-987,"y":-206,"width":178,"height":137},
+		{"id":"4e57d11c3491145f","type":"text","text":"合 - Hợp","x":-660,"y":15,"width":250,"height":60},
+		{"id":"d2ada15ce4ce8a59","type":"text","text":" 彼は指を唇に立てて、「静かに」と仲間に**合図**を送った。\n","x":317,"y":-935,"width":468,"height":50},
+		{"id":"32f734eea8561566","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/合図.md","x":-120,"y":-976,"width":278,"height":133},
+		{"id":"b7433ed4cbbc4440","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/合理.md","x":-120,"y":-1500,"width":383,"height":209},
+		{"id":"b2aefa0ee42ffe93","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/合致.md","x":460,"y":-1126,"width":297,"height":113},
+		{"id":"a45e6261e82cf36d","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/合同.md","x":-120,"y":-1900,"width":343,"height":160},
+		{"id":"7717021b7a464af8","type":"text","text":"合 - Hợp","x":-660,"y":-1100,"width":250,"height":60},
+		{"id":"c120541134055cc6","type":"text","text":"合 - Hợp","x":-680,"y":-2660,"width":250,"height":60},
+		{"id":"c483c7d8389a0b38","type":"file","file":"Chữa đề/Learning_Profile/Kanji/合格.md","x":-200,"y":-2980,"width":341,"height":173},
+		{"id":"45e932ce89e899e7","type":"file","file":"Chữa đề/Learning_Profile/Kanji/合格率.md","x":360,"y":-3046,"width":314,"height":133},
+		{"id":"0b3eda6daa083b3b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合わせる/合わせる.canvas","x":-120,"y":200,"width":350,"height":205},
+		{"id":"79a5013b63944c8a","x":-100,"y":-232,"width":356,"height":189,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「𠆢」/Tập　「亼」/合 - Hợp/合う/合う.canvas"}
 	],
 	"edges":[
-		{"id":"e590101f5977e8f8","fromNode":"4e57d11c3491145f","fromSide":"right","toNode":"b17411be26504a6f","toSide":"left"},
-		{"id":"396dbd60db374ad8","fromNode":"b17411be26504a6f","fromSide":"right","toNode":"d2ada15ce4ce8a59","toSide":"left"},
+		{"id":"e590101f5977e8f8","fromNode":"7717021b7a464af8","fromSide":"right","toNode":"32f734eea8561566","toSide":"left","color":"6","label":"合図「あいず」：Hiệu lệnh"},
+		{"id":"396dbd60db374ad8","fromNode":"32f734eea8561566","fromSide":"right","toNode":"d2ada15ce4ce8a59","toSide":"left"},
 		{"id":"e61a52be8f545314","fromNode":"c1724cef999de612","fromSide":"right","toNode":"4e57d11c3491145f","toSide":"left"},
-		{"id":"812e86ec13202f93","fromNode":"e8c7b1ad5e4b4ecc","fromSide":"right","toNode":"4e57d11c3491145f","toSide":"left"}
+		{"id":"812e86ec13202f93","fromNode":"e8c7b1ad5e4b4ecc","fromSide":"right","toNode":"4e57d11c3491145f","toSide":"left"},
+		{"id":"8622ec736ac17d06","fromNode":"4e57d11c3491145f","fromSide":"right","toNode":"0b3eda6daa083b3b","toSide":"left","color":"5"},
+		{"id":"96a00f7441d69e84","fromNode":"7717021b7a464af8","fromSide":"bottom","toNode":"4e57d11c3491145f","toSide":"top","color":"4","label":"Động từ ghép"},
+		{"id":"ea0d2f3dca436df2","fromNode":"7717021b7a464af8","fromSide":"right","toNode":"b7433ed4cbbc4440","toSide":"left","color":"6","label":"Hợp lý, khoa học, tối ưu (Rational / Logical)."},
+		{"id":"8e72fdb3caeb3ef1","fromNode":"7717021b7a464af8","fromSide":"right","toNode":"b2aefa0ee42ffe93","toSide":"left","color":"6","label":"Trùng khớp, thống nhất, ăn khớp (ý kiến, lợi ích)."},
+		{"id":"f0a16309340c56fb","fromNode":"7717021b7a464af8","fromSide":"right","toNode":"a45e6261e82cf36d","toSide":"left"},
+		{"id":"b8ac5a3d69413e0d","fromNode":"7717021b7a464af8","fromSide":"top","toNode":"c120541134055cc6","toSide":"bottom","color":"4"},
+		{"id":"d83b0cc23f38b866","fromNode":"c120541134055cc6","fromSide":"right","toNode":"c483c7d8389a0b38","toSide":"left","color":"6","label":"Thi đỗ."},
+		{"id":"fb4f6f940c0a348f","fromNode":"c483c7d8389a0b38","fromSide":"right","toNode":"45e932ce89e899e7","toSide":"left","color":"5"},
+		{"id":"f8fb138fbc95339c","fromNode":"4e57d11c3491145f","fromSide":"right","toNode":"79a5013b63944c8a","toSide":"left","color":"5"}
 	]
 }

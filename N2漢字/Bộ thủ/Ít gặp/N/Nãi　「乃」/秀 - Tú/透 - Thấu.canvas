@@ -4,12 +4,16 @@
 		{"id":"a073d3a568d0314d","type":"text","text":"rõ ràng, trong suốt","x":-500,"y":-10,"width":250,"height":60},
 		{"id":"6ed4333886b00486","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-1120,"y":94,"width":176,"height":189},
 		{"id":"5fbca874f969f40e","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nãi　「乃」/秀 - Tú/秀 - Tú.canvas","x":-980,"y":-490,"width":188,"height":187},
-		{"id":"78703c0e22719641","x":320,"y":-280,"width":250,"height":60,"type":"text","text":"現代は非常に不透明な時代だ。"}
+		{"id":"78703c0e22719641","type":"text","text":"現代は非常に不透明な時代だ。","x":920,"y":-308,"width":280,"height":60},
+		{"id":"a156bd894e9e553d","x":400,"y":-308,"width":330,"height":211,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/不透明.md"},
+		{"id":"1655ad0bc16fee50","x":400,"y":-540,"width":322,"height":81,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/透き通る.md"}
 	],
 	"edges":[
 		{"id":"b49a18653503d0af","fromNode":"5fbca874f969f40e","fromSide":"right","toNode":"a073d3a568d0314d","toSide":"left"},
 		{"id":"d9fe5e3257ed5abd","fromNode":"6ed4333886b00486","fromSide":"right","toNode":"a073d3a568d0314d","toSide":"left","label":"con đường đi rõ ràng, thông suốt"},
 		{"id":"da8944aacca5810e","fromNode":"a073d3a568d0314d","fromSide":"right","toNode":"fa41b2c201d55f65","toSide":"left"},
-		{"id":"6dd4801c613c2788","fromNode":"fa41b2c201d55f65","fromSide":"right","toNode":"78703c0e22719641","toSide":"left"}
+		{"id":"6dd4801c613c2788","fromNode":"a156bd894e9e553d","fromSide":"right","toNode":"78703c0e22719641","toSide":"left","color":"6"},
+		{"id":"95626b6cad129951","fromNode":"fa41b2c201d55f65","fromSide":"right","toNode":"1655ad0bc16fee50","toSide":"left","color":"6"},
+		{"id":"7914e2e16025d0da","fromNode":"fa41b2c201d55f65","fromSide":"right","toNode":"a156bd894e9e553d","toSide":"left","color":"6"}
 	]
 }
