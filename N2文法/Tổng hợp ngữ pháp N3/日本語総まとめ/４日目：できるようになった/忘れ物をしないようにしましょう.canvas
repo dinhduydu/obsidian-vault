@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"34b6809654d6906b","type":"group","x":-1360,"y":-140,"width":290,"height":248,"label":"Untitled group"},
+		{"id":"92535144cfa2c4cc","type":"file","file":"N2文法/そう・よう/よう/ように/ように.canvas","x":-1040,"y":-420,"width":300,"height":140},
+		{"id":"6d1dcfc43388ad71","type":"text","text":"Vる","x":-1340,"y":-120,"width":250,"height":60},
+		{"id":"f6c3a2cac6ee679a","type":"text","text":"Vない","x":-1340,"y":28,"width":250,"height":60},
+		{"id":"189d1606dd79198e","type":"file","file":"N2文法/そう・よう/よう/ように/ようにする/ようにする.canvas","x":-520,"y":-100,"width":274,"height":168},
+		{"id":"3f47ebd53f07a9f1","type":"text","text":"忘れ物をしないようにしましょう。\n","x":-40,"y":-310,"width":360,"height":55},
+		{"id":"21f6da31c52659a2","type":"text","text":"毎食後、はをみがくうようにしています。","x":280,"y":-40,"width":386,"height":61}
+	],
+	"edges":[
+		{"id":"e2ea65e8d284edaa","fromNode":"92535144cfa2c4cc","fromSide":"right","toNode":"189d1606dd79198e","toSide":"left"},
+		{"id":"ceb73c1efc276446","fromNode":"34b6809654d6906b","fromSide":"right","toNode":"189d1606dd79198e","toSide":"left","label":"Diễn đạt thói quen, sự chú ý (nỗ lực)"},
+		{"id":"f8fa645a27a6bc7b","fromNode":"189d1606dd79198e","fromSide":"right","toNode":"3f47ebd53f07a9f1","toSide":"left","color":"6","label":"Chú ý đừng để quên đồ đạc"},
+		{"id":"3b113466de643792","fromNode":"189d1606dd79198e","fromSide":"right","toNode":"21f6da31c52659a2","toSide":"left","color":"6","label":"Tôi luôn cố gắng đánh răng sau mỗi bữa ăn"}
+	]
+}

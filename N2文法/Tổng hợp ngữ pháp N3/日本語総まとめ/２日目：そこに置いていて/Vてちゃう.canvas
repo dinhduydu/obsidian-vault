@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"082f52463cdd6941","type":"text","text":"Vてちゃう","x":-155,"y":-33,"width":250,"height":60},
+		{"id":"3b9938c70ab8f896","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ちゃう _ 〜ちゃった.md","x":380,"y":-440,"width":338,"height":90},
+		{"id":"3a8cb9022b87e795","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てしまう.md","x":-860,"y":300,"width":297,"height":137}
+	],
+	"edges":[
+		{"id":"adbb8bb6373b9b94","fromNode":"082f52463cdd6941","fromSide":"right","toNode":"3b9938c70ab8f896","toSide":"left","color":"4","label":"Dạng rút gọn của 〜てしまう / 〜てしまった. Diễn tả một hành động đã hoàn thành hoặc một sự việc lỡ xảy ra gây tiếc nuối."},
+		{"id":"627c01710dbbcfd2","fromNode":"3a8cb9022b87e795","fromSide":"right","toNode":"082f52463cdd6941","toSide":"left","color":"4","label":"End up doing (unintentionally), completely finish / Lỡ..., kết thúc, làm xong (thường mang ý ngoài ý muốn)."}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"f811a7ffe6d17010","type":"group","x":-40,"y":560,"width":665,"height":482,"label":"Xin phép người nghe làm một việc gì đó"},
+		{"id":"f157e2aa80452b86","type":"group","x":1540,"y":20,"width":489,"height":576},
+		{"id":"bb2713167ebfe6ea","type":"text","text":"Vられる","x":-180,"y":40,"width":250,"height":60},
+		{"id":"bcb673e469d1865a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/られる.md","x":780,"y":440,"width":226,"height":108},
+		{"id":"0eb5410dcc7f8f93","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/Kính ngữ và bị động sai khiến/2. BỊ ĐỘNG (Passive).md","x":-960,"y":-460,"width":460,"height":380},
+		{"id":"b87f01cd0cbdd2ce","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜られる (迷惑の受身).md","x":1560,"y":-740,"width":258,"height":113},
+		{"id":"02a91dc8bcb080a2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜られる (迷惑受身).md","x":1560,"y":-1380,"width":278,"height":150},
+		{"id":"2aa8bf552eaecab1","type":"text","text":"この本には、詳しい説明書かれていません。\nTrong quyển sách này, những phần giải thích chi tiết không được viết ra","x":2040,"y":-1640,"width":450,"height":86},
+		{"id":"8884afef3681374d","type":"text","text":"入学式は、このホールで行われます。\nLễ khai giảng sẽ được tiến hành trong hội trường này.","x":2040,"y":-1310,"width":440,"height":80},
+		{"id":"5cdb4c4593566c7b","type":"text","text":"友達の赤ちゃんを抱っこしたら、泣かれてしまった。\nKhi bế đứa con của người bạn, thì (bị) bé khóc ","x":2019,"y":-831,"width":441,"height":71},
+		{"id":"eebc4ec0e08214f8","type":"text","text":"（Nに）Vられる\nĐể diễn đạt tình trạng khó khăn do chuyện đó gây ra","x":1021,"y":-456,"width":339,"height":116},
+		{"id":"6558cfa6fa037671","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜られる (受身).md","x":581,"y":-952,"width":312,"height":152},
+		{"id":"c362d4b9492f3d1b","type":"text","text":"V（さ）せて","x":-20,"y":760,"width":250,"height":60},
+		{"id":"1fa7625c72ca0b8f","type":"text","text":"もらえませんか","x":355,"y":962,"width":250,"height":60},
+		{"id":"be7931a96bd6209b","type":"text","text":"ください","x":355,"y":580,"width":250,"height":60},
+		{"id":"5185d6286d19a619","type":"text","text":"もらえますか","x":355,"y":760,"width":250,"height":60},
+		{"id":"73b4a1c13d5431de","type":"text","text":"ちょっと気分が悪いので、早く帰られてください。\nVì trong người không được khoẻ, xin cho (tôi) được về sớm.","x":1540,"y":100,"width":469,"height":50},
+		{"id":"1b4ec19b2a7a2ccb","type":"text","text":"手をあらわせてください。\nHãy cho phép tôi được rửa tay","x":1540,"y":305,"width":320,"height":75},
+		{"id":"01e41eda1a315d2d","type":"text","text":"あなたの会社のお話を聞かせて下さい。\nXin cho tôi được nghe những chuyện về công ty của anh","x":1540,"y":500,"width":458,"height":76},
+		{"id":"62131919139b5fd3","x":2055,"y":-1082,"width":485,"height":62,"type":"text","text":"オリンピックは年に一度開かれます。"}
+	],
+	"edges":[
+		{"id":"624097795410e22e","fromNode":"bb2713167ebfe6ea","fromSide":"right","toNode":"bcb673e469d1865a","toSide":"left","color":"4","label":"Thể tôn kính (Sonkeigo) dạng chia động từ.\nChia động từ sang thể bị động để tạo sắc thái tôn kính mức độ nhẹ nhàng."},
+		{"id":"ceca1fcedc6bc423","fromNode":"bb2713167ebfe6ea","fromSide":"right","toNode":"6558cfa6fa037671","toSide":"left","color":"4","label":"Thể bị động"},
+		{"id":"ac63e2cad0b42d5e","fromNode":"6558cfa6fa037671","fromSide":"right","toNode":"02a91dc8bcb080a2","toSide":"left","color":"4","label":"Thể bị động thường được sử dụng khi tường thuật sự việc mà không đề cập tới chủ ngữ"},
+		{"id":"1d60491a9ed339b1","fromNode":"6558cfa6fa037671","fromSide":"right","toNode":"b87f01cd0cbdd2ce","toSide":"left","color":"4","label":"Thể bị động diễn tả việc chủ ngữ gặp phiền toái hoặc rắc rối do hành động của một đối tượng khác gây ra."},
+		{"id":"8d4d64672fc797ff","fromNode":"0eb5410dcc7f8f93","fromSide":"right","toNode":"bb2713167ebfe6ea","toSide":"left","color":"3"},
+		{"id":"8b99b596debc312a","fromNode":"02a91dc8bcb080a2","fromSide":"right","toNode":"2aa8bf552eaecab1","toSide":"left","color":"6","label":"この本には"},
+		{"id":"cb31d2ccc135f3fb","fromNode":"02a91dc8bcb080a2","fromSide":"right","toNode":"8884afef3681374d","toSide":"left","color":"6","label":"入学式は"},
+		{"id":"0242bfb54bc8568c","fromNode":"b87f01cd0cbdd2ce","fromSide":"right","toNode":"5cdb4c4593566c7b","toSide":"left"},
+		{"id":"4ddde2718175bc56","fromNode":"eebc4ec0e08214f8","fromSide":"right","toNode":"b87f01cd0cbdd2ce","toSide":"left","color":"3","label":"Vれてしまった"},
+		{"id":"78779fe3a7945884","fromNode":"c362d4b9492f3d1b","fromSide":"right","toNode":"be7931a96bd6209b","toSide":"left"},
+		{"id":"0cdf6228f9f0aa3d","fromNode":"c362d4b9492f3d1b","fromSide":"right","toNode":"5185d6286d19a619","toSide":"left"},
+		{"id":"3dfc603ed8ae09bb","fromNode":"c362d4b9492f3d1b","fromSide":"right","toNode":"1fa7625c72ca0b8f","toSide":"left"},
+		{"id":"2c47fab27d56c6ed","fromNode":"f811a7ffe6d17010","fromSide":"right","toNode":"bcb673e469d1865a","toSide":"left","color":"3"},
+		{"id":"38d8e8d144e9ddaf","fromNode":"bcb673e469d1865a","fromSide":"right","toNode":"f157e2aa80452b86","toSide":"left","color":"6","label":"Bản thân là người nói là người thực hiện hành động"},
+		{"id":"cd6fe874bb25069f","fromNode":"02a91dc8bcb080a2","fromSide":"right","toNode":"62131919139b5fd3","toSide":"left","color":"6","label":"オリンピックは"}
+	]
+}

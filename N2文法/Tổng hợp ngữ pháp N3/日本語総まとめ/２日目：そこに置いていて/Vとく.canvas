@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c8fddb900607c3f2","type":"text","text":"Vとく","x":-144,"y":-63,"width":250,"height":60},
+		{"id":"36294291b576ed25","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ておく.md","x":-740,"y":240,"width":200,"height":100},
+		{"id":"8eb4430bb9df41dc","x":40,"y":620,"width":400,"height":280,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てある.md"}
+	],
+	"edges":[
+		{"id":"490cd366e1197da4","fromNode":"36294291b576ed25","fromSide":"right","toNode":"c8fddb900607c3f2","toSide":"left","color":"4","label":"Do in advance, leave as is for later / Làm trước, chuẩn bị trước."},
+		{"id":"bf7a1aa58be044e6","fromNode":"36294291b576ed25","fromSide":"right","toNode":"8eb4430bb9df41dc","toSide":"left","color":"1","label":" 〜ておく (Hành động chuẩn bị trước) ↔ 〜てある (Trạng thái kết quả do ngoại động từ)"}
+	]
+}

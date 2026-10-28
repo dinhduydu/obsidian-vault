@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3e603d592bbab085","type":"text","text":"らしい","x":-145,"y":-23,"width":250,"height":60},
+		{"id":"4b393e76035a4048","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～らしい.md","x":340,"y":-220,"width":325,"height":64},
+		{"id":"09878bbd8d27b8b6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～らしい（推量）.md","x":1380,"y":-286,"width":416,"height":197},
+		{"id":"81482cce58fa7933","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～らしい（接尾辞）.md","x":1380,"y":80,"width":388,"height":150},
+		{"id":"21716fa6f119304a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ものらしい.md","x":1380,"y":-520,"width":272,"height":85},
+		{"id":"2b4d88176033b7b8","x":247,"y":209,"width":393,"height":51,"type":"text","text":"私は女性らしい洋服はあまりきない。"},
+		{"id":"8dca26103215e2d2","x":-180,"y":380,"width":256,"height":97,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あまり.canvas"},
+		{"id":"2b0b076610ead9af","x":-580,"y":371,"width":290,"height":116,"type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり.canvas"}
+	],
+	"edges":[
+		{"id":"d4a2bce85e94e2b2","fromNode":"3e603d592bbab085","fromSide":"right","toNode":"4b393e76035a4048","toSide":"left","color":"4","label":"Nghe nói/Phỏng đoán có căn cứ."},
+		{"id":"efc2f6703140a7c7","fromNode":"4b393e76035a4048","fromSide":"right","toNode":"21716fa6f119304a","toSide":"left","color":"5","label":"Có vẻ là/Nghe nói là bản chất của nó là như thế"},
+		{"id":"57616586fbeb6688","fromNode":"4b393e76035a4048","fromSide":"right","toNode":"09878bbd8d27b8b6","toSide":"left","color":"4","label":"Suy đoán dựa trên thông tin gián tiếp."},
+		{"id":"ff18e817ceca480b","fromNode":"4b393e76035a4048","fromSide":"right","toNode":"81482cce58fa7933","toSide":"left","color":"4","label":"Thể hiện đặc điểm điển hình."},
+		{"id":"99a6a659e84eb612","fromNode":"3e603d592bbab085","fromSide":"right","toNode":"2b4d88176033b7b8","toSide":"left"},
+		{"id":"9f3608d0abaa84b6","fromNode":"8dca26103215e2d2","fromSide":"right","toNode":"2b4d88176033b7b8","toSide":"left","color":"3"},
+		{"id":"6ec8f0eb08b413e5","fromNode":"2b0b076610ead9af","fromSide":"right","toNode":"8dca26103215e2d2","toSide":"left","color":"4"}
+	]
+}

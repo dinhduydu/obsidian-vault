@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b68460b324237653","type":"group","x":-1100,"y":220,"width":290,"height":235,"label":"Untitled group"},
+		{"id":"3d1f3e451bf1f075","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～みたいだ.md","x":-200,"y":-40,"width":336,"height":158},
+		{"id":"18912762a4df7970","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～みたいに.md","x":-200,"y":260,"width":314,"height":159},
+		{"id":"c3b7a02bc2887bd9","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜みたいな.md","x":-200,"y":600,"width":356,"height":213},
+		{"id":"f635421e2cb08f09","type":"text","text":"V・A・な・N（普通）","x":-1080,"y":375,"width":250,"height":60},
+		{"id":"3be7ae1e10b0487f","type":"text","text":"N","x":-1080,"y":260,"width":250,"height":60},
+		{"id":"9546d0b44433eb63","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜みたいだ.md","x":400,"y":-420,"width":313,"height":108},
+		{"id":"671c3233f8b2800e","x":-1900,"y":290,"width":310,"height":60,"type":"text","text":"　「～ようだ」よりも話し言葉的。"}
+	],
+	"edges":[
+		{"id":"6e4956b46a311789","fromNode":"3d1f3e451bf1f075","fromSide":"right","toNode":"9546d0b44433eb63","toSide":"left","label":"Looks like, seems like / Có vẻ, trông như."},
+		{"id":"36dbd630253c91c7","fromNode":"b68460b324237653","fromSide":"right","toNode":"3d1f3e451bf1f075","toSide":"left","label":"So sánh hoặc suy đoán (văn nói)."},
+		{"id":"5c0f8b5c4f3a3141","fromNode":"b68460b324237653","fromSide":"right","toNode":"18912762a4df7970","toSide":"left","label":"So sánh tương đồng (giống như)."},
+		{"id":"08647058c16a5af2","fromNode":"b68460b324237653","fromSide":"right","toNode":"c3b7a02bc2887bd9","toSide":"left"},
+		{"id":"c619cd551c99c54e","fromNode":"671c3233f8b2800e","fromSide":"right","toNode":"b68460b324237653","toSide":"left","label":"　「～ようだ」よりも話し言葉的。"}
+	]
+}

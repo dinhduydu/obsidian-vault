@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"823218e7f27bce46","type":"text","text":"っぽい","x":-112,"y":-12,"width":250,"height":60},
+		{"id":"a95c116048f058b0","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜っぽい.md","x":360,"y":-260,"width":341,"height":101},
+		{"id":"5d3e8b0a17df57e1","x":450,"y":54,"width":250,"height":60,"type":"text","text":"いいっぽい"},
+		{"id":"44ec1ea76f1e5968","x":1086,"y":-466,"width":294,"height":50,"type":"text","text":"あの小学生は、大人っぽい。"}
+	],
+	"edges":[
+		{"id":"a71e6dc00f0a25fd","fromNode":"823218e7f27bce46","fromSide":"right","toNode":"a95c116048f058b0","toSide":"left","color":"4"},
+		{"id":"9a3dd16629f282e0","fromNode":"823218e7f27bce46","fromSide":"right","toNode":"5d3e8b0a17df57e1","toSide":"left","color":"1","label":"だめ"},
+		{"id":"583c017f11e4a18c","fromNode":"a95c116048f058b0","fromSide":"right","toNode":"44ec1ea76f1e5968","toSide":"left","color":"6"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9ce1d2a3b184036e","type":"text","text":"といけない","x":-1240,"y":240,"width":250,"height":60},
+		{"id":"9ff8839beed23375","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～といけないから.md","x":-727,"y":-360,"width":295,"height":125},
+		{"id":"e4a72a37fc528746","type":"text","text":"Vなくちゃ","x":303,"y":300,"width":250,"height":60},
+		{"id":"990e6381329bc65c","type":"text","text":"Vないと","x":-129,"y":409,"width":250,"height":60},
+		{"id":"52993ba982b192c6","type":"text","text":"Vないといけない","x":-557,"y":540,"width":250,"height":60},
+		{"id":"2f721e0b563dab95","type":"text","text":"明日は早く出かけるから、もう寝ないと。\nVì ngày mai sẽ đi sớm, giờ mà không ngủ là không được","x":308,"y":524,"width":472,"height":76},
+		{"id":"db51a53b292056e4","type":"text","text":"田中さんにメールの返信をしなくちゃ。\nPhải trả lời E-mail của ông Tanaka thôi (nếu không thì toang)","x":796,"y":150,"width":504,"height":70},
+		{"id":"b50ca3ddc60e7c12","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜なければならない.md","x":-1240,"y":820,"width":370,"height":167}
+	],
+	"edges":[
+		{"id":"83237459b0c9687a","fromNode":"990e6381329bc65c","fromSide":"right","toNode":"e4a72a37fc528746","toSide":"left","color":"4"},
+		{"id":"d56b2cb36aedf58c","fromNode":"52993ba982b192c6","fromSide":"right","toNode":"990e6381329bc65c","toSide":"left","color":"4","label":"Câu điều kiện"},
+		{"id":"73ce26c3b5aa4ea1","fromNode":"9ce1d2a3b184036e","fromSide":"right","toNode":"52993ba982b192c6","toSide":"left","color":"5"},
+		{"id":"0eb450be421f46b0","fromNode":"9ce1d2a3b184036e","fromSide":"right","toNode":"9ff8839beed23375","toSide":"left","color":"6","label":"Vì sợ rằng... (nên làm gì đó để phòng ngừa)."},
+		{"id":"bf212b153bac0e8a","fromNode":"990e6381329bc65c","fromSide":"right","toNode":"2f721e0b563dab95","toSide":"left","color":"6"},
+		{"id":"5693c75448404a5c","fromNode":"e4a72a37fc528746","fromSide":"right","toNode":"db51a53b292056e4","toSide":"left"},
+		{"id":"e8762a6a075c53af","fromNode":"b50ca3ddc60e7c12","fromSide":"right","toNode":"52993ba982b192c6","toSide":"left","color":"4","label":"Phải... / Bắt buộc phải... (Nghĩa vụ, điều kiện cần thiết)."}
+	]
+}
