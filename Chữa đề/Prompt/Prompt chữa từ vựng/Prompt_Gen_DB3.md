@@ -48,4 +48,4 @@ Grammar | 〜ないことには
 - Priority: Low
 
 Adverb, Katakana, CompoundVerb, FixedExpression, Collocation, Demonstratives phải ghi thêm Meaning, Usage, Example.  
-Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật cụ thể.
+Không tạo item chung như "& Kiến thức liên quan", "Cụm từ cố định N2"; phải dùng đúng tên kiến thức Nhật cụ thể. Không tạo link chú thích như 1. 2. 3. 4.

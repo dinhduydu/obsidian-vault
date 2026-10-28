@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4f1ab4aaf1920283","type":"group","x":-80,"y":-250,"width":1020,"height":500,"color":"2","label":"〜といったら〜たとえようがない"},
+		{"id":"be38b266d38ea0a6","type":"text","text":"Dùng để nhấn mạnh mức độ cực kỳ của một trạng thái.","x":-800,"y":-640,"width":250,"height":60},
+		{"id":"e90679d77480dba8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たとえようがない.md","x":-1240,"y":-200,"width":400,"height":400},
+		{"id":"749f5b7ca9a4d038","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜といったら.md","x":-750,"y":200,"width":400,"height":400},
+		{"id":"17d64471f71b5dcb","x":-1800,"y":-380,"width":226,"height":147,"type":"file","file":"N2文法/そう・よう/よう/ようがない.canvas"},
+		{"id":"59edcfeb8ba3fcfb","x":-1834,"y":47,"width":260,"height":153,"type":"file","file":"N2文法/たとえ/たとえ.canvas"}
+	],
+	"edges":[
+		{"id":"e3bd2271723e91d5","fromNode":"4f1ab4aaf1920283","fromSide":"left","toNode":"be38b266d38ea0a6","toSide":"right","color":"3","label":"Dùng để nhấn mạnh mức độ cực kỳ của một trạng thái."},
+		{"id":"cffd5437cebd8d9c","fromNode":"e90679d77480dba8","fromSide":"right","toNode":"4f1ab4aaf1920283","toSide":"left"},
+		{"id":"90031f6f588956a5","fromNode":"749f5b7ca9a4d038","fromSide":"right","toNode":"4f1ab4aaf1920283","toSide":"left"},
+		{"id":"e1f392295aa9febc","fromNode":"17d64471f71b5dcb","fromSide":"right","toNode":"e90679d77480dba8","toSide":"left"},
+		{"id":"2cbc24fcd21a795c","fromNode":"59edcfeb8ba3fcfb","fromSide":"right","toNode":"e90679d77480dba8","toSide":"left"}
+	]
+}

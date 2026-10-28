@@ -8,6 +8,6 @@
 	"edges":[
 		{"id":"5b0333a5385c50bf","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left"},
 		{"id":"08233f83fb2004b9","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"c75310672b1004f1","toSide":"left"},
-		{"id":"9e62e665c5d228d3","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"54ce62060fbaa9ef","toSide":"left"}
+		{"id":"9e62e665c5d228d3","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"54ce62060fbaa9ef","toSide":"left","label":"Trong thời gian tới, sớm muộn gì cũng..."}
 	]
 }

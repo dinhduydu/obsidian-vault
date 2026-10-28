@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"28397e3a9abff1c8","type":"group","x":-1305,"y":-730,"width":1700,"height":1460,"color":"1","label":"たとえ〜ても"},
+		{"id":"920f5ce7c2fd5791","type":"text","text":"たとえ～ても","x":-1285,"y":179,"width":250,"height":60},
+		{"id":"0a1c6b930438e259","type":"file","file":"Chữa đề/Learning_Profile/Grammar/たとえ〜ても.md","x":-743,"y":239,"width":400,"height":400},
+		{"id":"62ba8648044e5c73","type":"text","text":"ても","x":-713,"y":-710,"width":250,"height":60},
+		{"id":"2a1038cb39ed73ef","type":"text","text":"どんなに～ても","x":-75,"y":-650,"width":250,"height":60},
+		{"id":"a8b480621f48d57a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/たとえ〜としても.md","x":-25,"y":310,"width":400,"height":400},
+		{"id":"7b3907a033827086","type":"text","text":"Giả sử/Dù cho... có xảy ra đi chăng nữa thì...\"","x":1055,"y":-310,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ef0314ad757a203c","fromNode":"28397e3a9abff1c8","fromSide":"right","toNode":"7b3907a033827086","toSide":"left","label":"Giả sử/Dù cho... có xảy ra đi chăng nữa thì..."},
+		{"id":"69ce16c99ab3b190","fromNode":"920f5ce7c2fd5791","fromSide":"right","toNode":"0a1c6b930438e259","toSide":"left"},
+		{"id":"b8f9f8b83838591b","fromNode":"62ba8648044e5c73","fromSide":"left","toNode":"920f5ce7c2fd5791","toSide":"top","label":"たとえ～ても"},
+		{"id":"86833b706a7922f4","fromNode":"0a1c6b930438e259","fromSide":"right","toNode":"a8b480621f48d57a","toSide":"left"},
+		{"id":"d4d1275a4037adee","fromNode":"62ba8648044e5c73","fromSide":"right","toNode":"2a1038cb39ed73ef","toSide":"top"}
+	]
+}
