@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d168df0e1245ab47","type":"text","text":"必ずしもいいとは限らない","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"2c5e29f7c9fa70ef","type":"file","file":"Chữa đề/Learning_Profile/Grammar/必ずしも〜とは限らない.md","x":-820,"y":-380,"width":302,"height":176},
+		{"id":"2884c7d21c8f22a9","x":-320,"y":-700,"width":265,"height":198,"type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない/〜とは限らない.canvas"}
+	],
+	"edges":[
+		{"id":"9e6c98d20a646fc0","fromNode":"2c5e29f7c9fa70ef","fromSide":"right","toNode":"d168df0e1245ab47","toSide":"left","label":"Không nhất thiết là/Không phải lúc nào cũng..."},
+		{"id":"3885f66cfe7c9549","fromNode":"2c5e29f7c9fa70ef","fromSide":"right","toNode":"2884c7d21c8f22a9","toSide":"left","color":"3"}
+	]
+}

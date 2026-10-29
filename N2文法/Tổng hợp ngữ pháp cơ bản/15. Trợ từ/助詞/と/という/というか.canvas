@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"c27151c541621af1","type":"group","x":-799,"y":-250,"width":1986,"height":500,"color":"2","label":"というか - Hay nói đúng hơn là,"},
+		{"id":"0466ea96a4ccded9","type":"text","text":"Dùng khi:\n\nsửa/cải chính cách diễn đạt trước đó\nđổi sang cách nói phù hợp hơn\nthêm sắc thái giải thích","x":284,"y":43,"width":315,"height":187},
+		{"id":"3720d6b1c4558896","type":"text","text":"それは人間としてやむを得ないというか、いわば当たり前の姿と思う。","x":-281,"y":-230,"width":574,"height":50},
+		{"id":"b0b5191f3bf9d119","type":"text","text":"“Điều đó với con người là không thể tránh khỏi, hay nói cách khác, đó vốn là trạng thái tự nhiên bình thường.”","x":599,"y":-174,"width":568,"height":50},
+		{"id":"b7d15e252380b5b6","type":"text","text":"というか","x":-779,"y":-149,"width":250,"height":60},
+		{"id":"ba3c717d6f0ea161","type":"text","text":"～というか～というか","x":-1186,"y":170,"width":250,"height":60},
+		{"id":"25c5ef037361cfb8","type":"text","text":"Nó có cảm giác:\n\n“hay nói đúng hơn là…”\n\n“phải nói là…”\n\n“nói thế nào nhỉ…”","x":-281,"y":-30,"width":405,"height":168}
+	],
+	"edges":[
+		{"id":"8bfd700bd7b1a9ca","fromNode":"25c5ef037361cfb8","fromSide":"right","toNode":"0466ea96a4ccded9","toSide":"left"},
+		{"id":"719ee69bae8d154a","fromNode":"3720d6b1c4558896","fromSide":"right","toNode":"b0b5191f3bf9d119","toSide":"left","label":"というか"},
+		{"id":"b3892034f37b87db","fromNode":"b7d15e252380b5b6","fromSide":"right","toNode":"3720d6b1c4558896","toSide":"left","label":"というか"},
+		{"id":"c230fa4999738d6a","fromNode":"b7d15e252380b5b6","fromSide":"right","toNode":"ba3c717d6f0ea161","toSide":"right","label":"～というか～というか"},
+		{"id":"8d686ee247d8ecf3","fromNode":"b7d15e252380b5b6","fromSide":"right","toNode":"25c5ef037361cfb8","toSide":"left"}
+	]
+}

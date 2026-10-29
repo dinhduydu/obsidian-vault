@@ -1,13 +1,23 @@
 {
 	"nodes":[
-		{"id":"86d6add408bb3ec5","type":"text","text":"怖 - Bố","x":-248,"y":-53,"width":250,"height":60},
 		{"id":"8c5e131ace993a41","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cân　「巾」/布 - Bố/布 - Bố.canvas","x":-460,"y":-180,"width":105,"height":74},
 		{"id":"48dd4fe8f1d6f4b9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas","x":-470,"y":7,"width":115,"height":94},
-		{"id":"d78da481e8d162cf","x":-880,"y":-53,"width":250,"height":60,"type":"text","text":"khủng bố"}
+		{"id":"d78da481e8d162cf","type":"text","text":"khủng bố","x":-880,"y":-53,"width":250,"height":60},
+		{"id":"d913564acd2a630c","x":160,"y":-282,"width":240,"height":102,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week3/６日目：教えてほしい/怖がれないで.canvas"},
+		{"id":"b5eda22108fa46f4","x":160,"y":180,"width":205,"height":121,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/怖い.md"},
+		{"id":"86d6add408bb3ec5","type":"text","text":"怖 - Bố","x":-248,"y":-53,"width":250,"height":60},
+		{"id":"87e0ac0ca0ecd1f4","type":"text","text":"怖 - Bố","x":-248,"y":440,"width":250,"height":60},
+		{"id":"4f6521d9a1c2333c","x":180,"y":418,"width":228,"height":103,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/恐怖.md"},
+		{"id":"501deb335ee46cc0","x":160,"y":-70,"width":323,"height":95,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/怖さが分かった.md"}
 	],
 	"edges":[
 		{"id":"ccf777001caaebed","fromNode":"8c5e131ace993a41","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"},
 		{"id":"bea41291c6f7f975","fromNode":"48dd4fe8f1d6f4b9","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"},
-		{"id":"c27745a592e1b6ef","fromNode":"d78da481e8d162cf","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"}
+		{"id":"c27745a592e1b6ef","fromNode":"d78da481e8d162cf","fromSide":"right","toNode":"86d6add408bb3ec5","toSide":"left"},
+		{"id":"0a417147e6e236bd","fromNode":"86d6add408bb3ec5","fromSide":"right","toNode":"d913564acd2a630c","toSide":"left"},
+		{"id":"01bb21125af480e6","fromNode":"87e0ac0ca0ecd1f4","fromSide":"right","toNode":"b5eda22108fa46f4","toSide":"left"},
+		{"id":"32a6e387b88cbc31","fromNode":"86d6add408bb3ec5","fromSide":"bottom","toNode":"87e0ac0ca0ecd1f4","toSide":"top","color":"4"},
+		{"id":"0c1f707c6042694a","fromNode":"87e0ac0ca0ecd1f4","fromSide":"right","toNode":"4f6521d9a1c2333c","toSide":"left"},
+		{"id":"2901f4fcbc0ec743","fromNode":"86d6add408bb3ec5","fromSide":"right","toNode":"501deb335ee46cc0","toSide":"left"}
 	]
 }

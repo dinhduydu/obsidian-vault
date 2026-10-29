@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1d9cc27083325f52","type":"text","text":"注意されて初めて","x":-84,"y":-46,"width":250,"height":60},
+		{"id":"222d094b855ffb82","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～てはじめて.md","x":-680,"y":160,"width":312,"height":182}
+	],
+	"edges":[
+		{"id":"8f0b92554efa6410","fromNode":"222d094b855ffb82","fromSide":"right","toNode":"1d9cc27083325f52","toSide":"left","label":" Chỉ sau khi... mới (nhận ra/hiểu ra)."}
+	]
+}

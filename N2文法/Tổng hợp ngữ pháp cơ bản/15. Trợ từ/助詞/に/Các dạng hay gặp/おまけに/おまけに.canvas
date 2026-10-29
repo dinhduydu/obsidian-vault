@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"458639a69607d0b7","type":"file","file":"Pasted image 20260517105900.png","x":75,"y":-112,"width":710,"height":157},
+		{"id":"0f1745491d7a753f","x":-440,"y":160,"width":294,"height":207,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/おまけに.md"},
+		{"id":"a905c07c14090d6b","type":"text","text":"おまけに","x":-920,"y":45,"width":250,"height":62},
+		{"id":"074e2f2fc51c1b47","type":"text","text":"Hơn thế nữa","x":-1400,"y":-172,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e68ebfc97744d446","fromNode":"a905c07c14090d6b","fromSide":"right","toNode":"0f1745491d7a753f","toSide":"left","color":"4"},
+		{"id":"51d3a13dcd622ed1","fromNode":"074e2f2fc51c1b47","fromSide":"right","toNode":"a905c07c14090d6b","toSide":"left","color":"3"},
+		{"id":"7952c6b2b294618f","fromNode":"0f1745491d7a753f","fromSide":"right","toNode":"458639a69607d0b7","toSide":"left"}
+	]
+}

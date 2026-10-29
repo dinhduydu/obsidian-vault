@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"20828ee4683cda5d","type":"text","text":"もしかするとうそかもしれない","x":-38,"y":-27,"width":278,"height":50},
+		{"id":"2afd5cdc5e1d673b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かもしれない.md","x":-720,"y":-460,"width":301,"height":157}
+	],
+	"edges":[
+		{"id":"114a1e668fe43f40","fromNode":"2afd5cdc5e1d673b","fromSide":"right","toNode":"20828ee4683cda5d","toSide":"left","label":"Có lẽ là..., có khả năng là... (diễn đạt sự suy đoán không chắc chắn của người nói)."}
+	]
+}

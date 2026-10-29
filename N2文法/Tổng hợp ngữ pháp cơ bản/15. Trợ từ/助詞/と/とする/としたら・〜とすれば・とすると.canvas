@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"d256aba675efcff1","type":"group","x":-1805,"y":-753,"width":3610,"height":1507,"label":"Nếu A thì B"},
+		{"id":"0d206a2c71980d1d","type":"group","x":-1705,"y":-454,"width":1422,"height":1187,"color":"3","label":"〜としたら/〜とすれば - Nếu A thì B"},
+		{"id":"86f62fa652299955","type":"group","x":543,"y":-214,"width":1100,"height":697,"color":"3","label":"とすると - Nếu thế thì"},
+		{"id":"d9978ec1090760e0","type":"text","text":"もし旅行するとしたら、北海道へいきたいです。","x":-1685,"y":-57,"width":250,"height":60},
+		{"id":"3b75eec242680256","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜としたら.md","x":-1165,"y":-334,"width":310,"height":240},
+		{"id":"3f1b7b1dfd44bf59","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/とすると.md","x":1015,"y":63,"width":400,"height":400},
+		{"id":"6e8f6e9d33a6cc4b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とすれば.md","x":-1105,"y":166,"width":400,"height":400},
+		{"id":"6303a52d1fb4990e","type":"text","text":"Dùng khi giả định nếu A thì B","x":-1105,"y":3,"width":250,"height":50},
+		{"id":"fd0f977010ec5cd1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜だとしたら.md","x":-738,"y":-294,"width":310,"height":200},
+		{"id":"e7e078f22ca2ffd9","type":"file","file":"Pasted image 20260410080010.png","x":41,"y":-524,"width":360,"height":190},
+		{"id":"77ae55c22ead14ff","type":"file","file":"Pasted image 20260702071558.png","x":563,"y":63,"width":367,"height":400},
+		{"id":"3ff07f206c57fef3","type":"text","text":"山田さんが忙しい**とすると**、誰にたのんだらいいかな。","x":563,"y":-94,"width":552,"height":60},
+		{"id":"21db4082d0f19e9d","type":"text","text":"Dùng khi nói chuyện dựa trên tình huống A\n","x":563,"y":-194,"width":250,"height":60},
+		{"id":"189183cf6f3e6367","type":"text","text":"とすれば","x":-553,"y":263,"width":250,"height":60},
+		{"id":"cfbcbf246a86ea2c","type":"text","text":"としたら","x":-553,"y":3,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"39747bc321f74c5e","fromNode":"86f62fa652299955","fromSide":"left","toNode":"cfbcbf246a86ea2c","toSide":"right","label":"としたら"},
+		{"id":"c616dc1d7bbb1c82","fromNode":"86f62fa652299955","fromSide":"left","toNode":"189183cf6f3e6367","toSide":"right","label":"とすれば"},
+		{"id":"81ec16c51aba17e8","fromNode":"6303a52d1fb4990e","fromSide":"left","toNode":"d9978ec1090760e0","toSide":"right","label":"としたら"},
+		{"id":"b198ad16bb6a8d0a","fromNode":"cfbcbf246a86ea2c","fromSide":"left","toNode":"6303a52d1fb4990e","toSide":"right"}
+	]
+}

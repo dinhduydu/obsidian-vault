@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"73422418bc995194","type":"text","text":"若い人ほど朝寝坊をする\nNhững người càng trẻ càng hay ngủ dậy trễ","x":-166,"y":-69,"width":386,"height":69},
+		{"id":"25f87e8c1260051d","x":-580,"y":60,"width":250,"height":60,"type":"text","text":"Aい＋ほど\nAな＋N＋ほど"},
+		{"id":"bc3fbd0c8f5a7da7","x":-86,"y":214,"width":466,"height":66,"type":"text","text":"伝統的なものは、古いほど価値がる。\nNhững món đồ truyền thống thì càng xưa càng có giá trị"},
+		{"id":"01fee660037c96d4","type":"file","file":"N2文法/くらい・ほど/ほど/ほど.canvas","x":-920,"y":-138,"width":188,"height":104}
+	],
+	"edges":[
+		{"id":"13b7224d2a67741a","fromNode":"01fee660037c96d4","fromSide":"right","toNode":"25f87e8c1260051d","toSide":"left","color":"3","label":"càng ... càng"},
+		{"id":"bb5f5285afd272bb","fromNode":"25f87e8c1260051d","fromSide":"right","toNode":"73422418bc995194","toSide":"left","color":"6"},
+		{"id":"e73cfc3efd836af5","fromNode":"25f87e8c1260051d","fromSide":"right","toNode":"bc3fbd0c8f5a7da7","toSide":"left","color":"6"}
+	]
+}

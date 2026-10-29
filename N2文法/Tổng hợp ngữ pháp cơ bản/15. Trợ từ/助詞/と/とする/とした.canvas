@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"62d31bd00e7232d5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～とした.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"cb63db2ad721c335","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/とする.canvas","x":600,"y":-280,"width":320,"height":260}
+	],
+	"edges":[
+		{"id":"f26d3d3bc2c18be2","fromNode":"cb63db2ad721c335","fromSide":"left","toNode":"62d31bd00e7232d5","toSide":"right","label":"～とした　ー　Xem như là... / Coi như là...."}
+	]
+}

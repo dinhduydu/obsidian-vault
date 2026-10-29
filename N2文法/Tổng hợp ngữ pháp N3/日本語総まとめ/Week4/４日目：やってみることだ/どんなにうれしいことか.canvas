@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0b6993b22964e2b9","type":"text","text":"どんなにうれしいことか","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e47590ef5b6217f2","type":"file","file":"N2文法/こと・もの/こと/～ことか.canvas","x":-800,"y":-320,"width":223,"height":152}
+	],
+	"edges":[
+		{"id":"adeef8a3b035158b","fromNode":"e47590ef5b6217f2","fromSide":"right","toNode":"0b6993b22964e2b9","toSide":"left","label":"Biết bao nhiêu/ Biết nhường nào (câu cảm thán)."}
+	]
+}

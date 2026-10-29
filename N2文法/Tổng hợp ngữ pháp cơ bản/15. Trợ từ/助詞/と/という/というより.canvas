@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"ffa6889e381ef9b6","type":"group","x":-797,"y":-696,"width":1779,"height":933,"color":"4","label":"A というより B　ー　không phải A mà là B"},
+		{"id":"926ac599ebbfa0c7","type":"file","file":"Pasted image 20260412125807.png","x":722,"y":280,"width":400,"height":198},
+		{"id":"cf306999eb5396ed","type":"text","text":"Dùng khi muốn nói cách nói A cũng đúng nhưng B thì thích hợp hơn","x":-448,"y":-440,"width":250,"height":82},
+		{"id":"8c087971f34fd93a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/というより.md","x":374,"y":-676,"width":400,"height":400},
+		{"id":"482cb051965538fa","type":"text","text":"**A というより B**\nđúng hơn là / nói đúng hơn là / không phải A mà là B\n→ sửa lại cách nói cho chính xác hơn","x":482,"y":-102,"width":480,"height":100},
+		{"id":"306490891266b3ee","type":"text","text":"というより","x":-64,"y":-276,"width":250,"height":60},
+		{"id":"59100417df467d2e","type":"text","text":"Ko phải A mà đúng hơn là B","x":-481,"y":-162,"width":250,"height":60},
+		{"id":"84dc33ae1afe5e04","type":"text","text":"夢を諦めるのは、残念というより悔しい。","x":-766,"y":-546,"width":250,"height":60},
+		{"id":"4d4d810f22cdb244","type":"file","file":"N2文法/さえ・より/より/より.canvas","x":-76,"y":-616,"width":262,"height":140},
+		{"id":"3b7701bb265c98e6","type":"file","file":"Pasted image 20260517111943.png","x":-1121,"y":323,"width":400,"height":155}
+	],
+	"edges":[
+		{"id":"5b431bd606098fc0","fromNode":"926ac599ebbfa0c7","fromSide":"left","toNode":"306490891266b3ee","toSide":"right"},
+		{"id":"b84e371aa81cc6d6","fromNode":"926ac599ebbfa0c7","fromSide":"top","toNode":"482cb051965538fa","toSide":"bottom","label":"というより"},
+		{"id":"811023054a7fd755","fromNode":"cf306999eb5396ed","fromSide":"left","toNode":"84dc33ae1afe5e04","toSide":"right"},
+		{"id":"21b48aeb82705c43","fromNode":"306490891266b3ee","fromSide":"left","toNode":"cf306999eb5396ed","toSide":"right"},
+		{"id":"84cb0698a76b7487","fromNode":"482cb051965538fa","fromSide":"top","toNode":"8c087971f34fd93a","toSide":"bottom"},
+		{"id":"dfadc62b95bb6835","fromNode":"306490891266b3ee","fromSide":"top","toNode":"4d4d810f22cdb244","toSide":"bottom"},
+		{"id":"828c180c6d3c5844","fromNode":"306490891266b3ee","fromSide":"left","toNode":"59100417df467d2e","toSide":"right"},
+		{"id":"43bfa308ae47f13f","fromNode":"59100417df467d2e","fromSide":"left","toNode":"3b7701bb265c98e6","toSide":"right"}
+	]
+}

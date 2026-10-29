@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"98e56d53770d02a0","type":"text","text":"食べきれない","x":-63,"y":-42,"width":250,"height":60},
+		{"id":"cd4b81781c7c7773","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/きれない.md","x":-700,"y":-360,"width":254,"height":114}
+	],
+	"edges":[
+		{"id":"d371b4cf26ee4d84","fromNode":"cd4b81781c7c7773","fromSide":"right","toNode":"98e56d53770d02a0","toSide":"left","label":"Không thể hết được/Không thể kham nổi."}
+	]
+}

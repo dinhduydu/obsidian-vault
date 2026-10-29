@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c3fd919ceb37998b","type":"text","text":"ビールのかわりに","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"3f4e195c48f16b0b","x":-496,"y":-144,"width":250,"height":60,"type":"text","text":"Thay mặt, thay cho"}
+	],
+	"edges":[
+		{"id":"7d2d85797db1ae6d","fromNode":"3f4e195c48f16b0b","fromSide":"right","toNode":"c3fd919ceb37998b","toSide":"left"}
+	]
+}

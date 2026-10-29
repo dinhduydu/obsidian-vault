@@ -21,7 +21,7 @@
 		{"id":"528778cf17db3838","type":"text","text":"**14．〜くらい∕〜くらいだ:** Đến mức, đến nỗi...,","x":1100,"y":700,"width":380,"height":50},
 		{"id":"211f659cae193b3a","type":"text","text":"**15．〜くらいなら:** Nếu A... thì... B còn tốt hơn,","x":1100,"y":840,"width":380,"height":60},
 		{"id":"05f90a905a6014c5","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/なら.canvas","x":889,"y":1000,"width":136,"height":108},
-		{"id":"2af26c6409bc33f7","x":640,"y":140,"width":130,"height":87,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする.canvas"}
+		{"id":"2af26c6409bc33f7","x":640,"y":140,"width":130,"height":87,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/とする.canvas"}
 	],
 	"edges":[
 		{"id":"03a48035edf8363f","fromNode":"cbfd5f7aa0ef153d","fromSide":"right","toNode":"dae9b21e2dd05192","toSide":"left"},

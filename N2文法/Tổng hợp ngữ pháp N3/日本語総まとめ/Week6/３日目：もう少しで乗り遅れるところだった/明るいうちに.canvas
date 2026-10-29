@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d5635d7fab418e72","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"明るいうちに"},
+		{"id":"0ede39766717f7ff","x":-700,"y":-280,"width":283,"height":193,"type":"file","file":"N2文法/うち/うちに.canvas"}
+	],
+	"edges":[
+		{"id":"9dc18ee341a90e80","fromNode":"0ede39766717f7ff","fromSide":"right","toNode":"d5635d7fab418e72","toSide":"left"}
+	]
+}

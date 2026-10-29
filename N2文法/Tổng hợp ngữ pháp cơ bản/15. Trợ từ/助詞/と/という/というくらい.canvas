@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f3997c1c4734c925","type":"file","file":"Pasted image 20260517111943.png","x":-1121,"y":323,"width":400,"height":155},
+		{"id":"e9e62db8d4600194","type":"text","text":"というくらいのN","x":-64,"y":637,"width":250,"height":60},
+		{"id":"d5afbc6e687c37af","type":"file","file":"Pasted image 20260412125807.png","x":-800,"y":720,"width":400,"height":198}
+	],
+	"edges":[
+		{"id":"6ab140af9a9c3449","fromNode":"e9e62db8d4600194","fromSide":"left","toNode":"f3997c1c4734c925","toSide":"right","label":"というくらいのN"},
+		{"id":"9b367bf94ec909ea","fromNode":"e9e62db8d4600194","fromSide":"left","toNode":"d5afbc6e687c37af","toSide":"right"}
+	]
+}

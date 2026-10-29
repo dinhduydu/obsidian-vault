@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2cfdf89b77ebbd62","type":"text","text":"二人きり","x":-71,"y":-33,"width":250,"height":60},
+		{"id":"f066032567e3e667","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～きり.md","x":-780,"y":-400,"width":307,"height":141},
+		{"id":"aa8d66e3434f2a07","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜きりだ.md","x":-71,"y":-680,"width":277,"height":103}
+	],
+	"edges":[
+		{"id":"6047051736b71c10","fromNode":"f066032567e3e667","fromSide":"right","toNode":"2cfdf89b77ebbd62","toSide":"left","label":"Chỉ 2 người với nhau"},
+		{"id":"74e36bc2dc6a37a8","fromNode":"f066032567e3e667","fromSide":"right","toNode":"aa8d66e3434f2a07","toSide":"left","color":"4","label":"Kể từ khi... (sau đó trạng thái vẫn tiếp diễn)."}
+	]
+}

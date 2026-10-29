@@ -5,8 +5,8 @@
 		{"id":"415d63a35553be12","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにしている.md","x":1520,"y":-600,"width":371,"height":184},
 		{"id":"3202c0de831f8876","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようにしておく.md","x":1580,"y":60,"width":348,"height":192},
 		{"id":"df9b6eee5596f880","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ようにする.md","x":-740,"y":-169,"width":400,"height":400},
-		{"id":"4511492f521d2b53","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/４日目：できるようになった/忘れ物をしないようにしましょう.canvas","x":1520,"y":-1240,"width":329,"height":232},
-		{"id":"c5ffef94bffe7635","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/２日目：そこに置いていて/Vとく.canvas","x":1180,"y":231,"width":251,"height":138}
+		{"id":"4511492f521d2b53","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week1/４日目：できるようになった/忘れ物をしないようにしましょう.canvas","x":1520,"y":-1240,"width":329,"height":232},
+		{"id":"c5ffef94bffe7635","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week1/２日目：そこに置いていて/Vとく.canvas","x":1180,"y":231,"width":251,"height":138}
 	],
 	"edges":[
 		{"id":"c4ea5228cfbdfcdc","fromNode":"df9b6eee5596f880","fromSide":"right","toNode":"152ea7fba86f12e8","toSide":"left","color":"4","label":"Try to, make an effort to / Cố gắng, nỗ lực để làm (hoặc không làm)."},

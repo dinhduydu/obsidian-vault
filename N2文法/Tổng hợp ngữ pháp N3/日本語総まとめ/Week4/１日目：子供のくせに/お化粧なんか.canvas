@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"220bb376c62e3fd3","type":"text","text":"お化粧なんか","x":-145,"y":-27,"width":250,"height":60},
+		{"id":"61943e46582371a1","type":"file","file":"Chữa đề/Learning_Profile/Collocation/化粧をする.md","x":-660,"y":-360,"width":263,"height":99}
+	],
+	"edges":[
+		{"id":"6fdb208a53a62edb","fromNode":"61943e46582371a1","fromSide":"right","toNode":"220bb376c62e3fd3","toSide":"left","label":"Trang điểm."}
+	]
+}

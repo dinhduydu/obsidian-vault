@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d3e8952e09aa7adc","type":"group","x":-634,"y":-328,"width":1268,"height":656,"color":"1","label":"というわけ"},
+		{"id":"55f391e582dd5723","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜というわけだ.md","x":214,"y":-119,"width":400,"height":400},
+		{"id":"0fd67105cbe9f29f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～というわけではない.md","x":-474,"y":-92,"width":400,"height":400}
+	],
+	"edges":[]
+}

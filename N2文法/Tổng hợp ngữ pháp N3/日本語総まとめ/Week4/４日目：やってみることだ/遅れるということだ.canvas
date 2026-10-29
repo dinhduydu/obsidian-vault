@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f57361ed1d62da9c","type":"text","text":"遅れるということだ","x":-178,"y":-34,"width":250,"height":60},
+		{"id":"77f1ba10a66a6155","type":"file","file":"N2文法/こと・もの/こと/ことだ.canvas","x":-724,"y":240,"width":212,"height":133},
+		{"id":"550ee4191f5451a5","type":"file","file":"N2文法/こと・もの/こと/ということ.canvas","x":-768,"y":-320,"width":256,"height":112}
+	],
+	"edges":[
+		{"id":"f5c7880e2cef1898","fromNode":"550ee4191f5451a5","fromSide":"right","toNode":"f57361ed1d62da9c","toSide":"left","color":"3","label":"Nghe nói là / Sự việc là (Truyền tin)."},
+		{"id":"afb6ff0bfd9869b7","fromNode":"77f1ba10a66a6155","fromSide":"right","toNode":"f57361ed1d62da9c","toSide":"left","color":"3","label":"Truyền đạt quan niệm, nhận xét hay lời khuyên của người nói"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"db1d2c558bbfb958","type":"text","text":"～におけるN","x":-214,"y":-123,"width":250,"height":60},
+		{"id":"ddf3a1392b336360","type":"text","text":"江戸時代における食生活について研究する。","x":-162,"y":63,"width":376,"height":60},
+		{"id":"1d9e717f8d3c9424","type":"text","text":"Dùng khi cho biết địa điểm, tình huống, hoàn cảnh, thời đại","x":-680,"y":-320,"width":323,"height":84}
+	],
+	"edges":[
+		{"id":"4cb5cb2e4d714efa","fromNode":"db1d2c558bbfb958","fromSide":"bottom","toNode":"ddf3a1392b336360","toSide":"top","label":"～におけるN"},
+		{"id":"256e90cbce3c94d1","fromNode":"1d9e717f8d3c9424","fromSide":"right","toNode":"db1d2c558bbfb958","toSide":"left"}
+	]
+}

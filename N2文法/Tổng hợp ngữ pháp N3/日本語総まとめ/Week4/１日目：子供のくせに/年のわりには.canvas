@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"41feba2252e6b1fa","type":"text","text":"年のわりには","x":-73,"y":-5,"width":250,"height":60},
+		{"id":"c2166f2029d16459","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～わりには.md","x":-600,"y":-260,"width":246,"height":112},
+		{"id":"9d7ca8b890f4af97","x":360,"y":-120,"width":329,"height":72,"type":"text","text":"年のわりには若く見える。\nAnh ấy trông trẻ hơn so với tuổi"}
+	],
+	"edges":[
+		{"id":"7434ea708acf3037","fromNode":"c2166f2029d16459","fromSide":"right","toNode":"41feba2252e6b1fa","toSide":"left","label":"So với... thì (kết quả ngoài dự đoán dựa trên tiêu chuẩn thông thường)."},
+		{"id":"06a188f4846ec57d","fromNode":"41feba2252e6b1fa","fromSide":"right","toNode":"9d7ca8b890f4af97","toSide":"left"}
+	]
+}

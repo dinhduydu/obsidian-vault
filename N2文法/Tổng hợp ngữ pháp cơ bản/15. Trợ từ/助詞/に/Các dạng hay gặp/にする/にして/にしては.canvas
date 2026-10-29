@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a9ed249a7257d439","x":-57,"y":-8,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にしては.md"},
+		{"id":"19b155d6083c4df8","x":600,"y":-140,"width":307,"height":91,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それにしては.md"},
+		{"id":"2c2b1d7ac9f714ef","x":660,"y":320,"width":300,"height":202,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜を抜きにしては.md"}
+	],
+	"edges":[
+		{"id":"1930bef62df5055a","fromNode":"a9ed249a7257d439","fromSide":"right","toNode":"19b155d6083c4df8","toSide":"left"},
+		{"id":"5e2a211b8a37594a","fromNode":"a9ed249a7257d439","fromSide":"right","toNode":"2c2b1d7ac9f714ef","toSide":"left"}
+	]
+}

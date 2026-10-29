@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"03986f2b129102fc","type":"file","file":"Pasted image 20260409005552.png","x":-200,"y":-103,"width":400,"height":206},
+		{"id":"932a3f73bfefdc7b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜に加えて.md","x":-820,"y":-480,"width":244,"height":147}
+	],
+	"edges":[
+		{"id":"e5d092764b696436","fromNode":"932a3f73bfefdc7b","fromSide":"right","toNode":"03986f2b129102fc","toSide":"left","color":"3","label":"Không chỉ A mà thêm vào đó còn B nữa (In addition to A, B as well)."}
+	]
+}

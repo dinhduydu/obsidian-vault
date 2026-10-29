@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5cbff71743a17fba","type":"text","text":"開けっぱなし","x":-189,"y":-180,"width":250,"height":60},
+		{"id":"ba4658078f908cd3","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/置きっぱなし.md","x":-189,"y":70,"width":381,"height":130},
+		{"id":"713727f6765159e2","x":-580,"y":280,"width":280,"height":120,"type":"text","text":"Diễn tả việc duy trì một trạng thái sau khi thực hiện hành động mà không dọn dẹp hoặc xử lý tiếp."},
+		{"id":"a8b4bba1f830ed6a","type":"text","text":"っぱなし","x":-760,"y":-180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d06abbf1835db526","fromNode":"a8b4bba1f830ed6a","fromSide":"right","toNode":"5cbff71743a17fba","toSide":"left"},
+		{"id":"bf68048969ba1f21","fromNode":"a8b4bba1f830ed6a","fromSide":"right","toNode":"ba4658078f908cd3","toSide":"left","color":"6","label":"Để mặc đó, vứt đó rồi bỏ đi."},
+		{"id":"7f1800f6e82f3898","fromNode":"713727f6765159e2","fromSide":"right","toNode":"ba4658078f908cd3","toSide":"left"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"004798075eb335e2","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":444,"y":846,"width":400,"height":400},
+		{"id":"bd7b7da2bee743a5","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":-1172,"y":119,"width":400,"height":400},
+		{"id":"484e0f6b681ee5b7","type":"file","file":"Pasted image 20260410083325.png","x":921,"y":46,"width":400,"height":221},
+		{"id":"2205b7eb32b00ccc","type":"file","file":"Pasted image 20260410082658.png","x":-62,"y":26,"width":399,"height":185},
+		{"id":"9f60ea8b66493e29","type":"file","file":"Pasted image 20260410083552.png","x":-772,"y":-379,"width":512,"height":281},
+		{"id":"f9fbca5e211ac752","type":"text","text":"というものだ","x":-62,"y":-298,"width":250,"height":60},
+		{"id":"c51a512385a9d5dd","type":"text","text":"というものは","x":-1321,"y":-615,"width":250,"height":60},
+		{"id":"c49192ca53591ff1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜というものだ.md","x":-516,"y":-1245,"width":400,"height":400},
+		{"id":"d7fe4586771baf5e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜というものではない.md","x":373,"y":-1165,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c5f274d0126819e2","fromNode":"004798075eb335e2","fromSide":"top","toNode":"484e0f6b681ee5b7","toSide":"bottom","label":"というものの - Mặc dù nói là thế"},
+		{"id":"2089bea5d8572cde","fromNode":"004798075eb335e2","fromSide":"left","toNode":"9f60ea8b66493e29","toSide":"bottom","label":"というもの - Suốt khoảng thời gian kéo dài"},
+		{"id":"d009963781e6ec8b","fromNode":"004798075eb335e2","fromSide":"top","toNode":"2205b7eb32b00ccc","toSide":"bottom","label":"というものだ - Thật đúng là"},
+		{"id":"093aee1405bacca9","fromNode":"004798075eb335e2","fromSide":"top","toNode":"d7fe4586771baf5e","toSide":"bottom","label":"というものではない - Không hẳn là"},
+		{"id":"9970bd19354490a9","fromNode":"2205b7eb32b00ccc","fromSide":"top","toNode":"f9fbca5e211ac752","toSide":"bottom","label":"というものだ - Đúng là, bản chất là, thực sự là/ đánh giá khách quan, mang tính định nghĩa"},
+		{"id":"3b9cecfdd9382b13","fromNode":"9f60ea8b66493e29","fromSide":"top","toNode":"c51a512385a9d5dd","toSide":"bottom","label":"というものは"},
+		{"id":"b8062a9084052c46","fromNode":"9f60ea8b66493e29","fromSide":"top","toNode":"f9fbca5e211ac752","toSide":"top"},
+		{"id":"df203f7165b50ab3","fromNode":"f9fbca5e211ac752","fromSide":"top","toNode":"c49192ca53591ff1","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9124d1b0d14eb139","type":"text","text":"帰国する。なぜなら結婚式に出席するからだ。","x":-105,"y":-41,"width":250,"height":60},
+		{"id":"d165378ef6e664e1","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/なぜなら.md","x":-740,"y":-380,"width":300,"height":137}
+	],
+	"edges":[
+		{"id":"8939784acbabb2a1","fromNode":"d165378ef6e664e1","fromSide":"right","toNode":"9124d1b0d14eb139","toSide":"left","color":"3","label":"Bởi vì là..., lý do là vì... (Because / The reason is)."}
+	]
+}

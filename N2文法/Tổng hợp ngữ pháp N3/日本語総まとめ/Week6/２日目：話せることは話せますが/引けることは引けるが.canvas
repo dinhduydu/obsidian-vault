@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b3edaef59389a4e7","type":"text","text":"弾けることは弾けるが","x":-96,"y":-61,"width":250,"height":60},
+		{"id":"fb140ed7a79fd5d5","type":"file","file":"N2文法/こと・もの/こと/ことは.canvas","x":-640,"y":-360,"width":274,"height":152}
+	],
+	"edges":[
+		{"id":"1ede8ab08e341dbc","fromNode":"fb140ed7a79fd5d5","fromSide":"right","toNode":"b3edaef59389a4e7","toSide":"left","label":" ...thì có... thật đấy, nhưng...."}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b888865c7fb1c314","type":"text","text":"骨まで食べられる","x":-46,"y":-24,"width":250,"height":60},
+		{"id":"db36249645265660","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week1/１日目：ぼくにもやらせて/Vられる.canvas","x":-520,"y":-300,"width":228,"height":135},
+		{"id":"a2bda934d0375b6c","x":-506,"y":100,"width":214,"height":162,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/まで.canvas"}
+	],
+	"edges":[
+		{"id":"8e7fd453eae016e2","fromNode":"db36249645265660","fromSide":"right","toNode":"b888865c7fb1c314","toSide":"left","label":"Thể bị động"},
+		{"id":"b808ce805a9cad95","fromNode":"a2bda934d0375b6c","fromSide":"right","toNode":"b888865c7fb1c314","toSide":"left"}
+	]
+}

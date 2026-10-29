@@ -7,7 +7,7 @@
 		{"id":"3d01f4c0acbdafa6","type":"text","text":"～ことか","x":940,"y":300,"width":250,"height":60},
 		{"id":"5baed742e5d39981","type":"file","file":"Pasted image 20260410084950.png","x":200,"y":380,"width":399,"height":232},
 		{"id":"4dbcc3063c7fdb4c","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことか.md","x":1560,"y":24,"width":301,"height":151},
-		{"id":"272d924f88db6c47","x":1100,"y":-140,"width":250,"height":60,"type":"text","text":"Thường đi kèm với 「何度」「どんなに」「どれほど」."}
+		{"id":"272d924f88db6c47","type":"text","text":"Thường đi kèm với 「何度」「どんなに」「どれほど」.","x":1100,"y":-140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"d5c8d4b9d1c71b66","fromNode":"40b9f6ff2638059b","fromSide":"left","toNode":"86a1e12dc26726e5","toSide":"right","label":"ことか"},

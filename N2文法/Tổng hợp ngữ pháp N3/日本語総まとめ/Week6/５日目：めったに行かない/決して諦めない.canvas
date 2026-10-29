@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"88807d791c8a01a7","type":"text","text":"決して諦めない","x":-93,"y":-41,"width":250,"height":60},
+		{"id":"cf4f4db57eca283d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/めったに.md","x":-900,"y":-620,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8d712ddd03dc69c6","fromNode":"cf4f4db57eca283d","fromSide":"right","toNode":"88807d791c8a01a7","toSide":"left","label":" Đi với phủ định để chỉ tần suất cực thấp của hành động."}
+	]
+}

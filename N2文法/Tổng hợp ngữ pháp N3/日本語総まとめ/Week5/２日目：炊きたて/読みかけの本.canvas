@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"82070709211e496a","type":"text","text":"読みかけの本","x":-73,"y":-31,"width":250,"height":60},
+		{"id":"d7942170269adaeb","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かけ.md","x":-760,"y":-440,"width":275,"height":205}
+	],
+	"edges":[
+		{"id":"ee1be8fe61b5126e","fromNode":"d7942170269adaeb","fromSide":"right","toNode":"82070709211e496a","toSide":"left","label":"Diễn tả một hành động đang thực hiện giữa chừng, chưa kết thúc hoặc trạng thái bắt đầu nhưng chưa xong."}
+	]
+}

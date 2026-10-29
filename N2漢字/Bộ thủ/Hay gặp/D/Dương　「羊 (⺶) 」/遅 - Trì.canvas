@@ -1,13 +1,19 @@
 {
 	"nodes":[
-		{"id":"58994a992067b6ba","x":-113,"y":-28,"width":250,"height":60,"type":"text","text":"遅 - Trì"},
-		{"id":"7b7b396ef1bc80a1","x":-320,"y":-100,"width":110,"height":102,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas"},
-		{"id":"2f71761349e68c9d","x":-327,"y":60,"width":117,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas"},
-		{"id":"86a59c5f439deff9","x":-337,"y":200,"width":127,"height":98,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas"}
+		{"id":"58994a992067b6ba","type":"text","text":"遅 - Trì","x":-113,"y":-28,"width":193,"height":60},
+		{"id":"7b7b396ef1bc80a1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-320,"y":-100,"width":110,"height":102},
+		{"id":"2f71761349e68c9d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sước　「(⻌⻍)」/Sước「(⻌⻍) 」.canvas","x":-327,"y":60,"width":117,"height":96},
+		{"id":"86a59c5f439deff9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/Thi　「尸」.canvas","x":-337,"y":200,"width":127,"height":98},
+		{"id":"acaac46cc07cee64","x":300,"y":140,"width":240,"height":120,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/逃げ遅れる.md"},
+		{"id":"2ccd0bc1b8b59910","x":280,"y":-240,"width":280,"height":177,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/遅刻.md"},
+		{"id":"879353e893ea713d","x":300,"y":400,"width":220,"height":110,"type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week4/２日目：そのかわりに/遅れたせいで.canvas"}
 	],
 	"edges":[
 		{"id":"40ad28619bd68664","fromNode":"7b7b396ef1bc80a1","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"},
 		{"id":"319aeeb93186d37c","fromNode":"2f71761349e68c9d","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"},
-		{"id":"57d0822f3be43518","fromNode":"86a59c5f439deff9","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"}
+		{"id":"57d0822f3be43518","fromNode":"86a59c5f439deff9","fromSide":"right","toNode":"58994a992067b6ba","toSide":"left"},
+		{"id":"44c5c4f74ac72bdc","fromNode":"58994a992067b6ba","fromSide":"right","toNode":"acaac46cc07cee64","toSide":"left"},
+		{"id":"b79f0e858eb87c94","fromNode":"58994a992067b6ba","fromSide":"right","toNode":"2ccd0bc1b8b59910","toSide":"left"},
+		{"id":"22358ea583eb2210","fromNode":"58994a992067b6ba","fromSide":"right","toNode":"879353e893ea713d","toSide":"left"}
 	]
 }

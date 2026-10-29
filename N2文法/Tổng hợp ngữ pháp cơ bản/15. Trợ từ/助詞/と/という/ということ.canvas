@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"ed9b8356be7b746e","type":"group","x":-653,"y":-369,"width":1476,"height":739,"color":"5","label":"ということ　ー　Việc mà"},
+		{"id":"213b0b40d02e7b5d","type":"text","text":"ということは","x":-95,"y":-198,"width":250,"height":60},
+		{"id":"0022da4446964910","type":"text","text":"ということだ","x":-95,"y":32,"width":250,"height":60},
+		{"id":"7de18e6382788af8","type":"text","text":"Truyền đạt ý, quan điểm chung của nhiều người","x":445,"y":32,"width":250,"height":60},
+		{"id":"45ec637af7019d64","type":"file","file":"N2文法/こと・もの/こと/こと.canvas","x":-823,"y":62,"width":125,"height":107},
+		{"id":"1b9efcdaca7e23b0","type":"text","text":"ということ","x":-583,"y":213,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d88513e0f262d588","fromNode":"1b9efcdaca7e23b0","fromSide":"top","toNode":"213b0b40d02e7b5d","toSide":"left"},
+		{"id":"0f51cc1947f24fa4","fromNode":"0022da4446964910","fromSide":"right","toNode":"7de18e6382788af8","toSide":"left"},
+		{"id":"180e29bac1722f90","fromNode":"1b9efcdaca7e23b0","fromSide":"top","toNode":"0022da4446964910","toSide":"left","label":"ということだ"},
+		{"id":"f157df6a9d5f7a26","fromNode":"1b9efcdaca7e23b0","fromSide":"top","toNode":"45ec637af7019d64","toSide":"right"}
+	]
+}

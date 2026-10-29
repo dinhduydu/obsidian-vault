@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"342caae993da1053","x":-45,"y":-11,"width":250,"height":60,"type":"text","text":"旅行と言っても"},
+		{"id":"ed75e3e2b0fbb6f0","x":-720,"y":-340,"width":334,"height":186,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/といっても.md"}
+	],
+	"edges":[
+		{"id":"d15818bf230c1157","fromNode":"ed75e3e2b0fbb6f0","fromSide":"right","toNode":"342caae993da1053","toSide":"left"}
+	]
+}

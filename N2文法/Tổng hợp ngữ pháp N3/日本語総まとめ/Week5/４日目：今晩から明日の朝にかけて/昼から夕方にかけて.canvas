@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"45b2274ccfc5c387","type":"text","text":"昼から夕方にかけて","x":-144,"y":-22,"width":250,"height":60},
+		{"id":"bbcc71d9ca0bd1b2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にかけて.md","x":-820,"y":-520,"width":286,"height":155}
+	],
+	"edges":[
+		{"id":"8a857003e78c08dc","fromNode":"bbcc71d9ca0bd1b2","fromSide":"right","toNode":"45b2274ccfc5c387","toSide":"left","label":"Từ... đến... (chỉ một phạm vi thời gian hoặc không gian không xác định rõ mốc kết thúc).\nUsage: [N1] から [N2] にかけて.\n"}
+	]
+}

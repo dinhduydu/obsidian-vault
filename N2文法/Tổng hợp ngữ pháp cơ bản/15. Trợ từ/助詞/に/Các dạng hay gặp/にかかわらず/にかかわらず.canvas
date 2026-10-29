@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"67f3f93b4b6ece5d","type":"file","file":"Pasted image 20260412205459.png","x":-708,"y":299,"width":400,"height":226},
+		{"id":"3dfb2ead5961f5c5","type":"file","file":"Pasted image 20260412204205.png","x":-195,"y":-180,"width":399,"height":219},
+		{"id":"7f9ecfc0f662d814","type":"file","file":"Pasted image 20260412205524.png","x":309,"y":-525,"width":400,"height":198},
+		{"id":"09b141809991a8dd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にかかわらず.md","x":509,"y":800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"18160a9332a6a174","fromNode":"67f3f93b4b6ece5d","fromSide":"right","toNode":"3dfb2ead5961f5c5","toSide":"left","label":"にかかわらず"},
+		{"id":"b37ab73ef0313ea3","fromNode":"3dfb2ead5961f5c5","fromSide":"right","toNode":"7f9ecfc0f662d814","toSide":"left","label":"にかかわらず"},
+		{"id":"e36ad5b671efd1ec","fromNode":"67f3f93b4b6ece5d","fromSide":"right","toNode":"09b141809991a8dd","toSide":"left","label":"Dùng khi A là yếu tố tự nhiên, thời tiết, sự việc hai khả năng xảy ra, hoặc các tiêu chí có sự khác biệt (天候にかかわらず, 出席しないにかかわらず)1. Nhấn mạnh rằng dù điều kiện A thế nào thì kết quả vế B vẫn duy trì một hướng nhất định1."}
+	]
+}

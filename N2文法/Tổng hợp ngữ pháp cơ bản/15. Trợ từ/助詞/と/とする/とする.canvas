@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e7cd8f8d302ab1ae","type":"group","x":-120,"y":-340,"width":808,"height":399,"color":"4","label":"とする - Quyết định chọn... là, coi... là."},
+		{"id":"971e43d746cd0bab","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/～とする.md","x":-100,"y":-262,"width":320,"height":301},
+		{"id":"bd9e6c529674ef1d","type":"text","text":"とする","x":418,"y":-112,"width":250,"height":60},
+		{"id":"a5159534a97d5018","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/Vようとする.canvas","x":1480,"y":-1300,"width":400,"height":400},
+		{"id":"a73925fe9037268d","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/として.canvas","x":720,"y":480,"width":400,"height":400},
+		{"id":"ea1b9f4bdfc6399a","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/としたら・〜とすれば・とすると.canvas","x":-1120,"y":-1040,"width":400,"height":400},
+		{"id":"a4bd9b174b0e1ac4","x":-1400,"y":80,"width":400,"height":400,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/とする/とした.canvas"}
+	],
+	"edges":[
+		{"id":"d6701889a97252ee","fromNode":"bd9e6c529674ef1d","fromSide":"right","toNode":"a5159534a97d5018","toSide":"left","label":"Vようとする\nCó 3 nghĩa\n〜ようとする- Định làm gì, cố gắng làm gì."},
+		{"id":"603e36725ee4da00","fromNode":"e7cd8f8d302ab1ae","fromSide":"left","toNode":"ea1b9f4bdfc6399a","toSide":"right","label":"とすると"},
+		{"id":"2e3483a84739b70d","fromNode":"e7cd8f8d302ab1ae","fromSide":"left","toNode":"a4bd9b174b0e1ac4","toSide":"right","label":"～とした　ー　Xem như là... / Coi như là...."},
+		{"id":"f82e8a707efffead","fromNode":"e7cd8f8d302ab1ae","fromSide":"bottom","toNode":"a73925fe9037268d","toSide":"left","label":"〜として　ー　Với tư cách là"}
+	]
+}

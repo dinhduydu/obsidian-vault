@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5ec44d3be2d5c758","type":"group","x":-1357,"y":-184,"width":1740,"height":1129,"color":"5","label":"〜ようとする- Định làm gì, cố gắng làm gì."},
+		{"id":"0d17f180da3ae8a8","type":"group","x":741,"y":-201,"width":616,"height":1136,"color":"1","label":"〜（よ）うとしない - Không có ý định làm gì"},
+		{"id":"fd91965238dd06be","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようとする.md","x":-1337,"y":415,"width":400,"height":400},
+		{"id":"b5360f60db10e9cc","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":-1117,"y":-64,"width":345,"height":221},
+		{"id":"162e195d0aade0f2","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようとして.md","x":-404,"y":-64,"width":296,"height":221},
+		{"id":"20d51b5004f11fbf","type":"file","file":"Chữa đề/Learning_Profile/Collocation/抑えようとする.md","x":-404,"y":298,"width":238,"height":198},
+		{"id":"0a32385f92b48bba","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜させようとする.md","x":-404,"y":705,"width":238,"height":220},
+		{"id":"28ade10121e5e4e7","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜（よ）うとする.md","x":36,"y":298,"width":327,"height":251},
+		{"id":"8033f259423614b5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ようとはしない.md","x":937,"y":515,"width":400,"height":400},
+		{"id":"063221dbd0e66b14","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜（よ）うとしない.md","x":761,"y":-181,"width":400,"height":400},
+		{"id":"f9e15180c1d7bf39","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ようとしている.md","x":200,"y":-944,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e5b196e0e55d40c0","fromNode":"5ec44d3be2d5c758","fromSide":"right","toNode":"063221dbd0e66b14","toSide":"left"},
+		{"id":"23d9435276671e2f","fromNode":"fd91965238dd06be","fromSide":"top","toNode":"b5360f60db10e9cc","toSide":"bottom","label":"Vよう"},
+		{"id":"f73bff484e26ab58","fromNode":"fd91965238dd06be","fromSide":"right","toNode":"20d51b5004f11fbf","toSide":"left","label":"抑えようとする"},
+		{"id":"6065b725a877f43c","fromNode":"fd91965238dd06be","fromSide":"right","toNode":"0a32385f92b48bba","toSide":"left","label":"〜させようとする"},
+		{"id":"f692607f6934d4a8","fromNode":"fd91965238dd06be","fromSide":"right","toNode":"162e195d0aade0f2","toSide":"left","label":"〜ようとして"},
+		{"id":"9274b87a31194ebe","fromNode":"162e195d0aade0f2","fromSide":"right","toNode":"f9e15180c1d7bf39","toSide":"left","label":"～ようとしている　ー　Sắp sửa, chuẩn bị"}
+	]
+}

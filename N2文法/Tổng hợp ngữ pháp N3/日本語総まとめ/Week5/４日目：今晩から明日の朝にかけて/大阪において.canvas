@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2a923e6eee48002f","type":"text","text":"大阪において","x":-130,"y":-60,"width":250,"height":60},
+		{"id":"f04ae5964940a0f1","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～において.md","x":-700,"y":-420,"width":249,"height":159}
+	],
+	"edges":[
+		{"id":"b82d4331da1f62b4","fromNode":"f04ae5964940a0f1","fromSide":"right","toNode":"2a923e6eee48002f","toSide":"left","label":"Tại/Trong (lĩnh vực, địa điểm, thời gian)."}
+	]
+}

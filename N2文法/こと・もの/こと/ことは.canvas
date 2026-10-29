@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"270bb4861f679ec9","type":"file","file":"N2文法/こと・もの/こと/ことはない.canvas","x":-160,"y":80,"width":231,"height":215},
-		{"id":"b3319a421e1e991b","x":-179,"y":-200,"width":250,"height":60,"type":"text","text":"～ことは～が"},
-		{"id":"b0a35197ec5ab773","x":-720,"y":20,"width":250,"height":60,"type":"text","text":"～ことは"}
+		{"id":"b0a35197ec5ab773","type":"text","text":"～ことは","x":-720,"y":20,"width":250,"height":60},
+		{"id":"806c97aa92fbc3fe","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ことは～が.md","x":-160,"y":-220,"width":243,"height":171}
 	],
 	"edges":[
 		{"id":"27ec2b3c6d50c03b","fromNode":"b0a35197ec5ab773","fromSide":"right","toNode":"270bb4861f679ec9","toSide":"left","color":"5"},
-		{"id":"12ba0a6542ffa36b","fromNode":"b0a35197ec5ab773","fromSide":"right","toNode":"b3319a421e1e991b","toSide":"left","color":"5"}
+		{"id":"12ba0a6542ffa36b","fromNode":"b0a35197ec5ab773","fromSide":"right","toNode":"806c97aa92fbc3fe","toSide":"left","color":"5","label":"～ことは～が\n\n ...thì có... thật đấy, nhưng...."}
 	]
 }

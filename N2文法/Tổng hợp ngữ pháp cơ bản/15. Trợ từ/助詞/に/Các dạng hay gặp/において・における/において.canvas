@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"80a464f6f4809853","type":"text","text":"において","x":-137,"y":-196,"width":250,"height":60},
+		{"id":"2ab7705b30f45f97","type":"text","text":"Nにおいて","x":-385,"y":-31,"width":250,"height":60},
+		{"id":"5206c0bfe7094a59","type":"text","text":"卒業式は大ホールにおいて行われる。","x":-64,"y":137,"width":449,"height":60},
+		{"id":"120745d0fac55fd5","type":"text","text":"Dùng khi cho biết địa điểm, tình huống, hoàn cảnh, thời đại","x":-620,"y":-320,"width":323,"height":84}
+	],
+	"edges":[
+		{"id":"2dd3206813a11df2","fromNode":"80a464f6f4809853","fromSide":"bottom","toNode":"2ab7705b30f45f97","toSide":"top","label":"Nにおいて"},
+		{"id":"faba38dae12a3c69","fromNode":"2ab7705b30f45f97","fromSide":"right","toNode":"5206c0bfe7094a59","toSide":"left","label":"Nにおいて"},
+		{"id":"96a29baff1f73030","fromNode":"120745d0fac55fd5","fromSide":"right","toNode":"80a464f6f4809853","toSide":"left","color":"3"}
+	]
+}

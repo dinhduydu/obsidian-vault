@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"10a9c1f387aa5f2a","x":-110,"y":-60,"width":250,"height":60,"type":"text","text":"米粒くらい・米粒ほど"},
+		{"id":"0bf449837390ad02","x":-560,"y":-240,"width":223,"height":90,"type":"file","file":"N2文法/くらい・ほど/くらい/くらい.canvas"},
+		{"id":"a015a585a5486b80","x":-525,"y":0,"width":188,"height":129,"type":"file","file":"N2文法/くらい・ほど/ほど/ほど.canvas"}
+	],
+	"edges":[
+		{"id":"a7a1bef5608fd849","fromNode":"0bf449837390ad02","fromSide":"right","toNode":"10a9c1f387aa5f2a","toSide":"left"},
+		{"id":"e4012eb44cadec37","fromNode":"a015a585a5486b80","fromSide":"right","toNode":"10a9c1f387aa5f2a","toSide":"left"}
+	]
+}

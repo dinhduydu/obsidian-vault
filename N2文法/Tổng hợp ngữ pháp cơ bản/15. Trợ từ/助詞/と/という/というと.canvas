@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d2e373eab232cff0","type":"group","x":-825,"y":-478,"width":1651,"height":957,"color":"3","label":"というと - Hễ nói đến thì liên tưởng tới"},
+		{"id":"42cab24dd1222b44","type":"group","x":-805,"y":-338,"width":940,"height":599,"label":"〜というと　ー　Xác nhận lại thông tin/Hễ nói đến"},
+		{"id":"68ac3f1423a22480","type":"text","text":"というと","x":-785,"y":-252,"width":250,"height":50},
+		{"id":"3abb4b79b80a04ea","type":"file","file":"Pasted image 20260412130333.png","x":-414,"y":-318,"width":345,"height":181},
+		{"id":"53c1a72ca250ea1c","type":"text","text":"はというと","x":340,"y":-318,"width":250,"height":60},
+		{"id":"f9837c922855fafc","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かというと.md","x":406,"y":59,"width":400,"height":400},
+		{"id":"c90711e92626d770","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜というと.md","x":-414,"y":-23,"width":350,"height":264}
+	],
+	"edges":[
+		{"id":"3af0441c79baad95","fromNode":"42cab24dd1222b44","fromSide":"right","toNode":"f9837c922855fafc","toSide":"left"},
+		{"id":"155f97a7ca9b0c6e","fromNode":"68ac3f1423a22480","fromSide":"right","toNode":"3abb4b79b80a04ea","toSide":"left"},
+		{"id":"9f96cda214fd83f0","fromNode":"68ac3f1423a22480","fromSide":"bottom","toNode":"c90711e92626d770","toSide":"left"},
+		{"id":"aad504c629e7a2c7","fromNode":"3abb4b79b80a04ea","fromSide":"right","toNode":"53c1a72ca250ea1c","toSide":"left","label":"はというと"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6a7418cd10b4e0ad","type":"text","text":"めったにない","x":-140,"y":-25,"width":250,"height":60},
+		{"id":"84368cbb8d115236","type":"file","file":"Chữa đề/Learning_Profile/Adverb/めったに.md","x":-880,"y":-360,"width":260,"height":195}
+	],
+	"edges":[
+		{"id":"6d379a2ebce88935","fromNode":"84368cbb8d115236","fromSide":"right","toNode":"6a7418cd10b4e0ad","toSide":"left","color":"4","label":" Hiếm khi, rất ít khi (Seldom / Rarely)."}
+	]
+}

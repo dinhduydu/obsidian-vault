@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ebf08c852ce680b2","x":-29,"y":-43,"width":250,"height":60,"type":"text","text":"食べないことはない"},
+		{"id":"8e7769bf9b70bde9","x":-480,"y":-240,"width":286,"height":173,"type":"file","file":"N2文法/こと・もの/こと/ことはない.canvas"}
+	],
+	"edges":[
+		{"id":"869ff16a09fdd986","fromNode":"8e7769bf9b70bde9","fromSide":"right","toNode":"ebf08c852ce680b2","toSide":"left"}
+	]
+}

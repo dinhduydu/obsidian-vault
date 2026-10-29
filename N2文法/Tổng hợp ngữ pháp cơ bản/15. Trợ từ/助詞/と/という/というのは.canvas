@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"7328df65ee505c58","type":"group","x":-749,"y":-418,"width":1498,"height":837,"color":"1","label":"というのは"},
+		{"id":"f947ed53f06a19aa","type":"file","file":"Pasted image 20260410083626.png","x":-729,"y":182,"width":400,"height":217},
+		{"id":"3fd9979f259bc47a","type":"text","text":"**「強い絆」**の関係というのは、家族や恋人や親友、それに職場の仲間など、ほとんど毎日顔を合わせる人たちだ。","x":-174,"y":-398,"width":480,"height":160},
+		{"id":"24518a704a16aac5","type":"text","text":"Trình bày ý nghĩa, hay định nghĩa của A là B","x":479,"y":-117,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b4278c095e16f2b0","fromNode":"f947ed53f06a19aa","fromSide":"top","toNode":"3fd9979f259bc47a","toSide":"bottom","label":"「A」というのはB"},
+		{"id":"ef3dfe1ba5e8469a","fromNode":"f947ed53f06a19aa","fromSide":"top","toNode":"24518a704a16aac5","toSide":"bottom"}
+	]
+}

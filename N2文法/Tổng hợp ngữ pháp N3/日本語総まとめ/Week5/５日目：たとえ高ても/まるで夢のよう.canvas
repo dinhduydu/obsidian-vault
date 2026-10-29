@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bd04ed598d5d5474","x":-107,"y":-47,"width":327,"height":67,"type":"text","text":"ごうかくした！まるで夢のようだ。"},
+		{"id":"dfacc5ae8cbd6310","x":-480,"y":-240,"width":191,"height":93,"type":"file","file":"N2文法/そう・よう/よう/ようだ/ようだ.canvas"}
+	],
+	"edges":[
+		{"id":"c1fa1aa263641b43","fromNode":"dfacc5ae8cbd6310","fromSide":"right","toNode":"bd04ed598d5d5474","toSide":"left"}
+	]
+}

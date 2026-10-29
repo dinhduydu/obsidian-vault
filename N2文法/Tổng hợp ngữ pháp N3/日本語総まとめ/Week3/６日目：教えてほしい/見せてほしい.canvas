@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"21d43d8a64f05a9c","type":"text","text":"見せてほしい","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d14d02bd9f89fb90","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てほしい.md","x":-720,"y":-300,"width":283,"height":127}
+	],
+	"edges":[
+		{"id":"0551aa946b59e84d","fromNode":"d14d02bd9f89fb90","fromSide":"right","toNode":"21d43d8a64f05a9c","toSide":"left","color":"6","label":"Bày tỏ nguyện vọng, kỳ vọng cá nhân một cách trực tiếp, thường dùng trong giao tiếp hàng ngày hoặc thể hiện mong mỏi cá nhân."}
+	]
+}

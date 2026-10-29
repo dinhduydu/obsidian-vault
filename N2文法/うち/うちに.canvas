@@ -14,7 +14,8 @@
 		{"id":"015af759e1900aea","type":"text","text":"何か月もしないうちに","x":1962,"y":-422,"width":250,"height":60},
 		{"id":"b12ce57acfc17b1a","type":"text","text":"か～ないかうちに","x":1343,"y":312,"width":250,"height":60},
 		{"id":"be67da94aee83f29","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":2003,"y":200,"width":79,"height":50},
-		{"id":"26c242f83216e8da","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":2003,"y":480,"width":108,"height":50}
+		{"id":"26c242f83216e8da","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":2003,"y":480,"width":108,"height":50},
+		{"id":"43daaeaa20fc817f","x":2320,"y":-280,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～うちに.md"}
 	],
 	"edges":[
 		{"id":"d3f51641e5b32627","fromNode":"92d7fe2441d89469","fromSide":"left","toNode":"d5beef33b2ab219a","toSide":"right","label":"かのうちに"},
@@ -30,6 +31,7 @@
 		{"id":"66ee2f1b598a3817","fromNode":"b12ce57acfc17b1a","fromSide":"right","toNode":"be67da94aee83f29","toSide":"left","label":"か～ないかうちに"},
 		{"id":"ece138992941f621","fromNode":"b12ce57acfc17b1a","fromSide":"right","toNode":"26c242f83216e8da","toSide":"left","label":"か～ないかうちに"},
 		{"id":"c0f65f44712772e1","fromNode":"0928b03ef3ef9115","fromSide":"right","toNode":"8bb4e8ed0822eba0","toSide":"left"},
-		{"id":"bbf307cda429403e","fromNode":"0928b03ef3ef9115","fromSide":"right","toNode":"015af759e1900aea","toSide":"left"}
+		{"id":"bbf307cda429403e","fromNode":"0928b03ef3ef9115","fromSide":"right","toNode":"015af759e1900aea","toSide":"left"},
+		{"id":"6284c345200e3322","fromNode":"92d7fe2441d89469","fromSide":"right","toNode":"43daaeaa20fc817f","toSide":"left"}
 	]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8db04880af3d22c5","type":"text","text":"休むことだ","x":-114,"y":-16,"width":250,"height":60},
+		{"id":"c79ff90c93bbe492","type":"file","file":"N2文法/こと・もの/こと/ことだ.canvas","x":-660,"y":260,"width":212,"height":133}
+	],
+	"edges":[
+		{"id":"605c10664e4a71a4","fromNode":"c79ff90c93bbe492","fromSide":"right","toNode":"8db04880af3d22c5","toSide":"left","label":"Truyền đạt quan niệm, nhận xét hay lời khuyên của người nói"}
+	]
+}

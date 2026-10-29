@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"d787361dc2118c33","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"にして"}
+		{"id":"5ed2cfb3e3ded0c6","x":-140,"y":-80,"width":277,"height":222,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/にしても.md"},
+		{"id":"d442ba0df95a8da1","x":-580,"y":-260,"width":233,"height":109,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/に/Các dạng hay gặp/にする/にして/にして.canvas"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9dfff8531594dd5e","fromNode":"d442ba0df95a8da1","fromSide":"right","toNode":"5ed2cfb3e3ded0c6","toSide":"left"}
+	]
 }
