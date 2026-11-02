@@ -4,12 +4,14 @@
 		{"id":"7fb3c58329b05868","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-420,"y":-140,"width":102,"height":103},
 		{"id":"76ad33e4103159cc","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Công　「工」/Công　「工」.canvas","x":-448,"y":40,"width":130,"height":162},
 		{"id":"75edef820e115323","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-460,"y":440,"width":142,"height":111},
-		{"id":"c0b2a9db1e53ff86","x":-740,"y":202,"width":227,"height":190,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas"}
+		{"id":"c0b2a9db1e53ff86","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phàm　「凡」/Phàm　「凡」.canvas","x":-740,"y":202,"width":227,"height":190},
+		{"id":"c52e636076b092d3","type":"file","file":"Chữa đề/Learning_Profile/Collocation/信用 を 築く.md","x":360,"y":-340,"width":300,"height":181}
 	],
 	"edges":[
 		{"id":"2cfe0a0b130765cb","fromNode":"7fb3c58329b05868","fromSide":"right","toNode":"9d69d00d55c7bb46","toSide":"left"},
 		{"id":"803ecf3ab38c677c","fromNode":"76ad33e4103159cc","fromSide":"right","toNode":"9d69d00d55c7bb46","toSide":"left"},
 		{"id":"b626dbeb42140946","fromNode":"75edef820e115323","fromSide":"right","toNode":"9d69d00d55c7bb46","toSide":"left"},
-		{"id":"6b376bb63a7737b3","fromNode":"c0b2a9db1e53ff86","fromSide":"right","toNode":"9d69d00d55c7bb46","toSide":"left"}
+		{"id":"6b376bb63a7737b3","fromNode":"c0b2a9db1e53ff86","fromSide":"right","toNode":"9d69d00d55c7bb46","toSide":"left"},
+		{"id":"612208799c1c0911","fromNode":"9d69d00d55c7bb46","fromSide":"right","toNode":"c52e636076b092d3","toSide":"left","label":"Xây dựng lòng tin, bồi đắp uy tín."}
 	]
 }

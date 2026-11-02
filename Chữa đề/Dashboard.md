@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 576
-- Total Knowledge Items: 5813
-- Correct: 3684
-- Wrong: 6103
-- Accuracy: 37.6%
+- Total Reviews: 577
+- Total Knowledge Items: 5834
+- Correct: 3714
+- Wrong: 6111
+- Accuracy: 37.8%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.3% (Correct 333 / Wrong 610)
-- Collocation: 34.5% (Correct 161 / Wrong 305)
-- CompoundVerb: 34.8% (Correct 169 / Wrong 316)
-- Conjunction: 28.4% (Correct 82 / Wrong 207)
-- Demonstratives: 17.6% (Correct 21 / Wrong 98)
-- FixedExpression: 34.3% (Correct 197 / Wrong 378)
-- Grammar: 35.9% (Correct 863 / Wrong 1544)
-- Kanji: 45.3% (Correct 372 / Wrong 450)
-- Katakana: 36.9% (Correct 160 / Wrong 274)
-- Keigo: 27.3% (Correct 41 / Wrong 109)
-- Reading: 26.9% (Correct 132 / Wrong 358)
-- Vocabulary: 44.2% (Correct 1153 / Wrong 1454)
+- Adverb: 35.7% (Correct 338 / Wrong 610)
+- Collocation: 34.5% (Correct 161 / Wrong 306)
+- CompoundVerb: 35.2% (Correct 172 / Wrong 316)
+- Conjunction: 29.1% (Correct 85 / Wrong 207)
+- Demonstratives: 18.3% (Correct 22 / Wrong 98)
+- FixedExpression: 34.4% (Correct 198 / Wrong 378)
+- Grammar: 35.9% (Correct 867 / Wrong 1546)
+- Kanji: 45.3% (Correct 374 / Wrong 452)
+- Katakana: 37.6% (Correct 165 / Wrong 274)
+- Keigo: 27.8% (Correct 42 / Wrong 109)
+- Reading: 26.8% (Correct 132 / Wrong 360)
+- Vocabulary: 44.3% (Correct 1158 / Wrong 1455)
 
 ## 📚 Top Grammar
 
@@ -228,6 +228,7 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
+- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 86 (THAOLEJP)]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
 - [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
@@ -246,4 +247,3 @@
 - [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
 - [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
 - [[4. Phân Tích Tài liệu tổng hợp 50 cặp từ đồng nghĩa trình độ JLPT N2 - Haru Nihongo]]
-- [[5. Phân Tích Tài liệu tổng hợp các cặp từ đồng nghĩa trình độ JLPT N2 - Haru Nihongo]]
