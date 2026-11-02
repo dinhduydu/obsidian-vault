@@ -11,15 +11,10 @@ Mỗi item phải có heading theo đúng format:
 Ví dụ: `### Grammar | 〜を通じて`
 
 Mỗi item bắt buộc có:
-
 - **Meaning:** Meaning in English, optionally with Vietnamese translation.
-    
 - **Trigger:** Contextual clues, usage conditions, or sentence patterns.
-    
 - **Contrast:** Differences from similar words or grammar.
-    
 - **One-line Summary:** A concise English summary for memorization.
-    
 
 Không viết `Grammar:` hoặc `ITEM:`, không gộp nhiều kiến thức vào một item, không tạo item chung như `Related Knowledge` hoặc `Fixed Expressions N2`. Mỗi kiến thức cụ thể chỉ xuất hiện một lần.
 
@@ -34,15 +29,10 @@ Với mỗi item thuộc **Adverb, Katakana, CompoundVerb, FixedExpression, Coll
 ### CATEGORY | ITEM_NAME
 
 - **Correct:** +N
-    
 - **Wrong:** +N
-    
 - **Last Seen:** YYYY-MM-DD
-    
 - **Mastery:** High / Medium / Low / Unknown
-    
 - **Priority:** High / Medium / Low
-    
 
 Đánh giá Mastery và Priority dựa trên bằng chứng thực tế, không suy diễn rằng một câu đúng đồng nghĩa đã thành thạo. Không bỏ sót item hoặc tạo item mới trong Learning Profile.
 
@@ -51,3 +41,5 @@ Với mỗi item thuộc **Adverb, Katakana, CompoundVerb, FixedExpression, Coll
 **Weak Points** tổng hợp điểm yếu dựa trên lỗi thực tế, nêu nguyên nhân và mức độ ưu tiên. **Action Next** đưa ra kế hoạch ôn tập, bài tập đối chiếu kiến thức dễ nhầm và tiêu chí đánh giá tiến bộ.
 
 Cuối cùng, kiểm tra tính nhất quán giữa Knowledge Extracted và Learning Profile, loại bỏ nội dung trùng lặp, giữ Markdown tương thích với Obsidian. Nếu thiếu dữ liệu hoặc file đính kèm, ghi rõ giới hạn thay vì tự tạo thông tin. Chỉ xuất Markdown hoàn chỉnh, không thêm lời dẫn hoặc code fence.
+
+Không tạo link chú thích như 1. 2. 3. 4.

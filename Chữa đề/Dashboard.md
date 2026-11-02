@@ -2,19 +2,19 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 557
-- Total Knowledge Items: 5646
-- Correct: 3563
-- Wrong: 5881
+- Total Reviews: 567
+- Total Knowledge Items: 5739
+- Correct: 3643
+- Wrong: 6029
 - Accuracy: 37.7%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 240| Wrong: 45
-- [[語彙の文脈規定]] | Reading| Score: 150| Wrong: 27
+- [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
-- [[〜にもかかわらず]] | Grammar| Score: 85| Wrong: 14
-- [[したがって]] | Conjunction| Score: 82| Wrong: 16
+- [[〜にもかかわらず]] | Grammar| Score: 90| Wrong: 15
+- [[したがって]] | Conjunction| Score: 87| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 80| Wrong: 13
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
@@ -27,26 +27,26 @@
 - [[つまり]] | Conjunction| Score: 60| Wrong: 9
 - [[〜どころか]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
+- [[しかし]] | Conjunction| Score: 55| Wrong: 11
 - [[すっかり]] | Adverb| Score: 55| Wrong: 8
-- [[〜からには]] | Grammar| Score: 55| Wrong: 8
 - [[〜こそ]] | Grammar| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
 - [[]] (Vocabulary) Wrong: 45
-- [[語彙の文脈規定]] (Reading) Wrong: 27
+- [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
-- [[したがって]] (Conjunction) Wrong: 16
-- [[〜にもかかわらず]] (Grammar) Wrong: 14
+- [[したがって]] (Conjunction) Wrong: 17
+- [[〜にもかかわらず]] (Grammar) Wrong: 15
 - [[〜ようがない]] (Grammar) Wrong: 13
 - [[〜にほかならない]] (Grammar) Wrong: 12
 - [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
+- [[しかし]] (Conjunction) Wrong: 11
 - [[〜にすぎない]] (Grammar) Wrong: 11
 - [[その]] (Demonstratives) Wrong: 10
 - [[〜がち]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
-- [[しかし]] (Conjunction) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[この]] (Demonstratives) Wrong: 9
@@ -56,22 +56,22 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.5% (Correct 328 / Wrong 596)
-- Collocation: 35.4% (Correct 147 / Wrong 268)
-- CompoundVerb: 34.3% (Correct 159 / Wrong 304)
-- Conjunction: 27.3% (Correct 75 / Wrong 200)
-- Demonstratives: 13.9% (Correct 15 / Wrong 93)
-- FixedExpression: 33.9% (Correct 190 / Wrong 371)
-- Grammar: 36.0% (Correct 851 / Wrong 1510)
-- Kanji: 44.4% (Correct 358 / Wrong 448)
-- Katakana: 37.0% (Correct 152 / Wrong 259)
-- Keigo: 27.9% (Correct 41 / Wrong 106)
-- Reading: 25.8% (Correct 113 / Wrong 325)
-- Vocabulary: 44.7% (Correct 1134 / Wrong 1401)
+- Adverb: 35.5% (Correct 333 / Wrong 605)
+- Collocation: 35.2% (Correct 150 / Wrong 276)
+- CompoundVerb: 34.4% (Correct 164 / Wrong 313)
+- Conjunction: 28.1% (Correct 81 / Wrong 207)
+- Demonstratives: 16.9% (Correct 20 / Wrong 98)
+- FixedExpression: 34.2% (Correct 195 / Wrong 376)
+- Grammar: 35.8% (Correct 858 / Wrong 1537)
+- Kanji: 44.9% (Correct 370 / Wrong 454)
+- Katakana: 36.7% (Correct 158 / Wrong 272)
+- Keigo: 27.3% (Correct 41 / Wrong 109)
+- Reading: 27.0% (Correct 132 / Wrong 357)
+- Vocabulary: 44.5% (Correct 1141 / Wrong 1425)
 
 ## 📚 Top Grammar
 
-- [[〜にもかかわらず]] (Score: 85)
+- [[〜にもかかわらず]] (Score: 90)
 - [[〜ようがない]] (Score: 80)
 - [[〜にほかならない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
@@ -97,16 +97,16 @@
 
 ## 📚 Top Kanji
 
+- [[評価]] (Score: 40)
 - [[悔しい]] (Score: 40)
 - [[一層]] (Score: 40)
 - [[支える]] (Score: 35)
-- [[用心]] (Score: 35)
 - [[行方]] (Score: 35)
 - [[改善]] (Score: 35)
 - [[贅沢]] (Score: 30)
+- [[順]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
-- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -118,12 +118,12 @@
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
 - [[レポート]] (Score: 30)
+- [[ステージ]] (Score: 30)
 - [[マンション]] (Score: 30)
-- [[プラン]] (Score: 30)
 
 ## 📚 Top Reading
 
-- [[語彙の文脈規定]] (Score: 150)
+- [[語彙の文脈規定]] (Score: 210)
 - [[文法文脈接続]] (Score: 150)
 - [[即時応答]] (Score: 55)
 - [[語彙の文脈的用法把握]] (Score: 45)
@@ -142,10 +142,10 @@
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[目を通す]] (Score: 30)
+- [[言い表す]] (Score: 30)
 - [[思いつく]] (Score: 30)
 - [[引き受ける]] (Score: 30)
 - [[飛び上がる]] (Score: 30)
-- [[言いようがない]] (Score: 30)
 
 ## 📚 Top FixedExpression
 
@@ -171,33 +171,33 @@
 - [[日記帳]] (Score: 25)
 - [[深夜営業]] (Score: 25)
 - [[開会式が行われる]] (Score: 25)
-- [[役割を果たす]] (Score: 25)
+- [[サービスを拡充する]] (Score: 25)
 
 ## 📚 Top Adverb
 
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 50)
 - [[さっさと]] (Score: 50)
+- [[つい]] (Score: 45)
 - [[今にも]] (Score: 45)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
 - [[とても]] (Score: 40)
 - [[どうも]] (Score: 40)
 - [[とりあえず]] (Score: 40)
-- [[結局]] (Score: 37)
 
 ## 📚 Top Conjunction
 
-- [[したがって]] (Score: 82)
+- [[したがって]] (Score: 87)
 - [[つまり]] (Score: 60)
+- [[しかし]] (Score: 55)
 - [[そこで]] (Score: 55)
-- [[しかし]] (Score: 50)
 - [[ところで]] (Score: 45)
 - [[とはいえ]] (Score: 40)
+- [[しかも]] (Score: 35)
 - [[だからといって]] (Score: 35)
 - [[さて]] (Score: 35)
 - [[なぜなら]] (Score: 35)
-- [[それにしては]] (Score: 35)
 
 ## 📚 Top Keigo
 
@@ -217,8 +217,8 @@
 - [[その]] (Score: 50)
 - [[あれこれ]] (Score: 50)
 - [[この]] (Score: 47)
+- [[こんな]] (Score: 45)
 - [[あんなに]] (Score: 45)
-- [[こんな]] (Score: 40)
 - [[そんな]] (Score: 40)
 - [[あの]] (Score: 35)
 - [[ただ]] (Score: 30)
@@ -227,6 +227,7 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
 - [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
@@ -246,4 +247,3 @@
 - [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
 - [[1. Phân Tích 281020262-2-3.pdf]]
 - [[2. Phân Tích 281020262-4-5.pdf]]
-- [[3. Phân Tích 281020262-6-7.pdf]]

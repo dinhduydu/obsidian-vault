@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"e58921e1e1293880","x":-93,"y":-56,"width":250,"height":60,"type":"text","text":"裏 - Lý"},
-		{"id":"46229dfe28c179ad","x":-420,"y":100,"width":232,"height":151,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas"},
-		{"id":"1cfd675ba5100644","x":-352,"y":-220,"width":96,"height":109,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas"}
+		{"id":"e58921e1e1293880","type":"text","text":"裏 - Lý","x":-93,"y":-56,"width":250,"height":60},
+		{"id":"46229dfe28c179ad","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Y/Y/Y　「衣」/Y　「衣」.canvas","x":-420,"y":100,"width":232,"height":151},
+		{"id":"1cfd675ba5100644","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lý　「里 」/Lý　「里 」.canvas","x":-352,"y":-220,"width":96,"height":109},
+		{"id":"99c45a6bbd71261f","type":"file","file":"Chữa đề/Learning_Profile/Kanji/裏切る.md","x":420,"y":-420,"width":340,"height":200},
+		{"id":"2db9656a06dbe93b","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/裏切る.md","x":1153,"y":-776,"width":400,"height":400},
+		{"id":"d98689521e7c8602","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/裏づける.md","x":760,"y":251,"width":360,"height":200},
+		{"id":"0bb67cce8c2f86e7","type":"file","file":"Chữa đề/Learning_Profile/Collocation/主張を裏づける.md","x":1580,"y":600,"width":333,"height":149}
 	],
 	"edges":[
 		{"id":"a5a9b4722d130063","fromNode":"46229dfe28c179ad","fromSide":"right","toNode":"e58921e1e1293880","toSide":"left"},
-		{"id":"d957ceac0efc3d60","fromNode":"1cfd675ba5100644","fromSide":"right","toNode":"e58921e1e1293880","toSide":"left"}
+		{"id":"d957ceac0efc3d60","fromNode":"1cfd675ba5100644","fromSide":"right","toNode":"e58921e1e1293880","toSide":"left"},
+		{"id":"d89fe0e44b6b8612","fromNode":"e58921e1e1293880","fromSide":"right","toNode":"99c45a6bbd71261f","toSide":"left"},
+		{"id":"217442636bd625fe","fromNode":"99c45a6bbd71261f","fromSide":"right","toNode":"2db9656a06dbe93b","toSide":"left"},
+		{"id":"662fb8ee9d874bea","fromNode":"e58921e1e1293880","fromSide":"right","toNode":"d98689521e7c8602","toSide":"left","label":"Củng cố, minh chứng, làm cơ sở xác thực (Corroborate / Support)."},
+		{"id":"629e071f5e9ebe33","fromNode":"d98689521e7c8602","fromSide":"right","toNode":"0bb67cce8c2f86e7","toSide":"left","label":"Minh chứng/Củng cố cho lập luận (Corroborate an assertion)."}
 	]
 }
