@@ -2,8 +2,8 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 567
-- Total Knowledge Items: 5739
+- Total Reviews: 570
+- Total Knowledge Items: 5757
 - Correct: 3643
 - Wrong: 6029
 - Accuracy: 37.7%
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.5% (Correct 333 / Wrong 605)
-- Collocation: 35.2% (Correct 150 / Wrong 276)
+- Adverb: 35.5% (Correct 332 / Wrong 604)
+- Collocation: 35.1% (Correct 150 / Wrong 277)
 - CompoundVerb: 34.4% (Correct 164 / Wrong 313)
 - Conjunction: 28.1% (Correct 81 / Wrong 207)
 - Demonstratives: 16.9% (Correct 20 / Wrong 98)
-- FixedExpression: 34.2% (Correct 195 / Wrong 376)
+- FixedExpression: 34.3% (Correct 195 / Wrong 373)
 - Grammar: 35.8% (Correct 858 / Wrong 1537)
-- Kanji: 44.9% (Correct 370 / Wrong 454)
+- Kanji: 45.1% (Correct 369 / Wrong 449)
 - Katakana: 36.7% (Correct 158 / Wrong 272)
 - Keigo: 27.3% (Correct 41 / Wrong 109)
 - Reading: 27.0% (Correct 132 / Wrong 357)
-- Vocabulary: 44.5% (Correct 1141 / Wrong 1425)
+- Vocabulary: 44.4% (Correct 1143 / Wrong 1433)
 
 ## 📚 Top Grammar
 
@@ -98,7 +98,6 @@
 ## 📚 Top Kanji
 
 - [[評価]] (Score: 40)
-- [[悔しい]] (Score: 40)
 - [[一層]] (Score: 40)
 - [[支える]] (Score: 35)
 - [[行方]] (Score: 35)
@@ -107,6 +106,7 @@
 - [[順]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
+- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -182,9 +182,9 @@
 - [[今にも]] (Score: 45)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
+- [[結局]] (Score: 40)
 - [[とても]] (Score: 40)
 - [[どうも]] (Score: 40)
-- [[とりあえず]] (Score: 40)
 
 ## 📚 Top Conjunction
 
@@ -245,5 +245,5 @@
 - [[1. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 1)]]
 - [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
 - [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
-- [[1. Phân Tích 281020262-2-3.pdf]]
-- [[2. Phân Tích 281020262-4-5.pdf]]
+- [[4. Phân Tích Tài liệu tổng hợp 50 cặp từ đồng nghĩa trình độ JLPT N2 - Haru Nihongo]]
+- [[5. Phân Tích Tài liệu tổng hợp các cặp từ đồng nghĩa trình độ JLPT N2 - Haru Nihongo]]
