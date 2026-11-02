@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 554
-- Total Knowledge Items: 5620
-- Correct: 3557
-- Wrong: 5835
-- Accuracy: 37.9%
+- Total Reviews: 557
+- Total Knowledge Items: 5646
+- Correct: 3563
+- Wrong: 5881
+- Accuracy: 37.7%
 
 ## 🚨 Review Queue
 
@@ -46,28 +46,28 @@
 - [[その]] (Demonstratives) Wrong: 10
 - [[〜がち]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
+- [[しかし]] (Conjunction) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[この]] (Demonstratives) Wrong: 9
 - [[〜がたい]] (Grammar) Wrong: 9
 - [[〜に違いない]] (Grammar) Wrong: 9
-- [[しかし]] (Conjunction) Wrong: 9
 - [[つまり]] (Conjunction) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 35.6% (Correct 328 / Wrong 593)
-- Collocation: 35.7% (Correct 147 / Wrong 265)
-- CompoundVerb: 34.3% (Correct 158 / Wrong 302)
-- Conjunction: 27.2% (Correct 74 / Wrong 198)
-- Demonstratives: 13.3% (Correct 14 / Wrong 91)
-- FixedExpression: 34.1% (Correct 190 / Wrong 368)
-- Grammar: 36.2% (Correct 850 / Wrong 1498)
-- Kanji: 44.6% (Correct 358 / Wrong 444)
-- Katakana: 37.3% (Correct 152 / Wrong 256)
+- Adverb: 35.5% (Correct 328 / Wrong 596)
+- Collocation: 35.4% (Correct 147 / Wrong 268)
+- CompoundVerb: 34.3% (Correct 159 / Wrong 304)
+- Conjunction: 27.3% (Correct 75 / Wrong 200)
+- Demonstratives: 13.9% (Correct 15 / Wrong 93)
+- FixedExpression: 33.9% (Correct 190 / Wrong 371)
+- Grammar: 36.0% (Correct 851 / Wrong 1510)
+- Kanji: 44.4% (Correct 358 / Wrong 448)
+- Katakana: 37.0% (Correct 152 / Wrong 259)
 - Keigo: 27.9% (Correct 41 / Wrong 106)
-- Reading: 26.3% (Correct 112 / Wrong 314)
-- Vocabulary: 44.7% (Correct 1133 / Wrong 1400)
+- Reading: 25.8% (Correct 113 / Wrong 325)
+- Vocabulary: 44.7% (Correct 1134 / Wrong 1401)
 
 ## 📚 Top Grammar
 
@@ -103,10 +103,10 @@
 - [[用心]] (Score: 35)
 - [[行方]] (Score: 35)
 - [[改善]] (Score: 35)
+- [[贅沢]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
 - [[幻想的]] (Score: 30)
-- [[頭脳]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -117,9 +117,9 @@
 - [[タクシー]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
+- [[レポート]] (Score: 30)
 - [[マンション]] (Score: 30)
 - [[プラン]] (Score: 30)
-- [[タバコ]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -131,14 +131,14 @@
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[散文の文脈理解]] (Score: 35)
 - [[説話の文脈規定]] (Score: 35)
-- [[勝敗]] (Score: 35)
-- [[筆者の考え]] (Score: 35)
+- [[文脈による意志の推定]] (Score: 35)
+- [[文脈規定と文法機能]] (Score: 35)
 
 ## 📚 Top CompoundVerb
 
+- [[思い出す]] (Score: 40)
 - [[取り組む]] (Score: 40)
 - [[落ち込む]] (Score: 40)
-- [[思い出す]] (Score: 35)
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[目を通す]] (Score: 30)
@@ -191,8 +191,8 @@
 - [[したがって]] (Score: 82)
 - [[つまり]] (Score: 60)
 - [[そこで]] (Score: 55)
+- [[しかし]] (Score: 50)
 - [[ところで]] (Score: 45)
-- [[しかし]] (Score: 45)
 - [[とはいえ]] (Score: 40)
 - [[だからといって]] (Score: 35)
 - [[さて]] (Score: 35)
@@ -201,9 +201,9 @@
 
 ## 📚 Top Keigo
 
-- [[おっしゃる]] (Score: 50)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[いらっしゃる]] (Score: 40)
+- [[おっしゃる]] (Score: 37)
 - [[おいでいただく]] (Score: 30)
 - [[避けた方が賢明です]] (Score: 25)
 - [[お会いする]] (Score: 25)
@@ -244,6 +244,6 @@
 - [[1. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 1)]]
 - [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
 - [[3. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 3)]]
-- [[1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 3 (THAOLEJP)1.]]
-- [[10. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 4.]]
-- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 61]]
+- [[1. Phân Tích 281020262-2-3.pdf]]
+- [[2. Phân Tích 281020262-4-5.pdf]]
+- [[3. Phân Tích 281020262-6-7.pdf]]
