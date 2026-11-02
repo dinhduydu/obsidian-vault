@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ebce8d975b033da8","type":"text","text":"となる","x":-346,"y":-21,"width":250,"height":60},
+		{"id":"f98ce8b00d6fe2c5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜となると.md","x":160,"y":-380,"width":320,"height":221},
+		{"id":"2b10679f18cb531b","type":"file","file":"Chữa đề/Learning_Profile/Reading/鍵となる語.md","x":280,"y":340,"width":280,"height":160},
+		{"id":"005fcff31f628dd0","x":-200,"y":500,"width":263,"height":134,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Duật　「聿 (⺻)」/建 - Kiến/鍵 - Kiện.canvas"},
+		{"id":"e0cf7e73362633a8","x":-1100,"y":-640,"width":400,"height":400,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/となる  ・とする・として.md"}
+	],
+	"edges":[
+		{"id":"1fe0c919a4945501","fromNode":"ebce8d975b033da8","fromSide":"right","toNode":"f98ce8b00d6fe2c5","toSide":"left","color":"5","label":"となると"},
+		{"id":"82e437c90f45d6e0","fromNode":"ebce8d975b033da8","fromSide":"right","toNode":"2b10679f18cb531b","toSide":"left","color":"6","label":"Những từ ngữ cốt lõi chứa đựng nội dung quan trọng, mang tính quyết định đến việc người nghe có hiểu được mạch câu chuyện hay không,."},
+		{"id":"6af52e41c7735c92","fromNode":"005fcff31f628dd0","fromSide":"right","toNode":"2b10679f18cb531b","toSide":"left","color":"3"},
+		{"id":"784c5cec63eaf5c9","fromNode":"e0cf7e73362633a8","fromSide":"right","toNode":"ebce8d975b033da8","toSide":"left","color":"3"}
+	]
+}

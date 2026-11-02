@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3bf126c8386468c6","type":"text","text":"Nといえば","x":-289,"y":-38,"width":250,"height":60},
+		{"id":"826acd01934ff47e","type":"text","text":"Đề xuất chủ đề sau khi tiếp nhận 1 chủ đề nào đó","x":-680,"y":220,"width":250,"height":60},
+		{"id":"9806c9cc04dd0661","type":"text","text":"Dùng khi liên tưởng","x":-680,"y":-242,"width":250,"height":60},
+		{"id":"5a58baca6986dd55","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜といえば.md","x":140,"y":-242,"width":304,"height":138},
+		{"id":"5b2a8ba59f58bf0e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かといえば／かというと.md","x":1060,"y":-1140,"width":344,"height":155}
+	],
+	"edges":[
+		{"id":"88428ce90696e6ed","fromNode":"826acd01934ff47e","fromSide":"right","toNode":"3bf126c8386468c6","toSide":"left"},
+		{"id":"4d1810c439e1b859","fromNode":"9806c9cc04dd0661","fromSide":"right","toNode":"3bf126c8386468c6","toSide":"left"},
+		{"id":"1df11b4994cd9cc4","fromNode":"3bf126c8386468c6","fromSide":"right","toNode":"5a58baca6986dd55","toSide":"left","color":"5","label":"Nhắc đến A thì liên tưởng ngay đến B / Nói về A thì... (Speaking of A)."},
+		{"id":"cd1489e9625b6c9f","fromNode":"5a58baca6986dd55","fromSide":"right","toNode":"5b2a8ba59f58bf0e","toSide":"left","color":"5","label":"V普通形 / Aい / Aな / N ＋ かといえば／かというと. \n\nNếu nói là... hay không / gì / như thế nào / khi nào..., thì... (If I were to say whether... / Speaking of...).\n\nVế sau đưa ra câu trả lời, giải thích lý do, hoặc phủ định nghi vấn ở vế trước."}
+	]
+}

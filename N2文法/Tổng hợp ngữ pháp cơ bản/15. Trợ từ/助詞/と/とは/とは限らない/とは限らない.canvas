@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6c93f5b4adcc0bd4","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/〜に限り/〜に限らない/〜とは限らない.canvas","x":480,"y":-440,"width":400,"height":400},
+		{"id":"fb98916110e4e5e3","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜とは限らない.md","x":-440,"y":-20,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"61e0432df09dd10c","fromNode":"fb98916110e4e5e3","fromSide":"right","toNode":"6c93f5b4adcc0bd4","toSide":"left","color":"4","label":"Không hẳn là, không nhất thiết là."}
+	]
+}

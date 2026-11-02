@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 570
-- Total Knowledge Items: 5763
-- Correct: 3654
-- Wrong: 6031
-- Accuracy: 37.7%
+- Total Reviews: 576
+- Total Knowledge Items: 5813
+- Correct: 3684
+- Wrong: 6103
+- Accuracy: 37.6%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.5% (Correct 333 / Wrong 604)
-- Collocation: 35.1% (Correct 150 / Wrong 277)
-- CompoundVerb: 34.7% (Correct 166 / Wrong 313)
+- Adverb: 35.3% (Correct 333 / Wrong 610)
+- Collocation: 34.5% (Correct 161 / Wrong 305)
+- CompoundVerb: 34.8% (Correct 169 / Wrong 316)
 - Conjunction: 28.4% (Correct 82 / Wrong 207)
 - Demonstratives: 17.6% (Correct 21 / Wrong 98)
-- FixedExpression: 34.4% (Correct 196 / Wrong 373)
-- Grammar: 35.9% (Correct 860 / Wrong 1537)
-- Kanji: 45.1% (Correct 369 / Wrong 449)
-- Katakana: 36.9% (Correct 159 / Wrong 272)
+- FixedExpression: 34.3% (Correct 197 / Wrong 378)
+- Grammar: 35.9% (Correct 863 / Wrong 1544)
+- Kanji: 45.3% (Correct 372 / Wrong 450)
+- Katakana: 36.9% (Correct 160 / Wrong 274)
 - Keigo: 27.3% (Correct 41 / Wrong 109)
 - Reading: 26.9% (Correct 132 / Wrong 358)
-- Vocabulary: 44.4% (Correct 1145 / Wrong 1434)
+- Vocabulary: 44.2% (Correct 1153 / Wrong 1454)
 
 ## 📚 Top Grammar
 
@@ -110,16 +110,16 @@
 
 ## 📚 Top Katakana
 
+- [[タイミング]] (Score: 45)
 - [[アパート]] (Score: 40)
-- [[タイミング]] (Score: 40)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
+- [[トラブル]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
 - [[レポート]] (Score: 30)
 - [[ステージ]] (Score: 30)
-- [[マンション]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -136,9 +136,9 @@
 
 ## 📚 Top CompoundVerb
 
+- [[落ち込む]] (Score: 45)
 - [[思い出す]] (Score: 40)
 - [[取り組む]] (Score: 40)
-- [[落ち込む]] (Score: 40)
 - [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[目を通す]] (Score: 30)
