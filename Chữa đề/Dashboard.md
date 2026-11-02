@@ -3,9 +3,9 @@
 ## 🎯 Overall
 
 - Total Reviews: 570
-- Total Knowledge Items: 5757
-- Correct: 3643
-- Wrong: 6029
+- Total Knowledge Items: 5763
+- Correct: 3654
+- Wrong: 6031
 - Accuracy: 37.7%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.5% (Correct 332 / Wrong 604)
+- Adverb: 35.5% (Correct 333 / Wrong 604)
 - Collocation: 35.1% (Correct 150 / Wrong 277)
-- CompoundVerb: 34.4% (Correct 164 / Wrong 313)
-- Conjunction: 28.1% (Correct 81 / Wrong 207)
-- Demonstratives: 16.9% (Correct 20 / Wrong 98)
-- FixedExpression: 34.3% (Correct 195 / Wrong 373)
-- Grammar: 35.8% (Correct 858 / Wrong 1537)
+- CompoundVerb: 34.7% (Correct 166 / Wrong 313)
+- Conjunction: 28.4% (Correct 82 / Wrong 207)
+- Demonstratives: 17.6% (Correct 21 / Wrong 98)
+- FixedExpression: 34.4% (Correct 196 / Wrong 373)
+- Grammar: 35.9% (Correct 860 / Wrong 1537)
 - Kanji: 45.1% (Correct 369 / Wrong 449)
-- Katakana: 36.7% (Correct 158 / Wrong 272)
+- Katakana: 36.9% (Correct 159 / Wrong 272)
 - Keigo: 27.3% (Correct 41 / Wrong 109)
-- Reading: 27.0% (Correct 132 / Wrong 357)
-- Vocabulary: 44.4% (Correct 1143 / Wrong 1433)
+- Reading: 26.9% (Correct 132 / Wrong 358)
+- Vocabulary: 44.4% (Correct 1145 / Wrong 1434)
 
 ## 📚 Top Grammar
 
@@ -227,7 +227,7 @@
 
 ## 📅 Recent Reviews
 
-- [[1. Phân Tích]]
+- [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
 - [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]

@@ -3,11 +3,15 @@
 		{"id":"5f07b890eeb824e0","type":"text","text":"般 - Ban","x":-91,"y":-52,"width":250,"height":60},
 		{"id":"ebef3803970448e9","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/Chu　「舟」.canvas","x":-480,"y":-260,"width":160,"height":143},
 		{"id":"65afda83f1cee995","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Thù　「殳」/Thù　「殳」.canvas","x":-454,"y":80,"width":134,"height":130},
-		{"id":"4e39a647437d37b8","x":320,"y":-315,"width":246,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/般 - Ban/搬 - Ban.canvas"}
+		{"id":"e0fb8fa4ab8f9696","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/一般.md","x":320,"y":-620,"width":353,"height":128},
+		{"id":"4e39a647437d37b8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chu　「舟」/般 - Ban/搬 - Ban.canvas","x":673,"y":-179,"width":246,"height":127},
+		{"id":"bb08ae84ab1969ca","x":960,"y":-920,"width":319,"height":149,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/一般大衆.md"}
 	],
 	"edges":[
 		{"id":"9c9534ac22fd14c9","fromNode":"ebef3803970448e9","fromSide":"right","toNode":"5f07b890eeb824e0","toSide":"left"},
 		{"id":"78fc965b9d3fa331","fromNode":"65afda83f1cee995","fromSide":"right","toNode":"5f07b890eeb824e0","toSide":"left"},
-		{"id":"7e4cc84cc9a3b405","fromNode":"5f07b890eeb824e0","fromSide":"right","toNode":"4e39a647437d37b8","toSide":"left","label":"vận chuyển"}
+		{"id":"7e4cc84cc9a3b405","fromNode":"5f07b890eeb824e0","fromSide":"right","toNode":"4e39a647437d37b8","toSide":"left","label":"vận chuyển"},
+		{"id":"b727efa048a96158","fromNode":"5f07b890eeb824e0","fromSide":"right","toNode":"e0fb8fa4ab8f9696","toSide":"left","label":"Thông thường/phổ thông"},
+		{"id":"589e8aebed1b0de2","fromNode":"e0fb8fa4ab8f9696","fromSide":"right","toNode":"bb08ae84ab1969ca","toSide":"left"}
 	]
 }

@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"09a3478ae6fd1dc3","type":"text","text":"しっかり","x":-160,"y":-83,"width":250,"height":60},
-		{"id":"2d62a14bb2aab11f","type":"text","text":"しっかりしている\n→ Chững chạc, đáng tin cậy.","x":220,"y":-200,"width":250,"height":60},
-		{"id":"b5f3253c2b5f8da3","x":220,"y":100,"width":250,"height":60,"type":"text","text":"朝ごはんをしっかり食べる (Ăn sáng đầy đủ)."}
+		{"id":"b5f3253c2b5f8da3","type":"text","text":"朝ごはんをしっかり食べる (Ăn sáng đầy đủ).","x":220,"y":100,"width":250,"height":60},
+		{"id":"ea28a526e21b2d86","type":"file","file":"Chữa đề/Learning_Profile/Adverb/しっかり.md","x":220,"y":-600,"width":317,"height":142},
+		{"id":"19a85d905812b9e1","type":"file","file":"Chữa đề/Learning_Profile/Collocation/しっかりしている.md","x":720,"y":-920,"width":350,"height":246}
 	],
 	"edges":[
-		{"id":"27a6fc9320d57d01","fromNode":"09a3478ae6fd1dc3","fromSide":"right","toNode":"2d62a14bb2aab11f","toSide":"left"},
-		{"id":"1e2baa77c8faa85d","fromNode":"09a3478ae6fd1dc3","fromSide":"right","toNode":"b5f3253c2b5f8da3","toSide":"left","label":"食べる "}
+		{"id":"1e2baa77c8faa85d","fromNode":"09a3478ae6fd1dc3","fromSide":"right","toNode":"b5f3253c2b5f8da3","toSide":"left","label":"食べる "},
+		{"id":"adb422ebbb107e34","fromNode":"09a3478ae6fd1dc3","fromSide":"right","toNode":"ea28a526e21b2d86","toSide":"left","label":"Chắc chắn, vững vàng; Kiên cường (Firmly / Solidly / Properly)."},
+		{"id":"ca5487fabe590839","fromNode":"ea28a526e21b2d86","fromSide":"right","toNode":"19a85d905812b9e1","toSide":"left","label":"しっかりしている\n→ Chững chạc, đáng tin cậy."}
 	]
 }

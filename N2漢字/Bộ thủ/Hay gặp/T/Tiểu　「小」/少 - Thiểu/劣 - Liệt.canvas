@@ -1,11 +1,16 @@
 {
 	"nodes":[
-		{"id":"297e62f8f6a1a33a","x":-193,"y":-69,"width":250,"height":60,"type":"text","text":"劣 - Liệt"},
-		{"id":"d7e480f26323d69b","x":-500,"y":-320,"width":165,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/少 - Thiểu/少 - Thiểu.canvas"},
-		{"id":"964bd28bad9eba1d","x":-527,"y":240,"width":192,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas"}
+		{"id":"297e62f8f6a1a33a","type":"text","text":"劣 - Liệt","x":-193,"y":-69,"width":250,"height":60},
+		{"id":"d7e480f26323d69b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/少 - Thiểu/少 - Thiểu.canvas","x":-500,"y":-320,"width":165,"height":170},
+		{"id":"964bd28bad9eba1d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lực　「力」/Lực　「力」.canvas","x":-527,"y":240,"width":192,"height":175},
+		{"id":"1c9135898912e95f","type":"file","file":"Chữa đề/Learning_Profile/Reading/音質の劣化を気にせずに保存しておくことができる.md","x":320,"y":116,"width":672,"height":124},
+		{"id":"a1d3d63eab7961a7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/劣る.md","x":500,"y":-393,"width":236,"height":158},
+		{"id":"f434d8ca89c3721f","x":500,"y":-680,"width":312,"height":100,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/劣等感.md"}
 	],
 	"edges":[
 		{"id":"21fff2e5eae2cde5","fromNode":"d7e480f26323d69b","fromSide":"right","toNode":"297e62f8f6a1a33a","toSide":"left"},
-		{"id":"3798c4020d17da49","fromNode":"964bd28bad9eba1d","fromSide":"right","toNode":"297e62f8f6a1a33a","toSide":"left"}
+		{"id":"3798c4020d17da49","fromNode":"964bd28bad9eba1d","fromSide":"right","toNode":"297e62f8f6a1a33a","toSide":"left"},
+		{"id":"e2558b1cce8359d4","fromNode":"297e62f8f6a1a33a","fromSide":"right","toNode":"a1d3d63eab7961a7","toSide":"left"},
+		{"id":"6416e5527d6e009c","fromNode":"297e62f8f6a1a33a","fromSide":"right","toNode":"1c9135898912e95f","toSide":"left"}
 	]
 }
