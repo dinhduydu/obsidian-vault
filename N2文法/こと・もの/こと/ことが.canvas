@@ -6,7 +6,7 @@
 		{"id":"a6f4c65fc7a844cd","type":"text","text":"「N4]　こと","x":905,"y":486,"width":250,"height":60},
 		{"id":"5b1d21b026d490ae","type":"text","text":"ことがある\nThỉnh thoảng mới xảy ra\nThỉnh thoảng mới làm","x":477,"y":-277,"width":250,"height":101},
 		{"id":"67c612264b62b775","type":"text","text":"Vたことがある\nCó kinh nghiệm làm","x":-485,"y":-497,"width":250,"height":60},
-		{"id":"9f01aa1da3d63ab0","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた.canvas","x":-1155,"y":-545,"width":260,"height":157}
+		{"id":"9f01aa1da3d63ab0","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vた.canvas","x":-1155,"y":-545,"width":260,"height":157}
 	],
 	"edges":[
 		{"id":"445d2045cfcdf157","fromNode":"0efa3f3cc3b80d10","fromSide":"left","toNode":"94861ffb945c4f2e","toSide":"right","label":"ことができる"},

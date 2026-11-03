@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dcc18278bb3d4126","type":"file","file":"N2文法/挙句・すえ/あげく.canvas","x":-358,"y":-338,"width":400,"height":400},
+		{"id":"46c476237fcac91e","type":"text","text":"あげく","x":100,"y":280,"width":250,"height":60},
+		{"id":"d50ee0765210e28d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～あげく.md","x":-860,"y":189,"width":400,"height":242}
+	],
+	"edges":[
+		{"id":"8639de1502973148","fromNode":"46c476237fcac91e","fromSide":"top","toNode":"dcc18278bb3d4126","toSide":"right"},
+		{"id":"6f05601eda00cc5e","fromNode":"46c476237fcac91e","fromSide":"left","toNode":"d50ee0765210e28d","toSide":"right","color":"4","label":"V-た hoặc N-の sau một thời gian dài bàn bạc, suy nghĩ."}
+	]
+}

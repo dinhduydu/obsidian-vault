@@ -1,21 +1,21 @@
 {
 	"nodes":[
-		{"id":"ae6af94dcefcc7ed","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/ばかり.canvas","x":-83,"y":-1126,"width":400,"height":400},
 		{"id":"7bd5f2b90b26bea0","type":"text","text":"あげくに","x":235,"y":7,"width":250,"height":55},
 		{"id":"ecb2c98fbe92cb8f","type":"file","file":"N2文法/挙句・すえ/末.canvas","x":630,"y":-166,"width":400,"height":400},
 		{"id":"de6c716ad6ab361f","type":"file","file":"Pasted image 20260410083859.png","x":160,"y":-380,"width":400,"height":176},
-		{"id":"0907ebd8549a9b95","type":"text","text":"ばかりに","x":235,"y":-560,"width":250,"height":60},
 		{"id":"151785fb68cb03a9","type":"text","text":"あげく(-)","x":-120,"y":7,"width":250,"height":60},
 		{"id":"24786494f0966fe6","type":"text","text":"結果(+/-)","x":235,"y":311,"width":250,"height":60},
-		{"id":"313d190b12bd3148","x":-620,"y":-204,"width":250,"height":60,"type":"text","text":"考えた"}
+		{"id":"62e82ffe41e0e65c","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vたあげく.canvas","x":-660,"y":-84,"width":250,"height":151},
+		{"id":"313d190b12bd3148","type":"text","text":"考えた","x":-1140,"y":240,"width":250,"height":60},
+		{"id":"0b222f03416d29aa","x":220,"y":-680,"width":187,"height":124,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりに.canvas"}
 	],
 	"edges":[
 		{"id":"689145bb523d1ce9","fromNode":"151785fb68cb03a9","fromSide":"right","toNode":"7bd5f2b90b26bea0","toSide":"left"},
 		{"id":"97b8f0828f9a9f29","fromNode":"7bd5f2b90b26bea0","fromSide":"right","toNode":"ecb2c98fbe92cb8f","toSide":"left","label":"(+)"},
 		{"id":"c67abfbfe4f1370b","fromNode":"7bd5f2b90b26bea0","fromSide":"bottom","toNode":"24786494f0966fe6","toSide":"top"},
 		{"id":"59a981fc5dfeaf79","fromNode":"7bd5f2b90b26bea0","fromSide":"top","toNode":"de6c716ad6ab361f","toSide":"bottom"},
-		{"id":"f263caaef3d71c1c","fromNode":"de6c716ad6ab361f","fromSide":"top","toNode":"0907ebd8549a9b95","toSide":"bottom"},
-		{"id":"313fb77857e7cd06","fromNode":"0907ebd8549a9b95","fromSide":"top","toNode":"ae6af94dcefcc7ed","toSide":"bottom"},
-		{"id":"8f44b5b78e584e7a","fromNode":"313d190b12bd3148","fromSide":"right","toNode":"151785fb68cb03a9","toSide":"left"}
+		{"id":"f263caaef3d71c1c","fromNode":"de6c716ad6ab361f","fromSide":"top","toNode":"0b222f03416d29aa","toSide":"bottom","color":"1"},
+		{"id":"4ca4960675f1d34a","fromNode":"151785fb68cb03a9","fromSide":"left","toNode":"62e82ffe41e0e65c","toSide":"right"},
+		{"id":"8f44b5b78e584e7a","fromNode":"62e82ffe41e0e65c","fromSide":"left","toNode":"313d190b12bd3148","toSide":"right","color":"6","label":"V-た hoặc N-の sau một thời gian dài bàn bạc, suy nghĩ."}
 	]
 }
