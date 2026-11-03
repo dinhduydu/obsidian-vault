@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"8952e32a274f7f83","x":-104,"y":-13,"width":250,"height":60,"type":"text","text":"父の兄、つまり伯父"}
+		{"id":"8952e32a274f7f83","type":"text","text":"父の兄、つまり伯父","x":-104,"y":-13,"width":250,"height":60},
+		{"id":"08fb7d11001702f5","type":"file","file":"Chữa đề/Learning_Profile/Adverb/つまり.md","x":-720,"y":-340,"width":300,"height":118}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"2193f8826cd09fd4","fromNode":"08fb7d11001702f5","fromSide":"right","toNode":"8952e32a274f7f83","toSide":"left","label":"Tóm lại là / Có nghĩa là (In short / That is to say)."}
+	]
 }

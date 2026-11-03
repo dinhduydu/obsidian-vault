@@ -1,11 +1,27 @@
 {
 	"nodes":[
-		{"id":"9997142574864a47","x":-85,"y":-45,"width":250,"height":60,"type":"text","text":"皆 - Giai"},
-		{"id":"27501a0021528b2e","x":-400,"y":-240,"width":182,"height":127,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas"},
-		{"id":"0af83e27a754ce52","x":-388,"y":60,"width":170,"height":120,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas"}
+		{"id":"27501a0021528b2e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/Tỷ　「比」.canvas","x":-400,"y":-240,"width":182,"height":127},
+		{"id":"0af83e27a754ce52","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas","x":-388,"y":60,"width":170,"height":120},
+		{"id":"51413672f8c5cc07","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/皆勤賞.md","x":420,"y":-351,"width":308,"height":111},
+		{"id":"9997142574864a47","type":"text","text":"皆 - Giai","x":-85,"y":-45,"width":250,"height":60},
+		{"id":"0dc432bd225948f9","type":"text","text":"皆 - Giai","x":-85,"y":620,"width":250,"height":60},
+		{"id":"5da5cee0fdfb732b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/諧 - Hài.canvas","x":400,"y":280,"width":229,"height":153},
+		{"id":"7b736265871c6788","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/階 - Giai.canvas","x":400,"y":580,"width":229,"height":140},
+		{"id":"f22b67df40f2a2e4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/楷 - Giai.canvas","x":400,"y":900,"width":220,"height":157},
+		{"id":"92bf2c05f7636f80","x":180,"y":180,"width":121,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Ngôn　「言 (訁)」/Ngôn　「言 (訁)」.canvas"},
+		{"id":"f20c1d93877151f5","x":165,"y":480,"width":134,"height":114,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phụ　「阜 (⻖)」/Phụ　「⻖」.canvas"},
+		{"id":"b3dd4dc1bf3d3912","x":124,"y":1057,"width":175,"height":117,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
 	],
 	"edges":[
 		{"id":"7ceaecf7c4e38a97","fromNode":"27501a0021528b2e","fromSide":"right","toNode":"9997142574864a47","toSide":"left"},
-		{"id":"4667a855b76bf7bd","fromNode":"0af83e27a754ce52","fromSide":"right","toNode":"9997142574864a47","toSide":"left"}
+		{"id":"4667a855b76bf7bd","fromNode":"0af83e27a754ce52","fromSide":"right","toNode":"9997142574864a47","toSide":"left"},
+		{"id":"a0fe294926d2bdcb","fromNode":"9997142574864a47","fromSide":"right","toNode":"51413672f8c5cc07","toSide":"left","color":"6","label":"Giải thưởng chuyên cần (Award for perfect attendance)."},
+		{"id":"0f1e2dba322fe41e","fromNode":"0dc432bd225948f9","fromSide":"right","toNode":"5da5cee0fdfb732b","toSide":"left","color":"5"},
+		{"id":"f46e9dd914e3da35","fromNode":"9997142574864a47","fromSide":"bottom","toNode":"0dc432bd225948f9","toSide":"top","color":"4"},
+		{"id":"3734b3b93217e224","fromNode":"0dc432bd225948f9","fromSide":"right","toNode":"7b736265871c6788","toSide":"left","color":"5"},
+		{"id":"f103107b8cb38edf","fromNode":"0dc432bd225948f9","fromSide":"right","toNode":"f22b67df40f2a2e4","toSide":"left","color":"5"},
+		{"id":"68217c48b62556ec","fromNode":"92bf2c05f7636f80","fromSide":"right","toNode":"5da5cee0fdfb732b","toSide":"left","color":"3"},
+		{"id":"0f6c7b2a730ee86e","fromNode":"f20c1d93877151f5","fromSide":"right","toNode":"7b736265871c6788","toSide":"left","color":"3"},
+		{"id":"f53b9b563ff8c7ed","fromNode":"b3dd4dc1bf3d3912","fromSide":"right","toNode":"f22b67df40f2a2e4","toSide":"left","color":"3"}
 	]
 }
