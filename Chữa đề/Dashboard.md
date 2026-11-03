@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 581
-- Total Knowledge Items: 5848
-- Correct: 3741
-- Wrong: 6134
+- Total Reviews: 585
+- Total Knowledge Items: 5864
+- Correct: 3753
+- Wrong: 6155
 - Accuracy: 37.9%
 
 ## 🚨 Review Queue
@@ -20,16 +20,16 @@
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[つまり]] | Conjunction| Score: 70| Wrong: 11
+- [[〜がち]] | Grammar| Score: 70| Wrong: 11
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
-- [[〜がち]] | Grammar| Score: 65| Wrong: 10
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
+- [[つい]] | Adverb| Score: 60| Wrong: 9
 - [[〜がたい]] | Grammar| Score: 60| Wrong: 9
 - [[〜どころか]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
 - [[しかし]] | Conjunction| Score: 55| Wrong: 11
 - [[すっかり]] | Adverb| Score: 55| Wrong: 8
-- [[〜こそ]] | Grammar| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -44,30 +44,30 @@
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
 - [[つまり]] (Conjunction) Wrong: 11
+- [[〜がち]] (Grammar) Wrong: 11
 - [[〜にすぎない]] (Grammar) Wrong: 11
 - [[その]] (Demonstratives) Wrong: 10
-- [[〜がち]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
+- [[つい]] (Adverb) Wrong: 9
 - [[この]] (Demonstratives) Wrong: 9
 - [[〜がたい]] (Grammar) Wrong: 9
-- [[〜に違いない]] (Grammar) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 35.9% (Correct 341 / Wrong 610)
-- Collocation: 34.5% (Correct 162 / Wrong 308)
+- Adverb: 35.6% (Correct 335 / Wrong 606)
+- Collocation: 34.6% (Correct 164 / Wrong 310)
 - CompoundVerb: 35.4% (Correct 173 / Wrong 316)
 - Conjunction: 30.0% (Correct 94 / Wrong 219)
 - Demonstratives: 18.7% (Correct 23 / Wrong 100)
-- FixedExpression: 34.7% (Correct 200 / Wrong 377)
-- Grammar: 36.0% (Correct 871 / Wrong 1549)
-- Kanji: 45.4% (Correct 377 / Wrong 454)
+- FixedExpression: 34.8% (Correct 201 / Wrong 377)
+- Grammar: 36.0% (Correct 876 / Wrong 1559)
+- Kanji: 45.4% (Correct 384 / Wrong 462)
 - Katakana: 37.6% (Correct 165 / Wrong 274)
 - Keigo: 27.8% (Correct 42 / Wrong 109)
 - Reading: 26.8% (Correct 132 / Wrong 360)
-- Vocabulary: 44.3% (Correct 1161 / Wrong 1458)
+- Vocabulary: 44.3% (Correct 1164 / Wrong 1463)
 
 ## 📚 Top Grammar
 
@@ -76,8 +76,8 @@
 - [[〜にほかならない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
 - [[〜まい]] (Score: 72)
+- [[〜がち]] (Score: 70)
 - [[〜にすぎない]] (Score: 70)
-- [[〜がち]] (Score: 65)
 - [[〜とは限らない]] (Score: 65)
 - [[〜ものの]] (Score: 65)
 - [[〜がたい]] (Score: 60)
@@ -97,6 +97,7 @@
 
 ## 📚 Top Kanji
 
+- [[結局]] (Score: 40)
 - [[評価]] (Score: 40)
 - [[一層]] (Score: 40)
 - [[支える]] (Score: 35)
@@ -106,7 +107,6 @@
 - [[順]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
-- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -175,16 +175,16 @@
 
 ## 📚 Top Adverb
 
+- [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 50)
 - [[さっさと]] (Score: 50)
-- [[つい]] (Score: 45)
 - [[今にも]] (Score: 45)
 - [[かえって]] (Score: 40)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
-- [[結局]] (Score: 40)
 - [[とても]] (Score: 40)
+- [[とりあえず]] (Score: 40)
 
 ## 📚 Top Conjunction
 
@@ -228,11 +228,15 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
+- [[10. Phân Tích 021120265-8-9.pdf]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 86 (THAOLEJP)]]
 - [[3. Phân Tích N2 Phó từ - câu1 đến câu 7]]
 - [[4. Phân Tích N2 Phó từ - câu 8, 9, 10]]
 - [[5. Phân Tích N2_TỪ NỐI (P3)]]
 - [[6. Phân Tích N2_TỪ NỐI (P3)]]
+- [[7. Phân Tích 021120265-2-3.pdf]]
+- [[8. Phân Tích 021120265-4-5.pdf]]
+- [[9. Phân Tích 021120265-6-7.pdf]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
 - [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
@@ -243,7 +247,3 @@
 - [[1. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
 - [[2. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 6-8]]
 - [[3. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 9-11]]
-- [[4. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 12-15]]
-- [[5. Phân Tích 271020261-2-6.pdf]]
-- [[6. Phân Tích 271020261-7-9.pdf]]
-- [[7. Phân Tích 271020261-9-12.pdf]]
