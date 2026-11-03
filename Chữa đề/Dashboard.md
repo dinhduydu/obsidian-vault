@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 579
-- Total Knowledge Items: 5842
-- Correct: 3726
-- Wrong: 6121
-- Accuracy: 37.8%
+- Total Reviews: 581
+- Total Knowledge Items: 5848
+- Correct: 3741
+- Wrong: 6134
+- Accuracy: 37.9%
 
 ## 🚨 Review Queue
 
@@ -19,8 +19,8 @@
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
+- [[つまり]] | Conjunction| Score: 70| Wrong: 11
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
-- [[つまり]] | Conjunction| Score: 65| Wrong: 10
 - [[〜がち]] | Grammar| Score: 65| Wrong: 10
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
@@ -43,8 +43,8 @@
 - [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
+- [[つまり]] (Conjunction) Wrong: 11
 - [[〜にすぎない]] (Grammar) Wrong: 11
-- [[つまり]] (Conjunction) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
 - [[〜がち]] (Grammar) Wrong: 10
 - [[〜ざるを得ない]] (Grammar) Wrong: 10
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.8% (Correct 339 / Wrong 607)
-- Collocation: 34.5% (Correct 162 / Wrong 307)
+- Adverb: 35.9% (Correct 341 / Wrong 610)
+- Collocation: 34.5% (Correct 162 / Wrong 308)
 - CompoundVerb: 35.4% (Correct 173 / Wrong 316)
-- Conjunction: 29.3% (Correct 89 / Wrong 215)
-- Demonstratives: 18.0% (Correct 22 / Wrong 100)
+- Conjunction: 30.0% (Correct 94 / Wrong 219)
+- Demonstratives: 18.7% (Correct 23 / Wrong 100)
 - FixedExpression: 34.7% (Correct 200 / Wrong 377)
-- Grammar: 35.9% (Correct 868 / Wrong 1548)
-- Kanji: 45.3% (Correct 375 / Wrong 452)
+- Grammar: 36.0% (Correct 871 / Wrong 1549)
+- Kanji: 45.4% (Correct 377 / Wrong 454)
 - Katakana: 37.6% (Correct 165 / Wrong 274)
 - Keigo: 27.8% (Correct 42 / Wrong 109)
 - Reading: 26.8% (Correct 132 / Wrong 360)
-- Vocabulary: 44.3% (Correct 1159 / Wrong 1456)
+- Vocabulary: 44.3% (Correct 1161 / Wrong 1458)
 
 ## 📚 Top Grammar
 
@@ -180,16 +180,16 @@
 - [[さっさと]] (Score: 50)
 - [[つい]] (Score: 45)
 - [[今にも]] (Score: 45)
+- [[かえって]] (Score: 40)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
 - [[結局]] (Score: 40)
 - [[とても]] (Score: 40)
-- [[とりあえず]] (Score: 40)
 
 ## 📚 Top Conjunction
 
 - [[したがって]] (Score: 87)
-- [[つまり]] (Score: 65)
+- [[つまり]] (Score: 70)
 - [[しかし]] (Score: 55)
 - [[そこで]] (Score: 55)
 - [[ところで]] (Score: 45)
@@ -231,6 +231,8 @@
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 86 (THAOLEJP)]]
 - [[3. Phân Tích N2 Phó từ - câu1 đến câu 7]]
 - [[4. Phân Tích N2 Phó từ - câu 8, 9, 10]]
+- [[5. Phân Tích N2_TỪ NỐI (P3)]]
+- [[6. Phân Tích N2_TỪ NỐI (P3)]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
 - [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
 - [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
@@ -245,5 +247,3 @@
 - [[5. Phân Tích 271020261-2-6.pdf]]
 - [[6. Phân Tích 271020261-7-9.pdf]]
 - [[7. Phân Tích 271020261-9-12.pdf]]
-- [[1. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 1)]]
-- [[2. Phân Tích BÀI LÀM TIẾNG NHẬT N2 (TỪ ĐỒNG NGHĨA - BÀI 2)]]
