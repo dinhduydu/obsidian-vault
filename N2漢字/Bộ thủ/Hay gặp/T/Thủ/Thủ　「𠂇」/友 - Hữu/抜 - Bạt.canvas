@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"3818ff06e565ae54","x":-111,"y":-40,"width":250,"height":60,"type":"text","text":"抜 - Bạt"},
-		{"id":"b6fce834910f06ac","x":-500,"y":140,"width":177,"height":170,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/友 - Hữu.canvas"},
-		{"id":"60269dc542b50b92","x":-490,"y":-260,"width":167,"height":181,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas"}
+		{"id":"3818ff06e565ae54","type":"text","text":"抜 - Bạt","x":-111,"y":-40,"width":251,"height":60},
+		{"id":"b6fce834910f06ac","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/友 - Hữu.canvas","x":-500,"y":140,"width":177,"height":170},
+		{"id":"60269dc542b50b92","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「手」/Thủ　「手」.canvas","x":-490,"y":-260,"width":167,"height":181},
+		{"id":"c8b8917b6eeb3d8e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜抜く.md","x":600,"y":-460,"width":371,"height":147},
+		{"id":"58d7ff84bfc1e857","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/見抜く.md","x":1260,"y":-160,"width":341,"height":144},
+		{"id":"c816d8a0ea5af1bb","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/息抜き.md","x":1260,"y":-720,"width":306,"height":102},
+		{"id":"ea448406ef7e9fa8","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜抜きで.md","x":1260,"y":-1340,"width":320,"height":138}
 	],
 	"edges":[
 		{"id":"486540568acd9347","fromNode":"b6fce834910f06ac","fromSide":"right","toNode":"3818ff06e565ae54","toSide":"left"},
-		{"id":"ba4686e45430130c","fromNode":"60269dc542b50b92","fromSide":"right","toNode":"3818ff06e565ae54","toSide":"left"}
+		{"id":"ba4686e45430130c","fromNode":"60269dc542b50b92","fromSide":"right","toNode":"3818ff06e565ae54","toSide":"left"},
+		{"id":"5761de8a74c39a1d","fromNode":"3818ff06e565ae54","fromSide":"right","toNode":"c8b8917b6eeb3d8e","toSide":"left","label":"V-masu + 抜く. Thường đi với 悩む, 生きる, 走る.\nLàm V đến cùng / Nỗ lực tới cùng (Do V to the very end / Perseveringly)."},
+		{"id":"46dcd0ecdf2e28dc","fromNode":"c8b8917b6eeb3d8e","fromSide":"right","toNode":"c816d8a0ea5af1bb","toSide":"left","label":"Nghỉ ngơi xả hơi, thư giãn ngắn giữa giờ."},
+		{"id":"9f5793bd6ae15eea","fromNode":"c8b8917b6eeb3d8e","fromSide":"right","toNode":"58d7ff84bfc1e857","toSide":"left","label":"See through, penetrate, discern true nature or falsehood (Nhìn thấu, nhận ra sự thật)."},
+		{"id":"8364025c07348326","fromNode":"c8b8917b6eeb3d8e","fromSide":"right","toNode":"ea448406ef7e9fa8","toSide":"left","label":"Bỏ qua..., Không có... (Bỏ qua một phần vốn bình thường phải có) (Without / Skipping)."}
 	]
 }
