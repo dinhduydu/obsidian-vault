@@ -2,8 +2,8 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 597
-- Total Knowledge Items: 5981
+- Total Reviews: 626
+- Total Knowledge Items: 6226
 - Correct: 3753
 - Wrong: 6155
 - Accuracy: 37.9%
@@ -14,14 +14,14 @@
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 90| Wrong: 15
-- [[したがって]] | Conjunction| Score: 87| Wrong: 17
-- [[〜ようがない]] | Grammar| Score: 80| Wrong: 13
+- [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[つまり]] | Conjunction| Score: 70| Wrong: 11
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
 - [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
+- [[〜ようがない]] | Grammar| Score: 65| Wrong: 13
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
 - [[つい]] | Adverb| Score: 60| Wrong: 9
@@ -56,28 +56,28 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.2% (Correct 341 / Wrong 602)
+- Adverb: 36.3% (Correct 342 / Wrong 599)
 - Collocation: 34.6% (Correct 164 / Wrong 310)
-- CompoundVerb: 35.7% (Correct 173 / Wrong 312)
-- Conjunction: 30.0% (Correct 94 / Wrong 219)
+- CompoundVerb: 35.5% (Correct 173 / Wrong 315)
+- Conjunction: 29.9% (Correct 93 / Wrong 218)
 - Demonstratives: 18.7% (Correct 23 / Wrong 100)
 - FixedExpression: 34.8% (Correct 201 / Wrong 376)
 - Grammar: 36.0% (Correct 876 / Wrong 1559)
-- Kanji: 44.8% (Correct 368 / Wrong 454)
+- Kanji: 44.3% (Correct 356 / Wrong 447)
 - Katakana: 37.6% (Correct 165 / Wrong 274)
 - Keigo: 27.8% (Correct 42 / Wrong 109)
-- Reading: 26.6% (Correct 130 / Wrong 358)
-- Vocabulary: 44.2% (Correct 1176 / Wrong 1482)
+- Reading: 26.2% (Correct 127 / Wrong 357)
+- Vocabulary: 44.4% (Correct 1191 / Wrong 1491)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 90)
-- [[〜ようがない]] (Score: 80)
 - [[〜にほかならない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
 - [[〜まい]] (Score: 72)
 - [[〜がち]] (Score: 70)
 - [[〜にすぎない]] (Score: 70)
+- [[〜ようがない]] (Score: 65)
 - [[〜とは限らない]] (Score: 65)
 - [[〜ものの]] (Score: 65)
 - [[〜がたい]] (Score: 60)
@@ -100,13 +100,13 @@
 - [[結局]] (Score: 40)
 - [[評価]] (Score: 40)
 - [[一層]] (Score: 40)
-- [[支える]] (Score: 35)
 - [[行方]] (Score: 35)
 - [[改善]] (Score: 35)
 - [[贅沢]] (Score: 30)
 - [[順]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
+- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -136,16 +136,16 @@
 
 ## 📚 Top CompoundVerb
 
-- [[落ち込む]] (Score: 45)
 - [[思い出す]] (Score: 40)
-- [[取り組む]] (Score: 40)
 - [[巡り会う]] (Score: 35)
+- [[取り組む]] (Score: 30)
+- [[落ち込む]] (Score: 30)
 - [[目を通す]] (Score: 30)
 - [[言い表す]] (Score: 30)
-- [[思いつく]] (Score: 30)
-- [[飛び上がる]] (Score: 30)
 - [[言いようがない]] (Score: 30)
 - [[やり抜く]] (Score: 30)
+- [[見守る]] (Score: 30)
+- [[取り戻す]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -188,7 +188,7 @@
 
 ## 📚 Top Conjunction
 
-- [[したがって]] (Score: 87)
+- [[したがって]] (Score: 85)
 - [[つまり]] (Score: 70)
 - [[しかし]] (Score: 55)
 - [[そこで]] (Score: 55)
@@ -240,10 +240,10 @@
 - [[1. Phân Tích 8.1. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
 - [[10. Phân Tích 8.10. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
 - [[11. Phân Tích 8.11. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[2. Phân Tích 8.2. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[3. Phân Tích 8.3. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[4. Phân Tích 8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[5. Phân Tích 8.5. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[6. Phân Tích 8.6. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[7. Phân Tích 8.7. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[8. Phân Tích 8.8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[12. Phân Tích 1. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf]]
+- [[13. Phân Tích 2. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf]]
+- [[14. Phân Tích 6. Ngữ pháp N2 ～ようがない.pdf]]
+- [[15. Phân Tích 7.1. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]
+- [[16. Phân Tích 50 Cặp phó từ + động từ thường gặp trong JLPT N3–N2]]
+- [[17. Phân Tích 7.3. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]
+- [[18. Phân Tích 7.4. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]

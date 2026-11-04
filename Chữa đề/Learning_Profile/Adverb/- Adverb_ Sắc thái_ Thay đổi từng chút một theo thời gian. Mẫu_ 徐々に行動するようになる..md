@@ -17,6 +17,6 @@ Priority: 🟢 Low
 
 
 <!-- USER_START -->
-
+[[〜ようになる]]
 
 <!-- USER_END -->

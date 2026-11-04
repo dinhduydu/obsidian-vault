@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"6a5da7d95fa0c205","x":-82,"y":-26,"width":250,"height":60,"type":"text","text":"狂 - Cuồng"},
-		{"id":"8123f858b0d90c97","x":-420,"y":-280,"width":158,"height":165,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas"},
-		{"id":"ffa786f9b13bed8b","x":-490,"y":100,"width":228,"height":212,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas"}
+		{"id":"6a5da7d95fa0c205","type":"text","text":"狂 - Cuồng","x":-82,"y":-26,"width":250,"height":60},
+		{"id":"8123f858b0d90c97","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/Khuyển　「犭」.canvas","x":-420,"y":-280,"width":158,"height":165},
+		{"id":"ffa786f9b13bed8b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/Vương　「王」.canvas","x":-490,"y":100,"width":228,"height":212},
+		{"id":"86a4806f30a7fde3","type":"file","file":"Chữa đề/Learning_Profile/Collocation/リズムが狂う.md","x":380,"y":-320,"width":241,"height":100}
 	],
 	"edges":[
 		{"id":"69c27e8a674a1f00","fromNode":"8123f858b0d90c97","fromSide":"right","toNode":"6a5da7d95fa0c205","toSide":"left"},
-		{"id":"a51bdb4c2bd37de0","fromNode":"ffa786f9b13bed8b","fromSide":"right","toNode":"6a5da7d95fa0c205","toSide":"left"}
+		{"id":"a51bdb4c2bd37de0","fromNode":"ffa786f9b13bed8b","fromSide":"right","toNode":"6a5da7d95fa0c205","toSide":"left"},
+		{"id":"5b14996d9db72273","fromNode":"6a5da7d95fa0c205","fromSide":"right","toNode":"86a4806f30a7fde3","toSide":"left","label":"Nhịp độ/chu kỳ bị xáo trộn, xáo trộn nhịp sinh học."}
 	]
 }

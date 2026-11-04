@@ -11,17 +11,14 @@
             "id": "4f4211161a2d2235",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻 - Tần.canvas",
-                "viewState": {
-                  "x": -361,
-                  "y": -12.5,
-                  "zoom": 0
-                }
+                "file": "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/24.3. Từ tượng thanh N1 N2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "頻 - Tần"
+              "icon": "lucide-file",
+              "title": "24.3. Từ tượng thanh N1 N2"
             }
           }
         ],
@@ -47,7 +44,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "あんまり"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -59,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "しょっちゅう",
+                "query": "うっかり忘れる",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,12 +97,11 @@
               "title": "うえは"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.8999938964844
+    "width": 441.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -200,39 +196,44 @@
   },
   "active": "4f4211161a2d2235",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Adverb/頻繁.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/24.2. Từ tượng thanh N1 N2.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/24.1. TỪ TƯỢNG THANH hay N1–N2.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/25. Phân Tích 23. Từ vựng N1 mỗi ngày.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/24.3. Từ tượng thanh N1 N2.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.1.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/24. Phân Tích 22. Từ vựng N1 mỗi ngày.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/うっかり忘れる.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week5/26102026/3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5).md",
+    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/う/うっかり.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/15. Phân Tích 7.1. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/あえて聞く.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/17. Phân Tích 7.3. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf.md",
+    "Chữa đề/Learning_Profile/Adverb/ひたすら.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/11. Phân Tích 21. Phó từ hay gặp N2.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/1. Phân Tích N2_CÁCH DÙNG ĐÚNG CỦA TỪ (P7).md",
+    "Untitled 1.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/23. Từ vựng N1 mỗi ngày.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/22. Từ vựng N1 mỗi ngày.md",
+    "Chữa đề/Learning_Profile/Adverb/ちょうど.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/13. Phân Tích 2. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf.md",
+    "Chữa đề/Learning_Profile/Adverb/きちんと.md",
+    "Chữa đề/Learning_Profile/Adverb/おおむね.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/21. Phó từ hay gặp N2.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/4. Phân Tích 8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/正直.md",
+    "Chữa đề/Learning_Profile/Vocabulary/正確.md",
+    "Chữa đề/Learning_Profile/Vocabulary/無効.md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas",
+    "Pasted image 20261104192044.png",
+    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/旧 - Cựu.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas",
+    "N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/狂 - Cuồng.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/7. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2",
     "N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻 - Tần.canvas",
     "N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn/繁 - Phồn.canvas",
-    "Chữa đề/Learning_Profile/Adverb/しょっちゅう.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/2. Phân Tích 8.2. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/たびたび.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week2/11102026/6. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-1-5.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/しばしば.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/11. Phân Tích 8.11. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT/8.2. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.md",
-    "Chữa đề/Learning_Profile/Adverb/ぐんぐん.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT/8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/4. Phân Tích 8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/たいして.md",
-    "Chữa đề/Learning_Profile/Adverb/あんまり.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/4. Phân Tích N2_ĐỌC HIỂU ĐOẢN VĂN_TEST 1.md",
-    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/4. Phân Tích N2 Đọc hiểu trung văn - Bài 7.md",
     "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/あ/あんまり.canvas",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/5. Phân Tích 8.5. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT/8.5. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.md",
     "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
-    "N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md",
     "N2文法/ない・いう・しまう/ない/にかかわらず.canvas",
-    "Chữa đề/Learning_Profile/Vocabulary/操縦室.md",
-    "Chữa đề/Learning_Profile/Keigo/〜ていらっしゃる.md",
-    "Chữa đề/Learning_Profile/Keigo/N _ Na + でいらっしゃる.md",
-    "Chữa đề/Learning_Profile/Keigo/お・ご + N + なさる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/振るわない.md",
-    "Chữa đề/Learning_Profile/Vocabulary/結構.md",
-    "Chữa đề/Learning_Profile/Vocabulary/根.md",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/2. Tương phản - Đối lập.canvas",
-    "N2文法/Tổng hợp ngữ pháp N3/Các chủ điểm ngữ pháp trình độ trung cấp tiếng Nhật/1. Nguyên nhân lý do.canvas",
-    "N2文法/Tổng hợp ngữ pháp N2/N2/Canvas/N2.1. Sự biến đổi, Đối lập và Quan điểm.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc",
     "Pasted image 20261104115539.png",
@@ -244,16 +245,12 @@
     "Pasted image 20261104115332.png",
     "Pasted image 20261104115326.png",
     "Pasted image 20261104115320.png",
-    "Pasted image 20261104115313.png",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/19. Tính từ hay gặp N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/18. Động từ thường gặp trong đề thi JLPT N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026",
-    "AI_Context/Đọc hiểu tiếng Nhật/4 lỗi mình thấy người học rất dễ mắc khi đọc hiểu/canvas/ĐỌC HIỂU TIẾNG NHẬT MÃI KHÔNG TIẾN BỘ, CÓ THỂ BẠN ĐANG MẮC 4 LỖI NÀY.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Tỷ　「比」/皆 - Giai/皆 - Giai.canvas",
-    "N2文法/Vた・Vて・Vます・Vば・Vよう/Vた"
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026"
   ]
 }
