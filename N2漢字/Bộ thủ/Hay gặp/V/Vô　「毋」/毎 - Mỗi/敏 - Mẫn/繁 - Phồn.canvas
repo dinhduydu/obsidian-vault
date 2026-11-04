@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"d96b4413c0b8e6cf","x":-203,"y":-24,"width":250,"height":60,"type":"text","text":"繁 - Phồn"},
-		{"id":"f4048fd80372555e","x":-540,"y":100,"width":142,"height":116,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn/敏 - Mẫn.canvas"},
-		{"id":"47ae821dd1cd5d70","x":-546,"y":-137,"width":148,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas"}
+		{"id":"d96b4413c0b8e6cf","type":"text","text":"繁 - Phồn","x":-203,"y":-24,"width":250,"height":60},
+		{"id":"f4048fd80372555e","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/V/Vô　「毋」/毎 - Mỗi/敏 - Mẫn/敏 - Mẫn.canvas","x":-540,"y":100,"width":142,"height":116},
+		{"id":"47ae821dd1cd5d70","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch　「糸 」/Mịch　「糸 」.canvas","x":-546,"y":-137,"width":148,"height":143},
+		{"id":"c88d6225faa3955b","type":"file","file":"Chữa đề/Learning_Profile/Adverb/頻繁.md","x":240,"y":-248,"width":282,"height":111},
+		{"id":"148344bc12705e6d","x":-240,"y":-420,"width":220,"height":136,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hiệt　「頁 」/頻 - Tần.canvas"}
 	],
 	"edges":[
 		{"id":"fe7ab5259c7fe665","fromNode":"f4048fd80372555e","fromSide":"right","toNode":"d96b4413c0b8e6cf","toSide":"left"},
-		{"id":"2bf7c0fc5300ecd7","fromNode":"47ae821dd1cd5d70","fromSide":"right","toNode":"d96b4413c0b8e6cf","toSide":"left"}
+		{"id":"2bf7c0fc5300ecd7","fromNode":"47ae821dd1cd5d70","fromSide":"right","toNode":"d96b4413c0b8e6cf","toSide":"left"},
+		{"id":"079d5ce330c10987","fromNode":"d96b4413c0b8e6cf","fromSide":"right","toNode":"c88d6225faa3955b","toSide":"left","color":"6","label":"Thường xuyên, hay xảy ra."},
+		{"id":"76a5ca2f70812a73","fromNode":"148344bc12705e6d","fromSide":"right","toNode":"c88d6225faa3955b","toSide":"left","color":"3"}
 	]
 }

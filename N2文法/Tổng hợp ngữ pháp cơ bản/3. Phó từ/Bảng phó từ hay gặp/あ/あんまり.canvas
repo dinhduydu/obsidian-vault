@@ -2,12 +2,14 @@
 	"nodes":[
 		{"id":"5646df54b10c99f5","type":"text","text":"あんまり","x":-53,"y":-24,"width":250,"height":60},
 		{"id":"ac1b910fedf24ac1","type":"text","text":"rất, lắm","x":378,"y":-154,"width":250,"height":60},
-		{"id":"dbeaa952c072bf76","x":820,"y":-214,"width":358,"height":60,"type":"text","text":"別れるなんてそれはあんまりだ。\nBạn thật quá đáng khi rời bỏ tôi"},
-		{"id":"8e6783d996117f72","x":-580,"y":-132,"width":294,"height":217,"type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md"}
+		{"id":"dbeaa952c072bf76","type":"text","text":"別れるなんてそれはあんまりだ。\nBạn thật quá đáng khi rời bỏ tôi","x":820,"y":-214,"width":358,"height":60},
+		{"id":"8e6783d996117f72","type":"file","file":"N2文法/Từ điển các dùng thông thường các từ và cụm từ/あ/あまり/あまり = N tính ngữ = tràn ngập, quá mức.md","x":-580,"y":-132,"width":294,"height":217},
+		{"id":"19abb106471f18a0","x":439,"y":200,"width":378,"height":178,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/あんまり.md"}
 	],
 	"edges":[
 		{"id":"e45d38b7e3ce456a","fromNode":"5646df54b10c99f5","fromSide":"right","toNode":"ac1b910fedf24ac1","toSide":"left"},
 		{"id":"250e01a5fea478c4","fromNode":"ac1b910fedf24ac1","fromSide":"right","toNode":"dbeaa952c072bf76","toSide":"left"},
-		{"id":"a5e80477284e89db","fromNode":"8e6783d996117f72","fromSide":"right","toNode":"5646df54b10c99f5","toSide":"left","label":"＋だ・です"}
+		{"id":"a5e80477284e89db","fromNode":"8e6783d996117f72","fromSide":"right","toNode":"5646df54b10c99f5","toSide":"left","label":"＋だ・です"},
+		{"id":"8b78c5629e4ad06d","fromNode":"5646df54b10c99f5","fromSide":"right","toNode":"19abb106471f18a0","toSide":"left","color":"4"}
 	]
 }

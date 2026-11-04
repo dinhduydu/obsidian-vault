@@ -2,8 +2,8 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 585
-- Total Knowledge Items: 5864
+- Total Reviews: 597
+- Total Knowledge Items: 5981
 - Correct: 3753
 - Wrong: 6155
 - Accuracy: 37.9%
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.6% (Correct 335 / Wrong 606)
+- Adverb: 36.2% (Correct 341 / Wrong 602)
 - Collocation: 34.6% (Correct 164 / Wrong 310)
-- CompoundVerb: 35.4% (Correct 173 / Wrong 316)
+- CompoundVerb: 35.7% (Correct 173 / Wrong 312)
 - Conjunction: 30.0% (Correct 94 / Wrong 219)
 - Demonstratives: 18.7% (Correct 23 / Wrong 100)
-- FixedExpression: 34.8% (Correct 201 / Wrong 377)
+- FixedExpression: 34.8% (Correct 201 / Wrong 376)
 - Grammar: 36.0% (Correct 876 / Wrong 1559)
-- Kanji: 45.4% (Correct 384 / Wrong 462)
+- Kanji: 44.8% (Correct 368 / Wrong 454)
 - Katakana: 37.6% (Correct 165 / Wrong 274)
 - Keigo: 27.8% (Correct 42 / Wrong 109)
-- Reading: 26.8% (Correct 132 / Wrong 360)
-- Vocabulary: 44.3% (Correct 1164 / Wrong 1463)
+- Reading: 26.6% (Correct 130 / Wrong 358)
+- Vocabulary: 44.2% (Correct 1176 / Wrong 1482)
 
 ## 📚 Top Grammar
 
@@ -87,13 +87,13 @@
 - [[]] (Score: 240)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[連続]] (Score: 45)
-- [[苦情]] (Score: 40)
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
 - [[消火器]] (Score: 40)
 - [[補う]] (Score: 35)
 - [[合理]] (Score: 35)
+- [[悔しい]] (Score: 35)
 
 ## 📚 Top Kanji
 
@@ -139,13 +139,13 @@
 - [[落ち込む]] (Score: 45)
 - [[思い出す]] (Score: 40)
 - [[取り組む]] (Score: 40)
-- [[打ち消す]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[目を通す]] (Score: 30)
 - [[言い表す]] (Score: 30)
 - [[思いつく]] (Score: 30)
-- [[引き受ける]] (Score: 30)
 - [[飛び上がる]] (Score: 30)
+- [[言いようがない]] (Score: 30)
+- [[やり抜く]] (Score: 30)
 
 ## 📚 Top FixedExpression
 
@@ -237,13 +237,13 @@
 - [[7. Phân Tích 021120265-2-3.pdf]]
 - [[8. Phân Tích 021120265-4-5.pdf]]
 - [[9. Phân Tích 021120265-6-7.pdf]]
-- [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 73]]
-- [[2. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P4)]]
-- [[3. Phân Tích N2 (CÁCH DÙNG ĐÚNG CỦA TỪ - P5)]]
-- [[4. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 20)]]
-- [[5. Phân Tích N2 (KIỂM TRA KIẾN THỨC NGỮ PHÁP - BÀI 16)]]
-- [[6. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
-- [[7. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 74]]
-- [[1. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 5]]
-- [[2. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 6-8]]
-- [[3. Phân Tích N2_LỚP BỔ TRỢ_TỪ VỰNG_BÀI 9-11]]
+- [[1. Phân Tích 8.1. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[10. Phân Tích 8.10. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[11. Phân Tích 8.11. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[2. Phân Tích 8.2. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[3. Phân Tích 8.3. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[4. Phân Tích 8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[5. Phân Tích 8.5. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[6. Phân Tích 8.6. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[7. Phân Tích 8.7. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
+- [[8. Phân Tích 8.8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
