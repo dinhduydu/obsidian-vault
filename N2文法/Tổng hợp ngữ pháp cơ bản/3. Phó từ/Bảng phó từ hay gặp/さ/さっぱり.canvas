@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"200f232903c19678","x":-169,"y":-22,"width":250,"height":60,"type":"text","text":"さっぱり"},
-		{"id":"07cfd41e05658850","x":201,"y":89,"width":250,"height":60,"type":"text","text":"kết quả tiêu cực"},
-		{"id":"19ad04ef3f7f002a","x":-169,"y":149,"width":250,"height":60,"type":"text","text":"まったく"}
+		{"id":"07cfd41e05658850","type":"text","text":"kết quả tiêu cực","x":201,"y":89,"width":250,"height":60},
+		{"id":"216017767f4d4f5d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/さっぱり.md","x":340,"y":-420,"width":267,"height":122},
+		{"id":"200f232903c19678","type":"text","text":"さっぱり","x":-220,"y":-240,"width":250,"height":60},
+		{"id":"19ad04ef3f7f002a","type":"text","text":"まったく","x":-220,"y":149,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"9ecd2d44a71d9013","fromNode":"200f232903c19678","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left"},
-		{"id":"d2319bf8cc0b1b9e","fromNode":"19ad04ef3f7f002a","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left"}
+		{"id":"9ecd2d44a71d9013","fromNode":"200f232903c19678","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left","label":"さっぱり〜ない (hoàn toàn không hiểu/biết)."},
+		{"id":"d2319bf8cc0b1b9e","fromNode":"19ad04ef3f7f002a","fromSide":"right","toNode":"07cfd41e05658850","toSide":"left"},
+		{"id":"c1d16db03e71d134","fromNode":"200f232903c19678","fromSide":"right","toNode":"216017767f4d4f5d","toSide":"left","label":"さっぱりする (sảng khoái)"}
 	]
 }
