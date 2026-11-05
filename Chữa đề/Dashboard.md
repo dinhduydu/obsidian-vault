@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 683
-- Total Knowledge Items: 6453
-- Correct: 3933
-- Wrong: 6506
-- Accuracy: 37.7%
+- Total Reviews: 691
+- Total Knowledge Items: 6508
+- Correct: 3966
+- Wrong: 6589
+- Accuracy: 37.6%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.7% (Correct 364 / Wrong 627)
-- Collocation: 33.5% (Correct 181 / Wrong 360)
-- CompoundVerb: 36.2% (Correct 184 / Wrong 324)
+- Adverb: 36.3% (Correct 365 / Wrong 640)
+- Collocation: 33.4% (Correct 195 / Wrong 389)
+- CompoundVerb: 36.3% (Correct 186 / Wrong 326)
 - Conjunction: 30.7% (Correct 99 / Wrong 224)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 35.4% (Correct 216 / Wrong 394)
-- Grammar: 35.8% (Correct 923 / Wrong 1652)
-- Kanji: 43.8% (Correct 364 / Wrong 467)
-- Katakana: 37.6% (Correct 171 / Wrong 284)
+- FixedExpression: 35.4% (Correct 216 / Wrong 395)
+- Grammar: 35.9% (Correct 924 / Wrong 1653)
+- Kanji: 43.8% (Correct 365 / Wrong 469)
+- Katakana: 37.3% (Correct 172 / Wrong 289)
 - Keigo: 29.6% (Correct 47 / Wrong 112)
 - Reading: 26.8% (Correct 132 / Wrong 361)
-- Vocabulary: 43.4% (Correct 1226 / Wrong 1596)
+- Vocabulary: 43.2% (Correct 1239 / Wrong 1626)
 
 ## 📚 Top Grammar
 
@@ -116,10 +116,10 @@
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
 - [[トラブル]] (Score: 35)
+- [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
 - [[レポート]] (Score: 30)
-- [[ステージ]] (Score: 30)
 
 ## 📚 Top Reading
 
