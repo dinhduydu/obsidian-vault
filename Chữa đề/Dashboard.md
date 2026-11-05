@@ -2,25 +2,25 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 653
-- Total Knowledge Items: 6343
-- Correct: 3847
-- Wrong: 6254
+- Total Reviews: 659
+- Total Knowledge Items: 6372
+- Correct: 3885
+- Wrong: 6306
 - Accuracy: 38.1%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 240| Wrong: 45
+- [[]] | Vocabulary| Score: 245| Wrong: 46
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 90| Wrong: 15
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜まい]] | Grammar| Score: 77| Wrong: 13
+- [[つまり]] | Conjunction| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜にすぎない]] | Grammar| Score: 75| Wrong: 12
-- [[つまり]] | Conjunction| Score: 70| Wrong: 11
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
@@ -33,19 +33,19 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 45
+- [[]] (Vocabulary) Wrong: 46
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 17
 - [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜にもかかわらず]] (Grammar) Wrong: 15
 - [[〜まい]] (Grammar) Wrong: 13
+- [[つまり]] (Conjunction) Wrong: 12
 - [[〜にほかならない]] (Grammar) Wrong: 12
 - [[〜ざるを得ない]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[〜にすぎない]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
-- [[つまり]] (Conjunction) Wrong: 11
 - [[〜がち]] (Grammar) Wrong: 11
 - [[この]] (Demonstratives) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.9% (Correct 355 / Wrong 606)
-- Collocation: 34.3% (Correct 167 / Wrong 320)
-- CompoundVerb: 36.6% (Correct 181 / Wrong 313)
-- Conjunction: 31.2% (Correct 99 / Wrong 218)
-- Demonstratives: 18.9% (Correct 24 / Wrong 103)
-- FixedExpression: 35.7% (Correct 210 / Wrong 379)
-- Grammar: 36.1% (Correct 900 / Wrong 1593)
-- Kanji: 43.9% (Correct 357 / Wrong 456)
-- Katakana: 38.3% (Correct 171 / Wrong 276)
-- Keigo: 29.7% (Correct 46 / Wrong 109)
-- Reading: 26.4% (Correct 129 / Wrong 360)
-- Vocabulary: 44.3% (Correct 1208 / Wrong 1521)
+- Adverb: 37.2% (Correct 360 / Wrong 609)
+- Collocation: 34.7% (Correct 174 / Wrong 328)
+- CompoundVerb: 37.0% (Correct 184 / Wrong 313)
+- Conjunction: 31.0% (Correct 99 / Wrong 220)
+- Demonstratives: 18.8% (Correct 24 / Wrong 104)
+- FixedExpression: 35.9% (Correct 214 / Wrong 382)
+- Grammar: 36.1% (Correct 907 / Wrong 1605)
+- Kanji: 44.3% (Correct 363 / Wrong 457)
+- Katakana: 38.0% (Correct 171 / Wrong 279)
+- Keigo: 29.5% (Correct 46 / Wrong 110)
+- Reading: 26.5% (Correct 130 / Wrong 360)
+- Vocabulary: 44.1% (Correct 1213 / Wrong 1539)
 
 ## 📚 Top Grammar
 
@@ -84,16 +84,16 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 240)
+- [[]] (Score: 245)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[連続]] (Score: 45)
+- [[悔しい]] (Score: 40)
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
 - [[消火器]] (Score: 40)
 - [[補う]] (Score: 35)
 - [[合理]] (Score: 35)
-- [[悔しい]] (Score: 35)
 
 ## 📚 Top Kanji
 
@@ -189,7 +189,7 @@
 ## 📚 Top Conjunction
 
 - [[したがって]] (Score: 85)
-- [[つまり]] (Score: 70)
+- [[つまり]] (Score: 75)
 - [[しかし]] (Score: 55)
 - [[そこで]] (Score: 55)
 - [[ところで]] (Score: 45)
@@ -221,9 +221,9 @@
 - [[こんな]] (Score: 45)
 - [[あんなに]] (Score: 45)
 - [[あの]] (Score: 35)
+- [[こうした]] (Score: 30)
 - [[ただ]] (Score: 30)
 - [[それが]] (Score: 25)
-- [[こうした]] (Score: 25)
 
 ## 📅 Recent Reviews
 

@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
+                "file": "Chữa đề/Learning_Profile/FixedExpression/存在感をアピールする.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt_Gen_DB3"
+              "title": "存在感をアピールする"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " 気になる",
+                "query": "アピール",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,34 +210,34 @@
       "decks:Decks": false
     }
   },
-  "active": "4f4211161a2d2235",
+  "active": "95ff684d05b1e9ee",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Collocation/気になる.md",
-    "Chữa đề/Learning_Profile/FixedExpression/気になる.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/17112025/2. Phân Tích 171125-4-5.pdf.md",
-    "Chữa đề/Learning_Profile/Collocation/文句を言う.md",
-    "Chữa đề/Learning_Profile/FixedExpression/文句を言う.md",
-    "Chữa đề/Learning_Profile/Collocation/文句を言う（もんくをいう）.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/4. Phân Tích N5230326-7-10.pdf.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/2. Phân Tích N2_BÀI TẬP NGỮ PHÁP_TEST 1.md",
-    "Chữa đề/Learning_Profile/Grammar/まるで〜かのような.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ようでは.md",
-    "Chữa đề/Learning_Profile/Adverb/そう簡単に.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/17112025/3. Phân Tích 171125-2-3.pdf.md",
-    "Chữa đề/Learning_Profile/Vocabulary/たとえる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/迷う.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/17112025/4. Phân Tích 171125-6.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/本当は.md",
-    "Chữa đề/Learning_Profile/Adverb/本当に.md",
-    "Chữa đề/Learning_Profile/Vocabulary/本当.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/17112025/1. Phân Tích N2_C2_BÀI TẬP NGỮ PHÁP_BÀI 19.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/1. Phân Tích N2_BÀI TẬP TỪ VỰNG_TEST 2.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/7. Phân Tích 181125-14-15.pdf.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/6. Phân Tích 181125-12-13.pdf.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB2.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/5. Phân Tích 181125-9-11.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week5/26102026/7. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 74.md",
+    "Chữa đề/Learning_Profile/FixedExpression/存在感をアピールする.md",
+    "Chữa đề/Learning_Profile/Katakana/アピール.md",
     "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/4. Phân Tích 181125-5-8.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/省略する.md",
+    "Chữa đề/Learning_Profile/Kanji/省略.md",
+    "Chữa đề/Learning_Profile/Vocabulary/省略.md",
+    "AI_Context/N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/3. Phân Tích 181125-2-4.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/15. Phân Tích 18.4. Động từ thường gặp trong đề thi JLPT N2.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜向けに.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/12. Phân Tích 181125_2-10-11.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜をきっかけに.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/6. Phân Tích 181125-12-13.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜をきっかけにして.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week5/27102026/5. Phân Tích 271020261-2-6.pdf.md",
+    "Chữa đề/Learning_Profile/Demonstratives/こうした.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/13. Phân Tích 181125_2-12-14.pdf.md",
+    "Chữa đề/Learning_Profile/Conjunction/つまり.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/17. Phân Tích N2_4_200326-10-13.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/声を耳にする.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/10. Phân Tích 181125_2-6-7.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/ぐるりを囲む.md",
+    "Chữa đề/Learning_Profile/Collocation/きっかけとなる.md",
+    "Chữa đề/Learning_Profile/Adverb/ひときわ.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/5. Phân Tích 181125-9-11.pdf.md",
     "N2文法/ところ・どころ/ところ/ところだ.canvas",
     "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
     "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
