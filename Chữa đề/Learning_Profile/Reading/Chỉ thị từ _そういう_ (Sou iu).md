@@ -17,6 +17,15 @@ Priority: Medium
 
 
 <!-- USER_START -->
+そういうわけにはいかない
 
+Demonstratives | そういう
+
+- **Meaning:** Như thế, loại như vậy (chỉ định từ bổ nghĩa cho danh từ / tính từ chỉ định).
+- **Trigger:** そういう + N (Ví dụ: そういう星, そういう経験).
+- **Contrast:** `どういう` (Loại như thế nào), `こういう` (Loại như thế này).
+- **One-line Summary:** Chỉ định từ dùng để bổ nghĩa cho danh từ, quy chiếu về tính chất hoặc sự việc vừa được đề cập trước đó.
+- **Usage:** Đứng trực tiếp trước danh từ để bổ nghĩa, thể hiện loại hình hay tính chất đã được nhắc đến.
+- **Example:** 夜空を眺めていると、そういう美しい星々が目に飛び込んでくる。(Khi ngắm nhìn bầu trời đêm, những ngôi sao đẹp đẽ như thế sẽ đập vào mắt.)
 
 <!-- USER_END -->

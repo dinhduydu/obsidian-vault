@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f4211161a2d2235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/Learning_Profile/FixedExpression/気にする.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "気にする"
-            }
-          },
-          {
             "id": "95ff684d05b1e9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/Learning_Profile/FixedExpression/存在感をアピールする.md",
+                "file": "Chữa đề/Learning_Profile/Collocation/食べごろを逃す.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "存在感をアピールする"
+              "title": "食べごろを逃す"
+            }
+          },
+          {
+            "id": "599b920184f289e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/Learning_Profile/Collocation/気をとられる.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "気をとられる"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "アピール",
+                "query": "気をとられる",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,34 +210,37 @@
       "decks:Decks": false
     }
   },
-  "active": "95ff684d05b1e9ee",
+  "active": "599b920184f289e2",
   "lastOpenFiles": [
-    "Chữa đề/２０２６年/１０月２０２６年/Week5/26102026/7. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 74.md",
-    "Chữa đề/Learning_Profile/FixedExpression/存在感をアピールする.md",
-    "Chữa đề/Learning_Profile/Katakana/アピール.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/4. Phân Tích 181125-5-8.pdf.md",
-    "Chữa đề/Learning_Profile/Vocabulary/省略する.md",
-    "Chữa đề/Learning_Profile/Kanji/省略.md",
-    "Chữa đề/Learning_Profile/Vocabulary/省略.md",
-    "AI_Context/N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/3. Phân Tích 181125-2-4.pdf.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/15. Phân Tích 18.4. Động từ thường gặp trong đề thi JLPT N2.pdf.md",
-    "Chữa đề/Learning_Profile/Grammar/〜向けに.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/12. Phân Tích 181125_2-10-11.pdf.md",
-    "Chữa đề/Learning_Profile/Grammar/〜をきっかけに.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/6. Phân Tích 181125-12-13.pdf.md",
-    "Chữa đề/Learning_Profile/Grammar/〜をきっかけにして.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week5/27102026/5. Phân Tích 271020261-2-6.pdf.md",
-    "Chữa đề/Learning_Profile/Demonstratives/こうした.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/13. Phân Tích 181125_2-12-14.pdf.md",
-    "Chữa đề/Learning_Profile/Conjunction/つまり.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/19112025/6. Phân Tích 191125-13-14.pdf.md",
+    "Chữa đề/Learning_Profile/Collocation/気をとられる.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/22122025/4. Phân Tích 221225-6-7.pdf.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/4. Phân Tích 241125-4-6.pdf.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/5. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week2/10102026/2. Phân Tích Bài Làm Tiếng Nhật N2 (Source 101020262.pdf).md",
+    "Chữa đề/Learning_Profile/Grammar/〜につれ.md",
+    "Chữa đề/Learning_Profile/Adverb/そういう.md",
+    "Chữa đề/Learning_Profile/Demonstratives/これが.md",
+    "Chữa đề/Learning_Profile/FixedExpression/どうりで〜わけだ.md",
+    "Chữa đề/Learning_Profile/Adverb/どうりで.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/17. Phân Tích N2_4_200326-10-13.pdf.md",
-    "Chữa đề/Learning_Profile/Collocation/声を耳にする.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/10. Phân Tích 181125_2-6-7.pdf.md",
-    "Chữa đề/Learning_Profile/Collocation/ぐるりを囲む.md",
-    "Chữa đề/Learning_Profile/Collocation/きっかけとなる.md",
-    "Chữa đề/Learning_Profile/Adverb/ひときわ.md",
-    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/5. Phân Tích 181125-9-11.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/4. Phân Tích N2_9-11-13.pdf.md",
+    "N2文法/はず・わけ/わけ/わけにはいかない.canvas",
+    "Chữa đề/Learning_Profile/Reading/Chỉ thị từ _そういう_ (Sou iu).md",
+    "N2文法/ない・いう・しまう/ない.md",
+    "Chữa đề/２０２６年/０７月２０２６年/Week2/06072026/2. Đáp án JLPT tháng 7 2026.md",
+    "Chữa đề/Learning_Profile/Adverb/真に.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/24112025/3. Phân Tích 241125-2-3.pdf.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026/2.1. Phân Tích N2_LỚP BỔ TRỢ_NGỮ PHÁP_BÀI 41..md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/23062026/3. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week5/26102026/3. N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.canvas",
+    "Chữa đề/Learning_Profile/Collocation/食べごろを逃す.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week4/25062026/1. Phân Tích N2_NGÀY 18_ÔN TẬP NGỮ PHÁP CƠ BẢN P1.md",
+    "Chữa đề/Learning_Profile/Collocation/驚かせてやる.md",
+    "Chữa đề/Learning_Profile/Conjunction/および.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/19112025/3. Phân Tích 191125-4-5.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/姉妹.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week4/22112025",
     "N2文法/ところ・どころ/ところ/ところだ.canvas",
     "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
     "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
@@ -246,8 +249,6 @@
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/泌 - Bí.canvas",
     "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/眠 - Miên.canvas",
     "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/拠 - Cứ.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/浅 - Thiển.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/処 - Xử.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/05112026",
     "Pasted image 20261104192044.png",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/7. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2",
@@ -266,7 +267,6 @@
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/19. Tính từ hay gặp N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/18. Động từ thường gặp trong đề thi JLPT N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026"
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec"
   ]
 }
