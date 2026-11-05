@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"d1d41abfc0f6148c","x":-108,"y":-22,"width":250,"height":60,"type":"text","text":"巻 - Quyển"},
-		{"id":"cf1a4787d58b0d34","x":-400,"y":-200,"width":110,"height":100,"type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Quyển　「龹」/Quyển　「龹」.canvas"},
-		{"id":"45e6bbe9660e9a1f","x":-466,"y":60,"width":176,"height":176,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas"}
+		{"id":"d1d41abfc0f6148c","type":"text","text":"巻 - Quyển","x":-108,"y":-22,"width":248,"height":60},
+		{"id":"cf1a4787d58b0d34","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Quyển　「龹」/Quyển　「龹」.canvas","x":-400,"y":-200,"width":110,"height":100},
+		{"id":"45e6bbe9660e9a1f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「己」/Kỷ　「己」.canvas","x":-466,"y":60,"width":176,"height":176},
+		{"id":"ed4280746abd33ab","x":320,"y":-240,"width":286,"height":124,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/巻く.md"},
+		{"id":"40332a66c8d453a1","x":320,"y":-680,"width":271,"height":120,"type":"file","file":"N2漢字/Tiền tố, hậu tố/接尾辞/Page 6/巻 - Quyền.canvas"},
+		{"id":"0b2dd51ef0dd44a9","x":880,"y":-368,"width":341,"height":128,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り巻く.md"}
 	],
 	"edges":[
 		{"id":"809ed993e5671f7f","fromNode":"cf1a4787d58b0d34","fromSide":"right","toNode":"d1d41abfc0f6148c","toSide":"left"},
-		{"id":"427a40dfa1822f14","fromNode":"45e6bbe9660e9a1f","fromSide":"right","toNode":"d1d41abfc0f6148c","toSide":"left"}
+		{"id":"427a40dfa1822f14","fromNode":"45e6bbe9660e9a1f","fromSide":"right","toNode":"d1d41abfc0f6148c","toSide":"left"},
+		{"id":"4c3e68cbb5b4e78e","fromNode":"d1d41abfc0f6148c","fromSide":"right","toNode":"ed4280746abd33ab","toSide":"left"},
+		{"id":"31a6410ec4ad885d","fromNode":"d1d41abfc0f6148c","fromSide":"right","toNode":"40332a66c8d453a1","toSide":"left"},
+		{"id":"f2f768f260b3ddb2","fromNode":"ed4280746abd33ab","fromSide":"right","toNode":"0b2dd51ef0dd44a9","toSide":"left"}
 	]
 }

@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 691
-- Total Knowledge Items: 6508
-- Correct: 3966
-- Wrong: 6589
+- Total Reviews: 694
+- Total Knowledge Items: 6530
+- Correct: 3981
+- Wrong: 6608
 - Accuracy: 37.6%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.3% (Correct 365 / Wrong 640)
-- Collocation: 33.4% (Correct 195 / Wrong 389)
-- CompoundVerb: 36.3% (Correct 186 / Wrong 326)
+- Adverb: 36.2% (Correct 365 / Wrong 642)
+- Collocation: 33.7% (Correct 198 / Wrong 389)
+- CompoundVerb: 36.6% (Correct 188 / Wrong 326)
 - Conjunction: 30.7% (Correct 99 / Wrong 224)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 35.4% (Correct 216 / Wrong 395)
-- Grammar: 35.9% (Correct 924 / Wrong 1653)
-- Kanji: 43.8% (Correct 365 / Wrong 469)
+- FixedExpression: 35.2% (Correct 217 / Wrong 399)
+- Grammar: 35.9% (Correct 926 / Wrong 1652)
+- Kanji: 43.9% (Correct 365 / Wrong 467)
 - Katakana: 37.3% (Correct 172 / Wrong 289)
-- Keigo: 29.6% (Correct 47 / Wrong 112)
-- Reading: 26.8% (Correct 132 / Wrong 361)
-- Vocabulary: 43.2% (Correct 1239 / Wrong 1626)
+- Keigo: 29.4% (Correct 47 / Wrong 113)
+- Reading: 26.8% (Correct 133 / Wrong 363)
+- Vocabulary: 43.2% (Correct 1245 / Wrong 1639)
 
 ## 📚 Top Grammar
 
@@ -156,9 +156,9 @@
 - [[お忙しいところを]] (Score: 30)
 - [[もってのほかだ]] (Score: 30)
 - [[足を運ぶ]] (Score: 30)
+- [[〜はもちろん]] (Score: 25)
 - [[気がすまない]] (Score: 25)
 - [[いつ倒産してもおかしくない]] (Score: 25)
-- [[体調を崩さないように]] (Score: 25)
 
 ## 📚 Top Collocation
 
