@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 645
-- Total Knowledge Items: 6334
-- Correct: 3845
-- Wrong: 6233
-- Accuracy: 38.2%
+- Total Reviews: 653
+- Total Knowledge Items: 6343
+- Correct: 3847
+- Wrong: 6254
+- Accuracy: 38.1%
 
 ## 🚨 Review Queue
 
@@ -15,13 +15,13 @@
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 90| Wrong: 15
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
+- [[〜まい]] | Grammar| Score: 77| Wrong: 13
+- [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
 - [[〜にすぎない]] | Grammar| Score: 75| Wrong: 12
-- [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[つまり]] | Conjunction| Score: 70| Wrong: 11
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
-- [[〜ようがない]] | Grammar| Score: 70| Wrong: 14
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
 - [[この]] | Demonstratives| Score: 62| Wrong: 10
@@ -37,11 +37,11 @@
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 17
+- [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜にもかかわらず]] (Grammar) Wrong: 15
-- [[〜ようがない]] (Grammar) Wrong: 14
+- [[〜まい]] (Grammar) Wrong: 13
 - [[〜にほかならない]] (Grammar) Wrong: 12
 - [[〜ざるを得ない]] (Grammar) Wrong: 12
-- [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
 - [[〜にすぎない]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
@@ -52,32 +52,32 @@
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[つい]] (Adverb) Wrong: 9
-- [[〜つつある]] (Grammar) Wrong: 9
+- [[結局]] (Kanji) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 37.0% (Correct 355 / Wrong 604)
-- Collocation: 34.5% (Correct 167 / Wrong 317)
+- Adverb: 36.9% (Correct 355 / Wrong 606)
+- Collocation: 34.3% (Correct 167 / Wrong 320)
 - CompoundVerb: 36.6% (Correct 181 / Wrong 313)
 - Conjunction: 31.2% (Correct 99 / Wrong 218)
 - Demonstratives: 18.9% (Correct 24 / Wrong 103)
-- FixedExpression: 35.6% (Correct 209 / Wrong 378)
-- Grammar: 36.2% (Correct 899 / Wrong 1584)
-- Kanji: 44.0% (Correct 357 / Wrong 454)
-- Katakana: 38.3% (Correct 171 / Wrong 275)
+- FixedExpression: 35.7% (Correct 210 / Wrong 379)
+- Grammar: 36.1% (Correct 900 / Wrong 1593)
+- Kanji: 43.9% (Correct 357 / Wrong 456)
+- Katakana: 38.3% (Correct 171 / Wrong 276)
 - Keigo: 29.7% (Correct 46 / Wrong 109)
 - Reading: 26.4% (Correct 129 / Wrong 360)
-- Vocabulary: 44.3% (Correct 1208 / Wrong 1518)
+- Vocabulary: 44.3% (Correct 1208 / Wrong 1521)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 90)
+- [[〜まい]] (Score: 77)
+- [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
 - [[〜にすぎない]] (Score: 75)
-- [[〜まい]] (Score: 72)
 - [[〜がち]] (Score: 70)
-- [[〜ようがない]] (Score: 70)
 - [[〜とは限らない]] (Score: 65)
 - [[〜ものの]] (Score: 65)
 - [[〜ざるを得ない]] (Score: 60)
@@ -97,7 +97,7 @@
 
 ## 📚 Top Kanji
 
-- [[結局]] (Score: 40)
+- [[結局]] (Score: 45)
 - [[評価]] (Score: 40)
 - [[一層]] (Score: 40)
 - [[行方]] (Score: 35)
@@ -164,9 +164,9 @@
 
 - [[専門用語]] (Score: 40)
 - [[身が引き締まる思い]] (Score: 35)
+- [[文句を言う]] (Score: 35)
 - [[補助動詞]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
-- [[文句を言う]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
 - [[油田を開発する (ゆでんをかいはつする)]] (Score: 25)
 - [[日記帳]] (Score: 25)
