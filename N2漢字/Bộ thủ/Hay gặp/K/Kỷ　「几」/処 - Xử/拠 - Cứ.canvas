@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"463e06d4bcccd01c","x":-98,"y":-51,"width":250,"height":60,"type":"text","text":"拠 - Cứ"},
-		{"id":"1f6d2fc38f191a47","x":-420,"y":-300,"width":125,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/処 - Xử.canvas"},
-		{"id":"eb54c66979b83a33","x":-600,"y":-119,"width":136,"height":197,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas"}
+		{"id":"463e06d4bcccd01c","type":"text","text":"拠 - Cứ","x":-98,"y":-51,"width":258,"height":60},
+		{"id":"1f6d2fc38f191a47","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/処 - Xử.canvas","x":-420,"y":-300,"width":125,"height":133},
+		{"id":"eb54c66979b83a33","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「手 (扌) 」/Thủ　「扌」/Thủ　「扌」.canvas","x":-600,"y":-119,"width":136,"height":197},
+		{"id":"ad8110ec91ed55f9","type":"file","file":"Chữa đề/Learning_Profile/Kanji/根拠.md","x":360,"y":-602,"width":300,"height":143},
+		{"id":"f7e12d933eafa178","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/根拠のない.md","x":880,"y":-800,"width":300,"height":140},
+		{"id":"c009580bea1463dd","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/証拠.md","x":660,"y":-248,"width":268,"height":162}
 	],
 	"edges":[
 		{"id":"32093f12637be6da","fromNode":"1f6d2fc38f191a47","fromSide":"right","toNode":"463e06d4bcccd01c","toSide":"left"},
-		{"id":"a6f86299b6653d1f","fromNode":"eb54c66979b83a33","fromSide":"right","toNode":"463e06d4bcccd01c","toSide":"left"}
+		{"id":"a6f86299b6653d1f","fromNode":"eb54c66979b83a33","fromSide":"right","toNode":"463e06d4bcccd01c","toSide":"left"},
+		{"id":"82fdf8177f6ad065","fromNode":"ad8110ec91ed55f9","fromSide":"right","toNode":"f7e12d933eafa178","toSide":"left"},
+		{"id":"57528fe2ed1f853f","fromNode":"463e06d4bcccd01c","fromSide":"right","toNode":"ad8110ec91ed55f9","toSide":"left","color":"6","label":"căn cứ."},
+		{"id":"141b8b92b7d6533b","fromNode":"463e06d4bcccd01c","fromSide":"right","toNode":"c009580bea1463dd","toSide":"left","color":"6","label":"Evidence, proof (Bằng chứng, chứng cứ)."}
 	]
 }

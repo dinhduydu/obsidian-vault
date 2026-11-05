@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"cdbed3941ef4b525","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"浅 - Thiển"},
-		{"id":"4f8396b478279b24","x":-480,"y":100,"width":184,"height":175,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/戋 - Tiên.canvas"},
-		{"id":"2adf34306a9f41b6","x":-474,"y":-220,"width":178,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"cdbed3941ef4b525","type":"text","text":"浅 - Thiển","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"4f8396b478279b24","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/戋 - Tiên.canvas","x":-480,"y":100,"width":184,"height":175},
+		{"id":"2adf34306a9f41b6","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-474,"y":-220,"width":178,"height":157},
+		{"id":"20a291382954191a","x":420,"y":-320,"width":322,"height":143,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/浅い.md"}
 	],
 	"edges":[
 		{"id":"de10663106704d7c","fromNode":"4f8396b478279b24","fromSide":"right","toNode":"cdbed3941ef4b525","toSide":"left"},
-		{"id":"b26fc73d3a101dd7","fromNode":"2adf34306a9f41b6","fromSide":"right","toNode":"cdbed3941ef4b525","toSide":"left"}
+		{"id":"b26fc73d3a101dd7","fromNode":"2adf34306a9f41b6","fromSide":"right","toNode":"cdbed3941ef4b525","toSide":"left"},
+		{"id":"8f9bb82cb00b3bda","fromNode":"cdbed3941ef4b525","fromSide":"right","toNode":"20a291382954191a","toSide":"left","label":"Shallow, superficial, slight (Nông, hời hợt, cạn)."}
 	]
 }

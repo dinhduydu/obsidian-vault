@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/25. Phân Tích 23. Từ vựng N1 mỗi ngày.pdf.md",
+                "file": "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/1. Phân Tích N2_1_2026-1-7-1-5.pdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25. Phân Tích 23. Từ vựng N1 mỗi ngày.pdf"
+              "title": "1. Phân Tích N2_1_2026-1-7-1-5.pdf"
+            }
+          },
+          {
+            "id": "46bb837cffebf5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/Learning_Profile/Conjunction/それにしては.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "それにしては"
+            }
+          },
+          {
+            "id": "95ff684d05b1e9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chữa đề/Learning_Profile/Conjunction/それに対して.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "それに対して"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -44,7 +73,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "気配がする (けはいがする)"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -56,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "誤認",
+                "query": "それに",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,8 +126,7 @@
               "title": "うえは"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,45 +223,46 @@
       "decks:Decks": false
     }
   },
-  "active": "4f4211161a2d2235",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Vocabulary/誤認.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026/0. Link bài tập.md",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thủ/Thủ　「𠂇」/友 - Hữu/抜 - Bạt.canvas",
-    "Chữa đề/Learning_Profile/Grammar/〜抜きで.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week5/30102026/4. Phân Tích Bài kiểm tra Ngữ pháp & Điền từ JLPT N2.md",
-    "Chữa đề/Learning_Profile/FixedExpression/息抜き.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week2/11102026/10. Phân Tích N2. TỪ VỰNG N2 NHẤT ĐỊNH CẦN PHẢI NHỚ-21-25.pdf.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/見抜く.md",
-    "Chữa đề/Learning_Profile/Grammar/〜抜く.md",
-    "N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 12/反 - Phản.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/13. Phân Tích N2_11-9-12.pdf.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/24. Phân Tích 22. Từ vựng N1 mỗi ngày.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/めったに.md",
-    "N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week6/５日目：めったに行かない/めったにない.canvas",
-    "Chữa đề/Learning_Profile/Vocabulary/めっきり.md",
-    "Chữa đề/Learning_Profile/Adverb/めっきり.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/27. Phân Tích 24.2. Từ tượng thanh N1 N2.pdf.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/26. Phân Tích 24.1. TỪ TƯỢNG THANH hay N1–N2.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/まざまざ.md",
-    "Chữa đề/Learning_Profile/Adverb/つくづく.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/28. Phân Tích 24.3. Từ tượng thanh N1 N2.pdf.md",
-    "Chữa đề/Learning_Profile/Adverb/のそのそ.md",
-    "Chữa đề/Learning_Profile/Adverb/てっきり.md",
-    "Chữa đề/Learning_Profile/Adverb/つらつら.md",
-    "Chữa đề/Learning_Profile/Adverb/しぶしぶ.md",
-    "Chữa đề/Learning_Profile/Adverb/ずばり.md",
-    "Chữa đề/Learning_Profile/Vocabulary/防ぐ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/備わる.md",
-    "Chữa đề/Learning_Profile/Vocabulary/及ぶ.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/16. Phân Tích N2_4_200326-6-9.pdf.md",
+    "Chữa đề/Learning_Profile/Conjunction/それに対して.md",
+    "Chữa đề/Learning_Profile/Conjunction/それにしても.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week2/10022026/1. Phân Tích TỪ NỐI_BÀI 1.md",
+    "Chữa đề/Learning_Profile/Conjunction/それにしては.md",
+    "Chữa đề/２０２６年/０２月２０２６年/Week4/25022026/2. Phân Tích TỪ NỐI_BÀI 2.md",
+    "Chữa đề/Learning_Profile/Conjunction/それに.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week1/03112025/14. Phân Tích 3 câu bài tập Sắp xếp câu ★ từ Câu 18 đến Câu 20 và Câu 21 thuộc bài đọc điền đoạn văn Problem 3.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/怒り出す.md",
+    "Chữa đề/Learning_Profile/Adverb/いきなり.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/7. Phân Tích 8.7. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/02112026/16. Phân Tích N2 Từ vựng & Cách dùng từ - 用法 & Từ đồng nghĩa.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/14062026/4. Phân Tích Kết Quả Luyện Thi JLPT N2 - Đọc Hiểu Trung Văn (Bài 47).md",
+    "Chữa đề/Learning_Profile/Conjunction/したがって.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/02112026/14. Phân Tích N2_TEST Từ vựng & Hán tự (021120266-8-9.pdf).md",
+    "Chữa đề/Learning_Profile/Grammar/～にしたがって.md",
+    "Chữa đề/Learning_Profile/Grammar/〜にしたがって.md",
+    "Chữa đề/Learning_Profile/Grammar/〜したがって.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week2/11102026/4. Phân Tích Bài Làm Tiếng Nhật N2 (Nhiệm Vụ Ngữ Pháp & Kính Ngữ Đọc Hiểu - Source 111020262-11-14.pdf).md",
+    "Chữa đề/２０２６年/０５月２０２６年/Week2/11052026/5. Phân Tích Kết Quả N2_ĐỌC HIỂU DÀI_BÀI 20.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/9. Phân Tích N2_10-11-14.pdf.md",
+    "Chữa đề/Learning_Profile/Conjunction/それゆえに.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.1-4/1. Phân Tích N2_1_2026-1-7-1-5.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/02112026/15. Phân Tích N2 Từ vựng Đồng nghĩa.md",
+    "Chữa đề/Learning_Profile/CompoundVerb/つけてくる.md",
+    "Chữa đề/Learning_Profile/Adverb/早くから.md",
+    "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
+    "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
+    "N2語彙/Từ đồng nghĩa/Thời gian, tần suất, tiến trình/⏱️ PHÂN NHÓM 1 - THỜI GIAN, TẦN SUẤT & TIẾN TRÌNH.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 89.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/う/うっかり.canvas",
-    "N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Chi　「支 」/岐 - Kì.canvas",
+    "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/泌 - Bí.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/T/Thị/Thị　「氏」/眠 - Miên.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/拠 - Cứ.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/Q/Qua　「戈」/戋 - Tiên/浅 - Thiển.canvas",
+    "N2漢字/Bộ thủ/Hay gặp/K/Kỷ　「几」/処 - Xử/処 - Xử.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/N2_LỚP BỔ TRỢ_ĐỌC HIỂU_BÀI 9.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/05112026",
     "Pasted image 20261104192044.png",
-    "N2漢字/Tiền tố, hậu tố/接頭辞/Page 4/旧 - Cựu.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/N/Ngưu Đặc　「牛」/制 - Chế/制 - Chế.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/K/Khuyển/Khuyển　「犭」/狂 - Cuồng.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/7. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/8. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc",
@@ -251,7 +280,6 @@
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/18. Động từ thường gặp trong đề thi JLPT N2",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026"
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026"
   ]
 }

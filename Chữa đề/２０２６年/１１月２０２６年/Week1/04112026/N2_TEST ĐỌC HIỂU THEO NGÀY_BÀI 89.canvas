@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"54843ad33d8598e8","x":-560,"y":-300,"width":900,"height":260,"type":"text","text":"昔から「寝る子は育つ」とよく言います。この格言には、科学的な根拠があります。「寝る子は育つ」のは、成長ホルモンの関係からです。夜、眠っているとき、浅いノンレム睡眠（注1）と深いレム睡眠（注2）が交互にやってきますが、成長ホルモンが多く分泌されるのが、最初と二回目の深いレム睡眠のときです。深い睡眠によって、成長ホルモンがよく分泌されれば、疲労回復に効果があるのはもちろん、成長期にある子供は、スクスクと成長していくことができます。\n\n（注1）ノンレム睡眠：レム睡眠以外の、睡眠の状態\n\n（注2）レム睡眠：最も深い睡眠状態"},
-		{"id":"d752404f0c5a1a00","x":-392,"y":80,"width":565,"height":230,"type":"text","text":"筆者によれば、「寝る子は育つ」のはなぜか。\n\n*\n1 điểm\n１ 寝ることで疲れが解消でき、子供の成長に役立つから\n２ 熟睡しているときに成長ホルモンが分泌されるから\n３ 子供は浅いレム睡眠と深いノンレム睡眠の交替で成長できるから\n４ ノンレム睡眠の時に分泌されるホルモンは子供の体にいいから"}
+		{"id":"54843ad33d8598e8","type":"text","text":"昔から「寝る子は育つ」とよく言います。この格言には、科学的な根拠があります。「寝る子は育つ」のは、成長ホルモンの関係からです。夜、眠っているとき、浅いノンレム睡眠（注1）と深いレム睡眠（注2）が交互にやってきますが、成長ホルモンが多く分泌されるのが、最初と二回目の深いレム睡眠のときです。深い睡眠によって、成長ホルモンがよく分泌されれば、疲労回復に効果があるのはもちろん、成長期にある子供は、スクスクと成長していくことができます。\n\n（注1）ノンレム睡眠：レム睡眠以外の、睡眠の状態\n\n（注2）レム睡眠：最も深い睡眠状態","x":-560,"y":-300,"width":900,"height":260},
+		{"id":"d752404f0c5a1a00","type":"text","text":"筆者によれば、「寝る子は育つ」のはなぜか。\n\n*\n1 điểm\n１ 寝ることで疲れが解消でき、子供の成長に役立つから\n２ 熟睡しているときに成長ホルモンが分泌されるから\n３ 子供は浅いレム睡眠と深いノンレム睡眠の交替で成長できるから\n４ ノンレム睡眠の時に分泌されるホルモンは子供の体にいいから","x":-392,"y":80,"width":565,"height":230},
+		{"id":"ba8e486aa1d174cb","type":"file","file":"Chữa đề/Learning_Profile/Kanji/根拠.md","x":-480,"y":-640,"width":239,"height":181},
+		{"id":"aaa0d718cf92cca5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/睡眠障害.md","x":-1020,"y":-350,"width":180,"height":100},
+		{"id":"ced24d0b6195e0b1","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/浅い.md","x":-1105,"y":-170,"width":265,"height":141},
+		{"id":"78cad9628b75014e","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「ノ」/必 - Tất/泌 - Bí.canvas","x":-1090,"y":100,"width":250,"height":80}
 	],
 	"edges":[
-		{"id":"a0f78bbfd75182f8","fromNode":"54843ad33d8598e8","fromSide":"bottom","toNode":"d752404f0c5a1a00","toSide":"top"}
+		{"id":"a0f78bbfd75182f8","fromNode":"54843ad33d8598e8","fromSide":"bottom","toNode":"d752404f0c5a1a00","toSide":"top"},
+		{"id":"7b96cc75c39bfc00","fromNode":"ba8e486aa1d174cb","fromSide":"right","toNode":"54843ad33d8598e8","toSide":"top","label":"căn cứ."},
+		{"id":"85ffa9fcc57c989c","fromNode":"aaa0d718cf92cca5","fromSide":"right","toNode":"54843ad33d8598e8","toSide":"left","label":"giấc ngủ"},
+		{"id":"cb2e8df84a97566d","fromNode":"ced24d0b6195e0b1","fromSide":"right","toNode":"54843ad33d8598e8","toSide":"left"},
+		{"id":"1bfe590e15c1b18d","fromNode":"78cad9628b75014e","fromSide":"right","toNode":"54843ad33d8598e8","toSide":"left"}
 	]
 }

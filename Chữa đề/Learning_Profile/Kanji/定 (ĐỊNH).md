@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 定 (ĐỊNH)
+
+Category: Kanji
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: Medium
+Priority: High
+
+## Related Reviews
+
+- [[14. Phân Tích N2_TEST Từ vựng & Hán tự (021120266-8-9.pdf)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

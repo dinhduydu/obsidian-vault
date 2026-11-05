@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 631
-- Total Knowledge Items: 6268
-- Correct: 3757
-- Wrong: 6161
-- Accuracy: 37.9%
+- Total Reviews: 645
+- Total Knowledge Items: 6334
+- Correct: 3845
+- Wrong: 6233
+- Accuracy: 38.2%
 
 ## 🚨 Review Queue
 
@@ -17,19 +17,19 @@
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜からといって]] | Grammar| Score: 75| Wrong: 12
+- [[〜にすぎない]] | Grammar| Score: 75| Wrong: 12
 - [[〜まい]] | Grammar| Score: 72| Wrong: 12
 - [[つまり]] | Conjunction| Score: 70| Wrong: 11
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
-- [[〜にすぎない]] | Grammar| Score: 70| Wrong: 11
-- [[〜ようがない]] | Grammar| Score: 65| Wrong: 13
+- [[〜ようがない]] | Grammar| Score: 70| Wrong: 14
 - [[〜とは限らない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ものの]] | Grammar| Score: 65| Wrong: 10
+- [[この]] | Demonstratives| Score: 62| Wrong: 10
 - [[つい]] | Adverb| Score: 60| Wrong: 9
+- [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 12
 - [[〜がたい]] | Grammar| Score: 60| Wrong: 9
 - [[〜どころか]] | Grammar| Score: 60| Wrong: 9
 - [[〜あまり]] | Grammar| Score: 60| Wrong: 9
-- [[しかし]] | Conjunction| Score: 55| Wrong: 11
-- [[すっかり]] | Adverb| Score: 55| Wrong: 8
 
 ## 🔥 Top Weak Points
 
@@ -38,49 +38,49 @@
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 17
 - [[〜にもかかわらず]] (Grammar) Wrong: 15
-- [[〜ようがない]] (Grammar) Wrong: 13
+- [[〜ようがない]] (Grammar) Wrong: 14
 - [[〜にほかならない]] (Grammar) Wrong: 12
+- [[〜ざるを得ない]] (Grammar) Wrong: 12
 - [[〜まい]] (Grammar) Wrong: 12
 - [[〜からといって]] (Grammar) Wrong: 12
+- [[〜にすぎない]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
 - [[つまり]] (Conjunction) Wrong: 11
 - [[〜がち]] (Grammar) Wrong: 11
-- [[〜にすぎない]] (Grammar) Wrong: 11
+- [[この]] (Demonstratives) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
-- [[〜ざるを得ない]] (Grammar) Wrong: 10
 - [[〜とは限らない]] (Grammar) Wrong: 10
 - [[〜ものの]] (Grammar) Wrong: 10
 - [[つい]] (Adverb) Wrong: 9
-- [[この]] (Demonstratives) Wrong: 9
-- [[〜がたい]] (Grammar) Wrong: 9
+- [[〜つつある]] (Grammar) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 36.4% (Correct 345 / Wrong 602)
-- Collocation: 34.6% (Correct 164 / Wrong 310)
-- CompoundVerb: 35.5% (Correct 173 / Wrong 315)
-- Conjunction: 29.9% (Correct 93 / Wrong 218)
-- Demonstratives: 18.7% (Correct 23 / Wrong 100)
-- FixedExpression: 34.8% (Correct 201 / Wrong 376)
-- Grammar: 36.0% (Correct 876 / Wrong 1559)
-- Kanji: 44.3% (Correct 355 / Wrong 446)
-- Katakana: 37.6% (Correct 165 / Wrong 274)
-- Keigo: 27.8% (Correct 42 / Wrong 109)
-- Reading: 26.2% (Correct 127 / Wrong 357)
-- Vocabulary: 44.4% (Correct 1193 / Wrong 1495)
+- Adverb: 37.0% (Correct 355 / Wrong 604)
+- Collocation: 34.5% (Correct 167 / Wrong 317)
+- CompoundVerb: 36.6% (Correct 181 / Wrong 313)
+- Conjunction: 31.2% (Correct 99 / Wrong 218)
+- Demonstratives: 18.9% (Correct 24 / Wrong 103)
+- FixedExpression: 35.6% (Correct 209 / Wrong 378)
+- Grammar: 36.2% (Correct 899 / Wrong 1584)
+- Kanji: 44.0% (Correct 357 / Wrong 454)
+- Katakana: 38.3% (Correct 171 / Wrong 275)
+- Keigo: 29.7% (Correct 46 / Wrong 109)
+- Reading: 26.4% (Correct 129 / Wrong 360)
+- Vocabulary: 44.3% (Correct 1208 / Wrong 1518)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 90)
 - [[〜にほかならない]] (Score: 75)
 - [[〜からといって]] (Score: 75)
+- [[〜にすぎない]] (Score: 75)
 - [[〜まい]] (Score: 72)
 - [[〜がち]] (Score: 70)
-- [[〜にすぎない]] (Score: 70)
-- [[〜ようがない]] (Score: 65)
+- [[〜ようがない]] (Score: 70)
 - [[〜とは限らない]] (Score: 65)
 - [[〜ものの]] (Score: 65)
-- [[〜がたい]] (Score: 60)
+- [[〜ざるを得ない]] (Score: 60)
 
 ## 📚 Top Vocabulary
 
@@ -168,10 +168,10 @@
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[文句を言う]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
+- [[油田を開発する (ゆでんをかいはつする)]] (Score: 25)
 - [[日記帳]] (Score: 25)
 - [[深夜営業]] (Score: 25)
 - [[開会式が行われる]] (Score: 25)
-- [[サービスを拡充する]] (Score: 25)
 
 ## 📚 Top Adverb
 
@@ -214,12 +214,12 @@
 
 ## 📚 Top Demonstratives
 
+- [[この]] (Score: 62)
 - [[その]] (Score: 50)
 - [[あれこれ]] (Score: 50)
-- [[この]] (Score: 47)
+- [[そんな]] (Score: 45)
 - [[こんな]] (Score: 45)
 - [[あんなに]] (Score: 45)
-- [[そんな]] (Score: 40)
 - [[あの]] (Score: 35)
 - [[ただ]] (Score: 30)
 - [[それが]] (Score: 25)
@@ -229,6 +229,12 @@
 
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
 - [[10. Phân Tích 021120265-8-9.pdf]]
+- [[11. Phân Tích nhận diện âm đọc Kanji (Onyomi & Kunyomi) và ý nghĩa từ vựng N2.]]
+- [[12. Phân Tích 5 câu hỏi đánh giá khả năng nhận diện hình thái Kanji và phân biệt các bộ thủ dễ gây nhầm lẫn]]
+- [[13. Phân Tích 問題3 - Kanji & Chọn từ ngữ cảnh) và Problem 4 (問題4 - Tiền tố, Hậu tố & Động từ phức hợp)]]
+- [[14. Phân Tích N2_TEST Từ vựng & Hán tự (021120266-8-9.pdf)]]
+- [[15. Phân Tích N2 Từ vựng Đồng nghĩa]]
+- [[16. Phân Tích N2 Từ vựng & Cách dùng từ - 用法 & Từ đồng nghĩa]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 86 (THAOLEJP)]]
 - [[3. Phân Tích N2 Phó từ - câu1 đến câu 7]]
 - [[4. Phân Tích N2 Phó từ - câu 8, 9, 10]]
@@ -241,9 +247,3 @@
 - [[10. Phân Tích 8.10. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
 - [[11. Phân Tích 8.11. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
 - [[12. Phân Tích 1. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf]]
-- [[13. Phân Tích 2. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf]]
-- [[14. Phân Tích 6. Ngữ pháp N2 ～ようがない.pdf]]
-- [[15. Phân Tích 7.1. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]
-- [[16. Phân Tích 50 Cặp phó từ + động từ thường gặp trong JLPT N3–N2]]
-- [[17. Phân Tích 7.3. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]
-- [[18. Phân Tích 7.4. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2.pdf]]
