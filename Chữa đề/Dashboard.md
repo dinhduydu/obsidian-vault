@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 741
-- Total Knowledge Items: 6807
-- Correct: 4122
-- Wrong: 6980
-- Accuracy: 37.1%
+- Total Reviews: 746
+- Total Knowledge Items: 6855
+- Correct: 4202
+- Wrong: 7020
+- Accuracy: 37.4%
 
 ## 🚨 Review Queue
 
@@ -16,8 +16,8 @@
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜からといって]] | Grammar| Score: 85| Wrong: 14
-- [[〜にすぎない]] | Grammar| Score: 80| Wrong: 13
-- [[〜ものの]] | Grammar| Score: 80| Wrong: 13
+- [[〜にすぎない]] | Grammar| Score: 85| Wrong: 14
+- [[〜ものの]] | Grammar| Score: 85| Wrong: 14
 - [[〜まい]] | Grammar| Score: 77| Wrong: 13
 - [[つまり]] | Conjunction| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
@@ -40,10 +40,10 @@
 - [[〜にもかかわらず]] (Grammar) Wrong: 16
 - [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜からといって]] (Grammar) Wrong: 14
+- [[〜にすぎない]] (Grammar) Wrong: 14
+- [[〜ものの]] (Grammar) Wrong: 14
 - [[〜ざるを得ない]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 13
-- [[〜にすぎない]] (Grammar) Wrong: 13
-- [[〜ものの]] (Grammar) Wrong: 13
 - [[つまり]] (Conjunction) Wrong: 12
 - [[〜にほかならない]] (Grammar) Wrong: 12
 - [[さっさと]] (Adverb) Wrong: 12
@@ -56,25 +56,25 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 35.9% (Correct 387 / Wrong 691)
-- Collocation: 32.7% (Correct 229 / Wrong 471)
+- Adverb: 36.0% (Correct 391 / Wrong 694)
+- Collocation: 33.2% (Correct 234 / Wrong 471)
 - CompoundVerb: 36.4% (Correct 191 / Wrong 334)
 - Conjunction: 30.3% (Correct 99 / Wrong 228)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 34.1% (Correct 220 / Wrong 425)
-- Grammar: 35.8% (Correct 941 / Wrong 1685)
-- Kanji: 43.1% (Correct 370 / Wrong 489)
-- Katakana: 37.1% (Correct 178 / Wrong 302)
-- Keigo: 29.9% (Correct 49 / Wrong 115)
+- FixedExpression: 34.5% (Correct 224 / Wrong 425)
+- Grammar: 35.9% (Correct 962 / Wrong 1721)
+- Kanji: 43.2% (Correct 372 / Wrong 489)
+- Katakana: 38.7% (Correct 191 / Wrong 302)
+- Keigo: 30.1% (Correct 50 / Wrong 116)
 - Reading: 27.0% (Correct 134 / Wrong 363)
-- Vocabulary: 42.3% (Correct 1298 / Wrong 1772)
+- Vocabulary: 42.8% (Correct 1328 / Wrong 1772)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 95)
 - [[〜からといって]] (Score: 85)
-- [[〜にすぎない]] (Score: 80)
-- [[〜ものの]] (Score: 80)
+- [[〜にすぎない]] (Score: 85)
+- [[〜ものの]] (Score: 85)
 - [[〜まい]] (Score: 77)
 - [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
@@ -178,7 +178,7 @@
 - [[さっさと]] (Score: 75)
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
-- [[ますます]] (Score: 50)
+- [[ますます]] (Score: 55)
 - [[今にも]] (Score: 45)
 - [[とりあえず]] (Score: 45)
 - [[かえって]] (Score: 40)

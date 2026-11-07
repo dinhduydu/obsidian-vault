@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/12. Phân Tích cấu trúc phủ định kép nhấn mạnh mức độ.md",
+                "file": "Chữa đề/Learning_Profile/Grammar/〜させる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Phân Tích cấu trúc phủ định kép nhấn mạnh mức độ"
+              "title": "〜させる"
             }
           }
         ],
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ステージ",
+                "query": "〜させる",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,8 @@
               "title": "うえは"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,14 +195,26 @@
       "decks:Decks": false
     }
   },
-  "active": "599b920184f289e2",
+  "active": "6a5e076cdb99b714",
   "lastOpenFiles": [
+    "Chữa đề/Learning_Profile/Grammar/〜させられる.md",
+    "Chữa đề/Learning_Profile/Grammar/〜させる.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week4/24122025/2. Phân Tích N3_TEST NGỮ PHÁP_BÀI 3.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
+    "Chữa đề/Learning_Profile/Collocation/果物を使った.md",
+    "Chữa đề/Learning_Profile/Collocation/お金が貯まる.md",
+    "Chữa đề/Learning_Profile/FixedExpression/知らない人はいない.md",
+    "Chữa đề/Learning_Profile/Katakana/パイナップル.md",
+    "Chữa đề/Learning_Profile/Katakana/マンゴー.md",
+    "Chữa đề/Learning_Profile/Katakana/デザート.md",
+    "Chữa đề/Learning_Profile/Katakana/サッカー.md",
+    "Chữa đề/Learning_Profile/Vocabulary/果物.md",
+    "Chữa đề/Learning_Profile/FixedExpression/ちょっとした.md",
+    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/12. Phân Tích cấu trúc phủ định kép nhấn mạnh mức độ.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/6. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 8.md",
     "Chữa đề/Learning_Profile/Katakana/ステージ.md",
     "Chữa đề/２０２６年/１０月２０２６年/Week5/30102026/2. Phân Tích N2_TỪ VỰNG CHỮ HÁN JLPT 12.2025 5-9.pdf.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/25. Phân Tích Tìm từ gần nghĩa nhất.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/12. Phân Tích cấu trúc phủ định kép nhấn mạnh mức độ.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/11. Phân Tích phân biệt mẫu câu khẳng định nguyên nhân duy nhất.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025/10. Phân Tích ngữ pháp và kính ngữ thực hành.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/06122025Spec",
@@ -211,18 +224,6 @@
     "Chữa đề/Learning_Profile/Vocabulary/テレビ離れ.md",
     "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/22. Phân Tích Thành lập từ ghép.md",
     "Chữa đề/Learning_Profile/Katakana/コーナー.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/05122025/23. Phân Tích Điền từ vào câu, chọn phó từ và tính từ Katakana.md",
-    "Chữa đề/Learning_Profile/Adverb/ふらふら.md",
-    "Chữa đề/Learning_Profile/Adverb/Thiết kế hệ thống học Phó từ (副詞).md",
-    "Chữa đề/Learning_Profile/Adverb/じゅうぶん.md",
-    "Chữa đề/Learning_Profile/Adverb/十分（じゅうぶん）.md",
-    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/5. Phân Tích N5230326-11-12.pdf.md",
-    "Chữa đề/Learning_Profile/Vocabulary/愉快.md",
-    "Chữa đề/Learning_Profile/Collocation/漁業が盛んだ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/目上.md",
-    "Chữa đề/Learning_Profile/Collocation/目安を立てる.md",
-    "Chữa đề/Learning_Profile/Adverb/いそいそ.md",
-    "Chữa đề/Learning_Profile/Katakana/ソフト.md",
     "N2文法/うち/そのうち.canvas",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/Day13_用法/Day13_Batch02.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN JLPT 12.2025_MONDAI 14.canvas",
