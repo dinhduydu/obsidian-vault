@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 746
-- Total Knowledge Items: 6855
-- Correct: 4202
-- Wrong: 7020
-- Accuracy: 37.4%
+- Total Reviews: 754
+- Total Knowledge Items: 6922
+- Correct: 4312
+- Wrong: 7055
+- Accuracy: 37.9%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.0% (Correct 391 / Wrong 694)
-- Collocation: 33.2% (Correct 234 / Wrong 471)
-- CompoundVerb: 36.4% (Correct 191 / Wrong 334)
-- Conjunction: 30.3% (Correct 99 / Wrong 228)
-- Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 34.5% (Correct 224 / Wrong 425)
-- Grammar: 35.9% (Correct 962 / Wrong 1721)
-- Kanji: 43.2% (Correct 372 / Wrong 489)
-- Katakana: 38.7% (Correct 191 / Wrong 302)
-- Keigo: 30.1% (Correct 50 / Wrong 116)
-- Reading: 27.0% (Correct 134 / Wrong 363)
-- Vocabulary: 42.8% (Correct 1328 / Wrong 1772)
+- Adverb: 36.5% (Correct 399 / Wrong 694)
+- Collocation: 33.6% (Correct 240 / Wrong 475)
+- CompoundVerb: 37.5% (Correct 202 / Wrong 336)
+- Conjunction: 31.7% (Correct 106 / Wrong 228)
+- Demonstratives: 23.4% (Correct 32 / Wrong 105)
+- FixedExpression: 35.3% (Correct 232 / Wrong 426)
+- Grammar: 36.3% (Correct 980 / Wrong 1722)
+- Kanji: 43.4% (Correct 384 / Wrong 500)
+- Katakana: 39.7% (Correct 199 / Wrong 302)
+- Keigo: 32.6% (Correct 56 / Wrong 116)
+- Reading: 26.9% (Correct 137 / Wrong 373)
+- Vocabulary: 43.1% (Correct 1345 / Wrong 1778)
 
 ## 📚 Top Grammar
 
@@ -126,13 +126,13 @@
 - [[語彙の文脈規定]] (Score: 210)
 - [[文法文脈接続]] (Score: 150)
 - [[即時応答]] (Score: 55)
+- [[同音異義語の文脈判断]] (Score: 50)
 - [[語彙の文脈的用法把握]] (Score: 45)
 - [[敬語の文脈判断]] (Score: 40)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[散文の文脈理解]] (Score: 35)
 - [[説話の文脈規定]] (Score: 35)
 - [[文脈による意志の推定]] (Score: 35)
-- [[文脈規定と文法機能]] (Score: 35)
 
 ## 📚 Top CompoundVerb
 
