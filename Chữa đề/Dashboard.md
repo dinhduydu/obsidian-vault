@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 772
-- Total Knowledge Items: 6988
-- Correct: 4378
-- Wrong: 7209
-- Accuracy: 37.8%
+- Total Reviews: 781
+- Total Knowledge Items: 7003
+- Correct: 4420
+- Wrong: 7230
+- Accuracy: 37.9%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.6% (Correct 406 / Wrong 702)
+- Adverb: 36.6% (Correct 407 / Wrong 706)
 - Collocation: 33.7% (Correct 245 / Wrong 483)
-- CompoundVerb: 37.4% (Correct 204 / Wrong 342)
-- Conjunction: 31.7% (Correct 107 / Wrong 231)
-- Demonstratives: 23.9% (Correct 34 / Wrong 108)
-- FixedExpression: 34.8% (Correct 234 / Wrong 439)
-- Grammar: 36.0% (Correct 988 / Wrong 1760)
-- Kanji: 43.2% (Correct 388 / Wrong 511)
-- Katakana: 39.7% (Correct 204 / Wrong 310)
+- CompoundVerb: 37.3% (Correct 205 / Wrong 344)
+- Conjunction: 31.7% (Correct 108 / Wrong 233)
+- Demonstratives: 23.8% (Correct 34 / Wrong 109)
+- FixedExpression: 34.8% (Correct 235 / Wrong 440)
+- Grammar: 36.1% (Correct 997 / Wrong 1766)
+- Kanji: 43.8% (Correct 399 / Wrong 511)
+- Katakana: 40.0% (Correct 207 / Wrong 310)
 - Keigo: 33.3% (Correct 59 / Wrong 118)
 - Reading: 26.7% (Correct 141 / Wrong 388)
-- Vocabulary: 43.0% (Correct 1368 / Wrong 1817)
+- Vocabulary: 43.2% (Correct 1383 / Wrong 1822)
 
 ## 📚 Top Grammar
 
@@ -136,7 +136,7 @@
 
 ## 📚 Top CompoundVerb
 
-- [[思い出す]] (Score: 40)
+- [[思い出す]] (Score: 45)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[取り組む]] (Score: 30)
