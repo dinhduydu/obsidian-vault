@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 715
-- Total Knowledge Items: 6654
-- Correct: 4038
-- Wrong: 6790
-- Accuracy: 37.3%
+- Total Reviews: 724
+- Total Knowledge Items: 6730
+- Correct: 4079
+- Wrong: 6884
+- Accuracy: 37.2%
 
 ## 🚨 Review Queue
 
@@ -22,12 +22,12 @@
 - [[つまり]] | Conjunction| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
+- [[さっさと]] | Adverb| Score: 75| Wrong: 12
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
 - [[〜とは限らない]] | Grammar| Score: 70| Wrong: 11
-- [[さっさと]] | Adverb| Score: 70| Wrong: 11
+- [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 13
 - [[この]] | Demonstratives| Score: 62| Wrong: 10
 - [[つい]] | Adverb| Score: 60| Wrong: 9
-- [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 12
 - [[〜がたい]] | Grammar| Score: 60| Wrong: 9
 - [[〜に限って]] | Grammar| Score: 60| Wrong: 9
 
@@ -40,34 +40,34 @@
 - [[〜にもかかわらず]] (Grammar) Wrong: 16
 - [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜からといって]] (Grammar) Wrong: 14
+- [[〜ざるを得ない]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 13
 - [[〜にすぎない]] (Grammar) Wrong: 13
 - [[〜ものの]] (Grammar) Wrong: 13
 - [[つまり]] (Conjunction) Wrong: 12
 - [[〜にほかならない]] (Grammar) Wrong: 12
-- [[〜ざるを得ない]] (Grammar) Wrong: 12
+- [[さっさと]] (Adverb) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
 - [[〜がち]] (Grammar) Wrong: 11
 - [[〜とは限らない]] (Grammar) Wrong: 11
-- [[さっさと]] (Adverb) Wrong: 11
 - [[この]] (Demonstratives) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
 - [[つい]] (Adverb) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 36.1% (Correct 373 / Wrong 659)
-- Collocation: 32.3% (Correct 213 / Wrong 446)
-- CompoundVerb: 36.4% (Correct 188 / Wrong 329)
-- Conjunction: 30.5% (Correct 99 / Wrong 226)
+- Adverb: 36.1% (Correct 380 / Wrong 672)
+- Collocation: 32.5% (Correct 227 / Wrong 472)
+- CompoundVerb: 36.3% (Correct 189 / Wrong 331)
+- Conjunction: 30.3% (Correct 99 / Wrong 228)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 34.3% (Correct 217 / Wrong 416)
-- Grammar: 35.9% (Correct 936 / Wrong 1670)
+- FixedExpression: 34.0% (Correct 218 / Wrong 424)
+- Grammar: 35.8% (Correct 941 / Wrong 1685)
 - Kanji: 43.4% (Correct 370 / Wrong 483)
-- Katakana: 37.0% (Correct 174 / Wrong 296)
-- Keigo: 29.6% (Correct 48 / Wrong 114)
+- Katakana: 37.2% (Correct 175 / Wrong 296)
+- Keigo: 29.4% (Correct 48 / Wrong 115)
 - Reading: 27.0% (Correct 134 / Wrong 363)
-- Vocabulary: 42.8% (Correct 1260 / Wrong 1683)
+- Vocabulary: 42.7% (Correct 1272 / Wrong 1710)
 
 ## 📚 Top Grammar
 
@@ -80,7 +80,7 @@
 - [[〜にほかならない]] (Score: 75)
 - [[〜がち]] (Score: 70)
 - [[〜とは限らない]] (Score: 70)
-- [[〜ざるを得ない]] (Score: 60)
+- [[〜ざるを得ない]] (Score: 65)
 
 ## 📚 Top Vocabulary
 
@@ -137,6 +137,7 @@
 ## 📚 Top CompoundVerb
 
 - [[思い出す]] (Score: 40)
+- [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[取り組む]] (Score: 30)
 - [[落ち込む]] (Score: 30)
@@ -145,7 +146,6 @@
 - [[言いようがない]] (Score: 30)
 - [[やり抜く]] (Score: 30)
 - [[見守る]] (Score: 30)
-- [[思いがけない]] (Score: 25)
 
 ## 📚 Top FixedExpression
 
@@ -175,7 +175,7 @@
 
 ## 📚 Top Adverb
 
-- [[さっさと]] (Score: 70)
+- [[さっさと]] (Score: 75)
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 50)
