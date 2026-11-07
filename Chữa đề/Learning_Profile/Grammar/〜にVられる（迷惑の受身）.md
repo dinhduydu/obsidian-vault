@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 〜にVられる（迷惑の受身）
+
+Category: Grammar
+Correct: 2
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[10. Phân Tích mẫu câu xin phép lịch sự cho bản thân thực hiện hành động]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
