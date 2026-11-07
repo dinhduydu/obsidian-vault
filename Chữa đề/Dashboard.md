@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 830
-- Total Knowledge Items: 7228
-- Correct: 4648
-- Wrong: 7563
-- Accuracy: 38.1%
+- Total Reviews: 839
+- Total Knowledge Items: 7298
+- Correct: 4727
+- Wrong: 7613
+- Accuracy: 38.3%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.4% (Correct 422 / Wrong 737)
-- Collocation: 34.3% (Correct 259 / Wrong 497)
-- CompoundVerb: 37.4% (Correct 217 / Wrong 363)
-- Conjunction: 30.7% (Correct 110 / Wrong 248)
+- Adverb: 36.5% (Correct 425 / Wrong 738)
+- Collocation: 34.7% (Correct 268 / Wrong 505)
+- CompoundVerb: 38.1% (Correct 223 / Wrong 363)
+- Conjunction: 30.6% (Correct 110 / Wrong 250)
 - Demonstratives: 24.3% (Correct 37 / Wrong 115)
-- FixedExpression: 35.2% (Correct 251 / Wrong 462)
-- Grammar: 36.0% (Correct 1053 / Wrong 1874)
-- Kanji: 44.1% (Correct 409 / Wrong 518)
-- Katakana: 40.7% (Correct 222 / Wrong 323)
+- FixedExpression: 35.6% (Correct 256 / Wrong 464)
+- Grammar: 36.4% (Correct 1083 / Wrong 1894)
+- Kanji: 44.2% (Correct 411 / Wrong 519)
+- Katakana: 40.8% (Correct 225 / Wrong 327)
 - Keigo: 32.4% (Correct 59 / Wrong 123)
-- Reading: 26.2% (Correct 138 / Wrong 388)
-- Vocabulary: 43.4% (Correct 1471 / Wrong 1915)
+- Reading: 26.5% (Correct 140 / Wrong 388)
+- Vocabulary: 43.6% (Correct 1490 / Wrong 1927)
 
 ## 📚 Top Grammar
 
@@ -112,6 +112,7 @@
 
 - [[タイミング]] (Score: 55)
 - [[アパート]] (Score: 40)
+- [[キャンセル]] (Score: 40)
 - [[ステージ]] (Score: 35)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
@@ -119,7 +120,6 @@
 - [[トラブル]] (Score: 35)
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
-- [[エアバッグ]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -195,9 +195,9 @@
 - [[ところで]] (Score: 45)
 - [[ただし]] (Score: 40)
 - [[とはいえ]] (Score: 40)
+- [[あるいは]] (Score: 37)
 - [[それで]] (Score: 35)
 - [[それに]] (Score: 35)
-- [[なぜなら]] (Score: 35)
 
 ## 📚 Top Keigo
 
