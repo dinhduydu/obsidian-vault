@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/3. Phân Tích Kanji (漢字の読み方) cấp độ N3–N2..md",
+                "file": "Chữa đề/２０２５年/１２月２０２５年/Week1/03122025/11. Phân Tích Phó từ & Từ Katakana tiếng Nhật JLPT N3-N2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Phân Tích Kanji (漢字の読み方) cấp độ N3–N2."
-            }
-          },
-          {
-            "id": "eefc4b738c89628f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chữa đề/２０２５年/１１月２０２５年/Week4/28112025/9. Phân Tích 281125-12-13.pdf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Phân Tích 281125-12-13.pdf"
+              "title": "11. Phân Tích Phó từ & Từ Katakana tiếng Nhật JLPT N3-N2"
             }
           }
         ],
@@ -58,7 +44,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "支出"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "欠点",
+                "query": "つくづく",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,12 +97,11 @@
               "title": "うえは"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 528.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -211,45 +196,49 @@
   },
   "active": "599b920184f289e2",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Kanji/欠点（けってん）.md",
-    "Chữa đề/Learning_Profile/Vocabulary/支出.md",
-    "Chữa đề/Learning_Profile/Kanji/支出.md",
-    "Chữa đề/Learning_Profile/Kanji/支出（しゅっしゅつ）.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/4. Phân Tích Đọc Hán tự & Biến âm ngắt, Phó từ & Kanji phó từ.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/3. Phân Tích Kanji (漢字の読み方) cấp độ N3–N2..md",
-    "Chữa đề/Learning_Profile/Kanji/保険（ほけん）.md",
-    "Chữa đề/Learning_Profile/Kanji/快適（かいてき）.md",
-    "Chữa đề/Learning_Profile/Adverb/直ちに（ただちに）.md",
-    "Chữa đề/Learning_Profile/Kanji/競争（きょうそう）.md",
-    "Chữa đề/Learning_Profile/Kanji/占める（しめる）.md",
-    "Chữa đề/Learning_Profile/Kanji/削除（さくじょ）.md",
-    "Chữa đề/Learning_Profile/Grammar/〜ようでないと.md",
-    "Chữa đề/Learning_Profile/FixedExpression/事欠かない.md",
-    "Chữa đề/Learning_Profile/Vocabulary/生鮮.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/1. Phân Tích N2_KIỂM TRA KIẾN THỨC TỪ VỰNG_BÀI 10.md",
-    "Chữa đề/２０２５年/１２月２０２５年/Week1/01122025/2. Phân Tích N2_MÔ PHỎNG ĐỀ THI (NP)_ĐỀ 1.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/14. Phân Tích 18.3. Động từ thường gặp trong đề thi JLPT N2.pdf.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/取り巻く.md",
+    "Chữa đề/Learning_Profile/FixedExpression/〜ても仕方ない.md",
+    "Chữa đề/Learning_Profile/Collocation/株を買い占める.md",
+    "Chữa đề/Learning_Profile/Collocation/上司に逆らう.md",
+    "Chữa đề/Learning_Profile/Collocation/条件が異なる.md",
+    "Chữa đề/Learning_Profile/Collocation/野菜が凍る.md",
+    "Chữa đề/Learning_Profile/Collocation/生活費を削る.md",
+    "Chữa đề/Learning_Profile/Collocation/過去を悔やむ.md",
+    "Chữa đề/Learning_Profile/FixedExpression/10年越しの夢.md",
+    "Chữa đề/Learning_Profile/Collocation/日にちを先に決める.md",
+    "Chữa đề/Learning_Profile/Collocation/腕を競う.md",
+    "Chữa đề/Learning_Profile/Collocation/夢が叶う.md",
+    "Chữa đề/Learning_Profile/Collocation/栄養が偏る.md",
+    "Chữa đề/Learning_Profile/Collocation/質素な生活.md",
+    "Chữa đề/Learning_Profile/Kanji/高〜.md",
+    "Chữa đề/Learning_Profile/Kanji/現〜.md",
+    "Chữa đề/Learning_Profile/Collocation/お心当たりがある.md",
+    "Chữa đề/Learning_Profile/Collocation/快適な暮らし.md",
+    "Chữa đề/Learning_Profile/Collocation/ミスを指摘される.md",
+    "Chữa đề/Learning_Profile/Collocation/脳に刺激を与える.md",
+    "Chữa đề/Learning_Profile/Collocation/同僚との雑談.md",
+    "Chữa đề/Learning_Profile/Collocation/動画を撮影する.md",
+    "Chữa đề/Learning_Profile/Collocation/アプリを削除する.md",
+    "Chữa đề/Learning_Profile/Collocation/野菜の栽培.md",
+    "Chữa đề/Learning_Profile/FixedExpression/お心当たり.md",
+    "Chữa đề/Learning_Profile/Vocabulary/雑談.md",
+    "Chữa đề/Learning_Profile/Vocabulary/撮影.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN JLPT 12.2025_MONDAI 14.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU SO SÁNH JLPT 12.2025_TEST 7.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU ĐOẢN VĂN JLPT 12.2025_TEST 2.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TRƯỜNG VĂN JLPT 12.2025_TEST 8.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TRUNG VĂN JLPT 12.2025_TEST 6.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TRUNG VĂN JLPT 12.2025_TEST 4.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026/N2_ĐỌC HIỂU TRUNG VĂN JLPT 12.2025_TEST 5.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026Spec",
+    "Pasted image 20261106170935.png",
+    "Pasted image 20261106160714.png",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」/座 - Toạ.canvas",
+    "Pasted image 20261106153145.png",
     "N2漢字/Bộ thủ/Chữ cổ/Quyển　「龹」/巻 - Quyển/巻 - Quyển.canvas",
-    "Chữa đề/Learning_Profile/Vocabulary/巻く.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/02112026/11. Phân Tích nhận diện âm đọc Kanji (Onyomi & Kunyomi) và ý nghĩa từ vựng N2..md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/02112026/13. Phân Tích 問題3 - Kanji & Chọn từ ngữ cảnh) và Problem 4 (問題4 - Tiền tố, Hậu tố & Động từ phức hợp).md",
-    "Chữa đề/Learning_Profile/Vocabulary/沈む.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/3. Phân Tích Đọc hiểu đánh giá khả năng phân tích lý do dựa trên định nghĩa và ngữ cảnh.md",
-    "Chữa đề/Learning_Profile/Vocabulary/格言.md",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 89.canvas",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026/N2_LỚP BỔ TRỢ_ĐỌC HIỂU_BÀI 9.canvas",
-    "N2文法/Tổng hợp ngữ pháp cơ bản/3. Phó từ/Bảng phó từ hay gặp/さ/さっぱり.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/06112026",
     "Pasted image 20261106013721.png",
-    "N2文法/はず・わけ/わけ/わけにはいかない.canvas",
-    "Chữa đề/２０２６年/１０月２０２６年/Week5/26102026/3. N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 20.canvas",
     "Chữa đề/２０２５年/１１月２０２５年/Week4/22112025",
-    "N2文法/ところ・どころ/ところ/ところだ.canvas",
-    "N2語彙/N2 言葉の意味が一番近いもの1.canvas",
-    "N2語彙/Từ đồng nghĩa/N2_Japanese_Synonyms.canvas",
-    "N2語彙/Từ đồng nghĩa/Thời gian, tần suất, tiến trình/⏱️ PHÂN NHÓM 1 - THỜI GIAN, TẦN SUẤT & TIẾN TRÌNH.canvas",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/05112026",
     "Pasted image 20261104192044.png",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/doc/7. 50 CẶP PHÓ TỪ + ĐỘNG TỪ THƯỜNG GẶP TRONG JLPT N3–N2",
@@ -260,12 +249,8 @@
     "Pasted image 20261104115445.png",
     "Pasted image 20261104115433.png",
     "Pasted image 20261104115403.png",
-    "Pasted image 20261104115339.png",
-    "Pasted image 20261104115332.png",
-    "Pasted image 20261104115326.png",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec",
     "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/19. Tính từ hay gặp N2",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/18. Động từ thường gặp trong đề thi JLPT N2",
-    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc"
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/04112026Spec/doc/18. Động từ thường gặp trong đề thi JLPT N2"
   ]
 }

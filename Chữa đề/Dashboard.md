@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 696
-- Total Knowledge Items: 6538
-- Correct: 3983
-- Wrong: 6614
-- Accuracy: 37.6%
+- Total Reviews: 715
+- Total Knowledge Items: 6654
+- Correct: 4038
+- Wrong: 6790
+- Accuracy: 37.3%
 
 ## 🚨 Review Queue
 
@@ -17,19 +17,19 @@
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜からといって]] | Grammar| Score: 85| Wrong: 14
 - [[〜にすぎない]] | Grammar| Score: 80| Wrong: 13
+- [[〜ものの]] | Grammar| Score: 80| Wrong: 13
 - [[〜まい]] | Grammar| Score: 77| Wrong: 13
 - [[つまり]] | Conjunction| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
-- [[〜ものの]] | Grammar| Score: 75| Wrong: 12
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
 - [[〜とは限らない]] | Grammar| Score: 70| Wrong: 11
+- [[さっさと]] | Adverb| Score: 70| Wrong: 11
 - [[この]] | Demonstratives| Score: 62| Wrong: 10
 - [[つい]] | Adverb| Score: 60| Wrong: 9
 - [[〜ざるを得ない]] | Grammar| Score: 60| Wrong: 12
 - [[〜がたい]] | Grammar| Score: 60| Wrong: 9
 - [[〜に限って]] | Grammar| Score: 60| Wrong: 9
-- [[〜どころか]] | Grammar| Score: 60| Wrong: 9
 
 ## 🔥 Top Weak Points
 
@@ -42,42 +42,42 @@
 - [[〜からといって]] (Grammar) Wrong: 14
 - [[〜まい]] (Grammar) Wrong: 13
 - [[〜にすぎない]] (Grammar) Wrong: 13
+- [[〜ものの]] (Grammar) Wrong: 13
 - [[つまり]] (Conjunction) Wrong: 12
 - [[〜にほかならない]] (Grammar) Wrong: 12
 - [[〜ざるを得ない]] (Grammar) Wrong: 12
-- [[〜ものの]] (Grammar) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
 - [[〜がち]] (Grammar) Wrong: 11
 - [[〜とは限らない]] (Grammar) Wrong: 11
+- [[さっさと]] (Adverb) Wrong: 11
 - [[この]] (Demonstratives) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
 - [[つい]] (Adverb) Wrong: 9
-- [[結局]] (Kanji) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 36.3% (Correct 366 / Wrong 642)
-- Collocation: 33.7% (Correct 198 / Wrong 389)
-- CompoundVerb: 36.6% (Correct 188 / Wrong 326)
-- Conjunction: 30.7% (Correct 99 / Wrong 224)
+- Adverb: 36.1% (Correct 373 / Wrong 659)
+- Collocation: 32.3% (Correct 213 / Wrong 446)
+- CompoundVerb: 36.4% (Correct 188 / Wrong 329)
+- Conjunction: 30.5% (Correct 99 / Wrong 226)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 35.2% (Correct 217 / Wrong 399)
-- Grammar: 35.9% (Correct 926 / Wrong 1652)
-- Kanji: 43.6% (Correct 366 / Wrong 473)
-- Katakana: 37.3% (Correct 172 / Wrong 289)
-- Keigo: 29.4% (Correct 47 / Wrong 113)
-- Reading: 26.8% (Correct 133 / Wrong 363)
-- Vocabulary: 43.2% (Correct 1245 / Wrong 1639)
+- FixedExpression: 34.3% (Correct 217 / Wrong 416)
+- Grammar: 35.9% (Correct 936 / Wrong 1670)
+- Kanji: 43.4% (Correct 370 / Wrong 483)
+- Katakana: 37.0% (Correct 174 / Wrong 296)
+- Keigo: 29.6% (Correct 48 / Wrong 114)
+- Reading: 27.0% (Correct 134 / Wrong 363)
+- Vocabulary: 42.8% (Correct 1260 / Wrong 1683)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 95)
 - [[〜からといって]] (Score: 85)
 - [[〜にすぎない]] (Score: 80)
+- [[〜ものの]] (Score: 80)
 - [[〜まい]] (Score: 77)
 - [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
-- [[〜ものの]] (Score: 75)
 - [[〜がち]] (Score: 70)
 - [[〜とは限らない]] (Score: 70)
 - [[〜ざるを得ない]] (Score: 60)
@@ -104,9 +104,9 @@
 - [[改善]] (Score: 35)
 - [[贅沢]] (Score: 30)
 - [[順]] (Score: 30)
+- [[維持]] (Score: 30)
 - [[欠勤]] (Score: 30)
 - [[奇跡]] (Score: 30)
-- [[幻想的]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -168,23 +168,23 @@
 - [[補助動詞]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
+- [[気がする]] (Score: 30)
 - [[油田を開発する (ゆでんをかいはつする)]] (Score: 25)
 - [[日記帳]] (Score: 25)
 - [[深夜営業]] (Score: 25)
-- [[開会式が行われる]] (Score: 25)
 
 ## 📚 Top Adverb
 
+- [[さっさと]] (Score: 70)
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 50)
-- [[さっさと]] (Score: 50)
 - [[今にも]] (Score: 45)
 - [[かえって]] (Score: 40)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
+- [[さっぱり]] (Score: 40)
 - [[とても]] (Score: 40)
-- [[とりあえず]] (Score: 40)
 
 ## 📚 Top Conjunction
 

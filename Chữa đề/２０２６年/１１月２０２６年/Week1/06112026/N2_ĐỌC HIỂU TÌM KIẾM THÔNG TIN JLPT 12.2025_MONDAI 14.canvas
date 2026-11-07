@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"efcbce61e303be11","type":"file","file":"Pasted image 20261106153145.png","x":-380,"y":-491,"width":689,"height":891},
+		{"id":"b16cbdde52084edc","type":"text","text":"70．中村さんは、4歳の娘と一緒に、夏野港から岩根島に行こうと思っている。なるべく安く行きたいが、いすには座りたい。中村さんたちの運賃はいくらになるか。\n\n*\n1 điểm\n1 中村さん 2,960円、娘 1,480円\n2 中村さん 2,960円、娘 は無料\n3 中村さん 5,020円、娘 2,510円\n4 中村さん 5,020円、娘 は無料","x":480,"y":-362,"width":477,"height":297},
+		{"id":"0d38c1dbfabd3ec9","type":"text","text":"71．ユーキさんは、10月22日（月）に赤木港を出発する船で、岩根島に行こうと思っている。予約のしかたとして合っているのはどれか。\n\n*\n1 điểm\n1 10月20日（土）の17時30分までに、丸山汽船本社に電話する。\n2 10月20日（土）の17時30分までに、赤木港発着所に電話する。\n3 10月21日（日）の17時までに、丸山汽船本社に電話する。\n4 10月21日（日）の17時までに、赤木港発着所に電話する。","x":480,"y":114,"width":654,"height":286},
+		{"id":"fa2f04013f72613b","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/盆と正月が一緒にやってきた.md","x":309,"y":-620,"width":380,"height":56},
+		{"id":"430140ea7f423d9f","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Toạ　「坐」/座 - Toạ.canvas","x":1100,"y":-440,"width":192,"height":89}
+	],
+	"edges":[
+		{"id":"ef6605bd72a0b7f5","fromNode":"fa2f04013f72613b","fromSide":"right","toNode":"b16cbdde52084edc","toSide":"top","label":"一緒\n\nCùng lúc"},
+		{"id":"3dfb1dc02f3538f5","fromNode":"430140ea7f423d9f","fromSide":"left","toNode":"b16cbdde52084edc","toSide":"right","label":"座り"}
+	]
+}
