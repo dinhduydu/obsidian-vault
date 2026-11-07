@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 754
-- Total Knowledge Items: 6922
-- Correct: 4312
-- Wrong: 7055
-- Accuracy: 37.9%
+- Total Reviews: 759
+- Total Knowledge Items: 6962
+- Correct: 4343
+- Wrong: 7153
+- Accuracy: 37.8%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.5% (Correct 399 / Wrong 694)
-- Collocation: 33.6% (Correct 240 / Wrong 475)
-- CompoundVerb: 37.5% (Correct 202 / Wrong 336)
-- Conjunction: 31.7% (Correct 106 / Wrong 228)
-- Demonstratives: 23.4% (Correct 32 / Wrong 105)
-- FixedExpression: 35.3% (Correct 232 / Wrong 426)
-- Grammar: 36.3% (Correct 980 / Wrong 1722)
-- Kanji: 43.4% (Correct 384 / Wrong 500)
-- Katakana: 39.7% (Correct 199 / Wrong 302)
-- Keigo: 32.6% (Correct 56 / Wrong 116)
-- Reading: 26.9% (Correct 137 / Wrong 373)
-- Vocabulary: 43.1% (Correct 1345 / Wrong 1778)
+- Adverb: 36.4% (Correct 402 / Wrong 703)
+- Collocation: 33.6% (Correct 242 / Wrong 478)
+- CompoundVerb: 37.6% (Correct 204 / Wrong 338)
+- Conjunction: 31.7% (Correct 107 / Wrong 231)
+- Demonstratives: 23.9% (Correct 34 / Wrong 108)
+- FixedExpression: 35.1% (Correct 233 / Wrong 431)
+- Grammar: 36.1% (Correct 983 / Wrong 1739)
+- Kanji: 43.3% (Correct 384 / Wrong 503)
+- Katakana: 39.5% (Correct 202 / Wrong 310)
+- Keigo: 33.3% (Correct 59 / Wrong 118)
+- Reading: 26.8% (Correct 143 / Wrong 391)
+- Vocabulary: 42.8% (Correct 1350 / Wrong 1803)
 
 ## 📚 Top Grammar
 
@@ -89,11 +89,11 @@
 - [[拡充]] (Score: 45)
 - [[連続]] (Score: 45)
 - [[補う]] (Score: 40)
+- [[衝突]] (Score: 40)
 - [[悔しい]] (Score: 40)
 - [[相続]] (Score: 40)
 - [[要点]] (Score: 40)
 - [[無理]] (Score: 40)
-- [[消火器]] (Score: 40)
 
 ## 📚 Top Kanji
 
@@ -110,29 +110,29 @@
 
 ## 📚 Top Katakana
 
-- [[タイミング]] (Score: 50)
+- [[タイミング]] (Score: 55)
 - [[アパート]] (Score: 40)
 - [[ステージ]] (Score: 35)
 - [[ドラマ]] (Score: 35)
+- [[ボランティア]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
 - [[トラブル]] (Score: 35)
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
-- [[エアバッグ]] (Score: 30)
 
 ## 📚 Top Reading
 
 - [[語彙の文脈規定]] (Score: 210)
 - [[文法文脈接続]] (Score: 150)
 - [[即時応答]] (Score: 55)
+- [[類義語の文脈置換]] (Score: 55)
 - [[同音異義語の文脈判断]] (Score: 50)
 - [[語彙の文脈的用法把握]] (Score: 45)
+- [[肯定・否定の並列文脈判断]] (Score: 45)
 - [[敬語の文脈判断]] (Score: 40)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[散文の文脈理解]] (Score: 35)
-- [[説話の文脈規定]] (Score: 35)
-- [[文脈による意志の推定]] (Score: 35)
 
 ## 📚 Top CompoundVerb
 
@@ -179,12 +179,12 @@
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 55)
+- [[とても]] (Score: 55)
+- [[とりあえず]] (Score: 50)
+- [[かつて]] (Score: 50)
 - [[今にも]] (Score: 45)
-- [[とりあえず]] (Score: 45)
 - [[かえって]] (Score: 40)
 - [[しばしば]] (Score: 40)
-- [[まるで]] (Score: 40)
-- [[さっぱり]] (Score: 40)
 
 ## 📚 Top Conjunction
 
