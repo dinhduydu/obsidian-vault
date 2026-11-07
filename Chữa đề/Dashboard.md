@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 724
-- Total Knowledge Items: 6730
-- Correct: 4079
-- Wrong: 6884
+- Total Reviews: 735
+- Total Knowledge Items: 6780
+- Correct: 4113
+- Wrong: 6945
 - Accuracy: 37.2%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.1% (Correct 380 / Wrong 672)
-- Collocation: 32.5% (Correct 227 / Wrong 472)
-- CompoundVerb: 36.3% (Correct 189 / Wrong 331)
+- Adverb: 35.9% (Correct 387 / Wrong 691)
+- Collocation: 32.6% (Correct 228 / Wrong 472)
+- CompoundVerb: 36.5% (Correct 191 / Wrong 333)
 - Conjunction: 30.3% (Correct 99 / Wrong 228)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
 - FixedExpression: 34.0% (Correct 218 / Wrong 424)
 - Grammar: 35.8% (Correct 941 / Wrong 1685)
-- Kanji: 43.4% (Correct 370 / Wrong 483)
-- Katakana: 37.2% (Correct 175 / Wrong 296)
-- Keigo: 29.4% (Correct 48 / Wrong 115)
+- Kanji: 43.2% (Correct 370 / Wrong 486)
+- Katakana: 37.1% (Correct 177 / Wrong 300)
+- Keigo: 29.9% (Correct 49 / Wrong 115)
 - Reading: 27.0% (Correct 134 / Wrong 363)
-- Vocabulary: 42.7% (Correct 1272 / Wrong 1710)
+- Vocabulary: 42.6% (Correct 1293 / Wrong 1743)
 
 ## 📚 Top Grammar
 
@@ -97,8 +97,8 @@
 
 ## 📚 Top Kanji
 
+- [[一層]] (Score: 50)
 - [[結局]] (Score: 45)
-- [[一層]] (Score: 45)
 - [[評価]] (Score: 40)
 - [[行方]] (Score: 35)
 - [[改善]] (Score: 35)
@@ -110,7 +110,7 @@
 
 ## 📚 Top Katakana
 
-- [[タイミング]] (Score: 45)
+- [[タイミング]] (Score: 50)
 - [[アパート]] (Score: 40)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
@@ -180,11 +180,11 @@
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 50)
 - [[今にも]] (Score: 45)
+- [[とりあえず]] (Score: 45)
 - [[かえって]] (Score: 40)
 - [[しばしば]] (Score: 40)
 - [[まるで]] (Score: 40)
 - [[さっぱり]] (Score: 40)
-- [[とても]] (Score: 40)
 
 ## 📚 Top Conjunction
 
