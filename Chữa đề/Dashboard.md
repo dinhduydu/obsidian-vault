@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 799
-- Total Knowledge Items: 7070
-- Correct: 4535
-- Wrong: 7322
-- Accuracy: 38.2%
+- Total Reviews: 802
+- Total Knowledge Items: 7085
+- Correct: 4547
+- Wrong: 7335
+- Accuracy: 38.3%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 255| Wrong: 48
+- [[]] | Vocabulary| Score: 265| Wrong: 50
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 48
+- [[]] (Vocabulary) Wrong: 50
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 17
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.8% (Correct 414 / Wrong 712)
-- Collocation: 34.0% (Correct 250 / Wrong 486)
-- CompoundVerb: 37.9% (Correct 215 / Wrong 352)
+- Adverb: 36.7% (Correct 415 / Wrong 715)
+- Collocation: 34.1% (Correct 251 / Wrong 486)
+- CompoundVerb: 37.9% (Correct 215 / Wrong 353)
 - Conjunction: 31.6% (Correct 108 / Wrong 234)
 - Demonstratives: 25.2% (Correct 37 / Wrong 110)
-- FixedExpression: 35.1% (Correct 239 / Wrong 442)
-- Grammar: 36.1% (Correct 1011 / Wrong 1790)
+- FixedExpression: 35.1% (Correct 240 / Wrong 443)
+- Grammar: 36.1% (Correct 1012 / Wrong 1792)
 - Kanji: 44.2% (Correct 407 / Wrong 513)
-- Katakana: 40.4% (Correct 216 / Wrong 318)
+- Katakana: 40.6% (Correct 217 / Wrong 318)
 - Keigo: 32.8% (Correct 59 / Wrong 121)
 - Reading: 26.1% (Correct 137 / Wrong 388)
-- Vocabulary: 43.7% (Correct 1442 / Wrong 1856)
+- Vocabulary: 43.8% (Correct 1449 / Wrong 1862)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 255)
+- [[]] (Score: 265)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[拡充]] (Score: 45)
 - [[連続]] (Score: 45)
@@ -179,8 +179,8 @@
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 55)
+- [[とりあえず]] (Score: 55)
 - [[とても]] (Score: 50)
-- [[とりあえず]] (Score: 50)
 - [[かつて]] (Score: 50)
 - [[今にも]] (Score: 45)
 - [[かえって]] (Score: 40)
