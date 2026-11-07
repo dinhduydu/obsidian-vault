@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# visual/phrase: 考え方がユニーク
+
+Category: Collocation
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[17. Phân Tích từ vựng tiếng Nhật JLPT N3]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

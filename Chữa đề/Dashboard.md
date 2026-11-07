@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 791
-- Total Knowledge Items: 7030
-- Correct: 4456
-- Wrong: 7272
-- Accuracy: 38.0%
+- Total Reviews: 799
+- Total Knowledge Items: 7070
+- Correct: 4535
+- Wrong: 7322
+- Accuracy: 38.2%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 250| Wrong: 47
+- [[]] | Vocabulary| Score: 255| Wrong: 48
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
@@ -33,7 +33,7 @@
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 47
+- [[]] (Vocabulary) Wrong: 48
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 17
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.5% (Correct 407 / Wrong 709)
-- Collocation: 33.7% (Correct 245 / Wrong 483)
-- CompoundVerb: 37.4% (Correct 206 / Wrong 345)
+- Adverb: 36.8% (Correct 414 / Wrong 712)
+- Collocation: 34.0% (Correct 250 / Wrong 486)
+- CompoundVerb: 37.9% (Correct 215 / Wrong 352)
 - Conjunction: 31.6% (Correct 108 / Wrong 234)
 - Demonstratives: 25.2% (Correct 37 / Wrong 110)
-- FixedExpression: 34.7% (Correct 235 / Wrong 442)
-- Grammar: 36.1% (Correct 1005 / Wrong 1781)
-- Kanji: 44.2% (Correct 406 / Wrong 513)
-- Katakana: 40.0% (Correct 209 / Wrong 314)
-- Keigo: 33.0% (Correct 59 / Wrong 120)
-- Reading: 26.7% (Correct 141 / Wrong 388)
-- Vocabulary: 43.3% (Correct 1398 / Wrong 1833)
+- FixedExpression: 35.1% (Correct 239 / Wrong 442)
+- Grammar: 36.1% (Correct 1011 / Wrong 1790)
+- Kanji: 44.2% (Correct 407 / Wrong 513)
+- Katakana: 40.4% (Correct 216 / Wrong 318)
+- Keigo: 32.8% (Correct 59 / Wrong 121)
+- Reading: 26.1% (Correct 137 / Wrong 388)
+- Vocabulary: 43.7% (Correct 1442 / Wrong 1856)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 250)
+- [[]] (Score: 255)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[拡充]] (Score: 45)
 - [[連続]] (Score: 45)
@@ -92,8 +92,8 @@
 - [[補う]] (Score: 40)
 - [[衝突]] (Score: 40)
 - [[悔しい]] (Score: 40)
+- [[つらい]] (Score: 40)
 - [[相続]] (Score: 40)
-- [[要点]] (Score: 40)
 
 ## 📚 Top Kanji
 
