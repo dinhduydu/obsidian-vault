@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 735
-- Total Knowledge Items: 6780
-- Correct: 4113
-- Wrong: 6945
-- Accuracy: 37.2%
+- Total Reviews: 741
+- Total Knowledge Items: 6807
+- Correct: 4122
+- Wrong: 6980
+- Accuracy: 37.1%
 
 ## 🚨 Review Queue
 
@@ -57,17 +57,17 @@
 ## 📈 Category Statistics
 
 - Adverb: 35.9% (Correct 387 / Wrong 691)
-- Collocation: 32.6% (Correct 228 / Wrong 472)
-- CompoundVerb: 36.5% (Correct 191 / Wrong 333)
+- Collocation: 32.7% (Correct 229 / Wrong 471)
+- CompoundVerb: 36.4% (Correct 191 / Wrong 334)
 - Conjunction: 30.3% (Correct 99 / Wrong 228)
 - Demonstratives: 19.8% (Correct 26 / Wrong 105)
-- FixedExpression: 34.0% (Correct 218 / Wrong 424)
+- FixedExpression: 34.1% (Correct 220 / Wrong 425)
 - Grammar: 35.8% (Correct 941 / Wrong 1685)
-- Kanji: 43.2% (Correct 370 / Wrong 486)
-- Katakana: 37.1% (Correct 177 / Wrong 300)
+- Kanji: 43.1% (Correct 370 / Wrong 489)
+- Katakana: 37.1% (Correct 178 / Wrong 302)
 - Keigo: 29.9% (Correct 49 / Wrong 115)
 - Reading: 27.0% (Correct 134 / Wrong 363)
-- Vocabulary: 42.6% (Correct 1293 / Wrong 1743)
+- Vocabulary: 42.3% (Correct 1298 / Wrong 1772)
 
 ## 📚 Top Grammar
 
@@ -112,6 +112,7 @@
 
 - [[タイミング]] (Score: 50)
 - [[アパート]] (Score: 40)
+- [[ステージ]] (Score: 35)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
@@ -119,7 +120,6 @@
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
-- [[レポート]] (Score: 30)
 
 ## 📚 Top Reading
 
