@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 759
-- Total Knowledge Items: 6962
-- Correct: 4343
-- Wrong: 7153
+- Total Reviews: 772
+- Total Knowledge Items: 6988
+- Correct: 4378
+- Wrong: 7209
 - Accuracy: 37.8%
 
 ## 🚨 Review Queue
@@ -14,9 +14,9 @@
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
+- [[〜にすぎない]] | Grammar| Score: 90| Wrong: 15
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
 - [[〜からといって]] | Grammar| Score: 85| Wrong: 14
-- [[〜にすぎない]] | Grammar| Score: 85| Wrong: 14
 - [[〜ものの]] | Grammar| Score: 85| Wrong: 14
 - [[〜まい]] | Grammar| Score: 77| Wrong: 13
 - [[つまり]] | Conjunction| Score: 75| Wrong: 12
@@ -24,11 +24,11 @@
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[さっさと]] | Adverb| Score: 75| Wrong: 12
 - [[〜がち]] | Grammar| Score: 70| Wrong: 11
+- [[〜がたい]] | Grammar| Score: 70| Wrong: 11
 - [[〜とは限らない]] | Grammar| Score: 70| Wrong: 11
 - [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 13
 - [[この]] | Demonstratives| Score: 62| Wrong: 10
 - [[つい]] | Adverb| Score: 60| Wrong: 9
-- [[〜がたい]] | Grammar| Score: 60| Wrong: 9
 - [[〜に限って]] | Grammar| Score: 60| Wrong: 9
 
 ## 🔥 Top Weak Points
@@ -39,8 +39,8 @@
 - [[したがって]] (Conjunction) Wrong: 17
 - [[〜にもかかわらず]] (Grammar) Wrong: 16
 - [[〜ようがない]] (Grammar) Wrong: 15
+- [[〜にすぎない]] (Grammar) Wrong: 15
 - [[〜からといって]] (Grammar) Wrong: 14
-- [[〜にすぎない]] (Grammar) Wrong: 14
 - [[〜ものの]] (Grammar) Wrong: 14
 - [[〜ざるを得ない]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 13
@@ -49,38 +49,38 @@
 - [[さっさと]] (Adverb) Wrong: 12
 - [[しかし]] (Conjunction) Wrong: 11
 - [[〜がち]] (Grammar) Wrong: 11
+- [[〜がたい]] (Grammar) Wrong: 11
 - [[〜とは限らない]] (Grammar) Wrong: 11
 - [[この]] (Demonstratives) Wrong: 10
 - [[その]] (Demonstratives) Wrong: 10
-- [[つい]] (Adverb) Wrong: 9
 
 ## 📈 Category Statistics
 
-- Adverb: 36.4% (Correct 402 / Wrong 703)
-- Collocation: 33.6% (Correct 242 / Wrong 478)
-- CompoundVerb: 37.6% (Correct 204 / Wrong 338)
+- Adverb: 36.6% (Correct 406 / Wrong 702)
+- Collocation: 33.7% (Correct 245 / Wrong 483)
+- CompoundVerb: 37.4% (Correct 204 / Wrong 342)
 - Conjunction: 31.7% (Correct 107 / Wrong 231)
 - Demonstratives: 23.9% (Correct 34 / Wrong 108)
-- FixedExpression: 35.1% (Correct 233 / Wrong 431)
-- Grammar: 36.1% (Correct 983 / Wrong 1739)
-- Kanji: 43.3% (Correct 384 / Wrong 503)
-- Katakana: 39.5% (Correct 202 / Wrong 310)
+- FixedExpression: 34.8% (Correct 234 / Wrong 439)
+- Grammar: 36.0% (Correct 988 / Wrong 1760)
+- Kanji: 43.2% (Correct 388 / Wrong 511)
+- Katakana: 39.7% (Correct 204 / Wrong 310)
 - Keigo: 33.3% (Correct 59 / Wrong 118)
-- Reading: 26.8% (Correct 143 / Wrong 391)
-- Vocabulary: 42.8% (Correct 1350 / Wrong 1803)
+- Reading: 26.7% (Correct 141 / Wrong 388)
+- Vocabulary: 43.0% (Correct 1368 / Wrong 1817)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 95)
+- [[〜にすぎない]] (Score: 90)
 - [[〜からといって]] (Score: 85)
-- [[〜にすぎない]] (Score: 85)
 - [[〜ものの]] (Score: 85)
 - [[〜まい]] (Score: 77)
 - [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
 - [[〜がち]] (Score: 70)
+- [[〜がたい]] (Score: 70)
 - [[〜とは限らない]] (Score: 70)
-- [[〜ざるを得ない]] (Score: 65)
 
 ## 📚 Top Vocabulary
 
@@ -100,13 +100,13 @@
 - [[一層]] (Score: 50)
 - [[結局]] (Score: 45)
 - [[評価]] (Score: 40)
+- [[改善]] (Score: 40)
 - [[行方]] (Score: 35)
-- [[改善]] (Score: 35)
+- [[管理]] (Score: 35)
 - [[贅沢]] (Score: 30)
 - [[順]] (Score: 30)
 - [[維持]] (Score: 30)
 - [[欠勤]] (Score: 30)
-- [[奇跡]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -114,12 +114,12 @@
 - [[アパート]] (Score: 40)
 - [[ステージ]] (Score: 35)
 - [[ドラマ]] (Score: 35)
-- [[ボランティア]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
 - [[トラブル]] (Score: 35)
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
+- [[エアバッグ]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -129,10 +129,10 @@
 - [[類義語の文脈置換]] (Score: 55)
 - [[同音異義語の文脈判断]] (Score: 50)
 - [[語彙の文脈的用法把握]] (Score: 45)
-- [[肯定・否定の並列文脈判断]] (Score: 45)
 - [[敬語の文脈判断]] (Score: 40)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[散文の文脈理解]] (Score: 35)
+- [[説話の文脈規定]] (Score: 35)
 
 ## 📚 Top CompoundVerb
 
@@ -155,10 +155,10 @@
 - [[心をこめて]] (Score: 30)
 - [[お忙しいところを]] (Score: 30)
 - [[もってのほかだ]] (Score: 30)
+- [[〜そうにない]] (Score: 30)
 - [[足を運ぶ]] (Score: 30)
 - [[〜はもちろん]] (Score: 25)
 - [[気がすまない]] (Score: 25)
-- [[いつ倒産してもおかしくない]] (Score: 25)
 
 ## 📚 Top Collocation
 
@@ -179,7 +179,7 @@
 - [[つい]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[ますます]] (Score: 55)
-- [[とても]] (Score: 55)
+- [[とても]] (Score: 50)
 - [[とりあえず]] (Score: 50)
 - [[かつて]] (Score: 50)
 - [[今にも]] (Score: 45)

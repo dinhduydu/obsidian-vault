@@ -36,6 +36,7 @@ reload
 # N3
 [N3] Update grammar
 [N3] Update adverb
+[N3] Correcting exercises
 # N4
 [N4] Update grammar
 # N5
