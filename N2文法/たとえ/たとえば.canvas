@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b4743ed50de20c02","type":"text","text":"たとえば","x":-174,"y":-54,"width":250,"height":60},
+		{"id":"e1d93da1927c8d06","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/たとえば.md","x":260,"y":-200,"width":248,"height":88},
+		{"id":"15aab70e88b81a6b","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/たとえば〜など.md","x":800,"y":-600,"width":317,"height":167},
+		{"id":"9be96920246cd55b","type":"file","file":"Chữa đề/Learning_Profile/Adverb/たとえば.md","x":829,"y":20,"width":259,"height":90}
+	],
+	"edges":[
+		{"id":"3579a0f4fdd949a3","fromNode":"e1d93da1927c8d06","fromSide":"right","toNode":"15aab70e88b81a6b","toSide":"left","label":"Ví dụ như... vân vân (Dùng để đưa ra các ví dụ tiêu biểu minh họa cho một tập hợp hoặc ý kiến trước đó)."},
+		{"id":"74c25dbd3922991b","fromNode":"b4743ed50de20c02","fromSide":"right","toNode":"e1d93da1927c8d06","toSide":"left","label":"Ví dụ như / Chẳng hạn như (Đưa ra ví dụ cụ thể minh họa cho ý khái quát)."},
+		{"id":"d6a46a242b595134","fromNode":"e1d93da1927c8d06","fromSide":"right","toNode":"9be96920246cd55b","toSide":"left","label":"Dùng để đưa ra một ví dụ cụ thể nhằm minh họa cho một nhận định tổng quát đã nêu trước đó."}
+	]
+}

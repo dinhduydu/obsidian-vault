@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"eed4481054ff5c81","type":"group","x":-2040,"y":-640,"width":691,"height":215,"label":"Cách chia"},
+		{"id":"0ff7161e67072388","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しかない.md","x":-707,"y":-151,"width":308,"height":219},
+		{"id":"6eaf20d75b4b823e","type":"text","text":"Dùng khi muốn nói không có cách nào khác nên chọn A\n","x":-2020,"y":-535,"width":286,"height":56},
+		{"id":"ac6d2b862cef62d3","type":"text","text":"V辞書形＋しかない","x":-1634,"y":-620,"width":250,"height":60},
+		{"id":"5baf35d8ff057cad","type":"text","text":"Nしかない","x":-1619,"y":-505,"width":250,"height":60},
+		{"id":"8c533e14a07fade5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～でしかない.md","x":40,"y":280,"width":346,"height":163}
+	],
+	"edges":[
+		{"id":"8024bb843bc2c79b","fromNode":"eed4481054ff5c81","fromSide":"right","toNode":"0ff7161e67072388","toSide":"left","color":"3"},
+		{"id":"732e7abce116728c","fromNode":"0ff7161e67072388","fromSide":"right","toNode":"8c533e14a07fade5","toSide":"left","color":"5","label":"Chẳng qua chỉ là..., không hơn không kém."},
+		{"id":"1e05847e064127b3","fromNode":"6eaf20d75b4b823e","fromSide":"right","toNode":"ac6d2b862cef62d3","toSide":"left"},
+		{"id":"c93ac031b2e01975","fromNode":"6eaf20d75b4b823e","fromSide":"right","toNode":"5baf35d8ff057cad","toSide":"left"}
+	]
+}

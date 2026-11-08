@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"e5324d3cde6c73e7","type":"text","text":"たとえ","x":-151,"y":-45,"width":250,"height":60},
-		{"id":"2104fa3568a82356","type":"text","text":"たとえば","x":-700,"y":-391,"width":250,"height":60},
 		{"id":"810ce8868c8a2b23","type":"file","file":"N2文法/たとえ/たとえようがない.canvas","x":-952,"y":50,"width":252,"height":159},
-		{"id":"82800627b5a30d07","x":360,"y":-385,"width":400,"height":400,"type":"file","file":"N2文法/たとえ/たとえ〜ても.canvas"}
+		{"id":"82800627b5a30d07","type":"file","file":"N2文法/たとえ/たとえ〜ても.canvas","x":360,"y":-385,"width":400,"height":400},
+		{"id":"0e30674f705de128","type":"file","file":"N2文法/たとえ/たとえば.canvas","x":-740,"y":-440,"width":307,"height":151}
 	],
 	"edges":[
-		{"id":"fc14c2db3c1392d0","fromNode":"e5324d3cde6c73e7","fromSide":"left","toNode":"2104fa3568a82356","toSide":"right"},
+		{"id":"fc14c2db3c1392d0","fromNode":"e5324d3cde6c73e7","fromSide":"left","toNode":"0e30674f705de128","toSide":"right","label":"Dùng để đưa ra một ví dụ cụ thể nhằm minh họa cho một nhận định tổng quát đã nêu trước đó."},
 		{"id":"b4e6ad4889fc727c","fromNode":"e5324d3cde6c73e7","fromSide":"right","toNode":"82800627b5a30d07","toSide":"left","label":"たとえ"},
 		{"id":"c7154e30ec3dfa73","fromNode":"e5324d3cde6c73e7","fromSide":"left","toNode":"810ce8868c8a2b23","toSide":"right","label":"〜といったら〜たとえようがない"}
 	]

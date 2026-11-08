@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6109cc1f8ea63107","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しかあるまい.md","x":-628,"y":134,"width":337,"height":182},
+		{"id":"7dc51a4e06ca8df5","type":"file","file":"N2文法/まい.canvas","x":-1200,"y":520,"width":328,"height":94},
+		{"id":"c975fed6f2c99600","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しか〜ない.md","x":-1176,"y":-260,"width":281,"height":157}
+	],
+	"edges":[
+		{"id":"cd739c382355eab2","fromNode":"c975fed6f2c99600","fromSide":"right","toNode":"6109cc1f8ea63107","toSide":"left","color":"5","label":"Have no choice but to, must / Chắc chỉ còn cách, không còn lựa chọn nào khác ngoài."},
+		{"id":"e76c290a13f0aba0","fromNode":"7dc51a4e06ca8df5","fromSide":"right","toNode":"6109cc1f8ea63107","toSide":"left","color":"2"}
+	]
+}
