@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1e9f50cc7e9ffcc7","type":"file","file":"N2文法/ところ・どころ/ところ/ところ.canvas","x":-220,"y":-20,"width":180,"height":120},
+		{"id":"9fc2af2229b7b331","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vた.canvas","x":-279,"y":220,"width":239,"height":109},
+		{"id":"ec0cfec02c8c099c","type":"file","file":"N2文法/ところ・どころ/ところ/V　＋　ところ/Vたところ.canvas","x":180,"y":95,"width":308,"height":125},
+		{"id":"6ce6cdba7a5e5cfd","x":720,"y":-102,"width":265,"height":164,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～たところ.md"}
+	],
+	"edges":[
+		{"id":"d060c76dd32829f2","fromNode":"1e9f50cc7e9ffcc7","fromSide":"right","toNode":"ec0cfec02c8c099c","toSide":"left"},
+		{"id":"186f8ff9903f2cae","fromNode":"9fc2af2229b7b331","fromSide":"right","toNode":"ec0cfec02c8c099c","toSide":"left"},
+		{"id":"f014576111cbb75d","fromNode":"ec0cfec02c8c099c","fromSide":"right","toNode":"6ce6cdba7a5e5cfd","toSide":"left","color":"4"}
+	]
+}

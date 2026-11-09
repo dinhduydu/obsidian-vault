@@ -4,12 +4,14 @@
 		{"id":"82f94190a8a58b97","type":"text","text":"しか","x":-54,"y":-553,"width":250,"height":60},
 		{"id":"b7bb7c132f3f5b9e","type":"file","file":"N2文法/しか/〜しかない.canvas","x":160,"y":-240,"width":206,"height":110},
 		{"id":"29b8709abf38c5db","type":"file","file":"N2文法/しか/〜としか言いようがない.canvas","x":640,"y":-1080,"width":289,"height":112},
-		{"id":"e92eff16392653da","type":"file","file":"N2文法/あまり・だけ/だけ/だけしか.canvas","x":-560,"y":-1320,"width":301,"height":260}
+		{"id":"e92eff16392653da","type":"file","file":"N2文法/あまり・だけ/だけ/だけしか.canvas","x":-560,"y":-1320,"width":301,"height":260},
+		{"id":"9261a781ea688f1a","x":680,"y":-40,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～でしかない.md"}
 	],
 	"edges":[
 		{"id":"3913a2d92f0cfcff","fromNode":"82f94190a8a58b97","fromSide":"left","toNode":"e5d71194422a6254","toSide":"right","color":"5","label":"Have no choice but to, can only / Không còn cách nào khác, chỉ có thể..."},
 		{"id":"8083f890b0ffa9c5","fromNode":"82f94190a8a58b97","fromSide":"right","toNode":"29b8709abf38c5db","toSide":"left","color":"5","label":"Chỉ có thể nói là... / Chỉ có thể gọi là... (Can only be described as)."},
 		{"id":"c230e158188420b2","fromNode":"82f94190a8a58b97","fromSide":"top","toNode":"e92eff16392653da","toSide":"right","color":"5","label":"Giới hạn số lượng"},
-		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"b7bb7c132f3f5b9e","toSide":"top","color":"5","label":"Chỉ còn cách... / Không còn cách nào khác ngoài...."}
+		{"id":"af5d5536d5df71f4","fromNode":"82f94190a8a58b97","fromSide":"bottom","toNode":"b7bb7c132f3f5b9e","toSide":"top","color":"5","label":"Chỉ còn cách... / Không còn cách nào khác ngoài...."},
+		{"id":"ff3caf0cee17b1cf","fromNode":"b7bb7c132f3f5b9e","fromSide":"right","toNode":"9261a781ea688f1a","toSide":"left","label":"である＋しか＋ない"}
 	]
 }

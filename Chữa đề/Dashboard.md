@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 850
-- Total Knowledge Items: 7440
-- Correct: 4833
-- Wrong: 7761
+- Total Reviews: 855
+- Total Knowledge Items: 7449
+- Correct: 4843
+- Wrong: 7784
 - Accuracy: 38.4%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 330| Wrong: 63
+- [[]] | Vocabulary| Score: 315| Wrong: 63
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 36.8% (Correct 435 / Wrong 748)
+- Adverb: 37.0% (Correct 439 / Wrong 749)
 - Collocation: 34.8% (Correct 275 / Wrong 515)
 - CompoundVerb: 38.3% (Correct 227 / Wrong 366)
 - Conjunction: 31.1% (Correct 115 / Wrong 255)
 - Demonstratives: 25.3% (Correct 41 / Wrong 121)
-- FixedExpression: 35.8% (Correct 262 / Wrong 469)
-- Grammar: 36.5% (Correct 1102 / Wrong 1921)
-- Kanji: 43.8% (Correct 417 / Wrong 534)
+- FixedExpression: 35.6% (Correct 261 / Wrong 472)
+- Grammar: 36.4% (Correct 1105 / Wrong 1933)
+- Kanji: 43.8% (Correct 416 / Wrong 534)
 - Katakana: 41.8% (Correct 238 / Wrong 331)
 - Keigo: 32.2% (Correct 67 / Wrong 141)
 - Reading: 27.2% (Correct 149 / Wrong 399)
-- Vocabulary: 43.4% (Correct 1505 / Wrong 1961)
+- Vocabulary: 43.4% (Correct 1510 / Wrong 1968)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 330)
+- [[]] (Score: 315)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[拡充]] (Score: 45)
 - [[連続]] (Score: 45)

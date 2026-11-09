@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fc6ca7f720798b5d","x":-106,"y":-76,"width":250,"height":60,"type":"text","text":"Vたら"},
+		{"id":"3080220ecd95c227","x":440,"y":160,"width":250,"height":60,"type":"text","text":"VたらVたで"},
+		{"id":"42f4b97db7b3cb3f","x":880,"y":20,"width":400,"height":96,"type":"file","file":"Pasted image 20261108192222.png"}
+	],
+	"edges":[
+		{"id":"1ebf31bf15517051","fromNode":"fc6ca7f720798b5d","fromSide":"right","toNode":"3080220ecd95c227","toSide":"left","color":"5","label":"Đến lúc A thì trái lại so với điều mình nghĩ"},
+		{"id":"220bda62c8792488","fromNode":"3080220ecd95c227","fromSide":"right","toNode":"42f4b97db7b3cb3f","toSide":"left","color":"6"}
+	]
+}

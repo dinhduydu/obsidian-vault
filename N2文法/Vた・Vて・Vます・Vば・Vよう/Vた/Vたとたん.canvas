@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"eebdd8b9b58d519e","type":"text","text":"Vたとたん（に）","x":155,"y":205,"width":250,"height":72},
+		{"id":"9d5a46f583c117fe","type":"file","file":"Pasted image 20260410085131.png","x":-405,"y":-276,"width":400,"height":223}
+	],
+	"edges":[
+		{"id":"d47d36a8c7ea9bb2","fromNode":"eebdd8b9b58d519e","fromSide":"top","toNode":"9d5a46f583c117fe","toSide":"right","label":"Vたとたん（に）"}
+	]
+}

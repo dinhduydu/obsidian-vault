@@ -14,7 +14,8 @@
 		{"id":"88fd203397cd70ec","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜といったところだ.md","x":-180,"y":-255,"width":340,"height":100},
 		{"id":"721e3c8ba917e5f0","type":"text","text":"Từ bây giờ sẽ làm A","x":-1144,"y":322,"width":250,"height":60},
 		{"id":"ab09da1d7a0955e9","type":"file","file":"N2文法/ところ・どころ/ところ/ところだ.canvas","x":-654,"y":-96,"width":229,"height":86},
-		{"id":"9df9c40c9488f985","type":"text","text":"A+Vた＋ところだ","x":-654,"y":120,"width":227,"height":61}
+		{"id":"9df9c40c9488f985","type":"text","text":"A+Vた＋ところだ","x":-654,"y":120,"width":227,"height":61},
+		{"id":"3b641acb0a75df0e","x":-1840,"y":-281,"width":233,"height":155,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vた.canvas"}
 	],
 	"edges":[
 		{"id":"e8d6b27c0daeea03","fromNode":"7a5a91504b4c5c7d","fromSide":"right","toNode":"78846f678aedcdfb","toSide":"bottom","color":"3","label":"Vた＋ところ＋が"},
@@ -33,6 +34,7 @@
 		{"id":"3c31a8ab595fdcd5","fromNode":"ab09da1d7a0955e9","fromSide":"right","toNode":"88fd203397cd70ec","toSide":"left","color":"3","label":"Chỉ khoảng, tầm khoảng (không nhiều lắm)."},
 		{"id":"bc8315e23bcc4ae4","fromNode":"586022d29f06a1ae","fromSide":"right","toNode":"9df9c40c9488f985","toSide":"left","color":"3"},
 		{"id":"615297aaea2daa90","fromNode":"ab09da1d7a0955e9","fromSide":"bottom","toNode":"9df9c40c9488f985","toSide":"top","color":"3"},
-		{"id":"77f71e52238c9753","fromNode":"721e3c8ba917e5f0","fromSide":"right","toNode":"9df9c40c9488f985","toSide":"left","color":"3"}
+		{"id":"77f71e52238c9753","fromNode":"721e3c8ba917e5f0","fromSide":"right","toNode":"9df9c40c9488f985","toSide":"left","color":"3"},
+		{"id":"63ee5fc09e2244d9","fromNode":"3b641acb0a75df0e","fromSide":"right","toNode":"586022d29f06a1ae","toSide":"left","color":"2"}
 	]
 }

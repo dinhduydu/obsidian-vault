@@ -12,7 +12,7 @@
 		{"id":"cde462841685da37","type":"file","file":"N2文法/あまり・だけ/だけ/だけだ.canvas","x":466,"y":-440,"width":400,"height":400},
 		{"id":"5c650e6d795aa008","type":"text","text":"だけ","x":-694,"y":-282,"width":250,"height":60},
 		{"id":"9b14e9fb402f0e3d","type":"file","file":"N2文法/あまり・だけ/だけ/だけで.canvas","x":-1910,"y":-200,"width":301,"height":220},
-		{"id":"10c664ab8ccbb24a","x":-81,"y":1260,"width":400,"height":400,"type":"file","file":"N2文法/あまり・だけ/だけ/だけまし.canvas"}
+		{"id":"10c664ab8ccbb24a","type":"file","file":"N2文法/あまり・だけ/だけ/だけまし.canvas","x":-81,"y":1260,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"dcaabe58ffc9f9f6","fromNode":"5c650e6d795aa008","fromSide":"bottom","toNode":"9b14e9fb402f0e3d","toSide":"right","label":"だけで ー　Chỉ với"},
