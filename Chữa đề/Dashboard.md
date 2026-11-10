@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 870
-- Total Knowledge Items: 7511
-- Correct: 4927
-- Wrong: 7852
-- Accuracy: 38.6%
+- Total Reviews: 883
+- Total Knowledge Items: 7652
+- Correct: 5059
+- Wrong: 7936
+- Accuracy: 38.9%
 
 ## 🚨 Review Queue
 
@@ -29,7 +29,7 @@
 - [[〜に限って]] | Grammar| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 65| Wrong: 13
 - [[〜に違いない]] | Grammar| Score: 65| Wrong: 10
-- [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 13
+- [[〜あまり]] | Grammar| Score: 65| Wrong: 10
 
 ## 🔥 Top Weak Points
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.4% (Correct 443 / Wrong 743)
-- Collocation: 35.0% (Correct 279 / Wrong 518)
-- CompoundVerb: 38.4% (Correct 234 / Wrong 375)
-- Conjunction: 31.2% (Correct 124 / Wrong 274)
-- Demonstratives: 25.2% (Correct 41 / Wrong 122)
-- FixedExpression: 35.7% (Correct 264 / Wrong 476)
-- Grammar: 36.4% (Correct 1125 / Wrong 1964)
-- Kanji: 43.7% (Correct 412 / Wrong 530)
-- Katakana: 42.6% (Correct 246 / Wrong 332)
-- Keigo: 32.9% (Correct 69 / Wrong 141)
-- Reading: 27.4% (Correct 152 / Wrong 402)
-- Vocabulary: 43.8% (Correct 1538 / Wrong 1975)
+- Adverb: 37.9% (Correct 457 / Wrong 748)
+- Collocation: 35.0% (Correct 281 / Wrong 523)
+- CompoundVerb: 39.3% (Correct 245 / Wrong 378)
+- Conjunction: 31.8% (Correct 129 / Wrong 277)
+- Demonstratives: 27.1% (Correct 46 / Wrong 124)
+- FixedExpression: 36.2% (Correct 276 / Wrong 487)
+- Grammar: 36.7% (Correct 1146 / Wrong 1980)
+- Kanji: 43.7% (Correct 408 / Wrong 526)
+- Katakana: 43.7% (Correct 260 / Wrong 335)
+- Keigo: 34.3% (Correct 74 / Wrong 142)
+- Reading: 27.9% (Correct 162 / Wrong 418)
+- Vocabulary: 44.1% (Correct 1575 / Wrong 1998)
 
 ## 📚 Top Grammar
 
@@ -117,9 +117,9 @@
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
-- [[トラブル]] (Score: 35)
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
+- [[エアバッグ]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -203,7 +203,7 @@
 
 - [[いらっしゃいます]] (Score: 50)
 - [[いらっしゃる]] (Score: 45)
-- [[おっしゃる]] (Score: 42)
+- [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 30)
 - [[お〜ください]] (Score: 30)
@@ -221,16 +221,17 @@
 - [[そんな]] (Score: 45)
 - [[こんな]] (Score: 45)
 - [[あの]] (Score: 40)
+- [[これ]] (Score: 30)
 - [[こうした]] (Score: 30)
 - [[ただ]] (Score: 30)
-- [[それが]] (Score: 25)
 
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 12]]
 - [[2. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 10]]
 - [[3. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 97]]
-- [[1. Phân Tích]]
+- [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 100]]
+- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 99]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
 - [[10. Phân Tích 021120265-8-9.pdf]]
 - [[11. Phân Tích nhận diện âm đọc Kanji (Onyomi & Kunyomi) và ý nghĩa từ vựng N2.]]
@@ -246,4 +247,3 @@
 - [[6. Phân Tích N2_TỪ NỐI (P3)]]
 - [[7. Phân Tích 021120265-2-3.pdf]]
 - [[8. Phân Tích 021120265-4-5.pdf]]
-- [[9. Phân Tích 021120265-6-7.pdf]]
