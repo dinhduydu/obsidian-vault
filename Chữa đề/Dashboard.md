@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 864
-- Total Knowledge Items: 7466
-- Correct: 4879
-- Wrong: 7803
-- Accuracy: 38.5%
+- Total Reviews: 870
+- Total Knowledge Items: 7511
+- Correct: 4927
+- Wrong: 7852
+- Accuracy: 38.6%
 
 ## 🚨 Review Queue
 
@@ -26,10 +26,10 @@
 - [[この]] | Demonstratives| Score: 72| Wrong: 12
 - [[しかし]] | Conjunction| Score: 70| Wrong: 14
 - [[〜がたい]] | Grammar| Score: 70| Wrong: 11
+- [[〜に限って]] | Grammar| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 65| Wrong: 13
 - [[〜に違いない]] | Grammar| Score: 65| Wrong: 10
 - [[〜ざるを得ない]] | Grammar| Score: 65| Wrong: 13
-- [[〜どころか]] | Grammar| Score: 65| Wrong: 10
 
 ## 🔥 Top Weak Points
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.1% (Correct 443 / Wrong 752)
-- Collocation: 34.8% (Correct 275 / Wrong 515)
-- CompoundVerb: 38.3% (Correct 228 / Wrong 368)
-- Conjunction: 31.0% (Correct 115 / Wrong 256)
-- Demonstratives: 25.3% (Correct 41 / Wrong 121)
-- FixedExpression: 35.6% (Correct 261 / Wrong 473)
-- Grammar: 36.5% (Correct 1115 / Wrong 1943)
-- Kanji: 43.6% (Correct 413 / Wrong 534)
-- Katakana: 41.9% (Correct 239 / Wrong 331)
+- Adverb: 37.4% (Correct 443 / Wrong 743)
+- Collocation: 35.0% (Correct 279 / Wrong 518)
+- CompoundVerb: 38.4% (Correct 234 / Wrong 375)
+- Conjunction: 31.2% (Correct 124 / Wrong 274)
+- Demonstratives: 25.2% (Correct 41 / Wrong 122)
+- FixedExpression: 35.7% (Correct 264 / Wrong 476)
+- Grammar: 36.4% (Correct 1125 / Wrong 1964)
+- Kanji: 43.7% (Correct 412 / Wrong 530)
+- Katakana: 42.6% (Correct 246 / Wrong 332)
 - Keigo: 32.9% (Correct 69 / Wrong 141)
-- Reading: 27.2% (Correct 149 / Wrong 399)
-- Vocabulary: 43.7% (Correct 1531 / Wrong 1970)
+- Reading: 27.4% (Correct 152 / Wrong 402)
+- Vocabulary: 43.8% (Correct 1538 / Wrong 1975)
 
 ## 📚 Top Grammar
 
@@ -79,8 +79,8 @@
 - [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
 - [[〜がたい]] (Score: 70)
+- [[〜に限って]] (Score: 65)
 - [[〜まい]] (Score: 65)
-- [[〜に違いない]] (Score: 65)
 
 ## 📚 Top Vocabulary
 
@@ -169,9 +169,9 @@
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
 - [[気がする]] (Score: 30)
+- [[苦手意識を持つ]] (Score: 25)
 - [[油田を開発する (ゆでんをかいはつする)]] (Score: 25)
 - [[日記帳]] (Score: 25)
-- [[深夜営業]] (Score: 25)
 
 ## 📚 Top Adverb
 
@@ -184,7 +184,7 @@
 - [[かつて]] (Score: 50)
 - [[今にも]] (Score: 45)
 - [[せっかく]] (Score: 42)
-- [[かえって]] (Score: 40)
+- [[しばしば]] (Score: 40)
 
 ## 📚 Top Conjunction
 
@@ -192,12 +192,12 @@
 - [[つまり]] (Score: 75)
 - [[しかし]] (Score: 70)
 - [[そこで]] (Score: 55)
-- [[ところで]] (Score: 45)
 - [[ただし]] (Score: 40)
 - [[それに]] (Score: 40)
 - [[とはいえ]] (Score: 40)
 - [[あるいは]] (Score: 37)
-- [[それで]] (Score: 35)
+- [[ところで]] (Score: 35)
+- [[むしろ]] (Score: 35)
 
 ## 📚 Top Keigo
 
@@ -227,6 +227,10 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 12]]
+- [[2. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 10]]
+- [[3. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 97]]
+- [[1. Phân Tích]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
 - [[10. Phân Tích 021120265-8-9.pdf]]
 - [[11. Phân Tích nhận diện âm đọc Kanji (Onyomi & Kunyomi) và ý nghĩa từ vựng N2.]]
@@ -243,7 +247,3 @@
 - [[7. Phân Tích 021120265-2-3.pdf]]
 - [[8. Phân Tích 021120265-4-5.pdf]]
 - [[9. Phân Tích 021120265-6-7.pdf]]
-- [[1. Phân Tích 8.1. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[10. Phân Tích 8.10. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[11. Phân Tích 8.11. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf]]
-- [[12. Phân Tích 1. Phân biệt văn nói và văn viết để giao tiếp mượt hơn....pdf]]

@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"c32184cf94eae8a7","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"籍 - Tịch"},
-		{"id":"652058e3b04a7b66","x":-500,"y":60,"width":178,"height":133,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas"},
-		{"id":"90a3bd22fddb7fff","x":-820,"y":53,"width":188,"height":147,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Lỗi　「耒」.canvas"},
-		{"id":"5fb6acc385b990e1","x":-505,"y":-320,"width":183,"height":148,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas"}
+		{"id":"c32184cf94eae8a7","type":"text","text":"籍 - Tịch","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"652058e3b04a7b66","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/昔 - Tích.canvas","x":-500,"y":60,"width":178,"height":133},
+		{"id":"90a3bd22fddb7fff","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/L/Lỗi　「耒」/Lỗi　「耒」.canvas","x":-820,"y":53,"width":188,"height":147},
+		{"id":"5fb6acc385b990e1","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Trúc　「竹 (⺮) 」/Trúc　「竹 (⺮) 」.canvas","x":-505,"y":-320,"width":183,"height":148},
+		{"id":"2a00ed2f58403f4f","type":"file","file":"Chữa đề/Learning_Profile/Kanji/在籍.md","x":360,"y":-580,"width":255,"height":155},
+		{"id":"11ea3b166448b7e0","type":"file","file":"Chữa đề/Learning_Profile/Kanji/書籍.md","x":460,"y":280,"width":227,"height":137}
 	],
 	"edges":[
 		{"id":"68b03f74e7f75016","fromNode":"652058e3b04a7b66","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"},
 		{"id":"0b08d4a20b6aadd0","fromNode":"90a3bd22fddb7fff","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"},
-		{"id":"e14d5e89b23a9ee3","fromNode":"5fb6acc385b990e1","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"}
+		{"id":"e14d5e89b23a9ee3","fromNode":"5fb6acc385b990e1","fromSide":"right","toNode":"c32184cf94eae8a7","toSide":"left"},
+		{"id":"8ef384bd43c7e00a","fromNode":"c32184cf94eae8a7","fromSide":"right","toNode":"11ea3b166448b7e0","toSide":"left","color":"6","label":"Sách vở, thư tịch, ấn phẩm in ấn (Books / Publications). Hán tự: 書 (THƯ) + 籍 (TỊCH)."},
+		{"id":"615fc4ee978c7211","fromNode":"c32184cf94eae8a7","fromSide":"right","toNode":"2a00ed2f58403f4f","toSide":"left","color":"6","label":"Đang theo học, có tên trong danh sách."}
 	]
 }

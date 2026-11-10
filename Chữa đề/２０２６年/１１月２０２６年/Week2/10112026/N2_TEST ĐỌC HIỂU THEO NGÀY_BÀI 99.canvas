@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"91673d0e4c279c3b","type":"text","text":"●応募資格\n\n①応募締切日時点で、日本国内の高等学校、中等教育学校後期課程又は高等専門学校（１～３学年）等に在籍する生徒\n\n②応募締切日時点で、満13歳の方\n\n③過去に参加経験がある人も参加できます。\n\n●参加費　無料。期間中の食事や宿舎は用意します。\n\n※ただし自宅と会場間の交通費については自己負担です。\n","x":-880,"y":-560,"width":580,"height":320},
+		{"id":"ff85d5d5aed41a65","type":"text","text":"●応募方法\n\n募集要項巻末の「参加申込書」に必要事項をご記入のうえ、応募締切日必着にて、財団法人日本科学技術振興財団　サイエンスキャンプ事務局宛に郵送でお送りください。\n\n「参加申込書」はサイエンスキャンプ事務局のホームページからもダウンロードできます。\n\n※必ず、保護者署名押印のある原本を郵送してください。（FAX不可）\n\n※応募は１人１通のみです。複数の応募は無効となりますのでご注意ください。","x":-1720,"y":-410,"width":720,"height":300},
+		{"id":"7c1f6716e9a747a7","type":"text","text":"　　「サイエンスキャンプ」参加者募集のお知らせ\n\n\n\n\n\n\n●応募締切日　2010年６月５日（火）必着\n\n●選考方法及び決定等\n\n（1）「参加申込書」にもとづいて、各プログラム会場が参加者を決定します。\n\n（2）選考結果は応募締切り後、７月上旬、応募者本人宛に郵送で通知します。また、参加者には、「参加証」とあわせて集合場所への経路や持ち物など詳細を説明した「参加のしおり」、「保護者承諾書」、「保険加入申込書」、その他参加にあたり作成いただく書類も送付します。\n\n※「参加申込書」に記載された住所に郵送します。\n\n●選考結果通知日　　2010年７月上旬","x":-880,"y":-196,"width":865,"height":360},
+		{"id":"95c1bb9ca03eba04","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/昔 - Tích/籍 - Tịch.canvas","x":-2040,"y":-77,"width":210,"height":154},
+		{"id":"8add10f88e38862a","type":"file","file":"Chữa đề/Learning_Profile/Kanji/在籍.md","x":-1040,"y":-840,"width":205,"height":76},
+		{"id":"3849c0f42c490363","type":"text","text":"20．下の４人のうち、「サイエンスキャンプ」に応募できる人は誰か。\n\n*\n1 điểm\n１ 2010年の秋から日本の高校に交換留学に来るオーストラリア籍のマリアさん\n２ アメリカの中学校に通っている、15歳の誕生日が過ぎたばかりの小林君\n３ 日本の中学校に在籍し、1997年10月20生まれの佐藤ももこさん\n４ 日本の高校に通っている、サイエンスキャンプに参加したことのあるダニエル君","x":-1740,"y":100,"width":709,"height":204},
+		{"id":"dc970cc0cea6dfc4","type":"text","text":"●開催期間\n\n2010年７月２６日～2010年７月２８日（うち２泊３日）","x":-1610,"y":-610,"width":500,"height":100},
+		{"id":"7bb3380d56d5caff","type":"file","file":"N2漢字/Bộ thủ/Chữ cổ/Quyển　「龹」/藤 - Đằng.canvas","x":-2300,"y":206,"width":287,"height":197},
+		{"id":"b4fdae4d31c46fbf","type":"text","text":"21．案内の内容と合っているものはどれか。\n\n*\n1 điểm\n１ 申請申込書はサイエンスキャンプ事務局の窓口からもらわなければならない。\n２ 選考の結果は７月上旬に事務局のホームページで調べることができる。\n３ 参加者は食事代、宿泊料を払わなくてもいいが、会場までの交通費を自己負担する必要がある。\n４ 参加者は申込書と保護者の署名がある承諾書の原本を一緒に郵送する必要がある。","x":-1740,"y":420,"width":769,"height":224},
+		{"id":"9f96fdc94b2e5740","x":-1860,"y":840,"width":320,"height":140,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/盆と正月が一緒にやってきた.md"}
+	],
+	"edges":[
+		{"id":"a3348f8340a0c75b","fromNode":"95c1bb9ca03eba04","fromSide":"right","toNode":"3849c0f42c490363","toSide":"left"},
+		{"id":"9f3767e7958907ec","fromNode":"8add10f88e38862a","fromSide":"right","toNode":"91673d0e4c279c3b","toSide":"top","label":"Đang theo học, có tên trong danh sách."},
+		{"id":"a55a91c38e5f5317","fromNode":"91673d0e4c279c3b","fromSide":"bottom","toNode":"ff85d5d5aed41a65","toSide":"right"},
+		{"id":"3c631e4d5f0ebc2d","fromNode":"ff85d5d5aed41a65","fromSide":"bottom","toNode":"7c1f6716e9a747a7","toSide":"left"},
+		{"id":"12a40bd4ed7a67bb","fromNode":"dc970cc0cea6dfc4","fromSide":"right","toNode":"91673d0e4c279c3b","toSide":"left"},
+		{"id":"44d0fd06a5af0970","fromNode":"7bb3380d56d5caff","fromSide":"right","toNode":"3849c0f42c490363","toSide":"left"},
+		{"id":"8d6726743df6dd74","fromNode":"9f96fdc94b2e5740","fromSide":"top","toNode":"b4fdae4d31c46fbf","toSide":"bottom","label":"dồn dập, cùng lúc"}
+	]
+}
