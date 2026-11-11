@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2ac88ae7be07b39f","type":"text","text":"Vますそうとしても","x":-526,"y":-159,"width":250,"height":60},
+		{"id":"a2beb179bc561553","type":"file","file":"Pasted image 20260504020551.png","x":374,"y":-274,"width":400,"height":291},
+		{"id":"7f7ab28c099101b6","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/と.canvas","x":-1004,"y":100,"width":248,"height":146},
+		{"id":"3e88f8def5a57b1c","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vます.canvas","x":-1000,"y":-407,"width":251,"height":133},
+		{"id":"b36d6c3fc1dec40d","type":"file","file":"N2文法/そう・よう/そう/そう.canvas","x":-1000,"y":-197,"width":244,"height":136}
+	],
+	"edges":[
+		{"id":"032c371245504ae3","fromNode":"2ac88ae7be07b39f","fromSide":"right","toNode":"a2beb179bc561553","toSide":"left","label":"Vますそうとしても"},
+		{"id":"5463ef5bcd412af6","fromNode":"7f7ab28c099101b6","fromSide":"right","toNode":"2ac88ae7be07b39f","toSide":"left","color":"2"},
+		{"id":"42d8b5db65453a7d","fromNode":"3e88f8def5a57b1c","fromSide":"right","toNode":"2ac88ae7be07b39f","toSide":"left","color":"2"},
+		{"id":"d84761cbdac4c89c","fromNode":"b36d6c3fc1dec40d","fromSide":"right","toNode":"2ac88ae7be07b39f","toSide":"left","color":"2"}
+	]
+}

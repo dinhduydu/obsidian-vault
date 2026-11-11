@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e9363963242398bf","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜としても.md","x":-830,"y":-60,"width":400,"height":400},
+		{"id":"36b724f99452ddba","type":"text","text":"Giả sử có vào tình trạng A đi nữa","x":-1320,"y":-160,"width":250,"height":60},
+		{"id":"61f57271960772af","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たとしても.md","x":160,"y":-395,"width":340,"height":175},
+		{"id":"e3b77ae43a5a0821","type":"text","text":"たとえ試験に落ちたとしてもあきらめません。","x":680,"y":-445,"width":400,"height":50}
+	],
+	"edges":[
+		{"id":"9a6820c62d776d75","fromNode":"36b724f99452ddba","fromSide":"right","toNode":"e9363963242398bf","toSide":"left","color":"2"},
+		{"id":"7c354140562781ae","fromNode":"e9363963242398bf","fromSide":"right","toNode":"61f57271960772af","toSide":"left","label":"〜たとしても　ー　Ngay cả khi"},
+		{"id":"8b5dbd996d8d6ede","fromNode":"61f57271960772af","fromSide":"right","toNode":"e3b77ae43a5a0821","toSide":"left"}
+	]
+}

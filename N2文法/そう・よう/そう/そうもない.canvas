@@ -1,1 +1,13 @@
-{}
+{
+	"nodes":[
+		{"id":"0d70f52ff03e11c9","type":"text","text":"Vます","x":27,"y":38,"width":250,"height":60},
+		{"id":"edf1c892a56bbcca","type":"text","text":"đưa ra khả năng thấp","x":406,"y":8,"width":250,"height":60},
+		{"id":"2bbe31b7f52ad977","type":"file","file":"N2文法/そう・よう/そう/そうにない.canvas","x":-602,"y":160,"width":214,"height":61},
+		{"id":"051f8b7f60306b76","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～そうもない.md","x":-900,"y":-340,"width":265,"height":101}
+	],
+	"edges":[
+		{"id":"5c7c2fde93b2384f","fromNode":"2bbe31b7f52ad977","fromSide":"right","toNode":"0d70f52ff03e11c9","toSide":"left","label":"Vますそうにない"},
+		{"id":"14e6d5f5e49fb3d8","fromNode":"051f8b7f60306b76","fromSide":"right","toNode":"0d70f52ff03e11c9","toSide":"left","label":"Vますそうもない\nKhông có vẻ gì là/Rất khó xảy ra."},
+		{"id":"03f11f6229737f1d","fromNode":"0d70f52ff03e11c9","fromSide":"right","toNode":"edf1c892a56bbcca","toSide":"left"}
+	]
+}

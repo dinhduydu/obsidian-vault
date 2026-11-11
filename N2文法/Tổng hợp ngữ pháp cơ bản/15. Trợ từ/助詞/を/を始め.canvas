@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"522786ffba6540dc","type":"text","text":"をはじめとして","x":-39,"y":64,"width":250,"height":60},
+		{"id":"1d6fe0bad54bb136","type":"text","text":"を始める","x":-39,"y":-270,"width":250,"height":60},
+		{"id":"68f1fc4a5008cc15","type":"text","text":"「N3」を","x":-854,"y":-390,"width":250,"height":60},
+		{"id":"4cdf359f84279850","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/と.canvas","x":646,"y":19,"width":209,"height":151},
+		{"id":"176656bd07340d21","type":"text","text":"をはじめ","x":-540,"y":380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"63cb43bec3429d1d","fromNode":"522786ffba6540dc","fromSide":"right","toNode":"4cdf359f84279850","toSide":"left","label":"をはじめとして"},
+		{"id":"867faf9ecb474dcf","fromNode":"176656bd07340d21","fromSide":"top","toNode":"522786ffba6540dc","toSide":"left","label":"をはじめとして"},
+		{"id":"bed048f8aefbc54b","fromNode":"1d6fe0bad54bb136","fromSide":"bottom","toNode":"522786ffba6540dc","toSide":"top","label":"をはじめとして"},
+		{"id":"7625f56d6337cc06","fromNode":"68f1fc4a5008cc15","fromSide":"right","toNode":"1d6fe0bad54bb136","toSide":"left","label":"を始める"}
+	]
+}

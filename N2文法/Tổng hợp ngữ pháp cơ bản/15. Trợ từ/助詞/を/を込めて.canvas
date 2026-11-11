@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9ecff5d871489d22","type":"text","text":"を込めて","x":-911,"y":122,"width":250,"height":60},
+		{"id":"870ac538b64e6e30","type":"text","text":"Nを込めて","x":-469,"y":37,"width":250,"height":60},
+		{"id":"f5a7480bb63c4035","type":"text","text":"Dùng khi muốn nói đưa tình cảm A vào 1 thứ nào đó","x":-69,"y":-61,"width":250,"height":60},
+		{"id":"7e5f76846f7f93f7","type":"text","text":"A thường là","x":312,"y":-110,"width":250,"height":60},
+		{"id":"a6e589a585f78524","type":"text","text":"愛","x":650,"y":-182,"width":250,"height":60},
+		{"id":"b292f0200ed3a7d2","type":"text","text":"思い","x":662,"y":-23,"width":250,"height":60},
+		{"id":"12f3c1e8458030ae","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/を/を.canvas","x":-1300,"y":-64,"width":233,"height":127},
+		{"id":"be79113de3d1ef34","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/～を込めて.md","x":-380,"y":380,"width":311,"height":183}
+	],
+	"edges":[
+		{"id":"15b2b54bf8a4f318","fromNode":"9ecff5d871489d22","fromSide":"right","toNode":"870ac538b64e6e30","toSide":"left","color":"4"},
+		{"id":"1be327b9c9250c57","fromNode":"870ac538b64e6e30","fromSide":"right","toNode":"f5a7480bb63c4035","toSide":"left"},
+		{"id":"72029536be5b7689","fromNode":"f5a7480bb63c4035","fromSide":"right","toNode":"7e5f76846f7f93f7","toSide":"left"},
+		{"id":"1537cb2ce80d6aed","fromNode":"7e5f76846f7f93f7","fromSide":"right","toNode":"a6e589a585f78524","toSide":"left"},
+		{"id":"5530a559915086dc","fromNode":"7e5f76846f7f93f7","fromSide":"right","toNode":"b292f0200ed3a7d2","toSide":"left"},
+		{"id":"7651a4db205fbcf7","fromNode":"12f3c1e8458030ae","fromSide":"right","toNode":"9ecff5d871489d22","toSide":"left","color":"5"},
+		{"id":"59f35a095a2ca34e","fromNode":"9ecff5d871489d22","fromSide":"right","toNode":"be79113de3d1ef34","toSide":"left","color":"4","label":"Dồn cả, chứa chan (cảm xúc) vào hành động."}
+	]
+}

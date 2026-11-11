@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"df625ddb6abb1987","type":"text","text":"を","x":280,"y":484,"width":250,"height":50},
+		{"id":"adc72efbab874502","type":"text","text":"ざるを得ない","x":-211,"y":-234,"width":250,"height":60},
+		{"id":"706898433af7463e","type":"text","text":"得る（える・うる）","x":-530,"y":-534,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"785eec84b54c195e","fromNode":"df625ddb6abb1987","fromSide":"top","toNode":"adc72efbab874502","toSide":"bottom","label":"ざるを得ない"},
+		{"id":"944733ca4c72fa3d","fromNode":"adc72efbab874502","fromSide":"top","toNode":"706898433af7463e","toSide":"bottom"}
+	]
+}

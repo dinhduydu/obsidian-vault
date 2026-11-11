@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd62b5b36adc3a15","type":"text","text":"として","x":482,"y":156,"width":250,"height":60},
+		{"id":"a597a1be97761948","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜として...ない.md","x":-731,"y":-215,"width":320,"height":260}
+	],
+	"edges":[
+		{"id":"84c644db6ac8b315","fromNode":"fd62b5b36adc3a15","fromSide":"left","toNode":"a597a1be97761948","toSide":"right","label":"として～ない - \n Không một (đơn vị)... nào cả"}
+	]
+}

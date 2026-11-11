@@ -1,1 +1,23 @@
-{}
+{
+	"nodes":[
+		{"id":"1afa18ab06813bef","type":"text","text":"Diễn tả việc đã suy đoán từ thông tin mà nhận được thông qua việc đọc một cái gì đó, nghe chuyện gì đó","x":398,"y":-110,"width":322,"height":100},
+		{"id":"3fbfcac60036cc17","type":"text","text":"Diễn tả nét đặc trưng điển hình của ~","x":412,"y":163,"width":250,"height":60},
+		{"id":"1bade572bf9b7624","type":"text","text":"普通形＋らしい","x":780,"y":-144,"width":250,"height":60},
+		{"id":"7ea6fcf391fc7ce1","type":"file","file":"Pasted image 20260409005137.png","x":-710,"y":-229,"width":400,"height":219},
+		{"id":"e7bee3191a3bbe61","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～とかで.md","x":-1700,"y":-720,"width":244,"height":150},
+		{"id":"5e11fe49324a2262","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/とか.md","x":-1260,"y":-400,"width":195,"height":109},
+		{"id":"6f02c987c4f93a0c","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～らしい.md","x":-109,"y":163,"width":246,"height":118},
+		{"id":"ef689238b3b0a2fe","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/そうだ.md","x":14,"y":-640,"width":274,"height":152},
+		{"id":"4e410904ee85c5a4","type":"text","text":"N＋らしい","x":820,"y":221,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"98608da30785c663","fromNode":"6f02c987c4f93a0c","fromSide":"right","toNode":"1afa18ab06813bef","toSide":"left"},
+		{"id":"32d8645b340512d2","fromNode":"6f02c987c4f93a0c","fromSide":"right","toNode":"3fbfcac60036cc17","toSide":"left"},
+		{"id":"6c016e90ad0f78df","fromNode":"7ea6fcf391fc7ce1","fromSide":"right","toNode":"6f02c987c4f93a0c","toSide":"left","color":"3","label":"Nghe nói/Phỏng đoán có căn cứ."},
+		{"id":"3c4e028c3de0a1c4","fromNode":"1afa18ab06813bef","fromSide":"right","toNode":"1bade572bf9b7624","toSide":"left"},
+		{"id":"c820e3c7b4a93ed0","fromNode":"3fbfcac60036cc17","fromSide":"right","toNode":"4e410904ee85c5a4","toSide":"left"},
+		{"id":"4525deba261d8f3b","fromNode":"7ea6fcf391fc7ce1","fromSide":"left","toNode":"5e11fe49324a2262","toSide":"right","color":"3","label":"Như là, hoặc là... (Such as / Or)."},
+		{"id":"b56c945f79e8bc55","fromNode":"5e11fe49324a2262","fromSide":"left","toNode":"e7bee3191a3bbe61","toSide":"right","color":"5","label":"Thấy bảo là vì.../Nghe nói là do... (đưa ra lý do chưa xác thực)."},
+		{"id":"4b3694cf23474ad1","fromNode":"7ea6fcf391fc7ce1","fromSide":"right","toNode":"ef689238b3b0a2fe","toSide":"left","color":"3","label":"Nghe nói là... (Truyền đạt lại thông tin nghe/đọc được từ nguồn khác)."}
+	]
+}

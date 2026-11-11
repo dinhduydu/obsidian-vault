@@ -17,8 +17,8 @@
 		{"id":"cfbcbf246a86ea2c","type":"text","text":"としたら","x":-553,"y":3,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"39747bc321f74c5e","fromNode":"86f62fa652299955","fromSide":"left","toNode":"cfbcbf246a86ea2c","toSide":"right","label":"としたら"},
-		{"id":"c616dc1d7bbb1c82","fromNode":"86f62fa652299955","fromSide":"left","toNode":"189183cf6f3e6367","toSide":"right","label":"とすれば"},
+		{"id":"39747bc321f74c5e","fromNode":"86f62fa652299955","fromSide":"left","toNode":"cfbcbf246a86ea2c","toSide":"right","color":"5","label":"としたら"},
+		{"id":"c616dc1d7bbb1c82","fromNode":"86f62fa652299955","fromSide":"left","toNode":"189183cf6f3e6367","toSide":"right","color":"5","label":"とすれば"},
 		{"id":"81ec16c51aba17e8","fromNode":"6303a52d1fb4990e","fromSide":"left","toNode":"d9978ec1090760e0","toSide":"right","label":"としたら"},
 		{"id":"b198ad16bb6a8d0a","fromNode":"cfbcbf246a86ea2c","fromSide":"left","toNode":"6303a52d1fb4990e","toSide":"right"}
 	]

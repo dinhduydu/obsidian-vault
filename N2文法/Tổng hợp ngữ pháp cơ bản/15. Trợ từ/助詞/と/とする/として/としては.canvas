@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"932125ea2e261f23","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜としては.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"4052ef5d836028cb","x":-840,"y":-310,"width":437,"height":110,"type":"text","text":"N＋としては\nVới tư cách là/Xét về khía cạnh.\nDanh từ chỉ người, nghề nghiệp hoặc địa điểm."}
+	],
+	"edges":[
+		{"id":"dbad7daed75bd0e8","fromNode":"4052ef5d836028cb","fromSide":"right","toNode":"932125ea2e261f23","toSide":"left","color":"3"}
+	]
+}

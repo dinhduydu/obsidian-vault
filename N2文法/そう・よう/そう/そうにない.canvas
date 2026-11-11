@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"598401b3912754dc","type":"text","text":"Vます","x":480,"y":310,"width":250,"height":60},
+		{"id":"3a83a3b84bd7bbdd","type":"text","text":"đưa ra khả năng thấp","x":859,"y":280,"width":250,"height":60},
+		{"id":"212851107ae6f9ed","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～そうにない.md","x":-140,"y":-80,"width":300,"height":137}
+	],
+	"edges":[
+		{"id":"46e764be94d40b3d","fromNode":"598401b3912754dc","fromSide":"right","toNode":"3a83a3b84bd7bbdd","toSide":"left"},
+		{"id":"091cfb1b0a23a500","fromNode":"212851107ae6f9ed","fromSide":"right","toNode":"598401b3912754dc","toSide":"left","label":"Vます + そうにない. \nDùng khi quan sát tình hình và dự đoán một kết quả khó xảy ra."}
+	]
+}

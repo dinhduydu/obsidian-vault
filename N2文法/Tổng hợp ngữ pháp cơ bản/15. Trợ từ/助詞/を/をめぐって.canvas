@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"de6dc5ac58d33c8b","type":"text","text":"をめぐって","x":-436,"y":-4,"width":250,"height":60},
+		{"id":"7ae701d12baae51d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜をめぐって.md","x":14,"y":-100,"width":423,"height":201}
+	],
+	"edges":[
+		{"id":"b7f06619bd12e767","fromNode":"de6dc5ac58d33c8b","fromSide":"right","toNode":"7ae701d12baae51d","toSide":"left"}
+	]
+}
