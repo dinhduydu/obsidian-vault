@@ -1,11 +1,21 @@
 {
 	"nodes":[
-		{"id":"961ca76ec84c9780","x":-125,"y":-25,"width":250,"height":60,"type":"text","text":"妙 - Diệu"},
-		{"id":"75ebd0c0c30ce9b0","x":-360,"y":-200,"width":140,"height":126,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas"},
-		{"id":"79ca93fdc016d185","x":-365,"y":120,"width":145,"height":155,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Thiểu　「少」/Thiểu　「少」.canvas"}
+		{"id":"961ca76ec84c9780","type":"text","text":"妙 - Diệu","x":-125,"y":-25,"width":250,"height":60},
+		{"id":"75ebd0c0c30ce9b0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nữ　「女」/Nữ　「女」.canvas","x":-360,"y":-200,"width":140,"height":126},
+		{"id":"79ca93fdc016d185","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tiểu　「小」/Thiểu　「少」/Thiểu　「少」.canvas","x":-365,"y":120,"width":145,"height":155},
+		{"id":"a8ab3072564f3b92","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/妙な.md","x":380,"y":-355,"width":307,"height":155},
+		{"id":"9f2d88a4844faa35","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/奇妙.md","x":980,"y":-580,"width":232,"height":128},
+		{"id":"866e33d67ebf48ef","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/奇妙な.md","x":1680,"y":-1180,"width":290,"height":128},
+		{"id":"9d0bdad6aa2ca73c","type":"file","file":"Chữa đề/Learning_Profile/Collocation/奇妙な形の建物.md","x":2280,"y":-880,"width":284,"height":109},
+		{"id":"68bcec558a9ac0cd","type":"file","file":"Chữa đề/Learning_Profile/Collocation/奇妙な現象.md","x":2271,"y":-1440,"width":302,"height":141}
 	],
 	"edges":[
-		{"id":"c4773606f4d465f4","fromNode":"75ebd0c0c30ce9b0","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left"},
-		{"id":"1e799ca2f40f17db","fromNode":"79ca93fdc016d185","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left"}
+		{"id":"c4773606f4d465f4","fromNode":"75ebd0c0c30ce9b0","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left","color":"3"},
+		{"id":"1e799ca2f40f17db","fromNode":"79ca93fdc016d185","fromSide":"right","toNode":"961ca76ec84c9780","toSide":"left","color":"5"},
+		{"id":"e408f414a5fef3cd","fromNode":"961ca76ec84c9780","fromSide":"right","toNode":"a8ab3072564f3b92","toSide":"left","color":"5","label":"Kỳ lạ, quái lạ, lạ bợm (strange, odd, mysterious)."},
+		{"id":"c053ed98e56c5e06","fromNode":"9f2d88a4844faa35","fromSide":"right","toNode":"866e33d67ebf48ef","toSide":"left","color":"4","label":"Kỳ lạ, kỳ quái, khác thường khó giải thích (きみょうな - Strange / Peculiar)."},
+		{"id":"2b82811504440828","fromNode":"a8ab3072564f3b92","fromSide":"right","toNode":"9f2d88a4844faa35","toSide":"left","color":"5","label":"Strange, peculiar, odd, mysterious (Kỳ lạ, lạ lùng)."},
+		{"id":"1b684a8ed247c3d5","fromNode":"866e33d67ebf48ef","fromSide":"right","toNode":"68bcec558a9ac0cd","toSide":"left","color":"6","label":"Hiện tượng kỳ lạ, bất thường (きみょうなげんしょう)."},
+		{"id":"d397e57e89d0cf8f","fromNode":"866e33d67ebf48ef","fromSide":"right","toNode":"9d0bdad6aa2ca73c","toSide":"left","color":"6","label":"Tòa nhà có hình dáng kỳ lạ (Building with a strange shape)."}
 	]
 }

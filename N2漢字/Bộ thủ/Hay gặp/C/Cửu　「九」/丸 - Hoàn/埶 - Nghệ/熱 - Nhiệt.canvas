@@ -1,13 +1,33 @@
 {
 	"nodes":[
-		{"id":"dcf20da4c7210008","type":"text","text":"熱 - Nhiệt","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"64aead04e98d7208","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hoả/Hoả　「灬」/Hoả　「灬」.canvas","x":-500,"y":380,"width":192,"height":118},
 		{"id":"f6a4e9924a6e2f19","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 11/熱 - Nhiệt.canvas","x":-920,"y":206,"width":182,"height":163},
-		{"id":"ec0ee4b2f422c760","x":-540,"y":-240,"width":212,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/埶 - Nghệ.canvas"}
+		{"id":"ec0ee4b2f422c760","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Cửu　「九」/丸 - Hoàn/埶 - Nghệ/埶 - Nghệ.canvas","x":-540,"y":-240,"width":212,"height":157},
+		{"id":"25026f8d5ce7471c","x":-159,"y":-720,"width":319,"height":176,"type":"file","file":"Chữa đề/Learning_Profile/Kanji/熱.md"},
+		{"id":"a62de15f2f4a39bd","x":500,"y":-1100,"width":328,"height":165,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/熱中.md"},
+		{"id":"3693a36d0b00c965","x":500,"y":-788,"width":350,"height":137,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/熱が高い.md"},
+		{"id":"3a965cc1dabd9a85","x":500,"y":-544,"width":296,"height":118,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/熱が下がる.md"},
+		{"id":"f1b24d7a40f5cdd2","x":480,"y":-203,"width":360,"height":120,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/熱しやすくて冷めやすい.md"},
+		{"id":"d588c71833905738","x":480,"y":0,"width":323,"height":144,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/加熱.md"},
+		{"id":"e599d841a1709e4c","x":479,"y":288,"width":326,"height":121,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/解熱剤.md"},
+		{"id":"868989016a635f9f","x":480,"y":540,"width":327,"height":135,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/亜熱帯.md"},
+		{"id":"dcf20da4c7210008","type":"text","text":"熱 - Nhiệt","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"a148880a6d393fed","type":"text","text":"熱 - Nhiệt","x":-120,"y":1020,"width":250,"height":60},
+		{"id":"42c68335ee44eaf7","x":479,"y":860,"width":271,"height":104,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/仕事熱心だ.md"}
 	],
 	"edges":[
 		{"id":"a6ba60aa53246e35","fromNode":"64aead04e98d7208","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"},
 		{"id":"d7d48661fb889d42","fromNode":"f6a4e9924a6e2f19","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"},
-		{"id":"fc34a3f3c6a40412","fromNode":"ec0ee4b2f422c760","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"}
+		{"id":"fc34a3f3c6a40412","fromNode":"ec0ee4b2f422c760","fromSide":"right","toNode":"dcf20da4c7210008","toSide":"left"},
+		{"id":"310ac6bc51414205","fromNode":"dcf20da4c7210008","fromSide":"top","toNode":"25026f8d5ce7471c","toSide":"bottom","color":"4"},
+		{"id":"06e1970ac2bfe984","fromNode":"25026f8d5ce7471c","fromSide":"right","toNode":"a62de15f2f4a39bd","toSide":"left"},
+		{"id":"db9cb301d7510c62","fromNode":"25026f8d5ce7471c","fromSide":"right","toNode":"3693a36d0b00c965","toSide":"left"},
+		{"id":"638819203d2f4c51","fromNode":"25026f8d5ce7471c","fromSide":"right","toNode":"3a965cc1dabd9a85","toSide":"left"},
+		{"id":"5193918faecfd12b","fromNode":"dcf20da4c7210008","fromSide":"right","toNode":"f1b24d7a40f5cdd2","toSide":"left"},
+		{"id":"8bc304a310082f73","fromNode":"dcf20da4c7210008","fromSide":"right","toNode":"d588c71833905738","toSide":"left"},
+		{"id":"017b898e8506dcf5","fromNode":"dcf20da4c7210008","fromSide":"right","toNode":"e599d841a1709e4c","toSide":"left"},
+		{"id":"d41a661b6aded09d","fromNode":"dcf20da4c7210008","fromSide":"right","toNode":"868989016a635f9f","toSide":"left"},
+		{"id":"79f6e35f03bdff96","fromNode":"dcf20da4c7210008","fromSide":"bottom","toNode":"a148880a6d393fed","toSide":"top","color":"4"},
+		{"id":"ee611967ca8ec523","fromNode":"a148880a6d393fed","fromSide":"right","toNode":"42c68335ee44eaf7","toSide":"left"}
 	]
 }

@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 900
-- Total Knowledge Items: 7703
-- Correct: 5134
-- Wrong: 8025
-- Accuracy: 39.0%
+- Total Reviews: 907
+- Total Knowledge Items: 7730
+- Correct: 5173
+- Wrong: 8037
+- Accuracy: 39.2%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.2% (Correct 466 / Wrong 754)
+- Adverb: 38.4% (Correct 471 / Wrong 754)
 - Collocation: 34.9% (Correct 289 / Wrong 539)
-- CompoundVerb: 39.1% (Correct 245 / Wrong 382)
+- CompoundVerb: 39.0% (Correct 245 / Wrong 383)
 - Conjunction: 31.5% (Correct 125 / Wrong 272)
-- Demonstratives: 27.1% (Correct 46 / Wrong 124)
+- Demonstratives: 26.7% (Correct 46 / Wrong 126)
 - FixedExpression: 36.2% (Correct 279 / Wrong 492)
-- Grammar: 36.8% (Correct 1163 / Wrong 1995)
-- Kanji: 43.1% (Correct 413 / Wrong 545)
-- Katakana: 44.1% (Correct 266 / Wrong 337)
-- Keigo: 34.7% (Correct 76 / Wrong 143)
+- Grammar: 37.1% (Correct 1177 / Wrong 1999)
+- Kanji: 43.1% (Correct 418 / Wrong 552)
+- Katakana: 44.2% (Correct 267 / Wrong 337)
+- Keigo: 35.0% (Correct 77 / Wrong 143)
 - Reading: 28.0% (Correct 163 / Wrong 420)
-- Vocabulary: 44.2% (Correct 1603 / Wrong 2022)
+- Vocabulary: 44.4% (Correct 1616 / Wrong 2020)
 
 ## 📚 Top Grammar
 
@@ -99,6 +99,7 @@
 
 - [[一層]] (Score: 50)
 - [[宿泊]] (Score: 45)
+- [[傾向]] (Score: 45)
 - [[結局]] (Score: 45)
 - [[基準]] (Score: 40)
 - [[評価]] (Score: 40)
@@ -106,7 +107,6 @@
 - [[不思議]] (Score: 35)
 - [[行方]] (Score: 35)
 - [[管理]] (Score: 35)
-- [[贅沢]] (Score: 30)
 
 ## 📚 Top Katakana
 
@@ -244,6 +244,6 @@
 - [[3. Phân Tích Dạng bài đọc hiểu đoản văn N2 - 離席メモ]]
 - [[4. Phân Tích]]
 - [[1. Phân Tích Đọc hiểu tìm kiếm thông tin N2]]
-- [[2. Phân Tích kiểm tra Hán tự & Cách đọc N3-N2]]
-- [[3. Phân Tích Tiếp đầu ngữ & Tiếp vĩ ngữ]]
-- [[4. Phân Tích phó từ tượng thanh và tượng hình]]
+- [[10. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 語彙 & 文法]]
+- [[11. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 文法 (Ngữ pháp N2)]]
+- [[12. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 文法]]
