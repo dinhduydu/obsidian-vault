@@ -1,13 +1,30 @@
 {
 	"nodes":[
-		{"id":"c9fcad6089199518","x":-71,"y":-30,"width":250,"height":60,"type":"text","text":"散 - Tản"},
-		{"id":"c078486acf5b5a7c","x":-390,"y":80,"width":156,"height":178,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas"},
-		{"id":"79c254f76bf8c28b","x":-388,"y":-260,"width":154,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas"},
-		{"id":"0becd32013478c2b","x":-660,"y":-71,"width":179,"height":142,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas"}
+		{"id":"c9fcad6089199518","type":"text","text":"散 - Tản","x":-71,"y":-30,"width":250,"height":60},
+		{"id":"c078486acf5b5a7c","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhục　「肉 (⺼) 」/Nhục　「肉 (⺼) 」.canvas","x":-390,"y":80,"width":156,"height":178},
+		{"id":"79c254f76bf8c28b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thổ　「土」/Thổ　「土」.canvas","x":-388,"y":-260,"width":154,"height":143},
+		{"id":"0becd32013478c2b","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/Phộc　「攴 (攵)」.canvas","x":-660,"y":-71,"width":179,"height":142},
+		{"id":"3f1c76364fcfdf9e","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/散髪.md","x":360,"y":-400,"width":297,"height":133},
+		{"id":"7931c9ecc1e1c21c","type":"file","file":"Chữa đề/Learning_Profile/Kanji/散る.md","x":360,"y":-184,"width":235,"height":184},
+		{"id":"f651e092c2f4d611","type":"file","file":"Chữa đề/Learning_Profile/Kanji/散らかる.md","x":360,"y":120,"width":282,"height":156},
+		{"id":"f32b06d7006bcd88","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/散らかる.md","x":800,"y":143,"width":222,"height":111},
+		{"id":"c99d674c6d13ff42","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/気が散る.md","x":800,"y":-244,"width":264,"height":120},
+		{"id":"b6ef08ea6ea10837","x":800,"y":-53,"width":206,"height":106,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/飛び散る.md"},
+		{"id":"a3f9cbbcfa320a2c","x":360,"y":380,"width":274,"height":127,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/閑散期（かんさんき）.md"},
+		{"id":"5c41bae6bfa54932","x":340,"y":-620,"width":220,"height":120,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/解散.md"},
+		{"id":"4894a6b9edf3b543","x":657,"y":-662,"width":234,"height":84,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/グループが解散する.md"}
 	],
 	"edges":[
 		{"id":"a133765f08e65eca","fromNode":"c078486acf5b5a7c","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"},
 		{"id":"644aeac33306bba8","fromNode":"79c254f76bf8c28b","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"},
-		{"id":"7a43029fe4449480","fromNode":"0becd32013478c2b","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"}
+		{"id":"7a43029fe4449480","fromNode":"0becd32013478c2b","fromSide":"right","toNode":"c9fcad6089199518","toSide":"left"},
+		{"id":"6c1f5b441f07c2d8","fromNode":"c9fcad6089199518","fromSide":"right","toNode":"3f1c76364fcfdf9e","toSide":"left"},
+		{"id":"f128313c261e7c46","fromNode":"c9fcad6089199518","fromSide":"right","toNode":"7931c9ecc1e1c21c","toSide":"left"},
+		{"id":"aeb43a34961af5d6","fromNode":"c9fcad6089199518","fromSide":"right","toNode":"f651e092c2f4d611","toSide":"left"},
+		{"id":"e6302335c82c89bc","fromNode":"f651e092c2f4d611","fromSide":"right","toNode":"f32b06d7006bcd88","toSide":"left"},
+		{"id":"7974a7d6a8bf0706","fromNode":"7931c9ecc1e1c21c","fromSide":"right","toNode":"c99d674c6d13ff42","toSide":"left"},
+		{"id":"16861450b5df8320","fromNode":"7931c9ecc1e1c21c","fromSide":"right","toNode":"b6ef08ea6ea10837","toSide":"left"},
+		{"id":"c1c8150ac49e2188","fromNode":"5c41bae6bfa54932","fromSide":"right","toNode":"4894a6b9edf3b543","toSide":"left"},
+		{"id":"4869479dc7a17a08","fromNode":"c9fcad6089199518","fromSide":"right","toNode":"5c41bae6bfa54932","toSide":"left"}
 	]
 }

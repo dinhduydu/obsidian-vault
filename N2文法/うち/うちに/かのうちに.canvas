@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"488707e0afb0532f","type":"text","text":"かのうちに","x":135,"y":220,"width":250,"height":60},
+		{"id":"22d43baab05ec45f","type":"text","text":"か～ないかうちに","x":680,"y":367,"width":250,"height":60},
+		{"id":"ae1418bd83207733","type":"file","file":"Pasted image 20260505213049.png","x":660,"y":-260,"width":400,"height":262},
+		{"id":"226db6572ba188ec","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜か〜ないかのうちに.md","x":1228,"y":800,"width":440,"height":180},
+		{"id":"4b116923969c2c2a","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/か.canvas","x":385,"y":620,"width":108,"height":50},
+		{"id":"6c3604ecfc2677b6","type":"file","file":"N2文法/ない・いう・しまう/ない.canvas","x":306,"y":480,"width":79,"height":50}
+	],
+	"edges":[
+		{"id":"d208129b047de1ac","fromNode":"6c3604ecfc2677b6","fromSide":"right","toNode":"22d43baab05ec45f","toSide":"left","color":"3","label":"か～ないかうちに"},
+		{"id":"9920fa1e1865bfb0","fromNode":"4b116923969c2c2a","fromSide":"right","toNode":"22d43baab05ec45f","toSide":"left","color":"3","label":"か～ないかうちに"},
+		{"id":"3a1e04a708d69a6b","fromNode":"488707e0afb0532f","fromSide":"right","toNode":"22d43baab05ec45f","toSide":"left","color":"5"},
+		{"id":"72a53367dff334e2","fromNode":"488707e0afb0532f","fromSide":"right","toNode":"ae1418bd83207733","toSide":"left","color":"6","label":"かのうちに"},
+		{"id":"56ffef2e1be2d1fa","fromNode":"22d43baab05ec45f","fromSide":"right","toNode":"226db6572ba188ec","toSide":"left","color":"4","label":"Vừa mới... thì đã... / Ngay khi chưa kịp xong... thì đã... (diễn tả hai hành động xảy ra liền kề nhau cực ngắn)."}
+	]
+}
