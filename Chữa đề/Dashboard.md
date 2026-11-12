@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 892
-- Total Knowledge Items: 7691
-- Correct: 5096
-- Wrong: 7996
-- Accuracy: 38.9%
+- Total Reviews: 900
+- Total Knowledge Items: 7703
+- Correct: 5134
+- Wrong: 8025
+- Accuracy: 39.0%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.1% (Correct 464 / Wrong 755)
-- Collocation: 34.8% (Correct 282 / Wrong 529)
-- CompoundVerb: 39.0% (Correct 245 / Wrong 384)
+- Adverb: 38.2% (Correct 466 / Wrong 754)
+- Collocation: 34.9% (Correct 289 / Wrong 539)
+- CompoundVerb: 39.1% (Correct 245 / Wrong 382)
 - Conjunction: 31.5% (Correct 125 / Wrong 272)
 - Demonstratives: 27.1% (Correct 46 / Wrong 124)
-- FixedExpression: 36.0% (Correct 276 / Wrong 490)
-- Grammar: 36.8% (Correct 1161 / Wrong 1994)
-- Kanji: 43.5% (Correct 409 / Wrong 532)
-- Katakana: 43.8% (Correct 263 / Wrong 337)
-- Keigo: 34.3% (Correct 74 / Wrong 142)
-- Reading: 27.9% (Correct 162 / Wrong 419)
-- Vocabulary: 44.1% (Correct 1589 / Wrong 2018)
+- FixedExpression: 36.2% (Correct 279 / Wrong 492)
+- Grammar: 36.8% (Correct 1163 / Wrong 1995)
+- Kanji: 43.1% (Correct 413 / Wrong 545)
+- Katakana: 44.1% (Correct 266 / Wrong 337)
+- Keigo: 34.7% (Correct 76 / Wrong 143)
+- Reading: 28.0% (Correct 163 / Wrong 420)
+- Vocabulary: 44.2% (Correct 1603 / Wrong 2022)
 
 ## 📚 Top Grammar
 
@@ -89,37 +89,37 @@
 - [[意外]] (Score: 50)
 - [[拡充]] (Score: 45)
 - [[連続]] (Score: 45)
+- [[そうぞうしい]] (Score: 40)
+- [[盛ん]] (Score: 40)
 - [[打ち消す]] (Score: 40)
 - [[補う]] (Score: 40)
 - [[衝突]] (Score: 40)
-- [[悔しい]] (Score: 40)
-- [[つらい]] (Score: 40)
 
 ## 📚 Top Kanji
 
 - [[一層]] (Score: 50)
+- [[宿泊]] (Score: 45)
 - [[結局]] (Score: 45)
+- [[基準]] (Score: 40)
 - [[評価]] (Score: 40)
 - [[改善]] (Score: 40)
+- [[不思議]] (Score: 35)
 - [[行方]] (Score: 35)
 - [[管理]] (Score: 35)
 - [[贅沢]] (Score: 30)
-- [[順]] (Score: 30)
-- [[維持]] (Score: 30)
-- [[欠勤]] (Score: 30)
 
 ## 📚 Top Katakana
 
 - [[タイミング]] (Score: 55)
 - [[アパート]] (Score: 40)
 - [[キャンセル]] (Score: 40)
-- [[ステージ]] (Score: 35)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
+- [[レポート]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -153,12 +153,12 @@
 - [[返事]] (Score: 50)
 - [[ため息をつく]] (Score: 40)
 - [[足を運ぶ]] (Score: 40)
+- [[覚悟の上で]] (Score: 30)
 - [[〜はもちろん]] (Score: 30)
 - [[心をこめて]] (Score: 30)
 - [[お忙しいところを]] (Score: 30)
 - [[もってのほかだ]] (Score: 30)
 - [[〜そうにない]] (Score: 30)
-- [[ございます]] (Score: 30)
 
 ## 📚 Top Collocation
 
@@ -241,9 +241,9 @@
 - [[9. Phân Tích các chữ Hán tính từ]]
 - [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 100]]
 - [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 99]]
-- [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 85 (THAOLEJP)]]
-- [[10. Phân Tích 021120265-8-9.pdf]]
-- [[11. Phân Tích nhận diện âm đọc Kanji (Onyomi & Kunyomi) và ý nghĩa từ vựng N2.]]
-- [[12. Phân Tích 5 câu hỏi đánh giá khả năng nhận diện hình thái Kanji và phân biệt các bộ thủ dễ gây nhầm lẫn]]
-- [[13. Phân Tích 問題3 - Kanji & Chọn từ ngữ cảnh) và Problem 4 (問題4 - Tiền tố, Hậu tố & Động từ phức hợp)]]
-- [[14. Phân Tích N2_TEST Từ vựng & Hán tự (021120266-8-9.pdf)]]
+- [[3. Phân Tích Dạng bài đọc hiểu đoản văn N2 - 離席メモ]]
+- [[4. Phân Tích]]
+- [[1. Phân Tích Đọc hiểu tìm kiếm thông tin N2]]
+- [[2. Phân Tích kiểm tra Hán tự & Cách đọc N3-N2]]
+- [[3. Phân Tích Tiếp đầu ngữ & Tiếp vĩ ngữ]]
+- [[4. Phân Tích phó từ tượng thanh và tượng hình]]
