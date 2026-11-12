@@ -2,17 +2,18 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 907
-- Total Knowledge Items: 7730
-- Correct: 5173
-- Wrong: 8037
-- Accuracy: 39.2%
+- Total Reviews: 924
+- Total Knowledge Items: 7861
+- Correct: 5287
+- Wrong: 8172
+- Accuracy: 39.3%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 315| Wrong: 63
+- [[]] | Vocabulary| Score: 320| Wrong: 64
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
+- [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
 - [[〜にすぎない]] | Grammar| Score: 95| Wrong: 16
 - [[〜にもかかわらず]] | Grammar| Score: 95| Wrong: 16
 - [[したがって]] | Conjunction| Score: 85| Wrong: 17
@@ -29,13 +30,13 @@
 - [[〜がたい]] | Grammar| Score: 70| Wrong: 11
 - [[〜に限って]] | Grammar| Score: 65| Wrong: 10
 - [[〜まい]] | Grammar| Score: 65| Wrong: 13
-- [[〜あまり]] | Grammar| Score: 65| Wrong: 10
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 63
+- [[]] (Vocabulary) Wrong: 64
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
+- [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
 - [[したがって]] (Conjunction) Wrong: 17
 - [[〜にすぎない]] (Grammar) Wrong: 16
 - [[〜にもかかわらず]] (Grammar) Wrong: 16
@@ -52,22 +53,21 @@
 - [[さっさと]] (Adverb) Wrong: 12
 - [[〜に違いない]] (Grammar) Wrong: 11
 - [[〜とは限らない]] (Grammar) Wrong: 11
-- [[その]] (Demonstratives) Wrong: 11
 
 ## 📈 Category Statistics
 
-- Adverb: 38.4% (Correct 471 / Wrong 754)
-- Collocation: 34.9% (Correct 289 / Wrong 539)
-- CompoundVerb: 39.0% (Correct 245 / Wrong 383)
-- Conjunction: 31.5% (Correct 125 / Wrong 272)
-- Demonstratives: 26.7% (Correct 46 / Wrong 126)
-- FixedExpression: 36.2% (Correct 279 / Wrong 492)
-- Grammar: 37.1% (Correct 1177 / Wrong 1999)
-- Kanji: 43.1% (Correct 418 / Wrong 552)
-- Katakana: 44.2% (Correct 267 / Wrong 337)
-- Keigo: 35.0% (Correct 77 / Wrong 143)
-- Reading: 28.0% (Correct 163 / Wrong 420)
-- Vocabulary: 44.4% (Correct 1616 / Wrong 2020)
+- Adverb: 38.8% (Correct 481 / Wrong 760)
+- Collocation: 35.1% (Correct 296 / Wrong 548)
+- CompoundVerb: 39.2% (Correct 251 / Wrong 390)
+- Conjunction: 31.8% (Correct 130 / Wrong 279)
+- Demonstratives: 28.6% (Correct 53 / Wrong 132)
+- FixedExpression: 36.6% (Correct 290 / Wrong 502)
+- Grammar: 37.0% (Correct 1190 / Wrong 2023)
+- Kanji: 43.2% (Correct 423 / Wrong 557)
+- Katakana: 44.6% (Correct 278 / Wrong 346)
+- Keigo: 35.7% (Correct 86 / Wrong 155)
+- Reading: 28.3% (Correct 176 / Wrong 445)
+- Vocabulary: 44.5% (Correct 1633 / Wrong 2035)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,7 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 315)
+- [[]] (Score: 320)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[意外]] (Score: 50)
 - [[拡充]] (Score: 45)
@@ -125,6 +125,7 @@
 
 - [[語彙の文脈規定]] (Score: 210)
 - [[文法文脈接続]] (Score: 150)
+- [[Cấu trúc dồn sao (並べ替え問題)]] (Score: 105)
 - [[即時応答]] (Score: 55)
 - [[類義語の文脈置換]] (Score: 55)
 - [[同音異義語の文脈判断]] (Score: 50)
@@ -132,7 +133,6 @@
 - [[敬語の文脈判断]] (Score: 40)
 - [[Kỹ thuật giải quyết câu dấu sao (Star Questions)]] (Score: 40)
 - [[散文の文脈理解]] (Score: 35)
-- [[説話の文脈規定]] (Score: 35)
 
 ## 📚 Top CompoundVerb
 
@@ -201,16 +201,16 @@
 
 ## 📚 Top Keigo
 
-- [[いらっしゃいます]] (Score: 50)
+- [[いらっしゃいます]] (Score: 55)
 - [[いらっしゃる]] (Score: 45)
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
-- [[おいでいただく]] (Score: 30)
+- [[おいでいただく]] (Score: 35)
+- [[お見えになる]] (Score: 35)
 - [[お〜ください]] (Score: 30)
+- [[ご覧になる]] (Score: 27)
 - [[なさいます]] (Score: 25)
 - [[避けた方が賢明です]] (Score: 25)
-- [[お会いする]] (Score: 25)
-- [[申し上げる]] (Score: 25)
 
 ## 📚 Top Demonstratives
 
