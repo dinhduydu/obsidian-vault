@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 指示語の文章脈 quy chiếu văn bản
+
+Category: Reading
+Correct: 0
+Wrong: 3
+Accuracy: 0.0%
+Mastery: Low
+Priority: High
+
+## Related Reviews
+
+- [[4. Phân Tích ĐẠI TỪ CHỈ THỊ_TEST 1]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

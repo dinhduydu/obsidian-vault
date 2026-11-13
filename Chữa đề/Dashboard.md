@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 989
-- Total Knowledge Items: 8100
-- Correct: 5509
-- Wrong: 8620
-- Accuracy: 39.0%
+- Total Reviews: 1003
+- Total Knowledge Items: 8216
+- Correct: 5687
+- Wrong: 8758
+- Accuracy: 39.4%
 
 ## 🚨 Review Queue
 
@@ -23,12 +23,12 @@
 - [[〜とは限らない]] | Grammar| Score: 85| Wrong: 17
 - [[つい]] | Adverb| Score: 80| Wrong: 13
 - [[〜がち]] | Grammar| Score: 80| Wrong: 13
+- [[この]] | Demonstratives| Score: 77| Wrong: 13
 - [[〜に違いない]] | Grammar| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
 - [[〜にほかならない]] | Grammar| Score: 75| Wrong: 12
 - [[〜がたい]] | Grammar| Score: 75| Wrong: 12
 - [[さっさと]] | Adverb| Score: 75| Wrong: 12
-- [[この]] | Demonstratives| Score: 72| Wrong: 12
 - [[〜ものの]] | Grammar| Score: 70| Wrong: 14
 
 ## 🔥 Top Weak Points
@@ -47,27 +47,27 @@
 - [[〜ものの]] (Grammar) Wrong: 14
 - [[つまり]] (Conjunction) Wrong: 14
 - [[つい]] (Adverb) Wrong: 13
+- [[この]] (Demonstratives) Wrong: 13
 - [[〜がち]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 13
 - [[〜ざるを得ない]] (Grammar) Wrong: 13
 - [[〜に違いない]] (Grammar) Wrong: 12
-- [[この]] (Demonstratives) Wrong: 12
 - [[〜にほかならない]] (Grammar) Wrong: 12
 
 ## 📈 Category Statistics
 
-- Adverb: 37.1% (Correct 504 / Wrong 854)
-- Collocation: 35.3% (Correct 308 / Wrong 565)
-- CompoundVerb: 39.3% (Correct 258 / Wrong 398)
-- Conjunction: 31.7% (Correct 158 / Wrong 340)
-- Demonstratives: 28.4% (Correct 54 / Wrong 136)
-- FixedExpression: 36.8% (Correct 300 / Wrong 515)
-- Grammar: 36.1% (Correct 1236 / Wrong 2190)
-- Kanji: 43.2% (Correct 427 / Wrong 561)
-- Katakana: 45.3% (Correct 286 / Wrong 346)
-- Keigo: 36.2% (Correct 89 / Wrong 157)
-- Reading: 28.8% (Correct 190 / Wrong 469)
-- Vocabulary: 44.9% (Correct 1699 / Wrong 2089)
+- Adverb: 37.3% (Correct 515 / Wrong 865)
+- Collocation: 35.4% (Correct 313 / Wrong 572)
+- CompoundVerb: 40.5% (Correct 275 / Wrong 404)
+- Conjunction: 33.5% (Correct 174 / Wrong 345)
+- Demonstratives: 33.3% (Correct 88 / Wrong 176)
+- FixedExpression: 36.8% (Correct 308 / Wrong 528)
+- Grammar: 36.7% (Correct 1274 / Wrong 2202)
+- Kanji: 43.7% (Correct 440 / Wrong 567)
+- Katakana: 45.4% (Correct 294 / Wrong 354)
+- Keigo: 36.0% (Correct 91 / Wrong 162)
+- Reading: 28.5% (Correct 190 / Wrong 477)
+- Vocabulary: 45.0% (Correct 1725 / Wrong 2106)
 
 ## 📚 Top Grammar
 
@@ -112,6 +112,7 @@
 
 - [[タイミング]] (Score: 55)
 - [[アパート]] (Score: 40)
+- [[インターネット]] (Score: 40)
 - [[キャンセル]] (Score: 40)
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
@@ -119,7 +120,6 @@
 - [[ウイルス]] (Score: 35)
 - [[シンプル]] (Score: 35)
 - [[エアバッグ]] (Score: 30)
-- [[レポート]] (Score: 30)
 
 ## 📚 Top Reading
 
@@ -170,8 +170,8 @@
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
 - [[気がする]] (Score: 30)
+- [[利用率が下がる]] (Score: 27)
 - [[現段階]] (Score: 25)
-- [[苦手意識を持つ]] (Score: 25)
 
 ## 📚 Top Adverb
 
@@ -183,30 +183,30 @@
 - [[今にも]] (Score: 55)
 - [[そのうち]] (Score: 55)
 - [[とりあえず]] (Score: 55)
+- [[なかなか]] (Score: 50)
 - [[かつて]] (Score: 50)
-- [[まさか]] (Score: 47)
 
 ## 📚 Top Conjunction
 
 - [[したがって]] (Score: 90)
 - [[しかし]] (Score: 85)
 - [[つまり]] (Score: 85)
+- [[そこで]] (Score: 60)
 - [[とはいえ]] (Score: 55)
-- [[そこで]] (Score: 55)
 - [[むしろ]] (Score: 50)
 - [[ただし]] (Score: 50)
+- [[それで]] (Score: 50)
 - [[要するに]] (Score: 50)
 - [[しかも]] (Score: 50)
-- [[それに]] (Score: 45)
 
 ## 📚 Top Keigo
 
 - [[いらっしゃいます]] (Score: 55)
 - [[いらっしゃる]] (Score: 45)
+- [[お見えになる]] (Score: 42)
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 35)
-- [[お見えになる]] (Score: 35)
 - [[お〜ください]] (Score: 30)
 - [[ご覧になる]] (Score: 27)
 - [[なさいます]] (Score: 25)
@@ -214,15 +214,15 @@
 
 ## 📚 Top Demonstratives
 
-- [[この]] (Score: 72)
-- [[その]] (Score: 55)
+- [[この]] (Score: 77)
+- [[その]] (Score: 60)
+- [[そんな]] (Score: 50)
 - [[あれこれ]] (Score: 50)
+- [[あの]] (Score: 50)
 - [[あんなに]] (Score: 50)
-- [[そんな]] (Score: 45)
 - [[こんな]] (Score: 45)
-- [[あの]] (Score: 40)
-- [[それが]] (Score: 30)
-- [[これ]] (Score: 30)
+- [[それが]] (Score: 35)
+- [[これ]] (Score: 35)
 - [[こうした]] (Score: 30)
 
 ## 📅 Recent Reviews

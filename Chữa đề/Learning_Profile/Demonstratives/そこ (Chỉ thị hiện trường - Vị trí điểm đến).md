@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# そこ (Chỉ thị hiện trường - Vị trí điểm đến)
+
+Category: Demonstratives
+Correct: 0
+Wrong: 1
+Accuracy: 0.0%
+Mastery: Low
+Priority: High
+
+## Related Reviews
+
+- [[5. Phân Tích ĐẠI TỪ CHỈ THỊ (こ・そ・あ)]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
