@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1012
-- Total Knowledge Items: 8244
-- Correct: 5793
-- Wrong: 8794
-- Accuracy: 39.7%
+- Total Reviews: 1038
+- Total Knowledge Items: 8371
+- Correct: 5942
+- Wrong: 8943
+- Accuracy: 39.9%
 
 ## 🚨 Review Queue
 
@@ -20,9 +20,9 @@
 - [[したがって]] | Conjunction| Score: 90| Wrong: 18
 - [[つまり]] | Conjunction| Score: 90| Wrong: 15
 - [[〜からといって]] | Grammar| Score: 90| Wrong: 15
+- [[〜がち]] | Grammar| Score: 85| Wrong: 14
 - [[〜とは限らない]] | Grammar| Score: 85| Wrong: 17
 - [[つい]] | Adverb| Score: 80| Wrong: 13
-- [[〜がち]] | Grammar| Score: 80| Wrong: 13
 - [[この]] | Demonstratives| Score: 77| Wrong: 13
 - [[〜に違いない]] | Grammar| Score: 75| Wrong: 12
 - [[〜ようがない]] | Grammar| Score: 75| Wrong: 15
@@ -46,9 +46,9 @@
 - [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜からといって]] (Grammar) Wrong: 15
 - [[〜ものの]] (Grammar) Wrong: 14
+- [[〜がち]] (Grammar) Wrong: 14
 - [[つい]] (Adverb) Wrong: 13
 - [[この]] (Demonstratives) Wrong: 13
-- [[〜がち]] (Grammar) Wrong: 13
 - [[〜まい]] (Grammar) Wrong: 13
 - [[〜ざるを得ない]] (Grammar) Wrong: 13
 - [[〜に違いない]] (Grammar) Wrong: 12
@@ -56,26 +56,26 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.5% (Correct 524 / Wrong 873)
-- Collocation: 35.4% (Correct 314 / Wrong 572)
-- CompoundVerb: 40.8% (Correct 279 / Wrong 404)
-- Conjunction: 35.1% (Correct 194 / Wrong 359)
-- Demonstratives: 33.6% (Correct 91 / Wrong 180)
-- FixedExpression: 37.7% (Correct 319 / Wrong 528)
-- Grammar: 37.1% (Correct 1302 / Wrong 2210)
-- Kanji: 43.6% (Correct 439 / Wrong 567)
-- Katakana: 45.8% (Correct 299 / Wrong 354)
-- Keigo: 36.0% (Correct 91 / Wrong 162)
-- Reading: 28.6% (Correct 191 / Wrong 477)
-- Vocabulary: 45.4% (Correct 1750 / Wrong 2108)
+- Adverb: 37.7% (Correct 534 / Wrong 883)
+- Collocation: 35.9% (Correct 323 / Wrong 577)
+- CompoundVerb: 40.9% (Correct 288 / Wrong 417)
+- Conjunction: 35.2% (Correct 197 / Wrong 362)
+- Demonstratives: 35.7% (Correct 100 / Wrong 180)
+- FixedExpression: 37.6% (Correct 326 / Wrong 541)
+- Grammar: 37.5% (Correct 1350 / Wrong 2249)
+- Kanji: 43.5% (Correct 455 / Wrong 591)
+- Katakana: 46.1% (Correct 304 / Wrong 356)
+- Keigo: 35.5% (Correct 92 / Wrong 167)
+- Reading: 28.7% (Correct 193 / Wrong 480)
+- Vocabulary: 45.4% (Correct 1780 / Wrong 2140)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 100)
 - [[〜にすぎない]] (Score: 95)
 - [[〜からといって]] (Score: 90)
+- [[〜がち]] (Score: 85)
 - [[〜とは限らない]] (Score: 85)
-- [[〜がち]] (Score: 80)
 - [[〜に違いない]] (Score: 75)
 - [[〜ようがない]] (Score: 75)
 - [[〜にほかならない]] (Score: 75)
@@ -138,11 +138,11 @@
 
 - [[思い出す]] (Score: 45)
 - [[引き返す]] (Score: 40)
+- [[落ち込む]] (Score: 35)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[売り切れる]] (Score: 35)
 - [[取り組む]] (Score: 30)
-- [[落ち込む]] (Score: 30)
 - [[目を通す]] (Score: 30)
 - [[言い表す]] (Score: 30)
 - [[裏切る]] (Score: 30)
