@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1003
-- Total Knowledge Items: 8216
-- Correct: 5687
-- Wrong: 8758
-- Accuracy: 39.4%
+- Total Reviews: 1012
+- Total Knowledge Items: 8244
+- Correct: 5793
+- Wrong: 8794
+- Accuracy: 39.7%
 
 ## 🚨 Review Queue
 
@@ -16,10 +16,10 @@
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
 - [[〜にもかかわらず]] | Grammar| Score: 100| Wrong: 17
 - [[〜にすぎない]] | Grammar| Score: 95| Wrong: 16
+- [[しかし]] | Conjunction| Score: 90| Wrong: 18
 - [[したがって]] | Conjunction| Score: 90| Wrong: 18
+- [[つまり]] | Conjunction| Score: 90| Wrong: 15
 - [[〜からといって]] | Grammar| Score: 90| Wrong: 15
-- [[しかし]] | Conjunction| Score: 85| Wrong: 17
-- [[つまり]] | Conjunction| Score: 85| Wrong: 14
 - [[〜とは限らない]] | Grammar| Score: 85| Wrong: 17
 - [[つい]] | Adverb| Score: 80| Wrong: 13
 - [[〜がち]] | Grammar| Score: 80| Wrong: 13
@@ -36,16 +36,16 @@
 - [[]] (Vocabulary) Wrong: 67
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
+- [[しかし]] (Conjunction) Wrong: 18
 - [[したがって]] (Conjunction) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
-- [[しかし]] (Conjunction) Wrong: 17
 - [[〜とは限らない]] (Grammar) Wrong: 17
 - [[〜にもかかわらず]] (Grammar) Wrong: 17
 - [[〜にすぎない]] (Grammar) Wrong: 16
+- [[つまり]] (Conjunction) Wrong: 15
 - [[〜ようがない]] (Grammar) Wrong: 15
 - [[〜からといって]] (Grammar) Wrong: 15
 - [[〜ものの]] (Grammar) Wrong: 14
-- [[つまり]] (Conjunction) Wrong: 14
 - [[つい]] (Adverb) Wrong: 13
 - [[この]] (Demonstratives) Wrong: 13
 - [[〜がち]] (Grammar) Wrong: 13
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.3% (Correct 515 / Wrong 865)
-- Collocation: 35.4% (Correct 313 / Wrong 572)
-- CompoundVerb: 40.5% (Correct 275 / Wrong 404)
-- Conjunction: 33.5% (Correct 174 / Wrong 345)
-- Demonstratives: 33.3% (Correct 88 / Wrong 176)
-- FixedExpression: 36.8% (Correct 308 / Wrong 528)
-- Grammar: 36.7% (Correct 1274 / Wrong 2202)
-- Kanji: 43.7% (Correct 440 / Wrong 567)
-- Katakana: 45.4% (Correct 294 / Wrong 354)
+- Adverb: 37.5% (Correct 524 / Wrong 873)
+- Collocation: 35.4% (Correct 314 / Wrong 572)
+- CompoundVerb: 40.8% (Correct 279 / Wrong 404)
+- Conjunction: 35.1% (Correct 194 / Wrong 359)
+- Demonstratives: 33.6% (Correct 91 / Wrong 180)
+- FixedExpression: 37.7% (Correct 319 / Wrong 528)
+- Grammar: 37.1% (Correct 1302 / Wrong 2210)
+- Kanji: 43.6% (Correct 439 / Wrong 567)
+- Katakana: 45.8% (Correct 299 / Wrong 354)
 - Keigo: 36.0% (Correct 91 / Wrong 162)
-- Reading: 28.5% (Correct 190 / Wrong 477)
-- Vocabulary: 45.0% (Correct 1725 / Wrong 2106)
+- Reading: 28.6% (Correct 191 / Wrong 477)
+- Vocabulary: 45.4% (Correct 1750 / Wrong 2108)
 
 ## 📚 Top Grammar
 
@@ -179,25 +179,25 @@
 - [[さっさと]] (Score: 75)
 - [[ますます]] (Score: 60)
 - [[とても]] (Score: 60)
+- [[そのうち]] (Score: 60)
 - [[すっかり]] (Score: 55)
 - [[今にも]] (Score: 55)
-- [[そのうち]] (Score: 55)
 - [[とりあえず]] (Score: 55)
 - [[なかなか]] (Score: 50)
 - [[かつて]] (Score: 50)
 
 ## 📚 Top Conjunction
 
+- [[しかし]] (Score: 90)
 - [[したがって]] (Score: 90)
-- [[しかし]] (Score: 85)
-- [[つまり]] (Score: 85)
-- [[そこで]] (Score: 60)
+- [[つまり]] (Score: 90)
+- [[そこで]] (Score: 65)
+- [[ただし]] (Score: 55)
+- [[それで]] (Score: 55)
+- [[なぜなら]] (Score: 55)
 - [[とはいえ]] (Score: 55)
 - [[むしろ]] (Score: 50)
-- [[ただし]] (Score: 50)
-- [[それで]] (Score: 50)
 - [[要するに]] (Score: 50)
-- [[しかも]] (Score: 50)
 
 ## 📚 Top Keigo
 
