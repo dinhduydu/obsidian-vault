@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1038
-- Total Knowledge Items: 8371
-- Correct: 5942
-- Wrong: 8943
-- Accuracy: 39.9%
+- Total Reviews: 1048
+- Total Knowledge Items: 8417
+- Correct: 6005
+- Wrong: 8999
+- Accuracy: 40.0%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 37.7% (Correct 534 / Wrong 883)
-- Collocation: 35.9% (Correct 323 / Wrong 577)
-- CompoundVerb: 40.9% (Correct 288 / Wrong 417)
+- Adverb: 37.9% (Correct 542 / Wrong 888)
+- Collocation: 36.2% (Correct 331 / Wrong 583)
+- CompoundVerb: 40.6% (Correct 288 / Wrong 421)
 - Conjunction: 35.2% (Correct 197 / Wrong 362)
-- Demonstratives: 35.7% (Correct 100 / Wrong 180)
-- FixedExpression: 37.6% (Correct 326 / Wrong 541)
-- Grammar: 37.5% (Correct 1350 / Wrong 2249)
-- Kanji: 43.5% (Correct 455 / Wrong 591)
-- Katakana: 46.1% (Correct 304 / Wrong 356)
-- Keigo: 35.5% (Correct 92 / Wrong 167)
+- Demonstratives: 35.6% (Correct 100 / Wrong 181)
+- FixedExpression: 37.6% (Correct 327 / Wrong 542)
+- Grammar: 37.7% (Correct 1372 / Wrong 2267)
+- Kanji: 43.6% (Correct 456 / Wrong 591)
+- Katakana: 46.3% (Correct 307 / Wrong 356)
+- Keigo: 35.8% (Correct 93 / Wrong 167)
 - Reading: 28.7% (Correct 193 / Wrong 480)
-- Vocabulary: 45.4% (Correct 1780 / Wrong 2140)
+- Vocabulary: 45.4% (Correct 1799 / Wrong 2161)
 
 ## 📚 Top Grammar
 
@@ -138,11 +138,11 @@
 
 - [[思い出す]] (Score: 45)
 - [[引き返す]] (Score: 40)
+- [[取り組む]] (Score: 35)
 - [[落ち込む]] (Score: 35)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[売り切れる]] (Score: 35)
-- [[取り組む]] (Score: 30)
 - [[目を通す]] (Score: 30)
 - [[言い表す]] (Score: 30)
 - [[裏切る]] (Score: 30)
