@@ -1,13 +1,27 @@
 {
 	"nodes":[
-		{"id":"9ef2e0257f999272","x":-94,"y":-43,"width":250,"height":60,"type":"text","text":"端 - Đoan"},
-		{"id":"404573a2baab2870","x":-400,"y":120,"width":184,"height":144,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/Nhi　「而」.canvas"},
-		{"id":"d51e4d5ea81b302d","x":-740,"y":-77,"width":164,"height":129,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas"},
-		{"id":"478c2a7c7a5ee7bf","x":-393,"y":-280,"width":177,"height":179,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas"}
+		{"id":"9ef2e0257f999272","type":"text","text":"端 - Đoan","x":-94,"y":-43,"width":250,"height":60},
+		{"id":"404573a2baab2870","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/Nhi　「而」.canvas","x":-400,"y":120,"width":184,"height":144},
+		{"id":"d51e4d5ea81b302d","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/L/Lập　「立」/Lập　「立」.canvas","x":-740,"y":-77,"width":164,"height":129},
+		{"id":"478c2a7c7a5ee7bf","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sơn　「山」/Sơn　「山」.canvas","x":-393,"y":-280,"width":177,"height":179},
+		{"id":"e77b628e769f9d68","type":"file","file":"Chữa đề/Learning_Profile/Kanji/端（途端・タン・はし）.md","x":380,"y":-320,"width":320,"height":50},
+		{"id":"f8a029e08ad48f9b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/極端.md","x":380,"y":-136,"width":250,"height":93},
+		{"id":"d319a5de4ce43374","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/極端な.md","x":740,"y":-164,"width":207,"height":56},
+		{"id":"103c61ebfa0c6760","type":"file","file":"Chữa đề/Learning_Profile/Collocation/極端な考え方.md","x":740,"y":-13,"width":273,"height":81},
+		{"id":"bd24725dcf6e7898","type":"file","file":"Chữa đề/Learning_Profile/Kanji/途（途端・ト）.md","x":877,"y":-480,"width":347,"height":130},
+		{"id":"c11952ca793b1790","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/半端ない.md","x":320,"y":740,"width":283,"height":179},
+		{"id":"c7488783134adc90","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/先端.md","x":700,"y":300,"width":270,"height":97}
 	],
 	"edges":[
 		{"id":"31ef93761c8da027","fromNode":"404573a2baab2870","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"},
 		{"id":"1778d1aadf00a452","fromNode":"d51e4d5ea81b302d","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"},
-		{"id":"65791830add137db","fromNode":"478c2a7c7a5ee7bf","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"}
+		{"id":"65791830add137db","fromNode":"478c2a7c7a5ee7bf","fromSide":"right","toNode":"9ef2e0257f999272","toSide":"left"},
+		{"id":"8e96605f03257481","fromNode":"9ef2e0257f999272","fromSide":"right","toNode":"e77b628e769f9d68","toSide":"left","color":"6","label":"Đoạn - Đầu, chóp, mép, khoảnh khắc."},
+		{"id":"f56475c7dc184033","fromNode":"9ef2e0257f999272","fromSide":"right","toNode":"f8a029e08ad48f9b","toSide":"left","label":"\n"},
+		{"id":"7197d470bf5149be","fromNode":"9ef2e0257f999272","fromSide":"right","toNode":"c7488783134adc90","toSide":"left","color":"6","label":" Leading edge, tip, state-of-the-art (Mũi nhọn, đi đầu, tiên tiến)."},
+		{"id":"985eb62fe3189eb5","fromNode":"f8a029e08ad48f9b","fromSide":"right","toNode":"d319a5de4ce43374","toSide":"left"},
+		{"id":"6eb98bcf54442513","fromNode":"9ef2e0257f999272","fromSide":"right","toNode":"c11952ca793b1790","toSide":"left","color":"6","label":"Cực kỳ, bá đạo, không phải dạng vừa (Insane / Out of this world)."},
+		{"id":"d2aaaf356b04d5ce","fromNode":"f8a029e08ad48f9b","fromSide":"right","toNode":"103c61ebfa0c6760","toSide":"left"},
+		{"id":"80e70071a07ea9f0","fromNode":"e77b628e769f9d68","fromSide":"right","toNode":"bd24725dcf6e7898","toSide":"left"}
 	]
 }

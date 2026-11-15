@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/12. Phân Tích Bài đọc đục lỗ đoạn văn N2.md",
+                "file": "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Phân Tích Bài đọc đục lỗ đoạn văn N2"
+              "title": "Prompt_Gen_DB3"
             }
           }
         ],
@@ -194,36 +194,81 @@
       "decks:Decks": false
     }
   },
+  "floating": {
+    "id": "421c6a7ead9ab0c8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8280d66b3a12b525",
+        "type": "window",
+        "children": [
+          {
+            "id": "5b854e592b6fd8a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d602c39638a7bed",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/2..canvas",
+                    "viewState": {
+                      "x": -190.78399135675096,
+                      "y": -226.24036408571618,
+                      "zoom": -1.1102230246251565e-16
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "2."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "00ba7de5d4e49740",
   "lastOpenFiles": [
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/14. Phân Tích.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/13. Phân Tích Cấu trúc ngữ pháp chỉ mục đích, dự định ban đầu bị trái ngược bởi kết quả thực tế.md",
     "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/12. Phân Tích Bài đọc đục lỗ đoạn văn N2.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/11. Phân Tích Từ vựng danh từ Hán tự ghép đồng âm Furigana.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/10. Phân Tích từ vựng danh từ Hán tự ghép, từ vựng đồng âm khác nghĩa.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/9. Phân Tích Từ vựng danh từ Hán tự ghép dễ nhầm lẫn, thuật ngữ khoa học, thiên văn, biểu đạt ước lượng tài chính và tính năng kỹ thuật.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB2.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.1.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/8. Phân Tích Phức động từ hoàn thành, dở dang, Kính ngữ thương mại từ chối lịch sự, Cấu trúc bối cảnh và phát hiện sau hành động.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/7. Phân Tích Ngữ pháp diễn đạt sự bất khả năng, kết cục tiêu cực sau quá trình trăn trở, tính xui xẻo đúng thời điểm và điều kiện giả định phủ định.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/6. Phân Tích ngữ pháp hành động ý thức.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/5. Phân Tích Cấu trúc nguyên nhân - hậu quả tiêu cực, Phủ định khả năng diễn đạt, Cấu trúc giới hạn & Ngoại lệ.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week5/30032026/4. Phân Tích Ngữ pháp nâng cao, Kính ngữ thương mại, Từ vựng ứng dụng.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/19. Phân Tích cấu trúc giới hạn phạm vi thông tin, hiểu biết.md",
-    "Chữa đề/Learning_Profile/Vocabulary/休みの日.md",
-    "Chữa đề/Learning_Profile/Collocation/追加研修.md",
-    "Chữa đề/Learning_Profile/FixedExpression/内部統制.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/18. Phân Tích liên từ chỉ chuyển đổi chủ đề sang hướng mới.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/17. Phân Tích mẫu ngữ pháp phán đoán.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/12. Phân Tích Ngữ pháp khẳng định chắc chắn.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/2..canvas",
+    "N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/端 - Đoan.canvas",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/11. Phân Tích Cấu trúc điều kiện đánh giá tiêu cực.md",
+    "Chữa đề/Learning_Profile/FixedExpression/半端ない.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.9-12/3. Phân Tích N2_9-7-10.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/先端.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week1/03112026Spec/4. Phân Tích 8.4. 220 CẶP TỪ ĐỒNG NGHĨA N2 TỪNG RA JLPT.pdf.md",
+    "Chữa đề/Learning_Profile/Kanji/端（途端・タン・はし）.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/18. Phân Tích N2_7-9.pdf.md",
+    "Chữa đề/Learning_Profile/Kanji/途（途端・ト）.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/10. Phân Tích Ngữ pháp giả định trạng thái kéo dài dẫn đến kết quả tiêu cực.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/9. Phân Tích Nhượng bộ và Giới hạn, Biểu thị cảm xúc, cảm giác bộc phát mãnh liệt.md",
+    "Chữa đề/Learning_Profile/Grammar/〜に対して.md",
+    "Chữa đề/２０２５年/１１月２０２５年/Week3/18112025/12. Phân Tích 181125_2-10-11.pdf.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/1. THAOLEJP_N2_THI THỬ LẦN 2_ĐỌC HIỂU 問題10.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/2..md",
+    "N2文法/一方・上・限り・つもり・他/限り/〜に限り/Nに限って.canvas",
+    "Chữa đề/Learning_Profile/Grammar/〜に限って.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/7. Phân Tích Cấu trúc Ngữ pháp chỉ mục đích.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/8. Phân Tích Khẳng định tuyệt đối và Phán đoán căn cứ.md",
+    "Chữa đề/２０２６年/１０月２０２６年/Week4/20102026_SpecN2.5-8/10. Phân Tích N2_6_2026-6-10.pdf.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/6. Phân Tích Động từ ghép và Danh từ xuất phát từ động từ.md",
+    "Chữa đề/Learning_Profile/Adverb/あくまで.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/5. Phân Tích N2_CẶP TỪ DỄ NHẦM LẪN (P8).md",
+    "Chữa đề/Learning_Profile/CompoundVerb/書き込む.md",
+    "Chữa đề/２０２６年/０１月２０２６年/Week4/21012026/8. Phân Tích Bài tập sắp xếp từ tạo thành câu hoàn chỉnh.md",
     "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/Untitled",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/16. Phân Tích các mẫu ngữ pháp N2 mấu chốt về diễn tiến hành động.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/15. Phân Tích bài tập sắp xếp câu.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/14. Phân Tích Sắp xếp thứ tự câu.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/13. Phân Tích điều kiện phủ định kéo dài.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/12. Phân Tích mẫu ngữ pháp xuất phát từ động từ.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/11. Phân Tích mẫu ngữ pháp đó điền vào vị trí ô ngôi sao.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/10. Phân Tích cú pháp liên kết câu dồn vế.md",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/9. Phân Tích mẫu ngữ pháp cùng xuất phát từ động từ.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/Untitled.canvas",
     "N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/兴 - Hưng/挙 - Cử.canvas",
     "N2文法/挙句・すえ/あげく.canvas",
     "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/Untitled",
@@ -232,9 +277,6 @@
     "Pasted image 20261113190052.png",
     "N2語彙/ひらがな/きっかけ.canvas",
     "N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/鈍 - Độn.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/T/Thi　「尸」/尺 - Xích/尽 - Tận.canvas",
-    "N2漢字/Bộ thủ/Hay gặp/V/Vương　「王」/主 - Chủ/注 - Chú.canvas",
-    "N2漢字/Bộ thủ/Ít gặp/T/Thập　「十」/針 - Châm.canvas",
     "N2文法/うち/うちに",
     "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026",
     "Chữa đề/２０２６年/１１月２０２６年/Week2/14112026",

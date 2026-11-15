@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4e14b4a167c5319d","type":"text","text":"53．筆者の考えに合うものはどれか。\n\n*\n1 điểm\n1 書き込みは雑にしてはいけない。\n2 書き込みには集中力が必要だ。\n3 きれいな書き込みができる人は、文章もよく読める。\n4 文章理解より書き込みに力を注いではいけない。","x":240,"y":-305,"width":525,"height":210},
+		{"id":"9a08333cd10854e6","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/兴 - Hưng/挙 - Cử.canvas","x":-980,"y":-740,"width":310,"height":96},
+		{"id":"29756f469cd2776c","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/書き込む.md","x":291,"y":-560,"width":212,"height":112},
+		{"id":"d4d61957fd58cffb","type":"text","text":"書き込みに関して、注意すべきことをいくつか挙げておきます。\n\n一つは、美しく線を引いたり、きれいに記号をつけたりすることに気を取られないでほしい、ということです。\n","x":-600,"y":-590,"width":740,"height":142},
+		{"id":"65381590e4f977df","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しないでほしい.md","x":-1740,"y":-710,"width":309,"height":132},
+		{"id":"d2b01a4432909c22","type":"file","file":"Chữa đề/Learning_Profile/Adverb/あくまで.md","x":-1620,"y":400,"width":280,"height":88},
+		{"id":"ae4f9f02f3a59e0a","type":"text","text":"\n色つきのボールペンや蛍光ペンなどを使って、本や資料に、きれいに線を引いたり、書き込みをいれたりしている人を見かけますが、こういう人に限って、内容は頭に入っていないものです。\n","x":-600,"y":-263,"width":740,"height":126},
+		{"id":"c9e04481ba6bfc8a","type":"text","text":"あくまでも大事なのは、文章を素早く正しく理解することです。書き込みはフリーハンド（※1）でスピーディーにできればよいのです。あとで自分が読み直したときに理解できればよいのですから、それ以上の丁寧さはムダ以外の何物でもありません。\n\n（三上直之『「超」読解力』講談社による）\n\n（※1）フリーハンド：定規などの器具を使わないで書くこと","x":-600,"y":8,"width":740,"height":218},
+		{"id":"835a566ea4b56bdc","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蛍 - Huỳnh.canvas","x":-1220,"y":-448,"width":201,"height":189},
+		{"id":"2d1b868ec4541ce8","type":"file","file":"N2文法/一方・上・限り・つもり・他/限り/〜に限り/Nに限って.canvas","x":-1200,"y":-137,"width":257,"height":194},
+		{"id":"90a5fbe560823829","x":880,"y":-230,"width":250,"height":60,"type":"text","text":"4 文章理解より書き込みに力を注いではいけない。"}
+	],
+	"edges":[
+		{"id":"d36dc395a5013a0f","fromNode":"ae4f9f02f3a59e0a","fromSide":"right","toNode":"4e14b4a167c5319d","toSide":"left"},
+		{"id":"108161ec163748a9","fromNode":"9a08333cd10854e6","fromSide":"right","toNode":"d4d61957fd58cffb","toSide":"top","label":"挙げる: あげる: Nêu lên, đưa ra"},
+		{"id":"41a691124ae3f877","fromNode":"65381590e4f977df","fromSide":"right","toNode":"d4d61957fd58cffb","toSide":"left","label":"Muốn đối phương đừng làm..."},
+		{"id":"47f13bf35e1ca77c","fromNode":"835a566ea4b56bdc","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"left","label":"蛍光"},
+		{"id":"d7aecbc35ccdfeaa","fromNode":"d2b01a4432909c22","fromSide":"right","toNode":"c9e04481ba6bfc8a","toSide":"left","label":"Đến cùng, kiên trì đến mức."},
+		{"id":"b324971869e9864d","fromNode":"29756f469cd2776c","fromSide":"bottom","toNode":"4e14b4a167c5319d","toSide":"top","label":"Điền vào, ghi vào (vào biểu mẫu, thẻ, ô trống)."},
+		{"id":"bbbb84e6f0a521fe","fromNode":"2d1b868ec4541ce8","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"left","label":"Đúng vào lúc... thì lại (không may) / Chỉ riêng..."},
+		{"id":"2b7b89925a749511","fromNode":"d4d61957fd58cffb","fromSide":"right","toNode":"4e14b4a167c5319d","toSide":"left"},
+		{"id":"3db569f6bf4d8ee9","fromNode":"c9e04481ba6bfc8a","fromSide":"right","toNode":"4e14b4a167c5319d","toSide":"left"},
+		{"id":"457cc74d88b8a208","fromNode":"4e14b4a167c5319d","fromSide":"right","toNode":"90a5fbe560823829","toSide":"left"}
+	]
+}
