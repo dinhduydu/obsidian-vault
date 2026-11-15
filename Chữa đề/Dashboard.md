@@ -2,7 +2,7 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1048
+- Total Reviews: 1061
 - Total Knowledge Items: 8417
 - Correct: 6005
 - Wrong: 8999

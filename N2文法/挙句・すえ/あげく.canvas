@@ -7,7 +7,7 @@
 		{"id":"24786494f0966fe6","type":"text","text":"結果(+/-)","x":235,"y":311,"width":250,"height":60},
 		{"id":"62e82ffe41e0e65c","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vたあげく.canvas","x":-660,"y":-84,"width":250,"height":151},
 		{"id":"313d190b12bd3148","type":"text","text":"考えた","x":-1140,"y":240,"width":250,"height":60},
-		{"id":"0b222f03416d29aa","x":220,"y":-680,"width":187,"height":124,"type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりに.canvas"}
+		{"id":"0b222f03416d29aa","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/ばかり/〜ばかりに.canvas","x":220,"y":-680,"width":187,"height":124}
 	],
 	"edges":[
 		{"id":"689145bb523d1ce9","fromNode":"151785fb68cb03a9","fromSide":"right","toNode":"7bd5f2b90b26bea0","toSide":"left"},

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ae4f9f02f3a59e0a","type":"text","text":"書き込みに関して、注意すべきことをいくつか挙げておきます。\n\n一つは、美しく線を引いたり、きれいに記号をつけたりすることに気を取られないでほしい、ということです。\n\n色つきのボールペンや蛍光ペンなどを使って、本や資料に、きれいに線を引いたり、書き込みをいれたりしている人を見かけますが、こういう人に限って、内容は頭に入っていないものです。\n\nあくまでも大事なのは、文章を素早く正しく理解することです。書き込みはフリーハンド（※1）でスピーディーにできればよいのです。あとで自分が読み直したときに理解できればよいのですから、それ以上の丁寧さはムダ以外の何物でもありません。\n\n（三上直之『「超」読解力』講談社による）\n\n（※1）フリーハンド：定規などの器具を使わないで書くこと","x":-600,"y":-420,"width":740,"height":440},
+		{"id":"4e14b4a167c5319d","type":"text","text":"53．筆者の考えに合うものはどれか。\n\n*\n1 điểm\n1 書き込みは雑にしてはいけない。\n2 書き込みには集中力が必要だ。\n3 きれいな書き込みができる人は、文章もよく読める。\n4 文章理解より書き込みに力を注いではいけない。","x":240,"y":-305,"width":525,"height":210},
+		{"id":"9a08333cd10854e6","type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Tiểu biến　「⺍」/兴 - Hưng/挙 - Cử.canvas","x":-980,"y":-740,"width":310,"height":96},
+		{"id":"65381590e4f977df","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しないでほしい.md","x":-1200,"y":-420,"width":309,"height":132},
+		{"id":"835a566ea4b56bdc","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Trùng　「虫」/蛍 - Huỳnh.canvas","x":-1246,"y":-220,"width":201,"height":189},
+		{"id":"d2b01a4432909c22","x":-1340,"y":80,"width":280,"height":88,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/あくまで.md"}
+	],
+	"edges":[
+		{"id":"d36dc395a5013a0f","fromNode":"ae4f9f02f3a59e0a","fromSide":"right","toNode":"4e14b4a167c5319d","toSide":"left"},
+		{"id":"108161ec163748a9","fromNode":"9a08333cd10854e6","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"top","label":"挙げる: あげる: Nêu lên, đưa ra"},
+		{"id":"41a691124ae3f877","fromNode":"65381590e4f977df","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"left","label":"Muốn đối phương đừng làm..."},
+		{"id":"47f13bf35e1ca77c","fromNode":"835a566ea4b56bdc","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"left","label":"蛍光"},
+		{"id":"d7aecbc35ccdfeaa","fromNode":"d2b01a4432909c22","fromSide":"right","toNode":"ae4f9f02f3a59e0a","toSide":"left"}
+	]
+}
