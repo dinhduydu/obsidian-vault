@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# バケツ（Bucket）
+
+Category: Katakana
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[16. Phân Tích Ngữ pháp và cụm từ cố định chỉ hiện tượng giác quan và âm thanh phát ra tự nhiên]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"63f2b0bd8f8a4cde","type":"file","file":"Pasted image 20261116021944.png","x":-220,"y":-320,"width":580,"height":510},
+		{"id":"ad4a59a5df7b5d15","type":"text","text":"1 桜川街道を通って、桜台小学校に避難する。\n2 朝日町方面を通って、桜台小学校に避難する。\n3 近所の人と一緒に、避難準備をする。\n4 避難準備をしてから、市の災害対策本部に問い合わせる。","x":-160,"y":260,"width":495,"height":158},
+		{"id":"05a3ce03094727f1","type":"text","text":"桜川街道を通って、桜台小学校に避難する。","x":-160,"y":520,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1932f1d53f263544","fromNode":"ad4a59a5df7b5d15","fromSide":"bottom","toNode":"05a3ce03094727f1","toSide":"top"}
+	]
+}
