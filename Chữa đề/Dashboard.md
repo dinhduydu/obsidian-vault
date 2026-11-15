@@ -2,21 +2,21 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1061
-- Total Knowledge Items: 8498
-- Correct: 6161
-- Wrong: 9083
-- Accuracy: 40.4%
+- Total Reviews: 1073
+- Total Knowledge Items: 8560
+- Correct: 6304
+- Wrong: 9125
+- Accuracy: 40.9%
 
 ## 🚨 Review Queue
 
 - [[]] | Vocabulary| Score: 335| Wrong: 67
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
+- [[〜にもかかわらず]] | Grammar| Score: 110| Wrong: 19
+- [[〜からといって]] | Grammar| Score: 110| Wrong: 19
 - [[したがって]] | Conjunction| Score: 105| Wrong: 21
-- [[〜からといって]] | Grammar| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
-- [[〜にもかかわらず]] | Grammar| Score: 100| Wrong: 17
 - [[〜にすぎない]] | Grammar| Score: 95| Wrong: 16
 - [[しかし]] | Conjunction| Score: 90| Wrong: 18
 - [[つまり]] | Conjunction| Score: 90| Wrong: 15
@@ -37,11 +37,11 @@
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[したがって]] (Conjunction) Wrong: 21
+- [[〜にもかかわらず]] (Grammar) Wrong: 19
+- [[〜からといって]] (Grammar) Wrong: 19
 - [[しかし]] (Conjunction) Wrong: 18
-- [[〜からといって]] (Grammar) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
 - [[〜とは限らない]] (Grammar) Wrong: 17
-- [[〜にもかかわらず]] (Grammar) Wrong: 17
 - [[〜にすぎない]] (Grammar) Wrong: 16
 - [[つまり]] (Conjunction) Wrong: 15
 - [[〜ようがない]] (Grammar) Wrong: 15
@@ -56,23 +56,23 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 38.3% (Correct 556 / Wrong 897)
-- Collocation: 36.6% (Correct 338 / Wrong 585)
-- CompoundVerb: 41.3% (Correct 300 / Wrong 426)
-- Conjunction: 35.7% (Correct 205 / Wrong 370)
-- Demonstratives: 37.4% (Correct 110 / Wrong 184)
-- FixedExpression: 37.8% (Correct 334 / Wrong 550)
-- Grammar: 38.0% (Correct 1401 / Wrong 2281)
-- Kanji: 43.4% (Correct 459 / Wrong 598)
-- Katakana: 46.8% (Correct 317 / Wrong 361)
-- Keigo: 37.4% (Correct 102 / Wrong 171)
-- Reading: 29.6% (Correct 207 / Wrong 492)
-- Vocabulary: 45.8% (Correct 1832 / Wrong 2168)
+- Adverb: 38.7% (Correct 567 / Wrong 899)
+- Collocation: 37.2% (Correct 349 / Wrong 590)
+- CompoundVerb: 41.7% (Correct 308 / Wrong 430)
+- Conjunction: 35.7% (Correct 206 / Wrong 371)
+- Demonstratives: 37.5% (Correct 111 / Wrong 185)
+- FixedExpression: 38.8% (Correct 349 / Wrong 551)
+- Grammar: 38.7% (Correct 1450 / Wrong 2297)
+- Kanji: 43.8% (Correct 466 / Wrong 599)
+- Katakana: 47.4% (Correct 325 / Wrong 361)
+- Keigo: 38.0% (Correct 105 / Wrong 171)
+- Reading: 29.6% (Correct 208 / Wrong 495)
+- Vocabulary: 46.1% (Correct 1860 / Wrong 2176)
 
 ## 📚 Top Grammar
 
-- [[〜からといって]] (Score: 105)
-- [[〜にもかかわらず]] (Score: 100)
+- [[〜にもかかわらず]] (Score: 110)
+- [[〜からといって]] (Score: 110)
 - [[〜にすぎない]] (Score: 95)
 - [[〜がち]] (Score: 85)
 - [[〜とは限らない]] (Score: 85)
@@ -129,8 +129,8 @@
 - [[筆者の主張の読み取り]] (Score: 65)
 - [[即時応答]] (Score: 55)
 - [[類義語の文脈置換]] (Score: 55)
+- [[筆者の主張の把握]] (Score: 52)
 - [[同音異義語の文脈判断]] (Score: 50)
-- [[筆者の主張の把握]] (Score: 47)
 - [[語彙の文脈的用法把握]] (Score: 45)
 - [[敬語の文脈判断]] (Score: 40)
 
