@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# N2_Bài tập điền sao (Kỹ năng phân tích cú pháp)
+
+Category: Reading
+Correct: 2
+Wrong: 0
+Accuracy: 100.0%
+Mastery: Medium
+Priority: High
+
+## Related Reviews
+
+- [[7. Phân Tích Bài kiểm tra tiếng Nhật N2]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->

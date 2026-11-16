@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1237
-- Total Knowledge Items: 9327
-- Correct: 7515
-- Wrong: 10055
-- Accuracy: 42.8%
+- Total Reviews: 1262
+- Total Knowledge Items: 9466
+- Correct: 7882
+- Wrong: 10059
+- Accuracy: 43.9%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 40.5% (Correct 655 / Wrong 962)
-- Collocation: 39.7% (Correct 442 / Wrong 670)
-- CompoundVerb: 43.2% (Correct 382 / Wrong 503)
-- Conjunction: 38.6% (Correct 239 / Wrong 380)
-- Demonstratives: 42.3% (Correct 145 / Wrong 198)
-- FixedExpression: 41.7% (Correct 428 / Wrong 599)
-- Grammar: 41.9% (Correct 1897 / Wrong 2633)
-- Kanji: 44.4% (Correct 495 / Wrong 619)
-- Katakana: 48.4% (Correct 355 / Wrong 378)
-- Keigo: 40.7% (Correct 123 / Wrong 179)
-- Reading: 29.9% (Correct 226 / Wrong 529)
-- Vocabulary: 46.9% (Correct 2128 / Wrong 2405)
+- Adverb: 41.8% (Correct 691 / Wrong 962)
+- Collocation: 41.5% (Correct 476 / Wrong 670)
+- CompoundVerb: 44.4% (Correct 404 / Wrong 505)
+- Conjunction: 39.5% (Correct 248 / Wrong 380)
+- Demonstratives: 44.1% (Correct 156 / Wrong 198)
+- FixedExpression: 42.8% (Correct 449 / Wrong 599)
+- Grammar: 43.2% (Correct 2006 / Wrong 2635)
+- Kanji: 45.5% (Correct 516 / Wrong 617)
+- Katakana: 49.5% (Correct 370 / Wrong 378)
+- Keigo: 42.6% (Correct 133 / Wrong 179)
+- Reading: 30.6% (Correct 234 / Wrong 530)
+- Vocabulary: 47.8% (Correct 2199 / Wrong 2406)
 
 ## 📚 Top Grammar
 
@@ -207,10 +207,10 @@
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 35)
-- [[お〜ください]] (Score: 30)
 - [[ご覧になる]] (Score: 27)
 - [[なさいます]] (Score: 25)
 - [[避けた方が賢明です]] (Score: 25)
+- [[お会いする]] (Score: 25)
 
 ## 📚 Top Demonstratives
 
