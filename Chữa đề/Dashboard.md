@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1380
-- Total Knowledge Items: 10180
-- Correct: 8876
-- Wrong: 10753
-- Accuracy: 45.2%
+- Total Reviews: 1445
+- Total Knowledge Items: 10552
+- Correct: 9393
+- Wrong: 11232
+- Accuracy: 45.5%
 
 ## 🚨 Review Queue
 
@@ -26,10 +26,10 @@
 - [[〜かねない]] | Grammar| Score: 95| Wrong: 16
 - [[つまり]] | Conjunction| Score: 95| Wrong: 16
 - [[〜ようとする]] | Grammar| Score: 95| Wrong: 16
+- [[この]] | Demonstratives| Score: 92| Wrong: 16
 - [[〜まい]] | Grammar| Score: 90| Wrong: 18
 - [[〜に違いない]] | Grammar| Score: 85| Wrong: 14
 - [[〜ものの]] | Grammar| Score: 85| Wrong: 17
-- [[〜に限って]] | Grammar| Score: 85| Wrong: 14
 
 ## 🔥 Top Weak Points
 
@@ -50,24 +50,24 @@
 - [[〜がち]] (Grammar) Wrong: 17
 - [[〜ざるを得ない]] (Grammar) Wrong: 17
 - [[〜かねない]] (Grammar) Wrong: 16
+- [[この]] (Demonstratives) Wrong: 16
 - [[つまり]] (Conjunction) Wrong: 16
 - [[〜ようとする]] (Grammar) Wrong: 16
-- [[〜に違いない]] (Grammar) Wrong: 14
 
 ## 📈 Category Statistics
 
-- Adverb: 43.5% (Correct 793 / Wrong 1028)
-- Collocation: 44.4% (Correct 585 / Wrong 733)
-- CompoundVerb: 45.7% (Correct 462 / Wrong 548)
-- Conjunction: 40.3% (Correct 278 / Wrong 411)
-- Demonstratives: 47.2% (Correct 186 / Wrong 208)
-- FixedExpression: 44.0% (Correct 516 / Wrong 657)
-- Grammar: 44.2% (Correct 2176 / Wrong 2742)
-- Kanji: 48.3% (Correct 608 / Wrong 652)
-- Katakana: 50.8% (Correct 436 / Wrong 422)
-- Keigo: 44.7% (Correct 155 / Wrong 192)
-- Reading: 31.4% (Correct 266 / Wrong 580)
-- Vocabulary: 48.3% (Correct 2415 / Wrong 2580)
+- Adverb: 44.8% (Correct 852 / Wrong 1051)
+- Collocation: 44.3% (Correct 620 / Wrong 778)
+- CompoundVerb: 46.1% (Correct 503 / Wrong 587)
+- Conjunction: 41.8% (Correct 297 / Wrong 414)
+- Demonstratives: 49.3% (Correct 206 / Wrong 212)
+- FixedExpression: 45.0% (Correct 559 / Wrong 684)
+- Grammar: 45.1% (Correct 2276 / Wrong 2765)
+- Kanji: 45.1% (Correct 650 / Wrong 791)
+- Katakana: 51.1% (Correct 474 / Wrong 454)
+- Keigo: 45.7% (Correct 174 / Wrong 207)
+- Reading: 30.6% (Correct 268 / Wrong 609)
+- Vocabulary: 48.4% (Correct 2514 / Wrong 2680)
 
 ## 📚 Top Grammar
 
@@ -98,19 +98,20 @@
 ## 📚 Top Kanji
 
 - [[結局]] (Score: 60)
+- [[一層]] (Score: 55)
 - [[評価]] (Score: 50)
-- [[一層]] (Score: 50)
+- [[寒気]] (Score: 50)
 - [[宿泊]] (Score: 45)
 - [[傾向]] (Score: 45)
+- [[花園]] (Score: 45)
 - [[基準]] (Score: 40)
-- [[改善]] (Score: 40)
-- [[不思議]] (Score: 35)
-- [[行方]] (Score: 35)
-- [[軽視]] (Score: 35)
+- [[外科]] (Score: 40)
+- [[衣装]] (Score: 40)
 
 ## 📚 Top Katakana
 
 - [[タイミング]] (Score: 55)
+- [[アメリカ]] (Score: 45)
 - [[アパート]] (Score: 40)
 - [[インターネット]] (Score: 40)
 - [[キャンセル]] (Score: 40)
@@ -119,7 +120,6 @@
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
 - [[ウイルス]] (Score: 35)
-- [[シンプル]] (Score: 35)
 
 ## 📚 Top Reading
 
@@ -137,15 +137,15 @@
 ## 📚 Top CompoundVerb
 
 - [[落ち込む]] (Score: 50)
-- [[思い出す]] (Score: 45)
+- [[思い出す]] (Score: 50)
 - [[埋め合わせる]] (Score: 45)
 - [[引き返す]] (Score: 40)
 - [[取り組む]] (Score: 40)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
+- [[長引く]] (Score: 35)
 - [[向き合う]] (Score: 35)
 - [[売り切れる]] (Score: 35)
-- [[繰り返す]] (Score: 30)
 
 ## 📚 Top FixedExpression
 
@@ -178,13 +178,13 @@
 - [[つい]] (Score: 80)
 - [[さっさと]] (Score: 80)
 - [[そのうち]] (Score: 70)
+- [[どうしても]] (Score: 70)
 - [[すっかり]] (Score: 60)
 - [[ますます]] (Score: 60)
 - [[とても]] (Score: 60)
 - [[まさか]] (Score: 60)
 - [[なかなか]] (Score: 55)
 - [[いかに]] (Score: 55)
-- [[今にも]] (Score: 55)
 
 ## 📚 Top Conjunction
 
@@ -192,8 +192,8 @@
 - [[しかし]] (Score: 105)
 - [[つまり]] (Score: 95)
 - [[あるいは]] (Score: 72)
+- [[ただし]] (Score: 65)
 - [[そこで]] (Score: 65)
-- [[ただし]] (Score: 60)
 - [[なぜなら]] (Score: 60)
 - [[それで]] (Score: 55)
 - [[とはいえ]] (Score: 55)
@@ -202,6 +202,7 @@
 ## 📚 Top Keigo
 
 - [[いらっしゃいます]] (Score: 55)
+- [[〜てください]] (Score: 50)
 - [[いらっしゃる]] (Score: 45)
 - [[お見えになる]] (Score: 42)
 - [[おっしゃる]] (Score: 40)
@@ -210,11 +211,10 @@
 - [[ご覧になる]] (Score: 27)
 - [[なさいます]] (Score: 25)
 - [[避けた方が賢明です]] (Score: 25)
-- [[お会いする]] (Score: 25)
 
 ## 📚 Top Demonstratives
 
-- [[この]] (Score: 82)
+- [[この]] (Score: 92)
 - [[その]] (Score: 70)
 - [[あんなに]] (Score: 60)
 - [[そんな]] (Score: 55)
