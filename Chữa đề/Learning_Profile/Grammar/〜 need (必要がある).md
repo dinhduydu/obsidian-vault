@@ -1,0 +1,22 @@
+<!-- AUTO_START -->
+
+# 〜 need (必要がある)
+
+Category: Grammar
+Correct: 1
+Wrong: 0
+Accuracy: 100.0%
+Mastery: High
+Priority: Low
+
+## Related Reviews
+
+- [[3. Phân Tích các cụm từ ghép và từ vựng thời sự]]
+
+<!-- AUTO_END -->
+
+
+<!-- USER_START -->
+
+
+<!-- USER_END -->
