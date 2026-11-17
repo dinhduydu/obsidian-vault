@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chữa đề/２０２６年/０６月２０２６年/Week2/09062026/13. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 2.md",
+                "file": "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/45. Phân Tích Katakana trình độ JLPT N3–N2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Phân Tích N2_ĐỌC HIỂU TÌM KIẾM THÔNG TIN_BÀI 2"
+              "title": "45. Phân Tích Katakana trình độ JLPT N3–N2"
             }
           }
         ],
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "いつ頃からか",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,8 +97,7 @@
               "title": "うえは"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,34 +194,40 @@
       "decks:Decks": false
     }
   },
-  "active": "6a5e076cdb99b714",
+  "active": "ae8df1c00b096584",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/Vocabulary/大地震.md",
-    "Chữa đề/Learning_Profile/Vocabulary/汚い.md",
-    "Chữa đề/Learning_Profile/Grammar/〜嬉しいことに.md",
-    "Chữa đề/Learning_Profile/Demonstratives/ここまで.md",
-    "Chữa đề/Learning_Profile/Keigo/承知いたしております.md",
-    "Chữa đề/Learning_Profile/FixedExpression/危険は十分承知している.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/買い物.md",
-    "Chữa đề/Learning_Profile/Vocabulary/四分の一.md",
-    "Chữa đề/Learning_Profile/Vocabulary/東京.md",
-    "Chữa đề/Learning_Profile/Vocabulary/大阪.md",
-    "Chữa đề/Learning_Profile/Grammar/〜んじゃないかしら.md",
-    "Chữa đề/Learning_Profile/Vocabulary/好む.md",
-    "Chữa đề/Learning_Profile/Vocabulary/いと.md",
-    "Chữa đề/Learning_Profile/Vocabulary/なわ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/ひも.md",
-    "Chữa đề/Learning_Profile/Keigo/〜させていただく.md",
-    "Chữa đề/Learning_Profile/Grammar/〜のなら.md",
-    "Chữa đề/Learning_Profile/FixedExpression/おじゃましました.md",
-    "Chữa đề/Learning_Profile/FixedExpression/かしこまりました.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/相次ぐ.md",
-    "Chữa đề/Learning_Profile/Vocabulary/減量.md",
-    "Chữa đề/Learning_Profile/Collocation/鋭い痛み.md",
-    "Chữa đề/Learning_Profile/Collocation/車を飛ばす.md",
-    "Chữa đề/Learning_Profile/FixedExpression/寄り道をする.md",
-    "Chữa đề/Learning_Profile/Collocation/問題を抱える.md",
-    "Chữa đề/Learning_Profile/Collocation/計画が進まない.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/44. Phân Tích Katakana.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/12062026/2. Phân Tích.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/12062026/1. Phân Tích nhầm lẫn kinh điển giữa chữ 非 (Phi) và 無 (Vô) khi ghép với danh từ 常識 (Thường thức)..md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/12062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/45. Phân Tích Katakana trình độ JLPT N3–N2.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/43. Phân Tích Katakana.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/1. Phân Tích N2_NGÀY 1_ÔN TẬP KANJI (P1).md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB2.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/12062026",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/42. Phân Tích Katakana.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana/41. Phân Tích Katakana.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Katakana",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/39. Phân Tích 1006262-18-20.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/40. Phân Tích bản chất từ ghép gốc chữ Hán với từ đơn cơ bản.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/38. Phân Tích Động từ ghép tiền tố.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/37. Phân Tích 1006262-14-17.pdf.md",
+    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.1.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/36. Phân Tích từ đồng nghĩa, Diễn đạt tương đương.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/35. Phân Tích 1006262-33-34.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/34. Phân Tích từ đồng nghĩa khiêm nhường ngữ.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/32. Phân Tích 1006262-10-13.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/33. Phân Tích Động từ ghép.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/29. Phân Tích phân biệt ý nghĩa của động từ hậu tố.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/31. Phân Tích 1006262-29-32.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/30. Phân Tích 1006262-8-9.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép/28. Phân Tích Động từ ghép.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập động từ ghép",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng/27. Phân Tích 1006262-6-7.pdf.md",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji, từ vựng",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji/11. Phân Tích",
+    "Chữa đề/２０２６年/０６月２０２６年/Week2/10062026/Ôn tập Kanji",
     "Chữa đề/２０２６年/０６月２０２６年/Week1/06062026/500 無地語彙文法.canvas",
     "Chữa đề/２０２６年/０５月２０２６年/Week4/24052026/問題 1.canvas",
     "Chữa đề/２０２６年/０５月２０２６年/Week2/15052026",
@@ -237,14 +242,7 @@
     "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026/55.  高齢者は、今からどうしなければならないか。.canvas",
     "Chữa đề/２０２６年/０４月２０２６年/Week2/08042026/Untitled",
     "Pasted image 20261116021944.png",
-    "Chữa đề/２０２６年/０３月２０２６年/Week4/27032026/Untitled",
-    "Chữa đề/２０２６年/０３月２０２６年/Week2/09032026/Untitled",
     "Pasted image 20261113190052.png",
-    "N2文法/うち/うちに",
-    "Chữa đề/２０２６年/１１月２０２６年/Week2/15112026",
-    "Chữa đề/２０２６年/１１月２０２６年/Week2/14112026",
-    "Chữa đề/２０２６年/１１月２０２６年/Week2/13112026",
-    "Chữa đề/２０２６年/１１月２０２６年/Week2/12112026",
     "Pasted image 20261111192007.png",
     "Pasted image 20261111191949.png",
     "Pasted image 20261108192222.png",
