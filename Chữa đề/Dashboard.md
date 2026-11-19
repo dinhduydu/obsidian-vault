@@ -2,89 +2,89 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1445
-- Total Knowledge Items: 10552
-- Correct: 9393
-- Wrong: 11232
-- Accuracy: 45.5%
+- Total Reviews: 1500
+- Total Knowledge Items: 10700
+- Correct: 9629
+- Wrong: 11501
+- Accuracy: 45.6%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 340| Wrong: 68
+- [[]] | Vocabulary| Score: 345| Wrong: 69
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 140| Wrong: 25
-- [[〜からといって]] | Grammar| Score: 125| Wrong: 22
+- [[〜からといって]] | Grammar| Score: 130| Wrong: 23
+- [[〜にすぎない]] | Grammar| Score: 110| Wrong: 19
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
+- [[〜とは限らない]] | Grammar| Score: 110| Wrong: 22
 - [[〜にほかならない]] | Grammar| Score: 110| Wrong: 19
 - [[しかし]] | Conjunction| Score: 105| Wrong: 21
-- [[〜にすぎない]] | Grammar| Score: 105| Wrong: 18
-- [[〜とは限らない]] | Grammar| Score: 105| Wrong: 21
+- [[つまり]] | Conjunction| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
+- [[〜ようとする]] | Grammar| Score: 100| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 100| Wrong: 20
 - [[〜かねない]] | Grammar| Score: 95| Wrong: 16
-- [[つまり]] | Conjunction| Score: 95| Wrong: 16
-- [[〜ようとする]] | Grammar| Score: 95| Wrong: 16
 - [[この]] | Demonstratives| Score: 92| Wrong: 16
+- [[〜ものの]] | Grammar| Score: 90| Wrong: 18
 - [[〜まい]] | Grammar| Score: 90| Wrong: 18
 - [[〜に違いない]] | Grammar| Score: 85| Wrong: 14
-- [[〜ものの]] | Grammar| Score: 85| Wrong: 17
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 68
+- [[]] (Vocabulary) Wrong: 69
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[〜にもかかわらず]] (Grammar) Wrong: 25
+- [[〜からといって]] (Grammar) Wrong: 23
 - [[したがって]] (Conjunction) Wrong: 22
-- [[〜からといって]] (Grammar) Wrong: 22
+- [[〜とは限らない]] (Grammar) Wrong: 22
 - [[しかし]] (Conjunction) Wrong: 21
-- [[〜とは限らない]] (Grammar) Wrong: 21
 - [[〜ようがない]] (Grammar) Wrong: 20
+- [[〜にすぎない]] (Grammar) Wrong: 19
 - [[〜にほかならない]] (Grammar) Wrong: 19
-- [[〜にすぎない]] (Grammar) Wrong: 18
+- [[〜ものの]] (Grammar) Wrong: 18
+- [[つまり]] (Conjunction) Wrong: 18
 - [[〜まい]] (Grammar) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
-- [[〜ものの]] (Grammar) Wrong: 17
 - [[〜がち]] (Grammar) Wrong: 17
+- [[〜ようとする]] (Grammar) Wrong: 17
 - [[〜ざるを得ない]] (Grammar) Wrong: 17
 - [[〜かねない]] (Grammar) Wrong: 16
 - [[この]] (Demonstratives) Wrong: 16
-- [[つまり]] (Conjunction) Wrong: 16
-- [[〜ようとする]] (Grammar) Wrong: 16
 
 ## 📈 Category Statistics
 
-- Adverb: 44.8% (Correct 852 / Wrong 1051)
-- Collocation: 44.3% (Correct 620 / Wrong 778)
-- CompoundVerb: 46.1% (Correct 503 / Wrong 587)
-- Conjunction: 41.8% (Correct 297 / Wrong 414)
-- Demonstratives: 49.3% (Correct 206 / Wrong 212)
-- FixedExpression: 45.0% (Correct 559 / Wrong 684)
-- Grammar: 45.1% (Correct 2276 / Wrong 2765)
-- Kanji: 45.1% (Correct 650 / Wrong 791)
-- Katakana: 51.1% (Correct 474 / Wrong 454)
-- Keigo: 45.7% (Correct 174 / Wrong 207)
-- Reading: 30.6% (Correct 268 / Wrong 609)
-- Vocabulary: 48.4% (Correct 2514 / Wrong 2680)
+- Adverb: 44.9% (Correct 872 / Wrong 1071)
+- Collocation: 44.6% (Correct 649 / Wrong 806)
+- CompoundVerb: 46.2% (Correct 510 / Wrong 593)
+- Conjunction: 42.0% (Correct 305 / Wrong 421)
+- Demonstratives: 50.5% (Correct 219 / Wrong 215)
+- FixedExpression: 44.7% (Correct 577 / Wrong 713)
+- Grammar: 45.1% (Correct 2305 / Wrong 2808)
+- Kanji: 45.5% (Correct 660 / Wrong 791)
+- Katakana: 51.2% (Correct 496 / Wrong 472)
+- Keigo: 45.7% (Correct 182 / Wrong 216)
+- Reading: 30.5% (Correct 274 / Wrong 623)
+- Vocabulary: 48.2% (Correct 2580 / Wrong 2772)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 140)
-- [[〜からといって]] (Score: 125)
+- [[〜からといって]] (Score: 130)
+- [[〜にすぎない]] (Score: 110)
+- [[〜とは限らない]] (Score: 110)
 - [[〜にほかならない]] (Score: 110)
-- [[〜にすぎない]] (Score: 105)
-- [[〜とは限らない]] (Score: 105)
 - [[〜がち]] (Score: 100)
+- [[〜ようとする]] (Score: 100)
 - [[〜ようがない]] (Score: 100)
 - [[〜かねない]] (Score: 95)
-- [[〜ようとする]] (Score: 95)
-- [[〜まい]] (Score: 90)
+- [[〜ものの]] (Score: 90)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 340)
+- [[]] (Score: 345)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[意外]] (Score: 50)
 - [[悔しい]] (Score: 50)
@@ -97,7 +97,7 @@
 
 ## 📚 Top Kanji
 
-- [[結局]] (Score: 60)
+- [[結局]] (Score: 65)
 - [[一層]] (Score: 55)
 - [[評価]] (Score: 50)
 - [[寒気]] (Score: 50)
@@ -112,6 +112,7 @@
 
 - [[タイミング]] (Score: 55)
 - [[アメリカ]] (Score: 45)
+- [[ファスナー]] (Score: 45)
 - [[アパート]] (Score: 40)
 - [[インターネット]] (Score: 40)
 - [[キャンセル]] (Score: 40)
@@ -119,7 +120,6 @@
 - [[ドラマ]] (Score: 35)
 - [[レストラン]] (Score: 35)
 - [[タクシー]] (Score: 35)
-- [[ウイルス]] (Score: 35)
 
 ## 📚 Top Reading
 
@@ -155,23 +155,23 @@
 - [[時間つぶし]] (Score: 45)
 - [[〜はもちろん]] (Score: 40)
 - [[ため息をつく]] (Score: 40)
+- [[気がする]] (Score: 40)
 - [[お忙しいところを]] (Score: 35)
 - [[〜を目的として]] (Score: 35)
-- [[覚悟の上で]] (Score: 30)
-- [[心をこめて]] (Score: 30)
+- [[手入れをする]] (Score: 35)
 
 ## 📚 Top Collocation
 
 - [[専門用語]] (Score: 40)
 - [[文句を言う]] (Score: 40)
-- [[気がする]] (Score: 40)
 - [[欲求に応える]] (Score: 40)
 - [[身が引き締まる思い]] (Score: 35)
 - [[補助動詞]] (Score: 30)
 - [[行列ができる]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
-- [[目を引く]] (Score: 30)
+- [[成功をおさめる]] (Score: 30)
+- [[手間がかかる]] (Score: 30)
 
 ## 📚 Top Adverb
 
@@ -190,7 +190,7 @@
 
 - [[したがって]] (Score: 110)
 - [[しかし]] (Score: 105)
-- [[つまり]] (Score: 95)
+- [[つまり]] (Score: 105)
 - [[あるいは]] (Score: 72)
 - [[ただし]] (Score: 65)
 - [[そこで]] (Score: 65)
@@ -215,7 +215,7 @@
 ## 📚 Top Demonstratives
 
 - [[この]] (Score: 92)
-- [[その]] (Score: 70)
+- [[その]] (Score: 75)
 - [[あんなに]] (Score: 60)
 - [[そんな]] (Score: 55)
 - [[あれこれ]] (Score: 50)
