@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7ddc7579d72f6043","type":"text","text":"群 - Quần","x":-168,"y":-59,"width":250,"height":60},
+		{"id":"2a8ad3791de8afe4","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Doãn - Duẫn　「尹」/君 - Quân/君 - Quân.canvas","x":-520,"y":-280,"width":183,"height":113},
+		{"id":"db792392aae68270","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Dương　「羊 (⺶) 」/Dương　「羊 (⺶) 」.canvas","x":-493,"y":1,"width":156,"height":189},
+		{"id":"5f29ef48612e1594","type":"text","text":"nhóm, bầy, đám đông.","x":236,"y":-170,"width":250,"height":60},
+		{"id":"a4fbef21ed98a284","x":660,"y":-505,"width":662,"height":335,"type":"text","text":"群 ( ぐん) - huyện; quần thể; nhóm; đàn; lũ\n群れ ( むれ) - tốp; nhóm; bầy đàn\n一群 (いちぐん) - nhóm\n亜群 (あぐん) - phân nhóm\n群像 ( ぐんぞう) - quần tượng; nhóm tượng; tượng về một nhóm người\n出群 (でぐん) - sự trội hơn\n群小 (ぐんしょう) - vặt\n群居 (ぐんきょ) - sự thích sống theo bầy\n群峰 (ぐんぽう) - quân pháp\n群島 ( ぐんとう) - quần đảo\n群がる ( むらがる) - kết thành đàn; tập hợp lạI\n群れる ( むれる) - tụ tập"},
+		{"id":"76657d0d4f11694a","x":660,"y":-110,"width":258,"height":170,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/群れ (むれ).md"}
+	],
+	"edges":[
+		{"id":"75c9ab11d5e589a6","fromNode":"2a8ad3791de8afe4","fromSide":"right","toNode":"7ddc7579d72f6043","toSide":"left"},
+		{"id":"b92bcc295e602751","fromNode":"db792392aae68270","fromSide":"right","toNode":"7ddc7579d72f6043","toSide":"left"},
+		{"id":"d81bda15918d3d7e","fromNode":"7ddc7579d72f6043","fromSide":"right","toNode":"5f29ef48612e1594","toSide":"left"},
+		{"id":"24d9517197cad4e4","fromNode":"5f29ef48612e1594","fromSide":"right","toNode":"a4fbef21ed98a284","toSide":"left"},
+		{"id":"60d3c460ce7e23f2","fromNode":"5f29ef48612e1594","fromSide":"right","toNode":"76657d0d4f11694a","toSide":"left"}
+	]
+}

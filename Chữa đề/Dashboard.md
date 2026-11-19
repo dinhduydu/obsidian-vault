@@ -2,111 +2,111 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1519
-- Total Knowledge Items: 10765
-- Correct: 9698
-- Wrong: 11607
+- Total Reviews: 1580
+- Total Knowledge Items: 10977
+- Correct: 9991
+- Wrong: 11944
 - Accuracy: 45.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 360| Wrong: 72
+- [[]] | Vocabulary| Score: 365| Wrong: 73
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 140| Wrong: 25
-- [[〜からといって]] | Grammar| Score: 130| Wrong: 23
+- [[〜からといって]] | Grammar| Score: 135| Wrong: 24
 - [[しかし]] | Conjunction| Score: 117| Wrong: 22
-- [[〜にすぎない]] | Grammar| Score: 110| Wrong: 19
+- [[〜にすぎない]] | Grammar| Score: 115| Wrong: 20
+- [[〜とは限らない]] | Grammar| Score: 115| Wrong: 23
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
-- [[〜とは限らない]] | Grammar| Score: 110| Wrong: 22
 - [[〜にほかならない]] | Grammar| Score: 110| Wrong: 19
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
+- [[〜ようとする]] | Grammar| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
+- [[この]] | Demonstratives| Score: 102| Wrong: 18
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
-- [[〜ようとする]] | Grammar| Score: 100| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 100| Wrong: 20
 - [[〜かねない]] | Grammar| Score: 95| Wrong: 16
-- [[この]] | Demonstratives| Score: 92| Wrong: 16
 - [[〜ものの]] | Grammar| Score: 90| Wrong: 18
 - [[〜まい]] | Grammar| Score: 90| Wrong: 18
 - [[〜に限って]] | Grammar| Score: 85| Wrong: 14
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 72
+- [[]] (Vocabulary) Wrong: 73
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[〜にもかかわらず]] (Grammar) Wrong: 25
-- [[〜からといって]] (Grammar) Wrong: 23
+- [[〜からといって]] (Grammar) Wrong: 24
+- [[〜とは限らない]] (Grammar) Wrong: 23
 - [[しかし]] (Conjunction) Wrong: 22
 - [[したがって]] (Conjunction) Wrong: 22
-- [[〜とは限らない]] (Grammar) Wrong: 22
+- [[〜にすぎない]] (Grammar) Wrong: 20
 - [[〜ようがない]] (Grammar) Wrong: 20
-- [[〜にすぎない]] (Grammar) Wrong: 19
 - [[〜にほかならない]] (Grammar) Wrong: 19
 - [[〜ものの]] (Grammar) Wrong: 18
+- [[この]] (Demonstratives) Wrong: 18
 - [[つまり]] (Conjunction) Wrong: 18
+- [[〜ようとする]] (Grammar) Wrong: 18
 - [[〜まい]] (Grammar) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
 - [[〜がち]] (Grammar) Wrong: 17
-- [[〜ようとする]] (Grammar) Wrong: 17
 - [[〜ざるを得ない]] (Grammar) Wrong: 17
 - [[〜かねない]] (Grammar) Wrong: 16
-- [[この]] (Demonstratives) Wrong: 16
 
 ## 📈 Category Statistics
 
-- Adverb: 44.8% (Correct 879 / Wrong 1085)
-- Collocation: 44.6% (Correct 656 / Wrong 816)
-- CompoundVerb: 46.1% (Correct 516 / Wrong 603)
-- Conjunction: 42.0% (Correct 306 / Wrong 422)
-- Demonstratives: 50.6% (Correct 221 / Wrong 216)
-- FixedExpression: 44.9% (Correct 580 / Wrong 711)
-- Grammar: 45.0% (Correct 2322 / Wrong 2843)
-- Kanji: 45.4% (Correct 651 / Wrong 782)
-- Katakana: 51.2% (Correct 500 / Wrong 477)
-- Keigo: 45.6% (Correct 182 / Wrong 217)
-- Reading: 30.5% (Correct 276 / Wrong 628)
-- Vocabulary: 48.2% (Correct 2609 / Wrong 2807)
+- Adverb: 45.0% (Correct 902 / Wrong 1104)
+- Collocation: 45.1% (Correct 684 / Wrong 832)
+- CompoundVerb: 44.9% (Correct 540 / Wrong 663)
+- Conjunction: 42.5% (Correct 317 / Wrong 429)
+- Demonstratives: 50.7% (Correct 231 / Wrong 225)
+- FixedExpression: 45.0% (Correct 587 / Wrong 718)
+- Grammar: 45.1% (Correct 2392 / Wrong 2909)
+- Kanji: 45.6% (Correct 672 / Wrong 803)
+- Katakana: 51.6% (Correct 522 / Wrong 489)
+- Keigo: 46.6% (Correct 185 / Wrong 212)
+- Reading: 30.5% (Correct 282 / Wrong 643)
+- Vocabulary: 47.9% (Correct 2677 / Wrong 2917)
 
 ## 📚 Top Grammar
 
 - [[〜にもかかわらず]] (Score: 140)
-- [[〜からといって]] (Score: 130)
-- [[〜にすぎない]] (Score: 110)
-- [[〜とは限らない]] (Score: 110)
+- [[〜からといって]] (Score: 135)
+- [[〜にすぎない]] (Score: 115)
+- [[〜とは限らない]] (Score: 115)
 - [[〜にほかならない]] (Score: 110)
+- [[〜ようとする]] (Score: 105)
 - [[〜がち]] (Score: 100)
-- [[〜ようとする]] (Score: 100)
 - [[〜ようがない]] (Score: 100)
 - [[〜かねない]] (Score: 95)
 - [[〜ものの]] (Score: 90)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 360)
+- [[]] (Score: 365)
 - [[相続]] (Score: 60)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[意外]] (Score: 50)
 - [[悔しい]] (Score: 50)
 - [[演技]] (Score: 47)
+- [[食物]] (Score: 45)
+- [[そうぞうしい]] (Score: 45)
 - [[拡充]] (Score: 45)
 - [[誤解]] (Score: 45)
-- [[つらい]] (Score: 45)
-- [[連続]] (Score: 45)
 
 ## 📚 Top Kanji
 
 - [[結局]] (Score: 65)
-- [[一層]] (Score: 55)
+- [[一層]] (Score: 65)
 - [[評価]] (Score: 50)
 - [[寒気]] (Score: 50)
 - [[宿泊]] (Score: 45)
 - [[傾向]] (Score: 45)
 - [[花園]] (Score: 45)
 - [[基準]] (Score: 40)
+- [[頭脳]] (Score: 40)
 - [[外科]] (Score: 40)
-- [[衣装]] (Score: 40)
 
 ## 📚 Top Katakana
 
@@ -128,24 +128,24 @@
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Score: 105)
 - [[筆者の主張の読み取り]] (Score: 70)
 - [[即時応答]] (Score: 60)
+- [[筆者の主張の把握]] (Score: 57)
 - [[類義語の文脈置換]] (Score: 55)
-- [[筆者の主張の把握]] (Score: 52)
 - [[筆者の考え]] (Score: 50)
 - [[同音異義語の文脈判断]] (Score: 50)
 - [[語彙の文脈的用法把握]] (Score: 45)
 
 ## 📚 Top CompoundVerb
 
+- [[落ち込む]] (Score: 55)
 - [[埋め合わせる]] (Score: 50)
-- [[落ち込む]] (Score: 50)
 - [[思い出す]] (Score: 50)
 - [[取り組む]] (Score: 42)
 - [[引き返す]] (Score: 40)
+- [[長引く]] (Score: 40)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
-- [[長引く]] (Score: 35)
+- [[見守る]] (Score: 35)
 - [[向き合う]] (Score: 35)
-- [[売り切れる]] (Score: 35)
 
 ## 📚 Top FixedExpression
 
@@ -197,33 +197,33 @@
 - [[なぜなら]] (Score: 60)
 - [[それで]] (Score: 55)
 - [[とはいえ]] (Score: 55)
-- [[ところで]] (Score: 50)
+- [[また]] (Score: 55)
 
 ## 📚 Top Keigo
 
 - [[いらっしゃいます]] (Score: 55)
-- [[〜てください]] (Score: 50)
 - [[いらっしゃる]] (Score: 45)
 - [[お見えになる]] (Score: 42)
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 35)
+- [[お待ちしておりました]] (Score: 30)
 - [[ご覧になる]] (Score: 27)
 - [[なさいます]] (Score: 25)
 - [[避けた方が賢明です]] (Score: 25)
 
 ## 📚 Top Demonstratives
 
-- [[この]] (Score: 92)
+- [[この]] (Score: 102)
 - [[その]] (Score: 75)
+- [[そんな]] (Score: 60)
 - [[あんなに]] (Score: 60)
-- [[そんな]] (Score: 55)
+- [[それ]] (Score: 55)
+- [[これ]] (Score: 50)
 - [[あれこれ]] (Score: 50)
 - [[あの]] (Score: 50)
-- [[これ]] (Score: 45)
 - [[こんな]] (Score: 45)
-- [[こうした]] (Score: 40)
-- [[それ]] (Score: 40)
+- [[それが]] (Score: 35)
 
 ## 📅 Recent Reviews
 
@@ -246,4 +246,4 @@
 - [[7. Phân Tích 181120262-4-5.pdf]]
 - [[8. Phân Tích 181120262-6-7.pdf]]
 - [[9. Phân Tích 181120262-8-9.pdf]]
-- [[1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 12]]
+- [[1. Phân Tích N2_LỚP BỔ TRỢ_ĐỌC HIỂU_BÀI 12]]

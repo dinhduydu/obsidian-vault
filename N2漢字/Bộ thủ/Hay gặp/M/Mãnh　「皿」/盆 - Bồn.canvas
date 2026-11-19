@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"fcb3cec47a973bd0","type":"text","text":"盆 - Bồn","x":-8,"y":-65,"width":250,"height":60},
 		{"id":"6f405ea744f269e0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phân　「分」/Phân　「分」.canvas","x":-290,"y":-160,"width":132,"height":81},
-		{"id":"b7bc06ae6ee79f57","x":-290,"y":40,"width":132,"height":96,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas"}
+		{"id":"b7bc06ae6ee79f57","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mãnh　「皿」/Mãnh　「皿」.canvas","x":-290,"y":40,"width":132,"height":96},
+		{"id":"6cab74e462f98177","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/盆と正月が一緒にやってきた.md","x":500,"y":-340,"width":380,"height":60},
+		{"id":"f8253c38154f551b","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/盆とお正月が一緒にやってきた.md","x":1060,"y":-461,"width":460,"height":121}
 	],
 	"edges":[
 		{"id":"13d86c8e6f9e11a4","fromNode":"6f405ea744f269e0","fromSide":"right","toNode":"fcb3cec47a973bd0","toSide":"left"},
-		{"id":"abfd78e5ab2a477e","fromNode":"b7bc06ae6ee79f57","fromSide":"right","toNode":"fcb3cec47a973bd0","toSide":"left"}
+		{"id":"abfd78e5ab2a477e","fromNode":"b7bc06ae6ee79f57","fromSide":"right","toNode":"fcb3cec47a973bd0","toSide":"left"},
+		{"id":"4bbacafd52eab708","fromNode":"fcb3cec47a973bd0","fromSide":"right","toNode":"6cab74e462f98177","toSide":"left","color":"6","label":"Niềm vui lớn đến dồn dập cùng một lúc."},
+		{"id":"abbed94470e12c9b","fromNode":"6cab74e462f98177","fromSide":"right","toNode":"f8253c38154f551b","toSide":"left","color":"4"}
 	]
 }

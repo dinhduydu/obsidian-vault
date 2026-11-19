@@ -1,11 +1,43 @@
 {
 	"nodes":[
-		{"id":"49e4d6eef5e0e646","x":-157,"y":-30,"width":250,"height":60,"type":"text","text":"極 - Cực"},
-		{"id":"3422eafbaacd3596","x":-520,"y":80,"width":233,"height":123,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cức　「亟」/Cức　「亟」.canvas"},
-		{"id":"74e32915e75fee79","x":-482,"y":-260,"width":195,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas"}
+		{"id":"3422eafbaacd3596","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cức　「亟」/Cức　「亟」.canvas","x":-520,"y":80,"width":233,"height":123},
+		{"id":"74e32915e75fee79","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mộc　「木」/Mộc　「木」.canvas","x":-482,"y":-260,"width":195,"height":187},
+		{"id":"b17c953fb5e85b57","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/極端.md","x":280,"y":-296,"width":291,"height":130},
+		{"id":"925da1cee8311329","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/N/Nhi　「而」/端 - Đoan.canvas","x":-114,"y":-460,"width":164,"height":112},
+		{"id":"df6536be1b72d864","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/極端な.md","x":720,"y":-404,"width":253,"height":141},
+		{"id":"3f08909bf249be08","type":"file","file":"Chữa đề/Learning_Profile/Collocation/極端な考え方.md","x":1100,"y":-500,"width":309,"height":83},
+		{"id":"7b83a64b71979c3c","type":"file","file":"Chữa đề/Learning_Profile/Kanji/南極.md","x":280,"y":203,"width":248,"height":69},
+		{"id":"75f14091358c54d5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/消極的.md","x":740,"y":580,"width":262,"height":50},
+		{"id":"393b7656999411b5","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/積極的.md","x":740,"y":700,"width":314,"height":50},
+		{"id":"9ee1f43c43464f40","type":"text","text":"極的","x":280,"y":460,"width":250,"height":60},
+		{"id":"07478dd0318d7586","type":"file","file":"Chữa đề/Learning_Profile/Adverb/積極的に.md","x":1280,"y":725,"width":236,"height":124},
+		{"id":"49e4d6eef5e0e646","type":"text","text":"極 - Cực","x":-157,"y":-30,"width":250,"height":60},
+		{"id":"645c6add9e3daf42","type":"file","file":"Chữa đề/Learning_Profile/Collocation/積極的な性格.md","x":1280,"y":953,"width":272,"height":87},
+		{"id":"8ca14cb3602376ca","type":"file","file":"Chữa đề/Learning_Profile/Collocation/積極的に取り組む.md","x":1280,"y":1112,"width":258,"height":99},
+		{"id":"02f77f5e7954ba75","type":"text","text":"極 - Cực","x":-140,"y":1611,"width":250,"height":60},
+		{"id":"621a02291d15a872","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/見極める.md","x":380,"y":1400,"width":225,"height":121},
+		{"id":"f88fcc598da4785d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/きわめて (極めて).md","x":380,"y":1920,"width":306,"height":100},
+		{"id":"765fd5b4d7a6caad","type":"file","file":"Chữa đề/Learning_Profile/Adverb/きわめて.md","x":840,"y":1842,"width":353,"height":78},
+		{"id":"e2e9a4b0e4067a17","type":"file","file":"Chữa đề/Learning_Profile/Collocation/食べ頃を見極める.md","x":1259,"y":1538,"width":300,"height":103}
 	],
 	"edges":[
 		{"id":"980080522db1ba86","fromNode":"3422eafbaacd3596","fromSide":"right","toNode":"49e4d6eef5e0e646","toSide":"left"},
-		{"id":"fe6751ffa3e61da3","fromNode":"74e32915e75fee79","fromSide":"right","toNode":"49e4d6eef5e0e646","toSide":"left"}
+		{"id":"fe6751ffa3e61da3","fromNode":"74e32915e75fee79","fromSide":"right","toNode":"49e4d6eef5e0e646","toSide":"left"},
+		{"id":"2f5194aadb35cf8a","fromNode":"49e4d6eef5e0e646","fromSide":"right","toNode":"b17c953fb5e85b57","toSide":"left"},
+		{"id":"bb78d0202a1f14e0","fromNode":"925da1cee8311329","fromSide":"right","toNode":"b17c953fb5e85b57","toSide":"left"},
+		{"id":"51616f6dff7c2c87","fromNode":"b17c953fb5e85b57","fromSide":"right","toNode":"df6536be1b72d864","toSide":"left"},
+		{"id":"316fc1463f09dd64","fromNode":"df6536be1b72d864","fromSide":"right","toNode":"3f08909bf249be08","toSide":"left"},
+		{"id":"88c338eac4555e19","fromNode":"49e4d6eef5e0e646","fromSide":"right","toNode":"7b83a64b71979c3c","toSide":"left"},
+		{"id":"61dfcb251f0b9d04","fromNode":"9ee1f43c43464f40","fromSide":"right","toNode":"75f14091358c54d5","toSide":"left"},
+		{"id":"6d909342a573a30c","fromNode":"49e4d6eef5e0e646","fromSide":"right","toNode":"9ee1f43c43464f40","toSide":"left"},
+		{"id":"1143498ae42da347","fromNode":"9ee1f43c43464f40","fromSide":"right","toNode":"393b7656999411b5","toSide":"left"},
+		{"id":"c27bd3c7c24036b8","fromNode":"393b7656999411b5","fromSide":"right","toNode":"07478dd0318d7586","toSide":"left","color":"4"},
+		{"id":"28db1c723a170bc7","fromNode":"49e4d6eef5e0e646","fromSide":"bottom","toNode":"02f77f5e7954ba75","toSide":"top"},
+		{"id":"146dc479ee20008a","fromNode":"02f77f5e7954ba75","fromSide":"right","toNode":"621a02291d15a872","toSide":"left","label":"Nhìn rõ bản chất, xác định rõ thật giả"},
+		{"id":"0164f5654b4d58ce","fromNode":"393b7656999411b5","fromSide":"right","toNode":"645c6add9e3daf42","toSide":"left","color":"6"},
+		{"id":"81b4d50ec4d8394b","fromNode":"393b7656999411b5","fromSide":"right","toNode":"8ca14cb3602376ca","toSide":"left","color":"6"},
+		{"id":"a20117f1d2640e0f","fromNode":"621a02291d15a872","fromSide":"right","toNode":"e2e9a4b0e4067a17","toSide":"left","label":"Nhận biết/xác định thời điểm ăn ngon nhất"},
+		{"id":"e4a1809a62c54cbf","fromNode":"02f77f5e7954ba75","fromSide":"right","toNode":"f88fcc598da4785d","toSide":"left","label":"Cực kỳ, hết sức, rất."},
+		{"id":"671498362ac659dc","fromNode":"f88fcc598da4785d","fromSide":"right","toNode":"765fd5b4d7a6caad","toSide":"left","color":"4"}
 	]
 }
