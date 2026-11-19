@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"270bb4861f679ec9","type":"file","file":"N2文法/こと・もの/こと/ことはない.canvas","x":-160,"y":80,"width":231,"height":215},
+		{"id":"270bb4861f679ec9","type":"file","file":"N2文法/こと・もの/こと/ことは/ことはない.canvas","x":-160,"y":80,"width":231,"height":215},
 		{"id":"b0a35197ec5ab773","type":"text","text":"～ことは","x":-720,"y":20,"width":250,"height":60},
 		{"id":"806c97aa92fbc3fe","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ことは～が.md","x":-160,"y":-220,"width":243,"height":171}
 	],

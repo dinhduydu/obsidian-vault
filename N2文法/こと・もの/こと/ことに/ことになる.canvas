@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"149c78676c479e63","type":"text","text":"N＋になる\nV辞書形＋ことになる\nVない＋ことになる","x":208,"y":-175,"width":250,"height":93},
+		{"id":"a062d115ffcfd8e4","type":"text","text":"ことになる","x":905,"y":-386,"width":250,"height":60},
+		{"id":"7be4b2d563256033","type":"text","text":"Diễn tả 1 việc được quyết định không liên quan đến ý chí của người nói","x":163,"y":-700,"width":253,"height":90},
+		{"id":"5e152a69a1e945c4","type":"text","text":"ことになっている","x":1620,"y":-60,"width":250,"height":60},
+		{"id":"d8d02e9446e620dd","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということになる.md","x":1558,"y":-1003,"width":375,"height":303},
+		{"id":"636bbb7bdb4c0275","type":"file","file":"N2文法/こと・もの/こと/ということ/ということ.canvas","x":1120,"y":-1077,"width":205,"height":148},
+		{"id":"de8e6268447561af","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことになったので.md","x":2060,"y":-564,"width":265,"height":238}
+	],
+	"edges":[
+		{"id":"c60943befbc78368","fromNode":"a062d115ffcfd8e4","fromSide":"right","toNode":"5e152a69a1e945c4","toSide":"left","color":"5","label":"ことになっている\n\nDùng khi đề cập đến 1 quyết định như kế hoạch, quy tắc trong cuộc sống hàng ngày, pháp luật"},
+		{"id":"471395a8c3cf906f","fromNode":"a062d115ffcfd8e4","fromSide":"right","toNode":"de8e6268447561af","toSide":"left","color":"6"},
+		{"id":"6c902567387a3252","fromNode":"a062d115ffcfd8e4","fromSide":"left","toNode":"149c78676c479e63","toSide":"right","label":"ことになる"},
+		{"id":"1b0e2372034df19f","fromNode":"a062d115ffcfd8e4","fromSide":"left","toNode":"7be4b2d563256033","toSide":"right","label":"ことになる"},
+		{"id":"6b8bf7a91de59fe0","fromNode":"a062d115ffcfd8e4","fromSide":"right","toNode":"d8d02e9446e620dd","toSide":"left","color":"6","label":"Có nghĩa là..., Suy ra là... (đưa ra kết luận logic từ dữ kiện)."},
+		{"id":"f66170345516197e","fromNode":"636bbb7bdb4c0275","fromSide":"right","toNode":"d8d02e9446e620dd","toSide":"left","color":"3"}
+	]
+}

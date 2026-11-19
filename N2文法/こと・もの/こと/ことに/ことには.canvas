@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f3e478ebfa054e86","type":"group","x":1193,"y":-449,"width":585,"height":713,"label":"〜ことにはならない"},
+		{"id":"bb0f28ab1827e96d","type":"text","text":"＋　「でない」＋","x":-1427,"y":21,"width":250,"height":60},
+		{"id":"fe74826811d75cab","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/14. Danh từ/14. Danh từ.md","x":-1777,"y":81,"width":234,"height":77},
+		{"id":"da664de3132d47b4","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/1. Danh từ Tính ngữ/1. Danh từ Tính ngữ.md","x":-1777,"y":-118,"width":214,"height":122},
+		{"id":"ee4c236f2c94ea8f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことには...ない.md","x":-887,"y":158,"width":400,"height":400},
+		{"id":"2ba07ae57a06b20a","type":"text","text":"Vない　＋","x":-347,"y":108,"width":292,"height":50},
+		{"id":"f74800a57c5e9e25","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ないことには.md","x":13,"y":-209,"width":257,"height":139},
+		{"id":"58d56e964c12447d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことにはならない..md","x":1358,"y":-289,"width":400,"height":126},
+		{"id":"1fd73dd68ccb8a29","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことにはならない.md","x":1388,"y":51,"width":340,"height":193},
+		{"id":"5d4729a13f313681","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことには.md","x":372,"y":-557,"width":220,"height":131},
+		{"id":"4af44b6118a75d8b","type":"text","text":"Vる・N　＋","x":653,"y":-9,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"de0c60c5b0169f3a","fromNode":"5d4729a13f313681","fromSide":"right","toNode":"f3e478ebfa054e86","toSide":"left","color":"5","label":"Không có nghĩa là/Không tính là..."},
+		{"id":"3f1a5c59d778acb1","fromNode":"4af44b6118a75d8b","fromSide":"right","toNode":"f3e478ebfa054e86","toSide":"left","color":"2"},
+		{"id":"c157ea9bfde05dc7","fromNode":"2ba07ae57a06b20a","fromSide":"left","toNode":"ee4c236f2c94ea8f","toSide":"right","color":"2"},
+		{"id":"39e36f5cabf2e0d5","fromNode":"bb0f28ab1827e96d","fromSide":"right","toNode":"ee4c236f2c94ea8f","toSide":"left","color":"2"},
+		{"id":"d135731c4d5bf61c","fromNode":"f74800a57c5e9e25","fromSide":"left","toNode":"2ba07ae57a06b20a","toSide":"right","color":"5"},
+		{"id":"31b86718a24fefb9","fromNode":"5d4729a13f313681","fromSide":"left","toNode":"f74800a57c5e9e25","toSide":"top","label":"ないことには\n\nNếu không... thì không thể."},
+		{"id":"da841be0d540dbc2","fromNode":"fe74826811d75cab","fromSide":"right","toNode":"bb0f28ab1827e96d","toSide":"left","color":"3"},
+		{"id":"b9cc11a292ccd855","fromNode":"da664de3132d47b4","fromSide":"right","toNode":"bb0f28ab1827e96d","toSide":"left","color":"3"}
+	]
+}

@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"513d297f48ab171c","type":"text","text":"こともある","x":-61,"y":-50,"width":250,"height":60},
-		{"id":"47873fe97e13f399","type":"text","text":"Thỉnh thoảng","x":-437,"y":-192,"width":250,"height":52}
+		{"id":"47873fe97e13f399","type":"text","text":"Thỉnh thoảng","x":-437,"y":-192,"width":250,"height":52},
+		{"id":"b7f3390a5592681f","type":"text","text":"こともあればあるでしょう","x":320,"y":-166,"width":260,"height":56}
 	],
 	"edges":[
-		{"id":"96368950a3637499","fromNode":"47873fe97e13f399","fromSide":"right","toNode":"513d297f48ab171c","toSide":"left","color":"3"}
+		{"id":"96368950a3637499","fromNode":"47873fe97e13f399","fromSide":"right","toNode":"513d297f48ab171c","toSide":"left","color":"3"},
+		{"id":"ac26474c285b74f3","fromNode":"513d297f48ab171c","fromSide":"right","toNode":"b7f3390a5592681f","toSide":"left","color":"6"}
 	]
 }

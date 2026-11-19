@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1518
-- Total Knowledge Items: 10759
-- Correct: 9695
-- Wrong: 11595
+- Total Reviews: 1519
+- Total Knowledge Items: 10765
+- Correct: 9698
+- Wrong: 11607
 - Accuracy: 45.5%
 
 ## 🚨 Review Queue
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.7% (Correct 878 / Wrong 1085)
+- Adverb: 44.8% (Correct 879 / Wrong 1085)
 - Collocation: 44.6% (Correct 656 / Wrong 816)
-- CompoundVerb: 46.2% (Correct 516 / Wrong 602)
+- CompoundVerb: 46.1% (Correct 516 / Wrong 603)
 - Conjunction: 42.0% (Correct 306 / Wrong 422)
 - Demonstratives: 50.6% (Correct 221 / Wrong 216)
-- FixedExpression: 44.9% (Correct 579 / Wrong 710)
-- Grammar: 45.0% (Correct 2322 / Wrong 2838)
-- Kanji: 45.4% (Correct 652 / Wrong 783)
-- Katakana: 51.2% (Correct 500 / Wrong 476)
+- FixedExpression: 44.9% (Correct 580 / Wrong 711)
+- Grammar: 45.0% (Correct 2322 / Wrong 2843)
+- Kanji: 45.4% (Correct 651 / Wrong 782)
+- Katakana: 51.2% (Correct 500 / Wrong 477)
 - Keigo: 45.6% (Correct 182 / Wrong 217)
 - Reading: 30.5% (Correct 276 / Wrong 628)
-- Vocabulary: 48.2% (Correct 2607 / Wrong 2802)
+- Vocabulary: 48.2% (Correct 2609 / Wrong 2807)
 
 ## 📚 Top Grammar
 
@@ -139,8 +139,8 @@
 - [[埋め合わせる]] (Score: 50)
 - [[落ち込む]] (Score: 50)
 - [[思い出す]] (Score: 50)
+- [[取り組む]] (Score: 42)
 - [[引き返す]] (Score: 40)
-- [[取り組む]] (Score: 37)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[長引く]] (Score: 35)
@@ -245,5 +245,5 @@
 - [[6. Phân Tích 181120262-2-3.pdf]]
 - [[7. Phân Tích 181120262-4-5.pdf]]
 - [[8. Phân Tích 181120262-6-7.pdf]]
+- [[9. Phân Tích 181120262-8-9.pdf]]
 - [[1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 12]]
-- [[10. Phân Tích các Hán tự chỉ trạng thái phó từ]]

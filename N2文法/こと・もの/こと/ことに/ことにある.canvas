@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d1e2907106bf1c1c","type":"text","text":"ことにある","x":-102,"y":-367,"width":250,"height":60},
+		{"id":"075c67cc50795a47","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜にある.md","x":-920,"y":-698,"width":360,"height":178},
+		{"id":"3d63c1709e915035","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜目的は〜ことにある.md","x":480,"y":-40,"width":403,"height":228}
+	],
+	"edges":[
+		{"id":"a52de27870f07a15","fromNode":"d1e2907106bf1c1c","fromSide":"right","toNode":"3d63c1709e915035","toSide":"left","color":"6","label":"Mục đích của... là nằm ở việc..."},
+		{"id":"4e32accf86dd3e7f","fromNode":"075c67cc50795a47","fromSide":"right","toNode":"d1e2907106bf1c1c","toSide":"left","color":"5","label":"Nằm ở..., phụ thuộc vào... (chỉ nguyên nhân, bản chất hoặc điểm cốt lõi của một vấn đề)."}
+	]
+}

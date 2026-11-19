@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"ceafc58fec26ed73","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことしかできない.md","x":-727,"y":1713,"width":400,"height":400},
+		{"id":"25af2421af278e42","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ことにあったはずだ.md","x":1678,"y":-608,"width":313,"height":224},
+		{"id":"1abe1db3b9102228","type":"file","file":"N2文法/こと・もの/こと/ことに/ことになる.canvas","x":-444,"y":-660,"width":240,"height":127},
+		{"id":"74d4421a1fb97f71","type":"text","text":"Cũng có khi","x":1578,"y":2056,"width":250,"height":60},
+		{"id":"cb618d252c49bee8","type":"text","text":"ことに","x":864,"y":-975,"width":250,"height":60},
+		{"id":"04eca95da271b561","type":"file","file":"N2文法/こと・もの/こと/ことに/ことにする.canvas","x":-360,"y":-1280,"width":312,"height":203},
+		{"id":"d3fe1325dc5c2aca","type":"file","file":"N2文法/こと・もの/こと/ことに/ことにある.canvas","x":-100,"y":-1680,"width":276,"height":171},
+		{"id":"84cee751c69d9b8f","type":"file","file":"Pasted image 20260410084950.png","x":292,"y":-2239,"width":399,"height":232},
+		{"id":"194517a53ea0916b","type":"text","text":"Biểu thị cảm xúc với sự kiện, xem như phần dẫn nhập cho sự việc đó","x":-486,"y":-2332,"width":250,"height":93},
+		{"id":"084804a97c2cf1c8","type":"text","text":"Vた＋ことに\nAい＋ことに\nAな＋ことに","x":-867,"y":-2400,"width":250,"height":115},
+		{"id":"df56494b615034b6","type":"file","file":"N2文法/こと・もの/こと/ことに/ことには.canvas","x":-8,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"9b704c9549315f73","fromNode":"cb618d252c49bee8","fromSide":"bottom","toNode":"df56494b615034b6","toSide":"right","color":"5","label":"Nếu không... (đi với thể phủ định ở vế sau)."},
+		{"id":"e67e5dbc456dbbda","fromNode":"cb618d252c49bee8","fromSide":"left","toNode":"04eca95da271b561","toSide":"right","color":"5","label":"ことにする\n\nDiễn tả việc quyết định (mang tính tích cực) theo ý chí của người nói"},
+		{"id":"a7aa9a708d5a5fd4","fromNode":"cb618d252c49bee8","fromSide":"left","toNode":"84cee751c69d9b8f","toSide":"right","color":"5","label":"ことに（Cảm xúc）"},
+		{"id":"b6801ae3e42cefd0","fromNode":"cb618d252c49bee8","fromSide":"left","toNode":"1abe1db3b9102228","toSide":"right","color":"5","label":"　ことになる\n\n\n\nDiễn tả 1 việc được quyết định không liên quan đến ý chí của người nói"},
+		{"id":"8f655c44ba82caca","fromNode":"cb618d252c49bee8","fromSide":"right","toNode":"25af2421af278e42","toSide":"left","color":"6","label":"Nhấn mạnh lý do/Kết luận chắc chắn."},
+		{"id":"0f61761fabcd4632","fromNode":"84cee751c69d9b8f","fromSide":"left","toNode":"194517a53ea0916b","toSide":"right","label":"ことに"},
+		{"id":"348a105442ad1b42","fromNode":"194517a53ea0916b","fromSide":"left","toNode":"084804a97c2cf1c8","toSide":"right"},
+		{"id":"a153829d2c12efb5","fromNode":"cb618d252c49bee8","fromSide":"left","toNode":"d3fe1325dc5c2aca","toSide":"right","color":"5","label":"Nằm ở..., phụ thuộc vào... (chỉ nguyên nhân, bản chất hoặc điểm cốt lõi của một vấn đề)."}
+	]
+}

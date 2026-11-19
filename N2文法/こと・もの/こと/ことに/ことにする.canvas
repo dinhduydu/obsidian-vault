@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"575e1a7c70c016d5","type":"text","text":"ことにする","x":1040,"y":180,"width":250,"height":60},
+		{"id":"82badfa746a2cac8","type":"text","text":"ことにしている","x":1940,"y":580,"width":250,"height":60},
+		{"id":"c866dafcdfaafbe4","type":"text","text":"Diễn tả việc quyết định (mang tính tích cực) theo ý chí của người nói","x":360,"y":240,"width":250,"height":96},
+		{"id":"30d36c8145a8322e","type":"text","text":"N＋にする\nV辞書形＋ことにする\nVない＋ことにする","x":360,"y":-40,"width":250,"height":93}
+	],
+	"edges":[
+		{"id":"23e57dcfcb8b6161","fromNode":"575e1a7c70c016d5","fromSide":"right","toNode":"82badfa746a2cac8","toSide":"left","label":"ことにしている\n\nDùng khi nói rằng vẫn duy trì thói quen hay quy tắc cũ mà mình đã đặt ra"},
+		{"id":"1e4ce4f0f4f1d283","fromNode":"30d36c8145a8322e","fromSide":"right","toNode":"575e1a7c70c016d5","toSide":"left","label":"ことにする"},
+		{"id":"7695a040f7636f7f","fromNode":"c866dafcdfaafbe4","fromSide":"right","toNode":"575e1a7c70c016d5","toSide":"left","label":"ことにする"}
+	]
+}
