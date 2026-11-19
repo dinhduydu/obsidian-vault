@@ -2,24 +2,24 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1500
-- Total Knowledge Items: 10700
-- Correct: 9629
-- Wrong: 11501
-- Accuracy: 45.6%
+- Total Reviews: 1518
+- Total Knowledge Items: 10759
+- Correct: 9695
+- Wrong: 11595
+- Accuracy: 45.5%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 345| Wrong: 69
+- [[]] | Vocabulary| Score: 360| Wrong: 72
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[文法文脈接続]] | Reading| Score: 150| Wrong: 27
 - [[〜にもかかわらず]] | Grammar| Score: 140| Wrong: 25
 - [[〜からといって]] | Grammar| Score: 130| Wrong: 23
+- [[しかし]] | Conjunction| Score: 117| Wrong: 22
 - [[〜にすぎない]] | Grammar| Score: 110| Wrong: 19
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
 - [[〜とは限らない]] | Grammar| Score: 110| Wrong: 22
 - [[〜にほかならない]] | Grammar| Score: 110| Wrong: 19
-- [[しかし]] | Conjunction| Score: 105| Wrong: 21
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
@@ -29,18 +29,18 @@
 - [[この]] | Demonstratives| Score: 92| Wrong: 16
 - [[〜ものの]] | Grammar| Score: 90| Wrong: 18
 - [[〜まい]] | Grammar| Score: 90| Wrong: 18
-- [[〜に違いない]] | Grammar| Score: 85| Wrong: 14
+- [[〜に限って]] | Grammar| Score: 85| Wrong: 14
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 69
+- [[]] (Vocabulary) Wrong: 72
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[〜にもかかわらず]] (Grammar) Wrong: 25
 - [[〜からといって]] (Grammar) Wrong: 23
+- [[しかし]] (Conjunction) Wrong: 22
 - [[したがって]] (Conjunction) Wrong: 22
 - [[〜とは限らない]] (Grammar) Wrong: 22
-- [[しかし]] (Conjunction) Wrong: 21
 - [[〜ようがない]] (Grammar) Wrong: 20
 - [[〜にすぎない]] (Grammar) Wrong: 19
 - [[〜にほかならない]] (Grammar) Wrong: 19
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.9% (Correct 872 / Wrong 1071)
-- Collocation: 44.6% (Correct 649 / Wrong 806)
-- CompoundVerb: 46.2% (Correct 510 / Wrong 593)
-- Conjunction: 42.0% (Correct 305 / Wrong 421)
-- Demonstratives: 50.5% (Correct 219 / Wrong 215)
-- FixedExpression: 44.7% (Correct 577 / Wrong 713)
-- Grammar: 45.1% (Correct 2305 / Wrong 2808)
-- Kanji: 45.5% (Correct 660 / Wrong 791)
-- Katakana: 51.2% (Correct 496 / Wrong 472)
-- Keigo: 45.7% (Correct 182 / Wrong 216)
-- Reading: 30.5% (Correct 274 / Wrong 623)
-- Vocabulary: 48.2% (Correct 2580 / Wrong 2772)
+- Adverb: 44.7% (Correct 878 / Wrong 1085)
+- Collocation: 44.6% (Correct 656 / Wrong 816)
+- CompoundVerb: 46.2% (Correct 516 / Wrong 602)
+- Conjunction: 42.0% (Correct 306 / Wrong 422)
+- Demonstratives: 50.6% (Correct 221 / Wrong 216)
+- FixedExpression: 44.9% (Correct 579 / Wrong 710)
+- Grammar: 45.0% (Correct 2322 / Wrong 2838)
+- Kanji: 45.4% (Correct 652 / Wrong 783)
+- Katakana: 51.2% (Correct 500 / Wrong 476)
+- Keigo: 45.6% (Correct 182 / Wrong 217)
+- Reading: 30.5% (Correct 276 / Wrong 628)
+- Vocabulary: 48.2% (Correct 2607 / Wrong 2802)
 
 ## 📚 Top Grammar
 
@@ -84,7 +84,8 @@
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 345)
+- [[]] (Score: 360)
+- [[相続]] (Score: 60)
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[意外]] (Score: 50)
 - [[悔しい]] (Score: 50)
@@ -93,7 +94,6 @@
 - [[誤解]] (Score: 45)
 - [[つらい]] (Score: 45)
 - [[連続]] (Score: 45)
-- [[責任感]] (Score: 40)
 
 ## 📚 Top Kanji
 
@@ -136,11 +136,11 @@
 
 ## 📚 Top CompoundVerb
 
+- [[埋め合わせる]] (Score: 50)
 - [[落ち込む]] (Score: 50)
 - [[思い出す]] (Score: 50)
-- [[埋め合わせる]] (Score: 45)
 - [[引き返す]] (Score: 40)
-- [[取り組む]] (Score: 40)
+- [[取り組む]] (Score: 37)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[長引く]] (Score: 35)
@@ -152,13 +152,13 @@
 - [[返事]] (Score: 60)
 - [[最もよいもの]] (Score: 55)
 - [[〜そうにない]] (Score: 45)
-- [[時間つぶし]] (Score: 45)
 - [[〜はもちろん]] (Score: 40)
 - [[ため息をつく]] (Score: 40)
 - [[気がする]] (Score: 40)
 - [[お忙しいところを]] (Score: 35)
 - [[〜を目的として]] (Score: 35)
 - [[手入れをする]] (Score: 35)
+- [[覚悟の上で]] (Score: 30)
 
 ## 📚 Top Collocation
 
@@ -166,12 +166,12 @@
 - [[文句を言う]] (Score: 40)
 - [[欲求に応える]] (Score: 40)
 - [[身が引き締まる思い]] (Score: 35)
+- [[物価の上昇]] (Score: 30)
 - [[補助動詞]] (Score: 30)
 - [[行列ができる]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
 - [[成功をおさめる]] (Score: 30)
-- [[手間がかかる]] (Score: 30)
 
 ## 📚 Top Adverb
 
@@ -188,8 +188,8 @@
 
 ## 📚 Top Conjunction
 
+- [[しかし]] (Score: 117)
 - [[したがって]] (Score: 110)
-- [[しかし]] (Score: 105)
 - [[つまり]] (Score: 105)
 - [[あるいは]] (Score: 72)
 - [[ただし]] (Score: 65)
@@ -227,23 +227,23 @@
 
 ## 📅 Recent Reviews
 
+- [[10. Phân Tích Từ vựng & Động từ ghép N2]]
+- [[11. Phân Tích bài kiểm tra Từ vựng N2]]
+- [[12. Phân Tích Từ vựng & Kanji N2]]
+- [[2. Phân Tích Kiểm tra Từ vựng N2, Từ Katakana, Cấu trúc cú pháp]]
+- [[3. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 34]]
+- [[4. Phân Tích Từ vựng & Ngữ pháp N2]]
+- [[5. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 35]]
+- [[6. Phân Tích Từ vựng & Kanji N2]]
+- [[7. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 36]]
+- [[8. Phân Tích Từ vựng N2]]
+- [[9. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 37]]
+- [[2. Phân Tích 181120261-2-3.pdf]]
+- [[3. Phân Tích 181120261-4-5.pdf]]
+- [[4. Phân Tích 181120261-6-7.pdf]]
+- [[5. Phân Tích 181120261-8-9.pdf]]
+- [[6. Phân Tích 181120262-2-3.pdf]]
+- [[7. Phân Tích 181120262-4-5.pdf]]
+- [[8. Phân Tích 181120262-6-7.pdf]]
 - [[1. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 12]]
 - [[10. Phân Tích các Hán tự chỉ trạng thái phó từ]]
-- [[11. Phân Tích Từ vựng & Hậu tố N3-N2]]
-- [[12. Phân Tích từ vựng và phó từ cận nghĩa ở cấp độ N3-N2]]
-- [[13. Phân Tích Cách dùng từ]]
-- [[2. Phân Tích N2_KIỂM TRA KIẾN THỨC NGỮ PHÁP_BÀI 10]]
-- [[3. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 97]]
-- [[5. Phân Tích các cấu trúc ngữ pháp thay thế]]
-- [[6. Phân Tích ngữ pháp biểu thị sự biến đổi tương quan theo thời gian]]
-- [[7. Phân Tích chọn đáp án đơn cho cấu trúc trích dẫn nguồn thông tin]]
-- [[8. Phân Tích ngữ pháp nhượng bộ mang tính tự sự]]
-- [[9. Phân Tích các chữ Hán tính từ]]
-- [[1. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 100]]
-- [[2. Phân Tích N2_TEST ĐỌC HIỂU THEO NGÀY_BÀI 99]]
-- [[3. Phân Tích Dạng bài đọc hiểu đoản văn N2 - 離席メモ]]
-- [[4. Phân Tích]]
-- [[1. Phân Tích Đọc hiểu tìm kiếm thông tin N2]]
-- [[10. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 語彙 & 文法]]
-- [[11. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 文法 (Ngữ pháp N2)]]
-- [[12. Phân Tích Đề thi JLPT N2 tháng 07 năm 2025 - Phần 文法]]
