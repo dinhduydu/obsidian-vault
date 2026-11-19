@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1580
-- Total Knowledge Items: 10977
-- Correct: 9991
-- Wrong: 11944
-- Accuracy: 45.5%
+- Total Reviews: 1587
+- Total Knowledge Items: 11010
+- Correct: 10024
+- Wrong: 11972
+- Accuracy: 45.6%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 45.0% (Correct 902 / Wrong 1104)
-- Collocation: 45.1% (Correct 684 / Wrong 832)
-- CompoundVerb: 44.9% (Correct 540 / Wrong 663)
+- Adverb: 44.8% (Correct 906 / Wrong 1117)
+- Collocation: 45.1% (Correct 688 / Wrong 837)
+- CompoundVerb: 44.9% (Correct 542 / Wrong 666)
 - Conjunction: 42.5% (Correct 317 / Wrong 429)
-- Demonstratives: 50.7% (Correct 231 / Wrong 225)
-- FixedExpression: 45.0% (Correct 587 / Wrong 718)
-- Grammar: 45.1% (Correct 2392 / Wrong 2909)
-- Kanji: 45.6% (Correct 672 / Wrong 803)
-- Katakana: 51.6% (Correct 522 / Wrong 489)
+- Demonstratives: 51.0% (Correct 231 / Wrong 222)
+- FixedExpression: 45.0% (Correct 586 / Wrong 716)
+- Grammar: 45.1% (Correct 2396 / Wrong 2915)
+- Kanji: 45.5% (Correct 669 / Wrong 801)
+- Katakana: 51.7% (Correct 523 / Wrong 489)
 - Keigo: 46.6% (Correct 185 / Wrong 212)
 - Reading: 30.5% (Correct 282 / Wrong 643)
-- Vocabulary: 47.9% (Correct 2677 / Wrong 2917)
+- Vocabulary: 48.0% (Correct 2699 / Wrong 2925)
 
 ## 📚 Top Grammar
 
@@ -142,10 +142,10 @@
 - [[取り組む]] (Score: 42)
 - [[引き返す]] (Score: 40)
 - [[長引く]] (Score: 40)
+- [[引き止める]] (Score: 35)
 - [[思いがけない]] (Score: 35)
 - [[巡り会う]] (Score: 35)
 - [[見守る]] (Score: 35)
-- [[向き合う]] (Score: 35)
 
 ## 📚 Top FixedExpression
 
@@ -167,11 +167,11 @@
 - [[欲求に応える]] (Score: 40)
 - [[身が引き締まる思い]] (Score: 35)
 - [[物価の上昇]] (Score: 30)
+- [[人工的]] (Score: 30)
 - [[補助動詞]] (Score: 30)
 - [[行列ができる]] (Score: 30)
 - [[文句を言う（もんくをいう）]] (Score: 30)
 - [[無断欠勤する]] (Score: 30)
-- [[成功をおさめる]] (Score: 30)
 
 ## 📚 Top Adverb
 
