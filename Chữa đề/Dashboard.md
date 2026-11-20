@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1702
-- Total Knowledge Items: 11383
-- Correct: 10432
-- Wrong: 12628
-- Accuracy: 45.2%
+- Total Reviews: 1714
+- Total Knowledge Items: 11412
+- Correct: 10485
+- Wrong: 12681
+- Accuracy: 45.3%
 
 ## 🚨 Review Queue
 
@@ -23,9 +23,9 @@
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
 - [[〜ようとする]] | Grammar| Score: 110| Wrong: 19
 - [[この]] | Demonstratives| Score: 107| Wrong: 19
+- [[〜につれて]] | Grammar| Score: 105| Wrong: 18
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
-- [[〜につれて]] | Grammar| Score: 100| Wrong: 17
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 100| Wrong: 20
 - [[〜ものだ]] | Grammar| Score: 95| Wrong: 16
@@ -48,26 +48,26 @@
 - [[〜ものの]] (Grammar) Wrong: 19
 - [[この]] (Demonstratives) Wrong: 19
 - [[〜ようとする]] (Grammar) Wrong: 19
+- [[〜につれて]] (Grammar) Wrong: 18
 - [[つまり]] (Conjunction) Wrong: 18
 - [[〜まい]] (Grammar) Wrong: 18
 - [[〜ざるを得ない]] (Grammar) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
-- [[〜につれて]] (Grammar) Wrong: 17
 
 ## 📈 Category Statistics
 
-- Adverb: 45.1% (Correct 961 / Wrong 1169)
-- Collocation: 44.6% (Correct 723 / Wrong 897)
-- CompoundVerb: 44.6% (Correct 557 / Wrong 691)
+- Adverb: 45.2% (Correct 963 / Wrong 1169)
+- Collocation: 44.7% (Correct 727 / Wrong 898)
+- CompoundVerb: 44.7% (Correct 560 / Wrong 693)
 - Conjunction: 42.5% (Correct 332 / Wrong 450)
 - Demonstratives: 50.4% (Correct 244 / Wrong 240)
-- FixedExpression: 44.8% (Correct 606 / Wrong 747)
-- Grammar: 44.1% (Correct 2500 / Wrong 3163)
-- Kanji: 45.2% (Correct 672 / Wrong 815)
-- Katakana: 51.6% (Correct 542 / Wrong 508)
-- Keigo: 45.2% (Correct 188 / Wrong 228)
+- FixedExpression: 44.8% (Correct 607 / Wrong 749)
+- Grammar: 44.1% (Correct 2523 / Wrong 3202)
+- Kanji: 45.2% (Correct 671 / Wrong 815)
+- Katakana: 51.9% (Correct 549 / Wrong 509)
+- Keigo: 45.3% (Correct 189 / Wrong 228)
 - Reading: 30.5% (Correct 289 / Wrong 659)
-- Vocabulary: 47.9% (Correct 2818 / Wrong 3061)
+- Vocabulary: 48.0% (Correct 2831 / Wrong 3069)
 
 ## 📚 Top Grammar
 
@@ -78,7 +78,7 @@
 - [[〜とは限らない]] (Score: 115)
 - [[〜かねない]] (Score: 110)
 - [[〜ようとする]] (Score: 110)
-- [[〜につれて]] (Score: 100)
+- [[〜につれて]] (Score: 105)
 - [[〜がち]] (Score: 100)
 - [[〜ようがない]] (Score: 100)
 
@@ -151,7 +151,7 @@
 
 - [[返事]] (Score: 60)
 - [[最もよいもの]] (Score: 55)
-- [[〜はもちろん]] (Score: 45)
+- [[〜はもちろん]] (Score: 50)
 - [[ため息をつく]] (Score: 45)
 - [[〜そうにない]] (Score: 45)
 - [[気がする]] (Score: 40)
@@ -203,12 +203,12 @@
 
 - [[いらっしゃいます]] (Score: 55)
 - [[いらっしゃる]] (Score: 45)
-- [[お見えになる]] (Score: 42)
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 35)
 - [[お〜になる]] (Score: 35)
 - [[いたす]] (Score: 35)
+- [[お見えになる]] (Score: 35)
 - [[ご覧いただく]] (Score: 30)
 - [[お待ちしておりました]] (Score: 30)
 
