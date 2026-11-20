@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1675
-- Total Knowledge Items: 11276
-- Correct: 10273
-- Wrong: 12439
-- Accuracy: 45.2%
+- Total Reviews: 1689
+- Total Knowledge Items: 11342
+- Correct: 10339
+- Wrong: 12570
+- Accuracy: 45.1%
 
 ## 🚨 Review Queue
 
@@ -19,17 +19,17 @@
 - [[しかし]] | Conjunction| Score: 117| Wrong: 22
 - [[〜にすぎない]] | Grammar| Score: 115| Wrong: 20
 - [[〜とは限らない]] | Grammar| Score: 115| Wrong: 23
+- [[〜かねない]] | Grammar| Score: 110| Wrong: 19
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
+- [[〜ようとする]] | Grammar| Score: 110| Wrong: 19
 - [[この]] | Demonstratives| Score: 107| Wrong: 19
-- [[〜かねない]] | Grammar| Score: 105| Wrong: 18
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
-- [[〜ようとする]] | Grammar| Score: 105| Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] | Reading| Score: 105| Wrong: 18
+- [[〜につれて]] | Grammar| Score: 100| Wrong: 17
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 100| Wrong: 20
-- [[〜につれて]] | Grammar| Score: 95| Wrong: 16
 - [[〜ものの]] | Grammar| Score: 95| Wrong: 19
-- [[〜ものだ]] | Grammar| Score: 90| Wrong: 15
+- [[〜さえ〜ば]] | Grammar| Score: 95| Wrong: 16
 
 ## 🔥 Top Weak Points
 
@@ -44,30 +44,30 @@
 - [[〜にほかならない]] (Grammar) Wrong: 21
 - [[〜にすぎない]] (Grammar) Wrong: 20
 - [[〜ようがない]] (Grammar) Wrong: 20
+- [[〜かねない]] (Grammar) Wrong: 19
 - [[〜ものの]] (Grammar) Wrong: 19
 - [[この]] (Demonstratives) Wrong: 19
-- [[〜かねない]] (Grammar) Wrong: 18
+- [[〜ようとする]] (Grammar) Wrong: 19
 - [[つまり]] (Conjunction) Wrong: 18
-- [[〜ようとする]] (Grammar) Wrong: 18
 - [[〜まい]] (Grammar) Wrong: 18
 - [[〜ざるを得ない]] (Grammar) Wrong: 18
 - [[Cấu trúc dồn sao (並べ替え問題)]] (Reading) Wrong: 18
-- [[〜がち]] (Grammar) Wrong: 17
+- [[〜につれて]] (Grammar) Wrong: 17
 
 ## 📈 Category Statistics
 
-- Adverb: 45.0% (Correct 947 / Wrong 1157)
-- Collocation: 44.6% (Correct 712 / Wrong 883)
-- CompoundVerb: 44.8% (Correct 554 / Wrong 683)
-- Conjunction: 41.9% (Correct 319 / Wrong 442)
-- Demonstratives: 50.0% (Correct 237 / Wrong 237)
-- FixedExpression: 44.7% (Correct 596 / Wrong 738)
-- Grammar: 44.4% (Correct 2456 / Wrong 3072)
-- Kanji: 45.1% (Correct 667 / Wrong 813)
-- Katakana: 51.3% (Correct 532 / Wrong 505)
-- Keigo: 46.1% (Correct 187 / Wrong 219)
+- Adverb: 44.9% (Correct 954 / Wrong 1171)
+- Collocation: 44.5% (Correct 719 / Wrong 897)
+- CompoundVerb: 44.7% (Correct 556 / Wrong 689)
+- Conjunction: 42.5% (Correct 329 / Wrong 446)
+- Demonstratives: 50.0% (Correct 240 / Wrong 240)
+- FixedExpression: 44.6% (Correct 601 / Wrong 746)
+- Grammar: 44.2% (Correct 2472 / Wrong 3119)
+- Kanji: 45.1% (Correct 671 / Wrong 817)
+- Katakana: 51.3% (Correct 534 / Wrong 507)
+- Keigo: 45.5% (Correct 187 / Wrong 224)
 - Reading: 30.3% (Correct 287 / Wrong 659)
-- Vocabulary: 47.8% (Correct 2779 / Wrong 3031)
+- Vocabulary: 47.7% (Correct 2789 / Wrong 3055)
 
 ## 📚 Top Grammar
 
@@ -76,11 +76,11 @@
 - [[〜にほかならない]] (Score: 120)
 - [[〜にすぎない]] (Score: 115)
 - [[〜とは限らない]] (Score: 115)
-- [[〜かねない]] (Score: 105)
-- [[〜ようとする]] (Score: 105)
+- [[〜かねない]] (Score: 110)
+- [[〜ようとする]] (Score: 110)
+- [[〜につれて]] (Score: 100)
 - [[〜がち]] (Score: 100)
 - [[〜ようがない]] (Score: 100)
-- [[〜につれて]] (Score: 95)
 
 ## 📚 Top Vocabulary
 
@@ -89,11 +89,11 @@
 - [[& Kiến thức liên quan]] (Score: 55)
 - [[意外]] (Score: 50)
 - [[悔しい]] (Score: 50)
+- [[無理]] (Score: 50)
 - [[演技]] (Score: 47)
 - [[食物]] (Score: 45)
 - [[そうぞうしい]] (Score: 45)
 - [[拡充]] (Score: 45)
-- [[誤解]] (Score: 45)
 
 ## 📚 Top Kanji
 
@@ -175,14 +175,14 @@
 
 ## 📚 Top Adverb
 
-- [[つい]] (Score: 80)
+- [[つい]] (Score: 85)
 - [[さっさと]] (Score: 80)
 - [[そのうち]] (Score: 70)
 - [[どうしても]] (Score: 70)
 - [[すっかり]] (Score: 65)
 - [[なかなか]] (Score: 65)
+- [[とても]] (Score: 65)
 - [[ますます]] (Score: 60)
-- [[とても]] (Score: 60)
 - [[まさか]] (Score: 60)
 - [[あらかじめ]] (Score: 55)
 
