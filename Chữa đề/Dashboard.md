@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1689
-- Total Knowledge Items: 11342
-- Correct: 10339
-- Wrong: 12570
-- Accuracy: 45.1%
+- Total Reviews: 1702
+- Total Knowledge Items: 11383
+- Correct: 10432
+- Wrong: 12628
+- Accuracy: 45.2%
 
 ## 🚨 Review Queue
 
@@ -28,8 +28,8 @@
 - [[〜につれて]] | Grammar| Score: 100| Wrong: 17
 - [[〜がち]] | Grammar| Score: 100| Wrong: 17
 - [[〜ようがない]] | Grammar| Score: 100| Wrong: 20
+- [[〜ものだ]] | Grammar| Score: 95| Wrong: 16
 - [[〜ものの]] | Grammar| Score: 95| Wrong: 19
-- [[〜さえ〜ば]] | Grammar| Score: 95| Wrong: 16
 
 ## 🔥 Top Weak Points
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 44.9% (Correct 954 / Wrong 1171)
-- Collocation: 44.5% (Correct 719 / Wrong 897)
-- CompoundVerb: 44.7% (Correct 556 / Wrong 689)
-- Conjunction: 42.5% (Correct 329 / Wrong 446)
-- Demonstratives: 50.0% (Correct 240 / Wrong 240)
-- FixedExpression: 44.6% (Correct 601 / Wrong 746)
-- Grammar: 44.2% (Correct 2472 / Wrong 3119)
-- Kanji: 45.1% (Correct 671 / Wrong 817)
-- Katakana: 51.3% (Correct 534 / Wrong 507)
-- Keigo: 45.5% (Correct 187 / Wrong 224)
-- Reading: 30.3% (Correct 287 / Wrong 659)
-- Vocabulary: 47.7% (Correct 2789 / Wrong 3055)
+- Adverb: 45.1% (Correct 961 / Wrong 1169)
+- Collocation: 44.6% (Correct 723 / Wrong 897)
+- CompoundVerb: 44.6% (Correct 557 / Wrong 691)
+- Conjunction: 42.5% (Correct 332 / Wrong 450)
+- Demonstratives: 50.4% (Correct 244 / Wrong 240)
+- FixedExpression: 44.8% (Correct 606 / Wrong 747)
+- Grammar: 44.1% (Correct 2500 / Wrong 3163)
+- Kanji: 45.2% (Correct 672 / Wrong 815)
+- Katakana: 51.6% (Correct 542 / Wrong 508)
+- Keigo: 45.2% (Correct 188 / Wrong 228)
+- Reading: 30.5% (Correct 289 / Wrong 659)
+- Vocabulary: 47.9% (Correct 2818 / Wrong 3061)
 
 ## 📚 Top Grammar
 
@@ -207,10 +207,10 @@
 - [[おっしゃる]] (Score: 40)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[おいでいただく]] (Score: 35)
+- [[お〜になる]] (Score: 35)
 - [[いたす]] (Score: 35)
 - [[ご覧いただく]] (Score: 30)
 - [[お待ちしておりました]] (Score: 30)
-- [[ご覧になる]] (Score: 27)
 
 ## 📚 Top Demonstratives
 
