@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"f21e79a81cca7247","type":"text","text":"うっかり","x":-110,"y":-43,"width":250,"height":60},
 		{"id":"e76f736d3dc8c353","type":"text","text":"＋てしまった","x":271,"y":-227,"width":250,"height":60},
-		{"id":"9de576d53b8761bb","x":580,"y":220,"width":280,"height":160,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/うっかり忘れる.md"}
+		{"id":"59b657446edc602c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/うっかり.md","x":440,"y":240,"width":242,"height":149},
+		{"id":"917c465dcb82706e","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/うっかりする.md","x":1091,"y":-167,"width":220,"height":89},
+		{"id":"9de576d53b8761bb","type":"file","file":"Chữa đề/Learning_Profile/Collocation/うっかり忘れる.md","x":1091,"y":520,"width":280,"height":160}
 	],
 	"edges":[
 		{"id":"b2c0eda1fb02de4b","fromNode":"f21e79a81cca7247","fromSide":"right","toNode":"e76f736d3dc8c353","toSide":"left"},
-		{"id":"3bdf4a4aa794dbeb","fromNode":"f21e79a81cca7247","fromSide":"right","toNode":"9de576d53b8761bb","toSide":"left","label":"うっかり忘れる：vô tình quên\n"}
+		{"id":"3bdf4a4aa794dbeb","fromNode":"59b657446edc602c","fromSide":"right","toNode":"9de576d53b8761bb","toSide":"left","label":"うっかり忘れる：vô tình quên\n"},
+		{"id":"19b6cf1fd2e9f31c","fromNode":"f21e79a81cca7247","fromSide":"right","toNode":"59b657446edc602c","toSide":"left","color":"4","label":" Lỡ / Quên khuấy / Bất cẩn (làm điều gì đó do không chú ý)."},
+		{"id":"5be25437828aa662","fromNode":"59b657446edc602c","fromSide":"right","toNode":"917c465dcb82706e","toSide":"left","label":"Lỡ bất cẩn, sơ ý vô tình (Do something inadvertently/carelessly)."}
 	]
 }
