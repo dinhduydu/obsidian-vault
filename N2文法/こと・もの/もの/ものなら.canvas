@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"542d85c27d357a4f","type":"group","x":-1325,"y":-903,"width":1365,"height":943,"color":"5","label":"ものなら"},
+		{"id":"e335ea5430f5a871","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":-2859,"y":-986,"width":159,"height":123},
 		{"id":"df3a01d50570b8d4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜しようものなら.md","x":1540,"y":-100,"width":306,"height":204},
 		{"id":"d69aa0da4c2e3048","type":"text","text":"Khát vọng viển vông","x":1060,"y":-1020,"width":250,"height":60},
 		{"id":"6a99a90f7a4ed6d4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ようものなら.md","x":1760,"y":-780,"width":310,"height":192},
@@ -12,8 +13,7 @@
 		{"id":"57b4ddff94efe159","type":"file","file":"Pasted image 20260407221951.png","x":-1305,"y":-370,"width":260,"height":260},
 		{"id":"b900caeeff66d64a","type":"file","file":"Pasted image 20260410083432.png","x":-785,"y":-883,"width":560,"height":306},
 		{"id":"819905beecaf612a","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能.canvas","x":320,"y":-1240,"width":205,"height":120},
-		{"id":"271b4ef61de6aa45","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":423,"y":-900,"width":200,"height":180},
-		{"id":"e335ea5430f5a871","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":-2859,"y":-986,"width":159,"height":123}
+		{"id":"271b4ef61de6aa45","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vよう.canvas","x":423,"y":-900,"width":200,"height":180}
 	],
 	"edges":[
 		{"id":"0e33bbda9de7df76","fromNode":"b900caeeff66d64a","fromSide":"bottom","toNode":"57b4ddff94efe159","toSide":"top","label":"ものなら"},

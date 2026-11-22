@@ -17,6 +17,15 @@ Priority: High
 
 
 <!-- USER_START -->
+[[次第.canvas]]
 
+Grammar | 〜次第で（は）（N＋次第）
 
+- **Meaning:** Phụ thuộc vào N / Tùy thuộc vào N (Depending on).
+- **Trigger:** `N + 次第だ / 次第で（は）`. Vế sau nếu đi với `〜によっては` thường kết hợp với khả năng `〜かもしれない`.
+- **Contrast:** Tương đương với `〜によって / 〜によっては`.
+- **One-line Summary:** Tùy thuộc vào N mà kết quả sẽ khác nhau.
+- **Semantic Field:** Phụ thuộc / Điều kiện biến đổi.
+- **Confusion Index:** `〜によって`, `〜に応じて`.
+- **Why Wrong:** Nhầm với nét nghĩa "sau khi A..." của `Vマス + 次第`.
 <!-- USER_END -->

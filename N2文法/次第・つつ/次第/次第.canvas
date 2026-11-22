@@ -8,7 +8,7 @@
 	],
 	"edges":[
 		{"id":"9130e51f9f3927a5","fromNode":"b15d1be6a8f5d24a","fromSide":"right","toNode":"7772a5c888f411aa","toSide":"left"},
-		{"id":"5af5cfb53d34087d","fromNode":"b15d1be6a8f5d24a","fromSide":"left","toNode":"3a63a02a35d00d11","toSide":"right","color":"5","label":"〜次第だ　ー　Tuỳ thuộc vào"},
+		{"id":"5af5cfb53d34087d","fromNode":"b15d1be6a8f5d24a","fromSide":"left","toNode":"3a63a02a35d00d11","toSide":"right","color":"5","label":"〜次第だ・次第で　ー　Tuỳ thuộc vào"},
 		{"id":"cdd8dbcaf3feede3","fromNode":"b15d1be6a8f5d24a","fromSide":"left","toNode":"0ad8d8fd79b9eb13","toSide":"right","color":"5","label":"次第では　ー　Tùy vào... mà có thể"},
 		{"id":"8ae8378b84ec99f7","fromNode":"b15d1be6a8f5d24a","fromSide":"top","toNode":"b28a9f54ae106a04","toSide":"bottom","color":"5","label":"Vます次第 (Ngay sau khi)"}
 	]
