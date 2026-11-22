@@ -2,15 +2,15 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1883
-- Total Knowledge Items: 12050
-- Correct: 11758
-- Wrong: 13829
-- Accuracy: 46.0%
+- Total Reviews: 1895
+- Total Knowledge Items: 12133
+- Correct: 11890
+- Wrong: 13882
+- Accuracy: 46.1%
 
 ## 🚨 Review Queue
 
-- [[]] | Vocabulary| Score: 380| Wrong: 76
+- [[]] | Vocabulary| Score: 385| Wrong: 77
 - [[語彙の文脈規定]] | Reading| Score: 210| Wrong: 39
 - [[〜にすぎない]] | Grammar| Score: 160| Wrong: 29
 - [[〜にもかかわらず]] | Grammar| Score: 150| Wrong: 27
@@ -18,37 +18,37 @@
 - [[〜にほかならない]] | Grammar| Score: 140| Wrong: 25
 - [[〜からといって]] | Grammar| Score: 137| Wrong: 26
 - [[しかし]] | Conjunction| Score: 127| Wrong: 24
-- [[〜ざるを得ない]] | Grammar| Score: 120| Wrong: 24
+- [[〜ざるを得ない]] | Grammar| Score: 125| Wrong: 25
+- [[〜かねない]] | Grammar| Score: 120| Wrong: 21
 - [[〜に限って]] | Grammar| Score: 120| Wrong: 21
 - [[〜とは限らない]] | Grammar| Score: 120| Wrong: 24
-- [[〜かねない]] | Grammar| Score: 115| Wrong: 20
 - [[〜ようとする]] | Grammar| Score: 115| Wrong: 20
+- [[〜に違いない]] | Grammar| Score: 110| Wrong: 22
 - [[〜につれて]] | Grammar| Score: 110| Wrong: 19
 - [[〜ようがない]] | Grammar| Score: 110| Wrong: 22
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
 - [[〜ものだ]] | Grammar| Score: 110| Wrong: 19
-- [[〜に違いない]] | Grammar| Score: 105| Wrong: 21
 - [[この]] | Demonstratives| Score: 105| Wrong: 21
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
 
 ## 🔥 Top Weak Points
 
-- [[]] (Vocabulary) Wrong: 76
+- [[]] (Vocabulary) Wrong: 77
 - [[語彙の文脈規定]] (Reading) Wrong: 39
 - [[〜にすぎない]] (Grammar) Wrong: 29
 - [[〜にもかかわらず]] (Grammar) Wrong: 27
 - [[文法文脈接続]] (Reading) Wrong: 27
 - [[〜からといって]] (Grammar) Wrong: 26
+- [[〜ざるを得ない]] (Grammar) Wrong: 25
 - [[〜にほかならない]] (Grammar) Wrong: 25
 - [[しかし]] (Conjunction) Wrong: 24
-- [[〜ざるを得ない]] (Grammar) Wrong: 24
 - [[〜とは限らない]] (Grammar) Wrong: 24
+- [[〜に違いない]] (Grammar) Wrong: 22
 - [[〜ようがない]] (Grammar) Wrong: 22
 - [[したがって]] (Conjunction) Wrong: 22
-- [[〜に違いない]] (Grammar) Wrong: 21
 - [[この]] (Demonstratives) Wrong: 21
+- [[〜かねない]] (Grammar) Wrong: 21
 - [[〜に限って]] (Grammar) Wrong: 21
-- [[〜かねない]] (Grammar) Wrong: 20
 - [[〜ものの]] (Grammar) Wrong: 20
 - [[〜ようとする]] (Grammar) Wrong: 20
 - [[〜につれて]] (Grammar) Wrong: 19
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 47.3% (Correct 1161 / Wrong 1295)
-- Collocation: 45.6% (Correct 805 / Wrong 962)
-- CompoundVerb: 45.9% (Correct 629 / Wrong 741)
-- Conjunction: 44.8% (Correct 348 / Wrong 429)
-- Demonstratives: 52.7% (Correct 278 / Wrong 250)
-- FixedExpression: 46.9% (Correct 704 / Wrong 797)
-- Grammar: 43.9% (Correct 2875 / Wrong 3669)
-- Kanji: 46.6% (Correct 743 / Wrong 853)
-- Katakana: 52.4% (Correct 601 / Wrong 546)
-- Keigo: 46.4% (Correct 209 / Wrong 241)
-- Reading: 30.5% (Correct 303 / Wrong 689)
-- Vocabulary: 48.0% (Correct 3102 / Wrong 3357)
+- Adverb: 47.4% (Correct 1172 / Wrong 1301)
+- Collocation: 45.8% (Correct 813 / Wrong 964)
+- CompoundVerb: 46.1% (Correct 634 / Wrong 742)
+- Conjunction: 44.9% (Correct 349 / Wrong 429)
+- Demonstratives: 52.8% (Correct 280 / Wrong 250)
+- FixedExpression: 47.2% (Correct 715 / Wrong 801)
+- Grammar: 44.2% (Correct 2930 / Wrong 3698)
+- Kanji: 46.5% (Correct 742 / Wrong 853)
+- Katakana: 52.4% (Correct 605 / Wrong 549)
+- Keigo: 47.1% (Correct 215 / Wrong 241)
+- Reading: 30.7% (Correct 305 / Wrong 689)
+- Vocabulary: 48.2% (Correct 3130 / Wrong 3365)
 
 ## 📚 Top Grammar
 
@@ -75,16 +75,16 @@
 - [[〜にもかかわらず]] (Score: 150)
 - [[〜にほかならない]] (Score: 140)
 - [[〜からといって]] (Score: 137)
-- [[〜ざるを得ない]] (Score: 120)
+- [[〜ざるを得ない]] (Score: 125)
+- [[〜かねない]] (Score: 120)
 - [[〜に限って]] (Score: 120)
 - [[〜とは限らない]] (Score: 120)
-- [[〜かねない]] (Score: 115)
 - [[〜ようとする]] (Score: 115)
-- [[〜につれて]] (Score: 110)
+- [[〜に違いない]] (Score: 110)
 
 ## 📚 Top Vocabulary
 
-- [[]] (Score: 380)
+- [[]] (Score: 385)
 - [[相続]] (Score: 60)
 - [[落ち込む]] (Score: 55)
 - [[悔しい]] (Score: 55)
@@ -176,7 +176,7 @@
 ## 📚 Top Adverb
 
 - [[さっさと]] (Score: 85)
-- [[むしろ]] (Score: 77)
+- [[むしろ]] (Score: 82)
 - [[つい]] (Score: 75)
 - [[どうしても]] (Score: 75)
 - [[そのうち]] (Score: 70)
