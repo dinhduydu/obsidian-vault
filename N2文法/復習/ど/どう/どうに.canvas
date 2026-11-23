@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"bca9a4486c26fbd0","type":"group","x":500,"y":104,"width":1331,"height":208,"label":"Tôi mong muốn 1 cái gì đó"},
+		{"id":"66772b03f711b159","type":"text","text":"どうに","x":-79,"y":-54,"width":250,"height":60},
+		{"id":"5656bf60f40fb5ee","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうにも.md","x":400,"y":-340,"width":275,"height":78},
+		{"id":"88ba7c4945833fdf","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうにか.md","x":520,"y":140,"width":323,"height":136},
+		{"id":"5702941374bfc7a2","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/なんとかして.md","x":1500,"y":124,"width":311,"height":168},
+		{"id":"0489848568379e0c","x":1333,"y":700,"width":167,"height":123,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vた/Vた.canvas"},
+		{"id":"6b9104438eaeff41","x":900,"y":920,"width":215,"height":67,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/ぎりぎり.md"},
+		{"id":"a3500027cd32cbc4","x":1274,"y":1080,"width":286,"height":184,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/ぎりぎりで合格する.md"}
+	],
+	"edges":[
+		{"id":"75b01d87f9ea8d18","fromNode":"66772b03f711b159","fromSide":"right","toNode":"5656bf60f40fb5ee","toSide":"left","label":"Dù làm cách nào cũng không thể... / Chẳng thể xoay xở được."},
+		{"id":"1f99408d4ddf9bda","fromNode":"66772b03f711b159","fromSide":"right","toNode":"88ba7c4945833fdf","toSide":"left","label":"Bằng cách nào đó, xoay sở vừa đủ / vừa kịp."},
+		{"id":"f62236d1ff39a954","fromNode":"88ba7c4945833fdf","fromSide":"right","toNode":"5702941374bfc7a2","toSide":"left","color":"4","label":"Bằng mọi giá, bằng cách này hay cách khác, làm thế nào đi nữa."},
+		{"id":"483a1bc24946b424","fromNode":"88ba7c4945833fdf","fromSide":"right","toNode":"0489848568379e0c","toSide":"left","color":"5","label":"どうにか助かった"},
+		{"id":"e495e6d2ba9c9001","fromNode":"6b9104438eaeff41","fromSide":"right","toNode":"0489848568379e0c","toSide":"left","color":"3"},
+		{"id":"2109634caa2459dc","fromNode":"6b9104438eaeff41","fromSide":"right","toNode":"a3500027cd32cbc4","toSide":"left","color":"6"}
+	]
+}

@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"779e57709c717753","type":"text","text":"知れば知れるほど","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"5639b3434c65a509","type":"file","file":"N2文法/くらい・ほど/ほど/Vるほど.canvas","x":-540,"y":-260,"width":175,"height":124},
-		{"id":"62d8755b7c221d55","x":300,"y":-234,"width":255,"height":73,"type":"file","file":"N2文法/くらい・ほど/くらい/くらい.canvas"}
+		{"id":"5639b3434c65a509","type":"file","file":"N2文法/くらい・ほど・いくら/ほど/Vるほど.canvas","x":-540,"y":-260,"width":175,"height":124},
+		{"id":"62d8755b7c221d55","x":300,"y":-234,"width":255,"height":73,"type":"file","file":"N2文法/くらい・ほど・いくら/くらい/くらい.canvas"}
 	],
 	"edges":[
 		{"id":"15f9ead7deef5791","fromNode":"5639b3434c65a509","fromSide":"right","toNode":"779e57709c717753","toSide":"left"},

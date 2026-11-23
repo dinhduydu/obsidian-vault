@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d453ae34ab924afc","type":"text","text":"には","x":-191,"y":-66,"width":250,"height":60},
+		{"id":"83ad0d9f1a8159f5","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜には.md","x":360,"y":-320,"width":295,"height":179},
+		{"id":"8a251c8f4d3ea2df","x":354,"y":151,"width":250,"height":60,"type":"text","text":"Đi sau N chỉ người để"}
+	],
+	"edges":[
+		{"id":"bacc41d1439121c1","fromNode":"d453ae34ab924afc","fromSide":"right","toNode":"83ad0d9f1a8159f5","toSide":"left","label":"Để mà... / Đối với việc..."},
+		{"id":"79016facfaa41de0","fromNode":"d453ae34ab924afc","fromSide":"right","toNode":"8a251c8f4d3ea2df","toSide":"left"}
+	]
+}

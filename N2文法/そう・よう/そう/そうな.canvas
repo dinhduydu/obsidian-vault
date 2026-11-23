@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15940f04d835be01","x":-23,"y":-29,"width":250,"height":60,"type":"text","text":"そうな"},
+		{"id":"15dd527429ff7a4f","x":-420,"y":-180,"width":250,"height":60,"type":"text","text":"Tính từ đuôi な"},
+		{"id":"2d010711cda73fb9","x":460,"y":120,"width":270,"height":112,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜そうなほど.md"}
+	],
+	"edges":[
+		{"id":"4dc972df35a04804","fromNode":"15dd527429ff7a4f","fromSide":"right","toNode":"15940f04d835be01","toSide":"left"},
+		{"id":"556ae2ed5e1dddd4","fromNode":"15940f04d835be01","fromSide":"right","toNode":"2d010711cda73fb9","toSide":"left"}
+	]
+}

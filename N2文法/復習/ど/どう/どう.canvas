@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"adbbfe850774806e","type":"text","text":"～たらどう（ですか）","x":-282,"y":205,"width":250,"height":60},
+		{"id":"bb7cb4396fb89d74","type":"text","text":"たら","x":-245,"y":-856,"width":250,"height":60},
+		{"id":"e0e71e5d63d54b74","type":"text","text":"たらいかがですか","x":302,"y":-1280,"width":250,"height":60},
+		{"id":"3abed4396fbdb662","type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/Vて/Vて.canvas","x":-880,"y":-1560,"width":400,"height":400},
+		{"id":"9d51777647c32e94","type":"text","text":"（Nが）どう考えてもおかしくはないか。","x":2487,"y":1574,"width":382,"height":50},
+		{"id":"8ede9b80f1799a2d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうしても.md","x":1694,"y":1200,"width":317,"height":179},
+		{"id":"fcc185c057af65ae","type":"file","file":"N2文法/復習/ど/どう/どうか.canvas","x":1147,"y":-480,"width":400,"height":400},
+		{"id":"beb697ba0d219c8a","type":"file","file":"Chữa đề/Learning_Profile/Keigo/お〜願います.md","x":517,"y":-907,"width":273,"height":148},
+		{"id":"53217b99473b668f","type":"file","file":"Chữa đề/Learning_Profile/Adverb/ぜひ.md","x":452,"y":-480,"width":202,"height":128},
+		{"id":"dbcce562616c19f4","type":"file","file":"N2文法/復習/ど/どう/どうに.canvas","x":1480,"y":350,"width":331,"height":232},
+		{"id":"4d88670b7acf8399","type":"text","text":"どう","x":320,"y":436,"width":250,"height":60},
+		{"id":"7260f030ee0da970","type":"text","text":"どう","x":330,"y":3240,"width":240,"height":60},
+		{"id":"6f63c0091ba49f5d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうやら.md","x":1110,"y":3581,"width":207,"height":153},
+		{"id":"62526492542b0f65","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうでも.md","x":-620,"y":3658,"width":400,"height":142},
+		{"id":"0345ae7829d99500","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜てもいいですか.md","x":8,"y":3981,"width":322,"height":154},
+		{"id":"5ea03bd22ba23aac","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうも.md","x":-880,"y":2736,"width":260,"height":201},
+		{"id":"cd4aa3fab573a8e6","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうぞ.md","x":2120,"y":2760,"width":292,"height":177},
+		{"id":"3f5208f3f794a3dc","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうせ.md","x":2120,"y":3200,"width":267,"height":140}
+	],
+	"edges":[
+		{"id":"00736d03f7850c75","fromNode":"4d88670b7acf8399","fromSide":"left","toNode":"adbbfe850774806e","toSide":"right","label":"～たらどう（ですか）"},
+		{"id":"d3f9b40d7bf0864a","fromNode":"4d88670b7acf8399","fromSide":"right","toNode":"fcc185c057af65ae","toSide":"left","color":"5","label":"Rất mong / Xin vui lòng / Bằng mọi giá (Chân thành tha thiết cầu xin, ước nguyện)."},
+		{"id":"f5493aefc09b6243","fromNode":"bb7cb4396fb89d74","fromSide":"bottom","toNode":"adbbfe850774806e","toSide":"top"},
+		{"id":"3e72f3feed312b0a","fromNode":"bb7cb4396fb89d74","fromSide":"right","toNode":"e0e71e5d63d54b74","toSide":"left"},
+		{"id":"11ad46f05b46b00a","fromNode":"bb7cb4396fb89d74","fromSide":"left","toNode":"3abed4396fbdb662","toSide":"right","label":"Vてみたらどう"},
+		{"id":"0042e7c6b9d27eac","fromNode":"8ede9b80f1799a2d","fromSide":"right","toNode":"9d51777647c32e94","toSide":"left","color":"6"},
+		{"id":"93208016a22c58ec","fromNode":"53217b99473b668f","fromSide":"right","toNode":"fcc185c057af65ae","toSide":"left","color":"3"},
+		{"id":"23a0f7bfd31ee905","fromNode":"beb697ba0d219c8a","fromSide":"right","toNode":"fcc185c057af65ae","toSide":"left","color":"3"},
+		{"id":"84ff62b3de297f99","fromNode":"4d88670b7acf8399","fromSide":"right","toNode":"8ede9b80f1799a2d","toSide":"left","color":"5","label":"Dù thế nào đi nữa, kiểu gì cũng (No matter what, inevitably)."},
+		{"id":"e0bb865159cf0b3c","fromNode":"4d88670b7acf8399","fromSide":"right","toNode":"dbcce562616c19f4","toSide":"left","color":"5","label":"Bằng cách nào đó"},
+		{"id":"03c20b9b40b508cc","fromNode":"4d88670b7acf8399","fromSide":"bottom","toNode":"7260f030ee0da970","toSide":"top","color":"4"},
+		{"id":"210042439de28e82","fromNode":"7260f030ee0da970","fromSide":"right","toNode":"6f63c0091ba49f5d","toSide":"left","color":"5","label":"Có vẻ như / Hình như là... (It seems that / Apparently)."},
+		{"id":"9bf55220ba12fc4d","fromNode":"7260f030ee0da970","fromSide":"right","toNode":"3f5208f3f794a3dc","toSide":"left","color":"5","label":"Dù sao đi nữa thì..., rốt cuộc thì... (Diễn tả sự buông xuôi, phó mặc hoặc tiên đoán kết quả tiêu cực)."},
+		{"id":"b5ce2d493388cb50","fromNode":"7260f030ee0da970","fromSide":"right","toNode":"cd4aa3fab573a8e6","toSide":"left","color":"5","label":"Xin mời, xin vui lòng (dùng khi đưa ra lời mời hoặc nhờ vả lịch sự)."},
+		{"id":"25f7de4e1cd9030f","fromNode":"7260f030ee0da970","fromSide":"left","toNode":"62526492542b0f65","toSide":"right","color":"5","label":" Thế nào cũng được / Không quan trọng."},
+		{"id":"f4cc7006feb47ba7","fromNode":"0345ae7829d99500","fromSide":"left","toNode":"62526492542b0f65","toSide":"right","color":"3"},
+		{"id":"5d9397cb2f5438fd","fromNode":"7260f030ee0da970","fromSide":"left","toNode":"5ea03bd22ba23aac","toSide":"right","color":"5","label":"1. Dùng trong câu chào\n\n2. Không hiểu sao, xem ra không thể (Hard to / Somehow)."}
+	]
+}

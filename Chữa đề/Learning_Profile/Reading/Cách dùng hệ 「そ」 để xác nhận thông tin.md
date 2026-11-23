@@ -19,4 +19,8 @@ Priority: High
 <!-- USER_START -->
 
 
+Reading | Cách dùng hệ 「そ」 để xác nhận thông tin
+
+- Sử dụng hệ 「そ」 (Sore, Sono, Sou) để ám chỉ nội dung mà đối phương vừa nói hoặc thông tin vừa được nêu ra ngay trước đó trong văn bản.
+
 <!-- USER_END -->

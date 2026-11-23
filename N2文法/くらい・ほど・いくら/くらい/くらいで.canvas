@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a73d3913a699f6a5","type":"text","text":"くらいで","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"aee21b792876225e","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜くらいで.md","x":420,"y":240,"width":258,"height":123},
+		{"id":"53eb9e284d7b5c82","type":"file","file":"Chữa đề/２０２６年/１１月２０２６年/Week4/23112026/10. Các loại phó từ/13. Phó từ loại 3 - Phó từ trần thuật, Phó từ đi với các dạng ngữ pháp.md","x":-920,"y":-360,"width":271,"height":201},
+		{"id":"a5dd15d3a053510c","type":"file","file":"Chữa đề/Learning_Profile/Grammar/なにも〜ない.md","x":-920,"y":228,"width":206,"height":135},
+		{"id":"4defa5835e054936","x":-560,"y":520,"width":400,"height":69,"type":"file","file":"Pasted image 20261123105804.png"}
+	],
+	"edges":[
+		{"id":"c4c3873663f51165","fromNode":"a73d3913a699f6a5","fromSide":"right","toNode":"aee21b792876225e","toSide":"left","label":"Vた / N + くらいで (hoặc ぐらいで, ví dụ: 一回失敗したぐらいで).\n\nChỉ mới... / Chỉ vì... mà đã (Đánh giá nguyên nhân là nhỏ nhặt, không đáng để bận tâm hay làm quá / Just because)."},
+		{"id":"64186f35db7df3f0","fromNode":"53eb9e284d7b5c82","fromSide":"right","toNode":"a73d3913a699f6a5","toSide":"left","color":"5","label":"(III) Phó từ đi với ngữ pháp"},
+		{"id":"61b137b80de54357","fromNode":"a5dd15d3a053510c","fromSide":"right","toNode":"a73d3913a699f6a5","toSide":"left","color":"3"},
+		{"id":"e7358ade14e9679d","fromNode":"a5dd15d3a053510c","fromSide":"right","toNode":"4defa5835e054936","toSide":"left","color":"6"}
+	]
+}

@@ -10,7 +10,8 @@
 		{"id":"d42b66a6532a20da","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/再開発.md","x":1422,"y":100,"width":307,"height":187},
 		{"id":"db523c2c0828cda4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/再.md","x":720,"y":720,"width":261,"height":95},
 		{"id":"059658b4898450d2","type":"file","file":"Chữa đề/Learning_Profile/Collocation/街の再開発が進む.md","x":2020,"y":28,"width":280,"height":145},
-		{"id":"109fff9f0c46c5fa","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 6/再 - Tái.canvas","x":1329,"y":-1560,"width":264,"height":89}
+		{"id":"109fff9f0c46c5fa","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 6/再 - Tái.canvas","x":1329,"y":-1560,"width":264,"height":89},
+		{"id":"8e807f45e16b4e4c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/再び.md","x":1414,"y":880,"width":303,"height":201}
 	],
 	"edges":[
 		{"id":"99b62ce3323573a1","fromNode":"777541e8765eba63","fromSide":"right","toNode":"8524312981a774b6","toSide":"left","label":"假借 - Giả tá"},
@@ -22,6 +23,7 @@
 		{"id":"e34e2efe38596a72","fromNode":"db523c2c0828cda4","fromSide":"right","toNode":"d42b66a6532a20da","toSide":"left"},
 		{"id":"566cf6a00843eb86","fromNode":"8524312981a774b6","fromSide":"right","toNode":"db523c2c0828cda4","toSide":"left","color":"4"},
 		{"id":"9a233489a828047a","fromNode":"d42b66a6532a20da","fromSide":"right","toNode":"059658b4898450d2","toSide":"left"},
-		{"id":"faeb1038840f3b13","fromNode":"ca017fb3f841a479","fromSide":"right","toNode":"109fff9f0c46c5fa","toSide":"left","label":"tiền tố"}
+		{"id":"faeb1038840f3b13","fromNode":"ca017fb3f841a479","fromSide":"right","toNode":"109fff9f0c46c5fa","toSide":"left","label":"tiền tố"},
+		{"id":"69e7073bd6c6b93c","fromNode":"db523c2c0828cda4","fromSide":"right","toNode":"8e807f45e16b4e4c","toSide":"left","label":"ふたたび\n\nLại một lần nữa (lặp lại hành động lần thứ 2)."}
 	]
 }

@@ -17,6 +17,6 @@ Priority: High
 
 
 <!-- USER_START -->
-
-
+[[むしろ.canvas]]
+[[より.canvas]]
 <!-- USER_END -->

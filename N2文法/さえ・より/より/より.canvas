@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2c092303cc5ae0be","type":"text","text":"より","x":-178,"y":-51,"width":250,"height":60},
 		{"id":"3b8b5b9d5d8d325d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/というより.md","x":-1240,"y":-623,"width":400,"height":400},
 		{"id":"e5b2b2faa27c2494","type":"file","file":"N2文法/Tổng hợp ngữ pháp cơ bản/15. Trợ từ/助詞/と/という/という.canvas","x":-682,"y":-1080,"width":254,"height":129},
 		{"id":"558f0c574ef79114","type":"file","file":"N2文法/ない・いう・しまう/いう.canvas","x":-280,"y":-1360,"width":243,"height":200},
@@ -13,7 +12,10 @@
 		{"id":"fa6b4baac31041ab","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもちろん／はもとより.md","x":1380,"y":1215,"width":380,"height":165},
 		{"id":"b4e0652dfcac0bc4","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜はもちろん.md","x":740,"y":1620,"width":234,"height":122},
 		{"id":"60d1cb4d7259d722","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～というより.md","x":-1980,"y":-780,"width":322,"height":213},
-		{"id":"1bb083dfa5919962","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜よりほかはない.md","x":1660,"y":-400,"width":320,"height":114}
+		{"id":"1bb083dfa5919962","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜よりほかはない.md","x":1660,"y":-400,"width":320,"height":114},
+		{"id":"2c092303cc5ae0be","type":"text","text":"より","x":-178,"y":-51,"width":250,"height":60},
+		{"id":"2a67343816fc759f","type":"text","text":"より","x":-160,"y":2520,"width":250,"height":60},
+		{"id":"36b95766927e1e94","type":"file","file":"Chữa đề/Learning_Profile/Grammar/AよりむしろB.md","x":360,"y":2160,"width":333,"height":169}
 	],
 	"edges":[
 		{"id":"f4ff920998413e50","fromNode":"e5b2b2faa27c2494","fromSide":"left","toNode":"3b8b5b9d5d8d325d","toSide":"right","label":"というより"},
@@ -28,6 +30,8 @@
 		{"id":"34caff53da40dca4","fromNode":"87ee0dcc41c17c41","fromSide":"right","toNode":"fa6b4baac31041ab","toSide":"left","color":"5"},
 		{"id":"4e1abdc6709d80d1","fromNode":"b4e0652dfcac0bc4","fromSide":"right","toNode":"fa6b4baac31041ab","toSide":"left","label":" Diễn tả ý nghĩa \"A là đương nhiên, nhưng hơn thế nữa B cũng...\", dùng để nhấn mạnh mức độ mở rộng của sự việc."},
 		{"id":"812ee21e015f3237","fromNode":"3b8b5b9d5d8d325d","fromSide":"left","toNode":"60d1cb4d7259d722","toSide":"right","color":"4","label":"(Nên nói là)... thì đúng hơn."},
-		{"id":"f064cd2b3f416eef","fromNode":"dde3475e18ddd1dc","fromSide":"right","toNode":"1bb083dfa5919962","toSide":"left","color":"5","label":"Không còn cách nào khác ngoài việc..."}
+		{"id":"f064cd2b3f416eef","fromNode":"dde3475e18ddd1dc","fromSide":"right","toNode":"1bb083dfa5919962","toSide":"left","color":"5","label":"Không còn cách nào khác ngoài việc..."},
+		{"id":"628952b8f95091af","fromNode":"2c092303cc5ae0be","fromSide":"bottom","toNode":"2a67343816fc759f","toSide":"top","color":"4"},
+		{"id":"b382a8af1303777c","fromNode":"2a67343816fc759f","fromSide":"right","toNode":"36b95766927e1e94","toSide":"left","color":"5","label":"Thà rằng... thì hơn/Ngược lại thì đúng hơn."}
 	]
 }

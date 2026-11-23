@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e8f758ab8088f91","type":"text","text":"くらいの","x":145,"y":62,"width":250,"height":60},
+		{"id":"be263b454f1bcfad","type":"file","file":"Pasted image 20260517111957.png","x":-395,"y":-122,"width":400,"height":155},
+		{"id":"fb9f2805ce5af16d","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜というくらいの.md","x":740,"y":360,"width":321,"height":158}
+	],
+	"edges":[
+		{"id":"f59d35b9c9142aa2","fromNode":"7e8f758ab8088f91","fromSide":"left","toNode":"be263b454f1bcfad","toSide":"right","label":"くらいの"},
+		{"id":"9112415af387979f","fromNode":"7e8f758ab8088f91","fromSide":"right","toNode":"fb9f2805ce5af16d","toSide":"left","label":"V-plain / Adj / N + というくらいの + N.\n\nĐến mức là..., cỡ như là... (chỉ mức độ bằng cách đưa ra so sánh ví von)."}
+	]
+}

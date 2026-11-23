@@ -1,20 +1,26 @@
 {
 	"nodes":[
 		{"id":"f825dd741229abae","type":"group","x":200,"y":-300,"width":290,"height":335,"label":"仮 - Giả"},
-		{"id":"f95afa74f2876b20","x":-473,"y":-28,"width":250,"height":60,"type":"text","text":"仮 - Giả"},
 		{"id":"620b0d371187edf0","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「亻」/Nhân　「亻」.canvas","x":-880,"y":142,"width":189,"height":128},
-		{"id":"987ff542c42b421f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas","x":-838,"y":-133,"width":147,"height":76},
 		{"id":"928a8a6898f9e101","type":"file","file":"Chữa đề/Learning_Profile/Kanji/仮説.md","x":302,"y":480,"width":219,"height":117},
-		{"id":"8decfc95c5923645","type":"text","text":"仮病　「けびょう」：","x":220,"y":-220,"width":250,"height":60},
-		{"id":"5218493e3650deb0","type":"text","text":"仮定　「かてい」：","x":220,"y":-160,"width":250,"height":60},
-		{"id":"9efd3182af819152","type":"text","text":"仮名　「かめい」：","x":220,"y":-100,"width":250,"height":60},
+		{"id":"07908988faac519e","type":"text","text":"仮 - Giả","x":-473,"y":839,"width":250,"height":60},
+		{"id":"b0f347abe6f92f4c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/仮に.md","x":261,"y":731,"width":300,"height":276},
 		{"id":"5a8c988da7e0ac5a","type":"text","text":"仮住まい　「かりずまい」：","x":220,"y":-45,"width":250,"height":60},
-		{"id":"9e37dbee53d7b2b6","type":"text","text":"仮歯　「かりは」：","x":220,"y":-280,"width":250,"height":60}
+		{"id":"f95afa74f2876b20","type":"text","text":"仮 - Giả","x":-473,"y":-28,"width":250,"height":60},
+		{"id":"987ff542c42b421f","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/H/Hựu (lại)　「又」/Phản　「反」/Phản　「反」.canvas","x":-838,"y":-133,"width":147,"height":76},
+		{"id":"9efd3182af819152","type":"text","text":"仮名　「かめい」：","x":220,"y":-100,"width":250,"height":60},
+		{"id":"5218493e3650deb0","type":"text","text":"仮定　「かてい」：","x":220,"y":-160,"width":250,"height":60},
+		{"id":"8decfc95c5923645","type":"text","text":"仮病　「けびょう」：","x":220,"y":-220,"width":250,"height":60},
+		{"id":"9e37dbee53d7b2b6","type":"text","text":"仮歯　「かりは」：","x":220,"y":-280,"width":250,"height":60},
+		{"id":"47d1298c0f23c0a9","type":"file","file":"Chữa đề/Learning_Profile/Adverb/かりに.md","x":1020,"y":682,"width":385,"height":99}
 	],
 	"edges":[
 		{"id":"a2ecffa19b09740e","fromNode":"620b0d371187edf0","fromSide":"right","toNode":"f95afa74f2876b20","toSide":"left"},
 		{"id":"30e8780a5dafcee7","fromNode":"987ff542c42b421f","fromSide":"right","toNode":"f95afa74f2876b20","toSide":"left"},
 		{"id":"948d0b56ff78be26","fromNode":"f95afa74f2876b20","fromSide":"right","toNode":"928a8a6898f9e101","toSide":"left","color":"6","label":"Giả thuyết, dự đoán ban đầu chưa chứng minh (Hypothesis)."},
-		{"id":"38855b83a9752a0c","fromNode":"f95afa74f2876b20","fromSide":"right","toNode":"f825dd741229abae","toSide":"left","color":"6"}
+		{"id":"38855b83a9752a0c","fromNode":"f95afa74f2876b20","fromSide":"right","toNode":"f825dd741229abae","toSide":"left","color":"6"},
+		{"id":"348d60e5fa01f754","fromNode":"f95afa74f2876b20","fromSide":"bottom","toNode":"07908988faac519e","toSide":"top","color":"4"},
+		{"id":"5434c145c190c6d6","fromNode":"07908988faac519e","fromSide":"right","toNode":"b0f347abe6f92f4c","toSide":"left","color":"5","label":"Giả sử, giả định là."},
+		{"id":"d03c628493bc56d4","fromNode":"b0f347abe6f92f4c","fromSide":"right","toNode":"47d1298c0f23c0a9","toSide":"left","color":"4","label":"Giả sử, giả định là."}
 	]
 }

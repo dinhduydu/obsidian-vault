@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1903
-- Total Knowledge Items: 12200
-- Correct: 11991
-- Wrong: 13884
-- Accuracy: 46.3%
+- Total Reviews: 1910
+- Total Knowledge Items: 12222
+- Correct: 12012
+- Wrong: 13895
+- Accuracy: 46.4%
 
 ## 🚨 Review Queue
 
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 47.6% (Correct 1181 / Wrong 1301)
+- Adverb: 47.5% (Correct 1183 / Wrong 1305)
 - Collocation: 46.0% (Correct 822 / Wrong 964)
-- CompoundVerb: 46.2% (Correct 637 / Wrong 742)
+- CompoundVerb: 46.2% (Correct 638 / Wrong 743)
 - Conjunction: 45.0% (Correct 351 / Wrong 429)
 - Demonstratives: 52.9% (Correct 281 / Wrong 250)
 - FixedExpression: 47.4% (Correct 723 / Wrong 802)
 - Grammar: 44.5% (Correct 2965 / Wrong 3699)
-- Kanji: 46.7% (Correct 747 / Wrong 852)
+- Kanji: 46.8% (Correct 754 / Wrong 856)
 - Katakana: 52.6% (Correct 610 / Wrong 549)
 - Keigo: 47.6% (Correct 219 / Wrong 241)
 - Reading: 30.7% (Correct 305 / Wrong 689)
-- Vocabulary: 48.3% (Correct 3150 / Wrong 3366)
+- Vocabulary: 48.4% (Correct 3161 / Wrong 3368)
 
 ## 📚 Top Grammar
 
@@ -227,6 +227,13 @@
 
 ## 📅 Recent Reviews
 
+- [[1. Phân Tích Đọc âm Hán tự và Từ vựng]]
+- [[3. Phân Tích 231120261-4-5.pdf]]
+- [[4. Phân Tích 231120261-6-7.pdf]]
+- [[6. Phân Tích 231120261-8-9.pdf]]
+- [[7. Phân Tích 231120261-10-11.pdf]]
+- [[8. Phân Tích 231120261-12-13.pdf]]
+- [[9. Phân Tích 231120261-14-15.pdf]]
 - [[10. Phân Tích Từ vựng & Động từ ghép N2]]
 - [[11. Phân Tích bài kiểm tra Từ vựng N2]]
 - [[12. Phân Tích Từ vựng & Kanji N2]]
@@ -240,10 +247,3 @@
 - [[9. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 37]]
 - [[2. Phân Tích 181120261-2-3.pdf]]
 - [[3. Phân Tích 181120261-4-5.pdf]]
-- [[4. Phân Tích 181120261-6-7.pdf]]
-- [[5. Phân Tích 181120261-8-9.pdf]]
-- [[6. Phân Tích 181120262-2-3.pdf]]
-- [[7. Phân Tích 181120262-4-5.pdf]]
-- [[8. Phân Tích 181120262-6-7.pdf]]
-- [[9. Phân Tích 181120262-8-9.pdf]]
-- [[1. Phân Tích N2_LỚP BỔ TRỢ_ĐỌC HIỂU_BÀI 12]]

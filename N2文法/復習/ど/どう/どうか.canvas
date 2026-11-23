@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4215c798dd2d7a7d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうか.md","x":-977,"y":-448,"width":270,"height":120},
+		{"id":"00c43422d2e8878b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～たらどうか.md","x":-337,"y":-1068,"width":378,"height":131},
+		{"id":"1d64eec5f825bbcd","type":"file","file":"Chữa đề/Learning_Profile/Adverb/ぜひ.md","x":-1408,"y":-576,"width":202,"height":128},
+		{"id":"cf7975aaa8bc8641","type":"file","file":"Chữa đề/Learning_Profile/Keigo/お〜願います.md","x":-1443,"y":-848,"width":273,"height":148},
+		{"id":"68d71f9d71c88a74","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/かどうか.md","x":41,"y":-437,"width":288,"height":98},
+		{"id":"b6eedc2b6c892cf6","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜かどうかは.md","x":843,"y":-774,"width":340,"height":140},
+		{"id":"d8f38e7d30d60abd","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/どうかする.md","x":41,"y":409,"width":240,"height":216},
+		{"id":"ad69eac085b8c836","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/〜どうかしている.md","x":1059,"y":845,"width":385,"height":224}
+	],
+	"edges":[
+		{"id":"4f63de05256317f3","fromNode":"4215c798dd2d7a7d","fromSide":"right","toNode":"d8f38e7d30d60abd","toSide":"left","color":"5","label":"Thường dùng ở dạng どうかしている để chỉ trạng thái bất thường của bản thân hoặc sự vật."},
+		{"id":"06aca6fb7cf4a73c","fromNode":"4215c798dd2d7a7d","fromSide":"right","toNode":"00c43422d2e8878b","toSide":"left","color":"5","label":"Thử làm... xem sao/Nên làm... thì hơn (lời khuyên)."},
+		{"id":"ba90e5f63d21fce1","fromNode":"4215c798dd2d7a7d","fromSide":"right","toNode":"68d71f9d71c88a74","toSide":"left","color":"5","label":"Có... hay không (Whether or not)"},
+		{"id":"f5c6f0eb147ff581","fromNode":"1d64eec5f825bbcd","fromSide":"right","toNode":"4215c798dd2d7a7d","toSide":"left","color":"3"},
+		{"id":"cc256aa8d8d2af5e","fromNode":"cf7975aaa8bc8641","fromSide":"right","toNode":"4215c798dd2d7a7d","toSide":"left","color":"3"},
+		{"id":"cf73ce1ce4f8872f","fromNode":"68d71f9d71c88a74","fromSide":"right","toNode":"b6eedc2b6c892cf6","toSide":"left","label":" Liệu có... hay không thì... (Danh từ hóa câu hỏi nghi vấn để làm chủ đề cho vế sau)."},
+		{"id":"85a60023e5c3b65e","fromNode":"d8f38e7d30d60abd","fromSide":"right","toNode":"ad69eac085b8c836","toSide":"left","color":"5","label":"Bất bình thường, đầu óc lú lẫn, làm điều ngớ ngẩn (Diễn tả hành vi hoặc trạng thái kỳ lạ, khác thường do mệt mỏi hoặc nhầm lẫn)."}
+	]
+}

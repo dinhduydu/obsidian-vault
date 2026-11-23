@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"16ed8aee415d049d","type":"file","file":"Pasted image 20261123100414.png","x":-240,"y":-200,"width":320,"height":400},
+		{"id":"1ea92a9923c0d664","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phương/Phương　「匚」/匹 - Thất/匹 - Thất.canvas","x":780,"y":-53,"width":167,"height":107},
+		{"id":"bb99a12c1e71c680","type":"text","text":"匹 (ひき/びき/ぴき): đếm động vật nhỏ (chó, mèo, cá…)","x":1139,"y":-33,"width":514,"height":66},
+		{"id":"f36f6fa23020b660","type":"text","text":"đếm động vật","x":280,"y":-29,"width":250,"height":60},
+		{"id":"d53b495ca9f713c9","x":780,"y":160,"width":242,"height":199,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Đậu　「豆」/頭 - Đầu.canvas"},
+		{"id":"aa93ea4f3a7a5e60","type":"text","text":"頭 (とう): đếm động vật lớn (bò, ngựa, voi…)","x":1120,"y":180,"width":250,"height":60},
+		{"id":"8139475fe89f23cb","x":280,"y":-382,"width":283,"height":132,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/C/Cổ　「古」/固 - Cố/個 - Cá.canvas"},
+		{"id":"78306201f5b37879","type":"text","text":"個 (こ): đếm vật nhỏ, hình khối, tròn, cái chung chung","x":695,"y":-407,"width":444,"height":50},
+		{"id":"a11bca3172820eda","x":1063,"y":603,"width":365,"height":97,"type":"text","text":"枚 (まい): đếm vật mỏng, phẳng (giấy, áo thun, đĩa CD, vé…)"},
+		{"id":"fc2d4a4be09d9ecd","x":607,"y":580,"width":267,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/P/Phộc　「攴 (攵)」/枚 - Mai.canvas"},
+		{"id":"f9fcc3eb5691a62a","x":607,"y":850,"width":242,"height":184,"type":"file","file":"N2漢字/Bộ thủ/Thành phần cấu tạo chữ/Phiệt/Phiệt　「丿」/不 - Bất/杯 - Bôi.canvas"},
+		{"id":"0fb43f501c169d4a","x":1022,"y":912,"width":250,"height":60,"type":"text","text":"杯 (はい/ぱい): đếm ly, chén, tách (đựng đồ uống)"},
+		{"id":"740e7a7411afa1f2","x":-618,"y":680,"width":203,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Can　「干 」/軒 - Hiên.canvas"},
+		{"id":"4878e1838430556f","x":-972,"y":760,"width":250,"height":60,"type":"text","text":"軒 (けん): đếm nhà, tiệm, cửa hàng"},
+		{"id":"d68766f1ddc17bc1","x":-921,"y":440,"width":250,"height":60,"type":"text","text":"足 ( そく): đếm giày, tất/vớ (đếm theo đôi)"},
+		{"id":"c1390b402487d0d8","x":-921,"y":200,"width":250,"height":60,"type":"text","text":"本 (ほん/ぼん/ぽん): đếm vật thon dài (bút, chai, cây, ô…)"},
+		{"id":"fc4cff8408a6939d","x":-970,"y":-149,"width":250,"height":60,"type":"text","text":"冊 (さつ): đếm sách, tập, vở, tạp chí… (đồ vật dạng cuốn)"},
+		{"id":"05ee6f874f91f7cf","x":-970,"y":-520,"width":250,"height":60,"type":"text","text":"着 (ちゃく): đếm quần áo."},
+		{"id":"6a7188bf932eff41","x":-970,"y":-820,"width":250,"height":60,"type":"text","text":"台 (だい): đếm máy móc, xe cộ, thiết bị điện tử"}
+	],
+	"edges":[
+		{"id":"7caa07d18cad3752","fromNode":"16ed8aee415d049d","fromSide":"right","toNode":"8139475fe89f23cb","toSide":"left","color":"6"},
+		{"id":"5c0d7aeb58fc3185","fromNode":"f36f6fa23020b660","fromSide":"right","toNode":"1ea92a9923c0d664","toSide":"left","color":"6"},
+		{"id":"3ee8d2e00dcedae1","fromNode":"1ea92a9923c0d664","fromSide":"right","toNode":"bb99a12c1e71c680","toSide":"left","color":"6"},
+		{"id":"7ed113575e21f054","fromNode":"16ed8aee415d049d","fromSide":"right","toNode":"f36f6fa23020b660","toSide":"left","color":"5"},
+		{"id":"d7789b5388680f78","fromNode":"f36f6fa23020b660","fromSide":"right","toNode":"d53b495ca9f713c9","toSide":"left","color":"6"},
+		{"id":"8974f6a09138a392","fromNode":"d53b495ca9f713c9","fromSide":"right","toNode":"aa93ea4f3a7a5e60","toSide":"left"},
+		{"id":"e2437d86b85fdb10","fromNode":"16ed8aee415d049d","fromSide":"right","toNode":"fc2d4a4be09d9ecd","toSide":"left","color":"6"},
+		{"id":"4eb175a22fd732a1","fromNode":"fc2d4a4be09d9ecd","fromSide":"right","toNode":"a11bca3172820eda","toSide":"left"},
+		{"id":"dac9d80071115837","fromNode":"8139475fe89f23cb","fromSide":"right","toNode":"78306201f5b37879","toSide":"left"},
+		{"id":"24abee3685ccdc5e","fromNode":"f9fcc3eb5691a62a","fromSide":"right","toNode":"0fb43f501c169d4a","toSide":"left"},
+		{"id":"fd62d8cabb5ccfb0","fromNode":"16ed8aee415d049d","fromSide":"right","toNode":"f9fcc3eb5691a62a","toSide":"left"},
+		{"id":"35972ec1c63f18e7","fromNode":"16ed8aee415d049d","fromSide":"left","toNode":"c1390b402487d0d8","toSide":"right"},
+		{"id":"5aba05f65f455383","fromNode":"16ed8aee415d049d","fromSide":"left","toNode":"fc4cff8408a6939d","toSide":"right"},
+		{"id":"18e176ab87a5bdc6","fromNode":"740e7a7411afa1f2","fromSide":"left","toNode":"4878e1838430556f","toSide":"right"},
+		{"id":"02c0a7b65f25b6fb","fromNode":"16ed8aee415d049d","fromSide":"bottom","toNode":"740e7a7411afa1f2","toSide":"right"},
+		{"id":"d17df20da6be8071","fromNode":"16ed8aee415d049d","fromSide":"left","toNode":"d68766f1ddc17bc1","toSide":"right"},
+		{"id":"8c1b0ba33987e9d7","fromNode":"16ed8aee415d049d","fromSide":"left","toNode":"05ee6f874f91f7cf","toSide":"right"},
+		{"id":"8206be577b9c5511","fromNode":"16ed8aee415d049d","fromSide":"left","toNode":"6a7188bf932eff41","toSide":"right"}
+	]
+}

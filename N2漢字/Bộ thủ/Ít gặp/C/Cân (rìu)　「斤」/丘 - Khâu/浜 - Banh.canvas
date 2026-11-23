@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"9652eadc89d79fee","x":-145,"y":-24,"width":250,"height":60,"type":"text","text":"浜 - Banh"},
-		{"id":"e9e6b98787ef7333","x":-480,"y":-260,"width":191,"height":119,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/丘 - Khâu/兵 - Binh.canvas"},
-		{"id":"72b35d002c9342aa","x":-620,"y":100,"width":171,"height":169,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas"}
+		{"id":"9652eadc89d79fee","type":"text","text":"浜 - Banh","x":-145,"y":-24,"width":250,"height":60},
+		{"id":"e9e6b98787ef7333","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/C/Cân (rìu)　「斤」/丘 - Khâu/兵 - Binh.canvas","x":-480,"y":-260,"width":191,"height":119},
+		{"id":"72b35d002c9342aa","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-620,"y":100,"width":171,"height":169},
+		{"id":"44d359d843c8b631","type":"text","text":"浜辺","x":360,"y":-260,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fbced22ca6214543","fromNode":"e9e6b98787ef7333","fromSide":"right","toNode":"9652eadc89d79fee","toSide":"left"},
-		{"id":"1cac732165e5cf52","fromNode":"72b35d002c9342aa","fromSide":"right","toNode":"9652eadc89d79fee","toSide":"left"}
+		{"id":"1cac732165e5cf52","fromNode":"72b35d002c9342aa","fromSide":"right","toNode":"9652eadc89d79fee","toSide":"left"},
+		{"id":"c3831f4d05f81404","fromNode":"9652eadc89d79fee","fromSide":"right","toNode":"44d359d843c8b631","toSide":"left","color":"6","label":"bãi biển"}
 	]
 }

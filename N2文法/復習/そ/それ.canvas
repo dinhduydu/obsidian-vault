@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"690fac51ea60b1c5","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それが.md","x":1120,"y":-940,"width":281,"height":85},
+		{"id":"0b940af7971b95d1","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それに.md","x":1120,"y":-100,"width":326,"height":170},
+		{"id":"2b072210a08c5c90","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/それには.md","x":1820,"y":140,"width":310,"height":173},
+		{"id":"0dbf3993ad793387","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/それによると.md","x":1820,"y":-190,"width":264,"height":90},
+		{"id":"e488e31216d1979f","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それにしても.md","x":1820,"y":420,"width":302,"height":174},
+		{"id":"acda12fff5547275","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それにつれて.md","x":1820,"y":680,"width":273,"height":110},
+		{"id":"715fe6335c267a2b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜それにしては.md","x":1780,"y":880,"width":267,"height":163},
+		{"id":"89c29380c9c5a198","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それ.md","x":440,"y":-260,"width":231,"height":81},
+		{"id":"297eb7496142186d","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それだけに.md","x":1120,"y":1360,"width":400,"height":200},
+		{"id":"4795ea3c52dae1d7","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それ.md","x":440,"y":1420,"width":231,"height":81},
+		{"id":"257603fd43fff1bd","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/それなのに.md","x":1120,"y":1120,"width":302,"height":182},
+		{"id":"df2d75846b5515d4","type":"file","file":"Chữa đề/Learning_Profile/Adverb/それなりに.md","x":1120,"y":1780,"width":288,"height":164},
+		{"id":"708731ec266a09a5","type":"text","text":"それ","x":-1400,"y":-249,"width":250,"height":60},
+		{"id":"46d81a3eb9babbee","x":-480,"y":-800,"width":296,"height":151,"type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それら.md"},
+		{"id":"40cce2fa562ccc8b","x":-480,"y":-1320,"width":212,"height":104,"type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/それは.md"}
+	],
+	"edges":[
+		{"id":"c034e8d4ba26d20a","fromNode":"708731ec266a09a5","fromSide":"right","toNode":"89c29380c9c5a198","toSide":"left","color":"4"},
+		{"id":"b00dfe26f403c637","fromNode":"89c29380c9c5a198","fromSide":"right","toNode":"690fac51ea60b1c5","toSide":"left","label":"Cái đó / Điều đó (chỉ khái niệm vừa nêu ở câu trước, đóng vai trò làm chủ ngữ cho vị ngữ ở câu sau).\n\nSự việc phía sau mang tính chất ngoài dự đoán, tiêu cực"},
+		{"id":"fb2179c77a257891","fromNode":"89c29380c9c5a198","fromSide":"right","toNode":"0b940af7971b95d1","toSide":"left"},
+		{"id":"fe8e790f0cb61e5d","fromNode":"0b940af7971b95d1","fromSide":"right","toNode":"2b072210a08c5c90","toSide":"left"},
+		{"id":"490f06131ca1085c","fromNode":"0b940af7971b95d1","fromSide":"right","toNode":"0dbf3993ad793387","toSide":"left"},
+		{"id":"ce52b6fcbd3b9de3","fromNode":"0b940af7971b95d1","fromSide":"right","toNode":"e488e31216d1979f","toSide":"left"},
+		{"id":"3ff6bd905de27be1","fromNode":"0b940af7971b95d1","fromSide":"right","toNode":"acda12fff5547275","toSide":"left"},
+		{"id":"34612afbe6a7868d","fromNode":"0b940af7971b95d1","fromSide":"right","toNode":"715fe6335c267a2b","toSide":"left"},
+		{"id":"0501789c9fd384d9","fromNode":"89c29380c9c5a198","fromSide":"bottom","toNode":"4795ea3c52dae1d7","toSide":"top","color":"4"},
+		{"id":"ec0b4c56bbbfefa3","fromNode":"4795ea3c52dae1d7","fromSide":"right","toNode":"297eb7496142186d","toSide":"left","label":"Chính vì thế (nhấn mạnh mức độ tương xứng)."},
+		{"id":"628d19f31c626971","fromNode":"4795ea3c52dae1d7","fromSide":"right","toNode":"257603fd43fff1bd","toSide":"left","label":"Dù vậy mà... / Thế mà... (Liên từ nghịch nối diễn tả sự việc ở vế sau trái ngược hoàn toàn với mong đợi ở vế trước)."},
+		{"id":"91b54309838a2299","fromNode":"4795ea3c52dae1d7","fromSide":"right","toNode":"df2d75846b5515d4","toSide":"left","label":"Tương đối / Theo cách riêng / Trong khả năng / Ở mức độ nhất định (Dù không hoàn hảo nhưng đạt mức độ chấp nhận được)."},
+		{"id":"90c814bd6cf933c5","fromNode":"708731ec266a09a5","fromSide":"right","toNode":"46d81a3eb9babbee","toSide":"left"},
+		{"id":"8a679b966acd0e0c","fromNode":"708731ec266a09a5","fromSide":"right","toNode":"40cce2fa562ccc8b","toSide":"left"}
+	]
+}

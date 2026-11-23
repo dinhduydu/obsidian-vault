@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"6fc817c85925c055","type":"group","x":-1879,"y":200,"width":1059,"height":380,"label":"Lý thuyết"},
+		{"id":"0c8f4d66755eea4a","type":"text","text":"～（ら）れる","x":240,"y":-169,"width":250,"height":60},
+		{"id":"7d00ae7cf9108417","type":"text","text":"（I）グループ：うー＞える\n（II）グループ：られる\n（III）グループ：できる・こられる","x":732,"y":-345,"width":348,"height":105},
+		{"id":"7e11306ef7859ae1","type":"file","file":"N2文法/Tổng hợp ngữ pháp N3/日本語総まとめ/Week1/１日目：ぼくにもやらせて/Vられる.canvas","x":732,"y":-60,"width":337,"height":147},
+		{"id":"8cfefb7eb6ad4a2e","type":"text","text":"可能","x":-320,"y":-169,"width":250,"height":60},
+		{"id":"c3d3e15d73399e8a","type":"text","text":"Lý thuyết","x":-1859,"y":404,"width":250,"height":60},
+		{"id":"3d1836e8ad3e89fa","type":"text","text":"Diễn tả tính khả năng","x":-1207,"y":220,"width":250,"height":60},
+		{"id":"bf5a3d968c273fbb","type":"text","text":"週末はいそがしくてあまりやすめませんでした。","x":-747,"y":580,"width":467,"height":50},
+		{"id":"b82c79d3c9503285","type":"text","text":"Trợ từ を gắn với từ chỉ mục đích thường chuyển thành が","x":-1207,"y":409,"width":290,"height":50},
+		{"id":"d793f902b08eb298","type":"text","text":"図書館で、本が１０冊かりられます。","x":-753,"y":407,"width":480,"height":55},
+		{"id":"0d7706f08da8b5c0","type":"file","file":"N2文法/こと・もの/もの/もの.canvas","x":1860,"y":-2400,"width":205,"height":129},
+		{"id":"acd2425eaec2a455","type":"text","text":"V可能","x":1160,"y":-1846,"width":250,"height":60},
+		{"id":"d501d0b6781b00b6","type":"file","file":"Chữa đề/Learning_Profile/Adverb/とても〜ない.md","x":2240,"y":-1892,"width":303,"height":152}
+	],
+	"edges":[
+		{"id":"90ee03711d3ea447","fromNode":"8cfefb7eb6ad4a2e","fromSide":"right","toNode":"0c8f4d66755eea4a","toSide":"left"},
+		{"id":"459aada7fc5b5923","fromNode":"c3d3e15d73399e8a","fromSide":"right","toNode":"b82c79d3c9503285","toSide":"left"},
+		{"id":"bea03638f8ca3f32","fromNode":"b82c79d3c9503285","fromSide":"right","toNode":"d793f902b08eb298","toSide":"left"},
+		{"id":"7744f2cb6174d70e","fromNode":"b82c79d3c9503285","fromSide":"right","toNode":"bf5a3d968c273fbb","toSide":"left"},
+		{"id":"fb021b50524b3df6","fromNode":"0c8f4d66755eea4a","fromSide":"right","toNode":"7d00ae7cf9108417","toSide":"left","color":"5","label":"cách chia"},
+		{"id":"ee6d882d478f4914","fromNode":"8cfefb7eb6ad4a2e","fromSide":"top","toNode":"acd2425eaec2a455","toSide":"left","color":"5"},
+		{"id":"7a1be1090ba2ce8e","fromNode":"acd2425eaec2a455","fromSide":"right","toNode":"0d7706f08da8b5c0","toSide":"left","color":"5","label":"V可能＋ものなら"},
+		{"id":"392cbc5e13d84094","fromNode":"0c8f4d66755eea4a","fromSide":"right","toNode":"7e11306ef7859ae1","toSide":"left","color":"1","label":"Thể bị động"},
+		{"id":"c035cbaaa353aa40","fromNode":"c3d3e15d73399e8a","fromSide":"right","toNode":"3d1836e8ad3e89fa","toSide":"left","color":"5"},
+		{"id":"0a1c07602254db60","fromNode":"6fc817c85925c055","fromSide":"right","toNode":"8cfefb7eb6ad4a2e","toSide":"left","color":"3"},
+		{"id":"4bab2da27f09baf7","fromNode":"acd2425eaec2a455","fromSide":"right","toNode":"d501d0b6781b00b6","toSide":"left","color":"5","label":"Hoàn toàn không thể..., Dù thế nào cũng không thể... (cannot possibly...).\n\nPhó từ とても kết hợp với động từ thể phủ định khả năng (続かない, できない) để nhấn mạnh tính chất bất khả thi."}
+	]
+}

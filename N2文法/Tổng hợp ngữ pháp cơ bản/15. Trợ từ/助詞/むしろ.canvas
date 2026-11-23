@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"081b21c6c2bfbf0f","x":-860,"y":280,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/むしろ.md"},
+		{"id":"081b21c6c2bfbf0f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/むしろ.md","x":-860,"y":280,"width":400,"height":400},
 		{"id":"92fed83f18211b0d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/むしろ.md","x":80,"y":280,"width":400,"height":400},
-		{"id":"7819862a09798e7b","x":-400,"y":-420,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/むしろ.md"}
+		{"id":"7819862a09798e7b","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/むしろ.md","x":-400,"y":-420,"width":400,"height":400},
+		{"id":"9c8054999a6fa8ae","type":"file","file":"Chữa đề/Learning_Profile/Grammar/AよりむしろB.md","x":640,"y":-760,"width":256,"height":94},
+		{"id":"107c7b8dd531280d","type":"file","file":"N2文法/さえ・より/より/より.canvas","x":151,"y":-1000,"width":258,"height":174}
 	],
 	"edges":[
-		{"id":"428357a1203c3579","fromNode":"7819862a09798e7b","fromSide":"bottom","toNode":"081b21c6c2bfbf0f","toSide":"top","color":"4"},
-		{"id":"275a05eeb6848ab4","fromNode":"081b21c6c2bfbf0f","fromSide":"right","toNode":"92fed83f18211b0d","toSide":"left","color":"4"},
-		{"id":"93177cab2148b71c","fromNode":"92fed83f18211b0d","fromSide":"top","toNode":"7819862a09798e7b","toSide":"bottom","color":"4"}
+		{"id":"428357a1203c3579","fromNode":"7819862a09798e7b","fromSide":"bottom","toNode":"081b21c6c2bfbf0f","toSide":"top","color":"4","label":"Thà rằng... thì hơn/Ngược lại thì đúng hơn."},
+		{"id":"275a05eeb6848ab4","fromNode":"081b21c6c2bfbf0f","fromSide":"right","toNode":"92fed83f18211b0d","toSide":"left","color":"4","label":"Thà rằng... thì hơn/Ngược lại thì đúng hơn."},
+		{"id":"93177cab2148b71c","fromNode":"92fed83f18211b0d","fromSide":"top","toNode":"7819862a09798e7b","toSide":"bottom","color":"4","label":"Trái lại, thà... còn hơn, đúng ra là (thể hiện sự lựa chọn hoặc đánh giá nghiêng về vế sau)."},
+		{"id":"bd4f7d3eb968a051","fromNode":"7819862a09798e7b","fromSide":"right","toNode":"9c8054999a6fa8ae","toSide":"left","color":"5","label":"Trái lại, thà... còn hơn, đúng ra là (thể hiện sự lựa chọn hoặc đánh giá nghiêng về vế sau)."},
+		{"id":"00c914c12247b8a1","fromNode":"107c7b8dd531280d","fromSide":"right","toNode":"9c8054999a6fa8ae","toSide":"left","color":"3"}
 	]
 }

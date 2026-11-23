@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f69a24fe3be826a5","x":680,"y":-1080,"width":1111,"height":720,"type":"group","label":"Cùng nhóm"},
+		{"id":"e6bfb025d175be29","type":"text","text":"いくらも","x":-110,"y":-70,"width":250,"height":60},
+		{"id":"31f5c8b9f1aa4e56","type":"file","file":"N2文法/くらい・ほど・いくら/いくら/いくら.canvas","x":-580,"y":-280,"width":258,"height":115},
+		{"id":"36f6f4266a617b06","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜いくらも…ない.md","x":432,"y":180,"width":300,"height":80},
+		{"id":"02b7192c4d579837","x":220,"y":-937,"width":275,"height":114,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ても.md"},
+		{"id":"24b66496e4573afb","x":760,"y":-684,"width":302,"height":221,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/いくら〜ても.md"},
+		{"id":"d618b93fc3afe3ab","x":770,"y":-1014,"width":292,"height":154,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/たとえ.md"},
+		{"id":"0cebdc39df69f194","x":1160,"y":-977,"width":271,"height":81,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/どんなに.md"},
+		{"id":"7037c3199254305f","x":1500,"y":-977,"width":271,"height":91,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/かりに.md"},
+		{"id":"964cd4fc443b65e1","x":860,"y":192,"width":400,"height":56,"type":"file","file":"Pasted image 20261123171625.png"}
+	],
+	"edges":[
+		{"id":"98079b59016e4a59","fromNode":"31f5c8b9f1aa4e56","fromSide":"right","toNode":"e6bfb025d175be29","toSide":"left"},
+		{"id":"ff51cdf4ac111b53","fromNode":"e6bfb025d175be29","fromSide":"right","toNode":"36f6f4266a617b06","toSide":"left","color":"5","label":"Dạng phủ định: mức độ rất ít, không đáng kể"},
+		{"id":"9145aff254020782","fromNode":"e6bfb025d175be29","fromSide":"right","toNode":"24b66496e4573afb","toSide":"left","color":"5","label":"Dạng khẳng định: Cho dù bao nhiêu đi chăng nữa"},
+		{"id":"9d99758f6ca69ad7","fromNode":"02b7192c4d579837","fromSide":"right","toNode":"f69a24fe3be826a5","toSide":"left"},
+		{"id":"f5c695f4399af08b","fromNode":"36f6f4266a617b06","fromSide":"right","toNode":"964cd4fc443b65e1","toSide":"left"}
+	]
+}
