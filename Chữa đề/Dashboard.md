@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1910
-- Total Knowledge Items: 12222
-- Correct: 12012
-- Wrong: 13895
+- Total Reviews: 1921
+- Total Knowledge Items: 12242
+- Correct: 12047
+- Wrong: 13924
 - Accuracy: 46.4%
 
 ## 🚨 Review Queue
@@ -19,9 +19,9 @@
 - [[〜からといって]] | Grammar| Score: 137| Wrong: 26
 - [[しかし]] | Conjunction| Score: 127| Wrong: 24
 - [[〜ざるを得ない]] | Grammar| Score: 125| Wrong: 25
+- [[〜とは限らない]] | Grammar| Score: 120| Wrong: 24
 - [[〜かねない]] | Grammar| Score: 120| Wrong: 21
 - [[〜に限って]] | Grammar| Score: 120| Wrong: 21
-- [[〜とは限らない]] | Grammar| Score: 120| Wrong: 24
 - [[〜ようとする]] | Grammar| Score: 115| Wrong: 20
 - [[〜に違いない]] | Grammar| Score: 110| Wrong: 22
 - [[〜につれて]] | Grammar| Score: 110| Wrong: 19
@@ -41,8 +41,8 @@
 - [[〜からといって]] (Grammar) Wrong: 26
 - [[〜ざるを得ない]] (Grammar) Wrong: 25
 - [[〜にほかならない]] (Grammar) Wrong: 25
-- [[しかし]] (Conjunction) Wrong: 24
 - [[〜とは限らない]] (Grammar) Wrong: 24
+- [[しかし]] (Conjunction) Wrong: 24
 - [[〜に違いない]] (Grammar) Wrong: 22
 - [[〜ようがない]] (Grammar) Wrong: 22
 - [[したがって]] (Conjunction) Wrong: 22
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 47.5% (Correct 1183 / Wrong 1305)
-- Collocation: 46.0% (Correct 822 / Wrong 964)
-- CompoundVerb: 46.2% (Correct 638 / Wrong 743)
+- Adverb: 47.6% (Correct 1187 / Wrong 1308)
+- Collocation: 46.0% (Correct 823 / Wrong 965)
+- CompoundVerb: 46.2% (Correct 639 / Wrong 743)
 - Conjunction: 45.0% (Correct 351 / Wrong 429)
 - Demonstratives: 52.9% (Correct 281 / Wrong 250)
-- FixedExpression: 47.4% (Correct 723 / Wrong 802)
-- Grammar: 44.5% (Correct 2965 / Wrong 3699)
-- Kanji: 46.8% (Correct 754 / Wrong 856)
-- Katakana: 52.6% (Correct 610 / Wrong 549)
+- FixedExpression: 47.4% (Correct 725 / Wrong 804)
+- Grammar: 44.5% (Correct 2973 / Wrong 3705)
+- Kanji: 47.1% (Correct 765 / Wrong 860)
+- Katakana: 52.6% (Correct 613 / Wrong 552)
 - Keigo: 47.6% (Correct 219 / Wrong 241)
 - Reading: 30.7% (Correct 305 / Wrong 689)
-- Vocabulary: 48.4% (Correct 3161 / Wrong 3368)
+- Vocabulary: 48.4% (Correct 3166 / Wrong 3378)
 
 ## 📚 Top Grammar
 
@@ -76,9 +76,9 @@
 - [[〜にほかならない]] (Score: 140)
 - [[〜からといって]] (Score: 137)
 - [[〜ざるを得ない]] (Score: 125)
+- [[〜とは限らない]] (Score: 120)
 - [[〜かねない]] (Score: 120)
 - [[〜に限って]] (Score: 120)
-- [[〜とは限らない]] (Score: 120)
 - [[〜ようとする]] (Score: 115)
 - [[〜に違いない]] (Score: 110)
 
@@ -176,9 +176,9 @@
 ## 📚 Top Adverb
 
 - [[さっさと]] (Score: 85)
-- [[むしろ]] (Score: 82)
 - [[つい]] (Score: 75)
 - [[どうしても]] (Score: 75)
+- [[むしろ]] (Score: 70)
 - [[そのうち]] (Score: 70)
 - [[なかなか]] (Score: 65)
 - [[すっかり]] (Score: 65)
@@ -228,22 +228,22 @@
 ## 📅 Recent Reviews
 
 - [[1. Phân Tích Đọc âm Hán tự và Từ vựng]]
+- [[11. Phân Tích câu giả định kết hợp từ nghi vấn]]
+- [[12. Phân Tích ngữ pháp khẳng định mức độ, đánh giá thực trạng]]
+- [[13. Phân Tích ngữ pháp nối nhượng bộ]]
+- [[14. Phân Tích cấu trúc hành động lặp đi lặp lại theo thói quen, mỗi khi]]
 - [[3. Phân Tích 231120261-4-5.pdf]]
 - [[4. Phân Tích 231120261-6-7.pdf]]
 - [[6. Phân Tích 231120261-8-9.pdf]]
 - [[7. Phân Tích 231120261-10-11.pdf]]
 - [[8. Phân Tích 231120261-12-13.pdf]]
 - [[9. Phân Tích 231120261-14-15.pdf]]
+- [[1. Phân Tích âm đọc Onyomi của chữ 域]]
+- [[2. Phân Tích 241120261-4-5.pdf]]
+- [[3. Phân Tích 241120261-6-7.pdf]]
+- [[4. Phân Tích 241120261-8-9.pdf]]
+- [[5. Phân Tích 241120261-10-11.pdf]]
+- [[6. Phân Tích 241120261-12-13.pdf]]
+- [[7. Phân Tích Cách dùng từ trong ngữ cảnh câu]]
 - [[10. Phân Tích Từ vựng & Động từ ghép N2]]
 - [[11. Phân Tích bài kiểm tra Từ vựng N2]]
-- [[12. Phân Tích Từ vựng & Kanji N2]]
-- [[2. Phân Tích Kiểm tra Từ vựng N2, Từ Katakana, Cấu trúc cú pháp]]
-- [[3. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 34]]
-- [[4. Phân Tích Từ vựng & Ngữ pháp N2]]
-- [[5. Phân Tích N2_ĐỌC HIỂU NGẮN_BÀI 35]]
-- [[6. Phân Tích Từ vựng & Kanji N2]]
-- [[7. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 36]]
-- [[8. Phân Tích Từ vựng N2]]
-- [[9. Phân Tích N2_ĐỌC HIỂU TRUNG_BÀI 37]]
-- [[2. Phân Tích 181120261-2-3.pdf]]
-- [[3. Phân Tích 181120261-4-5.pdf]]

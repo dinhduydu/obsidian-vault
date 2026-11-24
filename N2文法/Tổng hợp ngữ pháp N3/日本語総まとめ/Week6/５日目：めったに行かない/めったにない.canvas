@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"6a7418cd10b4e0ad","type":"text","text":"めったにない","x":-140,"y":-25,"width":250,"height":60},
-		{"id":"84368cbb8d115236","type":"file","file":"Chữa đề/Learning_Profile/Adverb/めったに.md","x":-880,"y":-360,"width":260,"height":195}
+		{"id":"84368cbb8d115236","type":"file","file":"Chữa đề/Learning_Profile/Adverb/めったに.md","x":-880,"y":-360,"width":260,"height":195},
+		{"id":"2519d304fd41cf74","type":"file","file":"Chữa đề/Learning_Profile/Grammar/まず〜ない.md","x":-287,"y":-560,"width":295,"height":168}
 	],
 	"edges":[
-		{"id":"6d379a2ebce88935","fromNode":"84368cbb8d115236","fromSide":"right","toNode":"6a7418cd10b4e0ad","toSide":"left","color":"4","label":" Hiếm khi, rất ít khi (Seldom / Rarely)."}
+		{"id":"6d379a2ebce88935","fromNode":"84368cbb8d115236","fromSide":"right","toNode":"6a7418cd10b4e0ad","toSide":"left","color":"4","label":" Hiếm khi, rất ít khi (Seldom / Rarely)."},
+		{"id":"62ccb33981b222c8","fromNode":"84368cbb8d115236","fromSide":"right","toNode":"2519d304fd41cf74","toSide":"left","color":"4","label":"Hầu như không..., khó mà... (diễn tả sự phủ định mang tính chắc chắn cao đối me về khả năng xảy ra)."}
 	]
 }

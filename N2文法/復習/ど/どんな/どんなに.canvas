@@ -12,7 +12,7 @@
 		{"id":"39076992c62efbfa","type":"text","text":"Cho biết dù là điều kiện, tình huống, trạng thái nào thì cũng ko ảnh hưởng sự việc phía sau","x":-867,"y":-272,"width":250,"height":120},
 		{"id":"1451e7630aa6fc1f","type":"text","text":"Diễn tả việc xảy ra trái ngược với việc được cho là đương nhiên và làm việc trái ngược","x":-196,"y":-34,"width":250,"height":122},
 		{"id":"ea53f18d6043c2af","type":"text","text":"いくら","x":-888,"y":3,"width":250,"height":60},
-		{"id":"d25def3af0fd4f76","type":"text","text":"Nhấn mạnh sô","x":-1280,"y":-54,"width":250,"height":60}
+		{"id":"d25def3af0fd4f76","type":"text","text":"Nhấn mạnh số","x":-1280,"y":-54,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"56cb2b57f0538ae3","fromNode":"8a1110646bcf825e","fromSide":"bottom","toNode":"c05ec4063978c59e","toSide":"top","label":"どんなに・いくら"},

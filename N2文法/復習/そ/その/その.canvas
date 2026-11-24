@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e670ed31a9f20c0f","type":"text","text":"その","x":-420,"y":60,"width":250,"height":60},
+		{"id":"5394c8ff5f88b111","type":"file","file":"Chữa đề/Learning_Profile/Adverb/そのうち.md","x":260,"y":-340,"width":347,"height":157}
+	],
+	"edges":[
+		{"id":"10c4fdf4d7db3038","fromNode":"e670ed31a9f20c0f","fromSide":"right","toNode":"5394c8ff5f88b111","toSide":"left","label":"Sớm muộn gì, trong thời gian ngắn tới, để sau / Before long, sooner or later."}
+	]
+}

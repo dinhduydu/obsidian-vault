@@ -3,14 +3,22 @@
 		{"id":"081b21c6c2bfbf0f","type":"file","file":"Chữa đề/Learning_Profile/Grammar/むしろ.md","x":-860,"y":280,"width":400,"height":400},
 		{"id":"92fed83f18211b0d","type":"file","file":"Chữa đề/Learning_Profile/Adverb/むしろ.md","x":80,"y":280,"width":400,"height":400},
 		{"id":"7819862a09798e7b","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/むしろ.md","x":-400,"y":-420,"width":400,"height":400},
-		{"id":"9c8054999a6fa8ae","type":"file","file":"Chữa đề/Learning_Profile/Grammar/AよりむしろB.md","x":640,"y":-760,"width":256,"height":94},
-		{"id":"107c7b8dd531280d","type":"file","file":"N2文法/さえ・より/より/より.canvas","x":151,"y":-1000,"width":258,"height":174}
+		{"id":"107c7b8dd531280d","type":"file","file":"N2文法/さえ・より/より/より.canvas","x":151,"y":-1000,"width":258,"height":174},
+		{"id":"9c8054999a6fa8ae","type":"file","file":"Chữa đề/Learning_Profile/Grammar/AよりむしろB.md","x":1002,"y":-600,"width":256,"height":94},
+		{"id":"cd84a00d79b7cf2a","x":960,"y":189,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ではなく.md"},
+		{"id":"4c10c90d82a5ecbf","x":1522,"y":189,"width":400,"height":400,"type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ではなく.md"},
+		{"id":"e45740672d117837","x":1631,"y":-535,"width":250,"height":60,"type":"text","text":"Aではなく、むひろ"},
+		{"id":"8652ab04e6ed8eea","x":2022,"y":-549,"width":400,"height":88,"type":"file","file":"Pasted image 20261123184518.png"}
 	],
 	"edges":[
 		{"id":"428357a1203c3579","fromNode":"7819862a09798e7b","fromSide":"bottom","toNode":"081b21c6c2bfbf0f","toSide":"top","color":"4","label":"Thà rằng... thì hơn/Ngược lại thì đúng hơn."},
 		{"id":"275a05eeb6848ab4","fromNode":"081b21c6c2bfbf0f","fromSide":"right","toNode":"92fed83f18211b0d","toSide":"left","color":"4","label":"Thà rằng... thì hơn/Ngược lại thì đúng hơn."},
 		{"id":"93177cab2148b71c","fromNode":"92fed83f18211b0d","fromSide":"top","toNode":"7819862a09798e7b","toSide":"bottom","color":"4","label":"Trái lại, thà... còn hơn, đúng ra là (thể hiện sự lựa chọn hoặc đánh giá nghiêng về vế sau)."},
 		{"id":"bd4f7d3eb968a051","fromNode":"7819862a09798e7b","fromSide":"right","toNode":"9c8054999a6fa8ae","toSide":"left","color":"5","label":"Trái lại, thà... còn hơn, đúng ra là (thể hiện sự lựa chọn hoặc đánh giá nghiêng về vế sau)."},
-		{"id":"00c914c12247b8a1","fromNode":"107c7b8dd531280d","fromSide":"right","toNode":"9c8054999a6fa8ae","toSide":"left","color":"3"}
+		{"id":"00c914c12247b8a1","fromNode":"107c7b8dd531280d","fromSide":"right","toNode":"9c8054999a6fa8ae","toSide":"left","color":"3"},
+		{"id":"586d005d343fa422","fromNode":"cd84a00d79b7cf2a","fromSide":"right","toNode":"4c10c90d82a5ecbf","toSide":"left","color":"4"},
+		{"id":"12019d1f38628d77","fromNode":"4c10c90d82a5ecbf","fromSide":"right","toNode":"e45740672d117837","toSide":"left","color":"3"},
+		{"id":"eb60c044788a930e","fromNode":"9c8054999a6fa8ae","fromSide":"right","toNode":"e45740672d117837","toSide":"left","color":"4"},
+		{"id":"81dc72f08817f26c","fromNode":"e45740672d117837","fromSide":"right","toNode":"8652ab04e6ed8eea","toSide":"left"}
 	]
 }

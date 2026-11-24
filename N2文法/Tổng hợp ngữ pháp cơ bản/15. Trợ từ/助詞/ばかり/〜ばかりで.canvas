@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"5d5748d1acb38a26","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりで.md","x":-620,"y":-844,"width":400,"height":400}
+		{"id":"5d5748d1acb38a26","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ばかりで.md","x":-620,"y":-844,"width":340,"height":104},
+		{"id":"64bc90561452523c","type":"file","file":"Pasted image 20261123184236.png","x":-60,"y":-817,"width":377,"height":50}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ec121951edcba7de","fromNode":"5d5748d1acb38a26","fromSide":"right","toNode":"64bc90561452523c","toSide":"left","label":"Chỉ toàn... / Cứ liên tục... (Chỉ sự việc hoặc xu hướng tiêu cực diễn ra liên tiếp làm cho tình hình không khá lên được)."}
+	]
 }
