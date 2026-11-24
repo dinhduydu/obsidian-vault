@@ -4,22 +4,24 @@
 		{"id":"7f59a7ee0d93d465","type":"text","text":"Xoay sở bằng nhiều cách nhưng vẫn không được như ý.\nKhông hài lòng","x":437,"y":-222,"width":303,"height":102},
 		{"id":"49729cc11f53b8c7","type":"file","file":"Chữa đề/Learning_Profile/Adverb/どうも.md","x":1020,"y":-420,"width":299,"height":129},
 		{"id":"085a0f598d2597ba","type":"text","text":"Suy đoán, có vẻ như là, dường như là như vậy.\nKhông rõ lý do","x":376,"y":126,"width":250,"height":114},
-		{"id":"730d5e70bb8aa795","type":"file","file":"N2文法/そう・よう/よう/よう.canvas","x":1049,"y":481,"width":241,"height":111},
 		{"id":"809f5642379fa5f9","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～らしい.md","x":1049,"y":721,"width":284,"height":180},
-		{"id":"0a2d30bcb1d3d675","type":"text","text":"Suy đoán khẳng định","x":832,"y":139,"width":250,"height":60},
+		{"id":"0a2d30bcb1d3d675","type":"text","text":"（I) Suy đoán khẳng định","x":832,"y":139,"width":250,"height":60},
 		{"id":"97b8ecb688b2743c","type":"file","file":"Chữa đề/Learning_Profile/Demonstratives/そう.md","x":1429,"y":199,"width":232,"height":82},
 		{"id":"f79027e8c811c07e","type":"text","text":"Suy đoán phủ định","x":714,"y":1124,"width":250,"height":60},
-		{"id":"7bc63df687311b1c","type":"file","file":"N2文法/そう・よう/そう/そうにない.canvas","x":1600,"y":1081,"width":259,"height":146}
+		{"id":"7bc63df687311b1c","type":"file","file":"N2文法/そう・よう/そう/そうにない.canvas","x":1600,"y":1081,"width":259,"height":146},
+		{"id":"730d5e70bb8aa795","type":"file","file":"N2文法/そう・よう/よう/よう.canvas","x":1380,"y":500,"width":241,"height":111},
+		{"id":"e4ff159864476d20","x":2060,"y":1227,"width":400,"height":81,"type":"file","file":"Pasted image 20261124170504.png"}
 	],
 	"edges":[
 		{"id":"363fd60adffc5610","fromNode":"6547235671b94372","fromSide":"right","toNode":"7f59a7ee0d93d465","toSide":"left","color":"3","label":"TH1"},
 		{"id":"272b521c138f3a52","fromNode":"7f59a7ee0d93d465","fromSide":"right","toNode":"49729cc11f53b8c7","toSide":"left","label":"Phó từ đứng trước động từ thể hiện sự bế tắc hoặc cảm giác không thể chấp nhận."},
 		{"id":"9528734efd3a582c","fromNode":"6547235671b94372","fromSide":"right","toNode":"085a0f598d2597ba","toSide":"left","label":"TH2"},
-		{"id":"fee2e1a8aaea4ef7","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"97b8ecb688b2743c","toSide":"left"},
-		{"id":"130847ba547b0f9f","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"730d5e70bb8aa795","toSide":"left"},
-		{"id":"6cdc097abc8eb445","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"809f5642379fa5f9","toSide":"left"},
+		{"id":"fee2e1a8aaea4ef7","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"97b8ecb688b2743c","toSide":"left","label":"＋そうだ"},
+		{"id":"130847ba547b0f9f","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"730d5e70bb8aa795","toSide":"left","label":"＋ようだ"},
+		{"id":"6cdc097abc8eb445","fromNode":"0a2d30bcb1d3d675","fromSide":"right","toNode":"809f5642379fa5f9","toSide":"left","label":"＋らしい"},
 		{"id":"b03099d85885ba09","fromNode":"085a0f598d2597ba","fromSide":"right","toNode":"0a2d30bcb1d3d675","toSide":"left","color":"5"},
 		{"id":"4bdd9839fd84ab89","fromNode":"085a0f598d2597ba","fromSide":"right","toNode":"f79027e8c811c07e","toSide":"left","color":"5","label":"Suy đoán phủ định"},
-		{"id":"9ea9f54a81f4956f","fromNode":"f79027e8c811c07e","fromSide":"right","toNode":"7bc63df687311b1c","toSide":"left","color":"5","label":"Vます + そうにない. \nDùng khi quan sát tình hình và dự đoán một kết quả khó xảy ra."}
+		{"id":"9ea9f54a81f4956f","fromNode":"f79027e8c811c07e","fromSide":"right","toNode":"7bc63df687311b1c","toSide":"left","color":"5","label":"（II) Vます + そうにない. \nDùng khi quan sát tình hình và dự đoán một kết quả khó xảy ra."},
+		{"id":"d19d7bbda42ecd6a","fromNode":"7bc63df687311b1c","fromSide":"right","toNode":"e4ff159864476d20","toSide":"left","color":"6"}
 	]
 }

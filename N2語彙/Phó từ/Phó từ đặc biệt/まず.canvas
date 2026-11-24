@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c6808ef9c76caf6c","type":"file","file":"Chữa đề/Learning_Profile/Adverb/まず.md","x":-720,"y":-220,"width":249,"height":105},
+		{"id":"3498831e738eae0b","type":"text","text":"Trước tiên, trước hết (First of all / To begin with).","x":-120,"y":-740,"width":250,"height":60},
+		{"id":"30c3297b48111ee2","type":"file","file":"Chữa đề/Learning_Profile/Adverb/まずは.md","x":540,"y":-1140,"width":254,"height":148},
+		{"id":"299c5de48ce26f68","type":"file","file":"Chữa đề/Learning_Profile/Adverb/まずまず.md","x":7,"y":660,"width":338,"height":205},
+		{"id":"7bf888c4f698479a","type":"file","file":"Chữa đề/Learning_Profile/Grammar/まず〜ない.md","x":640,"y":-240,"width":305,"height":142},
+		{"id":"a2ace5a35e5dd8bd","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/まず〜それから〜.md","x":945,"y":-800,"width":280,"height":180},
+		{"id":"f47d34ea827ca255","type":"file","file":"Chữa đề/Learning_Profile/Adverb/ひとまず.md","x":945,"y":-540,"width":312,"height":124}
+	],
+	"edges":[
+		{"id":"47514e79750eafc6","fromNode":"c6808ef9c76caf6c","fromSide":"right","toNode":"3498831e738eae0b","toSide":"left","color":"5","label":"（I) Trước tiên, trước hết (First of all / To begin with)."},
+		{"id":"ff748290358a0f87","fromNode":"c6808ef9c76caf6c","fromSide":"right","toNode":"7bf888c4f698479a","toSide":"left","color":"5","label":"（II) Hầu như không..., khó mà... (diễn tả sự phủ định mang tính chắc chắn cao đối me về khả năng xảy ra)."},
+		{"id":"5ef6888248105f44","fromNode":"3498831e738eae0b","fromSide":"right","toNode":"30c3297b48111ee2","toSide":"left","color":"6","label":"Trước tiên, trước hết (First of all / To begin with)."},
+		{"id":"8084c938a0db241a","fromNode":"c6808ef9c76caf6c","fromSide":"right","toNode":"299c5de48ce26f68","toSide":"left","color":"5","label":"（III) Passable, fair, so-so / Kha khá, tàm tạm, tương đối ổn."},
+		{"id":"57893371352d3667","fromNode":"3498831e738eae0b","fromSide":"right","toNode":"a2ace5a35e5dd8bd","toSide":"left","color":"6","label":"Trước tiên là... sau đó là... (cụm chỉ thị trình tự thực hiện công việc/thi cử cố định)."},
+		{"id":"6be2a7b17d81ef82","fromNode":"3498831e738eae0b","fromSide":"right","toNode":"f47d34ea827ca255","toSide":"left","color":"6","label":"Tạm thời, trước mắt thì."}
+	]
+}

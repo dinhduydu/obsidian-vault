@@ -12,7 +12,8 @@
 		{"id":"d8bbb0eee084bf21","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことだし.md","x":-2040,"y":640,"width":343,"height":267},
 		{"id":"77f228857ff15705","type":"file","file":"Pasted image 20260410084910.png","x":-2840,"y":232,"width":400,"height":227},
 		{"id":"d8115e7ec1d1326f","type":"text","text":"Danh từ　＋　のこと","x":-669,"y":-640,"width":250,"height":60},
-		{"id":"03fa0a6a6a0f7065","x":-300,"y":960,"width":250,"height":60,"type":"text","text":"Chủ ngữ là sự việc"}
+		{"id":"03fa0a6a6a0f7065","type":"text","text":"Chủ ngữ là sự việc","x":-2165,"y":40,"width":250,"height":60},
+		{"id":"97c8c18bb8d72d98","type":"text","text":"Sở thích, mục đích của bạn là ...","x":-1864,"y":97,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"79cc8ef39d1e094e","fromNode":"3a853641d1a3b9e4","fromSide":"right","toNode":"056d263ae94c2ddd","toSide":"left","label":"ことだ"},
@@ -26,6 +27,7 @@
 		{"id":"bc7891974de9368e","fromNode":"d8115e7ec1d1326f","fromSide":"right","toNode":"6dfced05ca834ae3","toSide":"left","color":"3","label":"のことだから"},
 		{"id":"5130df952b0fd151","fromNode":"a479ac909922231d","fromSide":"bottom","toNode":"d8bbb0eee084bf21","toSide":"top","color":"5","label":"Vì... (đưa ra một trong nhiều lý do)."},
 		{"id":"155cc87749b4ab60","fromNode":"77f228857ff15705","fromSide":"right","toNode":"d8bbb0eee084bf21","toSide":"top","color":"3","label":"Vì cũng... nên... (Nêu lý do tiêu biểu để đề xuất, rủ rê)."},
-		{"id":"fd3a36b260f53302","fromNode":"3a853641d1a3b9e4","fromSide":"right","toNode":"03fa0a6a6a0f7065","toSide":"left"}
+		{"id":"97241f42ae3948af","fromNode":"03fa0a6a6a0f7065","fromSide":"right","toNode":"a479ac909922231d","toSide":"left","color":"5","label":"S = sự việc"},
+		{"id":"a632d7bb9ede3c7d","fromNode":"03fa0a6a6a0f7065","fromSide":"right","toNode":"97c8c18bb8d72d98","toSide":"left","color":"6"}
 	]
 }

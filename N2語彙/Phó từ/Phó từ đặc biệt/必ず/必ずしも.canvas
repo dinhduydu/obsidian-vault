@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c5a2228d79e16ce4","type":"text","text":"必ずしも","x":-240,"y":20,"width":250,"height":60},
+		{"id":"263ddffe61a956bc","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/必ずしも〜ない.md","x":200,"y":-234,"width":250,"height":109},
+		{"id":"e5f0cd49492b7109","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/わけではない.md","x":-295,"y":-740,"width":305,"height":163},
+		{"id":"8fef7b99e37d0930","type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/とは限らない.md","x":-700,"y":-420,"width":237,"height":106}
+	],
+	"edges":[
+		{"id":"0f73446808fab9fd","fromNode":"c5a2228d79e16ce4","fromSide":"right","toNode":"263ddffe61a956bc","toSide":"left","color":"4","label":"Not necessarily, not always (Không hẳn là, không nhất thiết là)."},
+		{"id":"55f18bef06314382","fromNode":"8fef7b99e37d0930","fromSide":"right","toNode":"263ddffe61a956bc","toSide":"left","color":"3","label":"trigger\n\nKhông hẳn là... / Chưa chắc đã..."},
+		{"id":"5ff2f1258de25476","fromNode":"e5f0cd49492b7109","fromSide":"right","toNode":"263ddffe61a956bc","toSide":"left","color":"3","label":"trigger\n\nKhông hẳn là, không có nghĩa là (Phủ định một phần)."}
+	]
+}

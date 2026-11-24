@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4b65457a27f2c47b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜たことがあっただろうか.md","x":-277,"y":-133,"width":400,"height":400},
+		{"id":"e4ca31fd441222eb","type":"text","text":"ことがあった","x":-1000,"y":-300,"width":250,"height":27},
+		{"id":"4ae91c005f0e623b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ことがある.md","x":-1580,"y":-620,"width":264,"height":87},
+		{"id":"665b3d384f266b6a","x":-1480,"y":-120,"width":250,"height":60,"type":"text","text":"Tần suất vài lần có thể xảy ra"}
+	],
+	"edges":[
+		{"id":"a0884a84b0a0d1aa","fromNode":"e4ca31fd441222eb","fromSide":"right","toNode":"4b65457a27f2c47b","toSide":"left","color":"6","label":"Đã có khi, đã có lúc\nKể về sự việc trong 1 thời điểm nào đó.\nLiệu đã từng có chuyện... hay chưa."},
+		{"id":"58e123aea5be0fc5","fromNode":"4ae91c005f0e623b","fromSide":"right","toNode":"e4ca31fd441222eb","toSide":"left","color":"5","label":"Có khi..., thỉnh thoảng có trường hợp... (diễn tả khả năng thỉnh thoảng xảy ra) (there are cases when...)."},
+		{"id":"7fc7bc84ce7397be","fromNode":"665b3d384f266b6a","fromSide":"right","toNode":"e4ca31fd441222eb","toSide":"left","color":"3","label":"Tần suất vài lần có thể xảy ra"}
+	]
+}

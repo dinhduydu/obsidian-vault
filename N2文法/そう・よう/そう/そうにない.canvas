@@ -6,6 +6,6 @@
 	],
 	"edges":[
 		{"id":"46e764be94d40b3d","fromNode":"598401b3912754dc","fromSide":"right","toNode":"3a83a3b84bd7bbdd","toSide":"left"},
-		{"id":"091cfb1b0a23a500","fromNode":"212851107ae6f9ed","fromSide":"right","toNode":"598401b3912754dc","toSide":"left","label":"Vます + そうにない. \nDùng khi quan sát tình hình và dự đoán một kết quả khó xảy ra."}
+		{"id":"091cfb1b0a23a500","fromNode":"212851107ae6f9ed","fromSide":"right","toNode":"598401b3912754dc","toSide":"left","color":"5","label":"Vます + そうにない. \nDùng khi quan sát tình hình và dự đoán một kết quả khó xảy ra."}
 	]
 }

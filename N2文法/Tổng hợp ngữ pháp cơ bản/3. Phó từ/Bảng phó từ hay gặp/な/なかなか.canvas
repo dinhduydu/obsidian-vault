@@ -2,11 +2,13 @@
 	"nodes":[
 		{"id":"a8eb4aa3e121948a","type":"text","text":"なかなか","x":-127,"y":-44,"width":250,"height":60},
 		{"id":"2932fc56e6c2a712","type":"text","text":"khá, tương đối","x":334,"y":-102,"width":250,"height":60},
-		{"id":"8433575b33614084","x":338,"y":107,"width":246,"height":87,"type":"file","file":"Chữa đề/Learning_Profile/Adverb/なかなか（〜ない）.md"},
-		{"id":"2a799808a085d62c","type":"text","text":"そうとう","x":-20,"y":260,"width":250,"height":60}
+		{"id":"8433575b33614084","type":"file","file":"Chữa đề/Learning_Profile/Adverb/なかなか（〜ない）.md","x":338,"y":107,"width":246,"height":87},
+		{"id":"2a799808a085d62c","type":"text","text":"そうとう","x":-20,"y":260,"width":250,"height":60},
+		{"id":"9558fd3c3d62d8ed","type":"text","text":"Tích cực --> khen ngợi","x":736,"y":-187,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"089826a071f063cd","fromNode":"a8eb4aa3e121948a","fromSide":"right","toNode":"2932fc56e6c2a712","toSide":"left"},
-		{"id":"8527eb13bf7845d9","fromNode":"a8eb4aa3e121948a","fromSide":"right","toNode":"8433575b33614084","toSide":"left","color":"4"}
+		{"id":"270cb47d2e2e3713","fromNode":"2932fc56e6c2a712","fromSide":"right","toNode":"9558fd3c3d62d8ed","toSide":"left"},
+		{"id":"8527eb13bf7845d9","fromNode":"a8eb4aa3e121948a","fromSide":"right","toNode":"8433575b33614084","toSide":"left","color":"4","label":"Khó mà... / Mãi mà không... (đi kèm động từ thể phủ định)."}
 	]
 }

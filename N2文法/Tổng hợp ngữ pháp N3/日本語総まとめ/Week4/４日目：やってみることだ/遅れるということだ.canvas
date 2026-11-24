@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"f57361ed1d62da9c","type":"text","text":"遅れるということだ","x":-178,"y":-34,"width":250,"height":60},
-		{"id":"77f1ba10a66a6155","type":"file","file":"N2文法/こと・もの/こと/ことだ.canvas","x":-724,"y":240,"width":212,"height":133},
+		{"id":"77f1ba10a66a6155","type":"file","file":"N2文法/こと・もの/こと/ことだ/ことだ.canvas","x":-724,"y":240,"width":212,"height":133},
 		{"id":"550ee4191f5451a5","type":"file","file":"N2文法/こと・もの/こと/ということ/ということ.canvas","x":-768,"y":-320,"width":256,"height":112}
 	],
 	"edges":[

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0e40f7119845d0a6","x":-340,"y":-180,"width":218,"height":176,"type":"file","file":"N2文法/こと・もの/こと/ことだ/ことだ.canvas"},
+		{"id":"51f2f17696adf80f","x":80,"y":-122,"width":250,"height":60,"type":"text","text":"ことだった"}
+	],
+	"edges":[
+		{"id":"8dae5682692f886b","fromNode":"0e40f7119845d0a6","fromSide":"right","toNode":"51f2f17696adf80f","toSide":"left","color":"5"}
+	]
+}

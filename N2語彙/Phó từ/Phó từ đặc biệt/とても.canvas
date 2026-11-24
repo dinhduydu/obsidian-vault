@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"10a856bb4552572a","x":2140,"y":593,"width":741,"height":227,"type":"group","label":"Giống"},
+		{"id":"ac0531e938539737","type":"text","text":"とても","x":-45,"y":-10,"width":250,"height":60},
+		{"id":"c15d3050f155e179","type":"file","file":"Chữa đề/Learning_Profile/Adverb/とても.md","x":400,"y":-680,"width":303,"height":177},
+		{"id":"432a78e019165bc5","type":"file","file":"Chữa đề/Learning_Profile/Adverb/とても〜ない.md","x":700,"y":520,"width":255,"height":115},
+		{"id":"b10b4372d295bd3d","type":"file","file":"Pasted image 20261124171023.png","x":1360,"y":840,"width":400,"height":90},
+		{"id":"38582b4f641b3b97","x":2160,"y":635,"width":280,"height":143,"type":"file","file":"N2文法/Vた・Vて・Vます・Vば・Vよう/V可能/V可能.canvas"},
+		{"id":"c5892f5fb68d8500","x":2580,"y":613,"width":281,"height":187,"type":"file","file":"N2文法/そう・よう/そう/そうにない.canvas"},
+		{"id":"3596b739ac6b9c79","type":"file","file":"N2文法/復習/ど/どう/どうも.canvas","x":700,"y":1100,"width":255,"height":193}
+	],
+	"edges":[
+		{"id":"e476a1e5c5470d02","fromNode":"ac0531e938539737","fromSide":"right","toNode":"432a78e019165bc5","toSide":"left","color":"5","label":"（II) Hoàn toàn không thể..., Dù thế nào cũng không thể... (cannot possibly...)."},
+		{"id":"138984baf16a7471","fromNode":"ac0531e938539737","fromSide":"right","toNode":"c15d3050f155e179","toSide":"left","color":"5","label":" （I) Rất, cực kỳ (Very / Extremely)."},
+		{"id":"dee03a0758ef8954","fromNode":"432a78e019165bc5","fromSide":"right","toNode":"b10b4372d295bd3d","toSide":"left","label":"Phân biệt với どうも～ない\n-->とても:\nNhấn mạnh phủ định vào khả năng đó (chắc chắn không thể nào, tuyệt đối không thể làm việc đó), đưa ra khả năng không thể"},
+		{"id":"b97908462de9ffda","fromNode":"3596b739ac6b9c79","fromSide":"right","toNode":"b10b4372d295bd3d","toSide":"left","label":"Phân biệt với とても〜ない\n-->どうも\nThể hiện sự suy đoán là không thể"},
+		{"id":"7486d48a4e097884","fromNode":"b10b4372d295bd3d","fromSide":"right","toNode":"10a856bb4552572a","toSide":"left","color":"4"},
+		{"id":"6586d3669a10499c","fromNode":"38582b4f641b3b97","fromSide":"right","toNode":"c5892f5fb68d8500","toSide":"left","label":"＋"}
+	]
+}

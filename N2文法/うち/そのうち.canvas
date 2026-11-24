@@ -2,14 +2,18 @@
 	"nodes":[
 		{"id":"69b4c3e1a10c7885","type":"text","text":"そのうち","x":-510,"y":-181,"width":250,"height":60},
 		{"id":"54ce62060fbaa9ef","type":"file","file":"Chữa đề/Learning_Profile/Adverb/そのうち.md","x":140,"y":40,"width":400,"height":400},
-		{"id":"c75310672b1004f1","type":"text","text":"Chỉ tương lai, kết quả phía sau","x":-1120,"y":-440,"width":250,"height":60},
-		{"id":"5ef5b88a90beefec","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/つまらない.md","x":-480,"y":-340,"width":280,"height":98},
-		{"id":"40e3232939a40f78","type":"text","text":"つまらないと感じたものも、続けてみると**そのうち**楽しくなってくる","x":-80,"y":-176,"width":582,"height":50}
+		{"id":"c75310672b1004f1","type":"text","text":"Chỉ tương lai gần, kết quả phía sau","x":-1120,"y":-440,"width":250,"height":60},
+		{"id":"40e3232939a40f78","type":"text","text":"つまらないと感じたものも、続けてみると**そのうち**楽しくなってくる。","x":880,"y":15,"width":582,"height":50},
+		{"id":"5ef5b88a90beefec","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/つまらない.md","x":400,"y":-230,"width":280,"height":98},
+		{"id":"ba2fc8389f2caa53","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ば...そのうち.md","x":914,"y":600,"width":326,"height":206},
+		{"id":"f6d2c9e48971846d","type":"file","file":"Pasted image 20261124165116.png","x":1320,"y":195,"width":400,"height":91}
 	],
 	"edges":[
-		{"id":"5b0333a5385c50bf","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left"},
+		{"id":"5b0333a5385c50bf","fromNode":"54ce62060fbaa9ef","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left","color":"6","label":"そのうち楽しくなってくる。"},
 		{"id":"9e62e665c5d228d3","fromNode":"69b4c3e1a10c7885","fromSide":"right","toNode":"54ce62060fbaa9ef","toSide":"left","color":"4","label":"Trong thời gian tới, sớm muộn gì cũng..."},
-		{"id":"1caec0337a0e4932","fromNode":"5ef5b88a90beefec","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left"},
-		{"id":"853fd4b688bc6ae8","fromNode":"c75310672b1004f1","fromSide":"right","toNode":"69b4c3e1a10c7885","toSide":"left","color":"3"}
+		{"id":"1caec0337a0e4932","fromNode":"5ef5b88a90beefec","fromSide":"right","toNode":"40e3232939a40f78","toSide":"left","color":"2"},
+		{"id":"853fd4b688bc6ae8","fromNode":"c75310672b1004f1","fromSide":"right","toNode":"69b4c3e1a10c7885","toSide":"left","color":"3","label":"Chẳng bao lâu sau\n\n\nChỉ sự thay đổi trong tương lai"},
+		{"id":"44a3dd8651de6ce7","fromNode":"54ce62060fbaa9ef","fromSide":"right","toNode":"f6d2c9e48971846d","toSide":"left","color":"6","label":"そのうちうまくなるよ。"},
+		{"id":"7f435fbedf26400a","fromNode":"54ce62060fbaa9ef","fromSide":"right","toNode":"ba2fc8389f2caa53","toSide":"left","color":"5","label":"Hễ/Nếu... thì chẳng mấy chốc sẽ... (kết hợp điều kiện và phó từ tiến trình tương lai)."}
 	]
 }

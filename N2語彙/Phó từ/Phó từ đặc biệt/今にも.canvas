@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6c9ab44cd71799e9","type":"text","text":"今にも","x":-121,"y":-51,"width":250,"height":60},
+		{"id":"0608dee2678124f4","type":"file","file":"Chữa đề/Learning_Profile/Adverb/今にも (いまにも).md","x":580,"y":-460,"width":283,"height":91},
+		{"id":"9d64fe8de9f96d3c","type":"file","file":"Pasted image 20261124170807.png","x":1060,"y":-540,"width":400,"height":59},
+		{"id":"a8ddeb2f55de1dee","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ながら.md","x":629,"y":-860,"width":186,"height":76}
+	],
+	"edges":[
+		{"id":"6c45de593eab1b3d","fromNode":"6c9ab44cd71799e9","fromSide":"right","toNode":"0608dee2678124f4","toSide":"left","color":"4","label":"今にも＋Vます＋そうだ\n\nDường như, Sắp sửa gì đó, chực \n(chỉ trạng thái biến đổi ngay tức khắc) / Just about to, on the verge of."},
+		{"id":"08aa3cd76432cf07","fromNode":"0608dee2678124f4","fromSide":"right","toNode":"9d64fe8de9f96d3c","toSide":"left","color":"6"},
+		{"id":"eb63e6dc47886a82","fromNode":"a8ddeb2f55de1dee","fromSide":"right","toNode":"9d64fe8de9f96d3c","toSide":"left","color":"2","label":" Đứng sau tính từ/danh từ (N / Adj + ながら) để biểu thị sự nghịch đối nhẹ nhàng."}
+	]
+}

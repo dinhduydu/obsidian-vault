@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"902c7194feecd8bd","type":"text","text":"ということ","x":-1175,"y":142,"width":250,"height":60},
-		{"id":"43078b2fb86c5701","type":"file","file":"N2文法/こと・もの/こと/ことだ.canvas","x":-180,"y":-280,"width":238,"height":124},
+		{"id":"43078b2fb86c5701","type":"file","file":"N2文法/こと・もの/こと/ことだ/ことだ.canvas","x":-180,"y":-280,"width":238,"height":124},
 		{"id":"a427318dd7badc4a","type":"file","file":"Chữa đề/Learning_Profile/Conjunction/ということで.md","x":-680,"y":-218,"width":246,"height":155},
 		{"id":"71ce6521d6bf2c53","type":"file","file":"Chữa đề/Learning_Profile/Grammar/～ということだ.md","x":480,"y":101,"width":226,"height":142},
 		{"id":"dac84817124fbf2b","type":"file","file":"Chữa đề/Learning_Profile/Grammar/〜ということになる.md","x":-1640,"y":437,"width":287,"height":145},
