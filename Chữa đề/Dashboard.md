@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1921
-- Total Knowledge Items: 12242
-- Correct: 12047
-- Wrong: 13924
+- Total Reviews: 1926
+- Total Knowledge Items: 12260
+- Correct: 12074
+- Wrong: 13946
 - Accuracy: 46.4%
 
 ## 🚨 Review Queue
@@ -27,9 +27,9 @@
 - [[〜につれて]] | Grammar| Score: 110| Wrong: 19
 - [[〜ようがない]] | Grammar| Score: 110| Wrong: 22
 - [[したがって]] | Conjunction| Score: 110| Wrong: 22
-- [[〜ものだ]] | Grammar| Score: 110| Wrong: 19
 - [[この]] | Demonstratives| Score: 105| Wrong: 21
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
+- [[〜がち]] | Grammar| Score: 105| Wrong: 18
 
 ## 🔥 Top Weak Points
 
@@ -51,23 +51,23 @@
 - [[〜に限って]] (Grammar) Wrong: 21
 - [[〜ものの]] (Grammar) Wrong: 20
 - [[〜ようとする]] (Grammar) Wrong: 20
-- [[〜につれて]] (Grammar) Wrong: 19
 - [[〜ものだ]] (Grammar) Wrong: 19
+- [[〜につれて]] (Grammar) Wrong: 19
 
 ## 📈 Category Statistics
 
-- Adverb: 47.6% (Correct 1187 / Wrong 1308)
-- Collocation: 46.0% (Correct 823 / Wrong 965)
+- Adverb: 47.6% (Correct 1190 / Wrong 1308)
+- Collocation: 46.0% (Correct 823 / Wrong 966)
 - CompoundVerb: 46.2% (Correct 639 / Wrong 743)
 - Conjunction: 45.0% (Correct 351 / Wrong 429)
 - Demonstratives: 52.9% (Correct 281 / Wrong 250)
-- FixedExpression: 47.4% (Correct 725 / Wrong 804)
-- Grammar: 44.5% (Correct 2973 / Wrong 3705)
+- FixedExpression: 47.5% (Correct 727 / Wrong 805)
+- Grammar: 44.6% (Correct 2992 / Wrong 3723)
 - Kanji: 47.1% (Correct 765 / Wrong 860)
 - Katakana: 52.6% (Correct 613 / Wrong 552)
 - Keigo: 47.6% (Correct 219 / Wrong 241)
 - Reading: 30.7% (Correct 305 / Wrong 689)
-- Vocabulary: 48.4% (Correct 3166 / Wrong 3378)
+- Vocabulary: 48.4% (Correct 3169 / Wrong 3380)
 
 ## 📚 Top Grammar
 
@@ -239,11 +239,11 @@
 - [[8. Phân Tích 231120261-12-13.pdf]]
 - [[9. Phân Tích 231120261-14-15.pdf]]
 - [[1. Phân Tích âm đọc Onyomi của chữ 域]]
+- [[10. Phân Tích ngữ pháp biểu thị tần suất hành động lặp đi lặp lại theo chu kỳ, sự kiện (`〜たびに`)]]
+- [[11. Phân Tích ngữ pháp mốc thời gian kéo dài kể từ khi xảy ra sự kiện (`〜て以来`) và cụm từ so sánh sở thích cố định (`どちらかと言えば`).]]
+- [[12. Phân Tích Bài kiểm tra đọc hiểu & ngữ pháp đoạn văn JLPT N3–N2]]
 - [[2. Phân Tích 241120261-4-5.pdf]]
 - [[3. Phân Tích 241120261-6-7.pdf]]
 - [[4. Phân Tích 241120261-8-9.pdf]]
 - [[5. Phân Tích 241120261-10-11.pdf]]
 - [[6. Phân Tích 241120261-12-13.pdf]]
-- [[7. Phân Tích Cách dùng từ trong ngữ cảnh câu]]
-- [[10. Phân Tích Từ vựng & Động từ ghép N2]]
-- [[11. Phân Tích bài kiểm tra Từ vựng N2]]

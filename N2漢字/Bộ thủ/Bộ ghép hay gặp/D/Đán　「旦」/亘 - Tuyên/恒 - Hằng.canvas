@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"8bfbabd37b1997c6","x":-152,"y":-61,"width":250,"height":60,"type":"text","text":"恒 - Hằng"},
-		{"id":"afcf688a1fefc201","x":-500,"y":140,"width":210,"height":188,"type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên/亘 - Tuyên.canvas"},
-		{"id":"0c620279ceb589eb","x":-500,"y":-420,"width":162,"height":187,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas"}
+		{"id":"8bfbabd37b1997c6","type":"text","text":"恒 - Hằng","x":-152,"y":-61,"width":250,"height":60},
+		{"id":"afcf688a1fefc201","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên/亘 - Tuyên.canvas","x":-500,"y":140,"width":210,"height":188},
+		{"id":"0c620279ceb589eb","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Tâm/Tâm　「忄 」/Tâm　「忄 」.canvas","x":-500,"y":-420,"width":162,"height":187},
+		{"id":"fac8bc057fe537f2","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/恒例.md","x":320,"y":-420,"width":294,"height":108}
 	],
 	"edges":[
 		{"id":"dd4297ece60c4c52","fromNode":"afcf688a1fefc201","fromSide":"right","toNode":"8bfbabd37b1997c6","toSide":"left"},
-		{"id":"b1cbc19e5ef30cec","fromNode":"0c620279ceb589eb","fromSide":"right","toNode":"8bfbabd37b1997c6","toSide":"left"}
+		{"id":"b1cbc19e5ef30cec","fromNode":"0c620279ceb589eb","fromSide":"right","toNode":"8bfbabd37b1997c6","toSide":"left"},
+		{"id":"6618f5d9b79a0ac4","fromNode":"8bfbabd37b1997c6","fromSide":"right","toNode":"fac8bc057fe537f2","toSide":"left","color":"6","label":"Thông lệ, lệ thường, việc làm định kỳ theo thói quen. (Anh: Established custom / regular practice)."}
 	]
 }

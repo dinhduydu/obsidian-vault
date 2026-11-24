@@ -11,14 +11,17 @@
             "id": "00ba7de5d4e49740",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/0. Note.md",
-                "mode": "source",
-                "source": false
+                "file": "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên/恒 - Hằng.canvas",
+                "viewState": {
+                  "x": 244.5533610905195,
+                  "y": -231.41676890774562,
+                  "zoom": 0.1527610876915123
+                }
               },
-              "icon": "lucide-file",
-              "title": "0. Note"
+              "icon": "lucide-layout-dashboard",
+              "title": "恒 - Hằng"
             }
           }
         ],
@@ -56,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "そうぞうしい",
+                "query": "恒例",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,12 +100,12 @@
               "title": "うえは"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
-    "collapsed": true
+    "width": 470.5
   },
   "right": {
     "id": "11a6c8ee99a7e6af",
@@ -197,32 +200,33 @@
   },
   "active": "00ba7de5d4e49740",
   "lastOpenFiles": [
-    "Chữa đề/Learning_Profile/FixedExpression/いつもの文句.md",
-    "Chữa đề/Learning_Profile/Vocabulary/びっくりする.md",
-    "Chữa đề/Learning_Profile/Vocabulary/生意気な.md",
-    "Chữa đề/Learning_Profile/FixedExpression/出すぎたことを言う.md",
-    "Chữa đề/Learning_Profile/Vocabulary/委員.md",
-    "Chữa đề/Learning_Profile/Collocation/景気が悪い.md",
-    "Chữa đề/Learning_Profile/Vocabulary/水産.md",
-    "Chữa đề/Learning_Profile/Vocabulary/評論.md",
-    "Chữa đề/Learning_Profile/Vocabulary/来年度.md",
-    "Chữa đề/Learning_Profile/Collocation/毎試合.md",
-    "Chữa đề/Learning_Profile/CompoundVerb/持ち上げる.md",
-    "Chữa đề/Learning_Profile/Kanji/倒れる.md",
-    "Chữa đề/Learning_Profile/Kanji/装置.md",
-    "Chữa đề/Learning_Profile/Kanji/編物.md",
-    "Chữa đề/Learning_Profile/Kanji/強化.md",
-    "Chữa đề/Learning_Profile/Kanji/体積.md",
-    "Chữa đề/Learning_Profile/Kanji/圧縮.md",
-    "Chữa đề/Learning_Profile/Kanji/加える.md",
-    "Chữa đề/Learning_Profile/Kanji/流域.md",
-    "Chữa đề/Learning_Profile/Grammar/〜とかで.md",
-    "Chữa đề/Learning_Profile/Grammar/〜てかまわない.md",
-    "Chữa đề/Learning_Profile/Grammar/〜たせいで.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/7. Phân Tích Cách dùng từ trong ngữ cảnh câu.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/0. Note.md",
-    "Chữa đề/Prompt/Prompt chữa từ vựng/Prompt_Gen_DB3.md",
-    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/6. Phân Tích 241120261-12-13.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/恒例.md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/D/Đán　「旦」/亘 - Tuyên/恒 - Hằng.canvas",
+    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/8. Phân Tích 241120262-2-3.pdf.md",
+    "Chữa đề/Learning_Profile/Vocabulary/宝もの.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/9. Phân Tích 241120262-4.pdf.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ところによると.md",
+    "Chữa đề/２０２６年/０４月２０２６年/Week3/15042026/11. Phân Tích Ngữ pháp & Từ vựng N3 - N2.md",
+    "Chữa đề/Learning_Profile/Grammar/〜によると.md",
+    "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026/11. Phân Tích ngữ pháp mốc thời gian kéo dài kể từ khi xảy ra sự kiện (`〜て以来`) và cụm từ so sánh sở thích cố định (`どちらかと言えば`)..md",
+    "Chữa đề/Learning_Profile/Grammar/〜やら〜やら.md",
+    "Chữa đề/Learning_Profile/Grammar/〜どちらかと言えば.md",
+    "N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/涼 - Lương.canvas",
+    "Chữa đề/Learning_Profile/Vocabulary/肌着 (はだぎ).md",
+    "Chữa đề/Learning_Profile/Adverb/涼しい.md",
+    "Chữa đề/Learning_Profile/Vocabulary/ずうずうしい.md",
+    "Chữa đề/Learning_Profile/Grammar/〜そう（に）.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ように（気をつける）.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ためか.md",
+    "Chữa đề/Learning_Profile/FixedExpression/取取扱説明書.md",
+    "Chữa đề/Learning_Profile/Collocation/乾杯の音頭.md",
+    "Chữa đề/Learning_Profile/Grammar/〜をはじめ（とする）.md",
+    "Chữa đề/Learning_Profile/Grammar/〜とは言えない.md",
+    "Chữa đề/Learning_Profile/Grammar/〜こと.md",
+    "Chữa đề/Learning_Profile/FixedExpression/〜ようとするところに.md",
+    "Chữa đề/Learning_Profile/Grammar/〜ことといったら.md",
+    "Chữa đề/Learning_Profile/FixedExpression/どちらかと言えば.md",
+    "Chữa đề/Learning_Profile/Vocabulary/お弁当.md",
     "Chữa đề/２０２６年/１１月２０２６年/Week4/24112026",
     "N2文法/Tổng hợp ngữ pháp cơ bản/10. Kính ngữ/10.4.1. 尊敬語 (Dạng kính trọng)/10.4.1. 尊敬語 (Dạng kính trọng).canvas",
     "N2文法/Tổng hợp ngữ pháp cơ bản/10. Kính ngữ/10. Kính ngữ.canvas",
@@ -238,8 +242,6 @@
     "Untitled 22.base",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 4/係 - Hệ.canvas",
     "N2漢字/Tiền tố, hậu tố/接尾辞/Page 4/額 - Ngạch.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 4/外 - Ngoại.canvas",
-    "N2漢字/Tiền tố, hậu tố/接尾辞/Page 4/害 - Hại.canvas",
     "N2文法/復習/ど/どんな",
     "N2文法/復習/そ/それ",
     "N2文法/復習/そ/その",

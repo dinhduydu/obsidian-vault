@@ -3,11 +3,17 @@
 		{"id":"14fdd65d1ac30d5d","type":"text","text":"涼 - Lương","x":-164,"y":6,"width":250,"height":60},
 		{"id":"ca3a6ff297d13dd9","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/K/Kinh　「京」/Kinh　「京」.canvas","x":-380,"y":66,"width":98,"height":80},
 		{"id":"2b606a8efca0bab8","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thuỷ/Thuỷ「氵」/Thuỷ「氵」.canvas","x":-420,"y":-140,"width":138,"height":116},
-		{"id":"304287edc48e1964","type":"file","file":"Chữa đề/Learning_Profile/Kanji/涼む.md","x":340,"y":-300,"width":260,"height":125}
+		{"id":"304287edc48e1964","type":"file","file":"Chữa đề/Learning_Profile/Kanji/涼む.md","x":340,"y":-300,"width":260,"height":125},
+		{"id":"f3e758c4488b39d6","type":"file","file":"Chữa đề/Learning_Profile/Adverb/涼しい.md","x":540,"y":260,"width":312,"height":180},
+		{"id":"b026b516ed41d7d7","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/肌着 (はだぎ).md","x":40,"y":420,"width":253,"height":198},
+		{"id":"67a61be307698b04","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/肌着.md","x":-498,"y":460,"width":216,"height":118}
 	],
 	"edges":[
 		{"id":"d1df6d7935996a8f","fromNode":"ca3a6ff297d13dd9","fromSide":"right","toNode":"14fdd65d1ac30d5d","toSide":"left"},
 		{"id":"8edf784c6ebac2cd","fromNode":"2b606a8efca0bab8","fromSide":"right","toNode":"14fdd65d1ac30d5d","toSide":"left"},
-		{"id":"9daee3b619a5f5f4","fromNode":"14fdd65d1ac30d5d","fromSide":"right","toNode":"304287edc48e1964","toSide":"left","label":"Hóng mát, làm mát cơ thể (Cool off). Hán tự: 涼 (LƯƠNG)."}
+		{"id":"9daee3b619a5f5f4","fromNode":"14fdd65d1ac30d5d","fromSide":"right","toNode":"304287edc48e1964","toSide":"left","label":"Hóng mát, làm mát cơ thể (Cool off). Hán tự: 涼 (LƯƠNG)."},
+		{"id":"769181b7b71e4a12","fromNode":"14fdd65d1ac30d5d","fromSide":"right","toNode":"f3e758c4488b39d6","toSide":"left","color":"6","label":"Mát mẻ (thời tiết, không khí). \n(Cool / refreshing)."},
+		{"id":"3e402e324ecb7442","fromNode":"b026b516ed41d7d7","fromSide":"right","toNode":"f3e758c4488b39d6","toSide":"left","color":"3","label":"trigger"},
+		{"id":"004f559ae256efb2","fromNode":"67a61be307698b04","fromSide":"right","toNode":"b026b516ed41d7d7","toSide":"left","color":"4","label":"Quần áo lót, áo mặc sát người."}
 	]
 }
