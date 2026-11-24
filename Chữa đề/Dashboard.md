@@ -2,11 +2,11 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1926
-- Total Knowledge Items: 12260
-- Correct: 12074
-- Wrong: 13946
-- Accuracy: 46.4%
+- Total Reviews: 1933
+- Total Knowledge Items: 12309
+- Correct: 12146
+- Wrong: 13998
+- Accuracy: 46.5%
 
 ## 🚨 Review Queue
 
@@ -22,11 +22,11 @@
 - [[〜とは限らない]] | Grammar| Score: 120| Wrong: 24
 - [[〜かねない]] | Grammar| Score: 120| Wrong: 21
 - [[〜に限って]] | Grammar| Score: 120| Wrong: 21
+- [[したがって]] | Conjunction| Score: 117| Wrong: 22
 - [[〜ようとする]] | Grammar| Score: 115| Wrong: 20
 - [[〜に違いない]] | Grammar| Score: 110| Wrong: 22
 - [[〜につれて]] | Grammar| Score: 110| Wrong: 19
 - [[〜ようがない]] | Grammar| Score: 110| Wrong: 22
-- [[したがって]] | Conjunction| Score: 110| Wrong: 22
 - [[この]] | Demonstratives| Score: 105| Wrong: 21
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
 - [[〜がち]] | Grammar| Score: 105| Wrong: 18
@@ -43,9 +43,9 @@
 - [[〜にほかならない]] (Grammar) Wrong: 25
 - [[〜とは限らない]] (Grammar) Wrong: 24
 - [[しかし]] (Conjunction) Wrong: 24
+- [[したがって]] (Conjunction) Wrong: 22
 - [[〜に違いない]] (Grammar) Wrong: 22
 - [[〜ようがない]] (Grammar) Wrong: 22
-- [[したがって]] (Conjunction) Wrong: 22
 - [[この]] (Demonstratives) Wrong: 21
 - [[〜かねない]] (Grammar) Wrong: 21
 - [[〜に限って]] (Grammar) Wrong: 21
@@ -56,18 +56,18 @@
 
 ## 📈 Category Statistics
 
-- Adverb: 47.6% (Correct 1190 / Wrong 1308)
-- Collocation: 46.0% (Correct 823 / Wrong 966)
-- CompoundVerb: 46.2% (Correct 639 / Wrong 743)
-- Conjunction: 45.0% (Correct 351 / Wrong 429)
-- Demonstratives: 52.9% (Correct 281 / Wrong 250)
-- FixedExpression: 47.5% (Correct 727 / Wrong 805)
-- Grammar: 44.6% (Correct 2992 / Wrong 3723)
-- Kanji: 47.1% (Correct 765 / Wrong 860)
-- Katakana: 52.6% (Correct 613 / Wrong 552)
-- Keigo: 47.6% (Correct 219 / Wrong 241)
-- Reading: 30.7% (Correct 305 / Wrong 689)
-- Vocabulary: 48.4% (Correct 3169 / Wrong 3380)
+- Adverb: 47.6% (Correct 1184 / Wrong 1306)
+- Collocation: 46.2% (Correct 825 / Wrong 959)
+- CompoundVerb: 46.3% (Correct 646 / Wrong 749)
+- Conjunction: 45.8% (Correct 372 / Wrong 441)
+- Demonstratives: 53.5% (Correct 288 / Wrong 250)
+- FixedExpression: 47.4% (Correct 733 / Wrong 814)
+- Grammar: 44.6% (Correct 2997 / Wrong 3724)
+- Kanji: 47.2% (Correct 766 / Wrong 857)
+- Katakana: 52.8% (Correct 620 / Wrong 554)
+- Keigo: 48.2% (Correct 225 / Wrong 242)
+- Reading: 30.7% (Correct 309 / Wrong 697)
+- Vocabulary: 48.3% (Correct 3181 / Wrong 3405)
 
 ## 📚 Top Grammar
 
@@ -112,10 +112,10 @@
 
 - [[タイミング]] (Score: 50)
 - [[インターネット]] (Score: 50)
-- [[アパート]] (Score: 45)
 - [[アメリカ]] (Score: 45)
 - [[テクニック]] (Score: 45)
 - [[ファスナー]] (Score: 45)
+- [[アパート]] (Score: 42)
 - [[バランス]] (Score: 40)
 - [[キャンセル]] (Score: 40)
 - [[プラン]] (Score: 35)
@@ -158,12 +158,11 @@
 - [[お忙しいところを]] (Score: 35)
 - [[〜を目的として]] (Score: 35)
 - [[手入れをする]] (Score: 35)
-- [[足を踏み入れる]] (Score: 30)
+- [[文句を言う]] (Score: 30)
 
 ## 📚 Top Collocation
 
 - [[専門用語]] (Score: 45)
-- [[文句を言う]] (Score: 45)
 - [[態度を取る]] (Score: 40)
 - [[身が引き締まる思い]] (Score: 40)
 - [[欲求に応える]] (Score: 40)
@@ -172,6 +171,7 @@
 - [[人工的]] (Score: 30)
 - [[勇気が出る]] (Score: 30)
 - [[補助動詞]] (Score: 30)
+- [[深夜営業]] (Score: 30)
 
 ## 📚 Top Adverb
 
@@ -184,12 +184,12 @@
 - [[すっかり]] (Score: 65)
 - [[とても]] (Score: 65)
 - [[とりあえず]] (Score: 65)
-- [[また]] (Score: 60)
+- [[せっかく]] (Score: 60)
 
 ## 📚 Top Conjunction
 
 - [[しかし]] (Score: 127)
-- [[したがって]] (Score: 110)
+- [[したがって]] (Score: 117)
 - [[つまり]] (Score: 105)
 - [[あるいは]] (Score: 72)
 - [[ただし]] (Score: 65)
@@ -203,14 +203,14 @@
 
 - [[いらっしゃいます]] (Score: 60)
 - [[いらっしゃる]] (Score: 50)
-- [[おっしゃる]] (Score: 40)
+- [[おっしゃる]] (Score: 47)
 - [[ご覧になる（ごらんになる）]] (Score: 40)
 - [[お〜になる]] (Score: 35)
 - [[おいでいただく]] (Score: 35)
 - [[いたす]] (Score: 35)
 - [[お見えになる]] (Score: 35)
+- [[おいでになる]] (Score: 32)
 - [[ご覧いただく]] (Score: 30)
-- [[お待ちしておりました]] (Score: 30)
 
 ## 📚 Top Demonstratives
 
@@ -242,8 +242,8 @@
 - [[10. Phân Tích ngữ pháp biểu thị tần suất hành động lặp đi lặp lại theo chu kỳ, sự kiện (`〜たびに`)]]
 - [[11. Phân Tích ngữ pháp mốc thời gian kéo dài kể từ khi xảy ra sự kiện (`〜て以来`) và cụm từ so sánh sở thích cố định (`どちらかと言えば`).]]
 - [[12. Phân Tích Bài kiểm tra đọc hiểu & ngữ pháp đoạn văn JLPT N3–N2]]
-- [[2. Phân Tích 241120261-4-5.pdf]]
-- [[3. Phân Tích 241120261-6-7.pdf]]
-- [[4. Phân Tích 241120261-8-9.pdf]]
-- [[5. Phân Tích 241120261-10-11.pdf]]
-- [[6. Phân Tích 241120261-12-13.pdf]]
+- [[13. Phân Tích quy tắc đọc On'yomi kèm trường âm của Kanji]]
+- [[14. Phân Tích 241120263-4-5.pdf]]
+- [[15. Phân Tích 241120263-6-7.pdf]]
+- [[16. Phân Tích 241120263-8-9.pdf]]
+- [[17. Phân Tích 241120263-10-11.pdf]]
