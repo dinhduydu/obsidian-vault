@@ -3,11 +3,28 @@
 		{"id":"0e640b18ff606cb5","type":"text","text":"的 - Đích","x":-104,"y":-68,"width":250,"height":60},
 		{"id":"77113b8dabf6901a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/C/Chước　「勺」/Chước　「勺」.canvas","x":-520,"y":-300,"width":178,"height":119},
 		{"id":"a65690948ea3d0d8","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/B/Bạch　「白 」/Bạch　「白 」.canvas","x":-520,"y":40,"width":178,"height":123},
-		{"id":"dede9859b37fb168","x":400,"y":-420,"width":220,"height":112,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/多目的.md"}
+		{"id":"5dc74ec8e3a21bb2","type":"text","text":"Tạo thành tính từ đuôi な","x":680,"y":-1738,"width":250,"height":60},
+		{"id":"dede9859b37fb168","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/多目的.md","x":1060,"y":-2040,"width":220,"height":112},
+		{"id":"c7e0fbd2731099bb","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/近代的.md","x":1170,"y":-1782,"width":263,"height":74},
+		{"id":"48457c780bc0a54b","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/積極的.md","x":1170,"y":-1678,"width":324,"height":154},
+		{"id":"0a0fa6ce67bd58f4","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/財政的.md","x":1170,"y":-1428,"width":271,"height":136},
+		{"id":"d08662ae61b91f51","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/社交的.md","x":1170,"y":-1240,"width":298,"height":107},
+		{"id":"3304301d10582c75","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/消極的.md","x":200,"y":-1473,"width":314,"height":90},
+		{"id":"6adfe51a32798b21","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/相対的.md","x":241,"y":-1756,"width":232,"height":97},
+		{"id":"1923c9ceb4a3c283","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/熱狂的.md","x":197,"y":-1960,"width":276,"height":79},
+		{"id":"43f456e096c4cfb2","x":160,"y":-2180,"width":292,"height":101,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/楽観的.md"}
 	],
 	"edges":[
 		{"id":"0afd198c788e6bf9","fromNode":"77113b8dabf6901a","fromSide":"right","toNode":"0e640b18ff606cb5","toSide":"left"},
 		{"id":"00008d3586b21c87","fromNode":"a65690948ea3d0d8","fromSide":"right","toNode":"0e640b18ff606cb5","toSide":"left"},
-		{"id":"befe801e8a02259e","fromNode":"0e640b18ff606cb5","fromSide":"right","toNode":"dede9859b37fb168","toSide":"left","label":"nhiều mục đích"}
+		{"id":"befe801e8a02259e","fromNode":"5dc74ec8e3a21bb2","fromSide":"right","toNode":"dede9859b37fb168","toSide":"left","label":"nhiều mục đích"},
+		{"id":"0835fc8613455ade","fromNode":"0e640b18ff606cb5","fromSide":"top","toNode":"5dc74ec8e3a21bb2","toSide":"bottom","label":"hậu tố"},
+		{"id":"ab509829d71c4904","fromNode":"5dc74ec8e3a21bb2","fromSide":"right","toNode":"c7e0fbd2731099bb","toSide":"left"},
+		{"id":"ed4f57c2c03e7a1b","fromNode":"5dc74ec8e3a21bb2","fromSide":"right","toNode":"48457c780bc0a54b","toSide":"left"},
+		{"id":"4965f56c529b1f2a","fromNode":"5dc74ec8e3a21bb2","fromSide":"right","toNode":"0a0fa6ce67bd58f4","toSide":"left","label":"Về mặt tài chính / Thuộc về tài chính công ty/quốc gia."},
+		{"id":"5706c3673465feb4","fromNode":"5dc74ec8e3a21bb2","fromSide":"left","toNode":"3304301d10582c75","toSide":"right"},
+		{"id":"5d481100de15ee61","fromNode":"5dc74ec8e3a21bb2","fromSide":"left","toNode":"6adfe51a32798b21","toSide":"right"},
+		{"id":"96c8be835c5962a3","fromNode":"5dc74ec8e3a21bb2","fromSide":"left","toNode":"1923c9ceb4a3c283","toSide":"right","label":"Cuồng nhiệt, say mê quá mức."},
+		{"id":"63712714f3d73bef","fromNode":"5dc74ec8e3a21bb2","fromSide":"left","toNode":"43f456e096c4cfb2","toSide":"right"}
 	]
 }

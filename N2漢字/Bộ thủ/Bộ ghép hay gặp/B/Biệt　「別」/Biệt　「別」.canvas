@@ -2,12 +2,22 @@
 	"nodes":[
 		{"id":"13065062fea26820","type":"text","text":"Biệt　「別」","x":-156,"y":-25,"width":250,"height":60},
 		{"id":"f9be0217f1843e62","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/D/Đao　「刀 (刂)」/Đao　「刂」/Đao　「刂」.canvas","x":-553,"y":220,"width":238,"height":139},
-		{"id":"b6406a2e6b6f91df","x":-516,"y":-357,"width":201,"height":157,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas"},
-		{"id":"a65e265cc0d0b766","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-500,"y":-600,"width":185,"height":127}
+		{"id":"b6406a2e6b6f91df","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/V/Vạn　「万」/Vạn　「万」.canvas","x":-516,"y":-357,"width":201,"height":157},
+		{"id":"a65e265cc0d0b766","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Khẩu　「口」/Khẩu　「口」.canvas","x":-500,"y":-600,"width":185,"height":127},
+		{"id":"d22effff1af15dd0","type":"file","file":"N2漢字/Tiền tố, hậu tố/接頭辞/Page 14/別 - Biệt.canvas","x":280,"y":-337,"width":278,"height":118},
+		{"id":"aac7158560b9ce1b","type":"text","text":"Thực hiện hành động để riêng N phía trước: N+別","x":266,"y":192,"width":250,"height":60},
+		{"id":"c695da4668f45fc3","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/科目別.md","x":860,"y":440,"width":264,"height":74},
+		{"id":"1218eeaa998402cd","type":"text","text":" Sắc thái:\n- không giống cái trước\n- tách ra khỏi nhóm chính\n- mang tính phân loại / đối lập","x":680,"y":-480,"width":280,"height":160},
+		{"id":"85db7de332f47e61","x":1380,"y":560,"width":304,"height":144,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/科目別 (かもくべつ).md"}
 	],
 	"edges":[
 		{"id":"8eea2455969f69e8","fromNode":"a65e265cc0d0b766","fromSide":"right","toNode":"13065062fea26820","toSide":"left"},
 		{"id":"dbb7693b4e3d07d1","fromNode":"b6406a2e6b6f91df","fromSide":"right","toNode":"13065062fea26820","toSide":"left"},
-		{"id":"562f96da56e807d0","fromNode":"f9be0217f1843e62","fromSide":"right","toNode":"13065062fea26820","toSide":"left"}
+		{"id":"562f96da56e807d0","fromNode":"f9be0217f1843e62","fromSide":"right","toNode":"13065062fea26820","toSide":"left"},
+		{"id":"64fd086aa14a4a28","fromNode":"13065062fea26820","fromSide":"right","toNode":"d22effff1af15dd0","toSide":"left","label":"tiền tố"},
+		{"id":"90165b2aec22976c","fromNode":"13065062fea26820","fromSide":"right","toNode":"aac7158560b9ce1b","toSide":"left","label":"hậu tố"},
+		{"id":"1d0f7f38090fa864","fromNode":"aac7158560b9ce1b","fromSide":"right","toNode":"c695da4668f45fc3","toSide":"left","color":"6","label":"Theo từng môn học, phân loại theo môn (Categorized by subject / By subject)."},
+		{"id":"6aafb8d3250de493","fromNode":"d22effff1af15dd0","fromSide":"right","toNode":"1218eeaa998402cd","toSide":"left"},
+		{"id":"dbb0be87421a7440","fromNode":"c695da4668f45fc3","fromSide":"right","toNode":"85db7de332f47e61","toSide":"left","color":"4"}
 	]
 }

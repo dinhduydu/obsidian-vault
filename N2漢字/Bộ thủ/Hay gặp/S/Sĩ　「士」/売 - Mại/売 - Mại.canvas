@@ -2,12 +2,24 @@
 	"nodes":[
 		{"id":"5f7463bc98dc88fe","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/S/Sĩ　「士」/Sĩ　「士」.canvas","x":-480,"y":-260,"width":125,"height":114},
 		{"id":"f06cf2fce4db5452","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/M/Mịch (che, phủ)　「冖」/Mịch (che, phủ)　「冖」.canvas","x":-499,"y":-39,"width":144,"height":98},
-		{"id":"01789f71aa94ee9a","x":-517,"y":180,"width":162,"height":154,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas"},
-		{"id":"5397e72e467a9da3","type":"text","text":"売 - Mại","x":-180,"y":-20,"width":250,"height":60}
+		{"id":"01789f71aa94ee9a","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhân/Nhân　「儿」/Nhân　「儿」.canvas","x":-517,"y":180,"width":162,"height":154},
+		{"id":"5397e72e467a9da3","type":"text","text":"売 - Mại","x":-180,"y":-20,"width":250,"height":60},
+		{"id":"30720175878c5395","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/売れ行き.md","x":340,"y":-360,"width":228,"height":58},
+		{"id":"5bd091d747e800e8","type":"file","file":"Chữa đề/Learning_Profile/Collocation/売れ行きに弾みがつく.md","x":820,"y":-720,"width":263,"height":144},
+		{"id":"8a55c3a4e0f07175","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/売り場.md","x":480,"y":-32,"width":293,"height":85},
+		{"id":"597729eb379bf366","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/売買.md","x":340,"y":560,"width":236,"height":89},
+		{"id":"86e2538f2592cfac","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/売り上げる.md","x":627,"y":260,"width":332,"height":130},
+		{"id":"b53b270d26536b56","type":"file","file":"Chữa đề/Learning_Profile/Collocation/売買を行なう.md","x":793,"y":880,"width":307,"height":133}
 	],
 	"edges":[
-		{"id":"50dbae44fe71a0b8","fromNode":"5f7463bc98dc88fe","fromSide":"right","toNode":"5397e72e467a9da3","toSide":"left"},
+		{"id":"50dbae44fe71a0b8","fromNode":"5f7463bc98dc88fe","fromSide":"right","toNode":"5397e72e467a9da3","toSide":"left","color":"5"},
 		{"id":"a2e776f3ce82fa2f","fromNode":"f06cf2fce4db5452","fromSide":"right","toNode":"5397e72e467a9da3","toSide":"left"},
-		{"id":"be9788f84be6bdef","fromNode":"01789f71aa94ee9a","fromSide":"right","toNode":"5397e72e467a9da3","toSide":"left"}
+		{"id":"be9788f84be6bdef","fromNode":"01789f71aa94ee9a","fromSide":"right","toNode":"5397e72e467a9da3","toSide":"left"},
+		{"id":"1083aca0960f35ee","fromNode":"5397e72e467a9da3","fromSide":"right","toNode":"30720175878c5395","toSide":"left","color":"6","label":"Sức tiêu thụ sản phẩm, tình hình bán hàng (chạy hay chậm)."},
+		{"id":"774281b6a93eb92d","fromNode":"30720175878c5395","fromSide":"right","toNode":"5bd091d747e800e8","toSide":"left","color":"6","label":"Tình hình bán hàng được tạo đà phát triển mạnh mẽ."},
+		{"id":"33df3cd9c56dd50f","fromNode":"5397e72e467a9da3","fromSide":"right","toNode":"8a55c3a4e0f07175","toSide":"left","color":"6"},
+		{"id":"7ea299bdeecb0a10","fromNode":"5397e72e467a9da3","fromSide":"right","toNode":"86e2538f2592cfac","toSide":"left","color":"6","label":"Bán ra, đạt mức doanh thu (To sell / To achieve sales)."},
+		{"id":"b00eb468bcde9402","fromNode":"5397e72e467a9da3","fromSide":"right","toNode":"597729eb379bf366","toSide":"left","color":"6","label":"Việc mua bán, giao dịch thương mại (Buying and selling / Trade)."},
+		{"id":"4d337a795a578677","fromNode":"597729eb379bf366","fromSide":"right","toNode":"b53b270d26536b56","toSide":"left","color":"6","label":"Tiến hành mua bán / Thực hiện giao dịch."}
 	]
 }

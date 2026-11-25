@@ -1,9 +1,15 @@
 {
 	"nodes":[
+		{"id":"70b9883b3bb21380","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dụng　「用」/庸 - Dung.canvas","x":200,"y":-320,"width":233,"height":195},
+		{"id":"8592d03ba27cbbe0","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/通用.md","x":220,"y":140,"width":321,"height":142},
 		{"id":"363aaa434a4c551d","type":"text","text":"Dụng　「用」","x":-225,"y":-41,"width":250,"height":60},
-		{"id":"70b9883b3bb21380","x":200,"y":-320,"width":233,"height":195,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/D/Dụng　「用」/庸 - Dung.canvas"}
+		{"id":"b35d4aad84628f68","type":"text","text":"Dụng　「用」","x":-225,"y":840,"width":250,"height":60},
+		{"id":"e3967a08863269cb","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/復習用 (ふくしゅうよう).md","x":460,"y":1020,"width":317,"height":160}
 	],
 	"edges":[
-		{"id":"fdb3b65711fc2887","fromNode":"363aaa434a4c551d","fromSide":"right","toNode":"70b9883b3bb21380","toSide":"left"}
+		{"id":"fdb3b65711fc2887","fromNode":"363aaa434a4c551d","fromSide":"right","toNode":"70b9883b3bb21380","toSide":"left","color":"5"},
+		{"id":"d9d2d596b4a7ce31","fromNode":"363aaa434a4c551d","fromSide":"right","toNode":"8592d03ba27cbbe0","toSide":"left","color":"6","label":" Được chấp nhận, có tác dụng, áp dụng hiệu quả (được người khác công nhận)."},
+		{"id":"801c3af85dea8a0a","fromNode":"363aaa434a4c551d","fromSide":"bottom","toNode":"b35d4aad84628f68","toSide":"top","color":"4","label":"hậu tố\n\n Danh từ mục đích + 用 (復習用, 練習用, 業務用)."},
+		{"id":"09088f41ad9c5e0a","fromNode":"b35d4aad84628f68","fromSide":"right","toNode":"e3967a08863269cb","toSide":"left","label":"Dành cho việc ôn tập, dùng để ôn bài."}
 	]
 }

@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"9c9661a5a044fc57","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り上げる（とりあげる）.md","x":440,"y":-360,"width":247,"height":120},
+		{"id":"2c517844979aa2d7","type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り出す.md","x":540,"y":240,"width":316,"height":129},
+		{"id":"94b74917ba7a8c27","x":960,"y":-75,"width":294,"height":140,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り消す.md"},
+		{"id":"39d1a3b342c587d4","type":"text","text":"取 - Thủ - Động từ ghép","x":-46,"y":-1066,"width":250,"height":60},
+		{"id":"de75491bb37e35dd","x":440,"y":-1093,"width":210,"height":114,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り組む.md"},
+		{"id":"cab04dafdac2597e","x":440,"y":-840,"width":260,"height":156,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り次ぐ.md"},
+		{"id":"2b7376cbed4fe9f3","x":440,"y":-1360,"width":319,"height":129,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り持つ.md"},
+		{"id":"3bccf9eb014ffc90","x":-17,"y":-1418,"width":193,"height":123,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り戻す.md"},
+		{"id":"b69e6451583a9b8f","x":-460,"y":-1320,"width":159,"height":134,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り扱う.md"},
+		{"id":"119c67aa1018a8aa","x":-562,"y":-1115,"width":261,"height":158,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り払う.md"},
+		{"id":"d649436c89562b75","x":-606,"y":-830,"width":293,"height":146,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り巻く.md"},
+		{"id":"b67725ef043fd7d6","x":-640,"y":-480,"width":277,"height":149,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り壊す.md"},
+		{"id":"545fb9be30f14b2d","x":-644,"y":305,"width":281,"height":179,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/取り締まり.md"},
+		{"id":"c417262ab7e8ecab","type":"text","text":"取 - Thủ - Động từ ghép","x":-46,"y":-35,"width":250,"height":60},
+		{"id":"9de1331bf3240aa3","type":"text","text":"取 - Thủ - Động từ ghép","x":-1420,"y":-35,"width":250,"height":60},
+		{"id":"8696533b91f386ea","x":-1000,"y":147,"width":289,"height":158,"type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/取り掛かる.md"},
+		{"id":"a77feae5ab9ac1fe","x":-1000,"y":-331,"width":263,"height":170,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り違える.md"},
+		{"id":"c6e3c3a083ebbd55","x":-1840,"y":-246,"width":241,"height":136,"type":"file","file":"Chữa đề/Learning_Profile/CompoundVerb/取り決める.md"}
+	],
+	"edges":[
+		{"id":"90866d2f21768bea","fromNode":"c417262ab7e8ecab","fromSide":"right","toNode":"9c9661a5a044fc57","toSide":"left","color":"6","label":"Đưa đề tài ra bàn luận hoặc tịch thu vật dụng."},
+		{"id":"a097edab424e85aa","fromNode":"c417262ab7e8ecab","fromSide":"right","toNode":"2c517844979aa2d7","toSide":"left","color":"6","label":"Rút ra, lấy ra, trích xuất (từ kho/ngăn kéo/cơ sở dữ liệu)."},
+		{"id":"b70d0106692af9db","fromNode":"c417262ab7e8ecab","fromSide":"right","toNode":"94b74917ba7a8c27","toSide":"left","color":"6"},
+		{"id":"0ac52b6d331d4b77","fromNode":"c417262ab7e8ecab","fromSide":"top","toNode":"39d1a3b342c587d4","toSide":"bottom","color":"4"},
+		{"id":"afc4a8cbd649698a","fromNode":"39d1a3b342c587d4","fromSide":"right","toNode":"de75491bb37e35dd","toSide":"left"},
+		{"id":"bf2e9327226f078d","fromNode":"39d1a3b342c587d4","fromSide":"right","toNode":"cab04dafdac2597e","toSide":"left"},
+		{"id":"bc96fc472193f7c8","fromNode":"39d1a3b342c587d4","fromSide":"right","toNode":"2b7376cbed4fe9f3","toSide":"left"},
+		{"id":"edfc2161bbf25d9e","fromNode":"39d1a3b342c587d4","fromSide":"top","toNode":"3bccf9eb014ffc90","toSide":"bottom"},
+		{"id":"5f4adfb2067e3d2d","fromNode":"39d1a3b342c587d4","fromSide":"left","toNode":"b69e6451583a9b8f","toSide":"right"},
+		{"id":"2455bfada36ec224","fromNode":"39d1a3b342c587d4","fromSide":"left","toNode":"119c67aa1018a8aa","toSide":"right"},
+		{"id":"4bfe9c050e5494c5","fromNode":"39d1a3b342c587d4","fromSide":"left","toNode":"d649436c89562b75","toSide":"right"},
+		{"id":"fb57e1b6d0a11b20","fromNode":"c417262ab7e8ecab","fromSide":"left","toNode":"b67725ef043fd7d6","toSide":"right"},
+		{"id":"9c3712b255a3f5a1","fromNode":"c417262ab7e8ecab","fromSide":"left","toNode":"545fb9be30f14b2d","toSide":"right"},
+		{"id":"cf186cd294e3ec40","fromNode":"9de1331bf3240aa3","fromSide":"right","toNode":"c417262ab7e8ecab","toSide":"left","color":"4"},
+		{"id":"14e18dcdecd878d9","fromNode":"9de1331bf3240aa3","fromSide":"right","toNode":"8696533b91f386ea","toSide":"left"},
+		{"id":"eacaa1d22b93c7d0","fromNode":"9de1331bf3240aa3","fromSide":"right","toNode":"a77feae5ab9ac1fe","toSide":"left"},
+		{"id":"159cc0eaca9384b7","fromNode":"9de1331bf3240aa3","fromSide":"left","toNode":"c6e3c3a083ebbd55","toSide":"right"}
+	]
+}
