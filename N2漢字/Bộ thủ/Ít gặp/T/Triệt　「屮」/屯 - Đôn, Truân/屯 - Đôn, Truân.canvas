@@ -2,10 +2,16 @@
 	"nodes":[
 		{"id":"c9c96a993d9fe472","type":"text","text":"屯 - Đôn, Truân","x":-100,"y":20,"width":250,"height":60},
 		{"id":"1d69fa6e9ddb7c41","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/Triệt　「屮」.canvas","x":-500,"y":240,"width":236,"height":128},
-		{"id":"cafa8145242b7180","x":-478,"y":-240,"width":193,"height":143,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas"}
+		{"id":"cafa8145242b7180","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/N/Nhất　「一」/Nhất　「一」.canvas","x":-478,"y":-240,"width":193,"height":143},
+		{"id":"cd7663728a7a287f","x":380,"y":-284,"width":246,"height":88,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/鈍 - Độn.canvas"},
+		{"id":"2775795dcec3a717","x":380,"y":100,"width":282,"height":140,"type":"file","file":"N2漢字/Bộ thủ/Ít gặp/T/Triệt　「屮」/屯 - Đôn, Truân/頓 - Đốn.canvas"},
+		{"id":"5516123f14452fa3","x":40,"y":-369,"width":157,"height":85,"type":"file","file":"N2漢字/Bộ thủ/Hay gặp/K/Kim　「金 (釒)」/Kim　「金 (釒)」.canvas"}
 	],
 	"edges":[
 		{"id":"d4b0a0613267b67e","fromNode":"1d69fa6e9ddb7c41","fromSide":"right","toNode":"c9c96a993d9fe472","toSide":"left"},
-		{"id":"16fb61bcf8e0698c","fromNode":"cafa8145242b7180","fromSide":"right","toNode":"c9c96a993d9fe472","toSide":"left"}
+		{"id":"16fb61bcf8e0698c","fromNode":"cafa8145242b7180","fromSide":"right","toNode":"c9c96a993d9fe472","toSide":"left"},
+		{"id":"df75c390f800935c","fromNode":"c9c96a993d9fe472","fromSide":"right","toNode":"cd7663728a7a287f","toSide":"left","color":"5"},
+		{"id":"8b6d31e029c06c81","fromNode":"c9c96a993d9fe472","fromSide":"right","toNode":"2775795dcec3a717","toSide":"left","color":"5"},
+		{"id":"5cf1c1641f48b832","fromNode":"5516123f14452fa3","fromSide":"right","toNode":"cd7663728a7a287f","toSide":"left","color":"3"}
 	]
 }

@@ -7,7 +7,8 @@
 		{"id":"7764e7751d7d2e7a","type":"text","text":"古いパソコンなので、動作が鈍い。","x":1020,"y":-440,"width":250,"height":60},
 		{"id":"46797d0528cb9a06","type":"text","text":"Đó là 1 máy tính cũ nên nó chậm","x":1361,"y":-447,"width":250,"height":60},
 		{"id":"b8c9c399770fe895","type":"file","file":"N2漢字/Bộ thủ/Ít gặp/H/Huynh　「兄」/兑 - Đoái/鋭 - Nhuệ.canvas","x":700,"y":200,"width":340,"height":240},
-		{"id":"ac9f7a79c7544d97","x":1361,"y":-300,"width":250,"height":60,"type":"text","text":"そのテレビはリモコンへの反応が鈍い。"}
+		{"id":"ac9f7a79c7544d97","type":"text","text":"そのテレビはリモコンへの反応が鈍い。","x":1361,"y":-300,"width":250,"height":60},
+		{"id":"b444fbe78e1d3c82","x":1075,"y":-101,"width":250,"height":60,"type":"text","text":"のろい"}
 	],
 	"edges":[
 		{"id":"d0db237ded18974e","fromNode":"b1f01e3b9fa1afbd","fromSide":"right","toNode":"82191cd176a093f8","toSide":"left"},
@@ -16,6 +17,7 @@
 		{"id":"6258a413c41ce6d9","fromNode":"7f3e9401d2706639","fromSide":"right","toNode":"7764e7751d7d2e7a","toSide":"left"},
 		{"id":"c74f1a8d85bdfe7c","fromNode":"7764e7751d7d2e7a","fromSide":"right","toNode":"46797d0528cb9a06","toSide":"left"},
 		{"id":"94aca7d750182dbe","fromNode":"82191cd176a093f8","fromSide":"right","toNode":"b8c9c399770fe895","toSide":"left","color":"1","label":"Đối lập với"},
-		{"id":"63ce65b4aca085f8","fromNode":"7764e7751d7d2e7a","fromSide":"right","toNode":"ac9f7a79c7544d97","toSide":"left"}
+		{"id":"63ce65b4aca085f8","fromNode":"7764e7751d7d2e7a","fromSide":"right","toNode":"ac9f7a79c7544d97","toSide":"left"},
+		{"id":"d4cf94f8025bcf68","fromNode":"7f3e9401d2706639","fromSide":"right","toNode":"b444fbe78e1d3c82","toSide":"left","color":"4"}
 	]
 }

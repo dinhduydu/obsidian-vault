@@ -2,10 +2,10 @@
 
 ## 🎯 Overall
 
-- Total Reviews: 1948
-- Total Knowledge Items: 12359
-- Correct: 12191
-- Wrong: 14044
+- Total Reviews: 1952
+- Total Knowledge Items: 12386
+- Correct: 12204
+- Wrong: 14051
 - Accuracy: 46.5%
 
 ## 🚨 Review Queue
@@ -29,7 +29,7 @@
 - [[〜ようがない]] | Grammar| Score: 110| Wrong: 22
 - [[この]] | Demonstratives| Score: 105| Wrong: 21
 - [[つまり]] | Conjunction| Score: 105| Wrong: 18
-- [[〜がち]] | Grammar| Score: 105| Wrong: 18
+- [[〜さえ〜ば]] | Grammar| Score: 105| Wrong: 18
 
 ## 🔥 Top Weak Points
 
@@ -52,22 +52,22 @@
 - [[〜ものの]] (Grammar) Wrong: 20
 - [[〜ようとする]] (Grammar) Wrong: 20
 - [[〜ものだ]] (Grammar) Wrong: 19
-- [[〜につれて]] (Grammar) Wrong: 19
+- [[〜がち]] (Grammar) Wrong: 19
 
 ## 📈 Category Statistics
 
-- Adverb: 47.6% (Correct 1186 / Wrong 1306)
+- Adverb: 47.6% (Correct 1189 / Wrong 1307)
 - Collocation: 46.4% (Correct 843 / Wrong 973)
 - CompoundVerb: 46.3% (Correct 641 / Wrong 744)
 - Conjunction: 45.8% (Correct 372 / Wrong 441)
 - Demonstratives: 53.5% (Correct 288 / Wrong 250)
-- FixedExpression: 47.5% (Correct 732 / Wrong 808)
-- Grammar: 44.6% (Correct 2998 / Wrong 3724)
+- FixedExpression: 47.6% (Correct 732 / Wrong 806)
+- Grammar: 44.6% (Correct 3002 / Wrong 3728)
 - Kanji: 47.1% (Correct 768 / Wrong 864)
 - Katakana: 52.9% (Correct 623 / Wrong 554)
 - Keigo: 48.2% (Correct 225 / Wrong 242)
 - Reading: 30.7% (Correct 309 / Wrong 697)
-- Vocabulary: 48.2% (Correct 3206 / Wrong 3441)
+- Vocabulary: 48.2% (Correct 3212 / Wrong 3445)
 
 ## 📚 Top Grammar
 

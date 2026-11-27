@@ -1,4 +1,4 @@
-hân tích toàn bộ bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian, gồm đúng 6 section theo thứ tự: Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.
+Phân tích toàn bộ bài làm tiếng Nhật và xuất Markdown thuần cho Obsidian, gồm đúng 6 section theo thứ tự: Summary, Error Analysis, Knowledge Extracted, Learning Profile, Weak Points, Action Next.
 
 **Ngôn ngữ:** Giải thích chủ yếu bằng tiếng Việt  để dễ hiểu và ghi nhớ, có thể thêm nghĩa tiếng Anh khi cần. Giữ nguyên cách viết và capitalization của section, category, field và Japanese item name. Không dùng tên section hoặc field ở dạng lowercase.
 
@@ -28,11 +28,11 @@ Với mỗi item thuộc **Adverb, Katakana, CompoundVerb, FixedExpression, Coll
 
 ### CATEGORY | ITEM_NAME
 
-- **Correct:** +N
-- **Wrong:** +N
-- **Last Seen:** YYYY-MM-DD
-- **Mastery:** High / Medium / Low / Unknown
-- **Priority:** High / Medium / Low
+- Correct: +N
+- Wrong: +N
+- Last Seen: YYYY-MM-DD
+- Mastery: High / Medium / Low / Unknown
+- Priority: High / Medium / Low
 
 Đánh giá Mastery và Priority dựa trên bằng chứng thực tế, không suy diễn rằng một câu đúng đồng nghĩa đã thành thạo. Không bỏ sót item hoặc tạo item mới trong Learning Profile.
 

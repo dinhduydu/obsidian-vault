@@ -3,11 +3,19 @@
 		{"id":"8407f6c4a153195a","type":"text","text":"憩 - Khế","x":-229,"y":-43,"width":250,"height":60},
 		{"id":"fcb8d1b2b55efd73","type":"file","file":"N2漢字/Bộ thủ/Bộ ghép hay gặp/T/Tự　「自 」/息 - Tức.canvas","x":-440,"y":80,"width":100,"height":123},
 		{"id":"1e1cda2a1ff84873","type":"file","file":"N2漢字/Bộ thủ/Hay gặp/T/Thiệt　「舌」/Thiệt　「舌」.canvas","x":-526,"y":-220,"width":172,"height":140},
-		{"id":"0e57aac51728f32f","x":-820,"y":-43,"width":250,"height":60,"type":"text","text":"nghỉ ngơi"}
+		{"id":"0e57aac51728f32f","type":"text","text":"nghỉ ngơi","x":-820,"y":-43,"width":250,"height":60},
+		{"id":"4d9bec7a8c3c9fcb","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/憩い（いこい）.md","x":328,"y":-560,"width":289,"height":58},
+		{"id":"7746b645aeb146bd","type":"file","file":"Chữa đề/Learning_Profile/Vocabulary/休憩.md","x":660,"y":-102,"width":344,"height":178},
+		{"id":"50168234dca3856f","x":1360,"y":-280,"width":311,"height":143,"type":"file","file":"Chữa đề/Learning_Profile/FixedExpression/休憩を取る.md"},
+		{"id":"1da00b642bb92325","x":1360,"y":119,"width":380,"height":168,"type":"file","file":"Chữa đề/Learning_Profile/Collocation/5分の休憩.md"}
 	],
 	"edges":[
 		{"id":"06fa817ba3a302ad","fromNode":"fcb8d1b2b55efd73","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"},
 		{"id":"8d8cf79bbefc92d5","fromNode":"1e1cda2a1ff84873","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"},
-		{"id":"2fb283410dcccc39","fromNode":"0e57aac51728f32f","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"}
+		{"id":"2fb283410dcccc39","fromNode":"0e57aac51728f32f","fromSide":"right","toNode":"8407f6c4a153195a","toSide":"left"},
+		{"id":"fb6073716c84a8f3","fromNode":"8407f6c4a153195a","fromSide":"right","toNode":"4d9bec7a8c3c9fcb","toSide":"left","color":"6","label":"Nghỉ ngơi, thư giãn (Relaxation, rest, comfort).\n\n Đi với không gian, địa điểm hoặc thời gian mang lại sự thoải mái (như 憩いの場, 憩いのひととき)."},
+		{"id":"b318e5e3bfe1bc8c","fromNode":"8407f6c4a153195a","fromSide":"right","toNode":"7746b645aeb146bd","toSide":"left","color":"6","label":" Giờ nghỉ giải lao ngắn giữa giờ học, làm việc hoặc lái xe (Break / Rest / Intermission).\n\n\n\n5分/10分の休憩, 休憩を取る, 休憩時間."},
+		{"id":"5ef3a92bb1281fe3","fromNode":"7746b645aeb146bd","fromSide":"right","toNode":"50168234dca3856f","toSide":"left","color":"6"},
+		{"id":"2b01237d04946071","fromNode":"7746b645aeb146bd","fromSide":"right","toNode":"1da00b642bb92325","toSide":"left","color":"6"}
 	]
 }
